@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".as"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   latitude: -14.33333333
   longitude: -170
   emoji: "🇦🇸"
   states:
     -
       name: "Eastern"
+      native: "Eastern"
       code: "02"
       iso3166_2: "AS-02"
       type: "district"
+      type_es: "distrito"
       latitude: -14.2782402
       longitude: -170.6243227
       cities:
@@ -47,9 +51,11 @@
           longitude: -170.7630181
     -
       name: "Manuʻa"
+      native: "Injury"
       code: "03"
       iso3166_2: "AS-03"
       type: "district"
+      type_es: "distrito"
       latitude: -14.214605
       longitude: -169.533465
       cities:
@@ -75,27 +81,33 @@
           longitude: -169.5510165
     -
       name: "Rose"
+      native: "Rose"
       code: "05"
       iso3166_2: "AS-05"
       type: "atoll"
+      type_es: "atolón"
       latitude: -14.5424865
       longitude: -168.1637445
       cities:
         []
     -
       name: "Swains"
+      native: "Swains"
       code: "04"
       iso3166_2: "AS-04"
       type: "atoll"
+      type_es: "atolón"
       latitude: -11.052904
       longitude: -171.0767349
       cities:
         []
     -
       name: "Western"
+      native: "Western"
       code: "01"
       iso3166_2: "AS-01"
       type: "district"
+      type_es: "distrito"
       latitude: -14.3323075
       longitude: -170.7961334
       cities:

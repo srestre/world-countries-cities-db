@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".tv"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   latitude: -8
   longitude: 178
   emoji: "🇹🇻"
   states:
     -
       name: "Funafuti"
+      native: "Funfuta"
       code: "FUN"
       iso3166_2: "TV-FUN"
       type: "town council"
+      type_es: "consejo de localidad"
       latitude: -8.5211471
       longitude: 179.1961926
       cities:
@@ -39,9 +43,11 @@
           longitude: 179.19417
     -
       name: "Nanumanga"
+      native: "Nanumga"
       code: "NMG"
       iso3166_2: "TV-NMG"
       type: "island council"
+      type_es: "consejo insular"
       latitude: -6.2858019
       longitude: 176.319928
       cities:
@@ -51,18 +57,22 @@
           longitude: 176.31472
     -
       name: "Nanumea"
+      native: "Stiff"
       code: "NMA"
       iso3166_2: "TV-NMA"
       type: "island council"
+      type_es: "consejo insular"
       latitude: -5.6817338
       longitude: 176.1271787
       cities:
         []
     -
       name: "Niutao Island Council"
+      native: "Nutoo Island Council"
       code: "NIT"
       iso3166_2: "TV-NIT"
       type: "island council"
+      type_es: "consejo insular"
       latitude: -6.1064258
       longitude: 177.3438429
       cities:
@@ -76,9 +86,11 @@
           longitude: 179.466
     -
       name: "Nui"
+      native: "Great"
       code: "NUI"
       iso3166_2: "TV-NUI"
       type: "island council"
+      type_es: "consejo insular"
       latitude: -7.2207599
       longitude: 177.1461122
       cities:
@@ -88,9 +100,11 @@
           longitude: 177.14511
     -
       name: "Nukufetau"
+      native: "Nuquosa"
       code: "NKF"
       iso3166_2: "TV-NKF"
       type: "island council"
+      type_es: "consejo insular"
       latitude: -8.1159264
       longitude: 178.4798165
       cities:
@@ -100,18 +114,22 @@
           longitude: 178.31351
     -
       name: "Nukulaelae"
+      native: "Nukulaelae"
       code: "NKL"
       iso3166_2: "TV-NKL"
       type: "island council"
+      type_es: "consejo insular"
       latitude: -9.1754173
       longitude: 179.6367792
       cities:
         []
     -
       name: "Vaitupu"
+      native: "Vaitupu"
       code: "VAI"
       iso3166_2: "TV-VAI"
       type: "island council"
+      type_es: "consejo insular"
       latitude: -7.4767327
       longitude: 178.6747675
       cities:

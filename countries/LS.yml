@@ -12,16 +12,20 @@
   currency_symbol: "L"
   tld: ".ls"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -29.5
   longitude: 28.5
   emoji: "🇱🇸"
   states:
     -
       name: "Berea"
+      native: "Berea"
       code: "D"
       iso3166_2: "LS-D"
       type: "district"
+      type_es: "distrito"
       latitude: -29.1963971
       longitude: 27.9175581
       cities:
@@ -31,9 +35,11 @@
           longitude: 27.74895
     -
       name: "Butha-Buthe"
+      native: "Butha-Buthe"
       code: "B"
       iso3166_2: "LS-B"
       type: "district"
+      type_es: "distrito"
       latitude: -28.7653754
       longitude: 28.2468148
       cities:
@@ -43,9 +49,11 @@
           longitude: 28.24937
     -
       name: "Leribe"
+      native: "LERIBE"
       code: "C"
       iso3166_2: "LS-C"
       type: "district"
+      type_es: "distrito"
       latitude: -28.866891
       longitude: 28.0579408
       cities:
@@ -59,9 +67,11 @@
           longitude: 27.89915
     -
       name: "Mafeteng"
+      native: "Mafeteng"
       code: "E"
       iso3166_2: "LS-E"
       type: "district"
+      type_es: "distrito"
       latitude: -29.7893049
       longitude: 27.4423193
       cities:
@@ -71,9 +81,11 @@
           longitude: 27.23744
     -
       name: "Maseru"
+      native: "Maseru"
       code: "A"
       iso3166_2: "LS-A"
       type: "district"
+      type_es: "distrito"
       latitude: -29.5816942
       longitude: 27.8243208
       cities:
@@ -87,9 +99,11 @@
           longitude: 27.76667
     -
       name: "Mohale's Hoek"
+      native: "Mohale's corner"
       code: "F"
       iso3166_2: "LS-F"
       type: "district"
+      type_es: "distrito"
       latitude: -30.1516305
       longitude: 27.4770113
       cities:
@@ -99,9 +113,11 @@
           longitude: 27.47691
     -
       name: "Mokhotlong"
+      native: "Mokhotlong"
       code: "J"
       iso3166_2: "LS-J"
       type: "district"
+      type_es: "distrito"
       latitude: -29.2190697
       longitude: 29.0351369
       cities:
@@ -111,9 +127,11 @@
           longitude: 29.06751
     -
       name: "Qacha's Nek"
+      native: "Qacha's Nek"
       code: "H"
       iso3166_2: "LS-H"
       type: "district"
+      type_es: "distrito"
       latitude: -30.1114565
       longitude: 28.678979
       cities:
@@ -123,9 +141,11 @@
           longitude: 28.68936
     -
       name: "Quthing"
+      native: "Quthing"
       code: "G"
       iso3166_2: "LS-G"
       type: "district"
+      type_es: "distrito"
       latitude: -30.4015687
       longitude: 27.7080133
       cities:
@@ -135,9 +155,11 @@
           longitude: 27.70027
     -
       name: "Thaba-Tseka"
+      native: "Butha-Buthe"
       code: "K"
       iso3166_2: "LS-K"
       type: "district"
+      type_es: "distrito"
       latitude: -29.5151832
       longitude: 28.6036179
       cities:

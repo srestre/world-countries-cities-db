@@ -1,53 +1,53 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(142, 'Mexico', 'MX', 'MEX', 'Americas', 'Northern America', 'Ciudad de México', 'MXN', 23, -102, '🇲🇽');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(142, 'Mexico', 'México', 'MX', 'MEX', 'Americas', 'América', 'Northern America', 'Norteamérica', 'Ciudad de México', 'MXN', 23, -102, '🇲🇽');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3456, 'Aguascalientes', 142, 'MX', 'AGU', 'state', 21.8852562, -102.2915677),
-(3457, 'Baja California', 142, 'MX', 'BCN', 'state', 30.0338923, -115.1425107),
-(3460, 'Baja California Sur', 142, 'MX', 'BCS', 'state', 25.5818014, -111.5706164),
-(3475, 'Campeche', 142, 'MX', 'CAM', 'state', 19.8381215, -90.5198253),
-(3451, 'Chiapas', 142, 'MX', 'CHP', 'state', 16.5000001, -92.5000001),
-(3447, 'Chihuahua', 142, 'MX', 'CHH', 'state', 28.6329957, -106.0691004),
-(3473, 'Ciudad de México', 142, 'MX', 'CMX', 'federal district', 19.4326077, -99.133208),
-(3471, 'Coahuila de Zaragoza', 142, 'MX', 'COA', 'state', 27.3333331, -102.0000001),
-(3472, 'Colima', 142, 'MX', 'COL', 'state', 19.2452342, -103.7240868),
-(3453, 'Durango', 142, 'MX', 'DUR', 'state', 24.833333, -104.833333),
-(3450, 'Estado de México', 142, 'MX', 'MEX', 'state', 19.4839446, -99.6899716),
-(3469, 'Guanajuato', 142, 'MX', 'GUA', 'state', 21.0190145, -101.2573586),
-(3459, 'Guerrero', 142, 'MX', 'GRO', 'state', 17.666667, -100),
-(3470, 'Hidalgo', 142, 'MX', 'HID', 'state', 24.1685545, -99.3873729),
-(4857, 'Jalisco', 142, 'MX', 'JAL', 'state', 20.3333331, -103.6666671),
-(3474, 'Michoacán de Ocampo', 142, 'MX', 'MIC', 'state', 19.207098, -101.878113),
-(3465, 'Morelos', 142, 'MX', 'MOR', 'state', 18.75, -99),
-(3477, 'Nayarit', 142, 'MX', 'NAY', 'state', 22.0000001, -105.0000001),
-(3452, 'Nuevo León', 142, 'MX', 'NLE', 'state', 26.2384363, -99.8873),
-(3448, 'Oaxaca', 142, 'MX', 'OAX', 'state', 17, -96.5),
-(3476, 'Puebla', 142, 'MX', 'PUE', 'state', 19.0414398, -98.2062727),
-(3455, 'Querétaro', 142, 'MX', 'QUE', 'state', 20.5887932, -100.3898881),
-(3467, 'Quintana Roo', 142, 'MX', 'ROO', 'state', 19.6666671, -88.5000001),
-(3461, 'San Luis Potosí', 142, 'MX', 'SLP', 'state', 22.1516472, -100.9763993),
-(3449, 'Sinaloa', 142, 'MX', 'SIN', 'state', 25.0000001, -107.5000001),
-(3468, 'Sonora', 142, 'MX', 'SON', 'state', 29.3333331, -110.6666671),
-(3454, 'Tabasco', 142, 'MX', 'TAB', 'state', 17.9999288, -92.6681659),
-(3463, 'Tamaulipas', 142, 'MX', 'TAM', 'state', 23.9891553, -98.7026825),
-(3458, 'Tlaxcala', 142, 'MX', 'TLA', 'state', 19.318154, -98.2374954),
-(3464, 'Veracruz de Ignacio de la Llave', 142, 'MX', 'VER', 'state', 19.333333, -96.666667),
-(3466, 'Yucatán', 142, 'MX', 'YUC', 'state', 20.6845957, -88.8755669),
-(3462, 'Zacatecas', 142, 'MX', 'ZAC', 'state', 22.7753891, -102.5722706);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3456, 'Aguascalientes', 'Aguascalientes', 142, 'MX', 'AGU', 'state', 'estado', 21.8852562, -102.2915677),
+(3457, 'Baja California', 'Baja California', 142, 'MX', 'BCN', 'state', 'estado', 30.0338923, -115.1425107),
+(3460, 'Baja California Sur', 'Baja California Sur', 142, 'MX', 'BCS', 'state', 'estado', 25.5818014, -111.5706164),
+(3475, 'Campeche', 'Campeche', 142, 'MX', 'CAM', 'state', 'estado', 19.8381215, -90.5198253),
+(3451, 'Chiapas', 'Chiapas', 142, 'MX', 'CHP', 'state', 'estado', 16.5000001, -92.5000001),
+(3447, 'Chihuahua', 'Chihuahua', 142, 'MX', 'CHH', 'state', 'estado', 28.6329957, -106.0691004),
+(3473, 'Ciudad de México', 'Ciudad de México', 142, 'MX', 'CMX', 'federal district', 'distrito federal', 19.4326077, -99.133208),
+(3471, 'Coahuila de Zaragoza', 'Coahuila de Zaragoza', 142, 'MX', 'COA', 'state', 'estado', 27.3333331, -102.0000001),
+(3472, 'Colima', 'Colima', 142, 'MX', 'COL', 'state', 'estado', 19.2452342, -103.7240868),
+(3453, 'Durango', 'Durango', 142, 'MX', 'DUR', 'state', 'estado', 24.833333, -104.833333),
+(3450, 'Estado de México', 'Estado de México', 142, 'MX', 'MEX', 'state', 'estado', 19.4839446, -99.6899716),
+(3469, 'Guanajuato', 'Guanajuato', 142, 'MX', 'GUA', 'state', 'estado', 21.0190145, -101.2573586),
+(3459, 'Guerrero', 'Guerrero', 142, 'MX', 'GRO', 'state', 'estado', 17.666667, -100),
+(3470, 'Hidalgo', 'Hidalgo', 142, 'MX', 'HID', 'state', 'estado', 24.1685545, -99.3873729),
+(4857, 'Jalisco', 'Jalisco', 142, 'MX', 'JAL', 'state', 'estado', 20.3333331, -103.6666671),
+(3474, 'Michoacán de Ocampo', 'Michoacán de Ocampo', 142, 'MX', 'MIC', 'state', 'estado', 19.207098, -101.878113),
+(3465, 'Morelos', 'Morelos', 142, 'MX', 'MOR', 'state', 'estado', 18.75, -99),
+(3477, 'Nayarit', 'Nayarit', 142, 'MX', 'NAY', 'state', 'estado', 22.0000001, -105.0000001),
+(3452, 'Nuevo León', 'Nuevo León', 142, 'MX', 'NLE', 'state', 'estado', 26.2384363, -99.8873),
+(3448, 'Oaxaca', 'Oaxaca', 142, 'MX', 'OAX', 'state', 'estado', 17, -96.5),
+(3476, 'Puebla', 'Puebla', 142, 'MX', 'PUE', 'state', 'estado', 19.0414398, -98.2062727),
+(3455, 'Querétaro', 'Querétaro', 142, 'MX', 'QUE', 'state', 'estado', 20.5887932, -100.3898881),
+(3467, 'Quintana Roo', 'Quintana Roo', 142, 'MX', 'ROO', 'state', 'estado', 19.6666671, -88.5000001),
+(3461, 'San Luis Potosí', 'San Luis Potosí', 142, 'MX', 'SLP', 'state', 'estado', 22.1516472, -100.9763993),
+(3449, 'Sinaloa', 'Sinaloa', 142, 'MX', 'SIN', 'state', 'estado', 25.0000001, -107.5000001),
+(3468, 'Sonora', 'Sonora', 142, 'MX', 'SON', 'state', 'estado', 29.3333331, -110.6666671),
+(3454, 'Tabasco', 'Tabasco', 142, 'MX', 'TAB', 'state', 'estado', 17.9999288, -92.6681659),
+(3463, 'Tamaulipas', 'Tamaulipas', 142, 'MX', 'TAM', 'state', 'estado', 23.9891553, -98.7026825),
+(3458, 'Tlaxcala', 'Tlaxcala', 142, 'MX', 'TLA', 'state', 'estado', 19.318154, -98.2374954),
+(3464, 'Veracruz de Ignacio de la Llave', 'Veracruz de Ignacio de la Llave', 142, 'MX', 'VER', 'state', 'estado', 19.333333, -96.666667),
+(3466, 'Yucatán', 'Yucatán', 142, 'MX', 'YUC', 'state', 'estado', 20.6845957, -88.8755669),
+(3462, 'Zacatecas', 'Zacatecas', 142, 'MX', 'ZAC', 'state', 'estado', 22.7753891, -102.5722706);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (68127, 'Aguascalientes', 3456, 142, 21.88333, -102.3),

@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(170, 'Panama', 'PA', 'PAN', 'Americas', 'Central America', 'Panama City', 'PAB', 9, -80, '🇵🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(170, 'Panama', 'Panamá', 'PA', 'PAN', 'Americas', 'América', 'Central America', 'Centroamérica', 'Panama City', 'PAB', 9, -80, '🇵🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1393, 'Bocas del Toro', 170, 'PA', '1', 'province', 9.3402964, -82.2418169),
-(1397, 'Chiriquí Province', 170, 'PA', '4', 'province', 9.0287351, -79.6223869),
-(1387, 'Coclé', 170, 'PA', '2', 'province', 8.5743137, -80.4449059),
-(1386, 'Colón', 170, 'PA', '3', 'province', 9.2353085, -80.2532526),
-(1385, 'Darién', 170, 'PA', '5', 'province', 8.2158991, -78.0172551),
-(1396, 'Emberá-Wounaan Comarca', 170, 'PA', 'EM', 'indigenous region', 8.4210754, -77.592269),
-(1388, 'Guna', 170, 'PA', 'KY', 'indigenous region', 9.1591409, -78.4553083),
-(1389, 'Herrera', 170, 'PA', '6', 'province', 7.854438, -80.7436313),
-(1390, 'Los Santos', 170, 'PA', '7', 'province', 7.8773471, -80.4290617),
-(5686, 'Naso Tjër Di', 170, 'PA', 'NT', 'indigenous region', 9.2444, -82.7353),
-(1391, 'Ngöbe-Buglé Comarca', 170, 'PA', 'NB', 'indigenous region', 8.793244, -81.7682694),
-(1395, 'Panamá', 170, 'PA', '8', 'province', 8.9714493, -79.5341802),
-(1394, 'Panamá Oeste', 170, 'PA', '10', 'province', 8.730087, -79.8755817),
-(1392, 'Veraguas', 170, 'PA', '9', 'province', 8.2414131, -81.0903464);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1393, 'Bocas del Toro', 'Bocas del Toro', 170, 'PA', '1', 'province', 'provincia', 9.3402964, -82.2418169),
+(1397, 'Chiriquí Province', 'Chiriquí Province', 170, 'PA', '4', 'province', 'provincia', 9.0287351, -79.6223869),
+(1387, 'Coclé', 'Coclé', 170, 'PA', '2', 'province', 'provincia', 8.5743137, -80.4449059),
+(1386, 'Colón', 'Colon', 170, 'PA', '3', 'province', 'provincia', 9.2353085, -80.2532526),
+(1385, 'Darién', 'Darién', 170, 'PA', '5', 'province', 'provincia', 8.2158991, -78.0172551),
+(1396, 'Emberá-Wounaan Comarca', 'Emberá-Wounaan Comarca', 170, 'PA', 'EM', 'indigenous region', 'región indígena', 8.4210754, -77.592269),
+(1388, 'Guna', 'Guna', 170, 'PA', 'KY', 'indigenous region', 'región indígena', 9.1591409, -78.4553083),
+(1389, 'Herrera', 'Herrera', 170, 'PA', '6', 'province', 'provincia', 7.854438, -80.7436313),
+(1390, 'Los Santos', 'Los Santos', 170, 'PA', '7', 'province', 'provincia', 7.8773471, -80.4290617),
+(5686, 'Naso Tjër Di', 'Naso Tjër Di', 170, 'PA', 'NT', 'indigenous region', 'región indígena', 9.2444, -82.7353),
+(1391, 'Ngöbe-Buglé Comarca', 'Ngöbe-Buglé Comarca', 170, 'PA', 'NB', 'indigenous region', 'región indígena', 8.793244, -81.7682694),
+(1395, 'Panamá', 'Panamá', 170, 'PA', '8', 'province', 'provincia', 8.9714493, -79.5341802),
+(1394, 'Panamá Oeste', 'Panamá Oeste', 170, 'PA', '10', 'province', 'provincia', 8.730087, -79.8755817),
+(1392, 'Veraguas', 'Veraguas', 170, 'PA', '9', 'province', 'provincia', 8.2414131, -81.0903464);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (79962, 'Almirante', 1393, 170, 9.30091, -82.4018),

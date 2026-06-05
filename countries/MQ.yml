@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".mq"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 14.666667
   longitude: -61
   emoji: "🇲🇶"
   states:
     -
       name: "Fort-de-France"
+      native: "Fort-de-France"
       code: "01"
       iso3166_2: "MQ-01"
       type: "district"
+      type_es: "distrito"
       latitude: 14.6027962
       longitude: -61.0676724
       cities:
@@ -43,9 +47,11 @@
           longitude: -61.1412867
     -
       name: "La Trinité"
+      native: "La Trinité"
       code: "02"
       iso3166_2: "MQ-02"
       type: "district"
+      type_es: "distrito"
       latitude: 14.7553161
       longitude: -61.0287226
       cities:
@@ -91,9 +97,11 @@
           longitude: -61.0495997
     -
       name: "Le Marin"
+      native: "Le Marin"
       code: "03"
       iso3166_2: "MQ-03"
       type: "district"
+      type_es: "distrito"
       latitude: 14.5251841
       longitude: -60.9624151
       cities:
@@ -147,9 +155,11 @@
           longitude: -60.9879365
     -
       name: "Saint-Pierre"
+      native: "Saint-Pierre"
       code: "04"
       iso3166_2: "MQ-04"
       type: "district"
+      type_es: "distrito"
       latitude: 14.7417183
       longitude: -61.1763904
       cities:

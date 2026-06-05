@@ -12,16 +12,20 @@
   currency_symbol: "﷼"
   tld: ".ir"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 32
   longitude: 53
   emoji: "🇮🇷"
   states:
     -
       name: "Alborz"
+      native: "البرز"
       code: "30"
       iso3166_2: "IR-30"
       type: "province"
+      type_es: "provincia"
       latitude: 35.9413239
       longitude: 50.7884216
       cities:
@@ -95,9 +99,11 @@
           longitude: 50.6059134
     -
       name: "Ardabil"
+      native: "اردبیل"
       code: "24"
       iso3166_2: "IR-24"
       type: "province"
+      type_es: "provincia"
       latitude: 38.4583983
       longitude: 47.9313001
       cities:
@@ -215,9 +221,11 @@
           longitude: 44.8990201
     -
       name: "Bushehr"
+      native: "بوشهر"
       code: "18"
       iso3166_2: "IR-18"
       type: "province"
+      type_es: "provincia"
       latitude: 28.8936645
       longitude: 51.3204877
       cities:
@@ -403,9 +411,11 @@
           longitude: 51.2183044
     -
       name: "Chaharmahal and Bakhtiari"
+      native: "چهارمحال و بختیاری"
       code: "14"
       iso3166_2: "IR-14"
       type: "province"
+      type_es: "provincia"
       latitude: 32.0163307
       longitude: 50.685709
       cities:
@@ -587,9 +597,11 @@
           longitude: 50.7500552
     -
       name: "East Azerbaijan"
+      native: "آذربایجان شرقی"
       code: "03"
       iso3166_2: "IR-03"
       type: "province"
+      type_es: "provincia"
       latitude: 37.9160365
       longitude: 46.6781589
       cities:
@@ -859,9 +871,11 @@
           longitude: 45.8261419
     -
       name: "Fars"
+      native: "فارس"
       code: "07"
       iso3166_2: "IR-07"
       type: "province"
+      type_es: "provincia"
       latitude: 29.299051
       longitude: 53.218456
       cities:
@@ -1323,9 +1337,11 @@
           longitude: 53.2073019
     -
       name: "Gilan"
+      native: "گیلان"
       code: "01"
       iso3166_2: "IR-01"
       type: "province"
+      type_es: "provincia"
       latitude: 37.1515627
       longitude: 49.6389743
       cities:
@@ -1547,9 +1563,11 @@
           longitude: 49.2459
     -
       name: "Golestan"
+      native: "گلستان"
       code: "27"
       iso3166_2: "IR-27"
       type: "province"
+      type_es: "provincia"
       latitude: 37.1984436
       longitude: 55.070672
       cities:
@@ -1691,9 +1709,11 @@
           longitude: 54.16667
     -
       name: "Hamadan"
+      native: "همدان"
       code: "13"
       iso3166_2: "IR-13"
       type: "province"
+      type_es: "provincia"
       latitude: 34.7992888
       longitude: 48.5152464
       cities:
@@ -3663,9 +3683,11 @@
           longitude: 48.6169
     -
       name: "Hormozgan"
+      native: "هرمزگان"
       code: "22"
       iso3166_2: "IR-22"
       type: "province"
+      type_es: "provincia"
       latitude: 27.7198095
       longitude: 56.335807
       cities:
@@ -3847,9 +3869,11 @@
           longitude: 57.2107242
     -
       name: "Ilam"
+      native: "ایلام"
       code: "16"
       iso3166_2: "IR-16"
       type: "province"
+      type_es: "provincia"
       latitude: 33.1545696
       longitude: 46.7576343
       cities:
@@ -3971,9 +3995,11 @@
           longitude: 46.1787556
     -
       name: "Isfahan"
+      native: "اصفهان"
       code: "10"
       iso3166_2: "IR-10"
       type: "province"
+      type_es: "provincia"
       latitude: 33.1881386
       longitude: 52.4981635
       cities:
@@ -4463,9 +4489,11 @@
           longitude: 51.5448259
     -
       name: "Kerman"
+      native: "کرمان"
       code: "08"
       iso3166_2: "IR-08"
       type: "province"
+      type_es: "provincia"
       latitude: 29.571858
       longitude: 57.301047
       cities:
@@ -4779,9 +4807,11 @@
           longitude: 55.5268334
     -
       name: "Kermanshah"
+      native: "کرمانشاه"
       code: "05"
       iso3166_2: "IR-05"
       type: "province"
+      type_es: "provincia"
       latitude: 34.486732
       longitude: 46.808727
       cities:
@@ -4927,9 +4957,11 @@
           longitude: 47.8398478
     -
       name: "Khuzestan"
+      native: "خوزستان"
       code: "06"
       iso3166_2: "IR-06"
       type: "province"
+      type_es: "provincia"
       latitude: 31.5563051
       longitude: 49.0058885
       cities:
@@ -5263,9 +5295,11 @@
           longitude: 49.684444
     -
       name: "Kohgiluyeh and Boyer-Ahmad"
+      native: "کهگیلویه و بویراحمد"
       code: "17"
       iso3166_2: "IR-17"
       type: "province"
+      type_es: "provincia"
       latitude: 30.8143476
       longitude: 50.8661454
       cities:
@@ -5359,9 +5393,11 @@
           longitude: 51.58796
     -
       name: "Kurdistan"
+      native: "کردستان"
       code: "12"
       iso3166_2: "IR-12"
       type: "province"
+      type_es: "provincia"
       latitude: 35.6727813
       longitude: 47.0127981
       cities:
@@ -5483,9 +5519,11 @@
           longitude: 46.9118356
     -
       name: "Lorestan"
+      native: "لرستان"
       code: "15"
       iso3166_2: "IR-15"
       type: "province"
+      type_es: "provincia"
       latitude: 33.5368206
       longitude: 48.2443945
       cities:
@@ -5611,9 +5649,11 @@
           longitude: 48.708611
     -
       name: "Markazi"
+      native: "مرکزی"
       code: "00"
       iso3166_2: "IR-00"
       type: "province"
+      type_es: "provincia"
       latitude: 34.5302705
       longitude: 49.7864561
       cities:
@@ -5771,9 +5811,11 @@
           longitude: 50.550885
     -
       name: "Mazandaran"
+      native: "مازندران"
       code: "02"
       iso3166_2: "IR-02"
       type: "province"
+      type_es: "provincia"
       latitude: 36.3159159
       longitude: 51.8968597
       cities:
@@ -6023,9 +6065,11 @@
           longitude: 52.9535865
     -
       name: "North Khorasan"
+      native: "خراسان شمالی"
       code: "28"
       iso3166_2: "IR-28"
       type: "province"
+      type_es: "provincia"
       latitude: 37.5378855
       longitude: 56.9526137
       cities:
@@ -6127,9 +6171,11 @@
           longitude: 58.5455417
     -
       name: "Qazvin"
+      native: "قزوین"
       code: "26"
       iso3166_2: "IR-26"
       type: "province"
+      type_es: "provincia"
       latitude: 36.0156291
       longitude: 49.8398161
       cities:
@@ -6239,9 +6285,11 @@
           longitude: 49.447778
     -
       name: "Qom"
+      native: "قم"
       code: "25"
       iso3166_2: "IR-25"
       type: "province"
+      type_es: "provincia"
       latitude: 34.6415764
       longitude: 50.8746035
       cities:
@@ -6271,9 +6319,11 @@
           longitude: 50.4550123
     -
       name: "Razavi Khorasan"
+      native: "خراسان رضوی"
       code: "09"
       iso3166_2: "IR-09"
       type: "province"
+      type_es: "provincia"
       latitude: 35.4795009
       longitude: 59.0237291
       cities:
@@ -6607,9 +6657,11 @@
           longitude: 59.73333
     -
       name: "Semnan"
+      native: "سمنان"
       code: "20"
       iso3166_2: "IR-20"
       type: "province"
+      type_es: "provincia"
       latitude: 35.3843145
       longitude: 54.6209302
       cities:
@@ -6699,9 +6751,11 @@
           longitude: 53.2098112
     -
       name: "Sistan and Baluchestan"
+      native: "سیستان و بلوچستان"
       code: "11"
       iso3166_2: "IR-11"
       type: "province"
+      type_es: "provincia"
       latitude: 28.1292481
       longitude: 60.8236848
       cities:
@@ -6883,9 +6937,11 @@
           longitude: 61.56667
     -
       name: "South Khorasan"
+      native: "خراسان جنوبی"
       code: "29"
       iso3166_2: "IR-29"
       type: "province"
+      type_es: "provincia"
       latitude: 33.129577
       longitude: 58.1065069
       cities:
@@ -7023,9 +7079,11 @@
           longitude: 59.8072744
     -
       name: "Tehran"
+      native: "تهران"
       code: "23"
       iso3166_2: "IR-23"
       type: "province"
+      type_es: "provincia"
       latitude: 35.6892523
       longitude: 51.3896004
       cities:
@@ -7235,9 +7293,11 @@
           longitude: 51.6457
     -
       name: "West Azarbaijan"
+      native: "آذربایجان غربی"
       code: "04"
       iso3166_2: "IR-04"
       type: "province"
+      type_es: "provincia"
       latitude: 38.4942731
       longitude: 44.3204853
       cities:
@@ -7427,9 +7487,11 @@
           longitude: 44.5770691
     -
       name: "Yazd"
+      native: "یزد"
       code: "21"
       iso3166_2: "IR-21"
       type: "province"
+      type_es: "provincia"
       latitude: 31.9052223
       longitude: 54.3701235
       cities:
@@ -7547,9 +7609,11 @@
           longitude: 54.2249105
     -
       name: "Zanjan"
+      native: "زنجان"
       code: "19"
       iso3166_2: "IR-19"
       type: "province"
+      type_es: "provincia"
       latitude: 36.515854
       longitude: 48.4777616
       cities:

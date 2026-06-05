@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".vi"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 18.34
   longitude: -64.93
   emoji: "🇻🇮"
   states:
     -
       name: "Saint Croix"
+      native: "Holy cross"
       code: "SC"
       iso3166_2: "VI-SC"
       type: "district"
+      type_es: "distrito"
       latitude: 17.729124
       longitude: -64.7589156
       cities:
@@ -63,9 +67,11 @@
           longitude: -64.9355939
     -
       name: "Saint John"
+      native: "Saint John"
       code: "SJ"
       iso3166_2: "VI-SJ"
       type: "district"
+      type_es: "distrito"
       latitude: 18.3356013
       longitude: -64.7550406
       cities:
@@ -87,9 +93,11 @@
           longitude: -64.6806266
     -
       name: "Saint Thomas"
+      native: "Saint Thomas"
       code: "ST"
       iso3166_2: "VI-ST"
       type: "district"
+      type_es: "distrito"
       latitude: 18.3429081
       longitude: -64.9188997
       cities:

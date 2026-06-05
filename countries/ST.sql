@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(193, 'Sao Tome and Principe', 'ST', 'STP', 'Africa', 'Middle Africa', 'Sao Tome', 'STN', 1, 7, '🇸🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(193, 'Sao Tome and Principe', 'Santo Tomé y Príncipe', 'ST', 'STP', 'Africa', 'África', 'Middle Africa', 'África Central', 'Sao Tome', 'STN', 1, 7, '🇸🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5728, 'Água Grande', 193, 'ST', '01', 'district', 0.3301924, 6.733343),
-(5729, 'Cantagalo', 193, 'ST', '02', 'district', 0.21667, 6.7),
-(5730, 'Caué', 193, 'ST', '03', 'district', 0.13415, 6.63825),
-(5731, 'Lemba', 193, 'ST', '04', 'district', 0.22, 6.58),
-(5732, 'Lobata', 193, 'ST', '05', 'district', 0.41, 6.61),
-(5733, 'Mé-Zóchi', 193, 'ST', '06', 'district', 0.3, 6.6),
-(5734, 'Príncipe', 193, 'ST', 'P', 'autonomous region', 1.6139381, 7.4056928);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5728, 'Água Grande', 'Água Grande', 193, 'ST', '01', 'district', 'distrito', 0.3301924, 6.733343),
+(5729, 'Cantagalo', 'Cantagalo', 193, 'ST', '02', 'district', 'distrito', 0.21667, 6.7),
+(5730, 'Caué', 'Caué', 193, 'ST', '03', 'district', 'distrito', 0.13415, 6.63825),
+(5731, 'Lemba', 'Lemba', 193, 'ST', '04', 'district', 'distrito', 0.22, 6.58),
+(5732, 'Lobata', 'Lobata', 193, 'ST', '05', 'district', 'distrito', 0.41, 6.61),
+(5733, 'Mé-Zóchi', 'Mé-Zóchi', 193, 'ST', '06', 'district', 'distrito', 0.3, 6.6),
+(5734, 'Príncipe', 'Príncipe', 193, 'ST', 'P', 'autonomous region', 'región autónoma', 1.6139381, 7.4056928);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (104838, 'São Tomé', 5728, 193, 0.33654, 6.72732),

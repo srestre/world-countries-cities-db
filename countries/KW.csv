@@ -1,26 +1,26 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-KW,Kuwait,Asia,Western Asia,AH,Al Ahmadi,Al Aḩmadī,29.07694,48.08389
-KW,Kuwait,Asia,Western Asia,AH,Al Ahmadi,Al Faḩāḩīl,29.0825,48.13028
-KW,Kuwait,Asia,Western Asia,AH,Al Ahmadi,Al Finţās,29.17389,48.12111
-KW,Kuwait,Asia,Western Asia,AH,Al Ahmadi,Al Mahbūlah,29.145,48.13028
-KW,Kuwait,Asia,Western Asia,AH,Al Ahmadi,Al Manqaf,29.09611,48.13278
-KW,Kuwait,Asia,Western Asia,AH,Al Ahmadi,Al Wafrah,28.63917,47.93056
-KW,Kuwait,Asia,Western Asia,AH,Al Ahmadi,Ar Riqqah,29.14583,48.09472
-KW,Kuwait,Asia,Western Asia,KU,Al Asimah,Ad Dasmah,29.365,48.00139
-KW,Kuwait,Asia,Western Asia,KU,Al Asimah,Ar Rābiyah,29.295,47.93306
-KW,Kuwait,Asia,Western Asia,KU,Al Asimah,Ash Shāmīyah,29.34722,47.96167
-KW,Kuwait,Asia,Western Asia,KU,Al Asimah,Az Zawr,29.4425,48.27472
-KW,Kuwait,Asia,Western Asia,KU,Al Asimah,Kuwait City,29.36972,47.97833
-KW,Kuwait,Asia,Western Asia,FA,Al Farwaniyah,Al Farwānīyah,29.2775,47.95861
-KW,Kuwait,Asia,Western Asia,FA,Al Farwaniyah,Janūb as Surrah,29.26917,47.97806
-KW,Kuwait,Asia,Western Asia,JA,Al Jahra,Al Jahrā’,29.3375,47.65806
-KW,Kuwait,Asia,Western Asia,HA,Hawalli,Ar Rumaythīyah,29.31167,48.07417
-KW,Kuwait,Asia,Western Asia,HA,Hawalli,As Sālimīyah,29.33389,48.07611
-KW,Kuwait,Asia,Western Asia,HA,Hawalli,Bayān,29.3032,48.04881
-KW,Kuwait,Asia,Western Asia,HA,Hawalli,Ḩawallī,29.33278,48.02861
-KW,Kuwait,Asia,Western Asia,HA,Hawalli,Salwá,29.29583,48.07861
-KW,Kuwait,Asia,Western Asia,MU,Mubarak Al-Kabeer,Abu Al Hasaniya,29.19076,48.11355
-KW,Kuwait,Asia,Western Asia,MU,Mubarak Al-Kabeer,Abu Fatira,29.19746,48.10278
-KW,Kuwait,Asia,Western Asia,MU,Mubarak Al-Kabeer,Al Funayţīs,29.22528,48.10167
-KW,Kuwait,Asia,Western Asia,MU,Mubarak Al-Kabeer,Al-Masayel,29.2393,48.08862
-KW,Kuwait,Asia,Western Asia,MU,Mubarak Al-Kabeer,Şabāḩ as Sālim,29.25722,48.05722
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,AH,Al Ahmadi,governorate,gobernación,Al Aḩmadī,29.07694,48.08389
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,AH,Al Ahmadi,governorate,gobernación,Al Faḩāḩīl,29.0825,48.13028
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,AH,Al Ahmadi,governorate,gobernación,Al Finţās,29.17389,48.12111
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,AH,Al Ahmadi,governorate,gobernación,Al Mahbūlah,29.145,48.13028
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,AH,Al Ahmadi,governorate,gobernación,Al Manqaf,29.09611,48.13278
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,AH,Al Ahmadi,governorate,gobernación,Al Wafrah,28.63917,47.93056
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,AH,Al Ahmadi,governorate,gobernación,Ar Riqqah,29.14583,48.09472
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,KU,Al Asimah,governorate,gobernación,Ad Dasmah,29.365,48.00139
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,KU,Al Asimah,governorate,gobernación,Ar Rābiyah,29.295,47.93306
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,KU,Al Asimah,governorate,gobernación,Ash Shāmīyah,29.34722,47.96167
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,KU,Al Asimah,governorate,gobernación,Az Zawr,29.4425,48.27472
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,KU,Al Asimah,governorate,gobernación,Kuwait City,29.36972,47.97833
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,FA,Al Farwaniyah,governorate,gobernación,Al Farwānīyah,29.2775,47.95861
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,FA,Al Farwaniyah,governorate,gobernación,Janūb as Surrah,29.26917,47.97806
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,JA,Al Jahra,governorate,gobernación,Al Jahrā’,29.3375,47.65806
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,HA,Hawalli,governorate,gobernación,Ar Rumaythīyah,29.31167,48.07417
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,HA,Hawalli,governorate,gobernación,As Sālimīyah,29.33389,48.07611
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,HA,Hawalli,governorate,gobernación,Bayān,29.3032,48.04881
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,HA,Hawalli,governorate,gobernación,Ḩawallī,29.33278,48.02861
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,HA,Hawalli,governorate,gobernación,Salwá,29.29583,48.07861
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,MU,Mubarak Al-Kabeer,governorate,gobernación,Abu Al Hasaniya,29.19076,48.11355
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,MU,Mubarak Al-Kabeer,governorate,gobernación,Abu Fatira,29.19746,48.10278
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,MU,Mubarak Al-Kabeer,governorate,gobernación,Al Funayţīs,29.22528,48.10167
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,MU,Mubarak Al-Kabeer,governorate,gobernación,Al-Masayel,29.2393,48.08862
+KW,Kuwait,Kuwait,Asia,Asia,Western Asia,Asia Occidental,MU,Mubarak Al-Kabeer,governorate,gobernación,Şabāḩ as Sālim,29.25722,48.05722

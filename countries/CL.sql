@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(44, 'Chile', 'CL', 'CHL', 'Americas', 'South America', 'Santiago', 'CLP', -30, -71, '🇨🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(44, 'Chile', 'Chile', 'CL', 'CHL', 'Americas', 'América', 'South America', 'Sudamérica', 'Santiago', 'CLP', -30, -71, '🇨🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2828, 'Aisén del General Carlos Ibañez del Campo', 44, 'CL', 'AI', 'region', -46.4590147, -72.6718386),
-(2832, 'Antofagasta', 44, 'CL', 'AN', 'region', -23.6041314, -69.0842783),
-(2829, 'Arica y Parinacota', 44, 'CL', 'AP', 'region', -18.5713496, -69.7884774),
-(2823, 'Atacama', 44, 'CL', 'AT', 'region', -27.5571783, -70.0156882),
-(2827, 'Biobío', 44, 'CL', 'BI', 'region', -37.3391407, -72.4106825),
-(2825, 'Coquimbo', 44, 'CL', 'CO', 'region', -30.7546652, -70.9005536),
-(2826, 'La Araucanía', 44, 'CL', 'AR', 'region', -40.9071314, -73.157326),
-(2838, 'Libertador General Bernardo O''Higgins', 44, 'CL', 'LI', 'region', -34.534538, -71.0354822),
-(2835, 'Los Lagos', 44, 'CL', 'LL', 'region', -42.300844, -73.105387),
-(2834, 'Los Ríos', 44, 'CL', 'LR', 'region', -39.9742747, -72.6677006),
-(2836, 'Magallanes y de la Antártica Chilena', 44, 'CL', 'MA', 'region', -53.3527518, -71.5547782),
-(2833, 'Maule', 44, 'CL', 'ML', 'region', -35.521347, -71.6918891),
-(2831, 'Ñuble', 44, 'CL', 'NB', 'region', -36.6331577, -71.9384821),
-(2824, 'Región Metropolitana de Santiago', 44, 'CL', 'RM', 'region', -33.5739341, -70.6205518),
-(2837, 'Tarapacá', 44, 'CL', 'TA', 'region', -20.1636672, -69.5463448),
-(2830, 'Valparaíso', 44, 'CL', 'VS', 'region', -33.047238, -71.6126885);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2828, 'Aisén del General Carlos Ibañez del Campo', 'Aisén del General Carlos Ibañez del Campo', 44, 'CL', 'AI', 'region', 'región', -46.4590147, -72.6718386),
+(2832, 'Antofagasta', 'Antofagasta', 44, 'CL', 'AN', 'region', 'región', -23.6041314, -69.0842783),
+(2829, 'Arica y Parinacota', 'Arica y Parinacota', 44, 'CL', 'AP', 'region', 'región', -18.5713496, -69.7884774),
+(2823, 'Atacama', 'Atacama', 44, 'CL', 'AT', 'region', 'región', -27.5571783, -70.0156882),
+(2827, 'Biobío', 'Biobío', 44, 'CL', 'BI', 'region', 'región', -37.3391407, -72.4106825),
+(2825, 'Coquimbo', 'Coquimbo', 44, 'CL', 'CO', 'region', 'región', -30.7546652, -70.9005536),
+(2826, 'La Araucanía', 'La Araucanía', 44, 'CL', 'AR', 'region', 'región', -40.9071314, -73.157326),
+(2838, 'Libertador General Bernardo O''Higgins', 'Liberador General Bernardo O''Higgins', 44, 'CL', 'LI', 'region', 'región', -34.534538, -71.0354822),
+(2835, 'Los Lagos', 'Los Lagos', 44, 'CL', 'LL', 'region', 'región', -42.300844, -73.105387),
+(2834, 'Los Ríos', 'Los Ríos', 44, 'CL', 'LR', 'region', 'región', -39.9742747, -72.6677006),
+(2836, 'Magallanes y de la Antártica Chilena', 'Magallanes y de la Antártica Chilena', 44, 'CL', 'MA', 'region', 'región', -53.3527518, -71.5547782),
+(2833, 'Maule', 'Maule', 44, 'CL', 'ML', 'region', 'región', -35.521347, -71.6918891),
+(2831, 'Ñuble', 'Ñuble', 44, 'CL', 'NB', 'region', 'región', -36.6331577, -71.9384821),
+(2824, 'Región Metropolitana de Santiago', 'Región Metropolitana de Santiago', 44, 'CL', 'RM', 'region', 'región', -33.5739341, -70.6205518),
+(2837, 'Tarapacá', 'Tarapacá', 44, 'CL', 'TA', 'region', 'región', -20.1636672, -69.5463448),
+(2830, 'Valparaíso', 'Valparaíso', 44, 'CL', 'VS', 'region', 'región', -33.047238, -71.6126885);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (19082, 'Aysén', 2828, 44, -45.40303, -72.69184),

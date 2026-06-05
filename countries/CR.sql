@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(53, 'Costa Rica', 'CR', 'CRI', 'Americas', 'Central America', 'San Jose', 'CRC', 10, -84, '🇨🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(53, 'Costa Rica', 'Costa Rica', 'CR', 'CRI', 'Americas', 'América', 'Central America', 'Centroamérica', 'San Jose', 'CRC', 10, -84, '🇨🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1215, 'Alajuela', 53, 'CR', 'A', 'province', 10.4523316, -84.4663284),
-(1211, 'Cartago', 53, 'CR', 'C', 'province', 9.8622311, -83.9214187),
-(1209, 'Guanacaste', 53, 'CR', 'G', 'province', 10.3788441, -85.4338287),
-(1212, 'Heredia', 53, 'CR', 'H', 'province', 10.3767813, -84.0139721),
-(1213, 'Limón', 53, 'CR', 'L', 'province', 9.9896398, -83.0332417),
-(1210, 'Puntarenas', 53, 'CR', 'P', 'province', 9.0953279, -84.2003038),
-(1214, 'San José', 53, 'CR', 'SJ', 'province', 9.9325427, -84.0795782);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1215, 'Alajuela', 'Alajuela', 53, 'CR', 'A', 'province', 'provincia', 10.4523316, -84.4663284),
+(1211, 'Cartago', 'Cartago', 53, 'CR', 'C', 'province', 'provincia', 9.8622311, -83.9214187),
+(1209, 'Guanacaste', 'Guanacaste', 53, 'CR', 'G', 'province', 'provincia', 10.3788441, -85.4338287),
+(1212, 'Heredia', 'Heredia', 53, 'CR', 'H', 'province', 'provincia', 10.3767813, -84.0139721),
+(1213, 'Limón', 'Limón', 53, 'CR', 'L', 'province', 'provincia', 9.9896398, -83.0332417),
+(1210, 'Puntarenas', 'Puntarenas', 53, 'CR', 'P', 'province', 'provincia', 9.0953279, -84.2003038),
+(1214, 'San José', 'San José', 53, 'CR', 'SJ', 'province', 'provincia', 9.9325427, -84.0795782);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (21643, 'Alajuela', 1215, 53, 10.01625, -84.21163),

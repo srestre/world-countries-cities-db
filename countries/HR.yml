@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".hr"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 45.16666666
   longitude: 15.5
   emoji: "🇭🇷"
   states:
     -
       name: "Bjelovar-Bilogora"
+      native: "Bjelovar-Bilogora"
       code: "07"
       iso3166_2: "HR-07"
       type: "county"
+      type_es: "condado"
       latitude: 45.7462142
       longitude: 16.9212335
       cities:
@@ -135,9 +139,11 @@
           longitude: 16.75509
     -
       name: "Brod-Posavina"
+      native: "Brod-Posavina"
       code: "12"
       iso3166_2: "HR-12"
       type: "county"
+      type_es: "condado"
       latitude: 45.1542669
       longitude: 18.0117761
       cities:
@@ -255,9 +261,11 @@
           longitude: 18.40556
     -
       name: "Dubrovnik-Neretva"
+      native: "Dubrovnik-Neretva"
       code: "19"
       iso3166_2: "HR-19"
       type: "county"
+      type_es: "condado"
       latitude: 42.8143166
       longitude: 17.3746628
       cities:
@@ -367,9 +375,11 @@
           longitude: 18.19475
     -
       name: "Istria"
+      native: "Istrija"
       code: "18"
       iso3166_2: "HR-18"
       type: "county"
+      type_es: "condado"
       latitude: 45.1934345
       longitude: 13.9150536
       cities:
@@ -599,18 +609,22 @@
           longitude: 13.90889
     -
       name: "Karlovac"
+      native: "Karlovac"
       code: "04"
       iso3166_2: "HR-04"
       type: "county"
+      type_es: "condado"
       latitude: 45.4892522
       longitude: 15.5486303
       cities:
         []
     -
       name: "Koprivnica-Križevci"
+      native: "Koprivnica-Križevci"
       code: "06"
       iso3166_2: "HR-06"
       type: "county"
+      type_es: "condado"
       latitude: 46.1254508
       longitude: 16.8221278
       cities:
@@ -700,9 +714,11 @@
           longitude: 16.99
     -
       name: "Krapina-Zagorje"
+      native: "Krapina-Zagorje"
       code: "02"
       iso3166_2: "HR-02"
       type: "county"
+      type_es: "condado"
       latitude: 46.0983218
       longitude: 15.9377404
       cities:
@@ -804,9 +820,11 @@
           longitude: 16.08527
     -
       name: "Lika-Senj"
+      native: "Lika-Senj"
       code: "09"
       iso3166_2: "HR-09"
       type: "county"
+      type_es: "condado"
       latitude: 44.66818
       longitude: 15.3324696
       cities:
@@ -852,9 +870,11 @@
           longitude: 14.90583
     -
       name: "Međimurje"
+      native: "Međimurje"
       code: "20"
       iso3166_2: "HR-20"
       type: "county"
+      type_es: "condado"
       latitude: 46.4061943
       longitude: 16.5472278
       cities:
@@ -964,9 +984,11 @@
           longitude: 16.45778
     -
       name: "Osijek-Baranja"
+      native: "Osijek-Baranja"
       code: "14"
       iso3166_2: "HR-14"
       type: "county"
+      type_es: "condado"
       latitude: 45.541111
       longitude: 18.4384615
       cities:
@@ -1216,9 +1238,11 @@
           longitude: 18.505
     -
       name: "Požega-Slavonia"
+      native: "Požega-Slavonia"
       code: "11"
       iso3166_2: "HR-11"
       type: "county"
+      type_es: "condado"
       latitude: 45.4381151
       longitude: 17.5133687
       cities:
@@ -1272,9 +1296,11 @@
           longitude: 17.71472
     -
       name: "Primorje-Gorski Kotar"
+      native: "Primorje-gorski kotar"
       code: "08"
       iso3166_2: "HR-08"
       type: "county"
+      type_es: "condado"
       latitude: 45.4225937
       longitude: 14.6172032
       cities:
@@ -1496,9 +1522,11 @@
           longitude: 15.07833
     -
       name: "Šibenik-Knin"
+      native: "Šibenik-Knin"
       code: "15"
       iso3166_2: "HR-15"
       type: "county"
+      type_es: "condado"
       latitude: 43.9281485
       longitude: 16.1037694
       cities:
@@ -1576,9 +1604,11 @@
           longitude: 15.78278
     -
       name: "Sisak-Moslavina"
+      native: "Sisak-Moslavina"
       code: "03"
       iso3166_2: "HR-03"
       type: "county"
+      type_es: "condado"
       latitude: 45.3981666
       longitude: 16.4955111
       cities:
@@ -1680,9 +1710,11 @@
           longitude: 16.67889
     -
       name: "Split-Dalmatia"
+      native: "Split-dalmacija"
       code: "17"
       iso3166_2: "HR-17"
       type: "county"
+      type_es: "condado"
       latitude: 43.5003407
       longitude: 16.8156193
       cities:
@@ -2012,9 +2044,11 @@
           longitude: 16.55917
     -
       name: "Varaždin"
+      native: "Varaždin"
       code: "05"
       iso3166_2: "HR-05"
       type: "county"
+      type_es: "condado"
       latitude: 46.3079645
       longitude: 16.3378198
       cities:
@@ -2136,9 +2170,11 @@
           longitude: 16.14944
     -
       name: "Virovitica-Podravina"
+      native: "Virovitica-Podravina"
       code: "10"
       iso3166_2: "HR-10"
       type: "county"
+      type_es: "condado"
       latitude: 45.7732751
       longitude: 17.5789161
       cities:
@@ -2220,9 +2256,11 @@
           longitude: 17.95028
     -
       name: "Vukovar-Syrmia"
+      native: "Vukovar-Sirmija"
       code: "16"
       iso3166_2: "HR-16"
       type: "county"
+      type_es: "condado"
       latitude: 45.1672401
       longitude: 18.6389898
       cities:
@@ -2392,9 +2430,11 @@
           longitude: 18.6975
     -
       name: "Zadar"
+      native: "Zadar"
       code: "13"
       iso3166_2: "HR-13"
       type: "county"
+      type_es: "condado"
       latitude: 44.1168594
       longitude: 15.2353257
       cities:
@@ -2536,9 +2576,11 @@
           longitude: 15.24222
     -
       name: "Zagreb"
+      native: "Zagreb"
       code: "01"
       iso3166_2: "HR-01"
       type: "county"
+      type_es: "condado"
       latitude: 45.8130967
       longitude: 15.9772795
       cities:

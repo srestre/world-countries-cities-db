@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(217, 'Tajikistan', 'TJ', 'TJK', 'Asia', 'Central Asia', 'Dushanbe', 'TJS', 39, 71, '🇹🇯');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(217, 'Tajikistan', 'Tayikistán', 'TJ', 'TJK', 'Asia', 'Asia', 'Central Asia', 'Asia Central', 'Dushanbe', 'TJS', 39, 71, '🇹🇯');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5706, 'Dushanbe', 217, 'TJ', 'DU', 'capital territory', 38.53666667, 68.78),
-(3399, 'Gorno-Badakhshan', 217, 'TJ', 'GB', 'autonomous region', 38.3492457, 72.9988168),
-(3398, 'Khatlon', 217, 'TJ', 'KT', 'region', 37.8804734, 69.2636923),
-(3397, 'Nohiyahoi Tobei Jumhurí ', 217, 'TJ', 'RA', 'districts under republic administration', 39.0857902, 70.2408325),
-(3400, 'Sughd ', 217, 'TJ', 'SU', 'region', 39.3548602, 68.8268012);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5706, 'Dushanbe', 'Душанбе', 217, 'TJ', 'DU', 'capital territory', 'territorio capital', 38.53666667, 68.78),
+(3399, 'Gorno-Badakhshan', 'Вилаҳмо-Бадахшон', 217, 'TJ', 'GB', 'autonomous region', 'región autónoma', 38.3492457, 72.9988168),
+(3398, 'Khatlon', 'Вилоят', 217, 'TJ', 'KT', 'region', 'región', 37.8804734, 69.2636923),
+(3397, 'Nohiyahoi Tobei Jumhurí ', 'Nohiyahoi Tobei Jumhurí ', 217, 'TJ', 'RA', 'districts under republic administration', 'distritos bajo administración de la república', 39.0857902, 70.2408325),
+(3400, 'Sughd ', 'Суғд', 217, 'TJ', 'SU', 'region', 'región', 39.3548602, 68.8268012);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (160121, 'Dushanbe', 5706, 217, 38.53666667, 68.78),

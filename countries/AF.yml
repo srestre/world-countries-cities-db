@@ -12,16 +12,20 @@
   currency_symbol: "؋"
   tld: ".af"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 33
   longitude: 65
   emoji: "🇦🇫"
   states:
     -
       name: "Badakhshan"
+      native: "بدخشان"
       code: "BDS"
       iso3166_2: "AF-BDS"
       type: "province"
+      type_es: "provincia"
       latitude: 36.8040254
       longitude: 71.367658
       cities:
@@ -51,9 +55,11 @@
           longitude: 73.34928
     -
       name: "Badghis"
+      native: "بادغیس"
       code: "BDG"
       iso3166_2: "AF-BDG"
       type: "province"
+      type_es: "provincia"
       latitude: 35
       longitude: 63.75
       cities:
@@ -67,9 +73,11 @@
           longitude: 63.12891
     -
       name: "Baghlan"
+      native: "بغلان"
       code: "BGL"
       iso3166_2: "AF-BGL"
       type: "province"
+      type_es: "provincia"
       latitude: 36.1789026
       longitude: 68.7453064
       cities:
@@ -91,9 +99,11 @@
           longitude: 68.71512
     -
       name: "Balkh"
+      native: "بلخ"
       code: "BAL"
       iso3166_2: "AF-BAL"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7550603
       longitude: 66.8975372
       cities:
@@ -123,9 +133,11 @@
           longitude: 66.78891
     -
       name: "Bamyan"
+      native: "بامیان"
       code: "BAM"
       iso3166_2: "AF-BAM"
       type: "province"
+      type_es: "provincia"
       latitude: 34.794631
       longitude: 67.684334
       cities:
@@ -139,9 +151,11 @@
           longitude: 67.02327
     -
       name: "Daykundi"
+      native: "دیوکونډي"
       code: "DAY"
       iso3166_2: "AF-DAY"
       type: "province"
+      type_es: "provincia"
       latitude: 33.725113
       longitude: 66.2196554
       cities:
@@ -151,9 +165,11 @@
           longitude: 66.07617
     -
       name: "Farah"
+      native: "فراه"
       code: "FRA"
       iso3166_2: "AF-FRA"
       type: "province"
+      type_es: "provincia"
       latitude: 32.3740907
       longitude: 62.1146266
       cities:
@@ -163,9 +179,11 @@
           longitude: 62.11638
     -
       name: "Faryab"
+      native: "د فارماب"
       code: "FYB"
       iso3166_2: "AF-FYB"
       type: "province"
+      type_es: "provincia"
       latitude: 35.9261784
       longitude: 64.6237758
       cities:
@@ -179,9 +197,11 @@
           longitude: 64.78361
     -
       name: "Ghazni"
+      native: "غزني"
       code: "GHA"
       iso3166_2: "AF-GHA"
       type: "province"
+      type_es: "provincia"
       latitude: 33.5450587
       longitude: 68.4173972
       cities:
@@ -191,9 +211,11 @@
           longitude: 68.42096
     -
       name: "Ghōr"
+      native: "جور"
       code: "GHO"
       iso3166_2: "AF-GHO"
       type: "province"
+      type_es: "provincia"
       latitude: 34.1605257
       longitude: 64.9201949
       cities:
@@ -207,9 +229,11 @@
           longitude: 64.3052
     -
       name: "Helmand"
+      native: "هلمند"
       code: "HEL"
       iso3166_2: "AF-HEL"
       type: "province"
+      type_es: "provincia"
       latitude: 31
       longitude: 64
       cities:
@@ -235,9 +259,11 @@
           longitude: 64.8359
     -
       name: "Herat"
+      native: "هرات"
       code: "HER"
       iso3166_2: "AF-HER"
       type: "province"
+      type_es: "provincia"
       latitude: 34.3491443
       longitude: 62.2163252
       cities:
@@ -287,9 +313,11 @@
           longitude: 61.74675
     -
       name: "Jowzjan"
+      native: "جوزجان"
       code: "JOW"
       iso3166_2: "AF-JOW"
       type: "province"
+      type_es: "provincia"
       latitude: 36.9665706
       longitude: 65.9560232
       cities:
@@ -311,9 +339,11 @@
           longitude: 65.7529
     -
       name: "Kabul"
+      native: "کابل"
       code: "KAB"
       iso3166_2: "AF-KAB"
       type: "province"
+      type_es: "provincia"
       latitude: 34.5266431
       longitude: 69.1849082
       cities:
@@ -331,9 +361,11 @@
           longitude: 68.95091
     -
       name: "Kandahar"
+      native: "کندهار"
       code: "KAN"
       iso3166_2: "AF-KAN"
       type: "province"
+      type_es: "provincia"
       latitude: 31.6205738
       longitude: 65.7157573
       cities:
@@ -343,9 +375,11 @@
           longitude: 65.71013
     -
       name: "Kapisa"
+      native: "کیپټن"
       code: "KAP"
       iso3166_2: "AF-KAP"
       type: "province"
+      type_es: "provincia"
       latitude: 34.905556
       longitude: 69.741667
       cities:
@@ -355,9 +389,11 @@
           longitude: 69.35112
     -
       name: "Khost"
+      native: "خوست"
       code: "KHO"
       iso3166_2: "AF-KHO"
       type: "province"
+      type_es: "provincia"
       latitude: 33.3391402
       longitude: 69.9206359
       cities:
@@ -367,9 +403,11 @@
           longitude: 69.92041
     -
       name: "Kunar"
+      native: "دری برابره"
       code: "KNR"
       iso3166_2: "AF-KNR"
       type: "province"
+      type_es: "provincia"
       latitude: 34.95
       longitude: 71.133333
       cities:
@@ -383,9 +421,11 @@
           longitude: 71.35809
     -
       name: "Kunduz Province"
+      native: "کندز ولایت"
       code: "KDZ"
       iso3166_2: "AF-KDZ"
       type: "province"
+      type_es: "provincia"
       latitude: 36.8707187
       longitude: 68.7563528
       cities:
@@ -411,9 +451,11 @@
           longitude: 68.7802
     -
       name: "Laghman"
+      native: "لغمان"
       code: "LAG"
       iso3166_2: "AF-LAG"
       type: "province"
+      type_es: "provincia"
       latitude: 34.783333
       longitude: 70.183333
       cities:
@@ -423,9 +465,11 @@
           longitude: 70.20944
     -
       name: "Logar"
+      native: "لوګر"
       code: "LOG"
       iso3166_2: "AF-LOG"
       type: "province"
+      type_es: "provincia"
       latitude: 34.0653595
       longitude: 69.160172
       cities:
@@ -443,9 +487,11 @@
           longitude: 69.02274
     -
       name: "Nangarhar"
+      native: "ننګرهار"
       code: "NAN"
       iso3166_2: "AF-NAN"
       type: "province"
+      type_es: "provincia"
       latitude: 34.220389
       longitude: 70.3800314
       cities:
@@ -459,9 +505,11 @@
           longitude: 70.45153
     -
       name: "Nimruz"
+      native: "نیمروز"
       code: "NIM"
       iso3166_2: "AF-NIM"
       type: "province"
+      type_es: "provincia"
       latitude: 30.7753811
       longitude: 62.4793088
       cities:
@@ -483,9 +531,11 @@
           longitude: 61.86037
     -
       name: "Nuristan"
+      native: "نورستان"
       code: "NUR"
       iso3166_2: "AF-NUR"
       type: "province"
+      type_es: "provincia"
       latitude: 35.3
       longitude: 70.833333
       cities:
@@ -495,9 +545,11 @@
           longitude: 70.92261
     -
       name: "Paktia"
+      native: "بسته"
       code: "PIA"
       iso3166_2: "AF-PIA"
       type: "province"
+      type_es: "provincia"
       latitude: 33.705724
       longitude: 69.4083555
       cities:
@@ -507,9 +559,11 @@
           longitude: 69.22592
     -
       name: "Paktika"
+      native: "بسته"
       code: "PKA"
       iso3166_2: "AF-PKA"
       type: "province"
+      type_es: "provincia"
       latitude: 32.3936231
       longitude: 68.7036514
       cities:
@@ -527,9 +581,11 @@
           longitude: 68.44573
     -
       name: "Panjshir"
+      native: "پنجشیر"
       code: "PAN"
       iso3166_2: "AF-PAN"
       type: "province"
+      type_es: "provincia"
       latitude: 35.6973556
       longitude: 70.0999604
       cities:
@@ -539,9 +595,11 @@
           longitude: 69.51519
     -
       name: "Parwan"
+      native: "ایوان"
       code: "PAR"
       iso3166_2: "AF-PAR"
       type: "province"
+      type_es: "provincia"
       latitude: 34.9797014
       longitude: 68.9146703
       cities:
@@ -555,9 +613,11 @@
           longitude: 69.23778
     -
       name: "Samangan"
+      native: "خدايه"
       code: "SAM"
       iso3166_2: "AF-SAM"
       type: "province"
+      type_es: "provincia"
       latitude: 36.2674938
       longitude: 68.0215374
       cities:
@@ -567,9 +627,11 @@
           longitude: 68.01551
     -
       name: "Sar-e Pol"
+      native: "سرپل پول"
       code: "SAR"
       iso3166_2: "AF-SAR"
       type: "province"
+      type_es: "provincia"
       latitude: 36.216628
       longitude: 65.93336
       cities:
@@ -603,9 +665,11 @@
           longitude: 66.42132
     -
       name: "Takhar"
+      native: "تخار"
       code: "TAK"
       iso3166_2: "AF-TAK"
       type: "province"
+      type_es: "provincia"
       latitude: 36.5940732
       longitude: 69.7938996
       cities:
@@ -619,9 +683,11 @@
           longitude: 69.53451
     -
       name: "Urozgan"
+      native: "ارزګان"
       code: "URU"
       iso3166_2: "AF-URU"
       type: "province"
+      type_es: "provincia"
       latitude: 32.8129681
       longitude: 66.0183185
       cities:
@@ -635,9 +701,11 @@
           longitude: 66.63253
     -
       name: "Wardak"
+      native: "میدان وردک"
       code: "WAR"
       iso3166_2: "AF-WAR"
       type: "province"
+      type_es: "provincia"
       latitude: 34.3
       longitude: 68.5
       cities:
@@ -679,9 +747,11 @@
           longitude: 68.63
     -
       name: "Zabul"
+      native: "زابل"
       code: "ZAB"
       iso3166_2: "AF-ZAB"
       type: "province"
+      type_es: "provincia"
       latitude: 32.3068942
       longitude: 67.129904
       cities:

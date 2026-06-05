@@ -1,25 +1,25 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(143, 'Micronesia', 'FM', 'FSM', 'Oceania', 'Micronesia', 'Palikir', 'USD', 6.91666666, 158.25, '🇫🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(143, 'Micronesia', 'Micronesia', 'FM', 'FSM', 'Oceania', 'Oceanía', 'Micronesia', 'Micronesia', 'Palikir', 'USD', 6.91666666, 158.25, '🇫🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2580, 'Chuuk', 143, 'FM', 'TRK', 'state', 7.4393793, 151.8515538),
-(2583, 'Kosrae', 143, 'FM', 'KSA', 'state', 5.3095618, 162.9814877),
-(2581, 'Pohnpei', 143, 'FM', 'PNI', 'state', 6.8870467, 158.2406138),
-(2582, 'Yap', 143, 'FM', 'YAP', 'state', 9.5462683, 138.1651599);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2580, 'Chuuk', 'Chuuk', 143, 'FM', 'TRK', 'state', 'estado', 7.4393793, 151.8515538),
+(2583, 'Kosrae', 'Kosrae', 143, 'FM', 'KSA', 'state', 'estado', 5.3095618, 162.9814877),
+(2581, 'Pohnpei', 'Pohnpei', 143, 'FM', 'PNI', 'state', 'estado', 6.8870467, 158.2406138),
+(2582, 'Yap', 'Yap', 143, 'FM', 'YAP', 'state', 'estado', 9.5462683, 138.1651599);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (39155, 'Eot', 2580, 143, 7.3854, 151.7392),

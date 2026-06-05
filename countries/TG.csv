@@ -1,23 +1,23 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-TG,Togo,Africa,Western Africa,C,Centrale,Sokodé,8.98333,1.13333
-TG,Togo,Africa,Western Africa,C,Centrale,Sotouboua,8.5634,0.98399
-TG,Togo,Africa,Western Africa,C,Centrale,Tchamba,9.03333,1.41667
-TG,Togo,Africa,Western Africa,K,Kara,Bafilo,9.35,1.26667
-TG,Togo,Africa,Western Africa,K,Kara,Bassar,9.25025,0.78213
-TG,Togo,Africa,Western Africa,K,Kara,Kandé,9.95778,1.04472
-TG,Togo,Africa,Western Africa,K,Kara,Kara,9.55111,1.18611
-TG,Togo,Africa,Western Africa,K,Kara,Niamtougou,9.76806,1.10528
-TG,Togo,Africa,Western Africa,K,Kara,Pagouda,9.7525,1.32778
-TG,Togo,Africa,Western Africa,K,Kara,Préfecture de Bassar,9.25,0.75
-TG,Togo,Africa,Western Africa,M,Maritime,Aného,6.22798,1.5919
-TG,Togo,Africa,Western Africa,M,Maritime,Lomé,6.12874,1.22154
-TG,Togo,Africa,Western Africa,M,Maritime,Tabligbo,6.58333,1.5
-TG,Togo,Africa,Western Africa,M,Maritime,Tsévié,6.42611,1.21333
-TG,Togo,Africa,Western Africa,M,Maritime,Vogan,6.33333,1.53333
-TG,Togo,Africa,Western Africa,P,Plateaux,Amlamé,7.46667,0.9
-TG,Togo,Africa,Western Africa,P,Plateaux,Atakpamé,7.53333,1.13333
-TG,Togo,Africa,Western Africa,P,Plateaux,Badou,7.58333,0.6
-TG,Togo,Africa,Western Africa,P,Plateaux,Kpalimé,6.9,0.63333
-TG,Togo,Africa,Western Africa,P,Plateaux,Notsé,6.95,1.16667
-TG,Togo,Africa,Western Africa,S,Savanes,Dapaong,10.86225,0.20762
-TG,Togo,Africa,Western Africa,S,Savanes,Sansanné-Mango,10.35917,0.47083
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,C,Centrale,region,región,Sokodé,8.98333,1.13333
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,C,Centrale,region,región,Sotouboua,8.5634,0.98399
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,C,Centrale,region,región,Tchamba,9.03333,1.41667
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,K,Kara,region,región,Bafilo,9.35,1.26667
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,K,Kara,region,región,Bassar,9.25025,0.78213
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,K,Kara,region,región,Kandé,9.95778,1.04472
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,K,Kara,region,región,Kara,9.55111,1.18611
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,K,Kara,region,región,Niamtougou,9.76806,1.10528
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,K,Kara,region,región,Pagouda,9.7525,1.32778
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,K,Kara,region,región,Préfecture de Bassar,9.25,0.75
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,M,Maritime,region,región,Aného,6.22798,1.5919
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,M,Maritime,region,región,Lomé,6.12874,1.22154
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,M,Maritime,region,región,Tabligbo,6.58333,1.5
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,M,Maritime,region,región,Tsévié,6.42611,1.21333
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,M,Maritime,region,región,Vogan,6.33333,1.53333
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,P,Plateaux,region,región,Amlamé,7.46667,0.9
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,P,Plateaux,region,región,Atakpamé,7.53333,1.13333
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,P,Plateaux,region,región,Badou,7.58333,0.6
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,P,Plateaux,region,región,Kpalimé,6.9,0.63333
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,P,Plateaux,region,región,Notsé,6.95,1.16667
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,S,Savanes,region,región,Dapaong,10.86225,0.20762
+TG,Togo,Togo,Africa,África,Western Africa,África Occidental,S,Savanes,region,región,Sansanné-Mango,10.35917,0.47083

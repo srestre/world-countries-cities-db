@@ -12,16 +12,20 @@
   currency_symbol: "₱"
   tld: ".ph"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 13
   longitude: 122
   emoji: "🇵🇭"
   states:
     -
       name: "Abra"
+      native: "Abra"
       code: "ABR"
       iso3166_2: "PH-ABR"
       type: "province"
+      type_es: "provincia"
       latitude: 17.58
       longitude: 120.8
       cities:
@@ -867,9 +871,11 @@
           longitude: 120.12083333
     -
       name: "Agusan del Norte"
+      native: "Agusan del Norte"
       code: "AGN"
       iso3166_2: "PH-AGN"
       type: "province"
+      type_es: "provincia"
       latitude: 8.92
       longitude: 125.46
       cities:
@@ -1511,9 +1517,11 @@
           longitude: 121.94194444
     -
       name: "Agusan del Sur"
+      native: "Agusan del Sur"
       code: "AGS"
       iso3166_2: "PH-AGS"
       type: "province"
+      type_es: "provincia"
       latitude: 8.36
       longitude: 125.71
       cities:
@@ -2595,9 +2603,11 @@
           longitude: 120.905
     -
       name: "Aklan"
+      native: "Aklan"
       code: "AKL"
       iso3166_2: "PH-AKL"
       type: "province"
+      type_es: "provincia"
       latitude: 11.6297894
       longitude: 122.2481177
       cities:
@@ -2671,9 +2681,11 @@
           longitude: 122.1609695
     -
       name: "Albay"
+      native: "Albay"
       code: "ALB"
       iso3166_2: "PH-ALB"
       type: "province"
+      type_es: "provincia"
       latitude: 13.216667
       longitude: 123.55
       cities:
@@ -3707,9 +3719,11 @@
           longitude: 122.9066
     -
       name: "Antique"
+      native: "Antique"
       code: "ANT"
       iso3166_2: "PH-ANT"
       type: "province"
+      type_es: "provincia"
       latitude: 11.1705066
       longitude: 122.083333
       cities:
@@ -5055,9 +5069,11 @@
           longitude: 123.069
     -
       name: "Apayao"
+      native: "Apayao"
       code: "APA"
       iso3166_2: "PH-APA"
       type: "province"
+      type_es: "provincia"
       latitude: 18.12
       longitude: 121.19
       cities:
@@ -5091,9 +5107,11 @@
           longitude: 121.3990749
     -
       name: "Aurora"
+      native: "Aurora"
       code: "AUR"
       iso3166_2: "PH-AUR"
       type: "province"
+      type_es: "provincia"
       latitude: 16.9908811
       longitude: 121.6358
       cities:
@@ -5131,9 +5149,11 @@
           longitude: 121.3014062
     -
       name: "Autonomous Region in Muslim Mindanao"
+      native: "Autonomous Region in Muslim Mindanao"
       code: "14"
       iso3166_2: "PH-14"
       type: "region"
+      type_es: "región"
       latitude: 7.2242033
       longitude: 124.2470164
       cities:
@@ -5675,9 +5695,11 @@
           longitude: 124.04111
     -
       name: "Basilan"
+      native: "Basilan"
       code: "BAS"
       iso3166_2: "PH-BAS"
       type: "province"
+      type_es: "provincia"
       latitude: 6.5649821
       longitude: 122.0649183
       cities:
@@ -5735,9 +5757,11 @@
           longitude: 122.0250996
     -
       name: "Bataan"
+      native: "Bataan"
       code: "BAN"
       iso3166_2: "PH-BAN"
       type: "province"
+      type_es: "provincia"
       latitude: 14.6436031
       longitude: 120.4657622
       cities:
@@ -6851,9 +6875,11 @@
           longitude: 124.2365
     -
       name: "Batanes"
+      native: "Batanes"
       code: "BTN"
       iso3166_2: "PH-BTN"
       type: "province"
+      type_es: "provincia"
       latitude: 20.6442465
       longitude: 121.8939456
       cities:
@@ -7271,9 +7297,11 @@
           longitude: 125.02194
     -
       name: "Batangas"
+      native: "Batangas"
       code: "BTG"
       iso3166_2: "PH-BTG"
       type: "province"
+      type_es: "provincia"
       latitude: 13.7564651
       longitude: 121.0583076
       cities:
@@ -7411,9 +7439,11 @@
           longitude: 120.6592329
     -
       name: "Benguet"
+      native: "Benguet"
       code: "BEN"
       iso3166_2: "PH-BEN"
       type: "province"
+      type_es: "provincia"
       latitude: 16.52
       longitude: 120.69
       cities:
@@ -8067,18 +8097,22 @@
           longitude: 124.6578
     -
       name: "Bicol"
+      native: "Bicol"
       code: "05"
       iso3166_2: "PH-05"
       type: "region"
+      type_es: "región"
       latitude: 13.0764489
       longitude: 123.5162387
       cities:
         []
     -
       name: "Biliran"
+      native: "Biliran"
       code: "BIL"
       iso3166_2: "PH-BIL"
       type: "province"
+      type_es: "provincia"
       latitude: 11.5853547
       longitude: 124.4854627
       cities:
@@ -8116,9 +8150,11 @@
           longitude: 124.2120104
     -
       name: "Bohol"
+      native: "Bohol"
       code: "BOH"
       iso3166_2: "PH-BOH"
       type: "province"
+      type_es: "provincia"
       latitude: 9.833333
       longitude: 124.1615579
       cities:
@@ -8280,9 +8316,11 @@
           longitude: 123.8728799
     -
       name: "Bukidnon"
+      native: "Bukidnon"
       code: "BUK"
       iso3166_2: "PH-BUK"
       type: "province"
+      type_es: "provincia"
       latitude: 8.022778
       longitude: 124.998611
       cities:
@@ -8776,9 +8814,11 @@
           longitude: 124.58222222
     -
       name: "Bulacan"
+      native: "Bulacan"
       code: "BUL"
       iso3166_2: "PH-BUL"
       type: "province"
+      type_es: "provincia"
       latitude: 15
       longitude: 121.083333
       cities:
@@ -9068,9 +9108,11 @@
           longitude: 126.11027778
     -
       name: "Cagayan"
+      native: "Cagayan"
       code: "CAG"
       iso3166_2: "PH-CAG"
       type: "province"
+      type_es: "provincia"
       latitude: 18
       longitude: 121.833333
       cities:
@@ -9612,9 +9654,11 @@
           longitude: 124.04111111
     -
       name: "Cagayan Valley"
+      native: "Cagayan Valley"
       code: "02"
       iso3166_2: "PH-02"
       type: "region"
+      type_es: "región"
       latitude: 17.6722156
       longitude: 121.8831043
       cities:
@@ -10208,18 +10252,22 @@
           longitude: 121.94194
     -
       name: "Calabarzon"
+      native: "Calabarzon"
       code: "40"
       iso3166_2: "PH-40"
       type: "region"
+      type_es: "región"
       latitude: 14.1658314
       longitude: 121.3535577
       cities:
         []
     -
       name: "Camarines Norte"
+      native: "Camarines Norte"
       code: "CAN"
       iso3166_2: "PH-CAN"
       type: "province"
+      type_es: "provincia"
       latitude: 14.166667
       longitude: 122.75
       cities:
@@ -10461,9 +10509,11 @@
           longitude: 120.64222222
     -
       name: "Camarines Sur"
+      native: "Camarines Sur"
       code: "CAS"
       iso3166_2: "PH-CAS"
       type: "province"
+      type_es: "provincia"
       latitude: 13.6428216
       longitude: 123.3282338
       cities:
@@ -10617,9 +10667,11 @@
           longitude: 123.1883079
     -
       name: "Camiguin"
+      native: "Camiguin"
       code: "CAM"
       iso3166_2: "PH-CAM"
       type: "province"
+      type_es: "provincia"
       latitude: 9.1732164
       longitude: 124.7298765
       cities:
@@ -10645,9 +10697,11 @@
           longitude: 124.6958103
     -
       name: "Capiz"
+      native: "Capiz"
       code: "CAP"
       iso3166_2: "PH-CAP"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3852987
       longitude: 122.6377315
       cities:
@@ -10721,9 +10775,11 @@
           longitude: 122.0643914
     -
       name: "Caraga"
+      native: "Caraga"
       code: "13"
       iso3166_2: "PH-13"
       type: "region"
+      type_es: "región"
       latitude: 9.2517336
       longitude: 125.851666
       cities:
@@ -11005,9 +11061,11 @@
           longitude: 125.9552937
     -
       name: "Catanduanes"
+      native: "Catanduanes"
       code: "CAT"
       iso3166_2: "PH-CAT"
       type: "province"
+      type_es: "provincia"
       latitude: 13.833333
       longitude: 124.25
       cities:
@@ -11057,9 +11115,11 @@
           longitude: 124.1196688
     -
       name: "Cavite"
+      native: "Cavite"
       code: "CAV"
       iso3166_2: "PH-CAV"
       type: "province"
+      type_es: "provincia"
       latitude: 14.4820919
       longitude: 120.908919
       cities:
@@ -11157,9 +11217,11 @@
           longitude: 120.8281166
     -
       name: "Cebu"
+      native: "Cebu"
       code: "CEB"
       iso3166_2: "PH-CEB"
       type: "province"
+      type_es: "provincia"
       latitude: 10.2935639
       longitude: 123.9019209
       cities:
@@ -11377,9 +11439,11 @@
           longitude: 124.4387902
     -
       name: "Central Luzon"
+      native: "Central Luzon"
       code: "03"
       iso3166_2: "PH-03"
       type: "region"
+      type_es: "región"
       latitude: 15.3942729
       longitude: 120.6872959
       cities:
@@ -12437,18 +12501,22 @@
           longitude: 120.90505
     -
       name: "Central Visayas"
+      native: "Central Visayas"
       code: "07"
       iso3166_2: "PH-07"
       type: "region"
+      type_es: "región"
       latitude: 10.4734504
       longitude: 123.8648083
       cities:
         []
     -
       name: "Cordillera Administrative"
+      native: "Cordillera Administrative"
       code: "15"
       iso3166_2: "PH-15"
       type: "region"
+      type_es: "región"
       latitude: 17.3597101
       longitude: 121.0716923
       cities:
@@ -12694,9 +12762,11 @@
           longitude: 120.6256845
     -
       name: "Cotabato"
+      native: "Cotabato"
       code: "NCO"
       iso3166_2: "PH-NCO"
       type: "province"
+      type_es: "provincia"
       latitude: 7.2237628
       longitude: 124.2467062
       cities:
@@ -12802,9 +12872,11 @@
           longitude: 124.80053
     -
       name: "Davao"
+      native: "Davao"
       code: "11"
       iso3166_2: "PH-11"
       type: "region"
+      type_es: "región"
       latitude: 7.0648306
       longitude: 125.6080623
       cities:
@@ -13410,9 +13482,11 @@
           longitude: 125.38917
     -
       name: "Davao de Oro"
+      native: "Davao de Oro"
       code: "COM"
       iso3166_2: "PH-COM"
       type: "province"
+      type_es: "provincia"
       latitude: 7.45
       longitude: 126.07
       cities:
@@ -13462,9 +13536,11 @@
           longitude: 125.7488022
     -
       name: "Davao del Norte"
+      native: "Davao del Norte"
       code: "DAV"
       iso3166_2: "PH-DAV"
       type: "province"
+      type_es: "provincia"
       latitude: 7.6179228
       longitude: 125.6832687
       cities:
@@ -13514,9 +13590,11 @@
           longitude: 125.2722723
     -
       name: "Davao del Sur"
+      native: "Davao del Sur"
       code: "DAS"
       iso3166_2: "PH-DAS"
       type: "province"
+      type_es: "provincia"
       latitude: 6.6983658
       longitude: 125.3612135
       cities:
@@ -13566,9 +13644,11 @@
           longitude: 125.2445658
     -
       name: "Davao Occidental"
+      native: "Davao Occidental"
       code: "DVO"
       iso3166_2: "PH-DVO"
       type: "province"
+      type_es: "provincia"
       latitude: 6.27
       longitude: 125.6
       cities:
@@ -13702,9 +13782,11 @@
           longitude: 125.55974
     -
       name: "Davao Oriental"
+      native: "Davao Oriental"
       code: "DAO"
       iso3166_2: "PH-DAO"
       type: "province"
+      type_es: "provincia"
       latitude: 7.166667
       longitude: 126.333333
       cities:
@@ -13754,9 +13836,11 @@
           longitude: 126.296909
     -
       name: "Dinagat Islands"
+      native: "Dinagat Islands"
       code: "DIN"
       iso3166_2: "PH-DIN"
       type: "province"
+      type_es: "provincia"
       latitude: 10.1577932
       longitude: 125.5851827
       cities:
@@ -13790,9 +13874,11 @@
           longitude: 125.5029162
     -
       name: "Eastern Samar"
+      native: "Eastern Samar"
       code: "EAS"
       iso3166_2: "PH-EAS"
       type: "province"
+      type_es: "provincia"
       latitude: 11.73
       longitude: 125.37
       cities:
@@ -13890,9 +13976,11 @@
           longitude: 125.2652081
     -
       name: "Eastern Visayas"
+      native: "Eastern Visayas"
       code: "08"
       iso3166_2: "PH-08"
       type: "region"
+      type_es: "región"
       latitude: 11.2945278
       longitude: 124.9959508
       cities:
@@ -14294,9 +14382,11 @@
           longitude: 125.02194444
     -
       name: "Guimaras"
+      native: "Guimaras"
       code: "GUI"
       iso3166_2: "PH-GUI"
       type: "province"
+      type_es: "provincia"
       latitude: 10.5730629
       longitude: 122.6238907
       cities:
@@ -14322,9 +14412,11 @@
           longitude: 122.4747973
     -
       name: "Ifugao"
+      native: "Ifugao"
       code: "IFU"
       iso3166_2: "PH-IFU"
       type: "province"
+      type_es: "provincia"
       latitude: 16.87
       longitude: 121.22
       cities:
@@ -14374,9 +14466,11 @@
           longitude: 120.877243
     -
       name: "Ilocos"
+      native: "Ilocos"
       code: "01"
       iso3166_2: "PH-01"
       type: "region"
+      type_es: "región"
       latitude: 17.2
       longitude: 120.5
       cities:
@@ -15206,9 +15300,11 @@
           longitude: 120.12074
     -
       name: "Ilocos Norte"
+      native: "Ilocos Norte"
       code: "ILN"
       iso3166_2: "PH-ILN"
       type: "province"
+      type_es: "provincia"
       latitude: 18.166667
       longitude: 120.75
       cities:
@@ -15306,9 +15402,11 @@
           longitude: 120.6255884
     -
       name: "Ilocos Sur"
+      native: "Ilocos Sur"
       code: "ILS"
       iso3166_2: "PH-ILS"
       type: "province"
+      type_es: "provincia"
       latitude: 17.2
       longitude: 120.5
       cities:
@@ -15450,9 +15548,11 @@
           longitude: 120.3100405
     -
       name: "Iloilo"
+      native: "Iloilo"
       code: "ILI"
       iso3166_2: "PH-ILI"
       type: "province"
+      type_es: "provincia"
       latitude: 10.6932884
       longitude: 122.5732604
       cities:
@@ -15634,9 +15734,11 @@
           longitude: 122.5942029
     -
       name: "Isabela"
+      native: "Isabela"
       code: "ISA"
       iso3166_2: "PH-ISA"
       type: "province"
+      type_es: "provincia"
       latitude: 17
       longitude: 122
       cities:
@@ -15786,9 +15888,11 @@
           longitude: 121.7202119
     -
       name: "Kalinga"
+      native: "Kalinga"
       code: "KAL"
       iso3166_2: "PH-KAL"
       type: "province"
+      type_es: "provincia"
       latitude: 17.46
       longitude: 121.31
       cities:
@@ -15826,9 +15930,11 @@
           longitude: 120.9277854
     -
       name: "La Union"
+      native: "La Union"
       code: "LUN"
       iso3166_2: "PH-LUN"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5735957
       longitude: 120.4089899
       cities:
@@ -15914,9 +16020,11 @@
           longitude: 120.3831614
     -
       name: "Laguna"
+      native: "Laguna"
       code: "LAG"
       iso3166_2: "PH-LAG"
       type: "province"
+      type_es: "provincia"
       latitude: 14.1696476
       longitude: 121.3336526
       cities:
@@ -16038,9 +16146,11 @@
           longitude: 121.2948149
     -
       name: "Lanao del Norte"
+      native: "Lanao del Norte"
       code: "LAN"
       iso3166_2: "PH-LAN"
       type: "province"
+      type_es: "provincia"
       latitude: 7.9579723
       longitude: 123.9021124
       cities:
@@ -16138,9 +16248,11 @@
           longitude: 123.7855728
     -
       name: "Lanao del Sur"
+      native: "Lanao del Sur"
       code: "LAS"
       iso3166_2: "PH-LAS"
       type: "province"
+      type_es: "provincia"
       latitude: 7.8776443
       longitude: 124.3754759
       cities:
@@ -16306,9 +16418,11 @@
           longitude: 124.6389873
     -
       name: "Leyte"
+      native: "Leyte"
       code: "LEY"
       iso3166_2: "PH-LEY"
       type: "province"
+      type_es: "provincia"
       latitude: 10.7841157
       longitude: 124.892321
       cities:
@@ -16486,9 +16600,11 @@
           longitude: 124.3502528
     -
       name: "Maguindanao del Norte"
+      native: "Maguindanao del Norte"
       code: "MGN"
       iso3166_2: "PH-MGN"
       type: "province"
+      type_es: "provincia"
       latitude: 7.1088356
       longitude: 124.2072945
       cities:
@@ -16546,9 +16662,11 @@
           longitude: 124.0747792
     -
       name: "Maguindanao del Sur"
+      native: "Maguindanao del Sur"
       code: "MGS"
       iso3166_2: "PH-MGS"
       type: "province"
+      type_es: "provincia"
       latitude: 6.9234196
       longitude: 124.5365357
       cities:
@@ -16650,9 +16768,11 @@
           longitude: 124.240218
     -
       name: "Marinduque"
+      native: "Marinduque"
       code: "MAD"
       iso3166_2: "PH-MAD"
       type: "province"
+      type_es: "provincia"
       latitude: 13.416667
       longitude: 121.95
       cities:
@@ -16682,9 +16802,11 @@
           longitude: 121.981326
     -
       name: "Masbate"
+      native: "Masbate"
       code: "MAS"
       iso3166_2: "PH-MAS"
       type: "province"
+      type_es: "provincia"
       latitude: 12.3710899
       longitude: 123.6239223
       cities:
@@ -16774,18 +16896,22 @@
           longitude: 123.6679418
     -
       name: "Mimaropa"
+      native: "Mimaropa"
       code: "41"
       iso3166_2: "PH-41"
       type: "region"
+      type_es: "región"
       latitude: 13.0106436
       longitude: 121.4115747
       cities:
         []
     -
       name: "Misamis Occidental"
+      native: "Misamis Occidental"
       code: "MSC"
       iso3166_2: "PH-MSC"
       type: "province"
+      type_es: "provincia"
       latitude: 8.3374903
       longitude: 123.7070619
       cities:
@@ -16859,9 +16985,11 @@
           longitude: 123.5977469
     -
       name: "Misamis Oriental"
+      native: "Misamis Oriental"
       code: "MSR"
       iso3166_2: "PH-MSR"
       type: "province"
+      type_es: "provincia"
       latitude: 8.6534807
       longitude: 124.8235205
       cities:
@@ -16971,9 +17099,11 @@
           longitude: 124.708639
     -
       name: "Mountain Province"
+      native: "Mountain Province"
       code: "MOU"
       iso3166_2: "PH-MOU"
       type: "province"
+      type_es: "provincia"
       latitude: 17.11
       longitude: 121.16
       cities:
@@ -17019,9 +17149,11 @@
           longitude: 120.7413489
     -
       name: "National Capital Region (Metro Manila)"
+      native: "National Capital Region (Metro Manila)"
       code: "00"
       iso3166_2: "PH-00"
       type: "region"
+      type_es: "región"
       latitude: 14.5800297
       longitude: 120.985536
       cities:
@@ -17079,9 +17211,11 @@
           longitude: 120.9833
     -
       name: "Negros Occidental"
+      native: "Negros Occidental"
       code: "NEC"
       iso3166_2: "PH-NEC"
       type: "province"
+      type_es: "provincia"
       latitude: 10.416667
       longitude: 123
       cities:
@@ -17215,9 +17349,11 @@
           longitude: 123.0125388
     -
       name: "Negros Oriental"
+      native: "Negros Oriental"
       code: "NER"
       iso3166_2: "PH-NER"
       type: "province"
+      type_es: "provincia"
       latitude: 9.75
       longitude: 123
       cities:
@@ -17319,18 +17455,22 @@
           longitude: 123.0976505
     -
       name: "Northern Mindanao"
+      native: "Northern Mindanao"
       code: "10"
       iso3166_2: "PH-10"
       type: "region"
+      type_es: "región"
       latitude: 8.3979549
       longitude: 124.710688
       cities:
         []
     -
       name: "Northern Samar"
+      native: "Northern Samar"
       code: "NSA"
       iso3166_2: "PH-NSA"
       type: "province"
+      type_es: "provincia"
       latitude: 12.42
       longitude: 124.81
       cities:
@@ -17432,9 +17572,11 @@
           longitude: 124.2211944
     -
       name: "Nueva Ecija"
+      native: "Nueva Ecija"
       code: "NUE"
       iso3166_2: "PH-NUE"
       type: "province"
+      type_es: "provincia"
       latitude: 15.583333
       longitude: 121
       cities:
@@ -17568,9 +17710,11 @@
           longitude: 120.7155808
     -
       name: "Nueva Vizcaya"
+      native: "Nueva Vizcaya"
       code: "NUV"
       iso3166_2: "PH-NUV"
       type: "province"
+      type_es: "provincia"
       latitude: 16.35
       longitude: 121.13
       cities:
@@ -17636,9 +17780,11 @@
           longitude: 121.0808467
     -
       name: "Occidental Mindoro"
+      native: "Occidental Mindoro"
       code: "MDC"
       iso3166_2: "PH-MDC"
       type: "province"
+      type_es: "provincia"
       latitude: 13.0000021
       longitude: 120.9166666
       cities:
@@ -18588,9 +18734,11 @@
           longitude: 122.4846
     -
       name: "Oriental Mindoro"
+      native: "Oriental Mindoro"
       code: "MDR"
       iso3166_2: "PH-MDR"
       type: "province"
+      type_es: "provincia"
       latitude: 13.2
       longitude: 121.2
       cities:
@@ -19288,9 +19436,11 @@
           longitude: 121.964
     -
       name: "Palawan"
+      native: "Palawan"
       code: "PLW"
       iso3166_2: "PH-PLW"
       type: "province"
+      type_es: "provincia"
       latitude: 9.8778426
       longitude: 118.6764919
       cities:
@@ -19392,9 +19542,11 @@
           longitude: 119.1518128
     -
       name: "Pampanga"
+      native: "Pampanga"
       code: "PAM"
       iso3166_2: "PH-PAM"
       type: "province"
+      type_es: "provincia"
       latitude: 15.0519635
       longitude: 120.6445398
       cities:
@@ -19488,9 +19640,11 @@
           longitude: 120.5363449
     -
       name: "Pangasinan"
+      native: "Pangasinan"
       code: "PAN"
       iso3166_2: "PH-PAN"
       type: "province"
+      type_es: "provincia"
       latitude: 15.916667
       longitude: 120.333333
       cities:
@@ -19688,9 +19842,11 @@
           longitude: 120.4916852
     -
       name: "Quezon"
+      native: "Quezon"
       code: "QUE"
       iso3166_2: "PH-QUE"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0067037
       longitude: 122.1827232
       cities:
@@ -19860,9 +20016,11 @@
           longitude: 121.9258795
     -
       name: "Quirino"
+      native: "Quirino"
       code: "QUI"
       iso3166_2: "PH-QUI"
       type: "province"
+      type_es: "provincia"
       latitude: 16.283333
       longitude: 121.583333
       cities:
@@ -19892,9 +20050,11 @@
           longitude: 121.499215
     -
       name: "Rizal"
+      native: "Rizal"
       code: "RIZ"
       iso3166_2: "PH-RIZ"
       type: "province"
+      type_es: "provincia"
       latitude: 14.65
       longitude: 121.25
       cities:
@@ -19956,9 +20116,11 @@
           longitude: 121.1875131
     -
       name: "Romblon"
+      native: "Romblon"
       code: "ROM"
       iso3166_2: "PH-ROM"
       type: "province"
+      type_es: "provincia"
       latitude: 12.5778016
       longitude: 122.269146
       cities:
@@ -20032,9 +20194,11 @@
           longitude: 122.0435348
     -
       name: "Sarangani"
+      native: "Sarangani"
       code: "SAR"
       iso3166_2: "PH-SAR"
       type: "province"
+      type_es: "provincia"
       latitude: 5.874722
       longitude: 125.275278
       cities:
@@ -20068,9 +20232,11 @@
           longitude: 124.9606191
     -
       name: "Siquijor"
+      native: "Siquijor"
       code: "SIG"
       iso3166_2: "PH-SIG"
       type: "province"
+      type_es: "provincia"
       latitude: 9.18
       longitude: 123.58
       cities:
@@ -20100,9 +20266,11 @@
           longitude: 123.4434089
     -
       name: "Soccsksargen"
+      native: "Soccsksargen"
       code: "12"
       iso3166_2: "PH-12"
       type: "region"
+      type_es: "región"
       latitude: 6.5647277
       longitude: 124.4840255
       cities:
@@ -20760,9 +20928,11 @@
           longitude: 124.5193595
     -
       name: "Sorsogon"
+      native: "Sorsogon"
       code: "SOR"
       iso3166_2: "PH-SOR"
       type: "province"
+      type_es: "provincia"
       latitude: 12.9707848
       longitude: 124.0052543
       cities:
@@ -20828,9 +20998,11 @@
           longitude: 123.8031133
     -
       name: "South Cotabato"
+      native: "South Cotabato"
       code: "SCO"
       iso3166_2: "PH-SCO"
       type: "province"
+      type_es: "provincia"
       latitude: 6.2855239
       longitude: 124.9333096
       cities:
@@ -20884,9 +21056,11 @@
           longitude: 124.8264723
     -
       name: "Southern Leyte"
+      native: "Southern Leyte"
       code: "SLE"
       iso3166_2: "PH-SLE"
       type: "province"
+      type_es: "provincia"
       latitude: 10.3475099
       longitude: 125.1250896
       cities:
@@ -20968,9 +21142,11 @@
           longitude: 124.9047222
     -
       name: "Sultan Kudarat"
+      native: "Sultan Kudarat"
       code: "SUK"
       iso3166_2: "PH-SUK"
       type: "province"
+      type_es: "provincia"
       latitude: 6.5556705
       longitude: 124.3271496
       cities:
@@ -21020,9 +21196,11 @@
           longitude: 124.5904072
     -
       name: "Sulu"
+      native: "Sulu"
       code: "SLU"
       iso3166_2: "PH-SLU"
       type: "province"
+      type_es: "provincia"
       latitude: 5.9942808
       longitude: 121.0787926
       cities:
@@ -21104,9 +21282,11 @@
           longitude: 120.8128577
     -
       name: "Surigao del Norte"
+      native: "Surigao del Norte"
       code: "SUN"
       iso3166_2: "PH-SUN"
       type: "province"
+      type_es: "provincia"
       latitude: 9.7022868
       longitude: 125.5464831
       cities:
@@ -21196,9 +21376,11 @@
           longitude: 125.5255182
     -
       name: "Surigao del Sur"
+      native: "Surigao del Sur"
       code: "SUR"
       iso3166_2: "PH-SUR"
       type: "province"
+      type_es: "provincia"
       latitude: 8.84
       longitude: 126.15
       cities:
@@ -21280,9 +21462,11 @@
           longitude: 125.9672909
     -
       name: "Tarlac"
+      native: "Tarlac"
       code: "TAR"
       iso3166_2: "PH-TAR"
       type: "province"
+      type_es: "provincia"
       latitude: 15.4861218
       longitude: 120.5893473
       cities:
@@ -21360,9 +21544,11 @@
           longitude: 120.6070698
     -
       name: "Tawi-Tawi"
+      native: "Tawi-Tawi"
       code: "TAW"
       iso3166_2: "PH-TAW"
       type: "province"
+      type_es: "provincia"
       latitude: 5.2057
       longitude: 120.0265
       cities:
@@ -21412,9 +21598,11 @@
           longitude: 118.0051141
     -
       name: "Western Samar"
+      native: "Western Samar"
       code: "WSA"
       iso3166_2: "PH-WSA"
       type: "province"
+      type_es: "provincia"
       latitude: 11.833333
       longitude: 125
       cities:
@@ -21524,18 +21712,22 @@
           longitude: 124.8165311
     -
       name: "Western Visayas"
+      native: "Western Visayas"
       code: "06"
       iso3166_2: "PH-06"
       type: "region"
+      type_es: "región"
       latitude: 11.2367324
       longitude: 122.6878187
       cities:
         []
     -
       name: "Zambales"
+      native: "Zambales"
       code: "ZMB"
       iso3166_2: "PH-ZMB"
       type: "province"
+      type_es: "provincia"
       latitude: 15.23
       longitude: 120.12
       cities:
@@ -21597,9 +21789,11 @@
           longitude: 120.1059781
     -
       name: "Zamboanga del Norte"
+      native: "Zamboanga del Norte"
       code: "ZAN"
       iso3166_2: "PH-ZAN"
       type: "province"
+      type_es: "provincia"
       latitude: 8
       longitude: 122.666667
       cities:
@@ -21713,9 +21907,11 @@
           longitude: 122.5957448
     -
       name: "Zamboanga del Sur"
+      native: "Zamboanga del Sur"
       code: "ZAS"
       iso3166_2: "PH-ZAS"
       type: "province"
+      type_es: "provincia"
       latitude: 7.9043
       longitude: 123.3194
       cities:
@@ -21833,18 +22029,22 @@
           longitude: 121.8384294
     -
       name: "Zamboanga Peninsula"
+      native: "Zamboanga Peninsula"
       code: "09"
       iso3166_2: "PH-09"
       type: "region"
+      type_es: "región"
       latitude: 7.7787234
       longitude: 122.7570828
       cities:
         []
     -
       name: "Zamboanga Sibugay"
+      native: "Zamboanga Sibugay"
       code: "ZSI"
       iso3166_2: "PH-ZSI"
       type: "province"
+      type_es: "provincia"
       latitude: 7.7877097
       longitude: 122.5744217
       cities:

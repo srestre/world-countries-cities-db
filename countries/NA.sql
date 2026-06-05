@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(152, 'Namibia', 'NA', 'NAM', 'Africa', 'Southern Africa', 'Windhoek', 'NAD', -22, 17, '🇳🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(152, 'Namibia', 'Namibia', 'NA', 'NAM', 'Africa', 'África', 'Southern Africa', 'África Austral', 'Windhoek', 'NAD', -22, 17, '🇳🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(43, 'Erongo', 152, 'NA', 'ER', 'region', -22.0278147, 15.389358),
-(38, 'Hardap', 152, 'NA', 'HA', 'region', -24.4140944, 17.4134051),
-(45, 'Karas', 152, 'NA', 'KA', 'region', -26.8752094, 17.7634818),
-(36, 'Kavango East', 152, 'NA', 'KE', 'region', -18.3982355, 20.72468),
-(35, 'Kavango West', 152, 'NA', 'KW', 'region', -18.256111, 18.970201),
-(44, 'Khomas', 152, 'NA', 'KH', 'region', -22.9082553, 17.09198),
-(34, 'Kunene', 152, 'NA', 'KU', 'region', -19.6792809, 13.9756564),
-(40, 'Ohangwena', 152, 'NA', 'OW', 'region', -17.5877369, 16.7737955),
-(41, 'Omaheke', 152, 'NA', 'OH', 'region', -21.9074676, 19.3929661),
-(39, 'Omusati', 152, 'NA', 'OS', 'region', -18.2862314, 14.8856679),
-(37, 'Oshana', 152, 'NA', 'ON', 'region', -18.4702308, 15.7434419),
-(42, 'Oshikoto', 152, 'NA', 'OT', 'region', -18.5464046, 17.1019606),
-(46, 'Otjozondjupa', 152, 'NA', 'OD', 'region', -19.9424962, 18.395886),
-(47, 'Zambezi', 152, 'NA', 'CA', 'region', -17.6912922, 24.1377371);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(43, 'Erongo', 'Erongo', 152, 'NA', 'ER', 'region', 'región', -22.0278147, 15.389358),
+(38, 'Hardap', 'Hardap', 152, 'NA', 'HA', 'region', 'región', -24.4140944, 17.4134051),
+(45, 'Karas', 'Karas', 152, 'NA', 'KA', 'region', 'región', -26.8752094, 17.7634818),
+(36, 'Kavango East', 'Kavango East', 152, 'NA', 'KE', 'region', 'región', -18.3982355, 20.72468),
+(35, 'Kavango West', 'Kavango West', 152, 'NA', 'KW', 'region', 'región', -18.256111, 18.970201),
+(44, 'Khomas', 'Khomas', 152, 'NA', 'KH', 'region', 'región', -22.9082553, 17.09198),
+(34, 'Kunene', 'Kunene', 152, 'NA', 'KU', 'region', 'región', -19.6792809, 13.9756564),
+(40, 'Ohangwena', 'Ohangwena', 152, 'NA', 'OW', 'region', 'región', -17.5877369, 16.7737955),
+(41, 'Omaheke', 'Omaheke', 152, 'NA', 'OH', 'region', 'región', -21.9074676, 19.3929661),
+(39, 'Omusati', 'Omusati', 152, 'NA', 'OS', 'region', 'región', -18.2862314, 14.8856679),
+(37, 'Oshana', 'Oshana', 152, 'NA', 'ON', 'region', 'región', -18.4702308, 15.7434419),
+(42, 'Oshikoto', 'Oshikoto', 152, 'NA', 'OT', 'region', 'región', -18.5464046, 17.1019606),
+(46, 'Otjozondjupa', 'Otjozondjupa', 152, 'NA', 'OD', 'region', 'región', -19.9424962, 18.395886),
+(47, 'Zambezi', 'Zambezi', 152, 'NA', 'CA', 'region', 'región', -17.6912922, 24.1377371);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (76626, 'Arandis', 43, 152, -22.41667, 14.96667),

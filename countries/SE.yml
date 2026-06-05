@@ -12,16 +12,20 @@
   currency_symbol: "ko"
   tld: ".se"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 62
   longitude: 15
   emoji: "🇸🇪"
   states:
     -
       name: "Blekinge"
+      native: "Blekinge"
       code: "K"
       iso3166_2: "SE-K"
       type: "county"
+      type_es: "condado"
       latitude: 56.1240122
       longitude: 15.4022088
       cities:
@@ -95,9 +99,11 @@
           longitude: 14.76667
     -
       name: "Dalarna"
+      native: "Dalarna"
       code: "W"
       iso3166_2: "SE-W"
       type: "county"
+      type_es: "condado"
       latitude: 61.0603778
       longitude: 14.2150873
       cities:
@@ -243,9 +249,11 @@
           longitude: 15.01667
     -
       name: "Gävleborg"
+      native: "Gävleborg"
       code: "X"
       iso3166_2: "SE-X"
       type: "county"
+      type_es: "condado"
       latitude: 61.2603424
       longitude: 16.6946985
       cities:
@@ -363,9 +371,11 @@
           longitude: 17.03333
     -
       name: "Gotland"
+      native: "Gotland"
       code: "I"
       iso3166_2: "SE-I"
       type: "county"
+      type_es: "condado"
       latitude: 57.4998732
       longitude: 18.4998927
       cities:
@@ -391,9 +401,11 @@
           longitude: 18.29602
     -
       name: "Halland"
+      native: "Halland"
       code: "N"
       iso3166_2: "SE-N"
       type: "county"
+      type_es: "condado"
       latitude: 56.9608104
       longitude: 12.8547066
       cities:
@@ -535,18 +547,22 @@
           longitude: 13.06667
     -
       name: "Jämtland"
+      native: "Jämtland"
       code: "Z"
       iso3166_2: "SE-Z"
       type: "county"
+      type_es: "condado"
       latitude: 63.3452222
       longitude: 14.124986
       cities:
         []
     -
       name: "Jönköping"
+      native: "Jönköping"
       code: "F"
       iso3166_2: "SE-F"
       type: "county"
+      type_es: "condado"
       latitude: 57.7825634
       longitude: 14.165719
       cities:
@@ -708,9 +724,11 @@
           longitude: 14.46667
     -
       name: "Kalmar"
+      native: "Kalmar"
       code: "H"
       iso3166_2: "SE-H"
       type: "county"
+      type_es: "condado"
       latitude: 56.666667
       longitude: 16.333056
       cities:
@@ -844,9 +862,11 @@
           longitude: 15.58333
     -
       name: "Kronoberg"
+      native: "Kronoberg"
       code: "G"
       iso3166_2: "SE-G"
       type: "county"
+      type_es: "condado"
       latitude: 56.8006781
       longitude: 14.411161
       cities:
@@ -932,9 +952,11 @@
           longitude: 14.45
     -
       name: "Norrbotten"
+      native: "Norrbotten"
       code: "BD"
       iso3166_2: "SE-BD"
       type: "county"
+      type_es: "condado"
       latitude: 66.52825
       longitude: 22.95302
       cities:
@@ -1056,9 +1078,11 @@
           longitude: 22.65128
     -
       name: "Örebro"
+      native: "Örebro"
       code: "T"
       iso3166_2: "SE-T"
       type: "county"
+      type_es: "condado"
       latitude: 59.2747287
       longitude: 15.2151181
       cities:
@@ -1160,9 +1184,11 @@
           longitude: 14.95
     -
       name: "Östergötland"
+      native: "Östergötland"
       code: "E"
       iso3166_2: "SE-E"
       type: "county"
+      type_es: "condado"
       latitude: 58.3650249
       longitude: 16.0447142
       cities:
@@ -1316,9 +1342,11 @@
           longitude: 15.43201
     -
       name: "Skåne"
+      native: "Skåne"
       code: "M"
       iso3166_2: "SE-M"
       type: "county"
+      type_es: "condado"
       latitude: 55.8479416
       longitude: 13.6337117
       cities:
@@ -1792,9 +1820,11 @@
           longitude: 13.82041
     -
       name: "Södermanland"
+      native: "Södermanland"
       code: "D"
       iso3166_2: "SE-D"
       type: "county"
+      type_es: "condado"
       latitude: 58.9649214
       longitude: 16.7294012
       cities:
@@ -1904,9 +1934,11 @@
           longitude: 15.87374
     -
       name: "Stockholm"
+      native: "Stockholm"
       code: "AB"
       iso3166_2: "SE-AB"
       type: "county"
+      type_es: "condado"
       latitude: 59.3336173
       longitude: 18.0276973
       cities:
@@ -2232,9 +2264,11 @@
           longitude: 18.35317
     -
       name: "Uppsala"
+      native: "Uppsala"
       code: "C"
       iso3166_2: "SE-C"
       type: "county"
+      type_es: "condado"
       latitude: 59.8661986
       longitude: 17.5984327
       cities:
@@ -2368,9 +2402,11 @@
           longitude: 17.73333
     -
       name: "Värmland"
+      native: "Värmland"
       code: "S"
       iso3166_2: "SE-S"
       type: "county"
+      type_es: "condado"
       latitude: 59.8907624
       longitude: 13.2947617
       cities:
@@ -2484,9 +2520,11 @@
           longitude: 13.18633
     -
       name: "Västerbotten"
+      native: "Västerbotten"
       code: "AC"
       iso3166_2: "SE-AC"
       type: "county"
+      type_es: "condado"
       latitude: 64.728471
       longitude: 18.5533235
       cities:
@@ -2640,9 +2678,11 @@
           longitude: 19.71945
     -
       name: "Västernorrland"
+      native: "Västernorrland"
       code: "Y"
       iso3166_2: "SE-Y"
       type: "county"
+      type_es: "condado"
       latitude: 63.0589693
       longitude: 18.1013686
       cities:
@@ -2752,9 +2792,11 @@
           longitude: 17.41667
     -
       name: "Västmanland"
+      native: "Västmanland"
       code: "U"
       iso3166_2: "SE-U"
       type: "county"
+      type_es: "condado"
       latitude: 59.6965639
       longitude: 16.1846541
       cities:
@@ -2840,9 +2882,11 @@
           longitude: 16.56445
     -
       name: "Västra Götaland"
+      native: "Västra Götaland"
       code: "O"
       iso3166_2: "SE-O"
       type: "county"
+      type_es: "condado"
       latitude: 58.2158502
       longitude: 12.6518208
       cities:

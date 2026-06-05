@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(110, 'Jersey', 'JE', 'JEY', 'Europe', 'Northern Europe', 'Saint Helier', 'GBP', 49.25, -2.16666666, '🇯🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(110, 'Jersey', 'Jersey', 'JE', 'JEY', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Saint Helier', 'GBP', 49.25, -2.16666666, '🇯🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5309, 'Grouville', 110, 'JE', '01', 'parish', 49.18404, -2.0516828),
-(5310, 'St Brelade', 110, 'JE', '02', 'parish', 49.1851255, -2.2010341),
-(5311, 'St Clement', 110, 'JE', '03', 'parish', 49.1736373, -2.0562124),
-(5312, 'St Helier', 110, 'JE', '04', 'parish', 49.1856637, -2.1102277),
-(5313, 'St John', 110, 'JE', '05', 'parish', 49.2465535, -2.1349726),
-(5314, 'St Lawrence', 110, 'JE', '06', 'parish', 49.2149124, -2.1416892),
-(5315, 'St Martin', 110, 'JE', '07', 'parish', 49.2177274, -2.0516314),
-(5316, 'St Mary', 110, 'JE', '08', 'parish', 49.2364029, -2.1716245),
-(5317, 'St Ouen', 110, 'JE', '09', 'parish', 49.2335087, -2.2020406),
-(5318, 'St Peter', 110, 'JE', '10', 'parish', 49.2128288, -2.18372),
-(5319, 'St Saviour', 110, 'JE', '11', 'parish', 49.1948946, -2.0903183),
-(5320, 'Trinity', 110, 'JE', '12', 'parish', 49.234492, -2.0929268);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5309, 'Grouville', 'Grouville', 110, 'JE', '01', 'parish', 'parroquia', 49.18404, -2.0516828),
+(5310, 'St Brelade', 'St Brelade', 110, 'JE', '02', 'parish', 'parroquia', 49.1851255, -2.2010341),
+(5311, 'St Clement', 'St Clement', 110, 'JE', '03', 'parish', 'parroquia', 49.1736373, -2.0562124),
+(5312, 'St Helier', 'St Helier', 110, 'JE', '04', 'parish', 'parroquia', 49.1856637, -2.1102277),
+(5313, 'St John', 'St John', 110, 'JE', '05', 'parish', 'parroquia', 49.2465535, -2.1349726),
+(5314, 'St Lawrence', 'St Lawrence', 110, 'JE', '06', 'parish', 'parroquia', 49.2149124, -2.1416892),
+(5315, 'St Martin', 'St Martin', 110, 'JE', '07', 'parish', 'parroquia', 49.2177274, -2.0516314),
+(5316, 'St Mary', 'St Mary', 110, 'JE', '08', 'parish', 'parroquia', 49.2364029, -2.1716245),
+(5317, 'St Ouen', 'St oes', 110, 'JE', '09', 'parish', 'parroquia', 49.2335087, -2.2020406),
+(5318, 'St Peter', 'St Peter', 110, 'JE', '10', 'parish', 'parroquia', 49.2128288, -2.18372),
+(5319, 'St Saviour', 'St Saviour', 110, 'JE', '11', 'parish', 'parroquia', 49.1948946, -2.0903183),
+(5320, 'Trinity', 'Trinity', 110, 'JE', '12', 'parish', 'parroquia', 49.234492, -2.0929268);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (154101, 'Vingtaine de la Rocque', 5309, 110, 49.1704888, -2.0338914),

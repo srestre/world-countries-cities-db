@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".es"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 40
   longitude: -4
   emoji: "🇪🇸"
   states:
     -
       name: "A Coruña"
+      native: "A Coruña"
       code: "C"
       iso3166_2: "ES-C"
       type: "province"
+      type_es: "provincia"
       latitude: 43.3709703
       longitude: -8.3959425
       cities:
@@ -411,9 +415,11 @@
           longitude: -8.91558
     -
       name: "Albacete"
+      native: "Albacete"
       code: "AB"
       iso3166_2: "ES-AB"
       type: "province"
+      type_es: "provincia"
       latitude: 38.9950921
       longitude: -1.8559154
       cities:
@@ -767,9 +773,11 @@
           longitude: -2.321546
     -
       name: "Alicante"
+      native: "Alicante"
       code: "A"
       iso3166_2: "ES-A"
       type: "province"
+      type_es: "provincia"
       latitude: 38.3436365
       longitude: -0.4881708
       cities:
@@ -1339,9 +1347,11 @@
           longitude: -0.0110143
     -
       name: "Almeria"
+      native: "Almeria"
       code: "AL"
       iso3166_2: "ES-AL"
       type: "province"
+      type_es: "provincia"
       latitude: 36.8414197
       longitude: -2.4628135
       cities:
@@ -1755,18 +1765,22 @@
           longitude: -2.03985
     -
       name: "Andalusia"
+      native: "Andalucía"
       code: "AN"
       iso3166_2: "ES-AN"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 37.3399964
       longitude: -4.5811614
       cities:
         []
     -
       name: "Araba"
+      native: "Auto"
       code: "VI"
       iso3166_2: "ES-VI"
       type: "province"
+      type_es: "provincia"
       latitude: 42.8440722
       longitude: -2.6820829
       cities:
@@ -1976,18 +1990,22 @@
           longitude: -2.8377656
     -
       name: "Aragon"
+      native: "Aragón"
       code: "AR"
       iso3166_2: "ES-AR"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 41.3787291
       longitude: -0.7639373
       cities:
         []
     -
       name: "Asturias"
+      native: "Asturias"
       code: "O"
       iso3166_2: "ES-O"
       type: "province"
+      type_es: "provincia"
       latitude: 43.3133868
       longitude: -5.94192
       cities:
@@ -2301,18 +2319,22 @@
           longitude: -6.0996978
     -
       name: "Asturias, Principality of"
+      native: "Principado de Asturias"
       code: "AS"
       iso3166_2: "ES-AS"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 43.36138889
       longitude: -5.84777778
       cities:
         []
     -
       name: "Ávila"
+      native: "Ávila"
       code: "AV"
       iso3166_2: "ES-AV"
       type: "province"
+      type_es: "provincia"
       latitude: 40.6232768
       longitude: -4.8354202
       cities:
@@ -3310,9 +3332,11 @@
           longitude: -5.32826
     -
       name: "Badajoz"
+      native: "Badajoz"
       code: "BA"
       iso3166_2: "ES-BA"
       type: "province"
+      type_es: "provincia"
       latitude: 38.878187
       longitude: -6.9701115
       cities:
@@ -3970,18 +3994,22 @@
           longitude: -5.1640605
     -
       name: "Balearic Islands"
+      native: "Islas Baleares"
       code: "IB"
       iso3166_2: "ES-IB"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 39.613432
       longitude: 2.8829185
       cities:
         []
     -
       name: "Barcelona"
+      native: "Barcelona"
       code: "B"
       iso3166_2: "ES-B"
       type: "province"
+      type_es: "provincia"
       latitude: 41.3825802
       longitude: 2.177073
       cities:
@@ -5231,18 +5259,22 @@
           longitude: 1.8025852
     -
       name: "Basque Country"
+      native: "País vasco"
       code: "PV"
       iso3166_2: "ES-PV"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 42.9911816
       longitude: -2.5543023
       cities:
         []
     -
       name: "Bizkaia"
+      native: "Bizkaia"
       code: "BI"
       iso3166_2: "ES-BI"
       type: "province"
+      type_es: "provincia"
       latitude: 43.238482
       longitude: -2.8516316
       cities:
@@ -5696,9 +5728,11 @@
           longitude: -2.5497101
     -
       name: "Burgos"
+      native: "Burgos"
       code: "BU"
       iso3166_2: "ES-BU"
       type: "province"
+      type_es: "provincia"
       latitude: 42.3247142
       longitude: -3.6765389
       cities:
@@ -7188,9 +7222,11 @@
           longitude: -3.22632
     -
       name: "Caceres"
+      native: "Cáceres"
       code: "CC"
       iso3166_2: "ES-CC"
       type: "province"
+      type_es: "provincia"
       latitude: 39.4745175
       longitude: -6.3716761
       cities:
@@ -8072,9 +8108,11 @@
           longitude: -5.69973
     -
       name: "Cádiz"
+      native: "Cádiz"
       code: "CA"
       iso3166_2: "ES-CA"
       type: "province"
+      type_es: "provincia"
       latitude: 36.5297438
       longitude: -6.2928976
       cities:
@@ -8256,18 +8294,22 @@
           longitude: -5.39128
     -
       name: "Canary Islands"
+      native: "Canarias"
       code: "CN"
       iso3166_2: "ES-CN"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 28.2935785
       longitude: -16.6214471
       cities:
         []
     -
       name: "Cantabria"
+      native: "Furtivo"
       code: "S"
       iso3166_2: "ES-S"
       type: "province"
+      type_es: "provincia"
       latitude: 43.1595664
       longitude: -4.0878382
       cities:
@@ -8697,18 +8739,22 @@
           longitude: -3.5205641
     -
       name: "Cantabria"
+      native: "Cantabria"
       code: "CB"
       iso3166_2: "ES-CB"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 43.33333333
       longitude: -4
       cities:
         []
     -
       name: "Castellón"
+      native: "Castellón"
       code: "CS"
       iso3166_2: "ES-CS"
       type: "province"
+      type_es: "provincia"
       latitude: 40.2518568
       longitude: -0.0615052
       cities:
@@ -9254,45 +9300,55 @@
           longitude: -0.41667
     -
       name: "Castile and Leon"
+      native: "Castile and Leon"
       code: "CL"
       iso3166_2: "ES-CL"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 41.55005
       longitude: -5.1387401
       cities:
         []
     -
       name: "Castilla-La Mancha"
+      native: "Castilla-La Mancha"
       code: "CM"
       iso3166_2: "ES-CM"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 39.4177902
       longitude: -2.6232332
       cities:
         []
     -
       name: "Catalonia"
+      native: "Cataluña"
       code: "CT"
       iso3166_2: "ES-CT"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 41.8523094
       longitude: 1.5745043
       cities:
         []
     -
       name: "Ceuta"
+      native: "Ceuta"
       code: "CE"
       iso3166_2: "ES-CE"
       type: "autonomous city"
+      type_es: "ciudad autónoma"
       latitude: 35.888361
       longitude: -5.304138
       cities:
         []
     -
       name: "Ciudad Real"
+      native: "Ciudad Real"
       code: "CR"
       iso3166_2: "ES-CR"
       type: "province"
+      type_es: "provincia"
       latitude: 38.9854201
       longitude: -3.9285138
       cities:
@@ -9702,18 +9758,22 @@
           longitude: -3.56348
     -
       name: "Community of Madrid"
+      native: "Comunidad de Madrid"
       code: "MD"
       iso3166_2: "ES-MD"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 40.5248319
       longitude: -3.7715628
       cities:
         []
     -
       name: "Córdoba"
+      native: "Córdoba"
       code: "CO"
       iso3166_2: "ES-CO"
       type: "province"
+      type_es: "provincia"
       latitude: 37.9567116
       longitude: -4.8477241
       cities:
@@ -10019,9 +10079,11 @@
           longitude: -4.31531
     -
       name: "Cuenca"
+      native: "Cuenca"
       code: "CU"
       iso3166_2: "ES-CU"
       type: "province"
+      type_es: "provincia"
       latitude: 40.0661031
       longitude: -2.1313528
       cities:
@@ -10975,27 +11037,33 @@
           longitude: -2.11034
     -
       name: "Estremadura"
+      native: "Extremo"
       code: "EX"
       iso3166_2: "ES-EX"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 39.1748426
       longitude: -6.1529891
       cities:
         []
     -
       name: "Galicia"
+      native: "Galicia"
       code: "GA"
       iso3166_2: "ES-GA"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 42.61946
       longitude: -7.863112
       cities:
         []
     -
       name: "Gipuzkoa"
+      native: "Gipuzkoa"
       code: "SS"
       iso3166_2: "ES-SS"
       type: "province"
+      type_es: "provincia"
       latitude: 43.1445278
       longitude: -2.2037955
       cities:
@@ -11353,9 +11421,11 @@
           longitude: -2.31408
     -
       name: "Girona"
+      native: "Girona"
       code: "GI"
       iso3166_2: "ES-GI"
       type: "province"
+      type_es: "provincia"
       latitude: 41.9793006
       longitude: 2.8199439
       cities:
@@ -12241,9 +12311,11 @@
           longitude: 3
     -
       name: "Granada"
+      native: "Granada"
       code: "GR"
       iso3166_2: "ES-GR"
       type: "province"
+      type_es: "provincia"
       latitude: 37.1734995
       longitude: -3.5995337
       cities:
@@ -12921,9 +12993,11 @@
           longitude: -2.84197
     -
       name: "Guadalajara"
+      native: "Guadalajara"
       code: "GU"
       iso3166_2: "ES-GU"
       type: "province"
+      type_es: "provincia"
       latitude: 40.6326979
       longitude: -3.1646067
       cities:
@@ -14081,9 +14155,11 @@
           longitude: -2.88764
     -
       name: "Huelva"
+      native: "Huelva"
       code: "H"
       iso3166_2: "ES-H"
       type: "province"
+      type_es: "provincia"
       latitude: 37.2575874
       longitude: -6.9484945
       cities:
@@ -14405,9 +14481,11 @@
           longitude: -6.33333
     -
       name: "Huesca"
+      native: "Huesca"
       code: "HU"
       iso3166_2: "ES-HU"
       type: "province"
+      type_es: "provincia"
       latitude: 42.1363786
       longitude: -0.4365837
       cities:
@@ -15289,9 +15367,11 @@
           longitude: 0.26429
     -
       name: "Islas Baleares"
+      native: "Islas Baleares"
       code: "PM"
       iso3166_2: "ES-PM"
       type: "province"
+      type_es: "provincia"
       latitude: 39.613432
       longitude: 2.8829185
       cities:
@@ -15689,9 +15769,11 @@
           longitude: 3.08815
     -
       name: "Jaén"
+      native: "Jaén"
       code: "J"
       iso3166_2: "ES-J"
       type: "province"
+      type_es: "provincia"
       latitude: 37.7728858
       longitude: -3.7883289
       cities:
@@ -16085,18 +16167,22 @@
           longitude: -3.6927531
     -
       name: "La Rioja"
+      native: "La Rioja"
       code: "RI"
       iso3166_2: "ES-RI"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 42.25
       longitude: -2.5
       cities:
         []
     -
       name: "La Rioja"
+      native: "La Rioja"
       code: "LO"
       iso3166_2: "ES-LO"
       type: "province"
+      type_es: "provincia"
       latitude: 42.2814642
       longitude: -2.482805
       cities:
@@ -16802,9 +16888,11 @@
           longitude: -3.03925
     -
       name: "Las Palmas"
+      native: "Las Palmas"
       code: "GC"
       iso3166_2: "ES-GC"
       type: "province"
+      type_es: "provincia"
       latitude: 27.9580004
       longitude: -15.6062305
       cities:
@@ -17098,9 +17186,11 @@
           longitude: -13.76535
     -
       name: "León"
+      native: "León"
       code: "LE"
       iso3166_2: "ES-LE"
       type: "province"
+      type_es: "provincia"
       latitude: 42.5987041
       longitude: -5.5670839
       cities:
@@ -18062,9 +18152,11 @@
           longitude: -5.73617
     -
       name: "Lleida"
+      native: "Lleida"
       code: "L"
       iso3166_2: "ES-L"
       type: "province"
+      type_es: "provincia"
       latitude: 41.6147605
       longitude: 0.6267842
       cities:
@@ -18994,9 +19086,11 @@
           longitude: 0.98333
     -
       name: "Lugo"
+      native: "Lugo"
       code: "LU"
       iso3166_2: "ES-LU"
       type: "province"
+      type_es: "provincia"
       latitude: 43.0118437
       longitude: -7.5565749
       cities:
@@ -19278,9 +19372,11 @@
           longitude: -7.5123498
     -
       name: "Madrid"
+      native: "Madrid"
       code: "M"
       iso3166_2: "ES-M"
       type: "province"
+      type_es: "provincia"
       latitude: 40.4167515
       longitude: -3.7038322
       cities:
@@ -20158,9 +20254,11 @@
           longitude: -4.18176
     -
       name: "Málaga"
+      native: "Málaga"
       code: "MA"
       iso3166_2: "ES-MA"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7213028
       longitude: -4.4216366
       cities:
@@ -20570,18 +20668,22 @@
           longitude: -4.92122
     -
       name: "Melilla"
+      native: "Melilla"
       code: "ML"
       iso3166_2: "ES-ML"
       type: "autonomous city"
+      type_es: "ciudad autónoma"
       latitude: 35.2937
       longitude: -2.9383
       cities:
         []
     -
       name: "Murcia"
+      native: "Murcia"
       code: "MU"
       iso3166_2: "ES-MU"
       type: "province"
+      type_es: "provincia"
       latitude: 37.9923795
       longitude: -1.1305431
       cities:
@@ -20835,9 +20937,11 @@
           longitude: -1.11468
     -
       name: "Navarra"
+      native: "Navarra"
       code: "NA"
       iso3166_2: "ES-NA"
       type: "province"
+      type_es: "provincia"
       latitude: 42.6125488
       longitude: -1.8307877
       cities:
@@ -22079,18 +22183,22 @@
           longitude: -2.29982
     -
       name: "Navarre"
+      native: "Navarra"
       code: "NC"
       iso3166_2: "ES-NC"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 42.6125488
       longitude: -1.8307877
       cities:
         []
     -
       name: "Ourense"
+      native: "Nuestro"
       code: "OR"
       iso3166_2: "ES-OR"
       type: "province"
+      type_es: "provincia"
       latitude: 42.3438932
       longitude: -7.8571792
       cities:
@@ -22484,9 +22592,11 @@
           longitude: -7.6293843
     -
       name: "Palencia"
+      native: "Palencia"
       code: "P"
       iso3166_2: "ES-P"
       type: "province"
+      type_es: "provincia"
       latitude: 42.0096832
       longitude: -4.5287949
       cities:
@@ -23256,9 +23366,11 @@
           longitude: -4.48122
     -
       name: "Pontevedra"
+      native: "Pontevedra"
       code: "PO"
       iso3166_2: "ES-PO"
       type: "province"
+      type_es: "provincia"
       latitude: 42.4318876
       longitude: -8.6431592
       cities:
@@ -23524,18 +23636,22 @@
           longitude: -8.79353
     -
       name: "Region of Murcia"
+      native: "Región de Murcia"
       code: "MC"
       iso3166_2: "ES-MC"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 38.0640123
       longitude: -1.6719377
       cities:
         []
     -
       name: "Salamanca"
+      native: "Salamanca"
       code: "SA"
       iso3166_2: "ES-SA"
       type: "province"
+      type_es: "provincia"
       latitude: 40.7665582
       longitude: -6.021765
       cities:
@@ -24989,9 +25105,11 @@
           longitude: -5.19659
     -
       name: "Santa Cruz de Tenerife"
+      native: "Santa Cruz de Tenerife"
       code: "TF"
       iso3166_2: "ES-TF"
       type: "province"
+      type_es: "provincia"
       latitude: 28.467178
       longitude: -16.2507843
       cities:
@@ -25213,9 +25331,11 @@
           longitude: -17.7806753
     -
       name: "Segovia"
+      native: "Segovia"
       code: "SG"
       iso3166_2: "ES-SG"
       type: "province"
+      type_es: "provincia"
       latitude: 40.9429296
       longitude: -4.1088942
       cities:
@@ -26057,9 +26177,11 @@
           longitude: -4.18457
     -
       name: "Sevilla"
+      native: "Sevilla"
       code: "SE"
       iso3166_2: "ES-SE"
       type: "province"
+      type_es: "provincia"
       latitude: 37.3886303
       longitude: -5.9953403
       cities:
@@ -26485,9 +26607,11 @@
           longitude: -5.87443
     -
       name: "Soria"
+      native: "Soria"
       code: "SO"
       iso3166_2: "ES-SO"
       type: "province"
+      type_es: "provincia"
       latitude: 41.7633842
       longitude: -2.4642041
       cities:
@@ -27225,9 +27349,11 @@
           longitude: -2.51667
     -
       name: "Tarragona"
+      native: "Tarragona"
       code: "T"
       iso3166_2: "ES-T"
       type: "province"
+      type_es: "provincia"
       latitude: 41.1172364
       longitude: 1.2546057
       cities:
@@ -27969,9 +28095,11 @@
           longitude: 0.489172
     -
       name: "Teruel"
+      native: "Teruel"
       code: "TE"
       iso3166_2: "ES-TE"
       type: "province"
+      type_es: "provincia"
       latitude: 40.345041
       longitude: -1.1184744
       cities:
@@ -28917,9 +29045,11 @@
           longitude: -0.93889
     -
       name: "Toledo"
+      native: "Toledo"
       code: "TO"
       iso3166_2: "ES-TO"
       type: "province"
+      type_es: "provincia"
       latitude: 39.8560679
       longitude: -4.0239568
       cities:
@@ -29741,9 +29871,11 @@
           longitude: -3.87106
     -
       name: "Valencia"
+      native: "Valencia"
       code: "V"
       iso3166_2: "ES-V"
       type: "province"
+      type_es: "provincia"
       latitude: 39.3342058
       longitude: -0.7973474
       cities:
@@ -31113,18 +31245,22 @@
           longitude: -1.07532
     -
       name: "Valencian Community"
+      native: "Comunidad valenciana"
       code: "VC"
       iso3166_2: "ES-VC"
       type: "autonomous community"
+      type_es: "comunidad autónoma"
       latitude: 39.6819591
       longitude: -0.7654406
       cities:
         []
     -
       name: "Valladolid"
+      native: "Valladolid"
       code: "VA"
       iso3166_2: "ES-VA"
       type: "province"
+      type_es: "provincia"
       latitude: 41.6517375
       longitude: -4.724495
       cities:
@@ -32030,9 +32166,11 @@
           longitude: -4.78417
     -
       name: "Zamora"
+      native: "Zamora"
       code: "ZA"
       iso3166_2: "ES-ZA"
       type: "province"
+      type_es: "provincia"
       latitude: 41.6857693
       longitude: -5.942315
       cities:
@@ -33030,9 +33168,11 @@
           longitude: -5.74456
     -
       name: "Zaragoza"
+      native: "Zaragoza"
       code: "Z"
       iso3166_2: "ES-Z"
       type: "province"
+      type_es: "provincia"
       latitude: 41.6521342
       longitude: -0.8809428
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "CF"
   tld: ".km"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -12.16666666
   longitude: 44.25
   emoji: "🇰🇲"
   states:
     -
       name: "Anjouan"
+      native: "أنجوان"
       code: "A"
       iso3166_2: "KM-A"
       type: "island"
+      type_es: "isla"
       latitude: -12.2265681
       longitude: 44.4107049
       cities:
@@ -191,9 +195,11 @@
           longitude: 44.37444
     -
       name: "Grande Comore"
+      native: "قادم طويل القامة"
       code: "G"
       iso3166_2: "KM-G"
       type: "island"
+      type_es: "isla"
       latitude: -11.6525688
       longitude: 43.3309706
       cities:
@@ -359,9 +365,11 @@
           longitude: 43.25306
     -
       name: "Mohéli"
+      native: "موهلي"
       code: "M"
       iso3166_2: "KM-M"
       type: "island"
+      type_es: "isla"
       latitude: -12.3204573
       longitude: 43.7204313
       cities:

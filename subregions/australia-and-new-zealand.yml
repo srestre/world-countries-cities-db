@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".au"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   latitude: -27
   longitude: 133
   emoji: "🇦🇺"
   states:
     -
       name: "Australian Capital Territory"
+      native: "Australian Capital Territory"
       code: "ACT"
       iso3166_2: "AU-ACT"
       type: "territory"
+      type_es: "territorio"
       latitude: -35.4883502
       longitude: 149.0026942
       cities:
@@ -407,9 +411,11 @@
           longitude: 149.10585
     -
       name: "New South Wales"
+      native: "New South Wales"
       code: "NSW"
       iso3166_2: "AU-NSW"
       type: "state"
+      type_es: "estado"
       latitude: -31.8759835
       longitude: 147.2869493
       cities:
@@ -5447,9 +5453,11 @@
           longitude: 151.20857
     -
       name: "Northern Territory"
+      native: "Northern Territory"
       code: "NT"
       iso3166_2: "AU-NT"
       type: "territory"
+      type_es: "territorio"
       latitude: -19.8516101
       longitude: 133.2303375
       cities:
@@ -5791,9 +5799,11 @@
           longitude: 131.00694
     -
       name: "Queensland"
+      native: "Queensland"
       code: "QLD"
       iso3166_2: "AU-QLD"
       type: "state"
+      type_es: "estado"
       latitude: -22.1646782
       longitude: 144.5844903
       cities:
@@ -9223,9 +9233,11 @@
           longitude: 150.7982
     -
       name: "South Australia"
+      native: "South Australia"
       code: "SA"
       iso3166_2: "AU-SA"
       type: "state"
+      type_es: "estado"
       latitude: -30.5343665
       longitude: 135.6301212
       cities:
@@ -11027,9 +11039,11 @@
           longitude: 137.58179
     -
       name: "Tasmania"
+      native: "Tasmania"
       code: "TAS"
       iso3166_2: "AU-TAS"
       type: "state"
+      type_es: "estado"
       latitude: -42.035067
       longitude: 146.6366887
       cities:
@@ -11603,9 +11617,11 @@
           longitude: 147.17067
     -
       name: "Victoria"
+      native: "Victoria"
       code: "VIC"
       iso3166_2: "AU-VIC"
       type: "state"
+      type_es: "estado"
       latitude: -36.5986096
       longitude: 144.6780052
       cities:
@@ -14507,9 +14523,11 @@
           longitude: 145.42755
     -
       name: "Western Australia"
+      native: "Western Australia"
       code: "WA"
       iso3166_2: "AU-WA"
       type: "state"
+      type_es: "estado"
       latitude: -25.2303005
       longitude: 121.0187246
       cities:
@@ -16683,7 +16701,9 @@
   currency_symbol: "$"
   tld: ".cx"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   latitude: -10.5
   longitude: 105.66666666
   emoji: "🇨🇽"
@@ -16703,7 +16723,9 @@
   currency_symbol: "$"
   tld: ".cc"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   latitude: -12.5
   longitude: 96.83333333
   emoji: "🇨🇨"
@@ -16723,16 +16745,20 @@
   currency_symbol: "$"
   tld: ".nz"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   latitude: -41
   longitude: 174
   emoji: "🇳🇿"
   states:
     -
       name: "Auckland"
+      native: "Auckland"
       code: "AUK"
       iso3166_2: "NZ-AUK"
       type: "region"
+      type_es: "región"
       latitude: -36.852095
       longitude: 174.7631803
       cities:
@@ -16822,9 +16848,11 @@
           longitude: 174.86019
     -
       name: "Bay of Plenty"
+      native: "Bay of Plenty"
       code: "BOP"
       iso3166_2: "NZ-BOP"
       type: "region"
+      type_es: "región"
       latitude: -37.4969185
       longitude: 176.9228349
       cities:
@@ -16870,9 +16898,11 @@
           longitude: 176.98545
     -
       name: "Canterbury"
+      native: "Canterbury"
       code: "CAN"
       iso3166_2: "NZ-CAN"
       type: "region"
+      type_es: "región"
       latitude: -43.4941762
       longitude: 171.8098448
       cities:
@@ -16970,9 +17000,11 @@
           longitude: 172.66667
     -
       name: "Chatham Islands"
+      native: "Chatham Islands"
       code: "CIT"
       iso3166_2: "NZ-CIT"
       type: "special island authority"
+      type_es: "autoridad insular especial"
       latitude: -43.917534
       longitude: -176.18734
       cities:
@@ -16982,9 +17014,11 @@
           longitude: -176.55973
     -
       name: "Gisborne"
+      native: "Gisborne"
       code: "GIS"
       iso3166_2: "NZ-GIS"
       type: "region"
+      type_es: "región"
       latitude: -38.1532287
       longitude: 178.1367524
       cities:
@@ -16994,9 +17028,11 @@
           longitude: 178.00417
     -
       name: "Hawke's Bay"
+      native: "Hawke's Bay"
       code: "HKB"
       iso3166_2: "NZ-HKB"
       type: "region"
+      type_es: "región"
       latitude: -39.5256512
       longitude: 176.7611457
       cities:
@@ -17018,9 +17054,11 @@
           longitude: 177.36667
     -
       name: "Manawatu-Whanganui"
+      native: "Manawatu-Wanganui"
       code: "MWT"
       iso3166_2: "NZ-MWT"
       type: "region"
+      type_es: "región"
       latitude: -39.6407734
       longitude: 175.5713557
       cities:
@@ -17058,9 +17096,11 @@
           longitude: 175.05
     -
       name: "Marlborough"
+      native: "Marlborough"
       code: "MBH"
       iso3166_2: "NZ-MBH"
       type: "region"
+      type_es: "región"
       latitude: -41.4744747
       longitude: 173.8330263
       cities:
@@ -17074,9 +17114,11 @@
           longitude: 174.00801
     -
       name: "Nelson"
+      native: "Nelson"
       code: "NSN"
       iso3166_2: "NZ-NSN"
       type: "region"
+      type_es: "región"
       latitude: -41.2710849
       longitude: 173.2836756
       cities:
@@ -17086,9 +17128,11 @@
           longitude: 173.28404
     -
       name: "Northland"
+      native: "Northland"
       code: "NTL"
       iso3166_2: "NZ-NTL"
       type: "region"
+      type_es: "región"
       latitude: -35.3755091
       longitude: 173.9470106
       cities:
@@ -17154,9 +17198,11 @@
           longitude: 174.32391
     -
       name: "Otago"
+      native: "Otago"
       code: "OTA"
       iso3166_2: "NZ-OTA"
       type: "region"
+      type_es: "región"
       latitude: -45.3975053
       longitude: 170.1778918
       cities:
@@ -17210,9 +17256,11 @@
           longitude: 169.15
     -
       name: "Southland"
+      native: "Southland"
       code: "STL"
       iso3166_2: "NZ-STL"
       type: "region"
+      type_es: "región"
       latitude: -45.9254266
       longitude: 167.6068483
       cities:
@@ -17246,9 +17294,11 @@
           longitude: 168.33333
     -
       name: "Taranaki"
+      native: "Taranaki"
       code: "TKI"
       iso3166_2: "NZ-TKI"
       type: "region"
+      type_es: "región"
       latitude: -39.3848064
       longitude: 174.1973505
       cities:
@@ -17290,9 +17340,11 @@
           longitude: 174.23836
     -
       name: "Tasman"
+      native: "Tasman"
       code: "TAS"
       iso3166_2: "NZ-TAS"
       type: "region"
+      type_es: "región"
       latitude: -41.302221
       longitude: 172.8945319
       cities:
@@ -17322,9 +17374,11 @@
           longitude: 173.05
     -
       name: "Waikato"
+      native: "Waikato"
       code: "WKO"
       iso3166_2: "NZ-WKO"
       type: "region"
+      type_es: "región"
       latitude: -37.7792272
       longitude: 175.2010324
       cities:
@@ -17406,9 +17460,11 @@
           longitude: 175.7
     -
       name: "Wellington"
+      native: "Wellington"
       code: "WGN"
       iso3166_2: "NZ-WGN"
       type: "region"
+      type_es: "región"
       latitude: -41.2235474
       longitude: 175.4157576
       cities:
@@ -17474,9 +17530,11 @@
           longitude: 174.77557
     -
       name: "West Coast"
+      native: "West Coast"
       code: "WTC"
       iso3166_2: "NZ-WTC"
       type: "region"
+      type_es: "región"
       latitude: -42.5638896
       longitude: 171.452334
       cities:
@@ -17506,7 +17564,9 @@
   currency_symbol: "$"
   tld: ".nf"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   latitude: -29.03333333
   longitude: 167.95
   emoji: "🇳🇫"

@@ -12,16 +12,20 @@
   currency_symbol: "KM"
   tld: ".ba"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 44
   longitude: 18
   emoji: "🇧🇦"
   states:
     -
       name: "Brčko"
+      native: "Brčko"
       code: "BRC"
       iso3166_2: "BA-BRC"
       type: "district"
+      type_es: "distrito"
       latitude: 44.8771222
       longitude: 18.8095022
       cities:
@@ -35,9 +39,11 @@
           longitude: 18.7242
     -
       name: "Federation of Bosnia and Herzegovina"
+      native: "Federacija Bosne i Hercegovine"
       code: "BIH"
       iso3166_2: "BA-BIH"
       type: "entity"
+      type_es: "entidad"
       latitude: 43.916741
       longitude: 17.5482072
       cities:
@@ -663,9 +669,11 @@
           longitude: 18.64978
     -
       name: "Republika Srpska"
+      native: "Republika Srpska"
       code: "SRP"
       iso3166_2: "BA-SRP"
       type: "entity"
+      type_es: "entidad"
       latitude: 44.6696196
       longitude: 17.3659025
       cities:

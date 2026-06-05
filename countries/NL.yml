@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".nl"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 52.5
   longitude: 5.75
   emoji: "🇳🇱"
   states:
     -
       name: "Drenthe"
+      native: "Drenthe"
       code: "DR"
       iso3166_2: "NL-DR"
       type: "province"
+      type_es: "provincia"
       latitude: 52.9067922
       longitude: 6.6368423
       cities:
@@ -283,9 +287,11 @@
           longitude: 6.68194
     -
       name: "Flevoland"
+      native: "Flevoland"
       code: "FL"
       iso3166_2: "NL-FL"
       type: "province"
+      type_es: "provincia"
       latitude: 52.4484375
       longitude: 5.4235397
       cities:
@@ -323,9 +329,11 @@
           longitude: 5.54167
     -
       name: "Friesland"
+      native: "Frieland"
       code: "FR"
       iso3166_2: "NL-FR"
       type: "province"
+      type_es: "provincia"
       latitude: 53.0923689
       longitude: 5.777043
       cities:
@@ -803,9 +811,11 @@
           longitude: 5.84271
     -
       name: "Gelderland"
+      native: "Gelderland"
       code: "GE"
       iso3166_2: "NL-GE"
       type: "province"
+      type_es: "provincia"
       latitude: 52.1014041
       longitude: 5.9515701
       cities:
@@ -1707,9 +1717,11 @@
           longitude: 6.20139
     -
       name: "Groningen"
+      native: "Groningen"
       code: "GR"
       iso3166_2: "NL-GR"
       type: "province"
+      type_es: "provincia"
       latitude: 53.2193835
       longitude: 6.5665017
       cities:
@@ -2031,9 +2043,11 @@
           longitude: 6.40278
     -
       name: "Limburg"
+      native: "Limburg"
       code: "LI"
       iso3166_2: "NL-LI"
       type: "province"
+      type_es: "provincia"
       latitude: 51.2015196
       longitude: 5.9046302
       cities:
@@ -2755,9 +2769,11 @@
           longitude: 5.89722
     -
       name: "North Brabant"
+      native: "Noord-Brabant"
       code: "NB"
       iso3166_2: "NL-NB"
       type: "province"
+      type_es: "provincia"
       latitude: 51.6017723
       longitude: 5.4441391
       cities:
@@ -3795,9 +3811,11 @@
           longitude: 4.65556
     -
       name: "North Holland"
+      native: "Noord-Holland"
       code: "NH"
       iso3166_2: "NL-NH"
       type: "province"
+      type_es: "provincia"
       latitude: 52.7212825
       longitude: 4.820665
       cities:
@@ -5195,9 +5213,11 @@
           longitude: 4.61667
     -
       name: "Overijssel"
+      native: "Overijssel"
       code: "OV"
       iso3166_2: "NL-OV"
       type: "province"
+      type_es: "provincia"
       latitude: 52.4254143
       longitude: 6.4610611
       cities:
@@ -5463,9 +5483,11 @@
           longitude: 6.09444
     -
       name: "South Holland"
+      native: "Zuid -Holland"
       code: "ZH"
       iso3166_2: "NL-ZH"
       type: "province"
+      type_es: "provincia"
       latitude: 51.9966792
       longitude: 4.5597397
       cities:
@@ -6179,9 +6201,11 @@
           longitude: 4.63333
     -
       name: "Utrecht"
+      native: "Utrecht"
       code: "UT"
       iso3166_2: "NL-UT"
       type: "province"
+      type_es: "provincia"
       latitude: 52.0907374
       longitude: 5.1214201
       cities:
@@ -6435,9 +6459,11 @@
           longitude: 5.23333
     -
       name: "Zeeland"
+      native: "Zeeland"
       code: "ZE"
       iso3166_2: "NL-ZE"
       type: "province"
+      type_es: "provincia"
       latitude: 51.4162975
       longitude: 3.7028061
       cities:

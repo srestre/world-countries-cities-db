@@ -12,16 +12,20 @@
   currency_symbol: "Br"
   tld: ".by"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 53
   longitude: 28
   emoji: "🇧🇾"
   states:
     -
       name: "Brest"
+      native: "Брэст"
       code: "BR"
       iso3166_2: "BY-BR"
       type: "oblast"
+      type_es: "óblast"
       latitude: 52.093751
       longitude: 23.6851851
       cities:
@@ -207,9 +211,11 @@
           longitude: 23.65545
     -
       name: "Gomel"
+      native: "Гомель"
       code: "HO"
       iso3166_2: "BY-HO"
       type: "oblast"
+      type_es: "óblast"
       latitude: 52.4238936
       longitude: 31.0131698
       cities:
@@ -371,9 +377,11 @@
           longitude: 27.8561
     -
       name: "Grodno"
+      native: "Гродна"
       code: "HR"
       iso3166_2: "BY-HR"
       type: "oblast"
+      type_es: "óblast"
       latitude: 53.6834599
       longitude: 23.8342648
       cities:
@@ -539,9 +547,11 @@
           longitude: 25.3443
     -
       name: "Minsk"
+      native: "Мінск"
       code: "MI"
       iso3166_2: "BY-MI"
       type: "oblast"
+      type_es: "óblast"
       latitude: 53.9024716
       longitude: 27.5618225
       cities:
@@ -951,9 +961,11 @@
           longitude: 28.19813
     -
       name: "Minsk"
+      native: "Мінск"
       code: "HM"
       iso3166_2: "BY-HM"
       type: "city"
+      type_es: "ciudad"
       latitude: 53.9024716
       longitude: 27.5618225
       cities:
@@ -995,9 +1007,11 @@
           longitude: 27.66222
     -
       name: "Mogilev"
+      native: "Магілёў"
       code: "MA"
       iso3166_2: "BY-MA"
       type: "oblast"
+      type_es: "óblast"
       latitude: 53.9090245
       longitude: 30.3429838
       cities:
@@ -1191,9 +1205,11 @@
           longitude: 29.0048
     -
       name: "Vitebsk"
+      native: "Віцебск"
       code: "VI"
       iso3166_2: "BY-VI"
       type: "oblast"
+      type_es: "óblast"
       latitude: 55.2381972
       longitude: 28.7742203
       cities:

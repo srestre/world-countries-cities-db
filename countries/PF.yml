@@ -12,16 +12,20 @@
   currency_symbol: "₣"
   tld: ".pf"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   latitude: -15
   longitude: -140
   emoji: "🇵🇫"
   states:
     -
       name: "Austral Islands"
+      native: "Îles austral"
       code: "01"
       iso3166_2: "PF-01"
       type: "division"
+      type_es: "división"
       latitude: -23.3655617
       longitude: -149.4620816
       cities:
@@ -47,9 +51,11 @@
           longitude: -149.5449648
     -
       name: "Leeward Islands"
+      native: "Îles sous le vent"
       code: "02"
       iso3166_2: "PF-02"
       type: "division"
+      type_es: "división"
       latitude: -16.6308348
       longitude: -151.5039159
       cities:
@@ -83,9 +89,11 @@
           longitude: -151.4954902
     -
       name: "Marquesas Islands"
+      native: "Îles de Marquesas"
       code: "03"
       iso3166_2: "PF-03"
       type: "division"
+      type_es: "división"
       latitude: -9.7793255
       longitude: -139.0067835
       cities:
@@ -115,9 +123,11 @@
           longitude: -140.1555377
     -
       name: "Tuamotu-Gambier"
+      native: "Tuamotu-gambier"
       code: "04"
       iso3166_2: "PF-04"
       type: "division"
+      type_es: "división"
       latitude: -18.8027687
       longitude: -141.9054929
       cities:
@@ -191,9 +201,11 @@
           longitude: -138.581639
     -
       name: "Windward Islands"
+      native: "Îles du vent"
       code: "05"
       iso3166_2: "PF-05"
       type: "division"
+      type_es: "división"
       latitude: -17.6873439
       longitude: -149.4451681
       cities:

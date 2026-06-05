@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(247, 'Zimbabwe', 'ZW', 'ZWE', 'Africa', 'Eastern Africa', 'Harare', 'ZWL', -20, 30, '🇿🇼');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(247, 'Zimbabwe', 'Zimbabue', 'ZW', 'ZWE', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Harare', 'ZWL', -20, 30, '🇿🇼');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1956, 'Bulawayo', 247, 'ZW', 'BU', 'province', -20.1111148, 28.5356781),
-(1958, 'Harare', 247, 'ZW', 'HA', 'province', -17.831773, 31.045686),
-(1959, 'Manicaland', 247, 'ZW', 'MA', 'province', -19.0188422, 32.368889),
-(1955, 'Mashonaland Central', 247, 'ZW', 'MC', 'province', -16.742872, 31.2952086),
-(1951, 'Mashonaland East', 247, 'ZW', 'ME', 'province', -17.7927323, 31.7678044),
-(1953, 'Mashonaland West', 247, 'ZW', 'MW', 'province', -17.4851029, 29.7889248),
-(1960, 'Masvingo', 247, 'ZW', 'MV', 'province', -20.7453957, 31.334138),
-(1954, 'Matabeleland North', 247, 'ZW', 'MN', 'province', -18.9283715, 27.4992231),
-(1952, 'Matabeleland South', 247, 'ZW', 'MS', 'province', -20.7364801, 28.9396495),
-(1957, 'Midlands', 247, 'ZW', 'MI', 'province', -19.2785043, 29.8790852);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1956, 'Bulawayo', 'Bulawayo', 247, 'ZW', 'BU', 'province', 'provincia', -20.1111148, 28.5356781),
+(1958, 'Harare', 'Harare', 247, 'ZW', 'HA', 'province', 'provincia', -17.831773, 31.045686),
+(1959, 'Manicaland', 'Manicaland', 247, 'ZW', 'MA', 'province', 'provincia', -19.0188422, 32.368889),
+(1955, 'Mashonaland Central', 'Mashonaland Central', 247, 'ZW', 'MC', 'province', 'provincia', -16.742872, 31.2952086),
+(1951, 'Mashonaland East', 'Mashonaland East', 247, 'ZW', 'ME', 'province', 'provincia', -17.7927323, 31.7678044),
+(1953, 'Mashonaland West', 'Mashonaland West', 247, 'ZW', 'MW', 'province', 'provincia', -17.4851029, 29.7889248),
+(1960, 'Masvingo', 'Masvingo', 247, 'ZW', 'MV', 'province', 'provincia', -20.7453957, 31.334138),
+(1954, 'Matabeleland North', 'Matabeleland North', 247, 'ZW', 'MN', 'province', 'provincia', -18.9283715, 27.4992231),
+(1952, 'Matabeleland South', 'Matabeleland South', 247, 'ZW', 'MS', 'province', 'provincia', -20.7364801, 28.9396495),
+(1957, 'Midlands', 'Midlands', 247, 'ZW', 'MI', 'province', 'provincia', -19.2785043, 29.8790852);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (131411, 'Bulawayo', 1956, 247, -20.15, 28.58333),

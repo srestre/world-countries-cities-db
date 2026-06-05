@@ -1,30 +1,30 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(118, 'Kyrgyzstan', 'KG', 'KGZ', 'Asia', 'Central Asia', 'Bishkek', 'KGS', 41, 75, '🇰🇬');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(118, 'Kyrgyzstan', 'Kirguizistán', 'KG', 'KGZ', 'Asia', 'Asia', 'Central Asia', 'Asia Central', 'Bishkek', 'KGS', 41, 75, '🇰🇬');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(998, 'Batken', 118, 'KG', 'B', 'region', 40.0611852, 70.8200964),
-(1001, 'Bishkek', 118, 'KG', 'GB', 'city', 42.8761424, 74.6036724),
-(1004, 'Chuy', 118, 'KG', 'C', 'region', 42.5550236, 74.621991),
-(1002, 'Issyk-Kul', 118, 'KG', 'Y', 'region', 42.4620398, 77.0789862),
-(1000, 'Jalal-Abad', 118, 'KG', 'J', 'region', 40.9298182, 73.00119),
-(999, 'Naryn', 118, 'KG', 'N', 'region', 41.3670658, 75.9931838),
-(1003, 'Osh', 118, 'KG', 'GO', 'city', 40.5172678, 72.8049894),
-(1005, 'Osh', 118, 'KG', 'O', 'region', 40.5172678, 72.8049894),
-(997, 'Talas', 118, 'KG', 'T', 'region', 42.521995, 72.247693);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(998, 'Batken', 'Баткен', 118, 'KG', 'B', 'region', 'región', 40.0611852, 70.8200964),
+(1001, 'Bishkek', 'Бишкек', 118, 'KG', 'GB', 'city', 'ciudad', 42.8761424, 74.6036724),
+(1004, 'Chuy', 'Чүй', 118, 'KG', 'C', 'region', 'región', 42.5550236, 74.621991),
+(1002, 'Issyk-Kul', 'Ыссык Көл', 118, 'KG', 'Y', 'region', 'región', 42.4620398, 77.0789862),
+(1000, 'Jalal-Abad', 'Жалал Абад', 118, 'KG', 'J', 'region', 'región', 40.9298182, 73.00119),
+(999, 'Naryn', 'Нарын', 118, 'KG', 'N', 'region', 'región', 41.3670658, 75.9931838),
+(1003, 'Osh', 'Ош', 118, 'KG', 'GO', 'city', 'ciudad', 40.5172678, 72.8049894),
+(1005, 'Osh', 'Ош', 118, 'KG', 'O', 'region', 'región', 40.5172678, 72.8049894),
+(997, 'Talas', 'Талас', 118, 'KG', 'T', 'region', 'región', 42.521995, 72.247693);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (64886, 'Aydarken', 998, 118, 39.94319, 71.34184),

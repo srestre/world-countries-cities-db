@@ -12,16 +12,20 @@
   currency_symbol: "SAT"
   tld: ".ws"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   latitude: -13.58333333
   longitude: -172.33333333
   emoji: "🇼🇸"
   states:
     -
       name: "A'ana"
+      native: "Apu"
       code: "AA"
       iso3166_2: "WS-AA"
       type: "district"
+      type_es: "distrito"
       latitude: -13.8371757
       longitude: -171.9950869
       cities:
@@ -43,9 +47,11 @@
           longitude: -171.97963
     -
       name: "Aiga-i-le-Tai"
+      native: "Aiga-i-le-Tai"
       code: "AL"
       iso3166_2: "WS-AL"
       type: "district"
+      type_es: "distrito"
       latitude: -13.862031
       longitude: -172.0328371
       cities:
@@ -55,9 +61,11 @@
           longitude: -172.03602
     -
       name: "Atua"
+      native: "Atua"
       code: "AT"
       iso3166_2: "WS-AT"
       type: "district"
+      type_es: "distrito"
       latitude: -13.954878
       longitude: -171.6512455
       cities:
@@ -79,27 +87,33 @@
           longitude: -171.64181
     -
       name: "Fa'asaleleaga"
+      native: "Fa'asaleleaga"
       code: "FA"
       iso3166_2: "WS-FA"
       type: "district"
+      type_es: "distrito"
       latitude: -13.6307638
       longitude: -172.2365981
       cities:
         []
     -
       name: "Gaga'emauga"
+      native: "Gaga'emauga"
       code: "GE"
       iso3166_2: "WS-GE"
       type: "district"
+      type_es: "distrito"
       latitude: -13.5428666
       longitude: -172.366887
       cities:
         []
     -
       name: "Gaga'ifomauga"
+      native: "Gaga'ifomauga"
       code: "GI"
       iso3166_2: "WS-GI"
       type: "district"
+      type_es: "distrito"
       latitude: -13.5468007
       longitude: -172.4969331
       cities:
@@ -113,9 +127,11 @@
           longitude: -172.40177
     -
       name: "Palauli"
+      native: "Palauli"
       code: "PA"
       iso3166_2: "WS-PA"
       type: "district"
+      type_es: "distrito"
       latitude: -13.7063577
       longitude: -172.4839701
       cities:
@@ -129,18 +145,22 @@
           longitude: -172.30698
     -
       name: "Satupa'itea"
+      native: "Satupa'itea"
       code: "SA"
       iso3166_2: "WS-SA"
       type: "district"
+      type_es: "distrito"
       latitude: -13.7414328
       longitude: -172.3406683
       cities:
         []
     -
       name: "Tuamasaga"
+      native: "Tuamasaga"
       code: "TU"
       iso3166_2: "WS-TU"
       type: "district"
+      type_es: "distrito"
       latitude: -13.9218804
       longitude: -171.8007196
       cities:
@@ -166,9 +186,11 @@
           longitude: -171.79333
     -
       name: "Va'a-o-Fonoti"
+      native: "Vaʻi-O-phonoti"
       code: "VF"
       iso3166_2: "WS-VF"
       type: "district"
+      type_es: "distrito"
       latitude: -13.9470903
       longitude: -171.5431872
       cities:
@@ -178,9 +200,11 @@
           longitude: -171.53122
     -
       name: "Vaisigano"
+      native: "Vaisigano"
       code: "VS"
       iso3166_2: "WS-VS"
       type: "district"
+      type_es: "distrito"
       latitude: -13.5595656
       longitude: -172.6593798
       cities:

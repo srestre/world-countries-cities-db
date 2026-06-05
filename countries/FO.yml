@@ -12,16 +12,20 @@
   currency_symbol: "Kr."
   tld: ".fo"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 62
   longitude: -7
   emoji: "🇫🇴"
   states:
     -
       name: "Eysturoy"
+      native: "Eysturoy"
       code: "EY"
       iso3166_2: "FO-EY"
       type: "region"
+      type_es: "región"
       latitude: 62.1988704
       longitude: -6.8178451
       cities:
@@ -51,9 +55,11 @@
           longitude: -6.8765
     -
       name: "Northern Isles"
+      native: "Northern Isles"
       code: "NO"
       iso3166_2: "FO-NO"
       type: "region"
+      type_es: "región"
       latitude: 62.2805689
       longitude: 6.7017061
       cities:
@@ -71,9 +77,11 @@
           longitude: -6.8901
     -
       name: "Sandoy"
+      native: "Sandoy"
       code: "SA"
       iso3166_2: "FO-SA"
       type: "region"
+      type_es: "región"
       latitude: 61.8333877
       longitude: -6.7239899
       cities:
@@ -99,9 +107,11 @@
           longitude: -6.826962
     -
       name: "Streymoy"
+      native: "Streymoy"
       code: "ST"
       iso3166_2: "FO-ST"
       type: "region"
+      type_es: "región"
       latitude: 62.1237192
       longitude: -7.0158828
       cities:
@@ -123,9 +133,11 @@
           longitude: -7.2345
     -
       name: "Suðuroy"
+      native: "Suðuroy"
       code: "SU"
       iso3166_2: "FO-SU"
       type: "region"
+      type_es: "región"
       latitude: 61.5210651
       longitude: -6.8141866
       cities:
@@ -159,9 +171,11 @@
           longitude: -6.8101
     -
       name: "Vágar"
+      native: "Vágar"
       code: "VA"
       iso3166_2: "FO-VA"
       type: "region"
+      type_es: "región"
       latitude: 62.0898985
       longitude: -7.2345841
       cities:

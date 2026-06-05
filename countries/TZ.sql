@@ -1,52 +1,52 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(218, 'Tanzania', 'TZ', 'TZA', 'Africa', 'Eastern Africa', 'Dodoma', 'TZS', -6, 35, '🇹🇿');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(218, 'Tanzania', 'Tanzania', 'TZ', 'TZA', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Dodoma', 'TZS', -6, 35, '🇹🇿');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1491, 'Arusha', 218, 'TZ', '01', 'region', -3.3696827, 36.6880794),
-(1490, 'Dar es Salaam', 218, 'TZ', '02', 'region', -6.8160837, 39.2803583),
-(1466, 'Dodoma', 218, 'TZ', '03', 'region', -6.1791181, 35.7468174),
-(1481, 'Geita', 218, 'TZ', '27', 'region', -2.8707573, 32.2340831),
-(1489, 'Iringa', 218, 'TZ', '04', 'region', -7.7742718, 35.4826339),
-(1465, 'Kagera', 218, 'TZ', '05', 'region', -1.5825315, 31.4798031),
-(1482, 'Katavi', 218, 'TZ', '28', 'region', -6.3015493, 30.9278274),
-(1478, 'Kigoma', 218, 'TZ', '08', 'region', -4.877862, 29.6296319),
-(1467, 'Kilimanjaro', 218, 'TZ', '09', 'region', -3.476279, 37.3872648),
-(1483, 'Lindi', 218, 'TZ', '12', 'region', -9.3985098, 37.8997467),
-(1484, 'Manyara', 218, 'TZ', '26', 'region', -4.072751, 35.8521735),
-(1468, 'Mara', 218, 'TZ', '13', 'region', -1.6409527, 33.8421608),
-(4955, 'Mbeya', 218, 'TZ', '14', 'region', -8.6131228, 33.3341957),
-(1470, 'Morogoro', 218, 'TZ', '16', 'region', -7.0842931, 37.4232686),
-(1476, 'Mtwara', 218, 'TZ', '17', 'region', -10.2838146, 40.1789136),
-(1479, 'Mwanza', 218, 'TZ', '18', 'region', -2.5196915, 32.9014417),
-(1480, 'Njombe', 218, 'TZ', '29', 'region', -9.2861487, 35.1575097),
-(1488, 'Pemba North', 218, 'TZ', '06', 'region', -5.0153101, 39.7313864),
-(1472, 'Pemba South', 218, 'TZ', '10', 'region', -5.2850214, 39.7131087),
-(1485, 'Pwani', 218, 'TZ', '19', 'region', -7.1160874, 38.7300111),
-(1477, 'Rukwa', 218, 'TZ', '20', 'region', -7.7511321, 30.9487902),
-(1486, 'Ruvuma', 218, 'TZ', '21', 'region', -10.749721, 35.6616934),
-(1463, 'Shinyanga', 218, 'TZ', '22', 'region', -3.6562049, 33.4271153),
-(1464, 'Simiyu', 218, 'TZ', '30', 'region', -3.1328347, 34.1837946),
-(1474, 'Singida', 218, 'TZ', '23', 'region', -5.2902148, 34.6367444),
-(4956, 'Songwe', 218, 'TZ', '31', 'region', -7.8269475, 32.6193937),
-(1469, 'Tabora', 218, 'TZ', '24', 'region', -5.0202431, 32.8097724),
-(1487, 'Tanga', 218, 'TZ', '25', 'region', -5.202134, 38.2275548),
-(1473, 'Zanzibar North', 218, 'TZ', '07', 'region', -5.9395093, 39.2791011),
-(1471, 'Zanzibar South', 218, 'TZ', '11', 'region', -6.2083752, 39.3579634),
-(1475, 'Zanzibar West', 218, 'TZ', '15', 'region', -6.1653854, 39.2386951);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1491, 'Arusha', 'Arusha', 218, 'TZ', '01', 'region', 'región', -3.3696827, 36.6880794),
+(1490, 'Dar es Salaam', 'Dar ni salaam', 218, 'TZ', '02', 'region', 'región', -6.8160837, 39.2803583),
+(1466, 'Dodoma', 'Dodoma', 218, 'TZ', '03', 'region', 'región', -6.1791181, 35.7468174),
+(1481, 'Geita', 'Geita', 218, 'TZ', '27', 'region', 'región', -2.8707573, 32.2340831),
+(1489, 'Iringa', 'Iringa', 218, 'TZ', '04', 'region', 'región', -7.7742718, 35.4826339),
+(1465, 'Kagera', 'Kagera', 218, 'TZ', '05', 'region', 'región', -1.5825315, 31.4798031),
+(1482, 'Katavi', 'Katavi', 218, 'TZ', '28', 'region', 'región', -6.3015493, 30.9278274),
+(1478, 'Kigoma', 'Kigoma', 218, 'TZ', '08', 'region', 'región', -4.877862, 29.6296319),
+(1467, 'Kilimanjaro', 'Kilimanjaro', 218, 'TZ', '09', 'region', 'región', -3.476279, 37.3872648),
+(1483, 'Lindi', 'Lindi', 218, 'TZ', '12', 'region', 'región', -9.3985098, 37.8997467),
+(1484, 'Manyara', 'Manyara', 218, 'TZ', '26', 'region', 'región', -4.072751, 35.8521735),
+(1468, 'Mara', 'Mara', 218, 'TZ', '13', 'region', 'región', -1.6409527, 33.8421608),
+(4955, 'Mbeya', 'Mbeya', 218, 'TZ', '14', 'region', 'región', -8.6131228, 33.3341957),
+(1470, 'Morogoro', 'Morogoro', 218, 'TZ', '16', 'region', 'región', -7.0842931, 37.4232686),
+(1476, 'Mtwara', 'Mtwara', 218, 'TZ', '17', 'region', 'región', -10.2838146, 40.1789136),
+(1479, 'Mwanza', 'Mwanza', 218, 'TZ', '18', 'region', 'región', -2.5196915, 32.9014417),
+(1480, 'Njombe', 'Njombe', 218, 'TZ', '29', 'region', 'región', -9.2861487, 35.1575097),
+(1488, 'Pemba North', 'Pemba North', 218, 'TZ', '06', 'region', 'región', -5.0153101, 39.7313864),
+(1472, 'Pemba South', 'Pemba Kusini', 218, 'TZ', '10', 'region', 'región', -5.2850214, 39.7131087),
+(1485, 'Pwani', 'Pwani', 218, 'TZ', '19', 'region', 'región', -7.1160874, 38.7300111),
+(1477, 'Rukwa', 'Rukwa', 218, 'TZ', '20', 'region', 'región', -7.7511321, 30.9487902),
+(1486, 'Ruvuma', 'Ruvuma', 218, 'TZ', '21', 'region', 'región', -10.749721, 35.6616934),
+(1463, 'Shinyanga', 'Shinyanga', 218, 'TZ', '22', 'region', 'región', -3.6562049, 33.4271153),
+(1464, 'Simiyu', 'Simiyu', 218, 'TZ', '30', 'region', 'región', -3.1328347, 34.1837946),
+(1474, 'Singida', 'Singida', 218, 'TZ', '23', 'region', 'región', -5.2902148, 34.6367444),
+(4956, 'Songwe', 'Songwe', 218, 'TZ', '31', 'region', 'región', -7.8269475, 32.6193937),
+(1469, 'Tabora', 'Tabora', 218, 'TZ', '24', 'region', 'región', -5.0202431, 32.8097724),
+(1487, 'Tanga', 'Tanga', 218, 'TZ', '25', 'region', 'región', -5.202134, 38.2275548),
+(1473, 'Zanzibar North', 'Zanzibar Kaskazini', 218, 'TZ', '07', 'region', 'región', -5.9395093, 39.2791011),
+(1471, 'Zanzibar South', 'Zanzibar Kusini', 218, 'TZ', '11', 'region', 'región', -6.2083752, 39.3579634),
+(1475, 'Zanzibar West', 'Zanzibar West', 218, 'TZ', '15', 'region', 'región', -6.1653854, 39.2386951);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (109042, 'Arusha', 1491, 218, -3.36667, 36.68333),

@@ -1,11 +1,11 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-AD,Andorra,Europe,Southern Europe,07,Andorra la Vella,Andorra la Vella,42.50779,1.52109
-AD,Andorra,Europe,Southern Europe,02,Canillo,Canillo,42.5676,1.59756
-AD,Andorra,Europe,Southern Europe,02,Canillo,El Tarter,42.57952,1.65362
-AD,Andorra,Europe,Southern Europe,03,Encamp,Encamp,42.53474,1.58014
-AD,Andorra,Europe,Southern Europe,03,Encamp,Pas de la Casa,42.54277,1.73361
-AD,Andorra,Europe,Southern Europe,08,Escaldes-Engordany,les Escaldes,42.50729,1.53414
-AD,Andorra,Europe,Southern Europe,04,La Massana,Arinsal,42.57205,1.48453
-AD,Andorra,Europe,Southern Europe,04,La Massana,la Massana,42.54499,1.51483
-AD,Andorra,Europe,Southern Europe,05,Ordino,Ordino,42.55623,1.53319
-AD,Andorra,Europe,Southern Europe,06,Sant Julià de Lòria,Sant Julià de Lòria,42.46372,1.49129
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,07,Andorra la Vella,parish,parroquia,Andorra la Vella,42.50779,1.52109
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,02,Canillo,parish,parroquia,Canillo,42.5676,1.59756
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,02,Canillo,parish,parroquia,El Tarter,42.57952,1.65362
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,03,Encamp,parish,parroquia,Encamp,42.53474,1.58014
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,03,Encamp,parish,parroquia,Pas de la Casa,42.54277,1.73361
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,08,Escaldes-Engordany,parish,parroquia,les Escaldes,42.50729,1.53414
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,04,La Massana,parish,parroquia,Arinsal,42.57205,1.48453
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,04,La Massana,parish,parroquia,la Massana,42.54499,1.51483
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,05,Ordino,parish,parroquia,Ordino,42.55623,1.53319
+AD,Andorra,Andorra,Europe,Europa,Southern Europe,Europa del Sur,06,Sant Julià de Lòria,parish,parroquia,Sant Julià de Lòria,42.46372,1.49129

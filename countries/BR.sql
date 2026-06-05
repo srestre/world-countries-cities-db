@@ -1,48 +1,48 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(31, 'Brazil', 'BR', 'BRA', 'Americas', 'South America', 'Brasilia', 'BRL', -10, -55, '🇧🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(31, 'Brazil', 'Brasil', 'BR', 'BRA', 'Americas', 'América', 'South America', 'Sudamérica', 'Brasilia', 'BRL', -10, -55, '🇧🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2012, 'Acre', 31, 'BR', 'AC', 'state', -9.0478679, -70.5264976),
-(2007, 'Alagoas', 31, 'BR', 'AL', 'state', -9.6611661, -36.6502426),
-(1999, 'Amapá', 31, 'BR', 'AP', 'state', 1.3545442, -51.9161977),
-(2004, 'Amazonas', 31, 'BR', 'AM', 'state', -3.2001766, -59.4989288),
-(2002, 'Bahia', 31, 'BR', 'BA', 'state', -12.285251, -41.9294776),
-(2016, 'Ceará', 31, 'BR', 'CE', 'state', -5.3264703, -39.7156073),
-(2017, 'Distrito Federal', 31, 'BR', 'DF', 'federal district', -15.7754462, -47.7970891),
-(2018, 'Espírito Santo', 31, 'BR', 'ES', 'state', -19.5687682, -40.1721991),
-(2000, 'Goiás', 31, 'BR', 'GO', 'state', -15.9323662, -50.1392928),
-(2015, 'Maranhão', 31, 'BR', 'MA', 'state', -5.2085503, -45.3930262),
-(2011, 'Mato Grosso', 31, 'BR', 'MT', 'state', -12.2115009, -55.5716547),
-(2010, 'Mato Grosso do Sul', 31, 'BR', 'MS', 'state', -19.5852564, -54.4794731),
-(1998, 'Minas Gerais', 31, 'BR', 'MG', 'state', -18.5264844, -44.1588654),
-(2009, 'Pará', 31, 'BR', 'PA', 'state', -4.7493933, -52.8973006),
-(2005, 'Paraíba', 31, 'BR', 'PB', 'state', -7.1219366, -36.7246845),
-(2022, 'Paraná', 31, 'BR', 'PR', 'state', -24.4842187, -51.8148872),
-(2006, 'Pernambuco', 31, 'BR', 'PE', 'state', -8.4116316, -37.5919699),
-(2008, 'Piauí', 31, 'BR', 'PI', 'state', -7.6992782, -42.5043787),
-(1997, 'Rio de Janeiro', 31, 'BR', 'RJ', 'state', -22.9110137, -43.2093727),
-(2019, 'Rio Grande do Norte', 31, 'BR', 'RN', 'state', -5.6781175, -36.4781776),
-(2001, 'Rio Grande do Sul', 31, 'BR', 'RS', 'state', -29.8425284, -53.7680577),
-(2013, 'Rondônia', 31, 'BR', 'RO', 'state', -10.943145, -62.8277863),
-(4858, 'Roraima', 31, 'BR', 'RR', 'state', 2.135138, -61.3631922),
-(2014, 'Santa Catarina', 31, 'BR', 'SC', 'state', -27.0628367, -51.114965),
-(2021, 'São Paulo', 31, 'BR', 'SP', 'state', -23.5505199, -46.6333094),
-(2003, 'Sergipe', 31, 'BR', 'SE', 'state', -10.6743911, -37.3773519),
-(2020, 'Tocantins', 31, 'BR', 'TO', 'state', -10.8855129, -48.3716912);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2012, 'Acre', 'Acre', 31, 'BR', 'AC', 'state', 'estado', -9.0478679, -70.5264976),
+(2007, 'Alagoas', 'Alagoas', 31, 'BR', 'AL', 'state', 'estado', -9.6611661, -36.6502426),
+(1999, 'Amapá', 'Amapá', 31, 'BR', 'AP', 'state', 'estado', 1.3545442, -51.9161977),
+(2004, 'Amazonas', 'Amazonas', 31, 'BR', 'AM', 'state', 'estado', -3.2001766, -59.4989288),
+(2002, 'Bahia', 'Bahia', 31, 'BR', 'BA', 'state', 'estado', -12.285251, -41.9294776),
+(2016, 'Ceará', 'Ceará', 31, 'BR', 'CE', 'state', 'estado', -5.3264703, -39.7156073),
+(2017, 'Distrito Federal', 'Distrito Federal', 31, 'BR', 'DF', 'federal district', 'distrito federal', -15.7754462, -47.7970891),
+(2018, 'Espírito Santo', 'Espírito Santo', 31, 'BR', 'ES', 'state', 'estado', -19.5687682, -40.1721991),
+(2000, 'Goiás', 'Goiás', 31, 'BR', 'GO', 'state', 'estado', -15.9323662, -50.1392928),
+(2015, 'Maranhão', 'Maranhão', 31, 'BR', 'MA', 'state', 'estado', -5.2085503, -45.3930262),
+(2011, 'Mato Grosso', 'Mato Grosso', 31, 'BR', 'MT', 'state', 'estado', -12.2115009, -55.5716547),
+(2010, 'Mato Grosso do Sul', 'Mato Grosso do Sul', 31, 'BR', 'MS', 'state', 'estado', -19.5852564, -54.4794731),
+(1998, 'Minas Gerais', 'Minas Gerais', 31, 'BR', 'MG', 'state', 'estado', -18.5264844, -44.1588654),
+(2009, 'Pará', 'Pará', 31, 'BR', 'PA', 'state', 'estado', -4.7493933, -52.8973006),
+(2005, 'Paraíba', 'Paraíba', 31, 'BR', 'PB', 'state', 'estado', -7.1219366, -36.7246845),
+(2022, 'Paraná', 'Paraná', 31, 'BR', 'PR', 'state', 'estado', -24.4842187, -51.8148872),
+(2006, 'Pernambuco', 'Pernambuco', 31, 'BR', 'PE', 'state', 'estado', -8.4116316, -37.5919699),
+(2008, 'Piauí', 'Piauí', 31, 'BR', 'PI', 'state', 'estado', -7.6992782, -42.5043787),
+(1997, 'Rio de Janeiro', 'Rio de Janeiro', 31, 'BR', 'RJ', 'state', 'estado', -22.9110137, -43.2093727),
+(2019, 'Rio Grande do Norte', 'Rio Grande do Norte', 31, 'BR', 'RN', 'state', 'estado', -5.6781175, -36.4781776),
+(2001, 'Rio Grande do Sul', 'Rio Grande do Sul', 31, 'BR', 'RS', 'state', 'estado', -29.8425284, -53.7680577),
+(2013, 'Rondônia', 'Rondônia', 31, 'BR', 'RO', 'state', 'estado', -10.943145, -62.8277863),
+(4858, 'Roraima', 'Roraima', 31, 'BR', 'RR', 'state', 'estado', 2.135138, -61.3631922),
+(2014, 'Santa Catarina', 'Santa Catarina', 31, 'BR', 'SC', 'state', 'estado', -27.0628367, -51.114965),
+(2021, 'São Paulo', 'São Paulo', 31, 'BR', 'SP', 'state', 'estado', -23.5505199, -46.6333094),
+(2003, 'Sergipe', 'Sergipe', 31, 'BR', 'SE', 'state', 'estado', -10.6743911, -37.3773519),
+(2020, 'Tocantins', 'Tocantins', 31, 'BR', 'TO', 'state', 'estado', -10.8855129, -48.3716912);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (10078, 'Acrelândia', 2012, 31, -9.98045, -66.84388),

@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(127, 'Luxembourg', 'LU', 'LUX', 'Europe', 'Western Europe', 'Luxembourg', 'EUR', 49.75, 6.16666666, '🇱🇺');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(127, 'Luxembourg', 'Luxemburgo', 'LU', 'LUX', 'Europe', 'Europa', 'Western Europe', 'Europa Occidental', 'Luxembourg', 'EUR', 49.75, 6.16666666, '🇱🇺');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1518, 'Capellen', 127, 'LU', 'CA', 'canton', 49.6424353, 5.9805893),
-(1521, 'Clervaux', 127, 'LU', 'CL', 'canton', 50.0546313, 6.0285875),
-(1513, 'Diekirch', 127, 'LU', 'DI', 'canton', 49.8671784, 6.1595633),
-(1515, 'Echternach', 127, 'LU', 'EC', 'canton', 49.8114133, 6.4175635),
-(1517, 'Esch-sur-Alzette', 127, 'LU', 'ES', 'canton', 49.5008805, 5.9860925),
-(1520, 'Grevenmacher', 127, 'LU', 'G', 'canton', 49.680851, 6.4407524),
-(1514, 'Luxembourg ', 127, 'LU', 'L', 'canton', 49.6112768, 6.129799),
-(1522, 'Mersch', 127, 'LU', 'ME', 'canton', 49.7506746, 6.1066591),
-(1516, 'Redange', 127, 'LU', 'RD', 'canton', 49.76455, 5.88948),
-(1519, 'Remich', 127, 'LU', 'RM', 'canton', 49.545017, 6.3674222),
-(1523, 'Vianden', 127, 'LU', 'VD', 'canton', 49.9341924, 6.2019917),
-(1526, 'Wiltz', 127, 'LU', 'WI', 'canton', 49.96622, 5.9324306);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1518, 'Capellen', 'Rond', 127, 'LU', 'CA', 'canton', 'cantón', 49.6424353, 5.9805893),
+(1521, 'Clervaux', 'Clervaux', 127, 'LU', 'CL', 'canton', 'cantón', 50.0546313, 6.0285875),
+(1513, 'Diekirch', 'Diekkch', 127, 'LU', 'DI', 'canton', 'cantón', 49.8671784, 6.1595633),
+(1515, 'Echternach', 'Empire', 127, 'LU', 'EC', 'canton', 'cantón', 49.8114133, 6.4175635),
+(1517, 'Esch-sur-Alzette', 'Plancher-sur-alzette', 127, 'LU', 'ES', 'canton', 'cantón', 49.5008805, 5.9860925),
+(1520, 'Grevenmacher', 'Great', 127, 'LU', 'G', 'canton', 'cantón', 49.680851, 6.4407524),
+(1514, 'Luxembourg ', 'Luxembourg', 127, 'LU', 'L', 'canton', 'cantón', 49.6112768, 6.129799),
+(1522, 'Mersch', 'Marchandi', 127, 'LU', 'ME', 'canton', 'cantón', 49.7506746, 6.1066591),
+(1516, 'Redange', 'Réorganiser', 127, 'LU', 'RD', 'canton', 'cantón', 49.76455, 5.88948),
+(1519, 'Remich', 'Remtors', 127, 'LU', 'RM', 'canton', 'cantón', 49.545017, 6.3674222),
+(1523, 'Vianden', 'Vues', 127, 'LU', 'VD', 'canton', 'cantón', 49.9341924, 6.2019917),
+(1526, 'Wiltz', 'Wiltsz', 127, 'LU', 'WI', 'canton', 'cantón', 49.96622, 5.9324306);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (66726, 'Bascharage', 1518, 127, 49.56727, 5.9073),

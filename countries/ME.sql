@@ -1,46 +1,46 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(147, 'Montenegro', 'ME', 'MNE', 'Europe', 'Southern Europe', 'Podgorica', 'EUR', 42.5, 19.3, '🇲🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(147, 'Montenegro', 'Montenegro', 'ME', 'MNE', 'Europe', 'Europa', 'Southern Europe', 'Europa del Sur', 'Podgorica', 'EUR', 42.5, 19.3, '🇲🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(23, 'Andrijevica', 147, 'ME', '01', 'municipality', 42.7362477, 19.7859556),
-(13, 'Bar', 147, 'ME', '02', 'municipality', 42.0979745, 19.0954528),
-(21, 'Berane', 147, 'ME', '03', 'municipality', 42.8435792, 19.8728701),
-(25, 'Bijelo Polje', 147, 'ME', '04', 'municipality', 43.0341595, 19.7473559),
-(30, 'Budva', 147, 'ME', '05', 'municipality', 42.2885656, 18.8419505),
-(14, 'Danilovgrad', 147, 'ME', '07', 'municipality', 42.5524049, 19.1052289),
-(24, 'Gusinje', 147, 'ME', '22', 'municipality', 42.5563455, 19.8306051),
-(5682, 'Herceg-Novi', 147, 'ME', '08', 'municipality', 42.45306, 18.53722),
-(31, 'Kolašin', 147, 'ME', '09', 'municipality', 42.8238387, 19.5218005),
-(26, 'Kotor', 147, 'ME', '10', 'municipality', 42.4249205, 18.7713332),
-(22, 'Mojkovac', 147, 'ME', '11', 'municipality', 42.9624908, 19.5799899),
-(17, 'Nikšić', 147, 'ME', '12', 'municipality', 42.7739388, 18.9488097),
-(28, 'Old Royal Capital Cetinje', 147, 'ME', '06', 'municipality', 42.4783057, 18.8980059),
-(12, 'Petnjica', 147, 'ME', '23', 'municipality', 42.925657, 19.9829219),
-(19, 'Plav', 147, 'ME', '13', 'municipality', 42.6001337, 19.9407541),
-(20, 'Pljevlja', 147, 'ME', '14', 'municipality', 43.3565611, 19.3584715),
-(16, 'Plužine', 147, 'ME', '15', 'municipality', 43.1593384, 18.8551484),
-(27, 'Podgorica', 147, 'ME', '16', 'municipality', 42.4415238, 19.2621081),
-(15, 'Rožaje', 147, 'ME', '17', 'municipality', 42.8408389, 20.1670628),
-(18, 'Šavnik', 147, 'ME', '18', 'municipality', 42.957197, 19.0946043),
-(29, 'Tivat', 147, 'ME', '19', 'municipality', 42.4303762, 18.6988104),
-(5683, 'Tuzi', 147, 'ME', '24', 'municipality', 42.36667, 19.4),
-(33, 'Ulcinj', 147, 'ME', '20', 'municipality', 41.926012, 19.2055563),
-(32, 'Žabljak', 147, 'ME', '21', 'municipality', 43.1555152, 19.1226018),
-(5684, 'Zeta', 147, 'ME', '25', 'municipality', 42.4, 19.25);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(23, 'Andrijevica', 'Андријевица', 147, 'ME', '01', 'municipality', 'municipio', 42.7362477, 19.7859556),
+(13, 'Bar', 'Бара', 147, 'ME', '02', 'municipality', 'municipio', 42.0979745, 19.0954528),
+(21, 'Berane', 'Беране', 147, 'ME', '03', 'municipality', 'municipio', 42.8435792, 19.8728701),
+(25, 'Bijelo Polje', 'Бело поље', 147, 'ME', '04', 'municipality', 'municipio', 43.0341595, 19.7473559),
+(30, 'Budva', 'Будва', 147, 'ME', '05', 'municipality', 'municipio', 42.2885656, 18.8419505),
+(14, 'Danilovgrad', 'Даниловград', 147, 'ME', '07', 'municipality', 'municipio', 42.5524049, 19.1052289),
+(24, 'Gusinje', 'Gusinje', 147, 'ME', '22', 'municipality', 'municipio', 42.5563455, 19.8306051),
+(5682, 'Herceg-Novi', 'Херцег Нови', 147, 'ME', '08', 'municipality', 'municipio', 42.45306, 18.53722),
+(31, 'Kolašin', 'Колашин', 147, 'ME', '09', 'municipality', 'municipio', 42.8238387, 19.5218005),
+(26, 'Kotor', 'Котор', 147, 'ME', '10', 'municipality', 'municipio', 42.4249205, 18.7713332),
+(22, 'Mojkovac', 'Мојковац', 147, 'ME', '11', 'municipality', 'municipio', 42.9624908, 19.5799899),
+(17, 'Nikšić', 'Никшић', 147, 'ME', '12', 'municipality', 'municipio', 42.7739388, 18.9488097),
+(28, 'Old Royal Capital Cetinje', 'Стари краљевско престонице Цетиње', 147, 'ME', '06', 'municipality', 'municipio', 42.4783057, 18.8980059),
+(12, 'Petnjica', 'Петњица', 147, 'ME', '23', 'municipality', 'municipio', 42.925657, 19.9829219),
+(19, 'Plav', 'Игра', 147, 'ME', '13', 'municipality', 'municipio', 42.6001337, 19.9407541),
+(20, 'Pljevlja', 'Пљевља', 147, 'ME', '14', 'municipality', 'municipio', 43.3565611, 19.3584715),
+(16, 'Plužine', 'Плужине', 147, 'ME', '15', 'municipality', 'municipio', 43.1593384, 18.8551484),
+(27, 'Podgorica', 'Подгорица', 147, 'ME', '16', 'municipality', 'municipio', 42.4415238, 19.2621081),
+(15, 'Rožaje', 'Рожаје', 147, 'ME', '17', 'municipality', 'municipio', 42.8408389, 20.1670628),
+(18, 'Šavnik', 'Савник', 147, 'ME', '18', 'municipality', 'municipio', 42.957197, 19.0946043),
+(29, 'Tivat', 'Тиват', 147, 'ME', '19', 'municipality', 'municipio', 42.4303762, 18.6988104),
+(5683, 'Tuzi', 'Тузи', 147, 'ME', '24', 'municipality', 'municipio', 42.36667, 19.4),
+(33, 'Ulcinj', 'Улцињ', 147, 'ME', '20', 'municipality', 'municipio', 41.926012, 19.2055563),
+(32, 'Žabljak', 'Седло', 147, 'ME', '21', 'municipality', 'municipio', 43.1555152, 19.1226018),
+(5684, 'Zeta', 'Зета', 147, 'ME', '25', 'municipality', 'municipio', 42.4, 19.25);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67343, 'Andrijevica', 23, 147, 42.73389, 19.79194),

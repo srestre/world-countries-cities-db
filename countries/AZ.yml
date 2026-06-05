@@ -12,16 +12,20 @@
   currency_symbol: "m"
   tld: ".az"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 40.5
   longitude: 47.5
   emoji: "🇦🇿"
   states:
     -
       name: "Absheron"
+      native: "Abşeron"
       code: "ABS"
       iso3166_2: "AZ-ABS"
       type: "district"
+      type_es: "distrito"
       latitude: 40.3361899
       longitude: 49.2093
       cities:
@@ -51,9 +55,11 @@
           longitude: 49.71681
     -
       name: "Agdam"
+      native: "Agdam"
       code: "AGM"
       iso3166_2: "AZ-AGM"
       type: "district"
+      type_es: "distrito"
       latitude: 39.9928215
       longitude: 46.9324013
       cities:
@@ -63,9 +69,11 @@
           longitude: 46.92736
     -
       name: "Agdash"
+      native: "Ağdaş"
       code: "AGS"
       iso3166_2: "AZ-AGS"
       type: "district"
+      type_es: "distrito"
       latitude: 40.1672967
       longitude: 46.0857252
       cities:
@@ -75,9 +83,11 @@
           longitude: 47.4738
     -
       name: "Aghjabadi"
+      native: "İngrabədi"
       code: "AGC"
       iso3166_2: "AZ-AGC"
       type: "district"
+      type_es: "distrito"
       latitude: 40.050544
       longitude: 47.4607462
       cities:
@@ -91,9 +101,11 @@
           longitude: 47.42389
     -
       name: "Agstafa"
+      native: "Göt"
       code: "AGA"
       iso3166_2: "AZ-AGA"
       type: "district"
+      type_es: "distrito"
       latitude: 41.1980651
       longitude: 45.5280953
       cities:
@@ -111,9 +123,11 @@
           longitude: 45.47111
     -
       name: "Agsu"
+      native: "Ağsu"
       code: "AGU"
       iso3166_2: "AZ-AGU"
       type: "district"
+      type_es: "distrito"
       latitude: 40.5583
       longitude: 48.352971
       cities:
@@ -123,9 +137,11 @@
           longitude: 48.40087
     -
       name: "Astara"
+      native: "Astara"
       code: "AST"
       iso3166_2: "AZ-AST"
       type: "district"
+      type_es: "distrito"
       latitude: 38.5155977
       longitude: 48.8283223
       cities:
@@ -139,18 +155,22 @@
           longitude: 48.80546
     -
       name: "Babek"
+      native: "Babek"
       code: "BAB"
       iso3166_2: "AZ-BAB"
       type: "district"
+      type_es: "distrito"
       latitude: 39.1507613
       longitude: 45.4485368
       cities:
         []
     -
       name: "Baku"
+      native: "Bakı"
       code: "BA"
       iso3166_2: "AZ-BA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 40.3755885
       longitude: 49.8328009
       cities:
@@ -276,9 +296,11 @@
           longitude: 50.29198
     -
       name: "Balakan"
+      native: "Balakən"
       code: "BAL"
       iso3166_2: "AZ-BAL"
       type: "district"
+      type_es: "distrito"
       latitude: 41.7319369
       longitude: 46.4001881
       cities:
@@ -292,9 +314,11 @@
           longitude: 46.27052
     -
       name: "Barda"
+      native: "Çubuqda"
       code: "BAR"
       iso3166_2: "AZ-BAR"
       type: "district"
+      type_es: "distrito"
       latitude: 40.3812457
       longitude: 47.1246287
       cities:
@@ -308,9 +332,11 @@
           longitude: 47.16917
     -
       name: "Beylagan"
+      native: "Cavabdeh"
       code: "BEY"
       iso3166_2: "AZ-BEY"
       type: "district"
+      type_es: "distrito"
       latitude: 39.7723073
       longitude: 47.6154166
       cities:
@@ -336,9 +362,11 @@
           longitude: 47.655
     -
       name: "Bilasuvar"
+      native: "Biləsuvar"
       code: "BIL"
       iso3166_2: "AZ-BIL"
       type: "district"
+      type_es: "distrito"
       latitude: 39.4598833
       longitude: 48.5509813
       cities:
@@ -348,9 +376,11 @@
           longitude: 48.545
     -
       name: "Dashkasan"
+      native: "Daşkasan"
       code: "DAS"
       iso3166_2: "AZ-DAS"
       type: "district"
+      type_es: "distrito"
       latitude: 40.475196
       longitude: 46.0150705
       cities:
@@ -364,9 +394,11 @@
           longitude: 46.08186
     -
       name: "Fizuli"
+      native: "Fizuli"
       code: "FUZ"
       iso3166_2: "AZ-FUZ"
       type: "district"
+      type_es: "distrito"
       latitude: 39.5835675
       longitude: 47.3806998
       cities:
@@ -380,9 +412,11 @@
           longitude: 47.33496
     -
       name: "Ganja"
+      native: "Ganja"
       code: "GA"
       iso3166_2: "AZ-GA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 40.6798083
       longitude: 46.3597178
       cities:
@@ -392,9 +426,11 @@
           longitude: 46.36056
     -
       name: "Gədəbəy"
+      native: "Gədəbəy"
       code: "GAD"
       iso3166_2: "AZ-GAD"
       type: "district"
+      type_es: "distrito"
       latitude: 40.5699639
       longitude: 45.8106883
       cities:
@@ -420,9 +456,11 @@
           longitude: 45.60079
     -
       name: "Gobustan"
+      native: "Onlar idarə edirlər"
       code: "QOB"
       iso3166_2: "AZ-QOB"
       type: "district"
+      type_es: "distrito"
       latitude: 40.5326044
       longitude: 48.9941676
       cities:
@@ -432,9 +470,11 @@
           longitude: 48.92819
     -
       name: "Goranboy"
+      native: "Goranboy"
       code: "GOR"
       iso3166_2: "AZ-GOR"
       type: "district"
+      type_es: "distrito"
       latitude: 40.6035723
       longitude: 46.7073906
       cities:
@@ -448,9 +488,11 @@
           longitude: 46.849
     -
       name: "Goychay"
+      native: "Qobud"
       code: "GOY"
       iso3166_2: "AZ-GOY"
       type: "district"
+      type_es: "distrito"
       latitude: 40.6494415
       longitude: 47.7412208
       cities:
@@ -460,9 +502,11 @@
           longitude: 47.74219
     -
       name: "Goygol"
+      native: "Xas"
       code: "GYG"
       iso3166_2: "AZ-GYG"
       type: "district"
+      type_es: "distrito"
       latitude: 40.588004
       longitude: 46.321095
       cities:
@@ -472,9 +516,11 @@
           longitude: 46.3189
     -
       name: "Hajigabul"
+      native: "Hajigabul"
       code: "HAC"
       iso3166_2: "AZ-HAC"
       type: "district"
+      type_es: "distrito"
       latitude: 40.0286557
       longitude: 48.9350797
       cities:
@@ -488,9 +534,11 @@
           longitude: 48.81886
     -
       name: "Imishli"
+      native: "Imishli"
       code: "IMI"
       iso3166_2: "AZ-IMI"
       type: "district"
+      type_es: "distrito"
       latitude: 39.8694686
       longitude: 48.0665218
       cities:
@@ -500,9 +548,11 @@
           longitude: 48.05995
     -
       name: "Ismailli"
+      native: "İsmayıllı"
       code: "ISM"
       iso3166_2: "AZ-ISM"
       type: "district"
+      type_es: "distrito"
       latitude: 40.788056
       longitude: 48.1485653
       cities:
@@ -516,9 +566,11 @@
           longitude: 48.15141
     -
       name: "Jabrayil"
+      native: "Jabbbas"
       code: "CAB"
       iso3166_2: "AZ-CAB"
       type: "district"
+      type_es: "distrito"
       latitude: 39.3188061
       longitude: 46.9785547
       cities:
@@ -528,9 +580,11 @@
           longitude: 47.02835
     -
       name: "Jalilabad"
+      native: "Cəlilabad"
       code: "CAL"
       iso3166_2: "AZ-CAL"
       type: "district"
+      type_es: "distrito"
       latitude: 39.2051632
       longitude: 48.5100604
       cities:
@@ -544,18 +598,22 @@
           longitude: 48.59383
     -
       name: "Julfa"
+      native: "Ciyərli"
       code: "CUL"
       iso3166_2: "AZ-CUL"
       type: "district"
+      type_es: "distrito"
       latitude: 39.141142
       longitude: 45.6949712
       cities:
         []
     -
       name: "Kalbajar"
+      native: "Kalbəcər"
       code: "KAL"
       iso3166_2: "AZ-KAL"
       type: "district"
+      type_es: "distrito"
       latitude: 40.1024329
       longitude: 46.0364872
       cities:
@@ -569,18 +627,22 @@
           longitude: 46.54419
     -
       name: "Kangarli"
+      native: "Kangarli"
       code: "KAN"
       iso3166_2: "AZ-KAN"
       type: "district"
+      type_es: "distrito"
       latitude: 39.3632216
       longitude: 45.2098308
       cities:
         []
     -
       name: "Khachmaz"
+      native: "Xaçmaz"
       code: "XAC"
       iso3166_2: "AZ-XAC"
       type: "district"
+      type_es: "distrito"
       latitude: 41.4591168
       longitude: 48.8020626
       cities:
@@ -594,9 +656,11 @@
           longitude: 48.68161
     -
       name: "Khankendi"
+      native: "Xankəndi"
       code: "XA"
       iso3166_2: "AZ-XA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 39.8266
       longitude: 46.7556
       cities:
@@ -606,9 +670,11 @@
           longitude: 46.7556
     -
       name: "Khizi"
+      native: "Xızı"
       code: "XIZ"
       iso3166_2: "AZ-XIZ"
       type: "district"
+      type_es: "distrito"
       latitude: 40.9109489
       longitude: 49.0729264
       cities:
@@ -630,9 +696,11 @@
           longitude: 49.46774
     -
       name: "Khojali"
+      native: "Xojali"
       code: "XCI"
       iso3166_2: "AZ-XCI"
       type: "district"
+      type_es: "distrito"
       latitude: 38.7584727
       longitude: 48.8564302
       cities:
@@ -646,9 +714,11 @@
           longitude: 46.79028
     -
       name: "Kurdamir"
+      native: "Kurdamir"
       code: "KUR"
       iso3166_2: "AZ-KUR"
       type: "district"
+      type_es: "distrito"
       latitude: 40.3455247
       longitude: 48.1488951
       cities:
@@ -658,9 +728,11 @@
           longitude: 48.15649
     -
       name: "Lachin"
+      native: "Lachin"
       code: "LAC"
       iso3166_2: "AZ-LAC"
       type: "district"
+      type_es: "distrito"
       latitude: 39.6383414
       longitude: 46.5460853
       cities:
@@ -670,18 +742,22 @@
           longitude: 46.55045
     -
       name: "Lankaran"
+      native: "Lankaran"
       code: "LAN"
       iso3166_2: "AZ-LAN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 38.7618973
       longitude: 48.8437784
       cities:
         []
     -
       name: "Lankaran"
+      native: "Lankaran"
       code: "LA"
       iso3166_2: "AZ-LA"
       type: "district"
+      type_es: "distrito"
       latitude: 38.7618973
       longitude: 48.8437784
       cities:
@@ -695,9 +771,11 @@
           longitude: 48.85062
     -
       name: "Lerik"
+      native: "Lerik"
       code: "LER"
       iso3166_2: "AZ-LER"
       type: "district"
+      type_es: "distrito"
       latitude: 38.7736192
       longitude: 48.4151483
       cities:
@@ -707,9 +785,11 @@
           longitude: 48.41497
     -
       name: "Martuni"
+      native: "Martuni"
       code: "XVD"
       iso3166_2: "AZ-XVD"
       type: "district"
+      type_es: "distrito"
       latitude: 39.8184389
       longitude: 46.7480867
       cities:
@@ -727,9 +807,11 @@
           longitude: 46.95123
     -
       name: "Masally"
+      native: "Masallı"
       code: "MAS"
       iso3166_2: "AZ-MAS"
       type: "district"
+      type_es: "distrito"
       latitude: 39.0322111
       longitude: 48.6721093
       cities:
@@ -743,9 +825,11 @@
           longitude: 48.6654
     -
       name: "Mingachevir"
+      native: "Mingachevir"
       code: "MI"
       iso3166_2: "AZ-MI"
       type: "municipality"
+      type_es: "municipio"
       latitude: 40.7702563
       longitude: 47.0496015
       cities:
@@ -755,9 +839,11 @@
           longitude: 47.05953
     -
       name: "Naftalan"
+      native: "Naftalan"
       code: "NA"
       iso3166_2: "AZ-NA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 40.5061
       longitude: 46.8244
       cities:
@@ -767,9 +853,11 @@
           longitude: 46.8244
     -
       name: "Nakhchivan"
+      native: "Naxçıvan"
       code: "NV"
       iso3166_2: "AZ-NV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 39.2089
       longitude: 45.4122
       cities:
@@ -779,9 +867,11 @@
           longitude: 45.41222
     -
       name: "Nakhchivan"
+      native: "Naxçıvan"
       code: "NX"
       iso3166_2: "AZ-NX"
       type: "autonomous republic"
+      type_es: "república autónoma"
       latitude: 39.217497
       longitude: 45.4069671
       cities:
@@ -855,9 +945,11 @@
           longitude: 45.73244
     -
       name: "Neftchala"
+      native: "Neftçala"
       code: "NEF"
       iso3166_2: "AZ-NEF"
       type: "district"
+      type_es: "distrito"
       latitude: 39.3790532
       longitude: 49.248607
       cities:
@@ -879,9 +971,11 @@
           longitude: 49.10166
     -
       name: "Oghuz"
+      native: "Ohz"
       code: "OGU"
       iso3166_2: "AZ-OGU"
       type: "district"
+      type_es: "distrito"
       latitude: 41.0727924
       longitude: 47.4650672
       cities:
@@ -891,18 +985,22 @@
           longitude: 47.46528
     -
       name: "Ordubad"
+      native: "Ordubad"
       code: "ORD"
       iso3166_2: "AZ-ORD"
       type: "district"
+      type_es: "distrito"
       latitude: 38.9021622
       longitude: 46.0237625
       cities:
         []
     -
       name: "Qabala"
+      native: "Aparmaq"
       code: "QAB"
       iso3166_2: "AZ-QAB"
       type: "district"
+      type_es: "distrito"
       latitude: 40.9436064
       longitude: 47.8213377
       cities:
@@ -912,9 +1010,11 @@
           longitude: 47.84909
     -
       name: "Qakh"
+      native: "Qark"
       code: "QAX"
       iso3166_2: "AZ-QAX"
       type: "district"
+      type_es: "distrito"
       latitude: 41.4185515
       longitude: 46.9192097
       cities:
@@ -936,9 +1036,11 @@
           longitude: 46.9646
     -
       name: "Qazakh"
+      native: "Qazakh"
       code: "QAZ"
       iso3166_2: "AZ-QAZ"
       type: "district"
+      type_es: "distrito"
       latitude: 41.1707366
       longitude: 45.2528833
       cities:
@@ -948,9 +1050,11 @@
           longitude: 45.36561
     -
       name: "Quba"
+      native: "Quba"
       code: "QBA"
       iso3166_2: "AZ-QBA"
       type: "district"
+      type_es: "distrito"
       latitude: 41.1880893
       longitude: 48.3721452
       cities:
@@ -964,9 +1068,11 @@
           longitude: 48.51341
     -
       name: "Qubadli"
+      native: "Qubadli"
       code: "QBI"
       iso3166_2: "AZ-QBI"
       type: "district"
+      type_es: "distrito"
       latitude: 39.3335958
       longitude: 46.63354
       cities:
@@ -976,9 +1082,11 @@
           longitude: 46.58183
     -
       name: "Qusar"
+      native: "Qusar"
       code: "QUS"
       iso3166_2: "AZ-QUS"
       type: "district"
+      type_es: "distrito"
       latitude: 41.4266886
       longitude: 48.4345577
       cities:
@@ -992,9 +1100,11 @@
           longitude: 48.43028
     -
       name: "Saatly"
+      native: "Saatly"
       code: "SAT"
       iso3166_2: "AZ-SAT"
       type: "district"
+      type_es: "distrito"
       latitude: 39.9376009
       longitude: 48.3689097
       cities:
@@ -1008,9 +1118,11 @@
           longitude: 48.36892
     -
       name: "Sabirabad"
+      native: "Sabirabad"
       code: "SAB"
       iso3166_2: "AZ-SAB"
       type: "district"
+      type_es: "distrito"
       latitude: 40.008006
       longitude: 48.475032
       cities:
@@ -1020,18 +1132,22 @@
           longitude: 48.47701
     -
       name: "Sadarak"
+      native: "Sədərək"
       code: "SAD"
       iso3166_2: "AZ-SAD"
       type: "district"
+      type_es: "distrito"
       latitude: 39.6727407
       longitude: 44.9138739
       cities:
         []
     -
       name: "Salyan"
+      native: "Salyan"
       code: "SAL"
       iso3166_2: "AZ-SAL"
       type: "district"
+      type_es: "distrito"
       latitude: 39.6524101
       longitude: 49.1084381
       cities:
@@ -1045,9 +1161,11 @@
           longitude: 48.98479
     -
       name: "Samukh"
+      native: "Samux"
       code: "SMX"
       iso3166_2: "AZ-SMX"
       type: "district"
+      type_es: "distrito"
       latitude: 40.7604631
       longitude: 46.4063181
       cities:
@@ -1065,9 +1183,11 @@
           longitude: 46.40868
     -
       name: "Shabran"
+      native: "Şabran"
       code: "SBN"
       iso3166_2: "AZ-SBN"
       type: "district"
+      type_es: "distrito"
       latitude: 41.1776161
       longitude: 48.8767058
       cities:
@@ -1077,18 +1197,22 @@
           longitude: 48.98712
     -
       name: "Shahbuz"
+      native: "Şahbuz"
       code: "SAH"
       iso3166_2: "AZ-SAH"
       type: "district"
+      type_es: "distrito"
       latitude: 39.4385817
       longitude: 45.6071333
       cities:
         []
     -
       name: "Shaki"
+      native: "Şübhə"
       code: "SA"
       iso3166_2: "AZ-SA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.2033609
       longitude: 47.1802623
       cities:
@@ -1098,9 +1222,11 @@
           longitude: 47.17056
     -
       name: "Shaki"
+      native: "Şübhə"
       code: "SAK"
       iso3166_2: "AZ-SAK"
       type: "district"
+      type_es: "distrito"
       latitude: 41.2033609
       longitude: 47.1802623
       cities:
@@ -1110,9 +1236,11 @@
           longitude: 47.11357
     -
       name: "Shamakhi"
+      native: "Şamakay"
       code: "SMI"
       iso3166_2: "AZ-SMI"
       type: "district"
+      type_es: "distrito"
       latitude: 40.6318731
       longitude: 48.6363801
       cities:
@@ -1122,9 +1250,11 @@
           longitude: 48.64137
     -
       name: "Shamkir"
+      native: "Shamkir"
       code: "SKR"
       iso3166_2: "AZ-SKR"
       type: "district"
+      type_es: "distrito"
       latitude: 40.8357964
       longitude: 46.0246224
       cities:
@@ -1146,18 +1276,22 @@
           longitude: 46.0178
     -
       name: "Sharur"
+      native: "Sharur"
       code: "SAR"
       iso3166_2: "AZ-SAR"
       type: "district"
+      type_es: "distrito"
       latitude: 39.5536332
       longitude: 44.984568
       cities:
         []
     -
       name: "Shirvan"
+      native: "Şirvan"
       code: "SR"
       iso3166_2: "AZ-SR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 39.9296573
       longitude: 48.9342657
       cities:
@@ -1167,9 +1301,11 @@
           longitude: 48.929
     -
       name: "Shusha"
+      native: "Shusha"
       code: "SUS"
       iso3166_2: "AZ-SUS"
       type: "district"
+      type_es: "distrito"
       latitude: 39.7632567
       longitude: 46.7511501
       cities:
@@ -1179,9 +1315,11 @@
           longitude: 46.74989
     -
       name: "Siazan"
+      native: "Siazan"
       code: "SIY"
       iso3166_2: "AZ-SIY"
       type: "district"
+      type_es: "distrito"
       latitude: 41.0783833
       longitude: 49.1118477
       cities:
@@ -1195,9 +1333,11 @@
           longitude: 49.11564
     -
       name: "Sumqayit"
+      native: "Sumqayit"
       code: "SM"
       iso3166_2: "AZ-SM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 40.5961585
       longitude: 49.6696668
       cities:
@@ -1215,9 +1355,11 @@
           longitude: 49.66861
     -
       name: "Tartar"
+      native: "Tartar"
       code: "TAR"
       iso3166_2: "AZ-TAR"
       type: "district"
+      type_es: "distrito"
       latitude: 40.3443875
       longitude: 46.9376519
       cities:
@@ -1231,9 +1373,11 @@
           longitude: 46.93161
     -
       name: "Tovuz"
+      native: "Tovuz"
       code: "TOV"
       iso3166_2: "AZ-TOV"
       type: "district"
+      type_es: "distrito"
       latitude: 40.9954523
       longitude: 45.6165907
       cities:
@@ -1263,9 +1407,11 @@
           longitude: 45.6803
     -
       name: "Ujar"
+      native: "Dedi-qodu"
       code: "UCA"
       iso3166_2: "AZ-UCA"
       type: "district"
+      type_es: "distrito"
       latitude: 40.5185386
       longitude: 47.6487809
       cities:
@@ -1275,9 +1421,11 @@
           longitude: 47.65423
     -
       name: "Yardymli"
+      native: "Yarası"
       code: "YAR"
       iso3166_2: "AZ-YAR"
       type: "district"
+      type_es: "distrito"
       latitude: 38.9028993
       longitude: 48.2132983
       cities:
@@ -1287,9 +1435,11 @@
           longitude: 48.24052
     -
       name: "Yevlakh"
+      native: "Yevlax"
       code: "YEV"
       iso3166_2: "AZ-YEV"
       type: "district"
+      type_es: "distrito"
       latitude: 40.6115136
       longitude: 47.1466686
       cities:
@@ -1303,9 +1453,11 @@
           longitude: 46.99339
     -
       name: "Yevlakh"
+      native: "Yevlakh"
       code: "YE"
       iso3166_2: "AZ-YE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 40.6115136
       longitude: 47.1466686
       cities:
@@ -1315,9 +1467,11 @@
           longitude: 47.15014
     -
       name: "Zangilan"
+      native: "Düşərgə"
       code: "ZAN"
       iso3166_2: "AZ-ZAN"
       type: "district"
+      type_es: "distrito"
       latitude: 39.0856899
       longitude: 46.6524728
       cities:
@@ -1331,9 +1485,11 @@
           longitude: 46.65988
     -
       name: "Zaqatala"
+      native: "Zaqatala"
       code: "ZAQ"
       iso3166_2: "AZ-ZAQ"
       type: "district"
+      type_es: "distrito"
       latitude: 41.6180321
       longitude: 46.7595126
       cities:
@@ -1359,9 +1515,11 @@
           longitude: 46.64479
     -
       name: "Zardab"
+      native: "Qaxac etmək"
       code: "ZAR"
       iso3166_2: "AZ-ZAR"
       type: "district"
+      type_es: "distrito"
       latitude: 40.2148114
       longitude: 47.714944
       cities:

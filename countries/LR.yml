@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".lr"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 6.5
   longitude: -9.5
   emoji: "🇱🇷"
   states:
     -
       name: "Bomi"
+      native: "Bomi"
       code: "BM"
       iso3166_2: "LR-BM"
       type: "county"
+      type_es: "condado"
       latitude: 6.7177856
       longitude: -10.7881766
       cities:
@@ -31,9 +35,11 @@
           longitude: -10.8211
     -
       name: "Bong"
+      native: "Bong"
       code: "BG"
       iso3166_2: "LR-BG"
       type: "county"
+      type_es: "condado"
       latitude: 6.9622195
       longitude: -9.7134459
       cities:
@@ -43,9 +49,11 @@
           longitude: -9.47122
     -
       name: "Gbarpolu"
+      native: "Gbarpolu"
       code: "GP"
       iso3166_2: "LR-GP"
       type: "county"
+      type_es: "condado"
       latitude: 7.2681564
       longitude: -10.3814771
       cities:
@@ -55,9 +63,11 @@
           longitude: -10.4875
     -
       name: "Grand Bassa"
+      native: "Grand Bassa"
       code: "GB"
       iso3166_2: "LR-GB"
       type: "county"
+      type_es: "condado"
       latitude: 6.1640621
       longitude: -9.895669
       cities:
@@ -67,9 +77,11 @@
           longitude: -10.04964
     -
       name: "Grand Cape Mount"
+      native: "Grand Cape Mount"
       code: "CM"
       iso3166_2: "LR-CM"
       type: "county"
+      type_es: "condado"
       latitude: 7.0496206
       longitude: -11.129843
       cities:
@@ -79,9 +91,11 @@
           longitude: -11.3671
     -
       name: "Grand Gedeh"
+      native: "Grand Gedeh"
       code: "GG"
       iso3166_2: "LR-GG"
       type: "county"
+      type_es: "condado"
       latitude: 5.8161533
       longitude: -8.0995537
       cities:
@@ -91,9 +105,11 @@
           longitude: -8.13559
     -
       name: "Grand Kru"
+      native: "Grand crew"
       code: "GK"
       iso3166_2: "LR-GK"
       type: "county"
+      type_es: "condado"
       latitude: 4.84932
       longitude: -8.3308845
       cities:
@@ -103,9 +119,11 @@
           longitude: -8.23306
     -
       name: "Lofa"
+      native: "Applaud"
       code: "LO"
       iso3166_2: "LR-LO"
       type: "county"
+      type_es: "condado"
       latitude: 7.8824046
       longitude: -9.9760297
       cities:
@@ -115,9 +133,11 @@
           longitude: -9.74778
     -
       name: "Margibi"
+      native: "Margibi"
       code: "MG"
       iso3166_2: "LR-MG"
       type: "county"
+      type_es: "condado"
       latitude: 6.6053676
       longitude: -10.1758429
       cities:
@@ -127,9 +147,11 @@
           longitude: -10.35368
     -
       name: "Maryland"
+      native: "Maryland"
       code: "MY"
       iso3166_2: "LR-MY"
       type: "county"
+      type_es: "condado"
       latitude: 4.6355376
       longitude: -7.7281669
       cities:
@@ -139,9 +161,11 @@
           longitude: -7.71081
     -
       name: "Montserrado"
+      native: "Montserrado"
       code: "MO"
       iso3166_2: "LR-MO"
       type: "county"
+      type_es: "condado"
       latitude: 6.4095537
       longitude: -10.6059403
       cities:
@@ -155,9 +179,11 @@
           longitude: -10.7969
     -
       name: "Nimba"
+      native: "If"
       code: "NI"
       iso3166_2: "LR-NI"
       type: "county"
+      type_es: "condado"
       latitude: 6.8088813
       longitude: -8.7461448
       cities:
@@ -175,9 +201,11 @@
           longitude: -8.71326
     -
       name: "River Cess"
+      native: "River Cess"
       code: "RI"
       iso3166_2: "LR-RI"
       type: "county"
+      type_es: "condado"
       latitude: 5.9087331
       longitude: -9.3938267
       cities:
@@ -187,9 +215,11 @@
           longitude: -9.58167
     -
       name: "River Gee"
+      native: "River Gee"
       code: "RG"
       iso3166_2: "LR-RG"
       type: "county"
+      type_es: "condado"
       latitude: 5.2653903
       longitude: -7.8856203
       cities:
@@ -199,9 +229,11 @@
           longitude: -7.87579
     -
       name: "Sinoe"
+      native: "SINOIE"
       code: "SI"
       iso3166_2: "LR-SI"
       type: "county"
+      type_es: "condado"
       latitude: 5.3232693
       longitude: -8.8435955
       cities:

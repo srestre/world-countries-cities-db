@@ -12,16 +12,20 @@
   currency_symbol: "ج.م"
   tld: ".eg"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   latitude: 27
   longitude: 30
   emoji: "🇪🇬"
   states:
     -
       name: "Alexandria"
+      native: "الإسكندرية"
       code: "ALX"
       iso3166_2: "EG-ALX"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.9432983
       longitude: 29.765645
       cities:
@@ -59,9 +63,11 @@
           longitude: 29.9945
     -
       name: "Aswan"
+      native: "أسوان"
       code: "ASN"
       iso3166_2: "EG-ASN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 23.6675287
       longitude: 32.6916477
       cities:
@@ -83,9 +89,11 @@
           longitude: 32.94626
     -
       name: "Asyut"
+      native: "أسيوط"
       code: "AST"
       iso3166_2: "EG-AST"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 27.2065132
       longitude: 31.5500282
       cities:
@@ -119,9 +127,11 @@
           longitude: 30.97004
     -
       name: "Beheira"
+      native: "البحيرة"
       code: "BH"
       iso3166_2: "EG-BH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.7915206
       longitude: 30.3465488
       cities:
@@ -159,9 +169,11 @@
           longitude: 30.41718
     -
       name: "Beni Suef"
+      native: "بني سويف"
       code: "BNS"
       iso3166_2: "EG-BNS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.0729812
       longitude: 31.0982562
       cities:
@@ -183,9 +195,11 @@
           longitude: 30.85
     -
       name: "Cairo"
+      native: "القاهرة"
       code: "C"
       iso3166_2: "EG-C"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.0332516
       longitude: 31.5621651
       cities:
@@ -263,9 +277,11 @@
           longitude: 31.22055556
     -
       name: "Dakahlia"
+      native: "الدقهلية"
       code: "DK"
       iso3166_2: "EG-DK"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.1380046
       longitude: 31.8882499
       cities:
@@ -315,9 +331,11 @@
           longitude: 31.37787
     -
       name: "Damietta"
+      native: "دمياط"
       code: "DT"
       iso3166_2: "EG-DT"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.4113331
       longitude: 31.7557072
       cities:
@@ -335,9 +353,11 @@
           longitude: 31.71507
     -
       name: "Faiyum"
+      native: "الفيوم"
       code: "FYM"
       iso3166_2: "EG-FYM"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.3084021
       longitude: 30.8428497
       cities:
@@ -363,9 +383,11 @@
           longitude: 30.96119
     -
       name: "Gharbia"
+      native: "الغربية"
       code: "GH"
       iso3166_2: "EG-GH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.8391947
       longitude: 31.0016072
       cities:
@@ -399,9 +421,11 @@
           longitude: 31.24425
     -
       name: "Giza"
+      native: "الجيزة"
       code: "GZ"
       iso3166_2: "EG-GZ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.0540357
       longitude: 29.4190807
       cities:
@@ -435,9 +459,11 @@
           longitude: 31.05
     -
       name: "Ismailia"
+      native: "الإسماعيلية"
       code: "IS"
       iso3166_2: "EG-IS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.6043775
       longitude: 32.2770825
       cities:
@@ -447,9 +473,11 @@
           longitude: 32.27225
     -
       name: "Kafr El-Sheikh"
+      native: "كفر الشيخ"
       code: "KFS"
       iso3166_2: "EG-KFS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.3814765
       longitude: 30.8513566
       cities:
@@ -483,9 +511,11 @@
           longitude: 30.78617
     -
       name: "Luxor"
+      native: "الأقصر"
       code: "LX"
       iso3166_2: "EG-LX"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 25.702096
       longitude: 32.647186
       cities:
@@ -499,9 +529,11 @@
           longitude: 32.59017
     -
       name: "Matrouh"
+      native: "مطروح"
       code: "MT"
       iso3166_2: "EG-MT"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.7876385
       longitude: 27.427041
       cities:
@@ -519,9 +551,11 @@
           longitude: 25.51965
     -
       name: "Minya"
+      native: "المنيا"
       code: "MN"
       iso3166_2: "EG-MN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 28.0893325
       longitude: 30.7570623
       cities:
@@ -555,9 +589,11 @@
           longitude: 30.71007
     -
       name: "Monufia"
+      native: "المنوفية"
       code: "MNF"
       iso3166_2: "EG-MNF"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.4370098
       longitude: 30.7466852
       cities:
@@ -591,9 +627,11 @@
           longitude: 30.94364
     -
       name: "New Valley"
+      native: "الوادي الجديد"
       code: "WAD"
       iso3166_2: "EG-WAD"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 24.8766665
       longitude: 28.7757345
       cities:
@@ -607,9 +645,11 @@
           longitude: 27.96979
     -
       name: "North Sinai"
+      native: "شمال سيناء"
       code: "SIN"
       iso3166_2: "EG-SIN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.5042803
       longitude: 33.591006
       cities:
@@ -619,9 +659,11 @@
           longitude: 33.79844
     -
       name: "Port Said"
+      native: "بورسعيد"
       code: "PTS"
       iso3166_2: "EG-PTS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.1821275
       longitude: 32.372582
       cities:
@@ -631,9 +673,11 @@
           longitude: 32.28411
     -
       name: "Qalyubia"
+      native: "القليوبية"
       code: "KB"
       iso3166_2: "EG-KB"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.3292368
       longitude: 31.2168466
       cities:
@@ -667,9 +711,11 @@
           longitude: 31.20105
     -
       name: "Qena"
+      native: "قنا"
       code: "KN"
       iso3166_2: "EG-KN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 26.1593097
       longitude: 32.7162855
       cities:
@@ -699,9 +745,11 @@
           longitude: 32.72671
     -
       name: "Red Sea"
+      native: "البحر الأحمر"
       code: "BA"
       iso3166_2: "EG-BA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 25.5867279
       longitude: 34.1694641
       cities:
@@ -735,9 +783,11 @@
           longitude: 33.93891
     -
       name: "Sharqia"
+      native: "الشرقية"
       code: "SHR"
       iso3166_2: "EG-SHR"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.6332775
       longitude: 31.7893739
       cities:
@@ -799,9 +849,11 @@
           longitude: 31.3474779
     -
       name: "Sohag"
+      native: "سوهاج"
       code: "SHG"
       iso3166_2: "EG-SHG"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 26.7624628
       longitude: 32.0909936
       cities:
@@ -843,9 +895,11 @@
           longitude: 31.50214
     -
       name: "South Sinai"
+      native: "جنوب سيناء"
       code: "JS"
       iso3166_2: "EG-JS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 28.6449564
       longitude: 33.8711313
       cities:
@@ -871,9 +925,11 @@
           longitude: 34.32995
     -
       name: "Suez"
+      native: "السويس"
       code: "SUZ"
       iso3166_2: "EG-SUZ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.4165427
       longitude: 32.1490967
       cities:

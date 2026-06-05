@@ -12,16 +12,20 @@
   currency_symbol: "ZK"
   tld: ".zm"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -15
   longitude: 30
   emoji: "🇿🇲"
   states:
     -
       name: "Central"
+      native: "Central"
       code: "02"
       iso3166_2: "ZM-02"
       type: "province"
+      type_es: "provincia"
       latitude: -14.183507
       longitude: 29.0375543
       cities:
@@ -55,9 +59,11 @@
           longitude: 30.23522
     -
       name: "Copperbelt"
+      native: "Copperbelt"
       code: "08"
       iso3166_2: "ZM-08"
       type: "province"
+      type_es: "provincia"
       latitude: -13.0214171
       longitude: 27.8876177
       cities:
@@ -107,9 +113,11 @@
           longitude: 28.63659
     -
       name: "Eastern"
+      native: "Eastern"
       code: "03"
       iso3166_2: "ZM-03"
       type: "province"
+      type_es: "provincia"
       latitude: -13.6514737
       longitude: 31.9958539
       cities:
@@ -135,9 +143,11 @@
           longitude: 31.31975
     -
       name: "Luapula"
+      native: "Luapula"
       code: "04"
       iso3166_2: "ZM-04"
       type: "province"
+      type_es: "provincia"
       latitude: -10.4680244
       longitude: 29.1275609
       cities:
@@ -163,9 +173,11 @@
           longitude: 29.55652
     -
       name: "Lusaka"
+      native: "Saturday"
       code: "09"
       iso3166_2: "ZM-09"
       type: "province"
+      type_es: "provincia"
       latitude: -15.357609
       longitude: 29.1653092
       cities:
@@ -187,9 +199,11 @@
           longitude: 28.28713
     -
       name: "Muchinga"
+      native: "To go"
       code: "10"
       iso3166_2: "ZM-10"
       type: "province"
+      type_es: "provincia"
       latitude: -11.1005259
       longitude: 31.639964
       cities:
@@ -215,9 +229,11 @@
           longitude: 32.745
     -
       name: "Northern"
+      native: "Northern"
       code: "05"
       iso3166_2: "ZM-05"
       type: "province"
+      type_es: "provincia"
       latitude: -9.4514165
       longitude: 30.8881001
       cities:
@@ -251,9 +267,11 @@
           longitude: 31.36942
     -
       name: "Northwestern"
+      native: "Northwestern"
       code: "06"
       iso3166_2: "ZM-06"
       type: "province"
+      type_es: "provincia"
       latitude: -13.0050258
       longitude: 24.9042208
       cities:
@@ -291,9 +309,11 @@
           longitude: 23.10467
     -
       name: "Southern"
+      native: "Southern"
       code: "07"
       iso3166_2: "ZM-07"
       type: "province"
+      type_es: "provincia"
       latitude: -16.5381715
       longitude: 26.7374997
       cities:
@@ -347,9 +367,11 @@
           longitude: 27.46179
     -
       name: "Western"
+      native: "Western"
       code: "01"
       iso3166_2: "ZM-01"
       type: "province"
+      type_es: "provincia"
       latitude: 6.9016086
       longitude: 80.0087746
       cities:

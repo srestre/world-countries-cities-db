@@ -1,68 +1,68 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(113, 'Kenya', 'KE', 'KEN', 'Africa', 'Eastern Africa', 'Nairobi', 'KES', 1, 38, '🇰🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(113, 'Kenya', 'Kenia', 'KE', 'KEN', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Nairobi', 'KES', 1, 38, '🇰🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(181, 'Baringo', 113, 'KE', '01', 'county', 0.71401, 36.0172739),
-(210, 'Bomet', 113, 'KE', '02', 'county', -0.7196054, 35.2399625),
-(168, 'Bungoma', 113, 'KE', '03', 'county', 0.5695252, 34.5583766),
-(161, 'Busia', 113, 'KE', '04', 'county', 0.3712048, 34.2647952),
-(201, 'Elgeyo-Marakwet', 113, 'KE', '05', 'county', 0.7422191, 35.5618083),
-(163, 'Embu', 113, 'KE', '06', 'county', -0.5359479, 37.6652884),
-(196, 'Garissa', 113, 'KE', '07', 'county', -0.4532293, 39.6460988),
-(195, 'Homa Bay', 113, 'KE', '08', 'county', -0.5639601, 34.3187819),
-(170, 'Isiolo', 113, 'KE', '09', 'county', 1.0060601, 38.7478954),
-(197, 'Kajiado', 113, 'KE', '10', 'county', -2.121717, 36.786255),
-(158, 'Kakamega', 113, 'KE', '11', 'county', 0.2833, 34.75),
-(193, 'Kericho', 113, 'KE', '12', 'county', -0.3666, 35.2833),
-(199, 'Kiambu', 113, 'KE', '13', 'county', -1.036395, 36.8431312),
-(174, 'Kilifi', 113, 'KE', '14', 'county', -3.6333, 39.85),
-(167, 'Kirinyaga', 113, 'KE', '15', 'county', -0.468878, 37.3027681),
-(159, 'Kisii', 113, 'KE', '16', 'county', -0.6694119, 34.7677944),
-(171, 'Kisumu', 113, 'KE', '17', 'county', -0.1029109, 34.7541761),
-(211, 'Kitui', 113, 'KE', '18', 'county', -1.5642219, 38.3728116),
-(173, 'Kwale', 113, 'KE', '19', 'county', -4.1836067, 39.105095),
-(164, 'Laikipia', 113, 'KE', '20', 'county', 0.2858452, 36.8257711),
-(166, 'Lamu', 113, 'KE', '21', 'county', -2.0645209, 40.7280992),
-(184, 'Machakos', 113, 'KE', '22', 'county', -1.5176837, 37.2634146),
-(188, 'Makueni', 113, 'KE', '23', 'county', -2.257093, 37.8771715),
-(187, 'Mandera', 113, 'KE', '24', 'county', 3.2285332, 40.7056153),
-(194, 'Marsabit', 113, 'KE', '25', 'county', 2.3380612, 37.991639),
-(198, 'Meru', 113, 'KE', '26', 'county', 0.2254509, 37.7772624),
-(190, 'Migori', 113, 'KE', '27', 'county', -1.0192237, 34.3095427),
-(200, 'Mombasa', 113, 'KE', '28', 'county', -4.05052, 39.667169),
-(178, 'Murang''a', 113, 'KE', '29', 'county', -0.8317087, 37.0049216),
-(191, 'Nairobi City', 113, 'KE', '30', 'county', -1.2920659, 36.8219462),
-(203, 'Nakuru', 113, 'KE', '31', 'county', -0.2802724, 36.0712048),
-(165, 'Nandi', 113, 'KE', '32', 'county', 0.2253932, 35.1244929),
-(175, 'Narok', 113, 'KE', '33', 'county', -1.0886931, 35.8714916),
-(209, 'Nyamira', 113, 'KE', '34', 'county', -0.6517907, 34.934167),
-(192, 'Nyandarua', 113, 'KE', '35', 'county', -0.3917064, 36.4977397),
-(180, 'Nyeri', 113, 'KE', '36', 'county', -0.4192962, 36.9517005),
-(207, 'Samburu', 113, 'KE', '37', 'county', 1.5394463, 36.942166),
-(186, 'Siaya', 113, 'KE', '38', 'county', -0.0604013, 34.200135),
-(176, 'Taita–Taveta', 113, 'KE', '39', 'county', -3.4178355, 38.3670676),
-(205, 'Tana River', 113, 'KE', '40', 'county', -1.5365119, 39.5508374),
-(185, 'Tharaka-Nithi', 113, 'KE', '41', 'county', -0.1937081, 37.961405),
-(183, 'Trans Nzoia', 113, 'KE', '42', 'county', 1.0454582, 34.979044),
-(206, 'Turkana', 113, 'KE', '43', 'county', 2.7655657, 35.5977228),
-(169, 'Uasin Gishu', 113, 'KE', '44', 'county', 0.4771938, 35.3050597),
-(202, 'Vihiga', 113, 'KE', '45', 'county', 0.0767553, 34.7077665),
-(182, 'Wajir', 113, 'KE', '46', 'county', 1.7504651, 40.0594959),
-(208, 'West Pokot', 113, 'KE', '47', 'county', 1.8798608, 35.210613);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(181, 'Baringo', 'Baringo', 113, 'KE', '01', 'county', 'condado', 0.71401, 36.0172739),
+(210, 'Bomet', 'Bomet', 113, 'KE', '02', 'county', 'condado', -0.7196054, 35.2399625),
+(168, 'Bungoma', 'Bungoma', 113, 'KE', '03', 'county', 'condado', 0.5695252, 34.5583766),
+(161, 'Busia', 'Busia', 113, 'KE', '04', 'county', 'condado', 0.3712048, 34.2647952),
+(201, 'Elgeyo-Marakwet', 'Elgeyo-Marakwet', 113, 'KE', '05', 'county', 'condado', 0.7422191, 35.5618083),
+(163, 'Embu', 'Embu', 113, 'KE', '06', 'county', 'condado', -0.5359479, 37.6652884),
+(196, 'Garissa', 'In the gar', 113, 'KE', '07', 'county', 'condado', -0.4532293, 39.6460988),
+(195, 'Homa Bay', 'Homa Bay', 113, 'KE', '08', 'county', 'condado', -0.5639601, 34.3187819),
+(170, 'Isiolo', 'Isiolo', 113, 'KE', '09', 'county', 'condado', 1.0060601, 38.7478954),
+(197, 'Kajiado', 'Kajiado', 113, 'KE', '10', 'county', 'condado', -2.121717, 36.786255),
+(158, 'Kakamega', 'Kakamega', 113, 'KE', '11', 'county', 'condado', 0.2833, 34.75),
+(193, 'Kericho', 'Kericho', 113, 'KE', '12', 'county', 'condado', -0.3666, 35.2833),
+(199, 'Kiambu', 'Kiambu', 113, 'KE', '13', 'county', 'condado', -1.036395, 36.8431312),
+(174, 'Kilifi', 'Kilifi', 113, 'KE', '14', 'county', 'condado', -3.6333, 39.85),
+(167, 'Kirinyaga', 'Kirinyaga', 113, 'KE', '15', 'county', 'condado', -0.468878, 37.3027681),
+(159, 'Kisii', 'Kisii', 113, 'KE', '16', 'county', 'condado', -0.6694119, 34.7677944),
+(171, 'Kisumu', 'Kisumu', 113, 'KE', '17', 'county', 'condado', -0.1029109, 34.7541761),
+(211, 'Kitui', 'Kitui', 113, 'KE', '18', 'county', 'condado', -1.5642219, 38.3728116),
+(173, 'Kwale', 'Kwale', 113, 'KE', '19', 'county', 'condado', -4.1836067, 39.105095),
+(164, 'Laikipia', 'Laikipia', 113, 'KE', '20', 'county', 'condado', 0.2858452, 36.8257711),
+(166, 'Lamu', 'Lamu', 113, 'KE', '21', 'county', 'condado', -2.0645209, 40.7280992),
+(184, 'Machakos', 'Machakos', 113, 'KE', '22', 'county', 'condado', -1.5176837, 37.2634146),
+(188, 'Makueni', 'Makueni', 113, 'KE', '23', 'county', 'condado', -2.257093, 37.8771715),
+(187, 'Mandera', 'Mandera', 113, 'KE', '24', 'county', 'condado', 3.2285332, 40.7056153),
+(194, 'Marsabit', 'Marsabit', 113, 'KE', '25', 'county', 'condado', 2.3380612, 37.991639),
+(198, 'Meru', 'Meru', 113, 'KE', '26', 'county', 'condado', 0.2254509, 37.7772624),
+(190, 'Migori', 'Migori', 113, 'KE', '27', 'county', 'condado', -1.0192237, 34.3095427),
+(200, 'Mombasa', 'Mombasa', 113, 'KE', '28', 'county', 'condado', -4.05052, 39.667169),
+(178, 'Murang''a', 'cheap', 113, 'KE', '29', 'county', 'condado', -0.8317087, 37.0049216),
+(191, 'Nairobi City', 'Nairobi City', 113, 'KE', '30', 'county', 'condado', -1.2920659, 36.8219462),
+(203, 'Nakuru', 'Nakuru', 113, 'KE', '31', 'county', 'condado', -0.2802724, 36.0712048),
+(165, 'Nandi', 'Nandi', 113, 'KE', '32', 'county', 'condado', 0.2253932, 35.1244929),
+(175, 'Narok', 'Nasko', 113, 'KE', '33', 'county', 'condado', -1.0886931, 35.8714916),
+(209, 'Nyamira', 'Nyamira', 113, 'KE', '34', 'county', 'condado', -0.6517907, 34.934167),
+(192, 'Nyandarua', 'Nyandarua', 113, 'KE', '35', 'county', 'condado', -0.3917064, 36.4977397),
+(180, 'Nyeri', 'Nyeri', 113, 'KE', '36', 'county', 'condado', -0.4192962, 36.9517005),
+(207, 'Samburu', 'Samburu', 113, 'KE', '37', 'county', 'condado', 1.5394463, 36.942166),
+(186, 'Siaya', 'Siaya', 113, 'KE', '38', 'county', 'condado', -0.0604013, 34.200135),
+(176, 'Taita–Taveta', 'Taita -Taveta', 113, 'KE', '39', 'county', 'condado', -3.4178355, 38.3670676),
+(205, 'Tana River', 'His river', 113, 'KE', '40', 'county', 'condado', -1.5365119, 39.5508374),
+(185, 'Tharaka-Nithi', 'Tharaka-NITHI', 113, 'KE', '41', 'county', 'condado', -0.1937081, 37.961405),
+(183, 'Trans Nzoia', 'Trans Nzoia', 113, 'KE', '42', 'county', 'condado', 1.0454582, 34.979044),
+(206, 'Turkana', 'Turkana', 113, 'KE', '43', 'county', 'condado', 2.7655657, 35.5977228),
+(169, 'Uasin Gishu', 'Uasin Gishu', 113, 'KE', '44', 'county', 'condado', 0.4771938, 35.3050597),
+(202, 'Vihiga', 'Whip', 113, 'KE', '45', 'county', 'condado', 0.0767553, 34.7077665),
+(182, 'Wajir', 'Marin', 113, 'KE', '46', 'county', 'condado', 1.7504651, 40.0594959),
+(208, 'West Pokot', 'West Pokot', 113, 'KE', '47', 'county', 'condado', 1.8798608, 35.210613);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (64774, 'Baringo', 181, 113, 0.46667, 35.96667),

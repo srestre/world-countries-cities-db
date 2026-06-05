@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".gu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 13.46666666
   longitude: 144.78333333
   emoji: "🇬🇺"
   states:
     -
       name: "Agana Heights"
+      native: "Agana Heights"
       code: "01"
       iso3166_2: "GU-01"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4655441
       longitude: 144.7465714
       cities:
@@ -31,9 +35,11 @@
           longitude: 144.74795
     -
       name: "Asan-Maina"
+      native: "Asan-Maina"
       code: "02"
       iso3166_2: "GU-02"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4776472
       longitude: 144.7308588
       cities:
@@ -43,9 +49,11 @@
           longitude: 144.71654
     -
       name: "Barrigada"
+      native: "Barrigada"
       code: "03"
       iso3166_2: "GU-03"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4694092
       longitude: 144.80106
       cities:
@@ -55,9 +63,11 @@
           longitude: 144.79901
     -
       name: "Chalan Pago-Ordot"
+      native: "Boy Pago-Cordot"
       code: "04"
       iso3166_2: "GU-04"
       type: "village"
+      type_es: "aldea"
       latitude: 13.441372
       longitude: 144.7670241
       cities:
@@ -67,9 +77,11 @@
           longitude: 144.75902
     -
       name: "Dededo"
+      native: "Dededo"
       code: "05"
       iso3166_2: "GU-05"
       type: "village"
+      type_es: "aldea"
       latitude: 13.519054
       longitude: 144.8378388
       cities:
@@ -79,9 +91,11 @@
           longitude: 144.8391
     -
       name: "Hågat"
+      native: "Hågat"
       code: "06"
       iso3166_2: "GU-06"
       type: "village"
+      type_es: "aldea"
       latitude: 13.384761
       longitude: 144.6580714
       cities:
@@ -91,9 +105,11 @@
           longitude: 144.66003
     -
       name: "Hagåtña"
+      native: "snail"
       code: "12"
       iso3166_2: "GU-12"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4748148
       longitude: 144.7516191
       cities:
@@ -107,9 +123,11 @@
           longitude: 144.75802
     -
       name: "Inarajan (Inalåhan)"
+      native: "Inrajan (Inalåhan)"
       code: "08"
       iso3166_2: "GU-08"
       type: "village"
+      type_es: "aldea"
       latitude: 13.2797664
       longitude: 144.7432266
       cities:
@@ -119,9 +137,11 @@
           longitude: 144.74845
     -
       name: "Mangilao"
+      native: "Mangilao"
       code: "10"
       iso3166_2: "GU-10"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4439915
       longitude: 144.8050528
       cities:
@@ -135,9 +155,11 @@
           longitude: 144.80109
     -
       name: "Merizo (Malesso)"
+      native: "Merizo (Malesso)"
       code: "09"
       iso3166_2: "GU-09"
       type: "village"
+      type_es: "aldea"
       latitude: 13.2682975
       longitude: 144.6726106
       cities:
@@ -147,9 +169,11 @@
           longitude: 144.66908
     -
       name: "Mongmong-Toto-Maite"
+      native: "Mongmong-Toto-Maite"
       code: "11"
       iso3166_2: "GU-11"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4674318
       longitude: 144.7680282
       cities:
@@ -159,9 +183,11 @@
           longitude: 144.78214
     -
       name: "Piti"
+      native: "Kept"
       code: "13"
       iso3166_2: "GU-13"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4647446
       longitude: 144.6876982
       cities:
@@ -171,9 +197,11 @@
           longitude: 144.69331
     -
       name: "Santa Rita (Sånta Rita-Sumai)"
+      native: "Santa Rita (Sånta Rita-Sumai)"
       code: "14"
       iso3166_2: "GU-14"
       type: "village"
+      type_es: "aldea"
       latitude: 13.3867874
       longitude: 144.6664227
       cities:
@@ -187,9 +215,11 @@
           longitude: 144.67226
     -
       name: "Sinajana"
+      native: "Sinajana"
       code: "15"
       iso3166_2: "GU-15"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4609486
       longitude: 144.7461208
       cities:
@@ -199,9 +229,11 @@
           longitude: 144.75406
     -
       name: "Talofofo (Talo'fo'fo)"
+      native: "Tapeable (Shots'fos)"
       code: "16"
       iso3166_2: "GU-16"
       type: "village"
+      type_es: "aldea"
       latitude: 13.353904
       longitude: 144.7532932
       cities:
@@ -211,9 +243,11 @@
           longitude: 144.75835
     -
       name: "Tamuning"
+      native: "Tamuning"
       code: "17"
       iso3166_2: "GU-17"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4944762
       longitude: 144.7804582
       cities:
@@ -231,18 +265,22 @@
           longitude: 144.78138
     -
       name: "Umatac (Humåtak)"
+      native: "Umatac (Humåtak)"
       code: "07"
       iso3166_2: "GU-07"
       type: "village"
+      type_es: "aldea"
       latitude: 13.2945777
       longitude: 144.6538283
       cities:
         []
     -
       name: "Yigo"
+      native: "Yigo"
       code: "18"
       iso3166_2: "GU-18"
       type: "village"
+      type_es: "aldea"
       latitude: 13.5379424
       longitude: 144.8984955
       cities:
@@ -260,9 +298,11 @@
           longitude: 144.88855
     -
       name: "Yona"
+      native: "Yona"
       code: "19"
       iso3166_2: "GU-19"
       type: "village"
+      type_es: "aldea"
       latitude: 13.41376
       longitude: 144.774413
       cities:

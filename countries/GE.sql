@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(81, 'Georgia', 'GE', 'GEO', 'Asia', 'Western Asia', 'Tbilisi', 'GEL', 42, 43.5, '🇬🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(81, 'Georgia', 'Georgia', 'GE', 'GEO', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Tbilisi', 'GEL', 42, 43.5, '🇬🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(901, 'Abkhazia', 81, 'GE', 'AB', 'autonomous republic', 42.9967187, 41.0544741),
-(900, 'Adjara', 81, 'GE', 'AJ', 'autonomous republic', 41.6731508, 41.9196652),
-(907, 'Guria', 81, 'GE', 'GU', 'region', 41.9772681, 41.9828262),
-(905, 'Imereti', 81, 'GE', 'IM', 'region', 42.18756, 42.9521554),
-(910, 'Kakheti', 81, 'GE', 'KA', 'region', 41.8144317, 45.7174977),
-(904, 'Kvemo Kartli', 81, 'GE', 'KK', 'region', 41.5124578, 44.5495369),
-(902, 'Mtskheta-Mtianeti', 81, 'GE', 'MM', 'region', 42.2290312, 44.8569963),
-(909, 'Racha-Lechkhumi and Kvemo Svaneti', 81, 'GE', 'RL', 'region', 42.668849, 43.125251),
-(908, 'Samegrelo-Zemo Svaneti', 81, 'GE', 'SZ', 'region', 42.635452, 42.2487138),
-(906, 'Samtskhe-Javakheti', 81, 'GE', 'SJ', 'region', 41.5296305, 43.2434208),
-(903, 'Shida Kartli', 81, 'GE', 'SK', 'region', 41.9886836, 43.986125),
-(899, 'Tbilisi', 81, 'GE', 'TB', 'city', 41.6934591, 44.8014495);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(901, 'Abkhazia', 'აფხაზეთი', 81, 'GE', 'AB', 'autonomous republic', 'república autónoma', 42.9967187, 41.0544741),
+(900, 'Adjara', 'აჭარა', 81, 'GE', 'AJ', 'autonomous republic', 'república autónoma', 41.6731508, 41.9196652),
+(907, 'Guria', 'გურია', 81, 'GE', 'GU', 'region', 'región', 41.9772681, 41.9828262),
+(905, 'Imereti', 'იმერეთი', 81, 'GE', 'IM', 'region', 'región', 42.18756, 42.9521554),
+(910, 'Kakheti', 'კახეთი', 81, 'GE', 'KA', 'region', 'región', 41.8144317, 45.7174977),
+(904, 'Kvemo Kartli', 'ქვემო ქართლი', 81, 'GE', 'KK', 'region', 'región', 41.5124578, 44.5495369),
+(902, 'Mtskheta-Mtianeti', 'მცხეთა-მთიანეთი', 81, 'GE', 'MM', 'region', 'región', 42.2290312, 44.8569963),
+(909, 'Racha-Lechkhumi and Kvemo Svaneti', 'რაჭა-ლეჩხუმი და ქვემო სვანეთი', 81, 'GE', 'RL', 'region', 'región', 42.668849, 43.125251),
+(908, 'Samegrelo-Zemo Svaneti', 'სამეგრელო-ზემო სვანეთი', 81, 'GE', 'SZ', 'region', 'región', 42.635452, 42.2487138),
+(906, 'Samtskhe-Javakheti', 'სამცხე-ჯავახეთი', 81, 'GE', 'SJ', 'region', 'región', 41.5296305, 43.2434208),
+(903, 'Shida Kartli', 'შიდა ქართლი', 81, 'GE', 'SK', 'region', 'región', 41.9886836, 43.986125),
+(899, 'Tbilisi', 'თბილის', 81, 'GE', 'TB', 'city', 'ciudad', 41.6934591, 44.8014495);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (52054, 'Bich’vinta', 901, 81, 43.16197, 40.34102),

@@ -12,16 +12,20 @@
   currency_symbol: "Rf"
   tld: ".mv"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 3.25
   longitude: 73
   emoji: "🇲🇻"
   states:
     -
       name: "Addu"
+      native: "ދުޢާ"
       code: "01"
       iso3166_2: "MV-01"
       type: "city"
+      type_es: "ciudad"
       latitude: -0.6414935
       longitude: 73.1629978
       cities:
@@ -35,18 +39,22 @@
           longitude: 73.23333
     -
       name: "Alif Alif"
+      native: "އަލީފް އަލީފް"
       code: "02"
       iso3166_2: "MV-02"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 4.4389236
       longitude: 72.8716854
       cities:
         []
     -
       name: "Alif Dhaal"
+      native: "އަލީފް ދަލް"
       code: "00"
       iso3166_2: "MV-00"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 3.6123026
       longitude: 72.855663
       cities:
@@ -56,18 +64,22 @@
           longitude: 72.96893
     -
       name: "Baa"
+      native: "ބ އަތޮޅު"
       code: "20"
       iso3166_2: "MV-20"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 5.13333333
       longitude: 72.95
       cities:
         []
     -
       name: "Dhaalu"
+      native: "ދައުލޫ"
       code: "17"
       iso3166_2: "MV-17"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 2.8473454
       longitude: 72.9029526
       cities:
@@ -77,18 +89,22 @@
           longitude: 72.89437
     -
       name: "Faafu"
+      native: "ފައު"
       code: "14"
       iso3166_2: "MV-14"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 3.1314909
       longitude: 72.8843567
       cities:
         []
     -
       name: "Gaafu Alif"
+      native: "އެ ސުވާލު އަލިފް"
       code: "27"
       iso3166_2: "MV-27"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 0.9829527
       longitude: 73.2780939
       cities:
@@ -98,9 +114,11 @@
           longitude: 73.43296
     -
       name: "Gaafu Dhaalu"
+      native: "އެމީހުންނަށް ވާރުތަވާ ސުވާލު"
       code: "28"
       iso3166_2: "MV-28"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 0.3041783
       longitude: 73.2124746
       cities:
@@ -110,9 +128,11 @@
           longitude: 72.99969
     -
       name: "Gnaviyani"
+      native: "ގްނާވިއަން"
       code: "29"
       iso3166_2: "MV-29"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: -0.2053264
       longitude: 73.2569868
       cities:
@@ -122,9 +142,11 @@
           longitude: 73.42403
     -
       name: "Haa Alif"
+      native: "ހާ އަލިފް"
       code: "07"
       iso3166_2: "MV-07"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 7.0607296
       longitude: 72.9896628
       cities:
@@ -134,9 +156,11 @@
           longitude: 73.11402
     -
       name: "Haa Dhaalu"
+      native: "އޭނާއަށް ވާރުތަވާށިއެވެ ."
       code: "23"
       iso3166_2: "MV-23"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 6.449901
       longitude: 72.6264899
       cities:
@@ -146,9 +170,11 @@
           longitude: 73.06998
     -
       name: "Kaafu"
+      native: "ކައިފީ"
       code: "26"
       iso3166_2: "MV-26"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 4.354299
       longitude: 73.5760032
       cities:
@@ -170,9 +196,11 @@
           longitude: 73.50916
     -
       name: "Laamu"
+      native: "ސަރުކާރު"
       code: "05"
       iso3166_2: "MV-05"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 1.8899418
       longitude: 73.3140027
       cities:
@@ -182,9 +210,11 @@
           longitude: 73.50257
     -
       name: "Lhaviyani"
+      native: "ލަހަވާނީ"
       code: "03"
       iso3166_2: "MV-03"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 5.3992544
       longitude: 73.5273924
       cities:
@@ -194,18 +224,22 @@
           longitude: 73.36571
     -
       name: "Malé"
+      native: "ކުޑަ"
       code: "MLE"
       iso3166_2: "MV-MLE"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 4.1779879
       longitude: 73.5107387
       cities:
         []
     -
       name: "Meemu"
+      native: "މީމު"
       code: "12"
       iso3166_2: "MV-12"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 2.7878094
       longitude: 73.5342987
       cities:
@@ -215,9 +249,11 @@
           longitude: 73.56667
     -
       name: "Noonu"
+      native: "ނޫނޫނެވެ"
       code: "25"
       iso3166_2: "MV-25"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 5.786755
       longitude: 73.4184336
       cities:
@@ -227,9 +263,11 @@
           longitude: 73.4136
     -
       name: "Raa"
+      native: "ރާ"
       code: "13"
       iso3166_2: "MV-13"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 5.6609485
       longitude: 72.7681645
       cities:
@@ -239,9 +277,11 @@
           longitude: 73.03017
     -
       name: "Shaviyani"
+      native: "ލޮނު"
       code: "24"
       iso3166_2: "MV-24"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 6.3322997
       longitude: 73.2324635
       cities:
@@ -251,9 +291,11 @@
           longitude: 73.29013
     -
       name: "Thaa"
+      native: "ތައާ"
       code: "08"
       iso3166_2: "MV-08"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 2.1461655
       longitude: 73.0288245
       cities:
@@ -263,9 +305,11 @@
           longitude: 73.09556
     -
       name: "Vaavu"
+      native: "ހެދުން"
       code: "04"
       iso3166_2: "MV-04"
       type: "administrative atoll"
+      type_es: "atolón administrativo"
       latitude: 3.6152492
       longitude: 73.5869986
       cities:

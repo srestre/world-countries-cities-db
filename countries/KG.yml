@@ -12,16 +12,20 @@
   currency_symbol: "лв"
   tld: ".kg"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   latitude: 41
   longitude: 75
   emoji: "🇰🇬"
   states:
     -
       name: "Batken"
+      native: "Баткен"
       code: "B"
       iso3166_2: "KG-B"
       type: "region"
+      type_es: "región"
       latitude: 40.0611852
       longitude: 70.8200964
       cities:
@@ -55,9 +59,11 @@
           longitude: 69.56779
     -
       name: "Bishkek"
+      native: "Бишкек"
       code: "GB"
       iso3166_2: "KG-GB"
       type: "city"
+      type_es: "ciudad"
       latitude: 42.8761424
       longitude: 74.6036724
       cities:
@@ -67,9 +73,11 @@
           longitude: 74.59
     -
       name: "Chuy"
+      native: "Чүй"
       code: "C"
       iso3166_2: "KG-C"
       type: "region"
+      type_es: "región"
       latitude: 42.5550236
       longitude: 74.621991
       cities:
@@ -127,9 +135,11 @@
           longitude: 75.07444
     -
       name: "Issyk-Kul"
+      native: "Ыссык Көл"
       code: "Y"
       iso3166_2: "KG-Y"
       type: "region"
+      type_es: "región"
       latitude: 42.4620398
       longitude: 77.0789862
       cities:
@@ -163,9 +173,11 @@
           longitude: 78.36476
     -
       name: "Jalal-Abad"
+      native: "Жалал Абад"
       code: "J"
       iso3166_2: "KG-J"
       type: "region"
+      type_es: "región"
       latitude: 40.9298182
       longitude: 73.00119
       cities:
@@ -211,9 +223,11 @@
           longitude: 73
     -
       name: "Naryn"
+      native: "Нарын"
       code: "N"
       iso3166_2: "KG-N"
       type: "region"
+      type_es: "región"
       latitude: 41.3670658
       longitude: 75.9931838
       cities:
@@ -231,18 +245,22 @@
           longitude: 75.99111
     -
       name: "Osh"
+      native: "Ош"
       code: "GO"
       iso3166_2: "KG-GO"
       type: "city"
+      type_es: "ciudad"
       latitude: 40.5172678
       longitude: 72.8049894
       cities:
         []
     -
       name: "Osh"
+      native: "Ош"
       code: "O"
       iso3166_2: "KG-O"
       type: "region"
+      type_es: "región"
       latitude: 40.5172678
       longitude: 72.8049894
       cities:
@@ -284,9 +302,11 @@
           longitude: 73.3
     -
       name: "Talas"
+      native: "Талас"
       code: "T"
       iso3166_2: "KG-T"
       type: "region"
+      type_es: "región"
       latitude: 42.521995
       longitude: 72.247693
       cities:

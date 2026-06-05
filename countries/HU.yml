@@ -12,16 +12,20 @@
   currency_symbol: "Ft"
   tld: ".hu"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 47
   longitude: 20
   emoji: "🇭🇺"
   states:
     -
       name: "Bács-Kiskun"
+      native: "Bács-Kiskun"
       code: "BK"
       iso3166_2: "HU-BK"
       type: "county"
+      type_es: "condado"
       latitude: 46.5809294
       longitude: 19.5128532
       cities:
@@ -327,9 +331,11 @@
           longitude: 18.98514
     -
       name: "Baranya"
+      native: "Baranya"
       code: "BA"
       iso3166_2: "HU-BA"
       type: "county"
+      type_es: "condado"
       latitude: 45.9714436
       longitude: 18.1669246
       cities:
@@ -471,9 +477,11 @@
           longitude: 18.45389
     -
       name: "Békés"
+      native: "Békés"
       code: "BE"
       iso3166_2: "HU-BE"
       type: "county"
+      type_es: "condado"
       latitude: 46.7717431
       longitude: 21.1325877
       cities:
@@ -679,18 +687,22 @@
           longitude: 21.26667
     -
       name: "Békéscsaba"
+      native: "Békéscsaba"
       code: "BC"
       iso3166_2: "HU-BC"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.6798003
       longitude: 21.0985425
       cities:
         []
     -
       name: "Borsod-Abaúj-Zemplén"
+      native: "Borsod-Abaúj-Zemplén"
       code: "BZ"
       iso3166_2: "HU-BZ"
       type: "county"
+      type_es: "condado"
       latitude: 48.2397936
       longitude: 21.1353474
       cities:
@@ -1040,9 +1052,11 @@
           longitude: 21.45
     -
       name: "Budapest"
+      native: "Budapest"
       code: "BU"
       iso3166_2: "HU-BU"
       type: "capital city"
+      type_es: "ciudad capital"
       latitude: 47.497912
       longitude: 19.040235
       cities:
@@ -1140,9 +1154,11 @@
           longitude: 19.10549
     -
       name: "Csongrád County"
+      native: "Csongrád County"
       code: "CS"
       iso3166_2: "HU-CS"
       type: "county"
+      type_es: "condado"
       latitude: 46.2607525
       longitude: 20.1484568
       cities:
@@ -1320,45 +1336,55 @@
           longitude: 19.97464
     -
       name: "Debrecen"
+      native: "Debrecen"
       code: "DE"
       iso3166_2: "HU-DE"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.5316049
       longitude: 21.6273124
       cities:
         []
     -
       name: "Dunaújváros"
+      native: "Dunaújváros"
       code: "DU"
       iso3166_2: "HU-DU"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.9619059
       longitude: 18.9355227
       cities:
         []
     -
       name: "Eger"
+      native: "Buja"
       code: "EG"
       iso3166_2: "HU-EG"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.9025348
       longitude: 20.3772284
       cities:
         []
     -
       name: "Érd"
+      native: "Érd"
       code: "ER"
       iso3166_2: "HU-ER"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.3772495
       longitude: 18.9213833
       cities:
         []
     -
       name: "Fejér County"
+      native: "Fejér County"
       code: "FE"
       iso3166_2: "HU-FE"
       type: "county"
+      type_es: "condado"
       latitude: 47.1217932
       longitude: 18.5294815
       cities:
@@ -1600,18 +1626,22 @@
           longitude: 18.4081
     -
       name: "Győr"
+      native: "Győr"
       code: "GY"
       iso3166_2: "HU-GY"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.687609
       longitude: 17.6346815
       cities:
         []
     -
       name: "Győr-Moson-Sopron County"
+      native: "Győr-Moson-Sopron County"
       code: "GS"
       iso3166_2: "HU-GS"
       type: "county"
+      type_es: "condado"
       latitude: 47.6509285
       longitude: 17.2505883
       cities:
@@ -1785,9 +1815,11 @@
           longitude: 17.73376
     -
       name: "Hajdú-Bihar County"
+      native: "Hajdú-Bihar County"
       code: "HB"
       iso3166_2: "HU-HB"
       type: "county"
+      type_es: "condado"
       latitude: 47.4688355
       longitude: 21.5453227
       cities:
@@ -2005,9 +2037,11 @@
           longitude: 21.9
     -
       name: "Heves County"
+      native: "Heves megye"
       code: "HE"
       iso3166_2: "HU-HE"
       type: "county"
+      type_es: "condado"
       latitude: 47.8057617
       longitude: 20.2038559
       cities:
@@ -2241,18 +2275,22 @@
           longitude: 19.67092
     -
       name: "Hódmezővásárhely"
+      native: "Hódmezővásárhely"
       code: "HV"
       iso3166_2: "HU-HV"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.4181262
       longitude: 20.3300315
       cities:
         []
     -
       name: "Jász-Nagykun-Szolnok County"
+      native: "Jász-Nagykun-Szolnok County"
       code: "JN"
       iso3166_2: "HU-JN"
       type: "county"
+      type_es: "condado"
       latitude: 47.2555579
       longitude: 20.5232456
       cities:
@@ -2470,27 +2508,33 @@
           longitude: 20.13333
     -
       name: "Kaposvár"
+      native: "Kaposvár"
       code: "KV"
       iso3166_2: "HU-KV"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.3593606
       longitude: 17.7967639
       cities:
         []
     -
       name: "Kecskemét"
+      native: "Kecskemét"
       code: "KM"
       iso3166_2: "HU-KM"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.9073883
       longitude: 19.6917206
       cities:
         []
     -
       name: "Komárom-Esztergom"
+      native: "Komárom-Esztergom"
       code: "KE"
       iso3166_2: "HU-KE"
       type: "county"
+      type_es: "condado"
       latitude: 47.6511599
       longitude: 18.2551911
       cities:
@@ -2772,27 +2816,33 @@
           longitude: 18.45643889
     -
       name: "Miskolc"
+      native: "Miskolc"
       code: "MI"
       iso3166_2: "HU-MI"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 48.1034775
       longitude: 20.7784384
       cities:
         []
     -
       name: "Nagykanizsa"
+      native: "Nagykanizsa"
       code: "NK"
       iso3166_2: "HU-NK"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.4590218
       longitude: 16.9896796
       cities:
         []
     -
       name: "Nógrád County"
+      native: "Nógrád County"
       code: "NO"
       iso3166_2: "HU-NO"
       type: "county"
+      type_es: "condado"
       latitude: 47.9041031
       longitude: 19.0498504
       cities:
@@ -2922,27 +2972,33 @@
           longitude: 19.7461
     -
       name: "Nyíregyháza"
+      native: "Nyíregyháza"
       code: "NY"
       iso3166_2: "HU-NY"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.9495324
       longitude: 21.7244053
       cities:
         []
     -
       name: "Pécs"
+      native: "Pécs"
       code: "PS"
       iso3166_2: "HU-PS"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.0727345
       longitude: 18.232266
       cities:
         []
     -
       name: "Pest County"
+      native: "Kártevő megye"
       code: "PE"
       iso3166_2: "HU-PE"
       type: "county"
+      type_es: "condado"
       latitude: 47.4480001
       longitude: 19.4618128
       cities:
@@ -3544,18 +3600,22 @@
           longitude: 19.61048
     -
       name: "Salgótarján"
+      native: "Salgótarján"
       code: "ST"
       iso3166_2: "HU-ST"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 48.0935237
       longitude: 19.7999813
       cities:
         []
     -
       name: "Somogy County"
+      native: "Somogy megye"
       code: "SO"
       iso3166_2: "HU-SO"
       type: "county"
+      type_es: "condado"
       latitude: 46.554859
       longitude: 17.5866732
       cities:
@@ -3713,18 +3773,22 @@
           longitude: 17.95366
     -
       name: "Sopron"
+      native: "Sopron"
       code: "SN"
       iso3166_2: "HU-SN"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.6803063
       longitude: 16.5983457
       cities:
         []
     -
       name: "Szabolcs-Szatmár-Bereg County"
+      native: "Szabolcs-Szatmár-Bereg County"
       code: "SZ"
       iso3166_2: "HU-SZ"
       type: "county"
+      type_es: "condado"
       latitude: 48.0394954
       longitude: 22.00333
       cities:
@@ -4106,63 +4170,77 @@
           longitude: 22.18925
     -
       name: "Szeged"
+      native: "Szeged"
       code: "SD"
       iso3166_2: "HU-SD"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.2530102
       longitude: 20.1414253
       cities:
         []
     -
       name: "Székesfehérvár"
+      native: "Székesfehérvár"
       code: "SF"
       iso3166_2: "HU-SF"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.1910169
       longitude: 18.410811
       cities:
         []
     -
       name: "Szekszárd"
+      native: "Szekszárd"
       code: "SS"
       iso3166_2: "HU-SS"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 46.3474326
       longitude: 18.7062293
       cities:
         []
     -
       name: "Szolnok"
+      native: "Szolnok"
       code: "SK"
       iso3166_2: "HU-SK"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.1753833
       longitude: 20.1946279
       cities:
         []
     -
       name: "Szombathely"
+      native: "Szombathely"
       code: "SH"
       iso3166_2: "HU-SH"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.2306851
       longitude: 16.6218441
       cities:
         []
     -
       name: "Tatabánya"
+      native: "Tatabánya"
       code: "TB"
       iso3166_2: "HU-TB"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.583845
       longitude: 18.3979855
       cities:
         []
     -
       name: "Tolna County"
+      native: "Tolna County"
       code: "TO"
       iso3166_2: "HU-TO"
       type: "county"
+      type_es: "condado"
       latitude: 46.4762754
       longitude: 18.5570627
       cities:
@@ -4312,9 +4390,11 @@
           longitude: 18.56577
     -
       name: "Vas County"
+      native: "Vas County"
       code: "VA"
       iso3166_2: "HU-VA"
       type: "county"
+      type_es: "condado"
       latitude: 47.0929111
       longitude: 16.6812183
       cities:
@@ -4408,18 +4488,22 @@
           longitude: 16.72248
     -
       name: "Veszprém"
+      native: "Veszprém"
       code: "VM"
       iso3166_2: "HU-VM"
       type: "city with county rights"
+      type_es: "ciudad con rango de condado"
       latitude: 47.0933824
       longitude: 17.9080406
       cities:
         []
     -
       name: "Veszprém County"
+      native: "Veszprém County"
       code: "VE"
       iso3166_2: "HU-VE"
       type: "county"
+      type_es: "condado"
       latitude: 47.0930974
       longitude: 17.9100763
       cities:
@@ -4573,9 +4657,11 @@
           longitude: 17.88412
     -
       name: "Zala County"
+      native: "Zala megye"
       code: "ZA"
       iso3166_2: "HU-ZA"
       type: "county"
+      type_es: "condado"
       latitude: 46.7900881
       longitude: 16.9339428
       cities:
@@ -4673,9 +4759,11 @@
           longitude: 17.10095
     -
       name: "Zalaegerszeg"
+      native: "Zalaegerszeg"
       code: "ZE"
       iso3166_2: "HU-ZE"
       type: "county"
+      type_es: "condado"
       latitude: 46.8416936
       longitude: 16.8416322
       cities:

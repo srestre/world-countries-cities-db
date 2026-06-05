@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".do"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 19
   longitude: -70.66666666
   emoji: "🇩🇴"
   states:
     -
       name: "Azua"
+      native: "Azua"
       code: "02"
       iso3166_2: "DO-02"
       type: "province"
+      type_es: "provincia"
       latitude: 18.4552709
       longitude: -70.7380928
       cities:
@@ -75,9 +79,11 @@
           longitude: -70.92753
     -
       name: "Baoruco"
+      native: "Baoruco"
       code: "03"
       iso3166_2: "DO-03"
       type: "province"
+      type_es: "provincia"
       latitude: 18.5140239
       longitude: -71.3303393
       cities:
@@ -111,9 +117,11 @@
           longitude: -71.48377
     -
       name: "Barahona"
+      native: "Barahona"
       code: "04"
       iso3166_2: "DO-04"
       type: "province"
+      type_es: "provincia"
       latitude: 18.2139066
       longitude: -71.1043759
       cities:
@@ -175,45 +183,55 @@
           longitude: -71.18009
     -
       name: "Cibao Nordeste"
+      native: "Cibao Nordeste"
       code: "33"
       iso3166_2: "DO-33"
       type: "region"
+      type_es: "región"
       latitude: 19.4
       longitude: -69.9
       cities:
         []
     -
       name: "Cibao Noroeste"
+      native: "Cibao Noroeste"
       code: "34"
       iso3166_2: "DO-34"
       type: "region"
+      type_es: "región"
       latitude: 19.6
       longitude: -71
       cities:
         []
     -
       name: "Cibao Norte"
+      native: "Cibao Norte"
       code: "35"
       iso3166_2: "DO-35"
       type: "region"
+      type_es: "región"
       latitude: 19.5
       longitude: -70.7
       cities:
         []
     -
       name: "Cibao Sur"
+      native: "Cibao Sur"
       code: "36"
       iso3166_2: "DO-36"
       type: "region"
+      type_es: "región"
       latitude: 19.2
       longitude: -70.5
       cities:
         []
     -
       name: "Dajabón"
+      native: "Dajabón"
       code: "05"
       iso3166_2: "DO-05"
       type: "province"
+      type_es: "provincia"
       latitude: 19.5499241
       longitude: -71.7086514
       cities:
@@ -239,9 +257,11 @@
           longitude: -71.69239
     -
       name: "Distrito Nacional"
+      native: "Distrito Nacional"
       code: "01"
       iso3166_2: "DO-01"
       type: "district"
+      type_es: "distrito"
       latitude: 18.4860575
       longitude: -69.9312117
       cities:
@@ -287,9 +307,11 @@
           longitude: -69.88914
     -
       name: "Duarte"
+      native: "Duarte"
       code: "06"
       iso3166_2: "DO-06"
       type: "province"
+      type_es: "provincia"
       latitude: 19.2833163
       longitude: -70.1880055
       cities:
@@ -327,9 +349,11 @@
           longitude: -69.8837
     -
       name: "El Seibo"
+      native: "El Seibo"
       code: "08"
       iso3166_2: "DO-08"
       type: "province"
+      type_es: "provincia"
       latitude: 18.7658496
       longitude: -69.040668
       cities:
@@ -347,36 +371,44 @@
           longitude: -69.03886
     -
       name: "El Valle"
+      native: "El Valle"
       code: "37"
       iso3166_2: "DO-37"
       type: "region"
+      type_es: "región"
       latitude: 18.8
       longitude: -71.2
       cities:
         []
     -
       name: "Elías Piña"
+      native: "Elías Piña"
       code: "07"
       iso3166_2: "DO-07"
       type: "province"
+      type_es: "provincia"
       latitude: 19.03333
       longitude: -71.68333
       cities:
         []
     -
       name: "Enriquillo"
+      native: "Enriquillo"
       code: "38"
       iso3166_2: "DO-38"
       type: "region"
+      type_es: "región"
       latitude: 18.2
       longitude: -71.3
       cities:
         []
     -
       name: "Espaillat"
+      native: "Espaillat"
       code: "09"
       iso3166_2: "DO-09"
       type: "province"
+      type_es: "provincia"
       latitude: 19.5108126
       longitude: -70.4918803
       cities:
@@ -414,9 +446,11 @@
           longitude: -70.33333
     -
       name: "Hato Mayor"
+      native: "Hato Mayor"
       code: "30"
       iso3166_2: "DO-30"
       type: "province"
+      type_es: "provincia"
       latitude: 18.7089524
       longitude: -69.3256524
       cities:
@@ -438,9 +472,11 @@
           longitude: -69.41667
     -
       name: "Hermanas Mirabal"
+      native: "Hermanas Mirabal"
       code: "19"
       iso3166_2: "DO-19"
       type: "province"
+      type_es: "provincia"
       latitude: 19.3957699
       longitude: -70.3840578
       cities:
@@ -462,18 +498,22 @@
           longitude: -70.42199
     -
       name: "Higuamo"
+      native: "Higuamo"
       code: "39"
       iso3166_2: "DO-39"
       type: "region"
+      type_es: "región"
       latitude: 18.7
       longitude: -69.2
       cities:
         []
     -
       name: "Independencia"
+      native: "Independencia"
       code: "10"
       iso3166_2: "DO-10"
       type: "province"
+      type_es: "provincia"
       latitude: 18.4155861
       longitude: -71.6357396
       cities:
@@ -507,9 +547,11 @@
           longitude: -71.63561
     -
       name: "La Altagracia"
+      native: "La Altagracia"
       code: "11"
       iso3166_2: "DO-11"
       type: "province"
+      type_es: "provincia"
       latitude: 18.5880886
       longitude: -68.6053104
       cities:
@@ -539,9 +581,11 @@
           longitude: -68.6739
     -
       name: "La Romana"
+      native: "La Romana"
       code: "12"
       iso3166_2: "DO-12"
       type: "province"
+      type_es: "provincia"
       latitude: 18.4230137
       longitude: -68.9661104
       cities:
@@ -555,9 +599,11 @@
           longitude: -68.97285
     -
       name: "La Vega"
+      native: "La Vega"
       code: "13"
       iso3166_2: "DO-13"
       type: "province"
+      type_es: "provincia"
       latitude: 19.2211554
       longitude: -70.5288753
       cities:
@@ -591,9 +637,11 @@
           longitude: -70.6885
     -
       name: "María Trinidad Sánchez"
+      native: "María Trinidad Sánchez"
       code: "14"
       iso3166_2: "DO-14"
       type: "province"
+      type_es: "provincia"
       latitude: 19.4433304
       longitude: -69.9990821
       cities:
@@ -623,9 +671,11 @@
           longitude: -70.07703
     -
       name: "Monseñor Nouel"
+      native: "Monseñor Nouel"
       code: "28"
       iso3166_2: "DO-28"
       type: "province"
+      type_es: "provincia"
       latitude: 18.9234801
       longitude: -70.4157265
       cities:
@@ -651,9 +701,11 @@
           longitude: -70.41667
     -
       name: "Monte Cristi"
+      native: "Monte Cristi"
       code: "15"
       iso3166_2: "DO-15"
       type: "province"
+      type_es: "provincia"
       latitude: 19.7177718
       longitude: -71.4448113
       cities:
@@ -699,9 +751,11 @@
           longitude: -71.44
     -
       name: "Monte Plata"
+      native: "Monte Plata"
       code: "29"
       iso3166_2: "DO-29"
       type: "province"
+      type_es: "provincia"
       latitude: 18.8080878
       longitude: -69.7869146
       cities:
@@ -743,18 +797,22 @@
           longitude: -70.02583
     -
       name: "Ozama"
+      native: "Ozama"
       code: "40"
       iso3166_2: "DO-40"
       type: "region"
+      type_es: "región"
       latitude: 18.5
       longitude: -69.9
       cities:
         []
     -
       name: "Pedernales"
+      native: "Pedernales"
       code: "16"
       iso3166_2: "DO-16"
       type: "province"
+      type_es: "provincia"
       latitude: 18.0907918
       longitude: -71.5595247
       cities:
@@ -772,9 +830,11 @@
           longitude: -71.6
     -
       name: "Peravia"
+      native: "Peravia"
       code: "17"
       iso3166_2: "DO-17"
       type: "province"
+      type_es: "provincia"
       latitude: 18.3309575
       longitude: -70.3712349
       cities:
@@ -804,9 +864,11 @@
           longitude: -70.52352
     -
       name: "Puerto Plata"
+      native: "Puerto Plata"
       code: "18"
       iso3166_2: "DO-18"
       type: "province"
+      type_es: "provincia"
       latitude: 19.7225234
       longitude: -70.7208338
       cities:
@@ -860,9 +922,11 @@
           longitude: -71.06056
     -
       name: "Samaná"
+      native: "Samaná"
       code: "20"
       iso3166_2: "DO-20"
       type: "province"
+      type_es: "provincia"
       latitude: 19.2058371
       longitude: -69.3362949
       cities:
@@ -880,9 +944,11 @@
           longitude: -69.6137
     -
       name: "San Cristóbal"
+      native: "San Cristóbal"
       code: "21"
       iso3166_2: "DO-21"
       type: "province"
+      type_es: "provincia"
       latitude: 18.4180414
       longitude: -70.1065849
       cities:
@@ -924,9 +990,11 @@
           longitude: -70.18333
     -
       name: "San José de Ocoa"
+      native: "San José de Ocoa"
       code: "31"
       iso3166_2: "DO-31"
       type: "province"
+      type_es: "provincia"
       latitude: 18.543858
       longitude: -70.5041816
       cities:
@@ -936,9 +1004,11 @@
           longitude: -70.50631
     -
       name: "San Juan"
+      native: "San Juan"
       code: "22"
       iso3166_2: "DO-22"
       type: "province"
+      type_es: "provincia"
       latitude: 18.87967
       longitude: -71.2862706
       cities:
@@ -980,9 +1050,11 @@
           longitude: -71.33431
     -
       name: "San Pedro de Macorís"
+      native: "San Pedro de Macorís"
       code: "23"
       iso3166_2: "DO-23"
       type: "province"
+      type_es: "provincia"
       latitude: 18.46266
       longitude: -69.3051234
       cities:
@@ -1008,9 +1080,11 @@
           longitude: -69.30864
     -
       name: "Sánchez Ramírez"
+      native: "Sánchez Ramírez"
       code: "24"
       iso3166_2: "DO-24"
       type: "province"
+      type_es: "provincia"
       latitude: 19.0176147
       longitude: -70.1448351
       cities:
@@ -1028,9 +1102,11 @@
           longitude: -70.3
     -
       name: "Santiago"
+      native: "Santiago"
       code: "25"
       iso3166_2: "DO-25"
       type: "province"
+      type_es: "provincia"
       latitude: 19.336389
       longitude: -70.9521277
       cities:
@@ -1092,9 +1168,11 @@
           longitude: -70.78853
     -
       name: "Santiago Rodríguez"
+      native: "Santiago Rodríguez"
       code: "26"
       iso3166_2: "DO-26"
       type: "province"
+      type_es: "provincia"
       latitude: 19.3690729
       longitude: -71.3523808
       cities:
@@ -1112,9 +1190,11 @@
           longitude: -71.35
     -
       name: "Santo Domingo"
+      native: "Santo Domingo"
       code: "32"
       iso3166_2: "DO-32"
       type: "province"
+      type_es: "provincia"
       latitude: 18.5638543
       longitude: -69.8531692
       cities:
@@ -1132,18 +1212,22 @@
           longitude: -70
     -
       name: "Valdesia"
+      native: "Valdesia"
       code: "41"
       iso3166_2: "DO-41"
       type: "region"
+      type_es: "región"
       latitude: 18.4
       longitude: -70.3
       cities:
         []
     -
       name: "Valverde"
+      native: "Valverde"
       code: "27"
       iso3166_2: "DO-27"
       type: "province"
+      type_es: "provincia"
       latitude: 19.5955662
       longitude: -71.0303974
       cities:
@@ -1185,9 +1269,11 @@
           longitude: -71.07813
     -
       name: "Yuma"
+      native: "Yuma"
       code: "42"
       iso3166_2: "DO-42"
       type: "region"
+      type_es: "región"
       latitude: 18.6
       longitude: -68.7
       cities:

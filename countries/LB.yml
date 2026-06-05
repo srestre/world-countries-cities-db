@@ -12,16 +12,20 @@
   currency_symbol: "£"
   tld: ".lb"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 33.83333333
   longitude: 35.83333333
   emoji: "🇱🇧"
   states:
     -
       name: "Akkar"
+      native: "الحبار"
       code: "AK"
       iso3166_2: "LB-AK"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.5555009
       longitude: 36.2016453
       cities:
@@ -31,9 +35,11 @@
           longitude: 36.16667
     -
       name: "Baalbek-Hermel"
+      native: "بيل هيرميل"
       code: "BH"
       iso3166_2: "LB-BH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.168333
       longitude: 36.3134617
       cities:
@@ -47,9 +53,11 @@
           longitude: 36.27157
     -
       name: "Beirut"
+      native: "بير"
       code: "BA"
       iso3166_2: "LB-BA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.8886106
       longitude: 35.4954772
       cities:
@@ -63,9 +71,11 @@
           longitude: 35.48333
     -
       name: "Beqaa"
+      native: "البقاع"
       code: "BI"
       iso3166_2: "LB-BI"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.6746204
       longitude: 35.8333757
       cities:
@@ -79,9 +89,11 @@
           longitude: 35.90203
     -
       name: "Mount Lebanon"
+      native: "جبل لبنان"
       code: "JL"
       iso3166_2: "LB-JL"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.29
       longitude: 36.092
       cities:
@@ -111,9 +123,11 @@
           longitude: 35.61778
     -
       name: "Nabatieh"
+      native: "ناباتيه"
       code: "NA"
       iso3166_2: "LB-NA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.3771693
       longitude: 35.4838293
       cities:
@@ -143,9 +157,11 @@
           longitude: 35.48389
     -
       name: "North"
+      native: "شمال"
       code: "AS"
       iso3166_2: "LB-AS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.29
       longitude: 36.092
       cities:
@@ -163,9 +179,11 @@
           longitude: 35.84415
     -
       name: "South"
+      native: "جنوب"
       code: "JA"
       iso3166_2: "LB-JA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.4115339
       longitude: -81.204814
       cities:

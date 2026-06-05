@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(169, 'Palestinian Territory Occupied', 'PS', 'PSE', 'Asia', 'Western Asia', 'East Jerusalem', 'ILS', 31.9, 35.2, '🇵🇸');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(169, 'Palestinian Territory Occupied', 'Palestina', 'PS', 'PSE', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'East Jerusalem', 'ILS', 31.9, 35.2, '🇵🇸');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5118, 'Bethlehem', 169, 'PS', 'BTH', 'governorate', 31.7053996, 35.1936877),
-(5119, 'Deir El Balah', 169, 'PS', 'DEB', 'governorate', 31.4202897, 34.286164),
-(5120, 'Gaza', 169, 'PS', 'GZA', 'governorate', 31.4872397, 34.149989),
-(5121, 'Hebron', 169, 'PS', 'HBN', 'governorate', 31.5326001, 35.0639475),
-(5122, 'Jenin', 169, 'PS', 'JEN', 'governorate', 32.4263761, 35.0856887),
-(5123, 'Jericho ', 169, 'PS', 'JRH', 'governorate', 31.9676425, 35.1354279),
-(5124, 'Jerusalem (Quds)', 169, 'PS', 'JEM', 'governorate', 31.8020328, 34.9599664),
-(5125, 'Khan Yunis', 169, 'PS', 'KYS', 'governorate', 31.3298766, 34.2254833),
-(5126, 'Nablus', 169, 'PS', 'NBS', 'governorate', 32.2243755, 35.2064793),
-(5127, 'North Gaza', 169, 'PS', 'NGZ', 'governorate', 31.547506, 34.4281409),
-(5128, 'Qalqilya', 169, 'PS', 'QQA', 'governorate', 32.1810323, 34.9936999),
-(5129, 'Rafah', 169, 'PS', 'RFH', 'governorate', 31.2968899, 34.1116685),
-(5130, 'Ramallah', 169, 'PS', 'RBH', 'governorate', 31.9430145, 34.8645651),
-(5131, 'Salfit', 169, 'PS', 'SLT', 'governorate', 32.1112272, 34.9578769),
-(5132, 'Tubas', 169, 'PS', 'TBS', 'governorate', 32.2938043, 34.851098),
-(5133, 'Tulkarm', 169, 'PS', 'TKM', 'governorate', 32.3276672, 34.9231108);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5118, 'Bethlehem', 'بيت لحم', 169, 'PS', 'BTH', 'governorate', 'gobernación', 31.7053996, 35.1936877),
+(5119, 'Deir El Balah', 'دير البلح', 169, 'PS', 'DEB', 'governorate', 'gobernación', 31.4202897, 34.286164),
+(5120, 'Gaza', 'غزة', 169, 'PS', 'GZA', 'governorate', 'gobernación', 31.4872397, 34.149989),
+(5121, 'Hebron', 'الخليل', 169, 'PS', 'HBN', 'governorate', 'gobernación', 31.5326001, 35.0639475),
+(5122, 'Jenin', 'جنين', 169, 'PS', 'JEN', 'governorate', 'gobernación', 32.4263761, 35.0856887),
+(5123, 'Jericho ', 'أريحا', 169, 'PS', 'JRH', 'governorate', 'gobernación', 31.9676425, 35.1354279),
+(5124, 'Jerusalem (Quds)', 'القدس', 169, 'PS', 'JEM', 'governorate', 'gobernación', 31.8020328, 34.9599664),
+(5125, 'Khan Yunis', 'خان يونس', 169, 'PS', 'KYS', 'governorate', 'gobernación', 31.3298766, 34.2254833),
+(5126, 'Nablus', 'نابلس', 169, 'PS', 'NBS', 'governorate', 'gobernación', 32.2243755, 35.2064793),
+(5127, 'North Gaza', 'شمال غزة', 169, 'PS', 'NGZ', 'governorate', 'gobernación', 31.547506, 34.4281409),
+(5128, 'Qalqilya', 'قلقيلية', 169, 'PS', 'QQA', 'governorate', 'gobernación', 32.1810323, 34.9936999),
+(5129, 'Rafah', 'رفح', 169, 'PS', 'RFH', 'governorate', 'gobernación', 31.2968899, 34.1116685),
+(5130, 'Ramallah', 'رام الله', 169, 'PS', 'RBH', 'governorate', 'gobernación', 31.9430145, 34.8645651),
+(5131, 'Salfit', 'سلفيت', 169, 'PS', 'SLT', 'governorate', 'gobernación', 32.1112272, 34.9578769),
+(5132, 'Tubas', 'طوباس', 169, 'PS', 'TBS', 'governorate', 'gobernación', 32.2938043, 34.851098),
+(5133, 'Tulkarm', 'طولكرم', 169, 'PS', 'TKM', 'governorate', 'gobernación', 32.3276672, 34.9231108);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (153955, 'Al-Dawha', 5118, 169, 31.6977399, 35.1459545),

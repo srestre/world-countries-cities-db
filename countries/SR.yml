@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".sr"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: 4
   longitude: -56
   emoji: "🇸🇷"
   states:
     -
       name: "Brokopondo"
+      native: "Brocopondo"
       code: "BR"
       iso3166_2: "SR-BR"
       type: "district"
+      type_es: "distrito"
       latitude: 4.6851643
       longitude: -55.061093
       cities:
@@ -35,9 +39,11 @@
           longitude: -55.15333
     -
       name: "Commewijne"
+      native: "Commewijne"
       code: "CM"
       iso3166_2: "SR-CM"
       type: "district"
+      type_es: "distrito"
       latitude: 5.8401198
       longitude: -54.9244431
       cities:
@@ -51,9 +57,11 @@
           longitude: -55.08871
     -
       name: "Coronie"
+      native: "Coronie"
       code: "CR"
       iso3166_2: "SR-CR"
       type: "district"
+      type_es: "distrito"
       latitude: 5.7468563
       longitude: -56.2455162
       cities:
@@ -63,9 +71,11 @@
           longitude: -56.32572
     -
       name: "Marowijne"
+      native: "Marowijne"
       code: "MA"
       iso3166_2: "SR-MA"
       type: "district"
+      type_es: "distrito"
       latitude: 5.7083272
       longitude: -54.35369
       cities:
@@ -79,9 +89,11 @@
           longitude: -54.40121
     -
       name: "Nickerie"
+      native: "Nickerie"
       code: "NI"
       iso3166_2: "SR-NI"
       type: "district"
+      type_es: "distrito"
       latitude: 5.7183925
       longitude: -56.8775105
       cities:
@@ -95,9 +107,11 @@
           longitude: -56.66523
     -
       name: "Para"
+      native: "Naar"
       code: "PR"
       iso3166_2: "SR-PR"
       type: "district"
+      type_es: "distrito"
       latitude: 5.3430413
       longitude: -55.581341
       cities:
@@ -107,9 +121,11 @@
           longitude: -55.19462
     -
       name: "Paramaribo"
+      native: "Paramaribo"
       code: "PM"
       iso3166_2: "SR-PM"
       type: "district"
+      type_es: "distrito"
       latitude: 5.8247628
       longitude: -55.1703941
       cities:
@@ -119,9 +135,11 @@
           longitude: -55.16682
     -
       name: "Saramacca"
+      native: "Saramacca"
       code: "SA"
       iso3166_2: "SR-SA"
       type: "district"
+      type_es: "distrito"
       latitude: 5.7870805
       longitude: -55.6064574
       cities:
@@ -131,18 +149,22 @@
           longitude: -55.46667
     -
       name: "Sipaliwini"
+      native: "Sipaliwini"
       code: "SI"
       iso3166_2: "SR-SI"
       type: "district"
+      type_es: "distrito"
       latitude: 3.6815086
       longitude: -55.961246
       cities:
         []
     -
       name: "Wanica"
+      native: "Wanica"
       code: "WA"
       iso3166_2: "SR-WA"
       type: "district"
+      type_es: "distrito"
       latitude: 5.75
       longitude: -55.25
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "UM"
   tld: ".mr"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 20
   longitude: -12
   emoji: "🇲🇷"
   states:
     -
       name: "Adrar"
+      native: "أدرار"
       code: "07"
       iso3166_2: "MR-07"
       type: "region"
+      type_es: "región"
       latitude: 21.0090623
       longitude: -10.2207449
       cities:
@@ -43,9 +47,11 @@
           longitude: -11.61666667
     -
       name: "Assaba"
+      native: "عصابة"
       code: "03"
       iso3166_2: "MR-03"
       type: "region"
+      type_es: "región"
       latitude: 16.5809185
       longitude: -11.5363724
       cities:
@@ -59,9 +65,11 @@
           longitude: -11.40208
     -
       name: "Brakna"
+      native: "براكنا"
       code: "05"
       iso3166_2: "MR-05"
       type: "region"
+      type_es: "región"
       latitude: 17.2475638
       longitude: -13.4037714
       cities:
@@ -83,9 +91,11 @@
           longitude: -13.37916667
     -
       name: "Dakhlet Nouadhibou"
+      native: "داخلة نواذيبو"
       code: "08"
       iso3166_2: "MR-08"
       type: "region"
+      type_es: "región"
       latitude: 20.8019537
       longitude: -16.0012708
       cities:
@@ -103,9 +113,11 @@
           longitude: -17.03842
     -
       name: "Gorgol"
+      native: "غورغول"
       code: "04"
       iso3166_2: "MR-04"
       type: "region"
+      type_es: "región"
       latitude: 16.0062275
       longitude: -12.8360834
       cities:
@@ -115,9 +127,11 @@
           longitude: -13.5037
     -
       name: "Guidimaka"
+      native: "غيديماكا"
       code: "10"
       iso3166_2: "MR-10"
       type: "region"
+      type_es: "región"
       latitude: 15.3766896
       longitude: -12.124663
       cities:
@@ -127,9 +141,11 @@
           longitude: -12.1843
     -
       name: "Hodh Ech Chargui"
+      native: "حوض الشرقي"
       code: "01"
       iso3166_2: "MR-01"
       type: "region"
+      type_es: "región"
       latitude: 18.1941112
       longitude: -7.0921652
       cities:
@@ -151,9 +167,11 @@
           longitude: -8.1675
     -
       name: "Hodh El Gharbi"
+      native: "حوض الغربي"
       code: "02"
       iso3166_2: "MR-02"
       type: "region"
+      type_es: "región"
       latitude: 16.5693922
       longitude: -9.8322366
       cities:
@@ -171,9 +189,11 @@
           longitude: -10.36666667
     -
       name: "Inchiri"
+      native: "إنشيري"
       code: "12"
       iso3166_2: "MR-12"
       type: "region"
+      type_es: "región"
       latitude: 19.9922766
       longitude: -15.113767
       cities:
@@ -183,9 +203,11 @@
           longitude: -14.38531
     -
       name: "Nouakchott-Nord"
+      native: "نواكشوط الشمالية"
       code: "14"
       iso3166_2: "MR-14"
       type: "region"
+      type_es: "región"
       latitude: 18.1024945
       longitude: -15.9192819
       cities:
@@ -203,9 +225,11 @@
           longitude: -15.90311
     -
       name: "Nouakchott-Ouest"
+      native: "نواكشوط الغربية"
       code: "13"
       iso3166_2: "MR-13"
       type: "region"
+      type_es: "región"
       latitude: 18.1127945
       longitude: -15.9930276
       cities:
@@ -223,9 +247,11 @@
           longitude: -15.99931
     -
       name: "Nouakchott-Sud"
+      native: "نواكشوط الجنوبية"
       code: "15"
       iso3166_2: "MR-15"
       type: "region"
+      type_es: "región"
       latitude: 18.0033945
       longitude: -15.965829
       cities:
@@ -239,9 +265,11 @@
           longitude: -15.97404
     -
       name: "Tagant"
+      native: "تاجانت"
       code: "09"
       iso3166_2: "MR-09"
       type: "region"
+      type_es: "región"
       latitude: 18.5729893
       longitude: -10.3937926
       cities:
@@ -259,9 +287,11 @@
           longitude: -12.9826476
     -
       name: "Tiris Zemmour"
+      native: "تيريس زمور"
       code: "11"
       iso3166_2: "MR-11"
       type: "region"
+      type_es: "región"
       latitude: 24.1951392
       longitude: -9.6664199
       cities:
@@ -287,9 +317,11 @@
           longitude: -12.47134
     -
       name: "Trarza"
+      native: "ترارزة"
       code: "06"
       iso3166_2: "MR-06"
       type: "region"
+      type_es: "región"
       latitude: 17.922642
       longitude: -14.8476017
       cities:

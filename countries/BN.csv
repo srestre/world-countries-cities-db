@@ -1,10 +1,10 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BN,Brunei,Asia,South-Eastern Asia,BE,Belait,Kuala Belait,4.58361,114.2312
-BN,Brunei,Asia,South-Eastern Asia,BE,Belait,Seria,4.60637,114.32476
-BN,Brunei,Asia,South-Eastern Asia,BM,Brunei-Muara,Bandar Seri Begawan,4.89035,114.94006
-BN,Brunei,Asia,South-Eastern Asia,BM,Brunei-Muara,Berakas A,4.97032,114.92989
-BN,Brunei,Asia,South-Eastern Asia,BM,Brunei-Muara,Kapok,5.02447,115.04664
-BN,Brunei,Asia,South-Eastern Asia,BM,Brunei-Muara,Mentiri,4.97058,115.02078
-BN,Brunei,Asia,South-Eastern Asia,BM,Brunei-Muara,Serasa,5.01718,115.05841
-BN,Brunei,Asia,South-Eastern Asia,TE,Temburong,Bangar,4.70861,115.07167
-BN,Brunei,Asia,South-Eastern Asia,TU,Tutong,Tutong,4.80278,114.64917
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,BE,Belait,district,distrito,Kuala Belait,4.58361,114.2312
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,BE,Belait,district,distrito,Seria,4.60637,114.32476
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,BM,Brunei-Muara,district,distrito,Bandar Seri Begawan,4.89035,114.94006
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,BM,Brunei-Muara,district,distrito,Berakas A,4.97032,114.92989
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,BM,Brunei-Muara,district,distrito,Kapok,5.02447,115.04664
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,BM,Brunei-Muara,district,distrito,Mentiri,4.97058,115.02078
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,BM,Brunei-Muara,district,distrito,Serasa,5.01718,115.05841
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,TE,Temburong,district,distrito,Bangar,4.70861,115.07167
+BN,Brunei,Brunei,Asia,Asia,South-Eastern Asia,Sudeste Asiático,TU,Tutong,district,distrito,Tutong,4.80278,114.64917

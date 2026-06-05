@@ -12,79 +12,97 @@
   currency_symbol: "€"
   tld: ".ee"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 59
   longitude: 26
   emoji: "🇪🇪"
   states:
     -
       name: "Alutaguse"
+      native: "Alutaguse"
       code: "130"
       iso3166_2: "EE-130"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1167
       longitude: 27.45
       cities:
         []
     -
       name: "Anija"
+      native: "Anija"
       code: "141"
       iso3166_2: "EE-141"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3167
       longitude: 25.3667
       cities:
         []
     -
       name: "Antsla"
+      native: "Antsla"
       code: "142"
       iso3166_2: "EE-142"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.8333
       longitude: 26.5333
       cities:
         []
     -
       name: "Elva"
+      native: "Elva"
       code: "171"
       iso3166_2: "EE-171"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.225
       longitude: 26.4169
       cities:
         []
     -
       name: "Häädemeeste"
+      native: "Häädemeeste"
       code: "214"
       iso3166_2: "EE-214"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0667
       longitude: 24.4833
       cities:
         []
     -
       name: "Haapsalu"
+      native: "Haapsalu"
       code: "184"
       iso3166_2: "EE-184"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.9433
       longitude: 23.5419
       cities:
         []
     -
       name: "Haljala"
+      native: "Haljala"
       code: "191"
       iso3166_2: "EE-191"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.45
       longitude: 26.3167
       cities:
         []
     -
       name: "Harju"
+      native: "Harju"
       code: "37"
       iso3166_2: "EE-37"
       type: "county"
+      type_es: "condado"
       latitude: 58.9529979
       longitude: 22.8981063
       cities:
@@ -230,18 +248,22 @@
           longitude: 24.84833
     -
       name: "Harku"
+      native: "Harku"
       code: "198"
       iso3166_2: "EE-198"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3903
       longitude: 24.5697
       cities:
         []
     -
       name: "Hiiu"
+      native: "Hiiu"
       code: "39"
       iso3166_2: "EE-39"
       type: "county"
+      type_es: "condado"
       latitude: 59.3830236
       longitude: 24.6703848
       cities:
@@ -251,18 +273,22 @@
           longitude: 22.74917
     -
       name: "Hiiumaa"
+      native: "Hiiumaa"
       code: "205"
       iso3166_2: "EE-205"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.9167
       longitude: 22.6
       cities:
         []
     -
       name: "Ida-Viru"
+      native: "Ida-Viru"
       code: "45"
       iso3166_2: "EE-45"
       type: "county"
+      type_es: "condado"
       latitude: 59.219803
       longitude: 27.3905162
       cities:
@@ -324,9 +350,11 @@
           longitude: 27.58263
     -
       name: "Järva"
+      native: "Järva"
       code: "52"
       iso3166_2: "EE-52"
       type: "county"
+      type_es: "condado"
       latitude: 58.4133357
       longitude: 24.647735
       cities:
@@ -360,27 +388,33 @@
           longitude: 25.46443
     -
       name: "Järva"
+      native: "Järva"
       code: "255"
       iso3166_2: "EE-255"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59
       longitude: 25.8667
       cities:
         []
     -
       name: "Joelähtme"
+      native: "Joelähtme"
       code: "245"
       iso3166_2: "EE-245"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.4667
       longitude: 25.1
       cities:
         []
     -
       name: "Jõgeva"
+      native: "Jõgeva"
       code: "50"
       iso3166_2: "EE-50"
       type: "county"
+      type_es: "condado"
       latitude: 58.7441059
       longitude: 26.3872444
       cities:
@@ -406,135 +440,165 @@
           longitude: 26.00957
     -
       name: "Jõgeva"
+      native: "Jõgeva"
       code: "247"
       iso3166_2: "EE-247"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.75
       longitude: 26.3833
       cities:
         []
     -
       name: "Jõhvi"
+      native: "Jõhvi"
       code: "251"
       iso3166_2: "EE-251"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3583
       longitude: 27.4233
       cities:
         []
     -
       name: "Kadrina"
+      native: "Kadrina"
       code: "272"
       iso3166_2: "EE-272"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3333
       longitude: 26.1333
       cities:
         []
     -
       name: "Kambja"
+      native: "Kambja"
       code: "283"
       iso3166_2: "EE-283"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.2667
       longitude: 26.6833
       cities:
         []
     -
       name: "Kanepi"
+      native: "Kanepi"
       code: "284"
       iso3166_2: "EE-284"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58
       longitude: 26.9
       cities:
         []
     -
       name: "Kastre"
+      native: "Kastre"
       code: "291"
       iso3166_2: "EE-291"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.3167
       longitude: 26.7833
       cities:
         []
     -
       name: "Kehtna"
+      native: "Kehtna"
       code: "293"
       iso3166_2: "EE-293"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.9333
       longitude: 24.8833
       cities:
         []
     -
       name: "Keila"
+      native: "Keila"
       code: "296"
       iso3166_2: "EE-296"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3036
       longitude: 24.4211
       cities:
         []
     -
       name: "Kihnu"
+      native: "Kihnu"
       code: "303"
       iso3166_2: "EE-303"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.15
       longitude: 24
       cities:
         []
     -
       name: "Kiili"
+      native: "Kiili"
       code: "305"
       iso3166_2: "EE-305"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3
       longitude: 24.8667
       cities:
         []
     -
       name: "Kohila"
+      native: "Kohila"
       code: "317"
       iso3166_2: "EE-317"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1667
       longitude: 24.7667
       cities:
         []
     -
       name: "Kohtla-Järve"
+      native: "Kohtla-Järve"
       code: "321"
       iso3166_2: "EE-321"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3983
       longitude: 27.2731
       cities:
         []
     -
       name: "Kose"
+      native: "Kose"
       code: "338"
       iso3166_2: "EE-338"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1833
       longitude: 25.1667
       cities:
         []
     -
       name: "Kuusalu"
+      native: "Kuusalu"
       code: "353"
       iso3166_2: "EE-353"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.4333
       longitude: 25.45
       cities:
         []
     -
       name: "Lääne"
+      native: "Lääne"
       code: "56"
       iso3166_2: "EE-56"
       type: "county"
+      type_es: "condado"
       latitude: 58.674124
       longitude: 25.8106102
       cities:
@@ -568,27 +632,33 @@
           longitude: 23.23408
     -
       name: "Lääne-Harju"
+      native: "Lääne-Harju"
       code: "430"
       iso3166_2: "EE-430"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3833
       longitude: 24.1833
       cities:
         []
     -
       name: "Lääne-Nigula"
+      native: "Lääne-Nigula"
       code: "441"
       iso3166_2: "EE-441"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8667
       longitude: 23.7833
       cities:
         []
     -
       name: "Lääne-Viru"
+      native: "Lääne-Viru"
       code: "60"
       iso3166_2: "EE-60"
       type: "county"
+      type_es: "condado"
       latitude: 59.4075666
       longitude: 26.309987
       cities:
@@ -674,135 +744,165 @@
           longitude: 26.58585
     -
       name: "Lääneranna"
+      native: "Lääneranna"
       code: "431"
       iso3166_2: "EE-431"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.5333
       longitude: 24.1
       cities:
         []
     -
       name: "Loksa"
+      native: "Loksa"
       code: "424"
       iso3166_2: "EE-424"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.5764
       longitude: 25.7217
       cities:
         []
     -
       name: "Lüganuse"
+      native: "Lüganuse"
       code: "442"
       iso3166_2: "EE-442"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 27.15
       cities:
         []
     -
       name: "Luunja"
+      native: "Luunja"
       code: "432"
       iso3166_2: "EE-432"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.3833
       longitude: 26.9167
       cities:
         []
     -
       name: "Maardu"
+      native: "Maardu"
       code: "446"
       iso3166_2: "EE-446"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.4653
       longitude: 25.0144
       cities:
         []
     -
       name: "Märjamaa"
+      native: "Märjamaa"
       code: "503"
       iso3166_2: "EE-503"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8833
       longitude: 24.4667
       cities:
         []
     -
       name: "Muhu"
+      native: "Muhu"
       code: "478"
       iso3166_2: "EE-478"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.6
       longitude: 23.25
       cities:
         []
     -
       name: "Mulgi"
+      native: "Mulgi"
       code: "480"
       iso3166_2: "EE-480"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.1
       longitude: 25.5
       cities:
         []
     -
       name: "Mustvee"
+      native: "Mustvee"
       code: "486"
       iso3166_2: "EE-486"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.85
       longitude: 26.9333
       cities:
         []
     -
       name: "Narva"
+      native: "Narva"
       code: "511"
       iso3166_2: "EE-511"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3772
       longitude: 28.1903
       cities:
         []
     -
       name: "Narva-Jõesuu"
+      native: "Narva-Jõesuu"
       code: "514"
       iso3166_2: "EE-514"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.4539
       longitude: 28.0394
       cities:
         []
     -
       name: "Noo"
+      native: "Noo"
       code: "528"
       iso3166_2: "EE-528"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.2833
       longitude: 26.55
       cities:
         []
     -
       name: "Otepää"
+      native: "Otepää"
       code: "557"
       iso3166_2: "EE-557"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0667
       longitude: 26.5
       cities:
         []
     -
       name: "Paide"
+      native: "Paide"
       code: "567"
       iso3166_2: "EE-567"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.8856
       longitude: 25.5569
       cities:
         []
     -
       name: "Pärnu"
+      native: "Pärnu"
       code: "68"
       iso3166_2: "EE-68"
       type: "county"
+      type_es: "condado"
       latitude: 58.3870833
       longitude: 24.502831
       cities:
@@ -872,63 +972,77 @@
           longitude: 25.03611
     -
       name: "Pärnu"
+      native: "Pärnu"
       code: "624"
       iso3166_2: "EE-624"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.3806
       longitude: 24.4989
       cities:
         []
     -
       name: "Peipsiääre"
+      native: "Peipsiääre"
       code: "586"
       iso3166_2: "EE-586"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.6667
       longitude: 27.4167
       cities:
         []
     -
       name: "Põhja-Pärnu"
+      native: "Põhja-Pärnu"
       code: "638"
       iso3166_2: "EE-638"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8333
       longitude: 24.4167
       cities:
         []
     -
       name: "Põhja-Sakala"
+      native: "Põhja-Sakala"
       code: "615"
       iso3166_2: "EE-615"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.4833
       longitude: 25.5333
       cities:
         []
     -
       name: "Poltsamaa"
+      native: "Poltsamaa"
       code: "618"
       iso3166_2: "EE-618"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.65
       longitude: 25.9667
       cities:
         []
     -
       name: "Põlva"
+      native: "Põlva"
       code: "622"
       iso3166_2: "EE-622"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0667
       longitude: 27.05
       cities:
         []
     -
       name: "Põlva"
+      native: "Põlva"
       code: "64"
       iso3166_2: "EE-64"
       type: "county"
+      type_es: "condado"
       latitude: 58.1694924
       longitude: 27.1567066
       cities:
@@ -958,63 +1072,77 @@
           longitude: 27.3858
     -
       name: "Raasiku"
+      native: "Raasiku"
       code: "651"
       iso3166_2: "EE-651"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 25.1833
       cities:
         []
     -
       name: "Rae"
+      native: "Rae"
       code: "653"
       iso3166_2: "EE-653"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 24.9667
       cities:
         []
     -
       name: "Rakvere"
+      native: "Rakvere"
       code: "663"
       iso3166_2: "EE-663"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.347
       longitude: 26.3558
       cities:
         []
     -
       name: "Rakvere"
+      native: "Rakvere"
       code: "661"
       iso3166_2: "EE-661"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.347
       longitude: 26.3558
       cities:
         []
     -
       name: "Räpina"
+      native: "Räpina"
       code: "708"
       iso3166_2: "EE-708"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0983
       longitude: 27.4639
       cities:
         []
     -
       name: "Rapla"
+      native: "Rapla"
       code: "668"
       iso3166_2: "EE-668"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.9833
       longitude: 24.8
       cities:
         []
     -
       name: "Rapla"
+      native: "Rapla"
       code: "71"
       iso3166_2: "EE-71"
       type: "county"
+      type_es: "condado"
       latitude: 58.9419781
       longitude: 24.6984042
       cities:
@@ -1056,36 +1184,44 @@
           longitude: 24.71793
     -
       name: "Rõuge"
+      native: "Rõuge"
       code: "698"
       iso3166_2: "EE-698"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.7667
       longitude: 27.0333
       cities:
         []
     -
       name: "Ruhnu"
+      native: "Ruhnu"
       code: "689"
       iso3166_2: "EE-689"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.8
       longitude: 23.2667
       cities:
         []
     -
       name: "Saarde"
+      native: "Saarde"
       code: "712"
       iso3166_2: "EE-712"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.25
       longitude: 24.6667
       cities:
         []
     -
       name: "Saare"
+      native: "Saare"
       code: "74"
       iso3166_2: "EE-74"
       type: "county"
+      type_es: "condado"
       latitude: 58.3697219
       longitude: 23.8358031
       cities:
@@ -1119,81 +1255,99 @@
           longitude: 22.24646
     -
       name: "Saaremaa"
+      native: "Saaremaa"
       code: "714"
       iso3166_2: "EE-714"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.4167
       longitude: 22.5
       cities:
         []
     -
       name: "Saku"
+      native: "Saku"
       code: "719"
       iso3166_2: "EE-719"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.2833
       longitude: 24.6667
       cities:
         []
     -
       name: "Saue"
+      native: "Saue"
       code: "726"
       iso3166_2: "EE-726"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3167
       longitude: 24.55
       cities:
         []
     -
       name: "Setomaa"
+      native: "Setomaa"
       code: "732"
       iso3166_2: "EE-732"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.7
       longitude: 27.6333
       cities:
         []
     -
       name: "Sillamäe"
+      native: "Sillamäe"
       code: "735"
       iso3166_2: "EE-735"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3969
       longitude: 27.7631
       cities:
         []
     -
       name: "Tallinn"
+      native: "Tallinn"
       code: "784"
       iso3166_2: "EE-784"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.437
       longitude: 24.7536
       cities:
         []
     -
       name: "Tapa"
+      native: "Tapa"
       code: "792"
       iso3166_2: "EE-792"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.2667
       longitude: 26.0333
       cities:
         []
     -
       name: "Tartu"
+      native: "Tartu"
       code: "793"
       iso3166_2: "EE-793"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.378
       longitude: 26.729
       cities:
         []
     -
       name: "Tartu"
+      native: "Tartu"
       code: "79"
       iso3166_2: "EE-79"
       type: "county"
+      type_es: "condado"
       latitude: 58.3801207
       longitude: 26.72245
       cities:
@@ -1263,72 +1417,88 @@
           longitude: 26.72517
     -
       name: "Tartu"
+      native: "Tartu"
       code: "796"
       iso3166_2: "EE-796"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.378
       longitude: 26.729
       cities:
         []
     -
       name: "Toila"
+      native: "Toila"
       code: "803"
       iso3166_2: "EE-803"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.4167
       longitude: 27.5167
       cities:
         []
     -
       name: "Tori"
+      native: "Tori"
       code: "809"
       iso3166_2: "EE-809"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.4833
       longitude: 24.8167
       cities:
         []
     -
       name: "Tõrva"
+      native: "Tõrva"
       code: "824"
       iso3166_2: "EE-824"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58
       longitude: 25.9333
       cities:
         []
     -
       name: "Türi"
+      native: "Türi"
       code: "834"
       iso3166_2: "EE-834"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8083
       longitude: 25.4333
       cities:
         []
     -
       name: "Väike-Maarja"
+      native: "Väike-Maarja"
       code: "928"
       iso3166_2: "EE-928"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1333
       longitude: 26.25
       cities:
         []
     -
       name: "Valga"
+      native: "Valga"
       code: "855"
       iso3166_2: "EE-855"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.7833
       longitude: 26.05
       cities:
         []
     -
       name: "Valga"
+      native: "Valga"
       code: "81"
       iso3166_2: "EE-81"
       type: "county"
+      type_es: "condado"
       latitude: 57.777034
       longitude: 26.0315628
       cities:
@@ -1346,27 +1516,33 @@
           longitude: 26.0473
     -
       name: "Viimsi"
+      native: "Viimsi"
       code: "890"
       iso3166_2: "EE-890"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.5
       longitude: 24.8167
       cities:
         []
     -
       name: "Viljandi"
+      native: "Viljandi"
       code: "897"
       iso3166_2: "EE-897"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.3639
       longitude: 25.59
       cities:
         []
     -
       name: "Viljandi"
+      native: "Viljandi"
       code: "84"
       iso3166_2: "EE-84"
       type: "county"
+      type_es: "condado"
       latitude: 58.36454
       longitude: 25.5878074
       cities:
@@ -1404,54 +1580,66 @@
           longitude: 25.54833
     -
       name: "Viljandi"
+      native: "Viljandi"
       code: "899"
       iso3166_2: "EE-899"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.3639
       longitude: 25.59
       cities:
         []
     -
       name: "Vinni"
+      native: "Vinni"
       code: "901"
       iso3166_2: "EE-901"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 26.4333
       cities:
         []
     -
       name: "Viru-Nigula"
+      native: "Viru-Nigula"
       code: "903"
       iso3166_2: "EE-903"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3667
       longitude: 26.8333
       cities:
         []
     -
       name: "Vormsi"
+      native: "Vormsi"
       code: "907"
       iso3166_2: "EE-907"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59
       longitude: 23.0167
       cities:
         []
     -
       name: "Võru"
+      native: "Võru"
       code: "917"
       iso3166_2: "EE-917"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.8431
       longitude: 27.0142
       cities:
         []
     -
       name: "Võru"
+      native: "Võru"
       code: "87"
       iso3166_2: "EE-87"
       type: "county"
+      type_es: "condado"
       latitude: 57.8132607
       longitude: 26.9847576
       cities:
@@ -1489,9 +1677,11 @@
           longitude: 26.97418
     -
       name: "Võru"
+      native: "Võru"
       code: "919"
       iso3166_2: "EE-919"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 57.8431
       longitude: 27.0142
       cities:

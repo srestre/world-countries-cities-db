@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(119, 'Laos', 'LA', 'LAO', 'Asia', 'South-Eastern Asia', 'Vientiane', 'LAK', 18, 105, '🇱🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(119, 'Laos', 'Laos', 'LA', 'LAO', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Vientiane', 'LAK', 18, 105, '🇱🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(982, 'Attapeu', 119, 'LA', 'AT', 'province', 14.79073, 107.1008318),
-(991, 'Bokeo', 119, 'LA', 'BK', 'province', 20.317445, 100.3958112),
-(985, 'Bolikhamsai', 119, 'LA', 'BL', 'province', 18.5806594, 104.1491594),
-(996, 'Champasak', 119, 'LA', 'CH', 'province', 14.8872885, 105.8765804),
-(989, 'Houaphanh', 119, 'LA', 'HO', 'province', 20.2354748, 103.6203387),
-(986, 'Khammouane', 119, 'LA', 'KH', 'province', 17.5842055, 105.2471325),
-(992, 'Luang Namtha', 119, 'LA', 'LM', 'province', 20.933004, 101.0586737),
-(978, 'Luang Prabang', 119, 'LA', 'LP', 'province', 20.2115415, 102.612684),
-(988, 'Oudomxay', 119, 'LA', 'OU', 'province', 20.6930134, 101.9853678),
-(987, 'Phongsaly', 119, 'LA', 'PH', 'province', 21.6767816, 102.2773177),
-(993, 'Sainyabuli', 119, 'LA', 'XA', 'province', 19.2536139, 101.6180985),
-(981, 'Salavan', 119, 'LA', 'SL', 'province', 15.87128, 106.3389565),
-(990, 'Savannakhet', 119, 'LA', 'SV', 'province', 16.5001958, 105.7155946),
-(984, 'Sekong', 119, 'LA', 'XE', 'province', 15.8660419, 106.9637782),
-(980, 'Vientiane', 119, 'LA', 'VI', 'province', 17.9640988, 102.6133707),
-(979, 'Vientiane', 119, 'LA', 'VT', 'prefecture', 17.9640988, 102.6133707),
-(983, 'Xaisomboun', 119, 'LA', 'XS', 'province', 18.8631725, 103.0344783),
-(995, 'Xiangkhouang', 119, 'LA', 'XI', 'province', 19.4130479, 103.4680126);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(982, 'Attapeu', 'ອັດຕະປື', 119, 'LA', 'AT', 'province', 'provincia', 14.79073, 107.1008318),
+(991, 'Bokeo', 'ບໍ່ແກ້ວ', 119, 'LA', 'BK', 'province', 'provincia', 20.317445, 100.3958112),
+(985, 'Bolikhamsai', 'ບໍລິຄຳໄຊ', 119, 'LA', 'BL', 'province', 'provincia', 18.5806594, 104.1491594),
+(996, 'Champasak', 'ຈໍາປາສັກ', 119, 'LA', 'CH', 'province', 'provincia', 14.8872885, 105.8765804),
+(989, 'Houaphanh', 'ຫົວພັນ', 119, 'LA', 'HO', 'province', 'provincia', 20.2354748, 103.6203387),
+(986, 'Khammouane', 'ຄຳມ່ວນ', 119, 'LA', 'KH', 'province', 'provincia', 17.5842055, 105.2471325),
+(992, 'Luang Namtha', 'ຫຼວງນ້ຳທາ', 119, 'LA', 'LM', 'province', 'provincia', 20.933004, 101.0586737),
+(978, 'Luang Prabang', 'ຫຼວງພະບາງ', 119, 'LA', 'LP', 'province', 'provincia', 20.2115415, 102.612684),
+(988, 'Oudomxay', 'ອຸດົມໄຊ', 119, 'LA', 'OU', 'province', 'provincia', 20.6930134, 101.9853678),
+(987, 'Phongsaly', 'ຜົ້ງສາລີ', 119, 'LA', 'PH', 'province', 'provincia', 21.6767816, 102.2773177),
+(993, 'Sainyabuli', 'ໄຊຍາບູລີ', 119, 'LA', 'XA', 'province', 'provincia', 19.2536139, 101.6180985),
+(981, 'Salavan', 'ສາລະວັນ', 119, 'LA', 'SL', 'province', 'provincia', 15.87128, 106.3389565),
+(990, 'Savannakhet', 'ສະຫວັນນະເຂດ', 119, 'LA', 'SV', 'province', 'provincia', 16.5001958, 105.7155946),
+(984, 'Sekong', 'ເຊກອງ', 119, 'LA', 'XE', 'province', 'provincia', 15.8660419, 106.9637782),
+(980, 'Vientiane', 'ວຽງຈັນ', 119, 'LA', 'VI', 'province', 'provincia', 17.9640988, 102.6133707),
+(979, 'Vientiane', 'ວຽງຈັນ', 119, 'LA', 'VT', 'prefecture', 'prefectura', 17.9640988, 102.6133707),
+(983, 'Xaisomboun', 'ໄຊສົມບູນ', 119, 'LA', 'XS', 'province', 'provincia', 18.8631725, 103.0344783),
+(995, 'Xiangkhouang', 'ຊຽງຂວາງ', 119, 'LA', 'XI', 'province', 'provincia', 19.4130479, 103.4680126);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65855, 'Attapeu', 982, 119, 14.81071, 106.83184),

@@ -1,25 +1,25 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(180, 'Reunion', 'RE', 'REU', 'Africa', 'Eastern Africa', 'Saint-Denis', 'EUR', -21.15, 55.5, '🇷🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(180, 'Reunion', 'Reunión', 'RE', 'REU', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Saint-Denis', 'EUR', -21.15, 55.5, '🇷🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5436, 'Saint-Benoît', 180, 'RE', '01', 'district', -21.0810433, 55.6028127),
-(5437, 'Saint-Denis', 180, 'RE', '02', 'district', -20.8799889, 55.448137),
-(5438, 'Saint-Paul', 180, 'RE', '03', 'district', -21.0006099, 55.2771585),
-(5439, 'Saint-Pierre', 180, 'RE', '04', 'district', -21.2377437, 55.4899764);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5436, 'Saint-Benoît', 'Saint-Benoît', 180, 'RE', '01', 'district', 'distrito', -21.0810433, 55.6028127),
+(5437, 'Saint-Denis', 'Saint-Denis', 180, 'RE', '02', 'district', 'distrito', -20.8799889, 55.448137),
+(5438, 'Saint-Paul', 'Saint-Paul', 180, 'RE', '03', 'district', 'distrito', -21.0006099, 55.2771585),
+(5439, 'Saint-Pierre', 'Saint-Pierre', 180, 'RE', '04', 'district', 'distrito', -21.2377437, 55.4899764);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (155014, 'Bras-Panon', 5436, 180, -21.0315816, 55.5441634),

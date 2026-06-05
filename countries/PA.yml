@@ -12,16 +12,20 @@
   currency_symbol: "B/."
   tld: ".pa"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   latitude: 9
   longitude: -80
   emoji: "🇵🇦"
   states:
     -
       name: "Bocas del Toro"
+      native: "Bocas del Toro"
       code: "1"
       iso3166_2: "PA-1"
       type: "province"
+      type_es: "provincia"
       latitude: 9.3402964
       longitude: -82.2418169
       cities:
@@ -107,9 +111,11 @@
           longitude: -82.42748
     -
       name: "Chiriquí Province"
+      native: "Chiriquí Province"
       code: "4"
       iso3166_2: "PA-4"
       type: "province"
+      type_es: "provincia"
       latitude: 9.0287351
       longitude: -79.6223869
       cities:
@@ -535,9 +541,11 @@
           longitude: -82.63823
     -
       name: "Coclé"
+      native: "Coclé"
       code: "2"
       iso3166_2: "PA-2"
       type: "province"
+      type_es: "provincia"
       latitude: 8.5743137
       longitude: -80.4449059
       cities:
@@ -731,9 +739,11 @@
           longitude: -80.64012
     -
       name: "Colón"
+      native: "Colon"
       code: "3"
       iso3166_2: "PA-3"
       type: "province"
+      type_es: "provincia"
       latitude: 9.2353085
       longitude: -80.2532526
       cities:
@@ -883,9 +893,11 @@
           longitude: -79.4069
     -
       name: "Darién"
+      native: "Darién"
       code: "5"
       iso3166_2: "PA-5"
       type: "province"
+      type_es: "provincia"
       latitude: 8.2158991
       longitude: -78.0172551
       cities:
@@ -935,9 +947,11 @@
           longitude: -77.69276
     -
       name: "Emberá-Wounaan Comarca"
+      native: "Emberá-Wounaan Comarca"
       code: "EM"
       iso3166_2: "PA-EM"
       type: "indigenous region"
+      type_es: "región indígena"
       latitude: 8.4210754
       longitude: -77.592269
       cities:
@@ -963,9 +977,11 @@
           longitude: -77.59817
     -
       name: "Guna"
+      native: "Guna"
       code: "KY"
       iso3166_2: "PA-KY"
       type: "indigenous region"
+      type_es: "región indígena"
       latitude: 9.1591409
       longitude: -78.4553083
       cities:
@@ -1011,9 +1027,11 @@
           longitude: -77.9262
     -
       name: "Herrera"
+      native: "Herrera"
       code: "6"
       iso3166_2: "PA-6"
       type: "province"
+      type_es: "provincia"
       latitude: 7.854438
       longitude: -80.7436313
       cities:
@@ -1171,9 +1189,11 @@
           longitude: -80.66582
     -
       name: "Los Santos"
+      native: "Los Santos"
       code: "7"
       iso3166_2: "PA-7"
       type: "province"
+      type_es: "provincia"
       latitude: 7.8773471
       longitude: -80.4290617
       cities:
@@ -1459,9 +1479,11 @@
           longitude: -80.47029
     -
       name: "Naso Tjër Di"
+      native: "Naso Tjër Di"
       code: "NT"
       iso3166_2: "PA-NT"
       type: "indigenous region"
+      type_es: "región indígena"
       latitude: 9.2444
       longitude: -82.7353
       cities:
@@ -1483,9 +1505,11 @@
           longitude: -82.58333333
     -
       name: "Ngöbe-Buglé Comarca"
+      native: "Ngöbe-Buglé Comarca"
       code: "NB"
       iso3166_2: "PA-NB"
       type: "indigenous region"
+      type_es: "región indígena"
       latitude: 8.793244
       longitude: -81.7682694
       cities:
@@ -1607,9 +1631,11 @@
           longitude: -81.82471
     -
       name: "Panamá"
+      native: "Panamá"
       code: "8"
       iso3166_2: "PA-8"
       type: "province"
+      type_es: "provincia"
       latitude: 8.9714493
       longitude: -79.5341802
       cities:
@@ -1811,9 +1837,11 @@
           longitude: -79.36113
     -
       name: "Panamá Oeste"
+      native: "Panamá Oeste"
       code: "10"
       iso3166_2: "PA-10"
       type: "province"
+      type_es: "provincia"
       latitude: 8.730087
       longitude: -79.8755817
       cities:
@@ -2027,9 +2055,11 @@
           longitude: -79.7028
     -
       name: "Veraguas"
+      native: "Veraguas"
       code: "9"
       iso3166_2: "PA-9"
       type: "province"
+      type_es: "provincia"
       latitude: 8.2414131
       longitude: -81.0903464
       cities:

@@ -1,43 +1,43 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(171, 'Papua New Guinea', 'PG', 'PNG', 'Oceania', 'Melanesia', 'Port Moresby', 'PGK', -6, 147, '🇵🇬');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(171, 'Papua New Guinea', 'Papúa Nueva Guinea', 'PG', 'PNG', 'Oceania', 'Oceanía', 'Melanesia', 'Melanesia', 'Port Moresby', 'PGK', -6, 147, '🇵🇬');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4831, 'Bougainville', 171, 'PG', 'NSB', 'autonomous region', -6.1441283, 155.2059339),
-(4847, 'Central', 171, 'PG', 'CPM', 'province', -10, 148),
-(4846, 'Chimbu', 171, 'PG', 'CPK', 'province', -6.25, 144.833333),
-(4834, 'East New Britain', 171, 'PG', 'EBR', 'province', -5.1386278, 151.9020187),
-(5228, 'East Sepik', 171, 'PG', 'ESW', 'province', -4.355541, 143.2325162),
-(4845, 'Eastern Highlands', 171, 'PG', 'EHG', 'province', -6.5, 145.583333),
-(4848, 'Enga', 171, 'PG', 'EPW', 'province', -5.6725937, 143.6436942),
-(4839, 'Gulf', 171, 'PG', 'GPK', 'province', -7.5556411, 144.8850036),
-(4833, 'Hela', 171, 'PG', 'HLA', 'province', -5.7729776, 142.7792477),
-(4832, 'Jiwaka', 171, 'PG', 'JWK', 'province', -5.5797604, 144.613752),
-(4843, 'Madang', 171, 'PG', 'MPM', 'province', -5, 145.5),
-(4842, 'Manus', 171, 'PG', 'MRL', 'province', -2.1032645, 146.9325448),
-(4849, 'Milne Bay', 171, 'PG', 'MBA', 'province', -10.0226491, 151.5800288),
-(4835, 'Morobe', 171, 'PG', 'MPL', 'province', -7, 147),
-(4841, 'New Ireland', 171, 'PG', 'NIK', 'province', -3.7021472, 152.4360021),
-(4838, 'Oro', 171, 'PG', 'NPP', 'province', -9, 148.5),
-(4837, 'Port Moresby', 171, 'PG', 'NCD', 'district', -9.4743301, 147.1599504),
-(4836, 'Sandaun', 171, 'PG', 'SAN', 'province', -3.5, 142),
-(4844, 'Southern Highlands', 171, 'PG', 'SHM', 'province', -6.4471522, 143.6006612),
-(4830, 'West New Britain', 171, 'PG', 'WBK', 'province', -5.8891465, 149.699546),
-(4850, 'Western', 171, 'PG', 'WPD', 'province', -7.5, 142),
-(4840, 'Western Highlands', 171, 'PG', 'WHM', 'province', -5.841586, 144.2355348);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4831, 'Bougainville', 'Bougainville', 171, 'PG', 'NSB', 'autonomous region', 'región autónoma', -6.1441283, 155.2059339),
+(4847, 'Central', 'Central', 171, 'PG', 'CPM', 'province', 'provincia', -10, 148),
+(4846, 'Chimbu', 'Bur', 171, 'PG', 'CPK', 'province', 'provincia', -6.25, 144.833333),
+(4834, 'East New Britain', 'East New Britain', 171, 'PG', 'EBR', 'province', 'provincia', -5.1386278, 151.9020187),
+(5228, 'East Sepik', 'East', 171, 'PG', 'ESW', 'province', 'provincia', -4.355541, 143.2325162),
+(4845, 'Eastern Highlands', 'Eastern Highlands', 171, 'PG', 'EHG', 'province', 'provincia', -6.5, 145.583333),
+(4848, 'Enga', 'Nake', 171, 'PG', 'EPW', 'province', 'provincia', -5.6725937, 143.6436942),
+(4839, 'Gulf', 'Gulf', 171, 'PG', 'GPK', 'province', 'provincia', -7.5556411, 144.8850036),
+(4833, 'Hela', 'Hela', 171, 'PG', 'HLA', 'province', 'provincia', -5.7729776, 142.7792477),
+(4832, 'Jiwaka', 'Burn it', 171, 'PG', 'JWK', 'province', 'provincia', -5.5797604, 144.613752),
+(4843, 'Madang', 'Madang', 171, 'PG', 'MPM', 'province', 'provincia', -5, 145.5),
+(4842, 'Manus', 'Manus', 171, 'PG', 'MRL', 'province', 'provincia', -2.1032645, 146.9325448),
+(4849, 'Milne Bay', 'Milne Bay', 171, 'PG', 'MBA', 'province', 'provincia', -10.0226491, 151.5800288),
+(4835, 'Morobe', 'Morobe', 171, 'PG', 'MPL', 'province', 'provincia', -7, 147),
+(4841, 'New Ireland', 'New Ireland', 171, 'PG', 'NIK', 'province', 'provincia', -3.7021472, 152.4360021),
+(4838, 'Oro', 'Oro', 171, 'PG', 'NPP', 'province', 'provincia', -9, 148.5),
+(4837, 'Port Moresby', 'Port Moresby', 171, 'PG', 'NCD', 'district', 'distrito', -9.4743301, 147.1599504),
+(4836, 'Sandaun', 'Sandadaun', 171, 'PG', 'SAN', 'province', 'provincia', -3.5, 142),
+(4844, 'Southern Highlands', 'Southern Highlands', 171, 'PG', 'SHM', 'province', 'provincia', -6.4471522, 143.6006612),
+(4830, 'West New Britain', 'West New Britain', 171, 'PG', 'WBK', 'province', 'provincia', -5.8891465, 149.699546),
+(4850, 'Western', 'Western', 171, 'PG', 'WPD', 'province', 'provincia', -7.5, 142),
+(4840, 'Western Highlands', 'Western Highlands', 171, 'PG', 'WHM', 'province', 'provincia', -5.841586, 144.2355348);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (81029, 'Arawa', 4831, 171, -6.22977, 155.56598),

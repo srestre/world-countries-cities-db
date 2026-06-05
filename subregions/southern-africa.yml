@@ -12,16 +12,20 @@
   currency_symbol: "P"
   tld: ".bw"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -22
   longitude: 24
   emoji: "🇧🇼"
   states:
     -
       name: "Central"
+      native: "Central"
       code: "CE"
       iso3166_2: "BW-CE"
       type: "district"
+      type_es: "distrito"
       latitude: -21.4790187
       longitude: 26.2154174
       cities:
@@ -155,36 +159,44 @@
           longitude: 27.46153
     -
       name: "Chobe"
+      native: "Chobe"
       code: "CH"
       iso3166_2: "BW-CH"
       type: "district"
+      type_es: "distrito"
       latitude: -18.5
       longitude: 25
       cities:
         []
     -
       name: "Francistown"
+      native: "Francistown"
       code: "FR"
       iso3166_2: "BW-FR"
       type: "city"
+      type_es: "ciudad"
       latitude: -21.17361111
       longitude: 27.5125
       cities:
         []
     -
       name: "Gaborone"
+      native: "Gaborone"
       code: "GA"
       iso3166_2: "BW-GA"
       type: "city"
+      type_es: "ciudad"
       latitude: -24.65805556
       longitude: 25.91222222
       cities:
         []
     -
       name: "Ghanzi"
+      native: "Pirm"
       code: "GH"
       iso3166_2: "BW-GH"
       type: "district"
+      type_es: "distrito"
       latitude: -21.6968123
       longitude: 21.6457062
       cities:
@@ -198,18 +210,22 @@
           longitude: 21.64581
     -
       name: "Jwaneng"
+      native: "Jwaneng"
       code: "JW"
       iso3166_2: "BW-JW"
       type: "town"
+      type_es: "población"
       latitude: -24.60194444
       longitude: 24.72833333
       cities:
         []
     -
       name: "Kgalagadi"
+      native: "Kgalagadi"
       code: "KG"
       iso3166_2: "BW-KG"
       type: "district"
+      type_es: "distrito"
       latitude: -24.8490576
       longitude: 21.7883349
       cities:
@@ -239,9 +255,11 @@
           longitude: 23.28333
     -
       name: "Kgatleng"
+      native: "In the world"
       code: "KL"
       iso3166_2: "BW-KL"
       type: "district"
+      type_es: "distrito"
       latitude: -24.134085
       longitude: 26.4177246
       cities:
@@ -263,9 +281,11 @@
           longitude: 26.13333
     -
       name: "Kweneng"
+      native: "Kweneng"
       code: "KW"
       iso3166_2: "BW-KW"
       type: "district"
+      type_es: "distrito"
       latitude: -23.9028101
       longitude: 24.9214122
       cities:
@@ -323,18 +343,22 @@
           longitude: 25.53975
     -
       name: "Lobatse"
+      native: "Lobatse"
       code: "LO"
       iso3166_2: "BW-LO"
       type: "town"
+      type_es: "población"
       latitude: -25.21666667
       longitude: 25.66666667
       cities:
         []
     -
       name: "North-East"
+      native: "North-East"
       code: "NE"
       iso3166_2: "BW-NE"
       type: "district"
+      type_es: "distrito"
       latitude: -21.0244816
       longitude: 27.5147504
       cities:
@@ -356,9 +380,11 @@
           longitude: 27.25
     -
       name: "North-West"
+      native: "North-West"
       code: "NW"
       iso3166_2: "BW-NW"
       type: "district"
+      type_es: "distrito"
       latitude: -19.3893529
       longitude: 23.267951
       cities:
@@ -384,18 +410,22 @@
           longitude: 21.84219
     -
       name: "Selibe Phikwe"
+      native: "Selibe Phikwe"
       code: "SP"
       iso3166_2: "BW-SP"
       type: "town"
+      type_es: "población"
       latitude: -21.97583333
       longitude: 27.84
       cities:
         []
     -
       name: "South-East"
+      native: "South-East"
       code: "SE"
       iso3166_2: "BW-SE"
       type: "district"
+      type_es: "distrito"
       latitude: -24.6563846
       longitude: 26.0575429
       cities:
@@ -421,9 +451,11 @@
           longitude: 25.86989
     -
       name: "Southern"
+      native: "Southern"
       code: "SO"
       iso3166_2: "BW-SO"
       type: "district"
+      type_es: "distrito"
       latitude: -24.7998688
       longitude: 24.5800692
       cities:
@@ -445,9 +477,11 @@
           longitude: 23.88333
     -
       name: "Sowa Town"
+      native: "Sowa Town"
       code: "ST"
       iso3166_2: "BW-ST"
       type: "town"
+      type_es: "población"
       latitude: -20.56361111
       longitude: 26.22444444
       cities:
@@ -466,16 +500,20 @@
   currency_symbol: "E"
   tld: ".sz"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -26.5
   longitude: 31.5
   emoji: "🇸🇿"
   states:
     -
       name: "Hhohho"
+      native: "Hhohho"
       code: "HH"
       iso3166_2: "SZ-HH"
       type: "region"
+      type_es: "región"
       latitude: -26.0988012
       longitude: 31.3630822
       cities:
@@ -505,9 +543,11 @@
           longitude: 31.24666
     -
       name: "Lubombo"
+      native: "Bitch"
       code: "LU"
       iso3166_2: "SZ-LU"
       type: "region"
+      type_es: "región"
       latitude: -26.55452
       longitude: 31.8619116
       cities:
@@ -545,9 +585,11 @@
           longitude: 31.87672
     -
       name: "Manzini"
+      native: "Chic"
       code: "MA"
       iso3166_2: "SZ-MA"
       type: "region"
+      type_es: "región"
       latitude: -26.4976444
       longitude: 31.3750815
       cities:
@@ -593,9 +635,11 @@
           longitude: 31.42021
     -
       name: "Shiselweni"
+      native: "Suspend"
       code: "SH"
       iso3166_2: "SZ-SH"
       type: "region"
+      type_es: "región"
       latitude: -27.036022
       longitude: 31.3321298
       cities:
@@ -653,16 +697,20 @@
   currency_symbol: "€"
   tld: ".tf"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -49.25
   longitude: 69.167
   emoji: "🇹🇫"
   states:
     -
       name: "Adélie Land"
+      native: "Terre Adélie"
       code: "01"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -66.66277778
       longitude: 140.00111111
       cities:
@@ -672,9 +720,11 @@
           longitude: 140.00111111
     -
       name: "Crozet Islands"
+      native: "Îles Crozet"
       code: "02"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -46.4325
       longitude: 51.85763889
       cities:
@@ -684,9 +734,11 @@
           longitude: 51.85763889
     -
       name: "Kerguelen Islands"
+      native: "Archipel des Kerguelen"
       code: "03"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -49.35
       longitude: 70.21888889
       cities:
@@ -696,9 +748,11 @@
           longitude: 70.21888889
     -
       name: "Saint-Paul and Amsterdam Islands"
+      native: "Îles Saint-Paul et Amsterdam"
       code: "04"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -37.79555556
       longitude: 77.57333333
       cities:
@@ -708,9 +762,11 @@
           longitude: 77.57333333
     -
       name: "Scattered Islands"
+      native: "Îles Éparses"
       code: "05"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -15.89222222
       longitude: 54.52083333
       cities:
@@ -732,16 +788,20 @@
   currency_symbol: "L"
   tld: ".ls"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -29.5
   longitude: 28.5
   emoji: "🇱🇸"
   states:
     -
       name: "Berea"
+      native: "Berea"
       code: "D"
       iso3166_2: "LS-D"
       type: "district"
+      type_es: "distrito"
       latitude: -29.1963971
       longitude: 27.9175581
       cities:
@@ -751,9 +811,11 @@
           longitude: 27.74895
     -
       name: "Butha-Buthe"
+      native: "Butha-Buthe"
       code: "B"
       iso3166_2: "LS-B"
       type: "district"
+      type_es: "distrito"
       latitude: -28.7653754
       longitude: 28.2468148
       cities:
@@ -763,9 +825,11 @@
           longitude: 28.24937
     -
       name: "Leribe"
+      native: "LERIBE"
       code: "C"
       iso3166_2: "LS-C"
       type: "district"
+      type_es: "distrito"
       latitude: -28.866891
       longitude: 28.0579408
       cities:
@@ -779,9 +843,11 @@
           longitude: 27.89915
     -
       name: "Mafeteng"
+      native: "Mafeteng"
       code: "E"
       iso3166_2: "LS-E"
       type: "district"
+      type_es: "distrito"
       latitude: -29.7893049
       longitude: 27.4423193
       cities:
@@ -791,9 +857,11 @@
           longitude: 27.23744
     -
       name: "Maseru"
+      native: "Maseru"
       code: "A"
       iso3166_2: "LS-A"
       type: "district"
+      type_es: "distrito"
       latitude: -29.5816942
       longitude: 27.8243208
       cities:
@@ -807,9 +875,11 @@
           longitude: 27.76667
     -
       name: "Mohale's Hoek"
+      native: "Mohale's corner"
       code: "F"
       iso3166_2: "LS-F"
       type: "district"
+      type_es: "distrito"
       latitude: -30.1516305
       longitude: 27.4770113
       cities:
@@ -819,9 +889,11 @@
           longitude: 27.47691
     -
       name: "Mokhotlong"
+      native: "Mokhotlong"
       code: "J"
       iso3166_2: "LS-J"
       type: "district"
+      type_es: "distrito"
       latitude: -29.2190697
       longitude: 29.0351369
       cities:
@@ -831,9 +903,11 @@
           longitude: 29.06751
     -
       name: "Qacha's Nek"
+      native: "Qacha's Nek"
       code: "H"
       iso3166_2: "LS-H"
       type: "district"
+      type_es: "distrito"
       latitude: -30.1114565
       longitude: 28.678979
       cities:
@@ -843,9 +917,11 @@
           longitude: 28.68936
     -
       name: "Quthing"
+      native: "Quthing"
       code: "G"
       iso3166_2: "LS-G"
       type: "district"
+      type_es: "distrito"
       latitude: -30.4015687
       longitude: 27.7080133
       cities:
@@ -855,9 +931,11 @@
           longitude: 27.70027
     -
       name: "Thaba-Tseka"
+      native: "Butha-Buthe"
       code: "K"
       iso3166_2: "LS-K"
       type: "district"
+      type_es: "distrito"
       latitude: -29.5151832
       longitude: 28.6036179
       cities:
@@ -879,16 +957,20 @@
   currency_symbol: "$"
   tld: ".na"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -22
   longitude: 17
   emoji: "🇳🇦"
   states:
     -
       name: "Erongo"
+      native: "Erongo"
       code: "ER"
       iso3166_2: "NA-ER"
       type: "region"
+      type_es: "región"
       latitude: -22.0278147
       longitude: 15.389358
       cities:
@@ -930,9 +1012,11 @@
           longitude: 14.50528
     -
       name: "Hardap"
+      native: "Hardap"
       code: "HA"
       iso3166_2: "NA-HA"
       type: "region"
+      type_es: "región"
       latitude: -24.4140944
       longitude: 17.4134051
       cities:
@@ -958,9 +1042,11 @@
           longitude: 17.09
     -
       name: "Karas"
+      native: "Karas"
       code: "KA"
       iso3166_2: "NA-KA"
       type: "region"
+      type_es: "región"
       latitude: -26.8752094
       longitude: 17.7634818
       cities:
@@ -994,9 +1080,11 @@
           longitude: 18.73333
     -
       name: "Kavango East"
+      native: "Kavango East"
       code: "KE"
       iso3166_2: "NA-KE"
       type: "region"
+      type_es: "región"
       latitude: -18.3982355
       longitude: 20.72468
       cities:
@@ -1006,18 +1094,22 @@
           longitude: 19.76667
     -
       name: "Kavango West"
+      native: "Kavango West"
       code: "KW"
       iso3166_2: "NA-KW"
       type: "region"
+      type_es: "región"
       latitude: -18.256111
       longitude: 18.970201
       cities:
         []
     -
       name: "Khomas"
+      native: "Khomas"
       code: "KH"
       iso3166_2: "NA-KH"
       type: "region"
+      type_es: "región"
       latitude: -22.9082553
       longitude: 17.09198
       cities:
@@ -1031,9 +1123,11 @@
           longitude: 17.08323
     -
       name: "Kunene"
+      native: "Kunene"
       code: "KU"
       iso3166_2: "NA-KU"
       type: "region"
+      type_es: "región"
       latitude: -19.6792809
       longitude: 13.9756564
       cities:
@@ -1067,9 +1161,11 @@
           longitude: 13.7653
     -
       name: "Ohangwena"
+      native: "Ohangwena"
       code: "OW"
       iso3166_2: "NA-OW"
       type: "region"
+      type_es: "región"
       latitude: -17.5877369
       longitude: 16.7737955
       cities:
@@ -1079,9 +1175,11 @@
           longitude: 15.88333
     -
       name: "Omaheke"
+      native: "Omaheke"
       code: "OH"
       iso3166_2: "NA-OH"
       type: "region"
+      type_es: "región"
       latitude: -21.9074676
       longitude: 19.3929661
       cities:
@@ -1091,9 +1189,11 @@
           longitude: 18.96667
     -
       name: "Omusati"
+      native: "Omusati"
       code: "OS"
       iso3166_2: "NA-OS"
       type: "region"
+      type_es: "región"
       latitude: -18.2862314
       longitude: 14.8856679
       cities:
@@ -1111,9 +1211,11 @@
           longitude: 14.98333
     -
       name: "Oshana"
+      native: "Oshana"
       code: "ON"
       iso3166_2: "NA-ON"
       type: "region"
+      type_es: "región"
       latitude: -18.4702308
       longitude: 15.7434419
       cities:
@@ -1131,9 +1233,11 @@
           longitude: 15.70436
     -
       name: "Oshikoto"
+      native: "Oshikoto"
       code: "OT"
       iso3166_2: "NA-OT"
       type: "region"
+      type_es: "región"
       latitude: -18.5464046
       longitude: 17.1019606
       cities:
@@ -1147,9 +1251,11 @@
           longitude: 17.71667
     -
       name: "Otjozondjupa"
+      native: "Otjozondjupa"
       code: "OD"
       iso3166_2: "NA-OD"
       type: "region"
+      type_es: "región"
       latitude: -19.9424962
       longitude: 18.395886
       cities:
@@ -1175,9 +1281,11 @@
           longitude: 16.64772
     -
       name: "Zambezi"
+      native: "Zambezi"
       code: "CA"
       iso3166_2: "NA-CA"
       type: "region"
+      type_es: "región"
       latitude: -17.6912922
       longitude: 24.1377371
       cities:
@@ -1203,16 +1311,20 @@
   currency_symbol: "R"
   tld: ".za"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -29
   longitude: 24
   emoji: "🇿🇦"
   states:
     -
       name: "Eastern Cape"
+      native: "Eastern Cape"
       code: "EC"
       iso3166_2: "ZA-EC"
       type: "province"
+      type_es: "provincia"
       latitude: -32.2171831
       longitude: 26.6386401
       cities:
@@ -1370,9 +1482,11 @@
           longitude: 23.48954
     -
       name: "Free State"
+      native: "Free State"
       code: "FS"
       iso3166_2: "ZA-FS"
       type: "province"
+      type_es: "provincia"
       latitude: -28.7853618
       longitude: 26.4978933
       cities:
@@ -1542,9 +1656,11 @@
           longitude: 27.08395
     -
       name: "Gauteng"
+      native: "Gauteng"
       code: "GP"
       iso3166_2: "ZA-GP"
       type: "province"
+      type_es: "provincia"
       latitude: -25.9363439
       longitude: 28.0813105
       cities:
@@ -1706,9 +1822,11 @@
           longitude: 27.6486
     -
       name: "KwaZulu-Natal"
+      native: "KwaZulu-Natal"
       code: "KZN"
       iso3166_2: "ZA-KZN"
       type: "province"
+      type_es: "provincia"
       latitude: -28.503833
       longitude: 30.8875009
       cities:
@@ -1886,9 +2004,11 @@
           longitude: 31.29426
     -
       name: "Limpopo"
+      native: "Limpopo"
       code: "LP"
       iso3166_2: "ZA-LP"
       type: "province"
+      type_es: "provincia"
       latitude: -23.4735288
       longitude: 29.3959199
       cities:
@@ -1986,9 +2106,11 @@
           longitude: 27.9787
     -
       name: "Mpumalanga"
+      native: "East"
       code: "MP"
       iso3166_2: "ZA-MP"
       type: "province"
+      type_es: "provincia"
       latitude: -26.276849
       longitude: 30.1500153
       cities:
@@ -2098,9 +2220,11 @@
           longitude: 29.23323
     -
       name: "North West"
+      native: "North West"
       code: "NW"
       iso3166_2: "ZA-NW"
       type: "province"
+      type_es: "provincia"
       latitude: -26.1347819
       longitude: 25.6546729
       cities:
@@ -2202,9 +2326,11 @@
           longitude: 26.07512
     -
       name: "Northern Cape"
+      native: "Northern Cape"
       code: "NC"
       iso3166_2: "ZA-NC"
       type: "province"
+      type_es: "provincia"
       latitude: -29.573402
       longitude: 21.2051361
       cities:
@@ -2322,9 +2448,11 @@
           longitude: 24.84753
     -
       name: "Western Cape"
+      native: "Western Cape"
       code: "WC"
       iso3166_2: "ZA-WC"
       type: "province"
+      type_es: "provincia"
       latitude: -33.546977
       longitude: 20.72753
       cities:
@@ -2550,16 +2678,20 @@
   currency_symbol: "ZK"
   tld: ".zm"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -15
   longitude: 30
   emoji: "🇿🇲"
   states:
     -
       name: "Central"
+      native: "Central"
       code: "02"
       iso3166_2: "ZM-02"
       type: "province"
+      type_es: "provincia"
       latitude: -14.183507
       longitude: 29.0375543
       cities:
@@ -2593,9 +2725,11 @@
           longitude: 30.23522
     -
       name: "Copperbelt"
+      native: "Copperbelt"
       code: "08"
       iso3166_2: "ZM-08"
       type: "province"
+      type_es: "provincia"
       latitude: -13.0214171
       longitude: 27.8876177
       cities:
@@ -2645,9 +2779,11 @@
           longitude: 28.63659
     -
       name: "Eastern"
+      native: "Eastern"
       code: "03"
       iso3166_2: "ZM-03"
       type: "province"
+      type_es: "provincia"
       latitude: -13.6514737
       longitude: 31.9958539
       cities:
@@ -2673,9 +2809,11 @@
           longitude: 31.31975
     -
       name: "Luapula"
+      native: "Luapula"
       code: "04"
       iso3166_2: "ZM-04"
       type: "province"
+      type_es: "provincia"
       latitude: -10.4680244
       longitude: 29.1275609
       cities:
@@ -2701,9 +2839,11 @@
           longitude: 29.55652
     -
       name: "Lusaka"
+      native: "Saturday"
       code: "09"
       iso3166_2: "ZM-09"
       type: "province"
+      type_es: "provincia"
       latitude: -15.357609
       longitude: 29.1653092
       cities:
@@ -2725,9 +2865,11 @@
           longitude: 28.28713
     -
       name: "Muchinga"
+      native: "To go"
       code: "10"
       iso3166_2: "ZM-10"
       type: "province"
+      type_es: "provincia"
       latitude: -11.1005259
       longitude: 31.639964
       cities:
@@ -2753,9 +2895,11 @@
           longitude: 32.745
     -
       name: "Northern"
+      native: "Northern"
       code: "05"
       iso3166_2: "ZM-05"
       type: "province"
+      type_es: "provincia"
       latitude: -9.4514165
       longitude: 30.8881001
       cities:
@@ -2789,9 +2933,11 @@
           longitude: 31.36942
     -
       name: "Northwestern"
+      native: "Northwestern"
       code: "06"
       iso3166_2: "ZM-06"
       type: "province"
+      type_es: "provincia"
       latitude: -13.0050258
       longitude: 24.9042208
       cities:
@@ -2829,9 +2975,11 @@
           longitude: 23.10467
     -
       name: "Southern"
+      native: "Southern"
       code: "07"
       iso3166_2: "ZM-07"
       type: "province"
+      type_es: "provincia"
       latitude: -16.5381715
       longitude: 26.7374997
       cities:
@@ -2885,9 +3033,11 @@
           longitude: 27.46179
     -
       name: "Western"
+      native: "Western"
       code: "01"
       iso3166_2: "ZM-01"
       type: "province"
+      type_es: "provincia"
       latitude: 6.9016086
       longitude: 80.0087746
       cities:

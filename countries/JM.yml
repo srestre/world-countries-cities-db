@@ -12,16 +12,20 @@
   currency_symbol: "J$"
   tld: ".jm"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 18.25
   longitude: -77.5
   emoji: "🇯🇲"
   states:
     -
       name: "Clarendon"
+      native: "Clarendon"
       code: "13"
       iso3166_2: "JM-13"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.9518525
       longitude: -77.2719277
       cities:
@@ -371,9 +375,11 @@
           longitude: -77.30002
     -
       name: "Hanover"
+      native: "Hanover"
       code: "09"
       iso3166_2: "JM-09"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.3850653
       longitude: -78.130993
       cities:
@@ -523,9 +529,11 @@
           longitude: -78.07217
     -
       name: "Kingston"
+      native: "Kingston"
       code: "01"
       iso3166_2: "JM-01"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.9712148
       longitude: -76.7928128
       cities:
@@ -631,9 +639,11 @@
           longitude: -76.79704
     -
       name: "Manchester"
+      native: "Manchester"
       code: "12"
       iso3166_2: "JM-12"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.0499257
       longitude: -77.5110143
       cities:
@@ -939,9 +949,11 @@
           longitude: -77.46582
     -
       name: "Portland"
+      native: "Portland"
       code: "04"
       iso3166_2: "JM-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.1268206
       longitude: -76.5374012
       cities:
@@ -1123,9 +1135,11 @@
           longitude: -76.33876
     -
       name: "Saint Andrew"
+      native: "Saint Andrew"
       code: "02"
       iso3166_2: "JM-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.0589648
       longitude: -76.7607767
       cities:
@@ -1555,9 +1569,11 @@
           longitude: -76.80978
     -
       name: "Saint Ann"
+      native: "Saint Ann"
       code: "06"
       iso3166_2: "JM-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.32993
       longitude: -77.2541816
       cities:
@@ -1779,9 +1795,11 @@
           longitude: -77.22923
     -
       name: "Saint Catherine"
+      native: "Saint Catherine"
       code: "14"
       iso3166_2: "JM-14"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.0471737
       longitude: -77.0333852
       cities:
@@ -1999,9 +2017,11 @@
           longitude: -76.98199
     -
       name: "Saint Elizabeth"
+      native: "Saint Elizabeth"
       code: "11"
       iso3166_2: "JM-11"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.053845
       longitude: -77.7828249
       cities:
@@ -2259,9 +2279,11 @@
           longitude: -77.81067
     -
       name: "Saint James"
+      native: "Saint James"
       code: "08"
       iso3166_2: "JM-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.365809
       longitude: -77.8522037
       cities:
@@ -2563,9 +2585,11 @@
           longitude: -77.91757
     -
       name: "Saint Mary"
+      native: "Saint Mary"
       code: "05"
       iso3166_2: "JM-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.2789179
       longitude: -76.9021868
       cities:
@@ -2751,9 +2775,11 @@
           longitude: -76.92679
     -
       name: "Saint Thomas"
+      native: "Saint Thomas"
       code: "03"
       iso3166_2: "JM-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.9716306
       longitude: -76.4414306
       cities:
@@ -2983,9 +3009,11 @@
           longitude: -76.43983
     -
       name: "Trelawny"
+      native: "Trelawny"
       code: "07"
       iso3166_2: "JM-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.3682128
       longitude: -77.6043615
       cities:
@@ -3143,9 +3171,11 @@
           longitude: -77.53276
     -
       name: "Westmoreland"
+      native: "Westmoreland"
       code: "10"
       iso3166_2: "JM-10"
       type: "parish"
+      type_es: "parroquia"
       latitude: 18.2104026
       longitude: -77.9793211
       cities:

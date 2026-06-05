@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(21, 'Belarus', 'BY', 'BLR', 'Europe', 'Eastern Europe', 'Minsk', 'BYN', 53, 28, '🇧🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(21, 'Belarus', 'Bielorrusia', 'BY', 'BLR', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Minsk', 'BYN', 53, 28, '🇧🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2959, 'Brest', 21, 'BY', 'BR', 'oblast', 52.093751, 23.6851851),
-(2955, 'Gomel', 21, 'BY', 'HO', 'oblast', 52.4238936, 31.0131698),
-(2956, 'Grodno', 21, 'BY', 'HR', 'oblast', 53.6834599, 23.8342648),
-(2957, 'Minsk', 21, 'BY', 'MI', 'oblast', 53.9024716, 27.5618225),
-(2958, 'Minsk', 21, 'BY', 'HM', 'city', 53.9024716, 27.5618225),
-(2954, 'Mogilev', 21, 'BY', 'MA', 'oblast', 53.9090245, 30.3429838),
-(2960, 'Vitebsk', 21, 'BY', 'VI', 'oblast', 55.2381972, 28.7742203);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2959, 'Brest', 'Брэст', 21, 'BY', 'BR', 'oblast', 'óblast', 52.093751, 23.6851851),
+(2955, 'Gomel', 'Гомель', 21, 'BY', 'HO', 'oblast', 'óblast', 52.4238936, 31.0131698),
+(2956, 'Grodno', 'Гродна', 21, 'BY', 'HR', 'oblast', 'óblast', 53.6834599, 23.8342648),
+(2957, 'Minsk', 'Мінск', 21, 'BY', 'MI', 'oblast', 'óblast', 53.9024716, 27.5618225),
+(2958, 'Minsk', 'Мінск', 21, 'BY', 'HM', 'city', 'ciudad', 53.9024716, 27.5618225),
+(2954, 'Mogilev', 'Магілёў', 21, 'BY', 'MA', 'oblast', 'óblast', 53.9090245, 30.3429838),
+(2960, 'Vitebsk', 'Віцебск', 21, 'BY', 'VI', 'oblast', 'óblast', 55.2381972, 28.7742203);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (15805, 'Antopal’', 2959, 21, 52.2038, 24.7863),

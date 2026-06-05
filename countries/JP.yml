@@ -12,16 +12,20 @@
   currency_symbol: "¥"
   tld: ".jp"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 36
   longitude: 138
   emoji: "🇯🇵"
   states:
     -
       name: "Aichi"
+      native: "愛知"
       code: "23"
       iso3166_2: "JP-23"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.9991645
       longitude: 137.254574
       cities:
@@ -307,9 +311,11 @@
           longitude: 136.72451
     -
       name: "Akita"
+      native: "秋田"
       code: "05"
       iso3166_2: "JP-05"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 39.6898802
       longitude: 140.342608
       cities:
@@ -423,9 +429,11 @@
           longitude: 140.54267
     -
       name: "Aomori"
+      native: "青森"
       code: "02"
       iso3166_2: "JP-02"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 40.8222833
       longitude: 140.7472027
       cities:
@@ -515,9 +523,11 @@
           longitude: 140.34963
     -
       name: "Chiba"
+      native: "千葉"
       code: "12"
       iso3166_2: "JP-12"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.549399
       longitude: 140.2647303
       cities:
@@ -783,9 +793,11 @@
           longitude: 140.17912
     -
       name: "Ehime"
+      native: "愛媛"
       code: "38"
       iso3166_2: "JP-38"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.6013646
       longitude: 132.8185275
       cities:
@@ -871,9 +883,11 @@
           longitude: 132.42336
     -
       name: "Fukui"
+      native: "福井"
       code: "18"
       iso3166_2: "JP-18"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.061751
       longitude: 136.2260542
       cities:
@@ -955,9 +969,11 @@
           longitude: 136.08068
     -
       name: "Fukuoka"
+      native: "福岡"
       code: "40"
       iso3166_2: "JP-40"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.6251241
       longitude: 130.6180016
       cities:
@@ -1187,9 +1203,11 @@
           longitude: 130.97108
     -
       name: "Fukushima"
+      native: "福島"
       code: "07"
       iso3166_2: "JP-07"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 37.760777
       longitude: 140.4745807
       cities:
@@ -1315,9 +1333,11 @@
           longitude: 140.6
     -
       name: "Gifu"
+      native: "岐阜"
       code: "21"
       iso3166_2: "JP-21"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.7867449
       longitude: 137.0460777
       cities:
@@ -1463,9 +1483,11 @@
           longitude: 136.74311
     -
       name: "Gunma"
+      native: "群馬"
       code: "10"
       iso3166_2: "JP-10"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.52198
       longitude: 139.033483
       cities:
@@ -1591,9 +1613,11 @@
           longitude: 138.98333
     -
       name: "Hiroshima"
+      native: "広島"
       code: "34"
       iso3166_2: "JP-34"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.3917241
       longitude: 132.4517589
       cities:
@@ -1719,9 +1743,11 @@
           longitude: 132.9
     -
       name: "Hokkaidō"
+      native: "北海道"
       code: "01"
       iso3166_2: "JP-01"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 43.4519831
       longitude: 142.8197834
       cities:
@@ -2043,9 +2069,11 @@
           longitude: 142.11065
     -
       name: "Hyōgo"
+      native: "兵庫県"
       code: "28"
       iso3166_2: "JP-28"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.914934
       longitude: 134.860666
       cities:
@@ -2263,9 +2291,11 @@
           longitude: 134.82551
     -
       name: "Ibaraki"
+      native: "茨城"
       code: "08"
       iso3166_2: "JP-08"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.2871186
       longitude: 140.4240926
       cities:
@@ -2559,9 +2589,11 @@
           longitude: 139.86403
     -
       name: "Ishikawa"
+      native: "石川"
       code: "17"
       iso3166_2: "JP-17"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.9890574
       longitude: 136.8162839
       cities:
@@ -2639,9 +2671,11 @@
           longitude: 136.88757
     -
       name: "Iwate"
+      native: "岩手"
       code: "03"
       iso3166_2: "JP-03"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 39.5713763
       longitude: 141.4253574
       cities:
@@ -2771,9 +2805,11 @@
           longitude: 141.95
     -
       name: "Kagawa"
+      native: "香川"
       code: "37"
       iso3166_2: "JP-37"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.2480104
       longitude: 134.0586579
       cities:
@@ -2839,9 +2875,11 @@
           longitude: 133.77692
     -
       name: "Kagoshima"
+      native: "鹿児島"
       code: "46"
       iso3166_2: "JP-46"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 31.521587
       longitude: 130.5474077
       cities:
@@ -3031,9 +3069,11 @@
           longitude: 130.47942
     -
       name: "Kanagawa"
+      native: "神奈川"
       code: "14"
       iso3166_2: "JP-14"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.4342935
       longitude: 139.374753
       cities:
@@ -3199,9 +3239,11 @@
           longitude: 139.59125
     -
       name: "Kōchi"
+      native: "高知"
       code: "39"
       iso3166_2: "JP-39"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.5680384
       longitude: 133.5394221
       cities:
@@ -3639,9 +3681,11 @@
           longitude: 132.92694444
     -
       name: "Kumamoto"
+      native: "熊本"
       code: "43"
       iso3166_2: "JP-43"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 32.8033909
       longitude: 130.7082737
       cities:
@@ -3755,9 +3799,11 @@
           longitude: 130.74972
     -
       name: "Kyōto"
+      native: "京都"
       code: "26"
       iso3166_2: "JP-26"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.0115754
       longitude: 135.7681441
       cities:
@@ -3859,9 +3905,11 @@
           longitude: 135.7147
     -
       name: "Mie"
+      native: "三重"
       code: "24"
       iso3166_2: "JP-24"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.7339685
       longitude: 136.5154489
       cities:
@@ -3979,9 +4027,11 @@
           longitude: 136.62443
     -
       name: "Miyagi"
+      native: "宮城県"
       code: "04"
       iso3166_2: "JP-04"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 38.3880155
       longitude: 140.9761025
       cities:
@@ -4119,9 +4169,11 @@
           longitude: 141.21487
     -
       name: "Miyazaki"
+      native: "宮崎"
       code: "45"
       iso3166_2: "JP-45"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 32.097681
       longitude: 131.294542
       cities:
@@ -4195,9 +4247,11 @@
           longitude: 131.4
     -
       name: "Nagano"
+      native: "長野"
       code: "20"
       iso3166_2: "JP-20"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.1143945
       longitude: 138.0319015
       cities:
@@ -4363,9 +4417,11 @@
           longitude: 138.24186
     -
       name: "Nagasaki"
+      native: "長崎"
       code: "42"
       iso3166_2: "JP-42"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.1154683
       longitude: 129.7874339
       cities:
@@ -4459,9 +4515,11 @@
           longitude: 130.22828
     -
       name: "Nara"
+      native: "奈良"
       code: "29"
       iso3166_2: "JP-29"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.2963089
       longitude: 135.8816819
       cities:
@@ -4551,9 +4609,11 @@
           longitude: 135.85768
     -
       name: "Niigata"
+      native: "新潟"
       code: "15"
       iso3166_2: "JP-15"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 37.6452283
       longitude: 138.7669125
       cities:
@@ -4735,9 +4795,11 @@
           longitude: 138.88333
     -
       name: "Ōita"
+      native: "大分"
       code: "44"
       iso3166_2: "JP-44"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.1819875
       longitude: 131.4270217
       cities:
@@ -4847,9 +4909,11 @@
           longitude: 131.43219
     -
       name: "Okayama"
+      native: "岡山"
       code: "33"
       iso3166_2: "JP-33"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.8581334
       longitude: 133.7759256
       cities:
@@ -4955,9 +5019,11 @@
           longitude: 134.03181
     -
       name: "Okinawa"
+      native: "沖縄"
       code: "47"
       iso3166_2: "JP-47"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 26.3343738
       longitude: 127.8056597
       cities:
@@ -5039,9 +5105,11 @@
           longitude: 123
     -
       name: "Ōsaka"
+      native: "大阪"
       code: "27"
       iso3166_2: "JP-27"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.6198813
       longitude: 135.490357
       cities:
@@ -5275,9 +5343,11 @@
           longitude: 135.60099
     -
       name: "Saga"
+      native: "佐賀"
       code: "41"
       iso3166_2: "JP-41"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.2639134
       longitude: 130.3008378
       cities:
@@ -5347,9 +5417,11 @@
           longitude: 130.01495
     -
       name: "Saitama"
+      native: "埼玉"
       code: "11"
       iso3166_2: "JP-11"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.9754168
       longitude: 139.4160114
       cities:
@@ -5683,9 +5755,11 @@
           longitude: 139.8609
     -
       name: "Shiga"
+      native: "滋賀"
       code: "25"
       iso3166_2: "JP-25"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.247154
       longitude: 136.109385
       cities:
@@ -5787,9 +5861,11 @@
           longitude: 136.19768
     -
       name: "Shimane"
+      native: "島根"
       code: "32"
       iso3166_2: "JP-32"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.9418212
       longitude: 132.537439
       cities:
@@ -5859,9 +5935,11 @@
           longitude: 133.24224
     -
       name: "Shizuoka"
+      native: "静岡"
       code: "22"
       iso3166_2: "JP-22"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.9751974
       longitude: 138.3831697
       cities:
@@ -6043,9 +6121,11 @@
           longitude: 138.30127
     -
       name: "Tochigi"
+      native: "栃木県"
       code: "09"
       iso3166_2: "JP-09"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.6782167
       longitude: 139.8096549
       cities:
@@ -6183,9 +6263,11 @@
           longitude: 139.89809
     -
       name: "Tokushima"
+      native: "徳島"
       code: "36"
       iso3166_2: "JP-36"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.9196418
       longitude: 134.2509634
       cities:
@@ -6259,9 +6341,11 @@
           longitude: 134.28354
     -
       name: "Tokyo"
+      native: "東京"
       code: "13"
       iso3166_2: "JP-13"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.6768601
       longitude: 139.7638947
       cities:
@@ -6519,9 +6603,11 @@
           longitude: 139.88861
     -
       name: "Tottori"
+      native: "鳥取"
       code: "31"
       iso3166_2: "JP-31"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.3555075
       longitude: 133.8678525
       cities:
@@ -6547,9 +6633,11 @@
           longitude: 133.35873
     -
       name: "Toyama"
+      native: "富山"
       code: "16"
       iso3166_2: "JP-16"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.6958266
       longitude: 137.2137071
       cities:
@@ -6635,9 +6723,11 @@
           longitude: 137.13333
     -
       name: "Wakayama"
+      native: "和歌山"
       code: "30"
       iso3166_2: "JP-30"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.8070292
       longitude: 135.5930743
       cities:
@@ -6707,9 +6797,11 @@
           longitude: 135.19595
     -
       name: "Yamagata"
+      native: "山形"
       code: "06"
       iso3166_2: "JP-06"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 38.4746705
       longitude: 140.083237
       cities:
@@ -6823,9 +6915,11 @@
           longitude: 139.92909
     -
       name: "Yamaguchi"
+      native: "山口"
       code: "35"
       iso3166_2: "JP-35"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.2379614
       longitude: 131.5873845
       cities:
@@ -6915,9 +7009,11 @@
           longitude: 132.13111
     -
       name: "Yamanashi"
+      native: "山梨"
       code: "19"
       iso3166_2: "JP-19"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.6399328
       longitude: 138.6380495
       cities:

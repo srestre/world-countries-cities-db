@@ -12,223 +12,273 @@
   currency_symbol: "Kč"
   tld: ".cz"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 49.75
   longitude: 15.5
   emoji: "🇨🇿"
   states:
     -
       name: "Benešov"
+      native: "Benešov"
       code: "201"
       iso3166_2: "CZ-201"
       type: "district"
+      type_es: "distrito"
       latitude: 49.7818921
       longitude: 14.6869121
       cities:
         []
     -
       name: "Beroun"
+      native: "Beroun"
       code: "202"
       iso3166_2: "CZ-202"
       type: "district"
+      type_es: "distrito"
       latitude: 49.9640292
       longitude: 14.0733907
       cities:
         []
     -
       name: "Blansko"
+      native: "Blansko"
       code: "641"
       iso3166_2: "CZ-641"
       type: "district"
+      type_es: "distrito"
       latitude: 49.3648502
       longitude: 16.6477552
       cities:
         []
     -
       name: "Břeclav"
+      native: "Břeclav"
       code: "644"
       iso3166_2: "CZ-644"
       type: "district"
+      type_es: "distrito"
       latitude: 48.75314
       longitude: 16.8825169
       cities:
         []
     -
       name: "Brno-město"
+      native: "Brno-město"
       code: "642"
       iso3166_2: "CZ-642"
       type: "district"
+      type_es: "distrito"
       latitude: 49.1950602
       longitude: 16.6068371
       cities:
         []
     -
       name: "Brno-venkov"
+      native: "BRNO -VENKOV"
       code: "643"
       iso3166_2: "CZ-643"
       type: "district"
+      type_es: "distrito"
       latitude: 49.1761838
       longitude: 16.3881643
       cities:
         []
     -
       name: "Bruntál"
+      native: "Bruntál"
       code: "801"
       iso3166_2: "CZ-801"
       type: "district"
+      type_es: "distrito"
       latitude: 49.9881767
       longitude: 17.4636941
       cities:
         []
     -
       name: "Česká Lípa"
+      native: "Česká Lípa"
       code: "511"
       iso3166_2: "CZ-511"
       type: "district"
+      type_es: "distrito"
       latitude: 50.6785201
       longitude: 14.5396991
       cities:
         []
     -
       name: "České Budějovice"
+      native: "České Budějovice"
       code: "311"
       iso3166_2: "CZ-311"
       type: "district"
+      type_es: "distrito"
       latitude: 48.9747357
       longitude: 14.474285
       cities:
         []
     -
       name: "Český Krumlov"
+      native: "Český Krumlov"
       code: "312"
       iso3166_2: "CZ-312"
       type: "district"
+      type_es: "distrito"
       latitude: 48.8127354
       longitude: 14.3174657
       cities:
         []
     -
       name: "Cheb"
+      native: "Cheb"
       code: "411"
       iso3166_2: "CZ-411"
       type: "district"
+      type_es: "distrito"
       latitude: 50.0795334
       longitude: 12.3698636
       cities:
         []
     -
       name: "Chomutov"
+      native: "Chomutov"
       code: "422"
       iso3166_2: "CZ-422"
       type: "district"
+      type_es: "distrito"
       latitude: 50.4606456
       longitude: 13.4178324
       cities:
         []
     -
       name: "Chrudim"
+      native: "Chrudim"
       code: "531"
       iso3166_2: "CZ-531"
       type: "district"
+      type_es: "distrito"
       latitude: 49.9511458
       longitude: 15.7947559
       cities:
         []
     -
       name: "Děčín"
+      native: "Děčín"
       code: "421"
       iso3166_2: "CZ-421"
       type: "district"
+      type_es: "distrito"
       latitude: 50.7824196
       longitude: 14.2147221
       cities:
         []
     -
       name: "Domažlice"
+      native: "Domažlice"
       code: "321"
       iso3166_2: "CZ-321"
       type: "district"
+      type_es: "distrito"
       latitude: 49.4397027
       longitude: 12.9311435
       cities:
         []
     -
       name: "Frýdek-Místek"
+      native: "Frýdek-Místek"
       code: "802"
       iso3166_2: "CZ-802"
       type: "district"
+      type_es: "distrito"
       latitude: 49.685635
       longitude: 18.3483416
       cities:
         []
     -
       name: "Havlíčkův Brod"
+      native: "Havlíčkův Brod"
       code: "631"
       iso3166_2: "CZ-631"
       type: "district"
+      type_es: "distrito"
       latitude: 49.6043364
       longitude: 15.5796552
       cities:
         []
     -
       name: "Hodonín"
+      native: "Hodonín"
       code: "645"
       iso3166_2: "CZ-645"
       type: "district"
+      type_es: "distrito"
       latitude: 48.8529391
       longitude: 17.1260025
       cities:
         []
     -
       name: "Hradec Králové"
+      native: "Hradec Králové"
       code: "521"
       iso3166_2: "CZ-521"
       type: "district"
+      type_es: "distrito"
       latitude: 50.2092113
       longitude: 15.8327512
       cities:
         []
     -
       name: "Jablonec nad Nisou"
+      native: "Jablonec nad Nisou"
       code: "512"
       iso3166_2: "CZ-512"
       type: "district"
+      type_es: "distrito"
       latitude: 50.7220528
       longitude: 15.1703135
       cities:
         []
     -
       name: "Jeseník"
+      native: "Jeseník"
       code: "711"
       iso3166_2: "CZ-711"
       type: "district"
+      type_es: "distrito"
       latitude: 50.2246249
       longitude: 17.1980471
       cities:
         []
     -
       name: "Jičín"
+      native: "Jičín"
       code: "522"
       iso3166_2: "CZ-522"
       type: "district"
+      type_es: "distrito"
       latitude: 50.4353325
       longitude: 15.361044
       cities:
         []
     -
       name: "Jihlava"
+      native: "Jihlava"
       code: "632"
       iso3166_2: "CZ-632"
       type: "district"
+      type_es: "distrito"
       latitude: 49.3983782
       longitude: 15.5870415
       cities:
         []
     -
       name: "Jihočeský kraj"
+      native: "Jihočeský kraj"
       code: "31"
       iso3166_2: "CZ-31"
       type: "region"
+      type_es: "región"
       latitude: 49.0864548
       longitude: 14.6001727
       cities:
@@ -642,9 +692,11 @@
           longitude: 14.36613
     -
       name: "Jihomoravský kraj"
+      native: "Jihomoravský kraj"
       code: "64"
       iso3166_2: "CZ-64"
       type: "region"
+      type_es: "región"
       latitude: 49.1249179
       longitude: 16.6827716
       cities:
@@ -1334,18 +1386,22 @@
           longitude: 16.0488
     -
       name: "Jindřichův Hradec"
+      native: "Jindřichův Hradec"
       code: "313"
       iso3166_2: "CZ-313"
       type: "district"
+      type_es: "distrito"
       latitude: 49.1444823
       longitude: 15.0061389
       cities:
         []
     -
       name: "Karlovarský kraj"
+      native: "Karlovarský kraj"
       code: "41"
       iso3166_2: "CZ-41"
       type: "region"
+      type_es: "región"
       latitude: 50.1753532
       longitude: 12.8060863
       cities:
@@ -1535,54 +1591,66 @@
           longitude: 13.16297
     -
       name: "Karlovy Vary"
+      native: "Karlovy Vary"
       code: "412"
       iso3166_2: "CZ-412"
       type: "district"
+      type_es: "distrito"
       latitude: 50.2306216
       longitude: 12.8701437
       cities:
         []
     -
       name: "Karviná"
+      native: "Karviná"
       code: "803"
       iso3166_2: "CZ-803"
       type: "district"
+      type_es: "distrito"
       latitude: 49.8566524
       longitude: 18.5432186
       cities:
         []
     -
       name: "Kladno"
+      native: "Kladno"
       code: "203"
       iso3166_2: "CZ-203"
       type: "district"
+      type_es: "distrito"
       latitude: 50.1478497
       longitude: 14.1025379
       cities:
         []
     -
       name: "Klatovy"
+      native: "Klatovy"
       code: "322"
       iso3166_2: "CZ-322"
       type: "district"
+      type_es: "distrito"
       latitude: 49.3955549
       longitude: 13.2950937
       cities:
         []
     -
       name: "Kolín"
+      native: "Kolín"
       code: "204"
       iso3166_2: "CZ-204"
       type: "district"
+      type_es: "distrito"
       latitude: 50.0288894
       longitude: 15.2011571
       cities:
         []
     -
       name: "Kraj Vysočina"
+      native: "Kraj Vysočina"
       code: "63"
       iso3166_2: "CZ-63"
       type: "region"
+      type_es: "región"
       latitude: 49.3994098
       longitude: 15.5704683
       cities:
@@ -1856,9 +1924,11 @@
           longitude: 15.18824
     -
       name: "Královéhradecký kraj"
+      native: "Královéhradecký kraj"
       code: "52"
       iso3166_2: "CZ-52"
       type: "region"
+      type_es: "región"
       latitude: 50.4093927
       longitude: 15.6850054
       cities:
@@ -2172,36 +2242,44 @@
           longitude: 15.38459
     -
       name: "Kroměříž"
+      native: "Kroměříž"
       code: "721"
       iso3166_2: "CZ-721"
       type: "district"
+      type_es: "distrito"
       latitude: 49.2916582
       longitude: 17.39938
       cities:
         []
     -
       name: "Kutná Hora"
+      native: "Kutná Hora"
       code: "205"
       iso3166_2: "CZ-205"
       type: "district"
+      type_es: "distrito"
       latitude: 49.9486561
       longitude: 15.2681123
       cities:
         []
     -
       name: "Liberec"
+      native: "Liberec"
       code: "513"
       iso3166_2: "CZ-513"
       type: "district"
+      type_es: "distrito"
       latitude: 50.7702648
       longitude: 15.0583947
       cities:
         []
     -
       name: "Liberecký kraj"
+      native: "Liberecký kraj"
       code: "51"
       iso3166_2: "CZ-51"
       type: "region"
+      type_es: "región"
       latitude: 50.747604
       longitude: 14.9903103
       cities:
@@ -2443,45 +2521,55 @@
           longitude: 15.25408
     -
       name: "Litoměřice"
+      native: "Litoměřice"
       code: "423"
       iso3166_2: "CZ-423"
       type: "district"
+      type_es: "distrito"
       latitude: 50.5384197
       longitude: 14.1305458
       cities:
         []
     -
       name: "Louny"
+      native: "Louny"
       code: "424"
       iso3166_2: "CZ-424"
       type: "district"
+      type_es: "distrito"
       latitude: 50.3539812
       longitude: 13.8033551
       cities:
         []
     -
       name: "Mělník"
+      native: "Mělník"
       code: "206"
       iso3166_2: "CZ-206"
       type: "district"
+      type_es: "distrito"
       latitude: 50.3520785
       longitude: 14.4748281
       cities:
         []
     -
       name: "Mladá Boleslav"
+      native: "Mladá Boleslav"
       code: "207"
       iso3166_2: "CZ-207"
       type: "district"
+      type_es: "distrito"
       latitude: 50.4116187
       longitude: 14.9031301
       cities:
         []
     -
       name: "Moravskoslezský kraj"
+      native: "Moravskoslezský kraj"
       code: "80"
       iso3166_2: "CZ-80"
       type: "region"
+      type_es: "región"
       latitude: 49.860275
       longitude: 18.0386541
       cities:
@@ -3083,54 +3171,66 @@
           longitude: 17.59296
     -
       name: "Most"
+      native: "Většina"
       code: "425"
       iso3166_2: "CZ-425"
       type: "district"
+      type_es: "distrito"
       latitude: 50.5032737
       longitude: 13.636112
       cities:
         []
     -
       name: "Náchod"
+      native: "Náchod"
       code: "523"
       iso3166_2: "CZ-523"
       type: "district"
+      type_es: "distrito"
       latitude: 50.4145722
       longitude: 16.1656347
       cities:
         []
     -
       name: "Nový Jičín"
+      native: "Nový Jičín"
       code: "804"
       iso3166_2: "CZ-804"
       type: "district"
+      type_es: "distrito"
       latitude: 49.5943251
       longitude: 18.0135356
       cities:
         []
     -
       name: "Nymburk"
+      native: "Nymburk"
       code: "208"
       iso3166_2: "CZ-208"
       type: "district"
+      type_es: "distrito"
       latitude: 50.1855816
       longitude: 15.0436604
       cities:
         []
     -
       name: "Olomouc"
+      native: "Olomouc"
       code: "712"
       iso3166_2: "CZ-712"
       type: "district"
+      type_es: "distrito"
       latitude: 49.593778
       longitude: 17.2508787
       cities:
         []
     -
       name: "Olomoucký kraj"
+      native: "Olomoucký kraj"
       code: "71"
       iso3166_2: "CZ-71"
       type: "region"
+      type_es: "región"
       latitude: 49.8591058
       longitude: 16.9561267
       cities:
@@ -3592,36 +3692,44 @@
           longitude: 17.09871
     -
       name: "Opava"
+      native: "Opava"
       code: "805"
       iso3166_2: "CZ-805"
       type: "district"
+      type_es: "distrito"
       latitude: 49.9389004
       longitude: 17.9024174
       cities:
         []
     -
       name: "Ostrava-město"
+      native: "Ostrava-město"
       code: "806"
       iso3166_2: "CZ-806"
       type: "district"
+      type_es: "distrito"
       latitude: 49.8349139
       longitude: 18.2820084
       cities:
         []
     -
       name: "Pardubice"
+      native: "Pardubice"
       code: "532"
       iso3166_2: "CZ-532"
       type: "district"
+      type_es: "distrito"
       latitude: 50.0385812
       longitude: 15.7791356
       cities:
         []
     -
       name: "Pardubický kraj"
+      native: "Pardubický kraj"
       code: "53"
       iso3166_2: "CZ-53"
       type: "region"
+      type_es: "región"
       latitude: 49.889819
       longitude: 16.1283254
       cities:
@@ -3927,27 +4035,33 @@
           longitude: 16.46738
     -
       name: "Pelhřimov"
+      native: "Pelhřimov"
       code: "633"
       iso3166_2: "CZ-633"
       type: "district"
+      type_es: "distrito"
       latitude: 49.4306207
       longitude: 15.222983
       cities:
         []
     -
       name: "Písek"
+      native: "Písek"
       code: "314"
       iso3166_2: "CZ-314"
       type: "district"
+      type_es: "distrito"
       latitude: 49.3089887
       longitude: 14.147769
       cities:
         []
     -
       name: "Plzeň-jih"
+      native: "Plzeň-jih"
       code: "324"
       iso3166_2: "CZ-324"
       type: "district"
+      type_es: "distrito"
       latitude: 49.5522421
       longitude: 13.4342614
       cities:
@@ -4309,63 +4423,77 @@
           longitude: 13.37502
     -
       name: "Plzeň-město"
+      native: "Plzeň-město"
       code: "323"
       iso3166_2: "CZ-323"
       type: "district"
+      type_es: "distrito"
       latitude: 49.7477415
       longitude: 13.3775249
       cities:
         []
     -
       name: "Plzeň-sever"
+      native: "Plzeň-sever"
       code: "325"
       iso3166_2: "CZ-325"
       type: "district"
+      type_es: "distrito"
       latitude: 49.8814234
       longitude: 13.2812881
       cities:
         []
     -
       name: "Plzeňský kraj"
+      native: "Plzeňský kraj"
       code: "32"
       iso3166_2: "CZ-32"
       type: "region"
+      type_es: "región"
       latitude: 49.5228102
       longitude: 13.2063118
       cities:
         []
     -
       name: "Prachatice"
+      native: "Prachatice"
       code: "315"
       iso3166_2: "CZ-315"
       type: "district"
+      type_es: "distrito"
       latitude: 49.01091
       longitude: 14.0000005
       cities:
         []
     -
       name: "Praha-východ"
+      native: "Praha-východ"
       code: "209"
       iso3166_2: "CZ-209"
       type: "district"
+      type_es: "distrito"
       latitude: 50.0828112
       longitude: 14.7192179
       cities:
         []
     -
       name: "Praha-západ"
+      native: "Praha-západ"
       code: "20A"
       iso3166_2: "CZ-20A"
       type: "district"
+      type_es: "distrito"
       latitude: 49.998442
       longitude: 14.2634283
       cities:
         []
     -
       name: "Praha, Hlavní město"
+      native: "Praha, Hlavní město"
       code: "10"
       iso3166_2: "CZ-10"
       type: "capital city"
+      type_es: "ciudad capital"
       latitude: 50.0596288
       longitude: 14.4464593
       cities:
@@ -4463,90 +4591,110 @@
           longitude: 14.51667
     -
       name: "Přerov"
+      native: "Přerov"
       code: "714"
       iso3166_2: "CZ-714"
       type: "district"
+      type_es: "distrito"
       latitude: 49.4553775
       longitude: 17.4508621
       cities:
         []
     -
       name: "Příbram"
+      native: "Příbram"
       code: "20B"
       iso3166_2: "CZ-20B"
       type: "district"
+      type_es: "distrito"
       latitude: 49.6901444
       longitude: 14.0103663
       cities:
         []
     -
       name: "Prostějov"
+      native: "Prostějov"
       code: "713"
       iso3166_2: "CZ-713"
       type: "district"
+      type_es: "distrito"
       latitude: 49.4721467
       longitude: 17.1117979
       cities:
         []
     -
       name: "Rakovník"
+      native: "Rakovník"
       code: "20C"
       iso3166_2: "CZ-20C"
       type: "district"
+      type_es: "distrito"
       latitude: 50.106123
       longitude: 13.7396623
       cities:
         []
     -
       name: "Rokycany"
+      native: "Rokycany"
       code: "326"
       iso3166_2: "CZ-326"
       type: "district"
+      type_es: "distrito"
       latitude: 49.8002414
       longitude: 13.6474577
       cities:
         []
     -
       name: "Rychnov nad Kněžnou"
+      native: "Rychnov nad Kněžnou"
       code: "524"
       iso3166_2: "CZ-524"
       type: "district"
+      type_es: "distrito"
       latitude: 50.1659651
       longitude: 16.2776842
       cities:
         []
     -
       name: "Semily"
+      native: "Semily"
       code: "514"
       iso3166_2: "CZ-514"
       type: "district"
+      type_es: "distrito"
       latitude: 50.6051576
       longitude: 15.3281409
       cities:
         []
     -
       name: "Sokolov"
+      native: "Sokolov"
       code: "413"
       iso3166_2: "CZ-413"
       type: "district"
+      type_es: "distrito"
       latitude: 50.1809097
       longitude: 12.6394986
       cities:
         []
     -
       name: "Strakonice"
+      native: "Strakonice"
       code: "316"
       iso3166_2: "CZ-316"
       type: "district"
+      type_es: "distrito"
       latitude: 49.2604043
       longitude: 13.9103085
       cities:
         []
     -
       name: "Středočeský kraj"
+      native: "Středočeský kraj"
       code: "20"
       iso3166_2: "CZ-20"
       type: "region"
+      type_es: "región"
       latitude: 50.0601579
       longitude: 13.8307479
       cities:
@@ -5316,81 +5464,99 @@
           longitude: 14.41769
     -
       name: "Šumperk"
+      native: "Šumperk"
       code: "715"
       iso3166_2: "CZ-715"
       type: "district"
+      type_es: "distrito"
       latitude: 49.9655521
       longitude: 16.9705651
       cities:
         []
     -
       name: "Svitavy"
+      native: "Svitavy"
       code: "533"
       iso3166_2: "CZ-533"
       type: "district"
+      type_es: "distrito"
       latitude: 49.7551629
       longitude: 16.4691861
       cities:
         []
     -
       name: "Tábor"
+      native: "Tábor"
       code: "317"
       iso3166_2: "CZ-317"
       type: "district"
+      type_es: "distrito"
       latitude: 49.4141533
       longitude: 14.6587234
       cities:
         []
     -
       name: "Tachov"
+      native: "Tachov"
       code: "327"
       iso3166_2: "CZ-327"
       type: "district"
+      type_es: "distrito"
       latitude: 49.7987803
       longitude: 12.6361921
       cities:
         []
     -
       name: "Teplice"
+      native: "Teplice"
       code: "426"
       iso3166_2: "CZ-426"
       type: "district"
+      type_es: "distrito"
       latitude: 50.6406644
       longitude: 13.8244461
       cities:
         []
     -
       name: "Třebíč"
+      native: "Třebíč"
       code: "634"
       iso3166_2: "CZ-634"
       type: "district"
+      type_es: "distrito"
       latitude: 49.2147869
       longitude: 15.8795516
       cities:
         []
     -
       name: "Trutnov"
+      native: "Trutnov"
       code: "525"
       iso3166_2: "CZ-525"
       type: "district"
+      type_es: "distrito"
       latitude: 50.5653838
       longitude: 15.9090923
       cities:
         []
     -
       name: "Uherské Hradiště"
+      native: "Uherské Hradiště"
       code: "722"
       iso3166_2: "CZ-722"
       type: "district"
+      type_es: "distrito"
       latitude: 49.0681018
       longitude: 17.4663899
       cities:
         []
     -
       name: "Ústecký kraj"
+      native: "Ústecký kraj"
       code: "42"
       iso3166_2: "CZ-42"
       type: "region"
+      type_es: "región"
       latitude: 50.5663266
       longitude: 13.8206705
       cities:
@@ -5768,54 +5934,66 @@
           longitude: 14.15665
     -
       name: "Ústí nad Labem"
+      native: "Ústí nad Labem"
       code: "427"
       iso3166_2: "CZ-427"
       type: "district"
+      type_es: "distrito"
       latitude: 50.6603327
       longitude: 14.0381357
       cities:
         []
     -
       name: "Ústí nad Orlicí"
+      native: "Ústí nad Orlicí"
       code: "534"
       iso3166_2: "CZ-534"
       type: "district"
+      type_es: "distrito"
       latitude: 49.9721801
       longitude: 16.3996617
       cities:
         []
     -
       name: "Vsetín"
+      native: "Vsetín"
       code: "723"
       iso3166_2: "CZ-723"
       type: "district"
+      type_es: "distrito"
       latitude: 49.3389775
       longitude: 17.9961534
       cities:
         []
     -
       name: "Vyškov"
+      native: "Vyškov"
       code: "646"
       iso3166_2: "CZ-646"
       type: "district"
+      type_es: "distrito"
       latitude: 49.2778194
       longitude: 16.9994446
       cities:
         []
     -
       name: "Žďár nad Sázavou"
+      native: "Žďár nad Sázavou"
       code: "635"
       iso3166_2: "CZ-635"
       type: "district"
+      type_es: "distrito"
       latitude: 49.5643012
       longitude: 15.939103
       cities:
         []
     -
       name: "Zlín"
+      native: "Zlín"
       code: "724"
       iso3166_2: "CZ-724"
       type: "district"
+      type_es: "distrito"
       latitude: 49.226766
       longitude: 17.6667415
       cities:
@@ -6217,18 +6395,22 @@
           longitude: 18.09249
     -
       name: "Zlínský kraj"
+      native: "Zlínský kraj"
       code: "72"
       iso3166_2: "CZ-72"
       type: "region"
+      type_es: "región"
       latitude: 49.19692
       longitude: 17.6460916
       cities:
         []
     -
       name: "Znojmo"
+      native: "Znojmo"
       code: "647"
       iso3166_2: "CZ-647"
       type: "district"
+      type_es: "distrito"
       latitude: 48.8554341
       longitude: 16.0489457
       cities:

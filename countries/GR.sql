@@ -1,36 +1,36 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(85, 'Greece', 'GR', 'GRC', 'Europe', 'Southern Europe', 'Athens', 'EUR', 39, 22, '🇬🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(85, 'Greece', 'Grecia', 'GR', 'GRC', 'Europe', 'Europa', 'Southern Europe', 'Europa del Sur', 'Athens', 'EUR', 39, 22, '🇬🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2116, 'Achaea', 85, 'GR', '13', 'regional unit', 38.0692748, 21.8727304),
-(2122, 'Attica', 85, 'GR', 'I', 'administrative region', 37.7561803, 23.6669006),
-(2128, 'Central Greece', 85, 'GR', 'H', 'administrative region', 38.5624595, 23.1618528),
-(2125, 'Central Macedonia', 85, 'GR', 'B', 'administrative region', 40.6186482, 22.9179536),
-(2109, 'Crete', 85, 'GR', 'M', 'administrative region', 35.2800826, 24.638844),
-(2120, 'East Attica', 85, 'GR', 'A2', 'regional unit', 37.9715827, 23.9767854),
-(2117, 'East Macedonia and Thrace', 85, 'GR', 'A', 'administrative region', 40.8533759, 25.8030499),
-(2110, 'Epirus', 85, 'GR', 'D', 'administrative region', 39.6501917, 20.6908456),
-(2131, 'Ionian Islands', 85, 'GR', 'F', 'administrative region', 37.7891384, 20.7900896),
-(5464, 'North Aegean', 85, 'GR', 'K', 'administrative region', 38.7645361, 24.7011328),
-(2119, 'Peloponnese', 85, 'GR', 'J', 'administrative region', 37.363372, 22.2394984),
-(2118, 'South Aegean', 85, 'GR', 'L', 'administrative region', 37.1501031, 25.4550768),
-(5463, 'Thessaly', 85, 'GR', 'E', 'administrative region', 39.5775845, 21.4078368),
-(2096, 'West Greece', 85, 'GR', 'G', 'administrative region', 38.2529473, 21.7117625),
-(2108, 'West Macedonia', 85, 'GR', 'C', 'administrative region', 40.3870919, 21.4412445);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2116, 'Achaea', 'Αχαΐα', 85, 'GR', '13', 'regional unit', 'unidad regional', 38.0692748, 21.8727304),
+(2122, 'Attica', 'Αττική', 85, 'GR', 'I', 'administrative region', 'región administrativa', 37.7561803, 23.6669006),
+(2128, 'Central Greece', 'Κεντρική Ελλάδα', 85, 'GR', 'H', 'administrative region', 'región administrativa', 38.5624595, 23.1618528),
+(2125, 'Central Macedonia', 'Κεντρική Μακεδονία', 85, 'GR', 'B', 'administrative region', 'región administrativa', 40.6186482, 22.9179536),
+(2109, 'Crete', 'Κρήτη', 85, 'GR', 'M', 'administrative region', 'región administrativa', 35.2800826, 24.638844),
+(2120, 'East Attica', 'Ανατολική Αττική', 85, 'GR', 'A2', 'regional unit', 'unidad regional', 37.9715827, 23.9767854),
+(2117, 'East Macedonia and Thrace', 'Ανατολική Μακεδονία και Θράκη', 85, 'GR', 'A', 'administrative region', 'región administrativa', 40.8533759, 25.8030499),
+(2110, 'Epirus', 'Ήπειρος', 85, 'GR', 'D', 'administrative region', 'región administrativa', 39.6501917, 20.6908456),
+(2131, 'Ionian Islands', 'Επτάνησα', 85, 'GR', 'F', 'administrative region', 'región administrativa', 37.7891384, 20.7900896),
+(5464, 'North Aegean', 'Βόρειο Αιγαίο', 85, 'GR', 'K', 'administrative region', 'región administrativa', 38.7645361, 24.7011328),
+(2119, 'Peloponnese', 'Πελοπόννησος', 85, 'GR', 'J', 'administrative region', 'región administrativa', 37.363372, 22.2394984),
+(2118, 'South Aegean', 'Νότιο Αιγαίο', 85, 'GR', 'L', 'administrative region', 'región administrativa', 37.1501031, 25.4550768),
+(5463, 'Thessaly', 'Θεσσαλία', 85, 'GR', 'E', 'administrative region', 'región administrativa', 39.5775845, 21.4078368),
+(2096, 'West Greece', 'Δυτική Ελλάδα', 85, 'GR', 'G', 'administrative region', 'región administrativa', 38.2529473, 21.7117625),
+(2108, 'West Macedonia', 'Δυτική Μακεδονία', 85, 'GR', 'C', 'administrative region', 'región administrativa', 40.3870919, 21.4412445);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (52399, 'Acharnés', 2122, 85, 38.08333, 23.73333),

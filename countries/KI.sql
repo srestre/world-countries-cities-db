@@ -1,24 +1,24 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(114, 'Kiribati', 'KI', 'KIR', 'Oceania', 'Micronesia', 'Tarawa', 'AUD', 1.41666666, 173, '🇰🇮');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(114, 'Kiribati', 'Kiribati', 'KI', 'KIR', 'Oceania', 'Oceanía', 'Micronesia', 'Micronesia', 'Tarawa', 'AUD', 1.41666666, 173, '🇰🇮');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1831, 'Gilbert', 114, 'KI', 'G', 'island', -1.2394556, 175.2969455),
-(1832, 'Line', 114, 'KI', 'L', 'island', 1.3589779, 172.9311202),
-(1830, 'Phoenix', 114, 'KI', 'P', 'island', -3.7213444, -170.7117052);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1831, 'Gilbert', 'Gilbert', 114, 'KI', 'G', 'island', 'isla', -1.2394556, 175.2969455),
+(1832, 'Line', 'Line', 114, 'KI', 'L', 'island', 'isla', 1.3589779, 172.9311202),
+(1830, 'Phoenix', 'Phoenix', 114, 'KI', 'P', 'island', 'isla', -3.7213444, -170.7117052);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65041, 'Abaiang', 1831, 114, 1.85293, 172.94369),

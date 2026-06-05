@@ -12,16 +12,20 @@
   currency_symbol: "₪"
   tld: ".ps"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 31.9
   longitude: 35.2
   emoji: "🇵🇸"
   states:
     -
       name: "Bethlehem"
+      native: "بيت لحم"
       code: "BTH"
       iso3166_2: "PS-BTH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.7053996
       longitude: 35.1936877
       cities:
@@ -75,9 +79,11 @@
           longitude: 35.2344913
     -
       name: "Deir El Balah"
+      native: "دير البلح"
       code: "DEB"
       iso3166_2: "PS-DEB"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.4202897
       longitude: 34.286164
       cities:
@@ -91,9 +97,11 @@
           longitude: 34.3303313
     -
       name: "Gaza"
+      native: "غزة"
       code: "GZA"
       iso3166_2: "PS-GZA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.4872397
       longitude: 34.149989
       cities:
@@ -107,9 +115,11 @@
           longitude: 34.4462448
     -
       name: "Hebron"
+      native: "الخليل"
       code: "HBN"
       iso3166_2: "PS-HBN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.5326001
       longitude: 35.0639475
       cities:
@@ -187,9 +197,11 @@
           longitude: 35.0695053
     -
       name: "Jenin"
+      native: "جنين"
       code: "JEN"
       iso3166_2: "PS-JEN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.4263761
       longitude: 35.0856887
       cities:
@@ -255,9 +267,11 @@
           longitude: 35.3028793
     -
       name: "Jericho "
+      native: "أريحا"
       code: "JRH"
       iso3166_2: "PS-JRH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.9676425
       longitude: 35.1354279
       cities:
@@ -275,9 +289,11 @@
           longitude: 35.4439082
     -
       name: "Jerusalem (Quds)"
+      native: "القدس"
       code: "JEM"
       iso3166_2: "PS-JEM"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.8020328
       longitude: 34.9599664
       cities:
@@ -323,9 +339,11 @@
           longitude: 35.0896003
     -
       name: "Khan Yunis"
+      native: "خان يونس"
       code: "KYS"
       iso3166_2: "PS-KYS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.3298766
       longitude: 34.2254833
       cities:
@@ -355,9 +373,11 @@
           longitude: 34.3394473
     -
       name: "Nablus"
+      native: "نابلس"
       code: "NBS"
       iso3166_2: "PS-NBS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.2243755
       longitude: 35.2064793
       cities:
@@ -399,9 +419,11 @@
           longitude: 35.1780333
     -
       name: "North Gaza"
+      native: "شمال غزة"
       code: "NGZ"
       iso3166_2: "PS-NGZ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.547506
       longitude: 34.4281409
       cities:
@@ -423,9 +445,11 @@
           longitude: 34.4591413
     -
       name: "Qalqilya"
+      native: "قلقيلية"
       code: "QQA"
       iso3166_2: "PS-QQA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.1810323
       longitude: 34.9936999
       cities:
@@ -447,9 +471,11 @@
           longitude: 34.9609133
     -
       name: "Rafah"
+      native: "رفح"
       code: "RFH"
       iso3166_2: "PS-RFH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.2968899
       longitude: 34.1116685
       cities:
@@ -475,9 +501,11 @@
           longitude: 34.2451672
     -
       name: "Ramallah"
+      native: "رام الله"
       code: "RBH"
       iso3166_2: "PS-RBH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.9430145
       longitude: 34.8645651
       cities:
@@ -543,9 +571,11 @@
           longitude: 35.2677753
     -
       name: "Salfit"
+      native: "سلفيت"
       code: "SLT"
       iso3166_2: "PS-SLT"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.1112272
       longitude: 34.9578769
       cities:
@@ -619,9 +649,11 @@
           longitude: 35.2191153
     -
       name: "Tubas"
+      native: "طوباس"
       code: "TBS"
       iso3166_2: "PS-TBS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.2938043
       longitude: 34.851098
       cities:
@@ -639,9 +671,11 @@
           longitude: 35.3493533
     -
       name: "Tulkarm"
+      native: "طولكرم"
       code: "TKM"
       iso3166_2: "PS-TKM"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.3276672
       longitude: 34.9231108
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".au"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   latitude: -27
   longitude: 133
   emoji: "🇦🇺"
   states:
     -
       name: "Australian Capital Territory"
+      native: "Australian Capital Territory"
       code: "ACT"
       iso3166_2: "AU-ACT"
       type: "territory"
+      type_es: "territorio"
       latitude: -35.4883502
       longitude: 149.0026942
       cities:
@@ -407,9 +411,11 @@
           longitude: 149.10585
     -
       name: "New South Wales"
+      native: "New South Wales"
       code: "NSW"
       iso3166_2: "AU-NSW"
       type: "state"
+      type_es: "estado"
       latitude: -31.8759835
       longitude: 147.2869493
       cities:
@@ -5447,9 +5453,11 @@
           longitude: 151.20857
     -
       name: "Northern Territory"
+      native: "Northern Territory"
       code: "NT"
       iso3166_2: "AU-NT"
       type: "territory"
+      type_es: "territorio"
       latitude: -19.8516101
       longitude: 133.2303375
       cities:
@@ -5791,9 +5799,11 @@
           longitude: 131.00694
     -
       name: "Queensland"
+      native: "Queensland"
       code: "QLD"
       iso3166_2: "AU-QLD"
       type: "state"
+      type_es: "estado"
       latitude: -22.1646782
       longitude: 144.5844903
       cities:
@@ -9223,9 +9233,11 @@
           longitude: 150.7982
     -
       name: "South Australia"
+      native: "South Australia"
       code: "SA"
       iso3166_2: "AU-SA"
       type: "state"
+      type_es: "estado"
       latitude: -30.5343665
       longitude: 135.6301212
       cities:
@@ -11027,9 +11039,11 @@
           longitude: 137.58179
     -
       name: "Tasmania"
+      native: "Tasmania"
       code: "TAS"
       iso3166_2: "AU-TAS"
       type: "state"
+      type_es: "estado"
       latitude: -42.035067
       longitude: 146.6366887
       cities:
@@ -11603,9 +11617,11 @@
           longitude: 147.17067
     -
       name: "Victoria"
+      native: "Victoria"
       code: "VIC"
       iso3166_2: "AU-VIC"
       type: "state"
+      type_es: "estado"
       latitude: -36.5986096
       longitude: 144.6780052
       cities:
@@ -14507,9 +14523,11 @@
           longitude: 145.42755
     -
       name: "Western Australia"
+      native: "Western Australia"
       code: "WA"
       iso3166_2: "AU-WA"
       type: "state"
+      type_es: "estado"
       latitude: -25.2303005
       longitude: 121.0187246
       cities:

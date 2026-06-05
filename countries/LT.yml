@@ -12,34 +12,42 @@
   currency_symbol: "€"
   tld: ".lt"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 56
   longitude: 24
   emoji: "🇱🇹"
   states:
     -
       name: "Akmenė"
+      native: "Akmenė"
       code: "01"
       iso3166_2: "LT-01"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.2455029
       longitude: 22.7471169
       cities:
         []
     -
       name: "Alytus"
+      native: "Alytus"
       code: "03"
       iso3166_2: "LT-03"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.3924677
       longitude: 24.1087607
       cities:
         []
     -
       name: "Alytus"
+      native: "Alytus"
       code: "02"
       iso3166_2: "LT-02"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.3924677
       longitude: 24.1087607
       cities:
@@ -73,135 +81,165 @@
           longitude: 23.69614
     -
       name: "Alytus"
+      native: "Alytus"
       code: "AL"
       iso3166_2: "LT-AL"
       type: "county"
+      type_es: "condado"
       latitude: 54.3924677
       longitude: 24.1087607
       cities:
         []
     -
       name: "Anykščiai"
+      native: "Anykščiai"
       code: "04"
       iso3166_2: "LT-04"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.5257935
       longitude: 25.1061247
       cities:
         []
     -
       name: "Birštonas"
+      native: "Birštonas"
       code: "05"
       iso3166_2: "LT-05"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.5864194
       longitude: 24.0421736
       cities:
         []
     -
       name: "Biržai"
+      native: "Biržai"
       code: "06"
       iso3166_2: "LT-06"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.2017719
       longitude: 24.7560118
       cities:
         []
     -
       name: "Druskininkai"
+      native: "Druskininkai"
       code: "07"
       iso3166_2: "LT-07"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.0171932
       longitude: 23.9772282
       cities:
         []
     -
       name: "Elektrėnai"
+      native: "Elektrėnai"
       code: "08"
       iso3166_2: "LT-08"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.786657
       longitude: 24.6708398
       cities:
         []
     -
       name: "Ignalina"
+      native: "Ignalina"
       code: "09"
       iso3166_2: "LT-09"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.3398975
       longitude: 26.1614043
       cities:
         []
     -
       name: "Jonava"
+      native: "Jonava"
       code: "10"
       iso3166_2: "LT-10"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.0727242
       longitude: 24.2793337
       cities:
         []
     -
       name: "Joniškis"
+      native: "Joniškis"
       code: "11"
       iso3166_2: "LT-11"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.236073
       longitude: 23.6136579
       cities:
         []
     -
       name: "Jurbarkas"
+      native: "Jurbarkas"
       code: "12"
       iso3166_2: "LT-12"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.0777077
       longitude: 22.7646945
       cities:
         []
     -
       name: "Kaišiadorys"
+      native: "Kaišiadorys"
       code: "13"
       iso3166_2: "LT-13"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.8602337
       longitude: 24.4544785
       cities:
         []
     -
       name: "Kalvarija"
+      native: "Kalvarija"
       code: "14"
       iso3166_2: "LT-14"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.3761674
       longitude: 23.1920321
       cities:
         []
     -
       name: "Kaunas"
+      native: "Kaunas"
       code: "KU"
       iso3166_2: "LT-KU"
       type: "county"
+      type_es: "condado"
       latitude: 54.8982139
       longitude: 23.9044817
       cities:
         []
     -
       name: "Kaunas"
+      native: "Kaunas"
       code: "16"
       iso3166_2: "LT-16"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.8982139
       longitude: 23.9044817
       cities:
         []
     -
       name: "Kaunas"
+      native: "Kaunas"
       code: "15"
       iso3166_2: "LT-15"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.8982139
       longitude: 23.9044817
       cities:
@@ -299,45 +337,55 @@
           longitude: 24.44073
     -
       name: "Kazlų Rūda"
+      native: "Kazlų Rūda"
       code: "17"
       iso3166_2: "LT-17"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.7520669
       longitude: 23.4985141
       cities:
         []
     -
       name: "Kėdainiai"
+      native: "Kėdainiai"
       code: "18"
       iso3166_2: "LT-18"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.2887322
       longitude: 23.9758359
       cities:
         []
     -
       name: "Kelmė"
+      native: "Kelmė"
       code: "19"
       iso3166_2: "LT-19"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.6294679
       longitude: 22.9313095
       cities:
         []
     -
       name: "Klaipėda"
+      native: "Klaipėda"
       code: "KL"
       iso3166_2: "LT-KL"
       type: "county"
+      type_es: "condado"
       latitude: 55.7127529
       longitude: 21.1350469
       cities:
         []
     -
       name: "Klaipėda"
+      native: "Klaipėda"
       code: "21"
       iso3166_2: "LT-21"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.7127529
       longitude: 21.1350469
       cities:
@@ -395,45 +443,55 @@
           longitude: 21.70364
     -
       name: "Klaipėdos miestas"
+      native: "Klaipėdos miestas"
       code: "20"
       iso3166_2: "LT-20"
       type: "city municipality"
+      type_es: "municipio urbano"
       latitude: 55.7032943
       longitude: 21.1442795
       cities:
         []
     -
       name: "Kretinga"
+      native: "Kretinga"
       code: "22"
       iso3166_2: "LT-22"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.883842
       longitude: 21.2350919
       cities:
         []
     -
       name: "Kupiškis"
+      native: "Kupiškis"
       code: "23"
       iso3166_2: "LT-23"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.8388909
       longitude: 24.9760431
       cities:
         []
     -
       name: "Lazdijai"
+      native: "Lazdijai"
       code: "24"
       iso3166_2: "LT-24"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.2343267
       longitude: 23.5156505
       cities:
         []
     -
       name: "Marijampolė"
+      native: "Marijampolė"
       code: "25"
       iso3166_2: "LT-25"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.5562536
       longitude: 23.3503665
       cities:
@@ -491,81 +549,99 @@
           longitude: 22.82272
     -
       name: "Marijampolė"
+      native: "Marijampolė"
       code: "MR"
       iso3166_2: "LT-MR"
       type: "county"
+      type_es: "condado"
       latitude: 54.5562536
       longitude: 23.3503665
       cities:
         []
     -
       name: "Mažeikiai"
+      native: "Mažeikiai"
       code: "26"
       iso3166_2: "LT-26"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.3092439
       longitude: 22.341468
       cities:
         []
     -
       name: "Molėtai"
+      native: "Molėtai"
       code: "27"
       iso3166_2: "LT-27"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.2265309
       longitude: 25.4180011
       cities:
         []
     -
       name: "Neringa"
+      native: "Neringa"
       code: "28"
       iso3166_2: "LT-28"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.4756828
       longitude: 21.092587
       cities:
         []
     -
       name: "Pagėgiai"
+      native: "Pagėgiai"
       code: "29"
       iso3166_2: "LT-29"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.133252
       longitude: 21.9104398
       cities:
         []
     -
       name: "Pakruojis"
+      native: "Pakruojis"
       code: "30"
       iso3166_2: "LT-30"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9777084
       longitude: 23.8451797
       cities:
         []
     -
       name: "Palanga"
+      native: "Palanga"
       code: "31"
       iso3166_2: "LT-31"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.920198
       longitude: 21.0677614
       cities:
         []
     -
       name: "Panevėžio miestas"
+      native: "Panevėžio miestas"
       code: "32"
       iso3166_2: "LT-32"
       type: "city municipality"
+      type_es: "municipio urbano"
       latitude: 55.7344985
       longitude: 24.3578055
       cities:
         []
     -
       name: "Panevėžys"
+      native: "Panevėžys"
       code: "33"
       iso3166_2: "LT-33"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.7344985
       longitude: 24.3578055
       cities:
@@ -611,108 +687,132 @@
           longitude: 24.74828
     -
       name: "Panevėžys"
+      native: "Panevėžys"
       code: "PN"
       iso3166_2: "LT-PN"
       type: "county"
+      type_es: "condado"
       latitude: 55.7344985
       longitude: 24.3578055
       cities:
         []
     -
       name: "Pasvalys"
+      native: "Pasvalys"
       code: "34"
       iso3166_2: "LT-34"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.0604619
       longitude: 24.396291
       cities:
         []
     -
       name: "Plungė"
+      native: "Plungė"
       code: "35"
       iso3166_2: "LT-35"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.910784
       longitude: 21.8454069
       cities:
         []
     -
       name: "Prienai"
+      native: "Prienai"
       code: "36"
       iso3166_2: "LT-36"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.638358
       longitude: 23.9468009
       cities:
         []
     -
       name: "Radviliškis"
+      native: "Radviliškis"
       code: "37"
       iso3166_2: "LT-37"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.8108399
       longitude: 23.546487
       cities:
         []
     -
       name: "Raseiniai"
+      native: "Raseiniai"
       code: "38"
       iso3166_2: "LT-38"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.3819499
       longitude: 23.1156129
       cities:
         []
     -
       name: "Rietavas"
+      native: "Rietavas"
       code: "39"
       iso3166_2: "LT-39"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.7229408
       longitude: 21.9270804
       cities:
         []
     -
       name: "Rokiškis"
+      native: "Rokiškis"
       code: "40"
       iso3166_2: "LT-40"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9555039
       longitude: 25.5859249
       cities:
         []
     -
       name: "Šakiai"
+      native: "Šakiai"
       code: "41"
       iso3166_2: "LT-41"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.952671
       longitude: 23.0480199
       cities:
         []
     -
       name: "Šalčininkai"
+      native: "Šalčininkai"
       code: "42"
       iso3166_2: "LT-42"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.309767
       longitude: 25.387564
       cities:
         []
     -
       name: "Šiauliai"
+      native: "Šiauliai"
       code: "SA"
       iso3166_2: "LT-SA"
       type: "county"
+      type_es: "condado"
       latitude: 55.9340823
       longitude: 23.3157775
       cities:
         []
     -
       name: "Šiauliai"
+      native: "Šiauliai"
       code: "43"
       iso3166_2: "LT-43"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9340823
       longitude: 23.3157775
       cities:
@@ -770,63 +870,77 @@
           longitude: 23.25094
     -
       name: "Šiauliai"
+      native: "Šiauliai"
       code: "44"
       iso3166_2: "LT-44"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9340823
       longitude: 23.3157775
       cities:
         []
     -
       name: "Šilalė "
+      native: "Šilalė"
       code: "45"
       iso3166_2: "LT-45"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.49268
       longitude: 22.1845559
       cities:
         []
     -
       name: "Šilutė"
+      native: "Šilutė"
       code: "46"
       iso3166_2: "LT-46"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.3413747
       longitude: 21.4605697
       cities:
         []
     -
       name: "Širvintos"
+      native: "Širvintos"
       code: "47"
       iso3166_2: "LT-47"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.043102
       longitude: 24.956981
       cities:
         []
     -
       name: "Skuodas"
+      native: "Skuodas"
       code: "48"
       iso3166_2: "LT-48"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.2702169
       longitude: 21.5214331
       cities:
         []
     -
       name: "Švenčionys"
+      native: "Švenčionys"
       code: "49"
       iso3166_2: "LT-49"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.1336865
       longitude: 26.1630146
       cities:
         []
     -
       name: "Tauragė"
+      native: "Tauragė"
       code: "TA"
       iso3166_2: "LT-TA"
       type: "county"
+      type_es: "condado"
       latitude: 55.3072586
       longitude: 22.3572939
       cities:
@@ -852,18 +966,22 @@
           longitude: 22.28972
     -
       name: "Tauragė"
+      native: "Tauragė"
       code: "50"
       iso3166_2: "LT-50"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.250366
       longitude: 22.29095
       cities:
         []
     -
       name: "Telšiai"
+      native: "Telšiai"
       code: "51"
       iso3166_2: "LT-51"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9846135
       longitude: 22.2490753
       cities:
@@ -901,45 +1019,55 @@
           longitude: 22.51667
     -
       name: "Telšiai"
+      native: "Telšiai"
       code: "TE"
       iso3166_2: "LT-TE"
       type: "county"
+      type_es: "condado"
       latitude: 55.9846135
       longitude: 22.2490753
       cities:
         []
     -
       name: "Trakai"
+      native: "Trakai"
       code: "52"
       iso3166_2: "LT-52"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.6379113
       longitude: 24.9346894
       cities:
         []
     -
       name: "Ukmergė"
+      native: "Ukmergė"
       code: "53"
       iso3166_2: "LT-53"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.2477293
       longitude: 24.7599714
       cities:
         []
     -
       name: "Utena"
+      native: "Utena"
       code: "54"
       iso3166_2: "LT-54"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.4871833
       longitude: 25.6386221
       cities:
         []
     -
       name: "Utena"
+      native: "Utena"
       code: "UT"
       iso3166_2: "LT-UT"
       type: "county"
+      type_es: "condado"
       latitude: 55.4871833
       longitude: 25.6386221
       cities:
@@ -973,36 +1101,44 @@
           longitude: 26.25
     -
       name: "Varėna"
+      native: "Varėna"
       code: "55"
       iso3166_2: "LT-55"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.2121764
       longitude: 24.5673724
       cities:
         []
     -
       name: "Vilkaviškis"
+      native: "Vilkaviškis"
       code: "56"
       iso3166_2: "LT-56"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.651945
       longitude: 23.035155
       cities:
         []
     -
       name: "Vilnius"
+      native: "Vilnius"
       code: "58"
       iso3166_2: "LT-58"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.6870458
       longitude: 25.2829111
       cities:
         []
     -
       name: "Vilnius"
+      native: "Vilnius"
       code: "57"
       iso3166_2: "LT-57"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.6870458
       longitude: 25.2829111
       cities:
@@ -1124,27 +1260,33 @@
           longitude: 25.38333
     -
       name: "Vilnius"
+      native: "Vilnius"
       code: "VL"
       iso3166_2: "LT-VL"
       type: "county"
+      type_es: "condado"
       latitude: 54.6870458
       longitude: 25.2829111
       cities:
         []
     -
       name: "Visaginas"
+      native: "Visaginas"
       code: "59"
       iso3166_2: "LT-59"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.594118
       longitude: 26.4307954
       cities:
         []
     -
       name: "Zarasai"
+      native: "Zarasai"
       code: "60"
       iso3166_2: "LT-60"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.7309609
       longitude: 26.245295
       cities:

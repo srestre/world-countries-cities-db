@@ -12,16 +12,20 @@
   currency_symbol: "S/."
   tld: ".pe"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -10
   longitude: -76
   emoji: "🇵🇪"
   states:
     -
       name: "Amazonas"
+      native: "Amazonas"
       code: "AMA"
       iso3166_2: "PE-AMA"
       type: "region"
+      type_es: "región"
       latitude: -5
       longitude: -78
       cities:
@@ -71,9 +75,11 @@
           longitude: -78.3285
     -
       name: "Áncash"
+      native: "Áncash"
       code: "ANC"
       iso3166_2: "PE-ANC"
       type: "region"
+      type_es: "región"
       latitude: -9.5
       longitude: -77.75
       cities:
@@ -195,9 +201,11 @@
           longitude: -77.74361
     -
       name: "Apurímac"
+      native: "Apurímac"
       code: "APU"
       iso3166_2: "PE-APU"
       type: "region"
+      type_es: "región"
       latitude: -14
       longitude: -73
       cities:
@@ -239,9 +247,11 @@
           longitude: -73.42917
     -
       name: "Arequipa"
+      native: "Arequipa"
       code: "ARE"
       iso3166_2: "PE-ARE"
       type: "region"
+      type_es: "región"
       latitude: -16.3988667
       longitude: -71.5369607
       cities:
@@ -355,9 +365,11 @@
           longitude: -71.67969
     -
       name: "Ayacucho"
+      native: "Ayacucho"
       code: "AYA"
       iso3166_2: "PE-AYA"
       type: "region"
+      type_es: "región"
       latitude: -13.1638737
       longitude: -74.2235641
       cities:
@@ -435,9 +447,11 @@
           longitude: -73.92438
     -
       name: "Cajamarca"
+      native: "Cajamarca"
       code: "CAJ"
       iso3166_2: "PE-CAJ"
       type: "region"
+      type_es: "región"
       latitude: -7.1617465
       longitude: -78.5127855
       cities:
@@ -515,9 +529,11 @@
           longitude: -79.00139
     -
       name: "Callao"
+      native: "Callao"
       code: "CAL"
       iso3166_2: "PE-CAL"
       type: "region"
+      type_es: "región"
       latitude: -12.0522626
       longitude: -77.1391133
       cities:
@@ -527,9 +543,11 @@
           longitude: -77.11814
     -
       name: "Cusco"
+      native: "Cúsa"
       code: "CUS"
       iso3166_2: "PE-CUS"
       type: "region"
+      type_es: "región"
       latitude: -13.5170887
       longitude: -71.9785356
       cities:
@@ -739,9 +757,11 @@
           longitude: -71.43167
     -
       name: "Huancavelica"
+      native: "Huancavelica"
       code: "HUV"
       iso3166_2: "PE-HUV"
       type: "region"
+      type_es: "región"
       latitude: -12.7861978
       longitude: -74.9764024
       cities:
@@ -783,9 +803,11 @@
           longitude: -74.75
     -
       name: "Huanuco"
+      native: "Huanuco"
       code: "HUC"
       iso3166_2: "PE-HUC"
       type: "region"
+      type_es: "región"
       latitude: -9.9207648
       longitude: -76.2410843
       cities:
@@ -859,9 +881,11 @@
           longitude: -76.59516
     -
       name: "Ica"
+      native: "ICA"
       code: "ICA"
       iso3166_2: "PE-ICA"
       type: "region"
+      type_es: "región"
       latitude: -14.0640967
       longitude: -75.7290915
       cities:
@@ -943,9 +967,11 @@
           longitude: -76.1498
     -
       name: "Junín"
+      native: "Junín"
       code: "JUN"
       iso3166_2: "PE-JUN"
       type: "region"
+      type_es: "región"
       latitude: -11.1581925
       longitude: -75.9926306
       cities:
@@ -1075,9 +1101,11 @@
           longitude: -75.68992
     -
       name: "La Libertad"
+      native: "La Libertad"
       code: "LAL"
       iso3166_2: "PE-LAL"
       type: "region"
+      type_es: "región"
       latitude: -8
       longitude: -78.5
       cities:
@@ -1199,9 +1227,11 @@
           longitude: -78.60355
     -
       name: "Lambayeque"
+      native: "Lambayeque"
       code: "LAM"
       iso3166_2: "PE-LAM"
       type: "region"
+      type_es: "región"
       latitude: -6.703027
       longitude: -79.9065086
       cities:
@@ -1299,9 +1329,11 @@
           longitude: -79.85725
     -
       name: "Lima"
+      native: "Lima"
       code: "LIM"
       iso3166_2: "PE-LIM"
       type: "region"
+      type_es: "región"
       latitude: -12.0621065
       longitude: -77.0365256
       cities:
@@ -1451,9 +1483,11 @@
           longitude: -77.64378
     -
       name: "Loreto"
+      native: "Loreto"
       code: "LOR"
       iso3166_2: "PE-LOR"
       type: "region"
+      type_es: "región"
       latitude: -4
       longitude: -75.166667
       cities:
@@ -1527,9 +1561,11 @@
           longitude: -76.08333333
     -
       name: "Madre de Dios"
+      native: "Madre de Dios"
       code: "MDD"
       iso3166_2: "PE-MDD"
       type: "region"
+      type_es: "región"
       latitude: -12
       longitude: -70.25
       cities:
@@ -1563,9 +1599,11 @@
           longitude: -69.35547
     -
       name: "Moquegua"
+      native: "Moquegua"
       code: "MOQ"
       iso3166_2: "PE-MOQ"
       type: "region"
+      type_es: "región"
       latitude: -17.1927361
       longitude: -70.9328138
       cities:
@@ -1599,9 +1637,11 @@
           longitude: -70.84333
     -
       name: "Municipalidad Metropolitana de Lima"
+      native: "Municipalidad Metropolitana de Lima"
       code: "LMA"
       iso3166_2: "PE-LMA"
       type: "municipality"
+      type_es: "municipio"
       latitude: -12.0464
       longitude: -77.0428
       cities:
@@ -1647,9 +1687,11 @@
           longitude: -76.9937
     -
       name: "Pasco"
+      native: "Pasto"
       code: "PAS"
       iso3166_2: "PE-PAS"
       type: "region"
+      type_es: "región"
       latitude: -10.7246926
       longitude: -76.1657305
       cities:
@@ -1691,9 +1733,11 @@
           longitude: -75.26972
     -
       name: "Piura"
+      native: "Piura"
       code: "PIU"
       iso3166_2: "PE-PIU"
       type: "region"
+      type_es: "región"
       latitude: -5.1971376
       longitude: -80.6267237
       cities:
@@ -1819,9 +1863,11 @@
           longitude: -80.78333
     -
       name: "Puno"
+      native: "Mucho"
       code: "PUN"
       iso3166_2: "PE-PUN"
       type: "region"
+      type_es: "región"
       latitude: -15.8402218
       longitude: -70.0218805
       cities:
@@ -1935,9 +1981,11 @@
           longitude: -69.08333
     -
       name: "San Martín"
+      native: "San Martín"
       code: "SAM"
       iso3166_2: "PE-SAM"
       type: "region"
+      type_es: "región"
       latitude: -6.4095133
       longitude: -76.8712581
       cities:
@@ -2035,9 +2083,11 @@
           longitude: -76.46333
     -
       name: "Tacna"
+      native: "Tacna"
       code: "TAC"
       iso3166_2: "PE-TAC"
       type: "region"
+      type_es: "región"
       latitude: -18.0065679
       longitude: -70.2462741
       cities:
@@ -2095,9 +2145,11 @@
           longitude: -70.36464
     -
       name: "Tumbes"
+      native: "Tumbes"
       code: "TUM"
       iso3166_2: "PE-TUM"
       type: "region"
+      type_es: "región"
       latitude: -3.5707875
       longitude: -80.4596454
       cities:
@@ -2135,9 +2187,11 @@
           longitude: -80.67819
     -
       name: "Ucayali"
+      native: "Ucayali"
       code: "UCA"
       iso3166_2: "PE-UCA"
       type: "region"
+      type_es: "región"
       latitude: -9
       longitude: -73.5
       cities:

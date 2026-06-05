@@ -12,16 +12,20 @@
   currency_symbol: "CFA"
   tld: ".bj"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 9.5
   longitude: 2.25
   emoji: "🇧🇯"
   states:
     -
       name: "Alibori"
+      native: "Alibori"
       code: "AL"
       iso3166_2: "BJ-AL"
       type: "department"
+      type_es: "departamento"
       latitude: 11.4649482
       longitude: 2.7938798
       cities:
@@ -39,9 +43,11 @@
           longitude: 3.38327
     -
       name: "Atakora"
+      native: "Atakora"
       code: "AK"
       iso3166_2: "BJ-AK"
       type: "department"
+      type_es: "departamento"
       latitude: 10.7160515
       longitude: 1.5331527
       cities:
@@ -59,9 +65,11 @@
           longitude: 1.41757
     -
       name: "Atlantique"
+      native: "Atlantique"
       code: "AQ"
       iso3166_2: "BJ-AQ"
       type: "department"
+      type_es: "departamento"
       latitude: 6.540829
       longitude: 2.223095
       cities:
@@ -87,9 +95,11 @@
           longitude: 2.08506
     -
       name: "Borgou"
+      native: "Borgou"
       code: "BO"
       iso3166_2: "BJ-BO"
       type: "department"
+      type_es: "departamento"
       latitude: 9.7097453
       longitude: 2.7422648
       cities:
@@ -115,9 +125,11 @@
           longitude: 2.59753
     -
       name: "Collines"
+      native: "Collines"
       code: "CO"
       iso3166_2: "BJ-CO"
       type: "department"
+      type_es: "departamento"
       latitude: 8.1085479
       longitude: 2.1853101
       cities:
@@ -139,9 +151,11 @@
           longitude: 2.4866
     -
       name: "Donga"
+      native: "Donga"
       code: "DO"
       iso3166_2: "BJ-DO"
       type: "department"
+      type_es: "departamento"
       latitude: 9.2679806
       longitude: 1.7170684
       cities:
@@ -159,9 +173,11 @@
           longitude: 1.66598
     -
       name: "Kouffo"
+      native: "Kouffo"
       code: "KO"
       iso3166_2: "BJ-KO"
       type: "department"
+      type_es: "departamento"
       latitude: 7.1312662
       longitude: 1.7567394
       cities:
@@ -175,9 +191,11 @@
           longitude: 1.78073
     -
       name: "Littoral"
+      native: "Littoral"
       code: "LI"
       iso3166_2: "BJ-LI"
       type: "department"
+      type_es: "departamento"
       latitude: 6.3663195
       longitude: 2.4170608
       cities:
@@ -187,9 +205,11 @@
           longitude: 2.41833
     -
       name: "Mono"
+      native: "Mono"
       code: "MO"
       iso3166_2: "BJ-MO"
       type: "department"
+      type_es: "departamento"
       latitude: 6.457624
       longitude: 1.867408
       cities:
@@ -203,9 +223,11 @@
           longitude: 1.71674
     -
       name: "Ouémé"
+      native: "Ouémé"
       code: "OU"
       iso3166_2: "BJ-OU"
       type: "department"
+      type_es: "departamento"
       latitude: 6.6013531
       longitude: 2.550566
       cities:
@@ -215,9 +237,11 @@
           longitude: 2.60359
     -
       name: "Plateau"
+      native: "Plateau"
       code: "PL"
       iso3166_2: "BJ-PL"
       type: "department"
+      type_es: "departamento"
       latitude: 7.1002602
       longitude: 2.6409144
       cities:
@@ -235,9 +259,11 @@
           longitude: 2.65866
     -
       name: "Zou"
+      native: "Serait"
       code: "ZO"
       iso3166_2: "BJ-ZO"
       type: "department"
+      type_es: "departamento"
       latitude: 7.2834335
       longitude: 2.1227604
       cities:

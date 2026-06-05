@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(186, 'Saint Lucia', 'LC', 'LCA', 'Americas', 'Caribbean', 'Castries', 'XCD', 13.88333333, -60.96666666, '🇱🇨');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(186, 'Saint Lucia', 'Santa Lucía', 'LC', 'LCA', 'Americas', 'América', 'Caribbean', 'Caribe', 'Castries', 'XCD', 13.88333333, -60.96666666, '🇱🇨');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3757, 'Anse la Raye', 186, 'LC', '01', 'district', 13.9459424, -61.0369468),
-(3761, 'Canaries', 186, 'LC', '12', 'district', 13.9040024, -61.0718714),
-(3758, 'Castries', 186, 'LC', '02', 'district', 14.0101094, -60.9874687),
-(3760, 'Choiseul', 186, 'LC', '03', 'district', 13.7750154, -61.048591),
-(3756, 'Dennery', 186, 'LC', '05', 'district', 13.9267393, -60.9190988),
-(3766, 'Gros Islet', 186, 'LC', '06', 'district', 14.0843578, -60.9452794),
-(3759, 'Laborie', 186, 'LC', '07', 'district', 13.7522783, -60.9932889),
-(3762, 'Micoud', 186, 'LC', '08', 'district', 13.8211871, -60.9001934),
-(3764, 'Soufrière', 186, 'LC', '10', 'district', 13.8522266, -61.0238291),
-(3763, 'Vieux Fort', 186, 'LC', '11', 'district', 13.720608, -60.9496433);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3757, 'Anse la Raye', 'Anse la Raye', 186, 'LC', '01', 'district', 'distrito', 13.9459424, -61.0369468),
+(3761, 'Canaries', 'Canaries', 186, 'LC', '12', 'district', 'distrito', 13.9040024, -61.0718714),
+(3758, 'Castries', 'Castries', 186, 'LC', '02', 'district', 'distrito', 14.0101094, -60.9874687),
+(3760, 'Choiseul', 'Choiseul', 186, 'LC', '03', 'district', 'distrito', 13.7750154, -61.048591),
+(3756, 'Dennery', 'Dennery', 186, 'LC', '05', 'district', 'distrito', 13.9267393, -60.9190988),
+(3766, 'Gros Islet', 'Gros islet', 186, 'LC', '06', 'district', 'distrito', 14.0843578, -60.9452794),
+(3759, 'Laborie', 'Labor', 186, 'LC', '07', 'district', 'distrito', 13.7522783, -60.9932889),
+(3762, 'Micoud', 'Micoud', 186, 'LC', '08', 'district', 'distrito', 13.8211871, -60.9001934),
+(3764, 'Soufrière', 'Sulfur', 186, 'LC', '10', 'district', 'distrito', 13.8522266, -61.0238291),
+(3763, 'Vieux Fort', 'Vieux Fort', 186, 'LC', '11', 'district', 'distrito', 13.720608, -60.9496433);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65965, 'Anse La Raye', 3757, 186, 13.94619, -61.03879),

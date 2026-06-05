@@ -12,16 +12,20 @@
   currency_symbol: "FC"
   tld: ".cg"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: -1
   longitude: 15
   emoji: "🇨🇬"
   states:
     -
       name: "Bouenza"
+      native: "Bouenza"
       code: "11"
       iso3166_2: "CG-11"
       type: "department"
+      type_es: "departamento"
       latitude: -4.2868653
       longitude: 13.3972129
       cities:
@@ -35,9 +39,11 @@
           longitude: 13.55
     -
       name: "Brazzaville"
+      native: "Brazzaville"
       code: "BZV"
       iso3166_2: "CG-BZV"
       type: "department"
+      type_es: "departamento"
       latitude: -4.2694407
       longitude: 15.2712256
       cities:
@@ -47,9 +53,11 @@
           longitude: 15.28318
     -
       name: "Cuvette"
+      native: "Cuvette"
       code: "8"
       iso3166_2: "CG-8"
       type: "department"
+      type_es: "departamento"
       latitude: -0.4936855
       longitude: 16.1602013
       cities:
@@ -63,9 +71,11 @@
           longitude: 15.89988
     -
       name: "Cuvette-Ouest"
+      native: "Cuvette-Ouest"
       code: "15"
       iso3166_2: "CG-15"
       type: "department"
+      type_es: "departamento"
       latitude: 0.280252
       longitude: 14.5292599
       cities:
@@ -75,18 +85,22 @@
           longitude: 14.82056
     -
       name: "Kouilou"
+      native: "Kouilou"
       code: "5"
       iso3166_2: "CG-5"
       type: "department"
+      type_es: "departamento"
       latitude: -4.1960964
       longitude: 11.9104388
       cities:
         []
     -
       name: "Lékoumou"
+      native: "Chambre à coucher"
       code: "2"
       iso3166_2: "CG-2"
       type: "department"
+      type_es: "departamento"
       latitude: -3.2315605
       longitude: 13.5211721
       cities:
@@ -96,9 +110,11 @@
           longitude: 13.34985
     -
       name: "Likouala"
+      native: "Likouala"
       code: "7"
       iso3166_2: "CG-7"
       type: "department"
+      type_es: "departamento"
       latitude: 1.6788828
       longitude: 17.4747723
       cities:
@@ -108,9 +124,11 @@
           longitude: 18.05981
     -
       name: "Niari"
+      native: "Quasi-partage"
       code: "9"
       iso3166_2: "CG-9"
       type: "department"
+      type_es: "departamento"
       latitude: -2.9077055
       longitude: 12.3298313
       cities:
@@ -124,9 +142,11 @@
           longitude: 12.70423
     -
       name: "Plateaux"
+      native: "Plateaux"
       code: "14"
       iso3166_2: "CG-14"
       type: "department"
+      type_es: "departamento"
       latitude: -2.1709644
       longitude: 15.2286129
       cities:
@@ -140,9 +160,11 @@
           longitude: 15.86444
     -
       name: "Pointe-Noire"
+      native: "Pointe-Noire"
       code: "16"
       iso3166_2: "CG-16"
       type: "department"
+      type_es: "departamento"
       latitude: -4.7975373
       longitude: 11.8503297
       cities:
@@ -156,9 +178,11 @@
           longitude: 11.86352
     -
       name: "Pool"
+      native: "Pool"
       code: "12"
       iso3166_2: "CG-12"
       type: "department"
+      type_es: "departamento"
       latitude: -3.7298545
       longitude: 15.053872
       cities:
@@ -168,9 +192,11 @@
           longitude: 14.76444
     -
       name: "Sangha"
+      native: "Sangha"
       code: "13"
       iso3166_2: "CG-13"
       type: "department"
+      type_es: "departamento"
       latitude: 1.4284362
       longitude: 15.4222522
       cities:

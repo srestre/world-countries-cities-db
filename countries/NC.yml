@@ -12,16 +12,20 @@
   currency_symbol: "₣"
   tld: ".nc"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -21.5
   longitude: 165.5
   emoji: "🇳🇨"
   states:
     -
       name: "Loyalty Islands Province"
+      native: "Loyalty Islands Province"
       code: "03"
       iso3166_2: "NC-03"
       type: "province"
+      type_es: "provincia"
       latitude: -20.972966
       longitude: 167.2884295
       cities:
@@ -35,9 +39,11 @@
           longitude: 167.9833
     -
       name: "North Province"
+      native: "Province du Nord"
       code: "02"
       iso3166_2: "NC-02"
       type: "province"
+      type_es: "provincia"
       latitude: -20.1472512
       longitude: 164.1237568
       cities:
@@ -55,9 +61,11 @@
           longitude: 165.3293
     -
       name: "South Province"
+      native: "Province du sud"
       code: "01"
       iso3166_2: "NC-01"
       type: "province"
+      type_es: "provincia"
       latitude: -22.2758421
       longitude: 166.6417946
       cities:

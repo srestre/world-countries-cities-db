@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(220, 'Togo', 'TG', 'TGO', 'Africa', 'Western Africa', 'Lome', 'XOF', 8, 1.16666666, '🇹🇬');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(220, 'Togo', 'Togo', 'TG', 'TGO', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Lome', 'XOF', 8, 1.16666666, '🇹🇬');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2575, 'Centrale', 220, 'TG', 'C', 'region', 8.607113, 1.0458554),
-(2579, 'Kara', 220, 'TG', 'K', 'region', 9.541111, 0.7876018),
-(2576, 'Maritime', 220, 'TG', 'M', 'region', 6.5175177, 1.2045805),
-(2577, 'Plateaux', 220, 'TG', 'P', 'region', 7.450501, 1.0892702),
-(2578, 'Savanes', 220, 'TG', 'S', 'region', 10.511559, 0.4653751);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2575, 'Centrale', 'Central', 220, 'TG', 'C', 'region', 'región', 8.607113, 1.0458554),
+(2579, 'Kara', 'Kara', 220, 'TG', 'K', 'region', 'región', 9.541111, 0.7876018),
+(2576, 'Maritime', 'Maritime', 220, 'TG', 'M', 'region', 'región', 6.5175177, 1.2045805),
+(2577, 'Plateaux', 'Plateaux', 220, 'TG', 'P', 'region', 'región', 7.450501, 1.0892702),
+(2578, 'Savanes', 'Savanes', 220, 'TG', 'S', 'region', 'región', 10.511559, 0.4653751);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (105173, 'Sokodé', 2575, 220, 8.98333, 1.13333),

@@ -1,32 +1,32 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(12, 'Armenia', 'AM', 'ARM', 'Asia', 'Western Asia', 'Yerevan', 'AMD', 40, 45, '🇦🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(12, 'Armenia', 'Armenia', 'AM', 'ARM', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Yerevan', 'AMD', 40, 45, '🇦🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2023, 'Aragatsotn', 12, 'AM', 'AG', 'region', 40.2580349, 44.1795089),
-(2024, 'Ararat', 12, 'AM', 'AR', 'region', 39.8553329, 44.6943793),
-(2026, 'Armavir', 12, 'AM', 'AV', 'region', 40.1554631, 44.0372446),
-(2028, 'Gegharkunik', 12, 'AM', 'GR', 'region', 40.2483299, 45.1455126),
-(2033, 'Kotayk', 12, 'AM', 'KT', 'region', 40.4033275, 44.6959923),
-(2029, 'Lori', 12, 'AM', 'LO', 'region', 41.007271, 44.4900113),
-(2031, 'Shirak', 12, 'AM', 'SH', 'region', 40.918594, 43.8403536),
-(2027, 'Syunik', 12, 'AM', 'SU', 'region', 39.3281408, 46.1530296),
-(2032, 'Tavush', 12, 'AM', 'TV', 'region', 40.9176424, 45.4050681),
-(2025, 'Vayots Dzor', 12, 'AM', 'VD', 'region', 39.8019849, 45.4557591),
-(2030, 'Yerevan', 12, 'AM', 'ER', 'city', 40.1777112, 44.5126233);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2023, 'Aragatsotn', 'Արագածոտն', 12, 'AM', 'AG', 'region', 'región', 40.2580349, 44.1795089),
+(2024, 'Ararat', 'Արարատ', 12, 'AM', 'AR', 'region', 'región', 39.8553329, 44.6943793),
+(2026, 'Armavir', 'Armavir', 12, 'AM', 'AV', 'region', 'región', 40.1554631, 44.0372446),
+(2028, 'Gegharkunik', 'Գեղարքունիք', 12, 'AM', 'GR', 'region', 'región', 40.2483299, 45.1455126),
+(2033, 'Kotayk', 'Կոտայք', 12, 'AM', 'KT', 'region', 'región', 40.4033275, 44.6959923),
+(2029, 'Lori', 'Լոռի', 12, 'AM', 'LO', 'region', 'región', 41.007271, 44.4900113),
+(2031, 'Shirak', 'Շիրակ', 12, 'AM', 'SH', 'region', 'región', 40.918594, 43.8403536),
+(2027, 'Syunik', 'Սյուն', 12, 'AM', 'SU', 'region', 'región', 39.3281408, 46.1530296),
+(2032, 'Tavush', 'Տավուշ', 12, 'AM', 'TV', 'region', 'región', 40.9176424, 45.4050681),
+(2025, 'Vayots Dzor', 'Վայոց ձոր', 12, 'AM', 'VD', 'region', 'región', 39.8019849, 45.4557591),
+(2030, 'Yerevan', 'Yerevan', 12, 'AM', 'ER', 'city', 'ciudad', 40.1777112, 44.5126233);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (286, 'Agarakavan', 2023, 12, 40.33069, 44.07233),

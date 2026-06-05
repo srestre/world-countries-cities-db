@@ -1,47 +1,47 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(214, 'Switzerland', 'CH', 'CHE', 'Europe', 'Western Europe', 'Bern', 'CHF', 47, 8, '🇨🇭');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(214, 'Switzerland', 'Suiza', 'CH', 'CHE', 'Europe', 'Europa', 'Western Europe', 'Europa Occidental', 'Bern', 'CHF', 47, 8, '🇨🇭');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1639, 'Aargau', 214, 'CH', 'AG', 'canton', 47.412396, 8.1948321),
-(1655, 'Appenzell Ausserrhoden', 214, 'CH', 'AR', 'canton', 47.3960076, 9.3705839),
-(1649, 'Appenzell Innerrhoden', 214, 'CH', 'AI', 'canton', 47.3007262, 9.3991527),
-(1641, 'Basel-Land', 214, 'CH', 'BL', 'canton', 47.5092938, 7.6588333),
-(4957, 'Basel-Stadt', 214, 'CH', 'BS', 'canton', 47.5579097, 7.5927728),
-(1645, 'Bern', 214, 'CH', 'BE', 'canton', 46.8382351, 7.6004502),
-(1640, 'Fribourg', 214, 'CH', 'FR', 'canton', 46.6789116, 7.1027113),
-(1647, 'Geneva', 214, 'CH', 'GE', 'canton', 46.2256509, 6.1439209),
-(1661, 'Glarus', 214, 'CH', 'GL', 'canton', 47.0411232, 9.0679),
-(1660, 'Graubünden', 214, 'CH', 'GR', 'canton', 46.6960615, 9.6027351),
-(1658, 'Jura', 214, 'CH', 'JU', 'canton', 47.3566699, 7.1598893),
-(1663, 'Lucerne', 214, 'CH', 'LU', 'canton', 47.0908207, 8.1719611),
-(1659, 'Neuchâtel', 214, 'CH', 'NE', 'canton', 46.9899874, 6.9292732),
-(1652, 'Nidwalden', 214, 'CH', 'NW', 'canton', 46.942756, 8.4119773),
-(1650, 'Obwalden', 214, 'CH', 'OW', 'canton', 46.8613857, 8.2067825),
-(1654, 'Schaffhausen', 214, 'CH', 'SH', 'canton', 47.6960491, 8.634513),
-(1653, 'Schwyz', 214, 'CH', 'SZ', 'canton', 47.0207138, 8.6529884),
-(1662, 'Solothurn', 214, 'CH', 'SO', 'canton', 47.31874, 7.6698284),
-(1644, 'St. Gallen', 214, 'CH', 'SG', 'canton', 47.1561047, 9.338323),
-(1657, 'Thurgau', 214, 'CH', 'TG', 'canton', 47.5859649, 9.1428769),
-(1643, 'Ticino', 214, 'CH', 'TI', 'canton', 46.3351913, 8.7525902),
-(1642, 'Uri', 214, 'CH', 'UR', 'canton', 46.7864413, 8.6420159),
-(1648, 'Valais', 214, 'CH', 'VS', 'canton', 46.2303063, 7.6605757),
-(1651, 'Vaud', 214, 'CH', 'VD', 'canton', 46.6356963, 6.5320717),
-(1646, 'Zug', 214, 'CH', 'ZG', 'canton', 47.1661505, 8.5154749),
-(1656, 'Zürich', 214, 'CH', 'ZH', 'canton', 47.4133024, 8.656394);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1639, 'Aargau', 'Aargau', 214, 'CH', 'AG', 'canton', 'cantón', 47.412396, 8.1948321),
+(1655, 'Appenzell Ausserrhoden', 'Appenzell Ausserrhoden', 214, 'CH', 'AR', 'canton', 'cantón', 47.3960076, 9.3705839),
+(1649, 'Appenzell Innerrhoden', 'Appenzell Innerrhoden', 214, 'CH', 'AI', 'canton', 'cantón', 47.3007262, 9.3991527),
+(1641, 'Basel-Land', 'Baselland', 214, 'CH', 'BL', 'canton', 'cantón', 47.5092938, 7.6588333),
+(4957, 'Basel-Stadt', 'Basel-Stadt', 214, 'CH', 'BS', 'canton', 'cantón', 47.5579097, 7.5927728),
+(1645, 'Bern', 'Bern', 214, 'CH', 'BE', 'canton', 'cantón', 46.8382351, 7.6004502),
+(1640, 'Fribourg', 'Friborg', 214, 'CH', 'FR', 'canton', 'cantón', 46.6789116, 7.1027113),
+(1647, 'Geneva', 'Genf', 214, 'CH', 'GE', 'canton', 'cantón', 46.2256509, 6.1439209),
+(1661, 'Glarus', 'Glarus', 214, 'CH', 'GL', 'canton', 'cantón', 47.0411232, 9.0679),
+(1660, 'Graubünden', 'Graubünden', 214, 'CH', 'GR', 'canton', 'cantón', 46.6960615, 9.6027351),
+(1658, 'Jura', 'Jura', 214, 'CH', 'JU', 'canton', 'cantón', 47.3566699, 7.1598893),
+(1663, 'Lucerne', 'Luzerne', 214, 'CH', 'LU', 'canton', 'cantón', 47.0908207, 8.1719611),
+(1659, 'Neuchâtel', 'Neuchâtel', 214, 'CH', 'NE', 'canton', 'cantón', 46.9899874, 6.9292732),
+(1652, 'Nidwalden', 'Nidwalden', 214, 'CH', 'NW', 'canton', 'cantón', 46.942756, 8.4119773),
+(1650, 'Obwalden', 'Obwalden', 214, 'CH', 'OW', 'canton', 'cantón', 46.8613857, 8.2067825),
+(1654, 'Schaffhausen', 'Schaffhausen', 214, 'CH', 'SH', 'canton', 'cantón', 47.6960491, 8.634513),
+(1653, 'Schwyz', 'Schwyz', 214, 'CH', 'SZ', 'canton', 'cantón', 47.0207138, 8.6529884),
+(1662, 'Solothurn', 'Solothurn', 214, 'CH', 'SO', 'canton', 'cantón', 47.31874, 7.6698284),
+(1644, 'St. Gallen', 'St. Gallen', 214, 'CH', 'SG', 'canton', 'cantón', 47.1561047, 9.338323),
+(1657, 'Thurgau', 'Thurgau', 214, 'CH', 'TG', 'canton', 'cantón', 47.5859649, 9.1428769),
+(1643, 'Ticino', 'Ticino', 214, 'CH', 'TI', 'canton', 'cantón', 46.3351913, 8.7525902),
+(1642, 'Uri', 'Uri', 214, 'CH', 'UR', 'canton', 'cantón', 46.7864413, 8.6420159),
+(1648, 'Valais', 'Valais', 214, 'CH', 'VS', 'canton', 'cantón', 46.2303063, 7.6605757),
+(1651, 'Vaud', 'Vaud', 214, 'CH', 'VD', 'canton', 'cantón', 46.6356963, 6.5320717),
+(1646, 'Zug', 'Zug', 214, 'CH', 'ZG', 'canton', 'cantón', 47.1661505, 8.5154749),
+(1656, 'Zürich', 'Zürich', 214, 'CH', 'ZH', 'canton', 'cantón', 47.4133024, 8.656394);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (17357, 'Aarau', 1639, 214, 47.39254, 8.04422),

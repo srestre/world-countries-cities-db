@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(167, 'Pakistan', 'PK', 'PAK', 'Asia', 'Southern Asia', 'Islamabad', 'PKR', 30, 70, '🇵🇰');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(167, 'Pakistan', 'Pakistán', 'PK', 'PAK', 'Asia', 'Asia', 'Southern Asia', 'Asia del Sur', 'Islamabad', 'PKR', 30, 70, '🇵🇰');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3172, 'Azad Kashmir', 167, 'PK', 'JK', 'administered area', 33.84412, 73.796642),
-(3174, 'Balochistan', 167, 'PK', 'BA', 'province', 28, 66),
-(3170, 'Gilgit-Baltistan', 167, 'PK', 'GB', 'administered area', 35.9999972, 75.0000023),
-(3169, 'Islamabad', 167, 'PK', 'IS', 'federal capital territory', 33.6938118, 73.0651511),
-(3171, 'Khyber Pakhtunkhwa', 167, 'PK', 'KP', 'province', 33.712802, 71.2678805),
-(3176, 'Punjab', 167, 'PK', 'PB', 'province', 31, 72),
-(3175, 'Sindh', 167, 'PK', 'SD', 'province', 25.5, 69);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3172, 'Azad Kashmir', 'آزاد کشمیر', 167, 'PK', 'JK', 'administered area', 'área administrada', 33.84412, 73.796642),
+(3174, 'Balochistan', 'بلوچستان', 167, 'PK', 'BA', 'province', 'provincia', 28, 66),
+(3170, 'Gilgit-Baltistan', 'گلگٹ بلتستان', 167, 'PK', 'GB', 'administered area', 'área administrada', 35.9999972, 75.0000023),
+(3169, 'Islamabad', 'اسلام آباد', 167, 'PK', 'IS', 'federal capital territory', 'territorio de la capital federal', 33.6938118, 73.0651511),
+(3171, 'Khyber Pakhtunkhwa', 'خیبر پختوننہوا', 167, 'PK', 'KP', 'province', 'provincia', 33.712802, 71.2678805),
+(3176, 'Punjab', 'پنجاب', 167, 'PK', 'PB', 'province', 'provincia', 31, 72),
+(3175, 'Sindh', 'سندھ', 167, 'PK', 'SD', 'province', 'provincia', 25.5, 69);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (85368, 'Bhimbar', 3172, 167, 32.97465, 74.07846),

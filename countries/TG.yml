@@ -12,16 +12,20 @@
   currency_symbol: "CFA"
   tld: ".tg"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 8
   longitude: 1.16666666
   emoji: "🇹🇬"
   states:
     -
       name: "Centrale"
+      native: "Central"
       code: "C"
       iso3166_2: "TG-C"
       type: "region"
+      type_es: "región"
       latitude: 8.607113
       longitude: 1.0458554
       cities:
@@ -39,9 +43,11 @@
           longitude: 1.41667
     -
       name: "Kara"
+      native: "Kara"
       code: "K"
       iso3166_2: "TG-K"
       type: "region"
+      type_es: "región"
       latitude: 9.541111
       longitude: 0.7876018
       cities:
@@ -75,9 +81,11 @@
           longitude: 0.75
     -
       name: "Maritime"
+      native: "Maritime"
       code: "M"
       iso3166_2: "TG-M"
       type: "region"
+      type_es: "región"
       latitude: 6.5175177
       longitude: 1.2045805
       cities:
@@ -103,9 +111,11 @@
           longitude: 1.53333
     -
       name: "Plateaux"
+      native: "Plateaux"
       code: "P"
       iso3166_2: "TG-P"
       type: "region"
+      type_es: "región"
       latitude: 7.450501
       longitude: 1.0892702
       cities:
@@ -131,9 +141,11 @@
           longitude: 1.16667
     -
       name: "Savanes"
+      native: "Savanes"
       code: "S"
       iso3166_2: "TG-S"
       type: "region"
+      type_es: "región"
       latitude: 10.511559
       longitude: 0.4653751
       cities:

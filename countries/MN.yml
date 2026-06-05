@@ -12,16 +12,20 @@
   currency_symbol: "₮"
   tld: ".mn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 46
   longitude: 105
   emoji: "🇲🇳"
   states:
     -
       name: "Arkhangai"
+      native: "Архангай"
       code: "073"
       iso3166_2: "MN-073"
       type: "province"
+      type_es: "provincia"
       latitude: 47.862646
       longitude: 101.0316283
       cities:
@@ -31,9 +35,11 @@
           longitude: 101.45417
     -
       name: "Bayan-Ölgii"
+      native: "Баян-Өлгий"
       code: "071"
       iso3166_2: "MN-071"
       type: "province"
+      type_es: "provincia"
       latitude: 48.5470083
       longitude: 89.8549358
       cities:
@@ -51,9 +57,11 @@
           longitude: 89.14358
     -
       name: "Bayankhongor"
+      native: "Баянхонгор"
       code: "069"
       iso3166_2: "MN-069"
       type: "province"
+      type_es: "provincia"
       latitude: 45.2380937
       longitude: 99.5146799
       cities:
@@ -63,9 +71,11 @@
           longitude: 100.71806
     -
       name: "Bulgan"
+      native: "Булган"
       code: "067"
       iso3166_2: "MN-067"
       type: "province"
+      type_es: "provincia"
       latitude: 48.9521438
       longitude: 103.3965591
       cities:
@@ -75,9 +85,11 @@
           longitude: 103.53472
     -
       name: "Darkhan-Uul"
+      native: "Дархан-Уул"
       code: "037"
       iso3166_2: "MN-037"
       type: "province"
+      type_es: "provincia"
       latitude: 49.3767291
       longitude: 106.2901384
       cities:
@@ -87,9 +99,11 @@
           longitude: 105.92278
     -
       name: "Dornod"
+      native: "Дорнод"
       code: "061"
       iso3166_2: "MN-061"
       type: "province"
+      type_es: "provincia"
       latitude: 47.6772781
       longitude: 115.2177155
       cities:
@@ -103,18 +117,22 @@
           longitude: 115.72526
     -
       name: "Dornogovi"
+      native: "Дорноговь"
       code: "063"
       iso3166_2: "MN-063"
       type: "province"
+      type_es: "provincia"
       latitude: 44.4179637
       longitude: 109.7783753
       cities:
         []
     -
       name: "Dundgovi"
+      native: "Дундговь"
       code: "059"
       iso3166_2: "MN-059"
       type: "province"
+      type_es: "provincia"
       latitude: 45.5186722
       longitude: 106.2611562
       cities:
@@ -124,9 +142,11 @@
           longitude: 106.27083
     -
       name: "Govi-Altai"
+      native: "Говь-Алтай"
       code: "065"
       iso3166_2: "MN-065"
       type: "province"
+      type_es: "provincia"
       latitude: 45.3463139
       longitude: 95.9325806
       cities:
@@ -136,9 +156,11 @@
           longitude: 96.25833
     -
       name: "Govisümber"
+      native: "Говьсүмбэр"
       code: "064"
       iso3166_2: "MN-064"
       type: "province"
+      type_es: "provincia"
       latitude: 46.4610827
       longitude: 108.5173101
       cities:
@@ -148,9 +170,11 @@
           longitude: 108.36111
     -
       name: "Khentii"
+      native: "Хэнтий"
       code: "039"
       iso3166_2: "MN-039"
       type: "province"
+      type_es: "provincia"
       latitude: 47.885981
       longitude: 110.4201043
       cities:
@@ -160,9 +184,11 @@
           longitude: 110.65556
     -
       name: "Khovd"
+      native: "Ховд"
       code: "043"
       iso3166_2: "MN-043"
       type: "province"
+      type_es: "provincia"
       latitude: 46.8997977
       longitude: 92.2959651
       cities:
@@ -180,9 +206,11 @@
           longitude: 92.02612
     -
       name: "Khövsgöl"
+      native: "Хөвсгөл"
       code: "041"
       iso3166_2: "MN-041"
       type: "province"
+      type_es: "provincia"
       latitude: 50.2206196
       longitude: 99.9170492
       cities:
@@ -204,9 +232,11 @@
           longitude: 100.66257
     -
       name: "Ömnögovi"
+      native: "Өмнөговь"
       code: "053"
       iso3166_2: "MN-053"
       type: "province"
+      type_es: "provincia"
       latitude: 43.282363
       longitude: 104.1133864
       cities:
@@ -224,9 +254,11 @@
           longitude: 105.0564
     -
       name: "Orkhon"
+      native: "Орхон"
       code: "035"
       iso3166_2: "MN-035"
       type: "province"
+      type_es: "provincia"
       latitude: 49.0243744
       longitude: 104.2998863
       cities:
@@ -236,9 +268,11 @@
           longitude: 104.08333
     -
       name: "Övörkhangai"
+      native: "Өвөрхангай"
       code: "055"
       iso3166_2: "MN-055"
       type: "province"
+      type_es: "provincia"
       latitude: 45.8297039
       longitude: 102.7237769
       cities:
@@ -264,9 +298,11 @@
           longitude: 101.45977
     -
       name: "Selenge"
+      native: "Сэлэнгэ"
       code: "049"
       iso3166_2: "MN-049"
       type: "province"
+      type_es: "provincia"
       latitude: 49.3910136
       longitude: 107.0629034
       cities:
@@ -280,9 +316,11 @@
           longitude: 106.20778
     -
       name: "Sükhbaatar"
+      native: "Сүхбаатар"
       code: "051"
       iso3166_2: "MN-051"
       type: "province"
+      type_es: "provincia"
       latitude: 46.2093417
       longitude: 113.5077196
       cities:
@@ -292,9 +330,11 @@
           longitude: 113.27917
     -
       name: "Töv"
+      native: "Төв"
       code: "047"
       iso3166_2: "MN-047"
       type: "province"
+      type_es: "provincia"
       latitude: 47.4692538
       longitude: 106.5525161
       cities:
@@ -320,9 +360,11 @@
           longitude: 106.73706
     -
       name: "Ulaanbaatar"
+      native: "Улаанбаатар"
       code: "001"
       iso3166_2: "MN-001"
       type: "capital city"
+      type_es: "ciudad capital"
       latitude: 47.9184676
       longitude: 106.9177016
       cities:
@@ -332,9 +374,11 @@
           longitude: 106.7367222
     -
       name: "Uvs"
+      native: "Увс"
       code: "046"
       iso3166_2: "MN-046"
       type: "province"
+      type_es: "provincia"
       latitude: 49.6313887
       longitude: 92.9558186
       cities:
@@ -344,9 +388,11 @@
           longitude: 92.06667
     -
       name: "Zavkhan"
+      native: "Завхан"
       code: "057"
       iso3166_2: "MN-057"
       type: "province"
+      type_es: "provincia"
       latitude: 48.3133355
       longitude: 96.2850506
       cities:

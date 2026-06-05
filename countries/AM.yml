@@ -12,16 +12,20 @@
   currency_symbol: "֏"
   tld: ".am"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 40
   longitude: 45
   emoji: "🇦🇲"
   states:
     -
       name: "Aragatsotn"
+      native: "Արագածոտն"
       code: "AG"
       iso3166_2: "AM-AG"
       type: "region"
+      type_es: "región"
       latitude: 40.2580349
       longitude: 44.1795089
       cities:
@@ -107,9 +111,11 @@
           longitude: 44.4389
     -
       name: "Ararat"
+      native: "Արարատ"
       code: "AR"
       iso3166_2: "AM-AR"
       type: "region"
+      type_es: "región"
       latitude: 39.8553329
       longitude: 44.6943793
       cities:
@@ -327,9 +333,11 @@
           longitude: 44.39447
     -
       name: "Armavir"
+      native: "Armavir"
       code: "AV"
       iso3166_2: "AM-AV"
       type: "region"
+      type_es: "región"
       latitude: 40.1554631
       longitude: 44.0372446
       cities:
@@ -551,9 +559,11 @@
           longitude: 44.21948
     -
       name: "Gegharkunik"
+      native: "Գեղարքունիք"
       code: "GR"
       iso3166_2: "AM-GR"
       type: "region"
+      type_es: "región"
       latitude: 40.2483299
       longitude: 45.1455126
       cities:
@@ -703,9 +713,11 @@
           longitude: 45.19209
     -
       name: "Kotayk"
+      native: "Կոտայք"
       code: "KT"
       iso3166_2: "AM-KT"
       type: "region"
+      type_es: "región"
       latitude: 40.4033275
       longitude: 44.6959923
       cities:
@@ -839,9 +851,11 @@
           longitude: 44.79028
     -
       name: "Lori"
+      native: "Լոռի"
       code: "LO"
       iso3166_2: "AM-LO"
       type: "region"
+      type_es: "región"
       latitude: 41.007271
       longitude: 44.4900113
       cities:
@@ -991,9 +1005,11 @@
           longitude: 44.63155
     -
       name: "Shirak"
+      native: "Շիրակ"
       code: "SH"
       iso3166_2: "AM-SH"
       type: "region"
+      type_es: "región"
       latitude: 40.918594
       longitude: 43.8403536
       cities:
@@ -1103,9 +1119,11 @@
           longitude: 43.74722
     -
       name: "Syunik"
+      native: "Սյուն"
       code: "SU"
       iso3166_2: "AM-SU"
       type: "region"
+      type_es: "región"
       latitude: 39.3281408
       longitude: 46.1530296
       cities:
@@ -1167,9 +1185,11 @@
           longitude: 46.32063
     -
       name: "Tavush"
+      native: "Տավուշ"
       code: "TV"
       iso3166_2: "AM-TV"
       type: "region"
+      type_es: "región"
       latitude: 40.9176424
       longitude: 45.4050681
       cities:
@@ -1243,9 +1263,11 @@
           longitude: 45.06381
     -
       name: "Vayots Dzor"
+      native: "Վայոց ձոր"
       code: "VD"
       iso3166_2: "AM-VD"
       type: "region"
+      type_es: "región"
       latitude: 39.8019849
       longitude: 45.4557591
       cities:
@@ -1307,9 +1329,11 @@
           longitude: 45.51111
     -
       name: "Yerevan"
+      native: "Yerevan"
       code: "ER"
       iso3166_2: "AM-ER"
       type: "city"
+      type_es: "ciudad"
       latitude: 40.1777112
       longitude: 44.5126233
       cities:

@@ -1,32 +1,32 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(166, 'Oman', 'OM', 'OMN', 'Asia', 'Western Asia', 'Muscat', 'OMR', 21, 57, '🇴🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(166, 'Oman', 'Omán', 'OM', 'OMN', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Muscat', 'OMR', 21, 57, '🇴🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3058, 'Ad Dakhiliyah', 166, 'OM', 'DA', 'governorate', 22.2259752, 57.3692722),
-(3047, 'Ad Dhahirah', 166, 'OM', 'ZA', 'governorate', 22.6505232, 56.0616295),
-(3048, 'Al Batinah North', 166, 'OM', 'BS', 'governorate', 24.2371879, 56.5701198),
-(3049, 'Al Batinah South', 166, 'OM', 'BJ', 'governorate', 23.3673911, 57.4737863),
-(3059, 'Al Buraimi', 166, 'OM', 'BU', 'governorate', 24.1614948, 56.1464102),
-(3056, 'Al Wusta', 166, 'OM', 'WU', 'governorate', 19.7250347, 56.4313671),
-(3053, 'Ash Sharqiyah North', 166, 'OM', 'SS', 'governorate', 22.2024738, 58.5159072),
-(3054, 'Ash Sharqiyah South', 166, 'OM', 'SJ', 'governorate', 21.909878, 59.3078117),
-(3057, 'Dhofar', 166, 'OM', 'ZU', 'governorate', 18.3368829, 54.2092994),
-(3052, 'Musandam', 166, 'OM', 'MU', 'governorate', 26.1523215, 56.3294895),
-(3055, 'Muscat', 166, 'OM', 'MA', 'governorate', 23.6123628, 58.5938134);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3058, 'Ad Dakhiliyah', 'الداخلية', 166, 'OM', 'DA', 'governorate', 'gobernación', 22.2259752, 57.3692722),
+(3047, 'Ad Dhahirah', 'الظاهرة', 166, 'OM', 'ZA', 'governorate', 'gobernación', 22.6505232, 56.0616295),
+(3048, 'Al Batinah North', 'شمال الباطنة', 166, 'OM', 'BS', 'governorate', 'gobernación', 24.2371879, 56.5701198),
+(3049, 'Al Batinah South', 'جنوب الباطنة', 166, 'OM', 'BJ', 'governorate', 'gobernación', 23.3673911, 57.4737863),
+(3059, 'Al Buraimi', 'البريمي', 166, 'OM', 'BU', 'governorate', 'gobernación', 24.1614948, 56.1464102),
+(3056, 'Al Wusta', 'الوسطى', 166, 'OM', 'WU', 'governorate', 'gobernación', 19.7250347, 56.4313671),
+(3053, 'Ash Sharqiyah North', 'شمال الشرقية', 166, 'OM', 'SS', 'governorate', 'gobernación', 22.2024738, 58.5159072),
+(3054, 'Ash Sharqiyah South', 'جنوب الشرقية', 166, 'OM', 'SJ', 'governorate', 'gobernación', 21.909878, 59.3078117),
+(3057, 'Dhofar', 'ظفار', 166, 'OM', 'ZU', 'governorate', 'gobernación', 18.3368829, 54.2092994),
+(3052, 'Musandam', 'مسندم', 166, 'OM', 'MU', 'governorate', 'gobernación', 26.1523215, 56.3294895),
+(3055, 'Muscat', 'المسكات عنب طيب الشذا', 166, 'OM', 'MA', 'governorate', 'gobernación', 23.6123628, 58.5938134);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (79926, 'Adam', 3058, 166, 22.37934, 57.52718),

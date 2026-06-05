@@ -12,16 +12,20 @@
   currency_symbol: "ден"
   tld: ".mk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 41.83333333
   longitude: 22
   emoji: "🇲🇰"
   states:
     -
       name: "Aerodrom"
+      native: "Аеродром"
       code: "801"
       iso3166_2: "MK-801"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9678028
       longitude: 21.509022
       cities:
@@ -31,9 +35,11 @@
           longitude: 21.45835
     -
       name: "Aračinovo"
+      native: "Арачиново"
       code: "802"
       iso3166_2: "MK-802"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0252965
       longitude: 21.5577659
       cities:
@@ -43,9 +49,11 @@
           longitude: 21.56194
     -
       name: "Berovo"
+      native: "Берово"
       code: "201"
       iso3166_2: "MK-201"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.6697382
       longitude: 22.8173735
       cities:
@@ -63,9 +71,11 @@
           longitude: 22.79278
     -
       name: "Bitola"
+      native: "Битола"
       code: "501"
       iso3166_2: "MK-501"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.0363302
       longitude: 21.3321974
       cities:
@@ -95,9 +105,11 @@
           longitude: 21.40967
     -
       name: "Bogdanci"
+      native: "Богданци"
       code: "401"
       iso3166_2: "MK-401"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.1869616
       longitude: 22.5960268
       cities:
@@ -111,9 +123,11 @@
           longitude: 22.5775
     -
       name: "Bogovinje"
+      native: "Боговиње"
       code: "601"
       iso3166_2: "MK-601"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9236371
       longitude: 20.9163887
       cities:
@@ -131,9 +145,11 @@
           longitude: 20.92894
     -
       name: "Bosilovo"
+      native: "Босилово"
       code: "402"
       iso3166_2: "MK-402"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4815119
       longitude: 22.7753815
       cities:
@@ -151,9 +167,11 @@
           longitude: 22.79536
     -
       name: "Brvenica"
+      native: "Брвеница"
       code: "602"
       iso3166_2: "MK-602"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9681482
       longitude: 20.9819586
       cities:
@@ -175,9 +193,11 @@
           longitude: 21.01601
     -
       name: "Butel"
+      native: "Бутел"
       code: "803"
       iso3166_2: "MK-803"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0895068
       longitude: 21.463361
       cities:
@@ -191,9 +211,11 @@
           longitude: 21.44778
     -
       name: "Čair"
+      native: "Чаир"
       code: "815"
       iso3166_2: "MK-815"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0106711
       longitude: 21.4382077
       cities:
@@ -203,9 +225,11 @@
           longitude: 21.44111
     -
       name: "Čaška"
+      native: "Чашка"
       code: "109"
       iso3166_2: "MK-109"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.647438
       longitude: 21.6914115
       cities:
@@ -219,18 +243,22 @@
           longitude: 21.66222
     -
       name: "Centar"
+      native: "Центар"
       code: "814"
       iso3166_2: "MK-814"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9942955
       longitude: 21.4302494
       cities:
         []
     -
       name: "Centar Župa"
+      native: "Центар Жупа"
       code: "313"
       iso3166_2: "MK-313"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4652259
       longitude: 20.5930548
       cities:
@@ -240,9 +268,11 @@
           longitude: 20.55945
     -
       name: "Češinovo-Obleševo"
+      native: "Чешиново-Облешево"
       code: "210"
       iso3166_2: "MK-210"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.8753449
       longitude: 22.2900045
       cities:
@@ -256,9 +286,11 @@
           longitude: 22.33389
     -
       name: "Čučer-Sandevo"
+      native: "Чучер-Сандево"
       code: "816"
       iso3166_2: "MK-816"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0994869
       longitude: 21.3868611
       cities:
@@ -268,18 +300,22 @@
           longitude: 21.38222
     -
       name: "Debar"
+      native: "Дебар"
       code: "303"
       iso3166_2: "MK-303"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.5230655
       longitude: 20.5238389
       cities:
         []
     -
       name: "Debarca"
+      native: "Дебарца"
       code: "304"
       iso3166_2: "MK-304"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9964319
       longitude: 21.4239442
       cities:
@@ -293,9 +329,11 @@
           longitude: 20.77414
     -
       name: "Delčevo"
+      native: "Делчево"
       code: "203"
       iso3166_2: "MK-203"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9668344
       longitude: 22.7767722
       cities:
@@ -305,9 +343,11 @@
           longitude: 22.76944
     -
       name: "Demir Hisar"
+      native: "Демир Хисар"
       code: "502"
       iso3166_2: "MK-502"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.2198967
       longitude: 21.2020872
       cities:
@@ -325,9 +365,11 @@
           longitude: 21.15357
     -
       name: "Demir Kapija"
+      native: "Демир Капија"
       code: "103"
       iso3166_2: "MK-103"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4087136
       longitude: 22.2418571
       cities:
@@ -337,9 +379,11 @@
           longitude: 22.24631
     -
       name: "Dojran"
+      native: "Дојран"
       code: "406"
       iso3166_2: "MK-406"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.2253118
       longitude: 22.7040294
       cities:
@@ -349,9 +393,11 @@
           longitude: 22.7203
     -
       name: "Dolneni"
+      native: "Долнени"
       code: "503"
       iso3166_2: "MK-503"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4818058
       longitude: 21.4060444
       cities:
@@ -377,9 +423,11 @@
           longitude: 21.29078
     -
       name: "Gazi Baba"
+      native: "Гази Баба"
       code: "804"
       iso3166_2: "MK-804"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9984446
       longitude: 21.4737249
       cities:
@@ -389,9 +437,11 @@
           longitude: 21.50972
     -
       name: "Gevgelija"
+      native: "Гевгелија"
       code: "405"
       iso3166_2: "MK-405"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.1388664
       longitude: 22.5033192
       cities:
@@ -405,9 +455,11 @@
           longitude: 22.43641
     -
       name: "Gjorče Petrov"
+      native: "Ѓорче Петров"
       code: "805"
       iso3166_2: "MK-805"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0174648
       longitude: 21.3642753
       cities:
@@ -417,9 +469,11 @@
           longitude: 21.35306
     -
       name: "Gostivar"
+      native: "Гостивар"
       code: "604"
       iso3166_2: "MK-604"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.7920222
       longitude: 20.9081703
       cities:
@@ -449,9 +503,11 @@
           longitude: 20.83917
     -
       name: "Gradsko"
+      native: "Градско"
       code: "102"
       iso3166_2: "MK-102"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.6133568
       longitude: 21.886077
       cities:
@@ -461,9 +517,11 @@
           longitude: 21.94278
     -
       name: "Ilinden"
+      native: "Илинден"
       code: "807"
       iso3166_2: "MK-807"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9957443
       longitude: 21.5676975
       cities:
@@ -493,9 +551,11 @@
           longitude: 21.55694
     -
       name: "Jegunovce"
+      native: "Јегуновце"
       code: "606"
       iso3166_2: "MK-606"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.074072
       longitude: 21.1220478
       cities:
@@ -509,9 +569,11 @@
           longitude: 21.11694
     -
       name: "Karbinci"
+      native: "Карбинци"
       code: "205"
       iso3166_2: "MK-205"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.8180159
       longitude: 22.2324758
       cities:
@@ -521,9 +583,11 @@
           longitude: 22.23529
     -
       name: "Karpoš"
+      native: "Карпош"
       code: "808"
       iso3166_2: "MK-808"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0062279
       longitude: 21.3862569
       cities:
@@ -533,9 +597,11 @@
           longitude: 21.43141
     -
       name: "Kavadarci"
+      native: "Кавадарци"
       code: "104"
       iso3166_2: "MK-104"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4332802
       longitude: 22.0122593
       cities:
@@ -549,9 +615,11 @@
           longitude: 22.01889
     -
       name: "Kičevo"
+      native: "Кичево"
       code: "307"
       iso3166_2: "MK-307"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.5129112
       longitude: 20.9525065
       cities:
@@ -585,9 +653,11 @@
           longitude: 20.93833
     -
       name: "Kisela Voda"
+      native: "Кисела Вода"
       code: "809"
       iso3166_2: "MK-809"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9794265
       longitude: 21.4396002
       cities:
@@ -601,9 +671,11 @@
           longitude: 21.50278
     -
       name: "Kočani"
+      native: "Кочани"
       code: "206"
       iso3166_2: "MK-206"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9211332
       longitude: 22.4114182
       cities:
@@ -617,9 +689,11 @@
           longitude: 22.44628
     -
       name: "Konče"
+      native: "Конче"
       code: "407"
       iso3166_2: "MK-407"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.5205634
       longitude: 22.4036343
       cities:
@@ -629,9 +703,11 @@
           longitude: 22.38359
     -
       name: "Kratovo"
+      native: "Кратово"
       code: "701"
       iso3166_2: "MK-701"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0962163
       longitude: 22.1686735
       cities:
@@ -641,9 +717,11 @@
           longitude: 22.1807
     -
       name: "Kriva Palanka"
+      native: "Крива Паланка"
       code: "702"
       iso3166_2: "MK-702"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.2058454
       longitude: 22.3307965
       cities:
@@ -653,9 +731,11 @@
           longitude: 22.33244
     -
       name: "Krivogaštani"
+      native: "Кривогаштани"
       code: "504"
       iso3166_2: "MK-504"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.3238376
       longitude: 21.3818519
       cities:
@@ -673,9 +753,11 @@
           longitude: 21.85722
     -
       name: "Kruševo"
+      native: "Крушево"
       code: "505"
       iso3166_2: "MK-505"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.3720324
       longitude: 21.2484351
       cities:
@@ -689,9 +771,11 @@
           longitude: 21.24889
     -
       name: "Kumanovo"
+      native: "Куманово"
       code: "703"
       iso3166_2: "MK-703"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.135913
       longitude: 21.7185474
       cities:
@@ -709,9 +793,11 @@
           longitude: 21.69306
     -
       name: "Lipkovo"
+      native: "Липково"
       code: "704"
       iso3166_2: "MK-704"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.1658209
       longitude: 21.5843497
       cities:
@@ -745,9 +831,11 @@
           longitude: 21.62778
     -
       name: "Lozovo"
+      native: "Лозово"
       code: "105"
       iso3166_2: "MK-105"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.7818139
       longitude: 21.9000827
       cities:
@@ -757,9 +845,11 @@
           longitude: 21.90556
     -
       name: "Makedonska Kamenica"
+      native: "Македонска Каменица"
       code: "207"
       iso3166_2: "MK-207"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0219096
       longitude: 22.588719
       cities:
@@ -769,9 +859,11 @@
           longitude: 22.5876
     -
       name: "Makedonski Brod"
+      native: "Македонски Брод"
       code: "308"
       iso3166_2: "MK-308"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.5133088
       longitude: 21.2174329
       cities:
@@ -785,9 +877,11 @@
           longitude: 21.14625
     -
       name: "Mavrovo and Rostuša"
+      native: "Маврово и Ростуша"
       code: "607"
       iso3166_2: "MK-607"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.6441167
       longitude: 20.6590893
       cities:
@@ -797,9 +891,11 @@
           longitude: 20.6
     -
       name: "Mogila"
+      native: "Могила"
       code: "506"
       iso3166_2: "MK-506"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.1768776
       longitude: 21.4078968
       cities:
@@ -821,9 +917,11 @@
           longitude: 21.37861
     -
       name: "Negotino"
+      native: "Неготино"
       code: "106"
       iso3166_2: "MK-106"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4844229
       longitude: 22.0905903
       cities:
@@ -833,9 +931,11 @@
           longitude: 22.09056
     -
       name: "Novaci"
+      native: "Новаци"
       code: "507"
       iso3166_2: "MK-507"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.0442661
       longitude: 21.4588894
       cities:
@@ -845,9 +945,11 @@
           longitude: 21.45866
     -
       name: "Novo Selo"
+      native: "Ново Село"
       code: "408"
       iso3166_2: "MK-408"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4126325
       longitude: 22.8835556
       cities:
@@ -861,9 +963,11 @@
           longitude: 22.83676
     -
       name: "Ohrid"
+      native: "Охрид"
       code: "310"
       iso3166_2: "MK-310"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.1170203
       longitude: 20.8017715
       cities:
@@ -881,9 +985,11 @@
           longitude: 20.83333
     -
       name: "Pehčevo"
+      native: "Пехчево"
       code: "208"
       iso3166_2: "MK-208"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.7635729
       longitude: 22.8873017
       cities:
@@ -893,9 +999,11 @@
           longitude: 22.88921
     -
       name: "Petrovec"
+      native: "Петровец"
       code: "810"
       iso3166_2: "MK-810"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9029897
       longitude: 21.689921
       cities:
@@ -909,9 +1017,11 @@
           longitude: 21.615
     -
       name: "Plasnica"
+      native: "Пласница"
       code: "311"
       iso3166_2: "MK-311"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4546349
       longitude: 21.1056539
       cities:
@@ -925,9 +1035,11 @@
           longitude: 21.12306
     -
       name: "Prilep"
+      native: "Прилеп"
       code: "508"
       iso3166_2: "MK-508"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.3444984
       longitude: 21.5527115
       cities:
@@ -949,9 +1061,11 @@
           longitude: 21.43113
     -
       name: "Probištip"
+      native: "Пробиштип"
       code: "209"
       iso3166_2: "MK-209"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9589146
       longitude: 22.166867
       cities:
@@ -965,9 +1079,11 @@
           longitude: 22.23611
     -
       name: "Radoviš"
+      native: "Радовиш"
       code: "409"
       iso3166_2: "MK-409"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.6495531
       longitude: 22.4768287
       cities:
@@ -985,9 +1101,11 @@
           longitude: 22.46472
     -
       name: "Rankovce"
+      native: "Ранковце"
       code: "705"
       iso3166_2: "MK-705"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.1686201
       longitude: 22.1165518
       cities:
@@ -997,9 +1115,11 @@
           longitude: 22.11617
     -
       name: "Resen"
+      native: "Ресен"
       code: "509"
       iso3166_2: "MK-509"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.0327674
       longitude: 20.9917789
       cities:
@@ -1021,9 +1141,11 @@
           longitude: 21.01092
     -
       name: "Rosoman"
+      native: "Росоман"
       code: "107"
       iso3166_2: "MK-107"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.5002371
       longitude: 21.9057322
       cities:
@@ -1033,9 +1155,11 @@
           longitude: 21.94585
     -
       name: "Saraj"
+      native: "Сарај"
       code: "811"
       iso3166_2: "MK-811"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9999161
       longitude: 21.328197
       cities:
@@ -1069,9 +1193,11 @@
           longitude: 21.32778
     -
       name: "Sopište"
+      native: "Сопиште"
       code: "812"
       iso3166_2: "MK-812"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.8484973
       longitude: 21.2971559
       cities:
@@ -1081,9 +1207,11 @@
           longitude: 21.4275
     -
       name: "Staro Nagoričane"
+      native: "Старо Нагоричане"
       code: "706"
       iso3166_2: "MK-706"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.1990188
       longitude: 21.8294161
       cities:
@@ -1093,9 +1221,11 @@
           longitude: 21.82861
     -
       name: "Štip"
+      native: "Штип"
       code: "211"
       iso3166_2: "MK-211"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.7374724
       longitude: 22.1935856
       cities:
@@ -1105,9 +1235,11 @@
           longitude: 22.19583
     -
       name: "Struga"
+      native: "Струга"
       code: "312"
       iso3166_2: "MK-312"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.1770278
       longitude: 20.6790586
       cities:
@@ -1145,9 +1277,11 @@
           longitude: 20.64389
     -
       name: "Strumica"
+      native: "Струмица"
       code: "410"
       iso3166_2: "MK-410"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4378004
       longitude: 22.6427428
       cities:
@@ -1169,9 +1303,11 @@
           longitude: 22.5675
     -
       name: "Studeničani"
+      native: "Студеничани"
       code: "813"
       iso3166_2: "MK-813"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9225639
       longitude: 21.5363965
       cities:
@@ -1193,9 +1329,11 @@
           longitude: 21.53483
     -
       name: "Šuto Orizari"
+      native: "Шуто Оризари"
       code: "817"
       iso3166_2: "MK-817"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0405453
       longitude: 21.423591
       cities:
@@ -1205,9 +1343,11 @@
           longitude: 21.425
     -
       name: "Sveti Nikole"
+      native: "Свети Николе"
       code: "108"
       iso3166_2: "MK-108"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.8647339
       longitude: 21.9420506
       cities:
@@ -1221,9 +1361,11 @@
           longitude: 21.95274
     -
       name: "Tearce"
+      native: "Теарце"
       code: "608"
       iso3166_2: "MK-608"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0777511
       longitude: 21.0534923
       cities:
@@ -1249,9 +1391,11 @@
           longitude: 21.0531
     -
       name: "Tetovo"
+      native: "Тетово"
       code: "609"
       iso3166_2: "MK-609"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0068297
       longitude: 20.9728556
       cities:
@@ -1289,9 +1433,11 @@
           longitude: 20.97155
     -
       name: "Valandovo"
+      native: "Валандово"
       code: "403"
       iso3166_2: "MK-403"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.3373804
       longitude: 22.5156752
       cities:
@@ -1305,9 +1451,11 @@
           longitude: 22.56002
     -
       name: "Vasilevo"
+      native: "Василево"
       code: "404"
       iso3166_2: "MK-404"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.4741699
       longitude: 22.6422128
       cities:
@@ -1317,9 +1465,11 @@
           longitude: 22.64301
     -
       name: "Veles"
+      native: "Велес"
       code: "101"
       iso3166_2: "MK-101"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.718869
       longitude: 21.7705695
       cities:
@@ -1337,9 +1487,11 @@
           longitude: 21.77556
     -
       name: "Vevčani"
+      native: "Вевчани"
       code: "301"
       iso3166_2: "MK-301"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.2407543
       longitude: 20.5915649
       cities:
@@ -1349,9 +1501,11 @@
           longitude: 20.59333
     -
       name: "Vinica"
+      native: "Виница"
       code: "202"
       iso3166_2: "MK-202"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.8607399
       longitude: 22.5928454
       cities:
@@ -1369,9 +1523,11 @@
           longitude: 22.50917
     -
       name: "Vrapčište"
+      native: "Врапчиште"
       code: "603"
       iso3166_2: "MK-603"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.879116
       longitude: 20.83145
       cities:
@@ -1385,9 +1541,11 @@
           longitude: 20.88563
     -
       name: "Zelenikovo"
+      native: "Зелениково"
       code: "806"
       iso3166_2: "MK-806"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.8860408
       longitude: 21.5869671
       cities:
@@ -1397,9 +1555,11 @@
           longitude: 21.58848
     -
       name: "Želino"
+      native: "Желино"
       code: "605"
       iso3166_2: "MK-605"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.9262923
       longitude: 21.1175782
       cities:
@@ -1425,9 +1585,11 @@
           longitude: 21.06417
     -
       name: "Zrnovci"
+      native: "Зрновци"
       code: "204"
       iso3166_2: "MK-204"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.8373714
       longitude: 22.4287013
       cities:

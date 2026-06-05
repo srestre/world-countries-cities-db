@@ -1,93 +1,332 @@
 city_name,latitude,longitude
-Altuf’yevskiy,55.88333,37.58333
-Amin’yevo,55.7,37.46667
-Annino,55.58333,37.6
-Babushkin,55.86931,37.72966
-Bibirevo,55.88333,37.6
-Biryulëvo,55.58635,37.67781
-Bogorodskoye,55.81353,37.71617
-Brateyevo,55.63755,37.76438
-Cherëmushki,55.66473,37.56135
-Chertanovo Yuzhnoye,55.59072,37.59519
-Davydkovo,55.71815,37.47271
-Gol’yanovo,55.82299,37.81306
-Golovinskiy,55.85381,37.49604
-Ivanovskoye,55.76667,37.83333
-Kapotnya,55.63806,37.79306
-Kokoshkino,55.59769,37.1695
-Kolomenskoye,55.66667,37.68333
-Kotlovka,55.65928,37.60404
-Kozeyevo,55.86667,37.61667
-Krasnaya Pahra,55.43223,37.26966
-Kur’yanovo,55.65,37.7
-Kuz’minki,55.7,37.8
-Lefortovo,55.76667,37.7
-Leonovo,55.85,37.65
-Lianozovo,55.89783,37.5868
-Likhobory,55.85,37.56667
-LMS,55.31425,37.18546
-Luzhniki,55.71599,37.55376
-Lyublino,55.67738,37.76005
-Mar’ino,55.65,37.71667
-Matveyevskoye,55.71112,37.47502
-Metrogorodok,55.80961,37.78739
-Mikhalkovo,55.68333,37.43333
-Moscow,55.75222,37.61556
-Moskovskiy,55.59911,37.35495
-Nagornyy,55.65,37.61667
-Nekrasovka,55.69328,37.91148
-Nikol’skoye,55.68333,37.48333
-Nikulino,55.66943,37.46598
-Novo-Peredelkino,55.64528,37.33583
-Novogireyevo,55.75378,37.81885
-Novokhovrino,55.86667,37.5
-Novokuz’minki,55.71667,37.78333
-Novovladykino,55.85,37.58333
-Novyye Cherëmushki,55.7,37.58333
-Novyye Kuz’minki,55.7,37.75
-Ochakovo-Matveyevskoye,55.68432,37.44654
-Orekhovo-Borisovo,55.61252,37.72639
-Orekhovo-Borisovo Severnoye,55.61667,37.68333
-Ostankinskiy,55.82957,37.61604
-Otradnoye,55.86667,37.6
-Pokrovskoye-Streshnëvo,55.80797,37.45814
-Presnenskiy,55.75,37.55
-Ramenki,55.7,37.5
-Rostokino,55.83333,37.66667
-Rublëvo,55.78514,37.35481
-Ryazanskiy,55.73333,37.76667
-Setun’,55.7002475,37.4056495
-Severnyy,55.93583,37.54889
-Shcherbinka,55.49972,37.55972
-Shchukino,55.8,37.45
-Slobodka,55.86667,37.58333
-Sokol,55.8,37.51667
-Sokol’niki,55.80202,37.67159
-Solntsevo,55.63711,37.38115
-Strogino,55.81838,37.41224
-Sviblovo,55.85,37.63333
-Taganskiy,55.73333,37.66667
-Tekstil’shchiki,55.70033,37.74271
-Tolstopal’tsevo,55.61026,37.21834
-Troitsk,55.48498,37.30736
-Troparëvo,55.65625,37.48496
-Tsaritsyno,55.6254,37.65032
-Tsentral’nyy Administrativnyy Okrug,55.74943,37.62371
-Tyoply Stan,55.62047,37.49338
-Vagonoremont,55.9,37.55
-Vatutinki,55.4965,37.32988
-Vatutino,55.88441,37.69055
-Veshnyaki,55.72393,37.81952
-Vnukovo,55.61194,37.29611
-Vorob’yovo,55.71667,37.53333
-Vostochnoe Degunino,55.8801,37.55758
-Vostochnyy,55.81667,37.86667
-Vykhino-Zhulebino,55.70196,37.81178
-Yaroslavskiy,55.88333,37.71667
-Yasenevo,55.60686,37.51991
-Zagor’ye,55.57657,37.66709
-Zamoskvorech’ye,55.73333,37.63333
-Zelenograd,55.9825,37.18139
-Zhulebino,55.7,37.85
-Zyablikovo,55.61667,37.76667
-Zyuzino,55.65608,37.56846
+Alabushevo,56.01667,37.15
+Alekseyevka,55.63,37.8
+Andreyevka,55.98028,37.135
+Andreyevskoye,55.55487,37.92566
+Annino,55.58316,37.26019
+Aprelevka,55.55194,37.0801
+Arkhangel’skoye,55.85486,35.32873
+Ashitkovo,55.45173,38.59518
+Ashukino,56.16667,37.95
+Ateptsevo,55.32364,36.75002
+Avsyunino,55.56516,39.12324
+Avtopoligon,56.34984,37.32296
+Bakhchivandzhi,55.88333,38.08333
+Baksheyevo,55.7086,39.87666
+Balashikha,55.80945,37.95806
+Balashikha Urban Okrug,55.83333,38
+Barvikha,55.74212,37.27926
+Barybino,55.26768,37.89333
+Beloomut,54.94478,39.33941
+Beloozërskiy,55.45978,38.44358
+Belyye Stolby,55.33136,37.854
+Biorki,55.0528,38.60873
+Biryulëvo Zapadnoye,55.58766,37.64282
+Bogorodskoye,56.55,37.88333
+Bol'shiye Vyazëmy,55.62058,36.9762
+Bol’shoye Gryzlovo,54.80033,37.63939
+Bolshevo,55.93486,37.83002
+Bratovshchina,56.05,37.88333
+Bronnitsy,55.42112,38.26188
+Budenovetc,56.37975,37.62774
+Bykovo,55.63614,38.08027
+Chashnikovo,56.03333,37.16667
+Chekhov,55.1477,37.47728
+Cherkizovo,55.97583,37.7875
+Chernogolovka,56,38.36667
+Cherusti,55.54976,40.01071
+Chkalovskiy,55.89534,38.07763
+Chornoye,55.74611,38.06889
+Chupryakovo,55.55282,36.62721
+Danki,54.91806,37.57009
+Davydovo,55.60859,38.86109
+Dedenëvo,56.24283,37.51769
+Dedovsk,55.86861,37.12222
+Demikhovo,55.79685,38.88404
+Dmitrov,56.34485,37.52041
+Dmitrovskiy Pogost,55.31333,39.83358
+Dmitrovskiy Rayon,56.35,37.58333
+Dolgoprudnyy,55.94958,37.50183
+Domodedovo,55.4413,37.75367
+Domodedovskiy Rayon,55.41667,37.75
+Dorogomilovo,55.75,37.56667
+Dorokhovo,55.55056,36.37444
+Drezna,55.74208,38.84753
+Druzhba,55.88603,37.74267
+Dubna,56.73333,37.16667
+Dubrovitsy,55.43969,37.4867
+Dzerzhinskiy,55.62945,37.85654
+Dzerzhinsky,55.62737,37.85803
+Elektrogorsk,55.88431,38.7864
+Elektrostal’,55.78959,38.44671
+Elektrougli,55.72445,38.20908
+Fedurnovo,55.75488,38.04696
+Fili,55.74819,37.47969
+Filimonki,55.55794,37.34719
+Firsanovka,55.95361,37.24083
+Fosforitnyy,55.32892,38.89509
+Fryanovo,56.13333,38.45
+Fryazevo,55.73321,38.46458
+Fryazino,55.96056,38.04556
+Golitsyno,55.60928,36.98212
+Gorki Vtoryye,55.72565,37.1635
+Gorki-Leninskiye,55.50855,37.77618
+Gorshkovo,56.37561,37.4124
+Grebnevo,55.95074,38.07973
+Gzhel’,55.61008,38.39399
+Iksha,56.17204,37.49842
+Il’inskiy,55.61902,38.11818
+Il’inskiy Pogost,55.47785,38.90906
+Il’inskoye,55.24917,37.95805
+Imeni Tsyurupy,55.49567,38.65064
+Imeni Vorovskogo,55.7319,38.32368
+Istra,55.91997,36.86867
+Istrinskiy Rayon,55.88333,36.93333
+Ivanteyevka,55.97111,37.92083
+Izmaylovo,55.78677,37.80165
+Kabanovo,55.74815,38.93511
+Karinskoye,55.70969,36.68903
+Kashira,54.84444,38.16694
+Kastanayevo,55.71667,37.5
+Kerva,55.61167,39.57665
+Khimki,55.89704,37.42969
+Khimki Urban Okrug,55.91667,37.41667
+Khorlovo,55.3327,38.81365
+Khoroshëvo-Mnevniki,55.78363,37.47137
+Khot'kovo,56.25699,37.99544
+Kievskiy,55.42999,36.8666
+Klimovsk,55.36352,37.52984
+Klin,56.33333,36.73333
+Klinskiy Rayon,56.41667,36.83333
+Klyazminskoe Reservoir,55.99507,37.67199
+Kolomenskiy Rayon,55.08333,38.75
+Kolomna,55.07944,38.77833
+Kolyubakino,55.668,36.53234
+Kommunarka,55.56952,37.48932
+Konobeyevo,55.40776,38.66261
+Konstantinovo,56.55,38.03333
+Koptëvo,55.81667,37.51667
+Korenëvo,55.67194,38.00778
+Korolev,55.91417,37.82556
+Korolyov,55.91732,37.81786
+Kostino,56.03333,37.91667
+Kostrovo,55.89429,36.69491
+Kotel’niki,55.63546,37.8445
+Kozhukhovo,55.7,37.66667
+Kraskovo,55.64972,37.98778
+Krasnaya Poyma,55.00138,39.07997
+Krasnoarmeysk,56.1,38.13333
+Krasnogorsk,55.82036,37.33017
+Krasnogorskiy Rayon,55.83333,37.33333
+Krasnozavodsk,56.45,38.21667
+Krasnoznamensk,55.59944,37.03861
+Krasnyy Tkach,55.4721,39.08017
+Kratovo,55.59728,38.17743
+Krivtsovo,56.15,36.88333
+Kubinka,55.57957,36.70392
+Kupavna,55.74576,38.13136
+Kurilovo,55.37271,37.37703
+Kurovskoye,55.58183,38.91994
+Kuskovo,55.73423,37.82616
+L’vovskiy,55.31872,37.52337
+Leninskiy Rayon,55.41667,37.58333
+Leninskiye Gory,55.7,37.56667
+Lesnoy,56.06667,37.91667
+Lesnoy Gorodok,55.63893,37.20829
+Lesnyye Polyany,55.96667,37.86667
+Levoberezhnyy,55.85,37.48333
+Likino-Dulevo,55.7083,38.9542
+Lobnya,56.00972,37.48194
+Lopatinskiy,55.34101,38.72366
+Losino-Petrovskiy,55.86959,38.20065
+Lotoshino,56.23489,35.64273
+Lotoshinskiy Rayon,56.25,35.66667
+Lozhki,56.09387,37.10873
+Lugovaya,56.05,37.48333
+Lukhovitsy,54.97661,39.0444
+Lytkarino,55.58271,37.90516
+Lyuberetskiy Rayon,55.66667,37.91667
+Lyubertsy,55.67719,37.89322
+Lyubuchany,55.25088,37.54988
+Malakhovka,55.64776,38.02486
+Malaya Dubna,55.87783,38.95423
+Malino,55.11195,38.17384
+Malyshevo,55.4945,38.35356
+Mamontovka,55.98083,37.81972
+Marfino,55.70267,37.38322
+Medvezh’i Ozëra,55.86935,37.98613
+Melikhovo,55.1144,37.64827
+Mendeleyevo,56.03333,37.21667
+Meshcherino,55.19567,38.36002
+Mikhnëvo,55.12747,37.95451
+Mikulino,56.45188,35.60685
+Misheronskiy,55.71927,39.73835
+Molokovo,55.56186,37.86492
+Monino,55.84244,38.19362
+Mosrentgen,55.6197,37.46402
+Mozhaysk,55.50194,36.02722
+Mozhayskiy Rayon,55.5,36
+Muranovo,56.18333,37.9
+Mytishchi,55.91163,37.73076
+Mytishchi Urban Okrug,56,37.66667
+Nakhabino,55.84854,37.17789
+Naro-Fominsk,55.38752,36.73307
+Nazar'yevo,55.67417,37.04028
+Nekrasovskiy,56.09349,37.49934
+Nemchinovka,55.72288,37.36086
+Nikolina Gora,55.73433,37.04364
+Noginsk,55.86647,38.4438
+Noginsk-9,56.06681,38.50013
+Noginskiy Rayon,55.91667,38.41667
+Novo-Nikol’skoye,56.56667,37.53333
+Novoivanovskoye,55.70381,37.3651
+Novopetrovskoye,55.99278,36.47194
+Novopodrezkovo,55.93972,37.34417
+Novosin’kovo,56.37737,37.32871
+Novoye,55.63104,38.92001
+Novyy Byt,55.05857,37.61348
+Nudol’,56.1,36.51667
+Obolensk,54.97741,37.22449
+Obukhovo,55.83278,38.2725
+Odintsovo,55.67798,37.27773
+Odintsovskiy Rayon,55.66667,36.91667
+Oktyabr’skiy,55.60806,37.97738
+Ol'yavidovo,56.5033,37.7516
+Opalikha,55.82593,37.25278
+Orekhovo-Zuyevo,55.80672,38.96178
+Orekhovo-Zuyevskiy Rayon,55.75,39
+Orud’yevo,56.43333,37.53333
+Ostashëvo,55.85896,35.86948
+Ostrovtsy,55.5875,38.00556
+Ozëry,54.85998,38.55062
+Ozherel’ye,54.79197,38.26559
+Ozyory Urban Okrug,54.83333,38.58333
+Pavlovskaya Sloboda,55.81517,37.08246
+Pavlovskiy Posad,55.78187,38.65025
+Pavshino,55.81667,37.35
+Peresvet,56.42302,38.17612
+Pervomayskiy,55.06696,38.66489
+Peshki,56.13333,37.06667
+Peski,55.21626,38.76262
+Petrovo-Dal’neye,55.74679,37.17347
+Petrovskaya,55.55,37.78333
+Pirogovskiy,55.97806,37.73361
+Podolsk,55.42419,37.55472
+Podosinki,56.20837,37.54741
+Popovo,55.07523,37.66727
+Posëlok Mar’ino,55.55,37.32
+Povarovo,56.06667,37.05
+Povedniki,55.97,37.6
+Pravdinskiy,56.06034,37.86266
+Proletarskiy,55.02219,37.39019
+Protvino,54.86821,37.21583
+Purshevo,55.72124,38.03277
+Pushchino,54.83373,37.61138
+Pushkino,56.01722,37.86667
+Pushkinskiy Rayon,55.98633,37.86122
+Radovitskiy,55.1282,39.7956
+Radumlya,56.06901,37.14979
+Raduzhnyy,55.1368,38.72803
+Rakhmanovo,55.74401,38.61124
+Ramenskiy Rayon,55.56667,38.23333
+Ramenskoye,55.56694,38.23028
+Razvilka,55.59209,37.74085
+Rechitsy,55.59754,38.47134
+Reshetnikovo,56.45,36.56667
+Reutov,55.76111,37.8575
+Rodniki,55.65204,38.06685
+Rogachëvo,56.43333,37.16667
+Roshal’,55.66853,39.87488
+Rozhdestveno,55.85444,37.04935
+Rumyantsevo,55.97278,36.53417
+Ruza,55.69898,36.19522
+Ruzskiy Rayon,55.7,36.25
+Rybnoye,56.41349,37.6218
+Rzhavki,56,37.25
+Saltykovka,55.76679,37.93533
+Savinskaya,55.37013,39.99233
+Savvinskaya Sloboda,55.72343,36.80347
+Selyatino,55.51514,36.97746
+Semënovskoye,55.68333,37.55
+Semkhoz,56.28333,38.06667
+Serebryano-Prudskiy Rayon,54.5,38.66667
+Serebryanyye Prudy,54.46923,38.72095
+Sergiyev Posad,56.3,38.13333
+Sergiyevo-Posadskiy Rayon,56.33333,38.16667
+Serpukhov,54.91578,37.41114
+Serpukhovskiy Rayon,54.91667,37.41667
+Severnyy,56.73333,37.65
+Shaburnovo,56.55,37.93333
+Shakhovskaya,56.03147,35.50697
+Shakhovskoy Rayon,56.00192,35.49537
+Shatura,55.57253,39.53682
+Shaturtorf,55.56711,39.42129
+Shchelkovo,55.92497,37.97218
+Shchëlkovskiy Rayon,56,38.16667
+Shemëtovo,56.52764,38.07518
+Sheremet’yevskiy,55.97583,37.49417
+Shevlyakovo,56.39733,36.85973
+Shishkin Les,55.41057,37.18853
+Skhodnya,55.94806,37.29778
+Skolkovo,55.68784,37.36836
+Skoropuskovskiy,56.36667,38.16667
+Snegiri,55.88867,37.02421
+Sofrino,56.15,37.93333
+Solnechnogorsk,56.18333,36.98333
+Solnechnogorskiy Rayon,56.08333,37.08333
+Spas-Zaulok,56.48333,36.56667
+Staraya Kupavna,55.80799,38.1805
+Stolbovaya,55.25021,37.49249
+Stromyn’,56.04347,38.48318
+Stupino,54.90083,38.07083
+Stupinskiy Rayon,54.91667,38.08333
+Svatkovo,56.38333,38.21667
+Sverdlovskiy,55.90968,38.14978
+Sychëvo,55.06196,38.71384
+Taldom,56.73333,37.53333
+Taldomskiy Rayon,56.75,37.58333
+Tarasovka,55.95722,37.84333
+Teryayevo,56.16974,36.12545
+Tomilino,55.65619,37.94713
+Troitskoye,55.3,38.53333
+Tuchkovo,55.60111,36.46806
+Tugolesskiy Bor,55.55051,39.82422
+Udel’naya,55.62536,38.00285
+Uvarovka,55.52778,35.60611
+Uzunovo,54.53858,38.61734
+Verbilki,56.53333,37.6
+Vereya,55.34472,36.17194
+Vidnoye,55.55239,37.70967
+Vinogradovo,56.93333,37.55
+Vishnyakovskiye Dachi,55.7647,38.13334
+Vniissok,55.65639,37.21194
+Volodarskogo,55.50349,37.94174
+Volokolamsk,56.03361,35.96944
+Volokolamskiy Rayon,56.08886,35.99248
+Voskresensk,55.31733,38.65264
+Voskresenskiy Rayon,55.33333,38.75
+Vostryakovo,55.66667,37.45
+Vysokovsk,56.31667,36.55
+Yakhroma,56.3,37.48333
+Yakovlevskoye,55.44194,37.94806
+Yam,55.48785,37.74458
+Yamkino,55.92088,38.40417
+Yaropolets,56.13333,35.83317
+Yegor’yevsk,55.38283,39.03233
+Yel’digino,56.11667,37.81667
+Yermolino,56.14887,37.49112
+Yershovo,55.76911,36.85929
+Yubileyny,55.93333,37.83333
+Zagoryanskiy,55.9325,37.95806
+Zaprudnya,56.56667,37.43333
+Zaraysk,54.7605,38.87841
+Zarech’ye,55.68667,37.3924
+Zarya,55.75533,38.09578
+Zelenogradskiy,56.1,37.91667
+Zhavoronki,55.64943,37.10101
+Zheleznodorozhnyy,55.744,38.01684
+Zhilëvo,55.01408,38.01106
+Zhitnevo,55.34233,37.91464
+Zhukovka,56.48333,37.51667
+Zhukovskiy,55.59528,38.12028
+Zvenigorod,55.73401,36.85918

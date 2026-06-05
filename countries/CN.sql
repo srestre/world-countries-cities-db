@@ -1,55 +1,55 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(45, 'China', 'CN', 'CHN', 'Asia', 'Eastern Asia', 'Beijing', 'CNY', 35, 105, '🇨🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(45, 'China', 'China', 'CN', 'CHN', 'Asia', 'Asia', 'Eastern Asia', 'Asia Oriental', 'Beijing', 'CNY', 35, 105, '🇨🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2251, 'Anhui', 45, 'CN', 'AH', 'province', 32, 117),
-(2257, 'Beijing', 45, 'CN', 'BJ', 'municipality', 39.9057136, 116.3912972),
-(2271, 'Chongqing', 45, 'CN', 'CQ', 'municipality', 30.05518, 107.8748712),
-(2248, 'Fujian', 45, 'CN', 'FJ', 'province', 26.193218, 118.2208721),
-(2275, 'Gansu', 45, 'CN', 'GS', 'province', 38.0000001, 101.9999999),
-(2279, 'Guangdong', 45, 'CN', 'GD', 'province', 23.1357694, 113.1982688),
-(2278, 'Guangxi', 45, 'CN', 'GX', 'autonomous region', 24, 109),
-(2261, 'Guizhou', 45, 'CN', 'GZ', 'province', 27, 107),
-(2273, 'Hainan', 45, 'CN', 'HI', 'province', 19.2000001, 109.5999999),
-(2280, 'Hebei', 45, 'CN', 'HE', 'province', 39.0000001, 116),
-(2265, 'Heilongjiang', 45, 'CN', 'HL', 'province', 48.0000047, 127.999992),
-(2259, 'Henan', 45, 'CN', 'HA', 'province', 34.0000001, 113.9999999),
-(2267, 'Hong Kong SAR', 45, 'CN', 'HK', 'special administrative region', 22.350627, 114.1849161),
-(2274, 'Hubei', 45, 'CN', 'HB', 'province', 31, 112),
-(2258, 'Hunan', 45, 'CN', 'HN', 'province', 27.6662087, 111.7487063),
-(2269, 'Inner Mongolia', 45, 'CN', 'NM', 'autonomous region', 43.2443242, 114.3251664),
-(2250, 'Jiangsu', 45, 'CN', 'JS', 'province', 33.0000001, 119.9999999),
-(2256, 'Jiangxi', 45, 'CN', 'JX', 'province', 28, 116),
-(2253, 'Jilin', 45, 'CN', 'JL', 'province', 43.837883, 126.549572),
-(2268, 'Liaoning', 45, 'CN', 'LN', 'province', 41.2374106, 122.9955469),
-(2266, 'Macau SAR', 45, 'CN', 'MO', 'special administrative region', 22.3145285, 113.9472446),
-(2262, 'Ningxia', 45, 'CN', 'NX', 'autonomous region', 37.0000001, 105.9999999),
-(2270, 'Qinghai', 45, 'CN', 'QH', 'province', 36, 96),
-(2272, 'Shaanxi', 45, 'CN', 'SN', 'province', 35.5895959, 109.3013107),
-(2252, 'Shandong', 45, 'CN', 'SD', 'province', 36.398987, 118.5055691),
-(2249, 'Shanghai', 45, 'CN', 'SH', 'municipality', 31.230416, 121.473701),
-(2254, 'Shanxi', 45, 'CN', 'SX', 'province', 37, 112),
-(2277, 'Sichuan', 45, 'CN', 'SC', 'province', 30.5000001, 102.4999999),
-(2255, 'Taiwan', 45, 'CN', 'TW', 'province', 23.9739374, 120.9820179),
-(2276, 'Tianjin', 45, 'CN', 'TJ', 'municipality', 39.0844897, 117.1956724),
-(2264, 'Tibet', 45, 'CN', 'XZ', 'autonomous region', 29.8556443, 90.8749807),
-(2263, 'Xinjiang', 45, 'CN', 'XJ', 'autonomous region', 42.4804953, 85.4633464),
-(2260, 'Yunnan', 45, 'CN', 'YN', 'province', 25, 102),
-(2247, 'Zhejiang', 45, 'CN', 'ZJ', 'province', 29.0000001, 119.9999999);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2251, 'Anhui', '安徽省', 45, 'CN', 'AH', 'province', 'provincia', 32, 117),
+(2257, 'Beijing', '北京市', 45, 'CN', 'BJ', 'municipality', 'municipio', 39.9057136, 116.3912972),
+(2271, 'Chongqing', '重庆市', 45, 'CN', 'CQ', 'municipality', 'municipio', 30.05518, 107.8748712),
+(2248, 'Fujian', '福建省', 45, 'CN', 'FJ', 'province', 'provincia', 26.193218, 118.2208721),
+(2275, 'Gansu', '甘肃省', 45, 'CN', 'GS', 'province', 'provincia', 38.0000001, 101.9999999),
+(2279, 'Guangdong', '广东省', 45, 'CN', 'GD', 'province', 'provincia', 23.1357694, 113.1982688),
+(2278, 'Guangxi', '广西壮族自治区', 45, 'CN', 'GX', 'autonomous region', 'región autónoma', 24, 109),
+(2261, 'Guizhou', '贵州省', 45, 'CN', 'GZ', 'province', 'provincia', 27, 107),
+(2273, 'Hainan', '海南省', 45, 'CN', 'HI', 'province', 'provincia', 19.2000001, 109.5999999),
+(2280, 'Hebei', '河北省', 45, 'CN', 'HE', 'province', 'provincia', 39.0000001, 116),
+(2265, 'Heilongjiang', '黑龙江省', 45, 'CN', 'HL', 'province', 'provincia', 48.0000047, 127.999992),
+(2259, 'Henan', '河南省', 45, 'CN', 'HA', 'province', 'provincia', 34.0000001, 113.9999999),
+(2267, 'Hong Kong SAR', '香港特别行政区', 45, 'CN', 'HK', 'special administrative region', 'región administrativa especial', 22.350627, 114.1849161),
+(2274, 'Hubei', '湖北省', 45, 'CN', 'HB', 'province', 'provincia', 31, 112),
+(2258, 'Hunan', '湖南省', 45, 'CN', 'HN', 'province', 'provincia', 27.6662087, 111.7487063),
+(2269, 'Inner Mongolia', '内蒙古自治区', 45, 'CN', 'NM', 'autonomous region', 'región autónoma', 43.2443242, 114.3251664),
+(2250, 'Jiangsu', '江苏省', 45, 'CN', 'JS', 'province', 'provincia', 33.0000001, 119.9999999),
+(2256, 'Jiangxi', '江西省', 45, 'CN', 'JX', 'province', 'provincia', 28, 116),
+(2253, 'Jilin', '吉林省', 45, 'CN', 'JL', 'province', 'provincia', 43.837883, 126.549572),
+(2268, 'Liaoning', '辽宁省', 45, 'CN', 'LN', 'province', 'provincia', 41.2374106, 122.9955469),
+(2266, 'Macau SAR', '澳门特别行政区', 45, 'CN', 'MO', 'special administrative region', 'región administrativa especial', 22.3145285, 113.9472446),
+(2262, 'Ningxia', '宁夏回族自治区', 45, 'CN', 'NX', 'autonomous region', 'región autónoma', 37.0000001, 105.9999999),
+(2270, 'Qinghai', '青海省', 45, 'CN', 'QH', 'province', 'provincia', 36, 96),
+(2272, 'Shaanxi', '陕西省', 45, 'CN', 'SN', 'province', 'provincia', 35.5895959, 109.3013107),
+(2252, 'Shandong', '山东省', 45, 'CN', 'SD', 'province', 'provincia', 36.398987, 118.5055691),
+(2249, 'Shanghai', '上海市', 45, 'CN', 'SH', 'municipality', 'municipio', 31.230416, 121.473701),
+(2254, 'Shanxi', '山西省', 45, 'CN', 'SX', 'province', 'provincia', 37, 112),
+(2277, 'Sichuan', '四川省', 45, 'CN', 'SC', 'province', 'provincia', 30.5000001, 102.4999999),
+(2255, 'Taiwan', '台湾', 45, 'CN', 'TW', 'province', 'provincia', 23.9739374, 120.9820179),
+(2276, 'Tianjin', '天津市', 45, 'CN', 'TJ', 'municipality', 'municipio', 39.0844897, 117.1956724),
+(2264, 'Tibet', '西藏自治区', 45, 'CN', 'XZ', 'autonomous region', 'región autónoma', 29.8556443, 90.8749807),
+(2263, 'Xinjiang', '新疆维吾尔自治区', 45, 'CN', 'XJ', 'autonomous region', 'región autónoma', 42.4804953, 85.4633464),
+(2260, 'Yunnan', '云南省', 45, 'CN', 'YN', 'province', 'provincia', 25, 102),
+(2247, 'Zhejiang', '浙江省', 45, 'CN', 'ZJ', 'province', 'provincia', 29.0000001, 119.9999999);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (19284, 'Anqing', 2251, 45, 30.6592336, 116.6302585),

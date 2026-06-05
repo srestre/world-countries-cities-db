@@ -1,19 +1,19 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-CG,Congo,Africa,Middle Africa,11,Bouenza,Kayes,-4.20493,13.28608
-CG,Congo,Africa,Middle Africa,11,Bouenza,Madingou,-4.15361,13.55
-CG,Congo,Africa,Middle Africa,BZV,Brazzaville,Brazzaville,-4.26613,15.28318
-CG,Congo,Africa,Middle Africa,8,Cuvette,Makoua,0.00694,15.63333
-CG,Congo,Africa,Middle Africa,8,Cuvette,Owando,-0.48193,15.89988
-CG,Congo,Africa,Middle Africa,15,Cuvette-Ouest,Ewo,-0.8725,14.82056
-CG,Congo,Africa,Middle Africa,5,Kouilou,,,
-CG,Congo,Africa,Middle Africa,2,Lékoumou,Sibiti,-3.68192,13.34985
-CG,Congo,Africa,Middle Africa,7,Likouala,Impfondo,1.61804,18.05981
-CG,Congo,Africa,Middle Africa,9,Niari,Dolisie,-4.19834,12.66664
-CG,Congo,Africa,Middle Africa,9,Niari,Mossendjo,-2.94968,12.70423
-CG,Congo,Africa,Middle Africa,14,Plateaux,Djambala,-2.54472,14.75333
-CG,Congo,Africa,Middle Africa,14,Plateaux,Gamboma,-1.87639,15.86444
-CG,Congo,Africa,Middle Africa,16,Pointe-Noire,Loandjili,-4.75611,11.85778
-CG,Congo,Africa,Middle Africa,16,Pointe-Noire,Pointe-Noire,-4.77609,11.86352
-CG,Congo,Africa,Middle Africa,12,Pool,Kinkala,-4.36139,14.76444
-CG,Congo,Africa,Middle Africa,13,Sangha,Ouésso,1.61361,16.05167
-CG,Congo,Africa,Middle Africa,13,Sangha,Sémbé,1.64806,14.58056
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,11,Bouenza,department,departamento,Kayes,-4.20493,13.28608
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,11,Bouenza,department,departamento,Madingou,-4.15361,13.55
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,BZV,Brazzaville,department,departamento,Brazzaville,-4.26613,15.28318
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,8,Cuvette,department,departamento,Makoua,0.00694,15.63333
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,8,Cuvette,department,departamento,Owando,-0.48193,15.89988
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,15,Cuvette-Ouest,department,departamento,Ewo,-0.8725,14.82056
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,5,Kouilou,department,departamento,,,
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,2,Lékoumou,department,departamento,Sibiti,-3.68192,13.34985
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,7,Likouala,department,departamento,Impfondo,1.61804,18.05981
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,9,Niari,department,departamento,Dolisie,-4.19834,12.66664
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,9,Niari,department,departamento,Mossendjo,-2.94968,12.70423
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,14,Plateaux,department,departamento,Djambala,-2.54472,14.75333
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,14,Plateaux,department,departamento,Gamboma,-1.87639,15.86444
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,16,Pointe-Noire,department,departamento,Loandjili,-4.75611,11.85778
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,16,Pointe-Noire,department,departamento,Pointe-Noire,-4.77609,11.86352
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,12,Pool,department,departamento,Kinkala,-4.36139,14.76444
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,13,Sangha,department,departamento,Ouésso,1.61361,16.05167
+CG,Congo,Congo,Africa,África,Middle Africa,África Central,13,Sangha,department,departamento,Sémbé,1.64806,14.58056

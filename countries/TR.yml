@@ -12,16 +12,20 @@
   currency_symbol: "₺"
   tld: ".tr"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 39
   longitude: 35
   emoji: "🇹🇷"
   states:
     -
       name: "Adana"
+      native: "Adana"
       code: "01"
       iso3166_2: "TR-01"
       type: "province"
+      type_es: "provincia"
       latitude: 37.1438001
       longitude: 35.4984094
       cities:
@@ -91,9 +95,11 @@
           longitude: 35.45402
     -
       name: "Adıyaman"
+      native: "Adıyaman"
       code: "02"
       iso3166_2: "TR-02"
       type: "province"
+      type_es: "provincia"
       latitude: 37.78936
       longitude: 38.3141101
       cities:
@@ -135,9 +141,11 @@
           longitude: 37.9161
     -
       name: "Afyonkarahisar"
+      native: "Afyonkarahisar"
       code: "03"
       iso3166_2: "TR-03"
       type: "province"
+      type_es: "provincia"
       latitude: 38.6852729
       longitude: 30.6427411
       cities:
@@ -215,9 +223,11 @@
           longitude: 31.22806
     -
       name: "Ağrı"
+      native: "Ağrı"
       code: "04"
       iso3166_2: "TR-04"
       type: "province"
+      type_es: "provincia"
       latitude: 39.719125
       longitude: 43.0504894
       cities:
@@ -255,9 +265,11 @@
           longitude: 42.77572
     -
       name: "Aksaray"
+      native: "Aksaray"
       code: "68"
       iso3166_2: "TR-68"
       type: "province"
+      type_es: "provincia"
       latitude: 38.3705416
       longitude: 34.026907
       cities:
@@ -295,9 +307,11 @@
           longitude: 33.54961
     -
       name: "Amasya"
+      native: "Amasya"
       code: "05"
       iso3166_2: "TR-05"
       type: "province"
+      type_es: "provincia"
       latitude: 40.6503248
       longitude: 35.8329148
       cities:
@@ -331,9 +345,11 @@
           longitude: 36.3225
     -
       name: "Ankara"
+      native: "Ankara"
       code: "06"
       iso3166_2: "TR-06"
       type: "province"
+      type_es: "provincia"
       latitude: 39.7160422
       longitude: 32.7059159
       cities:
@@ -443,9 +459,11 @@
           longitude: 32.69555
     -
       name: "Antalya"
+      native: "Antalya"
       code: "07"
       iso3166_2: "TR-07"
       type: "province"
+      type_es: "provincia"
       latitude: 36.9279654
       longitude: 30.7276865
       cities:
@@ -531,9 +549,11 @@
           longitude: 31.00677
     -
       name: "Ardahan"
+      native: "Ardahan"
       code: "75"
       iso3166_2: "TR-75"
       type: "province"
+      type_es: "provincia"
       latitude: 41.1102966
       longitude: 42.7035585
       cities:
@@ -563,9 +583,11 @@
           longitude: 42.72917
     -
       name: "Artvin"
+      native: "Artvin"
       code: "08"
       iso3166_2: "TR-08"
       type: "province"
+      type_es: "provincia"
       latitude: 41.160506
       longitude: 41.8398627
       cities:
@@ -607,9 +629,11 @@
           longitude: 41.53743
     -
       name: "Aydın"
+      native: "Aydın"
       code: "09"
       iso3166_2: "TR-09"
       type: "province"
+      type_es: "provincia"
       latitude: 37.7405798
       longitude: 28.0676404
       cities:
@@ -683,9 +707,11 @@
           longitude: 28.19573
     -
       name: "Balıkesir"
+      native: "Balıkesir"
       code: "10"
       iso3166_2: "TR-10"
       type: "province"
+      type_es: "provincia"
       latitude: 39.6473917
       longitude: 27.8879787
       cities:
@@ -771,9 +797,11 @@
           longitude: 28.15778
     -
       name: "Bartın"
+      native: "Bartın"
       code: "74"
       iso3166_2: "TR-74"
       type: "province"
+      type_es: "provincia"
       latitude: 41.4947715
       longitude: 32.4354255
       cities:
@@ -795,9 +823,11 @@
           longitude: 32.65066
     -
       name: "Batman"
+      native: "Batman"
       code: "72"
       iso3166_2: "TR-72"
       type: "province"
+      type_es: "provincia"
       latitude: 37.7874104
       longitude: 41.2573924
       cities:
@@ -827,9 +857,11 @@
           longitude: 41.41377
     -
       name: "Bayburt"
+      native: "Bayburt"
       code: "69"
       iso3166_2: "TR-69"
       type: "province"
+      type_es: "provincia"
       latitude: 40.26032
       longitude: 40.228048
       cities:
@@ -847,9 +879,11 @@
           longitude: 40.22289
     -
       name: "Bilecik"
+      native: "Bilecik"
       code: "11"
       iso3166_2: "TR-11"
       type: "province"
+      type_es: "provincia"
       latitude: 40.1435101
       longitude: 29.9752911
       cities:
@@ -887,9 +921,11 @@
           longitude: 30.52
     -
       name: "Bingöl"
+      native: "Bingöl"
       code: "12"
       iso3166_2: "TR-12"
       type: "province"
+      type_es: "provincia"
       latitude: 39.073803
       longitude: 40.7296181
       cities:
@@ -927,9 +963,11 @@
           longitude: 40.53368
     -
       name: "Bitlis"
+      native: "Bitlis"
       code: "13"
       iso3166_2: "TR-13"
       type: "province"
+      type_es: "provincia"
       latitude: 38.4950867
       longitude: 42.1678372
       cities:
@@ -963,9 +1001,11 @@
           longitude: 42.28269
     -
       name: "Bolu"
+      native: "Bolu"
       code: "14"
       iso3166_2: "TR-14"
       type: "province"
+      type_es: "provincia"
       latitude: 40.6212099
       longitude: 31.6460259
       cities:
@@ -1007,9 +1047,11 @@
           longitude: 32.03375
     -
       name: "Burdur"
+      native: "Burdur"
       code: "15"
       iso3166_2: "TR-15"
       type: "province"
+      type_es: "provincia"
       latitude: 37.5183407
       longitude: 30.1691254
       cities:
@@ -1059,9 +1101,11 @@
           longitude: 29.75472
     -
       name: "Bursa"
+      native: "Bursa"
       code: "16"
       iso3166_2: "TR-16"
       type: "province"
+      type_es: "provincia"
       latitude: 40.1825734
       longitude: 29.0675039
       cities:
@@ -1135,9 +1179,11 @@
           longitude: 29.0364
     -
       name: "Çanakkale"
+      native: "Çanakkale"
       code: "17"
       iso3166_2: "TR-17"
       type: "province"
+      type_es: "provincia"
       latitude: 40.0549886
       longitude: 26.9278292
       cities:
@@ -1191,9 +1237,11 @@
           longitude: 27.25806
     -
       name: "Çankırı"
+      native: "Çankırı"
       code: "18"
       iso3166_2: "TR-18"
       type: "province"
+      type_es: "provincia"
       latitude: 40.5971947
       longitude: 33.6212704
       cities:
@@ -1247,9 +1295,11 @@
           longitude: 33.77819
     -
       name: "Çorum"
+      native: "Çorum"
       code: "19"
       iso3166_2: "TR-19"
       type: "province"
+      type_es: "provincia"
       latitude: 40.5698389
       longitude: 34.7269292
       cities:
@@ -1311,9 +1361,11 @@
           longitude: 34.45259
     -
       name: "Denizli"
+      native: "Denizli"
       code: "20"
       iso3166_2: "TR-20"
       type: "province"
+      type_es: "provincia"
       latitude: 37.7827875
       longitude: 29.0966476
       cities:
@@ -1395,9 +1447,11 @@
           longitude: 29.07058
     -
       name: "Diyarbakır"
+      native: "Diyarbakır"
       code: "21"
       iso3166_2: "TR-21"
       type: "province"
+      type_es: "provincia"
       latitude: 38.0814716
       longitude: 40.4297767
       cities:
@@ -1471,9 +1525,11 @@
           longitude: 40.2061
     -
       name: "Düzce"
+      native: "Düzce"
       code: "81"
       iso3166_2: "TR-81"
       type: "province"
+      type_es: "provincia"
       latitude: 40.8774545
       longitude: 31.2009618
       cities:
@@ -1511,9 +1567,11 @@
           longitude: 31.45672
     -
       name: "Edirne"
+      native: "Edirne"
       code: "22"
       iso3166_2: "TR-22"
       type: "province"
+      type_es: "provincia"
       latitude: 41.1804499
       longitude: 26.6222442
       cities:
@@ -1555,9 +1613,11 @@
           longitude: 26.6885
     -
       name: "Elazığ"
+      native: "Elazığ"
       code: "23"
       iso3166_2: "TR-23"
       type: "province"
+      type_es: "provincia"
       latitude: 38.5824771
       longitude: 39.396179
       cities:
@@ -1607,9 +1667,11 @@
           longitude: 39.30938
     -
       name: "Erzincan"
+      native: "Erzincan"
       code: "24"
       iso3166_2: "TR-24"
       type: "province"
+      type_es: "provincia"
       latitude: 39.6073429
       longitude: 39.2013209
       cities:
@@ -1651,9 +1713,11 @@
           longitude: 39.70125
     -
       name: "Erzurum"
+      native: "Erzurum"
       code: "25"
       iso3166_2: "TR-25"
       type: "province"
+      type_es: "provincia"
       latitude: 39.90632
       longitude: 41.2727715
       cities:
@@ -1739,9 +1803,11 @@
           longitude: 41.30997
     -
       name: "Eskişehir"
+      native: "Eskişehir"
       code: "26"
       iso3166_2: "TR-26"
       type: "province"
+      type_es: "provincia"
       latitude: 39.6821156
       longitude: 31.0723476
       cities:
@@ -1803,9 +1869,11 @@
           longitude: 30.50206
     -
       name: "Gaziantep"
+      native: "Gaziantep"
       code: "27"
       iso3166_2: "TR-27"
       type: "province"
+      type_es: "provincia"
       latitude: 37.0628317
       longitude: 37.3792617
       cities:
@@ -1847,9 +1915,11 @@
           longitude: 37.56824
     -
       name: "Giresun"
+      native: "Giresun"
       code: "28"
       iso3166_2: "TR-28"
       type: "province"
+      type_es: "provincia"
       latitude: 40.6531617
       longitude: 38.5172032
       cities:
@@ -1919,9 +1989,11 @@
           longitude: 38.63242
     -
       name: "Gümüşhane"
+      native: "Gümüşhane"
       code: "29"
       iso3166_2: "TR-29"
       type: "province"
+      type_es: "provincia"
       latitude: 40.2533219
       longitude: 39.384968
       cities:
@@ -1951,9 +2023,11 @@
           longitude: 39.28344
     -
       name: "Hakkâri"
+      native: "Hakkâri"
       code: "30"
       iso3166_2: "TR-30"
       type: "province"
+      type_es: "provincia"
       latitude: 37.5766959
       longitude: 43.7377862
       cities:
@@ -1979,9 +2053,11 @@
           longitude: 44.25827
     -
       name: "Hatay"
+      native: "Hatay"
       code: "31"
       iso3166_2: "TR-31"
       type: "province"
+      type_es: "provincia"
       latitude: 36.3451332
       longitude: 36.0748022
       cities:
@@ -2047,9 +2123,11 @@
           longitude: 36.06272
     -
       name: "Iğdır"
+      native: "Iğdır"
       code: "76"
       iso3166_2: "TR-76"
       type: "province"
+      type_es: "provincia"
       latitude: 39.9218784
       longitude: 44.0467957
       cities:
@@ -2071,9 +2149,11 @@
           longitude: 43.65212
     -
       name: "Isparta"
+      native: "Isparta"
       code: "32"
       iso3166_2: "TR-32"
       type: "province"
+      type_es: "provincia"
       latitude: 37.9465412
       longitude: 30.9602093
       cities:
@@ -2131,9 +2211,11 @@
           longitude: 31.38639
     -
       name: "İstanbul"
+      native: "İstanbul"
       code: "34"
       iso3166_2: "TR-34"
       type: "province"
+      type_es: "provincia"
       latitude: 41.006381
       longitude: 28.9758715
       cities:
@@ -2299,9 +2381,11 @@
           longitude: 28.90952
     -
       name: "İzmir"
+      native: "İzmir"
       code: "35"
       iso3166_2: "TR-35"
       type: "province"
+      type_es: "provincia"
       latitude: 38.4192537
       longitude: 27.128469
       cities:
@@ -2431,9 +2515,11 @@
           longitude: 26.76403
     -
       name: "Kahramanmaraş"
+      native: "Kahramanmaraş"
       code: "46"
       iso3166_2: "TR-46"
       type: "province"
+      type_es: "provincia"
       latitude: 37.7830345
       longitude: 36.830655
       cities:
@@ -2483,9 +2569,11 @@
           longitude: 36.84626
     -
       name: "Karabük"
+      native: "Karabük"
       code: "78"
       iso3166_2: "TR-78"
       type: "province"
+      type_es: "provincia"
       latitude: 41.1955402
       longitude: 32.6231154
       cities:
@@ -2515,9 +2603,11 @@
           longitude: 32.33133
     -
       name: "Karaman"
+      native: "Karaman"
       code: "70"
       iso3166_2: "TR-70"
       type: "province"
+      type_es: "provincia"
       latitude: 37.1796848
       longitude: 33.3383665
       cities:
@@ -2547,9 +2637,11 @@
           longitude: 32.61203
     -
       name: "Kars"
+      native: "Karma"
       code: "36"
       iso3166_2: "TR-36"
       type: "province"
+      type_es: "provincia"
       latitude: 40.4558435
       longitude: 42.9979531
       cities:
@@ -2587,9 +2679,11 @@
           longitude: 43.12769
     -
       name: "Kastamonu"
+      native: "Kastamonu"
       code: "37"
       iso3166_2: "TR-37"
       type: "province"
+      type_es: "provincia"
       latitude: 41.3680217
       longitude: 33.7619177
       cities:
@@ -2675,9 +2769,11 @@
           longitude: 34.04013
     -
       name: "Kayseri"
+      native: "Kayseri"
       code: "38"
       iso3166_2: "TR-38"
       type: "province"
+      type_es: "provincia"
       latitude: 38.6582232
       longitude: 35.5546374
       cities:
@@ -2751,9 +2847,11 @@
           longitude: 35.11795
     -
       name: "Kilis"
+      native: "Kilis"
       code: "79"
       iso3166_2: "TR-79"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7797231
       longitude: 37.1416892
       cities:
@@ -2775,9 +2873,11 @@
           longitude: 37.15083
     -
       name: "Kırıkkale"
+      native: "Kırıkkale"
       code: "71"
       iso3166_2: "TR-71"
       type: "province"
+      type_es: "provincia"
       latitude: 39.8860105
       longitude: 33.8278992
       cities:
@@ -2819,9 +2919,11 @@
           longitude: 33.45615
     -
       name: "Kırklareli"
+      native: "Kırklareli"
       code: "39"
       iso3166_2: "TR-39"
       type: "province"
+      type_es: "provincia"
       latitude: 41.7078046
       longitude: 27.6051334
       cities:
@@ -2859,9 +2961,11 @@
           longitude: 27.76583
     -
       name: "Kırşehir"
+      native: "Kırşehir"
       code: "40"
       iso3166_2: "TR-40"
       type: "province"
+      type_es: "provincia"
       latitude: 39.3303066
       longitude: 34.1265884
       cities:
@@ -2895,9 +2999,11 @@
           longitude: 34.38286
     -
       name: "Kocaeli"
+      native: "Kocaeli"
       code: "41"
       iso3166_2: "TR-41"
       type: "province"
+      type_es: "provincia"
       latitude: 40.8216536
       longitude: 29.9507184
       cities:
@@ -2951,9 +3057,11 @@
           longitude: 29.78275
     -
       name: "Konya"
+      native: "Konya"
       code: "42"
       iso3166_2: "TR-42"
       type: "province"
+      type_es: "provincia"
       latitude: 38.0211951
       longitude: 32.5224943
       cities:
@@ -3083,9 +3191,11 @@
           longitude: 31.73223
     -
       name: "Kütahya"
+      native: "Kütahya"
       code: "43"
       iso3166_2: "TR-43"
       type: "province"
+      type_es: "provincia"
       latitude: 39.2522508
       longitude: 29.4937732
       cities:
@@ -3143,9 +3253,11 @@
           longitude: 29.49866
     -
       name: "Malatya"
+      native: "Malatya"
       code: "44"
       iso3166_2: "TR-44"
       type: "province"
+      type_es: "provincia"
       latitude: 38.4820156
       longitude: 38.1035355
       cities:
@@ -3203,9 +3315,11 @@
           longitude: 38.24526
     -
       name: "Manisa"
+      native: "Manisa"
       code: "45"
       iso3166_2: "TR-45"
       type: "province"
+      type_es: "provincia"
       latitude: 38.8574402
       longitude: 28.0565711
       cities:
@@ -3279,9 +3393,11 @@
           longitude: 27.40806
     -
       name: "Mardin"
+      native: "Mardin"
       code: "47"
       iso3166_2: "TR-47"
       type: "province"
+      type_es: "provincia"
       latitude: 37.3209802
       longitude: 40.7251295
       cities:
@@ -3327,9 +3443,11 @@
           longitude: 40.81739
     -
       name: "Mersin"
+      native: "Mersin"
       code: "33"
       iso3166_2: "TR-33"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7978381
       longitude: 34.6298391
       cities:
@@ -3391,9 +3509,11 @@
           longitude: 34.57621
     -
       name: "Muğla"
+      native: "Muğla"
       code: "48"
       iso3166_2: "TR-48"
       type: "province"
+      type_es: "provincia"
       latitude: 37.2151784
       longitude: 28.363733
       cities:
@@ -3451,9 +3571,11 @@
           longitude: 28.11441
     -
       name: "Muş"
+      native: "Muş"
       code: "49"
       iso3166_2: "TR-49"
       type: "province"
+      type_es: "provincia"
       latitude: 38.9740786
       longitude: 41.9590433
       cities:
@@ -3483,9 +3605,11 @@
           longitude: 41.45402
     -
       name: "Nevşehir"
+      native: "Nevşehir"
       code: "50"
       iso3166_2: "TR-50"
       type: "province"
+      type_es: "provincia"
       latitude: 38.7235072
       longitude: 34.7194168
       cities:
@@ -3523,9 +3647,11 @@
           longitude: 34.9402
     -
       name: "Niğde"
+      native: "Niğde"
       code: "51"
       iso3166_2: "TR-51"
       type: "province"
+      type_es: "provincia"
       latitude: 38.0664691
       longitude: 34.7051438
       cities:
@@ -3555,9 +3681,11 @@
           longitude: 34.58737
     -
       name: "Ordu"
+      native: "Saat"
       code: "52"
       iso3166_2: "TR-52"
       type: "province"
+      type_es: "provincia"
       latitude: 40.8292569
       longitude: 37.4082764
       cities:
@@ -3639,9 +3767,11 @@
           longitude: 37.27246
     -
       name: "Osmaniye"
+      native: "Osmaniye"
       code: "80"
       iso3166_2: "TR-80"
       type: "province"
+      type_es: "provincia"
       latitude: 37.2517882
       longitude: 36.2993502
       cities:
@@ -3675,9 +3805,11 @@
           longitude: 36.14661
     -
       name: "Rize"
+      native: "Rize"
       code: "53"
       iso3166_2: "TR-53"
       type: "province"
+      type_es: "provincia"
       latitude: 40.9569617
       longitude: 40.884428
       cities:
@@ -3731,9 +3863,11 @@
           longitude: 40.88417
     -
       name: "Sakarya"
+      native: "Sakarya"
       code: "54"
       iso3166_2: "TR-54"
       type: "province"
+      type_es: "provincia"
       latitude: 40.7755188
       longitude: 30.4020898
       cities:
@@ -3803,9 +3937,11 @@
           longitude: 30.49278
     -
       name: "Samsun"
+      native: "Samsun"
       code: "55"
       iso3166_2: "TR-55"
       type: "province"
+      type_es: "provincia"
       latitude: 41.2303557
       longitude: 35.9683338
       cities:
@@ -3879,9 +4015,11 @@
           longitude: 35.52889
     -
       name: "Şanlıurfa"
+      native: "Şanlıurfa"
       code: "63"
       iso3166_2: "TR-63"
       type: "province"
+      type_es: "provincia"
       latitude: 37.2595198
       longitude: 39.0408174
       cities:
@@ -3939,9 +4077,11 @@
           longitude: 39.75519
     -
       name: "Siirt"
+      native: "Siirt"
       code: "56"
       iso3166_2: "TR-56"
       type: "province"
+      type_es: "provincia"
       latitude: 37.8646916
       longitude: 42.0510294
       cities:
@@ -3975,9 +4115,11 @@
           longitude: 42.0121
     -
       name: "Sinop"
+      native: "Sinop"
       code: "57"
       iso3166_2: "TR-57"
       type: "province"
+      type_es: "provincia"
       latitude: 41.6476377
       longitude: 34.9560137
       cities:
@@ -4019,9 +4161,11 @@
           longitude: 34.33861111
     -
       name: "Sivas"
+      native: "Sivas"
       code: "58"
       iso3166_2: "TR-58"
       type: "province"
+      type_es: "provincia"
       latitude: 39.4191717
       longitude: 37.1012388
       cities:
@@ -4095,9 +4239,11 @@
           longitude: 37.77499
     -
       name: "Şırnak"
+      native: "Şırnak"
       code: "73"
       iso3166_2: "TR-73"
       type: "province"
+      type_es: "provincia"
       latitude: 37.455253
       longitude: 42.5212049
       cities:
@@ -4131,9 +4277,11 @@
           longitude: 42.85236
     -
       name: "Tekirdağ"
+      native: "Tekirdağ"
       code: "59"
       iso3166_2: "TR-59"
       type: "province"
+      type_es: "provincia"
       latitude: 41.0731403
       longitude: 27.4102013
       cities:
@@ -4183,9 +4331,11 @@
           longitude: 27.30377
     -
       name: "Tokat"
+      native: "Tokat"
       code: "60"
       iso3166_2: "TR-60"
       type: "province"
+      type_es: "provincia"
       latitude: 40.3902713
       longitude: 36.6251863
       cities:
@@ -4239,9 +4389,11 @@
           longitude: 35.88639
     -
       name: "Trabzon"
+      native: "Trabzon"
       code: "61"
       iso3166_2: "TR-61"
       type: "province"
+      type_es: "provincia"
       latitude: 40.8526439
       longitude: 39.7849273
       cities:
@@ -4319,9 +4471,11 @@
           longitude: 39.85546
     -
       name: "Tunceli"
+      native: "Tunceli"
       code: "62"
       iso3166_2: "TR-62"
       type: "province"
+      type_es: "provincia"
       latitude: 39.2197553
       longitude: 39.4139674
       cities:
@@ -4359,9 +4513,11 @@
           longitude: 39.89874
     -
       name: "Uşak"
+      native: "Uşak"
       code: "64"
       iso3166_2: "TR-64"
       type: "province"
+      type_es: "provincia"
       latitude: 38.5768902
       longitude: 29.3729779
       cities:
@@ -4391,9 +4547,11 @@
           longitude: 29.29129
     -
       name: "Van"
+      native: "Van"
       code: "65"
       iso3166_2: "TR-65"
       type: "province"
+      type_es: "provincia"
       latitude: 38.3249599
       longitude: 43.6589825
       cities:
@@ -4451,9 +4609,11 @@
           longitude: 43.349093
     -
       name: "Yalova"
+      native: "Yalova"
       code: "77"
       iso3166_2: "TR-77"
       type: "province"
+      type_es: "provincia"
       latitude: 40.5795422
       longitude: 29.1687005
       cities:
@@ -4483,9 +4643,11 @@
           longitude: 29.18049
     -
       name: "Yozgat"
+      native: "Yozgat"
       code: "66"
       iso3166_2: "TR-66"
       type: "province"
+      type_es: "provincia"
       latitude: 39.7152422
       longitude: 35.170998
       cities:
@@ -4547,9 +4709,11 @@
           longitude: 34.46722
     -
       name: "Zonguldak"
+      native: "Zonguldak"
       code: "67"
       iso3166_2: "TR-67"
       type: "province"
+      type_es: "provincia"
       latitude: 41.250324
       longitude: 31.8389738
       cities:

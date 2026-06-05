@@ -12,16 +12,20 @@
   currency_symbol: "Db"
   tld: ".st"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 1
   longitude: 7
   emoji: "🇸🇹"
   states:
     -
       name: "Água Grande"
+      native: "Água Grande"
       code: "01"
       iso3166_2: "ST-01"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3301924
       longitude: 6.733343
       cities:
@@ -31,9 +35,11 @@
           longitude: 6.72732
     -
       name: "Cantagalo"
+      native: "Cantagalo"
       code: "02"
       iso3166_2: "ST-02"
       type: "district"
+      type_es: "distrito"
       latitude: 0.21667
       longitude: 6.7
       cities:
@@ -43,9 +49,11 @@
           longitude: 6.73444
     -
       name: "Caué"
+      native: "Caué"
       code: "03"
       iso3166_2: "ST-03"
       type: "district"
+      type_es: "distrito"
       latitude: 0.13415
       longitude: 6.63825
       cities:
@@ -55,9 +63,11 @@
           longitude: 6.64972
     -
       name: "Lemba"
+      native: "Lemba"
       code: "04"
       iso3166_2: "ST-04"
       type: "district"
+      type_es: "distrito"
       latitude: 0.22
       longitude: 6.58
       cities:
@@ -67,9 +77,11 @@
           longitude: 6.55
     -
       name: "Lobata"
+      native: "Lobata"
       code: "05"
       iso3166_2: "ST-05"
       type: "district"
+      type_es: "distrito"
       latitude: 0.41
       longitude: 6.61
       cities:
@@ -79,9 +91,11 @@
           longitude: 6.61667
     -
       name: "Mé-Zóchi"
+      native: "Mé-Zóchi"
       code: "06"
       iso3166_2: "ST-06"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3
       longitude: 6.6
       cities:
@@ -91,9 +105,11 @@
           longitude: 6.68139
     -
       name: "Príncipe"
+      native: "Príncipe"
       code: "P"
       iso3166_2: "ST-P"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 1.6139381
       longitude: 7.4056928
       cities:

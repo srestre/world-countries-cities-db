@@ -12,16 +12,20 @@
   currency_symbol: "VT"
   tld: ".vu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -16
   longitude: 167
   emoji: "🇻🇺"
   states:
     -
       name: "Malampa"
+      native: "Malampa"
       code: "MAP"
       iso3166_2: "VU-MAP"
       type: "province"
+      type_es: "provincia"
       latitude: -16.2975
       longitude: 167.8103716
       cities:
@@ -35,18 +39,22 @@
           longitude: 167.39714
     -
       name: "Penama"
+      native: "Penama"
       code: "PAM"
       iso3166_2: "VU-PAM"
       type: "province"
+      type_es: "provincia"
       latitude: -15.2116666
       longitude: 167.9360319
       cities:
         []
     -
       name: "Sanma"
+      native: "Sanma"
       code: "SAM"
       iso3166_2: "VU-SAM"
       type: "province"
+      type_es: "provincia"
       latitude: -15.158134
       longitude: 166.9393865
       cities:
@@ -60,9 +68,11 @@
           longitude: 167.07265
     -
       name: "Shefa"
+      native: "Shefa"
       code: "SEE"
       iso3166_2: "VU-SEE"
       type: "province"
+      type_es: "provincia"
       latitude: -17.3283967
       longitude: 168.2547316
       cities:
@@ -72,9 +82,11 @@
           longitude: 168.31366
     -
       name: "Tafea"
+      native: "Tafea"
       code: "TAE"
       iso3166_2: "VU-TAE"
       type: "province"
+      type_es: "provincia"
       latitude: -19.3706034
       longitude: 169.6752428
       cities:
@@ -84,9 +96,11 @@
           longitude: 169.28167
     -
       name: "Torba"
+      native: "Torba"
       code: "TOB"
       iso3166_2: "VU-TOB"
       type: "province"
+      type_es: "provincia"
       latitude: -13.6644135
       longitude: 167.1741636
       cities:

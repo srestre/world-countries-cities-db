@@ -1,34 +1,34 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(115, 'North Korea', 'KP', 'PRK', 'Asia', 'Eastern Asia', 'Pyongyang', 'KPW', 40, 127, '🇰🇵');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(115, 'North Korea', 'Corea del Norte', 'KP', 'PRK', 'Asia', 'Asia', 'Eastern Asia', 'Asia Oriental', 'Pyongyang', 'KPW', 40, 127, '🇰🇵');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3998, 'Chagang', 115, 'KP', '04', 'province', 40.7198536, 126.539056),
-(5719, 'Kaesong', 115, 'KP', '15', 'metropolitan city', 37.97166667, 126.55277778),
-(3999, 'Kangwon', 115, 'KP', '07', 'province', 38.8354349, 127.5146547),
-(5718, 'Nampho', 115, 'KP', '14', 'metropolitan city', 38.73555556, 125.40888889),
-(3995, 'North Hamgyong', 115, 'KP', '09', 'province', 41.9098723, 129.369056),
-(4004, 'North Hwanghae', 115, 'KP', '06', 'province', 38.5709632, 126.2465723),
-(4002, 'North Pyongan', 115, 'KP', '03', 'province', 40.0642847, 125.2356222),
-(4005, 'Pyongyang', 115, 'KP', '01', 'capital city', 39.0167979, 125.7473609),
-(4001, 'Rason', 115, 'KP', '13', 'special city', 42.2497316, 130.3113296),
-(3996, 'Ryanggang', 115, 'KP', '10', 'province', 41.0997898, 128.1690346),
-(4000, 'South Hamgyong', 115, 'KP', '08', 'province', 40.119918, 127.5990989),
-(4003, 'South Hwanghae', 115, 'KP', '05', 'province', 38.2628262, 125.476901),
-(3997, 'South Pyongan', 115, 'KP', '02', 'province', 39.5416505, 126.0647645);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3998, 'Chagang', '차강', 115, 'KP', '04', 'province', 'provincia', 40.7198536, 126.539056),
+(5719, 'Kaesong', '개성시', 115, 'KP', '15', 'metropolitan city', 'ciudad metropolitana', 37.97166667, 126.55277778),
+(3999, 'Kangwon', '강원도', 115, 'KP', '07', 'province', 'provincia', 38.8354349, 127.5146547),
+(5718, 'Nampho', '남포시', 115, 'KP', '14', 'metropolitan city', 'ciudad metropolitana', 38.73555556, 125.40888889),
+(3995, 'North Hamgyong', '함경북도', 115, 'KP', '09', 'province', 'provincia', 41.9098723, 129.369056),
+(4004, 'North Hwanghae', '황해북도', 115, 'KP', '06', 'province', 'provincia', 38.5709632, 126.2465723),
+(4002, 'North Pyongan', '평안북도', 115, 'KP', '03', 'province', 'provincia', 40.0642847, 125.2356222),
+(4005, 'Pyongyang', '평양', 115, 'KP', '01', 'capital city', 'ciudad capital', 39.0167979, 125.7473609),
+(4001, 'Rason', '라손', 115, 'KP', '13', 'special city', 'ciudad especial', 42.2497316, 130.3113296),
+(3996, 'Ryanggang', '량강', 115, 'KP', '10', 'province', 'provincia', 41.0997898, 128.1690346),
+(4000, 'South Hamgyong', '함경남도', 115, 'KP', '08', 'province', 'provincia', 40.119918, 127.5990989),
+(4003, 'South Hwanghae', '황해남도', 115, 'KP', '05', 'province', 'provincia', 38.2628262, 125.476901),
+(3997, 'South Pyongan', '남평안', 115, 'KP', '02', 'province', 'provincia', 39.5416505, 126.0647645);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65186, 'Changgang-gun', 3998, 115, 41.06333, 126.72556),

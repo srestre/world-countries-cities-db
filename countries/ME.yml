@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".me"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 42.5
   longitude: 19.3
   emoji: "🇲🇪"
   states:
     -
       name: "Andrijevica"
+      native: "Андријевица"
       code: "01"
       iso3166_2: "ME-01"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.7362477
       longitude: 19.7859556
       cities:
@@ -31,9 +35,11 @@
           longitude: 19.79194
     -
       name: "Bar"
+      native: "Бара"
       code: "02"
       iso3166_2: "ME-02"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.0979745
       longitude: 19.0954528
       cities:
@@ -55,9 +61,11 @@
           longitude: 19.04667
     -
       name: "Berane"
+      native: "Беране"
       code: "03"
       iso3166_2: "ME-03"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.8435792
       longitude: 19.8728701
       cities:
@@ -67,9 +75,11 @@
           longitude: 19.87333
     -
       name: "Bijelo Polje"
+      native: "Бело поље"
       code: "04"
       iso3166_2: "ME-04"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.0341595
       longitude: 19.7473559
       cities:
@@ -79,9 +89,11 @@
           longitude: 19.74758
     -
       name: "Budva"
+      native: "Будва"
       code: "05"
       iso3166_2: "ME-05"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.2885656
       longitude: 18.8419505
       cities:
@@ -95,9 +107,11 @@
           longitude: 18.9425
     -
       name: "Danilovgrad"
+      native: "Даниловград"
       code: "07"
       iso3166_2: "ME-07"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.5524049
       longitude: 19.1052289
       cities:
@@ -111,9 +125,11 @@
           longitude: 19.195
     -
       name: "Gusinje"
+      native: "Gusinje"
       code: "22"
       iso3166_2: "ME-22"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.5563455
       longitude: 19.8306051
       cities:
@@ -123,9 +139,11 @@
           longitude: 19.83389
     -
       name: "Herceg-Novi"
+      native: "Херцег Нови"
       code: "08"
       iso3166_2: "ME-08"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.45306
       longitude: 18.53722
       cities:
@@ -147,9 +165,11 @@
           longitude: 18.68806
     -
       name: "Kolašin"
+      native: "Колашин"
       code: "09"
       iso3166_2: "ME-09"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.8238387
       longitude: 19.5218005
       cities:
@@ -159,9 +179,11 @@
           longitude: 19.51653
     -
       name: "Kotor"
+      native: "Котор"
       code: "10"
       iso3166_2: "ME-10"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.4249205
       longitude: 18.7713332
       cities:
@@ -183,9 +205,11 @@
           longitude: 18.69556
     -
       name: "Mojkovac"
+      native: "Мојковац"
       code: "11"
       iso3166_2: "ME-11"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.9624908
       longitude: 19.5799899
       cities:
@@ -195,9 +219,11 @@
           longitude: 19.5833
     -
       name: "Nikšić"
+      native: "Никшић"
       code: "12"
       iso3166_2: "ME-12"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.7739388
       longitude: 18.9488097
       cities:
@@ -207,9 +233,11 @@
           longitude: 18.94446
     -
       name: "Old Royal Capital Cetinje"
+      native: "Стари краљевско престонице Цетиње"
       code: "06"
       iso3166_2: "ME-06"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.4783057
       longitude: 18.8980059
       cities:
@@ -219,18 +247,22 @@
           longitude: 18.91417
     -
       name: "Petnjica"
+      native: "Петњица"
       code: "23"
       iso3166_2: "ME-23"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.925657
       longitude: 19.9829219
       cities:
         []
     -
       name: "Plav"
+      native: "Игра"
       code: "13"
       iso3166_2: "ME-13"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.6001337
       longitude: 19.9407541
       cities:
@@ -240,9 +272,11 @@
           longitude: 19.94556
     -
       name: "Pljevlja"
+      native: "Пљевља"
       code: "14"
       iso3166_2: "ME-14"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.3565611
       longitude: 19.3584715
       cities:
@@ -252,9 +286,11 @@
           longitude: 19.35843
     -
       name: "Plužine"
+      native: "Плужине"
       code: "15"
       iso3166_2: "ME-15"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.1593384
       longitude: 18.8551484
       cities:
@@ -264,9 +300,11 @@
           longitude: 18.83944
     -
       name: "Podgorica"
+      native: "Подгорица"
       code: "16"
       iso3166_2: "ME-16"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.4415238
       longitude: 19.2621081
       cities:
@@ -284,9 +322,11 @@
           longitude: 19.26361
     -
       name: "Rožaje"
+      native: "Рожаје"
       code: "17"
       iso3166_2: "ME-17"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.8408389
       longitude: 20.1670628
       cities:
@@ -296,9 +336,11 @@
           longitude: 20.16652
     -
       name: "Šavnik"
+      native: "Савник"
       code: "18"
       iso3166_2: "ME-18"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.957197
       longitude: 19.0946043
       cities:
@@ -308,9 +350,11 @@
           longitude: 19.09667
     -
       name: "Tivat"
+      native: "Тиват"
       code: "19"
       iso3166_2: "ME-19"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.4303762
       longitude: 18.6988104
       cities:
@@ -320,9 +364,11 @@
           longitude: 18.69611
     -
       name: "Tuzi"
+      native: "Тузи"
       code: "24"
       iso3166_2: "ME-24"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.36667
       longitude: 19.4
       cities:
@@ -340,9 +386,11 @@
           longitude: 19.4
     -
       name: "Ulcinj"
+      native: "Улцињ"
       code: "20"
       iso3166_2: "ME-20"
       type: "municipality"
+      type_es: "municipio"
       latitude: 41.926012
       longitude: 19.2055563
       cities:
@@ -352,9 +400,11 @@
           longitude: 19.22436
     -
       name: "Žabljak"
+      native: "Седло"
       code: "21"
       iso3166_2: "ME-21"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.1555152
       longitude: 19.1226018
       cities:
@@ -364,9 +414,11 @@
           longitude: 19.12325
     -
       name: "Zeta"
+      native: "Зета"
       code: "25"
       iso3166_2: "ME-25"
       type: "municipality"
+      type_es: "municipio"
       latitude: 42.4
       longitude: 19.25
       cities:

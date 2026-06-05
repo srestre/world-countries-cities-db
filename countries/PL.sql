@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(176, 'Poland', 'PL', 'POL', 'Europe', 'Eastern Europe', 'Warsaw', 'PLN', 52, 20, '🇵🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(176, 'Poland', 'Polonia', 'PL', 'POL', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Warsaw', 'PLN', 52, 20, '🇵🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1634, 'Greater Poland', 176, 'PL', '30', 'voivodship', 52.1458506, 17.397672),
-(1630, 'Holy Cross', 176, 'PL', '26', 'voivodship', 50.7504894, 20.7829122),
-(1625, 'Kuyavia-Pomerania', 176, 'PL', '04', 'voivodship', 53.1648363, 18.4834224),
-(1635, 'Lesser Poland', 176, 'PL', '12', 'voivodship', 49.790952, 20.3793521),
-(1629, 'Lower Silesia', 176, 'PL', '02', 'voivodship', 50.9206028, 16.4946351),
-(1638, 'Lublin', 176, 'PL', '06', 'voivodship', 51.250559, 22.5701022),
-(1631, 'Lubusz', 176, 'PL', '08', 'voivodship', 52.1001754, 15.3605075),
-(1636, 'Łódź', 176, 'PL', '10', 'voivodship', 51.7687323, 19.4569911),
-(1637, 'Mazovia', 176, 'PL', '14', 'voivodship', 52.5461934, 21.2073404),
-(1632, 'Podlaskie', 176, 'PL', '20', 'voivodship', 53.2668455, 22.8525787),
-(1624, 'Pomerania', 176, 'PL', '22', 'voivodship', 54.24556, 18.1099),
-(1623, 'Silesia', 176, 'PL', '24', 'voivodship', 50.5687422, 19.2343995),
-(1626, 'Subcarpathia', 176, 'PL', '18', 'voivodship', 49.3113402, 22.4325907),
-(1622, 'Upper Silesia', 176, 'PL', '16', 'voivodship', 50.2466526, 18.6453696),
-(1628, 'Warmia-Masuria', 176, 'PL', '28', 'voivodship', 53.9311892, 21.1260808),
-(1633, 'West Pomerania', 176, 'PL', '32', 'voivodship', 53.5450793, 15.5661586);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1634, 'Greater Poland', 'Większa Polska', 176, 'PL', '30', 'voivodship', 'voivodato', 52.1458506, 17.397672),
+(1630, 'Holy Cross', 'Święty krzyż', 176, 'PL', '26', 'voivodship', 'voivodato', 50.7504894, 20.7829122),
+(1625, 'Kuyavia-Pomerania', 'Kuyavia-Pomerania', 176, 'PL', '04', 'voivodship', 'voivodato', 53.1648363, 18.4834224),
+(1635, 'Lesser Poland', 'Mniejsza Polska', 176, 'PL', '12', 'voivodship', 'voivodato', 49.790952, 20.3793521),
+(1629, 'Lower Silesia', 'Dolna Śląska', 176, 'PL', '02', 'voivodship', 'voivodato', 50.9206028, 16.4946351),
+(1638, 'Lublin', 'Lublin', 176, 'PL', '06', 'voivodship', 'voivodato', 51.250559, 22.5701022),
+(1631, 'Lubusz', 'Lubus', 176, 'PL', '08', 'voivodship', 'voivodato', 52.1001754, 15.3605075),
+(1636, 'Łódź', 'Łódź', 176, 'PL', '10', 'voivodship', 'voivodato', 51.7687323, 19.4569911),
+(1637, 'Mazovia', 'Mazovia', 176, 'PL', '14', 'voivodship', 'voivodato', 52.5461934, 21.2073404),
+(1632, 'Podlaskie', 'Podlaskie', 176, 'PL', '20', 'voivodship', 'voivodato', 53.2668455, 22.8525787),
+(1624, 'Pomerania', 'Pomerania', 176, 'PL', '22', 'voivodship', 'voivodato', 54.24556, 18.1099),
+(1623, 'Silesia', 'Śląska', 176, 'PL', '24', 'voivodship', 'voivodato', 50.5687422, 19.2343995),
+(1626, 'Subcarpathia', 'Sub -Carpathia', 176, 'PL', '18', 'voivodship', 'voivodato', 49.3113402, 22.4325907),
+(1622, 'Upper Silesia', 'Upper Silesia', 176, 'PL', '16', 'voivodship', 'voivodato', 50.2466526, 18.6453696),
+(1628, 'Warmia-Masuria', 'Warmia-Masuria', 176, 'PL', '28', 'voivodship', 'voivodato', 53.9311892, 21.1260808),
+(1633, 'West Pomerania', 'West Pomerania', 176, 'PL', '32', 'voivodship', 'voivodato', 53.5450793, 15.5661586);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (85788, 'Babiak', 1634, 176, 52.3453, 18.66663),

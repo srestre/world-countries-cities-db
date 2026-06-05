@@ -1,58 +1,58 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(161, 'Nigeria', 'NG', 'NGA', 'Africa', 'Western Africa', 'Abuja', 'NGN', 10, 8, '🇳🇬');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(161, 'Nigeria', 'Nigeria', 'NG', 'NGA', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Abuja', 'NGN', 10, 8, '🇳🇬');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(303, 'Abia', 161, 'NG', 'AB', 'state', 5.4540953, 7.5153071),
-(293, 'Abuja Federal Capital Territory', 161, 'NG', 'FC', 'capital territory', 8.8311228, 7.1724673),
-(320, 'Adamawa', 161, 'NG', 'AD', 'state', 9.5129772, 12.3881887),
-(304, 'Akwa Ibom', 161, 'NG', 'AK', 'state', 4.9906379, 7.7966205),
-(315, 'Anambra', 161, 'NG', 'AN', 'state', 6.2183136, 6.9531842),
-(312, 'Bauchi', 161, 'NG', 'BA', 'state', 10.6228284, 10.0287754),
-(305, 'Bayelsa', 161, 'NG', 'BY', 'state', 4.7629786, 6.028898),
-(291, 'Benue', 161, 'NG', 'BE', 'state', 7.3505747, 8.7772877),
-(307, 'Borno', 161, 'NG', 'BO', 'state', 12.1875392, 13.3080034),
-(314, 'Cross River', 161, 'NG', 'CR', 'state', 5.8671966, 8.5204774),
-(316, 'Delta', 161, 'NG', 'DE', 'state', 5.5273061, 6.1784167),
-(311, 'Ebonyi', 161, 'NG', 'EB', 'state', 6.1996918, 8.0348906),
-(318, 'Edo', 161, 'NG', 'ED', 'state', 6.6076575, 5.9722713),
-(309, 'Ekiti', 161, 'NG', 'EK', 'state', 7.736891, 5.2738326),
-(289, 'Enugu', 161, 'NG', 'EN', 'state', 6.5536094, 7.4143061),
-(310, 'Gombe', 161, 'NG', 'GO', 'state', 10.4304018, 11.2065408),
-(308, 'Imo', 161, 'NG', 'IM', 'state', 5.5859456, 7.0669651),
-(288, 'Jigawa', 161, 'NG', 'JI', 'state', 12.3252362, 9.5103296),
-(294, 'Kaduna', 161, 'NG', 'KD', 'state', 10.3825318, 7.8533226),
-(300, 'Kano', 161, 'NG', 'KN', 'state', 11.8948389, 8.5364136),
-(313, 'Katsina', 161, 'NG', 'KT', 'state', 12.5630825, 7.6207063),
-(290, 'Kebbi', 161, 'NG', 'KE', 'state', 11.4167574, 4.1074545),
-(298, 'Kogi', 161, 'NG', 'KO', 'state', 7.7949602, 6.6868669),
-(295, 'Kwara', 161, 'NG', 'KW', 'state', 8.8367891, 4.6688487),
-(306, 'Lagos', 161, 'NG', 'LA', 'state', 6.4550575, 3.3941795),
-(301, 'Nasarawa', 161, 'NG', 'NA', 'state', 8.4387868, 8.2382849),
-(317, 'Niger', 161, 'NG', 'NI', 'state', 9.9326083, 5.6511088),
-(323, 'Ogun', 161, 'NG', 'OG', 'state', 6.9788582, 3.4389293),
-(321, 'Ondo', 161, 'NG', 'ON', 'state', 7.0209686, 5.0567477),
-(322, 'Osun', 161, 'NG', 'OS', 'state', 7.5484047, 4.4978307),
-(296, 'Oyo', 161, 'NG', 'OY', 'state', 8.2151249, 3.5642897),
-(302, 'Plateau', 161, 'NG', 'PL', 'state', 9.0583446, 9.6826289),
-(4926, 'Rivers', 161, 'NG', 'RI', 'state', 4.8416028, 6.8604088),
-(292, 'Sokoto', 161, 'NG', 'SO', 'state', 13.0611195, 5.3152203),
-(319, 'Taraba', 161, 'NG', 'TA', 'state', 8.0141334, 10.7376336),
-(297, 'Yobe', 161, 'NG', 'YO', 'state', 12.1233242, 11.5065937),
-(299, 'Zamfara', 161, 'NG', 'ZA', 'state', 12.0078998, 6.4191432);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(303, 'Abia', 'Abia', 161, 'NG', 'AB', 'state', 'estado', 5.4540953, 7.5153071),
+(293, 'Abuja Federal Capital Territory', 'Abuja Federal Capital Territory', 161, 'NG', 'FC', 'capital territory', 'territorio capital', 8.8311228, 7.1724673),
+(320, 'Adamawa', 'Adamawa', 161, 'NG', 'AD', 'state', 'estado', 9.5129772, 12.3881887),
+(304, 'Akwa Ibom', 'Immoral', 161, 'NG', 'AK', 'state', 'estado', 4.9906379, 7.7966205),
+(315, 'Anambra', 'Anambra', 161, 'NG', 'AN', 'state', 'estado', 6.2183136, 6.9531842),
+(312, 'Bauchi', 'Bauchi', 161, 'NG', 'BA', 'state', 'estado', 10.6228284, 10.0287754),
+(305, 'Bayelsa', 'Bayelsa', 161, 'NG', 'BY', 'state', 'estado', 4.7629786, 6.028898),
+(291, 'Benue', 'Benue', 161, 'NG', 'BE', 'state', 'estado', 7.3505747, 8.7772877),
+(307, 'Borno', 'Borno', 161, 'NG', 'BO', 'state', 'estado', 12.1875392, 13.3080034),
+(314, 'Cross River', 'Cross River', 161, 'NG', 'CR', 'state', 'estado', 5.8671966, 8.5204774),
+(316, 'Delta', 'Delta', 161, 'NG', 'DE', 'state', 'estado', 5.5273061, 6.1784167),
+(311, 'Ebonyi', 'Ebonyi', 161, 'NG', 'EB', 'state', 'estado', 6.1996918, 8.0348906),
+(318, 'Edo', 'Or', 161, 'NG', 'ED', 'state', 'estado', 6.6076575, 5.9722713),
+(309, 'Ekiti', 'Ekiti', 161, 'NG', 'EK', 'state', 'estado', 7.736891, 5.2738326),
+(289, 'Enugu', 'Enugu', 161, 'NG', 'EN', 'state', 'estado', 6.5536094, 7.4143061),
+(310, 'Gombe', 'Gombe', 161, 'NG', 'GO', 'state', 'estado', 10.4304018, 11.2065408),
+(308, 'Imo', 'Imo', 161, 'NG', 'IM', 'state', 'estado', 5.5859456, 7.0669651),
+(288, 'Jigawa', 'Jigawa', 161, 'NG', 'JI', 'state', 'estado', 12.3252362, 9.5103296),
+(294, 'Kaduna', 'Kaduna', 161, 'NG', 'KD', 'state', 'estado', 10.3825318, 7.8533226),
+(300, 'Kano', 'Kano', 161, 'NG', 'KN', 'state', 'estado', 11.8948389, 8.5364136),
+(313, 'Katsina', 'Katsina', 161, 'NG', 'KT', 'state', 'estado', 12.5630825, 7.6207063),
+(290, 'Kebbi', 'Kebbi', 161, 'NG', 'KE', 'state', 'estado', 11.4167574, 4.1074545),
+(298, 'Kogi', 'Kogi', 161, 'NG', 'KO', 'state', 'estado', 7.7949602, 6.6868669),
+(295, 'Kwara', 'Kwara', 161, 'NG', 'KW', 'state', 'estado', 8.8367891, 4.6688487),
+(306, 'Lagos', 'Lagos', 161, 'NG', 'LA', 'state', 'estado', 6.4550575, 3.3941795),
+(301, 'Nasarawa', 'Nasarawa', 161, 'NG', 'NA', 'state', 'estado', 8.4387868, 8.2382849),
+(317, 'Niger', 'Niger', 161, 'NG', 'NI', 'state', 'estado', 9.9326083, 5.6511088),
+(323, 'Ogun', 'Ogun', 161, 'NG', 'OG', 'state', 'estado', 6.9788582, 3.4389293),
+(321, 'Ondo', 'Ondo', 161, 'NG', 'ON', 'state', 'estado', 7.0209686, 5.0567477),
+(322, 'Osun', 'Osun', 161, 'NG', 'OS', 'state', 'estado', 7.5484047, 4.4978307),
+(296, 'Oyo', 'Oyo', 161, 'NG', 'OY', 'state', 'estado', 8.2151249, 3.5642897),
+(302, 'Plateau', 'Plateau', 161, 'NG', 'PL', 'state', 'estado', 9.0583446, 9.6826289),
+(4926, 'Rivers', 'Rivers', 161, 'NG', 'RI', 'state', 'estado', 4.8416028, 6.8604088),
+(292, 'Sokoto', 'Sokoto', 161, 'NG', 'SO', 'state', 'estado', 13.0611195, 5.3152203),
+(319, 'Taraba', 'Taraba', 161, 'NG', 'TA', 'state', 'estado', 8.0141334, 10.7376336),
+(297, 'Yobe', 'Yobe', 161, 'NG', 'YO', 'state', 'estado', 12.1233242, 11.5065937),
+(299, 'Zamfara', 'Zamfara', 161, 'NG', 'ZA', 'state', 'estado', 12.0078998, 6.4191432);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (76744, 'Aba', 303, 161, 5.10658, 7.36667),

@@ -12,16 +12,20 @@
   currency_symbol: "Rp"
   tld: ".id"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: -5
   longitude: 120
   emoji: "🇮🇩"
   states:
     -
       name: "Aceh"
+      native: "Aceh"
       code: "AC"
       iso3166_2: "ID-AC"
       type: "province"
+      type_es: "provincia"
       latitude: 4.3685491
       longitude: 97.0253024
       cities:
@@ -135,9 +139,11 @@
           longitude: 97.7884
     -
       name: "Bali"
+      native: "Bali"
       code: "BA"
       iso3166_2: "ID-BA"
       type: "province"
+      type_es: "provincia"
       latitude: -8.2271303
       longitude: 115.1919203
       cities:
@@ -243,9 +249,11 @@
           longitude: 115.2654
     -
       name: "Banten"
+      native: "Banten"
       code: "BT"
       iso3166_2: "ID-BT"
       type: "province"
+      type_es: "provincia"
       latitude: -6.4453801
       longitude: 106.1375586
       cities:
@@ -283,9 +291,11 @@
           longitude: 106.46667
     -
       name: "Bengkulu"
+      native: "Bengkulu"
       code: "BE"
       iso3166_2: "ID-BE"
       type: "province"
+      type_es: "provincia"
       latitude: -3.7928451
       longitude: 102.2607641
       cities:
@@ -335,9 +345,11 @@
           longitude: 102.47429
     -
       name: "DI Yogyakarta"
+      native: "DI Yogyakarta"
       code: "YO"
       iso3166_2: "ID-YO"
       type: "Special region"
+      type_es: "región especial"
       latitude: -7.9778384
       longitude: 110.3672257
       cities:
@@ -363,9 +375,11 @@
           longitude: 110.36472
     -
       name: "DKI Jakarta"
+      native: "DKI Jakarta"
       code: "JK"
       iso3166_2: "ID-JK"
       type: "capital district"
+      type_es: "distrito capital"
       latitude: -6.1754049
       longitude: 106.827168
       cities:
@@ -391,9 +405,11 @@
           longitude: 106.7594984
     -
       name: "Gorontalo"
+      native: "Gorontalo"
       code: "GO"
       iso3166_2: "ID-GO"
       type: "province"
+      type_es: "provincia"
       latitude: 0.5435442
       longitude: 123.0567693
       cities:
@@ -423,9 +439,11 @@
           longitude: 121.59582
     -
       name: "Jambi"
+      native: "Jambi"
       code: "JA"
       iso3166_2: "ID-JA"
       type: "province"
+      type_es: "provincia"
       latitude: -1.6296917
       longitude: 103.6077806
       cities:
@@ -491,18 +509,22 @@
           longitude: 102.37473
     -
       name: "Jawa"
+      native: "Jawa"
       code: "JW"
       iso3166_2: "ID-JW"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -7.49166667
       longitude: 110.00444444
       cities:
         []
     -
       name: "Jawa Barat"
+      native: "Jawa Barat"
       code: "JB"
       iso3166_2: "ID-JB"
       type: "province"
+      type_es: "provincia"
       latitude: -6.8891904
       longitude: 107.6404716
       cities:
@@ -828,9 +850,11 @@
           longitude: 108.5037
     -
       name: "Jawa Tengah"
+      native: "Jawa Tengah"
       code: "JT"
       iso3166_2: "ID-JT"
       type: "province"
+      type_es: "provincia"
       latitude: -7.3032412
       longitude: 110.0044145
       cities:
@@ -1264,9 +1288,11 @@
           longitude: 109.90306
     -
       name: "Jawa Timur"
+      native: "Jawa Timur"
       code: "JI"
       iso3166_2: "ID-JI"
       type: "province"
+      type_es: "provincia"
       latitude: -7.6977397
       longitude: 112.4914199
       cities:
@@ -1676,18 +1702,22 @@
           longitude: 114.4009
     -
       name: "Kalimantan"
+      native: "Kalimantan"
       code: "KA"
       iso3166_2: "ID-KA"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -1
       longitude: 114
       cities:
         []
     -
       name: "Kalimantan Barat"
+      native: "Kalimantan Barat"
       code: "KB"
       iso3166_2: "ID-KB"
       type: "province"
+      type_es: "provincia"
       latitude: -0.1322387
       longitude: 111.0968901
       cities:
@@ -1757,9 +1787,11 @@
           longitude: 111.49805556
     -
       name: "Kalimantan Selatan"
+      native: "Kalimantan Selatan"
       code: "KS"
       iso3166_2: "ID-KS"
       type: "province"
+      type_es: "provincia"
       latitude: -2.9285686
       longitude: 115.3700718
       cities:
@@ -1825,9 +1857,11 @@
           longitude: 115.03333
     -
       name: "Kalimantan Tengah"
+      native: "Kalimantan Tengah"
       code: "KT"
       iso3166_2: "ID-KT"
       type: "province"
+      type_es: "provincia"
       latitude: -1.499583
       longitude: 113.2903307
       cities:
@@ -1901,9 +1935,11 @@
           longitude: 111.23681
     -
       name: "Kalimantan Timur"
+      native: "Kalimantan Timur"
       code: "KI"
       iso3166_2: "ID-KI"
       type: "province"
+      type_es: "provincia"
       latitude: 0.7884397
       longitude: 116.2419977
       cities:
@@ -1957,9 +1993,11 @@
           longitude: 117.14583
     -
       name: "Kalimantan Utara"
+      native: "Kalimantan Utara"
       code: "KU"
       iso3166_2: "ID-KU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.0235817
       longitude: 116.2049306
       cities:
@@ -1989,9 +2027,11 @@
           longitude: 117.59152
     -
       name: "Kepulauan Bangka Belitung"
+      native: "Kepulauan Bangka Belitung"
       code: "BB"
       iso3166_2: "ID-BB"
       type: "province"
+      type_es: "provincia"
       latitude: -2.7052886
       longitude: 106.3585607
       cities:
@@ -2041,9 +2081,11 @@
           longitude: 107.63477
     -
       name: "Kepulauan Riau"
+      native: "Kepulauan Riau"
       code: "KR"
       iso3166_2: "ID-KR"
       type: "province"
+      type_es: "provincia"
       latitude: -0.1547846
       longitude: 104.5803745
       cities:
@@ -2077,9 +2119,11 @@
           longitude: 104.45833
     -
       name: "Lampung"
+      native: "Lampung"
       code: "LA"
       iso3166_2: "ID-LA"
       type: "province"
+      type_es: "provincia"
       latitude: -4.8555039
       longitude: 105.0272986
       cities:
@@ -2149,18 +2193,22 @@
           longitude: 104.52753
     -
       name: "Maluku"
+      native: "Maluku"
       code: "ML"
       iso3166_2: "ID-ML"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -3
       longitude: 129
       cities:
         []
     -
       name: "Maluku"
+      native: "Maluku"
       code: "MA"
       iso3166_2: "ID-MA"
       type: "province"
+      type_es: "provincia"
       latitude: -3.118837
       longitude: 129.4207759
       cities:
@@ -2214,9 +2262,11 @@
           longitude: 132.75229
     -
       name: "Maluku Utara"
+      native: "Maluku Utara"
       code: "MU"
       iso3166_2: "ID-MU"
       type: "province"
+      type_es: "provincia"
       latitude: 0.6301215
       longitude: 127.9720219
       cities:
@@ -2266,18 +2316,22 @@
           longitude: 128.00948
     -
       name: "Nusa Tenggara"
+      native: "Nusa Tenggara"
       code: "NU"
       iso3166_2: "ID-NU"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -8.5
       longitude: 120
       cities:
         []
     -
       name: "Nusa Tenggara Barat"
+      native: "Nusa Tenggara Barat"
       code: "NB"
       iso3166_2: "ID-NB"
       type: "province"
+      type_es: "provincia"
       latitude: -8.7892855
       longitude: 117.146169
       cities:
@@ -2359,9 +2413,11 @@
           longitude: 117.42024
     -
       name: "Nusa Tenggara Timur"
+      native: "Nusa Tenggara Timur"
       code: "NT"
       iso3166_2: "ID-NT"
       type: "province"
+      type_es: "provincia"
       latitude: -8.5656787
       longitude: 120.6978581
       cities:
@@ -2495,9 +2551,11 @@
           longitude: 120.2641
     -
       name: "Papua"
+      native: "Papua"
       code: "PA"
       iso3166_2: "ID-PA"
       type: "province"
+      type_es: "provincia"
       latitude: -2.4749149
       longitude: 138.08485
       cities:
@@ -2551,18 +2609,22 @@
           longitude: 137.01837
     -
       name: "Papua"
+      native: "Papua"
       code: "PP"
       iso3166_2: "ID-PP"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -4
       longitude: 136
       cities:
         []
     -
       name: "Papua Barat"
+      native: "Papua Barat"
       code: "PB"
       iso3166_2: "ID-PB"
       type: "province"
+      type_es: "provincia"
       latitude: -2.8553556
       longitude: 133.4738171
       cities:
@@ -2596,9 +2658,11 @@
           longitude: 134.5
     -
       name: "Papua Barat Daya"
+      native: "Papua Barat Daya"
       code: "PD"
       iso3166_2: "ID-PD"
       type: "province"
+      type_es: "provincia"
       latitude: -1.09856
       longitude: 131.3525336
       cities:
@@ -2628,9 +2692,11 @@
           longitude: 132.48962
     -
       name: "Papua Pegunungan"
+      native: "Papua Pegunungan"
       code: "PE"
       iso3166_2: "ID-PE"
       type: "province"
+      type_es: "provincia"
       latitude: -4.2478013
       longitude: 139.3725476
       cities:
@@ -2668,9 +2734,11 @@
           longitude: 138.47305
     -
       name: "Papua Selatan"
+      native: "Papua Selatan"
       code: "PS"
       iso3166_2: "ID-PS"
       type: "province"
+      type_es: "provincia"
       latitude: -6.5008882
       longitude: 139.3835339
       cities:
@@ -2692,9 +2760,11 @@
           longitude: 139.66667
     -
       name: "Papua Tengah"
+      native: "Papua Tengah"
       code: "PT"
       iso3166_2: "ID-PT"
       type: "province"
+      type_es: "provincia"
       latitude: -3.8642437
       longitude: 136.37328
       cities:
@@ -2736,9 +2806,11 @@
           longitude: 137.86611111
     -
       name: "Riau"
+      native: "Riau"
       code: "RI"
       iso3166_2: "ID-RI"
       type: "province"
+      type_es: "provincia"
       latitude: 1.0498079
       longitude: 101.6548433
       cities:
@@ -2800,18 +2872,22 @@
           longitude: 102.01355
     -
       name: "Sulawesi"
+      native: "Sulawesi"
       code: "SL"
       iso3166_2: "ID-SL"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -2
       longitude: 121
       cities:
         []
     -
       name: "Sulawesi Barat"
+      native: "Sulawesi Barat"
       code: "SR"
       iso3166_2: "ID-SR"
       type: "province"
+      type_es: "provincia"
       latitude: -2.4974546
       longitude: 119.3918955
       cities:
@@ -2853,9 +2929,11 @@
           longitude: 119.16667
     -
       name: "Sulawesi Selatan"
+      native: "Sulawesi Selatan"
       code: "SN"
       iso3166_2: "ID-SN"
       type: "province"
+      type_es: "provincia"
       latitude: -3.6446718
       longitude: 119.9471906
       cities:
@@ -2981,9 +3059,11 @@
           longitude: 120.3279
     -
       name: "Sulawesi Tengah"
+      native: "Sulawesi Tengah"
       code: "ST"
       iso3166_2: "ID-ST"
       type: "province"
+      type_es: "provincia"
       latitude: -1.6937786
       longitude: 120.8088555
       cities:
@@ -3049,9 +3129,11 @@
           longitude: 120.88643
     -
       name: "Sulawesi Tenggara"
+      native: "Sulawesi Tenggara"
       code: "SG"
       iso3166_2: "ID-SG"
       type: "province"
+      type_es: "provincia"
       latitude: -3.5491199
       longitude: 121.7279646
       cities:
@@ -3125,9 +3207,11 @@
           longitude: 123.5948
     -
       name: "Sulawesi Utara"
+      native: "Sulawesi Utara"
       code: "SA"
       iso3166_2: "ID-SA"
       type: "province"
+      type_es: "provincia"
       latitude: 0.6555692
       longitude: 124.090151
       cities:
@@ -3193,18 +3277,22 @@
           longitude: 124.91261
     -
       name: "Sumatera"
+      native: "Sumatera"
       code: "SM"
       iso3166_2: "ID-SM"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: 0
       longitude: 102
       cities:
         []
     -
       name: "Sumatera Barat"
+      native: "Sumatera Barat"
       code: "SB"
       iso3166_2: "ID-SB"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5827529
       longitude: 100.6133379
       cities:
@@ -3282,9 +3370,11 @@
           longitude: 100.5771
     -
       name: "Sumatera Selatan"
+      native: "Sumatera Selatan"
       code: "SS"
       iso3166_2: "ID-SS"
       type: "province"
+      type_es: "provincia"
       latitude: -3.2193103
       longitude: 104.4075059
       cities:
@@ -3366,9 +3456,11 @@
           longitude: 103.80465
     -
       name: "Sumatera Utara"
+      native: "Sumatera Utara"
       code: "SU"
       iso3166_2: "ID-SU"
       type: "province"
+      type_es: "provincia"
       latitude: 2.1923519
       longitude: 99.3812201
       cities:

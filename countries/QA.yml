@@ -12,25 +12,31 @@
   currency_symbol: "ق.ر"
   tld: ".qa"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 25.5
   longitude: 51.25
   emoji: "🇶🇦"
   states:
     -
       name: "Al Daayen"
+      native: "دايين"
       code: "ZA"
       iso3166_2: "QA-ZA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 25.5097419
       longitude: 51.4422699
       cities:
         []
     -
       name: "Al Khor"
+      native: "Al Khor"
       code: "KH"
       iso3166_2: "QA-KH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 25.6804078
       longitude: 51.4968502
       cities:
@@ -44,9 +50,11 @@
           longitude: 51.50583
     -
       name: "Al Rayyan"
+      native: "Al Rayyan"
       code: "RA"
       iso3166_2: "QA-RA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 24.9304741
       longitude: 50.9776888
       cities:
@@ -60,9 +68,11 @@
           longitude: 50.80722
     -
       name: "Al Wakrah"
+      native: "واكرا"
       code: "WA"
       iso3166_2: "QA-WA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 25.1566623
       longitude: 51.6013212
       cities:
@@ -80,9 +90,11 @@
           longitude: 51.55067
     -
       name: "Al-Shahaniya"
+      native: "الشهانية"
       code: "SH"
       iso3166_2: "QA-SH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 25.3717421
       longitude: 51.227109
       cities:
@@ -100,9 +112,11 @@
           longitude: 50.78227
     -
       name: "Doha"
+      native: "الدوحة"
       code: "DA"
       iso3166_2: "QA-DA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 25.2854473
       longitude: 51.5310398
       cities:
@@ -112,9 +126,11 @@
           longitude: 51.53096
     -
       name: "Madinat ash Shamal"
+      native: "مينات آش شوال"
       code: "MS"
       iso3166_2: "QA-MS"
       type: "municipality"
+      type_es: "municipio"
       latitude: 26.1182743
       longitude: 51.2157265
       cities:
@@ -132,9 +148,11 @@
           longitude: 51.2009
     -
       name: "Umm Salal"
+      native: "قاعدة أم"
       code: "US"
       iso3166_2: "QA-US"
       type: "municipality"
+      type_es: "municipio"
       latitude: 25.4647654
       longitude: 51.3383996
       cities:

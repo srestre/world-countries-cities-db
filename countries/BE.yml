@@ -12,25 +12,31 @@
   currency_symbol: "€"
   tld: ".be"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 50.83333333
   longitude: 4
   emoji: "🇧🇪"
   states:
     -
       name: "Antwerp"
+      native: "Antwerpen"
       code: "VAN"
       iso3166_2: "BE-VAN"
       type: "province"
+      type_es: "provincia"
       latitude: 51.2194475
       longitude: 4.4024643
       cities:
         []
     -
       name: "Brussels-Capital "
+      native: "Brussel-kapitaal"
       code: "BRU"
       iso3166_2: "BE-BRU"
       type: "region"
+      type_es: "región"
       latitude: 50.8387951
       longitude: 4.3753041
       cities:
@@ -40,18 +46,22 @@
           longitude: 4.34878
     -
       name: "East Flanders"
+      native: "Oost -Vlaanderen"
       code: "VOV"
       iso3166_2: "BE-VOV"
       type: "province"
+      type_es: "provincia"
       latitude: 51.0375423
       longitude: 3.811783
       cities:
         []
     -
       name: "Flanders"
+      native: "Vlaanderen"
       code: "VLG"
       iso3166_2: "BE-VLG"
       type: "region"
+      type_es: "región"
       latitude: 51.0962462
       longitude: 4.1786291
       cities:
@@ -1257,63 +1267,77 @@
           longitude: 4.32664
     -
       name: "Flemish Brabant"
+      native: "Vlaams Brabant"
       code: "VBR"
       iso3166_2: "BE-VBR"
       type: "province"
+      type_es: "provincia"
       latitude: 50.8686516
       longitude: 4.7886238
       cities:
         []
     -
       name: "Hainaut"
+      native: "Hainaut"
       code: "WHT"
       iso3166_2: "BE-WHT"
       type: "province"
+      type_es: "provincia"
       latitude: 50.36192
       longitude: 4.125217
       cities:
         []
     -
       name: "Liège"
+      native: "Aan het zeren"
       code: "WLG"
       iso3166_2: "BE-WLG"
       type: "province"
+      type_es: "provincia"
       latitude: 50.6450944
       longitude: 5.5736112
       cities:
         []
     -
       name: "Limburg"
+      native: "Limburg"
       code: "VLI"
       iso3166_2: "BE-VLI"
       type: "province"
+      type_es: "provincia"
       latitude: 50.9977937
       longitude: 5.4453575
       cities:
         []
     -
       name: "Luxembourg"
+      native: "Luxemburg"
       code: "WLX"
       iso3166_2: "BE-WLX"
       type: "province"
+      type_es: "provincia"
       latitude: 49.9638005
       longitude: 5.4398019
       cities:
         []
     -
       name: "Namur"
+      native: "Namur"
       code: "WNA"
       iso3166_2: "BE-WNA"
       type: "province"
+      type_es: "provincia"
       latitude: 50.4673883
       longitude: 4.8719854
       cities:
         []
     -
       name: "Wallonia"
+      native: "Wallonia"
       code: "WAL"
       iso3166_2: "BE-WAL"
       type: "region"
+      type_es: "región"
       latitude: 50.1545523
       longitude: 5.3992119
       cities:
@@ -2311,18 +2335,22 @@
           longitude: 4.88059
     -
       name: "Walloon Brabant"
+      native: "Walloon Brabant"
       code: "WBR"
       iso3166_2: "BE-WBR"
       type: "province"
+      type_es: "provincia"
       latitude: 50.6663106
       longitude: 4.5500074
       cities:
         []
     -
       name: "West Flanders"
+      native: "West Vlaanderen"
       code: "VWV"
       iso3166_2: "BE-VWV"
       type: "province"
+      type_es: "provincia"
       latitude: 51.0404747
       longitude: 2.9994213
       cities:

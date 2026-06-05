@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".de"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 51
   longitude: 9
   emoji: "🇩🇪"
   states:
     -
       name: "Baden-Württemberg"
+      native: "Baden-Württemberg"
       code: "BW"
       iso3166_2: "DE-BW"
       type: "land"
+      type_es: "estado federado"
       latitude: 48.53775
       longitude: 9.041169
       cities:
@@ -3807,9 +3811,11 @@
           longitude: 9.46232
     -
       name: "Bavaria"
+      native: "Bayern"
       code: "BY"
       iso3166_2: "DE-BY"
       type: "land"
+      type_es: "estado federado"
       latitude: 48.9467562
       longitude: 11.4038717
       cities:
@@ -10843,9 +10849,11 @@
           longitude: 13.23765
     -
       name: "Berlin"
+      native: "Berlin"
       code: "BE"
       iso3166_2: "DE-BE"
       type: "land"
+      type_es: "estado federado"
       latitude: 52.510885
       longitude: 13.3989367
       cities:
@@ -11239,9 +11247,11 @@
           longitude: 13.25
     -
       name: "Brandenburg"
+      native: "Brandenburg"
       code: "BB"
       iso3166_2: "DE-BB"
       type: "land"
+      type_es: "estado federado"
       latitude: 52.8455492
       longitude: 13.2461296
       cities:
@@ -12115,9 +12125,11 @@
           longitude: 13.44909
     -
       name: "Bremen"
+      native: "Bremen"
       code: "HB"
       iso3166_2: "DE-HB"
       type: "land"
+      type_es: "estado federado"
       latitude: 53.0792962
       longitude: 8.8016936
       cities:
@@ -12139,9 +12151,11 @@
           longitude: 8.6238803
     -
       name: "Hamburg"
+      native: "Hamburg"
       code: "HH"
       iso3166_2: "DE-HH"
       type: "land"
+      type_es: "estado federado"
       latitude: 53.5510846
       longitude: 9.9936819
       cities:
@@ -12295,9 +12309,11 @@
           longitude: 10.13117
     -
       name: "Hessen"
+      native: "Hessen"
       code: "HE"
       iso3166_2: "DE-HE"
       type: "land"
+      type_es: "estado federado"
       latitude: 50.6080651
       longitude: 9.0284647
       cities:
@@ -13691,9 +13707,11 @@
           longitude: 8.61084
     -
       name: "Lower Saxony"
+      native: "Niedersachsen"
       code: "NI"
       iso3166_2: "DE-NI"
       type: "land"
+      type_es: "estado federado"
       latitude: 52.8398531
       longitude: 9.075962
       cities:
@@ -16703,9 +16721,11 @@
           longitude: 10.63333
     -
       name: "Mecklenburg-Vorpommern"
+      native: "Mecklenburg-Vorpommern"
       code: "MV"
       iso3166_2: "DE-MV"
       type: "land"
+      type_es: "estado federado"
       latitude: 53.7735064
       longitude: 12.5755471
       cities:
@@ -17723,9 +17743,11 @@
           longitude: 13.54855
     -
       name: "North Rhine-Westphalia"
+      native: "Nordrhein-Westfalen"
       code: "NW"
       iso3166_2: "DE-NW"
       type: "land"
+      type_es: "estado federado"
       latitude: 51.4789205
       longitude: 7.5543751
       cities:
@@ -19443,9 +19465,11 @@
           longitude: 6.65414
     -
       name: "Rhineland-Palatinate"
+      native: "Rheinland-Pfalz"
       code: "RP"
       iso3166_2: "DE-RP"
       type: "land"
+      type_es: "estado federado"
       latitude: 49.9531599
       longitude: 7.310646
       cities:
@@ -22203,9 +22227,11 @@
           longitude: 7.36977
     -
       name: "Saarland"
+      native: "Saarland"
       code: "SL"
       iso3166_2: "DE-SL"
       type: "land"
+      type_es: "estado federado"
       latitude: 49.3841872
       longitude: 6.9537369
       cities:
@@ -22451,9 +22477,11 @@
           longitude: 6.54064
     -
       name: "Saxony"
+      native: "Sachsen"
       code: "SN"
       iso3166_2: "DE-SN"
       type: "land"
+      type_es: "estado federado"
       latitude: 50.9295798
       longitude: 13.4585052
       cities:
@@ -24227,9 +24255,11 @@
           longitude: 12.42241
     -
       name: "Saxony-Anhalt"
+      native: "Sachsen-Anhalt"
       code: "ST"
       iso3166_2: "DE-ST"
       type: "land"
+      type_es: "estado federado"
       latitude: 51.9280976
       longitude: 11.6812243
       cities:
@@ -25711,9 +25741,11 @@
           longitude: 12.39998
     -
       name: "Schleswig-Holstein"
+      native: "Schleswig-Holstein"
       code: "SH"
       iso3166_2: "DE-SH"
       type: "land"
+      type_es: "estado federado"
       latitude: 54.1853998
       longitude: 9.8220089
       cities:
@@ -27263,9 +27295,11 @@
           longitude: 10.51667
     -
       name: "Thuringia"
+      native: "Thüringen"
       code: "TH"
       iso3166_2: "DE-TH"
       type: "land"
+      type_es: "estado federado"
       latitude: 50.9014721
       longitude: 11.0377839
       cities:

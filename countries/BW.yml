@@ -12,16 +12,20 @@
   currency_symbol: "P"
   tld: ".bw"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -22
   longitude: 24
   emoji: "🇧🇼"
   states:
     -
       name: "Central"
+      native: "Central"
       code: "CE"
       iso3166_2: "BW-CE"
       type: "district"
+      type_es: "distrito"
       latitude: -21.4790187
       longitude: 26.2154174
       cities:
@@ -155,36 +159,44 @@
           longitude: 27.46153
     -
       name: "Chobe"
+      native: "Chobe"
       code: "CH"
       iso3166_2: "BW-CH"
       type: "district"
+      type_es: "distrito"
       latitude: -18.5
       longitude: 25
       cities:
         []
     -
       name: "Francistown"
+      native: "Francistown"
       code: "FR"
       iso3166_2: "BW-FR"
       type: "city"
+      type_es: "ciudad"
       latitude: -21.17361111
       longitude: 27.5125
       cities:
         []
     -
       name: "Gaborone"
+      native: "Gaborone"
       code: "GA"
       iso3166_2: "BW-GA"
       type: "city"
+      type_es: "ciudad"
       latitude: -24.65805556
       longitude: 25.91222222
       cities:
         []
     -
       name: "Ghanzi"
+      native: "Pirm"
       code: "GH"
       iso3166_2: "BW-GH"
       type: "district"
+      type_es: "distrito"
       latitude: -21.6968123
       longitude: 21.6457062
       cities:
@@ -198,18 +210,22 @@
           longitude: 21.64581
     -
       name: "Jwaneng"
+      native: "Jwaneng"
       code: "JW"
       iso3166_2: "BW-JW"
       type: "town"
+      type_es: "población"
       latitude: -24.60194444
       longitude: 24.72833333
       cities:
         []
     -
       name: "Kgalagadi"
+      native: "Kgalagadi"
       code: "KG"
       iso3166_2: "BW-KG"
       type: "district"
+      type_es: "distrito"
       latitude: -24.8490576
       longitude: 21.7883349
       cities:
@@ -239,9 +255,11 @@
           longitude: 23.28333
     -
       name: "Kgatleng"
+      native: "In the world"
       code: "KL"
       iso3166_2: "BW-KL"
       type: "district"
+      type_es: "distrito"
       latitude: -24.134085
       longitude: 26.4177246
       cities:
@@ -263,9 +281,11 @@
           longitude: 26.13333
     -
       name: "Kweneng"
+      native: "Kweneng"
       code: "KW"
       iso3166_2: "BW-KW"
       type: "district"
+      type_es: "distrito"
       latitude: -23.9028101
       longitude: 24.9214122
       cities:
@@ -323,18 +343,22 @@
           longitude: 25.53975
     -
       name: "Lobatse"
+      native: "Lobatse"
       code: "LO"
       iso3166_2: "BW-LO"
       type: "town"
+      type_es: "población"
       latitude: -25.21666667
       longitude: 25.66666667
       cities:
         []
     -
       name: "North-East"
+      native: "North-East"
       code: "NE"
       iso3166_2: "BW-NE"
       type: "district"
+      type_es: "distrito"
       latitude: -21.0244816
       longitude: 27.5147504
       cities:
@@ -356,9 +380,11 @@
           longitude: 27.25
     -
       name: "North-West"
+      native: "North-West"
       code: "NW"
       iso3166_2: "BW-NW"
       type: "district"
+      type_es: "distrito"
       latitude: -19.3893529
       longitude: 23.267951
       cities:
@@ -384,18 +410,22 @@
           longitude: 21.84219
     -
       name: "Selibe Phikwe"
+      native: "Selibe Phikwe"
       code: "SP"
       iso3166_2: "BW-SP"
       type: "town"
+      type_es: "población"
       latitude: -21.97583333
       longitude: 27.84
       cities:
         []
     -
       name: "South-East"
+      native: "South-East"
       code: "SE"
       iso3166_2: "BW-SE"
       type: "district"
+      type_es: "distrito"
       latitude: -24.6563846
       longitude: 26.0575429
       cities:
@@ -421,9 +451,11 @@
           longitude: 25.86989
     -
       name: "Southern"
+      native: "Southern"
       code: "SO"
       iso3166_2: "BW-SO"
       type: "district"
+      type_es: "distrito"
       latitude: -24.7998688
       longitude: 24.5800692
       cities:
@@ -445,9 +477,11 @@
           longitude: 23.88333
     -
       name: "Sowa Town"
+      native: "Sowa Town"
       code: "ST"
       iso3166_2: "BW-ST"
       type: "town"
+      type_es: "población"
       latitude: -20.56361111
       longitude: 26.22444444
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "R"
   tld: ".za"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -29
   longitude: 24
   emoji: "🇿🇦"
   states:
     -
       name: "Eastern Cape"
+      native: "Eastern Cape"
       code: "EC"
       iso3166_2: "ZA-EC"
       type: "province"
+      type_es: "provincia"
       latitude: -32.2171831
       longitude: 26.6386401
       cities:
@@ -179,9 +183,11 @@
           longitude: 23.48954
     -
       name: "Free State"
+      native: "Free State"
       code: "FS"
       iso3166_2: "ZA-FS"
       type: "province"
+      type_es: "provincia"
       latitude: -28.7853618
       longitude: 26.4978933
       cities:
@@ -351,9 +357,11 @@
           longitude: 27.08395
     -
       name: "Gauteng"
+      native: "Gauteng"
       code: "GP"
       iso3166_2: "ZA-GP"
       type: "province"
+      type_es: "provincia"
       latitude: -25.9363439
       longitude: 28.0813105
       cities:
@@ -515,9 +523,11 @@
           longitude: 27.6486
     -
       name: "KwaZulu-Natal"
+      native: "KwaZulu-Natal"
       code: "KZN"
       iso3166_2: "ZA-KZN"
       type: "province"
+      type_es: "provincia"
       latitude: -28.503833
       longitude: 30.8875009
       cities:
@@ -695,9 +705,11 @@
           longitude: 31.29426
     -
       name: "Limpopo"
+      native: "Limpopo"
       code: "LP"
       iso3166_2: "ZA-LP"
       type: "province"
+      type_es: "provincia"
       latitude: -23.4735288
       longitude: 29.3959199
       cities:
@@ -795,9 +807,11 @@
           longitude: 27.9787
     -
       name: "Mpumalanga"
+      native: "East"
       code: "MP"
       iso3166_2: "ZA-MP"
       type: "province"
+      type_es: "provincia"
       latitude: -26.276849
       longitude: 30.1500153
       cities:
@@ -907,9 +921,11 @@
           longitude: 29.23323
     -
       name: "North West"
+      native: "North West"
       code: "NW"
       iso3166_2: "ZA-NW"
       type: "province"
+      type_es: "provincia"
       latitude: -26.1347819
       longitude: 25.6546729
       cities:
@@ -1011,9 +1027,11 @@
           longitude: 26.07512
     -
       name: "Northern Cape"
+      native: "Northern Cape"
       code: "NC"
       iso3166_2: "ZA-NC"
       type: "province"
+      type_es: "provincia"
       latitude: -29.573402
       longitude: 21.2051361
       cities:
@@ -1131,9 +1149,11 @@
           longitude: 24.84753
     -
       name: "Western Cape"
+      native: "Western Cape"
       code: "WC"
       iso3166_2: "ZA-WC"
       type: "province"
+      type_es: "provincia"
       latitude: -33.546977
       longitude: 20.72753
       cities:

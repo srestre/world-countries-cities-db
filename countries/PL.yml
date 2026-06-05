@@ -12,16 +12,20 @@
   currency_symbol: "zł"
   tld: ".pl"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 52
   longitude: 20
   emoji: "🇵🇱"
   states:
     -
       name: "Greater Poland"
+      native: "Większa Polska"
       code: "30"
       iso3166_2: "PL-30"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 52.1458506
       longitude: 17.397672
       cities:
@@ -975,9 +979,11 @@
           longitude: 17.04082
     -
       name: "Holy Cross"
+      native: "Święty krzyż"
       code: "26"
       iso3166_2: "PL-26"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 50.7504894
       longitude: 20.7829122
       cities:
@@ -1407,9 +1413,11 @@
           longitude: 20.59361
     -
       name: "Kuyavia-Pomerania"
+      native: "Kuyavia-Pomerania"
       code: "04"
       iso3166_2: "PL-04"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 53.1648363
       longitude: 18.4834224
       cities:
@@ -1915,9 +1923,11 @@
           longitude: 17.71992
     -
       name: "Lesser Poland"
+      native: "Mniejsza Polska"
       code: "12"
       iso3166_2: "PL-12"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 49.790952
       longitude: 20.3793521
       cities:
@@ -3363,9 +3373,11 @@
           longitude: 21.16894
     -
       name: "Lower Silesia"
+      native: "Dolna Śląska"
       code: "02"
       iso3166_2: "PL-02"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 50.9206028
       longitude: 16.4946351
       cities:
@@ -4227,9 +4239,11 @@
           longitude: 17.03671
     -
       name: "Lublin"
+      native: "Lublin"
       code: "06"
       iso3166_2: "PL-06"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 51.250559
       longitude: 22.5701022
       cities:
@@ -4971,9 +4985,11 @@
           longitude: 22.0917
     -
       name: "Lubusz"
+      native: "Lubus"
       code: "08"
       iso3166_2: "PL-08"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 52.1001754
       longitude: 15.3605075
       cities:
@@ -5319,9 +5335,11 @@
           longitude: 15.56763
     -
       name: "Łódź"
+      native: "Łódź"
       code: "10"
       iso3166_2: "PL-10"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 51.7687323
       longitude: 19.4569911
       cities:
@@ -5947,9 +5965,11 @@
           longitude: 19.62613
     -
       name: "Mazovia"
+      native: "Mazovia"
       code: "14"
       iso3166_2: "PL-14"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 52.5461934
       longitude: 21.2073404
       cities:
@@ -7259,9 +7279,11 @@
           longitude: 20.44599
     -
       name: "Podlaskie"
+      native: "Podlaskie"
       code: "20"
       iso3166_2: "PL-20"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 53.2668455
       longitude: 22.8525787
       cities:
@@ -7535,9 +7557,11 @@
           longitude: 21.78812
     -
       name: "Pomerania"
+      native: "Pomerania"
       code: "22"
       iso3166_2: "PL-22"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 54.24556
       longitude: 18.1099
       cities:
@@ -8063,9 +8087,11 @@
           longitude: 18.36476
     -
       name: "Silesia"
+      native: "Śląska"
       code: "24"
       iso3166_2: "PL-24"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 50.5687422
       longitude: 19.2343995
       cities:
@@ -9251,9 +9277,11 @@
           longitude: 19.19243
     -
       name: "Subcarpathia"
+      native: "Sub -Carpathia"
       code: "18"
       iso3166_2: "PL-18"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 49.3113402
       longitude: 22.4325907
       cities:
@@ -10251,9 +10279,11 @@
           longitude: 21.39622
     -
       name: "Upper Silesia"
+      native: "Upper Silesia"
       code: "16"
       iso3166_2: "PL-16"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 50.2466526
       longitude: 18.6453696
       cities:
@@ -10631,9 +10661,11 @@
           longitude: 18.34434
     -
       name: "Warmia-Masuria"
+      native: "Warmia-Masuria"
       code: "28"
       iso3166_2: "PL-28"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 53.9311892
       longitude: 21.1260808
       cities:
@@ -10971,9 +11003,11 @@
           longitude: 19.60519
     -
       name: "West Pomerania"
+      native: "West Pomerania"
       code: "32"
       iso3166_2: "PL-32"
       type: "voivodship"
+      type_es: "voivodato"
       latitude: 53.5450793
       longitude: 15.5661586
       cities:

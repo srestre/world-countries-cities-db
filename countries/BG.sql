@@ -1,49 +1,49 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(34, 'Bulgaria', 'BG', 'BGR', 'Europe', 'Eastern Europe', 'Sofia', 'BGN', 43, 25, '🇧🇬');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(34, 'Bulgaria', 'Bulgaria', 'BG', 'BGR', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Sofia', 'BGN', 43, 25, '🇧🇬');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4699, 'Blagoevgrad', 34, 'BG', '01', 'district', 42.0111077, 23.0906457),
-(4715, 'Burgas', 34, 'BG', '02', 'district', 42.4936616, 27.4721276),
-(4718, 'Dobrich', 34, 'BG', '08', 'district', 43.572786, 27.8272802),
-(4693, 'Gabrovo', 34, 'BG', '07', 'district', 42.86847, 25.316889),
-(4704, 'Haskovo', 34, 'BG', '26', 'district', 41.9344178, 25.5554672),
-(4702, 'Kardzhali', 34, 'BG', '09', 'district', 41.643746, 25.3722156),
-(4703, 'Kyustendil', 34, 'BG', '10', 'district', 42.2868799, 22.6939635),
-(4710, 'Lovech', 34, 'BG', '11', 'district', 43.1367798, 24.7139335),
-(4696, 'Montana', 34, 'BG', '12', 'district', 43.4085148, 23.2257589),
-(4712, 'Pazardzhik', 34, 'BG', '13', 'district', 42.1927567, 24.3336226),
-(4695, 'Pernik', 34, 'BG', '14', 'district', 42.605199, 23.0377916),
-(4706, 'Pleven', 34, 'BG', '15', 'district', 43.409022, 24.6180123),
-(4701, 'Plovdiv', 34, 'BG', '16', 'district', 42.1354079, 24.7452904),
-(4698, 'Razgrad', 34, 'BG', '17', 'district', 43.5271705, 26.5241228),
-(4713, 'Ruse', 34, 'BG', '18', 'district', 43.8355964, 25.9656144),
-(4882, 'Shumen', 34, 'BG', '27', 'district', 43.2712398, 26.9361286),
-(4708, 'Silistra', 34, 'BG', '19', 'district', 44.1147101, 27.2671454),
-(4700, 'Sliven', 34, 'BG', '20', 'district', 42.6816702, 26.3228569),
-(4694, 'Smolyan', 34, 'BG', '21', 'district', 41.5774148, 24.7010871),
-(4719, 'Sofia', 34, 'BG', '23', 'district', 42.64191, 23.9735632),
-(4705, 'Sofia City', 34, 'BG', '22', 'district', 42.654318, 23.3331572),
-(4707, 'Stara Zagora', 34, 'BG', '24', 'district', 42.4257709, 25.6344855),
-(4714, 'Targovishte', 34, 'BG', '25', 'district', 43.2462349, 26.5691251),
-(4717, 'Varna', 34, 'BG', '03', 'district', 43.2046477, 27.9105488),
-(4709, 'Veliko Tarnovo', 34, 'BG', '04', 'district', 43.0820584, 25.6321312),
-(4697, 'Vidin', 34, 'BG', '05', 'district', 43.9857242, 22.8772194),
-(4711, 'Vratsa', 34, 'BG', '06', 'district', 43.2101806, 23.552921),
-(4716, 'Yambol', 34, 'BG', '28', 'district', 42.4841494, 26.5035296);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4699, 'Blagoevgrad', 'Благоевград', 34, 'BG', '01', 'district', 'distrito', 42.0111077, 23.0906457),
+(4715, 'Burgas', 'Бургас', 34, 'BG', '02', 'district', 'distrito', 42.4936616, 27.4721276),
+(4718, 'Dobrich', 'Добрич', 34, 'BG', '08', 'district', 'distrito', 43.572786, 27.8272802),
+(4693, 'Gabrovo', 'Габрово', 34, 'BG', '07', 'district', 'distrito', 42.86847, 25.316889),
+(4704, 'Haskovo', 'Хасково', 34, 'BG', '26', 'district', 'distrito', 41.9344178, 25.5554672),
+(4702, 'Kardzhali', 'Кърджали', 34, 'BG', '09', 'district', 'distrito', 41.643746, 25.3722156),
+(4703, 'Kyustendil', 'Кюстендил', 34, 'BG', '10', 'district', 'distrito', 42.2868799, 22.6939635),
+(4710, 'Lovech', 'Ловеч', 34, 'BG', '11', 'district', 'distrito', 43.1367798, 24.7139335),
+(4696, 'Montana', 'Монтана', 34, 'BG', '12', 'district', 'distrito', 43.4085148, 23.2257589),
+(4712, 'Pazardzhik', 'Пазарджик', 34, 'BG', '13', 'district', 'distrito', 42.1927567, 24.3336226),
+(4695, 'Pernik', 'Перник', 34, 'BG', '14', 'district', 'distrito', 42.605199, 23.0377916),
+(4706, 'Pleven', 'Плевен', 34, 'BG', '15', 'district', 'distrito', 43.409022, 24.6180123),
+(4701, 'Plovdiv', 'Плодов', 34, 'BG', '16', 'district', 'distrito', 42.1354079, 24.7452904),
+(4698, 'Razgrad', 'Разград', 34, 'BG', '17', 'district', 'distrito', 43.5271705, 26.5241228),
+(4713, 'Ruse', 'Русе', 34, 'BG', '18', 'district', 'distrito', 43.8355964, 25.9656144),
+(4882, 'Shumen', 'Шумен', 34, 'BG', '27', 'district', 'distrito', 43.2712398, 26.9361286),
+(4708, 'Silistra', 'Силистра', 34, 'BG', '19', 'district', 'distrito', 44.1147101, 27.2671454),
+(4700, 'Sliven', 'Сливен', 34, 'BG', '20', 'district', 'distrito', 42.6816702, 26.3228569),
+(4694, 'Smolyan', 'Смолян', 34, 'BG', '21', 'district', 'distrito', 41.5774148, 24.7010871),
+(4719, 'Sofia', 'София', 34, 'BG', '23', 'district', 'distrito', 42.64191, 23.9735632),
+(4705, 'Sofia City', 'София град', 34, 'BG', '22', 'district', 'distrito', 42.654318, 23.3331572),
+(4707, 'Stara Zagora', 'Стара Загора', 34, 'BG', '24', 'district', 'distrito', 42.4257709, 25.6344855),
+(4714, 'Targovishte', 'Търговище', 34, 'BG', '25', 'district', 'distrito', 43.2462349, 26.5691251),
+(4717, 'Varna', 'Варна', 34, 'BG', '03', 'district', 'distrito', 43.2046477, 27.9105488),
+(4709, 'Veliko Tarnovo', 'Велико Търново', 34, 'BG', '04', 'district', 'distrito', 43.0820584, 25.6321312),
+(4697, 'Vidin', 'Видин', 34, 'BG', '05', 'district', 'distrito', 43.9857242, 22.8772194),
+(4711, 'Vratsa', 'Враца', 34, 'BG', '06', 'district', 'distrito', 43.2101806, 23.552921),
+(4716, 'Yambol', 'Ямбол', 34, 'BG', '28', 'district', 'distrito', 42.4841494, 26.5035296);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (9265, 'Bansko', 4699, 34, 41.8383, 23.48851),

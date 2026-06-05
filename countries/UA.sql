@@ -1,48 +1,48 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(230, 'Ukraine', 'UA', 'UKR', 'Europe', 'Eastern Europe', 'Kyiv', 'UAH', 49, 32, '🇺🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(230, 'Ukraine', 'Ucrania', 'UA', 'UKR', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Kyiv', 'UAH', 49, 32, '🇺🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4689, 'Autonomous Republic of Crimea', 230, 'UA', '43', 'republic', 45.6856952, 33.9329411),
-(4680, 'Cherkaska', 230, 'UA', '71', 'region', 48.925097, 37.3759832),
-(4692, 'Chernihivska', 230, 'UA', '74', 'region', 50.4598903, 30.6303119),
-(4678, 'Chernivetska', 230, 'UA', '77', 'region', 49.8372873, 24.0007866),
-(4675, 'Dnipropetrovska', 230, 'UA', '12', 'region', 48.662589, 34.9501715),
-(4691, 'Donetska', 230, 'UA', '14', 'region', 50.4256138, 30.4564097),
-(4682, 'Ivano-Frankivska', 230, 'UA', '26', 'region', 48.8672217, 24.7049),
-(4686, 'Kharkivska', 230, 'UA', '63', 'region', 49.8299582, 36.3788957),
-(4684, 'Khersonska', 230, 'UA', '65', 'region', 46.635417, 32.616867),
-(4681, 'Khmelnytska', 230, 'UA', '68', 'region', 50.4633192, 30.3831066),
-(4677, 'Kirovohradska', 230, 'UA', '35', 'region', 48.1916774, 31.6902953),
-(4676, 'Kyiv', 230, 'UA', '30', 'city', 50.4501, 30.5234),
-(4671, 'Kyivska', 230, 'UA', '32', 'region', 50.178595, 30.4924884),
-(4673, 'Luhanska', 230, 'UA', '09', 'region', 48.574041, 39.307815),
-(4672, 'Lvivska', 230, 'UA', '46', 'region', 49.6512234, 23.8266948),
-(4679, 'Mykolaivska', 230, 'UA', '48', 'region', 47.0560618, 31.9566614),
-(4688, 'Odeska', 230, 'UA', '51', 'region', 46.1147226, 29.9567193),
-(5071, 'Poltavska', 230, 'UA', '53', 'region', 49.8607809, 33.7498787),
-(4683, 'Rivnenska', 230, 'UA', '56', 'region', 50.5973667, 26.2646746),
-(1912, 'Sevastopol', 230, 'UA', '40', 'city', 44.6054434, 33.5220842),
-(4685, 'Sumska', 230, 'UA', '59', 'region', 50.7696518, 34.3289305),
-(4674, 'Ternopilska', 230, 'UA', '61', 'region', 49.6409289, 25.4942724),
-(4669, 'Vinnytska', 230, 'UA', '05', 'region', 50.4195893, 30.4480946),
-(4690, 'Volynska', 230, 'UA', '07', 'region', 51.5451167, 24.6627893),
-(4670, 'Zakarpatska', 230, 'UA', '21', 'region', 48.2953664, 23.4466092),
-(4687, 'Zaporizka', 230, 'UA', '23', 'region', 47.8535586, 35.1699877),
-(4668, 'Zhytomyrska', 230, 'UA', '18', 'region', 50.4561152, 30.3658829);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4689, 'Autonomous Republic of Crimea', 'Автономна Республіка Криму', 230, 'UA', '43', 'republic', 'república', 45.6856952, 33.9329411),
+(4680, 'Cherkaska', 'Черкаска', 230, 'UA', '71', 'region', 'región', 48.925097, 37.3759832),
+(4692, 'Chernihivska', 'Chernihivska', 230, 'UA', '74', 'region', 'región', 50.4598903, 30.6303119),
+(4678, 'Chernivetska', 'Chernivetska', 230, 'UA', '77', 'region', 'región', 49.8372873, 24.0007866),
+(4675, 'Dnipropetrovska', 'Дніпропетровська', 230, 'UA', '12', 'region', 'región', 48.662589, 34.9501715),
+(4691, 'Donetska', 'Donetska', 230, 'UA', '14', 'region', 'región', 50.4256138, 30.4564097),
+(4682, 'Ivano-Frankivska', 'Ivano-Frankivska', 230, 'UA', '26', 'region', 'región', 48.8672217, 24.7049),
+(4686, 'Kharkivska', 'Kharkivska', 230, 'UA', '63', 'region', 'región', 49.8299582, 36.3788957),
+(4684, 'Khersonska', 'Херсонська', 230, 'UA', '65', 'region', 'región', 46.635417, 32.616867),
+(4681, 'Khmelnytska', 'Кхмельняцька', 230, 'UA', '68', 'region', 'región', 50.4633192, 30.3831066),
+(4677, 'Kirovohradska', 'Kirovohradska', 230, 'UA', '35', 'region', 'región', 48.1916774, 31.6902953),
+(4676, 'Kyiv', 'Києв', 230, 'UA', '30', 'city', 'ciudad', 50.4501, 30.5234),
+(4671, 'Kyivska', 'Київська', 230, 'UA', '32', 'region', 'región', 50.178595, 30.4924884),
+(4673, 'Luhanska', 'Luhanska', 230, 'UA', '09', 'region', 'región', 48.574041, 39.307815),
+(4672, 'Lvivska', 'Lvivska', 230, 'UA', '46', 'region', 'región', 49.6512234, 23.8266948),
+(4679, 'Mykolaivska', 'Mykolaivska', 230, 'UA', '48', 'region', 'región', 47.0560618, 31.9566614),
+(4688, 'Odeska', 'Odeska', 230, 'UA', '51', 'region', 'región', 46.1147226, 29.9567193),
+(5071, 'Poltavska', 'Poltavska', 230, 'UA', '53', 'region', 'región', 49.8607809, 33.7498787),
+(4683, 'Rivnenska', 'Рівненська', 230, 'UA', '56', 'region', 'región', 50.5973667, 26.2646746),
+(1912, 'Sevastopol', 'Севастополь', 230, 'UA', '40', 'city', 'ciudad', 44.6054434, 33.5220842),
+(4685, 'Sumska', 'Підозра', 230, 'UA', '59', 'region', 'región', 50.7696518, 34.3289305),
+(4674, 'Ternopilska', 'Ternopilska', 230, 'UA', '61', 'region', 'región', 49.6409289, 25.4942724),
+(4669, 'Vinnytska', 'Вінникка', 230, 'UA', '05', 'region', 'región', 50.4195893, 30.4480946),
+(4690, 'Volynska', 'Волонська', 230, 'UA', '07', 'region', 'región', 51.5451167, 24.6627893),
+(4670, 'Zakarpatska', 'Закарпака', 230, 'UA', '21', 'region', 'región', 48.2953664, 23.4466092),
+(4687, 'Zaporizka', 'Zaporizka', 230, 'UA', '23', 'region', 'región', 47.8535586, 35.1699877),
+(4668, 'Zhytomyrska', 'Чжітоміка', 230, 'UA', '18', 'region', 'región', 50.4561152, 30.3658829);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (109305, 'Abrikosovka', 4689, 230, 45.10759, 35.10139),

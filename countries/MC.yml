@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".mc"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 43.73333333
   longitude: 7.4
   emoji: "🇲🇨"
   states:
     -
       name: "Fontvieille"
+      native: "Fontvieille"
       code: "FO"
       iso3166_2: "MC-FO"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.72944444
       longitude: 7.415
       cities:
@@ -31,9 +35,11 @@
           longitude: 7.415
     -
       name: "Jardin Exotique"
+      native: "Jardin Exotique"
       code: "JE"
       iso3166_2: "MC-JE"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.73138889
       longitude: 7.41388889
       cities:
@@ -43,9 +49,11 @@
           longitude: 7.41388889
     -
       name: "La Colle"
+      native: "La Colle"
       code: "CL"
       iso3166_2: "MC-CL"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7327465
       longitude: 7.4137276
       cities:
@@ -55,9 +63,11 @@
           longitude: 7.4137276
     -
       name: "La Condamine"
+      native: "La Condamine"
       code: "CO"
       iso3166_2: "MC-CO"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7350665
       longitude: 7.419906
       cities:
@@ -67,9 +77,11 @@
           longitude: 7.419906
     -
       name: "La Gare"
+      native: "La Gare"
       code: "GA"
       iso3166_2: "MC-GA"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7319
       longitude: 7.4168
       cities:
@@ -79,9 +91,11 @@
           longitude: 7.4168
     -
       name: "La Source"
+      native: "La Source"
       code: "SO"
       iso3166_2: "MC-SO"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7365
       longitude: 7.4195
       cities:
@@ -91,9 +105,11 @@
           longitude: 7.4195
     -
       name: "Larvotto"
+      native: "Larvotto"
       code: "LA"
       iso3166_2: "MC-LA"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.74666667
       longitude: 7.43333333
       cities:
@@ -103,9 +119,11 @@
           longitude: 7.43333333
     -
       name: "Malbousquet"
+      native: "Malbousquet"
       code: "MA"
       iso3166_2: "MC-MA"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7345
       longitude: 7.4215
       cities:
@@ -115,9 +133,11 @@
           longitude: 7.4215
     -
       name: "Monaco-Ville"
+      native: "Monaco-Ville"
       code: "MO"
       iso3166_2: "MC-MO"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7311
       longitude: 7.42
       cities:
@@ -127,9 +147,11 @@
           longitude: 7.42
     -
       name: "Moneghetti"
+      native: "Mongotti"
       code: "MG"
       iso3166_2: "MC-MG"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7364927
       longitude: 7.4153383
       cities:
@@ -139,9 +161,11 @@
           longitude: 7.4153383
     -
       name: "Monte-Carlo"
+      native: "Monte-Carlo"
       code: "MC"
       iso3166_2: "MC-MC"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.73972222
       longitude: 7.42722222
       cities:
@@ -151,9 +175,11 @@
           longitude: 7.42722222
     -
       name: "Moulins"
+      native: "Moulins"
       code: "MU"
       iso3166_2: "MC-MU"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7389
       longitude: 7.4185
       cities:
@@ -163,9 +189,11 @@
           longitude: 7.4185
     -
       name: "Port-Hercule"
+      native: "Port-Hercule"
       code: "PH"
       iso3166_2: "MC-PH"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7347
       longitude: 7.4253
       cities:
@@ -175,9 +203,11 @@
           longitude: 7.4253
     -
       name: "Saint-Roman"
+      native: "Saint-Roman"
       code: "SR"
       iso3166_2: "MC-SR"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7453
       longitude: 7.4318
       cities:
@@ -187,9 +217,11 @@
           longitude: 7.4318
     -
       name: "Sainte-Dévote"
+      native: "Sainte-Dévote"
       code: "SD"
       iso3166_2: "MC-SD"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7372
       longitude: 7.4208
       cities:
@@ -199,9 +231,11 @@
           longitude: 7.4208
     -
       name: "Spélugues"
+      native: "Spélugues"
       code: "SP"
       iso3166_2: "MC-SP"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7392
       longitude: 7.4251
       cities:
@@ -211,9 +245,11 @@
           longitude: 7.4251
     -
       name: "Vallon de la Rousse"
+      native: "Vallon de la Rousse"
       code: "VR"
       iso3166_2: "MC-VR"
       type: "quarter"
+      type_es: "distrito"
       latitude: 43.7401
       longitude: 7.4175
       cities:

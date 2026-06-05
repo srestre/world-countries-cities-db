@@ -12,16 +12,20 @@
   currency_symbol: "إ.د"
   tld: ".ae"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 24
   longitude: 54
   emoji: "🇦🇪"
   states:
     -
       name: "Abu Dhabi"
+      native: "أبو ظبي"
       code: "AZ"
       iso3166_2: "AE-AZ"
       type: "emirate"
+      type_es: "emirato"
       latitude: 24.453884
       longitude: 54.3773438
       cities:
@@ -71,9 +75,11 @@
           longitude: 53.70522
     -
       name: "Ajman"
+      native: "عجمان"
       code: "AJ"
       iso3166_2: "AE-AJ"
       type: "emirate"
+      type_es: "emirato"
       latitude: 25.3936557
       longitude: 55.4451432
       cities:
@@ -91,9 +97,11 @@
           longitude: 56.05158
     -
       name: "Dubai"
+      native: "دبي"
       code: "DU"
       iso3166_2: "AE-DU"
       type: "emirate"
+      type_es: "emirato"
       latitude: 25.2647227
       longitude: 55.2924146
       cities:
@@ -103,9 +111,11 @@
           longitude: 55.17128
     -
       name: "Fujairah"
+      native: "فجيرة"
       code: "FU"
       iso3166_2: "AE-FU"
       type: "emirate"
+      type_es: "emirato"
       latitude: 25.1244604
       longitude: 56.3355085
       cities:
@@ -127,9 +137,11 @@
           longitude: 56.34141
     -
       name: "Ras Al Khaimah"
+      native: "رأس الخيمة"
       code: "RK"
       iso3166_2: "AE-RK"
       type: "emirate"
+      type_es: "emirato"
       latitude: 25.7386349
       longitude: 55.9249224
       cities:
@@ -139,9 +151,11 @@
           longitude: 56.04058
     -
       name: "Sharjah"
+      native: "الشارقة"
       code: "SH"
       iso3166_2: "AE-SH"
       type: "emirate"
+      type_es: "emirato"
       latitude: 25.3461498
       longitude: 55.4210633
       cities:
@@ -183,9 +197,11 @@
           longitude: 55.41206
     -
       name: "Umm Al Quwain"
+      native: "أم القوي"
       code: "UQ"
       iso3166_2: "AE-UQ"
       type: "emirate"
+      type_es: "emirato"
       latitude: 25.6112488
       longitude: 55.6174631
       cities:

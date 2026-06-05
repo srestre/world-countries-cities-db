@@ -12,52 +12,64 @@
   currency_symbol: "DH"
   tld: ".ma"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   latitude: 32
   longitude: -5
   emoji: "🇲🇦"
   states:
     -
       name: "Agadir-Ida-Ou-Tanane"
+      native: "أكادير-إيدا-أو-تانان"
       code: "AGD"
       iso3166_2: "MA-AGD"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 30.4209492
       longitude: -9.6044298
       cities:
         []
     -
       name: "Al Haouz"
+      native: "الحوز"
       code: "HAO"
       iso3166_2: "MA-HAO"
       type: "province"
+      type_es: "provincia"
       latitude: 31.2806715
       longitude: -7.9251771
       cities:
         []
     -
       name: "Al Hoceïma"
+      native: "الحسيمة"
       code: "HOC"
       iso3166_2: "MA-HOC"
       type: "province"
+      type_es: "provincia"
       latitude: 35.2445589
       longitude: -3.9317468
       cities:
         []
     -
       name: "Aousserd (EH)"
+      native: "أوسرد (EH)"
       code: "AOU"
       iso3166_2: "MA-AOU"
       type: "province"
+      type_es: "provincia"
       latitude: 22.5521538
       longitude: -14.3297353
       cities:
         []
     -
       name: "Assa-Zag (EH-partial)"
+      native: "Assa-Zag (EH-جزئي)"
       code: "ASZ"
       iso3166_2: "MA-ASZ"
       type: "province"
+      type_es: "provincia"
       latitude: 28.1402395
       longitude: -9.7232673
       cities:
@@ -167,90 +179,110 @@
           longitude: -9.5
     -
       name: "Azilal"
+      native: "أزيلال"
       code: "AZI"
       iso3166_2: "MA-AZI"
       type: "province"
+      type_es: "provincia"
       latitude: 31.959295
       longitude: -6.570991
       cities:
         []
     -
       name: "Béni Mellal"
+      native: "بني ملال"
       code: "BEM"
       iso3166_2: "MA-BEM"
       type: "province"
+      type_es: "provincia"
       latitude: 32.334193
       longitude: -6.353335
       cities:
         []
     -
       name: "Béni Mellal-Khénifra"
+      native: "بني ملال خنيفرة"
       code: "05"
       iso3166_2: "MA-05"
       type: "region"
+      type_es: "región"
       latitude: 32.6407498
       longitude: -6.207105
       cities:
         []
     -
       name: "Benslimane"
+      native: "بنسليمان"
       code: "BES"
       iso3166_2: "MA-BES"
       type: "province"
+      type_es: "provincia"
       latitude: 33.6189698
       longitude: -7.1305536
       cities:
         []
     -
       name: "Berkane"
+      native: "بركان"
       code: "BER"
       iso3166_2: "MA-BER"
       type: "province"
+      type_es: "provincia"
       latitude: 34.9266755
       longitude: -2.3294087
       cities:
         []
     -
       name: "Berrechid"
+      native: "برشيد"
       code: "BRR"
       iso3166_2: "MA-BRR"
       type: "province"
+      type_es: "provincia"
       latitude: 33.2586035
       longitude: -7.6150469
       cities:
         []
     -
       name: "Boujdour (EH)"
+      native: "بوجدور (EH)"
       code: "BOD"
       iso3166_2: "MA-BOD"
       type: "province"
+      type_es: "provincia"
       latitude: 26.1252493
       longitude: -14.4847347
       cities:
         []
     -
       name: "Boulemane"
+      native: "بولمان"
       code: "BOM"
       iso3166_2: "MA-BOM"
       type: "province"
+      type_es: "provincia"
       latitude: 33.3625159
       longitude: -4.7303397
       cities:
         []
     -
       name: "Casablanca"
+      native: "الدار البيضاء"
       code: "CAS"
       iso3166_2: "MA-CAS"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.5945144
       longitude: -7.6200284
       cities:
         []
     -
       name: "Casablanca-Settat"
+      native: "الدار البيضاء-سطات"
       code: "06"
       iso3166_2: "MA-06"
       type: "region"
+      type_es: "región"
       latitude: 33.2627128
       longitude: -7.9639028
       cities:
@@ -340,45 +372,55 @@
           longitude: -7.61932
     -
       name: "Chefchaouen"
+      native: "شفشاون"
       code: "CHE"
       iso3166_2: "MA-CHE"
       type: "province"
+      type_es: "provincia"
       latitude: 35.1687748
       longitude: -5.2683454
       cities:
         []
     -
       name: "Chichaoua"
+      native: "شيشاوة"
       code: "CHI"
       iso3166_2: "MA-CHI"
       type: "province"
+      type_es: "provincia"
       latitude: 31.5383581
       longitude: -8.7646388
       cities:
         []
     -
       name: "Chtouka-Ait Baha"
+      native: "شتوكة-آيت باها"
       code: "CHT"
       iso3166_2: "MA-CHT"
       type: "province"
+      type_es: "provincia"
       latitude: 30.0080601
       longitude: -9.3334413
       cities:
         []
     -
       name: "Dakhla-Oued Ed-Dahab (EH)"
+      native: "الداخلة-وادي الذهب (EH)"
       code: "12"
       iso3166_2: "MA-12"
       type: "region"
+      type_es: "región"
       latitude: 22.6043973
       longitude: -19.8348241
       cities:
         []
     -
       name: "Drâa-Tafilalet"
+      native: "درعة تافيلالت"
       code: "08"
       iso3166_2: "MA-08"
       type: "region"
+      type_es: "región"
       latitude: 31.1835432
       longitude: -5.1395435
       cities:
@@ -460,90 +502,110 @@
           longitude: -5.83649
     -
       name: "Driouch"
+      native: "دريوش"
       code: "DRI"
       iso3166_2: "MA-DRI"
       type: "province"
+      type_es: "provincia"
       latitude: 34.976032
       longitude: -3.3964493
       cities:
         []
     -
       name: "El Hajeb"
+      native: "الحاجب"
       code: "HAJ"
       iso3166_2: "MA-HAJ"
       type: "province"
+      type_es: "provincia"
       latitude: 33.685735
       longitude: -5.3677844
       cities:
         []
     -
       name: "El Jadida"
+      native: "الجديدة"
       code: "JDI"
       iso3166_2: "MA-JDI"
       type: "province"
+      type_es: "provincia"
       latitude: 33.2316326
       longitude: -8.5007116
       cities:
         []
     -
       name: "El Kelâa des Sraghna"
+      native: "قلعة السراغنة"
       code: "KES"
       iso3166_2: "MA-KES"
       type: "province"
+      type_es: "provincia"
       latitude: 32.0538921
       longitude: -7.4068642
       cities:
         []
     -
       name: "Errachidia"
+      native: "الرشيدية"
       code: "ERR"
       iso3166_2: "MA-ERR"
       type: "province"
+      type_es: "provincia"
       latitude: 31.929089
       longitude: -4.4340807
       cities:
         []
     -
       name: "Es-Semara (EH-partial)"
+      native: "السمارة (EH-جزئي)"
       code: "ESM"
       iso3166_2: "MA-ESM"
       type: "province"
+      type_es: "provincia"
       latitude: 26.741856
       longitude: -11.6783671
       cities:
         []
     -
       name: "Essaouira"
+      native: "الصويرة"
       code: "ESI"
       iso3166_2: "MA-ESI"
       type: "province"
+      type_es: "provincia"
       latitude: 31.5084926
       longitude: -9.7595041
       cities:
         []
     -
       name: "Fahs-Anjra"
+      native: "فحص-أنجرة"
       code: "FAH"
       iso3166_2: "MA-FAH"
       type: "province"
+      type_es: "provincia"
       latitude: 35.7518235
       longitude: -5.5864652
       cities:
         []
     -
       name: "Fès"
+      native: "فاس"
       code: "FES"
       iso3166_2: "MA-FES"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.0261951
       longitude: -5.0231849
       cities:
         []
     -
       name: "Fès-Meknès"
+      native: "فاس-مكناس"
       code: "03"
       iso3166_2: "MA-03"
       type: "region"
+      type_es: "región"
       latitude: 33.8333136
       longitude: -4.8556382
       cities:
@@ -657,36 +719,44 @@
           longitude: -4.02696
     -
       name: "Figuig"
+      native: "فجيج"
       code: "FIG"
       iso3166_2: "MA-FIG"
       type: "province"
+      type_es: "provincia"
       latitude: 32.1092613
       longitude: -1.229806
       cities:
         []
     -
       name: "Fquih Ben Salah"
+      native: "الفقيه بن صالح"
       code: "FQH"
       iso3166_2: "MA-FQH"
       type: "province"
+      type_es: "provincia"
       latitude: 32.4212148
       longitude: -6.7470785
       cities:
         []
     -
       name: "Guelmim"
+      native: "كلميم"
       code: "GUE"
       iso3166_2: "MA-GUE"
       type: "province"
+      type_es: "provincia"
       latitude: 28.9883659
       longitude: -10.0527498
       cities:
         []
     -
       name: "Guelmim-Oued Noun (EH-partial)"
+      native: "كلميم-واد نون (EH-جزئي)"
       code: "10"
       iso3166_2: "MA-10"
       type: "region"
+      type_es: "región"
       latitude: 28.4844281
       longitude: -10.0807298
       cities:
@@ -708,45 +778,55 @@
           longitude: -11.08333
     -
       name: "Guercif"
+      native: "جرسيف"
       code: "GUF"
       iso3166_2: "MA-GUF"
       type: "province"
+      type_es: "provincia"
       latitude: 34.225576
       longitude: -3.352345
       cities:
         []
     -
       name: "Ifrane"
+      native: "إفران"
       code: "IFR"
       iso3166_2: "MA-IFR"
       type: "province"
+      type_es: "provincia"
       latitude: 33.5228062
       longitude: -5.1109552
       cities:
         []
     -
       name: "Inezgane-Ait Melloul"
+      native: "إنزكان-آيت ملول"
       code: "INE"
       iso3166_2: "MA-INE"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 30.3469172
       longitude: -9.4408492
       cities:
         []
     -
       name: "Jerada"
+      native: "جرادة"
       code: "JRA"
       iso3166_2: "MA-JRA"
       type: "province"
+      type_es: "provincia"
       latitude: 34.310531
       longitude: -2.159979
       cities:
         []
     -
       name: "Kénitra"
+      native: "القنيطرة"
       code: "KEN"
       iso3166_2: "MA-KEN"
       type: "province"
+      type_es: "provincia"
       latitude: 34.26457
       longitude: -6.570169
       cities:
@@ -836,18 +916,22 @@
           longitude: -6.30649
     -
       name: "Khémisset"
+      native: "الخميسات"
       code: "KHE"
       iso3166_2: "MA-KHE"
       type: "province"
+      type_es: "provincia"
       latitude: 33.830287
       longitude: -6.072605
       cities:
         []
     -
       name: "Khénifra"
+      native: "خنيفرة"
       code: "KHN"
       iso3166_2: "MA-KHN"
       type: "province"
+      type_es: "provincia"
       latitude: 32.9340471
       longitude: -5.661571
       cities:
@@ -953,18 +1037,22 @@
           longitude: -5.91826
     -
       name: "Khouribga"
+      native: "خريبكة"
       code: "KHO"
       iso3166_2: "MA-KHO"
       type: "province"
+      type_es: "provincia"
       latitude: 32.8856482
       longitude: -6.908798
       cities:
         []
     -
       name: "L'Oriental"
+      native: "لورينتال"
       code: "02"
       iso3166_2: "MA-02"
       type: "region"
+      type_es: "región"
       latitude: 34.6808997
       longitude: -1.9407196
       cities:
@@ -1050,18 +1138,22 @@
           longitude: -2.7329
     -
       name: "Laâyoune (EH)"
+      native: "العيون (EH)"
       code: "LAA"
       iso3166_2: "MA-LAA"
       type: "province"
+      type_es: "provincia"
       latitude: 27.1500384
       longitude: -13.1990758
       cities:
         []
     -
       name: "Laâyoune-Sakia El Hamra (EH-partial)"
+      native: "العيون-الساقية الحمراء (EH-جزئي)"
       code: "11"
       iso3166_2: "MA-11"
       type: "region"
+      type_es: "región"
       latitude: 27.8683194
       longitude: -11.9804613
       cities:
@@ -1095,117 +1187,143 @@
           longitude: -12.92082
     -
       name: "Larache"
+      native: "العرائش"
       code: "LAR"
       iso3166_2: "MA-LAR"
       type: "province"
+      type_es: "provincia"
       latitude: 35.1952327
       longitude: -6.152913
       cities:
         []
     -
       name: "M’diq-Fnideq"
+      native: "المضيق-الفنيدق"
       code: "MDF"
       iso3166_2: "MA-MDF"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.7614806
       longitude: -5.399416
       cities:
         []
     -
       name: "Marrakech"
+      native: "مراكش"
       code: "MAR"
       iso3166_2: "MA-MAR"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 31.6265121
       longitude: -8.0030195
       cities:
         []
     -
       name: "Marrakesh-Safi"
+      native: "مراكش-آسفي"
       code: "07"
       iso3166_2: "MA-07"
       type: "region"
+      type_es: "región"
       latitude: 31.6258257
       longitude: -7.9891608
       cities:
         []
     -
       name: "Médiouna"
+      native: "مديونة"
       code: "MED"
       iso3166_2: "MA-MED"
       type: "province"
+      type_es: "provincia"
       latitude: 33.4540939
       longitude: -7.516602
       cities:
         []
     -
       name: "Meknès"
+      native: "مكناس"
       code: "MEK"
       iso3166_2: "MA-MEK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.8984131
       longitude: -5.5321582
       cities:
         []
     -
       name: "Midelt"
+      native: "ميدلت"
       code: "MID"
       iso3166_2: "MA-MID"
       type: "province"
+      type_es: "provincia"
       latitude: 32.680347
       longitude: -4.739897
       cities:
         []
     -
       name: "Mohammadia"
+      native: "المحمدية"
       code: "MOH"
       iso3166_2: "MA-MOH"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.6958383
       longitude: -7.3893292
       cities:
         []
     -
       name: "Moulay Yacoub"
+      native: "مولاي يعقوب"
       code: "MOU"
       iso3166_2: "MA-MOU"
       type: "province"
+      type_es: "provincia"
       latitude: 34.0874479
       longitude: -5.1784019
       cities:
         []
     -
       name: "Nador"
+      native: "الناظور"
       code: "NAD"
       iso3166_2: "MA-NAD"
       type: "province"
+      type_es: "provincia"
       latitude: 35.1739922
       longitude: -2.9281198
       cities:
         []
     -
       name: "Nouaceur"
+      native: "النواصر"
       code: "NOU"
       iso3166_2: "MA-NOU"
       type: "province"
+      type_es: "provincia"
       latitude: 33.3670393
       longitude: -7.5732537
       cities:
         []
     -
       name: "Ouarzazate"
+      native: "ورزازات"
       code: "OUA"
       iso3166_2: "MA-OUA"
       type: "province"
+      type_es: "provincia"
       latitude: 30.920193
       longitude: -6.910923
       cities:
         []
     -
       name: "Oued Ed-Dahab (EH)"
+      native: "وادي الذهب (EH)"
       code: "OUD"
       iso3166_2: "MA-OUD"
       type: "province"
+      type_es: "provincia"
       latitude: 22.7337892
       longitude: -14.2861116
       cities:
@@ -1223,54 +1341,66 @@
           longitude: -14.44934
     -
       name: "Ouezzane"
+      native: "وزان"
       code: "OUZ"
       iso3166_2: "MA-OUZ"
       type: "province"
+      type_es: "provincia"
       latitude: 34.8071502
       longitude: -5.5760934
       cities:
         []
     -
       name: "Oujda-Angad"
+      native: "وجدة أنجاد"
       code: "OUJ"
       iso3166_2: "MA-OUJ"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.667468
       longitude: -2.0365837
       cities:
         []
     -
       name: "Rabat"
+      native: "الرباط"
       code: "RAB"
       iso3166_2: "MA-RAB"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.0218454
       longitude: -6.8408929
       cities:
         []
     -
       name: "Rabat-Salé-Kénitra"
+      native: "الرباط-سلا-القنيطرة"
       code: "04"
       iso3166_2: "MA-04"
       type: "region"
+      type_es: "región"
       latitude: 33.9204332
       longitude: -6.3676093
       cities:
         []
     -
       name: "Rehamna"
+      native: "رحمنة"
       code: "REH"
       iso3166_2: "MA-REH"
       type: "province"
+      type_es: "provincia"
       latitude: 32.4637436
       longitude: -7.9087822
       cities:
         []
     -
       name: "Safi"
+      native: "صافي"
       code: "SAF"
       iso3166_2: "MA-SAF"
       type: "province"
+      type_es: "provincia"
       latitude: 32.2650776
       longitude: -9.230554
       cities:
@@ -1360,108 +1490,132 @@
           longitude: -7.39224
     -
       name: "Salé"
+      native: "أُوكَازيُون"
       code: "SAL"
       iso3166_2: "MA-SAL"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.044889
       longitude: -6.814017
       cities:
         []
     -
       name: "Sefrou"
+      native: "صفرو"
       code: "SEF"
       iso3166_2: "MA-SEF"
       type: "province"
+      type_es: "provincia"
       latitude: 33.8305244
       longitude: -4.8353154
       cities:
         []
     -
       name: "Settat"
+      native: "سطات"
       code: "SET"
       iso3166_2: "MA-SET"
       type: "province"
+      type_es: "provincia"
       latitude: 33.002397
       longitude: -7.619867
       cities:
         []
     -
       name: "Sidi Bennour"
+      native: "سيدي بنور"
       code: "SIB"
       iso3166_2: "MA-SIB"
       type: "province"
+      type_es: "provincia"
       latitude: 32.6507792
       longitude: -8.4242087
       cities:
         []
     -
       name: "Sidi Ifni"
+      native: "سيدي إفني"
       code: "SIF"
       iso3166_2: "MA-SIF"
       type: "province"
+      type_es: "provincia"
       latitude: 29.3791253
       longitude: -10.1715632
       cities:
         []
     -
       name: "Sidi Kacem"
+      native: "سيدي قاسم"
       code: "SIK"
       iso3166_2: "MA-SIK"
       type: "province"
+      type_es: "provincia"
       latitude: 34.2260172
       longitude: -5.7129164
       cities:
         []
     -
       name: "Sidi Slimane"
+      native: "سيدي سليمان"
       code: "SIL"
       iso3166_2: "MA-SIL"
       type: "province"
+      type_es: "provincia"
       latitude: 34.259878
       longitude: -5.927253
       cities:
         []
     -
       name: "Skhirate-Témara"
+      native: "الصخيرات-تمارة"
       code: "SKH"
       iso3166_2: "MA-SKH"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.7563375
       longitude: -6.8799428
       cities:
         []
     -
       name: "Souss-Massa"
+      native: "سوس ماسة"
       code: "09"
       iso3166_2: "MA-09"
       type: "region"
+      type_es: "región"
       latitude: 30.187722
       longitude: -8.6322498
       cities:
         []
     -
       name: "Tan-Tan (EH-partial)"
+      native: "تان تان (EH-جزئي)"
       code: "TNT"
       iso3166_2: "MA-TNT"
       type: "province"
+      type_es: "provincia"
       latitude: 28.03012
       longitude: -11.1617356
       cities:
         []
     -
       name: "Tanger-Assilah"
+      native: "طنجة أصيلة"
       code: "TNG"
       iso3166_2: "MA-TNG"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.7625681
       longitude: -5.8295062
       cities:
         []
     -
       name: "Tanger-Tétouan-Al Hoceïma"
+      native: "طنجة-تطوان-الحسيمة"
       code: "01"
       iso3166_2: "MA-01"
       type: "region"
+      type_es: "región"
       latitude: 35.202941
       longitude: -5.5510167
       cities:
@@ -1579,99 +1733,121 @@
           longitude: -5.34458
     -
       name: "Taounate"
+      native: "تاونات"
       code: "TAO"
       iso3166_2: "MA-TAO"
       type: "province"
+      type_es: "provincia"
       latitude: 34.536917
       longitude: -4.6398693
       cities:
         []
     -
       name: "Taourirt"
+      native: "تاوريرت"
       code: "TAI"
       iso3166_2: "MA-TAI"
       type: "province"
+      type_es: "provincia"
       latitude: 34.413438
       longitude: -2.893825
       cities:
         []
     -
       name: "Tarfaya (EH-partial)"
+      native: "طرفاية (EH-جزئي)"
       code: "TAF"
       iso3166_2: "MA-TAF"
       type: "province"
+      type_es: "provincia"
       latitude: 27.9377701
       longitude: -12.9294063
       cities:
         []
     -
       name: "Taroudannt"
+      native: "تارودانت"
       code: "TAR"
       iso3166_2: "MA-TAR"
       type: "province"
+      type_es: "provincia"
       latitude: 30.4727126
       longitude: -8.8748765
       cities:
         []
     -
       name: "Tata"
+      native: "تاتا"
       code: "TAT"
       iso3166_2: "MA-TAT"
       type: "province"
+      type_es: "provincia"
       latitude: 29.750877
       longitude: -7.9756343
       cities:
         []
     -
       name: "Taza"
+      native: "تازة"
       code: "TAZ"
       iso3166_2: "MA-TAZ"
       type: "province"
+      type_es: "provincia"
       latitude: 34.230155
       longitude: -4.010104
       cities:
         []
     -
       name: "Tétouan"
+      native: "تطوان"
       code: "TET"
       iso3166_2: "MA-TET"
       type: "province"
+      type_es: "provincia"
       latitude: 35.570175
       longitude: -5.3742776
       cities:
         []
     -
       name: "Tinghir"
+      native: "تنغير"
       code: "TIN"
       iso3166_2: "MA-TIN"
       type: "province"
+      type_es: "provincia"
       latitude: 31.3173124
       longitude: -5.7494232
       cities:
         []
     -
       name: "Tiznit"
+      native: "تزنيت"
       code: "TIZ"
       iso3166_2: "MA-TIZ"
       type: "province"
+      type_es: "provincia"
       latitude: 29.693392
       longitude: -9.732157
       cities:
         []
     -
       name: "Youssoufia"
+      native: "اليوسفية"
       code: "YUS"
       iso3166_2: "MA-YUS"
       type: "province"
+      type_es: "provincia"
       latitude: 32.245801
       longitude: -8.532439
       cities:
         []
     -
       name: "Zagora"
+      native: "زاكورة"
       code: "ZAG"
       iso3166_2: "MA-ZAG"
       type: "province"
+      type_es: "provincia"
       latitude: 30.3279053
       longitude: -5.8369957
       cities:

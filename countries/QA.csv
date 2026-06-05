@@ -1,17 +1,17 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-QA,Qatar,Asia,Western Asia,ZA,Al Daayen,,,
-QA,Qatar,Asia,Western Asia,KH,Al Khor,Al Ghuwayrīyah,25.82882,51.24567
-QA,Qatar,Asia,Western Asia,KH,Al Khor,Al Khawr,25.68389,51.50583
-QA,Qatar,Asia,Western Asia,RA,Al Rayyan,Ar Rayyān,25.29194,51.42444
-QA,Qatar,Asia,Western Asia,RA,Al Rayyan,Umm Bāb,25.21417,50.80722
-QA,Qatar,Asia,Western Asia,WA,Al Wakrah,Al Wakrah,25.17151,51.60337
-QA,Qatar,Asia,Western Asia,WA,Al Wakrah,Al Wukayr,25.15107,51.53718
-QA,Qatar,Asia,Western Asia,WA,Al Wakrah,Musay‘īd,24.99226,51.55067
-QA,Qatar,Asia,Western Asia,SH,Al-Shahaniya,Al Jumaylīyah,25.61068,51.09108
-QA,Qatar,Asia,Western Asia,SH,Al-Shahaniya,Ash Shīḩānīyah,25.37088,51.22264
-QA,Qatar,Asia,Western Asia,SH,Al-Shahaniya,Dukhān,25.42485,50.78227
-QA,Qatar,Asia,Western Asia,DA,Doha,Doha,25.28545,51.53096
-QA,Qatar,Asia,Western Asia,MS,Madinat ash Shamal,Ar Ruways,26.13978,51.21493
-QA,Qatar,Asia,Western Asia,MS,Madinat ash Shamal,Fuwayriţ,26.02565,51.36971
-QA,Qatar,Asia,Western Asia,MS,Madinat ash Shamal,Madīnat ash Shamāl,26.12933,51.2009
-QA,Qatar,Asia,Western Asia,US,Umm Salal,Umm Şalāl Muḩammad,25.41524,51.40647
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,ZA,Al Daayen,municipality,municipio,,,
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,KH,Al Khor,municipality,municipio,Al Ghuwayrīyah,25.82882,51.24567
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,KH,Al Khor,municipality,municipio,Al Khawr,25.68389,51.50583
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,RA,Al Rayyan,municipality,municipio,Ar Rayyān,25.29194,51.42444
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,RA,Al Rayyan,municipality,municipio,Umm Bāb,25.21417,50.80722
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,WA,Al Wakrah,municipality,municipio,Al Wakrah,25.17151,51.60337
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,WA,Al Wakrah,municipality,municipio,Al Wukayr,25.15107,51.53718
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,WA,Al Wakrah,municipality,municipio,Musay‘īd,24.99226,51.55067
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,SH,Al-Shahaniya,municipality,municipio,Al Jumaylīyah,25.61068,51.09108
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,SH,Al-Shahaniya,municipality,municipio,Ash Shīḩānīyah,25.37088,51.22264
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,SH,Al-Shahaniya,municipality,municipio,Dukhān,25.42485,50.78227
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,DA,Doha,municipality,municipio,Doha,25.28545,51.53096
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,MS,Madinat ash Shamal,municipality,municipio,Ar Ruways,26.13978,51.21493
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,MS,Madinat ash Shamal,municipality,municipio,Fuwayriţ,26.02565,51.36971
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,MS,Madinat ash Shamal,municipality,municipio,Madīnat ash Shamāl,26.12933,51.2009
+QA,Qatar,Catar,Asia,Asia,Western Asia,Asia Occidental,US,Umm Salal,municipality,municipio,Umm Şalāl Muḩammad,25.41524,51.40647

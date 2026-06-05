@@ -1,27 +1,27 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(226, 'Turkmenistan', 'TM', 'TKM', 'Asia', 'Central Asia', 'Ashgabat', 'TMT', 40, 60, '🇹🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(226, 'Turkmenistan', 'Turkmenistán', 'TM', 'TKM', 'Asia', 'Asia', 'Central Asia', 'Asia Central', 'Ashgabat', 'TMT', 40, 60, '🇹🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3374, 'Ahal', 226, 'TM', 'A', 'region', 38.8395548, 58.8610186),
-(3371, 'Ashgabat', 226, 'TM', 'S', 'city', 37.9404648, 58.3823487),
-(3372, 'Balkan', 226, 'TM', 'B', 'region', 39.9353714, 54.9120055),
-(3373, 'Daşoguz', 226, 'TM', 'D', 'region', 41.8368737, 59.9651904),
-(3370, 'Lebap', 226, 'TM', 'L', 'region', 38.8131139, 63.0513218),
-(3369, 'Mary', 226, 'TM', 'M', 'region', 37.1302916, 62.4019513);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3374, 'Ahal', 'Mümkin', 226, 'TM', 'A', 'region', 'región', 38.8395548, 58.8610186),
+(3371, 'Ashgabat', 'Ashgabat', 226, 'TM', 'S', 'city', 'ciudad', 37.9404648, 58.3823487),
+(3372, 'Balkan', 'Balkan', 226, 'TM', 'B', 'region', 'región', 39.9353714, 54.9120055),
+(3373, 'Daşoguz', 'Daş', 226, 'TM', 'D', 'region', 'región', 41.8368737, 59.9651904),
+(3370, 'Lebap', 'Lebap', 226, 'TM', 'L', 'region', 'región', 38.8131139, 63.0513218),
+(3369, 'Mary', 'Mary', 226, 'TM', 'M', 'region', 'región', 37.1302916, 62.4019513);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (106880, 'Abadan', 3374, 226, 38.05415, 58.19721),

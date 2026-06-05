@@ -12,16 +12,20 @@
   currency_symbol: ".س.ج"
   tld: ".sd"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   latitude: 15
   longitude: 30
   emoji: "🇸🇩"
   states:
     -
       name: "Al Jazirah"
+      native: "الجزيرة"
       code: "GZ"
       iso3166_2: "SD-GZ"
       type: "state"
+      type_es: "estado"
       latitude: 14.6671537
       longitude: 33.222361
       cities:
@@ -55,9 +59,11 @@
           longitude: 33.13972
     -
       name: "Al Qadarif"
+      native: "القضارف"
       code: "GD"
       iso3166_2: "SD-GD"
       type: "state"
+      type_es: "estado"
       latitude: 14.040941
       longitude: 35.398832
       cities:
@@ -75,9 +81,11 @@
           longitude: 35.76667
     -
       name: "Blue Nile"
+      native: "النيل الأزرق"
       code: "NB"
       iso3166_2: "SD-NB"
       type: "state"
+      type_es: "estado"
       latitude: 11.9566972
       longitude: 34.122894
       cities:
@@ -95,9 +103,11 @@
           longitude: 34.28333
     -
       name: "Central Darfur"
+      native: "وسط دارفور"
       code: "DC"
       iso3166_2: "SD-DC"
       type: "state"
+      type_es: "estado"
       latitude: 12.1297093
       longitude: 23.3541687
       cities:
@@ -107,9 +117,11 @@
           longitude: 23.47058
     -
       name: "East Darfur"
+      native: "شرق دارفور"
       code: "DE"
       iso3166_2: "SD-DE"
       type: "state"
+      type_es: "estado"
       latitude: 11.2231983
       longitude: 26.5858041
       cities:
@@ -119,9 +131,11 @@
           longitude: 26.12583
     -
       name: "Kassala"
+      native: "كسلا"
       code: "KA"
       iso3166_2: "SD-KA"
       type: "state"
+      type_es: "estado"
       latitude: 15.452011
       longitude: 36.3770699
       cities:
@@ -139,9 +153,11 @@
           longitude: 36.2032
     -
       name: "Khartoum"
+      native: "الخرطوم"
       code: "KH"
       iso3166_2: "SD-KH"
       type: "state"
+      type_es: "estado"
       latitude: 15.5038301
       longitude: 32.5738979
       cities:
@@ -155,9 +171,11 @@
           longitude: 32.47773
     -
       name: "North Darfur"
+      native: "شمال دارفور"
       code: "DN"
       iso3166_2: "SD-DN"
       type: "state"
+      type_es: "estado"
       latitude: 16
       longitude: 26
       cities:
@@ -175,9 +193,11 @@
           longitude: 26.68759
     -
       name: "North Kordofan"
+      native: "شمال كردفان"
       code: "KN"
       iso3166_2: "SD-KN"
       type: "state"
+      type_es: "estado"
       latitude: 14.4169302
       longitude: 29.468369
       cities:
@@ -199,9 +219,11 @@
           longitude: 31.2158
     -
       name: "Northern"
+      native: "شمالي"
       code: "NO"
       iso3166_2: "SD-NO"
       type: "state"
+      type_es: "estado"
       latitude: 19
       longitude: 30
       cities:
@@ -231,9 +253,11 @@
           longitude: 31.81126
     -
       name: "Red Sea"
+      native: "البحر الأحمر"
       code: "RS"
       iso3166_2: "SD-RS"
       type: "state"
+      type_es: "estado"
       latitude: 20
       longitude: 36
       cities:
@@ -255,9 +279,11 @@
           longitude: 37.729
     -
       name: "River Nile"
+      native: "نهر النيل"
       code: "NR"
       iso3166_2: "SD-NR"
       type: "state"
+      type_es: "estado"
       latitude: 19.0105596
       longitude: 33.018318
       cities:
@@ -287,9 +313,11 @@
           longitude: 33.4341
     -
       name: "Sennar"
+      native: "سنار"
       code: "SI"
       iso3166_2: "SD-SI"
       type: "state"
+      type_es: "estado"
       latitude: 13.5424054
       longitude: 33.6103555
       cities:
@@ -323,9 +351,11 @@
           longitude: 33.56718
     -
       name: "South Darfur"
+      native: "جنوب دارفور"
       code: "DS"
       iso3166_2: "SD-DS"
       type: "state"
+      type_es: "estado"
       latitude: 11
       longitude: 25
       cities:
@@ -339,9 +369,11 @@
           longitude: 24.88069
     -
       name: "South Kordofan"
+      native: "جنوب كردفان"
       code: "KS"
       iso3166_2: "SD-KS"
       type: "state"
+      type_es: "estado"
       latitude: 11
       longitude: 31
       cities:
@@ -367,9 +399,11 @@
           longitude: 30.3797
     -
       name: "West Darfur"
+      native: "غرب دارفور"
       code: "DW"
       iso3166_2: "SD-DW"
       type: "state"
+      type_es: "estado"
       latitude: 13.5110052
       longitude: 22.7033427
       cities:
@@ -379,9 +413,11 @@
           longitude: 22.44725
     -
       name: "West Kordofan"
+      native: "غرب كردفان"
       code: "GK"
       iso3166_2: "SD-GK"
       type: "state"
+      type_es: "estado"
       latitude: 11.7522803
       longitude: 28.2046026
       cities:
@@ -403,9 +439,11 @@
           longitude: 28.43333
     -
       name: "White Nile"
+      native: "النيل الأبيض"
       code: "NW"
       iso3166_2: "SD-NW"
       type: "state"
+      type_es: "estado"
       latitude: 12.4999838
       longitude: 32.5000166
       cities:

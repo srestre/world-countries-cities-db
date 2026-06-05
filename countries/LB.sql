@@ -1,29 +1,29 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(121, 'Lebanon', 'LB', 'LBN', 'Asia', 'Western Asia', 'Beirut', 'LBP', 33.83333333, 35.83333333, '🇱🇧');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(121, 'Lebanon', 'Líbano', 'LB', 'LBN', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Beirut', 'LBP', 33.83333333, 35.83333333, '🇱🇧');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2285, 'Akkar', 121, 'LB', 'AK', 'governorate', 34.5555009, 36.2016453),
-(2283, 'Baalbek-Hermel', 121, 'LB', 'BH', 'governorate', 34.168333, 36.3134617),
-(2286, 'Beirut', 121, 'LB', 'BA', 'governorate', 33.8886106, 35.4954772),
-(2287, 'Beqaa', 121, 'LB', 'BI', 'governorate', 33.6746204, 35.8333757),
-(2282, 'Mount Lebanon', 121, 'LB', 'JL', 'governorate', 34.29, 36.092),
-(2288, 'Nabatieh', 121, 'LB', 'NA', 'governorate', 33.3771693, 35.4838293),
-(2284, 'North', 121, 'LB', 'AS', 'governorate', 34.29, 36.092),
-(2281, 'South', 121, 'LB', 'JA', 'governorate', 34.4115339, -81.204814);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2285, 'Akkar', 'الحبار', 121, 'LB', 'AK', 'governorate', 'gobernación', 34.5555009, 36.2016453),
+(2283, 'Baalbek-Hermel', 'بيل هيرميل', 121, 'LB', 'BH', 'governorate', 'gobernación', 34.168333, 36.3134617),
+(2286, 'Beirut', 'بير', 121, 'LB', 'BA', 'governorate', 'gobernación', 33.8886106, 35.4954772),
+(2287, 'Beqaa', 'البقاع', 121, 'LB', 'BI', 'governorate', 'gobernación', 33.6746204, 35.8333757),
+(2282, 'Mount Lebanon', 'جبل لبنان', 121, 'LB', 'JL', 'governorate', 'gobernación', 34.29, 36.092),
+(2288, 'Nabatieh', 'ناباتيه', 121, 'LB', 'NA', 'governorate', 'gobernación', 33.3771693, 35.4838293),
+(2284, 'North', 'شمال', 121, 'LB', 'AS', 'governorate', 'gobernación', 34.29, 36.092),
+(2281, 'South', 'جنوب', 121, 'LB', 'JA', 'governorate', 'gobernación', 34.4115339, -81.204814);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65939, 'Caza de Aakkar', 2285, 121, 34.53333, 36.16667),

@@ -12,16 +12,20 @@
   currency_symbol: "ا.د"
   tld: ".jo"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 31
   longitude: 36
   emoji: "🇯🇴"
   states:
     -
       name: "Ajloun"
+      native: "عجلون"
       code: "AJ"
       iso3166_2: "JO-AJ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.3325584
       longitude: 35.7516844
       cities:
@@ -47,9 +51,11 @@
           longitude: 35.84267
     -
       name: "Amman"
+      native: "عمان"
       code: "AM"
       iso3166_2: "JO-AM"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.9453633
       longitude: 35.9283895
       cities:
@@ -91,9 +97,11 @@
           longitude: 35.81831
     -
       name: "Aqaba"
+      native: "العقبة"
       code: "AQ"
       iso3166_2: "JO-AQ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.532086
       longitude: 35.0062821
       cities:
@@ -107,9 +115,11 @@
           longitude: 34.97918
     -
       name: "Balqa"
+      native: "البلقاء"
       code: "BA"
       iso3166_2: "JO-BA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.9782917
       longitude: 35.6585232
       cities:
@@ -127,9 +137,11 @@
           longitude: 35.69638
     -
       name: "Irbid"
+      native: "إربد"
       code: "IR"
       iso3166_2: "JO-IR"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.5569636
       longitude: 35.8478965
       cities:
@@ -243,9 +255,11 @@
           longitude: 35.77811
     -
       name: "Jerash"
+      native: "جرش"
       code: "JA"
       iso3166_2: "JO-JA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.2747237
       longitude: 35.8960954
       cities:
@@ -283,9 +297,11 @@
           longitude: 35.83713
     -
       name: "Karak"
+      native: "الكرك"
       code: "KA"
       iso3166_2: "JO-KA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.1257036
       longitude: 35.824704
       cities:
@@ -327,9 +343,11 @@
           longitude: 35.46544
     -
       name: "Ma'an"
+      native: "معان"
       code: "MN"
       iso3166_2: "JO-MN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.2
       longitude: 35.7333329
       cities:
@@ -363,9 +381,11 @@
           longitude: 35.69999
     -
       name: "Madaba"
+      native: "مادبا"
       code: "MD"
       iso3166_2: "JO-MD"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.7196097
       longitude: 35.7932754
       cities:
@@ -375,9 +395,11 @@
           longitude: 35.79392
     -
       name: "Mafraq"
+      native: "المفرق"
       code: "MA"
       iso3166_2: "JO-MA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.3416923
       longitude: 36.2020175
       cities:
@@ -407,9 +429,11 @@
           longitude: 36.62826
     -
       name: "Tafilah"
+      native: "الطفيلة"
       code: "AT"
       iso3166_2: "JO-AT"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.833333
       longitude: 35.5999999
       cities:
@@ -423,9 +447,11 @@
           longitude: 35.60943
     -
       name: "Zarqa"
+      native: "الزرقاء"
       code: "AZ"
       iso3166_2: "JO-AZ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.0608505
       longitude: 36.0942121
       cities:

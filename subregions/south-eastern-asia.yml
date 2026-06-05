@@ -12,16 +12,20 @@
   currency_symbol: "B$"
   tld: ".bn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 4.5
   longitude: 114.66666666
   emoji: "🇧🇳"
   states:
     -
       name: "Belait"
+      native: "Belait"
       code: "BE"
       iso3166_2: "BN-BE"
       type: "district"
+      type_es: "distrito"
       latitude: 4.4349938
       longitude: 114.4946524
       cities:
@@ -35,9 +39,11 @@
           longitude: 114.32476
     -
       name: "Brunei-Muara"
+      native: "Brunei-Muara"
       code: "BM"
       iso3166_2: "BN-BM"
       type: "district"
+      type_es: "distrito"
       latitude: 4.9752098
       longitude: 114.9367663
       cities:
@@ -63,9 +69,11 @@
           longitude: 115.05841
     -
       name: "Temburong"
+      native: "Temburong"
       code: "TE"
       iso3166_2: "BN-TE"
       type: "district"
+      type_es: "distrito"
       latitude: 4.629184
       longitude: 115.1634408
       cities:
@@ -75,9 +83,11 @@
           longitude: 115.07167
     -
       name: "Tutong"
+      native: "Tutong"
       code: "TU"
       iso3166_2: "BN-TU"
       type: "district"
+      type_es: "distrito"
       latitude: 4.682681
       longitude: 114.6562706
       cities:
@@ -99,16 +109,20 @@
   currency_symbol: "KHR"
   tld: ".kh"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 13
   longitude: 105
   emoji: "🇰🇭"
   states:
     -
       name: "Banteay Meanchey"
+      native: "បន្ទាយមានជ័យ"
       code: "1"
       iso3166_2: "KH-1"
       type: "province"
+      type_es: "provincia"
       latitude: 13.7989147
       longitude: 102.8862666
       cities:
@@ -134,9 +148,11 @@
           longitude: 102.95269
     -
       name: "Battambang"
+      native: "បាត់ដំបង"
       code: "2"
       iso3166_2: "KH-2"
       type: "province"
+      type_es: "provincia"
       latitude: 13.0998526
       longitude: 103.1966659
       cities:
@@ -162,9 +178,11 @@
           longitude: 102.887
     -
       name: "Kampong Cham"
+      native: "កំពង់ចាម"
       code: "3"
       iso3166_2: "KH-3"
       type: "province"
+      type_es: "provincia"
       latitude: 12.1174857
       longitude: 105.2080022
       cities:
@@ -182,9 +200,11 @@
           longitude: 104.93171
     -
       name: "Kampong Chhnang"
+      native: "កំពង់ឆ្នាំង"
       code: "4"
       iso3166_2: "KH-4"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2536026
       longitude: 104.6658389
       cities:
@@ -210,9 +230,11 @@
           longitude: 104.55549
     -
       name: "Kampong Speu"
+      native: "ភូមិសែ"
       code: "5"
       iso3166_2: "KH-5"
       type: "province"
+      type_es: "provincia"
       latitude: 11.5775368
       longitude: 104.2714023
       cities:
@@ -238,18 +260,22 @@
           longitude: 104.61224
     -
       name: "Kampong Thom"
+      native: "កំពង់ធំ"
       code: "6"
       iso3166_2: "KH-6"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6687923
       longitude: 104.8879197
       cities:
         []
     -
       name: "Kampot"
+      native: "កំពត"
       code: "7"
       iso3166_2: "KH-7"
       type: "province"
+      type_es: "provincia"
       latitude: 10.6116906
       longitude: 104.1827542
       cities:
@@ -291,9 +317,11 @@
           longitude: 104.11013
     -
       name: "Kandal"
+      native: "បេសបេល"
       code: "8"
       iso3166_2: "KH-8"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3962625
       longitude: 105.0207869
       cities:
@@ -311,9 +339,11 @@
           longitude: 104.95
     -
       name: "Kep"
+      native: "កែប"
       code: "23"
       iso3166_2: "KH-23"
       type: "province"
+      type_es: "provincia"
       latitude: 10.4846391
       longitude: 104.3144082
       cities:
@@ -327,9 +357,11 @@
           longitude: 104.34855
     -
       name: "Koh Kong"
+      native: "កោះកុង"
       code: "9"
       iso3166_2: "KH-9"
       type: "province"
+      type_es: "provincia"
       latitude: 11.6813417
       longitude: 103.0258043
       cities:
@@ -355,9 +387,11 @@
           longitude: 103.01159
     -
       name: "Kratie"
+      native: "ក្រចេះ"
       code: "10"
       iso3166_2: "KH-10"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6783017
       longitude: 106.0581733
       cities:
@@ -375,9 +409,11 @@
           longitude: 106.47361
     -
       name: "Mondulkiri"
+      native: "មណ្ឌលគីរី"
       code: "11"
       iso3166_2: "KH-11"
       type: "province"
+      type_es: "provincia"
       latitude: 12.7396075
       longitude: 107.0087987
       cities:
@@ -399,9 +435,11 @@
           longitude: 107.0948
     -
       name: "Oddar Meanchey"
+      native: "ឧត្តរមានជ័យ"
       code: "22"
       iso3166_2: "KH-22"
       type: "province"
+      type_es: "provincia"
       latitude: 14.1585631
       longitude: 103.782796
       cities:
@@ -423,9 +461,11 @@
           longitude: 104.30835
     -
       name: "Pailin"
+      native: "លំអី"
       code: "24"
       iso3166_2: "KH-24"
       type: "province"
+      type_es: "provincia"
       latitude: 12.8905328
       longitude: 102.6294604
       cities:
@@ -439,9 +479,11 @@
           longitude: 102.60928
     -
       name: "Phnom Penh"
+      native: "រាជធានី"
       code: "12"
       iso3166_2: "KH-12"
       type: "autonomous municipality"
+      type_es: "municipio autónomo"
       latitude: 11.568271
       longitude: 104.9224426
       cities:
@@ -479,9 +521,11 @@
           longitude: 104.91601
     -
       name: "Preah Vihear"
+      native: "ព្រះវិហារ"
       code: "13"
       iso3166_2: "KH-13"
       type: "province"
+      type_es: "provincia"
       latitude: 13.7462982
       longitude: 104.97403
       cities:
@@ -515,9 +559,11 @@
           longitude: 104.98046
     -
       name: "Prey Veng"
+      native: "បុរស"
       code: "14"
       iso3166_2: "KH-14"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3659597
       longitude: 105.4557277
       cities:
@@ -539,9 +585,11 @@
           longitude: 105.37497
     -
       name: "Pursat"
+      native: "ឱកាស"
       code: "15"
       iso3166_2: "KH-15"
       type: "province"
+      type_es: "provincia"
       latitude: 12.4662592
       longitude: 103.742683
       cities:
@@ -571,9 +619,11 @@
           longitude: 103.13444
     -
       name: "Ratanakiri"
+      native: "រតនគិរី"
       code: "16"
       iso3166_2: "KH-16"
       type: "province"
+      type_es: "provincia"
       latitude: 13.9312399
       longitude: 107.0391088
       cities:
@@ -615,9 +665,11 @@
           longitude: 107.24031
     -
       name: "Siem Reap"
+      native: "សៀមរាប"
       code: "17"
       iso3166_2: "KH-17"
       type: "province"
+      type_es: "provincia"
       latitude: 13.3617562
       longitude: 103.8590321
       cities:
@@ -643,9 +695,11 @@
           longitude: 103.89968
     -
       name: "Sihanoukville"
+      native: "ក្រុងព្រះសីហនុ"
       code: "18"
       iso3166_2: "KH-18"
       type: "province"
+      type_es: "provincia"
       latitude: 10.7321989
       longitude: 103.7595806
       cities:
@@ -659,9 +713,11 @@
           longitude: 103.74016
     -
       name: "Stung Treng"
+      native: "ត្រូវការស្ទឹង"
       code: "19"
       iso3166_2: "KH-19"
       type: "province"
+      type_es: "provincia"
       latitude: 13.5271207
       longitude: 105.9686727
       cities:
@@ -679,9 +735,11 @@
           longitude: 105.9683
     -
       name: "Svay Rieng"
+      native: "ស្វាយរៀង"
       code: "20"
       iso3166_2: "KH-20"
       type: "province"
+      type_es: "provincia"
       latitude: 11.091615
       longitude: 105.8034577
       cities:
@@ -695,9 +753,11 @@
           longitude: 105.79935
     -
       name: "Takeo"
+      native: "តាកែវ"
       code: "21"
       iso3166_2: "KH-21"
       type: "province"
+      type_es: "provincia"
       latitude: 10.9358547
       longitude: 104.7796413
       cities:
@@ -723,9 +783,11 @@
           longitude: 104.78498
     -
       name: "Tboung Khmum"
+      native: "ត្បូងឃ្មុំ"
       code: "25"
       iso3166_2: "KH-25"
       type: "province"
+      type_es: "provincia"
       latitude: 11.98333333
       longitude: 105.45
       cities:
@@ -747,16 +809,20 @@
   currency_symbol: "Rp"
   tld: ".id"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: -5
   longitude: 120
   emoji: "🇮🇩"
   states:
     -
       name: "Aceh"
+      native: "Aceh"
       code: "AC"
       iso3166_2: "ID-AC"
       type: "province"
+      type_es: "provincia"
       latitude: 4.3685491
       longitude: 97.0253024
       cities:
@@ -870,9 +936,11 @@
           longitude: 97.7884
     -
       name: "Bali"
+      native: "Bali"
       code: "BA"
       iso3166_2: "ID-BA"
       type: "province"
+      type_es: "provincia"
       latitude: -8.2271303
       longitude: 115.1919203
       cities:
@@ -978,9 +1046,11 @@
           longitude: 115.2654
     -
       name: "Banten"
+      native: "Banten"
       code: "BT"
       iso3166_2: "ID-BT"
       type: "province"
+      type_es: "provincia"
       latitude: -6.4453801
       longitude: 106.1375586
       cities:
@@ -1018,9 +1088,11 @@
           longitude: 106.46667
     -
       name: "Bengkulu"
+      native: "Bengkulu"
       code: "BE"
       iso3166_2: "ID-BE"
       type: "province"
+      type_es: "provincia"
       latitude: -3.7928451
       longitude: 102.2607641
       cities:
@@ -1070,9 +1142,11 @@
           longitude: 102.47429
     -
       name: "DI Yogyakarta"
+      native: "DI Yogyakarta"
       code: "YO"
       iso3166_2: "ID-YO"
       type: "Special region"
+      type_es: "región especial"
       latitude: -7.9778384
       longitude: 110.3672257
       cities:
@@ -1098,9 +1172,11 @@
           longitude: 110.36472
     -
       name: "DKI Jakarta"
+      native: "DKI Jakarta"
       code: "JK"
       iso3166_2: "ID-JK"
       type: "capital district"
+      type_es: "distrito capital"
       latitude: -6.1754049
       longitude: 106.827168
       cities:
@@ -1126,9 +1202,11 @@
           longitude: 106.7594984
     -
       name: "Gorontalo"
+      native: "Gorontalo"
       code: "GO"
       iso3166_2: "ID-GO"
       type: "province"
+      type_es: "provincia"
       latitude: 0.5435442
       longitude: 123.0567693
       cities:
@@ -1158,9 +1236,11 @@
           longitude: 121.59582
     -
       name: "Jambi"
+      native: "Jambi"
       code: "JA"
       iso3166_2: "ID-JA"
       type: "province"
+      type_es: "provincia"
       latitude: -1.6296917
       longitude: 103.6077806
       cities:
@@ -1226,18 +1306,22 @@
           longitude: 102.37473
     -
       name: "Jawa"
+      native: "Jawa"
       code: "JW"
       iso3166_2: "ID-JW"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -7.49166667
       longitude: 110.00444444
       cities:
         []
     -
       name: "Jawa Barat"
+      native: "Jawa Barat"
       code: "JB"
       iso3166_2: "ID-JB"
       type: "province"
+      type_es: "provincia"
       latitude: -6.8891904
       longitude: 107.6404716
       cities:
@@ -1563,9 +1647,11 @@
           longitude: 108.5037
     -
       name: "Jawa Tengah"
+      native: "Jawa Tengah"
       code: "JT"
       iso3166_2: "ID-JT"
       type: "province"
+      type_es: "provincia"
       latitude: -7.3032412
       longitude: 110.0044145
       cities:
@@ -1999,9 +2085,11 @@
           longitude: 109.90306
     -
       name: "Jawa Timur"
+      native: "Jawa Timur"
       code: "JI"
       iso3166_2: "ID-JI"
       type: "province"
+      type_es: "provincia"
       latitude: -7.6977397
       longitude: 112.4914199
       cities:
@@ -2411,18 +2499,22 @@
           longitude: 114.4009
     -
       name: "Kalimantan"
+      native: "Kalimantan"
       code: "KA"
       iso3166_2: "ID-KA"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -1
       longitude: 114
       cities:
         []
     -
       name: "Kalimantan Barat"
+      native: "Kalimantan Barat"
       code: "KB"
       iso3166_2: "ID-KB"
       type: "province"
+      type_es: "provincia"
       latitude: -0.1322387
       longitude: 111.0968901
       cities:
@@ -2492,9 +2584,11 @@
           longitude: 111.49805556
     -
       name: "Kalimantan Selatan"
+      native: "Kalimantan Selatan"
       code: "KS"
       iso3166_2: "ID-KS"
       type: "province"
+      type_es: "provincia"
       latitude: -2.9285686
       longitude: 115.3700718
       cities:
@@ -2560,9 +2654,11 @@
           longitude: 115.03333
     -
       name: "Kalimantan Tengah"
+      native: "Kalimantan Tengah"
       code: "KT"
       iso3166_2: "ID-KT"
       type: "province"
+      type_es: "provincia"
       latitude: -1.499583
       longitude: 113.2903307
       cities:
@@ -2636,9 +2732,11 @@
           longitude: 111.23681
     -
       name: "Kalimantan Timur"
+      native: "Kalimantan Timur"
       code: "KI"
       iso3166_2: "ID-KI"
       type: "province"
+      type_es: "provincia"
       latitude: 0.7884397
       longitude: 116.2419977
       cities:
@@ -2692,9 +2790,11 @@
           longitude: 117.14583
     -
       name: "Kalimantan Utara"
+      native: "Kalimantan Utara"
       code: "KU"
       iso3166_2: "ID-KU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.0235817
       longitude: 116.2049306
       cities:
@@ -2724,9 +2824,11 @@
           longitude: 117.59152
     -
       name: "Kepulauan Bangka Belitung"
+      native: "Kepulauan Bangka Belitung"
       code: "BB"
       iso3166_2: "ID-BB"
       type: "province"
+      type_es: "provincia"
       latitude: -2.7052886
       longitude: 106.3585607
       cities:
@@ -2776,9 +2878,11 @@
           longitude: 107.63477
     -
       name: "Kepulauan Riau"
+      native: "Kepulauan Riau"
       code: "KR"
       iso3166_2: "ID-KR"
       type: "province"
+      type_es: "provincia"
       latitude: -0.1547846
       longitude: 104.5803745
       cities:
@@ -2812,9 +2916,11 @@
           longitude: 104.45833
     -
       name: "Lampung"
+      native: "Lampung"
       code: "LA"
       iso3166_2: "ID-LA"
       type: "province"
+      type_es: "provincia"
       latitude: -4.8555039
       longitude: 105.0272986
       cities:
@@ -2884,18 +2990,22 @@
           longitude: 104.52753
     -
       name: "Maluku"
+      native: "Maluku"
       code: "ML"
       iso3166_2: "ID-ML"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -3
       longitude: 129
       cities:
         []
     -
       name: "Maluku"
+      native: "Maluku"
       code: "MA"
       iso3166_2: "ID-MA"
       type: "province"
+      type_es: "provincia"
       latitude: -3.118837
       longitude: 129.4207759
       cities:
@@ -2949,9 +3059,11 @@
           longitude: 132.75229
     -
       name: "Maluku Utara"
+      native: "Maluku Utara"
       code: "MU"
       iso3166_2: "ID-MU"
       type: "province"
+      type_es: "provincia"
       latitude: 0.6301215
       longitude: 127.9720219
       cities:
@@ -3001,18 +3113,22 @@
           longitude: 128.00948
     -
       name: "Nusa Tenggara"
+      native: "Nusa Tenggara"
       code: "NU"
       iso3166_2: "ID-NU"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -8.5
       longitude: 120
       cities:
         []
     -
       name: "Nusa Tenggara Barat"
+      native: "Nusa Tenggara Barat"
       code: "NB"
       iso3166_2: "ID-NB"
       type: "province"
+      type_es: "provincia"
       latitude: -8.7892855
       longitude: 117.146169
       cities:
@@ -3094,9 +3210,11 @@
           longitude: 117.42024
     -
       name: "Nusa Tenggara Timur"
+      native: "Nusa Tenggara Timur"
       code: "NT"
       iso3166_2: "ID-NT"
       type: "province"
+      type_es: "provincia"
       latitude: -8.5656787
       longitude: 120.6978581
       cities:
@@ -3230,9 +3348,11 @@
           longitude: 120.2641
     -
       name: "Papua"
+      native: "Papua"
       code: "PA"
       iso3166_2: "ID-PA"
       type: "province"
+      type_es: "provincia"
       latitude: -2.4749149
       longitude: 138.08485
       cities:
@@ -3286,18 +3406,22 @@
           longitude: 137.01837
     -
       name: "Papua"
+      native: "Papua"
       code: "PP"
       iso3166_2: "ID-PP"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -4
       longitude: 136
       cities:
         []
     -
       name: "Papua Barat"
+      native: "Papua Barat"
       code: "PB"
       iso3166_2: "ID-PB"
       type: "province"
+      type_es: "provincia"
       latitude: -2.8553556
       longitude: 133.4738171
       cities:
@@ -3331,9 +3455,11 @@
           longitude: 134.5
     -
       name: "Papua Barat Daya"
+      native: "Papua Barat Daya"
       code: "PD"
       iso3166_2: "ID-PD"
       type: "province"
+      type_es: "provincia"
       latitude: -1.09856
       longitude: 131.3525336
       cities:
@@ -3363,9 +3489,11 @@
           longitude: 132.48962
     -
       name: "Papua Pegunungan"
+      native: "Papua Pegunungan"
       code: "PE"
       iso3166_2: "ID-PE"
       type: "province"
+      type_es: "provincia"
       latitude: -4.2478013
       longitude: 139.3725476
       cities:
@@ -3403,9 +3531,11 @@
           longitude: 138.47305
     -
       name: "Papua Selatan"
+      native: "Papua Selatan"
       code: "PS"
       iso3166_2: "ID-PS"
       type: "province"
+      type_es: "provincia"
       latitude: -6.5008882
       longitude: 139.3835339
       cities:
@@ -3427,9 +3557,11 @@
           longitude: 139.66667
     -
       name: "Papua Tengah"
+      native: "Papua Tengah"
       code: "PT"
       iso3166_2: "ID-PT"
       type: "province"
+      type_es: "provincia"
       latitude: -3.8642437
       longitude: 136.37328
       cities:
@@ -3471,9 +3603,11 @@
           longitude: 137.86611111
     -
       name: "Riau"
+      native: "Riau"
       code: "RI"
       iso3166_2: "ID-RI"
       type: "province"
+      type_es: "provincia"
       latitude: 1.0498079
       longitude: 101.6548433
       cities:
@@ -3535,18 +3669,22 @@
           longitude: 102.01355
     -
       name: "Sulawesi"
+      native: "Sulawesi"
       code: "SL"
       iso3166_2: "ID-SL"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: -2
       longitude: 121
       cities:
         []
     -
       name: "Sulawesi Barat"
+      native: "Sulawesi Barat"
       code: "SR"
       iso3166_2: "ID-SR"
       type: "province"
+      type_es: "provincia"
       latitude: -2.4974546
       longitude: 119.3918955
       cities:
@@ -3588,9 +3726,11 @@
           longitude: 119.16667
     -
       name: "Sulawesi Selatan"
+      native: "Sulawesi Selatan"
       code: "SN"
       iso3166_2: "ID-SN"
       type: "province"
+      type_es: "provincia"
       latitude: -3.6446718
       longitude: 119.9471906
       cities:
@@ -3716,9 +3856,11 @@
           longitude: 120.3279
     -
       name: "Sulawesi Tengah"
+      native: "Sulawesi Tengah"
       code: "ST"
       iso3166_2: "ID-ST"
       type: "province"
+      type_es: "provincia"
       latitude: -1.6937786
       longitude: 120.8088555
       cities:
@@ -3784,9 +3926,11 @@
           longitude: 120.88643
     -
       name: "Sulawesi Tenggara"
+      native: "Sulawesi Tenggara"
       code: "SG"
       iso3166_2: "ID-SG"
       type: "province"
+      type_es: "provincia"
       latitude: -3.5491199
       longitude: 121.7279646
       cities:
@@ -3860,9 +4004,11 @@
           longitude: 123.5948
     -
       name: "Sulawesi Utara"
+      native: "Sulawesi Utara"
       code: "SA"
       iso3166_2: "ID-SA"
       type: "province"
+      type_es: "provincia"
       latitude: 0.6555692
       longitude: 124.090151
       cities:
@@ -3928,18 +4074,22 @@
           longitude: 124.91261
     -
       name: "Sumatera"
+      native: "Sumatera"
       code: "SM"
       iso3166_2: "ID-SM"
       type: "geographical unit"
+      type_es: "unidad geográfica"
       latitude: 0
       longitude: 102
       cities:
         []
     -
       name: "Sumatera Barat"
+      native: "Sumatera Barat"
       code: "SB"
       iso3166_2: "ID-SB"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5827529
       longitude: 100.6133379
       cities:
@@ -4017,9 +4167,11 @@
           longitude: 100.5771
     -
       name: "Sumatera Selatan"
+      native: "Sumatera Selatan"
       code: "SS"
       iso3166_2: "ID-SS"
       type: "province"
+      type_es: "provincia"
       latitude: -3.2193103
       longitude: 104.4075059
       cities:
@@ -4101,9 +4253,11 @@
           longitude: 103.80465
     -
       name: "Sumatera Utara"
+      native: "Sumatera Utara"
       code: "SU"
       iso3166_2: "ID-SU"
       type: "province"
+      type_es: "provincia"
       latitude: 2.1923519
       longitude: 99.3812201
       cities:
@@ -4329,16 +4483,20 @@
   currency_symbol: "₭"
   tld: ".la"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 18
   longitude: 105
   emoji: "🇱🇦"
   states:
     -
       name: "Attapeu"
+      native: "ອັດຕະປື"
       code: "AT"
       iso3166_2: "LA-AT"
       type: "province"
+      type_es: "provincia"
       latitude: 14.79073
       longitude: 107.1008318
       cities:
@@ -4368,9 +4526,11 @@
           longitude: 106.97894
     -
       name: "Bokeo"
+      native: "ບໍ່ແກ້ວ"
       code: "BK"
       iso3166_2: "LA-BK"
       type: "province"
+      type_es: "provincia"
       latitude: 20.317445
       longitude: 100.3958112
       cities:
@@ -4404,9 +4564,11 @@
           longitude: 100.29624
     -
       name: "Bolikhamsai"
+      native: "ບໍລິຄຳໄຊ"
       code: "BL"
       iso3166_2: "LA-BL"
       type: "province"
+      type_es: "provincia"
       latitude: 18.5806594
       longitude: 104.1491594
       cities:
@@ -4420,9 +4582,11 @@
           longitude: 103.6611
     -
       name: "Champasak"
+      native: "ຈໍາປາສັກ"
       code: "CH"
       iso3166_2: "LA-CH"
       type: "province"
+      type_es: "provincia"
       latitude: 14.8872885
       longitude: 105.8765804
       cities:
@@ -4480,9 +4644,11 @@
           longitude: 106.23038
     -
       name: "Houaphanh"
+      native: "ຫົວພັນ"
       code: "HO"
       iso3166_2: "LA-HO"
       type: "province"
+      type_es: "provincia"
       latitude: 20.2354748
       longitude: 103.6203387
       cities:
@@ -4496,9 +4662,11 @@
           longitude: 104.045
     -
       name: "Khammouane"
+      native: "ຄຳມ່ວນ"
       code: "KH"
       iso3166_2: "LA-KH"
       type: "province"
+      type_es: "provincia"
       latitude: 17.5842055
       longitude: 105.2471325
       cities:
@@ -4512,9 +4680,11 @@
           longitude: 104.83068
     -
       name: "Luang Namtha"
+      native: "ຫຼວງນ້ຳທາ"
       code: "LM"
       iso3166_2: "LA-LM"
       type: "province"
+      type_es: "provincia"
       latitude: 20.933004
       longitude: 101.0586737
       cities:
@@ -4528,9 +4698,11 @@
           longitude: 101.44785
     -
       name: "Luang Prabang"
+      native: "ຫຼວງພະບາງ"
       code: "LP"
       iso3166_2: "LA-LP"
       type: "province"
+      type_es: "provincia"
       latitude: 20.2115415
       longitude: 102.612684
       cities:
@@ -4540,9 +4712,11 @@
           longitude: 102.13503
     -
       name: "Oudomxay"
+      native: "ອຸດົມໄຊ"
       code: "OU"
       iso3166_2: "LA-OU"
       type: "province"
+      type_es: "provincia"
       latitude: 20.6930134
       longitude: 101.9853678
       cities:
@@ -4552,9 +4726,11 @@
           longitude: 101.98368
     -
       name: "Phongsaly"
+      native: "ຜົ້ງສາລີ"
       code: "PH"
       iso3166_2: "LA-PH"
       type: "province"
+      type_es: "provincia"
       latitude: 21.6767816
       longitude: 102.2773177
       cities:
@@ -4564,9 +4740,11 @@
           longitude: 102.1003
     -
       name: "Sainyabuli"
+      native: "ໄຊຍາບູລີ"
       code: "XA"
       iso3166_2: "LA-XA"
       type: "province"
+      type_es: "provincia"
       latitude: 19.2536139
       longitude: 101.6180985
       cities:
@@ -4576,9 +4754,11 @@
           longitude: 101.71032
     -
       name: "Salavan"
+      native: "ສາລະວັນ"
       code: "SL"
       iso3166_2: "LA-SL"
       type: "province"
+      type_es: "provincia"
       latitude: 15.87128
       longitude: 106.3389565
       cities:
@@ -4620,9 +4800,11 @@
           longitude: 106.41744
     -
       name: "Savannakhet"
+      native: "ສະຫວັນນະເຂດ"
       code: "SV"
       iso3166_2: "LA-SV"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5001958
       longitude: 105.7155946
       cities:
@@ -4688,9 +4870,11 @@
           longitude: 105.6
     -
       name: "Sekong"
+      native: "ເຊກອງ"
       code: "XE"
       iso3166_2: "LA-XE"
       type: "province"
+      type_es: "provincia"
       latitude: 15.8660419
       longitude: 106.9637782
       cities:
@@ -4720,9 +4904,11 @@
           longitude: 106.48149
     -
       name: "Vientiane"
+      native: "ວຽງຈັນ"
       code: "VI"
       iso3166_2: "LA-VI"
       type: "province"
+      type_es: "provincia"
       latitude: 17.9640988
       longitude: 102.6133707
       cities:
@@ -4736,9 +4922,11 @@
           longitude: 102.44784
     -
       name: "Vientiane"
+      native: "ວຽງຈັນ"
       code: "VT"
       iso3166_2: "LA-VT"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 17.9640988
       longitude: 102.6133707
       cities:
@@ -4748,9 +4936,11 @@
           longitude: 102.6
     -
       name: "Xaisomboun"
+      native: "ໄຊສົມບູນ"
       code: "XS"
       iso3166_2: "LA-XS"
       type: "province"
+      type_es: "provincia"
       latitude: 18.8631725
       longitude: 103.0344783
       cities:
@@ -4772,9 +4962,11 @@
           longitude: 103.61572
     -
       name: "Xiangkhouang"
+      native: "ຊຽງຂວາງ"
       code: "XI"
       iso3166_2: "LA-XI"
       type: "province"
+      type_es: "provincia"
       latitude: 19.4130479
       longitude: 103.4680126
       cities:
@@ -4796,16 +4988,20 @@
   currency_symbol: "RM"
   tld: ".my"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 2.5
   longitude: 112.5
   emoji: "🇲🇾"
   states:
     -
       name: "Johor"
+      native: "Johor"
       code: "01"
       iso3166_2: "MY-01"
       type: "state"
+      type_es: "estado"
       latitude: 2.0228821
       longitude: 103.3114564
       cities:
@@ -4935,9 +5131,11 @@
           longitude: 103.0659
     -
       name: "Kedah"
+      native: "Kedah"
       code: "02"
       iso3166_2: "MY-02"
       type: "state"
+      type_es: "estado"
       latitude: 5.8098265
       longitude: 100.6715035
       cities:
@@ -4999,9 +5197,11 @@
           longitude: 100.48772
     -
       name: "Kelantan"
+      native: "Kelantan"
       code: "03"
       iso3166_2: "MY-03"
       type: "state"
+      type_es: "estado"
       latitude: 5.4021302
       longitude: 102.0635972
       cities:
@@ -5035,9 +5235,11 @@
           longitude: 102.17098
     -
       name: "Kuala Lumpur"
+      native: "Kuala Lumpur"
       code: "14"
       iso3166_2: "MY-14"
       type: "federal territory"
+      type_es: "territorio federal"
       latitude: 3.1516964
       longitude: 101.6942371
       cities:
@@ -5047,9 +5249,11 @@
           longitude: 101.68653
     -
       name: "Labuan"
+      native: "Labuan"
       code: "15"
       iso3166_2: "MY-15"
       type: "federal territory"
+      type_es: "territorio federal"
       latitude: 5.3168336
       longitude: 115.2198613
       cities:
@@ -5059,9 +5263,11 @@
           longitude: 115.2475
     -
       name: "Malacca"
+      native: "Melaka"
       code: "04"
       iso3166_2: "MY-04"
       type: "state"
+      type_es: "estado"
       latitude: 2.189594
       longitude: 102.2500868
       cities:
@@ -5119,9 +5325,11 @@
           longitude: 102.1427
     -
       name: "Negeri Sembilan"
+      native: "Negeri Sembilan"
       code: "05"
       iso3166_2: "MY-05"
       type: "state"
+      type_es: "estado"
       latitude: 2.7831895
       longitude: 102.1925319
       cities:
@@ -5151,9 +5359,11 @@
           longitude: 102.2302
     -
       name: "Pahang"
+      native: "Pahang"
       code: "06"
       iso3166_2: "MY-06"
       type: "state"
+      type_es: "estado"
       latitude: 3.6168822
       longitude: 102.5994547
       cities:
@@ -5203,9 +5413,11 @@
           longitude: 102.4176
     -
       name: "Penang"
+      native: "Pulau Pinang"
       code: "07"
       iso3166_2: "MY-07"
       type: "state"
+      type_es: "estado"
       latitude: 5.4065013
       longitude: 100.2559077
       cities:
@@ -5271,9 +5483,11 @@
           longitude: 100.23333
     -
       name: "Perak"
+      native: "Perak"
       code: "08"
       iso3166_2: "MY-08"
       type: "state"
+      type_es: "estado"
       latitude: 4.812181
       longitude: 100.9797908
       cities:
@@ -5335,9 +5549,11 @@
           longitude: 101.02083
     -
       name: "Perlis"
+      native: "Perlis"
       code: "09"
       iso3166_2: "MY-09"
       type: "state"
+      type_es: "estado"
       latitude: 6.4868392
       longitude: 100.2577623
       cities:
@@ -5355,9 +5571,11 @@
           longitude: 99.72786
     -
       name: "Putrajaya"
+      native: "Putrajaya"
       code: "16"
       iso3166_2: "MY-16"
       type: "federal territory"
+      type_es: "territorio federal"
       latitude: 2.9384381
       longitude: 101.69223
       cities:
@@ -5367,9 +5585,11 @@
           longitude: 101.69112
     -
       name: "Sabah"
+      native: "Sabah"
       code: "12"
       iso3166_2: "MY-12"
       type: "state"
+      type_es: "estado"
       latitude: 5.4257359
       longitude: 117.0326392
       cities:
@@ -5439,9 +5659,11 @@
           longitude: 117.89115
     -
       name: "Sarawak"
+      native: "Sarawak"
       code: "13"
       iso3166_2: "MY-13"
       type: "state"
+      type_es: "estado"
       latitude: 2.5023855
       longitude: 112.9547283
       cities:
@@ -5503,9 +5725,11 @@
           longitude: 111.45278
     -
       name: "Selangor"
+      native: "Selangor"
       code: "10"
       iso3166_2: "MY-10"
       type: "state"
+      type_es: "estado"
       latitude: 3.2083304
       longitude: 101.304146
       cities:
@@ -5783,9 +6007,11 @@
           longitude: 101.55
     -
       name: "Terengganu"
+      native: "Terengganu"
       code: "11"
       iso3166_2: "MY-11"
       type: "state"
+      type_es: "estado"
       latitude: 4.8630743
       longitude: 102.9949297
       cities:
@@ -5835,16 +6061,20 @@
   currency_symbol: "K"
   tld: ".mm"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 22
   longitude: 98
   emoji: "🇲🇲"
   states:
     -
       name: "Ayeyarwady"
+      native: "ar ရာဝတီ"
       code: "07"
       iso3166_2: "MM-07"
       type: "region"
+      type_es: "región"
       latitude: 16.8340079
       longitude: 95.1804705
       cities:
@@ -5890,9 +6120,11 @@
           longitude: 95.18278
     -
       name: "Bago"
+      native: "ဉီးစွာ"
       code: "02"
       iso3166_2: "MM-02"
       type: "region"
+      type_es: "región"
       latitude: 17.336667
       longitude: 96.479722
       cities:
@@ -5934,9 +6166,11 @@
           longitude: 95.78813
     -
       name: "Chin"
+      native: "မေးစေ့"
       code: "14"
       iso3166_2: "MM-14"
       type: "state"
+      type_es: "estado"
       latitude: 22.018242
       longitude: 93.5038035
       cities:
@@ -5950,9 +6184,11 @@
           longitude: 93.61076
     -
       name: "Kachin"
+      native: "ကချင်လူမျိုး"
       code: "11"
       iso3166_2: "MM-11"
       type: "state"
+      type_es: "estado"
       latitude: 26.0207656
       longitude: 97.4919258
       cities:
@@ -5966,9 +6202,11 @@
           longitude: 97.39637
     -
       name: "Kayah"
+      native: "ကရင်"
       code: "12"
       iso3166_2: "MM-12"
       type: "state"
+      type_es: "estado"
       latitude: 19.2812505
       longitude: 97.3291806
       cities:
@@ -5978,9 +6216,11 @@
           longitude: 97.20975
     -
       name: "Kayin"
+      native: "nephy"
       code: "13"
       iso3166_2: "MM-13"
       type: "state"
+      type_es: "estado"
       latitude: 17.1863135
       longitude: 97.7499316
       cities:
@@ -6022,9 +6262,11 @@
           longitude: 97.91458
     -
       name: "Magway"
+      native: "ဆောင်ရွက်နိုင်"
       code: "03"
       iso3166_2: "MM-03"
       type: "region"
+      type_es: "región"
       latitude: 20.1491458
       longitude: 94.9213518
       cities:
@@ -6062,9 +6304,11 @@
           longitude: 94.8712
     -
       name: "Mandalay"
+      native: "မန္တလေး"
       code: "04"
       iso3166_2: "MM-04"
       type: "region"
+      type_es: "región"
       latitude: 21.9596834
       longitude: 96.0948743
       cities:
@@ -6102,9 +6346,11 @@
           longitude: 96.13875
     -
       name: "Mon State"
+      native: "မွန်ပြည်နယ်"
       code: "15"
       iso3166_2: "MM-15"
       type: "state"
+      type_es: "estado"
       latitude: 17.0832546
       longitude: 97.3337305
       cities:
@@ -6134,9 +6380,11 @@
           longitude: 97.37001
     -
       name: "Naypyidaw"
+      native: "နေပြည်တော်"
       code: "18"
       iso3166_2: "MM-18"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 19.7753289
       longitude: 96.1032552
       cities:
@@ -6150,9 +6398,11 @@
           longitude: 96.20742
     -
       name: "Rakhine"
+      native: "ရခိုင်"
       code: "16"
       iso3166_2: "MM-16"
       type: "state"
+      type_es: "estado"
       latitude: 19.5212991
       longitude: 94.0072428
       cities:
@@ -6162,9 +6412,11 @@
           longitude: 92.89835
     -
       name: "Sagaing"
+      native: "စစ်ကိုင်းတိုင်း"
       code: "01"
       iso3166_2: "MM-01"
       type: "region"
+      type_es: "región"
       latitude: 24.4768486
       longitude: 95.47474
       cities:
@@ -6186,9 +6438,11 @@
           longitude: 95.69818
     -
       name: "Shan"
+      native: "ရှမ်း"
       code: "17"
       iso3166_2: "MM-17"
       type: "state"
+      type_es: "estado"
       latitude: 21.5122404
       longitude: 98.0098362
       cities:
@@ -6206,9 +6460,11 @@
           longitude: 97.03776
     -
       name: "Tanintharyi"
+      native: "တနင်္သာရီ"
       code: "05"
       iso3166_2: "MM-05"
       type: "region"
+      type_es: "región"
       latitude: 12.1091546
       longitude: 98.8165256
       cities:
@@ -6226,9 +6482,11 @@
           longitude: 98.60028
     -
       name: "Yangon"
+      native: "ရန်ကုန်"
       code: "06"
       iso3166_2: "MM-06"
       type: "region"
+      type_es: "región"
       latitude: 16.7967129
       longitude: 96.1609916
       cities:
@@ -6270,16 +6528,20 @@
   currency_symbol: "₱"
   tld: ".ph"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 13
   longitude: 122
   emoji: "🇵🇭"
   states:
     -
       name: "Abra"
+      native: "Abra"
       code: "ABR"
       iso3166_2: "PH-ABR"
       type: "province"
+      type_es: "provincia"
       latitude: 17.58
       longitude: 120.8
       cities:
@@ -7125,9 +7387,11 @@
           longitude: 120.12083333
     -
       name: "Agusan del Norte"
+      native: "Agusan del Norte"
       code: "AGN"
       iso3166_2: "PH-AGN"
       type: "province"
+      type_es: "provincia"
       latitude: 8.92
       longitude: 125.46
       cities:
@@ -7769,9 +8033,11 @@
           longitude: 121.94194444
     -
       name: "Agusan del Sur"
+      native: "Agusan del Sur"
       code: "AGS"
       iso3166_2: "PH-AGS"
       type: "province"
+      type_es: "provincia"
       latitude: 8.36
       longitude: 125.71
       cities:
@@ -8853,9 +9119,11 @@
           longitude: 120.905
     -
       name: "Aklan"
+      native: "Aklan"
       code: "AKL"
       iso3166_2: "PH-AKL"
       type: "province"
+      type_es: "provincia"
       latitude: 11.6297894
       longitude: 122.2481177
       cities:
@@ -8929,9 +9197,11 @@
           longitude: 122.1609695
     -
       name: "Albay"
+      native: "Albay"
       code: "ALB"
       iso3166_2: "PH-ALB"
       type: "province"
+      type_es: "provincia"
       latitude: 13.216667
       longitude: 123.55
       cities:
@@ -9965,9 +10235,11 @@
           longitude: 122.9066
     -
       name: "Antique"
+      native: "Antique"
       code: "ANT"
       iso3166_2: "PH-ANT"
       type: "province"
+      type_es: "provincia"
       latitude: 11.1705066
       longitude: 122.083333
       cities:
@@ -11313,9 +11585,11 @@
           longitude: 123.069
     -
       name: "Apayao"
+      native: "Apayao"
       code: "APA"
       iso3166_2: "PH-APA"
       type: "province"
+      type_es: "provincia"
       latitude: 18.12
       longitude: 121.19
       cities:
@@ -11349,9 +11623,11 @@
           longitude: 121.3990749
     -
       name: "Aurora"
+      native: "Aurora"
       code: "AUR"
       iso3166_2: "PH-AUR"
       type: "province"
+      type_es: "provincia"
       latitude: 16.9908811
       longitude: 121.6358
       cities:
@@ -11389,9 +11665,11 @@
           longitude: 121.3014062
     -
       name: "Autonomous Region in Muslim Mindanao"
+      native: "Autonomous Region in Muslim Mindanao"
       code: "14"
       iso3166_2: "PH-14"
       type: "region"
+      type_es: "región"
       latitude: 7.2242033
       longitude: 124.2470164
       cities:
@@ -11933,9 +12211,11 @@
           longitude: 124.04111
     -
       name: "Basilan"
+      native: "Basilan"
       code: "BAS"
       iso3166_2: "PH-BAS"
       type: "province"
+      type_es: "provincia"
       latitude: 6.5649821
       longitude: 122.0649183
       cities:
@@ -11993,9 +12273,11 @@
           longitude: 122.0250996
     -
       name: "Bataan"
+      native: "Bataan"
       code: "BAN"
       iso3166_2: "PH-BAN"
       type: "province"
+      type_es: "provincia"
       latitude: 14.6436031
       longitude: 120.4657622
       cities:
@@ -13109,9 +13391,11 @@
           longitude: 124.2365
     -
       name: "Batanes"
+      native: "Batanes"
       code: "BTN"
       iso3166_2: "PH-BTN"
       type: "province"
+      type_es: "provincia"
       latitude: 20.6442465
       longitude: 121.8939456
       cities:
@@ -13529,9 +13813,11 @@
           longitude: 125.02194
     -
       name: "Batangas"
+      native: "Batangas"
       code: "BTG"
       iso3166_2: "PH-BTG"
       type: "province"
+      type_es: "provincia"
       latitude: 13.7564651
       longitude: 121.0583076
       cities:
@@ -13669,9 +13955,11 @@
           longitude: 120.6592329
     -
       name: "Benguet"
+      native: "Benguet"
       code: "BEN"
       iso3166_2: "PH-BEN"
       type: "province"
+      type_es: "provincia"
       latitude: 16.52
       longitude: 120.69
       cities:
@@ -14325,18 +14613,22 @@
           longitude: 124.6578
     -
       name: "Bicol"
+      native: "Bicol"
       code: "05"
       iso3166_2: "PH-05"
       type: "region"
+      type_es: "región"
       latitude: 13.0764489
       longitude: 123.5162387
       cities:
         []
     -
       name: "Biliran"
+      native: "Biliran"
       code: "BIL"
       iso3166_2: "PH-BIL"
       type: "province"
+      type_es: "provincia"
       latitude: 11.5853547
       longitude: 124.4854627
       cities:
@@ -14374,9 +14666,11 @@
           longitude: 124.2120104
     -
       name: "Bohol"
+      native: "Bohol"
       code: "BOH"
       iso3166_2: "PH-BOH"
       type: "province"
+      type_es: "provincia"
       latitude: 9.833333
       longitude: 124.1615579
       cities:
@@ -14538,9 +14832,11 @@
           longitude: 123.8728799
     -
       name: "Bukidnon"
+      native: "Bukidnon"
       code: "BUK"
       iso3166_2: "PH-BUK"
       type: "province"
+      type_es: "provincia"
       latitude: 8.022778
       longitude: 124.998611
       cities:
@@ -15034,9 +15330,11 @@
           longitude: 124.58222222
     -
       name: "Bulacan"
+      native: "Bulacan"
       code: "BUL"
       iso3166_2: "PH-BUL"
       type: "province"
+      type_es: "provincia"
       latitude: 15
       longitude: 121.083333
       cities:
@@ -15326,9 +15624,11 @@
           longitude: 126.11027778
     -
       name: "Cagayan"
+      native: "Cagayan"
       code: "CAG"
       iso3166_2: "PH-CAG"
       type: "province"
+      type_es: "provincia"
       latitude: 18
       longitude: 121.833333
       cities:
@@ -15870,9 +16170,11 @@
           longitude: 124.04111111
     -
       name: "Cagayan Valley"
+      native: "Cagayan Valley"
       code: "02"
       iso3166_2: "PH-02"
       type: "region"
+      type_es: "región"
       latitude: 17.6722156
       longitude: 121.8831043
       cities:
@@ -16466,18 +16768,22 @@
           longitude: 121.94194
     -
       name: "Calabarzon"
+      native: "Calabarzon"
       code: "40"
       iso3166_2: "PH-40"
       type: "region"
+      type_es: "región"
       latitude: 14.1658314
       longitude: 121.3535577
       cities:
         []
     -
       name: "Camarines Norte"
+      native: "Camarines Norte"
       code: "CAN"
       iso3166_2: "PH-CAN"
       type: "province"
+      type_es: "provincia"
       latitude: 14.166667
       longitude: 122.75
       cities:
@@ -16719,9 +17025,11 @@
           longitude: 120.64222222
     -
       name: "Camarines Sur"
+      native: "Camarines Sur"
       code: "CAS"
       iso3166_2: "PH-CAS"
       type: "province"
+      type_es: "provincia"
       latitude: 13.6428216
       longitude: 123.3282338
       cities:
@@ -16875,9 +17183,11 @@
           longitude: 123.1883079
     -
       name: "Camiguin"
+      native: "Camiguin"
       code: "CAM"
       iso3166_2: "PH-CAM"
       type: "province"
+      type_es: "provincia"
       latitude: 9.1732164
       longitude: 124.7298765
       cities:
@@ -16903,9 +17213,11 @@
           longitude: 124.6958103
     -
       name: "Capiz"
+      native: "Capiz"
       code: "CAP"
       iso3166_2: "PH-CAP"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3852987
       longitude: 122.6377315
       cities:
@@ -16979,9 +17291,11 @@
           longitude: 122.0643914
     -
       name: "Caraga"
+      native: "Caraga"
       code: "13"
       iso3166_2: "PH-13"
       type: "region"
+      type_es: "región"
       latitude: 9.2517336
       longitude: 125.851666
       cities:
@@ -17263,9 +17577,11 @@
           longitude: 125.9552937
     -
       name: "Catanduanes"
+      native: "Catanduanes"
       code: "CAT"
       iso3166_2: "PH-CAT"
       type: "province"
+      type_es: "provincia"
       latitude: 13.833333
       longitude: 124.25
       cities:
@@ -17315,9 +17631,11 @@
           longitude: 124.1196688
     -
       name: "Cavite"
+      native: "Cavite"
       code: "CAV"
       iso3166_2: "PH-CAV"
       type: "province"
+      type_es: "provincia"
       latitude: 14.4820919
       longitude: 120.908919
       cities:
@@ -17415,9 +17733,11 @@
           longitude: 120.8281166
     -
       name: "Cebu"
+      native: "Cebu"
       code: "CEB"
       iso3166_2: "PH-CEB"
       type: "province"
+      type_es: "provincia"
       latitude: 10.2935639
       longitude: 123.9019209
       cities:
@@ -17635,9 +17955,11 @@
           longitude: 124.4387902
     -
       name: "Central Luzon"
+      native: "Central Luzon"
       code: "03"
       iso3166_2: "PH-03"
       type: "region"
+      type_es: "región"
       latitude: 15.3942729
       longitude: 120.6872959
       cities:
@@ -18695,18 +19017,22 @@
           longitude: 120.90505
     -
       name: "Central Visayas"
+      native: "Central Visayas"
       code: "07"
       iso3166_2: "PH-07"
       type: "region"
+      type_es: "región"
       latitude: 10.4734504
       longitude: 123.8648083
       cities:
         []
     -
       name: "Cordillera Administrative"
+      native: "Cordillera Administrative"
       code: "15"
       iso3166_2: "PH-15"
       type: "region"
+      type_es: "región"
       latitude: 17.3597101
       longitude: 121.0716923
       cities:
@@ -18952,9 +19278,11 @@
           longitude: 120.6256845
     -
       name: "Cotabato"
+      native: "Cotabato"
       code: "NCO"
       iso3166_2: "PH-NCO"
       type: "province"
+      type_es: "provincia"
       latitude: 7.2237628
       longitude: 124.2467062
       cities:
@@ -19060,9 +19388,11 @@
           longitude: 124.80053
     -
       name: "Davao"
+      native: "Davao"
       code: "11"
       iso3166_2: "PH-11"
       type: "region"
+      type_es: "región"
       latitude: 7.0648306
       longitude: 125.6080623
       cities:
@@ -19668,9 +19998,11 @@
           longitude: 125.38917
     -
       name: "Davao de Oro"
+      native: "Davao de Oro"
       code: "COM"
       iso3166_2: "PH-COM"
       type: "province"
+      type_es: "provincia"
       latitude: 7.45
       longitude: 126.07
       cities:
@@ -19720,9 +20052,11 @@
           longitude: 125.7488022
     -
       name: "Davao del Norte"
+      native: "Davao del Norte"
       code: "DAV"
       iso3166_2: "PH-DAV"
       type: "province"
+      type_es: "provincia"
       latitude: 7.6179228
       longitude: 125.6832687
       cities:
@@ -19772,9 +20106,11 @@
           longitude: 125.2722723
     -
       name: "Davao del Sur"
+      native: "Davao del Sur"
       code: "DAS"
       iso3166_2: "PH-DAS"
       type: "province"
+      type_es: "provincia"
       latitude: 6.6983658
       longitude: 125.3612135
       cities:
@@ -19824,9 +20160,11 @@
           longitude: 125.2445658
     -
       name: "Davao Occidental"
+      native: "Davao Occidental"
       code: "DVO"
       iso3166_2: "PH-DVO"
       type: "province"
+      type_es: "provincia"
       latitude: 6.27
       longitude: 125.6
       cities:
@@ -19960,9 +20298,11 @@
           longitude: 125.55974
     -
       name: "Davao Oriental"
+      native: "Davao Oriental"
       code: "DAO"
       iso3166_2: "PH-DAO"
       type: "province"
+      type_es: "provincia"
       latitude: 7.166667
       longitude: 126.333333
       cities:
@@ -20012,9 +20352,11 @@
           longitude: 126.296909
     -
       name: "Dinagat Islands"
+      native: "Dinagat Islands"
       code: "DIN"
       iso3166_2: "PH-DIN"
       type: "province"
+      type_es: "provincia"
       latitude: 10.1577932
       longitude: 125.5851827
       cities:
@@ -20048,9 +20390,11 @@
           longitude: 125.5029162
     -
       name: "Eastern Samar"
+      native: "Eastern Samar"
       code: "EAS"
       iso3166_2: "PH-EAS"
       type: "province"
+      type_es: "provincia"
       latitude: 11.73
       longitude: 125.37
       cities:
@@ -20148,9 +20492,11 @@
           longitude: 125.2652081
     -
       name: "Eastern Visayas"
+      native: "Eastern Visayas"
       code: "08"
       iso3166_2: "PH-08"
       type: "region"
+      type_es: "región"
       latitude: 11.2945278
       longitude: 124.9959508
       cities:
@@ -20552,9 +20898,11 @@
           longitude: 125.02194444
     -
       name: "Guimaras"
+      native: "Guimaras"
       code: "GUI"
       iso3166_2: "PH-GUI"
       type: "province"
+      type_es: "provincia"
       latitude: 10.5730629
       longitude: 122.6238907
       cities:
@@ -20580,9 +20928,11 @@
           longitude: 122.4747973
     -
       name: "Ifugao"
+      native: "Ifugao"
       code: "IFU"
       iso3166_2: "PH-IFU"
       type: "province"
+      type_es: "provincia"
       latitude: 16.87
       longitude: 121.22
       cities:
@@ -20632,9 +20982,11 @@
           longitude: 120.877243
     -
       name: "Ilocos"
+      native: "Ilocos"
       code: "01"
       iso3166_2: "PH-01"
       type: "region"
+      type_es: "región"
       latitude: 17.2
       longitude: 120.5
       cities:
@@ -21464,9 +21816,11 @@
           longitude: 120.12074
     -
       name: "Ilocos Norte"
+      native: "Ilocos Norte"
       code: "ILN"
       iso3166_2: "PH-ILN"
       type: "province"
+      type_es: "provincia"
       latitude: 18.166667
       longitude: 120.75
       cities:
@@ -21564,9 +21918,11 @@
           longitude: 120.6255884
     -
       name: "Ilocos Sur"
+      native: "Ilocos Sur"
       code: "ILS"
       iso3166_2: "PH-ILS"
       type: "province"
+      type_es: "provincia"
       latitude: 17.2
       longitude: 120.5
       cities:
@@ -21708,9 +22064,11 @@
           longitude: 120.3100405
     -
       name: "Iloilo"
+      native: "Iloilo"
       code: "ILI"
       iso3166_2: "PH-ILI"
       type: "province"
+      type_es: "provincia"
       latitude: 10.6932884
       longitude: 122.5732604
       cities:
@@ -21892,9 +22250,11 @@
           longitude: 122.5942029
     -
       name: "Isabela"
+      native: "Isabela"
       code: "ISA"
       iso3166_2: "PH-ISA"
       type: "province"
+      type_es: "provincia"
       latitude: 17
       longitude: 122
       cities:
@@ -22044,9 +22404,11 @@
           longitude: 121.7202119
     -
       name: "Kalinga"
+      native: "Kalinga"
       code: "KAL"
       iso3166_2: "PH-KAL"
       type: "province"
+      type_es: "provincia"
       latitude: 17.46
       longitude: 121.31
       cities:
@@ -22084,9 +22446,11 @@
           longitude: 120.9277854
     -
       name: "La Union"
+      native: "La Union"
       code: "LUN"
       iso3166_2: "PH-LUN"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5735957
       longitude: 120.4089899
       cities:
@@ -22172,9 +22536,11 @@
           longitude: 120.3831614
     -
       name: "Laguna"
+      native: "Laguna"
       code: "LAG"
       iso3166_2: "PH-LAG"
       type: "province"
+      type_es: "provincia"
       latitude: 14.1696476
       longitude: 121.3336526
       cities:
@@ -22296,9 +22662,11 @@
           longitude: 121.2948149
     -
       name: "Lanao del Norte"
+      native: "Lanao del Norte"
       code: "LAN"
       iso3166_2: "PH-LAN"
       type: "province"
+      type_es: "provincia"
       latitude: 7.9579723
       longitude: 123.9021124
       cities:
@@ -22396,9 +22764,11 @@
           longitude: 123.7855728
     -
       name: "Lanao del Sur"
+      native: "Lanao del Sur"
       code: "LAS"
       iso3166_2: "PH-LAS"
       type: "province"
+      type_es: "provincia"
       latitude: 7.8776443
       longitude: 124.3754759
       cities:
@@ -22564,9 +22934,11 @@
           longitude: 124.6389873
     -
       name: "Leyte"
+      native: "Leyte"
       code: "LEY"
       iso3166_2: "PH-LEY"
       type: "province"
+      type_es: "provincia"
       latitude: 10.7841157
       longitude: 124.892321
       cities:
@@ -22744,9 +23116,11 @@
           longitude: 124.3502528
     -
       name: "Maguindanao del Norte"
+      native: "Maguindanao del Norte"
       code: "MGN"
       iso3166_2: "PH-MGN"
       type: "province"
+      type_es: "provincia"
       latitude: 7.1088356
       longitude: 124.2072945
       cities:
@@ -22804,9 +23178,11 @@
           longitude: 124.0747792
     -
       name: "Maguindanao del Sur"
+      native: "Maguindanao del Sur"
       code: "MGS"
       iso3166_2: "PH-MGS"
       type: "province"
+      type_es: "provincia"
       latitude: 6.9234196
       longitude: 124.5365357
       cities:
@@ -22908,9 +23284,11 @@
           longitude: 124.240218
     -
       name: "Marinduque"
+      native: "Marinduque"
       code: "MAD"
       iso3166_2: "PH-MAD"
       type: "province"
+      type_es: "provincia"
       latitude: 13.416667
       longitude: 121.95
       cities:
@@ -22940,9 +23318,11 @@
           longitude: 121.981326
     -
       name: "Masbate"
+      native: "Masbate"
       code: "MAS"
       iso3166_2: "PH-MAS"
       type: "province"
+      type_es: "provincia"
       latitude: 12.3710899
       longitude: 123.6239223
       cities:
@@ -23032,18 +23412,22 @@
           longitude: 123.6679418
     -
       name: "Mimaropa"
+      native: "Mimaropa"
       code: "41"
       iso3166_2: "PH-41"
       type: "region"
+      type_es: "región"
       latitude: 13.0106436
       longitude: 121.4115747
       cities:
         []
     -
       name: "Misamis Occidental"
+      native: "Misamis Occidental"
       code: "MSC"
       iso3166_2: "PH-MSC"
       type: "province"
+      type_es: "provincia"
       latitude: 8.3374903
       longitude: 123.7070619
       cities:
@@ -23117,9 +23501,11 @@
           longitude: 123.5977469
     -
       name: "Misamis Oriental"
+      native: "Misamis Oriental"
       code: "MSR"
       iso3166_2: "PH-MSR"
       type: "province"
+      type_es: "provincia"
       latitude: 8.6534807
       longitude: 124.8235205
       cities:
@@ -23229,9 +23615,11 @@
           longitude: 124.708639
     -
       name: "Mountain Province"
+      native: "Mountain Province"
       code: "MOU"
       iso3166_2: "PH-MOU"
       type: "province"
+      type_es: "provincia"
       latitude: 17.11
       longitude: 121.16
       cities:
@@ -23277,9 +23665,11 @@
           longitude: 120.7413489
     -
       name: "National Capital Region (Metro Manila)"
+      native: "National Capital Region (Metro Manila)"
       code: "00"
       iso3166_2: "PH-00"
       type: "region"
+      type_es: "región"
       latitude: 14.5800297
       longitude: 120.985536
       cities:
@@ -23337,9 +23727,11 @@
           longitude: 120.9833
     -
       name: "Negros Occidental"
+      native: "Negros Occidental"
       code: "NEC"
       iso3166_2: "PH-NEC"
       type: "province"
+      type_es: "provincia"
       latitude: 10.416667
       longitude: 123
       cities:
@@ -23473,9 +23865,11 @@
           longitude: 123.0125388
     -
       name: "Negros Oriental"
+      native: "Negros Oriental"
       code: "NER"
       iso3166_2: "PH-NER"
       type: "province"
+      type_es: "provincia"
       latitude: 9.75
       longitude: 123
       cities:
@@ -23577,18 +23971,22 @@
           longitude: 123.0976505
     -
       name: "Northern Mindanao"
+      native: "Northern Mindanao"
       code: "10"
       iso3166_2: "PH-10"
       type: "region"
+      type_es: "región"
       latitude: 8.3979549
       longitude: 124.710688
       cities:
         []
     -
       name: "Northern Samar"
+      native: "Northern Samar"
       code: "NSA"
       iso3166_2: "PH-NSA"
       type: "province"
+      type_es: "provincia"
       latitude: 12.42
       longitude: 124.81
       cities:
@@ -23690,9 +24088,11 @@
           longitude: 124.2211944
     -
       name: "Nueva Ecija"
+      native: "Nueva Ecija"
       code: "NUE"
       iso3166_2: "PH-NUE"
       type: "province"
+      type_es: "provincia"
       latitude: 15.583333
       longitude: 121
       cities:
@@ -23826,9 +24226,11 @@
           longitude: 120.7155808
     -
       name: "Nueva Vizcaya"
+      native: "Nueva Vizcaya"
       code: "NUV"
       iso3166_2: "PH-NUV"
       type: "province"
+      type_es: "provincia"
       latitude: 16.35
       longitude: 121.13
       cities:
@@ -23894,9 +24296,11 @@
           longitude: 121.0808467
     -
       name: "Occidental Mindoro"
+      native: "Occidental Mindoro"
       code: "MDC"
       iso3166_2: "PH-MDC"
       type: "province"
+      type_es: "provincia"
       latitude: 13.0000021
       longitude: 120.9166666
       cities:
@@ -24846,9 +25250,11 @@
           longitude: 122.4846
     -
       name: "Oriental Mindoro"
+      native: "Oriental Mindoro"
       code: "MDR"
       iso3166_2: "PH-MDR"
       type: "province"
+      type_es: "provincia"
       latitude: 13.2
       longitude: 121.2
       cities:
@@ -25546,9 +25952,11 @@
           longitude: 121.964
     -
       name: "Palawan"
+      native: "Palawan"
       code: "PLW"
       iso3166_2: "PH-PLW"
       type: "province"
+      type_es: "provincia"
       latitude: 9.8778426
       longitude: 118.6764919
       cities:
@@ -25650,9 +26058,11 @@
           longitude: 119.1518128
     -
       name: "Pampanga"
+      native: "Pampanga"
       code: "PAM"
       iso3166_2: "PH-PAM"
       type: "province"
+      type_es: "provincia"
       latitude: 15.0519635
       longitude: 120.6445398
       cities:
@@ -25746,9 +26156,11 @@
           longitude: 120.5363449
     -
       name: "Pangasinan"
+      native: "Pangasinan"
       code: "PAN"
       iso3166_2: "PH-PAN"
       type: "province"
+      type_es: "provincia"
       latitude: 15.916667
       longitude: 120.333333
       cities:
@@ -25946,9 +26358,11 @@
           longitude: 120.4916852
     -
       name: "Quezon"
+      native: "Quezon"
       code: "QUE"
       iso3166_2: "PH-QUE"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0067037
       longitude: 122.1827232
       cities:
@@ -26118,9 +26532,11 @@
           longitude: 121.9258795
     -
       name: "Quirino"
+      native: "Quirino"
       code: "QUI"
       iso3166_2: "PH-QUI"
       type: "province"
+      type_es: "provincia"
       latitude: 16.283333
       longitude: 121.583333
       cities:
@@ -26150,9 +26566,11 @@
           longitude: 121.499215
     -
       name: "Rizal"
+      native: "Rizal"
       code: "RIZ"
       iso3166_2: "PH-RIZ"
       type: "province"
+      type_es: "provincia"
       latitude: 14.65
       longitude: 121.25
       cities:
@@ -26214,9 +26632,11 @@
           longitude: 121.1875131
     -
       name: "Romblon"
+      native: "Romblon"
       code: "ROM"
       iso3166_2: "PH-ROM"
       type: "province"
+      type_es: "provincia"
       latitude: 12.5778016
       longitude: 122.269146
       cities:
@@ -26290,9 +26710,11 @@
           longitude: 122.0435348
     -
       name: "Sarangani"
+      native: "Sarangani"
       code: "SAR"
       iso3166_2: "PH-SAR"
       type: "province"
+      type_es: "provincia"
       latitude: 5.874722
       longitude: 125.275278
       cities:
@@ -26326,9 +26748,11 @@
           longitude: 124.9606191
     -
       name: "Siquijor"
+      native: "Siquijor"
       code: "SIG"
       iso3166_2: "PH-SIG"
       type: "province"
+      type_es: "provincia"
       latitude: 9.18
       longitude: 123.58
       cities:
@@ -26358,9 +26782,11 @@
           longitude: 123.4434089
     -
       name: "Soccsksargen"
+      native: "Soccsksargen"
       code: "12"
       iso3166_2: "PH-12"
       type: "region"
+      type_es: "región"
       latitude: 6.5647277
       longitude: 124.4840255
       cities:
@@ -27018,9 +27444,11 @@
           longitude: 124.5193595
     -
       name: "Sorsogon"
+      native: "Sorsogon"
       code: "SOR"
       iso3166_2: "PH-SOR"
       type: "province"
+      type_es: "provincia"
       latitude: 12.9707848
       longitude: 124.0052543
       cities:
@@ -27086,9 +27514,11 @@
           longitude: 123.8031133
     -
       name: "South Cotabato"
+      native: "South Cotabato"
       code: "SCO"
       iso3166_2: "PH-SCO"
       type: "province"
+      type_es: "provincia"
       latitude: 6.2855239
       longitude: 124.9333096
       cities:
@@ -27142,9 +27572,11 @@
           longitude: 124.8264723
     -
       name: "Southern Leyte"
+      native: "Southern Leyte"
       code: "SLE"
       iso3166_2: "PH-SLE"
       type: "province"
+      type_es: "provincia"
       latitude: 10.3475099
       longitude: 125.1250896
       cities:
@@ -27226,9 +27658,11 @@
           longitude: 124.9047222
     -
       name: "Sultan Kudarat"
+      native: "Sultan Kudarat"
       code: "SUK"
       iso3166_2: "PH-SUK"
       type: "province"
+      type_es: "provincia"
       latitude: 6.5556705
       longitude: 124.3271496
       cities:
@@ -27278,9 +27712,11 @@
           longitude: 124.5904072
     -
       name: "Sulu"
+      native: "Sulu"
       code: "SLU"
       iso3166_2: "PH-SLU"
       type: "province"
+      type_es: "provincia"
       latitude: 5.9942808
       longitude: 121.0787926
       cities:
@@ -27362,9 +27798,11 @@
           longitude: 120.8128577
     -
       name: "Surigao del Norte"
+      native: "Surigao del Norte"
       code: "SUN"
       iso3166_2: "PH-SUN"
       type: "province"
+      type_es: "provincia"
       latitude: 9.7022868
       longitude: 125.5464831
       cities:
@@ -27454,9 +27892,11 @@
           longitude: 125.5255182
     -
       name: "Surigao del Sur"
+      native: "Surigao del Sur"
       code: "SUR"
       iso3166_2: "PH-SUR"
       type: "province"
+      type_es: "provincia"
       latitude: 8.84
       longitude: 126.15
       cities:
@@ -27538,9 +27978,11 @@
           longitude: 125.9672909
     -
       name: "Tarlac"
+      native: "Tarlac"
       code: "TAR"
       iso3166_2: "PH-TAR"
       type: "province"
+      type_es: "provincia"
       latitude: 15.4861218
       longitude: 120.5893473
       cities:
@@ -27618,9 +28060,11 @@
           longitude: 120.6070698
     -
       name: "Tawi-Tawi"
+      native: "Tawi-Tawi"
       code: "TAW"
       iso3166_2: "PH-TAW"
       type: "province"
+      type_es: "provincia"
       latitude: 5.2057
       longitude: 120.0265
       cities:
@@ -27670,9 +28114,11 @@
           longitude: 118.0051141
     -
       name: "Western Samar"
+      native: "Western Samar"
       code: "WSA"
       iso3166_2: "PH-WSA"
       type: "province"
+      type_es: "provincia"
       latitude: 11.833333
       longitude: 125
       cities:
@@ -27782,18 +28228,22 @@
           longitude: 124.8165311
     -
       name: "Western Visayas"
+      native: "Western Visayas"
       code: "06"
       iso3166_2: "PH-06"
       type: "region"
+      type_es: "región"
       latitude: 11.2367324
       longitude: 122.6878187
       cities:
         []
     -
       name: "Zambales"
+      native: "Zambales"
       code: "ZMB"
       iso3166_2: "PH-ZMB"
       type: "province"
+      type_es: "provincia"
       latitude: 15.23
       longitude: 120.12
       cities:
@@ -27855,9 +28305,11 @@
           longitude: 120.1059781
     -
       name: "Zamboanga del Norte"
+      native: "Zamboanga del Norte"
       code: "ZAN"
       iso3166_2: "PH-ZAN"
       type: "province"
+      type_es: "provincia"
       latitude: 8
       longitude: 122.666667
       cities:
@@ -27971,9 +28423,11 @@
           longitude: 122.5957448
     -
       name: "Zamboanga del Sur"
+      native: "Zamboanga del Sur"
       code: "ZAS"
       iso3166_2: "PH-ZAS"
       type: "province"
+      type_es: "provincia"
       latitude: 7.9043
       longitude: 123.3194
       cities:
@@ -28091,18 +28545,22 @@
           longitude: 121.8384294
     -
       name: "Zamboanga Peninsula"
+      native: "Zamboanga Peninsula"
       code: "09"
       iso3166_2: "PH-09"
       type: "region"
+      type_es: "región"
       latitude: 7.7787234
       longitude: 122.7570828
       cities:
         []
     -
       name: "Zamboanga Sibugay"
+      native: "Zamboanga Sibugay"
       code: "ZSI"
       iso3166_2: "PH-ZSI"
       type: "province"
+      type_es: "provincia"
       latitude: 7.7877097
       longitude: 122.5744217
       cities:
@@ -28516,16 +28974,20 @@
   currency_symbol: "$"
   tld: ".sg"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 1.36666666
   longitude: 103.8
   emoji: "🇸🇬"
   states:
     -
       name: "Central Singapore"
+      native: "Central Singapore"
       code: "01"
       iso3166_2: "SG-01"
       type: "district"
+      type_es: "distrito"
       latitude: 1.2884
       longitude: 103.8535
       cities:
@@ -28579,9 +29041,11 @@
           longitude: 103.8497
     -
       name: "North East"
+      native: "North East"
       code: "02"
       iso3166_2: "SG-02"
       type: "district"
+      type_es: "distrito"
       latitude: 5.3341186
       longitude: 100.2761077
       cities:
@@ -28607,9 +29071,11 @@
           longitude: 103.8737
     -
       name: "North West"
+      native: "North West"
       code: "03"
       iso3166_2: "SG-03"
       type: "district"
+      type_es: "distrito"
       latitude: 1.4509382
       longitude: 103.7849519
       cities:
@@ -28627,9 +29093,11 @@
           longitude: 103.8355
     -
       name: "South East"
+      native: "South East"
       code: "04"
       iso3166_2: "SG-04"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3352329
       longitude: 103.9598931
       cities:
@@ -28647,9 +29115,11 @@
           longitude: 103.9437
     -
       name: "South West"
+      native: "South West"
       code: "05"
       iso3166_2: "SG-05"
       type: "district"
+      type_es: "distrito"
       latitude: 5.2883389
       longitude: 100.2815099
       cities:
@@ -28679,16 +29149,20 @@
   currency_symbol: "฿"
   tld: ".th"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 15
   longitude: 100
   emoji: "🇹🇭"
   states:
     -
       name: "Amnat Charoen"
+      native: "อำนาจเจริญ"
       code: "37"
       iso3166_2: "TH-37"
       type: "province"
+      type_es: "provincia"
       latitude: 15.8656783
       longitude: 104.6257774
       cities:
@@ -28726,9 +29200,11 @@
           longitude: 104.68441
     -
       name: "Ang Thong"
+      native: "อ่างทอง"
       code: "15"
       iso3166_2: "TH-15"
       type: "province"
+      type_es: "provincia"
       latitude: 14.5896054
       longitude: 100.455052
       cities:
@@ -28778,9 +29254,11 @@
           longitude: 100.33825
     -
       name: "Bangkok"
+      native: "กรุงเทพฯ"
       code: "10"
       iso3166_2: "TH-10"
       type: "metropolitan administration"
+      type_es: "administración metropolitana"
       latitude: 13.7563309
       longitude: 100.5017651
       cities:
@@ -28990,9 +29468,11 @@
           longitude: 100.5395
     -
       name: "Bueng Kan"
+      native: "บึงกาฬ"
       code: "38"
       iso3166_2: "TH-38"
       type: "province"
+      type_es: "provincia"
       latitude: 18.3609104
       longitude: 103.6464463
       cities:
@@ -29038,9 +29518,11 @@
           longitude: 103.44923
     -
       name: "Buri Ram"
+      native: "บุรีรัมย์"
       code: "31"
       iso3166_2: "TH-31"
       type: "province"
+      type_es: "provincia"
       latitude: 14.9951003
       longitude: 103.1115915
       cities:
@@ -29158,9 +29640,11 @@
           longitude: 103.29192
     -
       name: "Chachoengsao"
+      native: "ฉะเชิงเทรา"
       code: "24"
       iso3166_2: "TH-24"
       type: "province"
+      type_es: "provincia"
       latitude: 13.6904194
       longitude: 101.0779596
       cities:
@@ -29234,9 +29718,11 @@
           longitude: 101.73457
     -
       name: "Chai Nat"
+      native: "ชัยนาท"
       code: "18"
       iso3166_2: "TH-18"
       type: "province"
+      type_es: "provincia"
       latitude: 15.1851971
       longitude: 100.125125
       cities:
@@ -29278,9 +29764,11 @@
           longitude: 99.9668
     -
       name: "Chaiyaphum"
+      native: "ชัยภูมิ"
       code: "36"
       iso3166_2: "TH-36"
       type: "province"
+      type_es: "provincia"
       latitude: 16.2720349
       longitude: 101.7153824
       cities:
@@ -29310,9 +29798,11 @@
           longitude: 102.12853
     -
       name: "Chanthaburi"
+      native: "จันทบุรี"
       code: "22"
       iso3166_2: "TH-22"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6112485
       longitude: 102.1037806
       cities:
@@ -29378,9 +29868,11 @@
           longitude: 102.00481
     -
       name: "Chiang Mai"
+      native: "เชียงใหม่"
       code: "50"
       iso3166_2: "TH-50"
       type: "province"
+      type_es: "provincia"
       latitude: 18.7883439
       longitude: 98.9853008
       cities:
@@ -29518,9 +30010,11 @@
           longitude: 98.65845
     -
       name: "Chiang Rai"
+      native: "เชียงราย"
       code: "57"
       iso3166_2: "TH-57"
       type: "province"
+      type_es: "provincia"
       latitude: 19.9104798
       longitude: 99.840576
       cities:
@@ -29622,9 +30116,11 @@
           longitude: 99.44925
     -
       name: "Chon Buri"
+      native: "ชลบุรี"
       code: "20"
       iso3166_2: "TH-20"
       type: "province"
+      type_es: "provincia"
       latitude: 13.1857117
       longitude: 101.1210777
       cities:
@@ -29718,9 +30214,11 @@
           longitude: 100.93111
     -
       name: "Chumphon"
+      native: "ชุมพร"
       code: "86"
       iso3166_2: "TH-86"
       type: "province"
+      type_es: "provincia"
       latitude: 10.4930496
       longitude: 99.1800199
       cities:
@@ -29770,9 +30268,11 @@
           longitude: 99.05337
     -
       name: "Kalasin"
+      native: "กาฬสินธุ์"
       code: "46"
       iso3166_2: "TH-46"
       type: "province"
+      type_es: "provincia"
       latitude: 16.438508
       longitude: 103.5060994
       cities:
@@ -29878,9 +30378,11 @@
           longitude: 103.36785
     -
       name: "Kamphaeng Phet"
+      native: "กำแพงเพชร"
       code: "62"
       iso3166_2: "TH-62"
       type: "province"
+      type_es: "provincia"
       latitude: 16.4748045
       longitude: 99.5280072
       cities:
@@ -29942,9 +30444,11 @@
           longitude: 99.87854
     -
       name: "Kanchanaburi"
+      native: "กาญจนบุรี"
       code: "71"
       iso3166_2: "TH-71"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0342066
       longitude: 99.5256113
       cities:
@@ -30026,9 +30530,11 @@
           longitude: 98.69233
     -
       name: "Khon Kaen"
+      native: "ขอนแก่น"
       code: "40"
       iso3166_2: "TH-40"
       type: "province"
+      type_es: "provincia"
       latitude: 16.4303916
       longitude: 102.8355904
       cities:
@@ -30162,9 +30668,11 @@
           longitude: 102.29186
     -
       name: "Krabi"
+      native: "กระบี่"
       code: "81"
       iso3166_2: "TH-81"
       type: "province"
+      type_es: "provincia"
       latitude: 8.0634637
       longitude: 98.9162345
       cities:
@@ -30222,9 +30730,11 @@
           longitude: 99.03651
     -
       name: "Lampang"
+      native: "ลำปาง"
       code: "52"
       iso3166_2: "TH-52"
       type: "province"
+      type_es: "provincia"
       latitude: 18.2899489
       longitude: 99.4958526
       cities:
@@ -30294,9 +30804,11 @@
           longitude: 99.61933
     -
       name: "Lamphun"
+      native: "ลำพูน"
       code: "51"
       iso3166_2: "TH-51"
       type: "province"
+      type_es: "provincia"
       latitude: 18.5744606
       longitude: 99.0087221
       cities:
@@ -30346,9 +30858,11 @@
           longitude: 98.75856
     -
       name: "Loei"
+      native: "เลย"
       code: "42"
       iso3166_2: "TH-42"
       type: "province"
+      type_es: "provincia"
       latitude: 17.4860232
       longitude: 101.7223002
       cities:
@@ -30422,9 +30936,11 @@
           longitude: 101.7685
     -
       name: "Lop Buri"
+      native: "ลพบุรี"
       code: "16"
       iso3166_2: "TH-16"
       type: "province"
+      type_es: "provincia"
       latitude: 14.8023289
       longitude: 100.6146858
       cities:
@@ -30482,9 +30998,11 @@
           longitude: 100.50921
     -
       name: "Mae Hong Son"
+      native: "แม่ฮ่องสอน"
       code: "58"
       iso3166_2: "TH-58"
       type: "province"
+      type_es: "provincia"
       latitude: 19.3020296
       longitude: 97.9654368
       cities:
@@ -30522,9 +31040,11 @@
           longitude: 97.93149
     -
       name: "Maha Sarakham"
+      native: "มหาสารคาม"
       code: "44"
       iso3166_2: "TH-44"
       type: "province"
+      type_es: "provincia"
       latitude: 15.9041448
       longitude: 103.0840638
       cities:
@@ -30598,9 +31118,11 @@
           longitude: 103.08916
     -
       name: "Mukdahan"
+      native: "มุกดาหาร"
       code: "49"
       iso3166_2: "TH-49"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5414065
       longitude: 104.7290699
       cities:
@@ -30638,9 +31160,11 @@
           longitude: 104.72865
     -
       name: "Nakhon Nayok"
+      native: "นครนายก"
       code: "26"
       iso3166_2: "TH-26"
       type: "province"
+      type_es: "provincia"
       latitude: 14.2069466
       longitude: 101.2130511
       cities:
@@ -30666,9 +31190,11 @@
           longitude: 101.34482
     -
       name: "Nakhon Pathom"
+      native: "นครปฐม"
       code: "73"
       iso3166_2: "TH-73"
       type: "province"
+      type_es: "provincia"
       latitude: 13.8341476
       longitude: 100.0502775
       cities:
@@ -30714,9 +31240,11 @@
           longitude: 100.21526
     -
       name: "Nakhon Phanom"
+      native: "นครพนม"
       code: "48"
       iso3166_2: "TH-48"
       type: "province"
+      type_es: "provincia"
       latitude: 17.4032326
       longitude: 104.7853098
       cities:
@@ -30782,9 +31310,11 @@
           longitude: 104.45373
     -
       name: "Nakhon Ratchasima"
+      native: "นครราชสีมา"
       code: "30"
       iso3166_2: "TH-30"
       type: "province"
+      type_es: "provincia"
       latitude: 14.9747339
       longitude: 102.0981161
       cities:
@@ -30978,9 +31508,11 @@
           longitude: 101.85533
     -
       name: "Nakhon Sawan"
+      native: "นครสวรรค์"
       code: "60"
       iso3166_2: "TH-60"
       type: "province"
+      type_es: "provincia"
       latitude: 15.705783
       longitude: 100.1330046
       cities:
@@ -31074,9 +31606,11 @@
           longitude: 100.45939
     -
       name: "Nakhon Si Thammarat"
+      native: "นครศรีธรรมราช"
       code: "80"
       iso3166_2: "TH-80"
       type: "province"
+      type_es: "provincia"
       latitude: 8.4324831
       longitude: 99.9599033
       cities:
@@ -31198,9 +31732,11 @@
           longitude: 99.37196
     -
       name: "Nan"
+      native: "แนน"
       code: "55"
       iso3166_2: "TH-55"
       type: "province"
+      type_es: "provincia"
       latitude: 18.7778874
       longitude: 100.773732
       cities:
@@ -31274,9 +31810,11 @@
           longitude: 100.91937
     -
       name: "Narathiwat"
+      native: "นราธิวาส"
       code: "96"
       iso3166_2: "TH-96"
       type: "province"
+      type_es: "provincia"
       latitude: 6.4350352
       longitude: 101.8228923
       cities:
@@ -31354,9 +31892,11 @@
           longitude: 101.70035
     -
       name: "Nong Bua Lam Phu"
+      native: "หนองบัวลำภู"
       code: "39"
       iso3166_2: "TH-39"
       type: "province"
+      type_es: "provincia"
       latitude: 17.2022252
       longitude: 102.440702
       cities:
@@ -31402,9 +31942,11 @@
           longitude: 102.24852
     -
       name: "Nong Khai"
+      native: "หนองคาย"
       code: "43"
       iso3166_2: "TH-43"
       type: "province"
+      type_es: "provincia"
       latitude: 17.8782803
       longitude: 102.7412638
       cities:
@@ -31466,9 +32008,11 @@
           longitude: 102.58139
     -
       name: "Nonthaburi"
+      native: "นนทบุรี"
       code: "12"
       iso3166_2: "TH-12"
       type: "province"
+      type_es: "provincia"
       latitude: 13.8428962
       longitude: 100.4937886
       cities:
@@ -31518,9 +32062,11 @@
           longitude: 100.31072
     -
       name: "Pathum Thani"
+      native: "ปทุมธานี"
       code: "13"
       iso3166_2: "TH-13"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0208391
       longitude: 100.5250276
       cities:
@@ -31562,9 +32108,11 @@
           longitude: 100.76291
     -
       name: "Pattani"
+      native: "ปัตตานี"
       code: "94"
       iso3166_2: "TH-94"
       type: "province"
+      type_es: "provincia"
       latitude: 6.6997443
       longitude: 101.3989917
       cities:
@@ -31634,18 +32182,22 @@
           longitude: 101.36894
     -
       name: "Pattaya"
+      native: "พัทยา"
       code: "S"
       iso3166_2: "TH-S"
       type: "metropolitan administration"
+      type_es: "administración metropolitana"
       latitude: 12.9366924
       longitude: 100.8865002
       cities:
         []
     -
       name: "Phangnga"
+      native: "พังงา"
       code: "82"
       iso3166_2: "TH-82"
       type: "province"
+      type_es: "provincia"
       latitude: 8.5010944
       longitude: 98.5068054
       cities:
@@ -31699,9 +32251,11 @@
           longitude: 98.63208
     -
       name: "Phatthalung"
+      native: "พัทลุง"
       code: "93"
       iso3166_2: "TH-93"
       type: "province"
+      type_es: "provincia"
       latitude: 7.6166823
       longitude: 100.0740231
       cities:
@@ -31755,9 +32309,11 @@
           longitude: 100.04358
     -
       name: "Phayao"
+      native: "พะเยา"
       code: "56"
       iso3166_2: "TH-56"
       type: "province"
+      type_es: "provincia"
       latitude: 19.341673
       longitude: 100.1854539
       cities:
@@ -31819,9 +32375,11 @@
           longitude: 100.27522
     -
       name: "Phetchabun"
+      native: "เพชรบูรณ์"
       code: "67"
       iso3166_2: "TH-67"
       type: "province"
+      type_es: "provincia"
       latitude: 16.418027
       longitude: 101.1556825
       cities:
@@ -31891,9 +32449,11 @@
           longitude: 101.10603
     -
       name: "Phetchaburi"
+      native: "เพชรบุรี"
       code: "76"
       iso3166_2: "TH-76"
       type: "province"
+      type_es: "provincia"
       latitude: 13.0692869
       longitude: 99.6044376
       cities:
@@ -31947,9 +32507,11 @@
           longitude: 99.90555
     -
       name: "Phichit"
+      native: "พิจิตร"
       code: "66"
       iso3166_2: "TH-66"
       type: "province"
+      type_es: "provincia"
       latitude: 16.4428085
       longitude: 100.3438228
       cities:
@@ -32023,9 +32585,11 @@
           longitude: 100.53801
     -
       name: "Phitsanulok"
+      native: "พิษณุโลก"
       code: "65"
       iso3166_2: "TH-65"
       type: "province"
+      type_es: "provincia"
       latitude: 16.8211238
       longitude: 100.2658516
       cities:
@@ -32087,9 +32651,11 @@
           longitude: 100.36298
     -
       name: "Phra Nakhon Si Ayutthaya"
+      native: "พระนครศรีอยุธยา"
       code: "14"
       iso3166_2: "TH-14"
       type: "province"
+      type_es: "provincia"
       latitude: 14.3535427
       longitude: 100.5645684
       cities:
@@ -32187,9 +32753,11 @@
           longitude: 100.7155
     -
       name: "Phrae"
+      native: "แพร่"
       code: "54"
       iso3166_2: "TH-54"
       type: "province"
+      type_es: "provincia"
       latitude: 18.1445774
       longitude: 100.1402831
       cities:
@@ -32243,9 +32811,11 @@
           longitude: 99.6499
     -
       name: "Phuket"
+      native: "ภูเก็ต"
       code: "83"
       iso3166_2: "TH-83"
       type: "province"
+      type_es: "provincia"
       latitude: 7.8804479
       longitude: 98.3922504
       cities:
@@ -32319,9 +32889,11 @@
           longitude: 98.38523
     -
       name: "Prachin Buri"
+      native: "ปราจีนบุรี"
       code: "25"
       iso3166_2: "TH-25"
       type: "province"
+      type_es: "provincia"
       latitude: 14.1542055
       longitude: 101.5547823
       cities:
@@ -32363,9 +32935,11 @@
           longitude: 101.42499
     -
       name: "Prachuap Khiri Khan"
+      native: "ประจวบคีรีขันธ์"
       code: "77"
       iso3166_2: "TH-77"
       type: "province"
+      type_es: "provincia"
       latitude: 11.8057688
       longitude: 99.7967271
       cities:
@@ -32427,9 +33001,11 @@
           longitude: 99.57159
     -
       name: "Ranong"
+      native: "ระนอง"
       code: "85"
       iso3166_2: "TH-85"
       type: "province"
+      type_es: "provincia"
       latitude: 9.964128
       longitude: 98.6340038
       cities:
@@ -32459,9 +33035,11 @@
           longitude: 98.49117
     -
       name: "Ratchaburi"
+      native: "ราชบุรี"
       code: "70"
       iso3166_2: "TH-70"
       type: "province"
+      type_es: "provincia"
       latitude: 13.539067
       longitude: 99.8197035
       cities:
@@ -32531,9 +33109,11 @@
           longitude: 99.86959
     -
       name: "Rayong"
+      native: "ระยอง"
       code: "21"
       iso3166_2: "TH-21"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6813957
       longitude: 101.2816261
       cities:
@@ -32587,9 +33167,11 @@
           longitude: 101.51533
     -
       name: "Roi Et"
+      native: "ร้อยเอ็ด"
       code: "45"
       iso3166_2: "TH-45"
       type: "province"
+      type_es: "provincia"
       latitude: 16.0538196
       longitude: 103.6520036
       cities:
@@ -32703,9 +33285,11 @@
           longitude: 103.97786
     -
       name: "Sa Kaeo"
+      native: "สระแก้ว"
       code: "27"
       iso3166_2: "TH-27"
       type: "province"
+      type_es: "provincia"
       latitude: 13.824038
       longitude: 102.0645839
       cities:
@@ -32759,9 +33343,11 @@
           longitude: 102.35652
     -
       name: "Sakon Nakhon"
+      native: "สกลนคร"
       code: "47"
       iso3166_2: "TH-47"
       type: "province"
+      type_es: "provincia"
       latitude: 17.1664211
       longitude: 104.1486055
       cities:
@@ -32847,9 +33433,11 @@
           longitude: 103.62283
     -
       name: "Samut Prakan"
+      native: "สมุทรปราการ"
       code: "11"
       iso3166_2: "TH-11"
       type: "province"
+      type_es: "provincia"
       latitude: 13.6531651
       longitude: 100.8182578
       cities:
@@ -32895,9 +33483,11 @@
           longitude: 100.59675
     -
       name: "Samut Sakhon"
+      native: "สมุทรสาคร"
       code: "74"
       iso3166_2: "TH-74"
       type: "province"
+      type_es: "provincia"
       latitude: 13.5475216
       longitude: 100.2743956
       cities:
@@ -32927,9 +33517,11 @@
           longitude: 100.27362
     -
       name: "Samut Songkhram"
+      native: "สมุทรสงคราม"
       code: "75"
       iso3166_2: "TH-75"
       type: "province"
+      type_es: "provincia"
       latitude: 13.4098217
       longitude: 100.0022645
       cities:
@@ -32951,9 +33543,11 @@
           longitude: 100.00264
     -
       name: "Saraburi"
+      native: "สระบุรี"
       code: "19"
       iso3166_2: "TH-19"
       type: "province"
+      type_es: "provincia"
       latitude: 14.5289154
       longitude: 100.9101421
       cities:
@@ -33031,9 +33625,11 @@
           longitude: 100.96458
     -
       name: "Satun"
+      native: "สตูล"
       code: "91"
       iso3166_2: "TH-91"
       type: "province"
+      type_es: "provincia"
       latitude: 6.6238158
       longitude: 100.0673744
       cities:
@@ -33075,9 +33671,11 @@
           longitude: 99.76587
     -
       name: "Si Sa Ket"
+      native: "ศรีสะเกษ"
       code: "33"
       iso3166_2: "TH-33"
       type: "province"
+      type_es: "provincia"
       latitude: 15.1186009
       longitude: 104.3220095
       cities:
@@ -33183,9 +33781,11 @@
           longitude: 104.39083
     -
       name: "Sing Buri"
+      native: "สิงห์บุรี"
       code: "17"
       iso3166_2: "TH-17"
       type: "province"
+      type_es: "provincia"
       latitude: 14.8936253
       longitude: 100.3967314
       cities:
@@ -33227,9 +33827,11 @@
           longitude: 100.39349
     -
       name: "Songkhla"
+      native: "สงขลา"
       code: "90"
       iso3166_2: "TH-90"
       type: "province"
+      type_es: "provincia"
       latitude: 7.1897659
       longitude: 100.5953813
       cities:
@@ -33323,9 +33925,11 @@
           longitude: 100.91025
     -
       name: "Sukhothai"
+      native: "สุโขทัย"
       code: "64"
       iso3166_2: "TH-64"
       type: "province"
+      type_es: "provincia"
       latitude: 17.1446985
       longitude: 99.4375845
       cities:
@@ -33391,9 +33995,11 @@
           longitude: 99.55265
     -
       name: "Suphan Buri"
+      native: "สุพรรณบุรี"
       code: "72"
       iso3166_2: "TH-72"
       type: "province"
+      type_es: "provincia"
       latitude: 14.4744892
       longitude: 100.1177128
       cities:
@@ -33447,9 +34053,11 @@
           longitude: 99.88949
     -
       name: "Surat Thani"
+      native: "สุราษฎร์ธานี"
       code: "84"
       iso3166_2: "TH-84"
       type: "province"
+      type_es: "provincia"
       latitude: 9.1404136
       longitude: 99.3241347
       cities:
@@ -33579,9 +34187,11 @@
           longitude: 98.87028
     -
       name: "Surin"
+      native: "สุรินทร์"
       code: "32"
       iso3166_2: "TH-32"
       type: "province"
+      type_es: "provincia"
       latitude: 15.0610142
       longitude: 103.7613123
       cities:
@@ -33659,9 +34269,11 @@
           longitude: 103.65111
     -
       name: "Tak"
+      native: "ตาก"
       code: "63"
       iso3166_2: "TH-63"
       type: "province"
+      type_es: "provincia"
       latitude: 17.1053568
       longitude: 98.9953943
       cities:
@@ -33715,9 +34327,11 @@
           longitude: 99.14826
     -
       name: "Trang"
+      native: "ตรัง"
       code: "92"
       iso3166_2: "TH-92"
       type: "province"
+      type_es: "provincia"
       latitude: 7.5557778
       longitude: 99.6076502
       cities:
@@ -33775,9 +34389,11 @@
           longitude: 99.73438
     -
       name: "Trat"
+      native: "ตราด"
       code: "23"
       iso3166_2: "TH-23"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2427563
       longitude: 102.5174734
       cities:
@@ -33827,9 +34443,11 @@
           longitude: 102.51514
     -
       name: "Ubon Ratchathani"
+      native: "อุบลราชธานี"
       code: "34"
       iso3166_2: "TH-34"
       type: "province"
+      type_es: "provincia"
       latitude: 15.2274235
       longitude: 104.8589462
       cities:
@@ -33955,9 +34573,11 @@
           longitude: 104.8628
     -
       name: "Udon Thani"
+      native: "อุดรธานี"
       code: "41"
       iso3166_2: "TH-41"
       type: "province"
+      type_es: "provincia"
       latitude: 17.3907364
       longitude: 102.7773582
       cities:
@@ -34075,9 +34695,11 @@
           longitude: 103.46262
     -
       name: "Uthai Thani"
+      native: "อุทัยธานี"
       code: "61"
       iso3166_2: "TH-61"
       type: "province"
+      type_es: "provincia"
       latitude: 15.3835001
       longitude: 100.0245527
       cities:
@@ -34131,9 +34753,11 @@
           longitude: 100.0245
     -
       name: "Uttaradit"
+      native: "อุตรดิตถ์"
       code: "53"
       iso3166_2: "TH-53"
       type: "province"
+      type_es: "provincia"
       latitude: 17.6200886
       longitude: 100.0992942
       cities:
@@ -34179,9 +34803,11 @@
           longitude: 100.09421
     -
       name: "Yala"
+      native: "ยะลา"
       code: "95"
       iso3166_2: "TH-95"
       type: "province"
+      type_es: "provincia"
       latitude: 6.5567245
       longitude: 101.2902517
       cities:
@@ -34227,9 +34853,11 @@
           longitude: 101.28128
     -
       name: "Yasothon"
+      native: "ยโสธร"
       code: "35"
       iso3166_2: "TH-35"
       type: "province"
+      type_es: "provincia"
       latitude: 15.792641
       longitude: 104.1452827
       cities:
@@ -34287,16 +34915,20 @@
   currency_symbol: "$"
   tld: ".tl"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: -8.83333333
   longitude: 125.91666666
   emoji: "🇹🇱"
   states:
     -
       name: "Aileu"
+      native: "Aileu"
       code: "AL"
       iso3166_2: "TL-AL"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.7049799
       longitude: 125.6625518
       cities:
@@ -34314,9 +34946,11 @@
           longitude: 125.66667
     -
       name: "Ainaro"
+      native: "Ainaro"
       code: "AN"
       iso3166_2: "TL-AN"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.9969021
       longitude: 125.50482
       cities:
@@ -34330,9 +34964,11 @@
           longitude: 125.58935
     -
       name: "Baucau"
+      native: "Bauau"
       code: "BA"
       iso3166_2: "TL-BA"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.4714308
       longitude: 126.4575991
       cities:
@@ -34366,9 +35002,11 @@
           longitude: 126.37833
     -
       name: "Bobonaro"
+      native: "Ver"
       code: "BO"
       iso3166_2: "TL-BO"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.974555
       longitude: 125.2306505
       cities:
@@ -34378,9 +35016,11 @@
           longitude: 125.21972
     -
       name: "Cova Lima"
+      native: "Cova Lima"
       code: "CO"
       iso3166_2: "TL-CO"
       type: "municipality"
+      type_es: "municipio"
       latitude: -9.2352985
       longitude: 125.2329359
       cities:
@@ -34406,9 +35046,11 @@
           longitude: 125.10887
     -
       name: "Dili"
+      native: "Dili"
       code: "DI"
       iso3166_2: "TL-DI"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.5536809
       longitude: 125.5784093
       cities:
@@ -34430,9 +35072,11 @@
           longitude: 125.74163
     -
       name: "Ermera"
+      native: "Hermera"
       code: "ER"
       iso3166_2: "TL-ER"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.765625
       longitude: 125.4215713
       cities:
@@ -34458,9 +35102,11 @@
           longitude: 125.42546
     -
       name: "Lautém"
+      native: "Lautem"
       code: "LA"
       iso3166_2: "TL-LA"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.4335127
       longitude: 126.8258738
       cities:
@@ -34486,9 +35132,11 @@
           longitude: 127.25923
     -
       name: "Liquiçá"
+      native: "Liquiçá"
       code: "LI"
       iso3166_2: "TL-LI"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.655061
       longitude: 125.2751452
       cities:
@@ -34506,9 +35154,11 @@
           longitude: 125.20611
     -
       name: "Manatuto"
+      native: "Manatsuto"
       code: "MT"
       iso3166_2: "TL-MT"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.5155608
       longitude: 126.0159255
       cities:
@@ -34538,9 +35188,11 @@
           longitude: 125.94
     -
       name: "Manufahi"
+      native: "Fabricante"
       code: "MF"
       iso3166_2: "TL-MF"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.96666
       longitude: 125.7810921
       cities:
@@ -34562,9 +35214,11 @@
           longitude: 125.70454
     -
       name: "Oecusse"
+      native: "Oé-Cusse Ambeno"
       code: "OE"
       iso3166_2: "TL-OE"
       type: "special administrative region"
+      type_es: "región administrativa especial"
       latitude: -9.35
       longitude: 124.3
       cities:
@@ -34590,9 +35244,11 @@
           longitude: 124.34333333
     -
       name: "Viqueque"
+      native: "Viqueque"
       code: "VI"
       iso3166_2: "TL-VI"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.8597918
       longitude: 126.3633516
       cities:
@@ -34630,16 +35286,20 @@
   currency_symbol: "₫"
   tld: ".vn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 16.16666666
   longitude: 107.83333333
   emoji: "🇻🇳"
   states:
     -
       name: "An Giang"
+      native: "An Giang"
       code: "44"
       iso3166_2: "VN-44"
       type: "province"
+      type_es: "provincia"
       latitude: 10.3188672
       longitude: 105.0432488
       cities:
@@ -34729,9 +35389,11 @@
           longitude: 105.08091
     -
       name: "Bắc Ninh"
+      native: "Bắc Ninh"
       code: "56"
       iso3166_2: "VN-56"
       type: "province"
+      type_es: "provincia"
       latitude: 21.1781515
       longitude: 106.0710078
       cities:
@@ -34777,9 +35439,11 @@
           longitude: 106.11689
     -
       name: "Cà Mau"
+      native: "Cà Mau"
       code: "59"
       iso3166_2: "VN-59"
       type: "province"
+      type_es: "provincia"
       latitude: 9.1762003
       longitude: 105.1508415
       cities:
@@ -34817,9 +35481,11 @@
           longitude: 105.16023
     -
       name: "Cần Thơ"
+      native: "Cần Thơ"
       code: "CT"
       iso3166_2: "VN-CT"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.0364634
       longitude: 105.7875821
       cities:
@@ -34877,9 +35543,11 @@
           longitude: 105.40111111
     -
       name: "Cao Bằng"
+      native: "Cao Bằng"
       code: "04"
       iso3166_2: "VN-04"
       type: "province"
+      type_es: "provincia"
       latitude: 22.665781
       longitude: 106.2587824
       cities:
@@ -34929,9 +35597,11 @@
           longitude: 106.56074
     -
       name: "Đà Nẵng"
+      native: "Đà Nẵng"
       code: "DN"
       iso3166_2: "VN-DN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 16.068
       longitude: 108.212
       cities:
@@ -34985,9 +35655,11 @@
           longitude: 108.47403
     -
       name: "Đắk Lắk"
+      native: "Đắk Lắk"
       code: "33"
       iso3166_2: "VN-33"
       type: "province"
+      type_es: "provincia"
       latitude: 12.8741856
       longitude: 108.7979302
       cities:
@@ -35025,9 +35697,11 @@
           longitude: 109.32094
     -
       name: "Điện Biên"
+      native: "Điện Biên"
       code: "71"
       iso3166_2: "VN-71"
       type: "province"
+      type_es: "provincia"
       latitude: 21.6546566
       longitude: 103.2168632
       cities:
@@ -35057,9 +35731,11 @@
           longitude: 103.12331
     -
       name: "Đồng Nai"
+      native: "Đồng Nai"
       code: "39"
       iso3166_2: "VN-39"
       type: "province"
+      type_es: "provincia"
       latitude: 11.4285446
       longitude: 107.1624245
       cities:
@@ -35121,9 +35797,11 @@
           longitude: 106.9967
     -
       name: "Đồng Tháp"
+      native: "Đồng Tháp"
       code: "45"
       iso3166_2: "VN-45"
       type: "province"
+      type_es: "provincia"
       latitude: 10.425183
       longitude: 105.9271362
       cities:
@@ -35205,9 +35883,11 @@
           longitude: 106.65847
     -
       name: "Gia Lai"
+      native: "Gia Lai"
       code: "30"
       iso3166_2: "VN-30"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0201373
       longitude: 108.6354524
       cities:
@@ -35281,9 +35961,11 @@
           longitude: 109.22367
     -
       name: "Hà Nội"
+      native: "Hà Nội"
       code: "HN"
       iso3166_2: "VN-HN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 21.0283334
       longitude: 105.854041
       cities:
@@ -35409,9 +36091,11 @@
           longitude: 105.6364852
     -
       name: "Hà Tĩnh"
+      native: "Hà Tĩnh"
       code: "23"
       iso3166_2: "VN-23"
       type: "province"
+      type_es: "provincia"
       latitude: 18.338181
       longitude: 105.8958971
       cities:
@@ -35445,9 +36129,11 @@
           longitude: 105.81123
     -
       name: "Hải Phòng"
+      native: "Hải Phòng"
       code: "HP"
       iso3166_2: "VN-HP"
       type: "province"
+      type_es: "provincia"
       latitude: 20.8623278
       longitude: 106.6799266
       cities:
@@ -35493,9 +36179,11 @@
           longitude: 106.39638
     -
       name: "Hồ Chí Minh"
+      native: "Hồ Chí Minh"
       code: "SG"
       iso3166_2: "VN-SG"
       type: "province"
+      type_es: "provincia"
       latitude: 10.7763897
       longitude: 106.7011391
       cities:
@@ -35553,9 +36241,11 @@
           longitude: 107.08426
     -
       name: "Hưng Yên"
+      native: "Hưng Yên"
       code: "66"
       iso3166_2: "VN-66"
       type: "province"
+      type_es: "provincia"
       latitude: 20.6568406
       longitude: 106.054036
       cities:
@@ -35621,9 +36311,11 @@
           longitude: 106.34002
     -
       name: "Khánh Hòa"
+      native: "Khánh Hòa"
       code: "34"
       iso3166_2: "VN-34"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2980751
       longitude: 108.9950386
       cities:
@@ -35669,9 +36361,11 @@
           longitude: 109.06057
     -
       name: "Lai Châu"
+      native: "Lai Châu"
       code: "01"
       iso3166_2: "VN-01"
       type: "province"
+      type_es: "provincia"
       latitude: 22.3996612
       longitude: 103.4516882
       cities:
@@ -35689,9 +36383,11 @@
           longitude: 103.82857
     -
       name: "Lâm Đồng"
+      native: "Lâm Đồng"
       code: "35"
       iso3166_2: "VN-35"
       type: "province"
+      type_es: "provincia"
       latitude: 11.6614957
       longitude: 108.1335279
       cities:
@@ -35789,9 +36485,11 @@
           longitude: 108.15778
     -
       name: "Lạng Sơn"
+      native: "Lạng Sơn"
       code: "09"
       iso3166_2: "VN-09"
       type: "province"
+      type_es: "provincia"
       latitude: 21.853708
       longitude: 106.761519
       cities:
@@ -35829,9 +36527,11 @@
           longitude: 106.76101
     -
       name: "Lào Cai"
+      native: "Lào Cai"
       code: "02"
       iso3166_2: "VN-02"
       type: "province"
+      type_es: "provincia"
       latitude: 22.5003944
       longitude: 103.96562
       cities:
@@ -35905,9 +36605,11 @@
           longitude: 104.9113
     -
       name: "Nghệ An"
+      native: "Nghệ An"
       code: "22"
       iso3166_2: "VN-22"
       type: "province"
+      type_es: "provincia"
       latitude: 19.1976001
       longitude: 105.060676
       cities:
@@ -35985,9 +36687,11 @@
           longitude: 105.66667
     -
       name: "Ninh Bình"
+      native: "Ninh Bình"
       code: "18"
       iso3166_2: "VN-18"
       type: "province"
+      type_es: "provincia"
       latitude: 20.2506149
       longitude: 105.9744536
       cities:
@@ -36077,9 +36781,11 @@
           longitude: 105.91221
     -
       name: "Phú Thọ"
+      native: "Phú Thọ"
       code: "68"
       iso3166_2: "VN-68"
       type: "province"
+      type_es: "provincia"
       latitude: 21.3007538
       longitude: 105.1349604
       cities:
@@ -36165,9 +36871,11 @@
           longitude: 105.60489
     -
       name: "Quảng Ngãi"
+      native: "Quảng Ngãi"
       code: "29"
       iso3166_2: "VN-29"
       type: "province"
+      type_es: "provincia"
       latitude: 15.1213873
       longitude: 108.8044145
       cities:
@@ -36257,9 +36965,11 @@
           longitude: 108.79232
     -
       name: "Quảng Ninh"
+      native: "Quảng Ninh"
       code: "13"
       iso3166_2: "VN-13"
       type: "province"
+      type_es: "provincia"
       latitude: 21.1718046
       longitude: 107.2012742
       cities:
@@ -36321,9 +37031,11 @@
           longitude: 106.77049
     -
       name: "Quảng Trị"
+      native: "Quảng Trị"
       code: "25"
       iso3166_2: "VN-25"
       type: "province"
+      type_es: "provincia"
       latitude: 17.3024666
       longitude: 106.6624287
       cities:
@@ -36381,9 +37093,11 @@
           longitude: 106.62226
     -
       name: "Sơn La"
+      native: "Sơn La"
       code: "05"
       iso3166_2: "VN-05"
       type: "province"
+      type_es: "provincia"
       latitude: 21.3269601
       longitude: 103.9143842
       cities:
@@ -36429,9 +37143,11 @@
           longitude: 103.91882
     -
       name: "Tây Ninh"
+      native: "Tây Ninh"
       code: "37"
       iso3166_2: "VN-37"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3136555
       longitude: 106.0966969
       cities:
@@ -36529,9 +37245,11 @@
           longitude: 106.09828
     -
       name: "Thái Nguyên"
+      native: "Thái Nguyên"
       code: "69"
       iso3166_2: "VN-69"
       type: "province"
+      type_es: "provincia"
       latitude: 21.5954448
       longitude: 105.8386957
       cities:
@@ -36569,9 +37287,11 @@
           longitude: 105.83867
     -
       name: "Thanh Hóa"
+      native: "Thanh Hóa"
       code: "21"
       iso3166_2: "VN-21"
       type: "province"
+      type_es: "provincia"
       latitude: 19.806692
       longitude: 105.7851816
       cities:
@@ -36669,9 +37389,11 @@
           longitude: 105.76667
     -
       name: "Thừa Thiên-Huế"
+      native: "Thừa Thiên-Huế"
       code: "26"
       iso3166_2: "VN-26"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5530473
       longitude: 107.6900375
       cities:
@@ -36705,9 +37427,11 @@
           longitude: 107.4937
     -
       name: "Tuyên Quang"
+      native: "Tuyên Quang"
       code: "07"
       iso3166_2: "VN-07"
       type: "province"
+      type_es: "provincia"
       latitude: 21.8192281
       longitude: 105.2149355
       cities:
@@ -36773,9 +37497,11 @@
           longitude: 105.21424
     -
       name: "Vĩnh Long"
+      native: "Vĩnh Long"
       code: "49"
       iso3166_2: "VN-49"
       type: "province"
+      type_es: "provincia"
       latitude: 10.254809
       longitude: 105.9714673
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "MT"
   tld: ".mz"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -18.25
   longitude: 35
   emoji: "🇲🇿"
   states:
     -
       name: "Cabo Delgado"
+      native: "Cabo Delgado"
       code: "P"
       iso3166_2: "MZ-P"
       type: "province"
+      type_es: "provincia"
       latitude: -12.4254942
       longitude: 39.4168743
       cities:
@@ -43,9 +47,11 @@
           longitude: 40.51775
     -
       name: "Gaza"
+      native: "Gaza"
       code: "G"
       iso3166_2: "MZ-G"
       type: "province"
+      type_es: "provincia"
       latitude: -23.328398
       longitude: 32.8066057
       cities:
@@ -67,9 +73,11 @@
           longitude: 33.64417
     -
       name: "Inhambane"
+      native: "Inhambane"
       code: "I"
       iso3166_2: "MZ-I"
       type: "province"
+      type_es: "provincia"
       latitude: -22.779116
       longitude: 34.5661741
       cities:
@@ -83,9 +91,11 @@
           longitude: 35.34722
     -
       name: "Manica"
+      native: "Manga"
       code: "B"
       iso3166_2: "MZ-B"
       type: "province"
+      type_es: "provincia"
       latitude: -19.0400995
       longitude: 33.4318137
       cities:
@@ -95,9 +105,11 @@
           longitude: 33.48333
     -
       name: "Maputo"
+      native: "Maputo"
       code: "L"
       iso3166_2: "MZ-L"
       type: "province"
+      type_es: "provincia"
       latitude: -25.5445167
       longitude: 32.4578753
       cities:
@@ -143,9 +155,11 @@
           longitude: 31.99528
     -
       name: "Maputo"
+      native: "Maputo"
       code: "MPM"
       iso3166_2: "MZ-MPM"
       type: "city"
+      type_es: "ciudad"
       latitude: -25.5445167
       longitude: 32.4578753
       cities:
@@ -159,9 +173,11 @@
           longitude: 32.58322
     -
       name: "Nampula"
+      native: "Nampula"
       code: "N"
       iso3166_2: "MZ-N"
       type: "province"
+      type_es: "provincia"
       latitude: -14.966969
       longitude: 39.2707752
       cities:
@@ -187,9 +203,11 @@
           longitude: 39.2666
     -
       name: "Niassa"
+      native: "Niassa"
       code: "A"
       iso3166_2: "MZ-A"
       type: "province"
+      type_es: "provincia"
       latitude: -13.0638577
       longitude: 36.4669964
       cities:
@@ -207,9 +225,11 @@
           longitude: 35.65056
     -
       name: "Sofala"
+      native: "Sofala"
       code: "S"
       iso3166_2: "MZ-S"
       type: "province"
+      type_es: "provincia"
       latitude: -19.0771666
       longitude: 34.7164804
       cities:
@@ -227,9 +247,11 @@
           longitude: 34.268
     -
       name: "Tete"
+      native: "Tete"
       code: "T"
       iso3166_2: "MZ-T"
       type: "province"
+      type_es: "provincia"
       latitude: -15.5205193
       longitude: 32.7682742
       cities:
@@ -239,9 +261,11 @@
           longitude: 33.58667
     -
       name: "Zambezia"
+      native: "Zambeze"
       code: "Q"
       iso3166_2: "MZ-Q"
       type: "province"
+      type_es: "provincia"
       latitude: -16.6460178
       longitude: 36.991932
       cities:

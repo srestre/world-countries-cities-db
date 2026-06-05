@@ -12,25 +12,31 @@
   currency_symbol: "Ar"
   tld: ".mg"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -20
   longitude: 47
   emoji: "🇲🇬"
   states:
     -
       name: "Antananarivo"
+      native: "Antananarivo"
       code: "T"
       iso3166_2: "MG-T"
       type: "province"
+      type_es: "provincia"
       latitude: -18.9100122
       longitude: 47.5255809
       cities:
         []
     -
       name: "Antsiranana"
+      native: "Antsiranana"
       code: "D"
       iso3166_2: "MG-D"
       type: "province"
+      type_es: "provincia"
       latitude: -13.7229722
       longitude: 49.1801836
       cities:
@@ -72,36 +78,44 @@
           longitude: 49.03333
     -
       name: "Fianarantsoa"
+      native: "Fianarantsoa"
       code: "F"
       iso3166_2: "MG-F"
       type: "province"
+      type_es: "provincia"
       latitude: -21.91742
       longitude: 46.8709851
       cities:
         []
     -
       name: "Mahajanga"
+      native: "Mahajanga"
       code: "M"
       iso3166_2: "MG-M"
       type: "province"
+      type_es: "provincia"
       latitude: -16.5944104
       longitude: 46.1719796
       cities:
         []
     -
       name: "Toamasina"
+      native: "Toamasina"
       code: "A"
       iso3166_2: "MG-A"
       type: "province"
+      type_es: "provincia"
       latitude: -18.1553985
       longitude: 49.4098352
       cities:
         []
     -
       name: "Toliara"
+      native: "Toliara"
       code: "U"
       iso3166_2: "MG-U"
       type: "province"
+      type_es: "provincia"
       latitude: -23.354173
       longitude: 43.66966
       cities:

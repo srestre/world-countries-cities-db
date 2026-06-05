@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".cy"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 35
   longitude: 33
   emoji: "🇨🇾"
   states:
     -
       name: "Famagusta (Mağusa)"
+      native: "Αμμάγκουστ (Αμμάγκουστε)"
       code: "04"
       iso3166_2: "CY-04"
       type: "district"
+      type_es: "distrito"
       latitude: 35.1352137
       longitude: 33.9239831
       cities:
@@ -87,9 +91,11 @@
           longitude: 33.89167
     -
       name: "Kyrenia (Keryneia)"
+      native: "Kyrenia (Keryneia)"
       code: "06"
       iso3166_2: "CY-06"
       type: "district"
+      type_es: "distrito"
       latitude: 35.2951481
       longitude: 33.2769155
       cities:
@@ -107,9 +113,11 @@
           longitude: 33.17368
     -
       name: "Larnaca (Larnaka)"
+      native: "Larnaca (Larnaka)"
       code: "03"
       iso3166_2: "CY-03"
       type: "district"
+      type_es: "distrito"
       latitude: 34.8697484
       longitude: 33.6092097
       cities:
@@ -195,9 +203,11 @@
           longitude: 33.74245
     -
       name: "Limassol (Leymasun)"
+      native: "Λεουμασό (Leymasun)"
       code: "02"
       iso3166_2: "CY-02"
       type: "district"
+      type_es: "distrito"
       latitude: 34.6911485
       longitude: 33.0078384
       cities:
@@ -271,9 +281,11 @@
           longitude: 32.96191
     -
       name: "Nicosia (Lefkoşa)"
+      native: "Λευκωσία (Λευκωσία)"
       code: "01"
       iso3166_2: "CY-01"
       type: "district"
+      type_es: "distrito"
       latitude: 35.1565464
       longitude: 33.3705626
       cities:
@@ -379,9 +391,11 @@
           longitude: 33.32344
     -
       name: "Paphos (Pafos)"
+      native: "Paphos (PAFOS)"
       code: "05"
       iso3166_2: "CY-05"
       type: "district"
+      type_es: "distrito"
       latitude: 34.7812978
       longitude: 32.4214097
       cities:

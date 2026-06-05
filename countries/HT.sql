@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(95, 'Haiti', 'HT', 'HTI', 'Americas', 'Caribbean', 'Port-au-Prince', 'HTG', 19, -72.41666666, '🇭🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(95, 'Haiti', 'Haiti', 'HT', 'HTI', 'Americas', 'América', 'Caribbean', 'Caribe', 'Port-au-Prince', 'HTG', 19, -72.41666666, '🇭🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4123, 'Artibonite', 95, 'HT', 'AR', 'department', 19.3366225, -72.4924346),
-(4125, 'Centre', 95, 'HT', 'CE', 'department', 18.9908235, -71.9943985),
-(4119, 'Grand''Anse', 95, 'HT', 'GA', 'department', 18.5304144, -74.1511463),
-(4118, 'Nippes', 95, 'HT', 'NI', 'department', 18.4420426, -73.3913782),
-(4117, 'Nord', 95, 'HT', 'ND', 'department', 19.6258245, -72.2699286),
-(4121, 'Nord-Est', 95, 'HT', 'NE', 'department', 19.5178468, -71.8728225),
-(4126, 'Nord-Ouest', 95, 'HT', 'NO', 'department', 19.8469434, -73.0589966),
-(4120, 'Ouest', 95, 'HT', 'OU', 'department', 18.7668687, -72.4387315),
-(4122, 'Sud', 95, 'HT', 'SD', 'department', 18.2612839, -73.8444985),
-(4124, 'Sud-Est', 95, 'HT', 'SE', 'department', 18.2973566, -72.3745698);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4123, 'Artibonite', 'Artibonite', 95, 'HT', 'AR', 'department', 'departamento', 19.3366225, -72.4924346),
+(4125, 'Centre', 'Centre', 95, 'HT', 'CE', 'department', 'departamento', 18.9908235, -71.9943985),
+(4119, 'Grand''Anse', 'Grand''Anse', 95, 'HT', 'GA', 'department', 'departamento', 18.5304144, -74.1511463),
+(4118, 'Nippes', 'Nippes', 95, 'HT', 'NI', 'department', 'departamento', 18.4420426, -73.3913782),
+(4117, 'Nord', 'Nord', 95, 'HT', 'ND', 'department', 'departamento', 19.6258245, -72.2699286),
+(4121, 'Nord-Est', 'Nord-Est', 95, 'HT', 'NE', 'department', 'departamento', 19.5178468, -71.8728225),
+(4126, 'Nord-Ouest', 'Nord-Ouest', 95, 'HT', 'NO', 'department', 'departamento', 19.8469434, -73.0589966),
+(4120, 'Ouest', 'Ouest', 95, 'HT', 'OU', 'department', 'departamento', 18.7668687, -72.4387315),
+(4122, 'Sud', 'Soudoir', 95, 'HT', 'SD', 'department', 'departamento', 18.2612839, -73.8444985),
+(4124, 'Sud-Est', 'Sud-Est', 95, 'HT', 'SE', 'department', 'departamento', 18.2973566, -72.3745698);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (55046, 'Anse Rouge', 4123, 95, 19.63382, -73.0553),

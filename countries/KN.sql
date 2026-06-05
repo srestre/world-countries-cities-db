@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(185, 'Saint Kitts and Nevis', 'KN', 'KNA', 'Americas', 'Caribbean', 'Basseterre', 'XCD', 17.33333333, -62.75, '🇰🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(185, 'Saint Kitts and Nevis', 'San Cristóbal y Nieves', 'KN', 'KNA', 'Americas', 'América', 'Caribbean', 'Caribe', 'Basseterre', 'XCD', 17.33333333, -62.75, '🇰🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3833, 'Christ Church Nichola Town', 185, 'KN', '01', 'parish', 17.3604812, -62.7617837),
-(3832, 'Nevis', 185, 'KN', 'N', 'state', 17.1553558, -62.5796026),
-(3836, 'Saint Anne Sandy Point', 185, 'KN', '02', 'parish', 17.3725333, -62.8441133),
-(5348, 'Saint George Basseterre', 185, 'KN', '03', 'parish', 17.2391544, -62.6424082),
-(3837, 'Saint George Gingerland', 185, 'KN', '04', 'parish', 17.1257759, -62.5619811),
-(3835, 'Saint James Windward', 185, 'KN', '05', 'parish', 17.1769633, -62.5796026),
-(3845, 'Saint John Capisterre', 185, 'KN', '06', 'parish', 17.3872567, -62.7992132),
-(3840, 'Saint John Figtree', 185, 'KN', '07', 'parish', 17.1155748, -62.6031004),
-(3841, 'Saint Kitts', 185, 'KN', 'K', 'state', 17.3156929, -62.7446806),
-(3844, 'Saint Mary Cayon', 185, 'KN', '08', 'parish', 17.3462071, -62.7382671),
-(3834, 'Saint Paul Capisterre', 185, 'KN', '09', 'parish', 17.3949059, -62.835829),
-(3838, 'Saint Paul Charlestown', 185, 'KN', '10', 'parish', 17.1346297, -62.6133816),
-(3831, 'Saint Peter Basseterre', 185, 'KN', '11', 'parish', 17.3255653, -62.7217779),
-(3839, 'Saint Thomas Lowland', 185, 'KN', '12', 'parish', 17.1650513, -62.6089753),
-(3842, 'Saint Thomas Middle Island', 185, 'KN', '13', 'parish', 17.3348813, -62.8088251),
-(3843, 'Trinity Palmetto Point', 185, 'KN', '15', 'parish', 17.3145143, -62.7685145);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3833, 'Christ Church Nichola Town', 'Christ Church Nichola Town', 185, 'KN', '01', 'parish', 'parroquia', 17.3604812, -62.7617837),
+(3832, 'Nevis', 'Nevis', 185, 'KN', 'N', 'state', 'estado', 17.1553558, -62.5796026),
+(3836, 'Saint Anne Sandy Point', 'Saint Anne Sandy Point', 185, 'KN', '02', 'parish', 'parroquia', 17.3725333, -62.8441133),
+(5348, 'Saint George Basseterre', 'Saint George Basseterre', 185, 'KN', '03', 'parish', 'parroquia', 17.2391544, -62.6424082),
+(3837, 'Saint George Gingerland', 'Saint George Gingerland', 185, 'KN', '04', 'parish', 'parroquia', 17.1257759, -62.5619811),
+(3835, 'Saint James Windward', 'Saint James Windward', 185, 'KN', '05', 'parish', 'parroquia', 17.1769633, -62.5796026),
+(3845, 'Saint John Capisterre', 'Saint John Capisterre', 185, 'KN', '06', 'parish', 'parroquia', 17.3872567, -62.7992132),
+(3840, 'Saint John Figtree', 'Saint John Figtree', 185, 'KN', '07', 'parish', 'parroquia', 17.1155748, -62.6031004),
+(3841, 'Saint Kitts', 'Saint Kitts', 185, 'KN', 'K', 'state', 'estado', 17.3156929, -62.7446806),
+(3844, 'Saint Mary Cayon', 'Saint Mary Cayon', 185, 'KN', '08', 'parish', 'parroquia', 17.3462071, -62.7382671),
+(3834, 'Saint Paul Capisterre', 'Saint Paul Capisterre', 185, 'KN', '09', 'parish', 'parroquia', 17.3949059, -62.835829),
+(3838, 'Saint Paul Charlestown', 'Saint Paul Charlestown', 185, 'KN', '10', 'parish', 'parroquia', 17.1346297, -62.6133816),
+(3831, 'Saint Peter Basseterre', 'Saint Peter Basseterre', 185, 'KN', '11', 'parish', 'parroquia', 17.3255653, -62.7217779),
+(3839, 'Saint Thomas Lowland', 'Saint Thomas Lowland', 185, 'KN', '12', 'parish', 'parroquia', 17.1650513, -62.6089753),
+(3842, 'Saint Thomas Middle Island', 'Saint Thomas Middle Island', 185, 'KN', '13', 'parish', 'parroquia', 17.3348813, -62.8088251),
+(3843, 'Trinity Palmetto Point', 'Trinity Palmetto Point', 185, 'KN', '15', 'parish', 'parroquia', 17.3145143, -62.7685145);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65176, 'Nicola Town', 3833, 185, 17.37956, -62.75318),

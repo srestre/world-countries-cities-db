@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".at"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 47.33333333
   longitude: 13.33333333
   emoji: "🇦🇹"
   states:
     -
       name: "Burgenland"
+      native: "Burgenland"
       code: "1"
       iso3166_2: "AT-1"
       type: "state"
+      type_es: "estado"
       latitude: 47.5000001
       longitude: 16.4166666
       cities:
@@ -695,9 +699,11 @@
           longitude: 17.00315
     -
       name: "Carinthia"
+      native: "Carchithia"
       code: "2"
       iso3166_2: "AT-2"
       type: "state"
+      type_es: "estado"
       latitude: 46.7500001
       longitude: 13.8333333
       cities:
@@ -1599,9 +1605,11 @@
           longitude: 14.38888889
     -
       name: "Lower Austria"
+      native: "Niederösterreich"
       code: "3"
       iso3166_2: "AT-3"
       type: "state"
+      type_es: "estado"
       latitude: 48.2817813
       longitude: 15.7632457
       cities:
@@ -3907,9 +3915,11 @@
           longitude: 16.46267
     -
       name: "Salzburg"
+      native: "Salzburg"
       code: "5"
       iso3166_2: "AT-5"
       type: "state"
+      type_es: "estado"
       latitude: 47.7981346
       longitude: 13.0464806
       cities:
@@ -4503,9 +4513,11 @@
           longitude: 12.79444
     -
       name: "Styria"
+      native: "Styria"
       code: "6"
       iso3166_2: "AT-6"
       type: "state"
+      type_es: "estado"
       latitude: 47.2500001
       longitude: 15.1666665
       cities:
@@ -6459,9 +6471,11 @@
           longitude: 14.36667
     -
       name: "Tyrol"
+      native: "Tirol"
       code: "7"
       iso3166_2: "AT-7"
       type: "state"
+      type_es: "estado"
       latitude: 47.223193
       longitude: 11.5261028
       cities:
@@ -7619,9 +7633,11 @@
           longitude: 10.47971
     -
       name: "Upper Austria"
+      native: "Upper Austria"
       code: "4"
       iso3166_2: "AT-4"
       type: "state"
+      type_es: "estado"
       latitude: 48.25
       longitude: 14
       cities:
@@ -9079,9 +9095,11 @@
           longitude: 14.27133
     -
       name: "Vienna"
+      native: "Wien"
       code: "9"
       iso3166_2: "AT-9"
       type: "state"
+      type_es: "estado"
       latitude: 48.2081743
       longitude: 16.3738189
       cities:
@@ -9127,9 +9145,11 @@
           longitude: 16.37208
     -
       name: "Vorarlberg"
+      native: "Vorarlberg"
       code: "8"
       iso3166_2: "AT-8"
       type: "state"
+      type_es: "estado"
       latitude: 47.25
       longitude: 9.9166667
       cities:

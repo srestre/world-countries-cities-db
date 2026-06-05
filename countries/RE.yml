@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".re"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -21.15
   longitude: 55.5
   emoji: "🇷🇪"
   states:
     -
       name: "Saint-Benoît"
+      native: "Saint-Benoît"
       code: "01"
       iso3166_2: "RE-01"
       type: "district"
+      type_es: "distrito"
       latitude: -21.0810433
       longitude: 55.6028127
       cities:
@@ -51,9 +55,11 @@
           longitude: 55.4321337
     -
       name: "Saint-Denis"
+      native: "Saint-Denis"
       code: "02"
       iso3166_2: "RE-02"
       type: "district"
+      type_es: "distrito"
       latitude: -20.8799889
       longitude: 55.448137
       cities:
@@ -71,9 +77,11 @@
           longitude: 55.5111475
     -
       name: "Saint-Paul"
+      native: "Saint-Paul"
       code: "03"
       iso3166_2: "RE-03"
       type: "district"
+      type_es: "distrito"
       latitude: -21.0006099
       longitude: 55.2771585
       cities:
@@ -99,9 +107,11 @@
           longitude: 55.1754223
     -
       name: "Saint-Pierre"
+      native: "Saint-Pierre"
       code: "04"
       iso3166_2: "RE-04"
       type: "district"
+      type_es: "distrito"
       latitude: -21.2377437
       longitude: 55.4899764
       cities:

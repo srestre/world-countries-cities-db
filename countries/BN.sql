@@ -1,25 +1,25 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(33, 'Brunei', 'BN', 'BRN', 'Asia', 'South-Eastern Asia', 'Bandar Seri Begawan', 'BND', 4.5, 114.66666666, '🇧🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(33, 'Brunei', 'Brunei', 'BN', 'BRN', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Bandar Seri Begawan', 'BND', 4.5, 114.66666666, '🇧🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1217, 'Belait', 33, 'BN', 'BE', 'district', 4.4349938, 114.4946524),
-(1216, 'Brunei-Muara', 33, 'BN', 'BM', 'district', 4.9752098, 114.9367663),
-(1218, 'Temburong', 33, 'BN', 'TE', 'district', 4.629184, 115.1634408),
-(1219, 'Tutong', 33, 'BN', 'TU', 'district', 4.682681, 114.6562706);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1217, 'Belait', 'Belait', 33, 'BN', 'BE', 'district', 'distrito', 4.4349938, 114.4946524),
+(1216, 'Brunei-Muara', 'Brunei-Muara', 33, 'BN', 'BM', 'district', 'distrito', 4.9752098, 114.9367663),
+(1218, 'Temburong', 'Temburong', 33, 'BN', 'TE', 'district', 'distrito', 4.629184, 115.1634408),
+(1219, 'Tutong', 'Tutong', 33, 'BN', 'TU', 'district', 'distrito', 4.682681, 114.6562706);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (9820, 'Kuala Belait', 1217, 33, 4.58361, 114.2312),

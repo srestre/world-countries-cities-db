@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".vc"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 13.25
   longitude: -61.2
   emoji: "🇻🇨"
   states:
     -
       name: "Charlotte"
+      native: "Charlotte"
       code: "01"
       iso3166_2: "VC-01"
       type: "parish"
+      type_es: "parroquia"
       latitude: 13.2750872
       longitude: -61.1462327
       cities:
@@ -39,9 +43,11 @@
           longitude: -61.1185
     -
       name: "Grenadines"
+      native: "Grenadines"
       code: "06"
       iso3166_2: "VC-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 12.90447
       longitude: -61.2765569
       cities:
@@ -51,9 +57,11 @@
           longitude: -61.23548
     -
       name: "Saint Andrew"
+      native: "Saint Andrew"
       code: "02"
       iso3166_2: "VC-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 13.1942695
       longitude: -61.2399866
       cities:
@@ -63,9 +71,11 @@
           longitude: -61.27014
     -
       name: "Saint David"
+      native: "Saint David"
       code: "03"
       iso3166_2: "VC-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 13.318364
       longitude: -61.2008786
       cities:
@@ -75,9 +85,11 @@
           longitude: -61.24043
     -
       name: "Saint George"
+      native: "Saint George"
       code: "04"
       iso3166_2: "VC-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 13.166295
       longitude: -61.1878512
       cities:
@@ -91,9 +103,11 @@
           longitude: -61.23161
     -
       name: "Saint Patrick"
+      native: "Saint Patrick"
       code: "05"
       iso3166_2: "VC-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 13.2380793
       longitude: -61.2364184
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".cu"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 21.5
   longitude: -80
   emoji: "🇨🇺"
   states:
     -
       name: "Artemisa"
+      native: "Artemisa"
       code: "15"
       iso3166_2: "CU-15"
       type: "province"
+      type_es: "provincia"
       latitude: 22.8272763
       longitude: -82.9259245
       cities:
@@ -95,9 +99,11 @@
           longitude: -83.01667
     -
       name: "Camagüey"
+      native: "Camagüey"
       code: "09"
       iso3166_2: "CU-09"
       type: "province"
+      type_es: "provincia"
       latitude: 21.3108932
       longitude: -77.9428695
       cities:
@@ -155,9 +161,11 @@
           longitude: -78.14979
     -
       name: "Ciego de Ávila"
+      native: "Ciego de Ávila"
       code: "08"
       iso3166_2: "CU-08"
       type: "province"
+      type_es: "provincia"
       latitude: 21.8420472
       longitude: -78.7599682
       cities:
@@ -203,9 +211,11 @@
           longitude: -78.79336
     -
       name: "Cienfuegos"
+      native: "Cienfuegos"
       code: "06"
       iso3166_2: "CU-06"
       type: "province"
+      type_es: "provincia"
       latitude: 22.1459864
       longitude: -80.4530775
       cities:
@@ -251,9 +261,11 @@
           longitude: -80.55596
     -
       name: "Granma"
+      native: "Granma"
       code: "12"
       iso3166_2: "CU-12"
       type: "province"
+      type_es: "provincia"
       latitude: 20.1947889
       longitude: -77.2936265
       cities:
@@ -315,9 +327,11 @@
           longitude: -76.95132
     -
       name: "Guantánamo"
+      native: "Guantánamo"
       code: "14"
       iso3166_2: "CU-14"
       type: "province"
+      type_es: "provincia"
       latitude: 20.2106063
       longitude: -74.6938395
       cities:
@@ -347,9 +361,11 @@
           longitude: -74.8075
     -
       name: "Havana"
+      native: "la Habana"
       code: "03"
       iso3166_2: "CU-03"
       type: "province"
+      type_es: "provincia"
       latitude: 23.135305
       longitude: -82.3589631
       cities:
@@ -407,9 +423,11 @@
           longitude: -82.38694
     -
       name: "Holguín"
+      native: "Holguín"
       code: "11"
       iso3166_2: "CU-11"
       type: "province"
+      type_es: "provincia"
       latitude: 20.9115576
       longitude: -75.7891978
       cities:
@@ -459,9 +477,11 @@
           longitude: -76.13364
     -
       name: "Isla de la Juventud"
+      native: "Isla de la Juventud"
       code: "99"
       iso3166_2: "CU-99"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 21.6910976
       longitude: -82.8155856
       cities:
@@ -471,9 +491,11 @@
           longitude: -82.80556
     -
       name: "Las Tunas"
+      native: "Las Tunas"
       code: "10"
       iso3166_2: "CU-10"
       type: "province"
+      type_es: "provincia"
       latitude: 21.0887045
       longitude: -76.8121648
       cities:
@@ -507,9 +529,11 @@
           longitude: -76.60358
     -
       name: "Matanzas"
+      native: "Matanzas"
       code: "04"
       iso3166_2: "CU-04"
       type: "province"
+      type_es: "provincia"
       latitude: 22.4545999
       longitude: -81.4961585
       cities:
@@ -587,9 +611,11 @@
           longitude: -81.24441
     -
       name: "Mayabeque"
+      native: "Mayabeque"
       code: "16"
       iso3166_2: "CU-16"
       type: "province"
+      type_es: "provincia"
       latitude: 22.8254157
       longitude: -82.0701062
       cities:
@@ -647,9 +673,11 @@
           longitude: -81.92556
     -
       name: "Pinar del Río"
+      native: "Pinar del Río"
       code: "01"
       iso3166_2: "CU-01"
       type: "province"
+      type_es: "provincia"
       latitude: 22.312447
       longitude: -83.9389386
       cities:
@@ -711,9 +739,11 @@
           longitude: -83.70694
     -
       name: "Sancti Spíritus"
+      native: "Espíritu santo"
       code: "07"
       iso3166_2: "CU-07"
       type: "province"
+      type_es: "provincia"
       latitude: 21.9275667
       longitude: -79.443211
       cities:
@@ -779,9 +809,11 @@
           longitude: -79.36678
     -
       name: "Santiago de Cuba"
+      native: "Santiago de Cuba"
       code: "13"
       iso3166_2: "CU-13"
       type: "province"
+      type_es: "provincia"
       latitude: 20.1209475
       longitude: -75.924009
       cities:
@@ -815,9 +847,11 @@
           longitude: -75.82667
     -
       name: "Villa Clara"
+      native: "Villa Clara"
       code: "05"
       iso3166_2: "CU-05"
       type: "province"
+      type_es: "provincia"
       latitude: 22.7036119
       longitude: -79.6944968
       cities:

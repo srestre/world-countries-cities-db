@@ -1,51 +1,51 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(105, 'Ireland', 'IE', 'IRL', 'Europe', 'Northern Europe', 'Dublin', 'EUR', 53, -8, '🇮🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(105, 'Ireland', 'Irlanda', 'IE', 'IRL', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Dublin', 'EUR', 53, -8, '🇮🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1095, 'Carlow', 105, 'IE', 'CW', 'county', 52.6907887, -6.8251452),
-(1088, 'Cavan', 105, 'IE', 'CN', 'county', 53.9911042, -7.3603119),
-(1091, 'Clare', 105, 'IE', 'CE', 'county', 53.3454937, -8.9860534),
-(1087, 'Connacht', 105, 'IE', 'C', 'province', 53.7210278, -8.925256),
-(1074, 'Cork', 105, 'IE', 'CO', 'county', 51.8985143, -8.4756035),
-(1071, 'Donegal', 105, 'IE', 'DL', 'county', 54.6548993, -8.1040967),
-(1072, 'Dublin', 105, 'IE', 'D', 'county', 53.3498053, -6.2603097),
-(1079, 'Galway', 105, 'IE', 'G', 'county', 53.2744122, -9.0490601),
-(1077, 'Kerry', 105, 'IE', 'KY', 'county', 52.1453345, -9.5174011),
-(1082, 'Kildare', 105, 'IE', 'KE', 'county', 53.1543645, -6.8184423),
-(1090, 'Kilkenny', 105, 'IE', 'KK', 'county', 52.5687098, -7.1889831),
-(1096, 'Laois', 105, 'IE', 'LS', 'county', 52.9984575, -7.3980338),
-(1073, 'Leinster', 105, 'IE', 'L', 'province', 53.118465, -6.9918183),
-(5345, 'Leitrim', 105, 'IE', 'LM', 'county', 54.1401622, -8.0524782),
-(1094, 'Limerick', 105, 'IE', 'LK', 'county', 52.5188316, -8.7958347),
-(1076, 'Longford', 105, 'IE', 'LD', 'county', 53.7274982, -7.7931527),
-(1083, 'Louth', 105, 'IE', 'LH', 'county', 53.9062848, -6.5320502),
-(1084, 'Mayo', 105, 'IE', 'MO', 'county', 53.9087056, -9.2983049),
-(1092, 'Meath', 105, 'IE', 'MH', 'county', 53.6497514, -6.5884245),
-(1075, 'Monaghan', 105, 'IE', 'MN', 'county', 54.2492046, -6.9683132),
-(1080, 'Munster', 105, 'IE', 'M', 'province', 52.3076216, -8.5708973),
-(1078, 'Offaly', 105, 'IE', 'OY', 'county', 53.1361722, -7.8103408),
-(1081, 'Roscommon', 105, 'IE', 'RN', 'county', 53.6982695, -8.2182508),
-(1070, 'Sligo', 105, 'IE', 'SO', 'county', 54.1929861, -8.7305427),
-(1069, 'Tipperary', 105, 'IE', 'TA', 'county', 52.4737894, -8.1618514),
-(1086, 'Ulster', 105, 'IE', 'U', 'province', 54.0934659, -7.1989794),
-(1089, 'Waterford', 105, 'IE', 'WD', 'county', 52.1509131, -7.6577982),
-(1097, 'Westmeath', 105, 'IE', 'WH', 'county', 53.5577902, -7.3478558),
-(1093, 'Wexford', 105, 'IE', 'WX', 'county', 52.4601874, -6.6065155),
-(1085, 'Wicklow', 105, 'IE', 'WW', 'county', 52.9582099, -6.3814208);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1095, 'Carlow', 'Carlow', 105, 'IE', 'CW', 'county', 'condado', 52.6907887, -6.8251452),
+(1088, 'Cavan', 'Cavan', 105, 'IE', 'CN', 'county', 'condado', 53.9911042, -7.3603119),
+(1091, 'Clare', 'Clare', 105, 'IE', 'CE', 'county', 'condado', 53.3454937, -8.9860534),
+(1087, 'Connacht', 'Connacht', 105, 'IE', 'C', 'province', 'provincia', 53.7210278, -8.925256),
+(1074, 'Cork', 'Cork', 105, 'IE', 'CO', 'county', 'condado', 51.8985143, -8.4756035),
+(1071, 'Donegal', 'Donegal', 105, 'IE', 'DL', 'county', 'condado', 54.6548993, -8.1040967),
+(1072, 'Dublin', 'Dublin', 105, 'IE', 'D', 'county', 'condado', 53.3498053, -6.2603097),
+(1079, 'Galway', 'Galway', 105, 'IE', 'G', 'county', 'condado', 53.2744122, -9.0490601),
+(1077, 'Kerry', 'Kerry', 105, 'IE', 'KY', 'county', 'condado', 52.1453345, -9.5174011),
+(1082, 'Kildare', 'Kildare', 105, 'IE', 'KE', 'county', 'condado', 53.1543645, -6.8184423),
+(1090, 'Kilkenny', 'Kilkenny', 105, 'IE', 'KK', 'county', 'condado', 52.5687098, -7.1889831),
+(1096, 'Laois', 'Laois', 105, 'IE', 'LS', 'county', 'condado', 52.9984575, -7.3980338),
+(1073, 'Leinster', 'Leinster', 105, 'IE', 'L', 'province', 'provincia', 53.118465, -6.9918183),
+(5345, 'Leitrim', 'Leitrim', 105, 'IE', 'LM', 'county', 'condado', 54.1401622, -8.0524782),
+(1094, 'Limerick', 'Limerick', 105, 'IE', 'LK', 'county', 'condado', 52.5188316, -8.7958347),
+(1076, 'Longford', 'Longford', 105, 'IE', 'LD', 'county', 'condado', 53.7274982, -7.7931527),
+(1083, 'Louth', 'Louth', 105, 'IE', 'LH', 'county', 'condado', 53.9062848, -6.5320502),
+(1084, 'Mayo', 'Mayo', 105, 'IE', 'MO', 'county', 'condado', 53.9087056, -9.2983049),
+(1092, 'Meath', 'Meath', 105, 'IE', 'MH', 'county', 'condado', 53.6497514, -6.5884245),
+(1075, 'Monaghan', 'Monaghan', 105, 'IE', 'MN', 'county', 'condado', 54.2492046, -6.9683132),
+(1080, 'Munster', 'Munster', 105, 'IE', 'M', 'province', 'provincia', 52.3076216, -8.5708973),
+(1078, 'Offaly', 'Offaly', 105, 'IE', 'OY', 'county', 'condado', 53.1361722, -7.8103408),
+(1081, 'Roscommon', 'Roscommon', 105, 'IE', 'RN', 'county', 'condado', 53.6982695, -8.2182508),
+(1070, 'Sligo', 'Sligo', 105, 'IE', 'SO', 'county', 'condado', 54.1929861, -8.7305427),
+(1069, 'Tipperary', 'Tipperary', 105, 'IE', 'TA', 'county', 'condado', 52.4737894, -8.1618514),
+(1086, 'Ulster', 'Ulster', 105, 'IE', 'U', 'province', 'provincia', 54.0934659, -7.1989794),
+(1089, 'Waterford', 'Waterford', 105, 'IE', 'WD', 'county', 'condado', 52.1509131, -7.6577982),
+(1097, 'Westmeath', 'Westmeath', 105, 'IE', 'WH', 'county', 'condado', 53.5577902, -7.3478558),
+(1093, 'Wexford', 'Wexford', 105, 'IE', 'WX', 'county', 'condado', 52.4601874, -6.6065155),
+(1085, 'Wicklow', 'Wicklow', 105, 'IE', 'WW', 'county', 'condado', 52.9582099, -6.3814208);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (57082, 'Athenry', 1087, 105, 53.29639, -8.74306),

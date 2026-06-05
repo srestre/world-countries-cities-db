@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(132, 'Malaysia', 'MY', 'MYS', 'Asia', 'South-Eastern Asia', 'Kuala Lumpur', 'MYR', 2.5, 112.5, '🇲🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(132, 'Malaysia', 'Malasia', 'MY', 'MYS', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Kuala Lumpur', 'MYR', 2.5, 112.5, '🇲🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1950, 'Johor', 132, 'MY', '01', 'state', 2.0228821, 103.3114564),
-(1947, 'Kedah', 132, 'MY', '02', 'state', 5.8098265, 100.6715035),
-(1946, 'Kelantan', 132, 'MY', '03', 'state', 5.4021302, 102.0635972),
-(1949, 'Kuala Lumpur', 132, 'MY', '14', 'federal territory', 3.1516964, 101.6942371),
-(1935, 'Labuan', 132, 'MY', '15', 'federal territory', 5.3168336, 115.2198613),
-(1941, 'Malacca', 132, 'MY', '04', 'state', 2.189594, 102.2500868),
-(1948, 'Negeri Sembilan', 132, 'MY', '05', 'state', 2.7831895, 102.1925319),
-(1940, 'Pahang', 132, 'MY', '06', 'state', 3.6168822, 102.5994547),
-(1939, 'Penang', 132, 'MY', '07', 'state', 5.4065013, 100.2559077),
-(1943, 'Perak', 132, 'MY', '08', 'state', 4.812181, 100.9797908),
-(1938, 'Perlis', 132, 'MY', '09', 'state', 6.4868392, 100.2577623),
-(1945, 'Putrajaya', 132, 'MY', '16', 'federal territory', 2.9384381, 101.69223),
-(1936, 'Sabah', 132, 'MY', '12', 'state', 5.4257359, 117.0326392),
-(1937, 'Sarawak', 132, 'MY', '13', 'state', 2.5023855, 112.9547283),
-(1944, 'Selangor', 132, 'MY', '10', 'state', 3.2083304, 101.304146),
-(1942, 'Terengganu', 132, 'MY', '11', 'state', 4.8630743, 102.9949297);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1950, 'Johor', 'Johor', 132, 'MY', '01', 'state', 'estado', 2.0228821, 103.3114564),
+(1947, 'Kedah', 'Kedah', 132, 'MY', '02', 'state', 'estado', 5.8098265, 100.6715035),
+(1946, 'Kelantan', 'Kelantan', 132, 'MY', '03', 'state', 'estado', 5.4021302, 102.0635972),
+(1949, 'Kuala Lumpur', 'Kuala Lumpur', 132, 'MY', '14', 'federal territory', 'territorio federal', 3.1516964, 101.6942371),
+(1935, 'Labuan', 'Labuan', 132, 'MY', '15', 'federal territory', 'territorio federal', 5.3168336, 115.2198613),
+(1941, 'Malacca', 'Melaka', 132, 'MY', '04', 'state', 'estado', 2.189594, 102.2500868),
+(1948, 'Negeri Sembilan', 'Negeri Sembilan', 132, 'MY', '05', 'state', 'estado', 2.7831895, 102.1925319),
+(1940, 'Pahang', 'Pahang', 132, 'MY', '06', 'state', 'estado', 3.6168822, 102.5994547),
+(1939, 'Penang', 'Pulau Pinang', 132, 'MY', '07', 'state', 'estado', 5.4065013, 100.2559077),
+(1943, 'Perak', 'Perak', 132, 'MY', '08', 'state', 'estado', 4.812181, 100.9797908),
+(1938, 'Perlis', 'Perlis', 132, 'MY', '09', 'state', 'estado', 6.4868392, 100.2577623),
+(1945, 'Putrajaya', 'Putrajaya', 132, 'MY', '16', 'federal territory', 'territorio federal', 2.9384381, 101.69223),
+(1936, 'Sabah', 'Sabah', 132, 'MY', '12', 'state', 'estado', 5.4257359, 117.0326392),
+(1937, 'Sarawak', 'Sarawak', 132, 'MY', '13', 'state', 'estado', 2.5023855, 112.9547283),
+(1944, 'Selangor', 'Selangor', 132, 'MY', '10', 'state', 'estado', 3.2083304, 101.304146),
+(1942, 'Terengganu', 'Terengganu', 132, 'MY', '11', 'state', 'estado', 4.8630743, 102.9949297);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (76416, 'Bakri', 1950, 132, 2.0441, 102.6527),

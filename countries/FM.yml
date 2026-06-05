@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".fm"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 6.91666666
   longitude: 158.25
   emoji: "🇫🇲"
   states:
     -
       name: "Chuuk"
+      native: "Chuuk"
       code: "TRK"
       iso3166_2: "FM-TRK"
       type: "state"
+      type_es: "estado"
       latitude: 7.4393793
       longitude: 151.8515538
       cities:
@@ -199,9 +203,11 @@
           longitude: 151.601
     -
       name: "Kosrae"
+      native: "Kosrae"
       code: "KSA"
       iso3166_2: "FM-KSA"
       type: "state"
+      type_es: "estado"
       latitude: 5.3095618
       longitude: 162.9814877
       cities:
@@ -227,9 +233,11 @@
           longitude: 162.95617
     -
       name: "Pohnpei"
+      native: "Pohnpei"
       code: "PNI"
       iso3166_2: "FM-PNI"
       type: "state"
+      type_es: "estado"
       latitude: 6.8870467
       longitude: 158.2406138
       cities:
@@ -287,9 +295,11 @@
           longitude: 158.27361
     -
       name: "Yap"
+      native: "Yap"
       code: "YAP"
       iso3166_2: "FM-YAP"
       type: "state"
+      type_es: "estado"
       latitude: 9.5462683
       longitude: 138.1651599
       cities:

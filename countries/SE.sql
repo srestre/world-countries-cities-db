@@ -1,42 +1,42 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(213, 'Sweden', 'SE', 'SWE', 'Europe', 'Northern Europe', 'Stockholm', 'SEK', 62, 15, '🇸🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(213, 'Sweden', 'Suecia', 'SE', 'SWE', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Stockholm', 'SEK', 62, 15, '🇸🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1537, 'Blekinge', 213, 'SE', 'K', 'county', 56.1240122, 15.4022088),
-(1534, 'Dalarna', 213, 'SE', 'W', 'county', 61.0603778, 14.2150873),
-(1533, 'Gävleborg', 213, 'SE', 'X', 'county', 61.2603424, 16.6946985),
-(1546, 'Gotland', 213, 'SE', 'I', 'county', 57.4998732, 18.4998927),
-(1548, 'Halland', 213, 'SE', 'N', 'county', 56.9608104, 12.8547066),
-(5117, 'Jämtland', 213, 'SE', 'Z', 'county', 63.3452222, 14.124986),
-(1550, 'Jönköping', 213, 'SE', 'F', 'county', 57.7825634, 14.165719),
-(1544, 'Kalmar', 213, 'SE', 'H', 'county', 56.666667, 16.333056),
-(1542, 'Kronoberg', 213, 'SE', 'G', 'county', 56.8006781, 14.411161),
-(1538, 'Norrbotten', 213, 'SE', 'BD', 'county', 66.52825, 22.95302),
-(1539, 'Örebro', 213, 'SE', 'T', 'county', 59.2747287, 15.2151181),
-(1536, 'Östergötland', 213, 'SE', 'E', 'county', 58.3650249, 16.0447142),
-(1541, 'Skåne', 213, 'SE', 'M', 'county', 55.8479416, 13.6337117),
-(1540, 'Södermanland', 213, 'SE', 'D', 'county', 58.9649214, 16.7294012),
-(1551, 'Stockholm', 213, 'SE', 'AB', 'county', 59.3336173, 18.0276973),
-(1545, 'Uppsala', 213, 'SE', 'C', 'county', 59.8661986, 17.5984327),
-(1535, 'Värmland', 213, 'SE', 'S', 'county', 59.8907624, 13.2947617),
-(1543, 'Västerbotten', 213, 'SE', 'AC', 'county', 64.728471, 18.5533235),
-(1552, 'Västernorrland', 213, 'SE', 'Y', 'county', 63.0589693, 18.1013686),
-(1549, 'Västmanland', 213, 'SE', 'U', 'county', 59.6965639, 16.1846541),
-(1547, 'Västra Götaland', 213, 'SE', 'O', 'county', 58.2158502, 12.6518208);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1537, 'Blekinge', 'Blekinge', 213, 'SE', 'K', 'county', 'condado', 56.1240122, 15.4022088),
+(1534, 'Dalarna', 'Dalarna', 213, 'SE', 'W', 'county', 'condado', 61.0603778, 14.2150873),
+(1533, 'Gävleborg', 'Gävleborg', 213, 'SE', 'X', 'county', 'condado', 61.2603424, 16.6946985),
+(1546, 'Gotland', 'Gotland', 213, 'SE', 'I', 'county', 'condado', 57.4998732, 18.4998927),
+(1548, 'Halland', 'Halland', 213, 'SE', 'N', 'county', 'condado', 56.9608104, 12.8547066),
+(5117, 'Jämtland', 'Jämtland', 213, 'SE', 'Z', 'county', 'condado', 63.3452222, 14.124986),
+(1550, 'Jönköping', 'Jönköping', 213, 'SE', 'F', 'county', 'condado', 57.7825634, 14.165719),
+(1544, 'Kalmar', 'Kalmar', 213, 'SE', 'H', 'county', 'condado', 56.666667, 16.333056),
+(1542, 'Kronoberg', 'Kronoberg', 213, 'SE', 'G', 'county', 'condado', 56.8006781, 14.411161),
+(1538, 'Norrbotten', 'Norrbotten', 213, 'SE', 'BD', 'county', 'condado', 66.52825, 22.95302),
+(1539, 'Örebro', 'Örebro', 213, 'SE', 'T', 'county', 'condado', 59.2747287, 15.2151181),
+(1536, 'Östergötland', 'Östergötland', 213, 'SE', 'E', 'county', 'condado', 58.3650249, 16.0447142),
+(1541, 'Skåne', 'Skåne', 213, 'SE', 'M', 'county', 'condado', 55.8479416, 13.6337117),
+(1540, 'Södermanland', 'Södermanland', 213, 'SE', 'D', 'county', 'condado', 58.9649214, 16.7294012),
+(1551, 'Stockholm', 'Stockholm', 213, 'SE', 'AB', 'county', 'condado', 59.3336173, 18.0276973),
+(1545, 'Uppsala', 'Uppsala', 213, 'SE', 'C', 'county', 'condado', 59.8661986, 17.5984327),
+(1535, 'Värmland', 'Värmland', 213, 'SE', 'S', 'county', 'condado', 59.8907624, 13.2947617),
+(1543, 'Västerbotten', 'Västerbotten', 213, 'SE', 'AC', 'county', 'condado', 64.728471, 18.5533235),
+(1552, 'Västernorrland', 'Västernorrland', 213, 'SE', 'Y', 'county', 'condado', 63.0589693, 18.1013686),
+(1549, 'Västmanland', 'Västmanland', 213, 'SE', 'U', 'county', 'condado', 59.6965639, 16.1846541),
+(1547, 'Västra Götaland', 'Västra Götaland', 213, 'SE', 'O', 'county', 'condado', 58.2158502, 12.6518208);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (103094, 'Bräkne-Hoby', 1537, 213, 56.23333, 15.11667),

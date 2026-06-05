@@ -1,36 +1,36 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(139, 'Mauritania', 'MR', 'MRT', 'Africa', 'Western Africa', 'Nouakchott', 'MRU', 20, -12, '🇲🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(139, 'Mauritania', 'Mauritania', 'MR', 'MRT', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Nouakchott', 'MRU', 20, -12, '🇲🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3344, 'Adrar', 139, 'MR', '07', 'region', 21.0090623, -10.2207449),
-(3349, 'Assaba', 139, 'MR', '03', 'region', 16.5809185, -11.5363724),
-(3339, 'Brakna', 139, 'MR', '05', 'region', 17.2475638, -13.4037714),
-(3346, 'Dakhlet Nouadhibou', 139, 'MR', '08', 'region', 20.8019537, -16.0012708),
-(3341, 'Gorgol', 139, 'MR', '04', 'region', 16.0062275, -12.8360834),
-(3350, 'Guidimaka', 139, 'MR', '10', 'region', 15.3766896, -12.124663),
-(3338, 'Hodh Ech Chargui', 139, 'MR', '01', 'region', 18.1941112, -7.0921652),
-(3351, 'Hodh El Gharbi', 139, 'MR', '02', 'region', 16.5693922, -9.8322366),
-(3342, 'Inchiri', 139, 'MR', '12', 'region', 19.9922766, -15.113767),
-(3343, 'Nouakchott-Nord', 139, 'MR', '14', 'region', 18.1024945, -15.9192819),
-(3352, 'Nouakchott-Ouest', 139, 'MR', '13', 'region', 18.1127945, -15.9930276),
-(3347, 'Nouakchott-Sud', 139, 'MR', '15', 'region', 18.0033945, -15.965829),
-(3345, 'Tagant', 139, 'MR', '09', 'region', 18.5729893, -10.3937926),
-(3340, 'Tiris Zemmour', 139, 'MR', '11', 'region', 24.1951392, -9.6664199),
-(3348, 'Trarza', 139, 'MR', '06', 'region', 17.922642, -14.8476017);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3344, 'Adrar', 'أدرار', 139, 'MR', '07', 'region', 'región', 21.0090623, -10.2207449),
+(3349, 'Assaba', 'عصابة', 139, 'MR', '03', 'region', 'región', 16.5809185, -11.5363724),
+(3339, 'Brakna', 'براكنا', 139, 'MR', '05', 'region', 'región', 17.2475638, -13.4037714),
+(3346, 'Dakhlet Nouadhibou', 'داخلة نواذيبو', 139, 'MR', '08', 'region', 'región', 20.8019537, -16.0012708),
+(3341, 'Gorgol', 'غورغول', 139, 'MR', '04', 'region', 'región', 16.0062275, -12.8360834),
+(3350, 'Guidimaka', 'غيديماكا', 139, 'MR', '10', 'region', 'región', 15.3766896, -12.124663),
+(3338, 'Hodh Ech Chargui', 'حوض الشرقي', 139, 'MR', '01', 'region', 'región', 18.1941112, -7.0921652),
+(3351, 'Hodh El Gharbi', 'حوض الغربي', 139, 'MR', '02', 'region', 'región', 16.5693922, -9.8322366),
+(3342, 'Inchiri', 'إنشيري', 139, 'MR', '12', 'region', 'región', 19.9922766, -15.113767),
+(3343, 'Nouakchott-Nord', 'نواكشوط الشمالية', 139, 'MR', '14', 'region', 'región', 18.1024945, -15.9192819),
+(3352, 'Nouakchott-Ouest', 'نواكشوط الغربية', 139, 'MR', '13', 'region', 'región', 18.1127945, -15.9930276),
+(3347, 'Nouakchott-Sud', 'نواكشوط الجنوبية', 139, 'MR', '15', 'region', 'región', 18.0033945, -15.965829),
+(3345, 'Tagant', 'تاجانت', 139, 'MR', '09', 'region', 'región', 18.5729893, -10.3937926),
+(3340, 'Tiris Zemmour', 'تيريس زمور', 139, 'MR', '11', 'region', 'región', 24.1951392, -9.6664199),
+(3348, 'Trarza', 'ترارزة', 139, 'MR', '06', 'region', 'región', 17.922642, -14.8476017);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67746, 'Atar', 3344, 139, 20.5177, -13.04857),

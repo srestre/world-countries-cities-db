@@ -12,16 +12,20 @@
   currency_symbol: "¥"
   tld: ".cn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 35
   longitude: 105
   emoji: "🇨🇳"
   states:
     -
       name: "Anhui"
+      native: "安徽省"
       code: "AH"
       iso3166_2: "CN-AH"
       type: "province"
+      type_es: "provincia"
       latitude: 32
       longitude: 117
       cities:
@@ -515,9 +519,11 @@
           longitude: 117.0815694
     -
       name: "Beijing"
+      native: "北京市"
       code: "BJ"
       iso3166_2: "CN-BJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 39.9057136
       longitude: 116.3912972
       cities:
@@ -595,9 +601,11 @@
           longitude: 115.824981
     -
       name: "Chongqing"
+      native: "重庆市"
       code: "CQ"
       iso3166_2: "CN-CQ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 30.05518
       longitude: 107.8748712
       cities:
@@ -759,9 +767,11 @@
           longitude: 107.5651691
     -
       name: "Fujian"
+      native: "福建省"
       code: "FJ"
       iso3166_2: "CN-FJ"
       type: "province"
+      type_es: "provincia"
       latitude: 26.193218
       longitude: 118.2208721
       cities:
@@ -1531,9 +1541,11 @@
           longitude: 119.10216
     -
       name: "Gansu"
+      native: "甘肃省"
       code: "GS"
       iso3166_2: "CN-GS"
       type: "province"
+      type_es: "provincia"
       latitude: 38.0000001
       longitude: 101.9999999
       cities:
@@ -1963,9 +1975,11 @@
           longitude: 103.359637
     -
       name: "Guangdong"
+      native: "广东省"
       code: "GD"
       iso3166_2: "CN-GD"
       type: "province"
+      type_es: "provincia"
       latitude: 23.1357694
       longitude: 113.1982688
       cities:
@@ -2775,9 +2789,11 @@
           longitude: 115.0419603
     -
       name: "Guangxi"
+      native: "广西壮族自治区"
       code: "GX"
       iso3166_2: "CN-GX"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 24
       longitude: 109
       cities:
@@ -3347,9 +3363,11 @@
           longitude: 110.64816
     -
       name: "Guizhou"
+      native: "贵州省"
       code: "GZ"
       iso3166_2: "CN-GZ"
       type: "province"
+      type_es: "provincia"
       latitude: 27
       longitude: 107
       cities:
@@ -3935,9 +3953,11 @@
           longitude: 106.9155974
     -
       name: "Hainan"
+      native: "海南省"
       code: "HI"
       iso3166_2: "CN-HI"
       type: "province"
+      type_es: "provincia"
       latitude: 19.2000001
       longitude: 109.5999999
       cities:
@@ -4115,9 +4135,11 @@
           longitude: 109.167372
     -
       name: "Hebei"
+      native: "河北省"
       code: "HE"
       iso3166_2: "CN-HE"
       type: "province"
+      type_es: "provincia"
       latitude: 39.0000001
       longitude: 116
       cities:
@@ -4939,9 +4961,11 @@
           longitude: 117.9596297
     -
       name: "Heilongjiang"
+      native: "黑龙江省"
       code: "HL"
       iso3166_2: "CN-HL"
       type: "province"
+      type_es: "provincia"
       latitude: 48.0000047
       longitude: 127.999992
       cities:
@@ -5731,9 +5755,11 @@
           longitude: 125.2870292
     -
       name: "Henan"
+      native: "河南省"
       code: "HA"
       iso3166_2: "CN-HA"
       type: "province"
+      type_es: "provincia"
       latitude: 34.0000001
       longitude: 113.9999999
       cities:
@@ -6579,9 +6605,11 @@
           longitude: 112.97139
     -
       name: "Hong Kong SAR"
+      native: "香港特别行政区"
       code: "HK"
       iso3166_2: "CN-HK"
       type: "special administrative region"
+      type_es: "región administrativa especial"
       latitude: 22.350627
       longitude: 114.1849161
       cities:
@@ -6659,9 +6687,11 @@
           longitude: 114.0958704
     -
       name: "Hubei"
+      native: "湖北省"
       code: "HB"
       iso3166_2: "CN-HB"
       type: "province"
+      type_es: "provincia"
       latitude: 31
       longitude: 112
       cities:
@@ -7295,9 +7325,11 @@
           longitude: 110.9725264
     -
       name: "Hunan"
+      native: "湖南省"
       code: "HN"
       iso3166_2: "CN-HN"
       type: "province"
+      type_es: "provincia"
       latitude: 27.6662087
       longitude: 111.7487063
       cities:
@@ -8251,9 +8283,11 @@
           longitude: 112.3710144
     -
       name: "Inner Mongolia"
+      native: "内蒙古自治区"
       code: "NM"
       iso3166_2: "CN-NM"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 43.2443242
       longitude: 114.3251664
       cities:
@@ -8819,9 +8853,11 @@
           longitude: 112.5716318
     -
       name: "Jiangsu"
+      native: "江苏省"
       code: "JS"
       iso3166_2: "CN-JS"
       type: "province"
+      type_es: "provincia"
       latitude: 33.0000001
       longitude: 119.9999999
       cities:
@@ -9263,9 +9299,11 @@
           longitude: 119.8970595
     -
       name: "Jiangxi"
+      native: "江西省"
       code: "JX"
       iso3166_2: "CN-JX"
       type: "province"
+      type_es: "provincia"
       latitude: 28
       longitude: 116
       cities:
@@ -9735,9 +9773,11 @@
           longitude: 116.9895813
     -
       name: "Jilin"
+      native: "吉林省"
       code: "JL"
       iso3166_2: "CN-JL"
       type: "province"
+      type_es: "provincia"
       latitude: 43.837883
       longitude: 126.549572
       cities:
@@ -10191,9 +10231,11 @@
           longitude: 123.5476426
     -
       name: "Liaoning"
+      native: "辽宁省"
       code: "LN"
       iso3166_2: "CN-LN"
       type: "province"
+      type_es: "provincia"
       latitude: 41.2374106
       longitude: 122.9955469
       cities:
@@ -10771,18 +10813,22 @@
           longitude: 122.9708389
     -
       name: "Macau SAR"
+      native: "澳门特别行政区"
       code: "MO"
       iso3166_2: "CN-MO"
       type: "special administrative region"
+      type_es: "región administrativa especial"
       latitude: 22.3145285
       longitude: 113.9472446
       cities:
         []
     -
       name: "Ningxia"
+      native: "宁夏回族自治区"
       code: "NX"
       iso3166_2: "CN-NX"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 37.0000001
       longitude: 105.9999999
       cities:
@@ -10908,9 +10954,11 @@
           longitude: 105.496587
     -
       name: "Qinghai"
+      native: "青海省"
       code: "QH"
       iso3166_2: "CN-QH"
       type: "province"
+      type_es: "provincia"
       latitude: 36
       longitude: 96
       cities:
@@ -11156,9 +11204,11 @@
           longitude: 92.8220032
     -
       name: "Shaanxi"
+      native: "陕西省"
       code: "SN"
       iso3166_2: "CN-SN"
       type: "province"
+      type_es: "provincia"
       latitude: 35.5895959
       longitude: 109.3013107
       cities:
@@ -11668,9 +11718,11 @@
           longitude: 109.8175
     -
       name: "Shandong"
+      native: "山东省"
       code: "SD"
       iso3166_2: "CN-SD"
       type: "province"
+      type_es: "provincia"
       latitude: 36.398987
       longitude: 118.5055691
       cities:
@@ -12576,9 +12628,11 @@
           longitude: 117.736995
     -
       name: "Shanghai"
+      native: "上海市"
       code: "SH"
       iso3166_2: "CN-SH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 31.230416
       longitude: 121.473701
       cities:
@@ -12656,9 +12710,11 @@
           longitude: 121.05696
     -
       name: "Shanxi"
+      native: "山西省"
       code: "SX"
       iso3166_2: "CN-SX"
       type: "province"
+      type_es: "provincia"
       latitude: 37
       longitude: 112
       cities:
@@ -13196,9 +13252,11 @@
           longitude: 112.6977532
     -
       name: "Sichuan"
+      native: "四川省"
       code: "SC"
       iso3166_2: "CN-SC"
       type: "province"
+      type_es: "provincia"
       latitude: 30.5000001
       longitude: 102.4999999
       cities:
@@ -14136,9 +14194,11 @@
           longitude: 104.8099251
     -
       name: "Taiwan"
+      native: "台湾"
       code: "TW"
       iso3166_2: "CN-TW"
       type: "province"
+      type_es: "provincia"
       latitude: 23.9739374
       longitude: 120.9820179
       cities:
@@ -14420,9 +14480,11 @@
           longitude: 120.84427
     -
       name: "Tianjin"
+      native: "天津市"
       code: "TJ"
       iso3166_2: "CN-TJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 39.0844897
       longitude: 117.1956724
       cities:
@@ -14712,9 +14774,11 @@
           longitude: 117.24191
     -
       name: "Tibet"
+      native: "西藏自治区"
       code: "XZ"
       iso3166_2: "CN-XZ"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 29.8556443
       longitude: 90.8749807
       cities:
@@ -15076,9 +15140,11 @@
           longitude: 97.8405948
     -
       name: "Xinjiang"
+      native: "新疆维吾尔自治区"
       code: "XJ"
       iso3166_2: "CN-XJ"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 42.4804953
       longitude: 85.4633464
       cities:
@@ -15656,9 +15722,11 @@
           longitude: 81.002154
     -
       name: "Yunnan"
+      native: "云南省"
       code: "YN"
       iso3166_2: "CN-YN"
       type: "province"
+      type_es: "provincia"
       latitude: 25
       longitude: 102
       cities:
@@ -16288,9 +16356,11 @@
           longitude: 103.76667
     -
       name: "Zhejiang"
+      native: "浙江省"
       code: "ZJ"
       iso3166_2: "CN-ZJ"
       type: "province"
+      type_es: "provincia"
       latitude: 29.0000001
       longitude: 119.9999999
       cities:
@@ -16836,16 +16906,20 @@
   currency_symbol: "$"
   tld: ".hk"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 22.25
   longitude: 114.16666666
   emoji: "🇭🇰"
   states:
     -
       name: "Central and Western"
+      native: "Central and Western"
       code: "HCW"
       iso3166_2: "HK-HCW"
       type: "district"
+      type_es: "distrito"
       latitude: 22.28666
       longitude: 114.15497
       cities:
@@ -16859,18 +16933,22 @@
           longitude: 114.159
     -
       name: "Eastern"
+      native: "Eastern"
       code: "HEA"
       iso3166_2: "HK-HEA"
       type: "district"
+      type_es: "distrito"
       latitude: 22.28411
       longitude: 114.22414
       cities:
         []
     -
       name: "Islands"
+      native: "Islands"
       code: "NIS"
       iso3166_2: "HK-NIS"
       type: "district"
+      type_es: "distrito"
       latitude: 22.26114
       longitude: 113.94608
       cities:
@@ -16880,9 +16958,11 @@
           longitude: 113.869
     -
       name: "Kowloon City"
+      native: "Kowloon City"
       code: "KKC"
       iso3166_2: "HK-KKC"
       type: "district"
+      type_es: "distrito"
       latitude: 22.3282
       longitude: 114.19155
       cities:
@@ -16892,18 +16972,22 @@
           longitude: 114.179
     -
       name: "Kwai Tsing"
+      native: "Kwai Tsing"
       code: "NKT"
       iso3166_2: "HK-NKT"
       type: "district"
+      type_es: "distrito"
       latitude: 22.3634303
       longitude: 114.1229825
       cities:
         []
     -
       name: "Kwun Tong"
+      native: "Kwun Tong"
       code: "KKT"
       iso3166_2: "HK-KKT"
       type: "district"
+      type_es: "distrito"
       latitude: 22.31326
       longitude: 114.22581
       cities:
@@ -16917,9 +17001,11 @@
           longitude: 114.235
     -
       name: "North"
+      native: "North"
       code: "NNO"
       iso3166_2: "HK-NNO"
       type: "district"
+      type_es: "distrito"
       latitude: 22.49471
       longitude: 114.13812
       cities:
@@ -16929,9 +17015,11 @@
           longitude: 114.123
     -
       name: "Sai Kung"
+      native: "Sai Kung"
       code: "NSK"
       iso3166_2: "HK-NSK"
       type: "district"
+      type_es: "distrito"
       latitude: 21.6730519
       longitude: 108.3954313
       cities:
@@ -16945,9 +17033,11 @@
           longitude: 114.263
     -
       name: "Sha Tin"
+      native: "Sha Tin"
       code: "NST"
       iso3166_2: "HK-NST"
       type: "district"
+      type_es: "distrito"
       latitude: 22.38715
       longitude: 114.19534
       cities:
@@ -16965,9 +17055,11 @@
           longitude: 114.191
     -
       name: "Sham Shui Po"
+      native: "Sham Shui Po"
       code: "KSS"
       iso3166_2: "HK-KSS"
       type: "district"
+      type_es: "distrito"
       latitude: 22.2357383
       longitude: 114.1698162
       cities:
@@ -16981,9 +17073,11 @@
           longitude: 114.146
     -
       name: "Southern"
+      native: "Southern"
       code: "HSO"
       iso3166_2: "HK-HSO"
       type: "district"
+      type_es: "distrito"
       latitude: 22.24725
       longitude: 114.15884
       cities:
@@ -17001,9 +17095,11 @@
           longitude: 114.217
     -
       name: "Tai Po"
+      native: "Tai Po"
       code: "NTP"
       iso3166_2: "HK-NTP"
       type: "district"
+      type_es: "distrito"
       latitude: 22.45085
       longitude: 114.16422
       cities:
@@ -17017,9 +17113,11 @@
           longitude: 114.16
     -
       name: "Tsuen Wan"
+      native: "Tsuen Wan"
       code: "NTW"
       iso3166_2: "HK-NTW"
       type: "district"
+      type_es: "distrito"
       latitude: 22.36281
       longitude: 114.12907
       cities:
@@ -17033,18 +17131,22 @@
           longitude: 113.973
     -
       name: "Tuen Mun"
+      native: "Tuen Mun"
       code: "NTM"
       iso3166_2: "HK-NTM"
       type: "district"
+      type_es: "distrito"
       latitude: 22.39163
       longitude: 113.9770885
       cities:
         []
     -
       name: "Wan Chai"
+      native: "Wan Chai"
       code: "HWC"
       iso3166_2: "HK-HWC"
       type: "district"
+      type_es: "distrito"
       latitude: 22.264499
       longitude: 114.1898216
       cities:
@@ -17058,9 +17160,11 @@
           longitude: 114.182
     -
       name: "Wong Tai Sin"
+      native: "Wong Tai Sin"
       code: "KWT"
       iso3166_2: "HK-KWT"
       type: "district"
+      type_es: "distrito"
       latitude: 22.33353
       longitude: 114.19686
       cities:
@@ -17070,9 +17174,11 @@
           longitude: 114.193
     -
       name: "Yau Tsim Mong"
+      native: "Yau Tsim Mong"
       code: "KYT"
       iso3166_2: "HK-KYT"
       type: "district"
+      type_es: "distrito"
       latitude: 22.32138
       longitude: 114.1726
       cities:
@@ -17086,9 +17192,11 @@
           longitude: 114.172
     -
       name: "Yuen Long"
+      native: "Yuen Long"
       code: "NYL"
       iso3166_2: "HK-NYL"
       type: "district"
+      type_es: "distrito"
       latitude: 22.4487051
       longitude: 114.0958704
       cities:
@@ -17110,16 +17218,20 @@
   currency_symbol: "¥"
   tld: ".jp"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 36
   longitude: 138
   emoji: "🇯🇵"
   states:
     -
       name: "Aichi"
+      native: "愛知"
       code: "23"
       iso3166_2: "JP-23"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.9991645
       longitude: 137.254574
       cities:
@@ -17405,9 +17517,11 @@
           longitude: 136.72451
     -
       name: "Akita"
+      native: "秋田"
       code: "05"
       iso3166_2: "JP-05"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 39.6898802
       longitude: 140.342608
       cities:
@@ -17521,9 +17635,11 @@
           longitude: 140.54267
     -
       name: "Aomori"
+      native: "青森"
       code: "02"
       iso3166_2: "JP-02"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 40.8222833
       longitude: 140.7472027
       cities:
@@ -17613,9 +17729,11 @@
           longitude: 140.34963
     -
       name: "Chiba"
+      native: "千葉"
       code: "12"
       iso3166_2: "JP-12"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.549399
       longitude: 140.2647303
       cities:
@@ -17881,9 +17999,11 @@
           longitude: 140.17912
     -
       name: "Ehime"
+      native: "愛媛"
       code: "38"
       iso3166_2: "JP-38"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.6013646
       longitude: 132.8185275
       cities:
@@ -17969,9 +18089,11 @@
           longitude: 132.42336
     -
       name: "Fukui"
+      native: "福井"
       code: "18"
       iso3166_2: "JP-18"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.061751
       longitude: 136.2260542
       cities:
@@ -18053,9 +18175,11 @@
           longitude: 136.08068
     -
       name: "Fukuoka"
+      native: "福岡"
       code: "40"
       iso3166_2: "JP-40"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.6251241
       longitude: 130.6180016
       cities:
@@ -18285,9 +18409,11 @@
           longitude: 130.97108
     -
       name: "Fukushima"
+      native: "福島"
       code: "07"
       iso3166_2: "JP-07"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 37.760777
       longitude: 140.4745807
       cities:
@@ -18413,9 +18539,11 @@
           longitude: 140.6
     -
       name: "Gifu"
+      native: "岐阜"
       code: "21"
       iso3166_2: "JP-21"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.7867449
       longitude: 137.0460777
       cities:
@@ -18561,9 +18689,11 @@
           longitude: 136.74311
     -
       name: "Gunma"
+      native: "群馬"
       code: "10"
       iso3166_2: "JP-10"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.52198
       longitude: 139.033483
       cities:
@@ -18689,9 +18819,11 @@
           longitude: 138.98333
     -
       name: "Hiroshima"
+      native: "広島"
       code: "34"
       iso3166_2: "JP-34"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.3917241
       longitude: 132.4517589
       cities:
@@ -18817,9 +18949,11 @@
           longitude: 132.9
     -
       name: "Hokkaidō"
+      native: "北海道"
       code: "01"
       iso3166_2: "JP-01"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 43.4519831
       longitude: 142.8197834
       cities:
@@ -19141,9 +19275,11 @@
           longitude: 142.11065
     -
       name: "Hyōgo"
+      native: "兵庫県"
       code: "28"
       iso3166_2: "JP-28"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.914934
       longitude: 134.860666
       cities:
@@ -19361,9 +19497,11 @@
           longitude: 134.82551
     -
       name: "Ibaraki"
+      native: "茨城"
       code: "08"
       iso3166_2: "JP-08"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.2871186
       longitude: 140.4240926
       cities:
@@ -19657,9 +19795,11 @@
           longitude: 139.86403
     -
       name: "Ishikawa"
+      native: "石川"
       code: "17"
       iso3166_2: "JP-17"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.9890574
       longitude: 136.8162839
       cities:
@@ -19737,9 +19877,11 @@
           longitude: 136.88757
     -
       name: "Iwate"
+      native: "岩手"
       code: "03"
       iso3166_2: "JP-03"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 39.5713763
       longitude: 141.4253574
       cities:
@@ -19869,9 +20011,11 @@
           longitude: 141.95
     -
       name: "Kagawa"
+      native: "香川"
       code: "37"
       iso3166_2: "JP-37"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.2480104
       longitude: 134.0586579
       cities:
@@ -19937,9 +20081,11 @@
           longitude: 133.77692
     -
       name: "Kagoshima"
+      native: "鹿児島"
       code: "46"
       iso3166_2: "JP-46"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 31.521587
       longitude: 130.5474077
       cities:
@@ -20129,9 +20275,11 @@
           longitude: 130.47942
     -
       name: "Kanagawa"
+      native: "神奈川"
       code: "14"
       iso3166_2: "JP-14"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.4342935
       longitude: 139.374753
       cities:
@@ -20297,9 +20445,11 @@
           longitude: 139.59125
     -
       name: "Kōchi"
+      native: "高知"
       code: "39"
       iso3166_2: "JP-39"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.5680384
       longitude: 133.5394221
       cities:
@@ -20737,9 +20887,11 @@
           longitude: 132.92694444
     -
       name: "Kumamoto"
+      native: "熊本"
       code: "43"
       iso3166_2: "JP-43"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 32.8033909
       longitude: 130.7082737
       cities:
@@ -20853,9 +21005,11 @@
           longitude: 130.74972
     -
       name: "Kyōto"
+      native: "京都"
       code: "26"
       iso3166_2: "JP-26"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.0115754
       longitude: 135.7681441
       cities:
@@ -20957,9 +21111,11 @@
           longitude: 135.7147
     -
       name: "Mie"
+      native: "三重"
       code: "24"
       iso3166_2: "JP-24"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.7339685
       longitude: 136.5154489
       cities:
@@ -21077,9 +21233,11 @@
           longitude: 136.62443
     -
       name: "Miyagi"
+      native: "宮城県"
       code: "04"
       iso3166_2: "JP-04"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 38.3880155
       longitude: 140.9761025
       cities:
@@ -21217,9 +21375,11 @@
           longitude: 141.21487
     -
       name: "Miyazaki"
+      native: "宮崎"
       code: "45"
       iso3166_2: "JP-45"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 32.097681
       longitude: 131.294542
       cities:
@@ -21293,9 +21453,11 @@
           longitude: 131.4
     -
       name: "Nagano"
+      native: "長野"
       code: "20"
       iso3166_2: "JP-20"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.1143945
       longitude: 138.0319015
       cities:
@@ -21461,9 +21623,11 @@
           longitude: 138.24186
     -
       name: "Nagasaki"
+      native: "長崎"
       code: "42"
       iso3166_2: "JP-42"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.1154683
       longitude: 129.7874339
       cities:
@@ -21557,9 +21721,11 @@
           longitude: 130.22828
     -
       name: "Nara"
+      native: "奈良"
       code: "29"
       iso3166_2: "JP-29"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.2963089
       longitude: 135.8816819
       cities:
@@ -21649,9 +21815,11 @@
           longitude: 135.85768
     -
       name: "Niigata"
+      native: "新潟"
       code: "15"
       iso3166_2: "JP-15"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 37.6452283
       longitude: 138.7669125
       cities:
@@ -21833,9 +22001,11 @@
           longitude: 138.88333
     -
       name: "Ōita"
+      native: "大分"
       code: "44"
       iso3166_2: "JP-44"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.1819875
       longitude: 131.4270217
       cities:
@@ -21945,9 +22115,11 @@
           longitude: 131.43219
     -
       name: "Okayama"
+      native: "岡山"
       code: "33"
       iso3166_2: "JP-33"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.8581334
       longitude: 133.7759256
       cities:
@@ -22053,9 +22225,11 @@
           longitude: 134.03181
     -
       name: "Okinawa"
+      native: "沖縄"
       code: "47"
       iso3166_2: "JP-47"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 26.3343738
       longitude: 127.8056597
       cities:
@@ -22137,9 +22311,11 @@
           longitude: 123
     -
       name: "Ōsaka"
+      native: "大阪"
       code: "27"
       iso3166_2: "JP-27"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.6198813
       longitude: 135.490357
       cities:
@@ -22373,9 +22549,11 @@
           longitude: 135.60099
     -
       name: "Saga"
+      native: "佐賀"
       code: "41"
       iso3166_2: "JP-41"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.2639134
       longitude: 130.3008378
       cities:
@@ -22445,9 +22623,11 @@
           longitude: 130.01495
     -
       name: "Saitama"
+      native: "埼玉"
       code: "11"
       iso3166_2: "JP-11"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.9754168
       longitude: 139.4160114
       cities:
@@ -22781,9 +22961,11 @@
           longitude: 139.8609
     -
       name: "Shiga"
+      native: "滋賀"
       code: "25"
       iso3166_2: "JP-25"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.247154
       longitude: 136.109385
       cities:
@@ -22885,9 +23067,11 @@
           longitude: 136.19768
     -
       name: "Shimane"
+      native: "島根"
       code: "32"
       iso3166_2: "JP-32"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.9418212
       longitude: 132.537439
       cities:
@@ -22957,9 +23141,11 @@
           longitude: 133.24224
     -
       name: "Shizuoka"
+      native: "静岡"
       code: "22"
       iso3166_2: "JP-22"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.9751974
       longitude: 138.3831697
       cities:
@@ -23141,9 +23327,11 @@
           longitude: 138.30127
     -
       name: "Tochigi"
+      native: "栃木県"
       code: "09"
       iso3166_2: "JP-09"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.6782167
       longitude: 139.8096549
       cities:
@@ -23281,9 +23469,11 @@
           longitude: 139.89809
     -
       name: "Tokushima"
+      native: "徳島"
       code: "36"
       iso3166_2: "JP-36"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.9196418
       longitude: 134.2509634
       cities:
@@ -23357,9 +23547,11 @@
           longitude: 134.28354
     -
       name: "Tokyo"
+      native: "東京"
       code: "13"
       iso3166_2: "JP-13"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.6768601
       longitude: 139.7638947
       cities:
@@ -23617,9 +23809,11 @@
           longitude: 139.88861
     -
       name: "Tottori"
+      native: "鳥取"
       code: "31"
       iso3166_2: "JP-31"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.3555075
       longitude: 133.8678525
       cities:
@@ -23645,9 +23839,11 @@
           longitude: 133.35873
     -
       name: "Toyama"
+      native: "富山"
       code: "16"
       iso3166_2: "JP-16"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 36.6958266
       longitude: 137.2137071
       cities:
@@ -23733,9 +23929,11 @@
           longitude: 137.13333
     -
       name: "Wakayama"
+      native: "和歌山"
       code: "30"
       iso3166_2: "JP-30"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 33.8070292
       longitude: 135.5930743
       cities:
@@ -23805,9 +24003,11 @@
           longitude: 135.19595
     -
       name: "Yamagata"
+      native: "山形"
       code: "06"
       iso3166_2: "JP-06"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 38.4746705
       longitude: 140.083237
       cities:
@@ -23921,9 +24121,11 @@
           longitude: 139.92909
     -
       name: "Yamaguchi"
+      native: "山口"
       code: "35"
       iso3166_2: "JP-35"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 34.2379614
       longitude: 131.5873845
       cities:
@@ -24013,9 +24215,11 @@
           longitude: 132.13111
     -
       name: "Yamanashi"
+      native: "山梨"
       code: "19"
       iso3166_2: "JP-19"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 35.6399328
       longitude: 138.6380495
       cities:
@@ -24125,7 +24329,9 @@
   currency_symbol: "$"
   tld: ".mo"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 22.16666666
   longitude: 113.55
   emoji: "🇲🇴"
@@ -24145,16 +24351,20 @@
   currency_symbol: "₮"
   tld: ".mn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 46
   longitude: 105
   emoji: "🇲🇳"
   states:
     -
       name: "Arkhangai"
+      native: "Архангай"
       code: "073"
       iso3166_2: "MN-073"
       type: "province"
+      type_es: "provincia"
       latitude: 47.862646
       longitude: 101.0316283
       cities:
@@ -24164,9 +24374,11 @@
           longitude: 101.45417
     -
       name: "Bayan-Ölgii"
+      native: "Баян-Өлгий"
       code: "071"
       iso3166_2: "MN-071"
       type: "province"
+      type_es: "provincia"
       latitude: 48.5470083
       longitude: 89.8549358
       cities:
@@ -24184,9 +24396,11 @@
           longitude: 89.14358
     -
       name: "Bayankhongor"
+      native: "Баянхонгор"
       code: "069"
       iso3166_2: "MN-069"
       type: "province"
+      type_es: "provincia"
       latitude: 45.2380937
       longitude: 99.5146799
       cities:
@@ -24196,9 +24410,11 @@
           longitude: 100.71806
     -
       name: "Bulgan"
+      native: "Булган"
       code: "067"
       iso3166_2: "MN-067"
       type: "province"
+      type_es: "provincia"
       latitude: 48.9521438
       longitude: 103.3965591
       cities:
@@ -24208,9 +24424,11 @@
           longitude: 103.53472
     -
       name: "Darkhan-Uul"
+      native: "Дархан-Уул"
       code: "037"
       iso3166_2: "MN-037"
       type: "province"
+      type_es: "provincia"
       latitude: 49.3767291
       longitude: 106.2901384
       cities:
@@ -24220,9 +24438,11 @@
           longitude: 105.92278
     -
       name: "Dornod"
+      native: "Дорнод"
       code: "061"
       iso3166_2: "MN-061"
       type: "province"
+      type_es: "provincia"
       latitude: 47.6772781
       longitude: 115.2177155
       cities:
@@ -24236,18 +24456,22 @@
           longitude: 115.72526
     -
       name: "Dornogovi"
+      native: "Дорноговь"
       code: "063"
       iso3166_2: "MN-063"
       type: "province"
+      type_es: "provincia"
       latitude: 44.4179637
       longitude: 109.7783753
       cities:
         []
     -
       name: "Dundgovi"
+      native: "Дундговь"
       code: "059"
       iso3166_2: "MN-059"
       type: "province"
+      type_es: "provincia"
       latitude: 45.5186722
       longitude: 106.2611562
       cities:
@@ -24257,9 +24481,11 @@
           longitude: 106.27083
     -
       name: "Govi-Altai"
+      native: "Говь-Алтай"
       code: "065"
       iso3166_2: "MN-065"
       type: "province"
+      type_es: "provincia"
       latitude: 45.3463139
       longitude: 95.9325806
       cities:
@@ -24269,9 +24495,11 @@
           longitude: 96.25833
     -
       name: "Govisümber"
+      native: "Говьсүмбэр"
       code: "064"
       iso3166_2: "MN-064"
       type: "province"
+      type_es: "provincia"
       latitude: 46.4610827
       longitude: 108.5173101
       cities:
@@ -24281,9 +24509,11 @@
           longitude: 108.36111
     -
       name: "Khentii"
+      native: "Хэнтий"
       code: "039"
       iso3166_2: "MN-039"
       type: "province"
+      type_es: "provincia"
       latitude: 47.885981
       longitude: 110.4201043
       cities:
@@ -24293,9 +24523,11 @@
           longitude: 110.65556
     -
       name: "Khovd"
+      native: "Ховд"
       code: "043"
       iso3166_2: "MN-043"
       type: "province"
+      type_es: "provincia"
       latitude: 46.8997977
       longitude: 92.2959651
       cities:
@@ -24313,9 +24545,11 @@
           longitude: 92.02612
     -
       name: "Khövsgöl"
+      native: "Хөвсгөл"
       code: "041"
       iso3166_2: "MN-041"
       type: "province"
+      type_es: "provincia"
       latitude: 50.2206196
       longitude: 99.9170492
       cities:
@@ -24337,9 +24571,11 @@
           longitude: 100.66257
     -
       name: "Ömnögovi"
+      native: "Өмнөговь"
       code: "053"
       iso3166_2: "MN-053"
       type: "province"
+      type_es: "provincia"
       latitude: 43.282363
       longitude: 104.1133864
       cities:
@@ -24357,9 +24593,11 @@
           longitude: 105.0564
     -
       name: "Orkhon"
+      native: "Орхон"
       code: "035"
       iso3166_2: "MN-035"
       type: "province"
+      type_es: "provincia"
       latitude: 49.0243744
       longitude: 104.2998863
       cities:
@@ -24369,9 +24607,11 @@
           longitude: 104.08333
     -
       name: "Övörkhangai"
+      native: "Өвөрхангай"
       code: "055"
       iso3166_2: "MN-055"
       type: "province"
+      type_es: "provincia"
       latitude: 45.8297039
       longitude: 102.7237769
       cities:
@@ -24397,9 +24637,11 @@
           longitude: 101.45977
     -
       name: "Selenge"
+      native: "Сэлэнгэ"
       code: "049"
       iso3166_2: "MN-049"
       type: "province"
+      type_es: "provincia"
       latitude: 49.3910136
       longitude: 107.0629034
       cities:
@@ -24413,9 +24655,11 @@
           longitude: 106.20778
     -
       name: "Sükhbaatar"
+      native: "Сүхбаатар"
       code: "051"
       iso3166_2: "MN-051"
       type: "province"
+      type_es: "provincia"
       latitude: 46.2093417
       longitude: 113.5077196
       cities:
@@ -24425,9 +24669,11 @@
           longitude: 113.27917
     -
       name: "Töv"
+      native: "Төв"
       code: "047"
       iso3166_2: "MN-047"
       type: "province"
+      type_es: "provincia"
       latitude: 47.4692538
       longitude: 106.5525161
       cities:
@@ -24453,9 +24699,11 @@
           longitude: 106.73706
     -
       name: "Ulaanbaatar"
+      native: "Улаанбаатар"
       code: "001"
       iso3166_2: "MN-001"
       type: "capital city"
+      type_es: "ciudad capital"
       latitude: 47.9184676
       longitude: 106.9177016
       cities:
@@ -24465,9 +24713,11 @@
           longitude: 106.7367222
     -
       name: "Uvs"
+      native: "Увс"
       code: "046"
       iso3166_2: "MN-046"
       type: "province"
+      type_es: "provincia"
       latitude: 49.6313887
       longitude: 92.9558186
       cities:
@@ -24477,9 +24727,11 @@
           longitude: 92.06667
     -
       name: "Zavkhan"
+      native: "Завхан"
       code: "057"
       iso3166_2: "MN-057"
       type: "province"
+      type_es: "provincia"
       latitude: 48.3133355
       longitude: 96.2850506
       cities:
@@ -24501,16 +24753,20 @@
   currency_symbol: "₩"
   tld: ".kp"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 40
   longitude: 127
   emoji: "🇰🇵"
   states:
     -
       name: "Chagang"
+      native: "차강"
       code: "04"
       iso3166_2: "KP-04"
       type: "province"
+      type_es: "provincia"
       latitude: 40.7198536
       longitude: 126.539056
       cities:
@@ -24532,18 +24788,22 @@
           longitude: 126.28944
     -
       name: "Kaesong"
+      native: "개성시"
       code: "15"
       iso3166_2: "KP-15"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 37.97166667
       longitude: 126.55277778
       cities:
         []
     -
       name: "Kangwon"
+      native: "강원도"
       code: "07"
       iso3166_2: "KP-07"
       type: "province"
+      type_es: "provincia"
       latitude: 38.8354349
       longitude: 127.5146547
       cities:
@@ -24569,18 +24829,22 @@
           longitude: 127.44361
     -
       name: "Nampho"
+      native: "남포시"
       code: "14"
       iso3166_2: "KP-14"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 38.73555556
       longitude: 125.40888889
       cities:
         []
     -
       name: "North Hamgyong"
+      native: "함경북도"
       code: "09"
       iso3166_2: "KP-09"
       type: "province"
+      type_es: "provincia"
       latitude: 41.9098723
       longitude: 129.369056
       cities:
@@ -24650,9 +24914,11 @@
           longitude: 129.66889
     -
       name: "North Hwanghae"
+      native: "황해북도"
       code: "06"
       iso3166_2: "KP-06"
       type: "province"
+      type_es: "provincia"
       latitude: 38.5709632
       longitude: 126.2465723
       cities:
@@ -24686,9 +24952,11 @@
           longitude: 125.645
     -
       name: "North Pyongan"
+      native: "평안북도"
       code: "03"
       iso3166_2: "KP-03"
       type: "province"
+      type_es: "provincia"
       latitude: 40.0642847
       longitude: 125.2356222
       cities:
@@ -24742,9 +25010,11 @@
           longitude: 125.80417
     -
       name: "Pyongyang"
+      native: "평양"
       code: "01"
       iso3166_2: "KP-01"
       type: "capital city"
+      type_es: "ciudad capital"
       latitude: 39.0167979
       longitude: 125.7473609
       cities:
@@ -24770,9 +25040,11 @@
           longitude: 125.97778
     -
       name: "Rason"
+      native: "라손"
       code: "13"
       iso3166_2: "KP-13"
       type: "special city"
+      type_es: "ciudad especial"
       latitude: 42.2497316
       longitude: 130.3113296
       cities:
@@ -24786,9 +25058,11 @@
           longitude: 130.46222
     -
       name: "Ryanggang"
+      native: "량강"
       code: "10"
       iso3166_2: "KP-10"
       type: "province"
+      type_es: "provincia"
       latitude: 41.0997898
       longitude: 128.1690346
       cities:
@@ -24810,9 +25084,11 @@
           longitude: 128.79889
     -
       name: "South Hamgyong"
+      native: "함경남도"
       code: "08"
       iso3166_2: "KP-08"
       type: "province"
+      type_es: "provincia"
       latitude: 40.119918
       longitude: 127.5990989
       cities:
@@ -24854,9 +25130,11 @@
           longitude: 128.15972
     -
       name: "South Hwanghae"
+      native: "황해남도"
       code: "05"
       iso3166_2: "KP-05"
       type: "province"
+      type_es: "provincia"
       latitude: 38.2628262
       longitude: 125.476901
       cities:
@@ -24894,9 +25172,11 @@
           longitude: 126.16111
     -
       name: "South Pyongan"
+      native: "남평안"
       code: "02"
       iso3166_2: "KP-02"
       type: "province"
+      type_es: "provincia"
       latitude: 39.5416505
       longitude: 126.0647645
       cities:
@@ -24946,16 +25226,20 @@
   currency_symbol: "₩"
   tld: ".kr"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 37
   longitude: 127.5
   emoji: "🇰🇷"
   states:
     -
       name: "Busan"
+      native: "부산"
       code: "26"
       iso3166_2: "KR-26"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.1795543
       longitude: 129.0756416
       cities:
@@ -25021,9 +25305,11 @@
           longitude: 129.06483
     -
       name: "Daegu"
+      native: "대구"
       code: "27"
       iso3166_2: "KR-27"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.8714354
       longitude: 128.601445
       cities:
@@ -25061,9 +25347,11 @@
           longitude: 128.62625
     -
       name: "Daejeon"
+      native: "대전"
       code: "30"
       iso3166_2: "KR-30"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 36.3504119
       longitude: 127.3845475
       cities:
@@ -25089,9 +25377,11 @@
           longitude: 127.327
     -
       name: "Gangwon"
+      native: "강원도"
       code: "42"
       iso3166_2: "KR-42"
       type: "special self-governing province"
+      type_es: "provincia autónoma especial"
       latitude: 37.885
       longitude: 127.7297
       cities:
@@ -25217,9 +25507,11 @@
           longitude: 128.61471
     -
       name: "Gwangju"
+      native: "광주"
       code: "29"
       iso3166_2: "KR-29"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.1595454
       longitude: 126.8526012
       cities:
@@ -25237,9 +25529,11 @@
           longitude: 126.83149
     -
       name: "Gyeonggi"
+      native: "경기도"
       code: "41"
       iso3166_2: "KR-41"
       type: "province"
+      type_es: "provincia"
       latitude: 37.2884675
       longitude: 127.0535231
       cities:
@@ -25417,9 +25711,11 @@
           longitude: 127.17795
     -
       name: "Incheon"
+      native: "인천"
       code: "28"
       iso3166_2: "KR-28"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 37.4562557
       longitude: 126.7052062
       cities:
@@ -25441,9 +25737,11 @@
           longitude: 126.66489
     -
       name: "Jeju"
+      native: "제주"
       code: "49"
       iso3166_2: "KR-49"
       type: "special self-governing province"
+      type_es: "provincia autónoma especial"
       latitude: 33.4998289
       longitude: 126.5313902
       cities:
@@ -25465,9 +25763,11 @@
           longitude: 126.56181
     -
       name: "North Chungcheong"
+      native: "충청북도"
       code: "43"
       iso3166_2: "KR-43"
       type: "province"
+      type_es: "provincia"
       latitude: 36.6357
       longitude: 127.4915
       cities:
@@ -25533,9 +25833,11 @@
           longitude: 127.79374
     -
       name: "North Gyeongsang"
+      native: "경상북도"
       code: "47"
       iso3166_2: "KR-47"
       type: "province"
+      type_es: "provincia"
       latitude: 36.5754
       longitude: 128.5058
       cities:
@@ -25677,9 +25979,11 @@
           longitude: 129.35162
     -
       name: "North Jeolla"
+      native: "전라북도"
       code: "45"
       iso3166_2: "KR-45"
       type: "province"
+      type_es: "provincia"
       latitude: 35.8198999
       longitude: 127.109
       cities:
@@ -25781,9 +26085,11 @@
           longitude: 127.14752
     -
       name: "Sejong City"
+      native: "세종시"
       code: "50"
       iso3166_2: "KR-50"
       type: "special self-governing city"
+      type_es: "ciudad autónoma especial"
       latitude: 36.4799999
       longitude: 127.289
       cities:
@@ -25793,9 +26099,11 @@
           longitude: 127.29223
     -
       name: "Seoul"
+      native: "서울"
       code: "11"
       iso3166_2: "KR-11"
       type: "special city"
+      type_es: "ciudad especial"
       latitude: 37.566535
       longitude: 126.9779692
       cities:
@@ -25909,9 +26217,11 @@
           longitude: 126.9775
     -
       name: "South Chungcheong"
+      native: "충청남도"
       code: "44"
       iso3166_2: "KR-44"
       type: "province"
+      type_es: "provincia"
       latitude: 36.6593
       longitude: 126.6729
       cities:
@@ -26029,9 +26339,11 @@
           longitude: 127.1
     -
       name: "South Gyeongsang"
+      native: "경상남도"
       code: "48"
       iso3166_2: "KR-48"
       type: "province"
+      type_es: "provincia"
       latitude: 35.2382
       longitude: 128.6925
       cities:
@@ -26141,9 +26453,11 @@
           longitude: 129.03358
     -
       name: "South Jeolla"
+      native: "전라남도"
       code: "46"
       iso3166_2: "KR-46"
       type: "province"
+      type_es: "provincia"
       latitude: 34.8159
       longitude: 126.4629
       cities:
@@ -26289,9 +26603,11 @@
           longitude: 127.66215
     -
       name: "Ulsan"
+      native: "울산"
       code: "31"
       iso3166_2: "KR-31"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.5383773
       longitude: 129.3113596
       cities:
@@ -26333,16 +26649,20 @@
   currency_symbol: "$"
   tld: ".tw"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 23.5
   longitude: 121
   emoji: "🇹🇼"
   states:
     -
       name: "Changhua"
+      native: "Changhua"
       code: "CHA"
       iso3166_2: "TW-CHA"
       type: "county"
+      type_es: "condado"
       latitude: 24.0755667
       longitude: 120.5444667
       cities:
@@ -26356,9 +26676,11 @@
           longitude: 120.57608
     -
       name: "Chiayi"
+      native: "Chiayi"
       code: "CYI"
       iso3166_2: "TW-CYI"
       type: "city"
+      type_es: "ciudad"
       latitude: 23.4591664
       longitude: 120.2930004
       cities:
@@ -26372,9 +26694,11 @@
           longitude: 120.44472
     -
       name: "Chiayi County"
+      native: "嘉義縣"
       code: "CYQ"
       iso3166_2: "TW-CYQ"
       type: "county"
+      type_es: "condado"
       latitude: 23.49620556
       longitude: 120.641875
       cities:
@@ -26396,9 +26720,11 @@
           longitude: 120.445696
     -
       name: "Hsinchu"
+      native: "Hsinchu"
       code: "HSZ"
       iso3166_2: "TW-HSZ"
       type: "city"
+      type_es: "ciudad"
       latitude: 24.8138287
       longitude: 120.9674798
       cities:
@@ -26408,9 +26734,11 @@
           longitude: 121.16111
     -
       name: "Hsinchu County"
+      native: "新竹縣"
       code: "HSQ"
       iso3166_2: "TW-HSQ"
       type: "county"
+      type_es: "condado"
       latitude: 24.83333333
       longitude: 121.01472222
       cities:
@@ -26428,9 +26756,11 @@
           longitude: 121.01194444
     -
       name: "Hualien"
+      native: "Hualien"
       code: "HUA"
       iso3166_2: "TW-HUA"
       type: "county"
+      type_es: "condado"
       latitude: 23.9871589
       longitude: 121.6015714
       cities:
@@ -26440,9 +26770,11 @@
           longitude: 121.39333
     -
       name: "Kaohsiung"
+      native: "Kaohsiung"
       code: "KHH"
       iso3166_2: "TW-KHH"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 22.6203348
       longitude: 120.3120375
       cities:
@@ -26452,18 +26784,22 @@
           longitude: 120.31333
     -
       name: "Keelung"
+      native: "Keelung"
       code: "KEE"
       iso3166_2: "TW-KEE"
       type: "city"
+      type_es: "ciudad"
       latitude: 25.1317232
       longitude: 121.744652
       cities:
         []
     -
       name: "Kinmen"
+      native: "Kinmen"
       code: "KIN"
       iso3166_2: "TW-KIN"
       type: "county"
+      type_es: "condado"
       latitude: 24.4367638
       longitude: 118.3186435
       cities:
@@ -26477,9 +26813,11 @@
           longitude: 118.38861
     -
       name: "Lienchiang"
+      native: "Lienchiang"
       code: "LIE"
       iso3166_2: "TW-LIE"
       type: "county"
+      type_es: "condado"
       latitude: 26.1577951
       longitude: 119.9519756
       cities:
@@ -26493,9 +26831,11 @@
           longitude: 119.93284
     -
       name: "Miaoli"
+      native: "Miaoli"
       code: "MIA"
       iso3166_2: "TW-MIA"
       type: "county"
+      type_es: "condado"
       latitude: 24.560159
       longitude: 120.8214265
       cities:
@@ -26505,9 +26845,11 @@
           longitude: 120.90638
     -
       name: "Nantou"
+      native: "Nantou"
       code: "NAN"
       iso3166_2: "TW-NAN"
       type: "county"
+      type_es: "condado"
       latitude: 23.90235
       longitude: 120.6909167
       cities:
@@ -26529,18 +26871,22 @@
           longitude: 120.68516
     -
       name: "New Taipei"
+      native: "New Taipei"
       code: "NWT"
       iso3166_2: "TW-NWT"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 25.011997
       longitude: 121.4656619
       cities:
         []
     -
       name: "Penghu"
+      native: "Penghu"
       code: "PEN"
       iso3166_2: "TW-PEN"
       type: "county"
+      type_es: "condado"
       latitude: 23.569694
       longitude: 119.5664543
       cities:
@@ -26554,9 +26900,11 @@
           longitude: 119.61138
     -
       name: "Pingtung"
+      native: "Pingtung"
       code: "PIF"
       iso3166_2: "TW-PIF"
       type: "county"
+      type_es: "condado"
       latitude: 22.6628468
       longitude: 120.4915677
       cities:
@@ -26574,9 +26922,11 @@
           longitude: 120.61444
     -
       name: "Taichung"
+      native: "Taichung"
       code: "TXG"
       iso3166_2: "TW-TXG"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 24.163162
       longitude: 120.6478282
       cities:
@@ -26586,9 +26936,11 @@
           longitude: 120.6839
     -
       name: "Tainan"
+      native: "Tainan"
       code: "TNN"
       iso3166_2: "TW-TNN"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 22.9912348
       longitude: 120.184982
       cities:
@@ -26602,9 +26954,11 @@
           longitude: 120.46138
     -
       name: "Taipei"
+      native: "Taipei"
       code: "TPE"
       iso3166_2: "TW-TPE"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 25.0329694
       longitude: 121.5654177
       cities:
@@ -26622,9 +26976,11 @@
           longitude: 121.53185
     -
       name: "Taitung"
+      native: "Taitung"
       code: "TTT"
       iso3166_2: "TW-TTT"
       type: "county"
+      type_es: "condado"
       latitude: 22.7560447
       longitude: 121.1456538
       cities:
@@ -26634,9 +26990,11 @@
           longitude: 121.04833
     -
       name: "Taoyuan"
+      native: "Taoyuan"
       code: "TAO"
       iso3166_2: "TW-TAO"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 24.9936281
       longitude: 121.3009798
       cities:
@@ -26650,9 +27008,11 @@
           longitude: 121.24611
     -
       name: "Yilan"
+      native: "Yilan"
       code: "ILA"
       iso3166_2: "TW-ILA"
       type: "county"
+      type_es: "condado"
       latitude: 24.7302791
       longitude: 121.7631149
       cities:
@@ -26662,9 +27022,11 @@
           longitude: 121.63361
     -
       name: "Yunlin"
+      native: "Yunlin"
       code: "YUN"
       iso3166_2: "TW-YUN"
       type: "county"
+      type_es: "condado"
       latitude: 23.6990775
       longitude: 120.5245511
       cities:

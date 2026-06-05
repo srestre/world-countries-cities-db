@@ -12,16 +12,20 @@
   currency_symbol: "﷼"
   tld: ".ye"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 15
   longitude: 48
   emoji: "🇾🇪"
   states:
     -
       name: "Abyan"
+      native: "أبين"
       code: "AB"
       iso3166_2: "YE-AB"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 13.786202
       longitude: 46.141766
       cities:
@@ -79,9 +83,11 @@
           longitude: 45.38073
     -
       name: "Ad Dali'"
+      native: "الضالع"
       code: "DA"
       iso3166_2: "YE-DA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 13.7
       longitude: 44.73
       cities:
@@ -91,9 +97,11 @@
           longitude: 44.73
     -
       name: "Adan"
+      native: "عدن"
       code: "AD"
       iso3166_2: "YE-AD"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 12.833333
       longitude: 44.916667
       cities:
@@ -131,9 +139,11 @@
           longitude: 44.9784
     -
       name: "Al Bayda'"
+      native: "البيضاء"
       code: "BA"
       iso3166_2: "YE-BA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 14.34166
       longitude: 45.394422
       cities:
@@ -219,9 +229,11 @@
           longitude: 44.90596
     -
       name: "Al Hudaydah"
+      native: "الحديدة"
       code: "HU"
       iso3166_2: "YE-HU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 15.1159326
       longitude: 42.844785
       cities:
@@ -331,9 +343,11 @@
           longitude: 43.36841
     -
       name: "Al Jawf"
+      native: "الجوف"
       code: "JA"
       iso3166_2: "YE-JA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 16.689733
       longitude: 45.611556
       cities:
@@ -387,9 +401,11 @@
           longitude: 44.5042
     -
       name: "Al Mahrah"
+      native: "المهرة"
       code: "MR"
       iso3166_2: "YE-MR"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 17
       longitude: 51.5
       cities:
@@ -435,9 +451,11 @@
           longitude: 52.594
     -
       name: "Al Mahwit"
+      native: "المحويت"
       code: "MW"
       iso3166_2: "YE-MW"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 15.387151
       longitude: 43.566296
       cities:
@@ -479,9 +497,11 @@
           longitude: 43.84237
     -
       name: "Amanat Al Asimah"
+      native: "أمانة العاصمة"
       code: "SA"
       iso3166_2: "YE-SA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 15.35
       longitude: 44.2
       cities:
@@ -491,9 +511,11 @@
           longitude: 44.20667
     -
       name: "Amran"
+      native: "عمران"
       code: "AM"
       iso3166_2: "YE-AM"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 16.230218
       longitude: 43.909834
       cities:
@@ -579,9 +601,11 @@
           longitude: 43.8252
     -
       name: "Dhamar"
+      native: "ذمار"
       code: "DH"
       iso3166_2: "YE-DH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 14.7384268
       longitude: 44.2709597
       cities:
@@ -639,9 +663,11 @@
           longitude: 43.6325
     -
       name: "Hadhramaut"
+      native: "حضرموت"
       code: "HD"
       iso3166_2: "YE-HD"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 16.7323022
       longitude: 48.6084967
       cities:
@@ -779,9 +805,11 @@
           longitude: 47.7033
     -
       name: "Hajjah"
+      native: "حجة"
       code: "HJ"
       iso3166_2: "YE-HJ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 16
       longitude: 43.25
       cities:
@@ -911,9 +939,11 @@
           longitude: 43.37555
     -
       name: "Ibb"
+      native: "إب"
       code: "IB"
       iso3166_2: "YE-IB"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 14.1419291
       longitude: 44.1389849
       cities:
@@ -999,9 +1029,11 @@
           longitude: 44.31176
     -
       name: "Lahij"
+      native: "لحج"
       code: "LA"
       iso3166_2: "YE-LA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 13.0577821
       longitude: 44.8836135
       cities:
@@ -1075,9 +1107,11 @@
           longitude: 45.1305
     -
       name: "Ma'rib"
+      native: "مأرب"
       code: "MA"
       iso3166_2: "YE-MA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 15.4578788
       longitude: 45.3230242
       cities:
@@ -1139,9 +1173,11 @@
           longitude: 45.0115
     -
       name: "Raymah"
+      native: "ريمة"
       code: "RA"
       iso3166_2: "YE-RA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 14.6875552
       longitude: 43.6648264
       cities:
@@ -1171,9 +1207,11 @@
           longitude: 43.7607
     -
       name: "Saada"
+      native: "صعدة"
       code: "SD"
       iso3166_2: "YE-SD"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 16.917332
       longitude: 43.759997
       cities:
@@ -1247,9 +1285,11 @@
           longitude: 43.1871
     -
       name: "Sana'a"
+      native: "صنعاء"
       code: "SN"
       iso3166_2: "YE-SN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 15.260691
       longitude: 44.424895
       cities:
@@ -1331,9 +1371,11 @@
           longitude: 44.32442
     -
       name: "Shabwah"
+      native: "شبوة"
       code: "SH"
       iso3166_2: "YE-SH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 14.9274109
       longitude: 46.6084967
       cities:
@@ -1419,9 +1461,11 @@
           longitude: 46.0274
     -
       name: "Socotra"
+      native: "سقطرى"
       code: "SU"
       iso3166_2: "YE-SU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 12.5
       longitude: 53.833333
       cities:
@@ -1443,9 +1487,11 @@
           longitude: 53.58671
     -
       name: "Ta'izz"
+      native: "تعز"
       code: "TA"
       iso3166_2: "YE-TA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 13.5775886
       longitude: 44.0177989
       cities:

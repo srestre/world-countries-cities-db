@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(36, 'Burundi', 'BI', 'BDI', 'Africa', 'Eastern Africa', 'Bujumbura', 'BIF', -3.5, 30, '🇧🇮');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(36, 'Burundi', 'Burundi', 'BI', 'BDI', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Bujumbura', 'BIF', -3.5, 30, '🇧🇮');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3196, 'Bubanza', 36, 'BI', 'BB', 'province', -3.1112787, 29.3828358),
-(3198, 'Bujumbura Mairie', 36, 'BI', 'BM', 'province', -3.3493959, 29.3631843),
-(3200, 'Bujumbura Rural', 36, 'BI', 'BL', 'province', -3.4759817, 29.4535702),
-(3202, 'Bururi', 36, 'BI', 'BR', 'province', -3.8581592, 29.584379),
-(3201, 'Cankuzo', 36, 'BI', 'CA', 'province', -3.1450876, 30.58987),
-(3190, 'Cibitoke', 36, 'BI', 'CI', 'province', -2.8477341, 29.261662),
-(3197, 'Gitega', 36, 'BI', 'GI', 'province', -3.5382336, 29.910701),
-(3194, 'Karuzi', 36, 'BI', 'KR', 'province', -3.1255377, 30.0978347),
-(3192, 'Kayanza', 36, 'BI', 'KY', 'province', -3.0214816, 29.6458034),
-(3195, 'Kirundo', 36, 'BI', 'KI', 'province', -2.5853872, 30.0933449),
-(3188, 'Makamba', 36, 'BI', 'MA', 'province', -4.1978315, 29.8073996),
-(3193, 'Muramvya', 36, 'BI', 'MU', 'province', -3.2751181, 29.6307855),
-(3186, 'Muyinga', 36, 'BI', 'MY', 'province', -2.7335985, 30.3171441),
-(3187, 'Mwaro', 36, 'BI', 'MW', 'province', -3.4650043, 29.6708508),
-(3199, 'Ngozi', 36, 'BI', 'NG', 'province', -2.8776895, 29.8994986),
-(3185, 'Rumonge', 36, 'BI', 'RM', 'province', -3.9754049, 29.4388014),
-(3189, 'Rutana', 36, 'BI', 'RT', 'province', -3.8618714, 30.0676979),
-(3191, 'Ruyigi', 36, 'BI', 'RY', 'province', -3.4733471, 30.2501278);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3196, 'Bubanza', 'Bubanza', 36, 'BI', 'BB', 'province', 'provincia', -3.1112787, 29.3828358),
+(3198, 'Bujumbura Mairie', 'Bujumbura Mairie', 36, 'BI', 'BM', 'province', 'provincia', -3.3493959, 29.3631843),
+(3200, 'Bujumbura Rural', 'Rural de Bujumbura', 36, 'BI', 'BL', 'province', 'provincia', -3.4759817, 29.4535702),
+(3202, 'Bururi', 'Bururi', 36, 'BI', 'BR', 'province', 'provincia', -3.8581592, 29.584379),
+(3201, 'Cankuzo', 'Faire du chauffeur', 36, 'BI', 'CA', 'province', 'provincia', -3.1450876, 30.58987),
+(3190, 'Cibitoke', 'Cibitoke', 36, 'BI', 'CI', 'province', 'provincia', -2.8477341, 29.261662),
+(3197, 'Gitega', 'Gitega', 36, 'BI', 'GI', 'province', 'provincia', -3.5382336, 29.910701),
+(3194, 'Karuzi', 'Karuzi', 36, 'BI', 'KR', 'province', 'provincia', -3.1255377, 30.0978347),
+(3192, 'Kayanza', 'Kayanza', 36, 'BI', 'KY', 'province', 'provincia', -3.0214816, 29.6458034),
+(3195, 'Kirundo', 'Kirundo', 36, 'BI', 'KI', 'province', 'provincia', -2.5853872, 30.0933449),
+(3188, 'Makamba', 'Makamba', 36, 'BI', 'MA', 'province', 'provincia', -4.1978315, 29.8073996),
+(3193, 'Muramvya', 'Muramvya', 36, 'BI', 'MU', 'province', 'provincia', -3.2751181, 29.6307855),
+(3186, 'Muyinga', 'Muyinga', 36, 'BI', 'MY', 'province', 'provincia', -2.7335985, 30.3171441),
+(3187, 'Mwaro', 'Mwaro', 36, 'BI', 'MW', 'province', 'provincia', -3.4650043, 29.6708508),
+(3199, 'Ngozi', 'Ngozi', 36, 'BI', 'NG', 'province', 'provincia', -2.8776895, 29.8994986),
+(3185, 'Rumonge', 'Rumange', 36, 'BI', 'RM', 'province', 'provincia', -3.9754049, 29.4388014),
+(3189, 'Rutana', 'Rutana', 36, 'BI', 'RT', 'province', 'provincia', -3.8618714, 30.0676979),
+(3191, 'Ruyigi', 'Ruyigi', 36, 'BI', 'RY', 'province', 'provincia', -3.4733471, 30.2501278);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (9762, 'Bubanza', 3196, 36, -3.0804, 29.391),

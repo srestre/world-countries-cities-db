@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".ec"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -2
   longitude: -77.5
   emoji: "🇪🇨"
   states:
     -
       name: "Azuay"
+      native: "Azuay"
       code: "A"
       iso3166_2: "EC-A"
       type: "province"
+      type_es: "provincia"
       latitude: -3.0524451
       longitude: -79.2395135
       cities:
@@ -51,9 +55,11 @@
           longitude: -78.85
     -
       name: "Bolívar"
+      native: "Bolívar"
       code: "B"
       iso3166_2: "EC-B"
       type: "province"
+      type_es: "provincia"
       latitude: -1.5392733
       longitude: -79.0816505
       cities:
@@ -67,9 +73,11 @@
           longitude: -79.04311
     -
       name: "Cañar"
+      native: "Cañar"
       code: "F"
       iso3166_2: "EC-F"
       type: "province"
+      type_es: "provincia"
       latitude: -2.574484
       longitude: -78.9804678
       cities:
@@ -87,9 +95,11 @@
           longitude: -79.33977
     -
       name: "Carchi"
+      native: "Carchi"
       code: "C"
       iso3166_2: "EC-C"
       type: "province"
+      type_es: "provincia"
       latitude: 0.8375163
       longitude: -78.2075154
       cities:
@@ -107,9 +117,11 @@
           longitude: -77.71727
     -
       name: "Chimborazo"
+      native: "Chimborazo"
       code: "H"
       iso3166_2: "EC-H"
       type: "province"
+      type_es: "provincia"
       latitude: -1.4680988
       longitude: -78.8155589
       cities:
@@ -127,9 +139,11 @@
           longitude: -78.64712
     -
       name: "Cotopaxi"
+      native: "Cotopaxi"
       code: "X"
       iso3166_2: "EC-X"
       type: "province"
+      type_es: "provincia"
       latitude: -0.8268521
       longitude: -78.8937757
       cities:
@@ -155,9 +169,11 @@
           longitude: -78.667
     -
       name: "El Oro"
+      native: "El Oro"
       code: "O"
       iso3166_2: "EC-O"
       type: "province"
+      type_es: "provincia"
       latitude: -3.5311093
       longitude: -79.8333234
       cities:
@@ -195,9 +211,11 @@
           longitude: -79.61174
     -
       name: "Esmeraldas"
+      native: "Esmeraldas"
       code: "E"
       iso3166_2: "EC-E"
       type: "province"
+      type_es: "provincia"
       latitude: 0.9681789
       longitude: -79.6517202
       cities:
@@ -231,9 +249,11 @@
           longitude: -78.98306
     -
       name: "Galápagos"
+      native: "Galápagos"
       code: "W"
       iso3166_2: "EC-W"
       type: "province"
+      type_es: "provincia"
       latitude: -0.0606899
       longitude: -90.673898
       cities:
@@ -251,9 +271,11 @@
           longitude: -90.96654
     -
       name: "Guayas"
+      native: "Guayas"
       code: "G"
       iso3166_2: "EC-G"
       type: "province"
+      type_es: "provincia"
       latitude: -2
       longitude: -80
       cities:
@@ -335,9 +357,11 @@
           longitude: -79.69485
     -
       name: "Imbabura"
+      native: "Imbabura"
       code: "I"
       iso3166_2: "EC-I"
       type: "province"
+      type_es: "provincia"
       latitude: 0.2542902
       longitude: -78.1803913
       cities:
@@ -363,9 +387,11 @@
           longitude: -77.94068
     -
       name: "Loja"
+      native: "Almacenar"
       code: "L"
       iso3166_2: "EC-L"
       type: "province"
+      type_es: "provincia"
       latitude: -3.99313
       longitude: -79.20422
       cities:
@@ -375,9 +401,11 @@
           longitude: -79.20422
     -
       name: "Los Ríos"
+      native: "Los Ríos"
       code: "R"
       iso3166_2: "EC-R"
       type: "province"
+      type_es: "provincia"
       latitude: -1.4941273
       longitude: -79.5542485
       cities:
@@ -411,9 +439,11 @@
           longitude: -79.75191
     -
       name: "Manabí"
+      native: "Manabí"
       code: "M"
       iso3166_2: "EC-M"
       type: "province"
+      type_es: "provincia"
       latitude: -0.7588025
       longitude: -80.0612131
       cities:
@@ -483,9 +513,11 @@
           longitude: -80.23473
     -
       name: "Morona-Santiago"
+      native: "Morona-Santiago"
       code: "S"
       iso3166_2: "EC-S"
       type: "province"
+      type_es: "provincia"
       latitude: -2.6232969
       longitude: -78.0048106
       cities:
@@ -507,9 +539,11 @@
           longitude: -78.17171
     -
       name: "Napo"
+      native: "NAPO"
       code: "N"
       iso3166_2: "EC-N"
       type: "province"
+      type_es: "provincia"
       latitude: -0.6081965
       longitude: -77.9520341
       cities:
@@ -523,9 +557,11 @@
           longitude: -77.81286
     -
       name: "Orellana"
+      native: "Orellana"
       code: "D"
       iso3166_2: "EC-D"
       type: "province"
+      type_es: "provincia"
       latitude: -0.78618
       longitude: -76.4803184
       cities:
@@ -547,9 +583,11 @@
           longitude: -76.98719
     -
       name: "Pastaza"
+      native: "Pastaza"
       code: "Y"
       iso3166_2: "EC-Y"
       type: "province"
+      type_es: "provincia"
       latitude: -1.916667
       longitude: -77
       cities:
@@ -559,9 +597,11 @@
           longitude: -78.00257
     -
       name: "Pichincha"
+      native: "Pichincha"
       code: "P"
       iso3166_2: "EC-P"
       type: "province"
+      type_es: "provincia"
       latitude: -0.0584893
       longitude: -78.3284371
       cities:
@@ -583,9 +623,11 @@
           longitude: -78.45217
     -
       name: "Santa Elena"
+      native: "Santa Elena"
       code: "SE"
       iso3166_2: "EC-SE"
       type: "province"
+      type_es: "provincia"
       latitude: -2.2267105
       longitude: -80.859499
       cities:
@@ -603,9 +645,11 @@
           longitude: -80.85873
     -
       name: "Santo Domingo de los Tsáchilas"
+      native: "Santo Domingo de los Tsáchilas"
       code: "SD"
       iso3166_2: "EC-SD"
       type: "province"
+      type_es: "provincia"
       latitude: -0.2546212
       longitude: -79.1686724
       cities:
@@ -615,9 +659,11 @@
           longitude: -79.17536
     -
       name: "Sucumbíos"
+      native: "Sucumbíos"
       code: "U"
       iso3166_2: "EC-U"
       type: "province"
+      type_es: "provincia"
       latitude: -0.039138
       longitude: -76.5119678
       cities:
@@ -627,9 +673,11 @@
           longitude: -76.89528
     -
       name: "Tungurahua"
+      native: "Tungurahua"
       code: "T"
       iso3166_2: "EC-T"
       type: "province"
+      type_es: "provincia"
       latitude: -1.2765895
       longitude: -78.4754667
       cities:
@@ -651,9 +699,11 @@
           longitude: -78.54676
     -
       name: "Zamora Chinchipe"
+      native: "Zamora Chinchipe"
       code: "Z"
       iso3166_2: "EC-Z"
       type: "province"
+      type_es: "provincia"
       latitude: -4.0620183
       longitude: -78.7751588
       cities:

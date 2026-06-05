@@ -1,10 +1,10 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-SM,San Marino,Europe,Southern Europe,01,Acquaviva,Acquaviva,43.94593,12.4185
-SM,San Marino,Europe,Southern Europe,06,Borgo Maggiore,Borgo Maggiore,43.94193,12.44738
-SM,San Marino,Europe,Southern Europe,02,Chiesanuova,Poggio di Chiesanuova,43.90451,12.42142
-SM,San Marino,Europe,Southern Europe,03,Domagnano,Domagnano,43.94961,12.46828
-SM,San Marino,Europe,Southern Europe,04,Faetano,Faetano,43.92831,12.49798
-SM,San Marino,Europe,Southern Europe,05,Fiorentino,Fiorentino,43.91001,12.45738
-SM,San Marino,Europe,Southern Europe,08,Montegiardino,Monte Giardino,43.90878,12.48201
-SM,San Marino,Europe,Southern Europe,07,San Marino,San Marino,43.93667,12.44639
-SM,San Marino,Europe,Southern Europe,09,Serravalle,Serravalle,43.96897,12.48167
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,01,Acquaviva,municipality,municipio,Acquaviva,43.94593,12.4185
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,06,Borgo Maggiore,municipality,municipio,Borgo Maggiore,43.94193,12.44738
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,02,Chiesanuova,municipality,municipio,Poggio di Chiesanuova,43.90451,12.42142
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,03,Domagnano,municipality,municipio,Domagnano,43.94961,12.46828
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,04,Faetano,municipality,municipio,Faetano,43.92831,12.49798
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,05,Fiorentino,municipality,municipio,Fiorentino,43.91001,12.45738
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,08,Montegiardino,municipality,municipio,Monte Giardino,43.90878,12.48201
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,07,San Marino,municipality,municipio,San Marino,43.93667,12.44639
+SM,San Marino,San Marino,Europe,Europa,Southern Europe,Europa del Sur,09,Serravalle,municipality,municipio,Serravalle,43.96897,12.48167

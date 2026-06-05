@@ -1,5 +1,12 @@
 Open Database License (ODbL) v1.0
 
+NOTE ON DUAL LICENSING:
+  - This license (ODbL v1.0) applies to the DATA in this repository:
+    /countries, /regions, /subregions, /bundles, /flat-cities,
+    /large-countries, /latam and /metadata.
+  - The CODE in /scripts is licensed separately under the MIT License.
+    See the LICENSE-CODE file.
+
 This repository is a derivative database. The source data comes from:
   - dr5hn/countries-states-cities-database (Darshan Gada) - the world data
   - Yerikmiller/Countries-States-Cities-JSON (a dr5hn derivative) - the /latam section

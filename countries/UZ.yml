@@ -12,16 +12,20 @@
   currency_symbol: "лв"
   tld: ".uz"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   latitude: 41
   longitude: 64
   emoji: "🇺🇿"
   states:
     -
       name: "Andijan"
+      native: "Andijan"
       code: "AN"
       iso3166_2: "UZ-AN"
       type: "region"
+      type_es: "región"
       latitude: 40.7727796
       longitude: 72.341966
       cities:
@@ -111,9 +115,11 @@
           longitude: 72.56002
     -
       name: "Bukhara"
+      native: "Buxoro"
       code: "BU"
       iso3166_2: "UZ-BU"
       type: "region"
+      type_es: "región"
       latitude: 40.229366
       longitude: 63.5470584
       cities:
@@ -175,9 +181,11 @@
           longitude: 64.5
     -
       name: "Fergana"
+      native: "Farg'ona"
       code: "FA"
       iso3166_2: "UZ-FA"
       type: "region"
+      type_es: "región"
       latitude: 40.5
       longitude: 71.25
       cities:
@@ -243,9 +251,11 @@
           longitude: 70.81556
     -
       name: "Jizzakh"
+      native: "Jizzakh"
       code: "JI"
       iso3166_2: "UZ-JI"
       type: "region"
+      type_es: "región"
       latitude: 40.3319095
       longitude: 67.4551198
       cities:
@@ -275,9 +285,11 @@
           longitude: 68.39583
     -
       name: "Karakalpakstan"
+      native: "Qoraqalpog'iston"
       code: "QR"
       iso3166_2: "UZ-QR"
       type: "republic"
+      type_es: "república"
       latitude: 43.7738841
       longitude: 57.6234617
       cities:
@@ -315,9 +327,11 @@
           longitude: 58.90372
     -
       name: "Namangan"
+      native: "Namangan"
       code: "NG"
       iso3166_2: "UZ-NG"
       type: "region"
+      type_es: "región"
       latitude: 40.9555061
       longitude: 71.1097749
       cities:
@@ -367,9 +381,11 @@
           longitude: 71.72385
     -
       name: "Navoiy"
+      native: "Navoiy"
       code: "NW"
       iso3166_2: "UZ-NW"
       type: "region"
+      type_es: "región"
       latitude: 42
       longitude: 64
       cities:
@@ -391,9 +407,11 @@
           longitude: 65.96095
     -
       name: "Qashqadaryo"
+      native: "Qashqadaryo"
       code: "QA"
       iso3166_2: "UZ-QA"
       type: "region"
+      type_es: "región"
       latitude: 39.0424974
       longitude: 66.5775276
       cities:
@@ -435,9 +453,11 @@
           longitude: 66.83417
     -
       name: "Samarqand"
+      native: "Samarqand"
       code: "SA"
       iso3166_2: "UZ-SA"
       type: "region"
+      type_es: "región"
       latitude: 39.6550017
       longitude: 66.9756954
       cities:
@@ -491,9 +511,11 @@
           longitude: 67.24306
     -
       name: "Sirdaryo"
+      native: "Sirdaryo"
       code: "SI"
       iso3166_2: "UZ-SI"
       type: "region"
+      type_es: "región"
       latitude: 40.8029326
       longitude: 68.8242841
       cities:
@@ -511,9 +533,11 @@
           longitude: 68.8225
     -
       name: "Surxondaryo"
+      native: "Surxondaryo"
       code: "SU"
       iso3166_2: "UZ-SU"
       type: "region"
+      type_es: "región"
       latitude: 37.9520843
       longitude: 67.1265996
       cities:
@@ -535,9 +559,11 @@
           longitude: 67.27833
     -
       name: "Tashkent"
+      native: "Tashkent"
       code: "TK"
       iso3166_2: "UZ-TK"
       type: "city"
+      type_es: "ciudad"
       latitude: 41.3123363
       longitude: 69.2787079
       cities:
@@ -551,9 +577,11 @@
           longitude: 69.21627
     -
       name: "Tashkent"
+      native: "Toshkent"
       code: "TO"
       iso3166_2: "UZ-TO"
       type: "region"
+      type_es: "región"
       latitude: 41.3123363
       longitude: 69.2787079
       cities:
@@ -635,9 +663,11 @@
           longitude: 68.9
     -
       name: "Xorazm"
+      native: "Xorazm"
       code: "XO"
       iso3166_2: "UZ-XO"
       type: "region"
+      type_es: "región"
       latitude: 41.2902835
       longitude: 60.5428537
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "₨"
   tld: ".np"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 28
   longitude: 84
   emoji: "🇳🇵"
   states:
     -
       name: "Bagmati"
+      native: "बागमती"
       code: "P3"
       iso3166_2: "NP-P3"
       type: "province"
+      type_es: "provincia"
       latitude: 27.4845108
       longitude: 85.2929758
       cities:
@@ -79,9 +83,11 @@
           longitude: 85.4236067
     -
       name: "Gandaki"
+      native: "गण्डकी"
       code: "P4"
       iso3166_2: "NP-P4"
       type: "province"
+      type_es: "provincia"
       latitude: 28.3740324
       longitude: 84.0513324
       cities:
@@ -131,9 +137,11 @@
           longitude: 83.9179311
     -
       name: "Karnali"
+      native: "कर्णाली"
       code: "P6"
       iso3166_2: "NP-P6"
       type: "province"
+      type_es: "provincia"
       latitude: 29.20272
       longitude: 81.6145214
       cities:
@@ -179,9 +187,11 @@
           longitude: 82.1127309
     -
       name: "Koshi"
+      native: "कोशी"
       code: "P1"
       iso3166_2: "NP-P1"
       type: "province"
+      type_es: "provincia"
       latitude: 26.5602871
       longitude: 87.0066582
       cities:
@@ -243,9 +253,11 @@
           longitude: 86.0026464
     -
       name: "Lumbini"
+      native: "लुम्बिनी"
       code: "P5"
       iso3166_2: "NP-P5"
       type: "province"
+      type_es: "provincia"
       latitude: 28.0654626
       longitude: 82.535642
       cities:
@@ -299,9 +311,11 @@
           longitude: 83.0893067
     -
       name: "Madhesh"
+      native: "मधेश"
       code: "P2"
       iso3166_2: "NP-P2"
       type: "province"
+      type_es: "provincia"
       latitude: 26.9066675
       longitude: 85.7069635
       cities:
@@ -339,9 +353,11 @@
           longitude: 86.0130449
     -
       name: "Sudurpashchim"
+      native: "सुदर्गेपचिम"
       code: "P7"
       iso3166_2: "NP-P7"
       type: "province"
+      type_es: "provincia"
       latitude: 29.4333933
       longitude: 81.0139775
       cities:

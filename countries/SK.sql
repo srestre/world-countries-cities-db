@@ -1,29 +1,29 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(200, 'Slovakia', 'SK', 'SVK', 'Europe', 'Eastern Europe', 'Bratislava', 'EUR', 48.66666666, 19.5, '🇸🇰');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(200, 'Slovakia', 'República Eslovaca', 'SK', 'SVK', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Bratislava', 'EUR', 48.66666666, 19.5, '🇸🇰');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4352, 'Banská Bystrica', 200, 'SK', 'BC', 'region', 48.7383895, 19.1585805),
-(4356, 'Bratislava', 200, 'SK', 'BL', 'region', 48.1557669, 17.1314203),
-(4353, 'Košice', 200, 'SK', 'KI', 'region', 48.7172272, 21.2496774),
-(4357, 'Nitra', 200, 'SK', 'NI', 'region', 48.31295, 18.0894593),
-(4354, 'Prešov', 200, 'SK', 'PV', 'region', 49.1117685, 21.1875978),
-(4358, 'Trenčín', 200, 'SK', 'TC', 'region', 48.913803, 18.0931197),
-(4355, 'Trnava', 200, 'SK', 'TA', 'region', 48.3767652, 17.5858175),
-(4359, 'Žilina', 200, 'SK', 'ZI', 'region', 49.1775455, 19.205818);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4352, 'Banská Bystrica', 'Banská Bystrica', 200, 'SK', 'BC', 'region', 'región', 48.7383895, 19.1585805),
+(4356, 'Bratislava', 'Bratislava', 200, 'SK', 'BL', 'region', 'región', 48.1557669, 17.1314203),
+(4353, 'Košice', 'Košice', 200, 'SK', 'KI', 'region', 'región', 48.7172272, 21.2496774),
+(4357, 'Nitra', 'Nitra', 200, 'SK', 'NI', 'region', 'región', 48.31295, 18.0894593),
+(4354, 'Prešov', 'Prešov', 200, 'SK', 'PV', 'region', 'región', 49.1117685, 21.1875978),
+(4358, 'Trenčín', 'Trenčín', 200, 'SK', 'TC', 'region', 'región', 48.913803, 18.0931197),
+(4355, 'Trnava', 'Trnava', 200, 'SK', 'TA', 'region', 'región', 48.3767652, 17.5858175),
+(4359, 'Žilina', 'Žilina', 200, 'SK', 'ZI', 'region', 'región', 49.1775455, 19.205818);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (104370, 'Banská Bystrica', 4352, 200, 48.73946, 19.15349),

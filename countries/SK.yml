@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".sk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 48.66666666
   longitude: 19.5
   emoji: "🇸🇰"
   states:
     -
       name: "Banská Bystrica"
+      native: "Banská Bystrica"
       code: "BC"
       iso3166_2: "SK-BC"
       type: "region"
+      type_es: "región"
       latitude: 48.7383895
       longitude: 19.1585805
       cities:
@@ -167,9 +171,11 @@
           longitude: 19.15324
     -
       name: "Bratislava"
+      native: "Bratislava"
       code: "BL"
       iso3166_2: "SK-BL"
       type: "region"
+      type_es: "región"
       latitude: 48.1557669
       longitude: 17.1314203
       cities:
@@ -255,9 +261,11 @@
           longitude: 17.29042
     -
       name: "Košice"
+      native: "Košice"
       code: "KI"
       iso3166_2: "SK-KI"
       type: "region"
+      type_es: "región"
       latitude: 48.7172272
       longitude: 21.2496774
       cities:
@@ -375,9 +383,11 @@
           longitude: 20.7917
     -
       name: "Nitra"
+      native: "Nitra"
       code: "NI"
       iso3166_2: "SK-NI"
       type: "region"
+      type_es: "región"
       latitude: 48.31295
       longitude: 18.0894593
       cities:
@@ -475,9 +485,11 @@
           longitude: 18.40063
     -
       name: "Prešov"
+      native: "Prešov"
       code: "PV"
       iso3166_2: "SK-PV"
       type: "region"
+      type_es: "región"
       latitude: 49.1117685
       longitude: 21.1875978
       cities:
@@ -643,9 +655,11 @@
           longitude: 20.26239
     -
       name: "Trenčín"
+      native: "Trenčín"
       code: "TC"
       iso3166_2: "SK-TC"
       type: "region"
+      type_es: "región"
       latitude: 48.913803
       longitude: 18.0931197
       cities:
@@ -767,9 +781,11 @@
           longitude: 18.04436
     -
       name: "Trnava"
+      native: "Trnava"
       code: "TA"
       iso3166_2: "SK-TA"
       type: "region"
+      type_es: "región"
       latitude: 48.3767652
       longitude: 17.5858175
       cities:
@@ -867,9 +883,11 @@
           longitude: 17.7226
     -
       name: "Žilina"
+      native: "Žilina"
       code: "ZI"
       iso3166_2: "SK-ZI"
       type: "region"
+      type_es: "región"
       latitude: 49.1775455
       longitude: 19.205818
       cities:

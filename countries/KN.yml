@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".kn"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 17.33333333
   longitude: -62.75
   emoji: "🇰🇳"
   states:
     -
       name: "Christ Church Nichola Town"
+      native: "Christ Church Nichola Town"
       code: "01"
       iso3166_2: "KN-01"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3604812
       longitude: -62.7617837
       cities:
@@ -31,18 +35,22 @@
           longitude: -62.75318
     -
       name: "Nevis"
+      native: "Nevis"
       code: "N"
       iso3166_2: "KN-N"
       type: "state"
+      type_es: "estado"
       latitude: 17.1553558
       longitude: -62.5796026
       cities:
         []
     -
       name: "Saint Anne Sandy Point"
+      native: "Saint Anne Sandy Point"
       code: "02"
       iso3166_2: "KN-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3725333
       longitude: -62.8441133
       cities:
@@ -52,18 +60,22 @@
           longitude: -62.84858
     -
       name: "Saint George Basseterre"
+      native: "Saint George Basseterre"
       code: "03"
       iso3166_2: "KN-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.2391544
       longitude: -62.6424082
       cities:
         []
     -
       name: "Saint George Gingerland"
+      native: "Saint George Gingerland"
       code: "04"
       iso3166_2: "KN-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1257759
       longitude: -62.5619811
       cities:
@@ -73,9 +85,11 @@
           longitude: -62.57267
     -
       name: "Saint James Windward"
+      native: "Saint James Windward"
       code: "05"
       iso3166_2: "KN-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1769633
       longitude: -62.5796026
       cities:
@@ -85,9 +99,11 @@
           longitude: -62.58333
     -
       name: "Saint John Capisterre"
+      native: "Saint John Capisterre"
       code: "06"
       iso3166_2: "KN-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3872567
       longitude: -62.7992132
       cities:
@@ -97,9 +113,11 @@
           longitude: -62.8139
     -
       name: "Saint John Figtree"
+      native: "Saint John Figtree"
       code: "07"
       iso3166_2: "KN-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1155748
       longitude: -62.6031004
       cities:
@@ -109,18 +127,22 @@
           longitude: -62.60265
     -
       name: "Saint Kitts"
+      native: "Saint Kitts"
       code: "K"
       iso3166_2: "KN-K"
       type: "state"
+      type_es: "estado"
       latitude: 17.3156929
       longitude: -62.7446806
       cities:
         []
     -
       name: "Saint Mary Cayon"
+      native: "Saint Mary Cayon"
       code: "08"
       iso3166_2: "KN-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3462071
       longitude: -62.7382671
       cities:
@@ -130,9 +152,11 @@
           longitude: -62.73333
     -
       name: "Saint Paul Capisterre"
+      native: "Saint Paul Capisterre"
       code: "09"
       iso3166_2: "KN-09"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3949059
       longitude: -62.835829
       cities:
@@ -142,9 +166,11 @@
           longitude: -62.83562
     -
       name: "Saint Paul Charlestown"
+      native: "Saint Paul Charlestown"
       code: "10"
       iso3166_2: "KN-10"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1346297
       longitude: -62.6133816
       cities:
@@ -154,9 +180,11 @@
           longitude: -62.61667
     -
       name: "Saint Peter Basseterre"
+      native: "Saint Peter Basseterre"
       code: "11"
       iso3166_2: "KN-11"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3255653
       longitude: -62.7217779
       cities:
@@ -166,9 +194,11 @@
           longitude: -62.72914
     -
       name: "Saint Thomas Lowland"
+      native: "Saint Thomas Lowland"
       code: "12"
       iso3166_2: "KN-12"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1650513
       longitude: -62.6089753
       cities:
@@ -178,9 +208,11 @@
           longitude: -62.61667
     -
       name: "Saint Thomas Middle Island"
+      native: "Saint Thomas Middle Island"
       code: "13"
       iso3166_2: "KN-13"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3348813
       longitude: -62.8088251
       cities:
@@ -190,9 +222,11 @@
           longitude: -62.81055
     -
       name: "Trinity Palmetto Point"
+      native: "Trinity Palmetto Point"
       code: "15"
       iso3166_2: "KN-15"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.3145143
       longitude: -62.7685145
       cities:

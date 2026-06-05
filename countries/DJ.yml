@@ -12,16 +12,20 @@
   currency_symbol: "Fdj"
   tld: ".dj"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: 11.5
   longitude: 43
   emoji: "🇩🇯"
   states:
     -
       name: "Ali Sabieh"
+      native: "Autrement l'a trouvé"
       code: "AS"
       iso3166_2: "DJ-AS"
       type: "region"
+      type_es: "región"
       latitude: 11.2133809
       longitude: 42.8699249
       cities:
@@ -39,9 +43,11 @@
           longitude: 42.92944
     -
       name: "Arta"
+      native: "Art"
       code: "AR"
       iso3166_2: "DJ-AR"
       type: "region"
+      type_es: "región"
       latitude: 11.5219459
       longitude: 42.8393629
       cities:
@@ -51,9 +57,11 @@
           longitude: 42.85194
     -
       name: "Dikhil"
+      native: "Dikhil"
       code: "DI"
       iso3166_2: "DJ-DI"
       type: "region"
+      type_es: "región"
       latitude: 11.1054336
       longitude: 42.3704744
       cities:
@@ -67,9 +75,11 @@
           longitude: 41.83611
     -
       name: "Djibouti"
+      native: "Djibouti"
       code: "DJ"
       iso3166_2: "DJ-DJ"
       type: "city"
+      type_es: "ciudad"
       latitude: 11.8145966
       longitude: 42.8453061
       cities:
@@ -83,9 +93,11 @@
           longitude: 43.25278
     -
       name: "Obock"
+      native: "Obosek"
       code: "OB"
       iso3166_2: "DJ-OB"
       type: "region"
+      type_es: "región"
       latitude: 12.2111051
       longitude: 43.1685809
       cities:
@@ -99,9 +111,11 @@
           longitude: 43.28835
     -
       name: "Tadjourah"
+      native: "Tadamand"
       code: "TA"
       iso3166_2: "DJ-TA"
       type: "region"
+      type_es: "región"
       latitude: 12.0358121
       longitude: 42.5174505
       cities:

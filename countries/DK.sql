@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(59, 'Denmark', 'DK', 'DNK', 'Europe', 'Northern Europe', 'Copenhagen', 'DKK', 56, 10, '🇩🇰');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(59, 'Denmark', 'Dinamarca', 'DK', 'DNK', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Copenhagen', 'DKK', 56, 10, '🇩🇰');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1531, 'Central Denmark', 59, 'DK', '82', 'region', 56.2356483, 9.234625),
-(1530, 'Denmark', 59, 'DK', '84', 'region', 55.670249, 10.3333283),
-(1532, 'North Denmark', 59, 'DK', '81', 'region', 56.8152793, 9.7273308),
-(1529, 'Southern Denmark', 59, 'DK', '83', 'region', 55.3784263, 9.1318064),
-(1528, 'Zealand', 59, 'DK', '85', 'region', 55.5455979, 11.6973741);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1531, 'Central Denmark', 'Central Danmark', 59, 'DK', '82', 'region', 'región', 56.2356483, 9.234625),
+(1530, 'Denmark', 'Danmark', 59, 'DK', '84', 'region', 'región', 55.670249, 10.3333283),
+(1532, 'North Denmark', 'North Danmark', 59, 'DK', '81', 'region', 'región', 56.8152793, 9.7273308),
+(1529, 'Southern Denmark', 'Sydlige Danmark', 59, 'DK', '83', 'region', 'región', 55.3784263, 9.1318064),
+(1528, 'Zealand', 'Zealand', 59, 'DK', '85', 'region', 'región', 55.5455979, 11.6973741);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (30993, 'Aarhus', 1531, 59, 56.15674, 10.21076),

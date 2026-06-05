@@ -12,61 +12,75 @@
   currency_symbol: "$"
   tld: ".tc"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 21.75
   longitude: -71.58333333
   emoji: "🇹🇨"
   states:
     -
       name: "Grand Turk"
+      native: "Grand Turk"
       code: "05"
       iso3166_2: "TC-05"
       type: "district"
+      type_es: "distrito"
       latitude: 21.467964
       longitude: -71.1387218
       cities:
         []
     -
       name: "Middle Caicos"
+      native: "Middle Caicos"
       code: "03"
       iso3166_2: "TC-03"
       type: "district"
+      type_es: "distrito"
       latitude: 21.795955
       longitude: -71.7602595
       cities:
         []
     -
       name: "North Caicos"
+      native: "North Caicos"
       code: "02"
       iso3166_2: "TC-02"
       type: "district"
+      type_es: "distrito"
       latitude: 21.8909119
       longitude: -71.9505749
       cities:
         []
     -
       name: "Providenciales"
+      native: "Providenciales"
       code: "01"
       iso3166_2: "TC-01"
       type: "district"
+      type_es: "distrito"
       latitude: 21.8020614
       longitude: -72.3004456
       cities:
         []
     -
       name: "Salt Cay"
+      native: "Salt Cay"
       code: "06"
       iso3166_2: "TC-06"
       type: "district"
+      type_es: "distrito"
       latitude: 21.3228395
       longitude: -71.2077909
       cities:
         []
     -
       name: "South Caicos"
+      native: "South Caicos"
       code: "04"
       iso3166_2: "TC-04"
       type: "district"
+      type_es: "distrito"
       latitude: 21.5144654
       longitude: -71.5379344
       cities:

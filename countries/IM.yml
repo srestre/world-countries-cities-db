@@ -12,16 +12,20 @@
   currency_symbol: "£"
   tld: ".im"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 54.25
   longitude: -4.5
   emoji: "🇮🇲"
   states:
     -
       name: "Ayre"
+      native: "Ayre"
       code: "01"
       iso3166_2: "IM-01"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -39,9 +43,11 @@
           longitude: -4.5311015
     -
       name: "Garff"
+      native: "Garff"
       code: "02"
       iso3166_2: "IM-02"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -59,9 +65,11 @@
           longitude: -4.5490898
     -
       name: "Glenfaba"
+      native: "Glenfaba"
       code: "03"
       iso3166_2: "IM-03"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -71,9 +79,11 @@
           longitude: -4.7065273
     -
       name: "Michael"
+      native: "Michael"
       code: "04"
       iso3166_2: "IM-04"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -91,9 +101,11 @@
           longitude: -4.6427325
     -
       name: "Middle"
+      native: "Middle"
       code: "05"
       iso3166_2: "IM-05"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -111,9 +123,11 @@
           longitude: -4.6493775
     -
       name: "Rushen"
+      native: "Rush"
       code: "06"
       iso3166_2: "IM-06"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:

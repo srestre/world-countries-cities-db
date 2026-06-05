@@ -1,53 +1,53 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(196, 'Serbia', 'RS', 'SRB', 'Europe', 'Southern Europe', 'Belgrade', 'RSD', 44, 21, '🇷🇸');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(196, 'Serbia', 'Serbia', 'RS', 'SRB', 'Europe', 'Europa', 'Southern Europe', 'Europa del Sur', 'Belgrade', 'RSD', 44, 21, '🇷🇸');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3728, 'Belgrade', 196, 'RS', '00', 'city', 44.8178131, 20.4568974),
-(3717, 'Bor', 196, 'RS', '14', 'district', 44.0698918, 22.0985086),
-(3732, 'Braničevo', 196, 'RS', '11', 'district', 44.6982246, 21.5446775),
-(3716, 'Central Banat', 196, 'RS', '02', 'district', 45.4358778, 20.5108293),
-(3715, 'Jablanica', 196, 'RS', '23', 'district', 43.4529825, 21.2688387),
-(3724, 'Kolubara', 196, 'RS', '09', 'district', 44.358907, 20.1421297),
-(5689, 'Kosovo', 196, 'RS', '25', 'district', 42.66333333, 21.16222222),
-(5688, 'Kosovo-Metohija', 196, 'RS', 'KM', 'province', 42.66666667, 21.16666667),
-(5693, 'Kosovo-Pomoravlje', 196, 'RS', '29', 'district', 42.5333, 21.5667),
-(5692, 'Kosovska Mitrovica', 196, 'RS', '28', 'district', 42.88333333, 20.86666667),
-(3719, 'Mačva', 196, 'RS', '08', 'district', 44.5203374, 19.5034197),
-(3727, 'Moravica', 196, 'RS', '17', 'district', 42.3872682, 21.7218213),
-(3722, 'Nišava', 196, 'RS', '20', 'district', 43.2178129, 22.4795786),
-(3714, 'North Bačka', 196, 'RS', '01', 'district', 45.9011831, 19.5834192),
-(3736, 'North Banat', 196, 'RS', '03', 'district', 45.8887418, 20.1902354),
-(3721, 'Pčinja', 196, 'RS', '24', 'district', 42.3850389, 22.0103627),
-(5690, 'Peć', 196, 'RS', '26', 'district', 42.66, 20.288),
-(3712, 'Pirot', 196, 'RS', '22', 'district', 43.1547342, 22.5865039),
-(3741, 'Podunavlje', 196, 'RS', '10', 'district', 44.7281091, 20.8092213),
-(3737, 'Pomoravlje', 196, 'RS', '13', 'district', 44.0221107, 21.4408567),
-(5691, 'Prizren', 196, 'RS', '27', 'district', 42.21277778, 20.73916667),
-(3720, 'Rasina', 196, 'RS', '19', 'district', 43.4109278, 21.159705),
-(3725, 'Raška', 196, 'RS', '18', 'district', 43.2869592, 20.6141348),
-(3711, 'South Bačka', 196, 'RS', '06', 'district', 45.4491396, 19.7680303),
-(3713, 'South Banat', 196, 'RS', '04', 'district', 44.9947432, 20.9388489),
-(3740, 'Srem', 196, 'RS', '07', 'district', 44.9187838, 19.9702308),
-(3734, 'Šumadija', 196, 'RS', '12', 'district', 44.6178028, 20.2771884),
-(3718, 'Toplica', 196, 'RS', '21', 'district', 43.2165528, 21.4043682),
-(3733, 'Vojvodina', 196, 'RS', 'VO', 'province', 45.4102776, 19.9762992),
-(3726, 'West Bačka', 196, 'RS', '05', 'district', 45.7355385, 19.1897364),
-(3731, 'Zaječar', 196, 'RS', '15', 'district', 43.9015048, 22.2738011),
-(3729, 'Zlatibor', 196, 'RS', '16', 'district', 43.6531807, 19.6405865);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3728, 'Belgrade', 'Београд', 196, 'RS', '00', 'city', 'ciudad', 44.8178131, 20.4568974),
+(3717, 'Bor', 'Бор', 196, 'RS', '14', 'district', 'distrito', 44.0698918, 22.0985086),
+(3732, 'Braničevo', 'Браничево', 196, 'RS', '11', 'district', 'distrito', 44.6982246, 21.5446775),
+(3716, 'Central Banat', 'Централни банат', 196, 'RS', '02', 'district', 'distrito', 45.4358778, 20.5108293),
+(3715, 'Jablanica', 'Јабланица', 196, 'RS', '23', 'district', 'distrito', 43.4529825, 21.2688387),
+(3724, 'Kolubara', 'Колубара', 196, 'RS', '09', 'district', 'distrito', 44.358907, 20.1421297),
+(5689, 'Kosovo', 'Косово', 196, 'RS', '25', 'district', 'distrito', 42.66333333, 21.16222222),
+(5688, 'Kosovo-Metohija', 'Косово и Метохија', 196, 'RS', 'KM', 'province', 'provincia', 42.66666667, 21.16666667),
+(5693, 'Kosovo-Pomoravlje', 'Косовско-Поморавље', 196, 'RS', '29', 'district', 'distrito', 42.5333, 21.5667),
+(5692, 'Kosovska Mitrovica', 'Косовска Митровица', 196, 'RS', '28', 'district', 'distrito', 42.88333333, 20.86666667),
+(3719, 'Mačva', 'Мач', 196, 'RS', '08', 'district', 'distrito', 44.5203374, 19.5034197),
+(3727, 'Moravica', 'Моравица', 196, 'RS', '17', 'district', 'distrito', 42.3872682, 21.7218213),
+(3722, 'Nišava', 'Nišava', 196, 'RS', '20', 'district', 'distrito', 43.2178129, 22.4795786),
+(3714, 'North Bačka', 'Северна Бачка', 196, 'RS', '01', 'district', 'distrito', 45.9011831, 19.5834192),
+(3736, 'North Banat', 'Северна Банат', 196, 'RS', '03', 'district', 'distrito', 45.8887418, 20.1902354),
+(3721, 'Pčinja', 'Пас', 196, 'RS', '24', 'district', 'distrito', 42.3850389, 22.0103627),
+(5690, 'Peć', 'Пећ', 196, 'RS', '26', 'district', 'distrito', 42.66, 20.288),
+(3712, 'Pirot', 'Пирот', 196, 'RS', '22', 'district', 'distrito', 43.1547342, 22.5865039),
+(3741, 'Podunavlje', 'Podunavlje', 196, 'RS', '10', 'district', 'distrito', 44.7281091, 20.8092213),
+(3737, 'Pomoravlje', 'Морски', 196, 'RS', '13', 'district', 'distrito', 44.0221107, 21.4408567),
+(5691, 'Prizren', 'Призрен', 196, 'RS', '27', 'district', 'distrito', 42.21277778, 20.73916667),
+(3720, 'Rasina', 'Смола', 196, 'RS', '19', 'district', 'distrito', 43.4109278, 21.159705),
+(3725, 'Raška', 'Распадати', 196, 'RS', '18', 'district', 'distrito', 43.2869592, 20.6141348),
+(3711, 'South Bačka', 'Јужна Бачка', 196, 'RS', '06', 'district', 'distrito', 45.4491396, 19.7680303),
+(3713, 'South Banat', 'Јужни Банат', 196, 'RS', '04', 'district', 'distrito', 44.9947432, 20.9388489),
+(3740, 'Srem', 'Срем', 196, 'RS', '07', 'district', 'distrito', 44.9187838, 19.9702308),
+(3734, 'Šumadija', 'Шумадија', 196, 'RS', '12', 'district', 'distrito', 44.6178028, 20.2771884),
+(3718, 'Toplica', 'Топлице', 196, 'RS', '21', 'district', 'distrito', 43.2165528, 21.4043682),
+(3733, 'Vojvodina', 'Vojvodina', 196, 'RS', 'VO', 'province', 'provincia', 45.4102776, 19.9762992),
+(3726, 'West Bačka', 'Вест Бачка', 196, 'RS', '05', 'district', 'distrito', 45.7355385, 19.1897364),
+(3731, 'Zaječar', 'Зајечар', 196, 'RS', '15', 'district', 'distrito', 43.9015048, 22.2738011),
+(3729, 'Zlatibor', 'Златибор', 196, 'RS', '16', 'district', 'distrito', 43.6531807, 19.6405865);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (97160, 'Barič', 3728, 196, 44.6507, 20.25941),

@@ -12,7 +12,9 @@
   currency_symbol: "$"
   tld: ".mo"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 22.16666666
   longitude: 113.55
   emoji: "🇲🇴"

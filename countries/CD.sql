@@ -1,47 +1,47 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(51, 'Democratic Republic of the Congo', 'CD', 'COD', 'Africa', 'Middle Africa', 'Kinshasa', 'CDF', 0, 25, '🇨🇩');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(51, 'Democratic Republic of the Congo', 'Congo (Rep. Dem.)', 'CD', 'COD', 'Africa', 'África', 'Middle Africa', 'África Central', 'Kinshasa', 'CDF', 0, 25, '🇨🇩');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2753, 'Bas-Uélé', 51, 'CD', 'BU', 'province', 3.6644488, 25.2137871),
-(2744, 'Équateur', 51, 'CD', 'EQ', 'province', 0.6060154, 18.7800729),
-(2750, 'Haut-Katanga', 51, 'CD', 'HK', 'province', -10.519718, 27.8432804),
-(2758, 'Haut-Lomami', 51, 'CD', 'HL', 'province', -8.1495036, 25.5557963),
-(2734, 'Haut-Uélé', 51, 'CD', 'HU', 'province', 3.3398499, 28.789274),
-(2751, 'Ituri', 51, 'CD', 'IT', 'province', 1.8330623, 29.4980774),
-(2757, 'Kasaï', 51, 'CD', 'KS', 'province', -4.8740862, 21.1234899),
-(2742, 'Kasaï Central', 51, 'CD', 'KC', 'province', -5.9046896, 21.4334417),
-(2735, 'Kasaï Oriental', 51, 'CD', 'KE', 'province', -6.1258942, 23.5998111),
-(2741, 'Kinshasa', 51, 'CD', 'KN', 'city', -4.32171, 15.3122511),
-(2746, 'Kongo Central', 51, 'CD', 'BC', 'province', -5.1778483, 14.3909935),
-(2740, 'Kwango', 51, 'CD', 'KG', 'province', -6.1822381, 17.7711691),
-(2759, 'Kwilu', 51, 'CD', 'KL', 'province', -4.8108497, 18.805534),
-(2747, 'Lomami', 51, 'CD', 'LO', 'province', -6.128664, 24.4577962),
-(4953, 'Lualaba', 51, 'CD', 'LU', 'province', -10.7027809, 25.4657979),
-(2755, 'Mai-Ndombe', 51, 'CD', 'MN', 'province', -2.5406945, 18.6065732),
-(2745, 'Maniema', 51, 'CD', 'MA', 'province', -2.9612778, 25.9634848),
-(2752, 'Mongala', 51, 'CD', 'MO', 'province', 2.15406, 21.4861221),
-(2749, 'Nord-Kivu', 51, 'CD', 'NK', 'province', -0.5645647, 28.7061945),
-(2739, 'Nord-Ubangi', 51, 'CD', 'NU', 'province', 4.0175656, 21.3779242),
-(2743, 'Sankuru', 51, 'CD', 'SA', 'province', -3.5074885, 23.5845039),
-(2738, 'Sud-Kivu', 51, 'CD', 'SK', 'province', -3.2968958, 28.1674008),
-(2748, 'Sud-Ubangi', 51, 'CD', 'SU', 'province', 3.3283335, 19.4627581),
-(2733, 'Tanganyika', 51, 'CD', 'TA', 'province', -6.7105797, 27.9879861),
-(2756, 'Tshopo', 51, 'CD', 'TO', 'province', 0.4991493, 25.1651226),
-(2732, 'Tshuapa', 51, 'CD', 'TU', 'province', -0.5875933, 22.1544364);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2753, 'Bas-Uélé', 'Bas-Uélé', 51, 'CD', 'BU', 'province', 'provincia', 3.6644488, 25.2137871),
+(2744, 'Équateur', 'Équateur', 51, 'CD', 'EQ', 'province', 'provincia', 0.6060154, 18.7800729),
+(2750, 'Haut-Katanga', 'Haut-Katanga', 51, 'CD', 'HK', 'province', 'provincia', -10.519718, 27.8432804),
+(2758, 'Haut-Lomami', 'Haut-Lomami', 51, 'CD', 'HL', 'province', 'provincia', -8.1495036, 25.5557963),
+(2734, 'Haut-Uélé', 'Haut-Uélé', 51, 'CD', 'HU', 'province', 'provincia', 3.3398499, 28.789274),
+(2751, 'Ituri', 'Ituri', 51, 'CD', 'IT', 'province', 'provincia', 1.8330623, 29.4980774),
+(2757, 'Kasaï', 'Kasaï', 51, 'CD', 'KS', 'province', 'provincia', -4.8740862, 21.1234899),
+(2742, 'Kasaï Central', 'Kasaï Central', 51, 'CD', 'KC', 'province', 'provincia', -5.9046896, 21.4334417),
+(2735, 'Kasaï Oriental', 'Kasaï Oriental', 51, 'CD', 'KE', 'province', 'provincia', -6.1258942, 23.5998111),
+(2741, 'Kinshasa', 'Kinshasa', 51, 'CD', 'KN', 'city', 'ciudad', -4.32171, 15.3122511),
+(2746, 'Kongo Central', 'Kongo Central', 51, 'CD', 'BC', 'province', 'provincia', -5.1778483, 14.3909935),
+(2740, 'Kwango', 'Casse-casse', 51, 'CD', 'KG', 'province', 'provincia', -6.1822381, 17.7711691),
+(2759, 'Kwilu', 'Kwilu', 51, 'CD', 'KL', 'province', 'provincia', -4.8108497, 18.805534),
+(2747, 'Lomami', 'Lomami', 51, 'CD', 'LO', 'province', 'provincia', -6.128664, 24.4577962),
+(4953, 'Lualaba', 'Kriednle', 51, 'CD', 'LU', 'province', 'provincia', -10.7027809, 25.4657979),
+(2755, 'Mai-Ndombe', 'Peut', 51, 'CD', 'MN', 'province', 'provincia', -2.5406945, 18.6065732),
+(2745, 'Maniema', 'Maniema', 51, 'CD', 'MA', 'province', 'provincia', -2.9612778, 25.9634848),
+(2752, 'Mongala', 'Mongala', 51, 'CD', 'MO', 'province', 'provincia', 2.15406, 21.4861221),
+(2749, 'Nord-Kivu', 'Nord-Kivu', 51, 'CD', 'NK', 'province', 'provincia', -0.5645647, 28.7061945),
+(2739, 'Nord-Ubangi', 'Nord-Deren-Christ', 51, 'CD', 'NU', 'province', 'provincia', 4.0175656, 21.3779242),
+(2743, 'Sankuru', 'Sankuru', 51, 'CD', 'SA', 'province', 'provincia', -3.5074885, 23.5845039),
+(2738, 'Sud-Kivu', 'Sud-Kivu', 51, 'CD', 'SK', 'province', 'provincia', -3.2968958, 28.1674008),
+(2748, 'Sud-Ubangi', 'Mousse', 51, 'CD', 'SU', 'province', 'provincia', 3.3283335, 19.4627581),
+(2733, 'Tanganyika', 'Tanganyika', 51, 'CD', 'TA', 'province', 'provincia', -6.7105797, 27.9879861),
+(2756, 'Tshopo', 'Tshopo', 51, 'CD', 'TO', 'province', 'provincia', 0.4991493, 25.1651226),
+(2732, 'Tshuapa', 'Thuapa', 51, 'CD', 'TU', 'province', 'provincia', -0.5875933, 22.1544364);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (17225, 'Aketi', 2753, 51, 2.73877, 23.78326),

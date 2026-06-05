@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".bm"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 32.33333333
   longitude: -64.75
   emoji: "🇧🇲"
   states:
     -
       name: "Devonshire"
+      native: "Devonshire"
       code: "DEV"
       iso3166_2: "BM-DEV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3038062
       longitude: -64.7606954
       cities:
@@ -31,9 +35,11 @@
           longitude: -64.8
     -
       name: "Hamilton"
+      native: "Hamilton"
       code: "HA"
       iso3166_2: "BM-HA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3379906
       longitude: -64.7357556
       cities:
@@ -43,9 +49,11 @@
           longitude: -64.783
     -
       name: "Paget"
+      native: "Paget"
       code: "PAG"
       iso3166_2: "BM-PAG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.281074
       longitude: -64.7784787
       cities:
@@ -55,18 +63,22 @@
           longitude: -64.769
     -
       name: "Pembroke"
+      native: "Pembroke"
       code: "PEM"
       iso3166_2: "BM-PEM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3007672
       longitude: -64.796263
       cities:
         []
     -
       name: "Saint George's"
+      native: "Saint George's"
       code: "SGE"
       iso3166_2: "BM-SGE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3722689
       longitude: -64.698502
       cities:
@@ -80,9 +92,11 @@
           longitude: -64.6881
     -
       name: "Sandys"
+      native: "Sandys"
       code: "SAN"
       iso3166_2: "BM-SAN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.2999528
       longitude: -64.8674103
       cities:
@@ -92,9 +106,11 @@
           longitude: -64.844
     -
       name: "Smith's"
+      native: "Smith's"
       code: "SMI"
       iso3166_2: "BM-SMI"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3133966
       longitude: -64.7310588
       cities:
@@ -104,9 +120,11 @@
           longitude: -64.736
     -
       name: "Southampton"
+      native: "Southampton"
       code: "SOU"
       iso3166_2: "BM-SOU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.2517959
       longitude: -64.8496989
       cities:
@@ -116,9 +134,11 @@
           longitude: -64.861
     -
       name: "Warwick"
+      native: "Warwick"
       code: "WAR"
       iso3166_2: "BM-WAR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.2661534
       longitude: -64.8081198
       cities:

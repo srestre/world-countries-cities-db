@@ -1,11 +1,11 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,Boven Bolivia,12.1819,-68.2181
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,Dorp Tera Kora,12.13333,-68.26667
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,Oranjestad,17.48333333,-62.98333333
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,Rincon,12.23833333,-68.3325
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,St. Johns,17.6210075,-63.2431683
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,The Bottom,17.62611111,-63.24916667
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,Windwardside,17.62864,-63.23136
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ1,Bonaire,Zion's Hill,17.643,-63.22649
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ2,Saba,,,
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,BQ3,Sint Eustatius,,,
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,Boven Bolivia,12.1819,-68.2181
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,Dorp Tera Kora,12.13333,-68.26667
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,Oranjestad,17.48333333,-62.98333333
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,Rincon,12.23833333,-68.3325
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,St. Johns,17.6210075,-63.2431683
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,The Bottom,17.62611111,-63.24916667
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,Windwardside,17.62864,-63.23136
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ1,Bonaire,special municipality,municipio especial,Zion's Hill,17.643,-63.22649
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ2,Saba,special municipality,municipio especial,,,
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Americas,América,Caribbean,Caribe,BQ3,Sint Eustatius,special municipality,municipio especial,,,

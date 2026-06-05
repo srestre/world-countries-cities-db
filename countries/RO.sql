@@ -1,63 +1,63 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(181, 'Romania', 'RO', 'ROU', 'Europe', 'Eastern Europe', 'Bucharest', 'RON', 46, 25, '🇷🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(181, 'Romania', 'Rumania', 'RO', 'ROU', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Bucharest', 'RON', 46, 25, '🇷🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4724, 'Alba', 181, 'RO', 'AB', 'department', 46.0159362, 23.5468497),
-(4739, 'Arad', 181, 'RO', 'AR', 'department', 46.2913706, 21.8925185),
-(4722, 'Arges', 181, 'RO', 'AG', 'department', 44.9939764, 24.8488685),
-(4744, 'Bacău', 181, 'RO', 'BC', 'department', 46.4228703, 26.7163991),
-(4723, 'Bihor', 181, 'RO', 'BH', 'department', 46.9926899, 22.192752),
-(4733, 'Bistrița-Năsăud', 181, 'RO', 'BN', 'department', 47.1772548, 24.5411592),
-(4740, 'Botoșani', 181, 'RO', 'BT', 'department', 47.8528263, 26.759334),
-(4736, 'Braila', 181, 'RO', 'BR', 'department', 45.2716092, 27.9742932),
-(4759, 'Brașov', 181, 'RO', 'BV', 'department', 45.7860222, 25.1540732),
-(4730, 'Bucharest', 181, 'RO', 'B', 'municipality', 44.4361414, 26.1027202),
-(4756, 'Buzău', 181, 'RO', 'BZ', 'department', 45.2692581, 26.7748173),
-(4732, 'Călărași', 181, 'RO', 'CL', 'department', 44.3151874, 27.1390156),
-(4753, 'Caraș-Severin', 181, 'RO', 'CS', 'department', 45.1271344, 22.0771445),
-(4734, 'Cluj', 181, 'RO', 'CJ', 'department', 46.769379, 23.5899542),
-(4737, 'Constanța', 181, 'RO', 'CT', 'department', 44.2678591, 28.2920787),
-(4754, 'Covasna', 181, 'RO', 'CV', 'department', 45.8966793, 26.0101806),
-(4745, 'Dâmbovița', 181, 'RO', 'DB', 'department', 44.9224565, 25.4819575),
-(4742, 'Dolj', 181, 'RO', 'DJ', 'department', 44.2150123, 23.669363),
-(4747, 'Galați', 181, 'RO', 'GL', 'department', 45.7772439, 27.7496575),
-(4726, 'Giurgiu', 181, 'RO', 'GR', 'department', 43.9037076, 25.9699265),
-(4750, 'Gorj', 181, 'RO', 'GJ', 'department', 44.9611675, 23.3256799),
-(4749, 'Harghita', 181, 'RO', 'HR', 'department', 46.6443061, 25.6221919),
-(4721, 'Hunedoara', 181, 'RO', 'HD', 'department', 45.7954068, 22.945243),
-(4743, 'Ialomița', 181, 'RO', 'IL', 'department', 44.5960761, 27.2016368),
-(4735, 'Iași', 181, 'RO', 'IS', 'department', 47.1977372, 27.1970598),
-(4725, 'Ilfov', 181, 'RO', 'IF', 'department', 44.5017074, 26.2449077),
-(4760, 'Maramureș', 181, 'RO', 'MM', 'department', 47.6712547, 24.1964613),
-(4751, 'Mehedinți', 181, 'RO', 'MH', 'department', 44.6034908, 23.0580419),
-(4915, 'Mureș', 181, 'RO', 'MS', 'department', 45.9386537, 23.2949316),
-(4731, 'Neamț', 181, 'RO', 'NT', 'department', 46.9910082, 26.5134813),
-(4738, 'Olt', 181, 'RO', 'OT', 'department', 44.2923205, 24.4663072),
-(4729, 'Prahova', 181, 'RO', 'PH', 'department', 45.1087546, 26.0378349),
-(4741, 'Sălaj', 181, 'RO', 'SJ', 'department', 47.1561868, 23.0191923),
-(4746, 'Satu Mare', 181, 'RO', 'SM', 'department', 47.7891763, 22.8725598),
-(4755, 'Sibiu', 181, 'RO', 'SB', 'department', 45.888796, 24.237426),
-(4720, 'Suceava', 181, 'RO', 'SV', 'department', 47.5326534, 25.8345939),
-(4728, 'Teleorman', 181, 'RO', 'TR', 'department', 44.0684876, 25.191045),
-(4748, 'Timiș', 181, 'RO', 'TM', 'department', 45.63984, 21.2599292),
-(4727, 'Tulcea', 181, 'RO', 'TL', 'department', 45.0413769, 28.897329),
-(4757, 'Vâlcea', 181, 'RO', 'VL', 'department', 45.0404536, 24.1538719),
-(4752, 'Vaslui', 181, 'RO', 'VS', 'department', 46.496847, 27.8036751),
-(4758, 'Vrancea', 181, 'RO', 'VN', 'department', 45.7887088, 26.883803);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4724, 'Alba', 'Alba', 181, 'RO', 'AB', 'department', 'departamento', 46.0159362, 23.5468497),
+(4739, 'Arad', 'Arad', 181, 'RO', 'AR', 'department', 'departamento', 46.2913706, 21.8925185),
+(4722, 'Arges', 'Arges', 181, 'RO', 'AG', 'department', 'departamento', 44.9939764, 24.8488685),
+(4744, 'Bacău', 'Bacău', 181, 'RO', 'BC', 'department', 'departamento', 46.4228703, 26.7163991),
+(4723, 'Bihor', 'Bihor', 181, 'RO', 'BH', 'department', 'departamento', 46.9926899, 22.192752),
+(4733, 'Bistrița-Năsăud', 'Bistrița-Năsăud', 181, 'RO', 'BN', 'department', 'departamento', 47.1772548, 24.5411592),
+(4740, 'Botoșani', 'Botoșani', 181, 'RO', 'BT', 'department', 'departamento', 47.8528263, 26.759334),
+(4736, 'Braila', 'Braila', 181, 'RO', 'BR', 'department', 'departamento', 45.2716092, 27.9742932),
+(4759, 'Brașov', 'Brașov', 181, 'RO', 'BV', 'department', 'departamento', 45.7860222, 25.1540732),
+(4730, 'Bucharest', 'Bucureşti', 181, 'RO', 'B', 'municipality', 'municipio', 44.4361414, 26.1027202),
+(4756, 'Buzău', 'Buzău', 181, 'RO', 'BZ', 'department', 'departamento', 45.2692581, 26.7748173),
+(4732, 'Călărași', 'Călărași', 181, 'RO', 'CL', 'department', 'departamento', 44.3151874, 27.1390156),
+(4753, 'Caraș-Severin', 'Caraș-Severin', 181, 'RO', 'CS', 'department', 'departamento', 45.1271344, 22.0771445),
+(4734, 'Cluj', 'Cluj', 181, 'RO', 'CJ', 'department', 'departamento', 46.769379, 23.5899542),
+(4737, 'Constanța', 'Constanța', 181, 'RO', 'CT', 'department', 'departamento', 44.2678591, 28.2920787),
+(4754, 'Covasna', 'Covasna', 181, 'RO', 'CV', 'department', 'departamento', 45.8966793, 26.0101806),
+(4745, 'Dâmbovița', 'Dâmbovița', 181, 'RO', 'DB', 'department', 'departamento', 44.9224565, 25.4819575),
+(4742, 'Dolj', 'Dolj', 181, 'RO', 'DJ', 'department', 'departamento', 44.2150123, 23.669363),
+(4747, 'Galați', 'Galați', 181, 'RO', 'GL', 'department', 'departamento', 45.7772439, 27.7496575),
+(4726, 'Giurgiu', 'Giurgiu', 181, 'RO', 'GR', 'department', 'departamento', 43.9037076, 25.9699265),
+(4750, 'Gorj', 'Gorj', 181, 'RO', 'GJ', 'department', 'departamento', 44.9611675, 23.3256799),
+(4749, 'Harghita', 'Harghita', 181, 'RO', 'HR', 'department', 'departamento', 46.6443061, 25.6221919),
+(4721, 'Hunedoara', 'Hunedoara', 181, 'RO', 'HD', 'department', 'departamento', 45.7954068, 22.945243),
+(4743, 'Ialomița', 'Ialomița', 181, 'RO', 'IL', 'department', 'departamento', 44.5960761, 27.2016368),
+(4735, 'Iași', 'Iași', 181, 'RO', 'IS', 'department', 'departamento', 47.1977372, 27.1970598),
+(4725, 'Ilfov', 'Ilfov', 181, 'RO', 'IF', 'department', 'departamento', 44.5017074, 26.2449077),
+(4760, 'Maramureș', 'Maramureș', 181, 'RO', 'MM', 'department', 'departamento', 47.6712547, 24.1964613),
+(4751, 'Mehedinți', 'Mehedinți', 181, 'RO', 'MH', 'department', 'departamento', 44.6034908, 23.0580419),
+(4915, 'Mureș', 'Mureș', 181, 'RO', 'MS', 'department', 'departamento', 45.9386537, 23.2949316),
+(4731, 'Neamț', 'Neamț', 181, 'RO', 'NT', 'department', 'departamento', 46.9910082, 26.5134813),
+(4738, 'Olt', 'Olt', 181, 'RO', 'OT', 'department', 'departamento', 44.2923205, 24.4663072),
+(4729, 'Prahova', 'Prahova', 181, 'RO', 'PH', 'department', 'departamento', 45.1087546, 26.0378349),
+(4741, 'Sălaj', 'Sălaj', 181, 'RO', 'SJ', 'department', 'departamento', 47.1561868, 23.0191923),
+(4746, 'Satu Mare', 'O iapă', 181, 'RO', 'SM', 'department', 'departamento', 47.7891763, 22.8725598),
+(4755, 'Sibiu', 'Sibiu', 181, 'RO', 'SB', 'department', 'departamento', 45.888796, 24.237426),
+(4720, 'Suceava', 'Suceava', 181, 'RO', 'SV', 'department', 'departamento', 47.5326534, 25.8345939),
+(4728, 'Teleorman', 'Teleorman', 181, 'RO', 'TR', 'department', 'departamento', 44.0684876, 25.191045),
+(4748, 'Timiș', 'Timiș', 181, 'RO', 'TM', 'department', 'departamento', 45.63984, 21.2599292),
+(4727, 'Tulcea', 'Tulcea', 181, 'RO', 'TL', 'department', 'departamento', 45.0413769, 28.897329),
+(4757, 'Vâlcea', 'Vâlcea', 181, 'RO', 'VL', 'department', 'departamento', 45.0404536, 24.1538719),
+(4752, 'Vaslui', 'Vaslui', 181, 'RO', 'VS', 'department', 'departamento', 46.496847, 27.8036751),
+(4758, 'Vrancea', 'Vrancea', 181, 'RO', 'VN', 'department', 'departamento', 45.7887088, 26.883803);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (89874, 'Abrud', 4724, 181, 46.27406, 23.06339),

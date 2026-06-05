@@ -1,41 +1,41 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(177, 'Portugal', 'PT', 'PRT', 'Europe', 'Southern Europe', 'Lisbon', 'EUR', 39.5, -8, '🇵🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(177, 'Portugal', 'Portugal', 'PT', 'PRT', 'Europe', 'Europa', 'Southern Europe', 'Europa del Sur', 'Lisbon', 'EUR', 39.5, -8, '🇵🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2233, 'Açores', 177, 'PT', '20', 'autonomous region', 37.8085564, -25.4731374),
-(2235, 'Aveiro', 177, 'PT', '01', 'district', 40.6791504, -8.5217166),
-(2230, 'Beja', 177, 'PT', '02', 'district', 38.0154479, -7.8650368),
-(2244, 'Braga', 177, 'PT', '03', 'district', 41.550388, -8.4261301),
-(2229, 'Bragança', 177, 'PT', '04', 'district', 41.8061652, -6.7567427),
-(2241, 'Castelo Branco', 177, 'PT', '05', 'district', 39.8266322, -7.4919318),
-(2246, 'Coimbra', 177, 'PT', '06', 'district', 40.2111931, -8.4294632),
-(2236, 'Évora', 177, 'PT', '07', 'district', 38.5744468, -7.9076553),
-(2239, 'Faro', 177, 'PT', '08', 'district', 37.0193548, -7.9304397),
-(4859, 'Guarda', 177, 'PT', '09', 'district', 40.5385972, -7.2675772),
-(2240, 'Leiria', 177, 'PT', '10', 'district', 39.7437902, -8.8071119),
-(2228, 'Lisbon', 177, 'PT', '11', 'district', 38.7077507, -9.1365919),
-(2231, 'Madeira', 177, 'PT', '30', 'autonomous region', 32.7517501, -16.9817487),
-(2232, 'Portalegre', 177, 'PT', '12', 'district', 39.2967086, -7.4284755),
-(2243, 'Porto', 177, 'PT', '13', 'district', 41.1476629, -8.6078973),
-(2238, 'Santarém', 177, 'PT', '14', 'district', 39.2366687, -8.6859944),
-(2242, 'Setúbal', 177, 'PT', '15', 'district', 38.5240933, -8.8925876),
-(2245, 'Viana do Castelo', 177, 'PT', '16', 'district', 41.6918046, -8.834451),
-(2234, 'Vila Real', 177, 'PT', '17', 'district', 41.3003527, -7.7457274),
-(2237, 'Viseu', 177, 'PT', '18', 'district', 40.6588424, -7.914756);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2233, 'Açores', 'Açores', 177, 'PT', '20', 'autonomous region', 'región autónoma', 37.8085564, -25.4731374),
+(2235, 'Aveiro', 'Aveiro', 177, 'PT', '01', 'district', 'distrito', 40.6791504, -8.5217166),
+(2230, 'Beja', 'Beja', 177, 'PT', '02', 'district', 'distrito', 38.0154479, -7.8650368),
+(2244, 'Braga', 'Braga', 177, 'PT', '03', 'district', 'distrito', 41.550388, -8.4261301),
+(2229, 'Bragança', 'Bragança', 177, 'PT', '04', 'district', 'distrito', 41.8061652, -6.7567427),
+(2241, 'Castelo Branco', 'Castelo Branco', 177, 'PT', '05', 'district', 'distrito', 39.8266322, -7.4919318),
+(2246, 'Coimbra', 'Coimbra', 177, 'PT', '06', 'district', 'distrito', 40.2111931, -8.4294632),
+(2236, 'Évora', 'Évora', 177, 'PT', '07', 'district', 'distrito', 38.5744468, -7.9076553),
+(2239, 'Faro', 'Faro', 177, 'PT', '08', 'district', 'distrito', 37.0193548, -7.9304397),
+(4859, 'Guarda', 'Guarda', 177, 'PT', '09', 'district', 'distrito', 40.5385972, -7.2675772),
+(2240, 'Leiria', 'Leiria', 177, 'PT', '10', 'district', 'distrito', 39.7437902, -8.8071119),
+(2228, 'Lisbon', 'Lisbon', 177, 'PT', '11', 'district', 'distrito', 38.7077507, -9.1365919),
+(2231, 'Madeira', 'Madeira', 177, 'PT', '30', 'autonomous region', 'región autónoma', 32.7517501, -16.9817487),
+(2232, 'Portalegre', 'Portalegre', 177, 'PT', '12', 'district', 'distrito', 39.2967086, -7.4284755),
+(2243, 'Porto', 'Porto', 177, 'PT', '13', 'district', 'distrito', 41.1476629, -8.6078973),
+(2238, 'Santarém', 'Santarém', 177, 'PT', '14', 'district', 'distrito', 39.2366687, -8.6859944),
+(2242, 'Setúbal', 'Setúbal', 177, 'PT', '15', 'district', 'distrito', 38.5240933, -8.8925876),
+(2245, 'Viana do Castelo', 'Viana do Castelo', 177, 'PT', '16', 'district', 'distrito', 41.6918046, -8.834451),
+(2234, 'Vila Real', 'Vila Real', 177, 'PT', '17', 'district', 'distrito', 41.3003527, -7.7457274),
+(2237, 'Viseu', 'Viseu', 177, 'PT', '18', 'district', 'distrito', 40.6588424, -7.914756);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (89692, 'Água de Pau', 2233, 177, 37.72142, -25.5117),

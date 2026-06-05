@@ -1,12 +1,12 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-TV,Tuvalu,Oceania,Polynesia,FUN,Funafuti,Alapi Village,-8.52074,179.1968
-TV,Tuvalu,Oceania,Polynesia,FUN,Funafuti,Fakaifou Village,-8.51758,179.20094
-TV,Tuvalu,Oceania,Polynesia,FUN,Funafuti,Funafuti,-8.52425,179.19417
-TV,Tuvalu,Oceania,Polynesia,NMG,Nanumanga,Toga Village,-6.28764,176.31472
-TV,Tuvalu,Oceania,Polynesia,NMA,Nanumea,,,
-TV,Tuvalu,Oceania,Polynesia,NIT,Niutao Island Council,Kulia Village,-6.10819,177.33393
-TV,Tuvalu,Oceania,Polynesia,NIT,Niutao Island Council,Niulakita,-10.788,179.466
-TV,Tuvalu,Oceania,Polynesia,NUI,Nui,Tanrake Village,-7.24562,177.14511
-TV,Tuvalu,Oceania,Polynesia,NKF,Nukufetau,Savave Village,-8.02731,178.31351
-TV,Tuvalu,Oceania,Polynesia,NKL,Nukulaelae,,,
-TV,Tuvalu,Oceania,Polynesia,VAI,Vaitupu,Asau Village,-7.49026,178.68016
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,FUN,Funafuti,town council,consejo de localidad,Alapi Village,-8.52074,179.1968
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,FUN,Funafuti,town council,consejo de localidad,Fakaifou Village,-8.51758,179.20094
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,FUN,Funafuti,town council,consejo de localidad,Funafuti,-8.52425,179.19417
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,NMG,Nanumanga,island council,consejo insular,Toga Village,-6.28764,176.31472
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,NMA,Nanumea,island council,consejo insular,,,
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,NIT,Niutao Island Council,island council,consejo insular,Kulia Village,-6.10819,177.33393
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,NIT,Niutao Island Council,island council,consejo insular,Niulakita,-10.788,179.466
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,NUI,Nui,island council,consejo insular,Tanrake Village,-7.24562,177.14511
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,NKF,Nukufetau,island council,consejo insular,Savave Village,-8.02731,178.31351
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,NKL,Nukulaelae,island council,consejo insular,,,
+TV,Tuvalu,Tuvalu,Oceania,Oceanía,Polynesia,Polinesia,VAI,Vaitupu,island council,consejo insular,Asau Village,-7.49026,178.68016

@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".ag"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 17.05
   longitude: -61.8
   emoji: "🇦🇬"
   states:
     -
       name: "Barbuda"
+      native: "Barbuda"
       code: "10"
       iso3166_2: "AG-10"
       type: "dependency"
+      type_es: "dependencia"
       latitude: 17.6219203
       longitude: -61.7839588
       cities:
@@ -31,18 +35,22 @@
           longitude: -61.83333
     -
       name: "Redonda"
+      native: "Round"
       code: "11"
       iso3166_2: "AG-11"
       type: "dependency"
+      type_es: "dependencia"
       latitude: 16.938416
       longitude: -62.3455148
       cities:
         []
     -
       name: "Saint George"
+      native: "Saint George"
       code: "03"
       iso3166_2: "AG-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1218022
       longitude: -61.78123
       cities:
@@ -52,9 +60,11 @@
           longitude: -61.8
     -
       name: "Saint John"
+      native: "Saint John"
       code: "04"
       iso3166_2: "AG-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1151502
       longitude: -61.8583488
       cities:
@@ -68,9 +78,11 @@
           longitude: -61.84329
     -
       name: "Saint Mary"
+      native: "Saint Mary"
       code: "05"
       iso3166_2: "AG-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.054815
       longitude: -61.8602368
       cities:
@@ -80,9 +92,11 @@
           longitude: -61.87466
     -
       name: "Saint Paul"
+      native: "Saint Paul"
       code: "06"
       iso3166_2: "AG-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.0325831
       longitude: -61.7706567
       cities:
@@ -96,9 +110,11 @@
           longitude: -61.79052
     -
       name: "Saint Peter"
+      native: "Saint Peter"
       code: "07"
       iso3166_2: "AG-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.1070239
       longitude: -61.7502143
       cities:
@@ -112,9 +128,11 @@
           longitude: -61.77046
     -
       name: "Saint Philip"
+      native: "Saint Philip"
       code: "08"
       iso3166_2: "AG-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 17.066357
       longitude: -61.7061957
       cities:

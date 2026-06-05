@@ -1,27 +1,27 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(72, 'Faroe Islands', 'FO', 'FRO', 'Europe', 'Northern Europe', 'Torshavn', 'DKK', 62, -7, '🇫🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(72, 'Faroe Islands', 'Islas Faroe', 'FO', 'FRO', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Torshavn', 'DKK', 62, -7, '🇫🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5229, 'Eysturoy', 72, 'FO', 'EY', 'region', 62.1988704, -6.8178451),
-(5230, 'Northern Isles', 72, 'FO', 'NO', 'region', 62.2805689, 6.7017061),
-(5231, 'Sandoy', 72, 'FO', 'SA', 'region', 61.8333877, -6.7239899),
-(5232, 'Streymoy', 72, 'FO', 'ST', 'region', 62.1237192, -7.0158828),
-(5233, 'Suðuroy', 72, 'FO', 'SU', 'region', 61.5210651, -6.8141866),
-(5234, 'Vágar', 72, 'FO', 'VA', 'region', 62.0898985, -7.2345841);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5229, 'Eysturoy', 'Eysturoy', 72, 'FO', 'EY', 'region', 'región', 62.1988704, -6.8178451),
+(5230, 'Northern Isles', 'Northern Isles', 72, 'FO', 'NO', 'region', 'región', 62.2805689, 6.7017061),
+(5231, 'Sandoy', 'Sandoy', 72, 'FO', 'SA', 'region', 'región', 61.8333877, -6.7239899),
+(5232, 'Streymoy', 'Streymoy', 72, 'FO', 'ST', 'region', 'región', 62.1237192, -7.0158828),
+(5233, 'Suðuroy', 'Suðuroy', 72, 'FO', 'SU', 'region', 'región', 61.5210651, -6.8141866),
+(5234, 'Vágar', 'Vágar', 72, 'FO', 'VA', 'region', 'región', 62.0898985, -7.2345841);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (153758, 'Eiði', 5229, 72, 62.2789, -7.0123),

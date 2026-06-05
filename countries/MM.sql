@@ -1,36 +1,36 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(151, 'Myanmar', 'MM', 'MMR', 'Asia', 'South-Eastern Asia', 'Nay Pyi Taw', 'MMK', 22, 98, '🇲🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(151, 'Myanmar', 'Myanmar', 'MM', 'MMR', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Nay Pyi Taw', 'MMK', 22, 98, '🇲🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2142, 'Ayeyarwady', 151, 'MM', '07', 'region', 16.8340079, 95.1804705),
-(2141, 'Bago', 151, 'MM', '02', 'region', 17.336667, 96.479722),
-(2137, 'Chin', 151, 'MM', '14', 'state', 22.018242, 93.5038035),
-(2143, 'Kachin', 151, 'MM', '11', 'state', 26.0207656, 97.4919258),
-(2144, 'Kayah', 151, 'MM', '12', 'state', 19.2812505, 97.3291806),
-(2133, 'Kayin', 151, 'MM', '13', 'state', 17.1863135, 97.7499316),
-(2136, 'Magway', 151, 'MM', '03', 'region', 20.1491458, 94.9213518),
-(2134, 'Mandalay', 151, 'MM', '04', 'region', 21.9596834, 96.0948743),
-(2147, 'Mon State', 151, 'MM', '15', 'state', 17.0832546, 97.3337305),
-(2146, 'Naypyidaw', 151, 'MM', '18', 'union territory', 19.7753289, 96.1032552),
-(2138, 'Rakhine', 151, 'MM', '16', 'state', 19.5212991, 94.0072428),
-(2145, 'Sagaing', 151, 'MM', '01', 'region', 24.4768486, 95.47474),
-(2139, 'Shan', 151, 'MM', '17', 'state', 21.5122404, 98.0098362),
-(2140, 'Tanintharyi', 151, 'MM', '05', 'region', 12.1091546, 98.8165256),
-(2135, 'Yangon', 151, 'MM', '06', 'region', 16.7967129, 96.1609916);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2142, 'Ayeyarwady', 'ar ရာဝတီ', 151, 'MM', '07', 'region', 'región', 16.8340079, 95.1804705),
+(2141, 'Bago', 'ဉီးစွာ', 151, 'MM', '02', 'region', 'región', 17.336667, 96.479722),
+(2137, 'Chin', 'မေးစေ့', 151, 'MM', '14', 'state', 'estado', 22.018242, 93.5038035),
+(2143, 'Kachin', 'ကချင်လူမျိုး', 151, 'MM', '11', 'state', 'estado', 26.0207656, 97.4919258),
+(2144, 'Kayah', 'ကရင်', 151, 'MM', '12', 'state', 'estado', 19.2812505, 97.3291806),
+(2133, 'Kayin', 'nephy', 151, 'MM', '13', 'state', 'estado', 17.1863135, 97.7499316),
+(2136, 'Magway', 'ဆောင်ရွက်နိုင်', 151, 'MM', '03', 'region', 'región', 20.1491458, 94.9213518),
+(2134, 'Mandalay', 'မန္တလေး', 151, 'MM', '04', 'region', 'región', 21.9596834, 96.0948743),
+(2147, 'Mon State', 'မွန်ပြည်နယ်', 151, 'MM', '15', 'state', 'estado', 17.0832546, 97.3337305),
+(2146, 'Naypyidaw', 'နေပြည်တော်', 151, 'MM', '18', 'union territory', 'territorio de la unión', 19.7753289, 96.1032552),
+(2138, 'Rakhine', 'ရခိုင်', 151, 'MM', '16', 'state', 'estado', 19.5212991, 94.0072428),
+(2145, 'Sagaing', 'စစ်ကိုင်းတိုင်း', 151, 'MM', '01', 'region', 'región', 24.4768486, 95.47474),
+(2139, 'Shan', 'ရှမ်း', 151, 'MM', '17', 'state', 'estado', 21.5122404, 98.0098362),
+(2140, 'Tanintharyi', 'တနင်္သာရီ', 151, 'MM', '05', 'region', 'región', 12.1091546, 98.8165256),
+(2135, 'Yangon', 'ရန်ကုန်', 151, 'MM', '06', 'region', 'región', 16.7967129, 96.1609916);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67633, 'Bogale', 2142, 151, 16.29415, 95.39742),

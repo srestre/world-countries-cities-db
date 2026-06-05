@@ -12,16 +12,20 @@
   currency_symbol: "₪"
   tld: ".il"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 31.5
   longitude: 34.75
   emoji: "🇮🇱"
   states:
     -
       name: "Central"
+      native: "Central"
       code: "M"
       iso3166_2: "IL-M"
       type: "district"
+      type_es: "distrito"
       latitude: -25.348206
       longitude: -57.569615
       cities:
@@ -187,9 +191,11 @@
           longitude: 34.91313
     -
       name: "Haifa"
+      native: "Haifa"
       code: "HA"
       iso3166_2: "IL-HA"
       type: "district"
+      type_es: "distrito"
       latitude: 32.6304297
       longitude: 34.9800992
       cities:
@@ -255,9 +261,11 @@
           longitude: 35.15349
     -
       name: "Jerusalem"
+      native: "Jerusalem"
       code: "JM"
       iso3166_2: "IL-JM"
       type: "district"
+      type_es: "distrito"
       latitude: 31.7428253
       longitude: 35.064069
       cities:
@@ -295,9 +303,11 @@
           longitude: 35.09708
     -
       name: "Northern"
+      native: "Northern"
       code: "Z"
       iso3166_2: "IL-Z"
       type: "district"
+      type_es: "distrito"
       latitude: 33.0601833
       longitude: 35.2448195
       cities:
@@ -527,9 +537,11 @@
           longitude: 35.50435
     -
       name: "Southern"
+      native: "Southern"
       code: "D"
       iso3166_2: "IL-D"
       type: "district"
+      type_es: "distrito"
       latitude: 30.6823334
       longitude: 34.8824229
       cities:
@@ -599,9 +611,11 @@
           longitude: 34.93176
     -
       name: "Tel Aviv"
+      native: "Tel Aviv"
       code: "TA"
       iso3166_2: "IL-TA"
       type: "district"
+      type_es: "distrito"
       latitude: 32.0929075
       longitude: 34.8072165
       cities:

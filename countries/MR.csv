@@ -1,43 +1,43 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-MR,Mauritania,Africa,Western Africa,07,Adrar,Atar,20.5177,-13.04857
-MR,Mauritania,Africa,Western Africa,07,Adrar,Azougui,20.56764,-13.11191
-MR,Mauritania,Africa,Western Africa,07,Adrar,Chingueṭṭi,20.463,-12.362
-MR,Mauritania,Africa,Western Africa,07,Adrar,Ksar el Khali,20.93333333,-11.61666667
-MR,Mauritania,Africa,Western Africa,03,Assaba,Barkéwol,16.64039,-12.49849
-MR,Mauritania,Africa,Western Africa,03,Assaba,Kiffa,16.62073,-11.40208
-MR,Mauritania,Africa,Western Africa,05,Brakna,’Elb el Jmel,17.0105,-13.97102
-MR,Mauritania,Africa,Western Africa,05,Brakna,Aleg,17.05314,-13.91312
-MR,Mauritania,Africa,Western Africa,05,Brakna,Bofal,16.41666667,-13.8
-MR,Mauritania,Africa,Western Africa,05,Brakna,Sori Malé,16.95416667,-13.37916667
-MR,Mauritania,Africa,Western Africa,08,Dakhlet Nouadhibou,Cansado,20.85333333,-17.0325
-MR,Mauritania,Africa,Western Africa,08,Dakhlet Nouadhibou,Iouik,19.84944444,-16.33083333
-MR,Mauritania,Africa,Western Africa,08,Dakhlet Nouadhibou,Nouadhibou,20.94188,-17.03842
-MR,Mauritania,Africa,Western Africa,04,Gorgol,Kaédi,16.15027,-13.5037
-MR,Mauritania,Africa,Western Africa,10,Guidimaka,Sélibaby,15.15846,-12.1843
-MR,Mauritania,Africa,Western Africa,01,Hodh Ech Chargui,Diade,16.23333333,-7.41666667
-MR,Mauritania,Africa,Western Africa,01,Hodh Ech Chargui,Kataouane,16.06888889,-6.49888889
-MR,Mauritania,Africa,Western Africa,01,Hodh Ech Chargui,Néma,16.61702,-7.25649
-MR,Mauritania,Africa,Western Africa,01,Hodh Ech Chargui,Timbedra,16.24472222,-8.1675
-MR,Mauritania,Africa,Western Africa,02,Hodh El Gharbi,Aioun,16.6614,-9.6149
-MR,Mauritania,Africa,Western Africa,02,Hodh El Gharbi,Ayoun el Atrous,16.66666667,-9.61666667
-MR,Mauritania,Africa,Western Africa,02,Hodh El Gharbi,Togba,17.4,-10.36666667
-MR,Mauritania,Africa,Western Africa,12,Inchiri,Akjoujt,19.74657,-14.38531
-MR,Mauritania,Africa,Western Africa,14,Nouakchott-Nord,Dar-Naim,18.03333333,-15.96666667
-MR,Mauritania,Africa,Western Africa,14,Nouakchott-Nord,Teyarett,18.1289572,-15.9377834
-MR,Mauritania,Africa,Western Africa,14,Nouakchott-Nord,Toujouonine,18.07169,-15.90311
-MR,Mauritania,Africa,Western Africa,13,Nouakchott-Ouest,Ksar,18.1049033,-15.9644337
-MR,Mauritania,Africa,Western Africa,13,Nouakchott-Ouest,Sebkha,18.07555556,-16.00194444
-MR,Mauritania,Africa,Western Africa,13,Nouakchott-Ouest,Tevragh-Zeina,18.11011,-15.99931
-MR,Mauritania,Africa,Western Africa,15,Nouakchott-Sud,Arafat,18.04639,-15.97194
-MR,Mauritania,Africa,Western Africa,15,Nouakchott-Sud,Riyad,18.0078427,-15.97404
-MR,Mauritania,Africa,Western Africa,09,Tagant,Moudjeria,17.9795514,-13.3979534
-MR,Mauritania,Africa,Western Africa,09,Tagant,Tichit,18.4968626,-12.1219935
-MR,Mauritania,Africa,Western Africa,09,Tagant,Tijigja,18.5164787,-12.9826476
-MR,Mauritania,Africa,Western Africa,11,Tiris Zemmour,Ain Ben Tili,25.99444444,-9.55333333
-MR,Mauritania,Africa,Western Africa,11,Tiris Zemmour,Chegga,25.37194444,-5.78666667
-MR,Mauritania,Africa,Western Africa,11,Tiris Zemmour,Fderîck,22.67777778,-12.7075
-MR,Mauritania,Africa,Western Africa,11,Tiris Zemmour,Zouérat,22.73444444,-12.4725
-MR,Mauritania,Africa,Western Africa,11,Tiris Zemmour,Zouerate,22.73542,-12.47134
-MR,Mauritania,Africa,Western Africa,06,Trarza,Legat,16.75,-14.83333333
-MR,Mauritania,Africa,Western Africa,06,Trarza,Rosso,16.51378,-15.80503
-MR,Mauritania,Africa,Western Africa,06,Trarza,Tékane,16.60175,-15.34866
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,07,Adrar,region,región,Atar,20.5177,-13.04857
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,07,Adrar,region,región,Azougui,20.56764,-13.11191
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,07,Adrar,region,región,Chingueṭṭi,20.463,-12.362
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,07,Adrar,region,región,Ksar el Khali,20.93333333,-11.61666667
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,03,Assaba,region,región,Barkéwol,16.64039,-12.49849
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,03,Assaba,region,región,Kiffa,16.62073,-11.40208
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,05,Brakna,region,región,’Elb el Jmel,17.0105,-13.97102
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,05,Brakna,region,región,Aleg,17.05314,-13.91312
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,05,Brakna,region,región,Bofal,16.41666667,-13.8
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,05,Brakna,region,región,Sori Malé,16.95416667,-13.37916667
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,08,Dakhlet Nouadhibou,region,región,Cansado,20.85333333,-17.0325
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,08,Dakhlet Nouadhibou,region,región,Iouik,19.84944444,-16.33083333
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,08,Dakhlet Nouadhibou,region,región,Nouadhibou,20.94188,-17.03842
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,04,Gorgol,region,región,Kaédi,16.15027,-13.5037
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,10,Guidimaka,region,región,Sélibaby,15.15846,-12.1843
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,01,Hodh Ech Chargui,region,región,Diade,16.23333333,-7.41666667
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,01,Hodh Ech Chargui,region,región,Kataouane,16.06888889,-6.49888889
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,01,Hodh Ech Chargui,region,región,Néma,16.61702,-7.25649
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,01,Hodh Ech Chargui,region,región,Timbedra,16.24472222,-8.1675
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,02,Hodh El Gharbi,region,región,Aioun,16.6614,-9.6149
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,02,Hodh El Gharbi,region,región,Ayoun el Atrous,16.66666667,-9.61666667
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,02,Hodh El Gharbi,region,región,Togba,17.4,-10.36666667
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,12,Inchiri,region,región,Akjoujt,19.74657,-14.38531
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,14,Nouakchott-Nord,region,región,Dar-Naim,18.03333333,-15.96666667
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,14,Nouakchott-Nord,region,región,Teyarett,18.1289572,-15.9377834
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,14,Nouakchott-Nord,region,región,Toujouonine,18.07169,-15.90311
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,13,Nouakchott-Ouest,region,región,Ksar,18.1049033,-15.9644337
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,13,Nouakchott-Ouest,region,región,Sebkha,18.07555556,-16.00194444
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,13,Nouakchott-Ouest,region,región,Tevragh-Zeina,18.11011,-15.99931
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,15,Nouakchott-Sud,region,región,Arafat,18.04639,-15.97194
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,15,Nouakchott-Sud,region,región,Riyad,18.0078427,-15.97404
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,09,Tagant,region,región,Moudjeria,17.9795514,-13.3979534
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,09,Tagant,region,región,Tichit,18.4968626,-12.1219935
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,09,Tagant,region,región,Tijigja,18.5164787,-12.9826476
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,11,Tiris Zemmour,region,región,Ain Ben Tili,25.99444444,-9.55333333
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,11,Tiris Zemmour,region,región,Chegga,25.37194444,-5.78666667
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,11,Tiris Zemmour,region,región,Fderîck,22.67777778,-12.7075
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,11,Tiris Zemmour,region,región,Zouérat,22.73444444,-12.4725
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,11,Tiris Zemmour,region,región,Zouerate,22.73542,-12.47134
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,06,Trarza,region,región,Legat,16.75,-14.83333333
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,06,Trarza,region,región,Rosso,16.51378,-15.80503
+MR,Mauritania,Mauritania,Africa,África,Western Africa,África Occidental,06,Trarza,region,región,Tékane,16.60175,-15.34866

@@ -12,16 +12,20 @@
   currency_symbol: "E"
   tld: ".sz"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -26.5
   longitude: 31.5
   emoji: "🇸🇿"
   states:
     -
       name: "Hhohho"
+      native: "Hhohho"
       code: "HH"
       iso3166_2: "SZ-HH"
       type: "region"
+      type_es: "región"
       latitude: -26.0988012
       longitude: 31.3630822
       cities:
@@ -51,9 +55,11 @@
           longitude: 31.24666
     -
       name: "Lubombo"
+      native: "Bitch"
       code: "LU"
       iso3166_2: "SZ-LU"
       type: "region"
+      type_es: "región"
       latitude: -26.55452
       longitude: 31.8619116
       cities:
@@ -91,9 +97,11 @@
           longitude: 31.87672
     -
       name: "Manzini"
+      native: "Chic"
       code: "MA"
       iso3166_2: "SZ-MA"
       type: "region"
+      type_es: "región"
       latitude: -26.4976444
       longitude: 31.3750815
       cities:
@@ -139,9 +147,11 @@
           longitude: 31.42021
     -
       name: "Shiselweni"
+      native: "Suspend"
       code: "SH"
       iso3166_2: "SZ-SH"
       type: "region"
+      type_es: "región"
       latitude: -27.036022
       longitude: 31.3321298
       cities:

@@ -1,21 +1,21 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-AW,Aruba,Americas,Caribbean,01,Noord,,,
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Alto Vista,12.5705,-70.01912
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Moco,12.55134,-70.00843
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Noord,12.56596,-70.03198
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Oranjestad,12.52398,-70.02703
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Palm Beach,12.56847,-70.03887
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Paradera,12.5351,-70.00688
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Pos Chiquito,12.46497,-69.96233
-AW,Aruba,Americas,Caribbean,09,Oranjestad,San Nicolas,12.43624,-69.90713
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Santa Cruz,12.50953,-69.98094
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Savaneta,12.45026,-69.93811
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Tanki Leendert,12.53914,-70.02004
-AW,Aruba,Americas,Caribbean,09,Oranjestad,Washington,12.55837,-70.03816
-AW,Aruba,Americas,Caribbean,03,Oranjestad East,,,
-AW,Aruba,Americas,Caribbean,02,Oranjestad West,,,
-AW,Aruba,Americas,Caribbean,04,Paradera,,,
-AW,Aruba,Americas,Caribbean,05,San Nicolaas Noord,,,
-AW,Aruba,Americas,Caribbean,06,San Nicolaas Zuid,,,
-AW,Aruba,Americas,Caribbean,07,Santa Cruz,,,
-AW,Aruba,Americas,Caribbean,08,Savaneta,,,
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,01,Noord,region,región,,,
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Alto Vista,12.5705,-70.01912
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Moco,12.55134,-70.00843
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Noord,12.56596,-70.03198
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Oranjestad,12.52398,-70.02703
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Palm Beach,12.56847,-70.03887
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Paradera,12.5351,-70.00688
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Pos Chiquito,12.46497,-69.96233
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,San Nicolas,12.43624,-69.90713
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Santa Cruz,12.50953,-69.98094
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Savaneta,12.45026,-69.93811
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Tanki Leendert,12.53914,-70.02004
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,09,Oranjestad,capital city,ciudad capital,Washington,12.55837,-70.03816
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,03,Oranjestad East,region,región,,,
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,02,Oranjestad West,region,región,,,
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,04,Paradera,region,región,,,
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,05,San Nicolaas Noord,region,región,,,
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,06,San Nicolaas Zuid,region,región,,,
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,07,Santa Cruz,region,región,,,
+AW,Aruba,Aruba,Americas,América,Caribbean,Caribe,08,Savaneta,region,región,,,

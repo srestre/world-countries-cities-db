@@ -1,25 +1,25 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(212, 'Eswatini', 'SZ', 'SWZ', 'Africa', 'Southern Africa', 'Mbabane', 'SZL', -26.5, 31.5, '🇸🇿');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(212, 'Eswatini', 'Suazilandia', 'SZ', 'SWZ', 'Africa', 'África', 'Southern Africa', 'África Austral', 'Mbabane', 'SZL', -26.5, 31.5, '🇸🇿');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(969, 'Hhohho', 212, 'SZ', 'HH', 'region', -26.0988012, 31.3630822),
-(970, 'Lubombo', 212, 'SZ', 'LU', 'region', -26.55452, 31.8619116),
-(968, 'Manzini', 212, 'SZ', 'MA', 'region', -26.4976444, 31.3750815),
-(971, 'Shiselweni', 212, 'SZ', 'SH', 'region', -27.036022, 31.3321298);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(969, 'Hhohho', 'Hhohho', 212, 'SZ', 'HH', 'region', 'región', -26.0988012, 31.3630822),
+(970, 'Lubombo', 'Bitch', 212, 'SZ', 'LU', 'region', 'región', -26.55452, 31.8619116),
+(968, 'Manzini', 'Chic', 212, 'SZ', 'MA', 'region', 'región', -26.4976444, 31.3750815),
+(971, 'Shiselweni', 'Suspend', 212, 'SZ', 'SH', 'region', 'región', -27.036022, 31.3321298);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (105084, 'Bulembu', 969, 212, -25.96667, 31.13333),

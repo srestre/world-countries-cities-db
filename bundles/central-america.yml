@@ -1,5 +1,6 @@
 bundle: "central-america"
 name: "Central America"
+name_es: "Centroamérica"
 countries:
   -
     name: "Belize"
@@ -15,16 +16,20 @@ countries:
     currency_symbol: "$"
     tld: ".bz"
     region: "Americas"
+    region_es: "América"
     subregion: "Central America"
+    subregion_es: "Centroamérica"
     latitude: 17.25
     longitude: -88.75
     emoji: "🇧🇿"
     states:
       -
         name: "Belize"
+        native: "Belize"
         code: "BZ"
         iso3166_2: "BZ-BZ"
         type: "district"
+        type_es: "distrito"
         latitude: 17.5002768
         longitude: -88.1988737
         cities:
@@ -38,9 +43,11 @@ countries:
             longitude: -87.9659
       -
         name: "Cayo"
+        native: "Cayo"
         code: "CY"
         iso3166_2: "BZ-CY"
         type: "district"
+        type_es: "distrito"
         latitude: 17.1582776
         longitude: -89.0681672
         cities:
@@ -62,9 +69,11 @@ countries:
             longitude: -88.83472
       -
         name: "Corozal"
+        native: "Corozal"
         code: "CZL"
         iso3166_2: "BZ-CZL"
         type: "district"
+        type_es: "distrito"
         latitude: 18.2276324
         longitude: -88.2921257
         cities:
@@ -74,9 +83,11 @@ countries:
             longitude: -88.38849
       -
         name: "Orange Walk"
+        native: "Orange Walk"
         code: "OW"
         iso3166_2: "BZ-OW"
         type: "district"
+        type_es: "distrito"
         latitude: 17.7831833
         longitude: -88.8620283
         cities:
@@ -94,9 +105,11 @@ countries:
             longitude: -88.65452
       -
         name: "Stann Creek"
+        native: "Stann Creek"
         code: "SC"
         iso3166_2: "BZ-SC"
         type: "district"
+        type_es: "distrito"
         latitude: 16.9666599
         longitude: -88.2247368
         cities:
@@ -110,9 +123,11 @@ countries:
             longitude: -88.36647
       -
         name: "Toledo"
+        native: "Toledo"
         code: "TOL"
         iso3166_2: "BZ-TOL"
         type: "district"
+        type_es: "distrito"
         latitude: 16.1345572
         longitude: -88.8219041
         cities:
@@ -134,16 +149,20 @@ countries:
     currency_symbol: "₡"
     tld: ".cr"
     region: "Americas"
+    region_es: "América"
     subregion: "Central America"
+    subregion_es: "Centroamérica"
     latitude: 10
     longitude: -84
     emoji: "🇨🇷"
     states:
       -
         name: "Alajuela"
+        native: "Alajuela"
         code: "A"
         iso3166_2: "CR-A"
         type: "province"
+        type_es: "provincia"
         latitude: 10.4523316
         longitude: -84.4663284
         cities:
@@ -265,9 +284,11 @@ countries:
             longitude: -84.4
       -
         name: "Cartago"
+        native: "Cartago"
         code: "C"
         iso3166_2: "CR-C"
         type: "province"
+        type_es: "provincia"
         latitude: 9.8622311
         longitude: -83.9214187
         cities:
@@ -345,9 +366,11 @@ countries:
             longitude: -83.53333
       -
         name: "Guanacaste"
+        native: "Guanacaste"
         code: "G"
         iso3166_2: "CR-G"
         type: "province"
+        type_es: "provincia"
         latitude: 10.3788441
         longitude: -85.4338287
         cities:
@@ -417,9 +440,11 @@ countries:
             longitude: -84.97513
       -
         name: "Heredia"
+        native: "Heredia"
         code: "H"
         iso3166_2: "CR-H"
         type: "province"
+        type_es: "provincia"
         latitude: 10.3767813
         longitude: -84.0139721
         cities:
@@ -493,9 +518,11 @@ countries:
             longitude: -84
       -
         name: "Limón"
+        native: "Limón"
         code: "L"
         iso3166_2: "CR-L"
         type: "province"
+        type_es: "provincia"
         latitude: 9.9896398
         longitude: -83.0332417
         cities:
@@ -545,9 +572,11 @@ countries:
             longitude: -83.08333
       -
         name: "Puntarenas"
+        native: "Puntarenas"
         code: "P"
         iso3166_2: "CR-P"
         type: "province"
+        type_es: "provincia"
         latitude: 9.0953279
         longitude: -84.2003038
         cities:
@@ -629,9 +658,11 @@ countries:
             longitude: -82.97092
       -
         name: "San José"
+        native: "San José"
         code: "SJ"
         iso3166_2: "CR-SJ"
         type: "province"
+        type_es: "provincia"
         latitude: 9.9325427
         longitude: -84.0795782
         cities:
@@ -845,16 +876,20 @@ countries:
     currency_symbol: "$"
     tld: ".sv"
     region: "Americas"
+    region_es: "América"
     subregion: "Central America"
+    subregion_es: "Centroamérica"
     latitude: 13.83333333
     longitude: -88.91666666
     emoji: "🇸🇻"
     states:
       -
         name: "Ahuachapán"
+        native: "Ahuachapán"
         code: "AH"
         iso3166_2: "SV-AH"
         type: "department"
+        type_es: "departamento"
         latitude: 13.8634993
         longitude: -89.9273861
         cities:
@@ -888,9 +923,11 @@ countries:
             longitude: -89.92972
       -
         name: "Cabañas"
+        native: "Cabañas"
         code: "CA"
         iso3166_2: "SV-CA"
         type: "department"
+        type_es: "departamento"
         latitude: 13.8832914
         longitude: -88.7383096
         cities:
@@ -904,9 +941,11 @@ countries:
             longitude: -88.63333
       -
         name: "Chalatenango"
+        native: "Chalatenango"
         code: "CH"
         iso3166_2: "SV-CH"
         type: "department"
+        type_es: "departamento"
         latitude: 14.1765311
         longitude: -89.0932963
         cities:
@@ -920,9 +959,11 @@ countries:
             longitude: -89.3
       -
         name: "Cuscatlán"
+        native: "Cuscatlán"
         code: "CU"
         iso3166_2: "SV-CU"
         type: "department"
+        type_es: "departamento"
         latitude: 13.8586903
         longitude: -89.0632592
         cities:
@@ -948,9 +989,11 @@ countries:
             longitude: -88.98333
       -
         name: "La Libertad"
+        native: "La Libertad"
         code: "LI"
         iso3166_2: "SV-LI"
         type: "department"
+        type_es: "departamento"
         latitude: 13.7449622
         longitude: -89.3610819
         cities:
@@ -992,9 +1035,11 @@ countries:
             longitude: -89.28889
       -
         name: "La Paz"
+        native: "La Paz"
         code: "PA"
         iso3166_2: "SV-PA"
         type: "department"
+        type_es: "departamento"
         latitude: 13.4669766
         longitude: -88.9850622
         cities:
@@ -1020,9 +1065,11 @@ countries:
             longitude: -88.86667
       -
         name: "La Unión "
+        native: "La Unión "
         code: "UN"
         iso3166_2: "SV-UN"
         type: "department"
+        type_es: "departamento"
         latitude: 13.5326318
         longitude: -87.902582
         cities:
@@ -1060,9 +1107,11 @@ countries:
             longitude: -87.89361
       -
         name: "Morazán"
+        native: "Morazán"
         code: "MO"
         iso3166_2: "SV-MO"
         type: "department"
+        type_es: "departamento"
         latitude: 13.7726176
         longitude: -88.0951973
         cities:
@@ -1092,9 +1141,11 @@ countries:
             longitude: -88.01667
       -
         name: "San Miguel"
+        native: "San Miguel"
         code: "SM"
         iso3166_2: "SV-SM"
         type: "department"
+        type_es: "departamento"
         latitude: 13.4320224
         longitude: -88.271737
         cities:
@@ -1144,9 +1195,11 @@ countries:
             longitude: -88.36667
       -
         name: "San Salvador"
+        native: "San Salvador"
         code: "SS"
         iso3166_2: "SV-SS"
         type: "department"
+        type_es: "departamento"
         latitude: 13.735588
         longitude: -89.2005546
         cities:
@@ -1216,9 +1269,11 @@ countries:
             longitude: -89.11861
       -
         name: "San Vicente"
+        native: "San Vicente"
         code: "SV"
         iso3166_2: "SV-SV"
         type: "department"
+        type_es: "departamento"
         latitude: 13.5274935
         longitude: -88.7396986
         cities:
@@ -1236,9 +1291,11 @@ countries:
             longitude: -88.8
       -
         name: "Santa Ana"
+        native: "Santa Ana"
         code: "SA"
         iso3166_2: "SV-SA"
         type: "department"
+        type_es: "departamento"
         latitude: 14.1145585
         longitude: -89.5678141
         cities:
@@ -1272,9 +1329,11 @@ countries:
             longitude: -89.5
       -
         name: "Sonsonate"
+        native: "Sonsonate"
         code: "SO"
         iso3166_2: "SV-SO"
         type: "department"
+        type_es: "departamento"
         latitude: 13.7115105
         longitude: -89.6605842
         cities:
@@ -1312,9 +1371,11 @@ countries:
             longitude: -89.71472
       -
         name: "Usulután"
+        native: "Usulután"
         code: "US"
         iso3166_2: "SV-US"
         type: "department"
+        type_es: "departamento"
         latitude: 13.4324702
         longitude: -88.5398358
         cities:
@@ -1376,16 +1437,20 @@ countries:
     currency_symbol: "Q"
     tld: ".gt"
     region: "Americas"
+    region_es: "América"
     subregion: "Central America"
+    subregion_es: "Centroamérica"
     latitude: 15.5
     longitude: -90.25
     emoji: "🇬🇹"
     states:
       -
         name: "Alta Verapaz "
+        native: "Alta Verapaz "
         code: "16"
         iso3166_2: "GT-16"
         type: "department"
+        type_es: "departamento"
         latitude: 15.5949705
         longitude: -90.0918031
         cities:
@@ -1451,9 +1516,11 @@ countries:
             longitude: -90.06667
       -
         name: "Baja Verapaz "
+        native: "Baja Verapaz"
         code: "15"
         iso3166_2: "GT-15"
         type: "department"
+        type_es: "departamento"
         latitude: 15.1170798
         longitude: -90.4109616
         cities:
@@ -1491,9 +1558,11 @@ countries:
             longitude: -90.39442
       -
         name: "Chimaltenango "
+        native: "Chimaltenango"
         code: "04"
         iso3166_2: "GT-04"
         type: "department"
+        type_es: "departamento"
         latitude: 14.6539748
         longitude: -90.9272741
         cities:
@@ -1563,9 +1632,11 @@ countries:
             longitude: -90.89034
       -
         name: "Chiquimula "
+        native: "Chiquimula"
         code: "20"
         iso3166_2: "GT-20"
         type: "department"
+        type_es: "departamento"
         latitude: 14.8005709
         longitude: -89.5459173
         cities:
@@ -1615,9 +1686,11 @@ countries:
             longitude: -89.43014
       -
         name: "El Progreso "
+        native: "El Progreso"
         code: "02"
         iso3166_2: "GT-02"
         type: "department"
+        type_es: "departamento"
         latitude: 14.9100436
         longitude: -90.0682728
         cities:
@@ -1655,9 +1728,11 @@ countries:
             longitude: -90.11615
       -
         name: "Escuintla "
+        native: "Escuintla"
         code: "05"
         iso3166_2: "GT-05"
         type: "department"
+        type_es: "departamento"
         latitude: 14.1921287
         longitude: -91.0263791
         cities:
@@ -1715,9 +1790,11 @@ countries:
             longitude: -91.36063
       -
         name: "Guatemala "
+        native: "Guatemala"
         code: "01"
         iso3166_2: "GT-01"
         type: "department"
+        type_es: "departamento"
         latitude: 14.6416142
         longitude: -90.5132836
         cities:
@@ -1791,9 +1868,11 @@ countries:
             longitude: -90.58544
       -
         name: "Huehuetenango "
+        native: "Huehuetenango"
         code: "13"
         iso3166_2: "GT-13"
         type: "department"
+        type_es: "departamento"
         latitude: 15.606418
         longitude: -91.6442217
         cities:
@@ -1919,9 +1998,11 @@ countries:
             longitude: -91.60382
       -
         name: "Izabal "
+        native: "Izabal"
         code: "18"
         iso3166_2: "GT-18"
         type: "department"
+        type_es: "departamento"
         latitude: 15.5700584
         longitude: -88.9829247
         cities:
@@ -1955,9 +2036,11 @@ countries:
             longitude: -88.59444
       -
         name: "Jalapa "
+        native: "Jalapa"
         code: "21"
         iso3166_2: "GT-21"
         type: "department"
+        type_es: "departamento"
         latitude: 14.6344164
         longitude: -89.9897996
         cities:
@@ -1995,9 +2078,11 @@ countries:
             longitude: -89.85
       -
         name: "Jutiapa "
+        native: "Jutiapa"
         code: "22"
         iso3166_2: "GT-22"
         type: "department"
+        type_es: "departamento"
         latitude: 14.1476859
         longitude: -89.8872508
         cities:
@@ -2075,9 +2160,11 @@ countries:
             longitude: -89.83333
       -
         name: "Petén "
+        native: "Petén "
         code: "17"
         iso3166_2: "GT-17"
         type: "department"
+        type_es: "departamento"
         latitude: 16.8317906
         longitude: -90.0450637
         cities:
@@ -2159,9 +2246,11 @@ countries:
             longitude: -90.18801
       -
         name: "Quetzaltenango "
+        native: "Quetzaltenango"
         code: "09"
         iso3166_2: "GT-09"
         type: "department"
+        type_es: "departamento"
         latitude: 14.8594641
         longitude: -91.5931586
         cities:
@@ -2299,9 +2388,11 @@ countries:
             longitude: -91.48345
       -
         name: "Quiché "
+        native: "Quiché"
         code: "14"
         iso3166_2: "GT-14"
         type: "department"
+        type_es: "departamento"
         latitude: 15.4381786
         longitude: -91.0075186
         cities:
@@ -2463,9 +2554,11 @@ countries:
             longitude: -90.87815
       -
         name: "Retalhuleu "
+        native: "Retalhuleu"
         code: "11"
         iso3166_2: "GT-11"
         type: "department"
+        type_es: "departamento"
         latitude: 14.5359621
         longitude: -91.6780651
         cities:
@@ -2511,9 +2604,11 @@ countries:
             longitude: -91.62441
       -
         name: "Sacatepéquez "
+        native: "Sacatepéquez"
         code: "03"
         iso3166_2: "GT-03"
         type: "department"
+        type_es: "departamento"
         latitude: 14.5531759
         longitude: -90.7547018
         cities:
@@ -2611,9 +2706,11 @@ countries:
             longitude: -90.73427
       -
         name: "San Marcos "
+        native: "San Marcos"
         code: "12"
         iso3166_2: "GT-12"
         type: "department"
+        type_es: "departamento"
         latitude: 14.9533135
         longitude: -91.9120444
         cities:
@@ -2755,9 +2852,11 @@ countries:
             longitude: -91.80635
       -
         name: "Santa Rosa "
+        native: "Santa Rosa"
         code: "06"
         iso3166_2: "GT-06"
         type: "department"
+        type_es: "departamento"
         latitude: 14.1501523
         longitude: -90.3508818
         cities:
@@ -2831,9 +2930,11 @@ countries:
             longitude: -90.46791
       -
         name: "Sololá "
+        native: "Sololá"
         code: "07"
         iso3166_2: "GT-07"
         type: "department"
+        type_es: "departamento"
         latitude: 14.7039412
         longitude: -91.282818
         cities:
@@ -2931,9 +3032,11 @@ countries:
             longitude: -91.18333
       -
         name: "Suchitepéquez "
+        native: "Suchitepéquez"
         code: "10"
         iso3166_2: "GT-10"
         type: "department"
+        type_es: "departamento"
         latitude: 14.3740226
         longitude: -91.3650139
         cities:
@@ -3027,9 +3130,11 @@ countries:
             longitude: -91.5098
       -
         name: "Totonicapán "
+        native: "Totonicapán"
         code: "08"
         iso3166_2: "GT-08"
         type: "department"
+        type_es: "departamento"
         latitude: 14.9173402
         longitude: -91.3613923
         cities:
@@ -3079,9 +3184,11 @@ countries:
             longitude: -91.36111
       -
         name: "Zacapa"
+        native: "Zacapa"
         code: "19"
         iso3166_2: "GT-19"
         type: "department"
+        type_es: "departamento"
         latitude: 14.9707219
         longitude: -89.5297411
         cities:
@@ -3100,16 +3207,20 @@ countries:
     currency_symbol: "L"
     tld: ".hn"
     region: "Americas"
+    region_es: "América"
     subregion: "Central America"
+    subregion_es: "Centroamérica"
     latitude: 15
     longitude: -86.5
     emoji: "🇭🇳"
     states:
       -
         name: "Atlántida"
+        native: "Atlántida"
         code: "AT"
         iso3166_2: "HN-AT"
         type: "department"
+        type_es: "departamento"
         latitude: 15.8172492
         longitude: -87.1146935
         cities:
@@ -3195,9 +3306,11 @@ countries:
             longitude: -87.55
       -
         name: "Bay Islands"
+        native: "Islas de la Bahía"
         code: "IB"
         iso3166_2: "HN-IB"
         type: "department"
+        type_es: "departamento"
         latitude: 16.3217674
         longitude: -86.1786833
         cities:
@@ -3235,9 +3348,11 @@ countries:
             longitude: -86.9307
       -
         name: "Choluteca"
+        native: "Choluteca"
         code: "CH"
         iso3166_2: "HN-CH"
         type: "department"
+        type_es: "departamento"
         latitude: 13.3014081
         longitude: -87.1842323
         cities:
@@ -3343,9 +3458,11 @@ countries:
             longitude: -87.34833
       -
         name: "Colón"
+        native: "Colon"
         code: "CL"
         iso3166_2: "HN-CL"
         type: "department"
+        type_es: "departamento"
         latitude: 15.7149552
         longitude: -85.7023584
         cities:
@@ -3455,9 +3572,11 @@ countries:
             longitude: -86.06667
       -
         name: "Comayagua"
+        native: "Comayagua"
         code: "CM"
         iso3166_2: "HN-CM"
         type: "department"
+        type_es: "departamento"
         latitude: 14.5525837
         longitude: -87.6903154
         cities:
@@ -3607,9 +3726,11 @@ countries:
             longitude: -87.61667
       -
         name: "Copán"
+        native: "Copán"
         code: "CP"
         iso3166_2: "HN-CP"
         type: "department"
+        type_es: "departamento"
         latitude: 14.8958685
         longitude: -88.9255812
         cities:
@@ -3779,9 +3900,11 @@ countries:
             longitude: -88.7857
       -
         name: "Cortés"
+        native: "Cortés"
         code: "CR"
         iso3166_2: "HN-CR"
         type: "department"
+        type_es: "departamento"
         latitude: 15.4784073
         longitude: -88.0343858
         cities:
@@ -4011,9 +4134,11 @@ countries:
             longitude: -88
       -
         name: "El Paraíso"
+        native: "El Paraíso"
         code: "EP"
         iso3166_2: "HN-EP"
         type: "department"
+        type_es: "departamento"
         latitude: 13.9619941
         longitude: -86.5627921
         cities:
@@ -4147,9 +4272,11 @@ countries:
             longitude: -86.8317
       -
         name: "Francisco Morazán"
+        native: "Francisco Morazán"
         code: "FM"
         iso3166_2: "HN-FM"
         type: "department"
+        type_es: "departamento"
         latitude: 14.3430478
         longitude: -87.1141957
         cities:
@@ -4363,9 +4490,11 @@ countries:
             longitude: -87.4
       -
         name: "Gracias a Dios"
+        native: "Gracias a Dios"
         code: "GD"
         iso3166_2: "HN-GD"
         type: "department"
+        type_es: "departamento"
         latitude: 15.4333305
         longitude: -84.148687
         cities:
@@ -4419,9 +4548,11 @@ countries:
             longitude: -84.43333
       -
         name: "Intibucá"
+        native: "Intibucá"
         code: "IN"
         iso3166_2: "HN-IN"
         type: "department"
+        type_es: "departamento"
         latitude: 14.3121375
         longitude: -88.1780847
         cities:
@@ -4499,9 +4630,11 @@ countries:
             longitude: -88.24652
       -
         name: "La Paz"
+        native: "La Paz"
         code: "LP"
         iso3166_2: "HN-LP"
         type: "department"
+        type_es: "departamento"
         latitude: 14.1284089
         longitude: -87.9615276
         cities:
@@ -4595,9 +4728,11 @@ countries:
             longitude: -87.63333
       -
         name: "Lempira"
+        native: "Lempira"
         code: "LE"
         iso3166_2: "HN-LE"
         type: "department"
+        type_es: "departamento"
         latitude: 14.4556602
         longitude: -88.6188558
         cities:
@@ -4731,9 +4866,11 @@ countries:
             longitude: -88.56193
       -
         name: "Ocotepeque"
+        native: "Ocotepeque"
         code: "OC"
         iso3166_2: "HN-OC"
         type: "department"
+        type_es: "departamento"
         latitude: 14.4759433
         longitude: -89.0365633
         cities:
@@ -4823,9 +4960,11 @@ countries:
             longitude: -88.81667
       -
         name: "Olancho"
+        native: "Olancho"
         code: "OL"
         iso3166_2: "HN-OL"
         type: "department"
+        type_es: "departamento"
         latitude: 14.8211028
         longitude: -85.9549881
         cities:
@@ -4975,9 +5114,11 @@ countries:
             longitude: -86.26667
       -
         name: "Santa Bárbara"
+        native: "Santa Bárbara"
         code: "SB"
         iso3166_2: "HN-SB"
         type: "department"
+        type_es: "departamento"
         latitude: 15.0960558
         longitude: -88.3673692
         cities:
@@ -5187,9 +5328,11 @@ countries:
             longitude: -88.23333
       -
         name: "Valle"
+        native: "Valle"
         code: "VA"
         iso3166_2: "HN-VA"
         type: "department"
+        type_es: "departamento"
         latitude: 13.5110996
         longitude: -87.5472925
         cities:
@@ -5255,9 +5398,11 @@ countries:
             longitude: -87.40743
       -
         name: "Yoro"
+        native: "Yoro"
         code: "YO"
         iso3166_2: "HN-YO"
         type: "department"
+        type_es: "departamento"
         latitude: 15.2994474
         longitude: -87.2916981
         cities:
@@ -5443,16 +5588,20 @@ countries:
     currency_symbol: "C$"
     tld: ".ni"
     region: "Americas"
+    region_es: "América"
     subregion: "Central America"
+    subregion_es: "Centroamérica"
     latitude: 13
     longitude: -85
     emoji: "🇳🇮"
     states:
       -
         name: "Boaco"
+        native: "Reno"
         code: "BO"
         iso3166_2: "NI-BO"
         type: "department"
+        type_es: "departamento"
         latitude: 12.469284
         longitude: -85.6614682
         cities:
@@ -5482,9 +5631,11 @@ countries:
             longitude: -85.79798
       -
         name: "Carazo"
+        native: "Carazo"
         code: "CA"
         iso3166_2: "NI-CA"
         type: "department"
+        type_es: "departamento"
         latitude: 11.6619985
         longitude: -86.3125697
         cities:
@@ -5526,9 +5677,11 @@ countries:
             longitude: -86.21413
       -
         name: "Chinandega"
+        native: "Chinandega"
         code: "CI"
         iso3166_2: "NI-CI"
         type: "department"
+        type_es: "departamento"
         latitude: 12.7777962
         longitude: -87.269584
         cities:
@@ -5582,9 +5735,11 @@ countries:
             longitude: -86.90506
       -
         name: "Chontales"
+        native: "Chontales"
         code: "CO"
         iso3166_2: "NI-CO"
         type: "department"
+        type_es: "departamento"
         latitude: 11.9876753
         longitude: -85.1860798
         cities:
@@ -5626,9 +5781,11 @@ countries:
             longitude: -84.99362
       -
         name: "Estelí"
+        native: "Estelí"
         code: "ES"
         iso3166_2: "NI-ES"
         type: "department"
+        type_es: "departamento"
         latitude: 13.0931241
         longitude: -86.3554436
         cities:
@@ -5654,9 +5811,11 @@ countries:
             longitude: -86.61234
       -
         name: "Granada"
+        native: "Granada"
         code: "GR"
         iso3166_2: "NI-GR"
         type: "department"
+        type_es: "departamento"
         latitude: 11.9344073
         longitude: -85.9560005
         cities:
@@ -5678,9 +5837,11 @@ countries:
             longitude: -86.05286
       -
         name: "Jinotega"
+        native: "Jinotega"
         code: "JI"
         iso3166_2: "NI-JI"
         type: "department"
+        type_es: "departamento"
         latitude: 13.0883907
         longitude: -85.9993997
         cities:
@@ -5718,9 +5879,11 @@ countries:
             longitude: -86.18641
       -
         name: "León"
+        native: "León"
         code: "LE"
         iso3166_2: "NI-LE"
         type: "department"
+        type_es: "departamento"
         latitude: 12.5092037
         longitude: -86.6611083
         cities:
@@ -5766,9 +5929,11 @@ countries:
             longitude: -86.85938
       -
         name: "Madriz"
+        native: "Madriz"
         code: "MD"
         iso3166_2: "NI-MD"
         type: "department"
+        type_es: "departamento"
         latitude: 13.4272871
         longitude: -86.401622
         cities:
@@ -5810,9 +5975,11 @@ countries:
             longitude: -86.49305
       -
         name: "Managua"
+        native: "Gerencia"
         code: "MN"
         iso3166_2: "NI-MN"
         type: "department"
+        type_es: "departamento"
         latitude: 12.1080585
         longitude: -86.3505808
         cities:
@@ -5854,9 +6021,11 @@ countries:
             longitude: -86.50571
       -
         name: "Masaya"
+        native: "Es divertido"
         code: "MS"
         iso3166_2: "NI-MS"
         type: "department"
+        type_es: "departamento"
         latitude: 11.9736474
         longitude: -86.0960547
         cities:
@@ -5914,9 +6083,11 @@ countries:
             longitude: -86.01739
       -
         name: "Matagalpa"
+        native: "Matagalpa"
         code: "MT"
         iso3166_2: "NI-MT"
         type: "department"
+        type_es: "departamento"
         latitude: 12.940323
         longitude: -85.6960942
         cities:
@@ -5954,9 +6125,11 @@ countries:
             longitude: -85.96474
       -
         name: "North Caribbean Coast"
+        native: "Costa del Caribe del Norte"
         code: "AN"
         iso3166_2: "NI-AN"
         type: "autonomous region"
+        type_es: "región autónoma"
         latitude: 14.0557499
         longitude: -83.7475765
         cities:
@@ -5986,9 +6159,11 @@ countries:
             longitude: -83.9717
       -
         name: "Nueva Segovia"
+        native: "Nueva Segovia"
         code: "NS"
         iso3166_2: "NI-NS"
         type: "department"
+        type_es: "departamento"
         latitude: 13.7719023
         longitude: -86.0584542
         cities:
@@ -6042,9 +6217,11 @@ countries:
             longitude: -85.831697
       -
         name: "Río San Juan"
+        native: "Río San Juan"
         code: "SJ"
         iso3166_2: "NI-SJ"
         type: "department"
+        type_es: "departamento"
         latitude: 11.3080026
         longitude: -84.7550693
         cities:
@@ -6070,9 +6247,11 @@ countries:
             longitude: -84.89991
       -
         name: "Rivas"
+        native: "Rivas"
         code: "RI"
         iso3166_2: "NI-RI"
         type: "department"
+        type_es: "departamento"
         latitude: 11.3434687
         longitude: -85.7159624
         cities:
@@ -6158,9 +6337,11 @@ countries:
             longitude: -85.93891
       -
         name: "South Caribbean Coast"
+        native: "Costa del Caribe del Sur"
         code: "AS"
         iso3166_2: "NI-AS"
         type: "autonomous region"
+        type_es: "región autónoma"
         latitude: 12.1793275
         longitude: -83.7774051
         cities:
@@ -6218,16 +6399,20 @@ countries:
     currency_symbol: "B/."
     tld: ".pa"
     region: "Americas"
+    region_es: "América"
     subregion: "Central America"
+    subregion_es: "Centroamérica"
     latitude: 9
     longitude: -80
     emoji: "🇵🇦"
     states:
       -
         name: "Bocas del Toro"
+        native: "Bocas del Toro"
         code: "1"
         iso3166_2: "PA-1"
         type: "province"
+        type_es: "provincia"
         latitude: 9.3402964
         longitude: -82.2418169
         cities:
@@ -6313,9 +6498,11 @@ countries:
             longitude: -82.42748
       -
         name: "Chiriquí Province"
+        native: "Chiriquí Province"
         code: "4"
         iso3166_2: "PA-4"
         type: "province"
+        type_es: "provincia"
         latitude: 9.0287351
         longitude: -79.6223869
         cities:
@@ -6741,9 +6928,11 @@ countries:
             longitude: -82.63823
       -
         name: "Coclé"
+        native: "Coclé"
         code: "2"
         iso3166_2: "PA-2"
         type: "province"
+        type_es: "provincia"
         latitude: 8.5743137
         longitude: -80.4449059
         cities:
@@ -6937,9 +7126,11 @@ countries:
             longitude: -80.64012
       -
         name: "Colón"
+        native: "Colon"
         code: "3"
         iso3166_2: "PA-3"
         type: "province"
+        type_es: "provincia"
         latitude: 9.2353085
         longitude: -80.2532526
         cities:
@@ -7089,9 +7280,11 @@ countries:
             longitude: -79.4069
       -
         name: "Darién"
+        native: "Darién"
         code: "5"
         iso3166_2: "PA-5"
         type: "province"
+        type_es: "provincia"
         latitude: 8.2158991
         longitude: -78.0172551
         cities:
@@ -7141,9 +7334,11 @@ countries:
             longitude: -77.69276
       -
         name: "Emberá-Wounaan Comarca"
+        native: "Emberá-Wounaan Comarca"
         code: "EM"
         iso3166_2: "PA-EM"
         type: "indigenous region"
+        type_es: "región indígena"
         latitude: 8.4210754
         longitude: -77.592269
         cities:
@@ -7169,9 +7364,11 @@ countries:
             longitude: -77.59817
       -
         name: "Guna"
+        native: "Guna"
         code: "KY"
         iso3166_2: "PA-KY"
         type: "indigenous region"
+        type_es: "región indígena"
         latitude: 9.1591409
         longitude: -78.4553083
         cities:
@@ -7217,9 +7414,11 @@ countries:
             longitude: -77.9262
       -
         name: "Herrera"
+        native: "Herrera"
         code: "6"
         iso3166_2: "PA-6"
         type: "province"
+        type_es: "provincia"
         latitude: 7.854438
         longitude: -80.7436313
         cities:
@@ -7377,9 +7576,11 @@ countries:
             longitude: -80.66582
       -
         name: "Los Santos"
+        native: "Los Santos"
         code: "7"
         iso3166_2: "PA-7"
         type: "province"
+        type_es: "provincia"
         latitude: 7.8773471
         longitude: -80.4290617
         cities:
@@ -7665,9 +7866,11 @@ countries:
             longitude: -80.47029
       -
         name: "Naso Tjër Di"
+        native: "Naso Tjër Di"
         code: "NT"
         iso3166_2: "PA-NT"
         type: "indigenous region"
+        type_es: "región indígena"
         latitude: 9.2444
         longitude: -82.7353
         cities:
@@ -7689,9 +7892,11 @@ countries:
             longitude: -82.58333333
       -
         name: "Ngöbe-Buglé Comarca"
+        native: "Ngöbe-Buglé Comarca"
         code: "NB"
         iso3166_2: "PA-NB"
         type: "indigenous region"
+        type_es: "región indígena"
         latitude: 8.793244
         longitude: -81.7682694
         cities:
@@ -7813,9 +8018,11 @@ countries:
             longitude: -81.82471
       -
         name: "Panamá"
+        native: "Panamá"
         code: "8"
         iso3166_2: "PA-8"
         type: "province"
+        type_es: "provincia"
         latitude: 8.9714493
         longitude: -79.5341802
         cities:
@@ -8017,9 +8224,11 @@ countries:
             longitude: -79.36113
       -
         name: "Panamá Oeste"
+        native: "Panamá Oeste"
         code: "10"
         iso3166_2: "PA-10"
         type: "province"
+        type_es: "provincia"
         latitude: 8.730087
         longitude: -79.8755817
         cities:
@@ -8233,9 +8442,11 @@ countries:
             longitude: -79.7028
       -
         name: "Veraguas"
+        native: "Veraguas"
         code: "9"
         iso3166_2: "PA-9"
         type: "province"
+        type_es: "provincia"
         latitude: 8.2414131
         longitude: -81.0903464
         cities:

@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".pr"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 18.25
   longitude: -66.5
   emoji: "🇵🇷"
   states:
     -
       name: "Adjuntas"
+      native: "Adjuntas"
       code: "001"
       iso3166_2: "PR-001"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1634848
       longitude: -66.723158
       cities:
@@ -31,9 +35,11 @@
           longitude: -66.723158
     -
       name: "Aguada"
+      native: "Aguada"
       code: "003"
       iso3166_2: "PR-003"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3801579
       longitude: -67.188704
       cities:
@@ -43,9 +49,11 @@
           longitude: -67.188704
     -
       name: "Aguadilla"
+      native: "Aguadilla"
       code: "005"
       iso3166_2: "PR-005"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4496551
       longitude: -67.1184764
       cities:
@@ -55,9 +63,11 @@
           longitude: -67.1540698
     -
       name: "Aguas Buenas"
+      native: "Aguas Buenas"
       code: "007"
       iso3166_2: "PR-007"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2568989
       longitude: -66.1029442
       cities:
@@ -67,9 +77,11 @@
           longitude: -66.1029442
     -
       name: "Aibonito"
+      native: "Aibonito"
       code: "009"
       iso3166_2: "PR-009"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1281472
       longitude: -66.2692441
       cities:
@@ -79,9 +91,11 @@
           longitude: -66.2660016
     -
       name: "Añasco"
+      native: "Añasco"
       code: "011"
       iso3166_2: "PR-011"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2854476
       longitude: -67.1402935
       cities:
@@ -91,9 +105,11 @@
           longitude: -67.1402935
     -
       name: "Arecibo"
+      native: "Arecibo"
       code: "AR"
       iso3166_2: "PR-AR"
       type: "region"
+      type_es: "región"
       latitude: 18.47055556
       longitude: -66.72083333
       cities:
@@ -103,9 +119,11 @@
           longitude: -66.7218472
     -
       name: "Arroyo"
+      native: "Cauce seco de un río"
       code: "015"
       iso3166_2: "PR-015"
       type: "municipality"
+      type_es: "municipio"
       latitude: 17.9961993
       longitude: -66.0531683
       cities:
@@ -115,9 +133,11 @@
           longitude: -66.0924879
     -
       name: "Barceloneta"
+      native: "Barceloneta"
       code: "017"
       iso3166_2: "PR-017"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4546639
       longitude: -66.5386877
       cities:
@@ -127,9 +147,11 @@
           longitude: 2.1896957
     -
       name: "Barranquitas"
+      native: "Barranquita"
       code: "019"
       iso3166_2: "PR-019"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1866242
       longitude: -66.3062802
       cities:
@@ -139,9 +161,11 @@
           longitude: -66.3062802
     -
       name: "Bayamon"
+      native: "Bayamon"
       code: "BY"
       iso3166_2: "PR-BY"
       type: "region"
+      type_es: "región"
       latitude: 18.3449582
       longitude: -66.168374
       cities:
@@ -151,9 +175,11 @@
           longitude: -66.1653224
     -
       name: "Cabo Rojo"
+      native: "Cabo Rojo"
       code: "023"
       iso3166_2: "PR-023"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0866265
       longitude: -67.1457347
       cities:
@@ -163,9 +189,11 @@
           longitude: -67.1457347
     -
       name: "Caguas"
+      native: "Caguas"
       code: "CG"
       iso3166_2: "PR-CG"
       type: "region"
+      type_es: "región"
       latitude: 18.23333333
       longitude: -66.03333333
       cities:
@@ -175,9 +203,11 @@
           longitude: -66.035249
     -
       name: "Camuy"
+      native: "Camuleta"
       code: "027"
       iso3166_2: "PR-027"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.483833
       longitude: -66.8448994
       cities:
@@ -187,9 +217,11 @@
           longitude: -66.8448994
     -
       name: "Canóvanas"
+      native: "Canóvanas"
       code: "029"
       iso3166_2: "PR-029"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3748748
       longitude: -65.8997533
       cities:
@@ -199,9 +231,11 @@
           longitude: -65.8997533
     -
       name: "Carolina"
+      native: "Carolina"
       code: "CL"
       iso3166_2: "PR-CL"
       type: "region"
+      type_es: "región"
       latitude: 18.3808516
       longitude: -65.9570244
       cities:
@@ -211,9 +245,11 @@
           longitude: -66.0424734
     -
       name: "Cataño"
+      native: "Cataño"
       code: "033"
       iso3166_2: "PR-033"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4465355
       longitude: -66.1355775
       cities:
@@ -223,9 +259,11 @@
           longitude: -66.1355775
     -
       name: "Cayey"
+      native: "Cayey"
       code: "035"
       iso3166_2: "PR-035"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1119051
       longitude: -66.166
       cities:
@@ -235,9 +273,11 @@
           longitude: -66.166
     -
       name: "Ceiba"
+      native: "Ceiba"
       code: "037"
       iso3166_2: "PR-037"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1877139
       longitude: -65.894484
       cities:
@@ -247,9 +287,11 @@
           longitude: -65.9084953
     -
       name: "Ciales"
+      native: "Ciales"
       code: "039"
       iso3166_2: "PR-039"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3360622
       longitude: -66.4687823
       cities:
@@ -259,9 +301,11 @@
           longitude: -66.4687823
     -
       name: "Cidra"
+      native: "Trampas"
       code: "041"
       iso3166_2: "PR-041"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1757914
       longitude: -66.1612779
       cities:
@@ -271,9 +315,11 @@
           longitude: -66.1612779
     -
       name: "Coamo"
+      native: "Coamo"
       code: "043"
       iso3166_2: "PR-043"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0799616
       longitude: -66.3579473
       cities:
@@ -283,9 +329,11 @@
           longitude: -66.3579473
     -
       name: "Comerío"
+      native: "Comerío"
       code: "045"
       iso3166_2: "PR-045"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2192001
       longitude: -66.2256022
       cities:
@@ -295,9 +343,11 @@
           longitude: -66.2256022
     -
       name: "Corozal"
+      native: "Corozal"
       code: "047"
       iso3166_2: "PR-047"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3043878
       longitude: -66.3289186
       cities:
@@ -307,9 +357,11 @@
           longitude: -88.3967536
     -
       name: "Culebra"
+      native: "Culebra"
       code: "049"
       iso3166_2: "PR-049"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3136776
       longitude: -65.2826226
       cities:
@@ -319,9 +371,11 @@
           longitude: -65.3030705
     -
       name: "Dorado"
+      native: "Dorado"
       code: "051"
       iso3166_2: "PR-051"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4594766
       longitude: -66.2618846
       cities:
@@ -331,9 +385,11 @@
           longitude: -77.5772222
     -
       name: "Fajardo"
+      native: "Fajardo"
       code: "053"
       iso3166_2: "PR-053"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3252148
       longitude: -65.6539356
       cities:
@@ -343,9 +399,11 @@
           longitude: -65.6539356
     -
       name: "Florida"
+      native: "Florida"
       code: "054"
       iso3166_2: "PR-054"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3629772
       longitude: -66.5669961
       cities:
@@ -355,9 +413,11 @@
           longitude: -81.5157535
     -
       name: "Guánica"
+      native: "Guánica"
       code: "055"
       iso3166_2: "PR-055"
       type: "municipality"
+      type_es: "municipio"
       latitude: 17.9725145
       longitude: -66.9086264
       cities:
@@ -367,9 +427,11 @@
           longitude: -66.9086264
     -
       name: "Guayama"
+      native: "Guayama"
       code: "057"
       iso3166_2: "PR-057"
       type: "municipality"
+      type_es: "municipio"
       latitude: 17.9841328
       longitude: -66.1137767
       cities:
@@ -379,9 +441,11 @@
           longitude: -66.1137767
     -
       name: "Guayanilla"
+      native: "Guayanilla"
       code: "059"
       iso3166_2: "PR-059"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0191314
       longitude: -66.791842
       cities:
@@ -391,9 +455,11 @@
           longitude: -66.791842
     -
       name: "Guaynabo"
+      native: "Guaynabo"
       code: "GN"
       iso3166_2: "PR-GN"
       type: "region"
+      type_es: "región"
       latitude: 18.3591596
       longitude: -66.1156802
       cities:
@@ -403,9 +469,11 @@
           longitude: -66.1102957
     -
       name: "Gurabo"
+      native: "Gurabo"
       code: "063"
       iso3166_2: "PR-063"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2543987
       longitude: -65.9729421
       cities:
@@ -415,9 +483,11 @@
           longitude: -65.9729421
     -
       name: "Hatillo"
+      native: "Hatillo"
       code: "065"
       iso3166_2: "PR-065"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4071589
       longitude: -66.7959287
       cities:
@@ -427,9 +497,11 @@
           longitude: -66.7875321
     -
       name: "Hormigueros"
+      native: "Hormigueros"
       code: "067"
       iso3166_2: "PR-067"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1334638
       longitude: -67.1128123
       cities:
@@ -439,9 +511,11 @@
           longitude: -67.1128123
     -
       name: "Humacao"
+      native: "Humacao"
       code: "069"
       iso3166_2: "PR-069"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1515736
       longitude: -65.8248529
       cities:
@@ -451,9 +525,11 @@
           longitude: -65.8248529
     -
       name: "Isabela"
+      native: "Isabela"
       code: "071"
       iso3166_2: "PR-071"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.5007536
       longitude: -67.0237422
       cities:
@@ -463,9 +539,11 @@
           longitude: 121.8107079
     -
       name: "Jayuya"
+      native: "Jayuya"
       code: "073"
       iso3166_2: "PR-073"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2185674
       longitude: -66.5915617
       cities:
@@ -475,9 +553,11 @@
           longitude: -66.5915617
     -
       name: "Juana Díaz"
+      native: "Juana Díaz"
       code: "075"
       iso3166_2: "PR-075"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0534372
       longitude: -66.5075079
       cities:
@@ -487,9 +567,11 @@
           longitude: -66.5075079
     -
       name: "Juncos"
+      native: "Juncos"
       code: "077"
       iso3166_2: "PR-077"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2274558
       longitude: -65.920997
       cities:
@@ -499,9 +581,11 @@
           longitude: -65.920997
     -
       name: "Lajas"
+      native: "Lajas"
       code: "079"
       iso3166_2: "PR-079"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.049962
       longitude: -67.0593449
       cities:
@@ -511,9 +595,11 @@
           longitude: -67.0593449
     -
       name: "Lares"
+      native: "Casas"
       code: "081"
       iso3166_2: "PR-081"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2948683
       longitude: -66.8776045
       cities:
@@ -523,9 +609,11 @@
           longitude: -118.4594593
     -
       name: "Las Marías"
+      native: "Las Marías"
       code: "083"
       iso3166_2: "PR-083"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2522446
       longitude: -66.9918133
       cities:
@@ -535,9 +623,11 @@
           longitude: -78.6103566
     -
       name: "Las Piedras"
+      native: "Las Piedras"
       code: "085"
       iso3166_2: "PR-085"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1824445
       longitude: -65.8646741
       cities:
@@ -547,9 +637,11 @@
           longitude: -65.8736245
     -
       name: "Loíza"
+      native: "Flojo"
       code: "087"
       iso3166_2: "PR-087"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4329904
       longitude: -65.87836
       cities:
@@ -559,9 +651,11 @@
           longitude: -65.87836
     -
       name: "Luquillo"
+      native: "Luquillo"
       code: "089"
       iso3166_2: "PR-089"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3724507
       longitude: -65.7165511
       cities:
@@ -571,9 +665,11 @@
           longitude: -65.7165511
     -
       name: "Manatí"
+      native: "Manatí"
       code: "091"
       iso3166_2: "PR-091"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4182467
       longitude: -66.49178
       cities:
@@ -583,9 +679,11 @@
           longitude: -66.5262783
     -
       name: "Maricao"
+      native: "Maricao"
       code: "093"
       iso3166_2: "PR-093"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1807902
       longitude: -66.9799001
       cities:
@@ -595,9 +693,11 @@
           longitude: -66.9799001
     -
       name: "Maunabo"
+      native: "Maunaloa, establecimiento"
       code: "095"
       iso3166_2: "PR-095"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0071885
       longitude: -65.8993289
       cities:
@@ -607,9 +707,11 @@
           longitude: -65.8993289
     -
       name: "Mayagüez"
+      native: "Mayagüez"
       code: "MG"
       iso3166_2: "PR-MG"
       type: "region"
+      type_es: "región"
       latitude: 18.20111111
       longitude: -67.13972222
       cities:
@@ -619,9 +721,11 @@
           longitude: -67.1451549
     -
       name: "Moca"
+      native: "Moca"
       code: "099"
       iso3166_2: "PR-099"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3947512
       longitude: -67.113679
       cities:
@@ -631,9 +735,11 @@
           longitude: -67.1479035
     -
       name: "Morovis"
+      native: "Morovis"
       code: "101"
       iso3166_2: "PR-101"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.325785
       longitude: -66.4065592
       cities:
@@ -643,9 +749,11 @@
           longitude: -66.4065592
     -
       name: "Naguabo"
+      native: "Naguabo"
       code: "103"
       iso3166_2: "PR-103"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2116247
       longitude: -65.7348841
       cities:
@@ -655,9 +763,11 @@
           longitude: -65.7348841
     -
       name: "Naranjito"
+      native: "Naranjito"
       code: "105"
       iso3166_2: "PR-105"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3007861
       longitude: -66.2448904
       cities:
@@ -667,9 +777,11 @@
           longitude: -66.2448904
     -
       name: "Orocovis"
+      native: "Orocovis"
       code: "107"
       iso3166_2: "PR-107"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2269224
       longitude: -66.3911686
       cities:
@@ -679,9 +791,11 @@
           longitude: -66.3911686
     -
       name: "Patillas"
+      native: "Patillas"
       code: "109"
       iso3166_2: "PR-109"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0037381
       longitude: -66.0134059
       cities:
@@ -691,9 +805,11 @@
           longitude: -66.0134059
     -
       name: "Peñuelas"
+      native: "Peñuelas"
       code: "111"
       iso3166_2: "PR-111"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0633577
       longitude: -66.7273896
       cities:
@@ -703,9 +819,11 @@
           longitude: -66.7273896
     -
       name: "Ponce"
+      native: "Ponce"
       code: "PO"
       iso3166_2: "PR-PO"
       type: "region"
+      type_es: "región"
       latitude: 18.011564
       longitude: -66.613958
       cities:
@@ -715,9 +833,11 @@
           longitude: -66.6140616
     -
       name: "Quebradillas"
+      native: "Quebradillas"
       code: "115"
       iso3166_2: "PR-115"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.473833
       longitude: -66.938512
       cities:
@@ -727,9 +847,11 @@
           longitude: -66.938512
     -
       name: "Rincón"
+      native: "Rincón"
       code: "117"
       iso3166_2: "PR-117"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3362074
       longitude: -67.2321202
       cities:
@@ -739,9 +861,11 @@
           longitude: -67.2499459
     -
       name: "Río Grande"
+      native: "Río Grande"
       code: "119"
       iso3166_2: "PR-119"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3606321
       longitude: -67.2368723
       cities:
@@ -751,9 +875,11 @@
           longitude: -101.8353878
     -
       name: "Sabana Grande"
+      native: "Sabana Grande"
       code: "121"
       iso3166_2: "PR-121"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0777392
       longitude: -66.9604549
       cities:
@@ -763,9 +889,11 @@
           longitude: -66.9604549
     -
       name: "Salinas"
+      native: "Salinas"
       code: "123"
       iso3166_2: "PR-123"
       type: "municipality"
+      type_es: "municipio"
       latitude: 17.9769779
       longitude: -66.2980187
       cities:
@@ -775,9 +903,11 @@
           longitude: -121.6555013
     -
       name: "San Germán"
+      native: "San Germán"
       code: "125"
       iso3166_2: "PR-125"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0807082
       longitude: -67.0411096
       cities:
@@ -787,9 +917,11 @@
           longitude: -67.0411096
     -
       name: "San Juan"
+      native: "San Juan"
       code: "SJ"
       iso3166_2: "PR-SJ"
       type: "region"
+      type_es: "región"
       latitude: 18.384239
       longitude: -66.05344
       cities:
@@ -799,9 +931,11 @@
           longitude: -66.1147571
     -
       name: "San Lorenzo"
+      native: "San Lorenzo"
       code: "129"
       iso3166_2: "PR-129"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1904303
       longitude: -65.9611794
       cities:
@@ -811,9 +945,11 @@
           longitude: -65.9765862
     -
       name: "San Sebastián"
+      native: "San Sebastián"
       code: "131"
       iso3166_2: "PR-131"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.32346
       longitude: -66.972837
       cities:
@@ -823,9 +959,11 @@
           longitude: -1.9812313
     -
       name: "Santa Isabel"
+      native: "Santa Isabel"
       code: "133"
       iso3166_2: "PR-133"
       type: "municipality"
+      type_es: "municipio"
       latitude: 17.9660775
       longitude: -66.404892
       cities:
@@ -835,9 +973,11 @@
           longitude: -66.404892
     -
       name: "Toa Alta"
+      native: "Toa debajo"
       code: "135"
       iso3166_2: "PR-135"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.3882823
       longitude: -66.2482237
       cities:
@@ -847,9 +987,11 @@
           longitude: -66.2482237
     -
       name: "Toa Baja"
+      native: "Toa acero"
       code: "TB"
       iso3166_2: "PR-TB"
       type: "region"
+      type_es: "región"
       latitude: 18.443889
       longitude: -66.259722
       cities:
@@ -859,9 +1001,11 @@
           longitude: -66.2543293
     -
       name: "Trujillo Alto"
+      native: "Trujillo Alto"
       code: "TA"
       iso3166_2: "PR-TA"
       type: "region"
+      type_es: "región"
       latitude: 18.3542408
       longitude: -66.007377
       cities:
@@ -871,9 +1015,11 @@
           longitude: -66.0073876
     -
       name: "Utuado"
+      native: "Utilizado"
       code: "141"
       iso3166_2: "PR-141"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.2655095
       longitude: -66.7004519
       cities:
@@ -883,9 +1029,11 @@
           longitude: -66.7004519
     -
       name: "Vega Alta"
+      native: "Vega Alta"
       code: "143"
       iso3166_2: "PR-143"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4121703
       longitude: -66.3312805
       cities:
@@ -895,9 +1043,11 @@
           longitude: -66.3312805
     -
       name: "Vega Baja"
+      native: "Vega Baja"
       code: "145"
       iso3166_2: "PR-145"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.4445314
       longitude: -66.387587
       cities:
@@ -907,9 +1057,11 @@
           longitude: -66.4041967
     -
       name: "Vieques"
+      native: "Componentes"
       code: "147"
       iso3166_2: "PR-147"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1215622
       longitude: -65.457464
       cities:
@@ -919,9 +1071,11 @@
           longitude: -65.4400985
     -
       name: "Villalba"
+      native: "Villalba"
       code: "149"
       iso3166_2: "PR-149"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.1217554
       longitude: -66.4985787
       cities:
@@ -931,9 +1085,11 @@
           longitude: -66.4985787
     -
       name: "Yabucoa"
+      native: "Yabucoa"
       code: "151"
       iso3166_2: "PR-151"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.0505201
       longitude: -65.8793288
       cities:
@@ -943,9 +1099,11 @@
           longitude: -65.8793288
     -
       name: "Yauco"
+      native: "Yauco"
       code: "153"
       iso3166_2: "PR-153"
       type: "municipality"
+      type_es: "municipio"
       latitude: 18.034964
       longitude: -66.8498983
       cities:

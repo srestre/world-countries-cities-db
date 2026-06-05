@@ -12,7 +12,9 @@
   currency_symbol: "£"
   tld: ".fk"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -51.75
   longitude: -59
   emoji: "🇫🇰"

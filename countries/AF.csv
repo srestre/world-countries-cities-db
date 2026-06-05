@@ -1,101 +1,101 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-AF,Afghanistan,Asia,Southern Asia,BDS,Badakhshan,Ashkāsham,36.68333,71.53333
-AF,Afghanistan,Asia,Southern Asia,BDS,Badakhshan,Fayzabad,37.11664,70.58002
-AF,Afghanistan,Asia,Southern Asia,BDS,Badakhshan,Jurm,36.86477,70.83421
-AF,Afghanistan,Asia,Southern Asia,BDS,Badakhshan,Khandūd,36.95127,72.318
-AF,Afghanistan,Asia,Southern Asia,BDS,Badakhshan,Rāghistān,37.66079,70.67346
-AF,Afghanistan,Asia,Southern Asia,BDS,Badakhshan,Wākhān,37.0571,73.34928
-AF,Afghanistan,Asia,Southern Asia,BDG,Badghis,Ghormach,35.73062,63.78264
-AF,Afghanistan,Asia,Southern Asia,BDG,Badghis,Qala i Naw,34.98735,63.12891
-AF,Afghanistan,Asia,Southern Asia,BGL,Baghlan,Baghlān,36.13068,68.70829
-AF,Afghanistan,Asia,Southern Asia,BGL,Baghlan,Ḩukūmatī Dahanah-ye Ghōrī,35.90617,68.48869
-AF,Afghanistan,Asia,Southern Asia,BGL,Baghlan,Nahrīn,36.0649,69.13343
-AF,Afghanistan,Asia,Southern Asia,BGL,Baghlan,Pul-e Khumrī,35.94458,68.71512
-AF,Afghanistan,Asia,Southern Asia,BAL,Balkh,Balkh,36.75635,66.8972
-AF,Afghanistan,Asia,Southern Asia,BAL,Balkh,Dowlatābād,36.98821,66.82069
-AF,Afghanistan,Asia,Southern Asia,BAL,Balkh,Khulm,36.69736,67.69826
-AF,Afghanistan,Asia,Southern Asia,BAL,Balkh,Lab-Sar,36.02634,66.83799
-AF,Afghanistan,Asia,Southern Asia,BAL,Balkh,Mazār-e Sharīf,36.70904,67.11087
-AF,Afghanistan,Asia,Southern Asia,BAL,Balkh,Qarchī Gak,37.03999,66.78891
-AF,Afghanistan,Asia,Southern Asia,BAM,Bamyan,Bāmyān,34.82156,67.82734
-AF,Afghanistan,Asia,Southern Asia,BAM,Bamyan,Panjāb,34.38795,67.02327
-AF,Afghanistan,Asia,Southern Asia,DAY,Daykundi,Nīlī,33.76329,66.07617
-AF,Afghanistan,Asia,Southern Asia,FRA,Farah,Farah,32.37451,62.11638
-AF,Afghanistan,Asia,Southern Asia,FYB,Faryab,Andkhoy,36.95293,65.12376
-AF,Afghanistan,Asia,Southern Asia,FYB,Faryab,Maymana,35.92139,64.78361
-AF,Afghanistan,Asia,Southern Asia,GHA,Ghazni,Ghazni,33.55391,68.42096
-AF,Afghanistan,Asia,Southern Asia,GHO,Ghōr,Fayrōz Kōh,34.51952,65.25093
-AF,Afghanistan,Asia,Southern Asia,GHO,Ghōr,Shahrak,34.10737,64.3052
-AF,Afghanistan,Asia,Southern Asia,HEL,Helmand,‘Alāqahdārī Dīshū,30.43206,63.29802
-AF,Afghanistan,Asia,Southern Asia,HEL,Helmand,Gereshk,31.82089,64.57005
-AF,Afghanistan,Asia,Southern Asia,HEL,Helmand,Lashkar Gāh,31.59382,64.37161
-AF,Afghanistan,Asia,Southern Asia,HEL,Helmand,Markaz-e Ḩukūmat-e Darwēshān,31.13231,64.1934
-AF,Afghanistan,Asia,Southern Asia,HEL,Helmand,Sangīn,32.07275,64.8359
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Chahār Burj,34.24475,62.19165
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Ghōriyān,34.3448,61.49321
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Herāt,34.34817,62.19967
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Kafir Qala,34.66667,61.06667
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Karukh,34.48108,62.5863
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Kuhsān,34.65389,61.19778
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Kushk,33.29565,61.95221
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Qarah Bāgh,34.94023,61.77589
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Shīnḏanḏ,33.30294,62.1474
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Tīr Pul,34.59431,61.26895
-AF,Afghanistan,Asia,Southern Asia,HER,Herat,Zindah Jān,34.34264,61.74675
-AF,Afghanistan,Asia,Southern Asia,JOW,Jowzjan,Āqchah,36.905,66.18341
-AF,Afghanistan,Asia,Southern Asia,JOW,Jowzjan,Darzāb,35.97744,65.37828
-AF,Afghanistan,Asia,Southern Asia,JOW,Jowzjan,Qarqīn,37.41853,66.04358
-AF,Afghanistan,Asia,Southern Asia,JOW,Jowzjan,Shibirghān,36.66757,65.7529
-AF,Afghanistan,Asia,Southern Asia,KAB,Kabul,Kabul,34.52813,69.17233
-AF,Afghanistan,Asia,Southern Asia,KAB,Kabul,Mīr Bachah Kōṯ,34.74999,69.11899
-AF,Afghanistan,Asia,Southern Asia,KAB,Kabul,Paghmān,34.58787,68.95091
-AF,Afghanistan,Asia,Southern Asia,KAN,Kandahar,Kandahār,31.61332,65.71013
-AF,Afghanistan,Asia,Southern Asia,KAP,Kapisa,Sidqābād,35.02298,69.35112
-AF,Afghanistan,Asia,Southern Asia,KHO,Khost,Khōst,33.33951,69.92041
-AF,Afghanistan,Asia,Southern Asia,KNR,Kunar,Asadabad,34.87311,71.14697
-AF,Afghanistan,Asia,Southern Asia,KNR,Kunar,Āsmār,35.03333,71.35809
-AF,Afghanistan,Asia,Southern Asia,KDZ,Kunduz Province,Dasht-e Archī,37.13333,69.16667
-AF,Afghanistan,Asia,Southern Asia,KDZ,Kunduz Province,Imām Şāḩib,37.18897,68.93644
-AF,Afghanistan,Asia,Southern Asia,KDZ,Kunduz Province,Khanabad,36.6825,69.11556
-AF,Afghanistan,Asia,Southern Asia,KDZ,Kunduz Province,Kunduz,36.72895,68.857
-AF,Afghanistan,Asia,Southern Asia,KDZ,Kunduz Province,Qarāwul,37.21959,68.7802
-AF,Afghanistan,Asia,Southern Asia,LAG,Laghman,Mehtar Lām,34.67139,70.20944
-AF,Afghanistan,Asia,Southern Asia,LOG,Logar,Baraki Barak,33.96744,68.9492
-AF,Afghanistan,Asia,Southern Asia,LOG,Logar,Ḩukūmatī Azrah,34.17355,69.64573
-AF,Afghanistan,Asia,Southern Asia,LOG,Logar,Pul-e ‘Alam,33.99529,69.02274
-AF,Afghanistan,Asia,Southern Asia,NAN,Nangarhar,Bāsawul,34.24749,70.87218
-AF,Afghanistan,Asia,Southern Asia,NAN,Nangarhar,Jalālābād,34.42647,70.45153
-AF,Afghanistan,Asia,Southern Asia,NIM,Nimruz,Khāsh,31.52919,62.79055
-AF,Afghanistan,Asia,Southern Asia,NIM,Nimruz,Mīrābād,30.43624,61.8383
-AF,Afghanistan,Asia,Southern Asia,NIM,Nimruz,Rūdbār,30.15,62.6
-AF,Afghanistan,Asia,Southern Asia,NIM,Nimruz,Zaranj,30.95962,61.86037
-AF,Afghanistan,Asia,Southern Asia,NUR,Nuristan,Pārūn,35.42064,70.92261
-AF,Afghanistan,Asia,Southern Asia,PIA,Paktia,Gardez,33.59744,69.22592
-AF,Afghanistan,Asia,Southern Asia,PKA,Paktika,Saṟōbī,32.75221,69.04587
-AF,Afghanistan,Asia,Southern Asia,PKA,Paktika,Zaṟah Sharan,33.14641,68.79213
-AF,Afghanistan,Asia,Southern Asia,PKA,Paktika,Zarghūn Shahr,32.84734,68.44573
-AF,Afghanistan,Asia,Southern Asia,PAN,Panjshir,Bāzārak,35.31292,69.51519
-AF,Afghanistan,Asia,Southern Asia,PAR,Parwan,Charikar,35.01361,69.17139
-AF,Afghanistan,Asia,Southern Asia,PAR,Parwan,Jabal os Saraj,35.11833,69.23778
-AF,Afghanistan,Asia,Southern Asia,SAM,Samangan,Aībak,36.26468,68.01551
-AF,Afghanistan,Asia,Southern Asia,SAR,Sar-e Pol,Chīras,35.41674,65.98234
-AF,Afghanistan,Asia,Southern Asia,SAR,Sar-e Pol,Larkird,35.48936,66.66409
-AF,Afghanistan,Asia,Southern Asia,SAR,Sar-e Pol,Qal‘ah-ye Shahr,35.54729,65.5676
-AF,Afghanistan,Asia,Southern Asia,SAR,Sar-e Pol,Sang-e Chārak,35.84972,66.43694
-AF,Afghanistan,Asia,Southern Asia,SAR,Sar-e Pol,Sar-e Pul,36.21544,65.93249
-AF,Afghanistan,Asia,Southern Asia,SAR,Sar-e Pol,Tagāw-Bāy,35.69941,66.06164
-AF,Afghanistan,Asia,Southern Asia,SAR,Sar-e Pol,Tukzār,35.94831,66.42132
-AF,Afghanistan,Asia,Southern Asia,TAK,Takhar,Ārt Khwājah,37.08571,69.47958
-AF,Afghanistan,Asia,Southern Asia,TAK,Takhar,Taloqan,36.73605,69.53451
-AF,Afghanistan,Asia,Southern Asia,URU,Urozgan,Tarinkot,32.62998,65.87806
-AF,Afghanistan,Asia,Southern Asia,URU,Urozgan,Uruzgān,32.92775,66.63253
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Chaki Wardak,34.29,68.58
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Day Mirdad,34.5,69
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Hisa-i-Awali Bihsud,34.65,68.18
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Jaghatu,34.08,68.45
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Jalrez,34.52,68.78
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Maidan Shahr,34.38,68.54
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Markaz-i-Bihsud,34.55,67.8
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Nerkh,34.49,68.51
-AF,Afghanistan,Asia,Southern Asia,WAR,Wardak,Sayed Abad,34,68.63
-AF,Afghanistan,Asia,Southern Asia,ZAB,Zabul,Qalāt,32.10575,66.90833
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDS,Badakhshan,province,provincia,Ashkāsham,36.68333,71.53333
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDS,Badakhshan,province,provincia,Fayzabad,37.11664,70.58002
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDS,Badakhshan,province,provincia,Jurm,36.86477,70.83421
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDS,Badakhshan,province,provincia,Khandūd,36.95127,72.318
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDS,Badakhshan,province,provincia,Rāghistān,37.66079,70.67346
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDS,Badakhshan,province,provincia,Wākhān,37.0571,73.34928
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDG,Badghis,province,provincia,Ghormach,35.73062,63.78264
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BDG,Badghis,province,provincia,Qala i Naw,34.98735,63.12891
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BGL,Baghlan,province,provincia,Baghlān,36.13068,68.70829
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BGL,Baghlan,province,provincia,Ḩukūmatī Dahanah-ye Ghōrī,35.90617,68.48869
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BGL,Baghlan,province,provincia,Nahrīn,36.0649,69.13343
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BGL,Baghlan,province,provincia,Pul-e Khumrī,35.94458,68.71512
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAL,Balkh,province,provincia,Balkh,36.75635,66.8972
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAL,Balkh,province,provincia,Dowlatābād,36.98821,66.82069
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAL,Balkh,province,provincia,Khulm,36.69736,67.69826
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAL,Balkh,province,provincia,Lab-Sar,36.02634,66.83799
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAL,Balkh,province,provincia,Mazār-e Sharīf,36.70904,67.11087
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAL,Balkh,province,provincia,Qarchī Gak,37.03999,66.78891
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAM,Bamyan,province,provincia,Bāmyān,34.82156,67.82734
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,BAM,Bamyan,province,provincia,Panjāb,34.38795,67.02327
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,DAY,Daykundi,province,provincia,Nīlī,33.76329,66.07617
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,FRA,Farah,province,provincia,Farah,32.37451,62.11638
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,FYB,Faryab,province,provincia,Andkhoy,36.95293,65.12376
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,FYB,Faryab,province,provincia,Maymana,35.92139,64.78361
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,GHA,Ghazni,province,provincia,Ghazni,33.55391,68.42096
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,GHO,Ghōr,province,provincia,Fayrōz Kōh,34.51952,65.25093
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,GHO,Ghōr,province,provincia,Shahrak,34.10737,64.3052
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HEL,Helmand,province,provincia,‘Alāqahdārī Dīshū,30.43206,63.29802
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HEL,Helmand,province,provincia,Gereshk,31.82089,64.57005
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HEL,Helmand,province,provincia,Lashkar Gāh,31.59382,64.37161
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HEL,Helmand,province,provincia,Markaz-e Ḩukūmat-e Darwēshān,31.13231,64.1934
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HEL,Helmand,province,provincia,Sangīn,32.07275,64.8359
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Chahār Burj,34.24475,62.19165
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Ghōriyān,34.3448,61.49321
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Herāt,34.34817,62.19967
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Kafir Qala,34.66667,61.06667
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Karukh,34.48108,62.5863
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Kuhsān,34.65389,61.19778
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Kushk,33.29565,61.95221
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Qarah Bāgh,34.94023,61.77589
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Shīnḏanḏ,33.30294,62.1474
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Tīr Pul,34.59431,61.26895
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,HER,Herat,province,provincia,Zindah Jān,34.34264,61.74675
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,JOW,Jowzjan,province,provincia,Āqchah,36.905,66.18341
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,JOW,Jowzjan,province,provincia,Darzāb,35.97744,65.37828
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,JOW,Jowzjan,province,provincia,Qarqīn,37.41853,66.04358
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,JOW,Jowzjan,province,provincia,Shibirghān,36.66757,65.7529
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KAB,Kabul,province,provincia,Kabul,34.52813,69.17233
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KAB,Kabul,province,provincia,Mīr Bachah Kōṯ,34.74999,69.11899
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KAB,Kabul,province,provincia,Paghmān,34.58787,68.95091
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KAN,Kandahar,province,provincia,Kandahār,31.61332,65.71013
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KAP,Kapisa,province,provincia,Sidqābād,35.02298,69.35112
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KHO,Khost,province,provincia,Khōst,33.33951,69.92041
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KNR,Kunar,province,provincia,Asadabad,34.87311,71.14697
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KNR,Kunar,province,provincia,Āsmār,35.03333,71.35809
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KDZ,Kunduz Province,province,provincia,Dasht-e Archī,37.13333,69.16667
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KDZ,Kunduz Province,province,provincia,Imām Şāḩib,37.18897,68.93644
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KDZ,Kunduz Province,province,provincia,Khanabad,36.6825,69.11556
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KDZ,Kunduz Province,province,provincia,Kunduz,36.72895,68.857
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,KDZ,Kunduz Province,province,provincia,Qarāwul,37.21959,68.7802
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,LAG,Laghman,province,provincia,Mehtar Lām,34.67139,70.20944
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,LOG,Logar,province,provincia,Baraki Barak,33.96744,68.9492
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,LOG,Logar,province,provincia,Ḩukūmatī Azrah,34.17355,69.64573
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,LOG,Logar,province,provincia,Pul-e ‘Alam,33.99529,69.02274
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,NAN,Nangarhar,province,provincia,Bāsawul,34.24749,70.87218
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,NAN,Nangarhar,province,provincia,Jalālābād,34.42647,70.45153
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,NIM,Nimruz,province,provincia,Khāsh,31.52919,62.79055
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,NIM,Nimruz,province,provincia,Mīrābād,30.43624,61.8383
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,NIM,Nimruz,province,provincia,Rūdbār,30.15,62.6
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,NIM,Nimruz,province,provincia,Zaranj,30.95962,61.86037
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,NUR,Nuristan,province,provincia,Pārūn,35.42064,70.92261
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,PIA,Paktia,province,provincia,Gardez,33.59744,69.22592
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,PKA,Paktika,province,provincia,Saṟōbī,32.75221,69.04587
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,PKA,Paktika,province,provincia,Zaṟah Sharan,33.14641,68.79213
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,PKA,Paktika,province,provincia,Zarghūn Shahr,32.84734,68.44573
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,PAN,Panjshir,province,provincia,Bāzārak,35.31292,69.51519
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,PAR,Parwan,province,provincia,Charikar,35.01361,69.17139
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,PAR,Parwan,province,provincia,Jabal os Saraj,35.11833,69.23778
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAM,Samangan,province,provincia,Aībak,36.26468,68.01551
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAR,Sar-e Pol,province,provincia,Chīras,35.41674,65.98234
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAR,Sar-e Pol,province,provincia,Larkird,35.48936,66.66409
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAR,Sar-e Pol,province,provincia,Qal‘ah-ye Shahr,35.54729,65.5676
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAR,Sar-e Pol,province,provincia,Sang-e Chārak,35.84972,66.43694
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAR,Sar-e Pol,province,provincia,Sar-e Pul,36.21544,65.93249
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAR,Sar-e Pol,province,provincia,Tagāw-Bāy,35.69941,66.06164
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,SAR,Sar-e Pol,province,provincia,Tukzār,35.94831,66.42132
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,TAK,Takhar,province,provincia,Ārt Khwājah,37.08571,69.47958
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,TAK,Takhar,province,provincia,Taloqan,36.73605,69.53451
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,URU,Urozgan,province,provincia,Tarinkot,32.62998,65.87806
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,URU,Urozgan,province,provincia,Uruzgān,32.92775,66.63253
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Chaki Wardak,34.29,68.58
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Day Mirdad,34.5,69
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Hisa-i-Awali Bihsud,34.65,68.18
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Jaghatu,34.08,68.45
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Jalrez,34.52,68.78
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Maidan Shahr,34.38,68.54
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Markaz-i-Bihsud,34.55,67.8
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Nerkh,34.49,68.51
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,WAR,Wardak,province,provincia,Sayed Abad,34,68.63
+AF,Afghanistan,Afganistán,Asia,Asia,Southern Asia,Asia del Sur,ZAB,Zabul,province,provincia,Qalāt,32.10575,66.90833

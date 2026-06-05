@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(94, 'Guyana', 'GY', 'GUY', 'Americas', 'South America', 'Georgetown', 'GYD', 5, -59, '🇬🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(94, 'Guyana', 'Guyana', 'GY', 'GUY', 'Americas', 'América', 'South America', 'Sudamérica', 'Georgetown', 'GYD', 5, -59, '🇬🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2764, 'Barima-Waini', 94, 'GY', 'BA', 'region', 7.7559147, -59.7179022),
-(2760, 'Cuyuni-Mazaruni', 94, 'GY', 'CU', 'region', 6.188854, -59.849737),
-(2767, 'Demerara-Mahaica', 94, 'GY', 'DE', 'region', 6.4547883, -58.1280676),
-(2766, 'East Berbice-Corentyne', 94, 'GY', 'EB', 'region', 3.8972611, -58.1383925),
-(2768, 'Essequibo Islands-West Demerara', 94, 'GY', 'ES', 'region', 6.8777848, -58.3114218),
-(2762, 'Mahaica-Berbice', 94, 'GY', 'MA', 'region', 6.2766898, -57.82391),
-(2765, 'Pomeroon-Supenaam', 94, 'GY', 'PM', 'region', 7.2049548, -58.8295641),
-(2761, 'Potaro-Siparuni', 94, 'GY', 'PT', 'region', 4.8622287, -59.4193612),
-(2763, 'Upper Demerara-Berbice', 94, 'GY', 'UD', 'region', 5.5612677, -58.154152),
-(2769, 'Upper Takutu-Upper Essequibo', 94, 'GY', 'UT', 'region', 2.8449628, -58.9784823);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2764, 'Barima-Waini', 'Barima-Waini', 94, 'GY', 'BA', 'region', 'región', 7.7559147, -59.7179022),
+(2760, 'Cuyuni-Mazaruni', 'The Cunyi-Pieces', 94, 'GY', 'CU', 'region', 'región', 6.188854, -59.849737),
+(2767, 'Demerara-Mahaica', 'Demerara-Mahaica', 94, 'GY', 'DE', 'region', 'región', 6.4547883, -58.1280676),
+(2766, 'East Berbice-Corentyne', 'East Berbice-Corentyne', 94, 'GY', 'EB', 'region', 'región', 3.8972611, -58.1383925),
+(2768, 'Essequibo Islands-West Demerara', 'Overcome Islands-West Demerara', 94, 'GY', 'ES', 'region', 'región', 6.8777848, -58.3114218),
+(2762, 'Mahaica-Berbice', 'Mahaica-Berbice', 94, 'GY', 'MA', 'region', 'región', 6.2766898, -57.82391),
+(2765, 'Pomeroon-Supenaam', 'Pomerone superconame', 94, 'GY', 'PM', 'region', 'región', 7.2049548, -58.8295641),
+(2761, 'Potaro-Siparuni', 'Potaro-saiparuni', 94, 'GY', 'PT', 'region', 'región', 4.8622287, -59.4193612),
+(2763, 'Upper Demerara-Berbice', 'Upper Demerara-Berbice', 94, 'GY', 'UD', 'region', 'región', 5.5612677, -58.154152),
+(2769, 'Upper Takutu-Upper Essequibo', 'Upper Takutu-Upper Essequibo', 94, 'GY', 'UT', 'region', 'región', 2.8449628, -58.9784823);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (53826, 'Mabaruma', 2764, 94, 8.2, -59.78333),

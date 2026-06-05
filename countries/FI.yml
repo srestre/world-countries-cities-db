@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".fi"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 64
   longitude: 26
   emoji: "🇫🇮"
   states:
     -
       name: "Central Finland"
+      native: "Suomen keskus"
       code: "08"
       iso3166_2: "FI-08"
       type: "region"
+      type_es: "región"
       latitude: 62.6093658
       longitude: 25.579461
       cities:
@@ -147,9 +151,11 @@
           longitude: 25.86667
     -
       name: "Central Ostrobothnia"
+      native: "Keskeinen ostrobothnia"
       code: "07"
       iso3166_2: "FI-07"
       type: "region"
+      type_es: "región"
       latitude: 63.6476557
       longitude: 24.1114113
       cities:
@@ -199,9 +205,11 @@
           longitude: 23.78285
     -
       name: "Finland Proper"
+      native: "Suomi"
       code: "19"
       iso3166_2: "FI-19"
       type: "region"
+      type_es: "región"
       latitude: 60.3036113
       longitude: 22.4113084
       cities:
@@ -419,9 +427,11 @@
           longitude: 22.41667
     -
       name: "Kainuu"
+      native: "Kainuu"
       code: "05"
       iso3166_2: "FI-05"
       type: "region"
+      type_es: "región"
       latitude: 64.5946354
       longitude: 28.6810524
       cities:
@@ -471,9 +481,11 @@
           longitude: 26.99547
     -
       name: "Kymenlaakso"
+      native: "Kymenlaakso"
       code: "09"
       iso3166_2: "FI-09"
       type: "region"
+      type_es: "región"
       latitude: 60.7318529
       longitude: 27.0828744
       cities:
@@ -523,9 +535,11 @@
           longitude: 27.70354
     -
       name: "Lapland"
+      native: "Lapa"
       code: "10"
       iso3166_2: "FI-10"
       type: "region"
+      type_es: "región"
       latitude: 67.6929104
       longitude: 26.7282142
       cities:
@@ -623,9 +637,11 @@
           longitude: 23.67734
     -
       name: "North Karelia"
+      native: "Pohjois -Karelia"
       code: "13"
       iso3166_2: "FI-13"
       type: "region"
+      type_es: "región"
       latitude: 62.801052
       longitude: 30.2127116
       cities:
@@ -703,9 +719,11 @@
           longitude: 28.8
     -
       name: "Northern Ostrobothnia"
+      native: "Pohjois -Ostrobothnia"
       code: "14"
       iso3166_2: "FI-14"
       type: "region"
+      type_es: "región"
       latitude: 64.9521512
       longitude: 25.6968812
       cities:
@@ -875,18 +893,22 @@
           longitude: 24.55
     -
       name: "Northern Savonia"
+      native: "Pohjois -Savonia"
       code: "15"
       iso3166_2: "FI-15"
       type: "region"
+      type_es: "región"
       latitude: 62.9370461
       longitude: 27.4942995
       cities:
         []
     -
       name: "Ostrobothnia"
+      native: "Ostrobothnia"
       code: "12"
       iso3166_2: "FI-12"
       type: "region"
+      type_es: "región"
       latitude: 62.9651857
       longitude: 21.2099367
       cities:
@@ -972,9 +994,11 @@
           longitude: 22.25223
     -
       name: "Päijänne Tavastia"
+      native: "Päijänne Tavastia"
       code: "16"
       iso3166_2: "FI-16"
       type: "region"
+      type_es: "región"
       latitude: 61.1444196
       longitude: 25.6872502
       cities:
@@ -1028,9 +1052,11 @@
           longitude: 25.68333
     -
       name: "Pirkanmaa"
+      native: "Pirkanmaa"
       code: "11"
       iso3166_2: "FI-11"
       type: "region"
+      type_es: "región"
       latitude: 61.717433
       longitude: 23.7157115
       cities:
@@ -1276,9 +1302,11 @@
           longitude: 23.58333333
     -
       name: "Satakunta"
+      native: "Satakunta"
       code: "17"
       iso3166_2: "FI-17"
       type: "region"
+      type_es: "región"
       latitude: 61.5934279
       longitude: 21.7824512
       cities:
@@ -1384,9 +1412,11 @@
           longitude: 22.7
     -
       name: "South Karelia"
+      native: "South Karelia"
       code: "02"
       iso3166_2: "FI-02"
       type: "region"
+      type_es: "región"
       latitude: 61.2667443
       longitude: 28.4054849
       cities:
@@ -1444,9 +1474,11 @@
           longitude: 28
     -
       name: "Southern Ostrobothnia"
+      native: "Etelä -Ostrobothnia"
       code: "03"
       iso3166_2: "FI-03"
       type: "region"
+      type_es: "región"
       latitude: 62.9433099
       longitude: 23.5285267
       cities:
@@ -1556,9 +1588,11 @@
           longitude: 22.51306
     -
       name: "Southern Savonia"
+      native: "Etelä -Savonia"
       code: "04"
       iso3166_2: "FI-04"
       type: "region"
+      type_es: "región"
       latitude: 61.6945148
       longitude: 27.8005015
       cities:
@@ -1648,9 +1682,11 @@
           longitude: 27.46276
     -
       name: "Tavastia Proper"
+      native: "Tavastia Proper"
       code: "06"
       iso3166_2: "FI-06"
       type: "region"
+      type_es: "región"
       latitude: 60.937696
       longitude: 24.1531919
       cities:
@@ -1720,9 +1756,11 @@
           longitude: 23.28333
     -
       name: "Uusimaa"
+      native: "Uusimaa"
       code: "18"
       iso3166_2: "FI-18"
       type: "region"
+      type_es: "región"
       latitude: 60.2246684
       longitude: 25.1272631
       cities:

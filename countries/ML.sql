@@ -1,32 +1,32 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(134, 'Mali', 'ML', 'MLI', 'Africa', 'Western Africa', 'Bamako', 'XOF', 17, -4, '🇲🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(134, 'Mali', 'Mali', 'ML', 'MLI', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Bamako', 'XOF', 17, -4, '🇲🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(253, 'Bamako', 134, 'ML', 'BKO', 'district', 12.649319, -8.000337),
-(258, 'Gao', 134, 'ML', '7', 'region', 17.00244, -0.0991154),
-(252, 'Kayes', 134, 'ML', '1', 'region', 13.8001844, -10.2245548),
-(257, 'Kidal', 134, 'ML', '8', 'region', 18.4408358, 1.4075395),
-(250, 'Koulikoro', 134, 'ML', '2', 'region', 13.4820706, -7.6096079),
-(251, 'Ménaka', 134, 'ML', '9', 'region', 15.9156421, 2.396174),
-(255, 'Mopti', 134, 'ML', '5', 'region', 14.514489, -3.6464581),
-(249, 'Ségou', 134, 'ML', '4', 'region', 14.0487607, -6.0047091),
-(254, 'Sikasso', 134, 'ML', '3', 'region', 11.529684, -6.8663259),
-(256, 'Taoudénit', 134, 'ML', '10', 'region', 20.8582718, -3.39819),
-(248, 'Tombouctou', 134, 'ML', '6', 'region', 16.7719091, -3.0087272);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(253, 'Bamako', 'Bamako', 134, 'ML', 'BKO', 'district', 'distrito', 12.649319, -8.000337),
+(258, 'Gao', 'Gao', 134, 'ML', '7', 'region', 'región', 17.00244, -0.0991154),
+(252, 'Kayes', 'Kayes', 134, 'ML', '1', 'region', 'región', 13.8001844, -10.2245548),
+(257, 'Kidal', 'Gauche -', 134, 'ML', '8', 'region', 'región', 18.4408358, 1.4075395),
+(250, 'Koulikoro', 'Koulikoro', 134, 'ML', '2', 'region', 'región', 13.4820706, -7.6096079),
+(251, 'Ménaka', 'Ménaka', 134, 'ML', '9', 'region', 'región', 15.9156421, 2.396174),
+(255, 'Mopti', 'Mopti', 134, 'ML', '5', 'region', 'región', 14.514489, -3.6464581),
+(249, 'Ségou', 'Ségou', 134, 'ML', '4', 'region', 'región', 14.0487607, -6.0047091),
+(254, 'Sikasso', 'Sikasso', 134, 'ML', '3', 'region', 'región', 11.529684, -6.8663259),
+(256, 'Taoudénit', 'Taoudénit', 134, 'ML', '10', 'region', 'región', 20.8582718, -3.39819),
+(248, 'Tombouctou', 'Tombouctou', 134, 'ML', '6', 'region', 'región', 16.7719091, -3.0087272);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67587, 'Bamako', 253, 134, 12.65, -8),

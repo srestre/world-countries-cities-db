@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(67, 'Equatorial Guinea', 'GQ', 'GNQ', 'Africa', 'Middle Africa', 'Malabo', 'XAF', 2, 10, '🇬🇶');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(67, 'Equatorial Guinea', 'Guinea Ecuatorial', 'GQ', 'GNQ', 'Africa', 'África', 'Middle Africa', 'África Central', 'Malabo', 'XAF', 2, 10, '🇬🇶');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3444, 'Annobón', 67, 'GQ', 'AN', 'province', -1.4268782, 5.6352801),
-(3446, 'Bioko Norte', 67, 'GQ', 'BN', 'province', 3.6484594, 8.7851155),
-(3443, 'Bioko Sur', 67, 'GQ', 'BS', 'province', 3.4245254, 8.6646092),
-(3445, 'Centro Sur', 67, 'GQ', 'CS', 'province', 1.3969966, 10.4538528),
-(5551, 'Djibloho', 67, 'GQ', 'DJ', 'province', 1.6, 10.8),
-(3442, 'Insular', 67, 'GQ', 'I', 'region', 3.4986523, 8.7136062),
-(3439, 'Kié-Ntem', 67, 'GQ', 'KN', 'province', 2.0579266, 10.9855916),
-(3441, 'Litoral', 67, 'GQ', 'LI', 'province', 1.6026374, 9.841569),
-(3438, 'Río Muni', 67, 'GQ', 'C', 'region', 1.0570951, 9.6532917),
-(3440, 'Wele-Nzas', 67, 'GQ', 'WN', 'province', 1.4648719, 11.131676);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3444, 'Annobón', 'Annobón', 67, 'GQ', 'AN', 'province', 'provincia', -1.4268782, 5.6352801),
+(3446, 'Bioko Norte', 'Bioko norte', 67, 'GQ', 'BN', 'province', 'provincia', 3.6484594, 8.7851155),
+(3443, 'Bioko Sur', 'Bioko sur', 67, 'GQ', 'BS', 'province', 'provincia', 3.4245254, 8.6646092),
+(3445, 'Centro Sur', 'Centro Sur', 67, 'GQ', 'CS', 'province', 'provincia', 1.3969966, 10.4538528),
+(5551, 'Djibloho', 'Djibloho', 67, 'GQ', 'DJ', 'province', 'provincia', 1.6, 10.8),
+(3442, 'Insular', 'Insular', 67, 'GQ', 'I', 'region', 'región', 3.4986523, 8.7136062),
+(3439, 'Kié-Ntem', 'A quien hice', 67, 'GQ', 'KN', 'province', 'provincia', 2.0579266, 10.9855916),
+(3441, 'Litoral', 'Costero', 67, 'GQ', 'LI', 'province', 'provincia', 1.6026374, 9.841569),
+(3438, 'Río Muni', 'Río Muni', 67, 'GQ', 'C', 'region', 'región', 1.0570951, 9.6532917),
+(3440, 'Wele-Nzas', 'Wele-nza', 67, 'GQ', 'WN', 'province', 'provincia', 1.4648719, 11.131676);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (52397, 'San Antonio de Palé', 3444, 67, -1.4068, 5.63178),

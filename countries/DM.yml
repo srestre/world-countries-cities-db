@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".dm"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 15.41666666
   longitude: -61.33333333
   emoji: "🇩🇲"
   states:
     -
       name: "Saint Andrew"
+      native: "Saint Andrew"
       code: "02"
       iso3166_2: "DM-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.4238539
       longitude: -61.3416513
       cities:
@@ -43,9 +47,11 @@
           longitude: -61.33149
     -
       name: "Saint David"
+      native: "Saint David"
       code: "03"
       iso3166_2: "DM-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.4238539
       longitude: -61.3416513
       cities:
@@ -59,9 +65,11 @@
           longitude: -61.26667
     -
       name: "Saint George"
+      native: "Saint George"
       code: "04"
       iso3166_2: "DM-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.3058849
       longitude: -61.3477286
       cities:
@@ -71,9 +79,11 @@
           longitude: -61.38808
     -
       name: "Saint John"
+      native: "Saint John"
       code: "05"
       iso3166_2: "DM-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.5739158
       longitude: -61.4369757
       cities:
@@ -83,9 +93,11 @@
           longitude: -61.46667
     -
       name: "Saint Joseph"
+      native: "Saint Joseph"
       code: "06"
       iso3166_2: "DM-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.4063155
       longitude: -61.4239093
       cities:
@@ -99,9 +111,11 @@
           longitude: -61.43637
     -
       name: "Saint Luke"
+      native: "Saint Luke"
       code: "07"
       iso3166_2: "DM-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.2526483
       longitude: -61.3606848
       cities:
@@ -111,9 +125,11 @@
           longitude: -61.37452
     -
       name: "Saint Mark"
+      native: "Saint Mark"
       code: "08"
       iso3166_2: "DM-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.2285265
       longitude: -61.3500041
       cities:
@@ -123,9 +139,11 @@
           longitude: -61.35881
     -
       name: "Saint Patrick"
+      native: "Saint Patrick"
       code: "09"
       iso3166_2: "DM-09"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.2770426
       longitude: -61.2964775
       cities:
@@ -139,9 +157,11 @@
           longitude: -61.24753
     -
       name: "Saint Paul"
+      native: "Saint Paul"
       code: "10"
       iso3166_2: "DM-10"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.3630184
       longitude: -61.3613416
       cities:
@@ -155,9 +175,11 @@
           longitude: -61.35
     -
       name: "Saint Peter"
+      native: "Saint Peter"
       code: "11"
       iso3166_2: "DM-11"
       type: "parish"
+      type_es: "parroquia"
       latitude: 15.4997591
       longitude: -61.4403471
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".gf"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: 4
   longitude: -53
   emoji: "🇬🇫"
   states:
     -
       name: "Guyane"
+      native: "Guyane"
       code: "01"
       iso3166_2: "FR-973"
       type: "overseas region"
+      type_es: "región de ultramar"
       latitude: 4
       longitude: -53
       cities:

@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(246, 'Zambia', 'ZM', 'ZMB', 'Africa', 'Southern Africa', 'Lusaka', 'ZMW', -15, 30, '🇿🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(246, 'Zambia', 'Zambia', 'ZM', 'ZMB', 'Africa', 'África', 'Southern Africa', 'África Austral', 'Lusaka', 'ZMW', -15, 30, '🇿🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1986, 'Central', 246, 'ZM', '02', 'province', -14.183507, 29.0375543),
-(1984, 'Copperbelt', 246, 'ZM', '08', 'province', -13.0214171, 27.8876177),
-(1991, 'Eastern', 246, 'ZM', '03', 'province', -13.6514737, 31.9958539),
-(1987, 'Luapula', 246, 'ZM', '04', 'province', -10.4680244, 29.1275609),
-(1988, 'Lusaka', 246, 'ZM', '09', 'province', -15.357609, 29.1653092),
-(1989, 'Muchinga', 246, 'ZM', '10', 'province', -11.1005259, 31.639964),
-(1982, 'Northern', 246, 'ZM', '05', 'province', -9.4514165, 30.8881001),
-(1985, 'Northwestern', 246, 'ZM', '06', 'province', -13.0050258, 24.9042208),
-(1990, 'Southern', 246, 'ZM', '07', 'province', -16.5381715, 26.7374997),
-(1983, 'Western', 246, 'ZM', '01', 'province', 6.9016086, 80.0087746);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1986, 'Central', 'Central', 246, 'ZM', '02', 'province', 'provincia', -14.183507, 29.0375543),
+(1984, 'Copperbelt', 'Copperbelt', 246, 'ZM', '08', 'province', 'provincia', -13.0214171, 27.8876177),
+(1991, 'Eastern', 'Eastern', 246, 'ZM', '03', 'province', 'provincia', -13.6514737, 31.9958539),
+(1987, 'Luapula', 'Luapula', 246, 'ZM', '04', 'province', 'provincia', -10.4680244, 29.1275609),
+(1988, 'Lusaka', 'Saturday', 246, 'ZM', '09', 'province', 'provincia', -15.357609, 29.1653092),
+(1989, 'Muchinga', 'To go', 246, 'ZM', '10', 'province', 'provincia', -11.1005259, 31.639964),
+(1982, 'Northern', 'Northern', 246, 'ZM', '05', 'province', 'provincia', -9.4514165, 30.8881001),
+(1985, 'Northwestern', 'Northwestern', 246, 'ZM', '06', 'province', 'provincia', -13.0050258, 24.9042208),
+(1990, 'Southern', 'Southern', 246, 'ZM', '07', 'province', 'provincia', -16.5381715, 26.7374997),
+(1983, 'Western', 'Western', 246, 'ZM', '01', 'province', 'provincia', 6.9016086, 80.0087746);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (131332, 'Chibombo', 1986, 246, -14.65685, 28.07057),

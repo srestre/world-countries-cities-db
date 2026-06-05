@@ -1,2 +1,2 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BL,Saint-Barthelemy,Americas,Caribbean,01,Saint-Barthélemy,Gustavia,17.89790833,-62.85055556
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BL,Saint-Barthelemy,San Bartolomé,Americas,América,Caribbean,Caribe,01,Saint-Barthélemy,overseas collectivity,colectividad de ultramar,Gustavia,17.89790833,-62.85055556

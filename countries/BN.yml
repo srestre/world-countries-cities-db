@@ -12,16 +12,20 @@
   currency_symbol: "B$"
   tld: ".bn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 4.5
   longitude: 114.66666666
   emoji: "🇧🇳"
   states:
     -
       name: "Belait"
+      native: "Belait"
       code: "BE"
       iso3166_2: "BN-BE"
       type: "district"
+      type_es: "distrito"
       latitude: 4.4349938
       longitude: 114.4946524
       cities:
@@ -35,9 +39,11 @@
           longitude: 114.32476
     -
       name: "Brunei-Muara"
+      native: "Brunei-Muara"
       code: "BM"
       iso3166_2: "BN-BM"
       type: "district"
+      type_es: "distrito"
       latitude: 4.9752098
       longitude: 114.9367663
       cities:
@@ -63,9 +69,11 @@
           longitude: 115.05841
     -
       name: "Temburong"
+      native: "Temburong"
       code: "TE"
       iso3166_2: "BN-TE"
       type: "district"
+      type_es: "distrito"
       latitude: 4.629184
       longitude: 115.1634408
       cities:
@@ -75,9 +83,11 @@
           longitude: 115.07167
     -
       name: "Tutong"
+      native: "Tutong"
       code: "TU"
       iso3166_2: "BN-TU"
       type: "district"
+      type_es: "distrito"
       latitude: 4.682681
       longitude: 114.6562706
       cities:

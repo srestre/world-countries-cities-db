@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".fr"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 46
   longitude: 2
   emoji: "🇫🇷"
   states:
     -
       name: "Ain"
+      native: "Ain"
       code: "01"
       iso3166_2: "FR-01"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.0652385
       longitude: 5.2847717
       cities:
@@ -623,9 +627,11 @@
           longitude: 4.99246
     -
       name: "Aisne"
+      native: "Aisne"
       code: "02"
       iso3166_2: "FR-02"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.4532854
       longitude: 3.606899
       cities:
@@ -1007,9 +1013,11 @@
           longitude: 3.59988
     -
       name: "Allier"
+      native: "Allier"
       code: "03"
       iso3166_2: "FR-03"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.3674641
       longitude: 3.1638828
       cities:
@@ -1255,9 +1263,11 @@
           longitude: 3.35446
     -
       name: "Alpes-de-Haute-Provence"
+      native: "Alpes-de-Haute-Provence"
       code: "04"
       iso3166_2: "FR-04"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.1640832
       longitude: 6.1878515
       cities:
@@ -1395,9 +1405,11 @@
           longitude: 5.84148
     -
       name: "Alpes-Maritimes"
+      native: "Alpes-Maritimes"
       code: "06"
       iso3166_2: "FR-06"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.9419996
       longitude: 7.0202655
       cities:
@@ -1711,18 +1723,22 @@
           longitude: 7.12233
     -
       name: "Alsace"
+      native: "Alsace"
       code: "6AE"
       iso3166_2: "FR-6AE"
       type: "European collectivity"
+      type_es: "colectividad europea"
       latitude: 48.0098712
       longitude: 7.5875021
       cities:
         []
     -
       name: "Ardèche"
+      native: "Ardèche"
       code: "07"
       iso3166_2: "FR-07"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.815194
       longitude: 4.3986525
       cities:
@@ -2020,9 +2036,11 @@
           longitude: 4.68895
     -
       name: "Ardennes"
+      native: "Ardennes"
       code: "08"
       iso3166_2: "FR-08"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.6980117
       longitude: 4.6716005
       cities:
@@ -2224,9 +2242,11 @@
           longitude: 4.85567
     -
       name: "Ariège"
+      native: "Ariège"
       code: "09"
       iso3166_2: "FR-09"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 42.9455368
       longitude: 1.4065544
       cities:
@@ -2320,9 +2340,11 @@
           longitude: 1.81937
     -
       name: "Aube"
+      native: "Aube"
       code: "10"
       iso3166_2: "FR-10"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.3201921
       longitude: 4.1905397
       cities:
@@ -2504,9 +2526,11 @@
           longitude: 3.55
     -
       name: "Aude"
+      native: "Aude"
       code: "11"
       iso3166_2: "FR-11"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.0542733
       longitude: 2.5124715
       cities:
@@ -2768,18 +2792,22 @@
           longitude: 3.07463
     -
       name: "Auvergne-Rhône-Alpes"
+      native: "Auvergne-Rhône-Alpes"
       code: "ARA"
       iso3166_2: "FR-ARA"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 45.2968119
       longitude: 4.6604809
       cities:
         []
     -
       name: "Aveyron"
+      native: "Aveyron"
       code: "12"
       iso3166_2: "FR-12"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.3158574
       longitude: 2.5065697
       cities:
@@ -3009,9 +3037,11 @@
           longitude: 2.21649
     -
       name: "Bas-Rhin"
+      native: "Bas-Rhin"
       code: "67"
       iso3166_2: "FR-67"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.5991783
       longitude: 7.5336729
       cities:
@@ -3737,9 +3767,11 @@
           longitude: 7.66708
     -
       name: "Bouches-du-Rhône"
+      native: "Bouches-du-Rhône"
       code: "13"
       iso3166_2: "FR-13"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.5424182
       longitude: 5.0343236
       cities:
@@ -4593,27 +4625,33 @@
           longitude: 5.24861
     -
       name: "Bourgogne-Franche-Comté"
+      native: "Bourgogne-Franche-Comté"
       code: "BFC"
       iso3166_2: "FR-BFC"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 47.118711
       longitude: 4.9691044
       cities:
         []
     -
       name: "Bretagne"
+      native: "Bretagne"
       code: "BRE"
       iso3166_2: "FR-BRE"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 48.2640845
       longitude: -2.9202408
       cities:
         []
     -
       name: "Calvados"
+      native: "Calvados"
       code: "14"
       iso3166_2: "FR-14"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.0907648
       longitude: -0.2413951
       cities:
@@ -5171,9 +5209,11 @@
           longitude: -0.87
     -
       name: "Cantal"
+      native: "Cantal"
       code: "15"
       iso3166_2: "FR-15"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.0497701
       longitude: 2.6997176
       cities:
@@ -5303,18 +5343,22 @@
           longitude: 2.36248
     -
       name: "Centre-Val de Loire"
+      native: "Centre-Val de Loire"
       code: "CVL"
       iso3166_2: "FR-CVL"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 47.5490251
       longitude: 1.7324062
       cities:
         []
     -
       name: "Charente"
+      native: "Charente"
       code: "16"
       iso3166_2: "FR-16"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.7302267
       longitude: -0.7212876
       cities:
@@ -5620,9 +5664,11 @@
           longitude: 0.15
     -
       name: "Charente-Maritime"
+      native: "Charente-Maritime"
       code: "17"
       iso3166_2: "FR-17"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.7302267
       longitude: -0.7212876
       cities:
@@ -6124,9 +6170,11 @@
           longitude: -1.04833
     -
       name: "Cher"
+      native: "Cher"
       code: "18"
       iso3166_2: "FR-18"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.0248824
       longitude: 2.5753334
       cities:
@@ -6360,18 +6408,22 @@
           longitude: 2.17258
     -
       name: "Clipperton"
+      native: "Clipperton"
       code: "CP"
       iso3166_2: "FR-CP"
       type: "dependency"
+      type_es: "dependencia"
       latitude: 10.3021287
       longitude: -109.217835
       cities:
         []
     -
       name: "Corrèze"
+      native: "Corrèze"
       code: "19"
       iso3166_2: "FR-19"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.3429047
       longitude: 1.8176424
       cities:
@@ -6561,18 +6613,22 @@
           longitude: 1.43721
     -
       name: "Corse"
+      native: "Corse"
       code: "20R"
       iso3166_2: "FR-20R"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 42.1880896
       longitude: 9.0684138
       cities:
         []
     -
       name: "Corse-du-Sud"
+      native: "Corse-du-Sud"
       code: "2A"
       iso3166_2: "FR-2A"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 41.8734083
       longitude: 9.0087052
       cities:
@@ -7074,9 +7130,11 @@
           longitude: 9.0287158
     -
       name: "Côte-d'Or"
+      native: "Côte-d'Or"
       code: "21"
       iso3166_2: "FR-21"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.4655034
       longitude: 4.7481223
       cities:
@@ -7326,9 +7384,11 @@
           longitude: 4.5419
     -
       name: "Côtes-d'Armor"
+      native: "Côtes-d'Armor"
       code: "22"
       iso3166_2: "FR-22"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.4614877
       longitude: -2.7514328
       cities:
@@ -7982,9 +8042,11 @@
           longitude: -2.18333
     -
       name: "Creuse"
+      native: "Creuse"
       code: "23"
       iso3166_2: "FR-23"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.0593485
       longitude: 2.048901
       cities:
@@ -8082,9 +8144,11 @@
           longitude: 1.91517
     -
       name: "Deux-Sèvres"
+      native: "Deux-Sèvres"
       code: "79"
       iso3166_2: "FR-79"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.53914
       longitude: -0.2994785
       cities:
@@ -8406,9 +8470,11 @@
           longitude: -0.53756
     -
       name: "Dordogne"
+      native: "Dordogne"
       code: "24"
       iso3166_2: "FR-24"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.1429198
       longitude: 0.6321258
       cities:
@@ -8750,9 +8816,11 @@
           longitude: 0.7182
     -
       name: "Doubs"
+      native: "Doubs"
       code: "25"
       iso3166_2: "FR-25"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.9321774
       longitude: 6.3476214
       cities:
@@ -9118,9 +9186,11 @@
           longitude: 6.77431
     -
       name: "Drôme"
+      native: "Drôme"
       code: "26"
       iso3166_2: "FR-26"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.7295347
       longitude: 5.2046372
       cities:
@@ -9450,9 +9520,11 @@
           longitude: 5.06204
     -
       name: "Essonne"
+      native: "Essonne"
       code: "91"
       iso3166_2: "FR-91"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.5303402
       longitude: 2.2392918
       cities:
@@ -9958,9 +10030,11 @@
           longitude: 2.49338
     -
       name: "Eure"
+      native: "Eure"
       code: "27"
       iso3166_2: "FR-27"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.0756358
       longitude: 0.9651829
       cities:
@@ -10402,9 +10476,11 @@
           longitude: 1.5708
     -
       name: "Eure-et-Loir"
+      native: "Eure-et-Loir"
       code: "28"
       iso3166_2: "FR-28"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.4474102
       longitude: 1.399882
       cities:
@@ -10750,9 +10826,11 @@
           longitude: 1.18717
     -
       name: "Finistère"
+      native: "Finistère"
       code: "29"
       iso3166_2: "FR-29"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.2451152
       longitude: -4.0440902
       cities:
@@ -11462,36 +11540,44 @@
           longitude: -3.53333
     -
       name: "French Guiana"
+      native: "Guyane"
       code: "973"
       iso3166_2: "FR-973"
       type: "overseas region"
+      type_es: "región de ultramar"
       latitude: 4.0039882
       longitude: -52.999998
       cities:
         []
     -
       name: "French Polynesia"
+      native: "Polynésie française"
       code: "PF"
       iso3166_2: "FR-PF"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: -17.0243749
       longitude: -144.6434898
       cities:
         []
     -
       name: "French Southern and Antarctic Lands"
+      native: "Terres du sud et de l'Antarctique français"
       code: "TF"
       iso3166_2: "FR-TF"
       type: "overseas territory"
+      type_es: "territorio de ultramar"
       latitude: -49.237442
       longitude: 69.622759
       cities:
         []
     -
       name: "Gard"
+      native: "Gard"
       code: "30"
       iso3166_2: "FR-30"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.95995
       longitude: 4.297637
       cities:
@@ -11981,9 +12067,11 @@
           longitude: 4.09756
     -
       name: "Gers"
+      native: "Gers"
       code: "32"
       iso3166_2: "FR-32"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.6955276
       longitude: 0.4101019
       cities:
@@ -12109,9 +12197,11 @@
           longitude: 0.31368
     -
       name: "Gironde"
+      native: "Gironde"
       code: "33"
       iso3166_2: "FR-33"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.883746
       longitude: -0.6051264
       cities:
@@ -12913,18 +13003,22 @@
           longitude: -0.4587
     -
       name: "Grand-Est"
+      native: "Grand-Est"
       code: "GES"
       iso3166_2: "FR-GES"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 48.4845157
       longitude: 6.113035
       cities:
         []
     -
       name: "Guadeloupe"
+      native: "Guadeloupe"
       code: "971"
       iso3166_2: "FR-971"
       type: "overseas region"
+      type_es: "región de ultramar"
       latitude: 16.2528827
       longitude: -61.5686855
       cities:
@@ -12934,9 +13028,11 @@
           longitude: 3.90542
     -
       name: "Haut-Rhin"
+      native: "Haut-Rhin"
       code: "68"
       iso3166_2: "FR-68"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.8654746
       longitude: 7.2315433
       cities:
@@ -13526,9 +13622,11 @@
           longitude: 7.38847
     -
       name: "Haute-Corse"
+      native: "Haute-Corse"
       code: "2B"
       iso3166_2: "FR-2B"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 42.4219698
       longitude: 9.1009065
       cities:
@@ -14482,9 +14580,11 @@
           longitude: 9.3007649
     -
       name: "Haute-Garonne"
+      native: "Haute-Garonne"
       code: "31"
       iso3166_2: "FR-31"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.3054546
       longitude: 0.9716792
       cities:
@@ -15082,9 +15182,11 @@
           longitude: 1.66279
     -
       name: "Haute-Loire"
+      native: "Haute-Loire"
       code: "43"
       iso3166_2: "FR-43"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.0857249
       longitude: 3.8338261
       cities:
@@ -15302,9 +15404,11 @@
           longitude: 4.12372
     -
       name: "Haute-Marne"
+      native: "Haute-Marne"
       code: "52"
       iso3166_2: "FR-52"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.1329414
       longitude: 5.2529108
       cities:
@@ -17022,9 +17126,11 @@
           longitude: 4.94775
     -
       name: "Haute-Saône"
+      native: "Haute-Saône"
       code: "70"
       iso3166_2: "FR-70"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.6384233
       longitude: 6.0951141
       cities:
@@ -17198,9 +17304,11 @@
           longitude: 6.43273
     -
       name: "Haute-Savoie"
+      native: "Haute-Savoie"
       code: "74"
       iso3166_2: "FR-74"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.0690406
       longitude: 6.3445321
       cities:
@@ -17774,9 +17882,11 @@
           longitude: 6.06645
     -
       name: "Haute-Vienne"
+      native: "Haute-Vienne"
       code: "87"
       iso3166_2: "FR-87"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.9190192
       longitude: 1.2031768
       cities:
@@ -18046,9 +18156,11 @@
           longitude: 1.38179
     -
       name: "Hautes-Alpes"
+      native: "Hautes-Alpes"
       code: "05"
       iso3166_2: "FR-05"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.6564666
       longitude: 6.3520246
       cities:
@@ -18126,9 +18238,11 @@
           longitude: 6.62669
     -
       name: "Hautes-Pyrénées"
+      native: "Hautes-Pyrénées"
       code: "65"
       iso3166_2: "FR-65"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.1437925
       longitude: 0.1586661
       cities:
@@ -18278,18 +18392,22 @@
           longitude: 0.05471
     -
       name: "Hauts-de-France"
+      native: "Hauts-de-France"
       code: "HDF"
       iso3166_2: "FR-HDF"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 50.1024606
       longitude: 2.7247515
       cities:
         []
     -
       name: "Hauts-de-Seine"
+      native: "Hauts-de-Seine"
       code: "92"
       iso3166_2: "FR-92"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.8401859
       longitude: 2.19863
       cities:
@@ -18447,9 +18565,11 @@
           longitude: 2.31478
     -
       name: "Hérault"
+      native: "Hérault"
       code: "34"
       iso3166_2: "FR-34"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.591422
       longitude: 3.3553309
       cities:
@@ -19047,18 +19167,22 @@
           longitude: 3.60723
     -
       name: "Île-de-France"
+      native: "Île-de-France"
       code: "IDF"
       iso3166_2: "FR-IDF"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 48.6443057
       longitude: 2.7537863
       cities:
         []
     -
       name: "Ille-et-Vilaine"
+      native: "Ille-et-Vilaine"
       code: "35"
       iso3166_2: "FR-35"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.1727681
       longitude: -1.6498092
       cities:
@@ -19848,9 +19972,11 @@
           longitude: -1.20577
     -
       name: "Indre"
+      native: "Indre"
       code: "36"
       iso3166_2: "FR-36"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.8121057
       longitude: 1.5382052
       cities:
@@ -20032,9 +20158,11 @@
           longitude: 1.53975
     -
       name: "Indre-et-Loire"
+      native: "Indre-et-Loire"
       code: "37"
       iso3166_2: "FR-37"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.2232046
       longitude: 0.6866703
       cities:
@@ -20460,9 +20588,11 @@
           longitude: 0.87166
     -
       name: "Isère"
+      native: "Isère"
       code: "38"
       iso3166_2: "FR-38"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.2897932
       longitude: 5.6343825
       cities:
@@ -21400,9 +21530,11 @@
           longitude: 5.51931
     -
       name: "Jura"
+      native: "Jura"
       code: "39"
       iso3166_2: "FR-39"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.7833625
       longitude: 5.7832857
       cities:
@@ -21568,9 +21700,11 @@
           longitude: 5.85513
     -
       name: "La Réunion"
+      native: "La Réunion"
       code: "974"
       iso3166_2: "FR-974"
       type: "overseas region"
+      type_es: "región de ultramar"
       latitude: -21.1307379
       longitude: 55.5364801
       cities:
@@ -21580,9 +21714,11 @@
           longitude: 4.50083
     -
       name: "Landes"
+      native: "Landes"
       code: "40"
       iso3166_2: "FR-40"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.0099694
       longitude: -0.6433872
       cities:
@@ -21904,9 +22040,11 @@
           longitude: -0.7378
     -
       name: "Loir-et-Cher"
+      native: "Loir-et-Cher"
       code: "41"
       iso3166_2: "FR-41"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.6597752
       longitude: 1.2971835
       cities:
@@ -22248,9 +22386,11 @@
           longitude: 2.05609
     -
       name: "Loire"
+      native: "Loire"
       code: "42"
       iso3166_2: "FR-42"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.6150731
       longitude: -0.9784391
       cities:
@@ -22708,9 +22848,11 @@
           longitude: 4.11771
     -
       name: "Loire-Atlantique"
+      native: "Loire-Atlantique"
       code: "44"
       iso3166_2: "FR-44"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.3481614
       longitude: -1.8727461
       cities:
@@ -23564,9 +23706,11 @@
           longitude: -1.8775
     -
       name: "Loiret"
+      native: "Loiret"
       code: "45"
       iso3166_2: "FR-45"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.9138724
       longitude: 2.3075036
       cities:
@@ -24040,9 +24184,11 @@
           longitude: 2.26667
     -
       name: "Lot"
+      native: "Lot"
       code: "46"
       iso3166_2: "FR-46"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.6249918
       longitude: 1.6657742
       cities:
@@ -24144,9 +24290,11 @@
           longitude: 1.70358
     -
       name: "Lot-et-Garonne"
+      native: "Lot-et-Garonne"
       code: "47"
       iso3166_2: "FR-47"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.3691703
       longitude: 0.4539158
       cities:
@@ -24372,9 +24520,11 @@
           longitude: 0.22177
     -
       name: "Lozère"
+      native: "Lozère"
       code: "48"
       iso3166_2: "FR-48"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.5425706
       longitude: 3.5211146
       cities:
@@ -25000,9 +25150,11 @@
           longitude: 3.8881802
     -
       name: "Maine-et-Loire"
+      native: "Maine-et-Loire"
       code: "49"
       iso3166_2: "FR-49"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.3886305
       longitude: -0.3909097
       cities:
@@ -25740,9 +25892,11 @@
           longitude: -0.70295
     -
       name: "Manche"
+      native: "Manche"
       code: "50"
       iso3166_2: "FR-50"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.0918952
       longitude: -1.2454952
       cities:
@@ -26180,9 +26334,11 @@
           longitude: -1.2399
     -
       name: "Marne"
+      native: "Marne"
       code: "51"
       iso3166_2: "FR-51"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.961264
       longitude: 4.3122436
       cities:
@@ -26444,18 +26600,22 @@
           longitude: 4.11921
     -
       name: "Martinique"
+      native: "Martinique"
       code: "972"
       iso3166_2: "FR-972"
       type: "overseas region"
+      type_es: "región de ultramar"
       latitude: 14.6367927
       longitude: -61.0158269
       cities:
         []
     -
       name: "Mayenne"
+      native: "Mayenne"
       code: "53"
       iso3166_2: "FR-53"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.3044218
       longitude: -0.6179871
       cities:
@@ -26709,27 +26869,33 @@
           longitude: -0.27734
     -
       name: "Mayotte"
+      native: "Mayotte"
       code: "976"
       iso3166_2: "FR-976"
       type: "overseas region"
+      type_es: "región de ultramar"
       latitude: -12.823048
       longitude: 45.1520755
       cities:
         []
     -
       name: "Métropole de Lyon"
+      native: "Métropole de Lyon"
       code: "69M"
       iso3166_2: "FR-69M"
       type: "metropolitan collectivity with special status"
+      type_es: "colectividad metropolitana con estatus especial"
       latitude: 45.7481616
       longitude: 4.8556859
       cities:
         []
     -
       name: "Meurthe-et-Moselle"
+      native: "Meurthe-et-Moselle"
       code: "54"
       iso3166_2: "FR-54"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.9559682
       longitude: 5.9870383
       cities:
@@ -27199,9 +27365,11 @@
           longitude: 5.97851
     -
       name: "Meuse"
+      native: "Meuse"
       code: "55"
       iso3166_2: "FR-55"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.0129685
       longitude: 5.4286691
       cities:
@@ -29207,9 +29375,11 @@
           longitude: 5.6868778
     -
       name: "Morbihan"
+      native: "Morbihan"
       code: "56"
       iso3166_2: "FR-56"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.8259812
       longitude: -2.7633493
       cities:
@@ -29871,9 +30041,11 @@
           longitude: -2.75574
     -
       name: "Moselle"
+      native: "Moselle"
       code: "57"
       iso3166_2: "FR-57"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.0207259
       longitude: 6.5380352
       cities:
@@ -30547,9 +30719,11 @@
           longitude: 6.1926
     -
       name: "Nièvre"
+      native: "Nièvre"
       code: "58"
       iso3166_2: "FR-58"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.1196971
       longitude: 3.5448898
       cities:
@@ -30723,9 +30897,11 @@
           longitude: 3.38619
     -
       name: "Nord"
+      native: "Nord"
       code: "59"
       iso3166_2: "FR-59"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 50.5289615
       longitude: 3.0883508
       cities:
@@ -32131,27 +32307,33 @@
           longitude: 2.49338
     -
       name: "Normandie"
+      native: "Normandie"
       code: "NOR"
       iso3166_2: "FR-NOR"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 49.0677708
       longitude: 0.3138532
       cities:
         []
     -
       name: "Nouvelle-Aquitaine"
+      native: "Nouvelle-Aquitaine"
       code: "NAQ"
       iso3166_2: "FR-NAQ"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 45.4039367
       longitude: 0.3756199
       cities:
         []
     -
       name: "Nouvelle-Calédonie"
+      native: "Nouvelle-Calédonie"
       code: "NC"
       iso3166_2: "FR-NC"
       type: "overseas collectivity with special status"
+      type_es: "colectividad de ultramar con estatus especial"
       latitude: -21.25
       longitude: 165.3
       cities:
@@ -32161,18 +32343,22 @@
           longitude: 166.458
     -
       name: "Occitanie"
+      native: "Occitanie"
       code: "OCC"
       iso3166_2: "FR-OCC"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 43.6487851
       longitude: 2.3435684
       cities:
         []
     -
       name: "Oise"
+      native: "Oise"
       code: "60"
       iso3166_2: "FR-60"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.4120546
       longitude: 2.4064878
       cities:
@@ -32806,9 +32992,11 @@
           longitude: 2.36032
     -
       name: "Orne"
+      native: "Orne"
       code: "61"
       iso3166_2: "FR-61"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.575888
       longitude: 0.0448794
       cities:
@@ -33074,9 +33262,11 @@
           longitude: 0.19835
     -
       name: "Paris"
+      native: "Paris"
       code: "75C"
       iso3166_2: "FR-75C"
       type: "metropolitan collectivity with special status"
+      type_es: "colectividad metropolitana con estatus especial"
       latitude: 48.856614
       longitude: 2.3522219
       cities:
@@ -33086,9 +33276,11 @@
           longitude: 2.3486
     -
       name: "Pas-de-Calais"
+      native: "Pas-de-Calais"
       code: "62"
       iso3166_2: "FR-62"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 50.5144061
       longitude: 2.2580078
       cities:
@@ -34050,27 +34242,33 @@
           longitude: 2.06818
     -
       name: "Pays-de-la-Loire"
+      native: "Pays-de-la-Loire"
       code: "PDL"
       iso3166_2: "FR-PDL"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 47.6594864
       longitude: -0.8186143
       cities:
         []
     -
       name: "Provence-Alpes-Côte-d’Azur"
+      native: "Provence-Alpes-Côte-d’Azur"
       code: "PAC"
       iso3166_2: "FR-PAC"
       type: "metropolitan region"
+      type_es: "región metropolitana"
       latitude: 44.0580563
       longitude: 6.0638506
       cities:
         []
     -
       name: "Puy-de-Dôme"
+      native: "Puy-de-Dôme"
       code: "63"
       iso3166_2: "FR-63"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.7726494
       longitude: 2.964407
       cities:
@@ -34484,9 +34682,11 @@
           longitude: 2.79903
     -
       name: "Pyrénées-Atlantiques"
+      native: "Pyrénées-Atlantiques"
       code: "64"
       iso3166_2: "FR-64"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.1871865
       longitude: -0.7282474
       cities:
@@ -34884,9 +35084,11 @@
           longitude: -1.45324
     -
       name: "Pyrénées-Orientales"
+      native: "Pyrénées-Orientales"
       code: "66"
       iso3166_2: "FR-66"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 42.625894
       longitude: 2.506509
       cities:
@@ -35228,9 +35430,11 @@
           longitude: 2.5283
     -
       name: "Rhône"
+      native: "Rhône"
       code: "69"
       iso3166_2: "FR-69"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.8802348
       longitude: 4.5645336
       cities:
@@ -35876,36 +36080,44 @@
           longitude: 4.77325
     -
       name: "Saint Pierre and Miquelon"
+      native: "Saint Pierre and Miquelon"
       code: "PM"
       iso3166_2: "FR-PM"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: 46.8374544
       longitude: -56.2120555
       cities:
         []
     -
       name: "Saint-Barthélemy"
+      native: "Saint-Barthélemy"
       code: "BL"
       iso3166_2: "FR-BL"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: 17.9005134
       longitude: -62.8205871
       cities:
         []
     -
       name: "Saint-Martin"
+      native: "Saint-Martin"
       code: "MF"
       iso3166_2: "FR-MF"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: 18.0814066
       longitude: -63.0467131
       cities:
         []
     -
       name: "Saône-et-Loire"
+      native: "Saône-et-Loire"
       code: "71"
       iso3166_2: "FR-71"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.6557086
       longitude: 4.5585548
       cities:
@@ -36263,9 +36475,11 @@
           longitude: 4.86667
     -
       name: "Sarthe"
+      native: "Sarthe"
       code: "72"
       iso3166_2: "FR-72"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.0269287
       longitude: 0.2538217
       cities:
@@ -36699,9 +36913,11 @@
           longitude: 0.15581
     -
       name: "Savoie"
+      native: "Savoie"
       code: "73"
       iso3166_2: "FR-73"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.4948952
       longitude: 6.3846604
       cities:
@@ -37047,9 +37263,11 @@
           longitude: 5.75795
     -
       name: "Seine-et-Marne"
+      native: "Seine-et-Marne"
       code: "77"
       iso3166_2: "FR-77"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.6190207
       longitude: 3.0418158
       cities:
@@ -37903,9 +38121,11 @@
           longitude: 2.76476
     -
       name: "Seine-Maritime"
+      native: "Seine-Maritime"
       code: "76"
       iso3166_2: "FR-76"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.6632374
       longitude: 0.9401134
       cities:
@@ -38615,9 +38835,11 @@
           longitude: 0.75814
     -
       name: "Seine-Saint-Denis"
+      native: "Seine-Saint-Denis"
       code: "93"
       iso3166_2: "FR-93"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.9098125
       longitude: 2.4528635
       cities:
@@ -38775,9 +38997,11 @@
           longitude: 2.34167
     -
       name: "Somme"
+      native: "Somme"
       code: "80"
       iso3166_2: "FR-80"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.9689482
       longitude: 2.3738855
       cities:
@@ -39115,9 +39339,11 @@
           longitude: 1.53676
     -
       name: "Tarn"
+      native: "Tarn"
       code: "81"
       iso3166_2: "FR-81"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.7921741
       longitude: 2.1339648
       cities:
@@ -39383,9 +39609,11 @@
           longitude: 2.17672
     -
       name: "Tarn-et-Garonne"
+      native: "Tarn-et-Garonne"
       code: "82"
       iso3166_2: "FR-82"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 44.080656
       longitude: 1.2050633
       cities:
@@ -39551,9 +39779,11 @@
           longitude: 1.23425
     -
       name: "Territoire de Belfort"
+      native: "Territoire de Belfort"
       code: "90"
       iso3166_2: "FR-90"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.629231
       longitude: 6.8993012
       cities:
@@ -39655,9 +39885,11 @@
           longitude: 6.84203
     -
       name: "Val-d'Oise"
+      native: "Val-d'Oise"
       code: "95"
       iso3166_2: "FR-95"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 49.0750704
       longitude: 2.2098114
       cities:
@@ -40059,9 +40291,11 @@
           longitude: 2.39819
     -
       name: "Val-de-Marne"
+      native: "Val-de-Marne"
       code: "94"
       iso3166_2: "FR-94"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.7744893
       longitude: 2.4543321
       cities:
@@ -40255,9 +40489,11 @@
           longitude: 2.40332
     -
       name: "Var"
+      native: "Var"
       code: "83"
       iso3166_2: "FR-83"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.4173551
       longitude: 6.2664637
       cities:
@@ -40695,9 +40931,11 @@
           longitude: 5.81168
     -
       name: "Vaucluse"
+      native: "Vaucluse"
       code: "84"
       iso3166_2: "FR-84"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 43.9938643
       longitude: 5.1818898
       cities:
@@ -41023,9 +41261,11 @@
           longitude: 4.95033
     -
       name: "Vendée"
+      native: "Vendée"
       code: "85"
       iso3166_2: "FR-85"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 46.6757732
       longitude: -1.2914463
       cities:
@@ -41671,9 +41911,11 @@
           longitude: -0.86072
     -
       name: "Vienne"
+      native: "Vienne"
       code: "86"
       iso3166_2: "FR-86"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 45.52524
       longitude: 4.87477
       cities:
@@ -42011,9 +42253,11 @@
           longitude: 0.53936
     -
       name: "Vosges"
+      native: "Vosges"
       code: "88"
       iso3166_2: "FR-88"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.163786
       longitude: 6.3820712
       cities:
@@ -42335,18 +42579,22 @@
           longitude: 6.92944
     -
       name: "Wallis and Futuna"
+      native: "Wallis et Futuna"
       code: "WF"
       iso3166_2: "FR-WF"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: -13.289402
       longitude: -176.204224
       cities:
         []
     -
       name: "Yonne"
+      native: "Yonne"
       code: "89"
       iso3166_2: "FR-89"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 47.8551257
       longitude: 3.6450439
       cities:
@@ -42616,9 +42864,11 @@
           longitude: 3.14013
     -
       name: "Yvelines"
+      native: "Yvelines"
       code: "78"
       iso3166_2: "FR-78"
       type: "metropolitan department"
+      type_es: "departamento metropolitano"
       latitude: 48.7620373
       longitude: 1.8871376
       cities:

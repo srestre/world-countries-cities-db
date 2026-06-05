@@ -12,16 +12,20 @@
   currency_symbol: "₩"
   tld: ".kr"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 37
   longitude: 127.5
   emoji: "🇰🇷"
   states:
     -
       name: "Busan"
+      native: "부산"
       code: "26"
       iso3166_2: "KR-26"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.1795543
       longitude: 129.0756416
       cities:
@@ -87,9 +91,11 @@
           longitude: 129.06483
     -
       name: "Daegu"
+      native: "대구"
       code: "27"
       iso3166_2: "KR-27"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.8714354
       longitude: 128.601445
       cities:
@@ -127,9 +133,11 @@
           longitude: 128.62625
     -
       name: "Daejeon"
+      native: "대전"
       code: "30"
       iso3166_2: "KR-30"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 36.3504119
       longitude: 127.3845475
       cities:
@@ -155,9 +163,11 @@
           longitude: 127.327
     -
       name: "Gangwon"
+      native: "강원도"
       code: "42"
       iso3166_2: "KR-42"
       type: "special self-governing province"
+      type_es: "provincia autónoma especial"
       latitude: 37.885
       longitude: 127.7297
       cities:
@@ -283,9 +293,11 @@
           longitude: 128.61471
     -
       name: "Gwangju"
+      native: "광주"
       code: "29"
       iso3166_2: "KR-29"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.1595454
       longitude: 126.8526012
       cities:
@@ -303,9 +315,11 @@
           longitude: 126.83149
     -
       name: "Gyeonggi"
+      native: "경기도"
       code: "41"
       iso3166_2: "KR-41"
       type: "province"
+      type_es: "provincia"
       latitude: 37.2884675
       longitude: 127.0535231
       cities:
@@ -483,9 +497,11 @@
           longitude: 127.17795
     -
       name: "Incheon"
+      native: "인천"
       code: "28"
       iso3166_2: "KR-28"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 37.4562557
       longitude: 126.7052062
       cities:
@@ -507,9 +523,11 @@
           longitude: 126.66489
     -
       name: "Jeju"
+      native: "제주"
       code: "49"
       iso3166_2: "KR-49"
       type: "special self-governing province"
+      type_es: "provincia autónoma especial"
       latitude: 33.4998289
       longitude: 126.5313902
       cities:
@@ -531,9 +549,11 @@
           longitude: 126.56181
     -
       name: "North Chungcheong"
+      native: "충청북도"
       code: "43"
       iso3166_2: "KR-43"
       type: "province"
+      type_es: "provincia"
       latitude: 36.6357
       longitude: 127.4915
       cities:
@@ -599,9 +619,11 @@
           longitude: 127.79374
     -
       name: "North Gyeongsang"
+      native: "경상북도"
       code: "47"
       iso3166_2: "KR-47"
       type: "province"
+      type_es: "provincia"
       latitude: 36.5754
       longitude: 128.5058
       cities:
@@ -743,9 +765,11 @@
           longitude: 129.35162
     -
       name: "North Jeolla"
+      native: "전라북도"
       code: "45"
       iso3166_2: "KR-45"
       type: "province"
+      type_es: "provincia"
       latitude: 35.8198999
       longitude: 127.109
       cities:
@@ -847,9 +871,11 @@
           longitude: 127.14752
     -
       name: "Sejong City"
+      native: "세종시"
       code: "50"
       iso3166_2: "KR-50"
       type: "special self-governing city"
+      type_es: "ciudad autónoma especial"
       latitude: 36.4799999
       longitude: 127.289
       cities:
@@ -859,9 +885,11 @@
           longitude: 127.29223
     -
       name: "Seoul"
+      native: "서울"
       code: "11"
       iso3166_2: "KR-11"
       type: "special city"
+      type_es: "ciudad especial"
       latitude: 37.566535
       longitude: 126.9779692
       cities:
@@ -975,9 +1003,11 @@
           longitude: 126.9775
     -
       name: "South Chungcheong"
+      native: "충청남도"
       code: "44"
       iso3166_2: "KR-44"
       type: "province"
+      type_es: "provincia"
       latitude: 36.6593
       longitude: 126.6729
       cities:
@@ -1095,9 +1125,11 @@
           longitude: 127.1
     -
       name: "South Gyeongsang"
+      native: "경상남도"
       code: "48"
       iso3166_2: "KR-48"
       type: "province"
+      type_es: "provincia"
       latitude: 35.2382
       longitude: 128.6925
       cities:
@@ -1207,9 +1239,11 @@
           longitude: 129.03358
     -
       name: "South Jeolla"
+      native: "전라남도"
       code: "46"
       iso3166_2: "KR-46"
       type: "province"
+      type_es: "provincia"
       latitude: 34.8159
       longitude: 126.4629
       cities:
@@ -1355,9 +1389,11 @@
           longitude: 127.66215
     -
       name: "Ulsan"
+      native: "울산"
       code: "31"
       iso3166_2: "KR-31"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 35.5383773
       longitude: 129.3113596
       cities:

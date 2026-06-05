@@ -12,16 +12,20 @@
   currency_symbol: "LS"
   tld: ".sy"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 35
   longitude: 38
   emoji: "🇸🇾"
   states:
     -
       name: "Al-Hasakah"
+      native: "الحسكة"
       code: "HA"
       iso3166_2: "SY-HA"
       type: "province"
+      type_es: "provincia"
       latitude: 36.4364544
       longitude: 40.5793816
       cities:
@@ -51,9 +55,11 @@
           longitude: 40.93
     -
       name: "Al-Raqqah"
+      native: "الرقة"
       code: "RA"
       iso3166_2: "SY-RA"
       type: "province"
+      type_es: "provincia"
       latitude: 35.949678
       longitude: 39.0089212
       cities:
@@ -83,9 +89,11 @@
           longitude: 39.2136
     -
       name: "Aleppo"
+      native: "حلب"
       code: "HL"
       iso3166_2: "SY-HL"
       type: "province"
+      type_es: "provincia"
       latitude: 36.1517479
       longitude: 37.3935
       cities:
@@ -175,9 +183,11 @@
           longitude: 37.09471
     -
       name: "As-Suwayda"
+      native: "السويداء"
       code: "SU"
       iso3166_2: "SY-SU"
       type: "province"
+      type_es: "provincia"
       latitude: 32.77055
       longitude: 36.8776335
       cities:
@@ -211,9 +221,11 @@
           longitude: 36.72034
     -
       name: "Damascus"
+      native: "دمشق"
       code: "DI"
       iso3166_2: "SY-DI"
       type: "province"
+      type_es: "provincia"
       latitude: 33.5130695
       longitude: 36.3095814
       cities:
@@ -223,9 +235,11 @@
           longitude: 36.29128
     -
       name: "Daraa"
+      native: "درعا"
       code: "DR"
       iso3166_2: "SY-DR"
       type: "province"
+      type_es: "provincia"
       latitude: 32.8284685
       longitude: 36.1055602
       cities:
@@ -291,9 +305,11 @@
           longitude: 35.96973
     -
       name: "Deir ez-Zor"
+      native: "دير الزور"
       code: "DY"
       iso3166_2: "SY-DY"
       type: "province"
+      type_es: "provincia"
       latitude: 35.2693236
       longitude: 40.2401172
       cities:
@@ -319,9 +335,11 @@
           longitude: 40.59987
     -
       name: "Hama"
+      native: "حماة"
       code: "HM"
       iso3166_2: "SY-HM"
       type: "province"
+      type_es: "provincia"
       latitude: 35.309489
       longitude: 37.2704222
       cities:
@@ -383,9 +401,11 @@
           longitude: 36.50395
     -
       name: "Homs"
+      native: "حمص"
       code: "HI"
       iso3166_2: "SY-HI"
       type: "province"
+      type_es: "provincia"
       latitude: 34.4709821
       longitude: 38.1502622
       cities:
@@ -447,9 +467,11 @@
           longitude: 36.25995
     -
       name: "Idlib"
+      native: "إدلب"
       code: "ID"
       iso3166_2: "SY-ID"
       type: "province"
+      type_es: "provincia"
       latitude: 35.8595974
       longitude: 36.5713701
       cities:
@@ -531,9 +553,11 @@
           longitude: 36.78579
     -
       name: "Latakia"
+      native: "اللاذقية"
       code: "LA"
       iso3166_2: "SY-LA"
       type: "province"
+      type_es: "provincia"
       latitude: 35.5786198
       longitude: 35.9814691
       cities:
@@ -571,9 +595,11 @@
           longitude: 36.1877
     -
       name: "Quneitra"
+      native: "القنيطرة"
       code: "QU"
       iso3166_2: "SY-QU"
       type: "province"
+      type_es: "provincia"
       latitude: 33.0537759
       longitude: 35.9047094
       cities:
@@ -583,9 +609,11 @@
           longitude: 35.82461
     -
       name: "Rif Dimashq"
+      native: "ريف دمشق"
       code: "RD"
       iso3166_2: "SY-RD"
       type: "province"
+      type_es: "provincia"
       latitude: 33.4708234
       longitude: 37.647632
       cities:
@@ -667,9 +695,11 @@
           longitude: 36.65729
     -
       name: "Tartus"
+      native: "طرطوس"
       code: "TA"
       iso3166_2: "SY-TA"
       type: "province"
+      type_es: "provincia"
       latitude: 34.9452553
       longitude: 36.0753261
       cities:

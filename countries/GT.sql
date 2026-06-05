@@ -1,43 +1,43 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(90, 'Guatemala', 'GT', 'GTM', 'Americas', 'Central America', 'Guatemala City', 'GTQ', 15.5, -90.25, '🇬🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(90, 'Guatemala', 'Guatemala', 'GT', 'GTM', 'Americas', 'América', 'Central America', 'Centroamérica', 'Guatemala City', 'GTQ', 15.5, -90.25, '🇬🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3671, 'Alta Verapaz ', 90, 'GT', '16', 'department', 15.5949705, -90.0918031),
-(3674, 'Baja Verapaz ', 90, 'GT', '15', 'department', 15.1170798, -90.4109616),
-(3675, 'Chimaltenango ', 90, 'GT', '04', 'department', 14.6539748, -90.9272741),
-(3666, 'Chiquimula ', 90, 'GT', '20', 'department', 14.8005709, -89.5459173),
-(3662, 'El Progreso ', 90, 'GT', '02', 'department', 14.9100436, -90.0682728),
-(3677, 'Escuintla ', 90, 'GT', '05', 'department', 14.1921287, -91.0263791),
-(3672, 'Guatemala ', 90, 'GT', '01', 'department', 14.6416142, -90.5132836),
-(3670, 'Huehuetenango ', 90, 'GT', '13', 'department', 15.606418, -91.6442217),
-(3659, 'Izabal ', 90, 'GT', '18', 'department', 15.5700584, -88.9829247),
-(3658, 'Jalapa ', 90, 'GT', '21', 'department', 14.6344164, -89.9897996),
-(3673, 'Jutiapa ', 90, 'GT', '22', 'department', 14.1476859, -89.8872508),
-(3669, 'Petén ', 90, 'GT', '17', 'department', 16.8317906, -90.0450637),
-(3668, 'Quetzaltenango ', 90, 'GT', '09', 'department', 14.8594641, -91.5931586),
-(3657, 'Quiché ', 90, 'GT', '14', 'department', 15.4381786, -91.0075186),
-(3664, 'Retalhuleu ', 90, 'GT', '11', 'department', 14.5359621, -91.6780651),
-(3676, 'Sacatepéquez ', 90, 'GT', '03', 'department', 14.5531759, -90.7547018),
-(3667, 'San Marcos ', 90, 'GT', '12', 'department', 14.9533135, -91.9120444),
-(3665, 'Santa Rosa ', 90, 'GT', '06', 'department', 14.1501523, -90.3508818),
-(3661, 'Sololá ', 90, 'GT', '07', 'department', 14.7039412, -91.282818),
-(3660, 'Suchitepéquez ', 90, 'GT', '10', 'department', 14.3740226, -91.3650139),
-(3663, 'Totonicapán ', 90, 'GT', '08', 'department', 14.9173402, -91.3613923),
-(5239, 'Zacapa', 90, 'GT', '19', 'department', 14.9707219, -89.5297411);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3671, 'Alta Verapaz ', 'Alta Verapaz ', 90, 'GT', '16', 'department', 'departamento', 15.5949705, -90.0918031),
+(3674, 'Baja Verapaz ', 'Baja Verapaz', 90, 'GT', '15', 'department', 'departamento', 15.1170798, -90.4109616),
+(3675, 'Chimaltenango ', 'Chimaltenango', 90, 'GT', '04', 'department', 'departamento', 14.6539748, -90.9272741),
+(3666, 'Chiquimula ', 'Chiquimula', 90, 'GT', '20', 'department', 'departamento', 14.8005709, -89.5459173),
+(3662, 'El Progreso ', 'El Progreso', 90, 'GT', '02', 'department', 'departamento', 14.9100436, -90.0682728),
+(3677, 'Escuintla ', 'Escuintla', 90, 'GT', '05', 'department', 'departamento', 14.1921287, -91.0263791),
+(3672, 'Guatemala ', 'Guatemala', 90, 'GT', '01', 'department', 'departamento', 14.6416142, -90.5132836),
+(3670, 'Huehuetenango ', 'Huehuetenango', 90, 'GT', '13', 'department', 'departamento', 15.606418, -91.6442217),
+(3659, 'Izabal ', 'Izabal', 90, 'GT', '18', 'department', 'departamento', 15.5700584, -88.9829247),
+(3658, 'Jalapa ', 'Jalapa', 90, 'GT', '21', 'department', 'departamento', 14.6344164, -89.9897996),
+(3673, 'Jutiapa ', 'Jutiapa', 90, 'GT', '22', 'department', 'departamento', 14.1476859, -89.8872508),
+(3669, 'Petén ', 'Petén ', 90, 'GT', '17', 'department', 'departamento', 16.8317906, -90.0450637),
+(3668, 'Quetzaltenango ', 'Quetzaltenango', 90, 'GT', '09', 'department', 'departamento', 14.8594641, -91.5931586),
+(3657, 'Quiché ', 'Quiché', 90, 'GT', '14', 'department', 'departamento', 15.4381786, -91.0075186),
+(3664, 'Retalhuleu ', 'Retalhuleu', 90, 'GT', '11', 'department', 'departamento', 14.5359621, -91.6780651),
+(3676, 'Sacatepéquez ', 'Sacatepéquez', 90, 'GT', '03', 'department', 'departamento', 14.5531759, -90.7547018),
+(3667, 'San Marcos ', 'San Marcos', 90, 'GT', '12', 'department', 'departamento', 14.9533135, -91.9120444),
+(3665, 'Santa Rosa ', 'Santa Rosa', 90, 'GT', '06', 'department', 'departamento', 14.1501523, -90.3508818),
+(3661, 'Sololá ', 'Sololá', 90, 'GT', '07', 'department', 'departamento', 14.7039412, -91.282818),
+(3660, 'Suchitepéquez ', 'Suchitepéquez', 90, 'GT', '10', 'department', 'departamento', 14.3740226, -91.3650139),
+(3663, 'Totonicapán ', 'Totonicapán', 90, 'GT', '08', 'department', 'departamento', 14.9173402, -91.3613923),
+(5239, 'Zacapa', 'Zacapa', 90, 'GT', '19', 'department', 'departamento', 14.9707219, -89.5297411);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (53437, 'Cahabón', 3671, 90, 15.56667, -89.81667),

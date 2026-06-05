@@ -12,70 +12,86 @@
   currency_symbol: "€"
   tld: ".ax"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 60.116667
   longitude: 19.9
   emoji: "🇦🇽"
   states:
     -
       name: "Brändö"
+      native: "Brändö"
       code: "12"
       iso3166_2: "AX-12"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.4135873
       longitude: 21.0440498
       cities:
         []
     -
       name: "Eckerö"
+      native: "Eckerö"
       code: "08"
       iso3166_2: "AX-08"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2231814
       longitude: 19.5389379
       cities:
         []
     -
       name: "Finström"
+      native: "Finström"
       code: "03"
       iso3166_2: "AX-03"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2310519
       longitude: 19.9867259
       cities:
         []
     -
       name: "Föglö"
+      native: "Föglö"
       code: "09"
       iso3166_2: "AX-09"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.0107325
       longitude: 20.4246997
       cities:
         []
     -
       name: "Geta"
+      native: "Geta"
       code: "10"
       iso3166_2: "AX-10"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.3740157
       longitude: 19.8498128
       cities:
         []
     -
       name: "Hammarland"
+      native: "Hammarland"
       code: "06"
       iso3166_2: "AX-06"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2196758
       longitude: 19.7378481
       cities:
         []
     -
       name: "Jomala"
+      native: "Jomala"
       code: "02"
       iso3166_2: "AX-02"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.1522947
       longitude: 19.9489144
       cities:
@@ -125,45 +141,55 @@
           longitude: 20.01667
     -
       name: "Kökar"
+      native: "Kökar"
       code: "15"
       iso3166_2: "AX-15"
       type: "municipality"
+      type_es: "municipio"
       latitude: 59.9211709
       longitude: 20.9103514
       cities:
         []
     -
       name: "Kumlinge"
+      native: "Kumlinge"
       code: "14"
       iso3166_2: "AX-14"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2587693
       longitude: 20.7782292
       cities:
         []
     -
       name: "Lemland"
+      native: "Lemland"
       code: "04"
       iso3166_2: "AX-04"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.0690169
       longitude: 20.0860081
       cities:
         []
     -
       name: "Lumparland"
+      native: "Lumparland"
       code: "13"
       iso3166_2: "AX-13"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.1168385
       longitude: 20.2610583
       cities:
         []
     -
       name: "Mariehamn"
+      native: "Mariehamn"
       code: "01"
       iso3166_2: "AX-01"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.102423
       longitude: 19.94126
       cities:
@@ -173,36 +199,44 @@
           longitude: 19.93481
     -
       name: "Saltvik"
+      native: "Saltvik"
       code: "05"
       iso3166_2: "AX-05"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2755756
       longitude: 20.0612065
       cities:
         []
     -
       name: "Sottunga"
+      native: "Sot"
       code: "16"
       iso3166_2: "AX-16"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.1307977
       longitude: 20.6459821
       cities:
         []
     -
       name: "Sund"
+      native: "Hälsosam"
       code: "07"
       iso3166_2: "AX-07"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2530332
       longitude: 20.1198637
       cities:
         []
     -
       name: "Vårdö"
+      native: "Vårdö"
       code: "11"
       iso3166_2: "AX-11"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2421692
       longitude: 20.3744261
       cities:

@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(29, 'Botswana', 'BW', 'BWA', 'Africa', 'Southern Africa', 'Gaborone', 'BWP', -22, 24, '🇧🇼');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(29, 'Botswana', 'Botswana', 'BW', 'BWA', 'Africa', 'África', 'Southern Africa', 'África Austral', 'Gaborone', 'BWP', -22, 24, '🇧🇼');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3067, 'Central', 29, 'BW', 'CE', 'district', -21.4790187, 26.2154174),
-(5710, 'Chobe', 29, 'BW', 'CH', 'district', -18.5, 25),
-(5711, 'Francistown', 29, 'BW', 'FR', 'city', -21.17361111, 27.5125),
-(5712, 'Gaborone', 29, 'BW', 'GA', 'city', -24.65805556, 25.91222222),
-(3061, 'Ghanzi', 29, 'BW', 'GH', 'district', -21.6968123, 21.6457062),
-(5713, 'Jwaneng', 29, 'BW', 'JW', 'town', -24.60194444, 24.72833333),
-(3066, 'Kgalagadi', 29, 'BW', 'KG', 'district', -24.8490576, 21.7883349),
-(3062, 'Kgatleng', 29, 'BW', 'KL', 'district', -24.134085, 26.4177246),
-(3069, 'Kweneng', 29, 'BW', 'KW', 'district', -23.9028101, 24.9214122),
-(5714, 'Lobatse', 29, 'BW', 'LO', 'town', -25.21666667, 25.66666667),
-(3068, 'North-East', 29, 'BW', 'NE', 'district', -21.0244816, 27.5147504),
-(3065, 'North-West', 29, 'BW', 'NW', 'district', -19.3893529, 23.267951),
-(5715, 'Selibe Phikwe', 29, 'BW', 'SP', 'town', -21.97583333, 27.84),
-(3064, 'South-East', 29, 'BW', 'SE', 'district', -24.6563846, 26.0575429),
-(3063, 'Southern', 29, 'BW', 'SO', 'district', -24.7998688, 24.5800692),
-(5716, 'Sowa Town', 29, 'BW', 'ST', 'town', -20.56361111, 26.22444444);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3067, 'Central', 'Central', 29, 'BW', 'CE', 'district', 'distrito', -21.4790187, 26.2154174),
+(5710, 'Chobe', 'Chobe', 29, 'BW', 'CH', 'district', 'distrito', -18.5, 25),
+(5711, 'Francistown', 'Francistown', 29, 'BW', 'FR', 'city', 'ciudad', -21.17361111, 27.5125),
+(5712, 'Gaborone', 'Gaborone', 29, 'BW', 'GA', 'city', 'ciudad', -24.65805556, 25.91222222),
+(3061, 'Ghanzi', 'Pirm', 29, 'BW', 'GH', 'district', 'distrito', -21.6968123, 21.6457062),
+(5713, 'Jwaneng', 'Jwaneng', 29, 'BW', 'JW', 'town', 'población', -24.60194444, 24.72833333),
+(3066, 'Kgalagadi', 'Kgalagadi', 29, 'BW', 'KG', 'district', 'distrito', -24.8490576, 21.7883349),
+(3062, 'Kgatleng', 'In the world', 29, 'BW', 'KL', 'district', 'distrito', -24.134085, 26.4177246),
+(3069, 'Kweneng', 'Kweneng', 29, 'BW', 'KW', 'district', 'distrito', -23.9028101, 24.9214122),
+(5714, 'Lobatse', 'Lobatse', 29, 'BW', 'LO', 'town', 'población', -25.21666667, 25.66666667),
+(3068, 'North-East', 'North-East', 29, 'BW', 'NE', 'district', 'distrito', -21.0244816, 27.5147504),
+(3065, 'North-West', 'North-West', 29, 'BW', 'NW', 'district', 'distrito', -19.3893529, 23.267951),
+(5715, 'Selibe Phikwe', 'Selibe Phikwe', 29, 'BW', 'SP', 'town', 'población', -21.97583333, 27.84),
+(3064, 'South-East', 'South-East', 29, 'BW', 'SE', 'district', 'distrito', -24.6563846, 26.0575429),
+(3063, 'Southern', 'Southern', 29, 'BW', 'SO', 'district', 'distrito', -24.7998688, 24.5800692),
+(5716, 'Sowa Town', 'Sowa Town', 29, 'BW', 'ST', 'town', 'población', -20.56361111, 26.22444444);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (15738, 'Gobojango', 3067, 29, -21.8327, 28.72882),

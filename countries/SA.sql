@@ -1,34 +1,34 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(194, 'Saudi Arabia', 'SA', 'SAU', 'Asia', 'Western Asia', 'Riyadh', 'SAR', 25, 45, '🇸🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(194, 'Saudi Arabia', 'Arabia Saudí', 'SA', 'SAU', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Riyadh', 'SAR', 25, 45, '🇸🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2859, 'Al Bahah', 194, 'SA', '11', 'region', 20.2372671, 41.4615479),
-(2857, 'Al Jawf', 194, 'SA', '12', 'region', 29.7673818, 39.5629883),
-(2851, 'Al Madinah', 194, 'SA', '03', 'region', 25.1354363, 39.162594),
-(2861, 'Al-Qassim', 194, 'SA', '05', 'region', 26.1942235, 43.4565711),
-(2853, 'Asir', 194, 'SA', '14', 'region', 19.166667, 43.166667),
-(2856, 'Eastern Province', 194, 'SA', '04', 'region', 23.3036077, 50.1258804),
-(2855, 'Ha''il', 194, 'SA', '06', 'region', 26.9920987, 41.4892578),
-(2858, 'Jizan', 194, 'SA', '09', 'region', 17.333333, 42.666667),
-(2850, 'Makkah', 194, 'SA', '02', 'region', 21.6698063, 41.4996029),
-(2860, 'Najran', 194, 'SA', '10', 'region', 18, 45.666667),
-(2854, 'Northern Borders', 194, 'SA', '08', 'region', 30, 42.666667),
-(2849, 'Riyadh', 194, 'SA', '01', 'region', 23.333333, 45.333333),
-(2852, 'Tabuk', 194, 'SA', '07', 'region', 28.3251866, 37.6328648);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2859, 'Al Bahah', 'الباحة', 194, 'SA', '11', 'region', 'región', 20.2372671, 41.4615479),
+(2857, 'Al Jawf', 'الجوف', 194, 'SA', '12', 'region', 'región', 29.7673818, 39.5629883),
+(2851, 'Al Madinah', 'المدينة المنورة', 194, 'SA', '03', 'region', 'región', 25.1354363, 39.162594),
+(2861, 'Al-Qassim', 'القصيم', 194, 'SA', '05', 'region', 'región', 26.1942235, 43.4565711),
+(2853, 'Asir', 'عسير', 194, 'SA', '14', 'region', 'región', 19.166667, 43.166667),
+(2856, 'Eastern Province', 'المنطقة الشرقية', 194, 'SA', '04', 'region', 'región', 23.3036077, 50.1258804),
+(2855, 'Ha''il', 'يشيد', 194, 'SA', '06', 'region', 'región', 26.9920987, 41.4892578),
+(2858, 'Jizan', 'جيزان', 194, 'SA', '09', 'region', 'región', 17.333333, 42.666667),
+(2850, 'Makkah', 'مكة المكرمة', 194, 'SA', '02', 'region', 'región', 21.6698063, 41.4996029),
+(2860, 'Najran', 'نجران', 194, 'SA', '10', 'region', 'región', 18, 45.666667),
+(2854, 'Northern Borders', 'الحدود الشمالية', 194, 'SA', '08', 'region', 'región', 30, 42.666667),
+(2849, 'Riyadh', 'الرياض', 194, 'SA', '01', 'region', 'región', 23.333333, 45.333333),
+(2852, 'Tabuk', 'تبوك', 194, 'SA', '07', 'region', 'región', 28.3251866, 37.6328648);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (102815, 'Al Bahah', 2859, 194, 20.01288, 41.46767),

@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".mf"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 18.08333333
   longitude: -63.95
   emoji: "🇲🇫"
   states:
     -
       name: "Saint-Martin"
+      native: "Saint-Martin"
       code: "01"
       iso3166_2: "FR-MF"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: 18.0731
       longitude: -63.0822
       cities:

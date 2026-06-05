@@ -12,16 +12,20 @@
   currency_symbol: "ك.د"
   tld: ".kw"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 29.5
   longitude: 45.75
   emoji: "🇰🇼"
   states:
     -
       name: "Al Ahmadi"
+      native: "الأحمدي"
       code: "AH"
       iso3166_2: "KW-AH"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 28.8538571
       longitude: 48.1652377
       cities:
@@ -55,9 +59,11 @@
           longitude: 48.09472
     -
       name: "Al Asimah"
+      native: "العاصمة"
       code: "KU"
       iso3166_2: "KW-KU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.0926128
       longitude: 48.513355
       cities:
@@ -83,9 +89,11 @@
           longitude: 47.97833
     -
       name: "Al Farwaniyah"
+      native: "الفروانية"
       code: "FA"
       iso3166_2: "KW-FA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.2482539
       longitude: 47.9136755
       cities:
@@ -99,9 +107,11 @@
           longitude: 47.97806
     -
       name: "Al Jahra"
+      native: "الجهراء"
       code: "JA"
       iso3166_2: "KW-JA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.3474636
       longitude: 47.6722054
       cities:
@@ -111,9 +121,11 @@
           longitude: 47.65806
     -
       name: "Hawalli"
+      native: "حولي"
       code: "HA"
       iso3166_2: "KW-HA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.3236609
       longitude: 48.1153148
       cities:
@@ -139,9 +151,11 @@
           longitude: 48.07861
     -
       name: "Mubarak Al-Kabeer"
+      native: "مبارك الكبير"
       code: "MU"
       iso3166_2: "KW-MU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 29.1870956
       longitude: 48.0827589
       cities:

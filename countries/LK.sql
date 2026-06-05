@@ -1,55 +1,55 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(208, 'Sri Lanka', 'LK', 'LKA', 'Asia', 'Southern Asia', 'Colombo', 'LKR', 7, 81, '🇱🇰');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(208, 'Sri Lanka', 'Sri Lanka', 'LK', 'LKA', 'Asia', 'Asia', 'Southern Asia', 'Asia del Sur', 'Colombo', 'LKR', 7, 81, '🇱🇰');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2799, 'Ampara', 208, 'LK', '52', 'district', 7.2978118, 81.6790194),
-(2816, 'Anuradhapura', 208, 'LK', '71', 'district', 8.3318305, 80.4029017),
-(2790, 'Badulla', 208, 'LK', '81', 'district', 6.9934009, 81.0549815),
-(2818, 'Batticaloa', 208, 'LK', '51', 'district', 7.8381021, 81.5567533),
-(2798, 'Central', 208, 'LK', '2', 'province', 7.381949, 80.723428),
-(2815, 'Colombo', 208, 'LK', '11', 'district', 6.9388614, 79.8542005),
-(2808, 'Eastern', 208, 'LK', '5', 'province', 7.7596435, 81.5850205),
-(2792, 'Galle', 208, 'LK', '31', 'district', 6.0328139, 80.214955),
-(2804, 'Gampaha', 208, 'LK', '12', 'district', 7.0925595, 79.9951396),
-(2791, 'Hambantota', 208, 'LK', '33', 'district', 6.176392, 81.1321195),
-(2787, 'Jaffna', 208, 'LK', '41', 'district', 9.665093, 80.0093029),
-(2789, 'Kalutara', 208, 'LK', '13', 'district', 6.5745305, 80.0286312),
-(2788, 'Kandy', 208, 'LK', '21', 'district', 7.2931588, 80.6350107),
-(2797, 'Kegalle', 208, 'LK', '92', 'district', 7.1204053, 80.3213106),
-(2793, 'Kilinochchi', 208, 'LK', '42', 'district', 9.3840068, 80.4087224),
-(5342, 'Kurunegala', 208, 'LK', '61', 'district', 7.7279837, 80.257184),
-(2805, 'Mannar', 208, 'LK', '43', 'district', 8.9809531, 79.9043975),
-(2810, 'Matale', 208, 'LK', '22', 'district', 7.4659646, 80.6234259),
-(2806, 'Matara', 208, 'LK', '32', 'district', 5.9449348, 80.5487997),
-(2819, 'Monaragala', 208, 'LK', '82', 'district', 6.8727781, 81.3506832),
-(2814, 'Mullaitivu', 208, 'LK', '45', 'district', 9.2675388, 80.8128254),
-(2800, 'North Central', 208, 'LK', '7', 'province', 8.2826967, 80.4848708),
-(2817, 'North Western', 208, 'LK', '6', 'province', 7.9745867, 79.9720053),
-(2813, 'Northern', 208, 'LK', '4', 'province', 9.28, 80.2827753),
-(2794, 'Nuwara Eliya', 208, 'LK', '23', 'district', 6.9738863, 80.767127),
-(2812, 'Polonnaruwa', 208, 'LK', '72', 'district', 7.9395567, 81.0003403),
-(2796, 'Puttalam', 208, 'LK', '62', 'district', 8.0301856, 79.8286583),
-(2807, 'Ratnapura', 208, 'LK', '91', 'district', 6.6803691, 80.4022975),
-(2803, 'Sabaragamuwa', 208, 'LK', '9', 'province', 6.8124018, 80.3354764),
-(2801, 'Southern', 208, 'LK', '3', 'province', 6.149, 80.7318178),
-(2795, 'Trincomalee', 208, 'LK', '53', 'district', 8.576425, 81.2344952),
-(2811, 'Uva', 208, 'LK', '8', 'province', 6.9609465, 81.2394711),
-(2809, 'Vavuniya', 208, 'LK', '44', 'district', 8.7594739, 80.5000334),
-(2802, 'Western', 208, 'LK', '1', 'province', 6.8275297, 79.931296);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2799, 'Ampara', 'අම්පාර', 208, 'LK', '52', 'district', 'distrito', 7.2978118, 81.6790194),
+(2816, 'Anuradhapura', 'අනුරාධපුර', 208, 'LK', '71', 'district', 'distrito', 8.3318305, 80.4029017),
+(2790, 'Badulla', 'බදුල්ල', 208, 'LK', '81', 'district', 'distrito', 6.9934009, 81.0549815),
+(2818, 'Batticaloa', 'මඩකලපුව', 208, 'LK', '51', 'district', 'distrito', 7.8381021, 81.5567533),
+(2798, 'Central', 'මධ්‍යම', 208, 'LK', '2', 'province', 'provincia', 7.381949, 80.723428),
+(2815, 'Colombo', 'කොළඹ', 208, 'LK', '11', 'district', 'distrito', 6.9388614, 79.8542005),
+(2808, 'Eastern', 'නැගෙනහිර', 208, 'LK', '5', 'province', 'provincia', 7.7596435, 81.5850205),
+(2792, 'Galle', 'ගාල්ල', 208, 'LK', '31', 'district', 'distrito', 6.0328139, 80.214955),
+(2804, 'Gampaha', 'ගම්පහ', 208, 'LK', '12', 'district', 'distrito', 7.0925595, 79.9951396),
+(2791, 'Hambantota', 'හම්බන්තොට', 208, 'LK', '33', 'district', 'distrito', 6.176392, 81.1321195),
+(2787, 'Jaffna', 'යාපනය', 208, 'LK', '41', 'district', 'distrito', 9.665093, 80.0093029),
+(2789, 'Kalutara', 'කළුතර', 208, 'LK', '13', 'district', 'distrito', 6.5745305, 80.0286312),
+(2788, 'Kandy', 'මහනුවර', 208, 'LK', '21', 'district', 'distrito', 7.2931588, 80.6350107),
+(2797, 'Kegalle', 'කෑගල්ල', 208, 'LK', '92', 'district', 'distrito', 7.1204053, 80.3213106),
+(2793, 'Kilinochchi', 'කිලිනොච්චිය', 208, 'LK', '42', 'district', 'distrito', 9.3840068, 80.4087224),
+(5342, 'Kurunegala', 'කුරුණෑගල', 208, 'LK', '61', 'district', 'distrito', 7.7279837, 80.257184),
+(2805, 'Mannar', 'මන්නාරම', 208, 'LK', '43', 'district', 'distrito', 8.9809531, 79.9043975),
+(2810, 'Matale', 'මාතලේ', 208, 'LK', '22', 'district', 'distrito', 7.4659646, 80.6234259),
+(2806, 'Matara', 'මාතර', 208, 'LK', '32', 'district', 'distrito', 5.9449348, 80.5487997),
+(2819, 'Monaragala', 'මොනරාගල', 208, 'LK', '82', 'district', 'distrito', 6.8727781, 81.3506832),
+(2814, 'Mullaitivu', 'මුලතිව්', 208, 'LK', '45', 'district', 'distrito', 9.2675388, 80.8128254),
+(2800, 'North Central', 'උතුරු මැද', 208, 'LK', '7', 'province', 'provincia', 8.2826967, 80.4848708),
+(2817, 'North Western', 'වයඹ', 208, 'LK', '6', 'province', 'provincia', 7.9745867, 79.9720053),
+(2813, 'Northern', 'උතුරු', 208, 'LK', '4', 'province', 'provincia', 9.28, 80.2827753),
+(2794, 'Nuwara Eliya', 'නුවරඑළිය', 208, 'LK', '23', 'district', 'distrito', 6.9738863, 80.767127),
+(2812, 'Polonnaruwa', 'පොලොන්නරුව', 208, 'LK', '72', 'district', 'distrito', 7.9395567, 81.0003403),
+(2796, 'Puttalam', 'පුත්තලම', 208, 'LK', '62', 'district', 'distrito', 8.0301856, 79.8286583),
+(2807, 'Ratnapura', 'රත්නපුර', 208, 'LK', '91', 'district', 'distrito', 6.6803691, 80.4022975),
+(2803, 'Sabaragamuwa', 'සබරගමුව', 208, 'LK', '9', 'province', 'provincia', 6.8124018, 80.3354764),
+(2801, 'Southern', 'දකුණු', 208, 'LK', '3', 'province', 'provincia', 6.149, 80.7318178),
+(2795, 'Trincomalee', 'ත්‍රිකුණාමලය', 208, 'LK', '53', 'district', 'distrito', 8.576425, 81.2344952),
+(2811, 'Uva', 'ඌව', 208, 'LK', '8', 'province', 'provincia', 6.9609465, 81.2394711),
+(2809, 'Vavuniya', 'වවුනියාව', 208, 'LK', '44', 'district', 'distrito', 8.7594739, 80.5000334),
+(2802, 'Western', 'බටහිර', 208, 'LK', '1', 'province', 'provincia', 6.8275297, 79.931296);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (66463, 'Dambulla', 2798, 208, 7.86, 80.65167),

@@ -12,16 +12,20 @@
   currency_symbol: "Bs."
   tld: ".bo"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -17
   longitude: -65
   emoji: "🇧🇴"
   states:
     -
       name: "Beni"
+      native: "Beni"
       code: "B"
       iso3166_2: "BO-B"
       type: "department"
+      type_es: "departamento"
       latitude: -14
       longitude: -65
       cities:
@@ -95,9 +99,11 @@
           longitude: -64.9
     -
       name: "Chuquisaca"
+      native: "Chuquisaca"
       code: "H"
       iso3166_2: "BO-H"
       type: "department"
+      type_es: "departamento"
       latitude: -20
       longitude: -64.416667
       cities:
@@ -163,9 +169,11 @@
           longitude: -64.91517
     -
       name: "Cochabamba"
+      native: "Cochabamba"
       code: "C"
       iso3166_2: "BO-C"
       type: "department"
+      type_es: "departamento"
       latitude: -17.3330142
       longitude: -65.5010931
       cities:
@@ -307,9 +315,11 @@
           longitude: -65.1932
     -
       name: "La Paz"
+      native: "La Paz"
       code: "L"
       iso3166_2: "BO-L"
       type: "department"
+      type_es: "departamento"
       latitude: -15
       longitude: -68.333333
       cities:
@@ -487,9 +497,11 @@
           longitude: -69.14843
     -
       name: "Oruro"
+      native: "Oruro"
       code: "O"
       iso3166_2: "BO-O"
       type: "department"
+      type_es: "departamento"
       latitude: -18.666667
       longitude: -67.666667
       cities:
@@ -583,9 +595,11 @@
           longitude: -66.8738
     -
       name: "Pando"
+      native: "Pando"
       code: "N"
       iso3166_2: "BO-N"
       type: "department"
+      type_es: "departamento"
       latitude: -11.183333
       longitude: -67.183333
       cities:
@@ -615,9 +629,11 @@
           longitude: -68.5
     -
       name: "Potosí"
+      native: "Potosí"
       code: "P"
       iso3166_2: "BO-P"
       type: "department"
+      type_es: "departamento"
       latitude: -20.666667
       longitude: -66.666667
       cities:
@@ -727,9 +743,11 @@
           longitude: -65.59422
     -
       name: "Santa Cruz"
+      native: "Santa Cruz"
       code: "S"
       iso3166_2: "BO-S"
       type: "department"
+      type_es: "departamento"
       latitude: -17.333333
       longitude: -61.5
       cities:
@@ -951,9 +969,11 @@
           longitude: -63.16778
     -
       name: "Tarija"
+      native: "Taria"
       code: "T"
       iso3166_2: "BO-T"
       type: "department"
+      type_es: "departamento"
       latitude: -21.583333
       longitude: -63.833333
       cities:

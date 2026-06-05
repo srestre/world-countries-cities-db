@@ -1,143 +1,143 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-SY,Syria,Asia,Western Asia,HA,Al-Hasakah,Ad Darbāsīyah,37.07279,40.65199
-SY,Syria,Asia,Western Asia,HA,Al-Hasakah,Al Ḩasakah,36.50237,40.74772
-SY,Syria,Asia,Western Asia,HA,Al-Hasakah,Al Mālikīyah,37.17701,42.14006
-SY,Syria,Asia,Western Asia,HA,Al-Hasakah,Al Qāmishlī,37.05215,41.23142
-SY,Syria,Asia,Western Asia,HA,Al-Hasakah,Al-Malikiyah,36.94113,41.90157
-SY,Syria,Asia,Western Asia,HA,Al-Hasakah,Amude,37.10417,40.93
-SY,Syria,Asia,Western Asia,RA,Al-Raqqah,Al-Thawrah,35.79843,38.3455
-SY,Syria,Asia,Western Asia,RA,Al-Raqqah,Ar Raqqah,35.95283,39.00788
-SY,Syria,Asia,Western Asia,RA,Al-Raqqah,Ar-Raqqah,35.87204,39.04706
-SY,Syria,Asia,Western Asia,RA,Al-Raqqah,Ath Thawrah,35.83758,38.54828
-SY,Syria,Asia,Western Asia,RA,Al-Raqqah,Tall Abyaḑ,36.69648,38.95382
-SY,Syria,Asia,Western Asia,RA,Al-Raqqah,Tell Abyad,36.4828,39.2136
-SY,Syria,Asia,Western Asia,HL,Aleppo,‘Afrīn,36.51194,36.86954
-SY,Syria,Asia,Western Asia,HL,Aleppo,‘Ayn al ‘Arab,36.89095,38.35347
-SY,Syria,Asia,Western Asia,HL,Aleppo,Afrin,36.54891,36.79295
-SY,Syria,Asia,Western Asia,HL,Aleppo,Al Atārib,36.13907,36.82504
-SY,Syria,Asia,Western Asia,HL,Aleppo,Al Bāb,36.37051,37.5157
-SY,Syria,Asia,Western Asia,HL,Aleppo,Al-Bab,36.30946,37.53277
-SY,Syria,Asia,Western Asia,HL,Aleppo,Aleppo,36.20124,37.16117
-SY,Syria,Asia,Western Asia,HL,Aleppo,As Safīrah,36.07696,37.37251
-SY,Syria,Asia,Western Asia,HL,Aleppo,Azaz,36.49986,37.18382
-SY,Syria,Asia,Western Asia,HL,Aleppo,Dayr Ḩāfir,36.15694,37.70778
-SY,Syria,Asia,Western Asia,HL,Aleppo,I‘zāz,36.58662,37.04628
-SY,Syria,Asia,Western Asia,HL,Aleppo,Jarābulus,36.8175,38.01111
-SY,Syria,Asia,Western Asia,HL,Aleppo,Kafr Şaghīr,36.29264,37.2559
-SY,Syria,Asia,Western Asia,HL,Aleppo,Khanāşir,35.78159,37.49919
-SY,Syria,Asia,Western Asia,HL,Aleppo,Manbij,36.52815,37.95495
-SY,Syria,Asia,Western Asia,HL,Aleppo,Manbij District,36.06687,37.91735
-SY,Syria,Asia,Western Asia,HL,Aleppo,Mount Simeon,35.99956,37.08473
-SY,Syria,Asia,Western Asia,HL,Aleppo,Nubl,36.37867,36.99294
-SY,Syria,Asia,Western Asia,HL,Aleppo,Şūrān,36.56579,37.2127
-SY,Syria,Asia,Western Asia,HL,Aleppo,Tādif,36.34814,37.5309
-SY,Syria,Asia,Western Asia,HL,Aleppo,Tall Rif‘at,36.47229,37.09471
-SY,Syria,Asia,Western Asia,SU,As-Suwayda,As-Suwayda,32.70896,36.56951
-SY,Syria,Asia,Western Asia,SU,As-Suwayda,As-Suwayda District,32.78127,36.86502
-SY,Syria,Asia,Western Asia,SU,As-Suwayda,Şalākhid,32.87271,36.57271
-SY,Syria,Asia,Western Asia,SU,As-Suwayda,Şalkhad,32.492,36.71114
-SY,Syria,Asia,Western Asia,SU,As-Suwayda,Salkhad District,32.51779,36.91954
-SY,Syria,Asia,Western Asia,SU,As-Suwayda,Shahbā,32.85514,36.62896
-SY,Syria,Asia,Western Asia,SU,As-Suwayda,Shahba District,33.04282,36.72034
-SY,Syria,Asia,Western Asia,DI,Damascus,Damascus,33.5102,36.29128
-SY,Syria,Asia,Western Asia,DR,Daraa,Al Ḩarāk,32.74932,36.30994
-SY,Syria,Asia,Western Asia,DR,Daraa,Al Muzayrīb,32.71084,36.02751
-SY,Syria,Asia,Western Asia,DR,Daraa,Al-Sanamayn,33.12559,36.2754
-SY,Syria,Asia,Western Asia,DR,Daraa,Aş Şanamayn,33.07186,36.18316
-SY,Syria,Asia,Western Asia,DR,Daraa,Ash Shaykh Miskīn,32.82944,36.15933
-SY,Syria,Asia,Western Asia,DR,Daraa,Buşrá ash Shām,32.52013,36.48256
-SY,Syria,Asia,Western Asia,DR,Daraa,Dar‘ā,32.61889,36.10213
-SY,Syria,Asia,Western Asia,DR,Daraa,Ghabāghib,33.18235,36.22534
-SY,Syria,Asia,Western Asia,DR,Daraa,Inkhil,33.01809,36.12828
-SY,Syria,Asia,Western Asia,DR,Daraa,Izra,32.90121,36.16144
-SY,Syria,Asia,Western Asia,DR,Daraa,Izra‘,32.8706,36.25453
-SY,Syria,Asia,Western Asia,DR,Daraa,Jāsim,32.99233,36.06018
-SY,Syria,Asia,Western Asia,DR,Daraa,Nawá,32.89044,36.0399
-SY,Syria,Asia,Western Asia,DR,Daraa,Ţafas,32.73709,36.06654
-SY,Syria,Asia,Western Asia,DR,Daraa,Tasīl,32.83395,35.96973
-SY,Syria,Asia,Western Asia,DY,Deir ez-Zor,Al Mayādīn,35.01982,40.45154
-SY,Syria,Asia,Western Asia,DY,Deir ez-Zor,Ālbū Kamāl,34.45226,40.91854
-SY,Syria,Asia,Western Asia,DY,Deir ez-Zor,Deir ez-Zor,35.33588,40.14084
-SY,Syria,Asia,Western Asia,DY,Deir ez-Zor,Hajīn,34.69508,40.83138
-SY,Syria,Asia,Western Asia,DY,Deir ez-Zor,Subaykhān,34.85305,40.59987
-SY,Syria,Asia,Western Asia,HM,Hama,Al-Salamiyah,35.14398,37.59235
-SY,Syria,Asia,Western Asia,HM,Hama,As Salamīyah,35.01127,37.05324
-SY,Syria,Asia,Western Asia,HM,Hama,As Suqaylibīyah,35.36674,36.39359
-SY,Syria,Asia,Western Asia,HM,Hama,Ḩalfāyā,35.26014,36.60581
-SY,Syria,Asia,Western Asia,HM,Hama,Hama,35.28577,37.12626
-SY,Syria,Asia,Western Asia,HM,Hama,Ḩamāh,35.13179,36.75783
-SY,Syria,Asia,Western Asia,HM,Hama,Kafr Zaytā,35.37425,36.6033
-SY,Syria,Asia,Western Asia,HM,Hama,Maşyāf,35.0653,36.3406
-SY,Syria,Asia,Western Asia,HM,Hama,Masyaf District,35.10335,36.3392
-SY,Syria,Asia,Western Asia,HM,Hama,Mūrak,35.37615,36.6897
-SY,Syria,Asia,Western Asia,HM,Hama,Souran,35.29193,36.74848
-SY,Syria,Asia,Western Asia,HM,Hama,Tall Salḩab,35.25884,36.38461
-SY,Syria,Asia,Western Asia,HM,Hama,Ţayyibat al Imām,35.26592,36.71219
-SY,Syria,Asia,Western Asia,HM,Hama,Tremseh,35.27181,36.50395
-SY,Syria,Asia,Western Asia,HI,Homs,Al Ghanţū,34.82202,36.69613
-SY,Syria,Asia,Western Asia,HI,Homs,Al Qaryatayn,34.22956,37.24066
-SY,Syria,Asia,Western Asia,HI,Homs,Al Quşayr,34.5078,36.58029
-SY,Syria,Asia,Western Asia,HI,Homs,Al-Rastan,34.871,36.77245
-SY,Syria,Asia,Western Asia,HI,Homs,Ar Rastan,34.92667,36.73241
-SY,Syria,Asia,Western Asia,HI,Homs,Hisya,34.41197,36.75867
-SY,Syria,Asia,Western Asia,HI,Homs,Homs,34.72682,36.72339
-SY,Syria,Asia,Western Asia,HI,Homs,Kafr Lāhā,34.89469,36.49582
-SY,Syria,Asia,Western Asia,HI,Homs,Mukharram al Fawqānī,34.81521,37.08677
-SY,Syria,Asia,Western Asia,HI,Homs,Şadad,34.31248,36.92562
-SY,Syria,Asia,Western Asia,HI,Homs,Tadmur,34.5624,38.28402
-SY,Syria,Asia,Western Asia,HI,Homs,Tadmur District,34.42401,38.6458
-SY,Syria,Asia,Western Asia,HI,Homs,Tallbīsah,34.84072,36.73092
-SY,Syria,Asia,Western Asia,HI,Homs,Tallkalakh,34.66842,36.25995
-SY,Syria,Asia,Western Asia,ID,Idlib,Ad Dānā,36.21254,36.76998
-SY,Syria,Asia,Western Asia,ID,Idlib,Arīḩā,35.81374,36.60964
-SY,Syria,Asia,Western Asia,ID,Idlib,Armanāz,36.08363,36.5031
-SY,Syria,Asia,Western Asia,ID,Idlib,Binnish,35.95664,36.7138
-SY,Syria,Asia,Western Asia,ID,Idlib,Darkūsh,35.9918,36.39361
-SY,Syria,Asia,Western Asia,ID,Idlib,Harem,36.14014,36.56535
-SY,Syria,Asia,Western Asia,ID,Idlib,Ḩārim,36.21176,36.52078
-SY,Syria,Asia,Western Asia,ID,Idlib,Idlib,35.93062,36.63393
-SY,Syria,Asia,Western Asia,ID,Idlib,Jisr al-Shughur,35.87756,36.32901
-SY,Syria,Asia,Western Asia,ID,Idlib,Jisr ash Shughūr,35.81418,36.31983
-SY,Syria,Asia,Western Asia,ID,Idlib,Kafr Takhārīm,36.1168,36.51522
-SY,Syria,Asia,Western Asia,ID,Idlib,Kafranbel,35.61376,36.56449
-SY,Syria,Asia,Western Asia,ID,Idlib,Khān Shaykhūn,35.44208,36.65095
-SY,Syria,Asia,Western Asia,ID,Idlib,Ma‘arratmişrīn,36.01152,36.67183
-SY,Syria,Asia,Western Asia,ID,Idlib,Maarrat al-Nu'man,35.53858,36.79193
-SY,Syria,Asia,Western Asia,ID,Idlib,Salqīn,36.13865,36.45244
-SY,Syria,Asia,Western Asia,ID,Idlib,Sarāqib,35.86447,36.80591
-SY,Syria,Asia,Western Asia,ID,Idlib,Sarmīn,35.90403,36.72501
-SY,Syria,Asia,Western Asia,ID,Idlib,Taftanāz,35.99832,36.78579
-SY,Syria,Asia,Western Asia,LA,Latakia,Al-Haffah,35.59687,36.11198
-SY,Syria,Asia,Western Asia,LA,Latakia,Jablah,35.36211,35.92759
-SY,Syria,Asia,Western Asia,LA,Latakia,Jableh,35.29048,36.0449
-SY,Syria,Asia,Western Asia,LA,Latakia,Kassab,35.92639,35.9897
-SY,Syria,Asia,Western Asia,LA,Latakia,Latakia,35.53168,35.79011
-SY,Syria,Asia,Western Asia,LA,Latakia,Latakia District,35.72426,35.9415
-SY,Syria,Asia,Western Asia,LA,Latakia,Qardaha,35.39593,36.08603
-SY,Syria,Asia,Western Asia,LA,Latakia,Şlinfah,35.59822,36.1877
-SY,Syria,Asia,Western Asia,QU,Quneitra,Al Qunayţirah,33.12595,35.82461
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,‘Irbīn,33.53719,36.36635
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Al Kiswah,33.3581,36.2419
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Al Quţayfah,33.73848,36.60071
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Al-Zabadani,33.70819,36.11198
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,An Nabk,34.02403,36.72848
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,At Tall,33.61033,36.3107
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Az Zabadānī,33.72488,36.1005
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Dārayyā,33.45835,36.23256
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Dayr al ‘Aşāfīr,33.46585,36.42044
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Douma,33.57175,36.4027
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Ḩarastā,33.55869,36.36515
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Jaramānā,33.4862,36.34614
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Jayrūd,33.80709,36.73861
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Ma‘lūlā,33.84529,36.54514
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Medaya,33.69032,36.10354
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Qārah,34.15558,36.74284
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Qaţanā,33.43757,36.07888
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Şaydnāyā,33.69473,36.37146
-SY,Syria,Asia,Western Asia,RD,Rif Dimashq,Yabrūd,33.96921,36.65729
-SY,Syria,Asia,Western Asia,TA,Tartus,Ad Duraykīsh,34.89514,36.14303
-SY,Syria,Asia,Western Asia,TA,Tartus,Bāniyās,35.18188,35.94871
-SY,Syria,Asia,Western Asia,TA,Tartus,Kaff al-Jaa,35.08638,36.20605
-SY,Syria,Asia,Western Asia,TA,Tartus,Safita,34.80419,36.12293
-SY,Syria,Asia,Western Asia,TA,Tartus,Satita,34.82099,36.11773
-SY,Syria,Asia,Western Asia,TA,Tartus,Tartouss,34.88902,35.88659
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HA,Al-Hasakah,province,provincia,Ad Darbāsīyah,37.07279,40.65199
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HA,Al-Hasakah,province,provincia,Al Ḩasakah,36.50237,40.74772
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HA,Al-Hasakah,province,provincia,Al Mālikīyah,37.17701,42.14006
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HA,Al-Hasakah,province,provincia,Al Qāmishlī,37.05215,41.23142
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HA,Al-Hasakah,province,provincia,Al-Malikiyah,36.94113,41.90157
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HA,Al-Hasakah,province,provincia,Amude,37.10417,40.93
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RA,Al-Raqqah,province,provincia,Al-Thawrah,35.79843,38.3455
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RA,Al-Raqqah,province,provincia,Ar Raqqah,35.95283,39.00788
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RA,Al-Raqqah,province,provincia,Ar-Raqqah,35.87204,39.04706
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RA,Al-Raqqah,province,provincia,Ath Thawrah,35.83758,38.54828
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RA,Al-Raqqah,province,provincia,Tall Abyaḑ,36.69648,38.95382
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RA,Al-Raqqah,province,provincia,Tell Abyad,36.4828,39.2136
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,‘Afrīn,36.51194,36.86954
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,‘Ayn al ‘Arab,36.89095,38.35347
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Afrin,36.54891,36.79295
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Al Atārib,36.13907,36.82504
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Al Bāb,36.37051,37.5157
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Al-Bab,36.30946,37.53277
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Aleppo,36.20124,37.16117
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,As Safīrah,36.07696,37.37251
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Azaz,36.49986,37.18382
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Dayr Ḩāfir,36.15694,37.70778
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,I‘zāz,36.58662,37.04628
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Jarābulus,36.8175,38.01111
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Kafr Şaghīr,36.29264,37.2559
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Khanāşir,35.78159,37.49919
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Manbij,36.52815,37.95495
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Manbij District,36.06687,37.91735
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Mount Simeon,35.99956,37.08473
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Nubl,36.37867,36.99294
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Şūrān,36.56579,37.2127
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Tādif,36.34814,37.5309
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HL,Aleppo,province,provincia,Tall Rif‘at,36.47229,37.09471
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,SU,As-Suwayda,province,provincia,As-Suwayda,32.70896,36.56951
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,SU,As-Suwayda,province,provincia,As-Suwayda District,32.78127,36.86502
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,SU,As-Suwayda,province,provincia,Şalākhid,32.87271,36.57271
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,SU,As-Suwayda,province,provincia,Şalkhad,32.492,36.71114
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,SU,As-Suwayda,province,provincia,Salkhad District,32.51779,36.91954
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,SU,As-Suwayda,province,provincia,Shahbā,32.85514,36.62896
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,SU,As-Suwayda,province,provincia,Shahba District,33.04282,36.72034
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DI,Damascus,province,provincia,Damascus,33.5102,36.29128
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Al Ḩarāk,32.74932,36.30994
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Al Muzayrīb,32.71084,36.02751
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Al-Sanamayn,33.12559,36.2754
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Aş Şanamayn,33.07186,36.18316
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Ash Shaykh Miskīn,32.82944,36.15933
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Buşrá ash Shām,32.52013,36.48256
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Dar‘ā,32.61889,36.10213
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Ghabāghib,33.18235,36.22534
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Inkhil,33.01809,36.12828
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Izra,32.90121,36.16144
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Izra‘,32.8706,36.25453
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Jāsim,32.99233,36.06018
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Nawá,32.89044,36.0399
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Ţafas,32.73709,36.06654
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DR,Daraa,province,provincia,Tasīl,32.83395,35.96973
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DY,Deir ez-Zor,province,provincia,Al Mayādīn,35.01982,40.45154
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DY,Deir ez-Zor,province,provincia,Ālbū Kamāl,34.45226,40.91854
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DY,Deir ez-Zor,province,provincia,Deir ez-Zor,35.33588,40.14084
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DY,Deir ez-Zor,province,provincia,Hajīn,34.69508,40.83138
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,DY,Deir ez-Zor,province,provincia,Subaykhān,34.85305,40.59987
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Al-Salamiyah,35.14398,37.59235
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,As Salamīyah,35.01127,37.05324
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,As Suqaylibīyah,35.36674,36.39359
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Ḩalfāyā,35.26014,36.60581
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Hama,35.28577,37.12626
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Ḩamāh,35.13179,36.75783
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Kafr Zaytā,35.37425,36.6033
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Maşyāf,35.0653,36.3406
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Masyaf District,35.10335,36.3392
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Mūrak,35.37615,36.6897
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Souran,35.29193,36.74848
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Tall Salḩab,35.25884,36.38461
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Ţayyibat al Imām,35.26592,36.71219
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HM,Hama,province,provincia,Tremseh,35.27181,36.50395
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Al Ghanţū,34.82202,36.69613
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Al Qaryatayn,34.22956,37.24066
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Al Quşayr,34.5078,36.58029
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Al-Rastan,34.871,36.77245
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Ar Rastan,34.92667,36.73241
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Hisya,34.41197,36.75867
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Homs,34.72682,36.72339
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Kafr Lāhā,34.89469,36.49582
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Mukharram al Fawqānī,34.81521,37.08677
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Şadad,34.31248,36.92562
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Tadmur,34.5624,38.28402
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Tadmur District,34.42401,38.6458
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Tallbīsah,34.84072,36.73092
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,HI,Homs,province,provincia,Tallkalakh,34.66842,36.25995
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Ad Dānā,36.21254,36.76998
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Arīḩā,35.81374,36.60964
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Armanāz,36.08363,36.5031
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Binnish,35.95664,36.7138
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Darkūsh,35.9918,36.39361
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Harem,36.14014,36.56535
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Ḩārim,36.21176,36.52078
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Idlib,35.93062,36.63393
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Jisr al-Shughur,35.87756,36.32901
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Jisr ash Shughūr,35.81418,36.31983
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Kafr Takhārīm,36.1168,36.51522
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Kafranbel,35.61376,36.56449
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Khān Shaykhūn,35.44208,36.65095
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Ma‘arratmişrīn,36.01152,36.67183
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Maarrat al-Nu'man,35.53858,36.79193
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Salqīn,36.13865,36.45244
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Sarāqib,35.86447,36.80591
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Sarmīn,35.90403,36.72501
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,ID,Idlib,province,provincia,Taftanāz,35.99832,36.78579
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Al-Haffah,35.59687,36.11198
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Jablah,35.36211,35.92759
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Jableh,35.29048,36.0449
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Kassab,35.92639,35.9897
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Latakia,35.53168,35.79011
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Latakia District,35.72426,35.9415
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Qardaha,35.39593,36.08603
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,LA,Latakia,province,provincia,Şlinfah,35.59822,36.1877
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,QU,Quneitra,province,provincia,Al Qunayţirah,33.12595,35.82461
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,‘Irbīn,33.53719,36.36635
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Al Kiswah,33.3581,36.2419
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Al Quţayfah,33.73848,36.60071
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Al-Zabadani,33.70819,36.11198
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,An Nabk,34.02403,36.72848
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,At Tall,33.61033,36.3107
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Az Zabadānī,33.72488,36.1005
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Dārayyā,33.45835,36.23256
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Dayr al ‘Aşāfīr,33.46585,36.42044
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Douma,33.57175,36.4027
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Ḩarastā,33.55869,36.36515
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Jaramānā,33.4862,36.34614
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Jayrūd,33.80709,36.73861
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Ma‘lūlā,33.84529,36.54514
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Medaya,33.69032,36.10354
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Qārah,34.15558,36.74284
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Qaţanā,33.43757,36.07888
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Şaydnāyā,33.69473,36.37146
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,RD,Rif Dimashq,province,provincia,Yabrūd,33.96921,36.65729
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,TA,Tartus,province,provincia,Ad Duraykīsh,34.89514,36.14303
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,TA,Tartus,province,provincia,Bāniyās,35.18188,35.94871
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,TA,Tartus,province,provincia,Kaff al-Jaa,35.08638,36.20605
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,TA,Tartus,province,provincia,Safita,34.80419,36.12293
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,TA,Tartus,province,provincia,Satita,34.82099,36.11773
+SY,Syria,Siria,Asia,Asia,Western Asia,Asia Occidental,TA,Tartus,province,provincia,Tartouss,34.88902,35.88659

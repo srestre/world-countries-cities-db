@@ -12,16 +12,20 @@
   currency_symbol: "lei"
   tld: ".ro"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 46
   longitude: 25
   emoji: "🇷🇴"
   states:
     -
       name: "Alba"
+      native: "Alba"
       code: "AB"
       iso3166_2: "RO-AB"
       type: "department"
+      type_es: "departamento"
       latitude: 46.0159362
       longitude: 23.5468497
       cities:
@@ -763,9 +767,11 @@
           longitude: 23.23162
     -
       name: "Arad"
+      native: "Arad"
       code: "AR"
       iso3166_2: "RO-AR"
       type: "department"
+      type_es: "departamento"
       latitude: 46.2913706
       longitude: 21.8925185
       cities:
@@ -1511,9 +1517,11 @@
           longitude: 21.4
     -
       name: "Arges"
+      native: "Arges"
       code: "AG"
       iso3166_2: "RO-AG"
       type: "department"
+      type_es: "departamento"
       latitude: 44.9939764
       longitude: 24.8488685
       cities:
@@ -2515,9 +2523,11 @@
           longitude: 25.08347
     -
       name: "Bacău"
+      native: "Bacău"
       code: "BC"
       iso3166_2: "RO-BC"
       type: "department"
+      type_es: "departamento"
       latitude: 46.4228703
       longitude: 26.7163991
       cities:
@@ -3527,9 +3537,11 @@
           longitude: 26.41667
     -
       name: "Bihor"
+      native: "Bihor"
       code: "BH"
       iso3166_2: "RO-BH"
       type: "department"
+      type_es: "departamento"
       latitude: 46.9926899
       longitude: 22.192752
       cities:
@@ -4499,9 +4511,11 @@
           longitude: 22.39024
     -
       name: "Bistrița-Năsăud"
+      native: "Bistrița-Năsăud"
       code: "BN"
       iso3166_2: "RO-BN"
       type: "department"
+      type_es: "departamento"
       latitude: 47.1772548
       longitude: 24.5411592
       cities:
@@ -5083,9 +5097,11 @@
           longitude: 24.28333
     -
       name: "Botoșani"
+      native: "Botoșani"
       code: "BT"
       iso3166_2: "RO-BT"
       type: "department"
+      type_es: "departamento"
       latitude: 47.8528263
       longitude: 26.759334
       cities:
@@ -5887,9 +5903,11 @@
           longitude: 27.00743
     -
       name: "Braila"
+      native: "Braila"
       code: "BR"
       iso3166_2: "RO-BR"
       type: "department"
+      type_es: "departamento"
       latitude: 45.2716092
       longitude: 27.9742932
       cities:
@@ -6303,9 +6321,11 @@
           longitude: 27.48333
     -
       name: "Brașov"
+      native: "Brașov"
       code: "BV"
       iso3166_2: "RO-BV"
       type: "department"
+      type_es: "departamento"
       latitude: 45.7860222
       longitude: 25.1540732
       cities:
@@ -6811,9 +6831,11 @@
           longitude: 25.77898
     -
       name: "Bucharest"
+      native: "Bucureşti"
       code: "B"
       iso3166_2: "RO-B"
       type: "municipality"
+      type_es: "municipio"
       latitude: 44.4361414
       longitude: 26.1027202
       cities:
@@ -6847,9 +6869,11 @@
           longitude: 26.01649
     -
       name: "Buzău"
+      native: "Buzău"
       code: "BZ"
       iso3166_2: "RO-BZ"
       type: "department"
+      type_es: "departamento"
       latitude: 45.2692581
       longitude: 26.7748173
       cities:
@@ -7735,9 +7759,11 @@
           longitude: 26.70291
     -
       name: "Călărași"
+      native: "Călărași"
       code: "CL"
       iso3166_2: "RO-CL"
       type: "department"
+      type_es: "departamento"
       latitude: 44.3151874
       longitude: 27.1390156
       cities:
@@ -8259,9 +8285,11 @@
           longitude: 27.08333
     -
       name: "Caraș-Severin"
+      native: "Caraș-Severin"
       code: "CS"
       iso3166_2: "RO-CS"
       type: "department"
+      type_es: "departamento"
       latitude: 45.1271344
       longitude: 22.0771445
       cities:
@@ -8951,9 +8979,11 @@
           longitude: 21.95611
     -
       name: "Cluj"
+      native: "Cluj"
       code: "CJ"
       iso3166_2: "RO-CJ"
       type: "department"
+      type_es: "departamento"
       latitude: 46.769379
       longitude: 23.5899542
       cities:
@@ -9687,9 +9717,11 @@
           longitude: 23.56667
     -
       name: "Constanța"
+      native: "Constanța"
       code: "CT"
       iso3166_2: "RO-CT"
       type: "department"
+      type_es: "departamento"
       latitude: 44.2678591
       longitude: 28.2920787
       cities:
@@ -10339,9 +10371,11 @@
           longitude: 28.26667
     -
       name: "Covasna"
+      native: "Covasna"
       code: "CV"
       iso3166_2: "RO-CV"
       type: "department"
+      type_es: "departamento"
       latitude: 45.8966793
       longitude: 26.0101806
       cities:
@@ -10731,9 +10765,11 @@
           longitude: 26.11667
     -
       name: "Dâmbovița"
+      native: "Dâmbovița"
       code: "DB"
       iso3166_2: "RO-DB"
       type: "department"
+      type_es: "departamento"
       latitude: 44.9224565
       longitude: 25.4819575
       cities:
@@ -11739,9 +11775,11 @@
           longitude: 25.55458
     -
       name: "Dolj"
+      native: "Dolj"
       code: "DJ"
       iso3166_2: "RO-DJ"
       type: "department"
+      type_es: "departamento"
       latitude: 44.2150123
       longitude: 23.669363
       cities:
@@ -12755,9 +12793,11 @@
           longitude: 23.84208
     -
       name: "Galați"
+      native: "Galați"
       code: "GL"
       iso3166_2: "RO-GL"
       type: "department"
+      type_es: "departamento"
       latitude: 45.7772439
       longitude: 27.7496575
       cities:
@@ -13367,9 +13407,11 @@
           longitude: 28.08333
     -
       name: "Giurgiu"
+      native: "Giurgiu"
       code: "GR"
       iso3166_2: "RO-GR"
       type: "department"
+      type_es: "departamento"
       latitude: 43.9037076
       longitude: 25.9699265
       cities:
@@ -13951,9 +13993,11 @@
           longitude: 25.80678
     -
       name: "Gorj"
+      native: "Gorj"
       code: "GJ"
       iso3166_2: "RO-GJ"
       type: "department"
+      type_es: "departamento"
       latitude: 44.9611675
       longitude: 23.3256799
       cities:
@@ -14603,9 +14647,11 @@
           longitude: 23.42145
     -
       name: "Harghita"
+      native: "Harghita"
       code: "HR"
       iso3166_2: "RO-HR"
       type: "department"
+      type_es: "departamento"
       latitude: 46.6443061
       longitude: 25.6221919
       cities:
@@ -15191,9 +15237,11 @@
           longitude: 25.36667
     -
       name: "Hunedoara"
+      native: "Hunedoara"
       code: "HD"
       iso3166_2: "RO-HD"
       type: "department"
+      type_es: "departamento"
       latitude: 45.7954068
       longitude: 22.945243
       cities:
@@ -15795,9 +15843,11 @@
           longitude: 22.86954
     -
       name: "Ialomița"
+      native: "Ialomița"
       code: "IL"
       iso3166_2: "RO-IL"
       type: "department"
+      type_es: "departamento"
       latitude: 44.5960761
       longitude: 27.2016368
       cities:
@@ -16359,9 +16409,11 @@
           longitude: 27.84865
     -
       name: "Iași"
+      native: "Iași"
       code: "IS"
       iso3166_2: "RO-IS"
       type: "department"
+      type_es: "departamento"
       latitude: 47.1977372
       longitude: 27.1970598
       cities:
@@ -17415,9 +17467,11 @@
           longitude: 27.17917
     -
       name: "Ilfov"
+      native: "Ilfov"
       code: "IF"
       iso3166_2: "RO-IF"
       type: "department"
+      type_es: "departamento"
       latitude: 44.5017074
       longitude: 26.2449077
       cities:
@@ -17839,9 +17893,11 @@
           longitude: 26.17338
     -
       name: "Maramureș"
+      native: "Maramureș"
       code: "MM"
       iso3166_2: "RO-MM"
       type: "department"
+      type_es: "departamento"
       latitude: 47.6712547
       longitude: 24.1964613
       cities:
@@ -19043,9 +19099,11 @@
           longitude: 24.41707
     -
       name: "Mehedinți"
+      native: "Mehedinți"
       code: "MH"
       iso3166_2: "RO-MH"
       type: "department"
+      type_es: "departamento"
       latitude: 44.6034908
       longitude: 23.0580419
       cities:
@@ -19659,9 +19717,11 @@
           longitude: 22.8509174
     -
       name: "Mureș"
+      native: "Mureș"
       code: "MS"
       iso3166_2: "RO-MS"
       type: "department"
+      type_es: "departamento"
       latitude: 45.9386537
       longitude: 23.2949316
       cities:
@@ -21659,9 +21719,11 @@
           longitude: 25.049122
     -
       name: "Neamț"
+      native: "Neamț"
       code: "NT"
       iso3166_2: "RO-NT"
       type: "department"
+      type_es: "departamento"
       latitude: 46.9910082
       longitude: 26.5134813
       cities:
@@ -22527,9 +22589,11 @@
           longitude: 26.55
     -
       name: "Olt"
+      native: "Olt"
       code: "OT"
       iso3166_2: "RO-OT"
       type: "department"
+      type_es: "departamento"
       latitude: 44.2923205
       longitude: 24.4663072
       cities:
@@ -23571,9 +23635,11 @@
           longitude: 24.31667
     -
       name: "Prahova"
+      native: "Prahova"
       code: "PH"
       iso3166_2: "RO-PH"
       type: "department"
+      type_es: "departamento"
       latitude: 45.1087546
       longitude: 26.0378349
       cities:
@@ -24763,9 +24829,11 @@
           longitude: 25.9453
     -
       name: "Sălaj"
+      native: "Sălaj"
       code: "SJ"
       iso3166_2: "RO-SJ"
       type: "department"
+      type_es: "departamento"
       latitude: 47.1561868
       longitude: 23.0191923
       cities:
@@ -25311,9 +25379,11 @@
           longitude: 23.26667
     -
       name: "Satu Mare"
+      native: "O iapă"
       code: "SM"
       iso3166_2: "RO-SM"
       type: "department"
+      type_es: "departamento"
       latitude: 47.7891763
       longitude: 22.8725598
       cities:
@@ -25911,9 +25981,11 @@
           longitude: 22.9521311
     -
       name: "Sibiu"
+      native: "Sibiu"
       code: "SB"
       iso3166_2: "RO-SB"
       type: "department"
+      type_es: "departamento"
       latitude: 45.888796
       longitude: 24.237426
       cities:
@@ -26483,9 +26555,11 @@
           longitude: 24.35
     -
       name: "Suceava"
+      native: "Suceava"
       code: "SV"
       iso3166_2: "RO-SV"
       type: "department"
+      type_es: "departamento"
       latitude: 47.5326534
       longitude: 25.8345939
       cities:
@@ -27595,9 +27669,11 @@
           longitude: 26.28333
     -
       name: "Teleorman"
+      native: "Teleorman"
       code: "TR"
       iso3166_2: "RO-TR"
       type: "department"
+      type_es: "departamento"
       latitude: 44.0684876
       longitude: 25.191045
       cities:
@@ -28539,9 +28615,11 @@
           longitude: 25.41291
     -
       name: "Timiș"
+      native: "Timiș"
       code: "TM"
       iso3166_2: "RO-TM"
       type: "department"
+      type_es: "departamento"
       latitude: 45.63984
       longitude: 21.2599292
       cities:
@@ -29383,9 +29461,11 @@
           longitude: 21.23917
     -
       name: "Tulcea"
+      native: "Tulcea"
       code: "TL"
       iso3166_2: "RO-TL"
       type: "department"
+      type_es: "departamento"
       latitude: 45.0413769
       longitude: 28.897329
       cities:
@@ -29859,9 +29939,11 @@
           longitude: 28.76873
     -
       name: "Vâlcea"
+      native: "Vâlcea"
       code: "VL"
       iso3166_2: "RO-VL"
       type: "department"
+      type_es: "departamento"
       latitude: 45.0404536
       longitude: 24.1538719
       cities:
@@ -30663,9 +30745,11 @@
           longitude: 24.25788
     -
       name: "Vaslui"
+      native: "Vaslui"
       code: "VS"
       iso3166_2: "RO-VS"
       type: "department"
+      type_es: "departamento"
       latitude: 46.496847
       longitude: 27.8036751
       cities:
@@ -31455,9 +31539,11 @@
           longitude: 27.71667
     -
       name: "Vrancea"
+      native: "Vrancea"
       code: "VN"
       iso3166_2: "RO-VN"
       type: "department"
+      type_es: "departamento"
       latitude: 45.7887088
       longitude: 26.883803
       cities:

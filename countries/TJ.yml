@@ -12,16 +12,20 @@
   currency_symbol: "SM"
   tld: ".tj"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   latitude: 39
   longitude: 71
   emoji: "🇹🇯"
   states:
     -
       name: "Dushanbe"
+      native: "Душанбе"
       code: "DU"
       iso3166_2: "TJ-DU"
       type: "capital territory"
+      type_es: "territorio capital"
       latitude: 38.53666667
       longitude: 68.78
       cities:
@@ -31,9 +35,11 @@
           longitude: 68.78
     -
       name: "Gorno-Badakhshan"
+      native: "Вилаҳмо-Бадахшон"
       code: "GB"
       iso3166_2: "TJ-GB"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 38.3492457
       longitude: 72.9988168
       cities:
@@ -55,9 +61,11 @@
           longitude: 72.16748
     -
       name: "Khatlon"
+      native: "Вилоят"
       code: "KT"
       iso3166_2: "TJ-KT"
       type: "region"
+      type_es: "región"
       latitude: 37.8804734
       longitude: 69.2636923
       cities:
@@ -171,9 +179,11 @@
           longitude: 69.03784
     -
       name: "Nohiyahoi Tobei Jumhurí "
+      native: "Nohiyahoi Tobei Jumhurí "
       code: "RA"
       iso3166_2: "TJ-RA"
       type: "districts under republic administration"
+      type_es: "distritos bajo administración de la república"
       latitude: 39.0857902
       longitude: 70.2408325
       cities:
@@ -239,9 +249,11 @@
           longitude: 68.75
     -
       name: "Sughd "
+      native: "Суғд"
       code: "SU"
       iso3166_2: "TJ-SU"
       type: "region"
+      type_es: "región"
       latitude: 39.3548602
       longitude: 68.8268012
       cities:

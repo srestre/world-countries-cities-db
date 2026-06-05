@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".pt"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 39.5
   longitude: -8
   emoji: "🇵🇹"
   states:
     -
       name: "Açores"
+      native: "Açores"
       code: "20"
       iso3166_2: "PT-20"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 37.8085564
       longitude: -25.4731374
       cities:
@@ -231,9 +235,11 @@
           longitude: -25.43333
     -
       name: "Aveiro"
+      native: "Aveiro"
       code: "01"
       iso3166_2: "PT-01"
       type: "district"
+      type_es: "distrito"
       latitude: 40.6791504
       longitude: -8.5217166
       cities:
@@ -487,9 +493,11 @@
           longitude: -8.46667
     -
       name: "Beja"
+      native: "Beja"
       code: "02"
       iso3166_2: "PT-02"
       type: "district"
+      type_es: "distrito"
       latitude: 38.0154479
       longitude: -7.8650368
       cities:
@@ -603,9 +611,11 @@
           longitude: -8.78483
     -
       name: "Braga"
+      native: "Braga"
       code: "03"
       iso3166_2: "PT-03"
       type: "district"
+      type_es: "distrito"
       latitude: 41.550388
       longitude: -8.4261301
       cities:
@@ -895,9 +905,11 @@
           longitude: -8.2931
     -
       name: "Bragança"
+      native: "Bragança"
       code: "04"
       iso3166_2: "PT-04"
       type: "district"
+      type_es: "distrito"
       latitude: 41.8061652
       longitude: -6.7567427
       cities:
@@ -967,9 +979,11 @@
           longitude: -7.00501
     -
       name: "Castelo Branco"
+      native: "Castelo Branco"
       code: "05"
       iso3166_2: "PT-05"
       type: "district"
+      type_es: "distrito"
       latitude: 39.8266322
       longitude: -7.4919318
       cities:
@@ -1027,9 +1041,11 @@
           longitude: -7.65987
     -
       name: "Coimbra"
+      native: "Coimbra"
       code: "06"
       iso3166_2: "PT-06"
       type: "district"
+      type_es: "distrito"
       latitude: 40.2111931
       longitude: -8.4294632
       cities:
@@ -1171,9 +1187,11 @@
           longitude: -8.24105
     -
       name: "Évora"
+      native: "Évora"
       code: "07"
       iso3166_2: "PT-07"
       type: "district"
+      type_es: "distrito"
       latitude: 38.5744468
       longitude: -7.9076553
       cities:
@@ -1235,9 +1253,11 @@
           longitude: -7.41852
     -
       name: "Faro"
+      native: "Faro"
       code: "08"
       iso3166_2: "PT-08"
       type: "district"
+      type_es: "distrito"
       latitude: 37.0193548
       longitude: -7.9304397
       cities:
@@ -1463,9 +1483,11 @@
           longitude: -8.11701
     -
       name: "Guarda"
+      native: "Guarda"
       code: "09"
       iso3166_2: "PT-09"
       type: "district"
+      type_es: "distrito"
       latitude: 40.5385972
       longitude: -7.2675772
       cities:
@@ -3499,9 +3521,11 @@
           longitude: -7.62694444
     -
       name: "Leiria"
+      native: "Leiria"
       code: "10"
       iso3166_2: "PT-10"
       type: "district"
+      type_es: "distrito"
       latitude: 39.7437902
       longitude: -8.8071119
       cities:
@@ -3687,9 +3711,11 @@
           longitude: -8.93238
     -
       name: "Lisbon"
+      native: "Lisbon"
       code: "11"
       iso3166_2: "PT-11"
       type: "district"
+      type_es: "distrito"
       latitude: 38.7077507
       longitude: -9.1365919
       cities:
@@ -4079,9 +4105,11 @@
           longitude: -9.31702
     -
       name: "Madeira"
+      native: "Madeira"
       code: "30"
       iso3166_2: "PT-30"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 32.7517501
       longitude: -16.9817487
       cities:
@@ -4199,9 +4227,11 @@
           longitude: -17.04323
     -
       name: "Portalegre"
+      native: "Portalegre"
       code: "12"
       iso3166_2: "PT-12"
       type: "district"
+      type_es: "distrito"
       latitude: 39.2967086
       longitude: -7.4284755
       cities:
@@ -4283,9 +4313,11 @@
           longitude: -7.69849
     -
       name: "Porto"
+      native: "Porto"
       code: "13"
       iso3166_2: "PT-13"
       type: "district"
+      type_es: "distrito"
       latitude: 41.1476629
       longitude: -8.6078973
       cities:
@@ -4719,9 +4751,11 @@
           longitude: -8.24887
     -
       name: "Santarém"
+      native: "Santarém"
       code: "14"
       iso3166_2: "PT-14"
       type: "district"
+      type_es: "distrito"
       latitude: 39.2366687
       longitude: -8.6859944
       cities:
@@ -4927,9 +4961,11 @@
           longitude: -8.43588
     -
       name: "Setúbal"
+      native: "Setúbal"
       code: "15"
       iso3166_2: "PT-15"
       type: "district"
+      type_es: "distrito"
       latitude: 38.5240933
       longitude: -8.8925876
       cities:
@@ -5095,9 +5131,11 @@
           longitude: -9.23268
     -
       name: "Viana do Castelo"
+      native: "Viana do Castelo"
       code: "16"
       iso3166_2: "PT-16"
       type: "district"
+      type_es: "distrito"
       latitude: 41.6918046
       longitude: -8.834451
       cities:
@@ -5139,9 +5177,11 @@
           longitude: -8.83456
     -
       name: "Vila Real"
+      native: "Vila Real"
       code: "17"
       iso3166_2: "PT-17"
       type: "district"
+      type_es: "distrito"
       latitude: 41.3003527
       longitude: -7.7457274
       cities:
@@ -5223,9 +5263,11 @@
           longitude: -7.60338
     -
       name: "Viseu"
+      native: "Viseu"
       code: "18"
       iso3166_2: "PT-18"
       type: "district"
+      type_es: "distrito"
       latitude: 40.6588424
       longitude: -7.914756
       cities:

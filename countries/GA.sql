@@ -1,30 +1,30 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(79, 'Gabon', 'GA', 'GAB', 'Africa', 'Middle Africa', 'Libreville', 'XAF', -1, 11.75, '🇬🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(79, 'Gabon', 'Gabón', 'GA', 'GAB', 'Africa', 'África', 'Middle Africa', 'África Central', 'Libreville', 'XAF', -1, 11.75, '🇬🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2727, 'Estuaire', 79, 'GA', '1', 'province', 0.4302639, 9.4655189),
-(2726, 'Haut-Ogooué', 79, 'GA', '2', 'province', -1.231544, 13.8309713),
-(2730, 'Moyen-Ogooué', 79, 'GA', '3', 'province', -0.5003495, 10.4991063),
-(2731, 'Ngounié', 79, 'GA', '4', 'province', -1.5910727, 10.978503),
-(2725, 'Nyanga', 79, 'GA', '5', 'province', -3.0080415, 10.9964746),
-(2724, 'Ogooué-Ivindo', 79, 'GA', '6', 'province', 0.60082, 12.6887911),
-(2729, 'Ogooué-Lolo', 79, 'GA', '7', 'province', -1.0002904, 12.4952424),
-(2728, 'Ogooué-Maritime', 79, 'GA', '8', 'province', -1.4958157, 9.5060896),
-(2723, 'Woleu-Ntem', 79, 'GA', '9', 'province', 1.2950125, 11.8218827);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2727, 'Estuaire', 'Estuaire', 79, 'GA', '1', 'province', 'provincia', 0.4302639, 9.4655189),
+(2726, 'Haut-Ogooué', 'Haut-Ogooué', 79, 'GA', '2', 'province', 'provincia', -1.231544, 13.8309713),
+(2730, 'Moyen-Ogooué', 'Moyen-Ogooué', 79, 'GA', '3', 'province', 'provincia', -0.5003495, 10.4991063),
+(2731, 'Ngounié', 'Ngounié', 79, 'GA', '4', 'province', 'provincia', -1.5910727, 10.978503),
+(2725, 'Nyanga', 'Lune', 79, 'GA', '5', 'province', 'provincia', -3.0080415, 10.9964746),
+(2724, 'Ogooué-Ivindo', 'Ogooué-Ivindo', 79, 'GA', '6', 'province', 'provincia', 0.60082, 12.6887911),
+(2729, 'Ogooué-Lolo', 'Ogooué-lolo', 79, 'GA', '7', 'province', 'provincia', -1.0002904, 12.4952424),
+(2728, 'Ogooué-Maritime', 'Ogooué-Maritime', 79, 'GA', '8', 'province', 'provincia', -1.4958157, 9.5060896),
+(2723, 'Woleu-Ntem', 'Woleu-Ntem', 79, 'GA', '9', 'province', 'provincia', 1.2950125, 11.8218827);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (48131, 'Cocobeach', 2727, 79, 1.00019, 9.58229),

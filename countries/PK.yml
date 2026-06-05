@@ -12,16 +12,20 @@
   currency_symbol: "₨"
   tld: ".pk"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 30
   longitude: 70
   emoji: "🇵🇰"
   states:
     -
       name: "Azad Kashmir"
+      native: "آزاد کشمیر"
       code: "JK"
       iso3166_2: "PK-JK"
       type: "administered area"
+      type_es: "área administrada"
       latitude: 33.84412
       longitude: 73.796642
       cities:
@@ -55,9 +59,11 @@
           longitude: 73.76043
     -
       name: "Balochistan"
+      native: "بلوچستان"
       code: "BA"
       iso3166_2: "PK-BA"
       type: "province"
+      type_es: "provincia"
       latitude: 28
       longitude: 66
       cities:
@@ -291,9 +297,11 @@
           longitude: 67.50962
     -
       name: "Gilgit-Baltistan"
+      native: "گلگٹ بلتستان"
       code: "GB"
       iso3166_2: "PK-GB"
       type: "administered area"
+      type_es: "área administrada"
       latitude: 35.9999972
       longitude: 75.0000023
       cities:
@@ -311,9 +319,11 @@
           longitude: 75.63372
     -
       name: "Islamabad"
+      native: "اسلام آباد"
       code: "IS"
       iso3166_2: "PK-IS"
       type: "federal capital territory"
+      type_es: "territorio de la capital federal"
       latitude: 33.6938118
       longitude: 73.0651511
       cities:
@@ -323,9 +333,11 @@
           longitude: 73.04329
     -
       name: "Khyber Pakhtunkhwa"
+      native: "خیبر پختوننہوا"
       code: "KP"
       iso3166_2: "PK-KP"
       type: "province"
+      type_es: "provincia"
       latitude: 33.712802
       longitude: 71.2678805
       cities:
@@ -559,9 +571,11 @@
           longitude: 72.4669
     -
       name: "Punjab"
+      native: "پنجاب"
       code: "PB"
       iso3166_2: "PK-PB"
       type: "province"
+      type_es: "provincia"
       latitude: 31
       longitude: 72
       cities:
@@ -1415,9 +1429,11 @@
           longitude: 70.52341
     -
       name: "Sindh"
+      native: "سندھ"
       code: "SD"
       iso3166_2: "PK-SD"
       type: "province"
+      type_es: "provincia"
       latitude: 25.5
       longitude: 69
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".sg"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 1.36666666
   longitude: 103.8
   emoji: "🇸🇬"
   states:
     -
       name: "Central Singapore"
+      native: "Central Singapore"
       code: "01"
       iso3166_2: "SG-01"
       type: "district"
+      type_es: "distrito"
       latitude: 1.2884
       longitude: 103.8535
       cities:
@@ -75,9 +79,11 @@
           longitude: 103.8497
     -
       name: "North East"
+      native: "North East"
       code: "02"
       iso3166_2: "SG-02"
       type: "district"
+      type_es: "distrito"
       latitude: 5.3341186
       longitude: 100.2761077
       cities:
@@ -103,9 +109,11 @@
           longitude: 103.8737
     -
       name: "North West"
+      native: "North West"
       code: "03"
       iso3166_2: "SG-03"
       type: "district"
+      type_es: "distrito"
       latitude: 1.4509382
       longitude: 103.7849519
       cities:
@@ -123,9 +131,11 @@
           longitude: 103.8355
     -
       name: "South East"
+      native: "South East"
       code: "04"
       iso3166_2: "SG-04"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3352329
       longitude: 103.9598931
       cities:
@@ -143,9 +153,11 @@
           longitude: 103.9437
     -
       name: "South West"
+      native: "South West"
       code: "05"
       iso3166_2: "SG-05"
       type: "district"
+      type_es: "distrito"
       latitude: 5.2883389
       longitude: 100.2815099
       cities:

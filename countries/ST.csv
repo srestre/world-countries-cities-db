@@ -1,8 +1,8 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-ST,Sao Tome and Principe,Africa,Middle Africa,01,Água Grande,São Tomé,0.33654,6.72732
-ST,Sao Tome and Principe,Africa,Middle Africa,02,Cantagalo,Santana,0.25389,6.73444
-ST,Sao Tome and Principe,Africa,Middle Africa,03,Caué,São João dos Angolares,0.1372,6.64972
-ST,Sao Tome and Principe,Africa,Middle Africa,04,Lemba,Neves,0.36667,6.55
-ST,Sao Tome and Principe,Africa,Middle Africa,05,Lobata,Guadalupe,0.38333,6.61667
-ST,Sao Tome and Principe,Africa,Middle Africa,06,Mé-Zóchi,Trindade,0.29667,6.68139
-ST,Sao Tome and Principe,Africa,Middle Africa,P,Príncipe,Santo António,1.63943,7.41951
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+ST,Sao Tome and Principe,Santo Tomé y Príncipe,Africa,África,Middle Africa,África Central,01,Água Grande,district,distrito,São Tomé,0.33654,6.72732
+ST,Sao Tome and Principe,Santo Tomé y Príncipe,Africa,África,Middle Africa,África Central,02,Cantagalo,district,distrito,Santana,0.25389,6.73444
+ST,Sao Tome and Principe,Santo Tomé y Príncipe,Africa,África,Middle Africa,África Central,03,Caué,district,distrito,São João dos Angolares,0.1372,6.64972
+ST,Sao Tome and Principe,Santo Tomé y Príncipe,Africa,África,Middle Africa,África Central,04,Lemba,district,distrito,Neves,0.36667,6.55
+ST,Sao Tome and Principe,Santo Tomé y Príncipe,Africa,África,Middle Africa,África Central,05,Lobata,district,distrito,Guadalupe,0.38333,6.61667
+ST,Sao Tome and Principe,Santo Tomé y Príncipe,Africa,África,Middle Africa,África Central,06,Mé-Zóchi,district,distrito,Trindade,0.29667,6.68139
+ST,Sao Tome and Principe,Santo Tomé y Príncipe,Africa,África,Middle Africa,África Central,P,Príncipe,autonomous region,región autónoma,Santo António,1.63943,7.41951

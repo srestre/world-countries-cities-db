@@ -1,30 +1,30 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(15, 'Austria', 'AT', 'AUT', 'Europe', 'Western Europe', 'Vienna', 'EUR', 47.33333333, 13.33333333, '🇦🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(15, 'Austria', 'Austria', 'AT', 'AUT', 'Europe', 'Europa', 'Western Europe', 'Europa Occidental', 'Vienna', 'EUR', 47.33333333, 13.33333333, '🇦🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2062, 'Burgenland', 15, 'AT', '1', 'state', 47.5000001, 16.4166666),
-(2057, 'Carinthia', 15, 'AT', '2', 'state', 46.7500001, 13.8333333),
-(2065, 'Lower Austria', 15, 'AT', '3', 'state', 48.2817813, 15.7632457),
-(2061, 'Salzburg', 15, 'AT', '5', 'state', 47.7981346, 13.0464806),
-(2059, 'Styria', 15, 'AT', '6', 'state', 47.2500001, 15.1666665),
-(2064, 'Tyrol', 15, 'AT', '7', 'state', 47.223193, 11.5261028),
-(2058, 'Upper Austria', 15, 'AT', '4', 'state', 48.25, 14),
-(2060, 'Vienna', 15, 'AT', '9', 'state', 48.2081743, 16.3738189),
-(2063, 'Vorarlberg', 15, 'AT', '8', 'state', 47.25, 9.9166667);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2062, 'Burgenland', 'Burgenland', 15, 'AT', '1', 'state', 'estado', 47.5000001, 16.4166666),
+(2057, 'Carinthia', 'Carchithia', 15, 'AT', '2', 'state', 'estado', 46.7500001, 13.8333333),
+(2065, 'Lower Austria', 'Niederösterreich', 15, 'AT', '3', 'state', 'estado', 48.2817813, 15.7632457),
+(2061, 'Salzburg', 'Salzburg', 15, 'AT', '5', 'state', 'estado', 47.7981346, 13.0464806),
+(2059, 'Styria', 'Styria', 15, 'AT', '6', 'state', 'estado', 47.2500001, 15.1666665),
+(2064, 'Tyrol', 'Tirol', 15, 'AT', '7', 'state', 'estado', 47.223193, 11.5261028),
+(2058, 'Upper Austria', 'Upper Austria', 15, 'AT', '4', 'state', 'estado', 48.25, 14),
+(2060, 'Vienna', 'Wien', 15, 'AT', '9', 'state', 'estado', 48.2081743, 16.3738189),
+(2063, 'Vorarlberg', 'Vorarlberg', 15, 'AT', '8', 'state', 'estado', 47.25, 9.9166667);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (1657, 'Andau', 2062, 15, 47.77441, 17.03293),

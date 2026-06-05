@@ -12,16 +12,20 @@
   currency_symbol: ".ع.ر"
   tld: ".om"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 21
   longitude: 57
   emoji: "🇴🇲"
   states:
     -
       name: "Ad Dakhiliyah"
+      native: "الداخلية"
       code: "DA"
       iso3166_2: "OM-DA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 22.2259752
       longitude: 57.3692722
       cities:
@@ -51,9 +55,11 @@
           longitude: 58.01667
     -
       name: "Ad Dhahirah"
+      native: "الظاهرة"
       code: "ZA"
       iso3166_2: "OM-ZA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 22.6505232
       longitude: 56.0616295
       cities:
@@ -67,9 +73,11 @@
           longitude: 56.53969
     -
       name: "Al Batinah North"
+      native: "شمال الباطنة"
       code: "BS"
       iso3166_2: "OM-BS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 24.2371879
       longitude: 56.5701198
       cities:
@@ -99,9 +107,11 @@
           longitude: 56.70937
     -
       name: "Al Batinah South"
+      native: "جنوب الباطنة"
       code: "BJ"
       iso3166_2: "OM-BJ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 23.3673911
       longitude: 57.4737863
       cities:
@@ -123,9 +133,11 @@
           longitude: 57.42444
     -
       name: "Al Buraimi"
+      native: "البريمي"
       code: "BU"
       iso3166_2: "OM-BU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 24.1614948
       longitude: 56.1464102
       cities:
@@ -135,9 +147,11 @@
           longitude: 55.79312
     -
       name: "Al Wusta"
+      native: "الوسطى"
       code: "WU"
       iso3166_2: "OM-WU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 19.7250347
       longitude: 56.4313671
       cities:
@@ -147,18 +161,22 @@
           longitude: 56.27575
     -
       name: "Ash Sharqiyah North"
+      native: "شمال الشرقية"
       code: "SS"
       iso3166_2: "OM-SS"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 22.2024738
       longitude: 58.5159072
       cities:
         []
     -
       name: "Ash Sharqiyah South"
+      native: "جنوب الشرقية"
       code: "SJ"
       iso3166_2: "OM-SJ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 21.909878
       longitude: 59.3078117
       cities:
@@ -168,9 +186,11 @@
           longitude: 59.52889
     -
       name: "Dhofar"
+      native: "ظفار"
       code: "ZU"
       iso3166_2: "OM-ZU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 18.3368829
       longitude: 54.2092994
       cities:
@@ -180,9 +200,11 @@
           longitude: 54.09237
     -
       name: "Musandam"
+      native: "مسندم"
       code: "MU"
       iso3166_2: "OM-MU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 26.1523215
       longitude: 56.3294895
       cities:
@@ -200,9 +222,11 @@
           longitude: 56.3328
     -
       name: "Muscat"
+      native: "المسكات عنب طيب الشذا"
       code: "MA"
       iso3166_2: "OM-MA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 23.6123628
       longitude: 58.5938134
       cities:

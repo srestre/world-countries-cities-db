@@ -12,16 +12,20 @@
   currency_symbol: "R$"
   tld: ".br"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -10
   longitude: -55
   emoji: "🇧🇷"
   states:
     -
       name: "Acre"
+      native: "Acre"
       code: "AC"
       iso3166_2: "BR-AC"
       type: "state"
+      type_es: "estado"
       latitude: -9.0478679
       longitude: -70.5264976
       cities:
@@ -115,9 +119,11 @@
           longitude: -68.64891
     -
       name: "Alagoas"
+      native: "Alagoas"
       code: "AL"
       iso3166_2: "BR-AL"
       type: "state"
+      type_es: "estado"
       latitude: -9.6611661
       longitude: -36.6502426
       cities:
@@ -531,9 +537,11 @@
           longitude: -36.32095
     -
       name: "Amapá"
+      native: "Amapá"
       code: "AP"
       iso3166_2: "BR-AP"
       type: "state"
+      type_es: "estado"
       latitude: 1.3545442
       longitude: -51.9161977
       cities:
@@ -603,9 +611,11 @@
           longitude: -52.03443
     -
       name: "Amazonas"
+      native: "Amazonas"
       code: "AM"
       iso3166_2: "BR-AM"
       type: "state"
+      type_es: "estado"
       latitude: -3.2001766
       longitude: -59.4989288
       cities:
@@ -859,9 +869,11 @@
           longitude: -58.15856
     -
       name: "Bahia"
+      native: "Bahia"
       code: "BA"
       iso3166_2: "BR-BA"
       type: "state"
+      type_es: "estado"
       latitude: -12.285251
       longitude: -41.9294776
       cities:
@@ -2551,9 +2563,11 @@
           longitude: -42.72815
     -
       name: "Ceará"
+      native: "Ceará"
       code: "CE"
       iso3166_2: "BR-CE"
       type: "state"
+      type_es: "estado"
       latitude: -5.3264703
       longitude: -39.7156073
       cities:
@@ -3307,9 +3321,11 @@
           longitude: -41.09222
     -
       name: "Distrito Federal"
+      native: "Distrito Federal"
       code: "DF"
       iso3166_2: "BR-DF"
       type: "federal district"
+      type_es: "distrito federal"
       latitude: -15.7754462
       longitude: -47.7970891
       cities:
@@ -3323,9 +3339,11 @@
           longitude: -47.64874
     -
       name: "Espírito Santo"
+      native: "Espírito Santo"
       code: "ES"
       iso3166_2: "BR-ES"
       type: "state"
+      type_es: "estado"
       latitude: -19.5687682
       longitude: -40.1721991
       cities:
@@ -3647,9 +3665,11 @@
           longitude: -40.33778
     -
       name: "Goiás"
+      native: "Goiás"
       code: "GO"
       iso3166_2: "BR-GO"
       type: "state"
+      type_es: "estado"
       latitude: -15.9323662
       longitude: -50.1392928
       cities:
@@ -4639,9 +4659,11 @@
           longitude: -48.77569
     -
       name: "Maranhão"
+      native: "Maranhão"
       code: "MA"
       iso3166_2: "BR-MA"
       type: "state"
+      type_es: "estado"
       latitude: -5.2085503
       longitude: -45.3930262
       cities:
@@ -5519,9 +5541,11 @@
           longitude: -46.05729
     -
       name: "Mato Grosso"
+      native: "Mato Grosso"
       code: "MT"
       iso3166_2: "BR-MT"
       type: "state"
+      type_es: "estado"
       latitude: -12.2115009
       longitude: -55.5716547
       cities:
@@ -6099,9 +6123,11 @@
           longitude: -51.41369
     -
       name: "Mato Grosso do Sul"
+      native: "Mato Grosso do Sul"
       code: "MS"
       iso3166_2: "BR-MS"
       type: "state"
+      type_es: "estado"
       latitude: -19.5852564
       longitude: -54.4794731
       cities:
@@ -6435,9 +6461,11 @@
           longitude: -54.46183
     -
       name: "Minas Gerais"
+      native: "Minas Gerais"
       code: "MG"
       iso3166_2: "BR-MG"
       type: "state"
+      type_es: "estado"
       latitude: -18.5264844
       longitude: -44.1588654
       cities:
@@ -9867,9 +9895,11 @@
           longitude: -45.40214
     -
       name: "Pará"
+      native: "Pará"
       code: "PA"
       iso3166_2: "BR-PA"
       type: "state"
+      type_es: "estado"
       latitude: -4.7493933
       longitude: -52.8973006
       cities:
@@ -10451,9 +10481,11 @@
           longitude: -49.25573
     -
       name: "Paraíba"
+      native: "Paraíba"
       code: "PB"
       iso3166_2: "BR-PB"
       type: "state"
+      type_es: "estado"
       latitude: -7.1219366
       longitude: -36.7246845
       cities:
@@ -11351,9 +11383,11 @@
           longitude: -37.05635
     -
       name: "Paraná"
+      native: "Paraná"
       code: "PR"
       iso3166_2: "BR-PR"
       type: "state"
+      type_es: "estado"
       latitude: -24.4842187
       longitude: -51.8148872
       cities:
@@ -12959,9 +12993,11 @@
           longitude: -53.604
     -
       name: "Pernambuco"
+      native: "Pernambuco"
       code: "PE"
       iso3166_2: "BR-PE"
       type: "state"
+      type_es: "estado"
       latitude: -8.4116316
       longitude: -37.5919699
       cities:
@@ -13739,9 +13775,11 @@
           longitude: -35.64275
     -
       name: "Piauí"
+      native: "Piauí"
       code: "PI"
       iso3166_2: "BR-PI"
       type: "state"
+      type_es: "estado"
       latitude: -7.6992782
       longitude: -42.5043787
       cities:
@@ -14647,9 +14685,11 @@
           longitude: -41.8373
     -
       name: "Rio de Janeiro"
+      native: "Rio de Janeiro"
       code: "RJ"
       iso3166_2: "BR-RJ"
       type: "state"
+      type_es: "estado"
       latitude: -22.9110137
       longitude: -43.2093727
       cities:
@@ -15031,9 +15071,11 @@
           longitude: -44.10417
     -
       name: "Rio Grande do Norte"
+      native: "Rio Grande do Norte"
       code: "RN"
       iso3166_2: "BR-RN"
       type: "state"
+      type_es: "estado"
       latitude: -5.6781175
       longitude: -36.4781776
       cities:
@@ -15711,9 +15753,11 @@
           longitude: -35.08453
     -
       name: "Rio Grande do Sul"
+      native: "Rio Grande do Sul"
       code: "RS"
       iso3166_2: "BR-RS"
       type: "state"
+      type_es: "estado"
       latitude: -29.8425284
       longitude: -53.7680577
       cities:
@@ -17719,9 +17763,11 @@
           longitude: -50.09223
     -
       name: "Rondônia"
+      native: "Rondônia"
       code: "RO"
       iso3166_2: "BR-RO"
       type: "state"
+      type_es: "estado"
       latitude: -10.943145
       longitude: -62.8277863
       cities:
@@ -17943,9 +17989,11 @@
           longitude: -60.27526
     -
       name: "Roraima"
+      native: "Roraima"
       code: "RR"
       iso3166_2: "BR-RR"
       type: "state"
+      type_es: "estado"
       latitude: 2.135138
       longitude: -61.3631922
       cities:
@@ -18011,9 +18059,11 @@
           longitude: -60.16777778
     -
       name: "Santa Catarina"
+      native: "Santa Catarina"
       code: "SC"
       iso3166_2: "BR-SC"
       type: "state"
+      type_es: "estado"
       latitude: -27.0628367
       longitude: -51.114965
       cities:
@@ -19271,9 +19321,11 @@
           longitude: -51.50863
     -
       name: "São Paulo"
+      native: "São Paulo"
       code: "SP"
       iso3166_2: "BR-SP"
       type: "state"
+      type_es: "estado"
       latitude: -23.5505199
       longitude: -46.6333094
       cities:
@@ -21879,9 +21931,11 @@
           longitude: -50.06154
     -
       name: "Sergipe"
+      native: "Sergipe"
       code: "SE"
       iso3166_2: "BR-SE"
       type: "state"
+      type_es: "estado"
       latitude: -10.6743911
       longitude: -37.3773519
       cities:
@@ -22187,9 +22241,11 @@
           longitude: -37.6627
     -
       name: "Tocantins"
+      native: "Tocantins"
       code: "TO"
       iso3166_2: "BR-TO"
       type: "state"
+      type_es: "estado"
       latitude: -10.8855129
       longitude: -48.3716912
       cities:

@@ -1,30 +1,30 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(204, 'South Africa', 'ZA', 'ZAF', 'Africa', 'Southern Africa', 'Pretoria', 'ZAR', -29, 24, '🇿🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(204, 'South Africa', 'República de Sudáfrica', 'ZA', 'ZAF', 'Africa', 'África', 'Southern Africa', 'África Austral', 'Pretoria', 'ZAR', -29, 24, '🇿🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(938, 'Eastern Cape', 204, 'ZA', 'EC', 'province', -32.2171831, 26.6386401),
-(932, 'Free State', 204, 'ZA', 'FS', 'province', -28.7853618, 26.4978933),
-(936, 'Gauteng', 204, 'ZA', 'GP', 'province', -25.9363439, 28.0813105),
-(935, 'KwaZulu-Natal', 204, 'ZA', 'KZN', 'province', -28.503833, 30.8875009),
-(933, 'Limpopo', 204, 'ZA', 'LP', 'province', -23.4735288, 29.3959199),
-(937, 'Mpumalanga', 204, 'ZA', 'MP', 'province', -26.276849, 30.1500153),
-(934, 'North West', 204, 'ZA', 'NW', 'province', -26.1347819, 25.6546729),
-(931, 'Northern Cape', 204, 'ZA', 'NC', 'province', -29.573402, 21.2051361),
-(939, 'Western Cape', 204, 'ZA', 'WC', 'province', -33.546977, 20.72753);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(938, 'Eastern Cape', 'Eastern Cape', 204, 'ZA', 'EC', 'province', 'provincia', -32.2171831, 26.6386401),
+(932, 'Free State', 'Free State', 204, 'ZA', 'FS', 'province', 'provincia', -28.7853618, 26.4978933),
+(936, 'Gauteng', 'Gauteng', 204, 'ZA', 'GP', 'province', 'provincia', -25.9363439, 28.0813105),
+(935, 'KwaZulu-Natal', 'KwaZulu-Natal', 204, 'ZA', 'KZN', 'province', 'provincia', -28.503833, 30.8875009),
+(933, 'Limpopo', 'Limpopo', 204, 'ZA', 'LP', 'province', 'provincia', -23.4735288, 29.3959199),
+(937, 'Mpumalanga', 'East', 204, 'ZA', 'MP', 'province', 'provincia', -26.276849, 30.1500153),
+(934, 'North West', 'North West', 204, 'ZA', 'NW', 'province', 'provincia', -26.1347819, 25.6546729),
+(931, 'Northern Cape', 'Northern Cape', 204, 'ZA', 'NC', 'province', 'provincia', -29.573402, 21.2051361),
+(939, 'Western Cape', 'Western Cape', 204, 'ZA', 'WC', 'province', 'provincia', -33.546977, 20.72753);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (131015, 'Adelaide', 938, 204, -32.70747, 26.29564),

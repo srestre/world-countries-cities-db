@@ -12,16 +12,20 @@
   currency_symbol: "FCFA"
   tld: ".ga"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: -1
   longitude: 11.75
   emoji: "🇬🇦"
   states:
     -
       name: "Estuaire"
+      native: "Estuaire"
       code: "1"
       iso3166_2: "GA-1"
       type: "province"
+      type_es: "provincia"
       latitude: 0.4302639
       longitude: 9.4655189
       cities:
@@ -39,9 +43,11 @@
           longitude: 9.76096
     -
       name: "Haut-Ogooué"
+      native: "Haut-Ogooué"
       code: "2"
       iso3166_2: "GA-2"
       type: "province"
+      type_es: "provincia"
       latitude: -1.231544
       longitude: 13.8309713
       cities:
@@ -67,9 +73,11 @@
           longitude: 13.67533
     -
       name: "Moyen-Ogooué"
+      native: "Moyen-Ogooué"
       code: "3"
       iso3166_2: "GA-3"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5003495
       longitude: 10.4991063
       cities:
@@ -83,9 +91,11 @@
           longitude: 10.76488
     -
       name: "Ngounié"
+      native: "Ngounié"
       code: "4"
       iso3166_2: "GA-4"
       type: "province"
+      type_es: "provincia"
       latitude: -1.5910727
       longitude: 10.978503
       cities:
@@ -111,9 +121,11 @@
           longitude: 11.35813
     -
       name: "Nyanga"
+      native: "Lune"
       code: "5"
       iso3166_2: "GA-5"
       type: "province"
+      type_es: "provincia"
       latitude: -3.0080415
       longitude: 10.9964746
       cities:
@@ -127,9 +139,11 @@
           longitude: 10.98178
     -
       name: "Ogooué-Ivindo"
+      native: "Ogooué-Ivindo"
       code: "6"
       iso3166_2: "GA-6"
       type: "province"
+      type_es: "provincia"
       latitude: 0.60082
       longitude: 12.6887911
       cities:
@@ -147,9 +161,11 @@
           longitude: 13.90813
     -
       name: "Ogooué-Lolo"
+      native: "Ogooué-lolo"
       code: "7"
       iso3166_2: "GA-7"
       type: "province"
+      type_es: "provincia"
       latitude: -1.0002904
       longitude: 12.4952424
       cities:
@@ -163,9 +179,11 @@
           longitude: 12.70818
     -
       name: "Ogooué-Maritime"
+      native: "Ogooué-Maritime"
       code: "8"
       iso3166_2: "GA-8"
       type: "province"
+      type_es: "provincia"
       latitude: -1.4958157
       longitude: 9.5060896
       cities:
@@ -183,9 +201,11 @@
           longitude: 8.78151
     -
       name: "Woleu-Ntem"
+      native: "Woleu-Ntem"
       code: "9"
       iso3166_2: "GA-9"
       type: "province"
+      type_es: "provincia"
       latitude: 1.2950125
       longitude: 11.8218827
       cities:

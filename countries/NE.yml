@@ -12,16 +12,20 @@
   currency_symbol: "CFA"
   tld: ".ne"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 16
   longitude: 8
   emoji: "🇳🇪"
   states:
     -
       name: "Agadez"
+      native: "Agadez"
       code: "1"
       iso3166_2: "NE-1"
       type: "region"
+      type_es: "región"
       latitude: 19.4211115
       longitude: 10.6846987
       cities:
@@ -51,9 +55,11 @@
           longitude: 7.89321
     -
       name: "Diffa"
+      native: "Distraction"
       code: "2"
       iso3166_2: "NE-2"
       type: "region"
+      type_es: "región"
       latitude: 13.4880875
       longitude: 12.5136266
       cities:
@@ -83,9 +89,11 @@
           longitude: 13.10921
     -
       name: "Dosso"
+      native: "Dossier"
       code: "3"
       iso3166_2: "NE-3"
       type: "region"
+      type_es: "región"
       latitude: 13.1658009
       longitude: 3.3068075
       cities:
@@ -123,9 +131,11 @@
           longitude: 3.44919
     -
       name: "Maradi"
+      native: "Marigi"
       code: "4"
       iso3166_2: "NE-4"
       type: "region"
+      type_es: "región"
       latitude: 14.224
       longitude: 7.4717877
       cities:
@@ -179,9 +189,11 @@
           longitude: 7.04848
     -
       name: "Niamey"
+      native: "Niamey"
       code: "8"
       iso3166_2: "NE-8"
       type: "urban community"
+      type_es: "comunidad urbana"
       latitude: 13.51361111
       longitude: 2.10888889
       cities:
@@ -191,9 +203,11 @@
           longitude: 2.10888889
     -
       name: "Tahoua"
+      native: "Unité"
       code: "5"
       iso3166_2: "NE-5"
       type: "region"
+      type_es: "región"
       latitude: 16.1576745
       longitude: 5.3282652
       cities:
@@ -259,9 +273,11 @@
           longitude: 5.7985
     -
       name: "Tillabéri"
+      native: "Tilla"
       code: "6"
       iso3166_2: "NE-6"
       type: "region"
+      type_es: "región"
       latitude: 13.7251068
       longitude: 1.6961456
       cities:
@@ -323,9 +339,11 @@
           longitude: 1.443
     -
       name: "Zinder"
+      native: "Zinder"
       code: "7"
       iso3166_2: "NE-7"
       type: "region"
+      type_es: "región"
       latitude: 15.1787
       longitude: 9.7074108
       cities:

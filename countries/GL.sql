@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(86, 'Greenland', 'GL', 'GRL', 'Americas', 'Northern America', 'Nuuk', 'DKK', 72, -40, '🇬🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(86, 'Greenland', 'Groenlandia', 'GL', 'GRL', 'Americas', 'América', 'Northern America', 'Norteamérica', 'Nuuk', 'DKK', 72, -40, '🇬🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5379, 'Avannaata', 86, 'GL', 'AV', 'municipality', 76.5049265, -56.2911976),
-(5380, 'Kujalleq', 86, 'GL', 'KU', 'municipality', 61, -45),
-(5381, 'Qeqertalik', 86, 'GL', 'QT', 'municipality', 68.8249553, -54.7622472),
-(5382, 'Qeqqata', 86, 'GL', 'QE', 'municipality', 66.5, -48),
-(5383, 'Sermersooq', 86, 'GL', 'SM', 'municipality', 66, -40);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5379, 'Avannaata', 'Avannaata', 86, 'GL', 'AV', 'municipality', 'municipio', 76.5049265, -56.2911976),
+(5380, 'Kujalleq', 'Kujalleq', 86, 'GL', 'KU', 'municipality', 'municipio', 61, -45),
+(5381, 'Qeqertalik', 'Qeqertalik', 86, 'GL', 'QT', 'municipality', 'municipio', 68.8249553, -54.7622472),
+(5382, 'Qeqqata', 'Qeqqata', 86, 'GL', 'QE', 'municipality', 'municipio', 66.5, -48),
+(5383, 'Sermersooq', 'Sermersooq', 86, 'GL', 'SM', 'municipality', 'municipio', 66, -40);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (154930, 'Ilulissat', 5379, 86, 69.2279488, -51.1280539),

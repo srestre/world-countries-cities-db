@@ -12,16 +12,20 @@
   currency_symbol: "₡"
   tld: ".cr"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   latitude: 10
   longitude: -84
   emoji: "🇨🇷"
   states:
     -
       name: "Alajuela"
+      native: "Alajuela"
       code: "A"
       iso3166_2: "CR-A"
       type: "province"
+      type_es: "provincia"
       latitude: 10.4523316
       longitude: -84.4663284
       cities:
@@ -143,9 +147,11 @@
           longitude: -84.4
     -
       name: "Cartago"
+      native: "Cartago"
       code: "C"
       iso3166_2: "CR-C"
       type: "province"
+      type_es: "provincia"
       latitude: 9.8622311
       longitude: -83.9214187
       cities:
@@ -223,9 +229,11 @@
           longitude: -83.53333
     -
       name: "Guanacaste"
+      native: "Guanacaste"
       code: "G"
       iso3166_2: "CR-G"
       type: "province"
+      type_es: "provincia"
       latitude: 10.3788441
       longitude: -85.4338287
       cities:
@@ -295,9 +303,11 @@
           longitude: -84.97513
     -
       name: "Heredia"
+      native: "Heredia"
       code: "H"
       iso3166_2: "CR-H"
       type: "province"
+      type_es: "provincia"
       latitude: 10.3767813
       longitude: -84.0139721
       cities:
@@ -371,9 +381,11 @@
           longitude: -84
     -
       name: "Limón"
+      native: "Limón"
       code: "L"
       iso3166_2: "CR-L"
       type: "province"
+      type_es: "provincia"
       latitude: 9.9896398
       longitude: -83.0332417
       cities:
@@ -423,9 +435,11 @@
           longitude: -83.08333
     -
       name: "Puntarenas"
+      native: "Puntarenas"
       code: "P"
       iso3166_2: "CR-P"
       type: "province"
+      type_es: "provincia"
       latitude: 9.0953279
       longitude: -84.2003038
       cities:
@@ -507,9 +521,11 @@
           longitude: -82.97092
     -
       name: "San José"
+      native: "San José"
       code: "SJ"
       iso3166_2: "CR-SJ"
       type: "province"
+      type_es: "provincia"
       latitude: 9.9325427
       longitude: -84.0795782
       cities:

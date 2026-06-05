@@ -12,16 +12,20 @@
   currency_symbol: "₽"
   tld: ".ru"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 60
   longitude: 100
   emoji: "🇷🇺"
   states:
     -
       name: "Adygea"
+      native: "Адыгея"
       code: "AD"
       iso3166_2: "RU-AD"
       type: "republic"
+      type_es: "república"
       latitude: 44.6939006
       longitude: 40.1520421
       cities:
@@ -147,9 +151,11 @@
           longitude: 38.94324
     -
       name: "Altai"
+      native: "Алтай"
       code: "ALT"
       iso3166_2: "RU-ALT"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 50.7114101
       longitude: 86.8572186
       cities:
@@ -767,9 +773,11 @@
           longitude: 83.8937
     -
       name: "Altai"
+      native: "Алтай"
       code: "AL"
       iso3166_2: "RU-AL"
       type: "republic"
+      type_es: "república"
       latitude: 50.7114101
       longitude: 86.8572186
       cities:
@@ -875,9 +883,11 @@
           longitude: 87.96046
     -
       name: "Amur"
+      native: "Амур"
       code: "AMU"
       iso3166_2: "RU-AMU"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 52.8032368
       longitude: 128.437295
       cities:
@@ -1115,9 +1125,11 @@
           longitude: 128.5
     -
       name: "Arkhangelsk"
+      native: "Архангельск"
       code: "ARK"
       iso3166_2: "RU-ARK"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 64.5458549
       longitude: 40.5505769
       cities:
@@ -1407,9 +1419,11 @@
           longitude: 40.086
     -
       name: "Astrakhan"
+      native: "Астрахань"
       code: "AST"
       iso3166_2: "RU-AST"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 46.3498308
       longitude: 48.0326203
       cities:
@@ -1575,9 +1589,11 @@
           longitude: 45.7338
     -
       name: "Bashkortostan"
+      native: "Башкортостан"
       code: "BA"
       iso3166_2: "RU-BA"
       type: "republic"
+      type_es: "república"
       latitude: 54.4747553
       longitude: 55.9784582
       cities:
@@ -2027,9 +2043,11 @@
           longitude: 55.9185
     -
       name: "Belgorod"
+      native: "Белгород"
       code: "BEL"
       iso3166_2: "RU-BEL"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 50.7080119
       longitude: 37.5837615
       cities:
@@ -2259,9 +2277,11 @@
           longitude: 38.3965
     -
       name: "Bryansk"
+      native: "Брянск"
       code: "BRY"
       iso3166_2: "RU-BRY"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 53.2423778
       longitude: 34.3668288
       cities:
@@ -2595,9 +2615,11 @@
           longitude: 31.7378
     -
       name: "Buryatia"
+      native: "Бурятия"
       code: "BU"
       iso3166_2: "RU-BU"
       type: "republic"
+      type_es: "república"
       latitude: 52.7182426
       longitude: 109.492143
       cities:
@@ -2867,9 +2889,11 @@
           longitude: 102.459
     -
       name: "Chechen"
+      native: "чеченский"
       code: "CE"
       iso3166_2: "RU-CE"
       type: "republic"
+      type_es: "república"
       latitude: 43.4
       longitude: 45.7
       cities:
@@ -3215,9 +3239,11 @@
           longitude: 45.12867
     -
       name: "Chelyabinsk"
+      native: "Челябинск"
       code: "CHE"
       iso3166_2: "RU-CHE"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 55.1559312
       longitude: 61.4012726
       cities:
@@ -3599,9 +3625,11 @@
           longitude: 59.65083
     -
       name: "Chukotka"
+      native: "Чукотка"
       code: "CHU"
       iso3166_2: "RU-CHU"
       type: "autonomous district"
+      type_es: "distrito autónomo"
       latitude: 66.0006475
       longitude: 169.4900869
       cities:
@@ -3647,9 +3675,11 @@
           longitude: -175
     -
       name: "Chuvash"
+      native: "чувашский"
       code: "CU"
       iso3166_2: "RU-CU"
       type: "republic"
+      type_es: "república"
       latitude: 55.4259922
       longitude: 47.0849429
       cities:
@@ -3851,9 +3881,11 @@
           longitude: 47.83333
     -
       name: "Dagestan"
+      native: "Дагестан"
       code: "DA"
       iso3166_2: "RU-DA"
       type: "republic"
+      type_es: "república"
       latitude: 43
       longitude: 47
       cities:
@@ -4551,9 +4583,11 @@
           longitude: 46.81241
     -
       name: "Ingushetia"
+      native: "Ингушетия"
       code: "IN"
       iso3166_2: "RU-IN"
       type: "republic"
+      type_es: "república"
       latitude: 43.1655309
       longitude: 44.979682
       cities:
@@ -4659,9 +4693,11 @@
           longitude: 44.74614
     -
       name: "Irkutsk"
+      native: "Иркутск"
       code: "IRK"
       iso3166_2: "RU-IRK"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 52.2854834
       longitude: 104.2890222
       cities:
@@ -5187,9 +5223,11 @@
           longitude: 106.4799
     -
       name: "Ivanovo"
+      native: "Иваново"
       code: "IVA"
       iso3166_2: "RU-IVA"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 56.9956855
       longitude: 40.9812104
       cities:
@@ -5439,9 +5477,11 @@
           longitude: 42.08333
     -
       name: "Jewish"
+      native: "еврейский"
       code: "YEV"
       iso3166_2: "RU-YEV"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 48.5601613
       longitude: 132.2775662
       cities:
@@ -5519,9 +5559,11 @@
           longitude: 134.58232
     -
       name: "Kabardino-Balkar"
+      native: "Кабардино-Балкарский"
       code: "KB"
       iso3166_2: "RU-KB"
       type: "republic"
+      type_es: "república"
       latitude: 43.4428286
       longitude: 43.4204809
       cities:
@@ -5783,9 +5825,11 @@
           longitude: 42.91667
     -
       name: "Kaliningrad"
+      native: "Калининград"
       code: "KGD"
       iso3166_2: "RU-KGD"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.7104264
       longitude: 20.4522144
       cities:
@@ -5939,9 +5983,11 @@
           longitude: 21.22722
     -
       name: "Kalmykia"
+      native: "Калмыкия"
       code: "KL"
       iso3166_2: "RU-KL"
       type: "republic"
+      type_es: "república"
       latitude: 46.9017116
       longitude: 45.249161
       cities:
@@ -6019,9 +6065,11 @@
           longitude: 45.3435
     -
       name: "Kaluga"
+      native: "Калуга"
       code: "KLU"
       iso3166_2: "RU-KLU"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.4382773
       longitude: 35.5272854
       cities:
@@ -6307,9 +6355,11 @@
           longitude: 36.75
     -
       name: "Kamchatka"
+      native: "Камчатка"
       code: "KAM"
       iso3166_2: "RU-KAM"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 57.1914882
       longitude: 160.0383819
       cities:
@@ -6419,9 +6469,11 @@
           longitude: 159
     -
       name: "Karachay-Cherkess"
+      native: "Карачаево-Черкесская"
       code: "KC"
       iso3166_2: "RU-KC"
       type: "republic"
+      type_es: "república"
       latitude: 43.7368326
       longitude: 41.7267991
       cities:
@@ -6563,9 +6615,11 @@
           longitude: 41.5894
     -
       name: "Karelia"
+      native: "Карелия"
       code: "KR"
       iso3166_2: "RU-KR"
       type: "republic"
+      type_es: "república"
       latitude: 62.6194031
       longitude: 33.4920267
       cities:
@@ -6763,9 +6817,11 @@
           longitude: 32.10255
     -
       name: "Kemerovo"
+      native: "Кемерово"
       code: "KEM"
       iso3166_2: "RU-KEM"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.5335781
       longitude: 87.342861
       cities:
@@ -7059,9 +7115,11 @@
           longitude: 87
     -
       name: "Khabarovsk"
+      native: "Хабаровск"
       code: "KHA"
       iso3166_2: "RU-KHA"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 51.6312684
       longitude: 136.121524
       cities:
@@ -7227,9 +7285,11 @@
           longitude: 140.26989
     -
       name: "Khakassia"
+      native: "Хакасия"
       code: "KK"
       iso3166_2: "RU-KK"
       type: "republic"
+      type_es: "república"
       latitude: 53.4399379
       longitude: 90.0664303
       cities:
@@ -7323,9 +7383,11 @@
           longitude: 89.56008
     -
       name: "Khanty-Mansi"
+      native: "Ханты-Мансийский"
       code: "KHM"
       iso3166_2: "RU-KHM"
       type: "autonomous district"
+      type_es: "distrito autónomo"
       latitude: 61.8793428
       longitude: 68.6418156
       cities:
@@ -7507,9 +7569,11 @@
           longitude: 64.04344
     -
       name: "Kirov"
+      native: "Киров"
       code: "KIR"
       iso3166_2: "RU-KIR"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 58.6035661
       longitude: 49.6666241
       cities:
@@ -7871,9 +7935,11 @@
           longitude: 51.13355
     -
       name: "Komi"
+      native: "Коми"
       code: "KO"
       iso3166_2: "RU-KO"
       type: "republic"
+      type_es: "república"
       latitude: 63.9881421
       longitude: 54.3326073
       cities:
@@ -8083,9 +8149,11 @@
           longitude: 49.57335
     -
       name: "Kostroma"
+      native: "Кострома"
       code: "KOS"
       iso3166_2: "RU-KOS"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 58.6044327
       longitude: 41.5889382
       cities:
@@ -8267,9 +8335,11 @@
           longitude: 41.15553
     -
       name: "Krasnodar"
+      native: "Краснодар"
       code: "KDA"
       iso3166_2: "RU-KDA"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 45.7684014
       longitude: 39.0261044
       cities:
@@ -9191,9 +9261,11 @@
           longitude: 41.1373
     -
       name: "Krasnoyarsk"
+      native: "Красноярск"
       code: "KYA"
       iso3166_2: "RU-KYA"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 63.3233807
       longitude: 97.0979974
       cities:
@@ -9635,9 +9707,11 @@
           longitude: 93.16093
     -
       name: "Kurgan"
+      native: "Курган"
       code: "KGN"
       iso3166_2: "RU-KGN"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 55.4409357
       longitude: 65.3421169
       cities:
@@ -9767,9 +9841,11 @@
           longitude: 64.85242
     -
       name: "Kursk"
+      native: "Курск"
       code: "KRS"
       iso3166_2: "RU-KRS"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 51.7309249
       longitude: 36.1923123
       cities:
@@ -9951,9 +10027,11 @@
           longitude: 36.5
     -
       name: "Leningrad"
+      native: "Ленинград"
       code: "LEN"
       iso3166_2: "RU-LEN"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 60.1853296
       longitude: 32.3925325
       cities:
@@ -10523,9 +10601,11 @@
           longitude: 29.78153
     -
       name: "Lipetsk"
+      native: "Липецк"
       code: "LIP"
       iso3166_2: "RU-LIP"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 52.6935178
       longitude: 39.1122664
       cities:
@@ -10719,9 +10799,11 @@
           longitude: 38.91667
     -
       name: "Magadan"
+      native: "Магадан"
       code: "MAG"
       iso3166_2: "RU-MAG"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 63.5515028
       longitude: 154.014726
       cities:
@@ -10815,9 +10897,11 @@
           longitude: 149.62827
     -
       name: "Mari El"
+      native: "Марий Эл"
       code: "ME"
       iso3166_2: "RU-ME"
       type: "republic"
+      type_es: "república"
       latitude: 56.5767504
       longitude: 47.8817512
       cities:
@@ -10963,9 +11047,11 @@
           longitude: 47.75
     -
       name: "Mordovia"
+      native: "Мордовия"
       code: "MO"
       iso3166_2: "RU-MO"
       type: "republic"
+      type_es: "república"
       latitude: 54.4419829
       longitude: 44.4661144
       cities:
@@ -11163,9 +11249,11 @@
           longitude: 45.08633
     -
       name: "Moscow"
+      native: "Москва"
       code: "MOS"
       iso3166_2: "RU-MOS"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 55.625578
       longitude: 37.6063916
       cities:
@@ -12495,9 +12583,11 @@
           longitude: 36.85918
     -
       name: "Moscow"
+      native: "Москва"
       code: "MOW"
       iso3166_2: "RU-MOW"
       type: "autonomous city"
+      type_es: "ciudad autónoma"
       latitude: 55.625578
       longitude: 37.6063916
       cities:
@@ -12871,9 +12961,11 @@
           longitude: 37.56846
     -
       name: "Murmansk"
+      native: "Мурманск"
       code: "MUR"
       iso3166_2: "RU-MUR"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 68.0000418
       longitude: 33.9999151
       cities:
@@ -13047,9 +13139,11 @@
           longitude: 32.36222
     -
       name: "Nenets"
+      native: "ненецкие"
       code: "NEN"
       iso3166_2: "RU-NEN"
       type: "autonomous city"
+      type_es: "ciudad autónoma"
       latitude: 67.6783253
       longitude: 57.0626853
       cities:
@@ -13063,9 +13157,11 @@
           longitude: 53.00371
     -
       name: "Nizhny Novgorod"
+      native: "Нижний Новгород"
       code: "NIZ"
       iso3166_2: "RU-NIZ"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 56.2769292
       longitude: 43.9212981
       cities:
@@ -13579,9 +13675,11 @@
           longitude: 44.0744
     -
       name: "North Ossetia-Alania"
+      native: "Северная Осетия-Алания"
       code: "SE"
       iso3166_2: "RU-SE"
       type: "republic"
+      type_es: "república"
       latitude: 42.9920711
       longitude: 44.2636348
       cities:
@@ -13711,9 +13809,11 @@
           longitude: 44.15733
     -
       name: "Novgorod"
+      native: "Новгород"
       code: "NGR"
       iso3166_2: "RU-NGR"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 58.5209862
       longitude: 31.2757862
       cities:
@@ -13935,9 +14035,11 @@
           longitude: 33.47556
     -
       name: "Novosibirsk"
+      native: "Новосибирск"
       code: "NVS"
       iso3166_2: "RU-NVS"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.9678144
       longitude: 82.9515989
       cities:
@@ -14179,9 +14281,11 @@
           longitude: 78.66105
     -
       name: "Omsk"
+      native: "Омск"
       code: "OMS"
       iso3166_2: "RU-OMS"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.991375
       longitude: 73.371529
       cities:
@@ -14339,9 +14443,11 @@
           longitude: 73.82821
     -
       name: "Orenburg"
+      native: "Оренбург"
       code: "ORE"
       iso3166_2: "RU-ORE"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 52.0269262
       longitude: 54.7276647
       cities:
@@ -14555,9 +14661,11 @@
           longitude: 59.74245
     -
       name: "Oryol"
+      native: "Орел"
       code: "ORL"
       iso3166_2: "RU-ORL"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 52.8392765
       longitude: 36.4251709
       cities:
@@ -14671,9 +14779,11 @@
           longitude: 35.69055
     -
       name: "Penza"
+      native: "Пенза"
       code: "PNZ"
       iso3166_2: "RU-PNZ"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 53.1655415
       longitude: 44.7879181
       cities:
@@ -14867,9 +14977,11 @@
           longitude: 42.61632
     -
       name: "Perm"
+      native: "Пермь"
       code: "PER"
       iso3166_2: "RU-PER"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 58.5951603
       longitude: 56.3159546
       cities:
@@ -15207,9 +15319,11 @@
           longitude: 54.70784
     -
       name: "Primorsky"
+      native: "Приморский"
       code: "PRI"
       iso3166_2: "RU-PRI"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 45.0819456
       longitude: 134.726645
       cities:
@@ -15599,9 +15713,11 @@
           longitude: 131.7277
     -
       name: "Pskov"
+      native: "Псков"
       code: "PSK"
       iso3166_2: "RU-PSK"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 57.5358729
       longitude: 28.8586826
       cities:
@@ -15783,9 +15899,11 @@
           longitude: 29.1663
     -
       name: "Rostov"
+      native: "Ростов"
       code: "ROS"
       iso3166_2: "RU-ROS"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 47.6222451
       longitude: 40.7957942
       cities:
@@ -16227,9 +16345,11 @@
           longitude: 40.12282
     -
       name: "Ryazan"
+      native: "Рязань"
       code: "RYA"
       iso3166_2: "RU-RYA"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.6295687
       longitude: 39.7425039
       cities:
@@ -16427,9 +16547,11 @@
           longitude: 39.59437
     -
       name: "Saint Petersburg"
+      native: "Санкт-Петербург"
       code: "SPE"
       iso3166_2: "RU-SPE"
       type: "autonomous city"
+      type_es: "ciudad autónoma"
       latitude: 59.938732
       longitude: 30.316229
       cities:
@@ -16667,9 +16789,11 @@
           longitude: 29.70183
     -
       name: "Sakha"
+      native: "Саха"
       code: "SA"
       iso3166_2: "RU-SA"
       type: "republic"
+      type_es: "república"
       latitude: 66.941626
       longitude: 129.642371
       cities:
@@ -17019,9 +17143,11 @@
           longitude: 150.89429
     -
       name: "Sakhalin"
+      native: "Сахалин"
       code: "SAK"
       iso3166_2: "RU-SAK"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 50.159476
       longitude: 143.0264412
       cities:
@@ -17195,9 +17321,11 @@
           longitude: 142.73603
     -
       name: "Samara"
+      native: "Самара"
       code: "SAM"
       iso3166_2: "RU-SAM"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 53.1956255
       longitude: 50.1014927
       cities:
@@ -17459,9 +17587,11 @@
           longitude: 49.7978
     -
       name: "Saratov"
+      native: "Саратов"
       code: "SAR"
       iso3166_2: "RU-SAR"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 51.530018
       longitude: 46.034683
       cities:
@@ -17751,9 +17881,11 @@
           longitude: 48.2766
     -
       name: "Smolensk"
+      native: "Смоленск"
       code: "SMO"
       iso3166_2: "RU-SMO"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 55.0343496
       longitude: 33.0192065
       cities:
@@ -17903,9 +18035,11 @@
           longitude: 32.75417
     -
       name: "Stavropol"
+      native: "Ставрополь"
       code: "STA"
       iso3166_2: "RU-STA"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 44.8632577
       longitude: 43.4406913
       cities:
@@ -18391,9 +18525,11 @@
           longitude: 43.12083
     -
       name: "Sverdlovsk"
+      native: "Свердловск"
       code: "SVE"
       iso3166_2: "RU-SVE"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 56.839104
       longitude: 60.60825
       cities:
@@ -18951,9 +19087,11 @@
           longitude: 60.1331
     -
       name: "Tambov"
+      native: "Тамбов"
       code: "TAM"
       iso3166_2: "RU-TAM"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 52.7216164
       longitude: 41.4523988
       cities:
@@ -19099,9 +19237,11 @@
           longitude: 41.33333
     -
       name: "Tatarstan"
+      native: "Татарстан"
       code: "TA"
       iso3166_2: "RU-TA"
       type: "republic"
+      type_es: "república"
       latitude: 55.448217
       longitude: 50.4763591
       cities:
@@ -19527,9 +19667,11 @@
           longitude: 48.51784
     -
       name: "Tomsk"
+      native: "Томск"
       code: "TOM"
       iso3166_2: "RU-TOM"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 58.6124279
       longitude: 82.0475315
       cities:
@@ -19655,9 +19797,11 @@
           longitude: 86.62734
     -
       name: "Tula"
+      native: "Тула"
       code: "TUL"
       iso3166_2: "RU-TUL"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.1930321
       longitude: 37.61754
       cities:
@@ -19919,9 +20063,11 @@
           longitude: 38.17951
     -
       name: "Tuva"
+      native: "Тува"
       code: "TY"
       iso3166_2: "RU-TY"
       type: "republic"
+      type_es: "república"
       latitude: 51.4017149
       longitude: 93.8582593
       cities:
@@ -20011,9 +20157,11 @@
           longitude: 93.91887
     -
       name: "Tver"
+      native: "Тверь"
       code: "TVE"
       iso3166_2: "RU-TVE"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 57.1134475
       longitude: 35.1744428
       cities:
@@ -20375,9 +20523,11 @@
           longitude: 34.58333
     -
       name: "Tyumen"
+      native: "Тюмень"
       code: "TYU"
       iso3166_2: "RU-TYU"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 57.153534
       longitude: 65.542274
       cities:
@@ -20567,9 +20717,11 @@
           longitude: 66.55153
     -
       name: "Udmurt"
+      native: "удмуртский"
       code: "UD"
       iso3166_2: "RU-UD"
       type: "republic"
+      type_es: "república"
       latitude: 57.1961165
       longitude: 52.6959832
       cities:
@@ -20719,9 +20871,11 @@
           longitude: 53.08333
     -
       name: "Ulyanovsk"
+      native: "Ульяновск"
       code: "ULY"
       iso3166_2: "RU-ULY"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 54.1463177
       longitude: 47.2324921
       cities:
@@ -20907,9 +21061,11 @@
           longitude: 46.94985
     -
       name: "Vladimir"
+      native: "Владимир"
       code: "VLA"
       iso3166_2: "RU-VLA"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 56.1288899
       longitude: 40.4075203
       cities:
@@ -21179,9 +21335,11 @@
           longitude: 41.1053
     -
       name: "Volgograd Oblast"
+      native: "Волгоградская область"
       code: "VGG"
       iso3166_2: "RU-VGG"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 49.6048339
       longitude: 44.2903582
       cities:
@@ -21511,9 +21669,11 @@
           longitude: 44.76666667
     -
       name: "Vologda"
+      native: "Вологда"
       code: "VLG"
       iso3166_2: "RU-VLG"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 59.2264585
       longitude: 39.8722391
       cities:
@@ -21771,9 +21931,11 @@
           longitude: 36.9709
     -
       name: "Voronezh"
+      native: "Воронеж"
       code: "VOR"
       iso3166_2: "RU-VOR"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 51.6605982
       longitude: 39.2005858
       cities:
@@ -22147,9 +22309,11 @@
           longitude: 38.7334
     -
       name: "Yamalo-Nenets"
+      native: "Ямало-Ненецкий"
       code: "YAN"
       iso3166_2: "RU-YAN"
       type: "autonomous district"
+      type_es: "distrito autónomo"
       latitude: 67.1471631
       longitude: 74.3415488
       cities:
@@ -22251,9 +22415,11 @@
           longitude: 70.83784
     -
       name: "Yaroslavl"
+      native: "Ярославль"
       code: "YAR"
       iso3166_2: "RU-YAR"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 57.6508432
       longitude: 39.8718634
       cities:
@@ -22467,9 +22633,11 @@
           longitude: 40
     -
       name: "Zabaykalsky"
+      native: "Забайкальский"
       code: "ZAB"
       iso3166_2: "RU-ZAB"
       type: "administrative territory"
+      type_es: "territorio administrativo"
       latitude: 52.248521
       longitude: 115.956325
       cities:

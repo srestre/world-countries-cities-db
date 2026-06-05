@@ -1,3 +1,3 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-PM,Saint Pierre and Miquelon,Americas,Northern America,01,Saint-Pierre and Miquelon,Miquelon-Langlade,47.09722222,-56.38138889
-PM,Saint Pierre and Miquelon,Americas,Northern America,01,Saint-Pierre and Miquelon,Saint-Pierre,46.77833333,-56.1775
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+PM,Saint Pierre and Miquelon,San Pedro y Miquelón,Americas,América,Northern America,Norteamérica,01,Saint-Pierre and Miquelon,overseas collectivity,colectividad de ultramar,Miquelon-Langlade,47.09722222,-56.38138889
+PM,Saint Pierre and Miquelon,San Pedro y Miquelón,Americas,América,Northern America,Norteamérica,01,Saint-Pierre and Miquelon,overseas collectivity,colectividad de ultramar,Saint-Pierre,46.77833333,-56.1775

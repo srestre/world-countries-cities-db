@@ -12,16 +12,20 @@
   currency_symbol: "Nkf"
   tld: ".et"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: 8
   longitude: 38
   emoji: "🇪🇹"
   states:
     -
       name: "Addis Ababa"
+      native: "አዲስ አበባ"
       code: "AA"
       iso3166_2: "ET-AA"
       type: "administration"
+      type_es: "administración"
       latitude: 9
       longitude: 38.75
       cities:
@@ -31,9 +35,11 @@
           longitude: 38.74689
     -
       name: "Afar"
+      native: "አፋር"
       code: "AF"
       iso3166_2: "ET-AF"
       type: "region"
+      type_es: "región"
       latitude: 11.7108206
       longitude: 41.0330866
       cities:
@@ -67,9 +73,11 @@
           longitude: 41.00578
     -
       name: "Amhara"
+      native: "አማራ"
       code: "AM"
       iso3166_2: "ET-AM"
       type: "region"
+      type_es: "región"
       latitude: 11.5
       longitude: 38.5
       cities:
@@ -191,9 +199,11 @@
           longitude: 37.7
     -
       name: "Benishangul-Gumuz"
+      native: "ቤኒሻል-ጉሙዝ"
       code: "BE"
       iso3166_2: "ET-BE"
       type: "region"
+      type_es: "región"
       latitude: 10.3778251
       longitude: 35.5084442
       cities:
@@ -207,9 +217,11 @@
           longitude: 35.71975
     -
       name: "Dire Dawa"
+      native: "አዝናኝ"
       code: "DD"
       iso3166_2: "ET-DD"
       type: "administration"
+      type_es: "administración"
       latitude: 9.591323
       longitude: 41.8566341
       cities:
@@ -219,9 +231,11 @@
           longitude: 41.86611
     -
       name: "Gambela"
+      native: "ጋምቤላ"
       code: "GA"
       iso3166_2: "ET-GA"
       type: "region"
+      type_es: "región"
       latitude: 7.8102647
       longitude: 34.1822172
       cities:
@@ -235,9 +249,11 @@
           longitude: 34.58333
     -
       name: "Harari"
+      native: "ሐረሪ"
       code: "HA"
       iso3166_2: "ET-HA"
       type: "region"
+      type_es: "región"
       latitude: 9.2905517
       longitude: 42.1885672
       cities:
@@ -247,9 +263,11 @@
           longitude: 42.11815
     -
       name: "Oromia"
+      native: "ኦሮሚያ"
       code: "OR"
       iso3166_2: "ET-OR"
       type: "region"
+      type_es: "región"
       latitude: 7.6721644
       longitude: 40.0299727
       cities:
@@ -471,9 +489,11 @@
           longitude: 38.71667
     -
       name: "Sidama"
+      native: "ሲዳማ"
       code: "SI"
       iso3166_2: "ET-SI"
       type: "region"
+      type_es: "región"
       latitude: 6.5
       longitude: 38.5
       cities:
@@ -507,9 +527,11 @@
           longitude: 38.41667
     -
       name: "Somali"
+      native: "ሶማሌ"
       code: "SO"
       iso3166_2: "ET-SO"
       type: "region"
+      type_es: "región"
       latitude: 7.2629844
       longitude: 43.5360531
       cities:
@@ -539,9 +561,11 @@
           longitude: 41.83748
     -
       name: "Southern Nations, Nationalities, and Peoples"
+      native: "ደቡብ ብሔር ብሔረሰቦችና ሕዝቦች"
       code: "SN"
       iso3166_2: "ET-SN"
       type: "region"
+      type_es: "región"
       latitude: 6.5156911
       longitude: 36.954107
       cities:
@@ -631,9 +655,11 @@
           longitude: 37.5
     -
       name: "Southwest Ethiopia Peoples"
+      native: "ደቡብ ምዕራብ የኢትዮጵያ ሕዝቦች"
       code: "SW"
       iso3166_2: "ET-SW"
       type: "region"
+      type_es: "región"
       latitude: 7.3
       longitude: 36.2
       cities:
@@ -659,9 +685,11 @@
           longitude: 35.45
     -
       name: "Tigray"
+      native: "ክልል ትግራይ"
       code: "TI"
       iso3166_2: "ET-TI"
       type: "region"
+      type_es: "región"
       latitude: 13.881273
       longitude: 39.127495
       cities:

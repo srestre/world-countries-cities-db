@@ -1,48 +1,48 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(65, 'Egypt', 'EG', 'EGY', 'Africa', 'Northern Africa', 'Cairo', 'EGP', 27, 30, '🇪🇬');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(65, 'Egypt', 'Egipto', 'EG', 'EGY', 'Africa', 'África', 'Northern Africa', 'África del Norte', 'Cairo', 'EGP', 27, 30, '🇪🇬');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3235, 'Alexandria', 65, 'EG', 'ALX', 'governorate', 30.9432983, 29.765645),
-(3225, 'Aswan', 65, 'EG', 'ASN', 'governorate', 23.6675287, 32.6916477),
-(3236, 'Asyut', 65, 'EG', 'AST', 'governorate', 27.2065132, 31.5500282),
-(3241, 'Beheira', 65, 'EG', 'BH', 'governorate', 30.7915206, 30.3465488),
-(3230, 'Beni Suef', 65, 'EG', 'BNS', 'governorate', 29.0729812, 31.0982562),
-(3223, 'Cairo', 65, 'EG', 'C', 'governorate', 30.0332516, 31.5621651),
-(3245, 'Dakahlia', 65, 'EG', 'DK', 'governorate', 31.1380046, 31.8882499),
-(3224, 'Damietta', 65, 'EG', 'DT', 'governorate', 31.4113331, 31.7557072),
-(3238, 'Faiyum', 65, 'EG', 'FYM', 'governorate', 29.3084021, 30.8428497),
-(3234, 'Gharbia', 65, 'EG', 'GH', 'governorate', 30.8391947, 31.0016072),
-(3239, 'Giza', 65, 'EG', 'GZ', 'governorate', 29.0540357, 29.4190807),
-(3244, 'Ismailia', 65, 'EG', 'IS', 'governorate', 30.6043775, 32.2770825),
-(3222, 'Kafr El-Sheikh', 65, 'EG', 'KFS', 'governorate', 31.3814765, 30.8513566),
-(3242, 'Luxor', 65, 'EG', 'LX', 'governorate', 25.702096, 32.647186),
-(3231, 'Matrouh', 65, 'EG', 'MT', 'governorate', 29.7876385, 27.427041),
-(3243, 'Minya', 65, 'EG', 'MN', 'governorate', 28.0893325, 30.7570623),
-(3228, 'Monufia', 65, 'EG', 'MNF', 'governorate', 30.4370098, 30.7466852),
-(3246, 'New Valley', 65, 'EG', 'WAD', 'governorate', 24.8766665, 28.7757345),
-(3227, 'North Sinai', 65, 'EG', 'SIN', 'governorate', 30.5042803, 33.591006),
-(3229, 'Port Said', 65, 'EG', 'PTS', 'governorate', 31.1821275, 32.372582),
-(3232, 'Qalyubia', 65, 'EG', 'KB', 'governorate', 30.3292368, 31.2168466),
-(3247, 'Qena', 65, 'EG', 'KN', 'governorate', 26.1593097, 32.7162855),
-(3240, 'Red Sea', 65, 'EG', 'BA', 'governorate', 25.5867279, 34.1694641),
-(5067, 'Sharqia', 65, 'EG', 'SHR', 'governorate', 30.6332775, 31.7893739),
-(3226, 'Sohag', 65, 'EG', 'SHG', 'governorate', 26.7624628, 32.0909936),
-(3237, 'South Sinai', 65, 'EG', 'JS', 'governorate', 28.6449564, 33.8711313),
-(3233, 'Suez', 65, 'EG', 'SUZ', 'governorate', 29.4165427, 32.1490967);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3235, 'Alexandria', 'الإسكندرية', 65, 'EG', 'ALX', 'governorate', 'gobernación', 30.9432983, 29.765645),
+(3225, 'Aswan', 'أسوان', 65, 'EG', 'ASN', 'governorate', 'gobernación', 23.6675287, 32.6916477),
+(3236, 'Asyut', 'أسيوط', 65, 'EG', 'AST', 'governorate', 'gobernación', 27.2065132, 31.5500282),
+(3241, 'Beheira', 'البحيرة', 65, 'EG', 'BH', 'governorate', 'gobernación', 30.7915206, 30.3465488),
+(3230, 'Beni Suef', 'بني سويف', 65, 'EG', 'BNS', 'governorate', 'gobernación', 29.0729812, 31.0982562),
+(3223, 'Cairo', 'القاهرة', 65, 'EG', 'C', 'governorate', 'gobernación', 30.0332516, 31.5621651),
+(3245, 'Dakahlia', 'الدقهلية', 65, 'EG', 'DK', 'governorate', 'gobernación', 31.1380046, 31.8882499),
+(3224, 'Damietta', 'دمياط', 65, 'EG', 'DT', 'governorate', 'gobernación', 31.4113331, 31.7557072),
+(3238, 'Faiyum', 'الفيوم', 65, 'EG', 'FYM', 'governorate', 'gobernación', 29.3084021, 30.8428497),
+(3234, 'Gharbia', 'الغربية', 65, 'EG', 'GH', 'governorate', 'gobernación', 30.8391947, 31.0016072),
+(3239, 'Giza', 'الجيزة', 65, 'EG', 'GZ', 'governorate', 'gobernación', 29.0540357, 29.4190807),
+(3244, 'Ismailia', 'الإسماعيلية', 65, 'EG', 'IS', 'governorate', 'gobernación', 30.6043775, 32.2770825),
+(3222, 'Kafr El-Sheikh', 'كفر الشيخ', 65, 'EG', 'KFS', 'governorate', 'gobernación', 31.3814765, 30.8513566),
+(3242, 'Luxor', 'الأقصر', 65, 'EG', 'LX', 'governorate', 'gobernación', 25.702096, 32.647186),
+(3231, 'Matrouh', 'مطروح', 65, 'EG', 'MT', 'governorate', 'gobernación', 29.7876385, 27.427041),
+(3243, 'Minya', 'المنيا', 65, 'EG', 'MN', 'governorate', 'gobernación', 28.0893325, 30.7570623),
+(3228, 'Monufia', 'المنوفية', 65, 'EG', 'MNF', 'governorate', 'gobernación', 30.4370098, 30.7466852),
+(3246, 'New Valley', 'الوادي الجديد', 65, 'EG', 'WAD', 'governorate', 'gobernación', 24.8766665, 28.7757345),
+(3227, 'North Sinai', 'شمال سيناء', 65, 'EG', 'SIN', 'governorate', 'gobernación', 30.5042803, 33.591006),
+(3229, 'Port Said', 'بورسعيد', 65, 'EG', 'PTS', 'governorate', 'gobernación', 31.1821275, 32.372582),
+(3232, 'Qalyubia', 'القليوبية', 65, 'EG', 'KB', 'governorate', 'gobernación', 30.3292368, 31.2168466),
+(3247, 'Qena', 'قنا', 65, 'EG', 'KN', 'governorate', 'gobernación', 26.1593097, 32.7162855),
+(3240, 'Red Sea', 'البحر الأحمر', 65, 'EG', 'BA', 'governorate', 'gobernación', 25.5867279, 34.1694641),
+(5067, 'Sharqia', 'الشرقية', 65, 'EG', 'SHR', 'governorate', 'gobernación', 30.6332775, 31.7893739),
+(3226, 'Sohag', 'سوهاج', 65, 'EG', 'SHG', 'governorate', 'gobernación', 26.7624628, 32.0909936),
+(3237, 'South Sinai', 'جنوب سيناء', 65, 'EG', 'JS', 'governorate', 'gobernación', 28.6449564, 33.8711313),
+(3233, 'Suez', 'السويس', 65, 'EG', 'SUZ', 'governorate', 'gobernación', 29.4165427, 32.1490967);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (149594, 'Abu Qir', 3235, 65, 31.31666667, 30.06666667),

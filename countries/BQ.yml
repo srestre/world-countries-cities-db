@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".an"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 12.15
   longitude: -68.266667
   emoji: "🇧🇶"
   states:
     -
       name: "Bonaire"
+      native: "Bonaire"
       code: "BQ1"
       iso3166_2: "BQ-BQ1"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 12.2018902
       longitude: -68.2623822
       cities:
@@ -59,18 +63,22 @@
           longitude: -63.22649
     -
       name: "Saba"
+      native: "Saba"
       code: "BQ2"
       iso3166_2: "BQ-BQ2"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 17.6354642
       longitude: -63.2326763
       cities:
         []
     -
       name: "Sint Eustatius"
+      native: "Sint Eustatius"
       code: "BQ3"
       iso3166_2: "BQ-BQ3"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 17.4890306
       longitude: -62.973555
       cities:

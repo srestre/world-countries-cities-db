@@ -12,286 +12,350 @@
   currency_symbol: "USh"
   tld: ".ug"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: 1
   longitude: 32
   emoji: "🇺🇬"
   states:
     -
       name: "Abim"
+      native: "Abim"
       code: "314"
       iso3166_2: "UG-314"
       type: "district"
+      type_es: "distrito"
       latitude: 2.8047503
       longitude: 33.750977
       cities:
         []
     -
       name: "Adjumani"
+      native: "Adjumani"
       code: "301"
       iso3166_2: "UG-301"
       type: "district"
+      type_es: "distrito"
       latitude: 3.237128
       longitude: 31.7858246
       cities:
         []
     -
       name: "Agago"
+      native: "Agago"
       code: "322"
       iso3166_2: "UG-322"
       type: "district"
+      type_es: "distrito"
       latitude: 2.9476598
       longitude: 33.3861057
       cities:
         []
     -
       name: "Alebtong"
+      native: "Alebtong"
       code: "323"
       iso3166_2: "UG-323"
       type: "district"
+      type_es: "distrito"
       latitude: 2.2674065
       longitude: 33.3200226
       cities:
         []
     -
       name: "Amolatar"
+      native: "Amolatar"
       code: "315"
       iso3166_2: "UG-315"
       type: "district"
+      type_es: "distrito"
       latitude: 1.6374596
       longitude: 32.6328229
       cities:
         []
     -
       name: "Amudat"
+      native: "Amudat"
       code: "324"
       iso3166_2: "UG-324"
       type: "district"
+      type_es: "distrito"
       latitude: 1.8261958
       longitude: 34.9312698
       cities:
         []
     -
       name: "Amuria"
+      native: "Briefly"
       code: "216"
       iso3166_2: "UG-216"
       type: "district"
+      type_es: "distrito"
       latitude: 1.9819077
       longitude: 33.6574719
       cities:
         []
     -
       name: "Amuru"
+      native: "Birth"
       code: "316"
       iso3166_2: "UG-316"
       type: "district"
+      type_es: "distrito"
       latitude: 3.1288655
       longitude: 32.1024833
       cities:
         []
     -
       name: "Apac"
+      native: "Apac"
       code: "302"
       iso3166_2: "UG-302"
       type: "district"
+      type_es: "distrito"
       latitude: 1.9337258
       longitude: 32.5018028
       cities:
         []
     -
       name: "Arua"
+      native: "Arua"
       code: "303"
       iso3166_2: "UG-303"
       type: "district"
+      type_es: "distrito"
       latitude: 3.0014096
       longitude: 31.0093527
       cities:
         []
     -
       name: "Budaka"
+      native: "Budak"
       code: "217"
       iso3166_2: "UG-217"
       type: "district"
+      type_es: "distrito"
       latitude: 1.065819
       longitude: 34.0208931
       cities:
         []
     -
       name: "Bududa"
+      native: "Bududa"
       code: "218"
       iso3166_2: "UG-218"
       type: "district"
+      type_es: "distrito"
       latitude: 1.0271813
       longitude: 34.3907845
       cities:
         []
     -
       name: "Bugiri"
+      native: "Bugiri"
       code: "201"
       iso3166_2: "UG-201"
       type: "district"
+      type_es: "distrito"
       latitude: 0.520721
       longitude: 33.7750698
       cities:
         []
     -
       name: "Bugweri"
+      native: "Bugwy"
       code: "235"
       iso3166_2: "UG-235"
       type: "district"
+      type_es: "distrito"
       latitude: 0.6242564
       longitude: 33.6154383
       cities:
         []
     -
       name: "Buhweju"
+      native: "Buhwe"
       code: "420"
       iso3166_2: "UG-420"
       type: "district"
+      type_es: "distrito"
       latitude: -0.3203212
       longitude: 30.3162054
       cities:
         []
     -
       name: "Buikwe"
+      native: "It has been given"
       code: "117"
       iso3166_2: "UG-117"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3405774
       longitude: 33.0107728
       cities:
         []
     -
       name: "Bukedea"
+      native: "Boule"
       code: "219"
       iso3166_2: "UG-219"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3707048
       longitude: 34.1424762
       cities:
         []
     -
       name: "Bukomansimbi"
+      native: "Bukomansimbi"
       code: "118"
       iso3166_2: "UG-118"
       type: "district"
+      type_es: "distrito"
       latitude: -0.1268703
       longitude: 31.6225952
       cities:
         []
     -
       name: "Bukwo"
+      native: "Bukyo"
       code: "220"
       iso3166_2: "UG-220"
       type: "district"
+      type_es: "distrito"
       latitude: 1.2549848
       longitude: 34.6924324
       cities:
         []
     -
       name: "Bulambuli"
+      native: "Ram"
       code: "225"
       iso3166_2: "UG-225"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3494989
       longitude: 34.2760949
       cities:
         []
     -
       name: "Buliisa"
+      native: "Belies"
       code: "416"
       iso3166_2: "UG-416"
       type: "district"
+      type_es: "distrito"
       latitude: 1.9228563
       longitude: 31.3917565
       cities:
         []
     -
       name: "Bundibugyo"
+      native: "Bundibugyo"
       code: "401"
       iso3166_2: "UG-401"
       type: "district"
+      type_es: "distrito"
       latitude: 0.6605936
       longitude: 30.0431008
       cities:
         []
     -
       name: "Bunyangabu"
+      native: "Bunyangabu"
       code: "430"
       iso3166_2: "UG-430"
       type: "district"
+      type_es: "distrito"
       latitude: 0.4870918
       longitude: 30.2051096
       cities:
         []
     -
       name: "Bushenyi"
+      native: "Bushenyi"
       code: "402"
       iso3166_2: "UG-402"
       type: "district"
+      type_es: "distrito"
       latitude: -0.4818132
       longitude: 30.1686851
       cities:
         []
     -
       name: "Busia"
+      native: "Busia"
       code: "202"
       iso3166_2: "UG-202"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3917103
       longitude: 34.0160135
       cities:
         []
     -
       name: "Butaleja"
+      native: "Business"
       code: "221"
       iso3166_2: "UG-221"
       type: "district"
+      type_es: "distrito"
       latitude: 0.8612477
       longitude: 33.8779637
       cities:
         []
     -
       name: "Butambala"
+      native: "Get the"
       code: "119"
       iso3166_2: "UG-119"
       type: "district"
+      type_es: "distrito"
       latitude: 0.1642653
       longitude: 32.1352371
       cities:
         []
     -
       name: "Butebo"
+      native: "Butebo"
       code: "233"
       iso3166_2: "UG-233"
       type: "district"
+      type_es: "distrito"
       latitude: 1.1923861
       longitude: 33.8904092
       cities:
         []
     -
       name: "Buvuma"
+      native: "Buvuma"
       code: "120"
       iso3166_2: "UG-120"
       type: "district"
+      type_es: "distrito"
       latitude: -0.3113927
       longitude: 33.197806
       cities:
         []
     -
       name: "Buyende"
+      native: "Ring"
       code: "226"
       iso3166_2: "UG-226"
       type: "district"
+      type_es: "distrito"
       latitude: 1.235238
       longitude: 33.1703533
       cities:
         []
     -
       name: "Central"
+      native: "Central"
       code: "C"
       iso3166_2: "UG-C"
       type: "region"
+      type_es: "región"
       latitude: 2.2338712
       longitude: 32.9042139
       cities:
@@ -417,18 +481,22 @@
           longitude: 32.51222
     -
       name: "Dokolo"
+      native: "DOCTORY"
       code: "317"
       iso3166_2: "UG-317"
       type: "district"
+      type_es: "distrito"
       latitude: 1.9100822
       longitude: 33.0796335
       cities:
         []
     -
       name: "Eastern"
+      native: "Eastern"
       code: "E"
       iso3166_2: "UG-E"
       type: "region"
+      type_es: "región"
       latitude: 0.42323
       longitude: 33.1712651
       cities:
@@ -510,720 +578,880 @@
           longitude: 34.18085
     -
       name: "Gomba"
+      native: "Mushroom"
       code: "121"
       iso3166_2: "UG-121"
       type: "district"
+      type_es: "distrito"
       latitude: 0.2042663
       longitude: 31.7291772
       cities:
         []
     -
       name: "Gulu"
+      native: "Cavalry"
       code: "304"
       iso3166_2: "UG-304"
       type: "district"
+      type_es: "distrito"
       latitude: 2.770239
       longitude: 32.3044273
       cities:
         []
     -
       name: "Hoima"
+      native: "Hoima"
       code: "403"
       iso3166_2: "UG-403"
       type: "district"
+      type_es: "distrito"
       latitude: 1.5661927
       longitude: 31.1480968
       cities:
         []
     -
       name: "Ibanda"
+      native: "Ibanda"
       code: "417"
       iso3166_2: "UG-417"
       type: "district"
+      type_es: "distrito"
       latitude: -0.0612183
       longitude: 30.491616
       cities:
         []
     -
       name: "Iganga"
+      native: "Iganga"
       code: "203"
       iso3166_2: "UG-203"
       type: "district"
+      type_es: "distrito"
       latitude: 0.7221911
       longitude: 33.5016935
       cities:
         []
     -
       name: "Isingiro"
+      native: "Isingiro"
       code: "418"
       iso3166_2: "UG-418"
       type: "district"
+      type_es: "distrito"
       latitude: -0.8388695
       longitude: 30.9356559
       cities:
         []
     -
       name: "Jinja"
+      native: "Jinja"
       code: "204"
       iso3166_2: "UG-204"
       type: "district"
+      type_es: "distrito"
       latitude: 0.5751567
       longitude: 33.2805299
       cities:
         []
     -
       name: "Kaabong"
+      native: "Kaabong"
       code: "318"
       iso3166_2: "UG-318"
       type: "district"
+      type_es: "distrito"
       latitude: 3.6582061
       longitude: 34.2111234
       cities:
         []
     -
       name: "Kabale"
+      native: "Cabal"
       code: "404"
       iso3166_2: "UG-404"
       type: "district"
+      type_es: "distrito"
       latitude: -1.3359667
       longitude: 30.036886
       cities:
         []
     -
       name: "Kabarole"
+      native: "Kabarole"
       code: "405"
       iso3166_2: "UG-405"
       type: "district"
+      type_es: "distrito"
       latitude: 0.6212492
       longitude: 30.3525447
       cities:
         []
     -
       name: "Kaberamaido"
+      native: "Kaberamaido"
       code: "213"
       iso3166_2: "UG-213"
       type: "district"
+      type_es: "distrito"
       latitude: 1.6879674
       longitude: 33.1174888
       cities:
         []
     -
       name: "Kagadi"
+      native: "Kagadi"
       code: "427"
       iso3166_2: "UG-427"
       type: "district"
+      type_es: "distrito"
       latitude: 1.0229772
       longitude: 30.8330891
       cities:
         []
     -
       name: "Kakumiro"
+      native: "Kakumiro"
       code: "428"
       iso3166_2: "UG-428"
       type: "district"
+      type_es: "distrito"
       latitude: 0.9624932
       longitude: 31.2903789
       cities:
         []
     -
       name: "Kalaki"
+      native: "Kalaki"
       code: "237"
       iso3166_2: "UG-237"
       type: "district"
+      type_es: "distrito"
       latitude: 1.8327164
       longitude: 33.3540448
       cities:
         []
     -
       name: "Kalangala"
+      native: "Kalangala"
       code: "101"
       iso3166_2: "UG-101"
       type: "district"
+      type_es: "distrito"
       latitude: -0.6141908
       longitude: 32.375565
       cities:
         []
     -
       name: "Kaliro"
+      native: "Kaliro"
       code: "222"
       iso3166_2: "UG-222"
       type: "district"
+      type_es: "distrito"
       latitude: 1.0833677
       longitude: 33.4822171
       cities:
         []
     -
       name: "Kalungu"
+      native: "Kalungu"
       code: "122"
       iso3166_2: "UG-122"
       type: "district"
+      type_es: "distrito"
       latitude: -0.0913131
       longitude: 31.8106465
       cities:
         []
     -
       name: "Kampala"
+      native: "Kampala"
       code: "102"
       iso3166_2: "UG-102"
       type: "city"
+      type_es: "ciudad"
       latitude: 0.3177137
       longitude: 32.5813539
       cities:
         []
     -
       name: "Kamuli"
+      native: "Kamuli"
       code: "205"
       iso3166_2: "UG-205"
       type: "district"
+      type_es: "distrito"
       latitude: 0.9422474
       longitude: 33.1263004
       cities:
         []
     -
       name: "Kamwenge"
+      native: "Kamwenge"
       code: "413"
       iso3166_2: "UG-413"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3373317
       longitude: 30.6150555
       cities:
         []
     -
       name: "Kanungu"
+      native: "Kanungu"
       code: "414"
       iso3166_2: "UG-414"
       type: "district"
+      type_es: "distrito"
       latitude: -0.7063914
       longitude: 29.7142907
       cities:
         []
     -
       name: "Kapchorwa"
+      native: "Kapchorwa"
       code: "206"
       iso3166_2: "UG-206"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3350205
       longitude: 34.3976356
       cities:
         []
     -
       name: "Kapelebyong"
+      native: "Kapelebong"
       code: "236"
       iso3166_2: "UG-236"
       type: "district"
+      type_es: "distrito"
       latitude: 2.197082
       longitude: 33.7772633
       cities:
         []
     -
       name: "Karenga"
+      native: "Karenga"
       code: "335"
       iso3166_2: "UG-335"
       type: "district"
+      type_es: "distrito"
       latitude: 3.7095683
       longitude: 33.7716832
       cities:
         []
     -
       name: "Kasanda"
+      native: "Kasanda"
       code: "126"
       iso3166_2: "UG-126"
       type: "district"
+      type_es: "distrito"
       latitude: 0.556667
       longitude: 31.802222
       cities:
         []
     -
       name: "Kasese"
+      native: "Kasese"
       code: "406"
       iso3166_2: "UG-406"
       type: "district"
+      type_es: "distrito"
       latitude: 0.1310412
       longitude: 30.0047968
       cities:
         []
     -
       name: "Katakwi"
+      native: "Katakwi"
       code: "207"
       iso3166_2: "UG-207"
       type: "district"
+      type_es: "distrito"
       latitude: 1.973103
       longitude: 34.0641419
       cities:
         []
     -
       name: "Kayunga"
+      native: "Kayunga"
       code: "112"
       iso3166_2: "UG-112"
       type: "district"
+      type_es: "distrito"
       latitude: 0.9860182
       longitude: 32.8535755
       cities:
         []
     -
       name: "Kazo"
+      native: "A tree"
       code: "433"
       iso3166_2: "UG-433"
       type: "district"
+      type_es: "distrito"
       latitude: 0.0256055
       longitude: 30.77762
       cities:
         []
     -
       name: "Kibaale"
+      native: "Kibaale"
       code: "407"
       iso3166_2: "UG-407"
       type: "district"
+      type_es: "distrito"
       latitude: 0.790833
       longitude: 31.063333
       cities:
         []
     -
       name: "Kiboga"
+      native: "Kiboga"
       code: "103"
       iso3166_2: "UG-103"
       type: "district"
+      type_es: "distrito"
       latitude: 0.9148518
       longitude: 31.7508958
       cities:
         []
     -
       name: "Kibuku"
+      native: "Kibuku"
       code: "227"
       iso3166_2: "UG-227"
       type: "district"
+      type_es: "distrito"
       latitude: 1.0573754
       longitude: 33.8056152
       cities:
         []
     -
       name: "Kikuube"
+      native: "It's 100%"
       code: "432"
       iso3166_2: "UG-432"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3102875
       longitude: 31.0001724
       cities:
         []
     -
       name: "Kiruhura"
+      native: "KirUhura"
       code: "419"
       iso3166_2: "UG-419"
       type: "district"
+      type_es: "distrito"
       latitude: -0.3250908
       longitude: 30.8734599
       cities:
         []
     -
       name: "Kiryandongo"
+      native: "Kiryandongo"
       code: "421"
       iso3166_2: "UG-421"
       type: "district"
+      type_es: "distrito"
       latitude: 1.9935799
       longitude: 32.0498179
       cities:
         []
     -
       name: "Kisoro"
+      native: "Kisoro"
       code: "408"
       iso3166_2: "UG-408"
       type: "district"
+      type_es: "distrito"
       latitude: -1.1989612
       longitude: 29.6716975
       cities:
         []
     -
       name: "Kitagwenda"
+      native: "Kitagwenda"
       code: "434"
       iso3166_2: "UG-434"
       type: "district"
+      type_es: "distrito"
       latitude: 0.0136653
       longitude: 30.3217908
       cities:
         []
     -
       name: "Kitgum"
+      native: "Kitgum"
       code: "305"
       iso3166_2: "UG-305"
       type: "district"
+      type_es: "distrito"
       latitude: 3.4438845
       longitude: 33.4841172
       cities:
         []
     -
       name: "Koboko"
+      native: "Koboko"
       code: "319"
       iso3166_2: "UG-319"
       type: "district"
+      type_es: "distrito"
       latitude: 3.5351114
       longitude: 30.9848207
       cities:
         []
     -
       name: "Kole"
+      native: "Kole"
       code: "325"
       iso3166_2: "UG-325"
       type: "district"
+      type_es: "distrito"
       latitude: 2.2988158
       longitude: 32.7359522
       cities:
         []
     -
       name: "Kotido"
+      native: "Cotido"
       code: "306"
       iso3166_2: "UG-306"
       type: "district"
+      type_es: "distrito"
       latitude: 2.9951839
       longitude: 34.0342128
       cities:
         []
     -
       name: "Kumi"
+      native: "Kumi"
       code: "208"
       iso3166_2: "UG-208"
       type: "district"
+      type_es: "distrito"
       latitude: 1.4565401
       longitude: 33.9219127
       cities:
         []
     -
       name: "Kwania"
+      native: "For"
       code: "333"
       iso3166_2: "UG-333"
       type: "district"
+      type_es: "distrito"
       latitude: 1.9005531
       longitude: 32.7741986
       cities:
         []
     -
       name: "Kween"
+      native: "Kween"
       code: "228"
       iso3166_2: "UG-228"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3516649
       longitude: 34.5635807
       cities:
         []
     -
       name: "Kyankwanzi"
+      native: "Clean"
       code: "123"
       iso3166_2: "UG-123"
       type: "district"
+      type_es: "distrito"
       latitude: 1.093347
       longitude: 31.6813924
       cities:
         []
     -
       name: "Kyegegwa"
+      native: "Kyegegwa"
       code: "422"
       iso3166_2: "UG-422"
       type: "district"
+      type_es: "distrito"
       latitude: 0.4822132
       longitude: 31.0002048
       cities:
         []
     -
       name: "Kyenjojo"
+      native: "KYANJOJO"
       code: "415"
       iso3166_2: "UG-415"
       type: "district"
+      type_es: "distrito"
       latitude: 0.6440978
       longitude: 30.6565118
       cities:
         []
     -
       name: "Kyotera"
+      native: "Kyotera"
       code: "125"
       iso3166_2: "UG-125"
       type: "district"
+      type_es: "distrito"
       latitude: -0.7144702
       longitude: 31.6222137
       cities:
         []
     -
       name: "Lamwo"
+      native: "Lamwo"
       code: "326"
       iso3166_2: "UG-326"
       type: "district"
+      type_es: "distrito"
       latitude: 3.5248125
       longitude: 32.6576273
       cities:
         []
     -
       name: "Lira"
+      native: "Lira"
       code: "307"
       iso3166_2: "UG-307"
       type: "district"
+      type_es: "distrito"
       latitude: 2.2456918
       longitude: 32.896244
       cities:
         []
     -
       name: "Luuka"
+      native: "Bone"
       code: "229"
       iso3166_2: "UG-229"
       type: "district"
+      type_es: "distrito"
       latitude: 0.8199341
       longitude: 33.3268941
       cities:
         []
     -
       name: "Luwero"
+      native: "Seaweed"
       code: "104"
       iso3166_2: "UG-104"
       type: "district"
+      type_es: "distrito"
       latitude: 0.8409356
       longitude: 32.4935273
       cities:
         []
     -
       name: "Lwengo"
+      native: "Lwengo"
       code: "124"
       iso3166_2: "UG-124"
       type: "district"
+      type_es: "distrito"
       latitude: -0.4441181
       longitude: 31.3990187
       cities:
         []
     -
       name: "Lyantonde"
+      native: "Lyantonde"
       code: "114"
       iso3166_2: "UG-114"
       type: "district"
+      type_es: "distrito"
       latitude: -0.2595983
       longitude: 31.1836376
       cities:
         []
     -
       name: "Madi-Okollo"
+      native: "Madi-Ooklo"
       code: "336"
       iso3166_2: "UG-336"
       type: "district"
+      type_es: "distrito"
       latitude: 2.8674511
       longitude: 31.2383088
       cities:
         []
     -
       name: "Manafwa"
+      native: "Inhanish"
       code: "223"
       iso3166_2: "UG-223"
       type: "district"
+      type_es: "distrito"
       latitude: 0.8813468
       longitude: 34.2695507
       cities:
         []
     -
       name: "Maracha"
+      native: "Maracha"
       code: "320"
       iso3166_2: "UG-320"
       type: "district"
+      type_es: "distrito"
       latitude: 3.2478417
       longitude: 30.9279148
       cities:
         []
     -
       name: "Masaka"
+      native: "Masaka"
       code: "105"
       iso3166_2: "UG-105"
       type: "district"
+      type_es: "distrito"
       latitude: -0.483142
       longitude: 31.8318895
       cities:
         []
     -
       name: "Masindi"
+      native: "Masindi"
       code: "409"
       iso3166_2: "UG-409"
       type: "district"
+      type_es: "distrito"
       latitude: 1.6917534
       longitude: 31.7737524
       cities:
         []
     -
       name: "Mayuge"
+      native: "Mayuge"
       code: "214"
       iso3166_2: "UG-214"
       type: "district"
+      type_es: "distrito"
       latitude: -0.2058293
       longitude: 33.5894376
       cities:
         []
     -
       name: "Mbale"
+      native: "Dish"
       code: "209"
       iso3166_2: "UG-209"
       type: "district"
+      type_es: "distrito"
       latitude: 0.9765705
       longitude: 34.2021869
       cities:
         []
     -
       name: "Mbarara"
+      native: "Robbery"
       code: "410"
       iso3166_2: "UG-410"
       type: "district"
+      type_es: "distrito"
       latitude: -0.6071596
       longitude: 30.6545022
       cities:
         []
     -
       name: "Mitooma"
+      native: "Micooma"
       code: "423"
       iso3166_2: "UG-423"
       type: "district"
+      type_es: "distrito"
       latitude: -0.6059464
       longitude: 30.0077345
       cities:
         []
     -
       name: "Mityana"
+      native: "Mityana"
       code: "115"
       iso3166_2: "UG-115"
       type: "district"
+      type_es: "distrito"
       latitude: 0.4560686
       longitude: 32.0768024
       cities:
         []
     -
       name: "Moroto"
+      native: "Moroto"
       code: "308"
       iso3166_2: "UG-308"
       type: "district"
+      type_es: "distrito"
       latitude: 2.6156454
       longitude: 34.6399817
       cities:
         []
     -
       name: "Moyo"
+      native: "Moyo"
       code: "309"
       iso3166_2: "UG-309"
       type: "district"
+      type_es: "distrito"
       latitude: 3.6664665
       longitude: 31.7579511
       cities:
         []
     -
       name: "Mpigi"
+      native: "Mpigi"
       code: "106"
       iso3166_2: "UG-106"
       type: "district"
+      type_es: "distrito"
       latitude: 0.1273955
       longitude: 32.2527517
       cities:
         []
     -
       name: "Mubende"
+      native: "The Valley"
       code: "107"
       iso3166_2: "UG-107"
       type: "district"
+      type_es: "distrito"
       latitude: 0.5154279
       longitude: 31.4095476
       cities:
         []
     -
       name: "Mukono"
+      native: "Mukono"
       code: "108"
       iso3166_2: "UG-108"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3608991
       longitude: 32.7446599
       cities:
         []
     -
       name: "Nabilatuk"
+      native: "Nabilatuk"
       code: "334"
       iso3166_2: "UG-334"
       type: "district"
+      type_es: "distrito"
       latitude: 2.0383666
       longitude: 34.5847125
       cities:
         []
     -
       name: "Nakapiripirit"
+      native: "Nakapiripirit Nakapiripirit"
       code: "311"
       iso3166_2: "UG-311"
       type: "district"
+      type_es: "distrito"
       latitude: 1.8489913
       longitude: 34.6425478
       cities:
         []
     -
       name: "Nakaseke"
+      native: "Nakaseke"
       code: "116"
       iso3166_2: "UG-116"
       type: "district"
+      type_es: "distrito"
       latitude: 1.0022373
       longitude: 32.1758087
       cities:
         []
     -
       name: "Nakasongola"
+      native: "Nakasongola"
       code: "109"
       iso3166_2: "UG-109"
       type: "district"
+      type_es: "distrito"
       latitude: 1.3204358
       longitude: 32.4894347
       cities:
         []
     -
       name: "Namayingo"
+      native: "Namayingo"
       code: "230"
       iso3166_2: "UG-230"
       type: "district"
+      type_es: "distrito"
       latitude: -0.2478787
       longitude: 33.8114802
       cities:
         []
     -
       name: "Namisindwa"
+      native: "Namisindwa"
       code: "234"
       iso3166_2: "UG-234"
       type: "district"
+      type_es: "distrito"
       latitude: 0.8678396
       longitude: 34.3831407
       cities:
         []
     -
       name: "Namutumba"
+      native: "Namutumba"
       code: "224"
       iso3166_2: "UG-224"
       type: "district"
+      type_es: "distrito"
       latitude: 0.8869852
       longitude: 33.6653494
       cities:
         []
     -
       name: "Napak"
+      native: "Mistakes"
       code: "327"
       iso3166_2: "UG-327"
       type: "district"
+      type_es: "distrito"
       latitude: 2.3981727
       longitude: 34.1718785
       cities:
         []
     -
       name: "Nebbi"
+      native: "Nebbi"
       code: "310"
       iso3166_2: "UG-310"
       type: "district"
+      type_es: "distrito"
       latitude: 2.4329406
       longitude: 31.1619888
       cities:
         []
     -
       name: "Ngora"
+      native: "Ngora"
       code: "231"
       iso3166_2: "UG-231"
       type: "district"
+      type_es: "distrito"
       latitude: 1.4988837
       longitude: 33.7729298
       cities:
         []
     -
       name: "Northern"
+      native: "Northern"
       code: "N"
       iso3166_2: "UG-N"
       type: "region"
+      type_es: "región"
       latitude: 2.797198
       longitude: 32.2643949
       cities:
@@ -1297,216 +1525,264 @@
           longitude: 31.24689
     -
       name: "Ntoroko"
+      native: "Nghoroko"
       code: "424"
       iso3166_2: "UG-424"
       type: "district"
+      type_es: "distrito"
       latitude: 0.991574
       longitude: 30.3849572
       cities:
         []
     -
       name: "Ntungamo"
+      native: "Ntungamo"
       code: "411"
       iso3166_2: "UG-411"
       type: "district"
+      type_es: "distrito"
       latitude: -0.955093
       longitude: 30.3023928
       cities:
         []
     -
       name: "Nwoya"
+      native: "Nwoya"
       code: "328"
       iso3166_2: "UG-328"
       type: "district"
+      type_es: "distrito"
       latitude: 2.5276248
       longitude: 31.8700356
       cities:
         []
     -
       name: "Obongi"
+      native: "You are right"
       code: "337"
       iso3166_2: "UG-337"
       type: "district"
+      type_es: "distrito"
       latitude: 3.3635594
       longitude: 31.5368264
       cities:
         []
     -
       name: "Omoro"
+      native: "Omoro"
       code: "331"
       iso3166_2: "UG-331"
       type: "district"
+      type_es: "distrito"
       latitude: 2.6443448
       longitude: 32.4975342
       cities:
         []
     -
       name: "Otuke"
+      native: "Otuke"
       code: "329"
       iso3166_2: "UG-329"
       type: "district"
+      type_es: "distrito"
       latitude: 2.4784334
       longitude: 33.3933563
       cities:
         []
     -
       name: "Oyam"
+      native: "Oyam"
       code: "321"
       iso3166_2: "UG-321"
       type: "district"
+      type_es: "distrito"
       latitude: 2.3489345
       longitude: 32.423386
       cities:
         []
     -
       name: "Pader"
+      native: "Wall"
       code: "312"
       iso3166_2: "UG-312"
       type: "district"
+      type_es: "distrito"
       latitude: 2.8876024
       longitude: 32.8962856
       cities:
         []
     -
       name: "Pakwach"
+      native: "Pakwach"
       code: "332"
       iso3166_2: "UG-332"
       type: "district"
+      type_es: "distrito"
       latitude: 2.4607141
       longitude: 31.4941738
       cities:
         []
     -
       name: "Pallisa"
+      native: "Pallisa"
       code: "210"
       iso3166_2: "UG-210"
       type: "district"
+      type_es: "distrito"
       latitude: 1.2200724
       longitude: 33.691487
       cities:
         []
     -
       name: "Rakai"
+      native: "Rakai"
       code: "110"
       iso3166_2: "UG-110"
       type: "district"
+      type_es: "distrito"
       latitude: -0.7264163
       longitude: 31.3400835
       cities:
         []
     -
       name: "Rubanda"
+      native: "Public"
       code: "429"
       iso3166_2: "UG-429"
       type: "district"
+      type_es: "distrito"
       latitude: -1.1732021
       longitude: 29.900338
       cities:
         []
     -
       name: "Rubirizi"
+      native: "Rubirizi"
       code: "425"
       iso3166_2: "UG-425"
       type: "district"
+      type_es: "distrito"
       latitude: -0.2557913
       longitude: 29.9365
       cities:
         []
     -
       name: "Rukiga"
+      native: "Rukiga"
       code: "431"
       iso3166_2: "UG-431"
       type: "district"
+      type_es: "distrito"
       latitude: -1.1454807
       longitude: 30.052485
       cities:
         []
     -
       name: "Rukungiri"
+      native: "Rukungiri"
       code: "412"
       iso3166_2: "UG-412"
       type: "district"
+      type_es: "distrito"
       latitude: -0.697403
       longitude: 29.8917364
       cities:
         []
     -
       name: "Rwampara"
+      native: "Rwampara"
       code: "435"
       iso3166_2: "UG-435"
       type: "district"
+      type_es: "distrito"
       latitude: -0.7350309
       longitude: 30.4609131
       cities:
         []
     -
       name: "Sembabule"
+      native: "Sembabule"
       code: "111"
       iso3166_2: "UG-111"
       type: "district"
+      type_es: "distrito"
       latitude: -0.0536792
       longitude: 31.4101459
       cities:
         []
     -
       name: "Serere"
+      native: "Serene"
       code: "232"
       iso3166_2: "UG-232"
       type: "district"
+      type_es: "distrito"
       latitude: 1.4916989
       longitude: 33.3568368
       cities:
         []
     -
       name: "Sheema"
+      native: "Sheema"
       code: "426"
       iso3166_2: "UG-426"
       type: "district"
+      type_es: "distrito"
       latitude: -0.591872
       longitude: 30.3740417
       cities:
         []
     -
       name: "Sironko"
+      native: "Sironko"
       code: "215"
       iso3166_2: "UG-215"
       type: "district"
+      type_es: "distrito"
       latitude: 1.1885535
       longitude: 34.2950674
       cities:
         []
     -
       name: "Soroti"
+      native: "Soroti"
       code: "211"
       iso3166_2: "UG-211"
       type: "district"
+      type_es: "distrito"
       latitude: 1.7879059
       longitude: 33.5007314
       cities:
         []
     -
       name: "Tororo"
+      native: "Tororo"
       code: "212"
       iso3166_2: "UG-212"
       type: "district"
+      type_es: "distrito"
       latitude: 0.7407421
       longitude: 34.1026862
       cities:
         []
     -
       name: "Wakiso"
+      native: "Wakiso"
       code: "113"
       iso3166_2: "UG-113"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3760928
       longitude: 32.4561265
       cities:
         []
     -
       name: "Western"
+      native: "Western"
       code: "W"
       iso3166_2: "UG-W"
       type: "region"
+      type_es: "región"
       latitude: -0.3561521
       longitude: 31.550256
       cities:
@@ -1612,18 +1888,22 @@
           longitude: 29.94194
     -
       name: "Yumbe"
+      native: "Hello"
       code: "313"
       iso3166_2: "UG-313"
       type: "district"
+      type_es: "distrito"
       latitude: 3.4914106
       longitude: 31.2859149
       cities:
         []
     -
       name: "Zombo"
+      native: "Vertical"
       code: "330"
       iso3166_2: "UG-330"
       type: "district"
+      type_es: "distrito"
       latitude: 2.5251164
       longitude: 30.8897323
       cities:

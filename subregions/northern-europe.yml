@@ -12,70 +12,86 @@
   currency_symbol: "€"
   tld: ".ax"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 60.116667
   longitude: 19.9
   emoji: "🇦🇽"
   states:
     -
       name: "Brändö"
+      native: "Brändö"
       code: "12"
       iso3166_2: "AX-12"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.4135873
       longitude: 21.0440498
       cities:
         []
     -
       name: "Eckerö"
+      native: "Eckerö"
       code: "08"
       iso3166_2: "AX-08"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2231814
       longitude: 19.5389379
       cities:
         []
     -
       name: "Finström"
+      native: "Finström"
       code: "03"
       iso3166_2: "AX-03"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2310519
       longitude: 19.9867259
       cities:
         []
     -
       name: "Föglö"
+      native: "Föglö"
       code: "09"
       iso3166_2: "AX-09"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.0107325
       longitude: 20.4246997
       cities:
         []
     -
       name: "Geta"
+      native: "Geta"
       code: "10"
       iso3166_2: "AX-10"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.3740157
       longitude: 19.8498128
       cities:
         []
     -
       name: "Hammarland"
+      native: "Hammarland"
       code: "06"
       iso3166_2: "AX-06"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2196758
       longitude: 19.7378481
       cities:
         []
     -
       name: "Jomala"
+      native: "Jomala"
       code: "02"
       iso3166_2: "AX-02"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.1522947
       longitude: 19.9489144
       cities:
@@ -125,45 +141,55 @@
           longitude: 20.01667
     -
       name: "Kökar"
+      native: "Kökar"
       code: "15"
       iso3166_2: "AX-15"
       type: "municipality"
+      type_es: "municipio"
       latitude: 59.9211709
       longitude: 20.9103514
       cities:
         []
     -
       name: "Kumlinge"
+      native: "Kumlinge"
       code: "14"
       iso3166_2: "AX-14"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2587693
       longitude: 20.7782292
       cities:
         []
     -
       name: "Lemland"
+      native: "Lemland"
       code: "04"
       iso3166_2: "AX-04"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.0690169
       longitude: 20.0860081
       cities:
         []
     -
       name: "Lumparland"
+      native: "Lumparland"
       code: "13"
       iso3166_2: "AX-13"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.1168385
       longitude: 20.2610583
       cities:
         []
     -
       name: "Mariehamn"
+      native: "Mariehamn"
       code: "01"
       iso3166_2: "AX-01"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.102423
       longitude: 19.94126
       cities:
@@ -173,36 +199,44 @@
           longitude: 19.93481
     -
       name: "Saltvik"
+      native: "Saltvik"
       code: "05"
       iso3166_2: "AX-05"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2755756
       longitude: 20.0612065
       cities:
         []
     -
       name: "Sottunga"
+      native: "Sot"
       code: "16"
       iso3166_2: "AX-16"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.1307977
       longitude: 20.6459821
       cities:
         []
     -
       name: "Sund"
+      native: "Hälsosam"
       code: "07"
       iso3166_2: "AX-07"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2530332
       longitude: 20.1198637
       cities:
         []
     -
       name: "Vårdö"
+      native: "Vårdö"
       code: "11"
       iso3166_2: "AX-11"
       type: "municipality"
+      type_es: "municipio"
       latitude: 60.2421692
       longitude: 20.3744261
       cities:
@@ -221,16 +255,20 @@
   currency_symbol: "Kr."
   tld: ".dk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 56
   longitude: 10
   emoji: "🇩🇰"
   states:
     -
       name: "Central Denmark"
+      native: "Central Danmark"
       code: "82"
       iso3166_2: "DK-82"
       type: "region"
+      type_es: "región"
       latitude: 56.2356483
       longitude: 9.234625
       cities:
@@ -616,9 +654,11 @@
           longitude: 9.55582
     -
       name: "Denmark"
+      native: "Danmark"
       code: "84"
       iso3166_2: "DK-84"
       type: "region"
+      type_es: "región"
       latitude: 55.670249
       longitude: 10.3333283
       cities:
@@ -972,9 +1012,11 @@
           longitude: 12.23837
     -
       name: "North Denmark"
+      native: "North Danmark"
       code: "81"
       iso3166_2: "DK-81"
       type: "region"
+      type_es: "región"
       latitude: 56.8152793
       longitude: 9.7273308
       cities:
@@ -1204,9 +1246,11 @@
           longitude: 9.94176
     -
       name: "Southern Denmark"
+      native: "Sydlige Danmark"
       code: "83"
       iso3166_2: "DK-83"
       type: "region"
+      type_es: "región"
       latitude: 55.3784263
       longitude: 9.1318064
       cities:
@@ -1648,9 +1692,11 @@
           longitude: 9.30603
     -
       name: "Zealand"
+      native: "Zealand"
       code: "85"
       iso3166_2: "DK-85"
       type: "region"
+      type_es: "región"
       latitude: 55.5455979
       longitude: 11.6973741
       cities:
@@ -2000,79 +2046,97 @@
   currency_symbol: "€"
   tld: ".ee"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 59
   longitude: 26
   emoji: "🇪🇪"
   states:
     -
       name: "Alutaguse"
+      native: "Alutaguse"
       code: "130"
       iso3166_2: "EE-130"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1167
       longitude: 27.45
       cities:
         []
     -
       name: "Anija"
+      native: "Anija"
       code: "141"
       iso3166_2: "EE-141"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3167
       longitude: 25.3667
       cities:
         []
     -
       name: "Antsla"
+      native: "Antsla"
       code: "142"
       iso3166_2: "EE-142"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.8333
       longitude: 26.5333
       cities:
         []
     -
       name: "Elva"
+      native: "Elva"
       code: "171"
       iso3166_2: "EE-171"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.225
       longitude: 26.4169
       cities:
         []
     -
       name: "Häädemeeste"
+      native: "Häädemeeste"
       code: "214"
       iso3166_2: "EE-214"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0667
       longitude: 24.4833
       cities:
         []
     -
       name: "Haapsalu"
+      native: "Haapsalu"
       code: "184"
       iso3166_2: "EE-184"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.9433
       longitude: 23.5419
       cities:
         []
     -
       name: "Haljala"
+      native: "Haljala"
       code: "191"
       iso3166_2: "EE-191"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.45
       longitude: 26.3167
       cities:
         []
     -
       name: "Harju"
+      native: "Harju"
       code: "37"
       iso3166_2: "EE-37"
       type: "county"
+      type_es: "condado"
       latitude: 58.9529979
       longitude: 22.8981063
       cities:
@@ -2218,18 +2282,22 @@
           longitude: 24.84833
     -
       name: "Harku"
+      native: "Harku"
       code: "198"
       iso3166_2: "EE-198"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3903
       longitude: 24.5697
       cities:
         []
     -
       name: "Hiiu"
+      native: "Hiiu"
       code: "39"
       iso3166_2: "EE-39"
       type: "county"
+      type_es: "condado"
       latitude: 59.3830236
       longitude: 24.6703848
       cities:
@@ -2239,18 +2307,22 @@
           longitude: 22.74917
     -
       name: "Hiiumaa"
+      native: "Hiiumaa"
       code: "205"
       iso3166_2: "EE-205"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.9167
       longitude: 22.6
       cities:
         []
     -
       name: "Ida-Viru"
+      native: "Ida-Viru"
       code: "45"
       iso3166_2: "EE-45"
       type: "county"
+      type_es: "condado"
       latitude: 59.219803
       longitude: 27.3905162
       cities:
@@ -2312,9 +2384,11 @@
           longitude: 27.58263
     -
       name: "Järva"
+      native: "Järva"
       code: "52"
       iso3166_2: "EE-52"
       type: "county"
+      type_es: "condado"
       latitude: 58.4133357
       longitude: 24.647735
       cities:
@@ -2348,27 +2422,33 @@
           longitude: 25.46443
     -
       name: "Järva"
+      native: "Järva"
       code: "255"
       iso3166_2: "EE-255"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59
       longitude: 25.8667
       cities:
         []
     -
       name: "Joelähtme"
+      native: "Joelähtme"
       code: "245"
       iso3166_2: "EE-245"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.4667
       longitude: 25.1
       cities:
         []
     -
       name: "Jõgeva"
+      native: "Jõgeva"
       code: "50"
       iso3166_2: "EE-50"
       type: "county"
+      type_es: "condado"
       latitude: 58.7441059
       longitude: 26.3872444
       cities:
@@ -2394,135 +2474,165 @@
           longitude: 26.00957
     -
       name: "Jõgeva"
+      native: "Jõgeva"
       code: "247"
       iso3166_2: "EE-247"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.75
       longitude: 26.3833
       cities:
         []
     -
       name: "Jõhvi"
+      native: "Jõhvi"
       code: "251"
       iso3166_2: "EE-251"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3583
       longitude: 27.4233
       cities:
         []
     -
       name: "Kadrina"
+      native: "Kadrina"
       code: "272"
       iso3166_2: "EE-272"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3333
       longitude: 26.1333
       cities:
         []
     -
       name: "Kambja"
+      native: "Kambja"
       code: "283"
       iso3166_2: "EE-283"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.2667
       longitude: 26.6833
       cities:
         []
     -
       name: "Kanepi"
+      native: "Kanepi"
       code: "284"
       iso3166_2: "EE-284"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58
       longitude: 26.9
       cities:
         []
     -
       name: "Kastre"
+      native: "Kastre"
       code: "291"
       iso3166_2: "EE-291"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.3167
       longitude: 26.7833
       cities:
         []
     -
       name: "Kehtna"
+      native: "Kehtna"
       code: "293"
       iso3166_2: "EE-293"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.9333
       longitude: 24.8833
       cities:
         []
     -
       name: "Keila"
+      native: "Keila"
       code: "296"
       iso3166_2: "EE-296"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3036
       longitude: 24.4211
       cities:
         []
     -
       name: "Kihnu"
+      native: "Kihnu"
       code: "303"
       iso3166_2: "EE-303"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.15
       longitude: 24
       cities:
         []
     -
       name: "Kiili"
+      native: "Kiili"
       code: "305"
       iso3166_2: "EE-305"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3
       longitude: 24.8667
       cities:
         []
     -
       name: "Kohila"
+      native: "Kohila"
       code: "317"
       iso3166_2: "EE-317"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1667
       longitude: 24.7667
       cities:
         []
     -
       name: "Kohtla-Järve"
+      native: "Kohtla-Järve"
       code: "321"
       iso3166_2: "EE-321"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3983
       longitude: 27.2731
       cities:
         []
     -
       name: "Kose"
+      native: "Kose"
       code: "338"
       iso3166_2: "EE-338"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1833
       longitude: 25.1667
       cities:
         []
     -
       name: "Kuusalu"
+      native: "Kuusalu"
       code: "353"
       iso3166_2: "EE-353"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.4333
       longitude: 25.45
       cities:
         []
     -
       name: "Lääne"
+      native: "Lääne"
       code: "56"
       iso3166_2: "EE-56"
       type: "county"
+      type_es: "condado"
       latitude: 58.674124
       longitude: 25.8106102
       cities:
@@ -2556,27 +2666,33 @@
           longitude: 23.23408
     -
       name: "Lääne-Harju"
+      native: "Lääne-Harju"
       code: "430"
       iso3166_2: "EE-430"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3833
       longitude: 24.1833
       cities:
         []
     -
       name: "Lääne-Nigula"
+      native: "Lääne-Nigula"
       code: "441"
       iso3166_2: "EE-441"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8667
       longitude: 23.7833
       cities:
         []
     -
       name: "Lääne-Viru"
+      native: "Lääne-Viru"
       code: "60"
       iso3166_2: "EE-60"
       type: "county"
+      type_es: "condado"
       latitude: 59.4075666
       longitude: 26.309987
       cities:
@@ -2662,135 +2778,165 @@
           longitude: 26.58585
     -
       name: "Lääneranna"
+      native: "Lääneranna"
       code: "431"
       iso3166_2: "EE-431"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.5333
       longitude: 24.1
       cities:
         []
     -
       name: "Loksa"
+      native: "Loksa"
       code: "424"
       iso3166_2: "EE-424"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.5764
       longitude: 25.7217
       cities:
         []
     -
       name: "Lüganuse"
+      native: "Lüganuse"
       code: "442"
       iso3166_2: "EE-442"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 27.15
       cities:
         []
     -
       name: "Luunja"
+      native: "Luunja"
       code: "432"
       iso3166_2: "EE-432"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.3833
       longitude: 26.9167
       cities:
         []
     -
       name: "Maardu"
+      native: "Maardu"
       code: "446"
       iso3166_2: "EE-446"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.4653
       longitude: 25.0144
       cities:
         []
     -
       name: "Märjamaa"
+      native: "Märjamaa"
       code: "503"
       iso3166_2: "EE-503"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8833
       longitude: 24.4667
       cities:
         []
     -
       name: "Muhu"
+      native: "Muhu"
       code: "478"
       iso3166_2: "EE-478"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.6
       longitude: 23.25
       cities:
         []
     -
       name: "Mulgi"
+      native: "Mulgi"
       code: "480"
       iso3166_2: "EE-480"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.1
       longitude: 25.5
       cities:
         []
     -
       name: "Mustvee"
+      native: "Mustvee"
       code: "486"
       iso3166_2: "EE-486"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.85
       longitude: 26.9333
       cities:
         []
     -
       name: "Narva"
+      native: "Narva"
       code: "511"
       iso3166_2: "EE-511"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3772
       longitude: 28.1903
       cities:
         []
     -
       name: "Narva-Jõesuu"
+      native: "Narva-Jõesuu"
       code: "514"
       iso3166_2: "EE-514"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.4539
       longitude: 28.0394
       cities:
         []
     -
       name: "Noo"
+      native: "Noo"
       code: "528"
       iso3166_2: "EE-528"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.2833
       longitude: 26.55
       cities:
         []
     -
       name: "Otepää"
+      native: "Otepää"
       code: "557"
       iso3166_2: "EE-557"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0667
       longitude: 26.5
       cities:
         []
     -
       name: "Paide"
+      native: "Paide"
       code: "567"
       iso3166_2: "EE-567"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.8856
       longitude: 25.5569
       cities:
         []
     -
       name: "Pärnu"
+      native: "Pärnu"
       code: "68"
       iso3166_2: "EE-68"
       type: "county"
+      type_es: "condado"
       latitude: 58.3870833
       longitude: 24.502831
       cities:
@@ -2860,63 +3006,77 @@
           longitude: 25.03611
     -
       name: "Pärnu"
+      native: "Pärnu"
       code: "624"
       iso3166_2: "EE-624"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.3806
       longitude: 24.4989
       cities:
         []
     -
       name: "Peipsiääre"
+      native: "Peipsiääre"
       code: "586"
       iso3166_2: "EE-586"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.6667
       longitude: 27.4167
       cities:
         []
     -
       name: "Põhja-Pärnu"
+      native: "Põhja-Pärnu"
       code: "638"
       iso3166_2: "EE-638"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8333
       longitude: 24.4167
       cities:
         []
     -
       name: "Põhja-Sakala"
+      native: "Põhja-Sakala"
       code: "615"
       iso3166_2: "EE-615"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.4833
       longitude: 25.5333
       cities:
         []
     -
       name: "Poltsamaa"
+      native: "Poltsamaa"
       code: "618"
       iso3166_2: "EE-618"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.65
       longitude: 25.9667
       cities:
         []
     -
       name: "Põlva"
+      native: "Põlva"
       code: "622"
       iso3166_2: "EE-622"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0667
       longitude: 27.05
       cities:
         []
     -
       name: "Põlva"
+      native: "Põlva"
       code: "64"
       iso3166_2: "EE-64"
       type: "county"
+      type_es: "condado"
       latitude: 58.1694924
       longitude: 27.1567066
       cities:
@@ -2946,63 +3106,77 @@
           longitude: 27.3858
     -
       name: "Raasiku"
+      native: "Raasiku"
       code: "651"
       iso3166_2: "EE-651"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 25.1833
       cities:
         []
     -
       name: "Rae"
+      native: "Rae"
       code: "653"
       iso3166_2: "EE-653"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 24.9667
       cities:
         []
     -
       name: "Rakvere"
+      native: "Rakvere"
       code: "663"
       iso3166_2: "EE-663"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.347
       longitude: 26.3558
       cities:
         []
     -
       name: "Rakvere"
+      native: "Rakvere"
       code: "661"
       iso3166_2: "EE-661"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.347
       longitude: 26.3558
       cities:
         []
     -
       name: "Räpina"
+      native: "Räpina"
       code: "708"
       iso3166_2: "EE-708"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.0983
       longitude: 27.4639
       cities:
         []
     -
       name: "Rapla"
+      native: "Rapla"
       code: "668"
       iso3166_2: "EE-668"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.9833
       longitude: 24.8
       cities:
         []
     -
       name: "Rapla"
+      native: "Rapla"
       code: "71"
       iso3166_2: "EE-71"
       type: "county"
+      type_es: "condado"
       latitude: 58.9419781
       longitude: 24.6984042
       cities:
@@ -3044,36 +3218,44 @@
           longitude: 24.71793
     -
       name: "Rõuge"
+      native: "Rõuge"
       code: "698"
       iso3166_2: "EE-698"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.7667
       longitude: 27.0333
       cities:
         []
     -
       name: "Ruhnu"
+      native: "Ruhnu"
       code: "689"
       iso3166_2: "EE-689"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.8
       longitude: 23.2667
       cities:
         []
     -
       name: "Saarde"
+      native: "Saarde"
       code: "712"
       iso3166_2: "EE-712"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.25
       longitude: 24.6667
       cities:
         []
     -
       name: "Saare"
+      native: "Saare"
       code: "74"
       iso3166_2: "EE-74"
       type: "county"
+      type_es: "condado"
       latitude: 58.3697219
       longitude: 23.8358031
       cities:
@@ -3107,81 +3289,99 @@
           longitude: 22.24646
     -
       name: "Saaremaa"
+      native: "Saaremaa"
       code: "714"
       iso3166_2: "EE-714"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.4167
       longitude: 22.5
       cities:
         []
     -
       name: "Saku"
+      native: "Saku"
       code: "719"
       iso3166_2: "EE-719"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.2833
       longitude: 24.6667
       cities:
         []
     -
       name: "Saue"
+      native: "Saue"
       code: "726"
       iso3166_2: "EE-726"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3167
       longitude: 24.55
       cities:
         []
     -
       name: "Setomaa"
+      native: "Setomaa"
       code: "732"
       iso3166_2: "EE-732"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.7
       longitude: 27.6333
       cities:
         []
     -
       name: "Sillamäe"
+      native: "Sillamäe"
       code: "735"
       iso3166_2: "EE-735"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.3969
       longitude: 27.7631
       cities:
         []
     -
       name: "Tallinn"
+      native: "Tallinn"
       code: "784"
       iso3166_2: "EE-784"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 59.437
       longitude: 24.7536
       cities:
         []
     -
       name: "Tapa"
+      native: "Tapa"
       code: "792"
       iso3166_2: "EE-792"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.2667
       longitude: 26.0333
       cities:
         []
     -
       name: "Tartu"
+      native: "Tartu"
       code: "793"
       iso3166_2: "EE-793"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.378
       longitude: 26.729
       cities:
         []
     -
       name: "Tartu"
+      native: "Tartu"
       code: "79"
       iso3166_2: "EE-79"
       type: "county"
+      type_es: "condado"
       latitude: 58.3801207
       longitude: 26.72245
       cities:
@@ -3251,72 +3451,88 @@
           longitude: 26.72517
     -
       name: "Tartu"
+      native: "Tartu"
       code: "796"
       iso3166_2: "EE-796"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.378
       longitude: 26.729
       cities:
         []
     -
       name: "Toila"
+      native: "Toila"
       code: "803"
       iso3166_2: "EE-803"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.4167
       longitude: 27.5167
       cities:
         []
     -
       name: "Tori"
+      native: "Tori"
       code: "809"
       iso3166_2: "EE-809"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.4833
       longitude: 24.8167
       cities:
         []
     -
       name: "Tõrva"
+      native: "Tõrva"
       code: "824"
       iso3166_2: "EE-824"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58
       longitude: 25.9333
       cities:
         []
     -
       name: "Türi"
+      native: "Türi"
       code: "834"
       iso3166_2: "EE-834"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.8083
       longitude: 25.4333
       cities:
         []
     -
       name: "Väike-Maarja"
+      native: "Väike-Maarja"
       code: "928"
       iso3166_2: "EE-928"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.1333
       longitude: 26.25
       cities:
         []
     -
       name: "Valga"
+      native: "Valga"
       code: "855"
       iso3166_2: "EE-855"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.7833
       longitude: 26.05
       cities:
         []
     -
       name: "Valga"
+      native: "Valga"
       code: "81"
       iso3166_2: "EE-81"
       type: "county"
+      type_es: "condado"
       latitude: 57.777034
       longitude: 26.0315628
       cities:
@@ -3334,27 +3550,33 @@
           longitude: 26.0473
     -
       name: "Viimsi"
+      native: "Viimsi"
       code: "890"
       iso3166_2: "EE-890"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.5
       longitude: 24.8167
       cities:
         []
     -
       name: "Viljandi"
+      native: "Viljandi"
       code: "897"
       iso3166_2: "EE-897"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 58.3639
       longitude: 25.59
       cities:
         []
     -
       name: "Viljandi"
+      native: "Viljandi"
       code: "84"
       iso3166_2: "EE-84"
       type: "county"
+      type_es: "condado"
       latitude: 58.36454
       longitude: 25.5878074
       cities:
@@ -3392,54 +3614,66 @@
           longitude: 25.54833
     -
       name: "Viljandi"
+      native: "Viljandi"
       code: "899"
       iso3166_2: "EE-899"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 58.3639
       longitude: 25.59
       cities:
         []
     -
       name: "Vinni"
+      native: "Vinni"
       code: "901"
       iso3166_2: "EE-901"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.35
       longitude: 26.4333
       cities:
         []
     -
       name: "Viru-Nigula"
+      native: "Viru-Nigula"
       code: "903"
       iso3166_2: "EE-903"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59.3667
       longitude: 26.8333
       cities:
         []
     -
       name: "Vormsi"
+      native: "Vormsi"
       code: "907"
       iso3166_2: "EE-907"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 59
       longitude: 23.0167
       cities:
         []
     -
       name: "Võru"
+      native: "Võru"
       code: "917"
       iso3166_2: "EE-917"
       type: "rural municipality"
+      type_es: "municipio rural"
       latitude: 57.8431
       longitude: 27.0142
       cities:
         []
     -
       name: "Võru"
+      native: "Võru"
       code: "87"
       iso3166_2: "EE-87"
       type: "county"
+      type_es: "condado"
       latitude: 57.8132607
       longitude: 26.9847576
       cities:
@@ -3477,9 +3711,11 @@
           longitude: 26.97418
     -
       name: "Võru"
+      native: "Võru"
       code: "919"
       iso3166_2: "EE-919"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 57.8431
       longitude: 27.0142
       cities:
@@ -3498,16 +3734,20 @@
   currency_symbol: "Kr."
   tld: ".fo"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 62
   longitude: -7
   emoji: "🇫🇴"
   states:
     -
       name: "Eysturoy"
+      native: "Eysturoy"
       code: "EY"
       iso3166_2: "FO-EY"
       type: "region"
+      type_es: "región"
       latitude: 62.1988704
       longitude: -6.8178451
       cities:
@@ -3537,9 +3777,11 @@
           longitude: -6.8765
     -
       name: "Northern Isles"
+      native: "Northern Isles"
       code: "NO"
       iso3166_2: "FO-NO"
       type: "region"
+      type_es: "región"
       latitude: 62.2805689
       longitude: 6.7017061
       cities:
@@ -3557,9 +3799,11 @@
           longitude: -6.8901
     -
       name: "Sandoy"
+      native: "Sandoy"
       code: "SA"
       iso3166_2: "FO-SA"
       type: "region"
+      type_es: "región"
       latitude: 61.8333877
       longitude: -6.7239899
       cities:
@@ -3585,9 +3829,11 @@
           longitude: -6.826962
     -
       name: "Streymoy"
+      native: "Streymoy"
       code: "ST"
       iso3166_2: "FO-ST"
       type: "region"
+      type_es: "región"
       latitude: 62.1237192
       longitude: -7.0158828
       cities:
@@ -3609,9 +3855,11 @@
           longitude: -7.2345
     -
       name: "Suðuroy"
+      native: "Suðuroy"
       code: "SU"
       iso3166_2: "FO-SU"
       type: "region"
+      type_es: "región"
       latitude: 61.5210651
       longitude: -6.8141866
       cities:
@@ -3645,9 +3893,11 @@
           longitude: -6.8101
     -
       name: "Vágar"
+      native: "Vágar"
       code: "VA"
       iso3166_2: "FO-VA"
       type: "region"
+      type_es: "región"
       latitude: 62.0898985
       longitude: -7.2345841
       cities:
@@ -3673,16 +3923,20 @@
   currency_symbol: "€"
   tld: ".fi"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 64
   longitude: 26
   emoji: "🇫🇮"
   states:
     -
       name: "Central Finland"
+      native: "Suomen keskus"
       code: "08"
       iso3166_2: "FI-08"
       type: "region"
+      type_es: "región"
       latitude: 62.6093658
       longitude: 25.579461
       cities:
@@ -3808,9 +4062,11 @@
           longitude: 25.86667
     -
       name: "Central Ostrobothnia"
+      native: "Keskeinen ostrobothnia"
       code: "07"
       iso3166_2: "FI-07"
       type: "region"
+      type_es: "región"
       latitude: 63.6476557
       longitude: 24.1114113
       cities:
@@ -3860,9 +4116,11 @@
           longitude: 23.78285
     -
       name: "Finland Proper"
+      native: "Suomi"
       code: "19"
       iso3166_2: "FI-19"
       type: "region"
+      type_es: "región"
       latitude: 60.3036113
       longitude: 22.4113084
       cities:
@@ -4080,9 +4338,11 @@
           longitude: 22.41667
     -
       name: "Kainuu"
+      native: "Kainuu"
       code: "05"
       iso3166_2: "FI-05"
       type: "region"
+      type_es: "región"
       latitude: 64.5946354
       longitude: 28.6810524
       cities:
@@ -4132,9 +4392,11 @@
           longitude: 26.99547
     -
       name: "Kymenlaakso"
+      native: "Kymenlaakso"
       code: "09"
       iso3166_2: "FI-09"
       type: "region"
+      type_es: "región"
       latitude: 60.7318529
       longitude: 27.0828744
       cities:
@@ -4184,9 +4446,11 @@
           longitude: 27.70354
     -
       name: "Lapland"
+      native: "Lapa"
       code: "10"
       iso3166_2: "FI-10"
       type: "region"
+      type_es: "región"
       latitude: 67.6929104
       longitude: 26.7282142
       cities:
@@ -4284,9 +4548,11 @@
           longitude: 23.67734
     -
       name: "North Karelia"
+      native: "Pohjois -Karelia"
       code: "13"
       iso3166_2: "FI-13"
       type: "region"
+      type_es: "región"
       latitude: 62.801052
       longitude: 30.2127116
       cities:
@@ -4364,9 +4630,11 @@
           longitude: 28.8
     -
       name: "Northern Ostrobothnia"
+      native: "Pohjois -Ostrobothnia"
       code: "14"
       iso3166_2: "FI-14"
       type: "region"
+      type_es: "región"
       latitude: 64.9521512
       longitude: 25.6968812
       cities:
@@ -4536,18 +4804,22 @@
           longitude: 24.55
     -
       name: "Northern Savonia"
+      native: "Pohjois -Savonia"
       code: "15"
       iso3166_2: "FI-15"
       type: "region"
+      type_es: "región"
       latitude: 62.9370461
       longitude: 27.4942995
       cities:
         []
     -
       name: "Ostrobothnia"
+      native: "Ostrobothnia"
       code: "12"
       iso3166_2: "FI-12"
       type: "region"
+      type_es: "región"
       latitude: 62.9651857
       longitude: 21.2099367
       cities:
@@ -4633,9 +4905,11 @@
           longitude: 22.25223
     -
       name: "Päijänne Tavastia"
+      native: "Päijänne Tavastia"
       code: "16"
       iso3166_2: "FI-16"
       type: "region"
+      type_es: "región"
       latitude: 61.1444196
       longitude: 25.6872502
       cities:
@@ -4689,9 +4963,11 @@
           longitude: 25.68333
     -
       name: "Pirkanmaa"
+      native: "Pirkanmaa"
       code: "11"
       iso3166_2: "FI-11"
       type: "region"
+      type_es: "región"
       latitude: 61.717433
       longitude: 23.7157115
       cities:
@@ -4937,9 +5213,11 @@
           longitude: 23.58333333
     -
       name: "Satakunta"
+      native: "Satakunta"
       code: "17"
       iso3166_2: "FI-17"
       type: "region"
+      type_es: "región"
       latitude: 61.5934279
       longitude: 21.7824512
       cities:
@@ -5045,9 +5323,11 @@
           longitude: 22.7
     -
       name: "South Karelia"
+      native: "South Karelia"
       code: "02"
       iso3166_2: "FI-02"
       type: "region"
+      type_es: "región"
       latitude: 61.2667443
       longitude: 28.4054849
       cities:
@@ -5105,9 +5385,11 @@
           longitude: 28
     -
       name: "Southern Ostrobothnia"
+      native: "Etelä -Ostrobothnia"
       code: "03"
       iso3166_2: "FI-03"
       type: "region"
+      type_es: "región"
       latitude: 62.9433099
       longitude: 23.5285267
       cities:
@@ -5217,9 +5499,11 @@
           longitude: 22.51306
     -
       name: "Southern Savonia"
+      native: "Etelä -Savonia"
       code: "04"
       iso3166_2: "FI-04"
       type: "region"
+      type_es: "región"
       latitude: 61.6945148
       longitude: 27.8005015
       cities:
@@ -5309,9 +5593,11 @@
           longitude: 27.46276
     -
       name: "Tavastia Proper"
+      native: "Tavastia Proper"
       code: "06"
       iso3166_2: "FI-06"
       type: "region"
+      type_es: "región"
       latitude: 60.937696
       longitude: 24.1531919
       cities:
@@ -5381,9 +5667,11 @@
           longitude: 23.28333
     -
       name: "Uusimaa"
+      native: "Uusimaa"
       code: "18"
       iso3166_2: "FI-18"
       type: "region"
+      type_es: "región"
       latitude: 60.2246684
       longitude: 25.1272631
       cities:
@@ -5585,34 +5873,42 @@
   currency_symbol: "£"
   tld: ".gg"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 49.46666666
   longitude: -2.58333333
   emoji: "🇬🇬"
   states:
     -
       name: "Alderney"
+      native: "Alderney"
       code: "04"
       iso3166_2: "GG-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.7168911
       longitude: -2.1971694
       cities:
         []
     -
       name: "Castel"
+      native: "Castel"
       code: "01"
       iso3166_2: "GG-01"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4677402
       longitude: -2.5913459
       cities:
         []
     -
       name: "Forest"
+      native: "Forest"
       code: "02"
       iso3166_2: "GG-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4312917
       longitude: -2.5927968
       cities:
@@ -5622,36 +5918,44 @@
           longitude: -2.60168
     -
       name: "Sark"
+      native: "Sark"
       code: "07"
       iso3166_2: "GG-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4283373
       longitude: -2.3599394
       cities:
         []
     -
       name: "St Andrew"
+      native: "St Andrew"
       code: "03"
       iso3166_2: "GG-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4499006
       longitude: -2.5688225
       cities:
         []
     -
       name: "St Martin"
+      native: "St Martin"
       code: "05"
       iso3166_2: "GG-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4373488
       longitude: -2.555524
       cities:
         []
     -
       name: "St Peter Port"
+      native: "St Peter Port"
       code: "06"
       iso3166_2: "GG-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4568142
       longitude: -2.5389979
       cities:
@@ -5661,9 +5965,11 @@
           longitude: -2.53527
     -
       name: "St Pierre du Bois"
+      native: "St Pierre du Bois"
       code: "08"
       iso3166_2: "GG-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4395995
       longitude: -2.6408963
       cities:
@@ -5677,9 +5983,11 @@
           longitude: -2.5179
     -
       name: "St Sampson"
+      native: "St Sampson"
       code: "09"
       iso3166_2: "GG-09"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4817273
       longitude: -2.5388395
       cities:
@@ -5689,27 +5997,33 @@
           longitude: -2.52333
     -
       name: "St Saviour"
+      native: "St Saviour"
       code: "10"
       iso3166_2: "GG-10"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4491648
       longitude: -2.6213557
       cities:
         []
     -
       name: "Torteval"
+      native: "Torteval"
       code: "11"
       iso3166_2: "GG-11"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.4302321
       longitude: -2.6638621
       cities:
         []
     -
       name: "Vale"
+      native: "Vale"
       code: "12"
       iso3166_2: "GG-12"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.495456
       longitude: -2.5225087
       cities:
@@ -5728,16 +6042,20 @@
   currency_symbol: "ko"
   tld: ".is"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 65
   longitude: -18
   emoji: "🇮🇸"
   states:
     -
       name: "Akranes"
+      native: "Akraneskaupstaður"
       code: "AKN"
       iso3166_2: "IS-AKN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.32
       longitude: -22.08
       cities:
@@ -5747,9 +6065,11 @@
           longitude: -22.0749
     -
       name: "Akureyri"
+      native: "Akureyrarkaupstaður"
       code: "AKU"
       iso3166_2: "IS-AKU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.68
       longitude: -18.1
       cities:
@@ -5759,9 +6079,11 @@
           longitude: -18.0878
     -
       name: "Árborg"
+      native: "Sveitarfélagið Árborg"
       code: "SFA"
       iso3166_2: "IS-SFA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.9
       longitude: -20.88
       cities:
@@ -5771,18 +6093,22 @@
           longitude: -20.99712
     -
       name: "Árneshreppur"
+      native: "Árneshreppur"
       code: "ARN"
       iso3166_2: "IS-ARN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.08
       longitude: -21.5
       cities:
         []
     -
       name: "Ásahreppur"
+      native: "Ásahreppur"
       code: "ASA"
       iso3166_2: "IS-ASA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.95
       longitude: -21.5
       cities:
@@ -5792,9 +6118,11 @@
           longitude: -20.59484
     -
       name: "Bláskógabyggð"
+      native: "Bláskógabyggð"
       code: "BLA"
       iso3166_2: "IS-BLA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.23
       longitude: -20.27
       cities:
@@ -5804,18 +6132,22 @@
           longitude: -20.33333
     -
       name: "Bolungarvík"
+      native: "Bolungarvíkurkaupstaður"
       code: "BOL"
       iso3166_2: "IS-BOL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.15
       longitude: -23.26
       cities:
         []
     -
       name: "Borgarbyggð"
+      native: "Borgarbyggð"
       code: "BOG"
       iso3166_2: "IS-BOG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.75
       longitude: -21.67
       cities:
@@ -5837,18 +6169,22 @@
           longitude: -21.92064
     -
       name: "Capital"
+      native: "Höfuðborg"
       code: "1"
       iso3166_2: "IS-1"
       type: "region"
+      type_es: "región"
       latitude: 64.1727137
       longitude: -21.5667575
       cities:
         []
     -
       name: "Dalabyggð"
+      native: "Dalabyggð"
       code: "DAB"
       iso3166_2: "IS-DAB"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.25
       longitude: -21.83
       cities:
@@ -5858,9 +6194,11 @@
           longitude: -21.72871
     -
       name: "Dalvíkurbyggð"
+      native: "Dalvíkurbyggð"
       code: "DAV"
       iso3166_2: "IS-DAV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.97
       longitude: -18.53
       cities:
@@ -5874,18 +6212,22 @@
           longitude: -18.60844
     -
       name: "Eastern"
+      native: "Austur"
       code: "7"
       iso3166_2: "IS-7"
       type: "region"
+      type_es: "región"
       latitude: 65.1940668
       longitude: -15.0924209
       cities:
         []
     -
       name: "Eyja- og Miklaholtshreppur"
+      native: "Eyja- og Miklaholtshreppur"
       code: "EOM"
       iso3166_2: "IS-EOM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.72
       longitude: -22.65
       cities:
@@ -5895,9 +6237,11 @@
           longitude: -22.54557
     -
       name: "Eyjafjarðarsveit"
+      native: "Eyjafjarðarsveit"
       code: "EYF"
       iso3166_2: "IS-EYF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.63
       longitude: -18.25
       cities:
@@ -5907,9 +6251,11 @@
           longitude: -18.16667
     -
       name: "Fjallabyggð"
+      native: "Fjallabyggð"
       code: "FJL"
       iso3166_2: "IS-FJL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.05
       longitude: -18.9
       cities:
@@ -5923,9 +6269,11 @@
           longitude: -18.90815
     -
       name: "Fjarðabyggð"
+      native: "Fjarðabyggð"
       code: "FJD"
       iso3166_2: "IS-FJD"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.93
       longitude: -14.3
       cities:
@@ -5955,9 +6303,11 @@
           longitude: -14.21832
     -
       name: "Fljótsdalshreppur"
+      native: "Fljótsdalshreppur"
       code: "FLR"
       iso3166_2: "IS-FLR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.25
       longitude: -14.83
       cities:
@@ -5967,9 +6317,11 @@
           longitude: -15.2568
     -
       name: "Flóahreppur"
+      native: "Flóahreppur"
       code: "FLA"
       iso3166_2: "IS-FLA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.93
       longitude: -20.68
       cities:
@@ -5979,9 +6331,11 @@
           longitude: -20.80159
     -
       name: "Garðabær"
+      native: "Garðabær"
       code: "GAR"
       iso3166_2: "IS-GAR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.09
       longitude: -21.93
       cities:
@@ -5995,9 +6349,11 @@
           longitude: -21.92298
     -
       name: "Grímsnes- og Grafningshreppur"
+      native: "Grímsnes- og Grafningshreppur"
       code: "GOG"
       iso3166_2: "IS-GOG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.07
       longitude: -20.88
       cities:
@@ -6007,9 +6363,11 @@
           longitude: -20.9671
     -
       name: "Grindavík"
+      native: "Grindavíkurbær"
       code: "GRN"
       iso3166_2: "IS-GRN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.84
       longitude: -22.43
       cities:
@@ -6019,18 +6377,22 @@
           longitude: -22.43931
     -
       name: "Grundarfjörður"
+      native: "Grundarfjarðarbær"
       code: "GRU"
       iso3166_2: "IS-GRU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.93
       longitude: -23.25
       cities:
         []
     -
       name: "Grýtubakkahreppur"
+      native: "Grýtubakkahreppur"
       code: "GRY"
       iso3166_2: "IS-GRY"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.72
       longitude: -17.57
       cities:
@@ -6040,9 +6402,11 @@
           longitude: -18.11667
     -
       name: "Hafnarfjörður"
+      native: "Hafnarfjarðarkaupstaður"
       code: "HAF"
       iso3166_2: "IS-HAF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.07
       longitude: -21.95
       cities:
@@ -6052,9 +6416,11 @@
           longitude: -21.93774
     -
       name: "Hörðarsveit"
+      native: "Hörðarsveit"
       code: "HRG"
       iso3166_2: "IS-HRG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.6
       longitude: -21.15
       cities:
@@ -6064,9 +6430,11 @@
           longitude: -18.49599
     -
       name: "Hornafjörður"
+      native: "Sveitarfélagið Hornafjörður"
       code: "SHF"
       iso3166_2: "IS-SHF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.25
       longitude: -15.2
       cities:
@@ -6076,9 +6444,11 @@
           longitude: -15.21212
     -
       name: "Hrunamannahreppur"
+      native: "Hrunamannahreppur"
       code: "HRU"
       iso3166_2: "IS-HRU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.07
       longitude: -20.35
       cities:
@@ -6088,18 +6458,22 @@
           longitude: -19.72237
     -
       name: "Húnabyggð"
+      native: "Húnabyggð"
       code: "HUG"
       iso3166_2: "IS-HUG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.75
       longitude: -20.83
       cities:
         []
     -
       name: "Húnaþing vestra"
+      native: "Húnaþing vestra"
       code: "HUV"
       iso3166_2: "IS-HUV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.6
       longitude: -21.25
       cities:
@@ -6109,9 +6483,11 @@
           longitude: -20.91667
     -
       name: "Hvalfjarðarsveit"
+      native: "Hvalfjarðarsveit"
       code: "HVA"
       iso3166_2: "IS-HVA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.4
       longitude: -21.45
       cities:
@@ -6121,9 +6497,11 @@
           longitude: -21.61086
     -
       name: "Hveragerði"
+      native: "Hveragerbisbær"
       code: "HVE"
       iso3166_2: "IS-HVE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64
       longitude: -21.18
       cities:
@@ -6133,9 +6511,11 @@
           longitude: -21.18602
     -
       name: "Ísafjörður"
+      native: "Ísafjarðarbær"
       code: "ISA"
       iso3166_2: "IS-ISA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.07
       longitude: -23.13
       cities:
@@ -6149,18 +6529,22 @@
           longitude: -23.13498
     -
       name: "Kaldrananeshreppur"
+      native: "Kaldrananeshreppur"
       code: "KAL"
       iso3166_2: "IS-KAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.97
       longitude: -23.48
       cities:
         []
     -
       name: "Kjósarhreppur"
+      native: "Kjósarhreppur"
       code: "KJO"
       iso3166_2: "IS-KJO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.23
       longitude: -21.47
       cities:
@@ -6170,9 +6554,11 @@
           longitude: -21.49919
     -
       name: "Kópavogur"
+      native: "Kópavogsbær"
       code: "KOP"
       iso3166_2: "IS-KOP"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.11
       longitude: -21.91
       cities:
@@ -6182,9 +6568,11 @@
           longitude: -21.91298
     -
       name: "Langanesbyggð"
+      native: "Langanesbyggð"
       code: "LAN"
       iso3166_2: "IS-LAN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.3
       longitude: -14.95
       cities:
@@ -6194,9 +6582,11 @@
           longitude: -15.18969
     -
       name: "Mosfellsbær"
+      native: "Mosfellsbær"
       code: "MOS"
       iso3166_2: "IS-MOS"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.17
       longitude: -21.4
       cities:
@@ -6206,9 +6596,11 @@
           longitude: -21.65
     -
       name: "Múlaþing"
+      native: "Múlaþing"
       code: "MUL"
       iso3166_2: "IS-MUL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.25
       longitude: -14.55
       cities:
@@ -6218,9 +6610,11 @@
           longitude: -15.37211
     -
       name: "Mýrdalshreppur"
+      native: "Mýrdalshreppur"
       code: "MYR"
       iso3166_2: "IS-MYR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.47
       longitude: -18.87
       cities:
@@ -6230,9 +6624,11 @@
           longitude: -19
     -
       name: "Norðurþing"
+      native: "Norðurþing"
       code: "NOR"
       iso3166_2: "IS-NOR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.05
       longitude: -17.35
       cities:
@@ -6242,27 +6638,33 @@
           longitude: -17.33834
     -
       name: "Northeastern"
+      native: "Norðaustur"
       code: "6"
       iso3166_2: "IS-6"
       type: "region"
+      type_es: "región"
       latitude: 65.4735997
       longitude: -17.4433339
       cities:
         []
     -
       name: "Northwestern"
+      native: "Norðvestur"
       code: "5"
       iso3166_2: "IS-5"
       type: "region"
+      type_es: "región"
       latitude: 65.4622189
       longitude: -19.8471016
       cities:
         []
     -
       name: "Ölfus"
+      native: "Sveitarfélagið Ölfus"
       code: "SOL"
       iso3166_2: "IS-SOL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.93
       longitude: -21.07
       cities:
@@ -6272,27 +6674,33 @@
           longitude: -21.38337
     -
       name: "Rangárþing eystra"
+      native: "Rangárþing eystra"
       code: "RGE"
       iso3166_2: "IS-RGE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.88
       longitude: -20.05
       cities:
         []
     -
       name: "Rangárþing ytra"
+      native: "Rangárþing ytra"
       code: "RGY"
       iso3166_2: "IS-RGY"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.82
       longitude: -20.42
       cities:
         []
     -
       name: "Reykhólahreppur"
+      native: "Reykhólahreppur"
       code: "RHH"
       iso3166_2: "IS-RHH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.45
       longitude: -22.18
       cities:
@@ -6302,9 +6710,11 @@
           longitude: -22.33324
     -
       name: "Reykjanesbær"
+      native: "Reykjanesbær"
       code: "RKN"
       iso3166_2: "IS-RKN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.98
       longitude: -22.55
       cities:
@@ -6326,9 +6736,11 @@
           longitude: -22.70799
     -
       name: "Reykjavík"
+      native: "Reykjavíkurborg"
       code: "RKV"
       iso3166_2: "IS-RKV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.13
       longitude: -21.9
       cities:
@@ -6338,9 +6750,11 @@
           longitude: -21.89541
     -
       name: "Seltjarnarnes"
+      native: "Seltjarnarnesbær"
       code: "SEL"
       iso3166_2: "IS-SEL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.16
       longitude: -22.01
       cities:
@@ -6350,9 +6764,11 @@
           longitude: -21.99499
     -
       name: "Skaftárhreppur"
+      native: "Skaftárhreppur"
       code: "SKF"
       iso3166_2: "IS-SKF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.87
       longitude: -18.07
       cities:
@@ -6362,9 +6778,11 @@
           longitude: -18.14491
     -
       name: "Skagabyggð"
+      native: "Skagabyggð"
       code: "SKG"
       iso3166_2: "IS-SKG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.85
       longitude: -20.5
       cities:
@@ -6374,9 +6792,11 @@
           longitude: -20.25
     -
       name: "Skagafjörður"
+      native: "Skagafjörður"
       code: "SKR"
       iso3166_2: "IS-SKR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.73
       longitude: -19.5
       cities:
@@ -6390,18 +6810,22 @@
           longitude: -19.44566
     -
       name: "Skagaströnd"
+      native: "Sveitarfélagið Skagaströnd"
       code: "SSS"
       iso3166_2: "IS-SSS"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.83
       longitude: -20.3
       cities:
         []
     -
       name: "Skeiða- og Gnúpverjahreppur"
+      native: "Skeiða- og Gnúpverjahreppur"
       code: "SOG"
       iso3166_2: "IS-SOG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.03
       longitude: -20.5
       cities:
@@ -6411,9 +6835,11 @@
           longitude: -19.37757
     -
       name: "Skorradalshreppur"
+      native: "Skorradalshreppur"
       code: "SKO"
       iso3166_2: "IS-SKO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.7
       longitude: -21.35
       cities:
@@ -6423,9 +6849,11 @@
           longitude: -21.5
     -
       name: "Snæfellsbær"
+      native: "Snæfellsbær"
       code: "SNF"
       iso3166_2: "IS-SNF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.88
       longitude: -23.73
       cities:
@@ -6439,27 +6867,33 @@
           longitude: -23.5
     -
       name: "Southern"
+      native: "Suður"
       code: "8"
       iso3166_2: "IS-8"
       type: "region"
+      type_es: "región"
       latitude: 63.9415014
       longitude: -22.2018627
       cities:
         []
     -
       name: "Southern Peninsula"
+      native: "Suður -skaginn"
       code: "2"
       iso3166_2: "IS-2"
       type: "region"
+      type_es: "región"
       latitude: 63.9415014
       longitude: -22.2018627
       cities:
         []
     -
       name: "Strandabyggð"
+      native: "Strandabyggð"
       code: "STR"
       iso3166_2: "IS-STR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.58
       longitude: -21.63
       cities:
@@ -6469,9 +6903,11 @@
           longitude: -21.95725
     -
       name: "Stykkishólmur"
+      native: "Stykkishólmsbær"
       code: "STY"
       iso3166_2: "IS-STY"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.08
       longitude: -22.73
       cities:
@@ -6485,27 +6921,33 @@
           longitude: -22.72977
     -
       name: "Súðavík"
+      native: "Súðavíkurhreppur"
       code: "SDV"
       iso3166_2: "IS-SDV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.05
       longitude: -23.13
       cities:
         []
     -
       name: "Suðurnesjabær"
+      native: "Suðurnesjabær"
       code: "SDN"
       iso3166_2: "IS-SDN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.87
       longitude: -22.08
       cities:
         []
     -
       name: "Svalbardsstrandarhreppur"
+      native: "Svalbardsstrandarhreppur"
       code: "SBT"
       iso3166_2: "IS-SBT"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.27
       longitude: -21.17
       cities:
@@ -6515,9 +6957,11 @@
           longitude: -18.03513
     -
       name: "Tálknafjarðarhreppur"
+      native: "Tálknafjarðarhreppur"
       code: "TAL"
       iso3166_2: "IS-TAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.63
       longitude: -23.78
       cities:
@@ -6527,9 +6971,11 @@
           longitude: -23.88333
     -
       name: "Tjörneshreppur"
+      native: "Tjörneshreppur"
       code: "TJO"
       iso3166_2: "IS-TJO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.2
       longitude: -17.05
       cities:
@@ -6539,9 +6985,11 @@
           longitude: -17.2
     -
       name: "Vestmannaeyjar"
+      native: "Vestmannaeyjabaer"
       code: "VEM"
       iso3166_2: "IS-VEM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.44
       longitude: -20.27
       cities:
@@ -6555,18 +7003,22 @@
           longitude: -20.27339
     -
       name: "Vesturbyggð"
+      native: "Vesturbyggð"
       code: "VER"
       iso3166_2: "IS-VER"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.52
       longitude: -24.02
       cities:
         []
     -
       name: "Vogar"
+      native: "Sveitarfélagið Vogar"
       code: "SVG"
       iso3166_2: "IS-SVG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.98
       longitude: -22.38
       cities:
@@ -6576,36 +7028,44 @@
           longitude: -22.38473
     -
       name: "Vopnafjarðarhreppur"
+      native: "Vopnafjarðarhreppur"
       code: "VOP"
       iso3166_2: "IS-VOP"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.75
       longitude: -14.83
       cities:
         []
     -
       name: "Western"
+      native: "Western"
       code: "3"
       iso3166_2: "IS-3"
       type: "region"
+      type_es: "región"
       latitude: 52.6241496
       longitude: -1.153756
       cities:
         []
     -
       name: "Westfjords"
+      native: "Westfjords"
       code: "4"
       iso3166_2: "IS-4"
       type: "region"
+      type_es: "región"
       latitude: 65.9082049
       longitude: -21.8078883
       cities:
         []
     -
       name: "Þingeyjarsveit"
+      native: "Þingeyjarsveit"
       code: "THG"
       iso3166_2: "IS-THG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.87
       longitude: -17.08
       cities:
@@ -6635,43 +7095,53 @@
   currency_symbol: "€"
   tld: ".ie"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 53
   longitude: -8
   emoji: "🇮🇪"
   states:
     -
       name: "Carlow"
+      native: "Carlow"
       code: "CW"
       iso3166_2: "IE-CW"
       type: "county"
+      type_es: "condado"
       latitude: 52.6907887
       longitude: -6.8251452
       cities:
         []
     -
       name: "Cavan"
+      native: "Cavan"
       code: "CN"
       iso3166_2: "IE-CN"
       type: "county"
+      type_es: "condado"
       latitude: 53.9911042
       longitude: -7.3603119
       cities:
         []
     -
       name: "Clare"
+      native: "Clare"
       code: "CE"
       iso3166_2: "IE-CE"
       type: "county"
+      type_es: "condado"
       latitude: 53.3454937
       longitude: -8.9860534
       cities:
         []
     -
       name: "Connacht"
+      native: "Connacht"
       code: "C"
       iso3166_2: "IE-C"
       type: "province"
+      type_es: "provincia"
       latitude: 53.7210278
       longitude: -8.925256
       cities:
@@ -6845,81 +7315,99 @@
           longitude: -9.51667
     -
       name: "Cork"
+      native: "Cork"
       code: "CO"
       iso3166_2: "IE-CO"
       type: "county"
+      type_es: "condado"
       latitude: 51.8985143
       longitude: -8.4756035
       cities:
         []
     -
       name: "Donegal"
+      native: "Donegal"
       code: "DL"
       iso3166_2: "IE-DL"
       type: "county"
+      type_es: "condado"
       latitude: 54.6548993
       longitude: -8.1040967
       cities:
         []
     -
       name: "Dublin"
+      native: "Dublin"
       code: "D"
       iso3166_2: "IE-D"
       type: "county"
+      type_es: "condado"
       latitude: 53.3498053
       longitude: -6.2603097
       cities:
         []
     -
       name: "Galway"
+      native: "Galway"
       code: "G"
       iso3166_2: "IE-G"
       type: "county"
+      type_es: "condado"
       latitude: 53.2744122
       longitude: -9.0490601
       cities:
         []
     -
       name: "Kerry"
+      native: "Kerry"
       code: "KY"
       iso3166_2: "IE-KY"
       type: "county"
+      type_es: "condado"
       latitude: 52.1453345
       longitude: -9.5174011
       cities:
         []
     -
       name: "Kildare"
+      native: "Kildare"
       code: "KE"
       iso3166_2: "IE-KE"
       type: "county"
+      type_es: "condado"
       latitude: 53.1543645
       longitude: -6.8184423
       cities:
         []
     -
       name: "Kilkenny"
+      native: "Kilkenny"
       code: "KK"
       iso3166_2: "IE-KK"
       type: "county"
+      type_es: "condado"
       latitude: 52.5687098
       longitude: -7.1889831
       cities:
         []
     -
       name: "Laois"
+      native: "Laois"
       code: "LS"
       iso3166_2: "IE-LS"
       type: "county"
+      type_es: "condado"
       latitude: 52.9984575
       longitude: -7.3980338
       cities:
         []
     -
       name: "Leinster"
+      native: "Leinster"
       code: "L"
       iso3166_2: "IE-L"
       type: "province"
+      type_es: "provincia"
       latitude: 53.118465
       longitude: -6.9918183
       cities:
@@ -7769,72 +8257,88 @@
           longitude: -6.41667
     -
       name: "Leitrim"
+      native: "Leitrim"
       code: "LM"
       iso3166_2: "IE-LM"
       type: "county"
+      type_es: "condado"
       latitude: 54.1401622
       longitude: -8.0524782
       cities:
         []
     -
       name: "Limerick"
+      native: "Limerick"
       code: "LK"
       iso3166_2: "IE-LK"
       type: "county"
+      type_es: "condado"
       latitude: 52.5188316
       longitude: -8.7958347
       cities:
         []
     -
       name: "Longford"
+      native: "Longford"
       code: "LD"
       iso3166_2: "IE-LD"
       type: "county"
+      type_es: "condado"
       latitude: 53.7274982
       longitude: -7.7931527
       cities:
         []
     -
       name: "Louth"
+      native: "Louth"
       code: "LH"
       iso3166_2: "IE-LH"
       type: "county"
+      type_es: "condado"
       latitude: 53.9062848
       longitude: -6.5320502
       cities:
         []
     -
       name: "Mayo"
+      native: "Mayo"
       code: "MO"
       iso3166_2: "IE-MO"
       type: "county"
+      type_es: "condado"
       latitude: 53.9087056
       longitude: -9.2983049
       cities:
         []
     -
       name: "Meath"
+      native: "Meath"
       code: "MH"
       iso3166_2: "IE-MH"
       type: "county"
+      type_es: "condado"
       latitude: 53.6497514
       longitude: -6.5884245
       cities:
         []
     -
       name: "Monaghan"
+      native: "Monaghan"
       code: "MN"
       iso3166_2: "IE-MN"
       type: "county"
+      type_es: "condado"
       latitude: 54.2492046
       longitude: -6.9683132
       cities:
         []
     -
       name: "Munster"
+      native: "Munster"
       code: "M"
       iso3166_2: "IE-M"
       type: "province"
+      type_es: "provincia"
       latitude: 52.3076216
       longitude: -8.5708973
       cities:
@@ -8168,45 +8672,55 @@
           longitude: -7.85056
     -
       name: "Offaly"
+      native: "Offaly"
       code: "OY"
       iso3166_2: "IE-OY"
       type: "county"
+      type_es: "condado"
       latitude: 53.1361722
       longitude: -7.8103408
       cities:
         []
     -
       name: "Roscommon"
+      native: "Roscommon"
       code: "RN"
       iso3166_2: "IE-RN"
       type: "county"
+      type_es: "condado"
       latitude: 53.6982695
       longitude: -8.2182508
       cities:
         []
     -
       name: "Sligo"
+      native: "Sligo"
       code: "SO"
       iso3166_2: "IE-SO"
       type: "county"
+      type_es: "condado"
       latitude: 54.1929861
       longitude: -8.7305427
       cities:
         []
     -
       name: "Tipperary"
+      native: "Tipperary"
       code: "TA"
       iso3166_2: "IE-TA"
       type: "county"
+      type_es: "condado"
       latitude: 52.4737894
       longitude: -8.1618514
       cities:
         []
     -
       name: "Ulster"
+      native: "Ulster"
       code: "U"
       iso3166_2: "IE-U"
       type: "province"
+      type_es: "provincia"
       latitude: 54.0934659
       longitude: -7.1989794
       cities:
@@ -8352,36 +8866,44 @@
           longitude: -7.07556
     -
       name: "Waterford"
+      native: "Waterford"
       code: "WD"
       iso3166_2: "IE-WD"
       type: "county"
+      type_es: "condado"
       latitude: 52.1509131
       longitude: -7.6577982
       cities:
         []
     -
       name: "Westmeath"
+      native: "Westmeath"
       code: "WH"
       iso3166_2: "IE-WH"
       type: "county"
+      type_es: "condado"
       latitude: 53.5577902
       longitude: -7.3478558
       cities:
         []
     -
       name: "Wexford"
+      native: "Wexford"
       code: "WX"
       iso3166_2: "IE-WX"
       type: "county"
+      type_es: "condado"
       latitude: 52.4601874
       longitude: -6.6065155
       cities:
         []
     -
       name: "Wicklow"
+      native: "Wicklow"
       code: "WW"
       iso3166_2: "IE-WW"
       type: "county"
+      type_es: "condado"
       latitude: 52.9582099
       longitude: -6.3814208
       cities:
@@ -8400,16 +8922,20 @@
   currency_symbol: "£"
   tld: ".je"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 49.25
   longitude: -2.16666666
   emoji: "🇯🇪"
   states:
     -
       name: "Grouville"
+      native: "Grouville"
       code: "01"
       iso3166_2: "JE-01"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.18404
       longitude: -2.0516828
       cities:
@@ -8431,9 +8957,11 @@
           longitude: -2.050422
     -
       name: "St Brelade"
+      native: "St Brelade"
       code: "02"
       iso3166_2: "JE-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1851255
       longitude: -2.2010341
       cities:
@@ -8455,9 +8983,11 @@
           longitude: -2.1847371
     -
       name: "St Clement"
+      native: "St Clement"
       code: "03"
       iso3166_2: "JE-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1736373
       longitude: -2.0562124
       cities:
@@ -8475,9 +9005,11 @@
           longitude: -2.0654384
     -
       name: "St Helier"
+      native: "St Helier"
       code: "04"
       iso3166_2: "JE-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1856637
       longitude: -2.1102277
       cities:
@@ -8507,9 +9039,11 @@
           longitude: -2.109353
     -
       name: "St John"
+      native: "St John"
       code: "05"
       iso3166_2: "JE-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2465535
       longitude: -2.1349726
       cities:
@@ -8527,9 +9061,11 @@
           longitude: -2.1206972
     -
       name: "St Lawrence"
+      native: "St Lawrence"
       code: "06"
       iso3166_2: "JE-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2149124
       longitude: -2.1416892
       cities:
@@ -8555,9 +9091,11 @@
           longitude: -2.1526433
     -
       name: "St Martin"
+      native: "St Martin"
       code: "07"
       iso3166_2: "JE-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2177274
       longitude: -2.0516314
       cities:
@@ -8579,9 +9117,11 @@
           longitude: -2.0351879
     -
       name: "St Mary"
+      native: "St Mary"
       code: "08"
       iso3166_2: "JE-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2364029
       longitude: -2.1716245
       cities:
@@ -8595,9 +9135,11 @@
           longitude: -2.1673084
     -
       name: "St Ouen"
+      native: "St oes"
       code: "09"
       iso3166_2: "JE-09"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2335087
       longitude: -2.2020406
       cities:
@@ -8627,9 +9169,11 @@
           longitude: -2.1965655
     -
       name: "St Peter"
+      native: "St Peter"
       code: "10"
       iso3166_2: "JE-10"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2128288
       longitude: -2.18372
       cities:
@@ -8651,9 +9195,11 @@
           longitude: -2.1845342
     -
       name: "St Saviour"
+      native: "St Saviour"
       code: "11"
       iso3166_2: "JE-11"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1948946
       longitude: -2.0903183
       cities:
@@ -8679,9 +9225,11 @@
           longitude: -2.0708067
     -
       name: "Trinity"
+      native: "Trinity"
       code: "12"
       iso3166_2: "JE-12"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.234492
       longitude: -2.0929268
       cities:
@@ -8719,16 +9267,20 @@
   currency_symbol: "€"
   tld: ".lv"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 57
   longitude: 25
   emoji: "🇱🇻"
   states:
     -
       name: "Ādaži"
+      native: "Ādaži"
       code: "011"
       iso3166_2: "LV-011"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.0874671
       longitude: 24.3195797
       cities:
@@ -8738,9 +9290,11 @@
           longitude: 24.28423
     -
       name: "Aizkraukle"
+      native: "Aizkraukle"
       code: "002"
       iso3166_2: "LV-002"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6166708
       longitude: 25.2230643
       cities:
@@ -8770,9 +9324,11 @@
           longitude: 25.12058
     -
       name: "Alūksne"
+      native: "Alūksne"
       code: "007"
       iso3166_2: "LV-007"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.4254485
       longitude: 27.0424968
       cities:
@@ -8782,9 +9338,11 @@
           longitude: 27.04662
     -
       name: "Augšdaugava"
+      native: "Augšdaugava"
       code: "111"
       iso3166_2: "LV-111"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.8561323
       longitude: 27.0458076
       cities:
@@ -8798,9 +9356,11 @@
           longitude: 26.29655
     -
       name: "Balvi"
+      native: "Balvi"
       code: "015"
       iso3166_2: "LV-015"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.132624
       longitude: 27.2646685
       cities:
@@ -8822,9 +9382,11 @@
           longitude: 27.6722
     -
       name: "Bauska"
+      native: "Bauska"
       code: "016"
       iso3166_2: "LV-016"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.4101868
       longitude: 24.2000689
       cities:
@@ -8846,9 +9408,11 @@
           longitude: 24.52232
     -
       name: "Cēsis"
+      native: "Cēsis"
       code: "022"
       iso3166_2: "LV-022"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.3102897
       longitude: 25.2676125
       cities:
@@ -8874,18 +9438,22 @@
           longitude: 25.81624
     -
       name: "Daugavpils"
+      native: "Daugavpils"
       code: "DGV"
       iso3166_2: "LV-DGV"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 55.8712267
       longitude: 26.5159337
       cities:
         []
     -
       name: "Dienvidkurzemes"
+      native: "Dienvidkurzemes"
       code: "112"
       iso3166_2: "LV-112"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.5224575
       longitude: 21.4595894
       cities:
@@ -8923,9 +9491,11 @@
           longitude: 21.85405
     -
       name: "Dobele"
+      native: "Dobele"
       code: "026"
       iso3166_2: "LV-026"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.626305
       longitude: 23.2809066
       cities:
@@ -8947,9 +9517,11 @@
           longitude: 23.35194
     -
       name: "Gulbene"
+      native: "Gulbene"
       code: "033"
       iso3166_2: "LV-033"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.1759721
       longitude: 26.7514713
       cities:
@@ -8959,9 +9531,11 @@
           longitude: 26.75291
     -
       name: "Jēkabpils"
+      native: "Jēkabpils"
       code: "042"
       iso3166_2: "LV-042"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.4958638
       longitude: 25.8687747
       cities:
@@ -8983,9 +9557,11 @@
           longitude: 25.55514
     -
       name: "Jelgava"
+      native: "Jelgava"
       code: "041"
       iso3166_2: "LV-041"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6514394
       longitude: 23.7339143
       cities:
@@ -8999,9 +9575,11 @@
           longitude: 23.58902
     -
       name: "Jelgava"
+      native: "Jelgava"
       code: "JEL"
       iso3166_2: "LV-JEL"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.6514394
       longitude: 23.7339143
       cities:
@@ -9011,9 +9589,11 @@
           longitude: 23.71278
     -
       name: "Jūrmala"
+      native: "Jūrmala"
       code: "JUR"
       iso3166_2: "LV-JUR"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.9727164
       longitude: 23.7886979
       cities:
@@ -9023,9 +9603,11 @@
           longitude: 23.77038
     -
       name: "Ķekava"
+      native: "Ķekava"
       code: "052"
       iso3166_2: "LV-052"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8258465
       longitude: 24.2208128
       cities:
@@ -9043,9 +9625,11 @@
           longitude: 24.23
     -
       name: "Krāslava"
+      native: "Krāslava"
       code: "047"
       iso3166_2: "LV-047"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.895206
       longitude: 27.1619304
       cities:
@@ -9059,9 +9643,11 @@
           longitude: 27.16799
     -
       name: "Kuldīga"
+      native: "Kuldīga"
       code: "050"
       iso3166_2: "LV-050"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.9687257
       longitude: 21.9613739
       cities:
@@ -9079,9 +9665,11 @@
           longitude: 22.01649
     -
       name: "Liepāja"
+      native: "Liepāja"
       code: "LPX"
       iso3166_2: "LV-LPX"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.5046678
       longitude: 21.010806
       cities:
@@ -9095,9 +9683,11 @@
           longitude: 21.01085
     -
       name: "Limbaži"
+      native: "Limbaži"
       code: "054"
       iso3166_2: "LV-054"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.5146586
       longitude: 24.7131536
       cities:
@@ -9123,9 +9713,11 @@
           longitude: 24.74706
     -
       name: "Līvāni"
+      native: "Līvāni"
       code: "056"
       iso3166_2: "LV-056"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.3550942
       longitude: 26.172519
       cities:
@@ -9135,9 +9727,11 @@
           longitude: 26.17579
     -
       name: "Ludza"
+      native: "Ludza"
       code: "058"
       iso3166_2: "LV-058"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.545959
       longitude: 27.7143199
       cities:
@@ -9159,9 +9753,11 @@
           longitude: 28.12165
     -
       name: "Madona"
+      native: "Madona"
       code: "059"
       iso3166_2: "LV-059"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8517467
       longitude: 26.2184769
       cities:
@@ -9183,9 +9779,11 @@
           longitude: 26.21698
     -
       name: "Mārupe"
+      native: "Mārupe"
       code: "062"
       iso3166_2: "LV-062"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8965717
       longitude: 24.0460049
       cities:
@@ -9199,9 +9797,11 @@
           longitude: 23.91365
     -
       name: "Ogre"
+      native: "Ogre"
       code: "067"
       iso3166_2: "LV-067"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8147355
       longitude: 24.6044555
       cities:
@@ -9227,9 +9827,11 @@
           longitude: 24.61401
     -
       name: "Olaine"
+      native: "Olaine"
       code: "068"
       iso3166_2: "LV-068"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.7905906
       longitude: 23.9331981
       cities:
@@ -9239,9 +9841,11 @@
           longitude: 23.9358
     -
       name: "Preiļi"
+      native: "Preiļi"
       code: "073"
       iso3166_2: "LV-073"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.2937366
       longitude: 26.7266734
       cities:
@@ -9267,9 +9871,11 @@
           longitude: 26.50811
     -
       name: "Rēzekne"
+      native: "Rēzekne"
       code: "REZ"
       iso3166_2: "LV-REZ"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.506281
       longitude: 27.3306623
       cities:
@@ -9279,9 +9885,11 @@
           longitude: 27.34
     -
       name: "Rēzekne"
+      native: "Rēzekne"
       code: "077"
       iso3166_2: "LV-077"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.506281
       longitude: 27.3306623
       cities:
@@ -9291,9 +9899,11 @@
           longitude: 26.92449
     -
       name: "Riga"
+      native: "Riga"
       code: "RIX"
       iso3166_2: "LV-RIX"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.9496487
       longitude: 24.1051865
       cities:
@@ -9319,9 +9929,11 @@
           longitude: 24.10589
     -
       name: "Ropaži"
+      native: "Ropaži"
       code: "080"
       iso3166_2: "LV-080"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.9713771
       longitude: 24.6307233
       cities:
@@ -9343,9 +9955,11 @@
           longitude: 24.54468
     -
       name: "Salaspils"
+      native: "Salaspils"
       code: "087"
       iso3166_2: "LV-087"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8608152
       longitude: 24.3497881
       cities:
@@ -9355,9 +9969,11 @@
           longitude: 24.36544
     -
       name: "Saldus"
+      native: "Mīļš"
       code: "088"
       iso3166_2: "LV-088"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6665088
       longitude: 22.4935493
       cities:
@@ -9371,9 +9987,11 @@
           longitude: 22.48807
     -
       name: "Saulkrasti"
+      native: "Saulkrasti"
       code: "089"
       iso3166_2: "LV-089"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.2579418
       longitude: 24.4183146
       cities:
@@ -9383,9 +10001,11 @@
           longitude: 24.41471
     -
       name: "Sigulda"
+      native: "Sigulda"
       code: "091"
       iso3166_2: "LV-091"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.1540561
       longitude: 24.8567141
       cities:
@@ -9403,9 +10023,11 @@
           longitude: 24.85953
     -
       name: "Smiltene"
+      native: "Smiltene"
       code: "094"
       iso3166_2: "LV-094"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.4230332
       longitude: 25.900278
       cities:
@@ -9423,9 +10045,11 @@
           longitude: 25.90164
     -
       name: "Talsi"
+      native: "Talsi"
       code: "097"
       iso3166_2: "LV-097"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.2451926
       longitude: 22.5903003
       cities:
@@ -9455,9 +10079,11 @@
           longitude: 22.59188
     -
       name: "Tukums"
+      native: "Tukums"
       code: "099"
       iso3166_2: "LV-099"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.9672868
       longitude: 23.1524379
       cities:
@@ -9483,9 +10109,11 @@
           longitude: 23.15554
     -
       name: "Valka"
+      native: "Valka"
       code: "101"
       iso3166_2: "LV-101"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.77439
       longitude: 26.017005
       cities:
@@ -9495,9 +10123,11 @@
           longitude: 26.01013
     -
       name: "Valmiera"
+      native: "Valmiera"
       code: "113"
       iso3166_2: "LV-113"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.5384659
       longitude: 25.4263618
       cities:
@@ -9535,9 +10165,11 @@
           longitude: 25.42751
     -
       name: "Varakļāni"
+      native: "Varakļāni"
       code: "102"
       iso3166_2: "LV-102"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6088743
       longitude: 26.7539093
       cities:
@@ -9547,9 +10179,11 @@
           longitude: 26.75377
     -
       name: "Ventspils"
+      native: "Ventspils"
       code: "VEN"
       iso3166_2: "LV-VEN"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 57.3903918
       longitude: 21.5635991
       cities:
@@ -9559,9 +10193,11 @@
           longitude: 21.57288
     -
       name: "Ventspils"
+      native: "Ventspils"
       code: "106"
       iso3166_2: "LV-106"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.3903918
       longitude: 21.5635991
       cities:
@@ -9583,34 +10219,42 @@
   currency_symbol: "€"
   tld: ".lt"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 56
   longitude: 24
   emoji: "🇱🇹"
   states:
     -
       name: "Akmenė"
+      native: "Akmenė"
       code: "01"
       iso3166_2: "LT-01"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.2455029
       longitude: 22.7471169
       cities:
         []
     -
       name: "Alytus"
+      native: "Alytus"
       code: "03"
       iso3166_2: "LT-03"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.3924677
       longitude: 24.1087607
       cities:
         []
     -
       name: "Alytus"
+      native: "Alytus"
       code: "02"
       iso3166_2: "LT-02"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.3924677
       longitude: 24.1087607
       cities:
@@ -9644,135 +10288,165 @@
           longitude: 23.69614
     -
       name: "Alytus"
+      native: "Alytus"
       code: "AL"
       iso3166_2: "LT-AL"
       type: "county"
+      type_es: "condado"
       latitude: 54.3924677
       longitude: 24.1087607
       cities:
         []
     -
       name: "Anykščiai"
+      native: "Anykščiai"
       code: "04"
       iso3166_2: "LT-04"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.5257935
       longitude: 25.1061247
       cities:
         []
     -
       name: "Birštonas"
+      native: "Birštonas"
       code: "05"
       iso3166_2: "LT-05"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.5864194
       longitude: 24.0421736
       cities:
         []
     -
       name: "Biržai"
+      native: "Biržai"
       code: "06"
       iso3166_2: "LT-06"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.2017719
       longitude: 24.7560118
       cities:
         []
     -
       name: "Druskininkai"
+      native: "Druskininkai"
       code: "07"
       iso3166_2: "LT-07"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.0171932
       longitude: 23.9772282
       cities:
         []
     -
       name: "Elektrėnai"
+      native: "Elektrėnai"
       code: "08"
       iso3166_2: "LT-08"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.786657
       longitude: 24.6708398
       cities:
         []
     -
       name: "Ignalina"
+      native: "Ignalina"
       code: "09"
       iso3166_2: "LT-09"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.3398975
       longitude: 26.1614043
       cities:
         []
     -
       name: "Jonava"
+      native: "Jonava"
       code: "10"
       iso3166_2: "LT-10"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.0727242
       longitude: 24.2793337
       cities:
         []
     -
       name: "Joniškis"
+      native: "Joniškis"
       code: "11"
       iso3166_2: "LT-11"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.236073
       longitude: 23.6136579
       cities:
         []
     -
       name: "Jurbarkas"
+      native: "Jurbarkas"
       code: "12"
       iso3166_2: "LT-12"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.0777077
       longitude: 22.7646945
       cities:
         []
     -
       name: "Kaišiadorys"
+      native: "Kaišiadorys"
       code: "13"
       iso3166_2: "LT-13"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.8602337
       longitude: 24.4544785
       cities:
         []
     -
       name: "Kalvarija"
+      native: "Kalvarija"
       code: "14"
       iso3166_2: "LT-14"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.3761674
       longitude: 23.1920321
       cities:
         []
     -
       name: "Kaunas"
+      native: "Kaunas"
       code: "KU"
       iso3166_2: "LT-KU"
       type: "county"
+      type_es: "condado"
       latitude: 54.8982139
       longitude: 23.9044817
       cities:
         []
     -
       name: "Kaunas"
+      native: "Kaunas"
       code: "16"
       iso3166_2: "LT-16"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.8982139
       longitude: 23.9044817
       cities:
         []
     -
       name: "Kaunas"
+      native: "Kaunas"
       code: "15"
       iso3166_2: "LT-15"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.8982139
       longitude: 23.9044817
       cities:
@@ -9870,45 +10544,55 @@
           longitude: 24.44073
     -
       name: "Kazlų Rūda"
+      native: "Kazlų Rūda"
       code: "17"
       iso3166_2: "LT-17"
       type: "municipality"
+      type_es: "municipio"
       latitude: 54.7520669
       longitude: 23.4985141
       cities:
         []
     -
       name: "Kėdainiai"
+      native: "Kėdainiai"
       code: "18"
       iso3166_2: "LT-18"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.2887322
       longitude: 23.9758359
       cities:
         []
     -
       name: "Kelmė"
+      native: "Kelmė"
       code: "19"
       iso3166_2: "LT-19"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.6294679
       longitude: 22.9313095
       cities:
         []
     -
       name: "Klaipėda"
+      native: "Klaipėda"
       code: "KL"
       iso3166_2: "LT-KL"
       type: "county"
+      type_es: "condado"
       latitude: 55.7127529
       longitude: 21.1350469
       cities:
         []
     -
       name: "Klaipėda"
+      native: "Klaipėda"
       code: "21"
       iso3166_2: "LT-21"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.7127529
       longitude: 21.1350469
       cities:
@@ -9966,45 +10650,55 @@
           longitude: 21.70364
     -
       name: "Klaipėdos miestas"
+      native: "Klaipėdos miestas"
       code: "20"
       iso3166_2: "LT-20"
       type: "city municipality"
+      type_es: "municipio urbano"
       latitude: 55.7032943
       longitude: 21.1442795
       cities:
         []
     -
       name: "Kretinga"
+      native: "Kretinga"
       code: "22"
       iso3166_2: "LT-22"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.883842
       longitude: 21.2350919
       cities:
         []
     -
       name: "Kupiškis"
+      native: "Kupiškis"
       code: "23"
       iso3166_2: "LT-23"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.8388909
       longitude: 24.9760431
       cities:
         []
     -
       name: "Lazdijai"
+      native: "Lazdijai"
       code: "24"
       iso3166_2: "LT-24"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.2343267
       longitude: 23.5156505
       cities:
         []
     -
       name: "Marijampolė"
+      native: "Marijampolė"
       code: "25"
       iso3166_2: "LT-25"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.5562536
       longitude: 23.3503665
       cities:
@@ -10062,81 +10756,99 @@
           longitude: 22.82272
     -
       name: "Marijampolė"
+      native: "Marijampolė"
       code: "MR"
       iso3166_2: "LT-MR"
       type: "county"
+      type_es: "condado"
       latitude: 54.5562536
       longitude: 23.3503665
       cities:
         []
     -
       name: "Mažeikiai"
+      native: "Mažeikiai"
       code: "26"
       iso3166_2: "LT-26"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.3092439
       longitude: 22.341468
       cities:
         []
     -
       name: "Molėtai"
+      native: "Molėtai"
       code: "27"
       iso3166_2: "LT-27"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.2265309
       longitude: 25.4180011
       cities:
         []
     -
       name: "Neringa"
+      native: "Neringa"
       code: "28"
       iso3166_2: "LT-28"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.4756828
       longitude: 21.092587
       cities:
         []
     -
       name: "Pagėgiai"
+      native: "Pagėgiai"
       code: "29"
       iso3166_2: "LT-29"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.133252
       longitude: 21.9104398
       cities:
         []
     -
       name: "Pakruojis"
+      native: "Pakruojis"
       code: "30"
       iso3166_2: "LT-30"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9777084
       longitude: 23.8451797
       cities:
         []
     -
       name: "Palanga"
+      native: "Palanga"
       code: "31"
       iso3166_2: "LT-31"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.920198
       longitude: 21.0677614
       cities:
         []
     -
       name: "Panevėžio miestas"
+      native: "Panevėžio miestas"
       code: "32"
       iso3166_2: "LT-32"
       type: "city municipality"
+      type_es: "municipio urbano"
       latitude: 55.7344985
       longitude: 24.3578055
       cities:
         []
     -
       name: "Panevėžys"
+      native: "Panevėžys"
       code: "33"
       iso3166_2: "LT-33"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.7344985
       longitude: 24.3578055
       cities:
@@ -10182,108 +10894,132 @@
           longitude: 24.74828
     -
       name: "Panevėžys"
+      native: "Panevėžys"
       code: "PN"
       iso3166_2: "LT-PN"
       type: "county"
+      type_es: "condado"
       latitude: 55.7344985
       longitude: 24.3578055
       cities:
         []
     -
       name: "Pasvalys"
+      native: "Pasvalys"
       code: "34"
       iso3166_2: "LT-34"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.0604619
       longitude: 24.396291
       cities:
         []
     -
       name: "Plungė"
+      native: "Plungė"
       code: "35"
       iso3166_2: "LT-35"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.910784
       longitude: 21.8454069
       cities:
         []
     -
       name: "Prienai"
+      native: "Prienai"
       code: "36"
       iso3166_2: "LT-36"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.638358
       longitude: 23.9468009
       cities:
         []
     -
       name: "Radviliškis"
+      native: "Radviliškis"
       code: "37"
       iso3166_2: "LT-37"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.8108399
       longitude: 23.546487
       cities:
         []
     -
       name: "Raseiniai"
+      native: "Raseiniai"
       code: "38"
       iso3166_2: "LT-38"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.3819499
       longitude: 23.1156129
       cities:
         []
     -
       name: "Rietavas"
+      native: "Rietavas"
       code: "39"
       iso3166_2: "LT-39"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.7229408
       longitude: 21.9270804
       cities:
         []
     -
       name: "Rokiškis"
+      native: "Rokiškis"
       code: "40"
       iso3166_2: "LT-40"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9555039
       longitude: 25.5859249
       cities:
         []
     -
       name: "Šakiai"
+      native: "Šakiai"
       code: "41"
       iso3166_2: "LT-41"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.952671
       longitude: 23.0480199
       cities:
         []
     -
       name: "Šalčininkai"
+      native: "Šalčininkai"
       code: "42"
       iso3166_2: "LT-42"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.309767
       longitude: 25.387564
       cities:
         []
     -
       name: "Šiauliai"
+      native: "Šiauliai"
       code: "SA"
       iso3166_2: "LT-SA"
       type: "county"
+      type_es: "condado"
       latitude: 55.9340823
       longitude: 23.3157775
       cities:
         []
     -
       name: "Šiauliai"
+      native: "Šiauliai"
       code: "43"
       iso3166_2: "LT-43"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9340823
       longitude: 23.3157775
       cities:
@@ -10341,63 +11077,77 @@
           longitude: 23.25094
     -
       name: "Šiauliai"
+      native: "Šiauliai"
       code: "44"
       iso3166_2: "LT-44"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9340823
       longitude: 23.3157775
       cities:
         []
     -
       name: "Šilalė "
+      native: "Šilalė"
       code: "45"
       iso3166_2: "LT-45"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.49268
       longitude: 22.1845559
       cities:
         []
     -
       name: "Šilutė"
+      native: "Šilutė"
       code: "46"
       iso3166_2: "LT-46"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.3413747
       longitude: 21.4605697
       cities:
         []
     -
       name: "Širvintos"
+      native: "Širvintos"
       code: "47"
       iso3166_2: "LT-47"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.043102
       longitude: 24.956981
       cities:
         []
     -
       name: "Skuodas"
+      native: "Skuodas"
       code: "48"
       iso3166_2: "LT-48"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 56.2702169
       longitude: 21.5214331
       cities:
         []
     -
       name: "Švenčionys"
+      native: "Švenčionys"
       code: "49"
       iso3166_2: "LT-49"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.1336865
       longitude: 26.1630146
       cities:
         []
     -
       name: "Tauragė"
+      native: "Tauragė"
       code: "TA"
       iso3166_2: "LT-TA"
       type: "county"
+      type_es: "condado"
       latitude: 55.3072586
       longitude: 22.3572939
       cities:
@@ -10423,18 +11173,22 @@
           longitude: 22.28972
     -
       name: "Tauragė"
+      native: "Tauragė"
       code: "50"
       iso3166_2: "LT-50"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.250366
       longitude: 22.29095
       cities:
         []
     -
       name: "Telšiai"
+      native: "Telšiai"
       code: "51"
       iso3166_2: "LT-51"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.9846135
       longitude: 22.2490753
       cities:
@@ -10472,45 +11226,55 @@
           longitude: 22.51667
     -
       name: "Telšiai"
+      native: "Telšiai"
       code: "TE"
       iso3166_2: "LT-TE"
       type: "county"
+      type_es: "condado"
       latitude: 55.9846135
       longitude: 22.2490753
       cities:
         []
     -
       name: "Trakai"
+      native: "Trakai"
       code: "52"
       iso3166_2: "LT-52"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.6379113
       longitude: 24.9346894
       cities:
         []
     -
       name: "Ukmergė"
+      native: "Ukmergė"
       code: "53"
       iso3166_2: "LT-53"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.2477293
       longitude: 24.7599714
       cities:
         []
     -
       name: "Utena"
+      native: "Utena"
       code: "54"
       iso3166_2: "LT-54"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.4871833
       longitude: 25.6386221
       cities:
         []
     -
       name: "Utena"
+      native: "Utena"
       code: "UT"
       iso3166_2: "LT-UT"
       type: "county"
+      type_es: "condado"
       latitude: 55.4871833
       longitude: 25.6386221
       cities:
@@ -10544,36 +11308,44 @@
           longitude: 26.25
     -
       name: "Varėna"
+      native: "Varėna"
       code: "55"
       iso3166_2: "LT-55"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.2121764
       longitude: 24.5673724
       cities:
         []
     -
       name: "Vilkaviškis"
+      native: "Vilkaviškis"
       code: "56"
       iso3166_2: "LT-56"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.651945
       longitude: 23.035155
       cities:
         []
     -
       name: "Vilnius"
+      native: "Vilnius"
       code: "58"
       iso3166_2: "LT-58"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.6870458
       longitude: 25.2829111
       cities:
         []
     -
       name: "Vilnius"
+      native: "Vilnius"
       code: "57"
       iso3166_2: "LT-57"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 54.6870458
       longitude: 25.2829111
       cities:
@@ -10695,27 +11467,33 @@
           longitude: 25.38333
     -
       name: "Vilnius"
+      native: "Vilnius"
       code: "VL"
       iso3166_2: "LT-VL"
       type: "county"
+      type_es: "condado"
       latitude: 54.6870458
       longitude: 25.2829111
       cities:
         []
     -
       name: "Visaginas"
+      native: "Visaginas"
       code: "59"
       iso3166_2: "LT-59"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.594118
       longitude: 26.4307954
       cities:
         []
     -
       name: "Zarasai"
+      native: "Zarasai"
       code: "60"
       iso3166_2: "LT-60"
       type: "district municipality"
+      type_es: "municipio distrital"
       latitude: 55.7309609
       longitude: 26.245295
       cities:
@@ -10734,16 +11512,20 @@
   currency_symbol: "£"
   tld: ".im"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 54.25
   longitude: -4.5
   emoji: "🇮🇲"
   states:
     -
       name: "Ayre"
+      native: "Ayre"
       code: "01"
       iso3166_2: "IM-01"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -10761,9 +11543,11 @@
           longitude: -4.5311015
     -
       name: "Garff"
+      native: "Garff"
       code: "02"
       iso3166_2: "IM-02"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -10781,9 +11565,11 @@
           longitude: -4.5490898
     -
       name: "Glenfaba"
+      native: "Glenfaba"
       code: "03"
       iso3166_2: "IM-03"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -10793,9 +11579,11 @@
           longitude: -4.7065273
     -
       name: "Michael"
+      native: "Michael"
       code: "04"
       iso3166_2: "IM-04"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -10813,9 +11601,11 @@
           longitude: -4.6427325
     -
       name: "Middle"
+      native: "Middle"
       code: "05"
       iso3166_2: "IM-05"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -10833,9 +11623,11 @@
           longitude: -4.6493775
     -
       name: "Rushen"
+      native: "Rush"
       code: "06"
       iso3166_2: "IM-06"
       type: "sheadings"
+      type_es: "sheadings"
       latitude: 54.2359207
       longitude: -4.5147669
       cities:
@@ -10865,16 +11657,20 @@
   currency_symbol: "ko"
   tld: ".no"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 62
   longitude: 10
   emoji: "🇳🇴"
   states:
     -
       name: "Agder"
+      native: "Agder"
       code: "42"
       iso3166_2: "NO-42"
       type: "county"
+      type_es: "condado"
       latitude: 58.7194423
       longitude: 8.0349635
       cities:
@@ -10980,9 +11776,11 @@
           longitude: 7.30497
     -
       name: "Akershus"
+      native: "Akershus"
       code: "32"
       iso3166_2: "NO-32"
       type: "county"
+      type_es: "condado"
       latitude: 60.0312215
       longitude: 11.3174619
       cities:
@@ -11180,9 +11978,11 @@
           longitude: 10.74807
     -
       name: "Buskerud"
+      native: "Buskerud"
       code: "33"
       iso3166_2: "NO-33"
       type: "county"
+      type_es: "condado"
       latitude: 60.2497876
       longitude: 8.9627868
       cities:
@@ -11320,9 +12120,11 @@
           longitude: 9.99107
     -
       name: "Finnmark"
+      native: "Finnmark"
       code: "56"
       iso3166_2: "NO-56"
       type: "county"
+      type_es: "condado"
       latitude: 69.9697735
       longitude: 24.7685788
       cities:
@@ -11516,9 +12318,11 @@
           longitude: 31.10866
     -
       name: "Innlandet"
+      native: "Innlandet"
       code: "34"
       iso3166_2: "NO-34"
       type: "county"
+      type_es: "condado"
       latitude: 63.1047826
       longitude: 7.7351793
       cities:
@@ -11820,18 +12624,22 @@
           longitude: 9.75134
     -
       name: "Jan Mayen"
+      native: "Jan Mayen"
       code: "22"
       iso3166_2: "NO-22"
       type: "arctic region"
+      type_es: "región ártica"
       latitude: 70.9931471
       longitude: -8.3520659
       cities:
         []
     -
       name: "Møre og Romsdal"
+      native: "Møre og Romsdal"
       code: "15"
       iso3166_2: "NO-15"
       type: "county"
+      type_es: "condado"
       latitude: 62.8452777
       longitude: 7.5181941
       cities:
@@ -12045,9 +12853,11 @@
           longitude: 6.068
     -
       name: "Nordland"
+      native: "Nordland"
       code: "18"
       iso3166_2: "NO-18"
       type: "county"
+      type_es: "condado"
       latitude: 67.2756405
       longitude: 13.8623606
       cities:
@@ -12365,9 +13175,11 @@
           longitude: 12.16734
     -
       name: "Oslo"
+      native: "Oslo"
       code: "03"
       iso3166_2: "NO-03"
       type: "county"
+      type_es: "condado"
       latitude: 59.9138688
       longitude: 10.7522454
       cities:
@@ -12381,9 +13193,11 @@
           longitude: 10.68017
     -
       name: "Østfold"
+      native: "Østfold"
       code: "31"
       iso3166_2: "NO-31"
       type: "county"
+      type_es: "condado"
       latitude: 59.2669302
       longitude: 11.2085719
       cities:
@@ -12501,9 +13315,11 @@
           longitude: 10.86551
     -
       name: "Rogaland"
+      native: "Rogaland"
       code: "11"
       iso3166_2: "NO-11"
       type: "county"
+      type_es: "condado"
       latitude: 58.9363137
       longitude: 5.8058786
       cities:
@@ -12705,18 +13521,22 @@
           longitude: 5.31962
     -
       name: "Svalbard"
+      native: "Svalbard"
       code: "21"
       iso3166_2: "NO-21"
       type: "arctic region"
+      type_es: "región ártica"
       latitude: 78.7198519
       longitude: 20.3493328
       cities:
         []
     -
       name: "Telemark"
+      native: "Telemark"
       code: "40"
       iso3166_2: "NO-40"
       type: "county"
+      type_es: "condado"
       latitude: 59.3962676
       longitude: 8.66266
       cities:
@@ -12830,9 +13650,11 @@
           longitude: 7.98896
     -
       name: "Troms"
+      native: "Troms"
       code: "55"
       iso3166_2: "NO-55"
       type: "county"
+      type_es: "condado"
       latitude: 69.5311071
       longitude: 19.5296839
       cities:
@@ -12910,9 +13732,11 @@
           longitude: 18.95702
     -
       name: "Trøndelag"
+      native: "Trøndelag"
       code: "50"
       iso3166_2: "NO-50"
       type: "county"
+      type_es: "condado"
       latitude: 63.8775924
       longitude: 10.1950505
       cities:
@@ -13186,9 +14010,11 @@
           longitude: 11.24198
     -
       name: "Vestfold"
+      native: "Vestfold"
       code: "39"
       iso3166_2: "NO-39"
       type: "county"
+      type_es: "condado"
       latitude: 59.1954857
       longitude: 10.2662616
       cities:
@@ -13270,9 +14096,11 @@
           longitude: 10.40762
     -
       name: "Vestland"
+      native: "Vestland"
       code: "46"
       iso3166_2: "NO-46"
       type: "county"
+      type_es: "condado"
       latitude: 60.9291011
       longitude: 6.1078869
       cities:
@@ -13686,7 +14514,9 @@
   currency_symbol: "ko"
   tld: ".sj"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 78
   longitude: 20
   emoji: "🇸🇯"
@@ -13706,16 +14536,20 @@
   currency_symbol: "ko"
   tld: ".se"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 62
   longitude: 15
   emoji: "🇸🇪"
   states:
     -
       name: "Blekinge"
+      native: "Blekinge"
       code: "K"
       iso3166_2: "SE-K"
       type: "county"
+      type_es: "condado"
       latitude: 56.1240122
       longitude: 15.4022088
       cities:
@@ -13789,9 +14623,11 @@
           longitude: 14.76667
     -
       name: "Dalarna"
+      native: "Dalarna"
       code: "W"
       iso3166_2: "SE-W"
       type: "county"
+      type_es: "condado"
       latitude: 61.0603778
       longitude: 14.2150873
       cities:
@@ -13937,9 +14773,11 @@
           longitude: 15.01667
     -
       name: "Gävleborg"
+      native: "Gävleborg"
       code: "X"
       iso3166_2: "SE-X"
       type: "county"
+      type_es: "condado"
       latitude: 61.2603424
       longitude: 16.6946985
       cities:
@@ -14057,9 +14895,11 @@
           longitude: 17.03333
     -
       name: "Gotland"
+      native: "Gotland"
       code: "I"
       iso3166_2: "SE-I"
       type: "county"
+      type_es: "condado"
       latitude: 57.4998732
       longitude: 18.4998927
       cities:
@@ -14085,9 +14925,11 @@
           longitude: 18.29602
     -
       name: "Halland"
+      native: "Halland"
       code: "N"
       iso3166_2: "SE-N"
       type: "county"
+      type_es: "condado"
       latitude: 56.9608104
       longitude: 12.8547066
       cities:
@@ -14229,18 +15071,22 @@
           longitude: 13.06667
     -
       name: "Jämtland"
+      native: "Jämtland"
       code: "Z"
       iso3166_2: "SE-Z"
       type: "county"
+      type_es: "condado"
       latitude: 63.3452222
       longitude: 14.124986
       cities:
         []
     -
       name: "Jönköping"
+      native: "Jönköping"
       code: "F"
       iso3166_2: "SE-F"
       type: "county"
+      type_es: "condado"
       latitude: 57.7825634
       longitude: 14.165719
       cities:
@@ -14402,9 +15248,11 @@
           longitude: 14.46667
     -
       name: "Kalmar"
+      native: "Kalmar"
       code: "H"
       iso3166_2: "SE-H"
       type: "county"
+      type_es: "condado"
       latitude: 56.666667
       longitude: 16.333056
       cities:
@@ -14538,9 +15386,11 @@
           longitude: 15.58333
     -
       name: "Kronoberg"
+      native: "Kronoberg"
       code: "G"
       iso3166_2: "SE-G"
       type: "county"
+      type_es: "condado"
       latitude: 56.8006781
       longitude: 14.411161
       cities:
@@ -14626,9 +15476,11 @@
           longitude: 14.45
     -
       name: "Norrbotten"
+      native: "Norrbotten"
       code: "BD"
       iso3166_2: "SE-BD"
       type: "county"
+      type_es: "condado"
       latitude: 66.52825
       longitude: 22.95302
       cities:
@@ -14750,9 +15602,11 @@
           longitude: 22.65128
     -
       name: "Örebro"
+      native: "Örebro"
       code: "T"
       iso3166_2: "SE-T"
       type: "county"
+      type_es: "condado"
       latitude: 59.2747287
       longitude: 15.2151181
       cities:
@@ -14854,9 +15708,11 @@
           longitude: 14.95
     -
       name: "Östergötland"
+      native: "Östergötland"
       code: "E"
       iso3166_2: "SE-E"
       type: "county"
+      type_es: "condado"
       latitude: 58.3650249
       longitude: 16.0447142
       cities:
@@ -15010,9 +15866,11 @@
           longitude: 15.43201
     -
       name: "Skåne"
+      native: "Skåne"
       code: "M"
       iso3166_2: "SE-M"
       type: "county"
+      type_es: "condado"
       latitude: 55.8479416
       longitude: 13.6337117
       cities:
@@ -15486,9 +16344,11 @@
           longitude: 13.82041
     -
       name: "Södermanland"
+      native: "Södermanland"
       code: "D"
       iso3166_2: "SE-D"
       type: "county"
+      type_es: "condado"
       latitude: 58.9649214
       longitude: 16.7294012
       cities:
@@ -15598,9 +16458,11 @@
           longitude: 15.87374
     -
       name: "Stockholm"
+      native: "Stockholm"
       code: "AB"
       iso3166_2: "SE-AB"
       type: "county"
+      type_es: "condado"
       latitude: 59.3336173
       longitude: 18.0276973
       cities:
@@ -15926,9 +16788,11 @@
           longitude: 18.35317
     -
       name: "Uppsala"
+      native: "Uppsala"
       code: "C"
       iso3166_2: "SE-C"
       type: "county"
+      type_es: "condado"
       latitude: 59.8661986
       longitude: 17.5984327
       cities:
@@ -16062,9 +16926,11 @@
           longitude: 17.73333
     -
       name: "Värmland"
+      native: "Värmland"
       code: "S"
       iso3166_2: "SE-S"
       type: "county"
+      type_es: "condado"
       latitude: 59.8907624
       longitude: 13.2947617
       cities:
@@ -16178,9 +17044,11 @@
           longitude: 13.18633
     -
       name: "Västerbotten"
+      native: "Västerbotten"
       code: "AC"
       iso3166_2: "SE-AC"
       type: "county"
+      type_es: "condado"
       latitude: 64.728471
       longitude: 18.5533235
       cities:
@@ -16334,9 +17202,11 @@
           longitude: 19.71945
     -
       name: "Västernorrland"
+      native: "Västernorrland"
       code: "Y"
       iso3166_2: "SE-Y"
       type: "county"
+      type_es: "condado"
       latitude: 63.0589693
       longitude: 18.1013686
       cities:
@@ -16446,9 +17316,11 @@
           longitude: 17.41667
     -
       name: "Västmanland"
+      native: "Västmanland"
       code: "U"
       iso3166_2: "SE-U"
       type: "county"
+      type_es: "condado"
       latitude: 59.6965639
       longitude: 16.1846541
       cities:
@@ -16534,9 +17406,11 @@
           longitude: 16.56445
     -
       name: "Västra Götaland"
+      native: "Västra Götaland"
       code: "O"
       iso3166_2: "SE-O"
       type: "county"
+      type_es: "condado"
       latitude: 58.2158502
       longitude: 12.6518208
       cities:
@@ -17094,16 +17968,20 @@
   currency_symbol: "£"
   tld: ".uk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 54
   longitude: -2
   emoji: "🇬🇧"
   states:
     -
       name: "Aberdeen"
+      native: "Aberdeen"
       code: "ABE"
       iso3166_2: "GB-ABE"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.149717
       longitude: -2.094278
       cities:
@@ -17213,9 +18091,11 @@
           longitude: -2.27966
     -
       name: "Aberdeenshire"
+      native: "Aberdeenshire"
       code: "ABD"
       iso3166_2: "GB-ABD"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.166667
       longitude: -2.666667
       cities:
@@ -17265,9 +18145,11 @@
           longitude: -2.45932
     -
       name: "Angus"
+      native: "Angus"
       code: "ANS"
       iso3166_2: "GB-ANS"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.666667
       longitude: -2.916667
       cities:
@@ -17321,9 +18203,11 @@
           longitude: -2.41553
     -
       name: "Antrim and Newtownabbey"
+      native: "Antrim and Newtownabbey"
       code: "ANN"
       iso3166_2: "GB-ANN"
       type: "district"
+      type_es: "distrito"
       latitude: 54.6897136
       longitude: -6.1710612
       cities:
@@ -17361,9 +18245,11 @@
           longitude: -6.08333
     -
       name: "Ards and North Down"
+      native: "Ards and North Down"
       code: "AND"
       iso3166_2: "GB-AND"
       type: "district"
+      type_es: "distrito"
       latitude: 54.6489642
       longitude: -5.5627852
       cities:
@@ -17413,9 +18299,11 @@
           longitude: -5.70933
     -
       name: "Argyll and Bute"
+      native: "Argyll and Bute"
       code: "AGB"
       iso3166_2: "GB-AGB"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.4603494
       longitude: -5.8618419
       cities:
@@ -17445,9 +18333,11 @@
           longitude: -6.07231
     -
       name: "Armagh, Banbridge and Craigavon"
+      native: "Armagh, Banbridge and Craigavon"
       code: "ABC"
       iso3166_2: "GB-ABC"
       type: "district"
+      type_es: "distrito"
       latitude: 54.3161085
       longitude: -6.7189182
       cities:
@@ -17477,9 +18367,11 @@
           longitude: -6.41396
     -
       name: "Barking and Dagenham"
+      native: "Barking and Dagenham"
       code: "BDG"
       iso3166_2: "GB-BDG"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5541171
       longitude: 0.1505051
       cities:
@@ -17505,9 +18397,11 @@
           longitude: 0.18582
     -
       name: "Barnet"
+      native: "Barnet"
       code: "BNE"
       iso3166_2: "GB-BNE"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.6049673
       longitude: -0.2076295
       cities:
@@ -17533,9 +18427,11 @@
           longitude: -0.28067
     -
       name: "Barnsley"
+      native: "Barnsley"
       code: "BNS"
       iso3166_2: "GB-BNS"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5527719
       longitude: -1.4827755
       cities:
@@ -17613,9 +18509,11 @@
           longitude: -1.51457
     -
       name: "Bath and North East Somerset"
+      native: "Bath and North East Somerset"
       code: "BAS"
       iso3166_2: "GB-BAS"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.3563238
       longitude: -2.4866614
       cities:
@@ -17793,9 +18691,11 @@
           longitude: -2.40574
     -
       name: "Bedford"
+      native: "Bedford"
       code: "BDF"
       iso3166_2: "GB-BDF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.1887014
       longitude: -0.4665892
       cities:
@@ -17973,9 +18873,11 @@
           longitude: -0.58099
     -
       name: "Belfast"
+      native: "Belfast"
       code: "BFS"
       iso3166_2: "GB-BFS"
       type: "district"
+      type_es: "distrito"
       latitude: 54.5975804
       longitude: -5.9277097
       cities:
@@ -18033,9 +18935,11 @@
           longitude: -5.90858
     -
       name: "Bexley"
+      native: "Bexley"
       code: "BEX"
       iso3166_2: "GB-BEX"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4402375
       longitude: 0.1479494
       cities:
@@ -18101,9 +19005,11 @@
           longitude: 0.26127
     -
       name: "Birmingham"
+      native: "Birmingham"
       code: "BIR"
       iso3166_2: "GB-BIR"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.4796992
       longitude: -1.9026911
       cities:
@@ -18157,9 +19063,11 @@
           longitude: -1.74005
     -
       name: "Blackburn with Darwen"
+      native: "Blackburn with Darwen"
       code: "BBD"
       iso3166_2: "GB-BBD"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.6957522
       longitude: -2.4682985
       cities:
@@ -18245,9 +19153,11 @@
           longitude: -2.41444
     -
       name: "Blackpool"
+      native: "Blackpool"
       code: "BPL"
       iso3166_2: "GB-BPL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.8175053
       longitude: -3.0356748
       cities:
@@ -18353,9 +19263,11 @@
           longitude: -2.91573
     -
       name: "Blaenau Gwent"
+      native: "Blaenau Gwent"
       code: "BGW"
       iso3166_2: "GB-BGW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7533711
       longitude: -3.1848444
       cities:
@@ -18417,9 +19329,11 @@
           longitude: -3.2
     -
       name: "Bolton"
+      native: "Bolton"
       code: "BOL"
       iso3166_2: "GB-BOL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 55.9208178
       longitude: -2.7905988
       cities:
@@ -18429,9 +19343,11 @@
           longitude: -2.01186
     -
       name: "Bournemouth, Christchurch and Poole"
+      native: "Bournemouth, Christchurch and Poole"
       code: "BCP"
       iso3166_2: "GB-BCP"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.7457035
       longitude: -2.1906224
       cities:
@@ -18541,9 +19457,11 @@
           longitude: -2.2189
     -
       name: "Bracknell Forest"
+      native: "Bracknell Forest"
       code: "BRC"
       iso3166_2: "GB-BRC"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4002688
       longitude: -0.7417888
       cities:
@@ -18625,9 +19543,11 @@
           longitude: -0.63695
     -
       name: "Bradford"
+      native: "Bradford"
       code: "BRD"
       iso3166_2: "GB-BRD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.795984
       longitude: -1.759398
       cities:
@@ -18733,9 +19653,11 @@
           longitude: -1.68743
     -
       name: "Brent"
+      native: "Brent"
       code: "BEN"
       iso3166_2: "GB-BEN"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 52.0188918
       longitude: -0.7235039
       cities:
@@ -18785,9 +19707,11 @@
           longitude: -0.64982
     -
       name: "Bridgend"
+      native: "Bridgend"
       code: "BGE"
       iso3166_2: "GB-BGE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5083199
       longitude: -3.5812075
       cities:
@@ -18845,9 +19769,11 @@
           longitude: -3.54944
     -
       name: "Brighton and Hove"
+      native: "Brighton and Hove"
       code: "BNH"
       iso3166_2: "GB-BNH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.8453169
       longitude: -0.1497469
       cities:
@@ -18981,9 +19907,11 @@
           longitude: -0.37538
     -
       name: "Bristol"
+      native: "Bristol"
       code: "BST"
       iso3166_2: "GB-BST"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4538022
       longitude: -2.5972985
       cities:
@@ -19017,9 +19945,11 @@
           longitude: -2.66098
     -
       name: "Bromley"
+      native: "Bromley"
       code: "BRY"
       iso3166_2: "GB-BRY"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3679705
       longitude: 0.070062
       cities:
@@ -19097,9 +20027,11 @@
           longitude: 0.30899
     -
       name: "Buckinghamshire"
+      native: "Buckinghamshire"
       code: "BKM"
       iso3166_2: "GB-BKM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7834994
       longitude: -0.8946441
       cities:
@@ -19185,9 +20117,11 @@
           longitude: -0.74244
     -
       name: "Bury"
+      native: "Bury"
       code: "BUR"
       iso3166_2: "GB-BUR"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5933498
       longitude: -2.2966054
       cities:
@@ -19241,9 +20175,11 @@
           longitude: -2.3
     -
       name: "Caerphilly"
+      native: "Caerphilly"
       code: "CAY"
       iso3166_2: "GB-CAY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.6723809
       longitude: -3.1783938
       cities:
@@ -19313,9 +20249,11 @@
           longitude: -3.30725
     -
       name: "Calderdale"
+      native: "Calderdale"
       code: "CLD"
       iso3166_2: "GB-CLD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.7204748
       longitude: -1.9622886
       cities:
@@ -19397,9 +20335,11 @@
           longitude: -2.10001
     -
       name: "Cambridgeshire"
+      native: "Cambridgeshire"
       code: "CAM"
       iso3166_2: "GB-CAM"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.333333
       longitude: 0.083333
       cities:
@@ -19657,9 +20597,11 @@
           longitude: 0.20602
     -
       name: "Camden"
+      native: "Camden"
       code: "CMD"
       iso3166_2: "GB-CMD"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5454736
       longitude: -0.1627902
       cities:
@@ -19673,9 +20615,11 @@
           longitude: -0.14334
     -
       name: "Cardiff"
+      native: "Cardiff"
       code: "CRF"
       iso3166_2: "GB-CRF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.481581
       longitude: -3.17909
       cities:
@@ -19713,9 +20657,11 @@
           longitude: -3.26369
     -
       name: "Carmarthenshire"
+      native: "Carmarthenshire"
       code: "CMN"
       iso3166_2: "GB-CMN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.8936698
       longitude: -4.2172827
       cities:
@@ -19789,9 +20735,11 @@
           longitude: -4.10972
     -
       name: "Causeway Coast and Glens"
+      native: "Causeway Coast and Glens"
       code: "CCG"
       iso3166_2: "GB-CCG"
       type: "district"
+      type_es: "distrito"
       latitude: 55.0361298
       longitude: -6.5909449
       cities:
@@ -19865,9 +20813,11 @@
           longitude: -6.71402
     -
       name: "Central Bedfordshire"
+      native: "Central Bedfordshire"
       code: "CBF"
       iso3166_2: "GB-CBF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.9980328
       longitude: -0.4791514
       cities:
@@ -20021,9 +20971,11 @@
           longitude: -0.44889
     -
       name: "Ceredigion"
+      native: "Ceredigion"
       code: "CGN"
       iso3166_2: "GB-CGN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.2945764
       longitude: -3.952781
       cities:
@@ -20081,9 +21033,11 @@
           longitude: -4.09276
     -
       name: "Cheshire East"
+      native: "Cheshire East"
       code: "CHE"
       iso3166_2: "GB-CHE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1673422
       longitude: -2.2928803
       cities:
@@ -20145,9 +21099,11 @@
           longitude: -2.4
     -
       name: "Cheshire West and Chester"
+      native: "Cheshire West and Chester"
       code: "CHW"
       iso3166_2: "GB-CHW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1637979
       longitude: -2.7285361
       cities:
@@ -20237,9 +21193,11 @@
           longitude: -2.52398
     -
       name: "City of Kingston upon Hull"
+      native: "City of Kingston upon Hull"
       code: "KHL"
       iso3166_2: "GB-KHL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.7676236
       longitude: -0.3274198
       cities:
@@ -20325,9 +21283,11 @@
           longitude: -0.33333
     -
       name: "City of Southampton"
+      native: "City of Southampton"
       code: "STH"
       iso3166_2: "GB-STH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.9001878
       longitude: -1.4139557
       cities:
@@ -20453,9 +21413,11 @@
           longitude: -1.64855
     -
       name: "Clackmannanshire"
+      native: "Clackmannanshire"
       code: "CLK"
       iso3166_2: "GB-CLK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.166395
       longitude: -3.7513968
       cities:
@@ -20509,9 +21471,11 @@
           longitude: -3.74015
     -
       name: "Conwy"
+      native: "Conwy"
       code: "CWY"
       iso3166_2: "GB-CWY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.2811822
       longitude: -3.8287012
       cities:
@@ -20605,9 +21569,11 @@
           longitude: -4.20476
     -
       name: "Cornwall"
+      native: "Cornwall"
       code: "CON"
       iso3166_2: "GB-CON"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.4433489
       longitude: -4.6246566
       cities:
@@ -20821,9 +21787,11 @@
           longitude: -4.83633
     -
       name: "Coventry"
+      native: "Coventry"
       code: "COV"
       iso3166_2: "GB-COV"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.406822
       longitude: -1.519693
       cities:
@@ -20889,9 +21857,11 @@
           longitude: -1.39544
     -
       name: "Croydon"
+      native: "Croydon"
       code: "CRY"
       iso3166_2: "GB-CRY"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3713049
       longitude: -0.101957
       cities:
@@ -20941,9 +21911,11 @@
           longitude: -0.03372
     -
       name: "Cumbria"
+      native: "Cumbria"
       code: "CMA"
       iso3166_2: "GB-CMA"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 54.6143136
       longitude: -2.9420899
       cities:
@@ -21073,9 +22045,11 @@
           longitude: -3.54413
     -
       name: "Darlington"
+      native: "Darlington"
       code: "DAL"
       iso3166_2: "GB-DAL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.5352564
       longitude: -1.552943
       cities:
@@ -21125,9 +22099,11 @@
           longitude: -1.61276
     -
       name: "Denbighshire"
+      native: "Denbighshire"
       code: "DEN"
       iso3166_2: "GB-DEN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1097895
       longitude: -3.3671284
       cities:
@@ -21169,9 +22145,11 @@
           longitude: -3.4203
     -
       name: "Derby"
+      native: "Derby"
       code: "DER"
       iso3166_2: "GB-DER"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1666927
       longitude: -1.5833223
       cities:
@@ -21209,9 +22187,11 @@
           longitude: -1.69044
     -
       name: "Derbyshire"
+      native: "Derbyshire"
       code: "DBY"
       iso3166_2: "GB-DBY"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.1185033
       longitude: -1.5566179
       cities:
@@ -21297,9 +22277,11 @@
           longitude: -1.57391
     -
       name: "Derry City and Strabane"
+      native: "Derry City and Strabane"
       code: "DRS"
       iso3166_2: "GB-DRS"
       type: "district"
+      type_es: "distrito"
       latitude: 55.0047443
       longitude: -7.3209222
       cities:
@@ -21345,9 +22327,11 @@
           longitude: -7.46916
     -
       name: "Devon"
+      native: "Devon"
       code: "DEV"
       iso3166_2: "GB-DEV"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.7241405
       longitude: -3.6607788
       cities:
@@ -21541,9 +22525,11 @@
           longitude: -3.4016
     -
       name: "Doncaster"
+      native: "Doncaster"
       code: "DNC"
       iso3166_2: "GB-DNC"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.52282
       longitude: -1.128462
       cities:
@@ -21669,9 +22655,11 @@
           longitude: -1.14261
     -
       name: "Dorset"
+      native: "Dorset"
       code: "DOR"
       iso3166_2: "GB-DOR"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.7487635
       longitude: -2.3444786
       cities:
@@ -21773,9 +22761,11 @@
           longitude: -2.57959
     -
       name: "Dudley"
+      native: "Dudley"
       code: "DUD"
       iso3166_2: "GB-DUD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 55.0541243
       longitude: -1.5949864
       cities:
@@ -21853,9 +22843,11 @@
           longitude: -1.62246
     -
       name: "Dumfries and Galloway"
+      native: "Dumfries and Galloway"
       code: "DGY"
       iso3166_2: "GB-DGY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.083333
       longitude: -3.833333
       cities:
@@ -21909,9 +22901,11 @@
           longitude: -3.76667
     -
       name: "Dundee"
+      native: "Dundee"
       code: "DND"
       iso3166_2: "GB-DND"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.462018
       longitude: -2.970721
       cities:
@@ -21961,9 +22955,11 @@
           longitude: -2.87966
     -
       name: "Durham"
+      native: "Durham"
       code: "DUR"
       iso3166_2: "GB-DUR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.666667
       longitude: -1.75
       cities:
@@ -22085,9 +23081,11 @@
           longitude: -1.88319
     -
       name: "Ealing"
+      native: "Ealing"
       code: "EAL"
       iso3166_2: "GB-EAL"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5250846
       longitude: -0.3142935
       cities:
@@ -22121,9 +23119,11 @@
           longitude: -0.29686
     -
       name: "East Ayrshire"
+      native: "East Ayrshire"
       code: "EAY"
       iso3166_2: "GB-EAY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.5
       longitude: -4.25
       cities:
@@ -22197,9 +23197,11 @@
           longitude: -4.48648
     -
       name: "East Dunbartonshire"
+      native: "East Dunbartonshire"
       code: "EDU"
       iso3166_2: "GB-EDU"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.933333
       longitude: -4.2
       cities:
@@ -22261,9 +23263,11 @@
           longitude: -4.08219
     -
       name: "East Lothian"
+      native: "East Lothian"
       code: "ELN"
       iso3166_2: "GB-ELN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.915797
       longitude: -2.7511952
       cities:
@@ -22333,9 +23337,11 @@
           longitude: -2.95412
     -
       name: "East Renfrewshire"
+      native: "East Renfrewshire"
       code: "ERW"
       iso3166_2: "GB-ERW"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.7494793
       longitude: -4.3606592
       cities:
@@ -22397,9 +23403,11 @@
           longitude: -4.28372
     -
       name: "East Riding of Yorkshire"
+      native: "East Riding of Yorkshire"
       code: "ERY"
       iso3166_2: "GB-ERY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.8735965
       longitude: -0.5347788
       cities:
@@ -22561,9 +23569,11 @@
           longitude: -0.39993
     -
       name: "East Sussex"
+      native: "East Sussex"
       code: "ESX"
       iso3166_2: "GB-ESX"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.9404266
       longitude: 0.3699978
       cities:
@@ -22721,9 +23731,11 @@
           longitude: 0.72158
     -
       name: "Edinburgh"
+      native: "Edinburgh"
       code: "EDH"
       iso3166_2: "GB-EDH"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.953252
       longitude: -3.188267
       cities:
@@ -22805,9 +23817,11 @@
           longitude: -3.04231
     -
       name: "Enfield"
+      native: "Enfield"
       code: "ENF"
       iso3166_2: "GB-ENF"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.6526384
       longitude: -0.0908639
       cities:
@@ -22845,18 +23859,22 @@
           longitude: -0.03575
     -
       name: "England"
+      native: "England"
       code: "ENG"
       iso3166_2: "GB-ENG"
       type: "country"
+      type_es: "país"
       latitude: 52.5310214
       longitude: -1.2649062
       cities:
         []
     -
       name: "Essex"
+      native: "Essex"
       code: "ESS"
       iso3166_2: "GB-ESS"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.7704679
       longitude: 0.4646698
       cities:
@@ -23062,9 +24080,11 @@
           longitude: 0.42938
     -
       name: "Falkirk"
+      native: "Falkirk"
       code: "FAL"
       iso3166_2: "GB-FAL"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.0018775
       longitude: -3.7839131
       cities:
@@ -23178,9 +24198,11 @@
           longitude: -3.74016
     -
       name: "Fermanagh and Omagh"
+      native: "Fermanagh and Omagh"
       code: "FMO"
       iso3166_2: "GB-FMO"
       type: "district"
+      type_es: "distrito"
       latitude: 54.3558863
       longitude: -7.5936636
       cities:
@@ -23222,9 +24244,11 @@
           longitude: -7.3
     -
       name: "Fife"
+      native: "Fife"
       code: "FIF"
       iso3166_2: "GB-FIF"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.3333331
       longitude: -3.0000001
       cities:
@@ -23354,9 +24378,11 @@
           longitude: -3.05274
     -
       name: "Flintshire"
+      native: "Flintshire"
       code: "FLN"
       iso3166_2: "GB-FLN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.2165096
       longitude: -3.1402189
       cities:
@@ -23430,9 +24456,11 @@
           longitude: -3.40776
     -
       name: "Gateshead"
+      native: "Gateshead"
       code: "GAT"
       iso3166_2: "GB-GAT"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.9625789
       longitude: -1.6019294
       cities:
@@ -23490,9 +24518,11 @@
           longitude: -1.67635
     -
       name: "Glasgow"
+      native: "Glasgow"
       code: "GLG"
       iso3166_2: "GB-GLG"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.864237
       longitude: -4.251806
       cities:
@@ -23534,9 +24564,11 @@
           longitude: -4.21376
     -
       name: "Gloucestershire"
+      native: "Gloucestershire"
       code: "GLS"
       iso3166_2: "GB-GLS"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.8333313
       longitude: -2.1666674
       cities:
@@ -23698,9 +24730,11 @@
           longitude: -1.96398
     -
       name: "Greenwich"
+      native: "Greenwich"
       code: "GRE"
       iso3166_2: "GB-GRE"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4686256
       longitude: 0.0488306
       cities:
@@ -23710,9 +24744,11 @@
           longitude: 0.10747
     -
       name: "Gwynedd"
+      native: "Gwynedd"
       code: "GWN"
       iso3166_2: "GB-GWN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.9089585
       longitude: -3.8335244
       cities:
@@ -23790,9 +24826,11 @@
           longitude: -3.92289
     -
       name: "Hackney"
+      native: "Hackney"
       code: "HCK"
       iso3166_2: "GB-HCK"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5488819
       longitude: -0.0476691
       cities:
@@ -23802,9 +24840,11 @@
           longitude: -0.06109
     -
       name: "Halton"
+      native: "Stop"
       code: "HAL"
       iso3166_2: "GB-HAL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 55.0049099
       longitude: -2.0045216
       cities:
@@ -23850,18 +24890,22 @@
           longitude: -1.82187
     -
       name: "Hammersmith and Fulham"
+      native: "Hammersmith and Fulham"
       code: "HMF"
       iso3166_2: "GB-HMF"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4990156
       longitude: -0.22915
       cities:
         []
     -
       name: "Hampshire"
+      native: "Hampshire"
       code: "HAM"
       iso3166_2: "GB-HAM"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.0449814
       longitude: -1.2433133
       cities:
@@ -23987,9 +25031,11 @@
           longitude: -1.3187
     -
       name: "Haringey"
+      native: "Haringey"
       code: "HRY"
       iso3166_2: "GB-HRY"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5906113
       longitude: -0.1109709
       cities:
@@ -24003,9 +25049,11 @@
           longitude: -0.09956
     -
       name: "Harrow"
+      native: "Harrow"
       code: "HRW"
       iso3166_2: "GB-HRW"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5881627
       longitude: -0.3422851
       cities:
@@ -24063,9 +25111,11 @@
           longitude: -0.39602
     -
       name: "Hartlepool"
+      native: "Hartlepool"
       code: "HPL"
       iso3166_2: "GB-HPL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.691745
       longitude: -1.212926
       cities:
@@ -24111,9 +25161,11 @@
           longitude: -1.37896
     -
       name: "Havering"
+      native: "Gardening"
       code: "HAV"
       iso3166_2: "GB-HAV"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5579262
       longitude: 0.2498128
       cities:
@@ -24163,9 +25215,11 @@
           longitude: 0.2556
     -
       name: "Herefordshire"
+      native: "Herefordshire"
       code: "HEF"
       iso3166_2: "GB-HEF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.083333
       longitude: -2.75
       cities:
@@ -24243,9 +25297,11 @@
           longitude: -2.85802
     -
       name: "Hertfordshire"
+      native: "Hertfordshire"
       code: "HRT"
       iso3166_2: "GB-HRT"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.8400523
       longitude: -0.0978552
       cities:
@@ -24383,9 +25439,11 @@
           longitude: -0.29371
     -
       name: "Highland"
+      native: "Highland"
       code: "HLD"
       iso3166_2: "GB-HLD"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.5066357
       longitude: -5.0038367
       cities:
@@ -24459,9 +25517,11 @@
           longitude: -5.16039
     -
       name: "Hillingdon"
+      native: "Hillingdon"
       code: "HIL"
       iso3166_2: "GB-HIL"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5351832
       longitude: -0.4481378
       cities:
@@ -24507,9 +25567,11 @@
           longitude: -0.46667
     -
       name: "Hounslow"
+      native: "Hounslow"
       code: "HNS"
       iso3166_2: "GB-HNS"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4617334
       longitude: -0.380131
       cities:
@@ -24559,9 +25621,11 @@
           longitude: -0.45975
     -
       name: "Inverclyde"
+      native: "Inverclyde"
       code: "IVC"
       iso3166_2: "GB-IVC"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.9
       longitude: -4.75
       cities:
@@ -24655,9 +25719,11 @@
           longitude: -4.8895
     -
       name: "Isle of Anglesey"
+      native: "Isle of Anglesey"
       code: "AGY"
       iso3166_2: "GB-AGY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.280702
       longitude: -4.6899519
       cities:
@@ -24711,9 +25777,11 @@
           longitude: -4.56644
     -
       name: "Isle of Wight"
+      native: "Isle of Wight"
       code: "IOW"
       iso3166_2: "GB-IOW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.6710482
       longitude: -1.3327111
       cities:
@@ -24787,9 +25855,11 @@
           longitude: -1.49929
     -
       name: "Isles of Scilly"
+      native: "Isles of Scilly"
       code: "IOS"
       iso3166_2: "GB-IOS"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 49.9203409
       longitude: -6.2928791
       cities:
@@ -24819,9 +25889,11 @@
           longitude: -6.2928791
     -
       name: "Islington"
+      native: "Islington"
       code: "ISL"
       iso3166_2: "GB-ISL"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5465063
       longitude: -0.1058058
       cities:
@@ -24851,9 +25923,11 @@
           longitude: -0.10304
     -
       name: "Kensington and Chelsea"
+      native: "Kensington and Chelsea"
       code: "KEC"
       iso3166_2: "GB-KEC"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4990805
       longitude: -0.1938253
       cities:
@@ -24871,9 +25945,11 @@
           longitude: -0.16667
     -
       name: "Kent"
+      native: "Kent"
       code: "KEN"
       iso3166_2: "GB-KEN"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.2070748
       longitude: 0.7210362
       cities:
@@ -25011,9 +26087,11 @@
           longitude: 0.4292
     -
       name: "Kingston upon Thames"
+      native: "Kingston upon Thames"
       code: "KTT"
       iso3166_2: "GB-KTT"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3817763
       longitude: -0.2769933
       cities:
@@ -25067,9 +26145,11 @@
           longitude: -0.24445
     -
       name: "Kirklees"
+      native: "Kirklees"
       code: "KIR"
       iso3166_2: "GB-KIR"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.6422635
       longitude: -1.7809433
       cities:
@@ -25163,9 +26243,11 @@
           longitude: -1.83181
     -
       name: "Knowsley"
+      native: "Knowsley"
       code: "KWL"
       iso3166_2: "GB-KWL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.454594
       longitude: -2.852907
       cities:
@@ -25187,9 +26269,11 @@
           longitude: -2.80031
     -
       name: "Lambeth"
+      native: "Lambeth"
       code: "LBH"
       iso3166_2: "GB-LBH"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4952111
       longitude: -0.1163354
       cities:
@@ -25203,9 +26287,11 @@
           longitude: -0.11152
     -
       name: "Lancashire"
+      native: "Lancashire"
       code: "LAN"
       iso3166_2: "GB-LAN"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.8611712
       longitude: -2.5650945
       cities:
@@ -25327,9 +26413,11 @@
           longitude: -2.40712
     -
       name: "Leeds"
+      native: "Leeds"
       code: "LDS"
       iso3166_2: "GB-LDS"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.8007554
       longitude: -1.5490774
       cities:
@@ -25431,9 +26519,11 @@
           longitude: -1.38672
     -
       name: "Leicester"
+      native: "Leicester"
       code: "LCE"
       iso3166_2: "GB-LCE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.6368778
       longitude: -1.1397592
       cities:
@@ -25527,9 +26617,11 @@
           longitude: -1.09248
     -
       name: "Leicestershire"
+      native: "Leicestershire"
       code: "LEC"
       iso3166_2: "GB-LEC"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.6849137
       longitude: -1.1847653
       cities:
@@ -25659,9 +26751,11 @@
           longitude: -1.11288
     -
       name: "Lewisham"
+      native: "Lewisham"
       code: "LEW"
       iso3166_2: "GB-LEW"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4535207
       longitude: -0.0124751
       cities:
@@ -25675,9 +26769,11 @@
           longitude: 0.0079
     -
       name: "Lincolnshire"
+      native: "Lincolnshire"
       code: "LIN"
       iso3166_2: "GB-LIN"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.1282267
       longitude: -0.1901974
       cities:
@@ -25863,9 +26959,11 @@
           longitude: -0.3
     -
       name: "Lisburn and Castlereagh"
+      native: "Lisburn and Castlereagh"
       code: "LBC"
       iso3166_2: "GB-LBC"
       type: "district"
+      type_es: "distrito"
       latitude: 54.4974026
       longitude: -6.0330739
       cities:
@@ -25931,9 +27029,11 @@
           longitude: -6.29929
     -
       name: "Liverpool"
+      native: "Liverpool"
       code: "LIV"
       iso3166_2: "GB-LIV"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4071991
       longitude: -2.99168
       cities:
@@ -25951,18 +27051,22 @@
           longitude: -3.06497
     -
       name: "London"
+      native: "London"
       code: "LND"
       iso3166_2: "GB-LND"
       type: "city"
+      type_es: "ciudad"
       latitude: 51.5123443
       longitude: -0.0909852
       cities:
         []
     -
       name: "Luton"
+      native: "Luton"
       code: "LUT"
       iso3166_2: "GB-LUT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.8910773
       longitude: -0.5103349
       cities:
@@ -26048,9 +27152,11 @@
           longitude: -0.65824
     -
       name: "Manchester"
+      native: "Manchester"
       code: "MAN"
       iso3166_2: "GB-MAN"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4807593
       longitude: -2.2426305
       cities:
@@ -26084,9 +27190,11 @@
           longitude: -2.20104
     -
       name: "Medway"
+      native: "Medway"
       code: "MDW"
       iso3166_2: "GB-MDW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4157386
       longitude: 0.5687309
       cities:
@@ -26204,9 +27312,11 @@
           longitude: 0.45816
     -
       name: "Merthyr Tydfil"
+      native: "Merthyr Tydfil"
       code: "MTY"
       iso3166_2: "GB-MTY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7467474
       longitude: -3.3813275
       cities:
@@ -26252,9 +27362,11 @@
           longitude: -3.28553
     -
       name: "Merton"
+      native: "Merton"
       code: "MRT"
       iso3166_2: "GB-MRT"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4108698
       longitude: -0.1880971
       cities:
@@ -26268,9 +27380,11 @@
           longitude: -0.19837
     -
       name: "Mid and East Antrim"
+      native: "Mid and East Antrim"
       code: "MEA"
       iso3166_2: "GB-MEA"
       type: "district"
+      type_es: "distrito"
       latitude: 54.8725745
       longitude: -6.150246
       cities:
@@ -26316,9 +27430,11 @@
           longitude: -6.10141
     -
       name: "Mid Ulster"
+      native: "Mid Ulster"
       code: "MUL"
       iso3166_2: "GB-MUL"
       type: "district"
+      type_es: "distrito"
       latitude: 54.6385573
       longitude: -6.692581
       cities:
@@ -26360,9 +27476,11 @@
           longitude: -6.66956
     -
       name: "Middlesbrough"
+      native: "Middlesbrough"
       code: "MDB"
       iso3166_2: "GB-MDB"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.574227
       longitude: -1.234956
       cities:
@@ -26380,9 +27498,11 @@
           longitude: -1.1933
     -
       name: "Midlothian"
+      native: "Midlothian"
       code: "MLN"
       iso3166_2: "GB-MLN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.833333
       longitude: -3.083333
       cities:
@@ -26436,9 +27556,11 @@
           longitude: -3.35607
     -
       name: "Milton Keynes"
+      native: "Milton Keynes"
       code: "MIK"
       iso3166_2: "GB-MIK"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.0406502
       longitude: -0.7594092
       cities:
@@ -26532,9 +27654,11 @@
           longitude: -0.88131
     -
       name: "Monmouthshire"
+      native: "Monmouthshire"
       code: "MON"
       iso3166_2: "GB-MON"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7501058
       longitude: -2.8333331
       cities:
@@ -26584,9 +27708,11 @@
           longitude: -2.90332
     -
       name: "Moray"
+      native: "Moray"
       code: "MRY"
       iso3166_2: "GB-MRY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.416667
       longitude: -3.25
       cities:
@@ -26728,9 +27854,11 @@
           longitude: -2.57863
     -
       name: "Neath Port Talbot"
+      native: "Neath Port Talbot"
       code: "NTL"
       iso3166_2: "GB-NTL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.6689557
       longitude: -3.7218179
       cities:
@@ -26804,9 +27932,11 @@
           longitude: -3.78082
     -
       name: "Newcastle upon Tyne"
+      native: "Newcastle upon Tyne"
       code: "NET"
       iso3166_2: "GB-NET"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.978252
       longitude: -1.61778
       cities:
@@ -26840,9 +27970,11 @@
           longitude: -1.66667
     -
       name: "Newham"
+      native: "Newham"
       code: "NWM"
       iso3166_2: "GB-NWM"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5255162
       longitude: 0.0352163
       cities:
@@ -26856,18 +27988,22 @@
           longitude: -0.02085
     -
       name: "Newport"
+      native: "Newport"
       code: "NWP"
       iso3166_2: "GB-NWP"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.7688594
       longitude: -2.3783676
       cities:
         []
     -
       name: "Newry, Mourne and Down"
+      native: "Newry, Mourne and Down"
       code: "NMD"
       iso3166_2: "GB-NMD"
       type: "district"
+      type_es: "distrito"
       latitude: 54.1775283
       longitude: -6.337506
       cities:
@@ -26921,9 +28057,11 @@
           longitude: -6.25731
     -
       name: "Norfolk"
+      native: "Norfolk"
       code: "NFK"
       iso3166_2: "GB-NFK"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.666667
       longitude: 1
       cities:
@@ -27185,9 +28323,11 @@
           longitude: 0.8511
     -
       name: "North Ayrshire"
+      native: "North Ayrshire"
       code: "NAY"
       iso3166_2: "GB-NAY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.7278508
       longitude: -4.7271767
       cities:
@@ -27281,9 +28421,11 @@
           longitude: -4.85771
     -
       name: "North East Lincolnshire"
+      native: "North East Lincolnshire"
       code: "NEL"
       iso3166_2: "GB-NEL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.5368033
       longitude: -0.093681
       cities:
@@ -27381,9 +28523,11 @@
           longitude: 0.03347
     -
       name: "North Lanarkshire"
+      native: "North Lanarkshire"
       code: "NLK"
       iso3166_2: "GB-NLK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.8830507
       longitude: -3.9461551
       cities:
@@ -27533,9 +28677,11 @@
           longitude: -3.91667
     -
       name: "North Lincolnshire"
+      native: "North Lincolnshire"
       code: "NLN"
       iso3166_2: "GB-NLN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.5897441
       longitude: -0.602323
       cities:
@@ -27673,9 +28819,11 @@
           longitude: -0.46194
     -
       name: "North Northamptonshire"
+      native: "North Northamptonshire"
       code: "NNH"
       iso3166_2: "GB-NNH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.4171085
       longitude: -0.9535511
       cities:
@@ -27761,9 +28909,11 @@
           longitude: -1.07804
     -
       name: "North Somerset"
+      native: "North Somerset"
       code: "NSM"
       iso3166_2: "GB-NSM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.3966305
       longitude: -2.7691289
       cities:
@@ -27873,9 +29023,11 @@
           longitude: -2.82353
     -
       name: "North Tyneside"
+      native: "North Tyneside"
       code: "NTY"
       iso3166_2: "GB-NTY"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 55.0297994
       longitude: -1.508256
       cities:
@@ -27909,9 +29061,11 @@
           longitude: -1.44713
     -
       name: "North Yorkshire"
+      native: "North Yorkshire"
       code: "NYK"
       iso3166_2: "GB-NYK"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 54.0915928
       longitude: -1.5359113
       cities:
@@ -27965,18 +29119,22 @@
           longitude: -1.34411
     -
       name: "Northern Ireland"
+      native: "Northern Ireland"
       code: "NIR"
       iso3166_2: "GB-NIR"
       type: "province"
+      type_es: "provincia"
       latitude: 54.5859836
       longitude: -6.9591554
       cities:
         []
     -
       name: "Northumberland"
+      native: "Northumberland"
       code: "NBL"
       iso3166_2: "GB-NBL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 55.25
       longitude: -2.000559
       cities:
@@ -28074,9 +29232,11 @@
           longitude: -2.01186
     -
       name: "Nottingham"
+      native: "Nottingham"
       code: "NGM"
       iso3166_2: "GB-NGM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.9547832
       longitude: -1.1581086
       cities:
@@ -28226,9 +29386,11 @@
           longitude: -1.35846
     -
       name: "Nottinghamshire"
+      native: "Nottinghamshire"
       code: "NTT"
       iso3166_2: "GB-NTT"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.1459288
       longitude: -1.0214971
       cities:
@@ -28386,9 +29548,11 @@
           longitude: -1.12404
     -
       name: "Oldham"
+      native: "Oldham"
       code: "OLD"
       iso3166_2: "GB-OLD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5415797
       longitude: -2.1147831
       cities:
@@ -28426,9 +29590,11 @@
           longitude: -2.08333
     -
       name: "Orkney Islands"
+      native: "Orkney Islands"
       code: "ORK"
       iso3166_2: "GB-ORK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 58.9418231
       longitude: -3.1296944
       cities:
@@ -28462,9 +29628,11 @@
           longitude: -3.09424
     -
       name: "Outer Hebrides"
+      native: "Outer Hebrides"
       code: "ELS"
       iso3166_2: "GB-ELS"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.666667
       longitude: -7.166667
       cities:
@@ -28502,9 +29670,11 @@
           longitude: -6.38649
     -
       name: "Oxfordshire"
+      native: "Oxfordshire"
       code: "OXF"
       iso3166_2: "GB-OXF"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.833333
       longitude: -1.25
       cities:
@@ -28658,9 +29828,11 @@
           longitude: -1.31149
     -
       name: "Pembrokeshire"
+      native: "Pembrokeshire"
       code: "PEM"
       iso3166_2: "GB-PEM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.8339209
       longitude: -4.916667
       cities:
@@ -28770,9 +29942,11 @@
           longitude: -4.61528
     -
       name: "Perth and Kinross"
+      native: "Perth and Kinross"
       code: "PKN"
       iso3166_2: "GB-PKN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.5
       longitude: -3.75
       cities:
@@ -28826,9 +30000,11 @@
           longitude: -3.45184
     -
       name: "Peterborough"
+      native: "Peterborough"
       code: "PTE"
       iso3166_2: "GB-PTE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.5725769
       longitude: -0.2427336
       cities:
@@ -28978,9 +30154,11 @@
           longitude: -0.25852
     -
       name: "Plymouth"
+      native: "Plymouth"
       code: "PLY"
       iso3166_2: "GB-PLY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.3714122
       longitude: -4.1424451
       cities:
@@ -29062,9 +30240,11 @@
           longitude: -4.08382
     -
       name: "Portsmouth"
+      native: "Portsmouth"
       code: "POR"
       iso3166_2: "GB-POR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.800031
       longitude: -1.0906023
       cities:
@@ -29162,9 +30342,11 @@
           longitude: -1.18815
     -
       name: "Powys"
+      native: "Powys"
       code: "POW"
       iso3166_2: "GB-POW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.3271499
       longitude: -3.3553352
       cities:
@@ -29214,9 +30396,11 @@
           longitude: -3.1471
     -
       name: "Reading"
+      native: "Reading"
       code: "RDG"
       iso3166_2: "GB-RDG"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4514953
       longitude: -0.9836342
       cities:
@@ -29290,9 +30474,11 @@
           longitude: -0.86577
     -
       name: "Redbridge"
+      native: "Redbridge"
       code: "RDB"
       iso3166_2: "GB-RDB"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5765828
       longitude: 0.0453401
       cities:
@@ -29318,9 +30504,11 @@
           longitude: 0.09781
     -
       name: "Redcar and Cleveland"
+      native: "Redcar and Cleveland"
       code: "RCC"
       iso3166_2: "GB-RCC"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.5679056
       longitude: -1.0054963
       cities:
@@ -29398,9 +30586,11 @@
           longitude: -0.61498
     -
       name: "Renfrewshire"
+      native: "Renfrewshire"
       code: "RFW"
       iso3166_2: "GB-RFW"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.833333
       longitude: -4.5
       cities:
@@ -29462,9 +30652,11 @@
           longitude: -4.5
     -
       name: "Rhondda Cynon Taf"
+      native: "Rhondda Cynon Taf"
       code: "RCT"
       iso3166_2: "GB-RCT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.6651636
       longitude: -3.4577558
       cities:
@@ -29538,9 +30730,11 @@
           longitude: -3.36036
     -
       name: "Richmond upon Thames"
+      native: "Richmond upon Thames"
       code: "RIC"
       iso3166_2: "GB-RIC"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4405529
       longitude: -0.3076394
       cities:
@@ -29562,9 +30756,11 @@
           longitude: -0.37997
     -
       name: "Rochdale"
+      native: "Roughly"
       code: "RCH"
       iso3166_2: "GB-RCH"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.6097136
       longitude: -2.1561
       cities:
@@ -29602,9 +30798,11 @@
           longitude: -2.1771
     -
       name: "Rotherham"
+      native: "Rotherham"
       code: "ROT"
       iso3166_2: "GB-ROT"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4326035
       longitude: -1.3635009
       cities:
@@ -29682,9 +30880,11 @@
           longitude: -1.17204
     -
       name: "Rutland"
+      native: "Rutland"
       code: "RUT"
       iso3166_2: "GB-RUT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.6423036
       longitude: -0.6632643
       cities:
@@ -29810,9 +31010,11 @@
           longitude: -0.72272
     -
       name: "Salford"
+      native: "Salford"
       code: "SLF"
       iso3166_2: "GB-SLF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4875235
       longitude: -2.2901264
       cities:
@@ -29854,9 +31056,11 @@
           longitude: -2.4
     -
       name: "Sandwell"
+      native: "Sandwell"
       code: "SAW"
       iso3166_2: "GB-SAW"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.5148466
       longitude: -2.0134889
       cities:
@@ -29930,18 +31134,22 @@
           longitude: -1.9945
     -
       name: "Scotland"
+      native: "Scotland"
       code: "SCT"
       iso3166_2: "GB-SCT"
       type: "country"
+      type_es: "país"
       latitude: 56.7861112
       longitude: -4.1140518
       cities:
         []
     -
       name: "Scottish Borders"
+      native: "Scottish Borders"
       code: "SCB"
       iso3166_2: "GB-SCB"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.583333
       longitude: -2.833333
       cities:
@@ -30011,9 +31219,11 @@
           longitude: -2.76692
     -
       name: "Sefton"
+      native: "Sefton"
       code: "SFT"
       iso3166_2: "GB-SFT"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5034449
       longitude: -2.970359
       cities:
@@ -30067,9 +31277,11 @@
           longitude: -3.03017
     -
       name: "Sheffield"
+      native: "Sheffield"
       code: "SHF"
       iso3166_2: "GB-SHF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.3806626
       longitude: -1.4702278
       cities:
@@ -30119,9 +31331,11 @@
           longitude: -1.35
     -
       name: "Shetland Islands"
+      native: "Shetland Islands"
       code: "ZET"
       iso3166_2: "GB-ZET"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 60.333333
       longitude: -1.333333
       cities:
@@ -30139,9 +31353,11 @@
           longitude: -1.333333
     -
       name: "Shropshire"
+      native: "Shropshire"
       code: "SHR"
       iso3166_2: "GB-SHR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.6523393
       longitude: -2.7958679
       cities:
@@ -30219,9 +31435,11 @@
           longitude: -2.75
     -
       name: "Slough"
+      native: "Slough"
       code: "SLG"
       iso3166_2: "GB-SLG"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5105384
       longitude: -0.5950406
       cities:
@@ -30307,9 +31525,11 @@
           longitude: -0.6
     -
       name: "Solihull"
+      native: "Solihull"
       code: "SOL"
       iso3166_2: "GB-SOL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.411811
       longitude: -1.77761
       cities:
@@ -30371,9 +31591,11 @@
           longitude: -1.89188
     -
       name: "Somerset"
+      native: "Somerset"
       code: "SOM"
       iso3166_2: "GB-SOM"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.083333
       longitude: -3
       cities:
@@ -30543,9 +31765,11 @@
           longitude: -2.93814
     -
       name: "South Ayrshire"
+      native: "South Ayrshire"
       code: "SAY"
       iso3166_2: "GB-SAY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.299818
       longitude: -4.6459884
       cities:
@@ -30607,9 +31831,11 @@
           longitude: -5.02731
     -
       name: "South Gloucestershire"
+      native: "South Gloucestershire"
       code: "SGC"
       iso3166_2: "GB-SGC"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5491916
       longitude: -2.4809528
       cities:
@@ -30723,9 +31949,11 @@
           longitude: -2.41839
     -
       name: "South Lanarkshire"
+      native: "South Lanarkshire"
       code: "SLK"
       iso3166_2: "GB-SLK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.5831634
       longitude: -3.8332212
       cities:
@@ -30783,9 +32011,11 @@
           longitude: -4.0668
     -
       name: "South Tyneside"
+      native: "South Tyneside"
       code: "STY"
       iso3166_2: "GB-STY"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.9636693
       longitude: -1.4418634
       cities:
@@ -30823,9 +32053,11 @@
           longitude: -1.36861
     -
       name: "Southend-on-Sea"
+      native: "Southend-on-Sea"
       code: "SOS"
       iso3166_2: "GB-SOS"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5459269
       longitude: 0.7077123
       cities:
@@ -30939,9 +32171,11 @@
           longitude: 0.69179
     -
       name: "Southwark"
+      native: "Southwark"
       code: "SWK"
       iso3166_2: "GB-SWK"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4652545
       longitude: -0.0690186
       cities:
@@ -30959,9 +32193,11 @@
           longitude: -0.06969
     -
       name: "St Helens"
+      native: "St Helens"
       code: "SHN"
       iso3166_2: "GB-SHN"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4535471
       longitude: -2.7343231
       cities:
@@ -30991,9 +32227,11 @@
           longitude: -2.73333
     -
       name: "Staffordshire"
+      native: "Staffordshire"
       code: "STS"
       iso3166_2: "GB-STS"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.8246942
       longitude: -2.0074547
       cities:
@@ -31063,9 +32301,11 @@
           longitude: -1.79068
     -
       name: "Stirling"
+      native: "Stirling"
       code: "STG"
       iso3166_2: "GB-STG"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.1165227
       longitude: -3.9369029
       cities:
@@ -31119,9 +32359,11 @@
           longitude: -3.83835
     -
       name: "Stockport"
+      native: "Stockport"
       code: "SKP"
       iso3166_2: "GB-SKP"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4106316
       longitude: -2.1575332
       cities:
@@ -31223,9 +32465,11 @@
           longitude: -2.23148
     -
       name: "Stockton-on-Tees"
+      native: "Stockton-on-Tees"
       code: "STT"
       iso3166_2: "GB-STT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.564094
       longitude: -1.3129164
       cities:
@@ -31267,9 +32511,11 @@
           longitude: -1.35793
     -
       name: "Stoke-on-Trent"
+      native: "Stoke-on-Trent"
       code: "STE"
       iso3166_2: "GB-STE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.0162014
       longitude: -2.1812607
       cities:
@@ -31339,9 +32585,11 @@
           longitude: -2.2114
     -
       name: "Suffolk"
+      native: "Suffolk"
       code: "SFK"
       iso3166_2: "GB-SFK"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.2410014
       longitude: 1.0465716
       cities:
@@ -31599,9 +32847,11 @@
           longitude: 0.88826
     -
       name: "Sunderland"
+      native: "Sunderland"
       code: "SND"
       iso3166_2: "GB-SND"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.9058512
       longitude: -1.3828727
       cities:
@@ -31663,9 +32913,11 @@
           longitude: -1.5
     -
       name: "Surrey"
+      native: "Surrey"
       code: "SRY"
       iso3166_2: "GB-SRY"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.2715316
       longitude: -0.3414524
       cities:
@@ -31819,9 +33071,11 @@
           longitude: -0.37195
     -
       name: "Sutton"
+      native: "Suton"
       code: "STN"
       iso3166_2: "GB-STN"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3573762
       longitude: -0.1752796
       cities:
@@ -31851,9 +33105,11 @@
           longitude: -0.2
     -
       name: "Swansea"
+      native: "Swansea"
       code: "SWA"
       iso3166_2: "GB-SWA"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.62144
       longitude: -3.943646
       cities:
@@ -31927,9 +33183,11 @@
           longitude: -4.02
     -
       name: "Swindon"
+      native: "Swindon"
       code: "SWD"
       iso3166_2: "GB-SWD"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5557739
       longitude: -1.7797176
       cities:
@@ -32047,9 +33305,11 @@
           longitude: -1.79559
     -
       name: "Tameside"
+      native: "Tameside"
       code: "TAM"
       iso3166_2: "GB-TAM"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4805828
       longitude: -2.0809891
       cities:
@@ -32111,9 +33371,11 @@
           longitude: -2.05908
     -
       name: "Telford and Wrekin"
+      native: "Telford and Wrekin"
       code: "TFW"
       iso3166_2: "GB-TFW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.7214452
       longitude: -2.5008624
       cities:
@@ -32183,9 +33445,11 @@
           longitude: -2.33333
     -
       name: "Thurrock"
+      native: "Thurrock"
       code: "THR"
       iso3166_2: "GB-THR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5080169
       longitude: 0.3962817
       cities:
@@ -32259,9 +33523,11 @@
           longitude: 0.52331
     -
       name: "Torbay"
+      native: "Torbay"
       code: "TOB"
       iso3166_2: "GB-TOB"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.4392329
       longitude: -3.5369899
       cities:
@@ -32359,9 +33625,11 @@
           longitude: -3.6843
     -
       name: "Torfaen"
+      native: "Torfaen"
       code: "TOF"
       iso3166_2: "GB-TOF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7002253
       longitude: -3.0446015
       cities:
@@ -32395,9 +33663,11 @@
           longitude: -3.05136
     -
       name: "Tower Hamlets"
+      native: "Tower Hamlets"
       code: "TWH"
       iso3166_2: "GB-TWH"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.1288633
       longitude: 1.2986686
       cities:
@@ -32519,9 +33789,11 @@
           longitude: 1.1794
     -
       name: "Trafford"
+      native: "Trafford"
       code: "TRF"
       iso3166_2: "GB-TRF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.418936
       longitude: -2.3592972
       cities:
@@ -32583,9 +33855,11 @@
           longitude: -2.35419
     -
       name: "Vale of Glamorgan"
+      native: "Vale of Glamorgan"
       code: "VGL"
       iso3166_2: "GB-VGL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4470646
       longitude: -3.3988831
       cities:
@@ -32631,9 +33905,11 @@
           longitude: -3.41667
     -
       name: "Wakefield"
+      native: "Wakefield"
       code: "WKF"
       iso3166_2: "GB-WKF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.6829541
       longitude: -1.4967286
       cities:
@@ -32735,18 +34011,22 @@
           longitude: -1.49768
     -
       name: "Wales"
+      native: "Wales"
       code: "WLS"
       iso3166_2: "GB-WLS"
       type: "country"
+      type_es: "país"
       latitude: 52.2928116
       longitude: -3.73893
       cities:
         []
     -
       name: "Walsall"
+      native: "Walsall"
       code: "WLL"
       iso3166_2: "GB-WLL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.586214
       longitude: -1.982919
       cities:
@@ -32820,9 +34100,11 @@
           longitude: -1.76091
     -
       name: "Waltham Forest"
+      native: "Waltham Forest"
       code: "WFT"
       iso3166_2: "GB-WFT"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5982633
       longitude: -0.0177388
       cities:
@@ -32840,9 +34122,11 @@
           longitude: 0.02329
     -
       name: "Wandsworth"
+      native: "Wandsworth"
       code: "WND"
       iso3166_2: "GB-WND"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4568274
       longitude: -0.1896638
       cities:
@@ -32852,9 +34136,11 @@
           longitude: -0.1854
     -
       name: "Warrington"
+      native: "Warrington"
       code: "WRT"
       iso3166_2: "GB-WRT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.3899497
       longitude: -2.5943178
       cities:
@@ -32928,9 +34214,11 @@
           longitude: -2.6
     -
       name: "Warwickshire"
+      native: "Warwickshire"
       code: "WAR"
       iso3166_2: "GB-WAR"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.3213064
       longitude: -1.5536906
       cities:
@@ -32984,9 +34272,11 @@
           longitude: -1.66898
     -
       name: "West Berkshire"
+      native: "West Berkshire"
       code: "WBK"
       iso3166_2: "GB-WBK"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4463134
       longitude: -1.275882
       cities:
@@ -33092,9 +34382,11 @@
           longitude: -1.3466
     -
       name: "West Dunbartonshire"
+      native: "West Dunbartonshire"
       code: "WDU"
       iso3166_2: "GB-WDU"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.966667
       longitude: -4.533333
       cities:
@@ -33156,9 +34448,11 @@
           longitude: -4.53333
     -
       name: "West Lothian"
+      native: "West Lothian"
       code: "WLN"
       iso3166_2: "GB-WLN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.916667
       longitude: -3.5
       cities:
@@ -33296,9 +34590,11 @@
           longitude: -3.46464
     -
       name: "West Northamptonshire"
+      native: "West Northamptonshire"
       code: "WNH"
       iso3166_2: "GB-WNH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.2268977
       longitude: -1.3483191
       cities:
@@ -33384,9 +34680,11 @@
           longitude: -1.08371
     -
       name: "West Sussex"
+      native: "West Sussex"
       code: "WSX"
       iso3166_2: "GB-WSX"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.9445845
       longitude: -0.5278477
       cities:
@@ -33528,9 +34826,11 @@
           longitude: -0.613
     -
       name: "Westminster"
+      native: "Westminster"
       code: "WSM"
       iso3166_2: "GB-WSM"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4973206
       longitude: -0.137149
       cities:
@@ -33552,9 +34852,11 @@
           longitude: -0.1551
     -
       name: "Wigan"
+      native: "Wigan"
       code: "WGN"
       iso3166_2: "GB-WGN"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5457188
       longitude: -2.6264624
       cities:
@@ -33652,9 +34954,11 @@
           longitude: -2.63706
     -
       name: "Wiltshire"
+      native: "Wiltshire"
       code: "WIL"
       iso3166_2: "GB-WIL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.324162
       longitude: -1.9032487
       cities:
@@ -33800,9 +35104,11 @@
           longitude: -2.04111
     -
       name: "Windsor and Maidenhead"
+      native: "Windsor and Maidenhead"
       code: "WNM"
       iso3166_2: "GB-WNM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4803412
       longitude: -0.6769505
       cities:
@@ -33832,9 +35138,11 @@
           longitude: -0.77239
     -
       name: "Wirral"
+      native: "Wirral"
       code: "WRL"
       iso3166_2: "GB-WRL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.3409714
       longitude: -3.0500916
       cities:
@@ -33896,9 +35204,11 @@
           longitude: -2.99732
     -
       name: "Wokingham"
+      native: "Wokingham"
       code: "WOK"
       iso3166_2: "GB-WOK"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.410457
       longitude: -0.833861
       cities:
@@ -33948,9 +35258,11 @@
           longitude: -0.82985
     -
       name: "Wolverhampton"
+      native: "Wolverhampton"
       code: "WLV"
       iso3166_2: "GB-WLV"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.5847651
       longitude: -2.127567
       cities:
@@ -34028,9 +35340,11 @@
           longitude: -2.18333
     -
       name: "Worcestershire"
+      native: "Worcestershire"
       code: "WOR"
       iso3166_2: "GB-WOR"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.2109495
       longitude: -2.1569555
       cities:
@@ -34164,9 +35478,11 @@
           longitude: -2.11555
     -
       name: "Wrexham"
+      native: "Wrexham"
       code: "WRX"
       iso3166_2: "GB-WRX"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.0465084
       longitude: -2.9937869
       cities:
@@ -34240,9 +35556,11 @@
           longitude: -3
     -
       name: "York"
+      native: "York"
       code: "YOR"
       iso3166_2: "GB-YOR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.9599651
       longitude: -1.0872979
       cities:

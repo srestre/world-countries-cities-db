@@ -1,17 +1,17 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-IM,Man (Isle of),Europe,Northern Europe,01,Ayre,Andreas,54.368414,-4.5211463
-IM,Man (Isle of),Europe,Northern Europe,01,Ayre,Bride,54.3831657,-4.4080356
-IM,Man (Isle of),Europe,Northern Europe,01,Ayre,Lezayre,54.2962193,-4.5311015
-IM,Man (Isle of),Europe,Northern Europe,02,Garff,Lonan,54.2210452,-4.5010306
-IM,Man (Isle of),Europe,Northern Europe,02,Garff,Maughold,54.2549454,-4.5122349
-IM,Man (Isle of),Europe,Northern Europe,02,Garff,Onchan,54.1981508,-4.5490898
-IM,Man (Isle of),Europe,Northern Europe,03,Glenfaba,German,54.2187145,-4.7065273
-IM,Man (Isle of),Europe,Northern Europe,04,Michael,Ballaugh,54.3048121,-4.6207526
-IM,Man (Isle of),Europe,Northern Europe,04,Michael,Jurby,54.3590528,-4.5406586
-IM,Man (Isle of),Europe,Northern Europe,04,Michael,Michael,54.2742778,-4.6427325
-IM,Man (Isle of),Europe,Northern Europe,05,Middle,Braddan,54.1632828,-4.5258506
-IM,Man (Isle of),Europe,Northern Europe,05,Middle,Marown,54.1846242,-4.6495218
-IM,Man (Isle of),Europe,Northern Europe,05,Middle,Santon,54.1205489,-4.6493775
-IM,Man (Isle of),Europe,Northern Europe,06,Rushen,Arbory,54.1087807,-4.8356454
-IM,Man (Isle of),Europe,Northern Europe,06,Rushen,Malew,54.1118049,-4.8013827
-IM,Man (Isle of),Europe,Northern Europe,06,Rushen,Rushen,54.0908492,-4.8414982
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,01,Ayre,sheadings,sheadings,Andreas,54.368414,-4.5211463
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,01,Ayre,sheadings,sheadings,Bride,54.3831657,-4.4080356
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,01,Ayre,sheadings,sheadings,Lezayre,54.2962193,-4.5311015
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,02,Garff,sheadings,sheadings,Lonan,54.2210452,-4.5010306
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,02,Garff,sheadings,sheadings,Maughold,54.2549454,-4.5122349
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,02,Garff,sheadings,sheadings,Onchan,54.1981508,-4.5490898
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,03,Glenfaba,sheadings,sheadings,German,54.2187145,-4.7065273
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,04,Michael,sheadings,sheadings,Ballaugh,54.3048121,-4.6207526
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,04,Michael,sheadings,sheadings,Jurby,54.3590528,-4.5406586
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,04,Michael,sheadings,sheadings,Michael,54.2742778,-4.6427325
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,05,Middle,sheadings,sheadings,Braddan,54.1632828,-4.5258506
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,05,Middle,sheadings,sheadings,Marown,54.1846242,-4.6495218
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,05,Middle,sheadings,sheadings,Santon,54.1205489,-4.6493775
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,06,Rushen,sheadings,sheadings,Arbory,54.1087807,-4.8356454
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,06,Rushen,sheadings,sheadings,Malew,54.1118049,-4.8013827
+IM,Man (Isle of),Isla de Man,Europe,Europa,Northern Europe,Europa del Norte,06,Rushen,sheadings,sheadings,Rushen,54.0908492,-4.8414982

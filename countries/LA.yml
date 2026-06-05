@@ -12,16 +12,20 @@
   currency_symbol: "₭"
   tld: ".la"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 18
   longitude: 105
   emoji: "🇱🇦"
   states:
     -
       name: "Attapeu"
+      native: "ອັດຕະປື"
       code: "AT"
       iso3166_2: "LA-AT"
       type: "province"
+      type_es: "provincia"
       latitude: 14.79073
       longitude: 107.1008318
       cities:
@@ -51,9 +55,11 @@
           longitude: 106.97894
     -
       name: "Bokeo"
+      native: "ບໍ່ແກ້ວ"
       code: "BK"
       iso3166_2: "LA-BK"
       type: "province"
+      type_es: "provincia"
       latitude: 20.317445
       longitude: 100.3958112
       cities:
@@ -87,9 +93,11 @@
           longitude: 100.29624
     -
       name: "Bolikhamsai"
+      native: "ບໍລິຄຳໄຊ"
       code: "BL"
       iso3166_2: "LA-BL"
       type: "province"
+      type_es: "provincia"
       latitude: 18.5806594
       longitude: 104.1491594
       cities:
@@ -103,9 +111,11 @@
           longitude: 103.6611
     -
       name: "Champasak"
+      native: "ຈໍາປາສັກ"
       code: "CH"
       iso3166_2: "LA-CH"
       type: "province"
+      type_es: "provincia"
       latitude: 14.8872885
       longitude: 105.8765804
       cities:
@@ -163,9 +173,11 @@
           longitude: 106.23038
     -
       name: "Houaphanh"
+      native: "ຫົວພັນ"
       code: "HO"
       iso3166_2: "LA-HO"
       type: "province"
+      type_es: "provincia"
       latitude: 20.2354748
       longitude: 103.6203387
       cities:
@@ -179,9 +191,11 @@
           longitude: 104.045
     -
       name: "Khammouane"
+      native: "ຄຳມ່ວນ"
       code: "KH"
       iso3166_2: "LA-KH"
       type: "province"
+      type_es: "provincia"
       latitude: 17.5842055
       longitude: 105.2471325
       cities:
@@ -195,9 +209,11 @@
           longitude: 104.83068
     -
       name: "Luang Namtha"
+      native: "ຫຼວງນ້ຳທາ"
       code: "LM"
       iso3166_2: "LA-LM"
       type: "province"
+      type_es: "provincia"
       latitude: 20.933004
       longitude: 101.0586737
       cities:
@@ -211,9 +227,11 @@
           longitude: 101.44785
     -
       name: "Luang Prabang"
+      native: "ຫຼວງພະບາງ"
       code: "LP"
       iso3166_2: "LA-LP"
       type: "province"
+      type_es: "provincia"
       latitude: 20.2115415
       longitude: 102.612684
       cities:
@@ -223,9 +241,11 @@
           longitude: 102.13503
     -
       name: "Oudomxay"
+      native: "ອຸດົມໄຊ"
       code: "OU"
       iso3166_2: "LA-OU"
       type: "province"
+      type_es: "provincia"
       latitude: 20.6930134
       longitude: 101.9853678
       cities:
@@ -235,9 +255,11 @@
           longitude: 101.98368
     -
       name: "Phongsaly"
+      native: "ຜົ້ງສາລີ"
       code: "PH"
       iso3166_2: "LA-PH"
       type: "province"
+      type_es: "provincia"
       latitude: 21.6767816
       longitude: 102.2773177
       cities:
@@ -247,9 +269,11 @@
           longitude: 102.1003
     -
       name: "Sainyabuli"
+      native: "ໄຊຍາບູລີ"
       code: "XA"
       iso3166_2: "LA-XA"
       type: "province"
+      type_es: "provincia"
       latitude: 19.2536139
       longitude: 101.6180985
       cities:
@@ -259,9 +283,11 @@
           longitude: 101.71032
     -
       name: "Salavan"
+      native: "ສາລະວັນ"
       code: "SL"
       iso3166_2: "LA-SL"
       type: "province"
+      type_es: "provincia"
       latitude: 15.87128
       longitude: 106.3389565
       cities:
@@ -303,9 +329,11 @@
           longitude: 106.41744
     -
       name: "Savannakhet"
+      native: "ສະຫວັນນະເຂດ"
       code: "SV"
       iso3166_2: "LA-SV"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5001958
       longitude: 105.7155946
       cities:
@@ -371,9 +399,11 @@
           longitude: 105.6
     -
       name: "Sekong"
+      native: "ເຊກອງ"
       code: "XE"
       iso3166_2: "LA-XE"
       type: "province"
+      type_es: "provincia"
       latitude: 15.8660419
       longitude: 106.9637782
       cities:
@@ -403,9 +433,11 @@
           longitude: 106.48149
     -
       name: "Vientiane"
+      native: "ວຽງຈັນ"
       code: "VI"
       iso3166_2: "LA-VI"
       type: "province"
+      type_es: "provincia"
       latitude: 17.9640988
       longitude: 102.6133707
       cities:
@@ -419,9 +451,11 @@
           longitude: 102.44784
     -
       name: "Vientiane"
+      native: "ວຽງຈັນ"
       code: "VT"
       iso3166_2: "LA-VT"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 17.9640988
       longitude: 102.6133707
       cities:
@@ -431,9 +465,11 @@
           longitude: 102.6
     -
       name: "Xaisomboun"
+      native: "ໄຊສົມບູນ"
       code: "XS"
       iso3166_2: "LA-XS"
       type: "province"
+      type_es: "provincia"
       latitude: 18.8631725
       longitude: 103.0344783
       cities:
@@ -455,9 +491,11 @@
           longitude: 103.61572
     -
       name: "Xiangkhouang"
+      native: "ຊຽງຂວາງ"
       code: "XI"
       iso3166_2: "LA-XI"
       type: "province"
+      type_es: "provincia"
       latitude: 19.4130479
       longitude: 103.4680126
       cities:

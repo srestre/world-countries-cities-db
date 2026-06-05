@@ -12,16 +12,20 @@
   currency_symbol: "FCFA"
   tld: ".td"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 15
   longitude: 19
   emoji: "🇹🇩"
   states:
     -
       name: "Bahr el Gazel"
+      native: "Bahr El Gazel"
       code: "BG"
       iso3166_2: "TD-BG"
       type: "province"
+      type_es: "provincia"
       latitude: 14.4682468
       longitude: 16.9416836
       cities:
@@ -31,9 +35,11 @@
           longitude: 16.48941
     -
       name: "Batha"
+      native: "Batha"
       code: "BA"
       iso3166_2: "TD-BA"
       type: "province"
+      type_es: "provincia"
       latitude: 13.8367731
       longitude: 18.9649806
       cities:
@@ -47,9 +53,11 @@
           longitude: 19.6966
     -
       name: "Borkou"
+      native: "Borkou"
       code: "BO"
       iso3166_2: "TD-BO"
       type: "province"
+      type_es: "provincia"
       latitude: 17.2658129
       longitude: 18.3695288
       cities:
@@ -59,9 +67,11 @@
           longitude: 19.10428
     -
       name: "Chari-Baguirmi"
+      native: "Chari-baguirmi"
       code: "CB"
       iso3166_2: "TD-CB"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3345348
       longitude: 16.2884311
       cities:
@@ -95,18 +105,22 @@
           longitude: 16.17
     -
       name: "Ennedi-Est"
+      native: "Ennedi-Est"
       code: "EE"
       iso3166_2: "TD-EE"
       type: "province"
+      type_es: "provincia"
       latitude: 17.6219737
       longitude: 23.3133676
       cities:
         []
     -
       name: "Ennedi-Ouest"
+      native: "Ennedi-Ouest"
       code: "EO"
       iso3166_2: "TD-EO"
       type: "province"
+      type_es: "provincia"
       latitude: 18.1636803
       longitude: 21.5082709
       cities:
@@ -116,9 +130,11 @@
           longitude: 21.58114
     -
       name: "Guéra"
+      native: "Guéra"
       code: "GR"
       iso3166_2: "TD-GR"
       type: "province"
+      type_es: "provincia"
       latitude: 11.6753817
       longitude: 18.4910031
       cities:
@@ -136,9 +152,11 @@
           longitude: 18.69303
     -
       name: "Hadjer-Lamis"
+      native: "Hadjer-lamis"
       code: "HL"
       iso3166_2: "TD-HL"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6903906
       longitude: 16.3352648
       cities:
@@ -156,9 +174,11 @@
           longitude: 15.72927
     -
       name: "Kanem"
+      native: "Kanem"
       code: "KA"
       iso3166_2: "TD-KA"
       type: "province"
+      type_es: "provincia"
       latitude: 15.2264398
       longitude: 15.3151191
       cities:
@@ -168,9 +188,11 @@
           longitude: 15.3103
     -
       name: "Lac"
+      native: "Lac"
       code: "LC"
       iso3166_2: "TD-LC"
       type: "province"
+      type_es: "provincia"
       latitude: 13.5820827
       longitude: 14.3788329
       cities:
@@ -180,9 +202,11 @@
           longitude: 14.71363
     -
       name: "Logone Occidental"
+      native: "Logone Occidental"
       code: "LO"
       iso3166_2: "TD-LO"
       type: "province"
+      type_es: "provincia"
       latitude: 8.7795637
       longitude: 15.9126749
       cities:
@@ -204,9 +228,11 @@
           longitude: 16.08333
     -
       name: "Logone Oriental"
+      native: "Logone Oriental"
       code: "LR"
       iso3166_2: "TD-LR"
       type: "province"
+      type_es: "provincia"
       latitude: 8.2047152
       longitude: 16.470181
       cities:
@@ -224,9 +250,11 @@
           longitude: 16.85
     -
       name: "Mandoul"
+      native: "Mandall"
       code: "MA"
       iso3166_2: "TD-MA"
       type: "province"
+      type_es: "provincia"
       latitude: 8.72751
       longitude: 17.5841771
       cities:
@@ -244,9 +272,11 @@
           longitude: 17.7663
     -
       name: "Mayo-Kebbi Est"
+      native: "Micha-cube EST"
       code: "ME"
       iso3166_2: "TD-ME"
       type: "province"
+      type_es: "provincia"
       latitude: 10.126618
       longitude: 15.818345
       cities:
@@ -264,9 +294,11 @@
           longitude: 15.55011
     -
       name: "Mayo-Kebbi Ouest"
+      native: "Mayo-kebbi Oust"
       code: "MO"
       iso3166_2: "TD-MO"
       type: "province"
+      type_es: "provincia"
       latitude: 9.2640383
       longitude: 14.7151598
       cities:
@@ -280,9 +312,11 @@
           longitude: 14.9046
     -
       name: "Moyen-Chari"
+      native: "Moyen-Chari"
       code: "MC"
       iso3166_2: "TD-MC"
       type: "province"
+      type_es: "provincia"
       latitude: 9.4407768
       longitude: 18.8160927
       cities:
@@ -296,9 +330,11 @@
           longitude: 18.3923
     -
       name: "N'Djamena"
+      native: "N'Djamena"
       code: "ND"
       iso3166_2: "TD-ND"
       type: "province"
+      type_es: "provincia"
       latitude: 12.1191543
       longitude: 15.0502758
       cities:
@@ -308,9 +344,11 @@
           longitude: 15.05
     -
       name: "Ouaddaï"
+      native: "Ouaddaï"
       code: "OD"
       iso3166_2: "TD-OD"
       type: "province"
+      type_es: "provincia"
       latitude: 13.4613569
       longitude: 21.288445
       cities:
@@ -328,9 +366,11 @@
           longitude: 20.5468
     -
       name: "Salamat"
+      native: "Merci"
       code: "SA"
       iso3166_2: "TD-SA"
       type: "province"
+      type_es: "provincia"
       latitude: 10.7575596
       longitude: 20.6934116
       cities:
@@ -340,9 +380,11 @@
           longitude: 20.2827
     -
       name: "Sila"
+      native: "Ils sont"
       code: "SI"
       iso3166_2: "TD-SI"
       type: "province"
+      type_es: "provincia"
       latitude: 12.11786
       longitude: 21.4458848
       cities:
@@ -352,9 +394,11 @@
           longitude: 21.41034
     -
       name: "Tandjilé"
+      native: "Dentaire"
       code: "TA"
       iso3166_2: "TD-TA"
       type: "province"
+      type_es: "provincia"
       latitude: 9.5713051
       longitude: 16.5294956
       cities:
@@ -372,9 +416,11 @@
           longitude: 16.30066
     -
       name: "Tibesti"
+      native: "Tibesti"
       code: "TI"
       iso3166_2: "TD-TI"
       type: "province"
+      type_es: "provincia"
       latitude: 21.4007391
       longitude: 17.4742763
       cities:
@@ -384,9 +430,11 @@
           longitude: 17.4275
     -
       name: "Wadi Fira"
+      native: "Wadi Fira"
       code: "WF"
       iso3166_2: "TD-WF"
       type: "province"
+      type_es: "provincia"
       latitude: 15.0191449
       longitude: 21.467319
       cities:

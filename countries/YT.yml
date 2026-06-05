@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".yt"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -12.83333333
   longitude: 45.16666666
   emoji: "🇾🇹"
   states:
     -
       name: "Acoua"
+      native: "Acoua"
       code: "14"
       iso3166_2: "YT-14"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.7243245
       longitude: 45.0589372
       cities:
@@ -35,9 +39,11 @@
           longitude: 45.05118
     -
       name: "Bandraboua"
+      native: "Bandraboua"
       code: "16"
       iso3166_2: "YT-16"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.7045482
       longitude: 45.1221926
       cities:
@@ -63,9 +69,11 @@
           longitude: 45.10926
     -
       name: "Bandrélé"
+      native: "Bandrelé"
       code: "05"
       iso3166_2: "YT-05"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.9133586
       longitude: 45.1928677
       cities:
@@ -87,9 +95,11 @@
           longitude: 45.20214
     -
       name: "Boueni"
+      native: "Bouen"
       code: "07"
       iso3166_2: "YT-07"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.9107086
       longitude: 45.0801256
       cities:
@@ -107,9 +117,11 @@
           longitude: 45.10336
     -
       name: "Chiconi"
+      native: "Chiconi"
       code: "11"
       iso3166_2: "YT-11"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.8323497
       longitude: 45.1149766
       cities:
@@ -123,9 +135,11 @@
           longitude: 45.10552
     -
       name: "Chirongui"
+      native: "Chirongui"
       code: "08"
       iso3166_2: "YT-08"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.93544
       longitude: 45.1492157
       cities:
@@ -151,9 +165,11 @@
           longitude: 45.13739
     -
       name: "Dembeni"
+      native: "Débat"
       code: "04"
       iso3166_2: "YT-04"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.8433081
       longitude: 45.1839954
       cities:
@@ -179,9 +195,11 @@
           longitude: 45.17355
     -
       name: "Dzaoudzi"
+      native: "Leur"
       code: "01"
       iso3166_2: "YT-01"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.7760651
       longitude: 45.2563246
       cities:
@@ -195,9 +213,11 @@
           longitude: 45.28234
     -
       name: "Kani Keli"
+      native: "Ce seul"
       code: "06"
       iso3166_2: "YT-06"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.9565222
       longitude: 45.1052606
       cities:
@@ -207,9 +227,11 @@
           longitude: 45.10333
     -
       name: "Koungou"
+      native: "Maintenant"
       code: "17"
       iso3166_2: "YT-17"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.735753
       longitude: 45.2067459
       cities:
@@ -235,9 +257,11 @@
           longitude: 45.19861
     -
       name: "M'Tsangamouji"
+      native: "Entrée"
       code: "13"
       iso3166_2: "YT-13"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.7601941
       longitude: 45.0876892
       cities:
@@ -251,9 +275,11 @@
           longitude: 45.08361
     -
       name: "Mamoudzou"
+      native: "Mamoudzou"
       code: "03"
       iso3166_2: "YT-03"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.7804136
       longitude: 45.2279761
       cities:
@@ -299,9 +325,11 @@
           longitude: 45.17707
     -
       name: "Mtsamboro"
+      native: "Mtsamboro"
       code: "15"
       iso3166_2: "YT-15"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.6996969
       longitude: 45.0679904
       cities:
@@ -319,9 +347,11 @@
           longitude: 45.06894
     -
       name: "Ouangani"
+      native: "Ambitieux"
       code: "10"
       iso3166_2: "YT-10"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.8498235
       longitude: 45.1398664
       cities:
@@ -339,9 +369,11 @@
           longitude: 45.13611
     -
       name: "Pamandzi"
+      native: "En ville"
       code: "02"
       iso3166_2: "YT-02"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.7983446
       longitude: 45.2746515
       cities:
@@ -351,9 +383,11 @@
           longitude: 45.27938
     -
       name: "Sada"
+      native: "Maintenant"
       code: "09"
       iso3166_2: "YT-09"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.8518289
       longitude: 45.0993169
       cities:
@@ -367,9 +401,11 @@
           longitude: 45.10205
     -
       name: "Tsingoni"
+      native: "Tsingoni"
       code: "12"
       iso3166_2: "YT-12"
       type: "commune"
+      type_es: "comuna"
       latitude: -12.7897252
       longitude: 45.1038055
       cities:

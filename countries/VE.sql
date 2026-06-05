@@ -1,46 +1,46 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(239, 'Venezuela', 'VE', 'VEN', 'Americas', 'South America', 'Caracas', 'VES', 8, -66, '🇻🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(239, 'Venezuela', 'Venezuela', 'VE', 'VEN', 'Americas', 'América', 'South America', 'Sudamérica', 'Caracas', 'VES', 8, -66, '🇻🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2044, 'Amazonas', 239, 'VE', 'Z', 'state', 3.422575, -65.723231),
-(2050, 'Anzoátegui', 239, 'VE', 'B', 'state', 9.0197925, -64.2168001),
-(4856, 'Apure', 239, 'VE', 'C', 'state', 7.0735781, -68.8202025),
-(2047, 'Aragua', 239, 'VE', 'D', 'state', 9.9897564, -67.0839257),
-(2049, 'Barinas', 239, 'VE', 'E', 'state', 8.6182737, -70.2274065),
-(2039, 'Bolívar', 239, 'VE', 'F', 'state', 8.0018709, -66.1109318),
-(2040, 'Carabobo', 239, 'VE', 'G', 'state', 10.2137258, -68.0396345),
-(2034, 'Cojedes', 239, 'VE', 'H', 'state', 9.3094457, -68.3590546),
-(2051, 'Delta Amacuro', 239, 'VE', 'Y', 'state', 8.9414599, -61.3403273),
-(4855, 'Distrito Capital', 239, 'VE', 'A', 'capital district', 10.4749543, -66.9708041),
-(2035, 'Falcón', 239, 'VE', 'I', 'state', 11.273946, -69.5834205),
-(2045, 'Guárico', 239, 'VE', 'J', 'state', 8.8378585, -66.3821),
-(2055, 'La Guaira', 239, 'VE', 'X', 'state', 10.6000384, -66.9296405),
-(2038, 'Lara', 239, 'VE', 'K', 'state', 10.0714266, -70.0163241),
-(2053, 'Mérida', 239, 'VE', 'L', 'state', 8.4911705, -71.3043439),
-(2037, 'Miranda', 239, 'VE', 'M', 'state', 10.323351, -66.4842121),
-(2054, 'Monagas', 239, 'VE', 'N', 'state', 9.3437846, -63.1589318),
-(2052, 'Nueva Esparta', 239, 'VE', 'O', 'state', 10.9645415, -64.0975447),
-(2036, 'Portuguesa', 239, 'VE', 'P', 'state', 8.9674808, -69.3915205),
-(2056, 'Sucre', 239, 'VE', 'R', 'state', 10.429015, -63.5649999),
-(2048, 'Táchira', 239, 'VE', 'S', 'state', 8.0219748, -72.0205763),
-(2043, 'Trujillo', 239, 'VE', 'T', 'state', 9.4958129, -70.7688907),
-(2046, 'Venezuela', 239, 'VE', 'W', 'federal dependency', 8.0018709, -66.1109318),
-(2041, 'Yaracuy', 239, 'VE', 'U', 'state', 10.3040312, -68.7014018),
-(2042, 'Zulia', 239, 'VE', 'V', 'state', 10.1065099, -71.8641307);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2044, 'Amazonas', 'Amazonas', 239, 'VE', 'Z', 'state', 'estado', 3.422575, -65.723231),
+(2050, 'Anzoátegui', 'Anzoátegui', 239, 'VE', 'B', 'state', 'estado', 9.0197925, -64.2168001),
+(4856, 'Apure', 'Apure', 239, 'VE', 'C', 'state', 'estado', 7.0735781, -68.8202025),
+(2047, 'Aragua', 'Aragua', 239, 'VE', 'D', 'state', 'estado', 9.9897564, -67.0839257),
+(2049, 'Barinas', 'Barinas', 239, 'VE', 'E', 'state', 'estado', 8.6182737, -70.2274065),
+(2039, 'Bolívar', 'Bolívar', 239, 'VE', 'F', 'state', 'estado', 8.0018709, -66.1109318),
+(2040, 'Carabobo', 'Carabobo', 239, 'VE', 'G', 'state', 'estado', 10.2137258, -68.0396345),
+(2034, 'Cojedes', 'Cojedes', 239, 'VE', 'H', 'state', 'estado', 9.3094457, -68.3590546),
+(2051, 'Delta Amacuro', 'Delta Amacuro', 239, 'VE', 'Y', 'state', 'estado', 8.9414599, -61.3403273),
+(4855, 'Distrito Capital', 'Distrito Capital', 239, 'VE', 'A', 'capital district', 'distrito capital', 10.4749543, -66.9708041),
+(2035, 'Falcón', 'Falcón', 239, 'VE', 'I', 'state', 'estado', 11.273946, -69.5834205),
+(2045, 'Guárico', 'Guárico', 239, 'VE', 'J', 'state', 'estado', 8.8378585, -66.3821),
+(2055, 'La Guaira', 'La Guaira', 239, 'VE', 'X', 'state', 'estado', 10.6000384, -66.9296405),
+(2038, 'Lara', 'Lara', 239, 'VE', 'K', 'state', 'estado', 10.0714266, -70.0163241),
+(2053, 'Mérida', 'Mérida', 239, 'VE', 'L', 'state', 'estado', 8.4911705, -71.3043439),
+(2037, 'Miranda', 'Miranda', 239, 'VE', 'M', 'state', 'estado', 10.323351, -66.4842121),
+(2054, 'Monagas', 'Monagas', 239, 'VE', 'N', 'state', 'estado', 9.3437846, -63.1589318),
+(2052, 'Nueva Esparta', 'Nueva Esparta', 239, 'VE', 'O', 'state', 'estado', 10.9645415, -64.0975447),
+(2036, 'Portuguesa', 'portugués', 239, 'VE', 'P', 'state', 'estado', 8.9674808, -69.3915205),
+(2056, 'Sucre', 'Sucre', 239, 'VE', 'R', 'state', 'estado', 10.429015, -63.5649999),
+(2048, 'Táchira', 'Táchira', 239, 'VE', 'S', 'state', 'estado', 8.0219748, -72.0205763),
+(2043, 'Trujillo', 'Trujillo', 239, 'VE', 'T', 'state', 'estado', 9.4958129, -70.7688907),
+(2046, 'Venezuela', 'Venezuela', 239, 'VE', 'W', 'federal dependency', 'dependencia federal', 8.0018709, -66.1109318),
+(2041, 'Yaracuy', 'Yaracuy', 239, 'VE', 'U', 'state', 'estado', 10.3040312, -68.7014018),
+(2042, 'Zulia', 'Zulia', 239, 'VE', 'V', 'state', 'estado', 10.1065099, -71.8641307);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (130106, 'Maroa', 2044, 239, 2.7188, -67.56046),

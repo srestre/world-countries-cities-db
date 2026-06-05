@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".bz"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   latitude: 17.25
   longitude: -88.75
   emoji: "🇧🇿"
   states:
     -
       name: "Belize"
+      native: "Belize"
       code: "BZ"
       iso3166_2: "BZ-BZ"
       type: "district"
+      type_es: "distrito"
       latitude: 17.5002768
       longitude: -88.1988737
       cities:
@@ -35,9 +39,11 @@
           longitude: -87.9659
     -
       name: "Cayo"
+      native: "Cayo"
       code: "CY"
       iso3166_2: "BZ-CY"
       type: "district"
+      type_es: "distrito"
       latitude: 17.1582776
       longitude: -89.0681672
       cities:
@@ -59,9 +65,11 @@
           longitude: -88.83472
     -
       name: "Corozal"
+      native: "Corozal"
       code: "CZL"
       iso3166_2: "BZ-CZL"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2276324
       longitude: -88.2921257
       cities:
@@ -71,9 +79,11 @@
           longitude: -88.38849
     -
       name: "Orange Walk"
+      native: "Orange Walk"
       code: "OW"
       iso3166_2: "BZ-OW"
       type: "district"
+      type_es: "distrito"
       latitude: 17.7831833
       longitude: -88.8620283
       cities:
@@ -91,9 +101,11 @@
           longitude: -88.65452
     -
       name: "Stann Creek"
+      native: "Stann Creek"
       code: "SC"
       iso3166_2: "BZ-SC"
       type: "district"
+      type_es: "distrito"
       latitude: 16.9666599
       longitude: -88.2247368
       cities:
@@ -107,9 +119,11 @@
           longitude: -88.36647
     -
       name: "Toledo"
+      native: "Toledo"
       code: "TOL"
       iso3166_2: "BZ-TOL"
       type: "district"
+      type_es: "distrito"
       latitude: 16.1345572
       longitude: -88.8219041
       cities:

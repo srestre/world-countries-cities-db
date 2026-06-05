@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".uy"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -33
   longitude: -56
   emoji: "🇺🇾"
   states:
     -
       name: "Artigas"
+      native: "Artigas"
       code: "AR"
       iso3166_2: "UY-AR"
       type: "department"
+      type_es: "departamento"
       latitude: -30.6170756
       longitude: -56.9373451
       cities:
@@ -259,9 +263,11 @@
           longitude: -56.55908387
     -
       name: "Canelones"
+      native: "Canelones"
       code: "CA"
       iso3166_2: "UY-CA"
       type: "department"
+      type_es: "departamento"
       latitude: -34.6222482
       longitude: -55.9903797
       cities:
@@ -1471,9 +1477,11 @@
           longitude: -56.22184047
     -
       name: "Cerro Largo"
+      native: "Cerro Largo"
       code: "CL"
       iso3166_2: "UY-CL"
       type: "department"
+      type_es: "departamento"
       latitude: -32.333333
       longitude: -54.333333
       cities:
@@ -1979,9 +1987,11 @@
           longitude: -54.539801
     -
       name: "Colonia"
+      native: "Colonia"
       code: "CO"
       iso3166_2: "UY-CO"
       type: "department"
+      type_es: "departamento"
       latitude: -34.1664516
       longitude: -57.4993268
       cities:
@@ -2579,9 +2589,11 @@
           longitude: -57.25418502
     -
       name: "Durazno"
+      native: "Durazno"
       code: "DU"
       iso3166_2: "UY-DU"
       type: "department"
+      type_es: "departamento"
       latitude: -33.0833329
       longitude: -56.0833331
       cities:
@@ -2927,9 +2939,11 @@
           longitude: -56.48275443
     -
       name: "Flores"
+      native: "Flores"
       code: "FS"
       iso3166_2: "UY-FS"
       type: "department"
+      type_es: "departamento"
       latitude: -33.6518845
       longitude: -56.8393553
       cities:
@@ -3099,9 +3113,11 @@
           longitude: -56.724134
     -
       name: "Florida"
+      native: "Florida"
       code: "FD"
       iso3166_2: "UY-FD"
       type: "department"
+      type_es: "departamento"
       latitude: -33.833333
       longitude: -55.916667
       cities:
@@ -3575,9 +3591,11 @@
           longitude: -56.36770927
     -
       name: "Lavalleja"
+      native: "Lavalleja"
       code: "LA"
       iso3166_2: "UY-LA"
       type: "department"
+      type_es: "departamento"
       latitude: -33.9971964
       longitude: -54.9992242
       cities:
@@ -3975,9 +3993,11 @@
           longitude: -54.94133585
     -
       name: "Maldonado"
+      native: "Maldonado"
       code: "MA"
       iso3166_2: "UY-MA"
       type: "department"
+      type_es: "departamento"
       latitude: -34.666667
       longitude: -54.916667
       cities:
@@ -4399,9 +4419,11 @@
           longitude: -55.05554233
     -
       name: "Montevideo"
+      native: "Montevideo"
       code: "MO"
       iso3166_2: "UY-MO"
       type: "department"
+      type_es: "departamento"
       latitude: -34.8652724
       longitude: -56.1819512
       cities:
@@ -4687,9 +4709,11 @@
           longitude: -56.17701389
     -
       name: "Paysandú"
+      native: "Paysandú"
       code: "PA"
       iso3166_2: "UY-PA"
       type: "department"
+      type_es: "departamento"
       latitude: -32
       longitude: -57.25
       cities:
@@ -5059,9 +5083,11 @@
           longitude: -57.41976135
     -
       name: "Río Negro"
+      native: "Río Negro"
       code: "RN"
       iso3166_2: "UY-RN"
       type: "department"
+      type_es: "departamento"
       latitude: -32.7257419
       longitude: -57.387578
       cities:
@@ -5323,9 +5349,11 @@
           longitude: -57.62693
     -
       name: "Rivera"
+      native: "Rivera"
       code: "RV"
       iso3166_2: "UY-RV"
       type: "department"
+      type_es: "departamento"
       latitude: -31.5
       longitude: -55.25
       cities:
@@ -5775,9 +5803,11 @@
           longitude: -55.69503534
     -
       name: "Rocha"
+      native: "Rocha"
       code: "RO"
       iso3166_2: "UY-RO"
       type: "department"
+      type_es: "departamento"
       latitude: -34
       longitude: -54
       cities:
@@ -6187,9 +6217,11 @@
           longitude: -53.78301625
     -
       name: "Salto"
+      native: "Tacón"
       code: "SA"
       iso3166_2: "UY-SA"
       type: "department"
+      type_es: "departamento"
       latitude: -31.388028
       longitude: -57.9612455
       cities:
@@ -6519,9 +6551,11 @@
           longitude: -56.48462606
     -
       name: "San José"
+      native: "San José"
       code: "SJ"
       iso3166_2: "UY-SJ"
       type: "department"
+      type_es: "departamento"
       latitude: -34.3396521
       longitude: -56.7143155
       cities:
@@ -6991,9 +7025,11 @@
           longitude: -56.61282122
     -
       name: "Soriano"
+      native: "Soriano"
       code: "SO"
       iso3166_2: "UY-SO"
       type: "department"
+      type_es: "departamento"
       latitude: -33.4921266
       longitude: -57.7893105
       cities:
@@ -7327,9 +7363,11 @@
           longitude: -57.55517283
     -
       name: "Tacuarembó"
+      native: "Tacuarembó"
       code: "TA"
       iso3166_2: "UY-TA"
       type: "department"
+      type_es: "departamento"
       latitude: -31.7110183
       longitude: -55.9788762
       cities:
@@ -7847,9 +7885,11 @@
           longitude: -55.45263362
     -
       name: "Treinta y Tres"
+      native: "Treinta y Tres"
       code: "TT"
       iso3166_2: "UY-TT"
       type: "department"
+      type_es: "departamento"
       latitude: -33
       longitude: -54.25
       cities:

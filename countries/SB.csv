@@ -1,11 +1,11 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-SB,Solomon Islands,Oceania,Melanesia,CE,Central,Tulagi,-9.10306,160.15056
-SB,Solomon Islands,Oceania,Melanesia,CH,Choiseul,,,
-SB,Solomon Islands,Oceania,Melanesia,GU,Guadalcanal,Honiara,-9.43333,159.95
-SB,Solomon Islands,Oceania,Melanesia,CT,Honiara,,,
-SB,Solomon Islands,Oceania,Melanesia,IS,Isabel,Buala,-8.14497,159.59212
-SB,Solomon Islands,Oceania,Melanesia,MK,Makira-Ulawa,Kirakira,-10.45442,161.92045
-SB,Solomon Islands,Oceania,Melanesia,ML,Malaita,Auki,-8.76778,160.69778
-SB,Solomon Islands,Oceania,Melanesia,RB,Rennell and Bellona,,,
-SB,Solomon Islands,Oceania,Melanesia,TE,Temotu,Lata,-10.725,165.79722
-SB,Solomon Islands,Oceania,Melanesia,WE,Western,Gizo,-8.10303,156.84186
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,CE,Central,province,provincia,Tulagi,-9.10306,160.15056
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,CH,Choiseul,province,provincia,,,
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,GU,Guadalcanal,province,provincia,Honiara,-9.43333,159.95
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,CT,Honiara,capital territory,territorio capital,,,
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,IS,Isabel,province,provincia,Buala,-8.14497,159.59212
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,MK,Makira-Ulawa,province,provincia,Kirakira,-10.45442,161.92045
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,ML,Malaita,province,provincia,Auki,-8.76778,160.69778
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,RB,Rennell and Bellona,province,provincia,,,
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,TE,Temotu,province,provincia,Lata,-10.725,165.79722
+SB,Solomon Islands,Islas Salomón,Oceania,Oceanía,Melanesia,Melanesia,WE,Western,province,provincia,Gizo,-8.10303,156.84186

@@ -1,34 +1,34 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(22, 'Belgium', 'BE', 'BEL', 'Europe', 'Western Europe', 'Brussels', 'EUR', 50.83333333, 4, '🇧🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(22, 'Belgium', 'Bélgica', 'BE', 'BEL', 'Europe', 'Europa', 'Western Europe', 'Europa Occidental', 'Brussels', 'EUR', 50.83333333, 4, '🇧🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1381, 'Antwerp', 22, 'BE', 'VAN', 'province', 51.2194475, 4.4024643),
-(1376, 'Brussels-Capital ', 22, 'BE', 'BRU', 'region', 50.8387951, 4.3753041),
-(1377, 'East Flanders', 22, 'BE', 'VOV', 'province', 51.0375423, 3.811783),
-(1373, 'Flanders', 22, 'BE', 'VLG', 'region', 51.0962462, 4.1786291),
-(1374, 'Flemish Brabant', 22, 'BE', 'VBR', 'province', 50.8686516, 4.7886238),
-(1375, 'Hainaut', 22, 'BE', 'WHT', 'province', 50.36192, 4.125217),
-(1384, 'Liège', 22, 'BE', 'WLG', 'province', 50.6450944, 5.5736112),
-(1372, 'Limburg', 22, 'BE', 'VLI', 'province', 50.9977937, 5.4453575),
-(1379, 'Luxembourg', 22, 'BE', 'WLX', 'province', 49.9638005, 5.4398019),
-(1378, 'Namur', 22, 'BE', 'WNA', 'province', 50.4673883, 4.8719854),
-(1380, 'Wallonia', 22, 'BE', 'WAL', 'region', 50.1545523, 5.3992119),
-(1382, 'Walloon Brabant', 22, 'BE', 'WBR', 'province', 50.6663106, 4.5500074),
-(1383, 'West Flanders', 22, 'BE', 'VWV', 'province', 51.0404747, 2.9994213);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1381, 'Antwerp', 'Antwerpen', 22, 'BE', 'VAN', 'province', 'provincia', 51.2194475, 4.4024643),
+(1376, 'Brussels-Capital ', 'Brussel-kapitaal', 22, 'BE', 'BRU', 'region', 'región', 50.8387951, 4.3753041),
+(1377, 'East Flanders', 'Oost -Vlaanderen', 22, 'BE', 'VOV', 'province', 'provincia', 51.0375423, 3.811783),
+(1373, 'Flanders', 'Vlaanderen', 22, 'BE', 'VLG', 'region', 'región', 51.0962462, 4.1786291),
+(1374, 'Flemish Brabant', 'Vlaams Brabant', 22, 'BE', 'VBR', 'province', 'provincia', 50.8686516, 4.7886238),
+(1375, 'Hainaut', 'Hainaut', 22, 'BE', 'WHT', 'province', 'provincia', 50.36192, 4.125217),
+(1384, 'Liège', 'Aan het zeren', 22, 'BE', 'WLG', 'province', 'provincia', 50.6450944, 5.5736112),
+(1372, 'Limburg', 'Limburg', 22, 'BE', 'VLI', 'province', 'provincia', 50.9977937, 5.4453575),
+(1379, 'Luxembourg', 'Luxemburg', 22, 'BE', 'WLX', 'province', 'provincia', 49.9638005, 5.4398019),
+(1378, 'Namur', 'Namur', 22, 'BE', 'WNA', 'province', 'provincia', 50.4673883, 4.8719854),
+(1380, 'Wallonia', 'Wallonia', 22, 'BE', 'WAL', 'region', 'región', 50.1545523, 5.3992119),
+(1382, 'Walloon Brabant', 'Walloon Brabant', 22, 'BE', 'WBR', 'province', 'provincia', 50.6663106, 4.5500074),
+(1383, 'West Flanders', 'West Vlaanderen', 22, 'BE', 'VWV', 'province', 'provincia', 51.0404747, 2.9994213);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (8693, 'Brussels', 1376, 22, 50.85045, 4.34878),

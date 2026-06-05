@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(198, 'Sierra Leone', 'SL', 'SLE', 'Africa', 'Western Africa', 'Freetown', 'SLL', 8.5, -11.5, '🇸🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(198, 'Sierra Leone', 'Sierra Leone', 'SL', 'SLE', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Freetown', 'SLL', 8.5, -11.5, '🇸🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(914, 'Eastern', 198, 'SL', 'E', 'province', 8.2050971, -10.8437383),
-(5697, 'North Western', 198, 'SL', 'NW', 'province', 8.76666667, -12.7875),
-(911, 'Northern', 198, 'SL', 'N', 'province', 9.118454, -11.4856448),
-(912, 'Southern', 198, 'SL', 'S', 'province', 7.7099222, -12.0004178),
-(913, 'Western', 198, 'SL', 'W', 'area', 8.3346033, -13.0656016);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(914, 'Eastern', 'Eastern', 198, 'SL', 'E', 'province', 'provincia', 8.2050971, -10.8437383),
+(5697, 'North Western', 'North Western', 198, 'SL', 'NW', 'province', 'provincia', 8.76666667, -12.7875),
+(911, 'Northern', 'Northern', 198, 'SL', 'N', 'province', 'provincia', 9.118454, -11.4856448),
+(912, 'Southern', 'Southern', 198, 'SL', 'S', 'province', 'provincia', 7.7099222, -12.0004178),
+(913, 'Western', 'Western', 198, 'SL', 'W', 'area', 'área', 8.3346033, -13.0656016);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (104606, 'Barma', 914, 198, 8.34959, -11.33059),

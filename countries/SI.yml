@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".si"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 46.11666666
   longitude: 14.81666666
   emoji: "🇸🇮"
   states:
     -
       name: "Ajdovščina"
+      native: "Ajdovščina"
       code: "001"
       iso3166_2: "SI-001"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8870776
       longitude: 13.9042818
       cities:
@@ -39,9 +43,11 @@
           longitude: 13.87972
     -
       name: "Ankaran"
+      native: "Ankaran"
       code: "213"
       iso3166_2: "SI-213"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.578451
       longitude: 13.7369174
       cities:
@@ -51,9 +57,11 @@
           longitude: 13.73611
     -
       name: "Apače"
+      native: "Apače"
       code: "195"
       iso3166_2: "SI-195"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6974679
       longitude: 15.9102534
       cities:
@@ -63,9 +71,11 @@
           longitude: 15.91056
     -
       name: "Beltinci"
+      native: "Beltinci"
       code: "002"
       iso3166_2: "SI-002"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6079153
       longitude: 16.2365127
       cities:
@@ -87,9 +97,11 @@
           longitude: 14.06937
     -
       name: "Benedikt"
+      native: "Benedikt"
       code: "148"
       iso3166_2: "SI-148"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6155841
       longitude: 15.8957281
       cities:
@@ -99,9 +111,11 @@
           longitude: 15.88833
     -
       name: "Bistrica ob Sotli"
+      native: "Bistrica ob Sotli"
       code: "149"
       iso3166_2: "SI-149"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0565579
       longitude: 15.6625947
       cities:
@@ -111,9 +125,11 @@
           longitude: 15.66417
     -
       name: "Bled"
+      native: "Meledo"
       code: "003"
       iso3166_2: "SI-003"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3683266
       longitude: 14.1145798
       cities:
@@ -131,9 +147,11 @@
           longitude: 14.10869
     -
       name: "Bloke"
+      native: "Bloke"
       code: "150"
       iso3166_2: "SI-150"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.7728141
       longitude: 14.5063459
       cities:
@@ -143,9 +161,11 @@
           longitude: 14.50583
     -
       name: "Bohinj"
+      native: "Bohinj"
       code: "004"
       iso3166_2: "SI-004"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3020336
       longitude: 13.9090155
       cities:
@@ -163,9 +183,11 @@
           longitude: 14.36667
     -
       name: "Borovnica"
+      native: "Borovnica"
       code: "005"
       iso3166_2: "SI-005"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9044525
       longitude: 14.3824189
       cities:
@@ -179,9 +201,11 @@
           longitude: 15.66722
     -
       name: "Bovec"
+      native: "Bovec"
       code: "006"
       iso3166_2: "SI-006"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3380495
       longitude: 13.5524174
       cities:
@@ -195,9 +219,11 @@
           longitude: 15.06194
     -
       name: "Braslovče"
+      native: "Braslovče"
       code: "151"
       iso3166_2: "SI-151"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2836192
       longitude: 15.041832
       cities:
@@ -207,9 +233,11 @@
           longitude: 15.03889
     -
       name: "Brda"
+      native: "Hribi"
       code: "007"
       iso3166_2: "SI-007"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0162019
       longitude: 13.5489102
       cities:
@@ -223,9 +251,11 @@
           longitude: 15.14083
     -
       name: "Brežice"
+      native: "Brežice"
       code: "009"
       iso3166_2: "SI-009"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9041096
       longitude: 15.5943639
       cities:
@@ -239,9 +269,11 @@
           longitude: 15.57917
     -
       name: "Brezovica"
+      native: "Brezovica"
       code: "008"
       iso3166_2: "SI-008"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9480324
       longitude: 14.4180336
       cities:
@@ -267,9 +299,11 @@
           longitude: 14.42194
     -
       name: "Cankova"
+      native: "Cankova"
       code: "152"
       iso3166_2: "SI-152"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.718237
       longitude: 16.0197222
       cities:
@@ -279,9 +313,11 @@
           longitude: 16.0225
     -
       name: "Celje"
+      native: "Celje"
       code: "011"
       iso3166_2: "SI-011"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.2293889
       longitude: 15.2616828
       cities:
@@ -299,9 +335,11 @@
           longitude: 15.29528
     -
       name: "Cerklje na Gorenjskem"
+      native: "Cerklje na Gorenjskem"
       code: "012"
       iso3166_2: "SI-012"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2517054
       longitude: 14.4857979
       cities:
@@ -311,9 +349,11 @@
           longitude: 14.48861
     -
       name: "Cerknica"
+      native: "Cerknica"
       code: "013"
       iso3166_2: "SI-013"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.7936578
       longitude: 14.361883
       cities:
@@ -327,9 +367,11 @@
           longitude: 14.31111
     -
       name: "Cerkno"
+      native: "Cerkno"
       code: "014"
       iso3166_2: "SI-014"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1288414
       longitude: 13.9894027
       cities:
@@ -339,9 +381,11 @@
           longitude: 13.98167
     -
       name: "Cerkvenjak"
+      native: "Cerkvenjak"
       code: "153"
       iso3166_2: "SI-153"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5670711
       longitude: 15.9429753
       cities:
@@ -351,18 +395,22 @@
           longitude: 15.94361
     -
       name: "Cirkulane"
+      native: "Cirkulane"
       code: "196"
       iso3166_2: "SI-196"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3438075
       longitude: 15.9944724
       cities:
         []
     -
       name: "Črenšovci"
+      native: "Črenšovci"
       code: "015"
       iso3166_2: "SI-015"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5720029
       longitude: 16.2877346
       cities:
@@ -372,9 +420,11 @@
           longitude: 16.3041
     -
       name: "Črna na Koroškem"
+      native: "Črna na Koroškem"
       code: "016"
       iso3166_2: "SI-016"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4704529
       longitude: 14.8499998
       cities:
@@ -384,9 +434,11 @@
           longitude: 14.85009
     -
       name: "Črnomelj"
+      native: "Črnomelj"
       code: "017"
       iso3166_2: "SI-017"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.5700965
       longitude: 15.1923324
       cities:
@@ -396,9 +448,11 @@
           longitude: 15.18889
     -
       name: "Destrnik"
+      native: "Destrnik"
       code: "018"
       iso3166_2: "SI-018"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4922368
       longitude: 15.8777956
       cities:
@@ -408,9 +462,11 @@
           longitude: 15.87893
     -
       name: "Divača"
+      native: "Reduktor"
       code: "019"
       iso3166_2: "SI-019"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.6806069
       longitude: 13.9720312
       cities:
@@ -420,9 +476,11 @@
           longitude: 13.97028
     -
       name: "Dobje"
+      native: "Dobje"
       code: "154"
       iso3166_2: "SI-154"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1370037
       longitude: 15.394129
       cities:
@@ -432,9 +490,11 @@
           longitude: 15.39412
     -
       name: "Dobrepolje"
+      native: "Dobrepolje"
       code: "020"
       iso3166_2: "SI-020"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8097528
       longitude: 14.7425657
       cities:
@@ -444,9 +504,11 @@
           longitude: 14.69417
     -
       name: "Dobrna"
+      native: "Dobrna"
       code: "155"
       iso3166_2: "SI-155"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3356141
       longitude: 15.2259732
       cities:
@@ -456,9 +518,11 @@
           longitude: 15.22639
     -
       name: "Dobrova–Polhov Gradec"
+      native: "Dobrova–Polhov Gradec"
       code: "021"
       iso3166_2: "SI-021"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0648896
       longitude: 14.3168195
       cities:
@@ -468,9 +532,11 @@
           longitude: 14.39186
     -
       name: "Dobrovnik"
+      native: "Dobrovnik"
       code: "156"
       iso3166_2: "SI-156"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6538662
       longitude: 16.3506594
       cities:
@@ -480,9 +546,11 @@
           longitude: 16.3525
     -
       name: "Dol pri Ljubljani"
+      native: "Dol pri Ljubljani"
       code: "022"
       iso3166_2: "SI-022"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0884386
       longitude: 14.6424792
       cities:
@@ -492,9 +560,11 @@
           longitude: 14.60083
     -
       name: "Dolenjske Toplice"
+      native: "Dolenjske Toplice"
       code: "157"
       iso3166_2: "SI-157"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.7572692
       longitude: 15.0583791
       cities:
@@ -504,9 +574,11 @@
           longitude: 15.05917
     -
       name: "Domžale"
+      native: "Domžale"
       code: "023"
       iso3166_2: "SI-023"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1394296
       longitude: 14.5944553
       cities:
@@ -528,9 +600,11 @@
           longitude: 14.60741
     -
       name: "Dornava"
+      native: "Dornava"
       code: "024"
       iso3166_2: "SI-024"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4351913
       longitude: 15.9552014
       cities:
@@ -540,9 +614,11 @@
           longitude: 15.95361
     -
       name: "Dravograd"
+      native: "Dravograd"
       code: "025"
       iso3166_2: "SI-025"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.589219
       longitude: 15.0246021
       cities:
@@ -552,9 +628,11 @@
           longitude: 15.01917
     -
       name: "Duplek"
+      native: "Duplek"
       code: "026"
       iso3166_2: "SI-026"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5091395
       longitude: 15.762657
       cities:
@@ -568,9 +646,11 @@
           longitude: 15.72083
     -
       name: "Gorenja Vas–Poljane"
+      native: "Zažgal te -fell"
       code: "027"
       iso3166_2: "SI-027"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1116582
       longitude: 14.1149348
       cities:
@@ -580,9 +660,11 @@
           longitude: 14.14806
     -
       name: "Gorišnica"
+      native: "Gorišnica"
       code: "028"
       iso3166_2: "SI-028"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4120271
       longitude: 16.0133089
       cities:
@@ -592,18 +674,22 @@
           longitude: 16.01389
     -
       name: "Gorje"
+      native: "Gorje"
       code: "207"
       iso3166_2: "SI-207"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3944847
       longitude: 13.9912881
       cities:
         []
     -
       name: "Gornja Radgona"
+      native: "Gornja Radgona"
       code: "029"
       iso3166_2: "SI-029"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6767099
       longitude: 15.9910847
       cities:
@@ -613,9 +699,11 @@
           longitude: 15.99222
     -
       name: "Gornji Grad"
+      native: "Gornji Grad"
       code: "030"
       iso3166_2: "SI-030"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2961712
       longitude: 14.8062347
       cities:
@@ -625,9 +713,11 @@
           longitude: 14.80833
     -
       name: "Gornji Petrovci"
+      native: "Gornji Petrovci"
       code: "031"
       iso3166_2: "SI-031"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.8037128
       longitude: 16.2191379
       cities:
@@ -637,9 +727,11 @@
           longitude: 16.2225
     -
       name: "Grad"
+      native: "Grad"
       code: "158"
       iso3166_2: "SI-158"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.801894
       longitude: 16.0919216
       cities:
@@ -649,9 +741,11 @@
           longitude: 16.1
     -
       name: "Grosuplje"
+      native: "Grosuplje"
       code: "032"
       iso3166_2: "SI-032"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9557645
       longitude: 14.658899
       cities:
@@ -665,9 +759,11 @@
           longitude: 14.61177
     -
       name: "Hajdina"
+      native: "Hajdina"
       code: "159"
       iso3166_2: "SI-159"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4185014
       longitude: 15.8244722
       cities:
@@ -677,9 +773,11 @@
           longitude: 15.84694
     -
       name: "Hoče–Slivnica"
+      native: "Hoče–Slivnica"
       code: "160"
       iso3166_2: "SI-160"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4898775
       longitude: 15.6106205
       cities:
@@ -701,9 +799,11 @@
           longitude: 15.65
     -
       name: "Hodoš"
+      native: "Hodoš"
       code: "161"
       iso3166_2: "SI-161"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.8314134
       longitude: 16.321068
       cities:
@@ -713,9 +813,11 @@
           longitude: 16.33417
     -
       name: "Horjul"
+      native: "Horjul"
       code: "162"
       iso3166_2: "SI-162"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0225378
       longitude: 14.2986269
       cities:
@@ -725,9 +827,11 @@
           longitude: 14.29917
     -
       name: "Hrastnik"
+      native: "Hrastnik"
       code: "034"
       iso3166_2: "SI-034"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1417288
       longitude: 15.0844894
       cities:
@@ -741,9 +845,11 @@
           longitude: 15.08139
     -
       name: "Hrpelje–Kozina"
+      native: "Hrpelje–Kozina"
       code: "035"
       iso3166_2: "SI-035"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.5623318
       longitude: 14.0125663
       cities:
@@ -753,9 +859,11 @@
           longitude: 13.93556
     -
       name: "Idrija"
+      native: "Idrija"
       code: "036"
       iso3166_2: "SI-036"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0023983
       longitude: 14.0273014
       cities:
@@ -769,9 +877,11 @@
           longitude: 14.02722
     -
       name: "Ig"
+      native: "Ig"
       code: "037"
       iso3166_2: "SI-037"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9588868
       longitude: 14.5270528
       cities:
@@ -781,9 +891,11 @@
           longitude: 14.52889
     -
       name: "Ilirska Bistrica"
+      native: "Ilirska Bistrica"
       code: "038"
       iso3166_2: "SI-038"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.5636618
       longitude: 14.2453318
       cities:
@@ -793,9 +905,11 @@
           longitude: 14.24571
     -
       name: "Ivančna Gorica"
+      native: "Ivančna Gorica"
       code: "039"
       iso3166_2: "SI-039"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9395841
       longitude: 14.8047626
       cities:
@@ -809,9 +923,11 @@
           longitude: 14.84344
     -
       name: "Izola"
+      native: "Izola"
       code: "040"
       iso3166_2: "SI-040"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.5398936
       longitude: 13.65939
       cities:
@@ -825,9 +941,11 @@
           longitude: 13.64721
     -
       name: "Jesenice"
+      native: "Jesenice"
       code: "041"
       iso3166_2: "SI-041"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4367047
       longitude: 14.0526057
       cities:
@@ -849,9 +967,11 @@
           longitude: 14.08722
     -
       name: "Jezersko"
+      native: "Jezersko"
       code: "163"
       iso3166_2: "SI-163"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3942794
       longitude: 14.4985559
       cities:
@@ -861,9 +981,11 @@
           longitude: 14.50659
     -
       name: "Juršinci"
+      native: "Juršinci"
       code: "042"
       iso3166_2: "SI-042"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4859302
       longitude: 15.9681926
       cities:
@@ -873,9 +995,11 @@
           longitude: 15.97139
     -
       name: "Kamnik"
+      native: "Kamnik"
       code: "043"
       iso3166_2: "SI-043"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2221666
       longitude: 14.6070727
       cities:
@@ -893,9 +1017,11 @@
           longitude: 14.59667
     -
       name: "Kanal ob Soči"
+      native: "Kanal ob Soči"
       code: "044"
       iso3166_2: "SI-044"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0858687
       longitude: 13.6339298
       cities:
@@ -909,9 +1035,11 @@
           longitude: 13.63972
     -
       name: "Kidričevo"
+      native: "Kidričevo"
       code: "045"
       iso3166_2: "SI-045"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4043948
       longitude: 15.7965329
       cities:
@@ -921,9 +1049,11 @@
           longitude: 15.79111
     -
       name: "Kobarid"
+      native: "Kobarid"
       code: "046"
       iso3166_2: "SI-046"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2456971
       longitude: 13.5786949
       cities:
@@ -933,9 +1063,11 @@
           longitude: 13.57907
     -
       name: "Kobilje"
+      native: "Kobilje"
       code: "047"
       iso3166_2: "SI-047"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.68518
       longitude: 16.3936719
       cities:
@@ -945,9 +1077,11 @@
           longitude: 16.39778
     -
       name: "Kočevje"
+      native: "Kočevje"
       code: "048"
       iso3166_2: "SI-048"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.6428
       longitude: 14.8615838
       cities:
@@ -957,9 +1091,11 @@
           longitude: 14.86333
     -
       name: "Komen"
+      native: "Pridi"
       code: "049"
       iso3166_2: "SI-049"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8175235
       longitude: 13.7482711
       cities:
@@ -969,9 +1105,11 @@
           longitude: 13.74833
     -
       name: "Komenda"
+      native: "Ukaz"
       code: "164"
       iso3166_2: "SI-164"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.206488
       longitude: 14.5382499
       cities:
@@ -985,9 +1123,11 @@
           longitude: 14.55139
     -
       name: "Koper"
+      native: "Baker"
       code: "050"
       iso3166_2: "SI-050"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 45.548059
       longitude: 13.7301877
       cities:
@@ -1021,18 +1161,22 @@
           longitude: 13.83194
     -
       name: "Kostanjevica na Krki"
+      native: "Kostanjevica na Krki"
       code: "197"
       iso3166_2: "SI-197"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8456674
       longitude: 15.4202287
       cities:
         []
     -
       name: "Kostel"
+      native: "Cerkev"
       code: "165"
       iso3166_2: "SI-165"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.5081362
       longitude: 14.9104871
       cities:
@@ -1042,9 +1186,11 @@
           longitude: 14.91005
     -
       name: "Kozje"
+      native: "Kozje"
       code: "051"
       iso3166_2: "SI-051"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0733211
       longitude: 15.5596719
       cities:
@@ -1054,9 +1200,11 @@
           longitude: 15.56028
     -
       name: "Kranj"
+      native: "Kranj"
       code: "052"
       iso3166_2: "SI-052"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.2432913
       longitude: 14.3549353
       cities:
@@ -1086,9 +1234,11 @@
           longitude: 14.33667
     -
       name: "Kranjska Gora"
+      native: "Kranjska Gora"
       code: "053"
       iso3166_2: "SI-053"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4845293
       longitude: 13.7857145
       cities:
@@ -1102,9 +1252,11 @@
           longitude: 13.8752
     -
       name: "Križevci"
+      native: "Križevci"
       code: "166"
       iso3166_2: "SI-166"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5701821
       longitude: 16.1092653
       cities:
@@ -1114,9 +1266,11 @@
           longitude: 16.13861
     -
       name: "Krško"
+      native: "Krško"
       code: "054"
       iso3166_2: "SI-054"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 45.9589609
       longitude: 15.4923555
       cities:
@@ -1134,9 +1288,11 @@
           longitude: 15.47694
     -
       name: "Kungota"
+      native: "Kungota"
       code: "055"
       iso3166_2: "SI-055"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6418793
       longitude: 15.6036288
       cities:
@@ -1146,9 +1302,11 @@
           longitude: 15.61556
     -
       name: "Kuzma"
+      native: "Kuzma"
       code: "056"
       iso3166_2: "SI-056"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.8351038
       longitude: 16.08071
       cities:
@@ -1158,9 +1316,11 @@
           longitude: 16.08333
     -
       name: "Laško"
+      native: "Laško"
       code: "057"
       iso3166_2: "SI-057"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1542236
       longitude: 15.2361491
       cities:
@@ -1170,9 +1330,11 @@
           longitude: 15.23555
     -
       name: "Lenart"
+      native: "Lenart"
       code: "058"
       iso3166_2: "SI-058"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5834424
       longitude: 15.8262125
       cities:
@@ -1182,9 +1344,11 @@
           longitude: 15.83139
     -
       name: "Lendava"
+      native: "Lendava"
       code: "059"
       iso3166_2: "SI-059"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5639639
       longitude: 16.4526468
       cities:
@@ -1194,9 +1358,11 @@
           longitude: 16.45091
     -
       name: "Litija"
+      native: "Litij"
       code: "060"
       iso3166_2: "SI-060"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0573226
       longitude: 14.8309636
       cities:
@@ -1206,9 +1372,11 @@
           longitude: 14.8225
     -
       name: "Ljubljana"
+      native: "LJUBLANA"
       code: "061"
       iso3166_2: "SI-061"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.0569465
       longitude: 14.5057515
       cities:
@@ -1258,9 +1426,11 @@
           longitude: 14.46968
     -
       name: "Ljubno"
+      native: "Ljubno"
       code: "062"
       iso3166_2: "SI-062"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.366441
       longitude: 14.8397651
       cities:
@@ -1270,9 +1440,11 @@
           longitude: 14.83377
     -
       name: "Ljutomer"
+      native: "Ljutomer"
       code: "063"
       iso3166_2: "SI-063"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5190848
       longitude: 16.1893216
       cities:
@@ -1282,18 +1454,22 @@
           longitude: 16.1975
     -
       name: "Log–Dragomer"
+      native: "Log–Dragomer"
       code: "208"
       iso3166_2: "SI-208"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0178747
       longitude: 14.3687767
       cities:
         []
     -
       name: "Logatec"
+      native: "Logatec"
       code: "064"
       iso3166_2: "SI-064"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.917611
       longitude: 14.2351451
       cities:
@@ -1303,9 +1479,11 @@
           longitude: 14.22583
     -
       name: "Loška Dolina"
+      native: "Loška Dolina"
       code: "065"
       iso3166_2: "SI-065"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.6645172
       longitude: 14.4997081
       cities:
@@ -1315,9 +1493,11 @@
           longitude: 14.46056
     -
       name: "Loški Potok"
+      native: "Loški Potok"
       code: "066"
       iso3166_2: "SI-066"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.6625246
       longitude: 14.6699654
       cities:
@@ -1327,9 +1507,11 @@
           longitude: 14.61674
     -
       name: "Lovrenc na Pohorju"
+      native: "Lovrenc na Pohorju"
       code: "167"
       iso3166_2: "SI-167"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5419638
       longitude: 15.4000443
       cities:
@@ -1339,9 +1521,11 @@
           longitude: 15.39306
     -
       name: "Luče"
+      native: "Luč"
       code: "067"
       iso3166_2: "SI-067"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3544925
       longitude: 14.7471504
       cities:
@@ -1351,9 +1535,11 @@
           longitude: 14.74667
     -
       name: "Lukovica"
+      native: "Lukovica"
       code: "068"
       iso3166_2: "SI-068"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1696293
       longitude: 14.6907259
       cities:
@@ -1363,9 +1549,11 @@
           longitude: 14.69179
     -
       name: "Majšperk"
+      native: "Majšperk"
       code: "069"
       iso3166_2: "SI-069"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3503019
       longitude: 15.7340595
       cities:
@@ -1375,18 +1563,22 @@
           longitude: 15.73361
     -
       name: "Makole"
+      native: "Makole"
       code: "198"
       iso3166_2: "SI-198"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3168697
       longitude: 15.6664126
       cities:
         []
     -
       name: "Maribor"
+      native: "Maribor"
       code: "070"
       iso3166_2: "SI-070"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.5576439
       longitude: 15.6455854
       cities:
@@ -1416,9 +1608,11 @@
           longitude: 15.63611
     -
       name: "Markovci"
+      native: "Markovci"
       code: "168"
       iso3166_2: "SI-168"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3947708
       longitude: 15.9298496
       cities:
@@ -1428,9 +1622,11 @@
           longitude: 15.92831
     -
       name: "Medvode"
+      native: "Medvode"
       code: "071"
       iso3166_2: "SI-071"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.141908
       longitude: 14.4032596
       cities:
@@ -1448,9 +1644,11 @@
           longitude: 14.43158
     -
       name: "Mengeš"
+      native: "Mengeš"
       code: "072"
       iso3166_2: "SI-072"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1659122
       longitude: 14.5719694
       cities:
@@ -1464,9 +1662,11 @@
           longitude: 14.59698
     -
       name: "Metlika"
+      native: "Metlika"
       code: "073"
       iso3166_2: "SI-073"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.6480715
       longitude: 15.3177838
       cities:
@@ -1476,9 +1676,11 @@
           longitude: 15.31417
     -
       name: "Mežica"
+      native: "Mežica"
       code: "074"
       iso3166_2: "SI-074"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5215027
       longitude: 14.852134
       cities:
@@ -1488,9 +1690,11 @@
           longitude: 14.85444
     -
       name: "Miklavž na Dravskem Polju"
+      native: "Miklavž na Dravskem Polju"
       code: "169"
       iso3166_2: "SI-169"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5082628
       longitude: 15.6952065
       cities:
@@ -1500,9 +1704,11 @@
           longitude: 15.69722
     -
       name: "Miren–Kostanjevica"
+      native: "Miren–Kostanjevica"
       code: "075"
       iso3166_2: "SI-075"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8598141
       longitude: 13.649854
       cities:
@@ -1516,18 +1722,22 @@
           longitude: 13.6075
     -
       name: "Mirna"
+      native: "MiRNA"
       code: "212"
       iso3166_2: "SI-212"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9515647
       longitude: 15.0620977
       cities:
         []
     -
       name: "Mirna Peč"
+      native: "Mirna Peč"
       code: "170"
       iso3166_2: "SI-170"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8602716
       longitude: 15.0818996
       cities:
@@ -1537,9 +1747,11 @@
           longitude: 15.08333
     -
       name: "Mislinja"
+      native: "Mislinja"
       code: "076"
       iso3166_2: "SI-076"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4429403
       longitude: 15.1987678
       cities:
@@ -1549,18 +1761,22 @@
           longitude: 15.20027
     -
       name: "Mokronog–Trebelno"
+      native: "Mokronog–Trebelno"
       code: "199"
       iso3166_2: "SI-199"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9236748
       longitude: 15.1679393
       cities:
         []
     -
       name: "Moravče"
+      native: "Moravče"
       code: "077"
       iso3166_2: "SI-077"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1362781
       longitude: 14.746001
       cities:
@@ -1570,9 +1786,11 @@
           longitude: 14.745
     -
       name: "Moravske Toplice"
+      native: "Moravske Toplice"
       code: "078"
       iso3166_2: "SI-078"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6856932
       longitude: 16.2224582
       cities:
@@ -1582,9 +1800,11 @@
           longitude: 16.2208
     -
       name: "Mozirje"
+      native: "Mozirje"
       code: "079"
       iso3166_2: "SI-079"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.339435
       longitude: 14.9602413
       cities:
@@ -1594,9 +1814,11 @@
           longitude: 14.96333
     -
       name: "Murska Sobota"
+      native: "Murska Sobota"
       code: "080"
       iso3166_2: "SI-080"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.6624644
       longitude: 16.1655256
       cities:
@@ -1622,9 +1844,11 @@
           longitude: 16.20417
     -
       name: "Muta"
+      native: "Muta"
       code: "081"
       iso3166_2: "SI-081"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6097366
       longitude: 15.1629995
       cities:
@@ -1634,9 +1858,11 @@
           longitude: 15.16611
     -
       name: "Naklo"
+      native: "Naklo"
       code: "082"
       iso3166_2: "SI-082"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2718663
       longitude: 14.3156932
       cities:
@@ -1646,9 +1872,11 @@
           longitude: 14.31722
     -
       name: "Nazarje"
+      native: "Nazarje"
       code: "083"
       iso3166_2: "SI-083"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3205865
       longitude: 14.9487121
       cities:
@@ -1658,9 +1886,11 @@
           longitude: 14.94674
     -
       name: "Nova Gorica"
+      native: "Nova Gorica"
       code: "084"
       iso3166_2: "SI-084"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 45.976276
       longitude: 13.7308881
       cities:
@@ -1686,9 +1916,11 @@
           longitude: 13.64944
     -
       name: "Novo Mesto"
+      native: "Novo Mesto"
       code: "085"
       iso3166_2: "SI-085"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 45.8010824
       longitude: 15.1710089
       cities:
@@ -1698,9 +1930,11 @@
           longitude: 15.16886
     -
       name: "Odranci"
+      native: "Odranci"
       code: "086"
       iso3166_2: "SI-086"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5901017
       longitude: 16.2788165
       cities:
@@ -1710,9 +1944,11 @@
           longitude: 16.28028
     -
       name: "Oplotnica"
+      native: "Oplotnica"
       code: "171"
       iso3166_2: "SI-171"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.387163
       longitude: 15.4458131
       cities:
@@ -1722,9 +1958,11 @@
           longitude: 15.44667
     -
       name: "Ormož"
+      native: "Ormož"
       code: "087"
       iso3166_2: "SI-087"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4072383
       longitude: 16.1489255
       cities:
@@ -1734,9 +1972,11 @@
           longitude: 16.15444
     -
       name: "Osilnica"
+      native: "Osilnica"
       code: "088"
       iso3166_2: "SI-088"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.5292418
       longitude: 14.6988672
       cities:
@@ -1746,9 +1986,11 @@
           longitude: 14.69838
     -
       name: "Pesnica"
+      native: "Pesnica"
       code: "089"
       iso3166_2: "SI-089"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6182053
       longitude: 15.706151
       cities:
@@ -1758,9 +2000,11 @@
           longitude: 15.67667
     -
       name: "Piran"
+      native: "Piran"
       code: "090"
       iso3166_2: "SI-090"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.5288856
       longitude: 13.5680735
       cities:
@@ -1782,9 +2026,11 @@
           longitude: 13.61466
     -
       name: "Pivka"
+      native: "Pivka"
       code: "091"
       iso3166_2: "SI-091"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.6825064
       longitude: 14.1953518
       cities:
@@ -1794,9 +2040,11 @@
           longitude: 14.19588
     -
       name: "Podčetrtek"
+      native: "Podčetrtek"
       code: "092"
       iso3166_2: "SI-092"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1518082
       longitude: 15.597496
       cities:
@@ -1806,9 +2054,11 @@
           longitude: 15.59861
     -
       name: "Podlehnik"
+      native: "Podlehnik"
       code: "172"
       iso3166_2: "SI-172"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3310782
       longitude: 15.8785836
       cities:
@@ -1818,9 +2068,11 @@
           longitude: 15.88
     -
       name: "Podvelka"
+      native: "Podvelka"
       code: "093"
       iso3166_2: "SI-093"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5889858
       longitude: 15.3280675
       cities:
@@ -1830,18 +2082,22 @@
           longitude: 15.33056
     -
       name: "Poljčane"
+      native: "Poljčane"
       code: "200"
       iso3166_2: "SI-200"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3139853
       longitude: 15.5784791
       cities:
         []
     -
       name: "Polzela"
+      native: "Polzela"
       code: "173"
       iso3166_2: "SI-173"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.280897
       longitude: 15.0737321
       cities:
@@ -1851,9 +2107,11 @@
           longitude: 15.06667
     -
       name: "Postojna"
+      native: "Postojna"
       code: "094"
       iso3166_2: "SI-094"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.774939
       longitude: 14.2134263
       cities:
@@ -1863,9 +2121,11 @@
           longitude: 14.21528
     -
       name: "Prebold"
+      native: "Prebold"
       code: "174"
       iso3166_2: "SI-174"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2359136
       longitude: 15.0936912
       cities:
@@ -1875,9 +2135,11 @@
           longitude: 15.0925
     -
       name: "Preddvor"
+      native: "Preddvor"
       code: "095"
       iso3166_2: "SI-095"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3017139
       longitude: 14.4218165
       cities:
@@ -1887,9 +2149,11 @@
           longitude: 14.42306
     -
       name: "Prevalje"
+      native: "Prevalje"
       code: "175"
       iso3166_2: "SI-175"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5460617
       longitude: 14.9169796
       cities:
@@ -1899,9 +2163,11 @@
           longitude: 14.92083
     -
       name: "Ptuj"
+      native: "Ptuj"
       code: "096"
       iso3166_2: "SI-096"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.4199535
       longitude: 15.8696884
       cities:
@@ -1911,9 +2177,11 @@
           longitude: 15.87018
     -
       name: "Puconci"
+      native: "Puconci"
       code: "097"
       iso3166_2: "SI-097"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.7043348
       longitude: 16.1550852
       cities:
@@ -1923,9 +2191,11 @@
           longitude: 16.15639
     -
       name: "Rače–Fram"
+      native: "Rače–Fram"
       code: "098"
       iso3166_2: "SI-098"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4542083
       longitude: 15.6329467
       cities:
@@ -1943,9 +2213,11 @@
           longitude: 15.68139
     -
       name: "Radeče"
+      native: "Radeče"
       code: "099"
       iso3166_2: "SI-099"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0666954
       longitude: 15.1820438
       cities:
@@ -1955,9 +2227,11 @@
           longitude: 15.18389
     -
       name: "Radenci"
+      native: "Radenci"
       code: "100"
       iso3166_2: "SI-100"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6409028
       longitude: 16.0399848
       cities:
@@ -1967,9 +2241,11 @@
           longitude: 16.03781
     -
       name: "Radlje ob Dravi"
+      native: "Radlje ob Dravi"
       code: "101"
       iso3166_2: "SI-101"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6135732
       longitude: 15.2354438
       cities:
@@ -1979,9 +2255,11 @@
           longitude: 15.22639
     -
       name: "Radovljica"
+      native: "Radovljica"
       code: "102"
       iso3166_2: "SI-102"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.343509
       longitude: 14.1720227
       cities:
@@ -1995,9 +2273,11 @@
           longitude: 14.17444
     -
       name: "Ravne na Koroškem"
+      native: "Ravne na Koroškem"
       code: "103"
       iso3166_2: "SI-103"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5521194
       longitude: 14.9599084
       cities:
@@ -2011,9 +2291,11 @@
           longitude: 14.96917
     -
       name: "Razkrižje"
+      native: "Razkrižje"
       code: "176"
       iso3166_2: "SI-176"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5226339
       longitude: 16.2668638
       cities:
@@ -2023,18 +2305,22 @@
           longitude: 16.28111
     -
       name: "Rečica ob Savinji"
+      native: "Rečica ob Savinji"
       code: "209"
       iso3166_2: "SI-209"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.323379
       longitude: 14.922367
       cities:
         []
     -
       name: "Renče–Vogrsko"
+      native: "Renče–Vogrsko"
       code: "201"
       iso3166_2: "SI-201"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8954617
       longitude: 13.6785673
       cities:
@@ -2048,9 +2334,11 @@
           longitude: 13.6775
     -
       name: "Ribnica"
+      native: "Ribnica"
       code: "104"
       iso3166_2: "SI-104"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.7400303
       longitude: 14.7265782
       cities:
@@ -2060,9 +2348,11 @@
           longitude: 14.7275
     -
       name: "Ribnica na Pohorju"
+      native: "Ribnica na Pohorju"
       code: "177"
       iso3166_2: "SI-177"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5356145
       longitude: 15.2674538
       cities:
@@ -2072,9 +2362,11 @@
           longitude: 15.27278
     -
       name: "Rogaška Slatina"
+      native: "Rogaška Slatina"
       code: "106"
       iso3166_2: "SI-106"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2329898
       longitude: 15.6384369
       cities:
@@ -2084,9 +2376,11 @@
           longitude: 15.63972
     -
       name: "Rogašovci"
+      native: "Rogašovci"
       code: "105"
       iso3166_2: "SI-105"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.8055785
       longitude: 16.0345237
       cities:
@@ -2096,9 +2390,11 @@
           longitude: 16.03333
     -
       name: "Rogatec"
+      native: "Rogatec"
       code: "107"
       iso3166_2: "SI-107"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2286626
       longitude: 15.6991338
       cities:
@@ -2108,9 +2404,11 @@
           longitude: 15.70028
     -
       name: "Ruše"
+      native: "Ruševine"
       code: "108"
       iso3166_2: "SI-108"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5386688
       longitude: 15.5139415
       cities:
@@ -2124,9 +2422,11 @@
           longitude: 15.51583
     -
       name: "Šalovci"
+      native: "Šalovci"
       code: "033"
       iso3166_2: "SI-033"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.8244271
       longitude: 16.285766
       cities:
@@ -2136,9 +2436,11 @@
           longitude: 16.29806
     -
       name: "Selnica ob Dravi"
+      native: "Selnica ob Dravi"
       code: "178"
       iso3166_2: "SI-178"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5513918
       longitude: 15.492941
       cities:
@@ -2148,9 +2450,11 @@
           longitude: 15.495
     -
       name: "Semič"
+      native: "Semič"
       code: "109"
       iso3166_2: "SI-109"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.6520534
       longitude: 15.1820701
       cities:
@@ -2160,9 +2464,11 @@
           longitude: 15.18222
     -
       name: "Šempeter–Vrtojba"
+      native: "Šempeter–Vrtojba"
       code: "183"
       iso3166_2: "SI-183"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9178093
       longitude: 13.6517004
       cities:
@@ -2180,9 +2486,11 @@
           longitude: 13.63417
     -
       name: "Šenčur"
+      native: "Šenčur"
       code: "117"
       iso3166_2: "SI-117"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2433699
       longitude: 14.4192223
       cities:
@@ -2196,9 +2504,11 @@
           longitude: 14.41972
     -
       name: "Šentilj"
+      native: "Šentilj"
       code: "118"
       iso3166_2: "SI-118"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6696034
       longitude: 15.7688306
       cities:
@@ -2212,9 +2522,11 @@
           longitude: 15.64806
     -
       name: "Šentjernej"
+      native: "Šentjernej"
       code: "119"
       iso3166_2: "SI-119"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.843413
       longitude: 15.3378312
       cities:
@@ -2224,9 +2536,11 @@
           longitude: 15.33611
     -
       name: "Šentjur"
+      native: "Šentjur"
       code: "120"
       iso3166_2: "SI-120"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2168375
       longitude: 15.3937905
       cities:
@@ -2236,9 +2550,11 @@
           longitude: 15.3975
     -
       name: "Šentrupert"
+      native: "Šentrupert"
       code: "211"
       iso3166_2: "SI-211"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9771289
       longitude: 15.0914051
       cities:
@@ -2248,9 +2564,11 @@
           longitude: 15.09556
     -
       name: "Sevnica"
+      native: "Sevnica"
       code: "110"
       iso3166_2: "SI-110"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0070317
       longitude: 15.3045679
       cities:
@@ -2260,9 +2578,11 @@
           longitude: 15.31556
     -
       name: "Sežana"
+      native: "Sežana"
       code: "111"
       iso3166_2: "SI-111"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.7091799
       longitude: 13.8730989
       cities:
@@ -2272,9 +2592,11 @@
           longitude: 13.87333
     -
       name: "Škocjan"
+      native: "Škocjan"
       code: "121"
       iso3166_2: "SI-121"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.907782
       longitude: 15.2906185
       cities:
@@ -2284,9 +2606,11 @@
           longitude: 15.29139
     -
       name: "Škofja Loka"
+      native: "Škofja Loka"
       code: "122"
       iso3166_2: "SI-122"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.165274
       longitude: 14.3067474
       cities:
@@ -2300,9 +2624,11 @@
           longitude: 14.33333
     -
       name: "Škofljica"
+      native: "Škofljica"
       code: "123"
       iso3166_2: "SI-123"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9840962
       longitude: 14.5746626
       cities:
@@ -2316,9 +2642,11 @@
           longitude: 14.57667
     -
       name: "Slovenj Gradec"
+      native: "Slovenj Gradec"
       code: "112"
       iso3166_2: "SI-112"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.509144
       longitude: 15.0790677
       cities:
@@ -2340,9 +2668,11 @@
           longitude: 15.10667
     -
       name: "Slovenska Bistrica"
+      native: "Slovenska Bistrica"
       code: "113"
       iso3166_2: "SI-113"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3919813
       longitude: 15.5727869
       cities:
@@ -2360,9 +2690,11 @@
           longitude: 15.61222
     -
       name: "Slovenske Konjice"
+      native: "Slovenske Konjice"
       code: "114"
       iso3166_2: "SI-114"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3369191
       longitude: 15.4214708
       cities:
@@ -2372,9 +2704,11 @@
           longitude: 15.42583
     -
       name: "Šmarje pri Jelšah"
+      native: "Šmarje pri Jelšah"
       code: "124"
       iso3166_2: "SI-124"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2287025
       longitude: 15.5190353
       cities:
@@ -2384,9 +2718,11 @@
           longitude: 15.51917
     -
       name: "Šmarješke Toplice"
+      native: "Šmarješke Toplice"
       code: "206"
       iso3166_2: "SI-206"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8680377
       longitude: 15.2347422
       cities:
@@ -2396,9 +2732,11 @@
           longitude: 15.25
     -
       name: "Šmartno ob Paki"
+      native: "Šmartno ob Paki"
       code: "125"
       iso3166_2: "SI-125"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3290372
       longitude: 15.0333937
       cities:
@@ -2408,9 +2746,11 @@
           longitude: 15.03333
     -
       name: "Šmartno pri Litiji"
+      native: "Šmartno pri Litiji"
       code: "194"
       iso3166_2: "SI-194"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0454971
       longitude: 14.8410133
       cities:
@@ -2420,9 +2760,11 @@
           longitude: 14.84417
     -
       name: "Sodražica"
+      native: "Sodražica"
       code: "179"
       iso3166_2: "SI-179"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.7616565
       longitude: 14.6352853
       cities:
@@ -2432,9 +2774,11 @@
           longitude: 14.63556
     -
       name: "Solčava"
+      native: "Solčava"
       code: "180"
       iso3166_2: "SI-180"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4195569
       longitude: 14.6920242
       cities:
@@ -2444,9 +2788,11 @@
           longitude: 14.69361
     -
       name: "Šoštanj"
+      native: "Šoštanj"
       code: "126"
       iso3166_2: "SI-126"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3782836
       longitude: 15.0461378
       cities:
@@ -2464,9 +2810,11 @@
           longitude: 15.02157
     -
       name: "Središče ob Dravi"
+      native: "Središče ob Dravi"
       code: "202"
       iso3166_2: "SI-202"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3959282
       longitude: 16.2704915
       cities:
@@ -2476,9 +2824,11 @@
           longitude: 16.26806
     -
       name: "Starše"
+      native: "Starše"
       code: "115"
       iso3166_2: "SI-115"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4674331
       longitude: 15.7640546
       cities:
@@ -2488,9 +2838,11 @@
           longitude: 15.76722
     -
       name: "Štore"
+      native: "Štore"
       code: "127"
       iso3166_2: "SI-127"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2222514
       longitude: 15.3126116
       cities:
@@ -2500,9 +2852,11 @@
           longitude: 15.31389
     -
       name: "Straža"
+      native: "Straža"
       code: "203"
       iso3166_2: "SI-203"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.7836855
       longitude: 15.0730399
       cities:
@@ -2512,9 +2866,11 @@
           longitude: 15.07278
     -
       name: "Sveta Ana"
+      native: "Sveta ana"
       code: "181"
       iso3166_2: "SI-181"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.65
       longitude: 15.845278
       cities:
@@ -2524,9 +2880,11 @@
           longitude: 15.84417
     -
       name: "Sveta Trojica v Slovenskih Goricah"
+      native: "Sveta Trojica v Slovenskih Goricah"
       code: "204"
       iso3166_2: "SI-204"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5680809
       longitude: 15.8823064
       cities:
@@ -2536,9 +2894,11 @@
           longitude: 15.87694
     -
       name: "Sveti Andraž v Slovenskih Goricah"
+      native: "Sveti Andraž v Slovenskih Goricah"
       code: "182"
       iso3166_2: "SI-182"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5189747
       longitude: 15.9498262
       cities:
@@ -2548,18 +2908,22 @@
           longitude: 15.93944
     -
       name: "Sveti Jurij ob Ščavnici"
+      native: "Sveti Jurij ob Ščavnici"
       code: "116"
       iso3166_2: "SI-116"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5687452
       longitude: 16.0222528
       cities:
         []
     -
       name: "Sveti Jurij v Slovenskih Goricah"
+      native: "Sveti Jurij v Slovenskih Goricah"
       code: "210"
       iso3166_2: "SI-210"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6133355
       longitude: 15.7974141
       cities:
@@ -2569,9 +2933,11 @@
           longitude: 16.02347
     -
       name: "Sveti Tomaž"
+      native: "Sveti Tomaž"
       code: "205"
       iso3166_2: "SI-205"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4835283
       longitude: 16.079442
       cities:
@@ -2581,9 +2947,11 @@
           longitude: 16.08361
     -
       name: "Tabor"
+      native: "Tabor"
       code: "184"
       iso3166_2: "SI-184"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.235054
       longitude: 15.0153081
       cities:
@@ -2593,9 +2961,11 @@
           longitude: 15.01833
     -
       name: "Tišina"
+      native: "Tišina"
       code: "010"
       iso3166_2: "SI-010"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6541884
       longitude: 16.0754781
       cities:
@@ -2605,9 +2975,11 @@
           longitude: 16.09167
     -
       name: "Tolmin"
+      native: "Tolmin"
       code: "128"
       iso3166_2: "SI-128"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1857188
       longitude: 13.7319838
       cities:
@@ -2617,9 +2989,11 @@
           longitude: 13.73321
     -
       name: "Trbovlje"
+      native: "Trbovlje"
       code: "129"
       iso3166_2: "SI-129"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1503563
       longitude: 15.0453137
       cities:
@@ -2629,9 +3003,11 @@
           longitude: 15.05333
     -
       name: "Trebnje"
+      native: "Trebnje"
       code: "130"
       iso3166_2: "SI-130"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9080163
       longitude: 15.0131905
       cities:
@@ -2641,9 +3017,11 @@
           longitude: 15.02167
     -
       name: "Trnovska Vas"
+      native: "Trnovska Vas"
       code: "185"
       iso3166_2: "SI-185"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5196833
       longitude: 15.8867884
       cities:
@@ -2653,9 +3031,11 @@
           longitude: 15.88657
     -
       name: "Tržič"
+      native: "Tržič"
       code: "131"
       iso3166_2: "SI-131"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3593514
       longitude: 14.3006623
       cities:
@@ -2669,9 +3049,11 @@
           longitude: 14.31046
     -
       name: "Trzin"
+      native: "Trzin"
       code: "186"
       iso3166_2: "SI-186"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1298241
       longitude: 14.5577637
       cities:
@@ -2685,9 +3067,11 @@
           longitude: 14.56667
     -
       name: "Turnišče"
+      native: "Turnišče"
       code: "132"
       iso3166_2: "SI-132"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.6248885
       longitude: 16.3165187
       cities:
@@ -2697,9 +3081,11 @@
           longitude: 16.32028
     -
       name: "Velenje"
+      native: "Velenje"
       code: "133"
       iso3166_2: "SI-133"
       type: "urban municipality"
+      type_es: "municipio urbano"
       latitude: 46.36666667
       longitude: 15.13333333
       cities:
@@ -2709,9 +3095,11 @@
           longitude: 15.11444444
     -
       name: "Velika Polana"
+      native: "Velika Polana"
       code: "187"
       iso3166_2: "SI-187"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5731715
       longitude: 16.3444126
       cities:
@@ -2721,9 +3109,11 @@
           longitude: 16.34694
     -
       name: "Velike Lašče"
+      native: "Velike Lašče"
       code: "134"
       iso3166_2: "SI-134"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8336591
       longitude: 14.6362363
       cities:
@@ -2733,9 +3123,11 @@
           longitude: 14.63639
     -
       name: "Veržej"
+      native: "Veržej"
       code: "188"
       iso3166_2: "SI-188"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5841135
       longitude: 16.16208
       cities:
@@ -2745,9 +3137,11 @@
           longitude: 16.16528
     -
       name: "Videm"
+      native: "Videm"
       code: "135"
       iso3166_2: "SI-135"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3429502
       longitude: 15.9322379
       cities:
@@ -2757,9 +3151,11 @@
           longitude: 15.90639
     -
       name: "Vipava"
+      native: "Vipava"
       code: "136"
       iso3166_2: "SI-136"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8412674
       longitude: 13.9609613
       cities:
@@ -2769,9 +3165,11 @@
           longitude: 13.96306
     -
       name: "Vitanje"
+      native: "Vitanje"
       code: "137"
       iso3166_2: "SI-137"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3815323
       longitude: 15.2950687
       cities:
@@ -2781,9 +3179,11 @@
           longitude: 15.29583
     -
       name: "Vodice"
+      native: "Vodice"
       code: "138"
       iso3166_2: "SI-138"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1896643
       longitude: 14.4938539
       cities:
@@ -2793,9 +3193,11 @@
           longitude: 14.49492
     -
       name: "Vojnik"
+      native: "Vojak"
       code: "139"
       iso3166_2: "SI-139"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2920581
       longitude: 15.302058
       cities:
@@ -2805,9 +3207,11 @@
           longitude: 15.30333
     -
       name: "Vransko"
+      native: "Vransko"
       code: "189"
       iso3166_2: "SI-189"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.239006
       longitude: 14.9527249
       cities:
@@ -2817,9 +3221,11 @@
           longitude: 14.95139
     -
       name: "Vrhnika"
+      native: "Vrhnika"
       code: "140"
       iso3166_2: "SI-140"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.9663607
       longitude: 14.2980772
       cities:
@@ -2833,9 +3239,11 @@
           longitude: 14.29484
     -
       name: "Vuzenica"
+      native: "Vuzenica"
       code: "141"
       iso3166_2: "SI-141"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.5980836
       longitude: 15.1657237
       cities:
@@ -2845,9 +3253,11 @@
           longitude: 15.16722
     -
       name: "Zagorje ob Savi"
+      native: "Zagorje ob Savi"
       code: "142"
       iso3166_2: "SI-142"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.1345202
       longitude: 14.9964384
       cities:
@@ -2865,9 +3275,11 @@
           longitude: 14.99694
     -
       name: "Žalec"
+      native: "Žalec"
       code: "190"
       iso3166_2: "SI-190"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2519712
       longitude: 15.1650072
       cities:
@@ -2889,9 +3301,11 @@
           longitude: 15.16482
     -
       name: "Zavrč"
+      native: "Zavrč"
       code: "143"
       iso3166_2: "SI-143"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3860221
       longitude: 16.0459879
       cities:
@@ -2901,9 +3315,11 @@
           longitude: 16.04972
     -
       name: "Železniki"
+      native: "Železniki"
       code: "146"
       iso3166_2: "SI-146"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2256377
       longitude: 14.1693617
       cities:
@@ -2913,9 +3329,11 @@
           longitude: 14.17205
     -
       name: "Žetale"
+      native: "Žetale"
       code: "191"
       iso3166_2: "SI-191"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.2742833
       longitude: 15.7913359
       cities:
@@ -2925,9 +3343,11 @@
           longitude: 15.82658
     -
       name: "Žiri"
+      native: "Porota"
       code: "147"
       iso3166_2: "SI-147"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.0472499
       longitude: 14.1098451
       cities:
@@ -2937,9 +3357,11 @@
           longitude: 14.10722
     -
       name: "Žirovnica"
+      native: "Žirovnica"
       code: "192"
       iso3166_2: "SI-192"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.4046083
       longitude: 14.1353229
       cities:
@@ -2949,9 +3371,11 @@
           longitude: 14.14
     -
       name: "Zreče"
+      native: "Zreče"
       code: "144"
       iso3166_2: "SI-144"
       type: "municipality"
+      type_es: "municipio"
       latitude: 46.3716354
       longitude: 15.3900185
       cities:
@@ -2961,9 +3385,11 @@
           longitude: 15.37917
     -
       name: "Žužemberk"
+      native: "Žužemberk"
       code: "193"
       iso3166_2: "SI-193"
       type: "municipality"
+      type_es: "municipio"
       latitude: 45.8316083
       longitude: 14.9295491
       cities:

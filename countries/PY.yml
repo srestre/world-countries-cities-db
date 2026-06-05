@@ -12,16 +12,20 @@
   currency_symbol: "₲"
   tld: ".py"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -23
   longitude: -58
   emoji: "🇵🇾"
   states:
     -
       name: "Alto Paraguay"
+      native: "Alto Paraguay"
       code: "16"
       iso3166_2: "PY-16"
       type: "department"
+      type_es: "departamento"
       latitude: -20.5
       longitude: -59.166667
       cities:
@@ -51,9 +55,11 @@
           longitude: -57.94
     -
       name: "Alto Paraná"
+      native: "Alto paraná"
       code: "10"
       iso3166_2: "PY-10"
       type: "department"
+      type_es: "departamento"
       latitude: -25.5
       longitude: -54.833333
       cities:
@@ -99,9 +105,11 @@
           longitude: -55.00007
     -
       name: "Amambay"
+      native: "Amambay"
       code: "13"
       iso3166_2: "PY-13"
       type: "department"
+      type_es: "departamento"
       latitude: -23
       longitude: -56
       cities:
@@ -119,18 +127,22 @@
           longitude: -55.73333
     -
       name: "Asuncion"
+      native: "Asunción"
       code: "ASU"
       iso3166_2: "PY-ASU"
       type: "department"
+      type_es: "departamento"
       latitude: -25.2800459
       longitude: -57.6343814
       cities:
         []
     -
       name: "Boquerón"
+      native: "Boquerón"
       code: "19"
       iso3166_2: "PY-19"
       type: "department"
+      type_es: "departamento"
       latitude: -22.6643064
       longitude: -61.0015877
       cities:
@@ -160,9 +172,11 @@
           longitude: -60.61111111
     -
       name: "Caaguazú"
+      native: "Caaguazú"
       code: "5"
       iso3166_2: "PY-5"
       type: "department"
+      type_es: "departamento"
       latitude: -25.4645818
       longitude: -56.013851
       cities:
@@ -212,9 +226,11 @@
           longitude: -55.92267
     -
       name: "Caazapá"
+      native: "Caazapá"
       code: "6"
       iso3166_2: "PY-6"
       type: "department"
+      type_es: "departamento"
       latitude: -26.1973302
       longitude: -56.3666422
       cities:
@@ -248,9 +264,11 @@
           longitude: -56.24607
     -
       name: "Canindeyú"
+      native: "Canindeyú"
       code: "14"
       iso3166_2: "PY-14"
       type: "department"
+      type_es: "departamento"
       latitude: -24.25
       longitude: -55.25
       cities:
@@ -284,9 +302,11 @@
           longitude: -55.64418
     -
       name: "Central"
+      native: "Central"
       code: "11"
       iso3166_2: "PY-11"
       type: "department"
+      type_es: "departamento"
       latitude: -25.5
       longitude: -57.5
       cities:
@@ -368,9 +388,11 @@
           longitude: -57.5092575
     -
       name: "Concepción"
+      native: "Concepción"
       code: "1"
       iso3166_2: "PY-1"
       type: "department"
+      type_es: "departamento"
       latitude: -23.4068281
       longitude: -57.4427802
       cities:
@@ -388,9 +410,11 @@
           longitude: -57.05972
     -
       name: "Cordillera"
+      native: "Cordillera"
       code: "3"
       iso3166_2: "PY-3"
       type: "department"
+      type_es: "departamento"
       latitude: -25.25
       longitude: -57
       cities:
@@ -448,9 +472,11 @@
           longitude: -57.08329
     -
       name: "Guairá"
+      native: "Guairá"
       code: "4"
       iso3166_2: "PY-4"
       type: "department"
+      type_es: "departamento"
       latitude: -25.75
       longitude: -56.5
       cities:
@@ -488,9 +514,11 @@
           longitude: -56.43518
     -
       name: "Itapúa"
+      native: "Itapúa"
       code: "7"
       iso3166_2: "PY-7"
       type: "department"
+      type_es: "departamento"
       latitude: -26.833333
       longitude: -55.833333
       cities:
@@ -580,9 +608,11 @@
           longitude: -55.78333
     -
       name: "Misiones"
+      native: "Misiones"
       code: "8"
       iso3166_2: "PY-8"
       type: "department"
+      type_es: "departamento"
       latitude: -27
       longitude: -57
       cities:
@@ -620,9 +650,11 @@
           longitude: -57.15
     -
       name: "Ñeembucú"
+      native: "Ñeembucú"
       code: "12"
       iso3166_2: "PY-12"
       type: "department"
+      type_es: "departamento"
       latitude: -27
       longitude: -58
       cities:
@@ -644,9 +676,11 @@
           longitude: -57.87
     -
       name: "Paraguarí"
+      native: "Paraguarí"
       code: "9"
       iso3166_2: "PY-9"
       type: "department"
+      type_es: "departamento"
       latitude: -25.6262174
       longitude: -57.1520642
       cities:
@@ -696,9 +730,11 @@
           longitude: -57.05
     -
       name: "Presidente Hayes"
+      native: "Presidente Hayes"
       code: "15"
       iso3166_2: "PY-15"
       type: "department"
+      type_es: "departamento"
       latitude: -23.5
       longitude: -58.833333
       cities:
@@ -716,9 +752,11 @@
           longitude: -57.52361
     -
       name: "San Pedro"
+      native: "San Pedro"
       code: "2"
       iso3166_2: "PY-2"
       type: "department"
+      type_es: "departamento"
       latitude: -24.25
       longitude: -56.5
       cities:

@@ -12,16 +12,20 @@
   currency_symbol: "₨"
   tld: ".mu"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -20.28333333
   longitude: 57.55
   emoji: "🇲🇺"
   states:
     -
       name: "Agalega Islands"
+      native: "Agly Islands"
       code: "AG"
       iso3166_2: "MU-AG"
       type: "dependency"
+      type_es: "dependencia"
       latitude: -10.3848578
       longitude: 56.6123525
       cities:
@@ -31,9 +35,11 @@
           longitude: 56.61795
     -
       name: "Black River"
+      native: "Black River"
       code: "BL"
       iso3166_2: "MU-BL"
       type: "district"
+      type_es: "distrito"
       latitude: -20.3264792
       longitude: 57.4155785
       cities:
@@ -99,9 +105,11 @@
           longitude: 57.37056
     -
       name: "Flacq"
+      native: "Flacq"
       code: "FL"
       iso3166_2: "MU-FL"
       type: "district"
+      type_es: "distrito"
       latitude: -20.2217312
       longitude: 57.7223251
       cities:
@@ -207,9 +215,11 @@
           longitude: 57.794861
     -
       name: "Grand Port"
+      native: "Grand Port"
       code: "GP"
       iso3166_2: "MU-GP"
       type: "district"
+      type_es: "distrito"
       latitude: -20.3897284
       longitude: 57.6160762
       cities:
@@ -299,9 +309,11 @@
           longitude: 57.716077
     -
       name: "Moka"
+      native: "Moka"
       code: "MO"
       iso3166_2: "MU-MO"
       type: "district"
+      type_es: "distrito"
       latitude: -20.2521392
       longitude: 57.5872245
       cities:
@@ -375,9 +387,11 @@
           longitude: 57.55476
     -
       name: "Pamplemousses"
+      native: "Pamplemousses"
       code: "PA"
       iso3166_2: "MU-PA"
       type: "district"
+      type_es: "distrito"
       latitude: -20.1136008
       longitude: 57.575926
       cities:
@@ -455,9 +469,11 @@
           longitude: 57.624149
     -
       name: "Plaines Wilhems"
+      native: "Plaines Wilhems"
       code: "PW"
       iso3166_2: "MU-PW"
       type: "district"
+      type_es: "distrito"
       latitude: -20.3053896
       longitude: 57.4959619
       cities:
@@ -543,9 +559,11 @@
           longitude: 57.47833
     -
       name: "Port Louis"
+      native: "Port Louis"
       code: "PL"
       iso3166_2: "MU-PL"
       type: "district"
+      type_es: "distrito"
       latitude: -20.1608912
       longitude: 57.5012222
       cities:
@@ -603,9 +621,11 @@
           longitude: 57.51997
     -
       name: "Rivière du Rempart"
+      native: "Rampart river"
       code: "RR"
       iso3166_2: "MU-RR"
       type: "district"
+      type_es: "distrito"
       latitude: -20.0669943
       longitude: 57.65063
       cities:
@@ -683,9 +703,11 @@
           longitude: 57.60219
     -
       name: "Rodrigues Island"
+      native: "Rodrigues Island"
       code: "RO"
       iso3166_2: "MU-RO"
       type: "dependency"
+      type_es: "dependencia"
       latitude: -19.7195149
       longitude: 63.4175938
       cities:
@@ -699,9 +721,11 @@
           longitude: 63.41667
     -
       name: "Saint Brandon Islands"
+      native: "Saint Brandon Islands"
       code: "CC"
       iso3166_2: "MU-CC"
       type: "dependency"
+      type_es: "dependencia"
       latitude: -16.583333
       longitude: 59.616667
       cities:
@@ -711,9 +735,11 @@
           longitude: 59.65851
     -
       name: "Savanne"
+      native: "Savanne"
       code: "SA"
       iso3166_2: "MU-SA"
       type: "district"
+      type_es: "distrito"
       latitude: -20.458386
       longitude: 57.4893297
       cities:

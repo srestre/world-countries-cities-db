@@ -1,14 +1,14 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BZ,Belize,Americas,Central America,BZ,Belize,Belize City,17.49952,-88.19756
-BZ,Belize,Americas,Central America,BZ,Belize,San Pedro,17.91598,-87.9659
-BZ,Belize,Americas,Central America,CY,Cayo,Belmopan,17.25,-88.76667
-BZ,Belize,Americas,Central America,CY,Cayo,Benque Viejo el Carmen,17.075,-89.13917
-BZ,Belize,Americas,Central America,CY,Cayo,San Ignacio,17.1588,-89.0696
-BZ,Belize,Americas,Central America,CY,Cayo,Valley of Peace,17.33472,-88.83472
-BZ,Belize,Americas,Central America,CZL,Corozal,Corozal,18.39375,-88.38849
-BZ,Belize,Americas,Central America,OW,Orange Walk,Hopelchén,17.8,-89.1
-BZ,Belize,Americas,Central America,OW,Orange Walk,Orange Walk,18.08124,-88.56328
-BZ,Belize,Americas,Central America,OW,Orange Walk,Shipyard,17.89382,-88.65452
-BZ,Belize,Americas,Central America,SC,Stann Creek,Dangriga,16.9697,-88.23313
-BZ,Belize,Americas,Central America,SC,Stann Creek,Placencia,16.51419,-88.36647
-BZ,Belize,Americas,Central America,TOL,Toledo,Punta Gorda,16.09835,-88.8097
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,BZ,Belize,district,distrito,Belize City,17.49952,-88.19756
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,BZ,Belize,district,distrito,San Pedro,17.91598,-87.9659
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,CY,Cayo,district,distrito,Belmopan,17.25,-88.76667
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,CY,Cayo,district,distrito,Benque Viejo el Carmen,17.075,-89.13917
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,CY,Cayo,district,distrito,San Ignacio,17.1588,-89.0696
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,CY,Cayo,district,distrito,Valley of Peace,17.33472,-88.83472
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,CZL,Corozal,district,distrito,Corozal,18.39375,-88.38849
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,OW,Orange Walk,district,distrito,Hopelchén,17.8,-89.1
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,OW,Orange Walk,district,distrito,Orange Walk,18.08124,-88.56328
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,OW,Orange Walk,district,distrito,Shipyard,17.89382,-88.65452
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,SC,Stann Creek,district,distrito,Dangriga,16.9697,-88.23313
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,SC,Stann Creek,district,distrito,Placencia,16.51419,-88.36647
+BZ,Belize,Belice,Americas,América,Central America,Centroamérica,TOL,Toledo,district,distrito,Punta Gorda,16.09835,-88.8097

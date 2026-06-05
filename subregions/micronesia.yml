@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".gu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 13.46666666
   longitude: 144.78333333
   emoji: "🇬🇺"
   states:
     -
       name: "Agana Heights"
+      native: "Agana Heights"
       code: "01"
       iso3166_2: "GU-01"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4655441
       longitude: 144.7465714
       cities:
@@ -31,9 +35,11 @@
           longitude: 144.74795
     -
       name: "Asan-Maina"
+      native: "Asan-Maina"
       code: "02"
       iso3166_2: "GU-02"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4776472
       longitude: 144.7308588
       cities:
@@ -43,9 +49,11 @@
           longitude: 144.71654
     -
       name: "Barrigada"
+      native: "Barrigada"
       code: "03"
       iso3166_2: "GU-03"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4694092
       longitude: 144.80106
       cities:
@@ -55,9 +63,11 @@
           longitude: 144.79901
     -
       name: "Chalan Pago-Ordot"
+      native: "Boy Pago-Cordot"
       code: "04"
       iso3166_2: "GU-04"
       type: "village"
+      type_es: "aldea"
       latitude: 13.441372
       longitude: 144.7670241
       cities:
@@ -67,9 +77,11 @@
           longitude: 144.75902
     -
       name: "Dededo"
+      native: "Dededo"
       code: "05"
       iso3166_2: "GU-05"
       type: "village"
+      type_es: "aldea"
       latitude: 13.519054
       longitude: 144.8378388
       cities:
@@ -79,9 +91,11 @@
           longitude: 144.8391
     -
       name: "Hågat"
+      native: "Hågat"
       code: "06"
       iso3166_2: "GU-06"
       type: "village"
+      type_es: "aldea"
       latitude: 13.384761
       longitude: 144.6580714
       cities:
@@ -91,9 +105,11 @@
           longitude: 144.66003
     -
       name: "Hagåtña"
+      native: "snail"
       code: "12"
       iso3166_2: "GU-12"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4748148
       longitude: 144.7516191
       cities:
@@ -107,9 +123,11 @@
           longitude: 144.75802
     -
       name: "Inarajan (Inalåhan)"
+      native: "Inrajan (Inalåhan)"
       code: "08"
       iso3166_2: "GU-08"
       type: "village"
+      type_es: "aldea"
       latitude: 13.2797664
       longitude: 144.7432266
       cities:
@@ -119,9 +137,11 @@
           longitude: 144.74845
     -
       name: "Mangilao"
+      native: "Mangilao"
       code: "10"
       iso3166_2: "GU-10"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4439915
       longitude: 144.8050528
       cities:
@@ -135,9 +155,11 @@
           longitude: 144.80109
     -
       name: "Merizo (Malesso)"
+      native: "Merizo (Malesso)"
       code: "09"
       iso3166_2: "GU-09"
       type: "village"
+      type_es: "aldea"
       latitude: 13.2682975
       longitude: 144.6726106
       cities:
@@ -147,9 +169,11 @@
           longitude: 144.66908
     -
       name: "Mongmong-Toto-Maite"
+      native: "Mongmong-Toto-Maite"
       code: "11"
       iso3166_2: "GU-11"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4674318
       longitude: 144.7680282
       cities:
@@ -159,9 +183,11 @@
           longitude: 144.78214
     -
       name: "Piti"
+      native: "Kept"
       code: "13"
       iso3166_2: "GU-13"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4647446
       longitude: 144.6876982
       cities:
@@ -171,9 +197,11 @@
           longitude: 144.69331
     -
       name: "Santa Rita (Sånta Rita-Sumai)"
+      native: "Santa Rita (Sånta Rita-Sumai)"
       code: "14"
       iso3166_2: "GU-14"
       type: "village"
+      type_es: "aldea"
       latitude: 13.3867874
       longitude: 144.6664227
       cities:
@@ -187,9 +215,11 @@
           longitude: 144.67226
     -
       name: "Sinajana"
+      native: "Sinajana"
       code: "15"
       iso3166_2: "GU-15"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4609486
       longitude: 144.7461208
       cities:
@@ -199,9 +229,11 @@
           longitude: 144.75406
     -
       name: "Talofofo (Talo'fo'fo)"
+      native: "Tapeable (Shots'fos)"
       code: "16"
       iso3166_2: "GU-16"
       type: "village"
+      type_es: "aldea"
       latitude: 13.353904
       longitude: 144.7532932
       cities:
@@ -211,9 +243,11 @@
           longitude: 144.75835
     -
       name: "Tamuning"
+      native: "Tamuning"
       code: "17"
       iso3166_2: "GU-17"
       type: "village"
+      type_es: "aldea"
       latitude: 13.4944762
       longitude: 144.7804582
       cities:
@@ -231,18 +265,22 @@
           longitude: 144.78138
     -
       name: "Umatac (Humåtak)"
+      native: "Umatac (Humåtak)"
       code: "07"
       iso3166_2: "GU-07"
       type: "village"
+      type_es: "aldea"
       latitude: 13.2945777
       longitude: 144.6538283
       cities:
         []
     -
       name: "Yigo"
+      native: "Yigo"
       code: "18"
       iso3166_2: "GU-18"
       type: "village"
+      type_es: "aldea"
       latitude: 13.5379424
       longitude: 144.8984955
       cities:
@@ -260,9 +298,11 @@
           longitude: 144.88855
     -
       name: "Yona"
+      native: "Yona"
       code: "19"
       iso3166_2: "GU-19"
       type: "village"
+      type_es: "aldea"
       latitude: 13.41376
       longitude: 144.774413
       cities:
@@ -284,16 +324,20 @@
   currency_symbol: "$"
   tld: ".ki"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 1.41666666
   longitude: 173
   emoji: "🇰🇮"
   states:
     -
       name: "Gilbert"
+      native: "Gilbert"
       code: "G"
       iso3166_2: "KI-G"
       type: "island"
+      type_es: "isla"
       latitude: -1.2394556
       longitude: 175.2969455
       cities:
@@ -415,9 +459,11 @@
           longitude: 173.16226
     -
       name: "Line"
+      native: "Line"
       code: "L"
       iso3166_2: "KI-L"
       type: "island"
+      type_es: "isla"
       latitude: 1.3589779
       longitude: 172.9311202
       cities:
@@ -451,9 +497,11 @@
           longitude: -160.38803
     -
       name: "Phoenix"
+      native: "Phoenix"
       code: "P"
       iso3166_2: "KI-P"
       type: "island"
+      type_es: "isla"
       latitude: -3.7213444
       longitude: -170.7117052
       cities:
@@ -475,16 +523,20 @@
   currency_symbol: "$"
   tld: ".mh"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 9
   longitude: 168
   emoji: "🇲🇭"
   states:
     -
       name: "Ailinglaplap"
+      native: "Ailinglaplap"
       code: "ALL"
       iso3166_2: "MH-ALL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.5
       longitude: 168.73333333
       cities:
@@ -494,9 +546,11 @@
           longitude: 168.73333333
     -
       name: "Ailuk"
+      native: "Ailuk"
       code: "ALK"
       iso3166_2: "MH-ALK"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.31666667
       longitude: 169.93333333
       cities:
@@ -506,9 +560,11 @@
           longitude: 169.93333333
     -
       name: "Arno"
+      native: "Arno"
       code: "ARN"
       iso3166_2: "MH-ARN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.08333333
       longitude: 171.7
       cities:
@@ -518,9 +574,11 @@
           longitude: 171.7
     -
       name: "Aur"
+      native: "Aur"
       code: "AUR"
       iso3166_2: "MH-AUR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.2
       longitude: 171.1
       cities:
@@ -530,9 +588,11 @@
           longitude: 171.1
     -
       name: "Bikini & Kili"
+      native: "Bikini & Kili"
       code: "KIL"
       iso3166_2: "MH-KIL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.6
       longitude: 165.4
       cities:
@@ -546,9 +606,11 @@
           longitude: 169.11666667
     -
       name: "Ebon"
+      native: "Ebon"
       code: "EBO"
       iso3166_2: "MH-EBO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 4.63333333
       longitude: 168.71666667
       cities:
@@ -558,9 +620,11 @@
           longitude: 168.71666667
     -
       name: "Enewetak & Ujelang"
+      native: "Enewetak & Ujelang"
       code: "ENI"
       iso3166_2: "MH-ENI"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.5
       longitude: 162.33333333
       cities:
@@ -574,9 +638,11 @@
           longitude: 160.9
     -
       name: "Jabat"
+      native: "Jabat"
       code: "JAB"
       iso3166_2: "MH-JAB"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.75
       longitude: 168.96666667
       cities:
@@ -586,9 +652,11 @@
           longitude: 168.96666667
     -
       name: "Jaluit"
+      native: "Jaluit"
       code: "JAL"
       iso3166_2: "MH-JAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 6
       longitude: 169.56666667
       cities:
@@ -598,9 +666,11 @@
           longitude: 169.56666667
     -
       name: "Kwajalein"
+      native: "Kwajalein"
       code: "KWA"
       iso3166_2: "MH-KWA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.71666667
       longitude: 167.73333333
       cities:
@@ -610,9 +680,11 @@
           longitude: -111.92
     -
       name: "Lae"
+      native: "Lae"
       code: "LAE"
       iso3166_2: "MH-LAE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.93611111
       longitude: 166.2375
       cities:
@@ -622,9 +694,11 @@
           longitude: 166.2375
     -
       name: "Lib"
+      native: "Lib"
       code: "LIB"
       iso3166_2: "MH-LIB"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.31305556
       longitude: 167.37777778
       cities:
@@ -634,9 +708,11 @@
           longitude: 167.37777778
     -
       name: "Likiep"
+      native: "Likiep"
       code: "LIK"
       iso3166_2: "MH-LIK"
       type: "municipality"
+      type_es: "municipio"
       latitude: 9.88498
       longitude: 169.14345
       cities:
@@ -646,9 +722,11 @@
           longitude: 169.14345
     -
       name: "Majuro"
+      native: "Majuro"
       code: "MAJ"
       iso3166_2: "MH-MAJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.0918
       longitude: 171.3802
       cities:
@@ -658,9 +736,11 @@
           longitude: 171.38333333
     -
       name: "Maloelap"
+      native: "Maloelap"
       code: "MAL"
       iso3166_2: "MH-MAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.75343611
       longitude: 171.04888889
       cities:
@@ -670,9 +750,11 @@
           longitude: 33.41666667
     -
       name: "Mejit"
+      native: "Mejit"
       code: "MEJ"
       iso3166_2: "MH-MEJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.28333333
       longitude: 170.88333333
       cities:
@@ -682,9 +764,11 @@
           longitude: 170.88333333
     -
       name: "Mili"
+      native: "Mili"
       code: "MIL"
       iso3166_2: "MH-MIL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 6.12621667
       longitude: 171.97998056
       cities:
@@ -694,9 +778,11 @@
           longitude: 171.97998056
     -
       name: "Namdrik"
+      native: "Namdrik"
       code: "NMK"
       iso3166_2: "MH-NMK"
       type: "municipality"
+      type_es: "municipio"
       latitude: 5.61666667
       longitude: 168.11666667
       cities:
@@ -706,9 +792,11 @@
           longitude: 168.11666667
     -
       name: "Namu"
+      native: "Namu"
       code: "NMU"
       iso3166_2: "MH-NMU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.98333333
       longitude: 168.17361111
       cities:
@@ -718,27 +806,33 @@
           longitude: 168.17361111
     -
       name: "Ralik"
+      native: "Titled"
       code: "L"
       iso3166_2: "MH-L"
       type: "chain"
+      type_es: "archipiélago"
       latitude: 8.230817
       longitude: 167.7953224
       cities:
         []
     -
       name: "Ratak"
+      native: "Ratak"
       code: "T"
       iso3166_2: "MH-T"
       type: "chain"
+      type_es: "archipiélago"
       latitude: 8.615055
       longitude: 170.8205547
       cities:
         []
     -
       name: "Rongelap"
+      native: "Rongelap"
       code: "RON"
       iso3166_2: "MH-RON"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.31666667
       longitude: 166.78333333
       cities:
@@ -748,9 +842,11 @@
           longitude: 166.78333333
     -
       name: "Ujae"
+      native: "Ujae"
       code: "UJA"
       iso3166_2: "MH-UJA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 9.05
       longitude: 165.65
       cities:
@@ -760,9 +856,11 @@
           longitude: 165.65
     -
       name: "Utrik"
+      native: "Utrik"
       code: "UTI"
       iso3166_2: "MH-UTI"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.26730556
       longitude: 169.78426111
       cities:
@@ -772,9 +870,11 @@
           longitude: 169.78426111
     -
       name: "Wotho"
+      native: "Wotho"
       code: "WTH"
       iso3166_2: "MH-WTH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.1
       longitude: 165.96666667
       cities:
@@ -784,9 +884,11 @@
           longitude: 165.96666667
     -
       name: "Wotje"
+      native: "Wotje"
       code: "WTJ"
       iso3166_2: "MH-WTJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 9.43333333
       longitude: 170.01666667
       cities:
@@ -808,16 +910,20 @@
   currency_symbol: "$"
   tld: ".fm"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 6.91666666
   longitude: 158.25
   emoji: "🇫🇲"
   states:
     -
       name: "Chuuk"
+      native: "Chuuk"
       code: "TRK"
       iso3166_2: "FM-TRK"
       type: "state"
+      type_es: "estado"
       latitude: 7.4393793
       longitude: 151.8515538
       cities:
@@ -995,9 +1101,11 @@
           longitude: 151.601
     -
       name: "Kosrae"
+      native: "Kosrae"
       code: "KSA"
       iso3166_2: "FM-KSA"
       type: "state"
+      type_es: "estado"
       latitude: 5.3095618
       longitude: 162.9814877
       cities:
@@ -1023,9 +1131,11 @@
           longitude: 162.95617
     -
       name: "Pohnpei"
+      native: "Pohnpei"
       code: "PNI"
       iso3166_2: "FM-PNI"
       type: "state"
+      type_es: "estado"
       latitude: 6.8870467
       longitude: 158.2406138
       cities:
@@ -1083,9 +1193,11 @@
           longitude: 158.27361
     -
       name: "Yap"
+      native: "Yap"
       code: "YAP"
       iso3166_2: "FM-YAP"
       type: "state"
+      type_es: "estado"
       latitude: 9.5462683
       longitude: 138.1651599
       cities:
@@ -1179,16 +1291,20 @@
   currency_symbol: "$"
   tld: ".nr"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: -0.53333333
   longitude: 166.91666666
   emoji: "🇳🇷"
   states:
     -
       name: "Aiwo"
+      native: "Theirs"
       code: "01"
       iso3166_2: "NR-01"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5340012
       longitude: 166.9138873
       cities:
@@ -1198,9 +1314,11 @@
           longitude: 166.91247
     -
       name: "Anabar"
+      native: "An input"
       code: "02"
       iso3166_2: "NR-02"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5133517
       longitude: 166.9484624
       cities:
@@ -1210,27 +1328,33 @@
           longitude: 166.95326
     -
       name: "Anetan"
+      native: "Aneta"
       code: "03"
       iso3166_2: "NR-03"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5064343
       longitude: 166.9427006
       cities:
         []
     -
       name: "Anibare"
+      native: "Anibare"
       code: "04"
       iso3166_2: "NR-04"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5294758
       longitude: 166.9513432
       cities:
         []
     -
       name: "Baiti"
+      native: "Verse"
       code: "05"
       iso3166_2: "NR-05"
       type: "district"
+      type_es: "distrito"
       latitude: -0.510431
       longitude: 166.9275744
       cities:
@@ -1240,45 +1364,55 @@
           longitude: 166.92945
     -
       name: "Boe"
+      native: "Boe"
       code: "06"
       iso3166_2: "NR-06"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5423003
       longitude: 166.9160609
       cities:
         []
     -
       name: "Buada"
+      native: "Puffy"
       code: "07"
       iso3166_2: "NR-07"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5328777
       longitude: 166.9268541
       cities:
         []
     -
       name: "Denigomodu"
+      native: "Denigomond"
       code: "08"
       iso3166_2: "NR-08"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5247964
       longitude: 166.9167689
       cities:
         []
     -
       name: "Ewa"
+      native: "Ewa"
       code: "09"
       iso3166_2: "NR-09"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5087241
       longitude: 166.9369384
       cities:
         []
     -
       name: "Ijuw"
+      native: "Anemy"
       code: "10"
       iso3166_2: "NR-10"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5202767
       longitude: 166.9571046
       cities:
@@ -1288,9 +1422,11 @@
           longitude: 166.95813
     -
       name: "Meneng"
+      native: "Silently"
       code: "11"
       iso3166_2: "NR-11"
       type: "district"
+      type_es: "distrito"
       latitude: -0.546724
       longitude: 166.938379
       cities:
@@ -1300,18 +1436,22 @@
           longitude: 166.94871
     -
       name: "Nibok"
+      native: "Nibok"
       code: "12"
       iso3166_2: "NR-12"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5196208
       longitude: 166.9189301
       cities:
         []
     -
       name: "Uaboe"
+      native: "Uabee"
       code: "13"
       iso3166_2: "NR-13"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5202222
       longitude: 166.9311761
       cities:
@@ -1321,9 +1461,11 @@
           longitude: 166.92384
     -
       name: "Yaren"
+      native: "Yaren"
       code: "14"
       iso3166_2: "NR-14"
       type: "district"
+      type_es: "distrito"
       latitude: -0.5466857
       longitude: 166.9210913
       cities:
@@ -1345,7 +1487,9 @@
   currency_symbol: "$"
   tld: ".mp"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 15.2
   longitude: 145.75
   emoji: "🇲🇵"
@@ -1365,16 +1509,20 @@
   currency_symbol: "$"
   tld: ".pw"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 7.5
   longitude: 134.5
   emoji: "🇵🇼"
   states:
     -
       name: "Aimeliik"
+      native: "Ameliikik"
       code: "002"
       iso3166_2: "PW-002"
       type: "state"
+      type_es: "estado"
       latitude: 7.5651497
       longitude: 134.1469665
       cities:
@@ -1384,9 +1532,11 @@
           longitude: 134.47678
     -
       name: "Airai"
+      native: "Airai"
       code: "004"
       iso3166_2: "PW-004"
       type: "state"
+      type_es: "estado"
       latitude: 7.3599342
       longitude: 134.5601154
       cities:
@@ -1396,9 +1546,11 @@
           longitude: 134.51484
     -
       name: "Angaur"
+      native: "Angaur"
       code: "010"
       iso3166_2: "PW-010"
       type: "state"
+      type_es: "estado"
       latitude: 6.909223
       longitude: 134.1387934
       cities:
@@ -1408,9 +1560,11 @@
           longitude: 134.12997
     -
       name: "Hatohobei"
+      native: "Hatohobei"
       code: "050"
       iso3166_2: "PW-050"
       type: "state"
+      type_es: "estado"
       latitude: 3.0070658
       longitude: 131.1237781
       cities:
@@ -1420,9 +1574,11 @@
           longitude: 131.12168
     -
       name: "Kayangel"
+      native: "Kayael"
       code: "100"
       iso3166_2: "PW-100"
       type: "state"
+      type_es: "estado"
       latitude: 8.0822491
       longitude: 134.7189633
       cities:
@@ -1432,9 +1588,11 @@
           longitude: 134.71725
     -
       name: "Koror"
+      native: "Increase"
       code: "150"
       iso3166_2: "PW-150"
       type: "state"
+      type_es: "estado"
       latitude: 7.3337487
       longitude: 134.4762806
       cities:
@@ -1444,9 +1602,11 @@
           longitude: 134.47326
     -
       name: "Melekeok"
+      native: "Melekeok"
       code: "212"
       iso3166_2: "PW-212"
       type: "state"
+      type_es: "estado"
       latitude: 7.4726013
       longitude: 134.7548743
       cities:
@@ -1456,9 +1616,11 @@
           longitude: 134.63671
     -
       name: "Ngaraard"
+      native: "To eat"
       code: "214"
       iso3166_2: "PW-214"
       type: "state"
+      type_es: "estado"
       latitude: 7.6424529
       longitude: 134.7328064
       cities:
@@ -1468,9 +1630,11 @@
           longitude: 134.64208
     -
       name: "Ngarchelong"
+      native: "Ngarchelong"
       code: "218"
       iso3166_2: "PW-218"
       type: "state"
+      type_es: "estado"
       latitude: 7.8467235
       longitude: 134.4733014
       cities:
@@ -1480,9 +1644,11 @@
           longitude: 134.63054
     -
       name: "Ngardmau"
+      native: "Kerdown"
       code: "222"
       iso3166_2: "PW-222"
       type: "state"
+      type_es: "estado"
       latitude: 7.726789
       longitude: 134.2765486
       cities:
@@ -1492,18 +1658,22 @@
           longitude: 134.5744
     -
       name: "Ngatpang"
+      native: "Ngatpang"
       code: "224"
       iso3166_2: "PW-224"
       type: "state"
+      type_es: "estado"
       latitude: 7.6117591
       longitude: 134.1799732
       cities:
         []
     -
       name: "Ngchesar"
+      native: "Nkchesar"
       code: "226"
       iso3166_2: "PW-226"
       type: "state"
+      type_es: "estado"
       latitude: 7.417716
       longitude: 134.7114947
       cities:
@@ -1513,9 +1683,11 @@
           longitude: 134.60991
     -
       name: "Ngeremlengui"
+      native: "Ngeremlengui"
       code: "227"
       iso3166_2: "PW-227"
       type: "state"
+      type_es: "estado"
       latitude: 7.6590207
       longitude: 134.2120044
       cities:
@@ -1525,9 +1697,11 @@
           longitude: 134.52713
     -
       name: "Ngiwal"
+      native: "Ngiwal"
       code: "228"
       iso3166_2: "PW-228"
       type: "state"
+      type_es: "estado"
       latitude: 7.5407316
       longitude: 134.7298202
       cities:
@@ -1537,9 +1711,11 @@
           longitude: 134.63612
     -
       name: "Peleliu"
+      native: "Turn over"
       code: "350"
       iso3166_2: "PW-350"
       type: "state"
+      type_es: "estado"
       latitude: 7.0113797
       longitude: 134.246065
       cities:
@@ -1549,9 +1725,11 @@
           longitude: 134.25561
     -
       name: "Sonsorol"
+      native: "Sonsorol"
       code: "370"
       iso3166_2: "PW-370"
       type: "state"
+      type_es: "estado"
       latitude: 5.3268119
       longitude: 132.2239117
       cities:

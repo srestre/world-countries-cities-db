@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /*
  * build-latam.js
- * Builds the Elementor-ready LATAM section under /latam.
+ * Builds the frontend-ready LATAM section under /latam (chained Country -> City selects).
  *
  * This is the richer LATAM dataset (more cities than the dr5hn snapshot), sourced from
  * Yerikmiller/Countries-States-Cities-JSON (derived from dr5hn), under ODbL. It is kept
@@ -21,6 +21,9 @@
  *   /latam/latam-cities.json    consolidated { slug: [cities...] }
  *
  * English slugs, bilingual names. JSON compact, UTF-8, non-ASCII unescaped. Re-runnable.
+ *
+ * SPDX-License-Identifier: MIT
+ * Copyright (c) 2026 srestre. Code under MIT (LICENSE-CODE); data under ODbL (LICENSE).
  */
 
 'use strict';
@@ -103,19 +106,18 @@ function writeJSON(file, obj) {
 async function main() {
   fs.mkdirSync(DIR_CITIES, { recursive: true });
 
+  // Download all countries in parallel (any failure still aborts the whole run).
+  const fetched = await Promise.all(COUNTRIES.map(async (c) => {
+    if (c.iso3 === 'PRI') return { c, cities: normalizeCities(PUERTO_RICO_CITIES) };
+    const data = await downloadCountry(c.iso3);
+    return { c, cities: normalizeCities(flattenCities(data)) };
+  }));
+
   const consolidated = {};
   const index = {};
   const counts = [];
 
-  for (const c of COUNTRIES) {
-    let cities;
-    if (c.iso3 === 'PRI') {
-      cities = normalizeCities(PUERTO_RICO_CITIES);
-    } else {
-      const data = await downloadCountry(c.iso3);
-      cities = normalizeCities(flattenCities(data));
-    }
-
+  for (const { c, cities } of fetched) {
     writeJSON(path.join(DIR_CITIES, `${c.slug}.json`), cities);
     consolidated[c.slug] = cities;
     index[c.slug] = { name_en: c.name_en, name_es: c.name_es, iso2: c.iso2, iso3: c.iso3 };
@@ -123,10 +125,11 @@ async function main() {
     console.log(`  ${c.name_en.padEnd(20)} ${String(cities.length).padStart(5)} cities -> latam/cities/${c.slug}.json`);
   }
 
-  const first = COUNTRIES.find((c) => c.slug === 'colombia');
+  const colombia = COUNTRIES.find((c) => c.slug === 'colombia');
+  if (!colombia) throw new Error('COUNTRIES must include a colombia entry');
   const rest = COUNTRIES.filter((c) => c.slug !== 'colombia')
     .sort((a, b) => collator.compare(a.name_en, b.name_en));
-  const ordered = [first, ...rest].map((c) => ({
+  const ordered = [colombia, ...rest].map((c) => ({
     slug: c.slug, name_en: c.name_en, name_es: c.name_es, iso2: c.iso2, iso3: c.iso3,
   }));
   writeJSON(path.join(DIR_LATAM, 'countries.json'), ordered);

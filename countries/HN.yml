@@ -12,16 +12,20 @@
   currency_symbol: "L"
   tld: ".hn"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   latitude: 15
   longitude: -86.5
   emoji: "🇭🇳"
   states:
     -
       name: "Atlántida"
+      native: "Atlántida"
       code: "AT"
       iso3166_2: "HN-AT"
       type: "department"
+      type_es: "departamento"
       latitude: 15.8172492
       longitude: -87.1146935
       cities:
@@ -107,9 +111,11 @@
           longitude: -87.55
     -
       name: "Bay Islands"
+      native: "Islas de la Bahía"
       code: "IB"
       iso3166_2: "HN-IB"
       type: "department"
+      type_es: "departamento"
       latitude: 16.3217674
       longitude: -86.1786833
       cities:
@@ -147,9 +153,11 @@
           longitude: -86.9307
     -
       name: "Choluteca"
+      native: "Choluteca"
       code: "CH"
       iso3166_2: "HN-CH"
       type: "department"
+      type_es: "departamento"
       latitude: 13.3014081
       longitude: -87.1842323
       cities:
@@ -255,9 +263,11 @@
           longitude: -87.34833
     -
       name: "Colón"
+      native: "Colon"
       code: "CL"
       iso3166_2: "HN-CL"
       type: "department"
+      type_es: "departamento"
       latitude: 15.7149552
       longitude: -85.7023584
       cities:
@@ -367,9 +377,11 @@
           longitude: -86.06667
     -
       name: "Comayagua"
+      native: "Comayagua"
       code: "CM"
       iso3166_2: "HN-CM"
       type: "department"
+      type_es: "departamento"
       latitude: 14.5525837
       longitude: -87.6903154
       cities:
@@ -519,9 +531,11 @@
           longitude: -87.61667
     -
       name: "Copán"
+      native: "Copán"
       code: "CP"
       iso3166_2: "HN-CP"
       type: "department"
+      type_es: "departamento"
       latitude: 14.8958685
       longitude: -88.9255812
       cities:
@@ -691,9 +705,11 @@
           longitude: -88.7857
     -
       name: "Cortés"
+      native: "Cortés"
       code: "CR"
       iso3166_2: "HN-CR"
       type: "department"
+      type_es: "departamento"
       latitude: 15.4784073
       longitude: -88.0343858
       cities:
@@ -923,9 +939,11 @@
           longitude: -88
     -
       name: "El Paraíso"
+      native: "El Paraíso"
       code: "EP"
       iso3166_2: "HN-EP"
       type: "department"
+      type_es: "departamento"
       latitude: 13.9619941
       longitude: -86.5627921
       cities:
@@ -1059,9 +1077,11 @@
           longitude: -86.8317
     -
       name: "Francisco Morazán"
+      native: "Francisco Morazán"
       code: "FM"
       iso3166_2: "HN-FM"
       type: "department"
+      type_es: "departamento"
       latitude: 14.3430478
       longitude: -87.1141957
       cities:
@@ -1275,9 +1295,11 @@
           longitude: -87.4
     -
       name: "Gracias a Dios"
+      native: "Gracias a Dios"
       code: "GD"
       iso3166_2: "HN-GD"
       type: "department"
+      type_es: "departamento"
       latitude: 15.4333305
       longitude: -84.148687
       cities:
@@ -1331,9 +1353,11 @@
           longitude: -84.43333
     -
       name: "Intibucá"
+      native: "Intibucá"
       code: "IN"
       iso3166_2: "HN-IN"
       type: "department"
+      type_es: "departamento"
       latitude: 14.3121375
       longitude: -88.1780847
       cities:
@@ -1411,9 +1435,11 @@
           longitude: -88.24652
     -
       name: "La Paz"
+      native: "La Paz"
       code: "LP"
       iso3166_2: "HN-LP"
       type: "department"
+      type_es: "departamento"
       latitude: 14.1284089
       longitude: -87.9615276
       cities:
@@ -1507,9 +1533,11 @@
           longitude: -87.63333
     -
       name: "Lempira"
+      native: "Lempira"
       code: "LE"
       iso3166_2: "HN-LE"
       type: "department"
+      type_es: "departamento"
       latitude: 14.4556602
       longitude: -88.6188558
       cities:
@@ -1643,9 +1671,11 @@
           longitude: -88.56193
     -
       name: "Ocotepeque"
+      native: "Ocotepeque"
       code: "OC"
       iso3166_2: "HN-OC"
       type: "department"
+      type_es: "departamento"
       latitude: 14.4759433
       longitude: -89.0365633
       cities:
@@ -1735,9 +1765,11 @@
           longitude: -88.81667
     -
       name: "Olancho"
+      native: "Olancho"
       code: "OL"
       iso3166_2: "HN-OL"
       type: "department"
+      type_es: "departamento"
       latitude: 14.8211028
       longitude: -85.9549881
       cities:
@@ -1887,9 +1919,11 @@
           longitude: -86.26667
     -
       name: "Santa Bárbara"
+      native: "Santa Bárbara"
       code: "SB"
       iso3166_2: "HN-SB"
       type: "department"
+      type_es: "departamento"
       latitude: 15.0960558
       longitude: -88.3673692
       cities:
@@ -2099,9 +2133,11 @@
           longitude: -88.23333
     -
       name: "Valle"
+      native: "Valle"
       code: "VA"
       iso3166_2: "HN-VA"
       type: "department"
+      type_es: "departamento"
       latitude: 13.5110996
       longitude: -87.5472925
       cities:
@@ -2167,9 +2203,11 @@
           longitude: -87.40743
     -
       name: "Yoro"
+      native: "Yoro"
       code: "YO"
       iso3166_2: "HN-YO"
       type: "department"
+      type_es: "departamento"
       latitude: 15.2994474
       longitude: -87.2916981
       cities:

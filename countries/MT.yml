@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".mt"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 35.83333333
   longitude: 14.58333333
   emoji: "🇲🇹"
   states:
     -
       name: "Attard"
+      native: "Attard"
       code: "01"
       iso3166_2: "MT-01"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8909172
       longitude: 14.4430093
       cities:
@@ -31,9 +35,11 @@
           longitude: 14.4425
     -
       name: "Balzan"
+      native: "Balzan"
       code: "02"
       iso3166_2: "MT-02"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8957414
       longitude: 14.4534065
       cities:
@@ -43,9 +49,11 @@
           longitude: 14.455
     -
       name: "Birgu"
+      native: "Birgu"
       code: "03"
       iso3166_2: "MT-03"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8879214
       longitude: 14.522562
       cities:
@@ -55,9 +63,11 @@
           longitude: 14.51833
     -
       name: "Birkirkara"
+      native: "Birkirkara"
       code: "04"
       iso3166_2: "MT-04"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8954706
       longitude: 14.4665072
       cities:
@@ -75,9 +85,11 @@
           longitude: 14.476592
     -
       name: "Birżebbuġa"
+      native: "Birżebbuġa"
       code: "05"
       iso3166_2: "MT-05"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8269478
       longitude: 14.5274189
       cities:
@@ -91,9 +103,11 @@
           longitude: 14.510686
     -
       name: "Cospicua"
+      native: "Evidenti"
       code: "06"
       iso3166_2: "MT-06"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8806753
       longitude: 14.5218338
       cities:
@@ -103,9 +117,11 @@
           longitude: 14.5275
     -
       name: "Dingli"
+      native: "Dingli"
       code: "07"
       iso3166_2: "MT-07"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8627309
       longitude: 14.3850107
       cities:
@@ -115,9 +131,11 @@
           longitude: 14.38222
     -
       name: "Fgura"
+      native: "Fgura"
       code: "08"
       iso3166_2: "MT-08"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8738269
       longitude: 14.5232901
       cities:
@@ -127,9 +145,11 @@
           longitude: 14.51333
     -
       name: "Floriana"
+      native: "Floriana"
       code: "09"
       iso3166_2: "MT-09"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8929838
       longitude: 14.5052716
       cities:
@@ -139,9 +159,11 @@
           longitude: 14.50833
     -
       name: "Fontana"
+      native: "Fontana"
       code: "10"
       iso3166_2: "MT-10"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.038744
       longitude: 14.2370014
       cities:
@@ -151,9 +173,11 @@
           longitude: 14.23611
     -
       name: "Għajnsielem"
+      native: "Għajnsielem"
       code: "13"
       iso3166_2: "MT-13"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0247966
       longitude: 14.2802961
       cities:
@@ -167,18 +191,22 @@
           longitude: 14.45118
     -
       name: "Għarb"
+      native: "Għarb"
       code: "14"
       iso3166_2: "MT-14"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0598182
       longitude: 14.209081
       cities:
         []
     -
       name: "Għargħur"
+      native: "Għargħur"
       code: "15"
       iso3166_2: "MT-15"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9220569
       longitude: 14.4563176
       cities:
@@ -188,9 +216,11 @@
           longitude: 14.51667
     -
       name: "Għasri"
+      native: "Għasri"
       code: "16"
       iso3166_2: "MT-16"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0668075
       longitude: 14.2192475
       cities:
@@ -200,9 +230,11 @@
           longitude: 14.50306
     -
       name: "Għaxaq"
+      native: "Għaxaq"
       code: "17"
       iso3166_2: "MT-17"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8440359
       longitude: 14.516009
       cities:
@@ -212,18 +244,22 @@
           longitude: 14.48806
     -
       name: "Gudja"
+      native: "Gudja"
       code: "11"
       iso3166_2: "MT-11"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8469803
       longitude: 14.502904
       cities:
         []
     -
       name: "Gżira"
+      native: "Gżira"
       code: "12"
       iso3166_2: "MT-12"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.905897
       longitude: 14.4953338
       cities:
@@ -233,9 +269,11 @@
           longitude: 14.20889
     -
       name: "Ħamrun"
+      native: "Ħamrun"
       code: "18"
       iso3166_2: "MT-18"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8861237
       longitude: 14.4883442
       cities:
@@ -249,9 +287,11 @@
           longitude: 14.48444
     -
       name: "Iklin"
+      native: "Iklin"
       code: "19"
       iso3166_2: "MT-19"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9098774
       longitude: 14.4577732
       cities:
@@ -261,9 +301,11 @@
           longitude: 14.45415
     -
       name: "Kalkara"
+      native: "Kalkara"
       code: "21"
       iso3166_2: "MT-21"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8914242
       longitude: 14.5320278
       cities:
@@ -277,9 +319,11 @@
           longitude: 14.295
     -
       name: "Kerċem"
+      native: "Kerċem"
       code: "22"
       iso3166_2: "MT-22"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0447939
       longitude: 14.2250605
       cities:
@@ -289,9 +333,11 @@
           longitude: 14.46824
     -
       name: "Kirkop"
+      native: "Kirkop"
       code: "23"
       iso3166_2: "MT-23"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8437862
       longitude: 14.4854324
       cities:
@@ -305,9 +351,11 @@
           longitude: 14.48528
     -
       name: "Lija"
+      native: "Rabid"
       code: "24"
       iso3166_2: "MT-24"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.901766
       longitude: 14.4476136
       cities:
@@ -321,9 +369,11 @@
           longitude: 14.39889
     -
       name: "Luqa"
+      native: "Luqa"
       code: "25"
       iso3166_2: "MT-25"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8582865
       longitude: 14.4868883
       cities:
@@ -337,9 +387,11 @@
           longitude: 14.51694
     -
       name: "Marsa"
+      native: "Marsa"
       code: "26"
       iso3166_2: "MT-26"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.882892
       longitude: 14.4944898
       cities:
@@ -349,9 +401,11 @@
           longitude: 14.53278
     -
       name: "Marsaskala"
+      native: "Marsaskala"
       code: "27"
       iso3166_2: "MT-27"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.860364
       longitude: 14.5567876
       cities:
@@ -365,9 +419,11 @@
           longitude: 14.56701
     -
       name: "Marsaxlokk"
+      native: "Marsaxlokk"
       code: "28"
       iso3166_2: "MT-28"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8411699
       longitude: 14.5393097
       cities:
@@ -377,18 +433,22 @@
           longitude: 14.54306
     -
       name: "Mdina"
+      native: "Mdina"
       code: "29"
       iso3166_2: "MT-29"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.888093
       longitude: 14.4068357
       cities:
         []
     -
       name: "Mellieħa"
+      native: "Mellieħa"
       code: "30"
       iso3166_2: "MT-30"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9599618
       longitude: 14.368367
       cities:
@@ -398,9 +458,11 @@
           longitude: 14.35333
     -
       name: "Mġarr"
+      native: "Mġarr"
       code: "31"
       iso3166_2: "MT-31"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9189327
       longitude: 14.3617343
       cities:
@@ -410,9 +472,11 @@
           longitude: 14.49528
     -
       name: "Mosta"
+      native: "Pont"
       code: "32"
       iso3166_2: "MT-32"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9141504
       longitude: 14.4228427
       cities:
@@ -422,18 +486,22 @@
           longitude: 14.398333
     -
       name: "Mqabba"
+      native: "Mqabba"
       code: "33"
       iso3166_2: "MT-33"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8444143
       longitude: 14.4694186
       cities:
         []
     -
       name: "Msida"
+      native: "Msida"
       code: "34"
       iso3166_2: "MT-34"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8956388
       longitude: 14.4868883
       cities:
@@ -443,18 +511,22 @@
           longitude: 14.36222
     -
       name: "Mtarfa"
+      native: "Mtarfa"
       code: "35"
       iso3166_2: "MT-35"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8895125
       longitude: 14.3951953
       cities:
         []
     -
       name: "Munxar"
+      native: "Munxar"
       code: "36"
       iso3166_2: "MT-36"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0288058
       longitude: 14.2250605
       cities:
@@ -464,9 +536,11 @@
           longitude: 14.23333
     -
       name: "Nadur"
+      native: "Nadur"
       code: "37"
       iso3166_2: "MT-37"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0447019
       longitude: 14.2919273
       cities:
@@ -476,9 +550,11 @@
           longitude: 14.29417
     -
       name: "Naxxar"
+      native: "Naxxar"
       code: "38"
       iso3166_2: "MT-38"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9133396
       longitude: 14.4432851
       cities:
@@ -500,9 +576,11 @@
           longitude: 14.424444
     -
       name: "Paola"
+      native: "Paola"
       code: "39"
       iso3166_2: "MT-39"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8717994
       longitude: 14.5073748
       cities:
@@ -512,9 +590,11 @@
           longitude: 14.49889
     -
       name: "Pembroke"
+      native: "Pembroke"
       code: "40"
       iso3166_2: "MT-40"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9281313
       longitude: 14.4795722
       cities:
@@ -524,9 +604,11 @@
           longitude: 14.47639
     -
       name: "Pietà"
+      native: "Kompassjoni"
       code: "41"
       iso3166_2: "MT-41"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.892353
       longitude: 14.4934881
       cities:
@@ -536,9 +618,11 @@
           longitude: 14.495
     -
       name: "Qala"
+      native: "Qala"
       code: "42"
       iso3166_2: "MT-42"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0388628
       longitude: 14.318101
       cities:
@@ -548,9 +632,11 @@
           longitude: 14.30944
     -
       name: "Qormi"
+      native: "Qormi"
       code: "43"
       iso3166_2: "MT-43"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8764388
       longitude: 14.4694186
       cities:
@@ -560,9 +646,11 @@
           longitude: 14.472
     -
       name: "Qrendi"
+      native: "Qrendi"
       code: "44"
       iso3166_2: "MT-44"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8328488
       longitude: 14.4548621
       cities:
@@ -572,9 +660,11 @@
           longitude: 14.45833
     -
       name: "Rabat"
+      native: "Rabat"
       code: "46"
       iso3166_2: "MT-46"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.884717
       longitude: 14.37234
       cities:
@@ -588,9 +678,11 @@
           longitude: 14.377778
     -
       name: "Safi"
+      native: "Ħal Safi"
       code: "47"
       iso3166_2: "MT-47"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.83333333
       longitude: 14.485
       cities:
@@ -600,9 +692,11 @@
           longitude: 14.485
     -
       name: "San Ġwann"
+      native: "San Ġwann"
       code: "49"
       iso3166_2: "MT-49"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9077365
       longitude: 14.4752416
       cities:
@@ -612,9 +706,11 @@
           longitude: 14.48977
     -
       name: "San Lawrenz"
+      native: "San Lawrenz"
       code: "50"
       iso3166_2: "MT-50"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0553005
       longitude: 14.2039503
       cities:
@@ -624,9 +720,11 @@
           longitude: 14.20361
     -
       name: "Sannat"
+      native: "Sannat"
       code: "52"
       iso3166_2: "MT-52"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0273022
       longitude: 14.2429017
       cities:
@@ -640,9 +738,11 @@
           longitude: 14.24278
     -
       name: "Santa Luċija"
+      native: "Santa Luċija"
       code: "53"
       iso3166_2: "MT-53"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.856142
       longitude: 14.50436
       cities:
@@ -652,18 +752,22 @@
           longitude: 14.47417
     -
       name: "Santa Venera"
+      native: "Santa Venera"
       code: "54"
       iso3166_2: "MT-54"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8902201
       longitude: 14.4766974
       cities:
         []
     -
       name: "Senglea"
+      native: "Senglea"
       code: "20"
       iso3166_2: "MT-20"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8873041
       longitude: 14.5167371
       cities:
@@ -673,9 +777,11 @@
           longitude: 14.4025
     -
       name: "Siġġiewi"
+      native: "Siġġiewi"
       code: "55"
       iso3166_2: "MT-55"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8539354
       longitude: 14.438063
       cities:
@@ -685,9 +791,11 @@
           longitude: 14.43639
     -
       name: "Sliema"
+      native: "Sliema"
       code: "56"
       iso3166_2: "MT-56"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9110081
       longitude: 14.502904
       cities:
@@ -697,9 +805,11 @@
           longitude: 14.50194
     -
       name: "St. Julian's"
+      native: "San Ġiljan"
       code: "48"
       iso3166_2: "MT-48"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9199225
       longitude: 14.4877119
       cities:
@@ -713,9 +823,11 @@
           longitude: 14.47611
     -
       name: "St. Paul's Bay"
+      native: "Bajja ta ’San Pawl"
       code: "51"
       iso3166_2: "MT-51"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9480742
       longitude: 14.3973929
       cities:
@@ -753,9 +865,11 @@
           longitude: 14.385833
     -
       name: "Swieqi"
+      native: "Swieqi"
       code: "57"
       iso3166_2: "MT-57"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.9191182
       longitude: 14.4694186
       cities:
@@ -769,9 +883,11 @@
           longitude: 14.48
     -
       name: "Ta' Xbiex"
+      native: "Ta' Xbiex"
       code: "58"
       iso3166_2: "MT-58"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8991448
       longitude: 14.4963519
       cities:
@@ -781,9 +897,11 @@
           longitude: 14.49444
     -
       name: "Tarxien"
+      native: "Tarxien"
       code: "59"
       iso3166_2: "MT-59"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8672552
       longitude: 14.5116405
       cities:
@@ -793,9 +911,11 @@
           longitude: 14.515
     -
       name: "Valletta"
+      native: "Valletta"
       code: "60"
       iso3166_2: "MT-60"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8989085
       longitude: 14.5145528
       cities:
@@ -805,9 +925,11 @@
           longitude: 14.51472
     -
       name: "Victoria"
+      native: "Victoria"
       code: "45"
       iso3166_2: "MT-45"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0428907
       longitude: 14.2398479
       cities:
@@ -821,9 +943,11 @@
           longitude: 14.23972
     -
       name: "Xagħra"
+      native: "Xagħra"
       code: "61"
       iso3166_2: "MT-61"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.050845
       longitude: 14.267482
       cities:
@@ -833,9 +957,11 @@
           longitude: 14.26444
     -
       name: "Xewkija"
+      native: "Xewkija"
       code: "62"
       iso3166_2: "MT-62"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0299236
       longitude: 14.2599437
       cities:
@@ -845,9 +971,11 @@
           longitude: 14.25806
     -
       name: "Xgħajra"
+      native: "Xgħajra"
       code: "63"
       iso3166_2: "MT-63"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8868282
       longitude: 14.5472391
       cities:
@@ -857,9 +985,11 @@
           longitude: 14.5475
     -
       name: "Żabbar"
+      native: "Żabbar"
       code: "64"
       iso3166_2: "MT-64"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8724715
       longitude: 14.5451354
       cities:
@@ -869,9 +999,11 @@
           longitude: 14.535
     -
       name: "Żebbuġ Gozo"
+      native: "Żebbuġ Gozo"
       code: "65"
       iso3166_2: "MT-65"
       type: "local council"
+      type_es: "consejo local"
       latitude: 36.0716403
       longitude: 14.245408
       cities:
@@ -881,9 +1013,11 @@
           longitude: 14.44111
     -
       name: "Żebbuġ Malta"
+      native: "Żebbuġ Malta"
       code: "66"
       iso3166_2: "MT-66"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8764648
       longitude: 14.439084
       cities:
@@ -893,9 +1027,11 @@
           longitude: 14.23583
     -
       name: "Żejtun"
+      native: "Żejtun"
       code: "67"
       iso3166_2: "MT-67"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8548714
       longitude: 14.5363969
       cities:
@@ -905,9 +1041,11 @@
           longitude: 14.53306
     -
       name: "Żurrieq"
+      native: "Żurrieq"
       code: "68"
       iso3166_2: "MT-68"
       type: "local council"
+      type_es: "consejo local"
       latitude: 35.8294676
       longitude: 14.4745172
       cities:

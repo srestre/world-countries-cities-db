@@ -1,52 +1,52 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(103, 'Iran', 'IR', 'IRN', 'Asia', 'Southern Asia', 'Tehran', 'IRR', 32, 53, '🇮🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(103, 'Iran', 'Iran', 'IR', 'IRN', 'Asia', 'Asia', 'Southern Asia', 'Asia del Sur', 'Tehran', 'IRR', 32, 53, '🇮🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3929, 'Alborz', 103, 'IR', '30', 'province', 35.9413239, 50.7884216),
-(3934, 'Ardabil', 103, 'IR', '24', 'province', 38.4583983, 47.9313001),
-(3932, 'Bushehr', 103, 'IR', '18', 'province', 28.8936645, 51.3204877),
-(3921, 'Chaharmahal and Bakhtiari', 103, 'IR', '14', 'province', 32.0163307, 50.685709),
-(3944, 'East Azerbaijan', 103, 'IR', '03', 'province', 37.9160365, 46.6781589),
-(3939, 'Fars', 103, 'IR', '07', 'province', 29.299051, 53.218456),
-(3920, 'Gilan', 103, 'IR', '01', 'province', 37.1515627, 49.6389743),
-(3933, 'Golestan', 103, 'IR', '27', 'province', 37.1984436, 55.070672),
-(4920, 'Hamadan', 103, 'IR', '13', 'province', 34.7992888, 48.5152464),
-(3937, 'Hormozgan', 103, 'IR', '22', 'province', 27.7198095, 56.335807),
-(3918, 'Ilam', 103, 'IR', '16', 'province', 33.1545696, 46.7576343),
-(3923, 'Isfahan', 103, 'IR', '10', 'province', 33.1881386, 52.4981635),
-(3943, 'Kerman', 103, 'IR', '08', 'province', 29.571858, 57.301047),
-(3919, 'Kermanshah', 103, 'IR', '05', 'province', 34.486732, 46.808727),
-(3917, 'Khuzestan', 103, 'IR', '06', 'province', 31.5563051, 49.0058885),
-(3926, 'Kohgiluyeh and Boyer-Ahmad', 103, 'IR', '17', 'province', 30.8143476, 50.8661454),
-(3935, 'Kurdistan', 103, 'IR', '12', 'province', 35.6727813, 47.0127981),
-(3928, 'Lorestan', 103, 'IR', '15', 'province', 33.5368206, 48.2443945),
-(3916, 'Markazi', 103, 'IR', '00', 'province', 34.5302705, 49.7864561),
-(3938, 'Mazandaran', 103, 'IR', '02', 'province', 36.3159159, 51.8968597),
-(3942, 'North Khorasan', 103, 'IR', '28', 'province', 37.5378855, 56.9526137),
-(3941, 'Qazvin', 103, 'IR', '26', 'province', 36.0156291, 49.8398161),
-(3922, 'Qom', 103, 'IR', '25', 'province', 34.6415764, 50.8746035),
-(3927, 'Razavi Khorasan', 103, 'IR', '09', 'province', 35.4795009, 59.0237291),
-(3940, 'Semnan', 103, 'IR', '20', 'province', 35.3843145, 54.6209302),
-(3931, 'Sistan and Baluchestan', 103, 'IR', '11', 'province', 28.1292481, 60.8236848),
-(3930, 'South Khorasan', 103, 'IR', '29', 'province', 33.129577, 58.1065069),
-(3945, 'Tehran', 103, 'IR', '23', 'province', 35.6892523, 51.3896004),
-(3924, 'West Azarbaijan', 103, 'IR', '04', 'province', 38.4942731, 44.3204853),
-(3936, 'Yazd', 103, 'IR', '21', 'province', 31.9052223, 54.3701235),
-(3925, 'Zanjan', 103, 'IR', '19', 'province', 36.515854, 48.4777616);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3929, 'Alborz', 'البرز', 103, 'IR', '30', 'province', 'provincia', 35.9413239, 50.7884216),
+(3934, 'Ardabil', 'اردبیل', 103, 'IR', '24', 'province', 'provincia', 38.4583983, 47.9313001),
+(3932, 'Bushehr', 'بوشهر', 103, 'IR', '18', 'province', 'provincia', 28.8936645, 51.3204877),
+(3921, 'Chaharmahal and Bakhtiari', 'چهارمحال و بختیاری', 103, 'IR', '14', 'province', 'provincia', 32.0163307, 50.685709),
+(3944, 'East Azerbaijan', 'آذربایجان شرقی', 103, 'IR', '03', 'province', 'provincia', 37.9160365, 46.6781589),
+(3939, 'Fars', 'فارس', 103, 'IR', '07', 'province', 'provincia', 29.299051, 53.218456),
+(3920, 'Gilan', 'گیلان', 103, 'IR', '01', 'province', 'provincia', 37.1515627, 49.6389743),
+(3933, 'Golestan', 'گلستان', 103, 'IR', '27', 'province', 'provincia', 37.1984436, 55.070672),
+(4920, 'Hamadan', 'همدان', 103, 'IR', '13', 'province', 'provincia', 34.7992888, 48.5152464),
+(3937, 'Hormozgan', 'هرمزگان', 103, 'IR', '22', 'province', 'provincia', 27.7198095, 56.335807),
+(3918, 'Ilam', 'ایلام', 103, 'IR', '16', 'province', 'provincia', 33.1545696, 46.7576343),
+(3923, 'Isfahan', 'اصفهان', 103, 'IR', '10', 'province', 'provincia', 33.1881386, 52.4981635),
+(3943, 'Kerman', 'کرمان', 103, 'IR', '08', 'province', 'provincia', 29.571858, 57.301047),
+(3919, 'Kermanshah', 'کرمانشاه', 103, 'IR', '05', 'province', 'provincia', 34.486732, 46.808727),
+(3917, 'Khuzestan', 'خوزستان', 103, 'IR', '06', 'province', 'provincia', 31.5563051, 49.0058885),
+(3926, 'Kohgiluyeh and Boyer-Ahmad', 'کهگیلویه و بویراحمد', 103, 'IR', '17', 'province', 'provincia', 30.8143476, 50.8661454),
+(3935, 'Kurdistan', 'کردستان', 103, 'IR', '12', 'province', 'provincia', 35.6727813, 47.0127981),
+(3928, 'Lorestan', 'لرستان', 103, 'IR', '15', 'province', 'provincia', 33.5368206, 48.2443945),
+(3916, 'Markazi', 'مرکزی', 103, 'IR', '00', 'province', 'provincia', 34.5302705, 49.7864561),
+(3938, 'Mazandaran', 'مازندران', 103, 'IR', '02', 'province', 'provincia', 36.3159159, 51.8968597),
+(3942, 'North Khorasan', 'خراسان شمالی', 103, 'IR', '28', 'province', 'provincia', 37.5378855, 56.9526137),
+(3941, 'Qazvin', 'قزوین', 103, 'IR', '26', 'province', 'provincia', 36.0156291, 49.8398161),
+(3922, 'Qom', 'قم', 103, 'IR', '25', 'province', 'provincia', 34.6415764, 50.8746035),
+(3927, 'Razavi Khorasan', 'خراسان رضوی', 103, 'IR', '09', 'province', 'provincia', 35.4795009, 59.0237291),
+(3940, 'Semnan', 'سمنان', 103, 'IR', '20', 'province', 'provincia', 35.3843145, 54.6209302),
+(3931, 'Sistan and Baluchestan', 'سیستان و بلوچستان', 103, 'IR', '11', 'province', 'provincia', 28.1292481, 60.8236848),
+(3930, 'South Khorasan', 'خراسان جنوبی', 103, 'IR', '29', 'province', 'provincia', 33.129577, 58.1065069),
+(3945, 'Tehran', 'تهران', 103, 'IR', '23', 'province', 'provincia', 35.6892523, 51.3896004),
+(3924, 'West Azarbaijan', 'آذربایجان غربی', 103, 'IR', '04', 'province', 'provincia', 38.4942731, 44.3204853),
+(3936, 'Yazd', 'یزد', 103, 'IR', '21', 'province', 'provincia', 31.9052223, 54.3701235),
+(3925, 'Zanjan', 'زنجان', 103, 'IR', '19', 'province', 'provincia', 36.515854, 48.4777616);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (150293, 'Asara', 3929, 103, 36.0391312, 51.1908709),

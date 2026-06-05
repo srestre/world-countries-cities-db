@@ -1,32 +1,32 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(150, 'Mozambique', 'MZ', 'MOZ', 'Africa', 'Eastern Africa', 'Maputo', 'MZN', -18.25, 35, '🇲🇿');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(150, 'Mozambique', 'Mozambique', 'MZ', 'MOZ', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Maputo', 'MZN', -18.25, 35, '🇲🇿');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3327, 'Cabo Delgado', 150, 'MZ', 'P', 'province', -12.4254942, 39.4168743),
-(3329, 'Gaza', 150, 'MZ', 'G', 'province', -23.328398, 32.8066057),
-(3330, 'Inhambane', 150, 'MZ', 'I', 'province', -22.779116, 34.5661741),
-(3337, 'Manica', 150, 'MZ', 'B', 'province', -19.0400995, 33.4318137),
-(3332, 'Maputo', 150, 'MZ', 'L', 'province', -25.5445167, 32.4578753),
-(3335, 'Maputo', 150, 'MZ', 'MPM', 'city', -25.5445167, 32.4578753),
-(3336, 'Nampula', 150, 'MZ', 'N', 'province', -14.966969, 39.2707752),
-(3333, 'Niassa', 150, 'MZ', 'A', 'province', -13.0638577, 36.4669964),
-(3331, 'Sofala', 150, 'MZ', 'S', 'province', -19.0771666, 34.7164804),
-(3334, 'Tete', 150, 'MZ', 'T', 'province', -15.5205193, 32.7682742),
-(3328, 'Zambezia', 150, 'MZ', 'Q', 'province', -16.6460178, 36.991932);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3327, 'Cabo Delgado', 'Cabo Delgado', 150, 'MZ', 'P', 'province', 'provincia', -12.4254942, 39.4168743),
+(3329, 'Gaza', 'Gaza', 150, 'MZ', 'G', 'province', 'provincia', -23.328398, 32.8066057),
+(3330, 'Inhambane', 'Inhambane', 150, 'MZ', 'I', 'province', 'provincia', -22.779116, 34.5661741),
+(3337, 'Manica', 'Manga', 150, 'MZ', 'B', 'province', 'provincia', -19.0400995, 33.4318137),
+(3332, 'Maputo', 'Maputo', 150, 'MZ', 'L', 'province', 'provincia', -25.5445167, 32.4578753),
+(3335, 'Maputo', 'Maputo', 150, 'MZ', 'MPM', 'city', 'ciudad', -25.5445167, 32.4578753),
+(3336, 'Nampula', 'Nampula', 150, 'MZ', 'N', 'province', 'provincia', -14.966969, 39.2707752),
+(3333, 'Niassa', 'Niassa', 150, 'MZ', 'A', 'province', 'provincia', -13.0638577, 36.4669964),
+(3331, 'Sofala', 'Sofala', 150, 'MZ', 'S', 'province', 'provincia', -19.0771666, 34.7164804),
+(3334, 'Tete', 'Tete', 150, 'MZ', 'T', 'province', 'provincia', -15.5205193, 32.7682742),
+(3328, 'Zambezia', 'Zambeze', 150, 'MZ', 'Q', 'province', 'provincia', -16.6460178, 36.991932);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (76595, 'Chiure', 3327, 150, -13.46665, 39.70317),

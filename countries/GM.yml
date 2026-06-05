@@ -12,16 +12,20 @@
   currency_symbol: "D"
   tld: ".gm"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 13.46666666
   longitude: -16.56666666
   emoji: "🇬🇲"
   states:
     -
       name: "Banjul"
+      native: "Banjul"
       code: "B"
       iso3166_2: "GM-B"
       type: "city"
+      type_es: "ciudad"
       latitude: 13.4548761
       longitude: -16.5790323
       cities:
@@ -43,9 +47,11 @@
           longitude: -16.67806
     -
       name: "Central River"
+      native: "Central River"
       code: "M"
       iso3166_2: "GM-M"
       type: "division"
+      type_es: "división"
       latitude: 13.5750738
       longitude: -14.7797147
       cities:
@@ -155,9 +161,11 @@
           longitude: -14.87884
     -
       name: "Lower River"
+      native: "Lower River"
       code: "L"
       iso3166_2: "GM-L"
       type: "division"
+      type_es: "división"
       latitude: 13.3978304
       longitude: -15.7263312
       cities:
@@ -251,9 +259,11 @@
           longitude: -15.4
     -
       name: "North Bank"
+      native: "North Bank"
       code: "N"
       iso3166_2: "GM-N"
       type: "division"
+      type_es: "división"
       latitude: 13.4731283
       longitude: -16.1334359
       cities:
@@ -335,9 +345,11 @@
           longitude: -16.33333
     -
       name: "Upper River"
+      native: "Upper River"
       code: "U"
       iso3166_2: "GM-U"
       type: "division"
+      type_es: "división"
       latitude: 13.4049977
       longitude: -14.1495576
       cities:
@@ -423,9 +435,11 @@
           longitude: -14.08333
     -
       name: "West Coast"
+      native: "West Coast"
       code: "W"
       iso3166_2: "GM-W"
       type: "division"
+      type_es: "división"
       latitude: 13.258513
       longitude: -16.4999051
       cities:

@@ -12,52 +12,64 @@
   currency_symbol: "Rs"
   tld: ".lk"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 7
   longitude: 81
   emoji: "🇱🇰"
   states:
     -
       name: "Ampara"
+      native: "අම්පාර"
       code: "52"
       iso3166_2: "LK-52"
       type: "district"
+      type_es: "distrito"
       latitude: 7.2978118
       longitude: 81.6790194
       cities:
         []
     -
       name: "Anuradhapura"
+      native: "අනුරාධපුර"
       code: "71"
       iso3166_2: "LK-71"
       type: "district"
+      type_es: "distrito"
       latitude: 8.3318305
       longitude: 80.4029017
       cities:
         []
     -
       name: "Badulla"
+      native: "බදුල්ල"
       code: "81"
       iso3166_2: "LK-81"
       type: "district"
+      type_es: "distrito"
       latitude: 6.9934009
       longitude: 81.0549815
       cities:
         []
     -
       name: "Batticaloa"
+      native: "මඩකලපුව"
       code: "51"
       iso3166_2: "LK-51"
       type: "district"
+      type_es: "distrito"
       latitude: 7.8381021
       longitude: 81.5567533
       cities:
         []
     -
       name: "Central"
+      native: "මධ්‍යම"
       code: "2"
       iso3166_2: "LK-2"
       type: "province"
+      type_es: "provincia"
       latitude: 7.381949
       longitude: 80.723428
       cities:
@@ -103,9 +115,11 @@
           longitude: 80.6581
     -
       name: "Colombo"
+      native: "කොළඹ"
       code: "11"
       iso3166_2: "LK-11"
       type: "district"
+      type_es: "distrito"
       latitude: 6.9388614
       longitude: 79.8542005
       cities:
@@ -159,9 +173,11 @@
           longitude: 79.86957578
     -
       name: "Eastern"
+      native: "නැගෙනහිර"
       code: "5"
       iso3166_2: "LK-5"
       type: "province"
+      type_es: "provincia"
       latitude: 7.7596435
       longitude: 81.5850205
       cities:
@@ -203,54 +219,66 @@
           longitude: 81.43333
     -
       name: "Galle"
+      native: "ගාල්ල"
       code: "31"
       iso3166_2: "LK-31"
       type: "district"
+      type_es: "distrito"
       latitude: 6.0328139
       longitude: 80.214955
       cities:
         []
     -
       name: "Gampaha"
+      native: "ගම්පහ"
       code: "12"
       iso3166_2: "LK-12"
       type: "district"
+      type_es: "distrito"
       latitude: 7.0925595
       longitude: 79.9951396
       cities:
         []
     -
       name: "Hambantota"
+      native: "හම්බන්තොට"
       code: "33"
       iso3166_2: "LK-33"
       type: "district"
+      type_es: "distrito"
       latitude: 6.176392
       longitude: 81.1321195
       cities:
         []
     -
       name: "Jaffna"
+      native: "යාපනය"
       code: "41"
       iso3166_2: "LK-41"
       type: "district"
+      type_es: "distrito"
       latitude: 9.665093
       longitude: 80.0093029
       cities:
         []
     -
       name: "Kalutara"
+      native: "කළුතර"
       code: "13"
       iso3166_2: "LK-13"
       type: "district"
+      type_es: "distrito"
       latitude: 6.5745305
       longitude: 80.0286312
       cities:
         []
     -
       name: "Kandy"
+      native: "මහනුවර"
       code: "21"
       iso3166_2: "LK-21"
       type: "district"
+      type_es: "distrito"
       latitude: 7.2931588
       longitude: 80.6350107
       cities:
@@ -436,81 +464,99 @@
           longitude: 80.53516168
     -
       name: "Kegalle"
+      native: "කෑගල්ල"
       code: "92"
       iso3166_2: "LK-92"
       type: "district"
+      type_es: "distrito"
       latitude: 7.1204053
       longitude: 80.3213106
       cities:
         []
     -
       name: "Kilinochchi"
+      native: "කිලිනොච්චිය"
       code: "42"
       iso3166_2: "LK-42"
       type: "district"
+      type_es: "distrito"
       latitude: 9.3840068
       longitude: 80.4087224
       cities:
         []
     -
       name: "Kurunegala"
+      native: "කුරුණෑගල"
       code: "61"
       iso3166_2: "LK-61"
       type: "district"
+      type_es: "distrito"
       latitude: 7.7279837
       longitude: 80.257184
       cities:
         []
     -
       name: "Mannar"
+      native: "මන්නාරම"
       code: "43"
       iso3166_2: "LK-43"
       type: "district"
+      type_es: "distrito"
       latitude: 8.9809531
       longitude: 79.9043975
       cities:
         []
     -
       name: "Matale"
+      native: "මාතලේ"
       code: "22"
       iso3166_2: "LK-22"
       type: "district"
+      type_es: "distrito"
       latitude: 7.4659646
       longitude: 80.6234259
       cities:
         []
     -
       name: "Matara"
+      native: "මාතර"
       code: "32"
       iso3166_2: "LK-32"
       type: "district"
+      type_es: "distrito"
       latitude: 5.9449348
       longitude: 80.5487997
       cities:
         []
     -
       name: "Monaragala"
+      native: "මොනරාගල"
       code: "82"
       iso3166_2: "LK-82"
       type: "district"
+      type_es: "distrito"
       latitude: 6.8727781
       longitude: 81.3506832
       cities:
         []
     -
       name: "Mullaitivu"
+      native: "මුලතිව්"
       code: "45"
       iso3166_2: "LK-45"
       type: "district"
+      type_es: "distrito"
       latitude: 9.2675388
       longitude: 80.8128254
       cities:
         []
     -
       name: "North Central"
+      native: "උතුරු මැද"
       code: "7"
       iso3166_2: "LK-7"
       type: "province"
+      type_es: "provincia"
       latitude: 8.2826967
       longitude: 80.4848708
       cities:
@@ -536,9 +582,11 @@
           longitude: 81
     -
       name: "North Western"
+      native: "වයඹ"
       code: "6"
       iso3166_2: "LK-6"
       type: "province"
+      type_es: "provincia"
       latitude: 7.9745867
       longitude: 79.9720053
       cities:
@@ -568,9 +616,11 @@
           longitude: 79.9319
     -
       name: "Northern"
+      native: "උතුරු"
       code: "4"
       iso3166_2: "LK-4"
       type: "province"
+      type_es: "provincia"
       latitude: 9.28
       longitude: 80.2827753
       cities:
@@ -608,45 +658,55 @@
           longitude: 80.47576
     -
       name: "Nuwara Eliya"
+      native: "නුවරඑළිය"
       code: "23"
       iso3166_2: "LK-23"
       type: "district"
+      type_es: "distrito"
       latitude: 6.9738863
       longitude: 80.767127
       cities:
         []
     -
       name: "Polonnaruwa"
+      native: "පොලොන්නරුව"
       code: "72"
       iso3166_2: "LK-72"
       type: "district"
+      type_es: "distrito"
       latitude: 7.9395567
       longitude: 81.0003403
       cities:
         []
     -
       name: "Puttalam"
+      native: "පුත්තලම"
       code: "62"
       iso3166_2: "LK-62"
       type: "district"
+      type_es: "distrito"
       latitude: 8.0301856
       longitude: 79.8286583
       cities:
         []
     -
       name: "Ratnapura"
+      native: "රත්නපුර"
       code: "91"
       iso3166_2: "LK-91"
       type: "district"
+      type_es: "distrito"
       latitude: 6.6803691
       longitude: 80.4022975
       cities:
         []
     -
       name: "Sabaragamuwa"
+      native: "සබරගමුව"
       code: "9"
       iso3166_2: "LK-9"
       type: "province"
+      type_es: "provincia"
       latitude: 6.8124018
       longitude: 80.3354764
       cities:
@@ -668,9 +728,11 @@
           longitude: 80.5833
     -
       name: "Southern"
+      native: "දකුණු"
       code: "3"
       iso3166_2: "LK-3"
       type: "province"
+      type_es: "provincia"
       latitude: 6.149
       longitude: 80.7318178
       cities:
@@ -736,18 +798,22 @@
           longitude: 80.42968
     -
       name: "Trincomalee"
+      native: "ත්‍රිකුණාමලය"
       code: "53"
       iso3166_2: "LK-53"
       type: "district"
+      type_es: "distrito"
       latitude: 8.576425
       longitude: 81.2344952
       cities:
         []
     -
       name: "Uva"
+      native: "ඌව"
       code: "8"
       iso3166_2: "LK-8"
       type: "province"
+      type_es: "provincia"
       latitude: 6.9609465
       longitude: 81.2394711
       cities:
@@ -785,18 +851,22 @@
           longitude: 81.10279
     -
       name: "Vavuniya"
+      native: "වවුනියාව"
       code: "44"
       iso3166_2: "LK-44"
       type: "district"
+      type_es: "distrito"
       latitude: 8.7594739
       longitude: 80.5000334
       cities:
         []
     -
       name: "Western"
+      native: "බටහිර"
       code: "1"
       iso3166_2: "LK-1"
       type: "province"
+      type_es: "provincia"
       latitude: 6.8275297
       longitude: 79.931296
       cities:

@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(38, 'Cameroon', 'CM', 'CMR', 'Africa', 'Middle Africa', 'Yaounde', 'XAF', 6, 12, '🇨🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(38, 'Cameroon', 'Camerún', 'CM', 'CMR', 'Africa', 'África', 'Middle Africa', 'África Central', 'Yaounde', 'XAF', 6, 12, '🇨🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2663, 'Adamawa', 38, 'CM', 'AD', 'region', 6.8496708, 13.2163222),
-(2660, 'Centre', 38, 'CM', 'CE', 'region', 4.686267, 11.9414512),
-(2661, 'East', 38, 'CM', 'ES', 'region', 3.9894393, 14.178373),
-(2656, 'Far North', 38, 'CM', 'EN', 'region', 10.6377186, 14.2738156),
-(2662, 'Littoral', 38, 'CM', 'LT', 'region', 4.203033, 10.0563057),
-(2665, 'North', 38, 'CM', 'NO', 'region', 8.7712794, 13.7803627),
-(2657, 'Northwest', 38, 'CM', 'NW', 'region', 6.3775255, 10.3864171),
-(2659, 'South', 38, 'CM', 'SU', 'region', 2.7312374, 11.6254622),
-(2658, 'Southwest', 38, 'CM', 'SW', 'region', 5.0577606, 9.2289407),
-(2664, 'West', 38, 'CM', 'OU', 'region', 5.5356382, 10.5828826);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2663, 'Adamawa', 'Adamawa', 38, 'CM', 'AD', 'region', 'región', 6.8496708, 13.2163222),
+(2660, 'Centre', 'Centre', 38, 'CM', 'CE', 'region', 'región', 4.686267, 11.9414512),
+(2661, 'East', 'Est', 38, 'CM', 'ES', 'region', 'región', 3.9894393, 14.178373),
+(2656, 'Far North', 'Grand Nord', 38, 'CM', 'EN', 'region', 'región', 10.6377186, 14.2738156),
+(2662, 'Littoral', 'Littoral', 38, 'CM', 'LT', 'region', 'región', 4.203033, 10.0563057),
+(2665, 'North', 'North', 38, 'CM', 'NO', 'region', 'región', 8.7712794, 13.7803627),
+(2657, 'Northwest', 'Nord-ouest', 38, 'CM', 'NW', 'region', 'región', 6.3775255, 10.3864171),
+(2659, 'South', 'Sud', 38, 'CM', 'SU', 'region', 'región', 2.7312374, 11.6254622),
+(2658, 'Southwest', 'Sud-ouest', 38, 'CM', 'SW', 'region', 'región', 5.0577606, 9.2289407),
+(2664, 'West', 'Ouest', 38, 'CM', 'OU', 'region', 'región', 5.5356382, 10.5828826);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (19148, 'Bankim', 2663, 38, 6.08303, 11.4905),

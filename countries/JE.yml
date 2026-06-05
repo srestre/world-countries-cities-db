@@ -12,16 +12,20 @@
   currency_symbol: "£"
   tld: ".je"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 49.25
   longitude: -2.16666666
   emoji: "🇯🇪"
   states:
     -
       name: "Grouville"
+      native: "Grouville"
       code: "01"
       iso3166_2: "JE-01"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.18404
       longitude: -2.0516828
       cities:
@@ -43,9 +47,11 @@
           longitude: -2.050422
     -
       name: "St Brelade"
+      native: "St Brelade"
       code: "02"
       iso3166_2: "JE-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1851255
       longitude: -2.2010341
       cities:
@@ -67,9 +73,11 @@
           longitude: -2.1847371
     -
       name: "St Clement"
+      native: "St Clement"
       code: "03"
       iso3166_2: "JE-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1736373
       longitude: -2.0562124
       cities:
@@ -87,9 +95,11 @@
           longitude: -2.0654384
     -
       name: "St Helier"
+      native: "St Helier"
       code: "04"
       iso3166_2: "JE-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1856637
       longitude: -2.1102277
       cities:
@@ -119,9 +129,11 @@
           longitude: -2.109353
     -
       name: "St John"
+      native: "St John"
       code: "05"
       iso3166_2: "JE-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2465535
       longitude: -2.1349726
       cities:
@@ -139,9 +151,11 @@
           longitude: -2.1206972
     -
       name: "St Lawrence"
+      native: "St Lawrence"
       code: "06"
       iso3166_2: "JE-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2149124
       longitude: -2.1416892
       cities:
@@ -167,9 +181,11 @@
           longitude: -2.1526433
     -
       name: "St Martin"
+      native: "St Martin"
       code: "07"
       iso3166_2: "JE-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2177274
       longitude: -2.0516314
       cities:
@@ -191,9 +207,11 @@
           longitude: -2.0351879
     -
       name: "St Mary"
+      native: "St Mary"
       code: "08"
       iso3166_2: "JE-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2364029
       longitude: -2.1716245
       cities:
@@ -207,9 +225,11 @@
           longitude: -2.1673084
     -
       name: "St Ouen"
+      native: "St oes"
       code: "09"
       iso3166_2: "JE-09"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2335087
       longitude: -2.2020406
       cities:
@@ -239,9 +259,11 @@
           longitude: -2.1965655
     -
       name: "St Peter"
+      native: "St Peter"
       code: "10"
       iso3166_2: "JE-10"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.2128288
       longitude: -2.18372
       cities:
@@ -263,9 +285,11 @@
           longitude: -2.1845342
     -
       name: "St Saviour"
+      native: "St Saviour"
       code: "11"
       iso3166_2: "JE-11"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.1948946
       longitude: -2.0903183
       cities:
@@ -291,9 +315,11 @@
           longitude: -2.0708067
     -
       name: "Trinity"
+      native: "Trinity"
       code: "12"
       iso3166_2: "JE-12"
       type: "parish"
+      type_es: "parroquia"
       latitude: 49.234492
       longitude: -2.0929268
       cities:

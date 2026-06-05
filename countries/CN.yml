@@ -12,16 +12,20 @@
   currency_symbol: "¥"
   tld: ".cn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 35
   longitude: 105
   emoji: "🇨🇳"
   states:
     -
       name: "Anhui"
+      native: "安徽省"
       code: "AH"
       iso3166_2: "CN-AH"
       type: "province"
+      type_es: "provincia"
       latitude: 32
       longitude: 117
       cities:
@@ -515,9 +519,11 @@
           longitude: 117.0815694
     -
       name: "Beijing"
+      native: "北京市"
       code: "BJ"
       iso3166_2: "CN-BJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 39.9057136
       longitude: 116.3912972
       cities:
@@ -595,9 +601,11 @@
           longitude: 115.824981
     -
       name: "Chongqing"
+      native: "重庆市"
       code: "CQ"
       iso3166_2: "CN-CQ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 30.05518
       longitude: 107.8748712
       cities:
@@ -759,9 +767,11 @@
           longitude: 107.5651691
     -
       name: "Fujian"
+      native: "福建省"
       code: "FJ"
       iso3166_2: "CN-FJ"
       type: "province"
+      type_es: "provincia"
       latitude: 26.193218
       longitude: 118.2208721
       cities:
@@ -1531,9 +1541,11 @@
           longitude: 119.10216
     -
       name: "Gansu"
+      native: "甘肃省"
       code: "GS"
       iso3166_2: "CN-GS"
       type: "province"
+      type_es: "provincia"
       latitude: 38.0000001
       longitude: 101.9999999
       cities:
@@ -1963,9 +1975,11 @@
           longitude: 103.359637
     -
       name: "Guangdong"
+      native: "广东省"
       code: "GD"
       iso3166_2: "CN-GD"
       type: "province"
+      type_es: "provincia"
       latitude: 23.1357694
       longitude: 113.1982688
       cities:
@@ -2775,9 +2789,11 @@
           longitude: 115.0419603
     -
       name: "Guangxi"
+      native: "广西壮族自治区"
       code: "GX"
       iso3166_2: "CN-GX"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 24
       longitude: 109
       cities:
@@ -3347,9 +3363,11 @@
           longitude: 110.64816
     -
       name: "Guizhou"
+      native: "贵州省"
       code: "GZ"
       iso3166_2: "CN-GZ"
       type: "province"
+      type_es: "provincia"
       latitude: 27
       longitude: 107
       cities:
@@ -3935,9 +3953,11 @@
           longitude: 106.9155974
     -
       name: "Hainan"
+      native: "海南省"
       code: "HI"
       iso3166_2: "CN-HI"
       type: "province"
+      type_es: "provincia"
       latitude: 19.2000001
       longitude: 109.5999999
       cities:
@@ -4115,9 +4135,11 @@
           longitude: 109.167372
     -
       name: "Hebei"
+      native: "河北省"
       code: "HE"
       iso3166_2: "CN-HE"
       type: "province"
+      type_es: "provincia"
       latitude: 39.0000001
       longitude: 116
       cities:
@@ -4939,9 +4961,11 @@
           longitude: 117.9596297
     -
       name: "Heilongjiang"
+      native: "黑龙江省"
       code: "HL"
       iso3166_2: "CN-HL"
       type: "province"
+      type_es: "provincia"
       latitude: 48.0000047
       longitude: 127.999992
       cities:
@@ -5731,9 +5755,11 @@
           longitude: 125.2870292
     -
       name: "Henan"
+      native: "河南省"
       code: "HA"
       iso3166_2: "CN-HA"
       type: "province"
+      type_es: "provincia"
       latitude: 34.0000001
       longitude: 113.9999999
       cities:
@@ -6579,9 +6605,11 @@
           longitude: 112.97139
     -
       name: "Hong Kong SAR"
+      native: "香港特别行政区"
       code: "HK"
       iso3166_2: "CN-HK"
       type: "special administrative region"
+      type_es: "región administrativa especial"
       latitude: 22.350627
       longitude: 114.1849161
       cities:
@@ -6659,9 +6687,11 @@
           longitude: 114.0958704
     -
       name: "Hubei"
+      native: "湖北省"
       code: "HB"
       iso3166_2: "CN-HB"
       type: "province"
+      type_es: "provincia"
       latitude: 31
       longitude: 112
       cities:
@@ -7295,9 +7325,11 @@
           longitude: 110.9725264
     -
       name: "Hunan"
+      native: "湖南省"
       code: "HN"
       iso3166_2: "CN-HN"
       type: "province"
+      type_es: "provincia"
       latitude: 27.6662087
       longitude: 111.7487063
       cities:
@@ -8251,9 +8283,11 @@
           longitude: 112.3710144
     -
       name: "Inner Mongolia"
+      native: "内蒙古自治区"
       code: "NM"
       iso3166_2: "CN-NM"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 43.2443242
       longitude: 114.3251664
       cities:
@@ -8819,9 +8853,11 @@
           longitude: 112.5716318
     -
       name: "Jiangsu"
+      native: "江苏省"
       code: "JS"
       iso3166_2: "CN-JS"
       type: "province"
+      type_es: "provincia"
       latitude: 33.0000001
       longitude: 119.9999999
       cities:
@@ -9263,9 +9299,11 @@
           longitude: 119.8970595
     -
       name: "Jiangxi"
+      native: "江西省"
       code: "JX"
       iso3166_2: "CN-JX"
       type: "province"
+      type_es: "provincia"
       latitude: 28
       longitude: 116
       cities:
@@ -9735,9 +9773,11 @@
           longitude: 116.9895813
     -
       name: "Jilin"
+      native: "吉林省"
       code: "JL"
       iso3166_2: "CN-JL"
       type: "province"
+      type_es: "provincia"
       latitude: 43.837883
       longitude: 126.549572
       cities:
@@ -10191,9 +10231,11 @@
           longitude: 123.5476426
     -
       name: "Liaoning"
+      native: "辽宁省"
       code: "LN"
       iso3166_2: "CN-LN"
       type: "province"
+      type_es: "provincia"
       latitude: 41.2374106
       longitude: 122.9955469
       cities:
@@ -10771,18 +10813,22 @@
           longitude: 122.9708389
     -
       name: "Macau SAR"
+      native: "澳门特别行政区"
       code: "MO"
       iso3166_2: "CN-MO"
       type: "special administrative region"
+      type_es: "región administrativa especial"
       latitude: 22.3145285
       longitude: 113.9472446
       cities:
         []
     -
       name: "Ningxia"
+      native: "宁夏回族自治区"
       code: "NX"
       iso3166_2: "CN-NX"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 37.0000001
       longitude: 105.9999999
       cities:
@@ -10908,9 +10954,11 @@
           longitude: 105.496587
     -
       name: "Qinghai"
+      native: "青海省"
       code: "QH"
       iso3166_2: "CN-QH"
       type: "province"
+      type_es: "provincia"
       latitude: 36
       longitude: 96
       cities:
@@ -11156,9 +11204,11 @@
           longitude: 92.8220032
     -
       name: "Shaanxi"
+      native: "陕西省"
       code: "SN"
       iso3166_2: "CN-SN"
       type: "province"
+      type_es: "provincia"
       latitude: 35.5895959
       longitude: 109.3013107
       cities:
@@ -11668,9 +11718,11 @@
           longitude: 109.8175
     -
       name: "Shandong"
+      native: "山东省"
       code: "SD"
       iso3166_2: "CN-SD"
       type: "province"
+      type_es: "provincia"
       latitude: 36.398987
       longitude: 118.5055691
       cities:
@@ -12576,9 +12628,11 @@
           longitude: 117.736995
     -
       name: "Shanghai"
+      native: "上海市"
       code: "SH"
       iso3166_2: "CN-SH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 31.230416
       longitude: 121.473701
       cities:
@@ -12656,9 +12710,11 @@
           longitude: 121.05696
     -
       name: "Shanxi"
+      native: "山西省"
       code: "SX"
       iso3166_2: "CN-SX"
       type: "province"
+      type_es: "provincia"
       latitude: 37
       longitude: 112
       cities:
@@ -13196,9 +13252,11 @@
           longitude: 112.6977532
     -
       name: "Sichuan"
+      native: "四川省"
       code: "SC"
       iso3166_2: "CN-SC"
       type: "province"
+      type_es: "provincia"
       latitude: 30.5000001
       longitude: 102.4999999
       cities:
@@ -14136,9 +14194,11 @@
           longitude: 104.8099251
     -
       name: "Taiwan"
+      native: "台湾"
       code: "TW"
       iso3166_2: "CN-TW"
       type: "province"
+      type_es: "provincia"
       latitude: 23.9739374
       longitude: 120.9820179
       cities:
@@ -14420,9 +14480,11 @@
           longitude: 120.84427
     -
       name: "Tianjin"
+      native: "天津市"
       code: "TJ"
       iso3166_2: "CN-TJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 39.0844897
       longitude: 117.1956724
       cities:
@@ -14712,9 +14774,11 @@
           longitude: 117.24191
     -
       name: "Tibet"
+      native: "西藏自治区"
       code: "XZ"
       iso3166_2: "CN-XZ"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 29.8556443
       longitude: 90.8749807
       cities:
@@ -15076,9 +15140,11 @@
           longitude: 97.8405948
     -
       name: "Xinjiang"
+      native: "新疆维吾尔自治区"
       code: "XJ"
       iso3166_2: "CN-XJ"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 42.4804953
       longitude: 85.4633464
       cities:
@@ -15656,9 +15722,11 @@
           longitude: 81.002154
     -
       name: "Yunnan"
+      native: "云南省"
       code: "YN"
       iso3166_2: "CN-YN"
       type: "province"
+      type_es: "provincia"
       latitude: 25
       longitude: 102
       cities:
@@ -16288,9 +16356,11 @@
           longitude: 103.76667
     -
       name: "Zhejiang"
+      native: "浙江省"
       code: "ZJ"
       iso3166_2: "CN-ZJ"
       type: "province"
+      type_es: "provincia"
       latitude: 29.0000001
       longitude: 119.9999999
       cities:

@@ -1,38 +1,38 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(141, 'Mayotte', 'YT', 'MYT', 'Africa', 'Eastern Africa', 'Mamoudzou', 'EUR', -12.83333333, 45.16666666, '🇾🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(141, 'Mayotte', 'Mayotte', 'YT', 'MYT', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Mamoudzou', 'EUR', -12.83333333, 45.16666666, '🇾🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5415, 'Acoua', 141, 'YT', '14', 'commune', -12.7243245, 45.0589372),
-(5417, 'Bandraboua', 141, 'YT', '16', 'commune', -12.7045482, 45.1221926),
-(5406, 'Bandrélé', 141, 'YT', '05', 'commune', -12.9133586, 45.1928677),
-(5408, 'Boueni', 141, 'YT', '07', 'commune', -12.9107086, 45.0801256),
-(5412, 'Chiconi', 141, 'YT', '11', 'commune', -12.8323497, 45.1149766),
-(5409, 'Chirongui', 141, 'YT', '08', 'commune', -12.93544, 45.1492157),
-(5405, 'Dembeni', 141, 'YT', '04', 'commune', -12.8433081, 45.1839954),
-(5402, 'Dzaoudzi', 141, 'YT', '01', 'commune', -12.7760651, 45.2563246),
-(5407, 'Kani Keli', 141, 'YT', '06', 'commune', -12.9565222, 45.1052606),
-(5418, 'Koungou', 141, 'YT', '17', 'commune', -12.735753, 45.2067459),
-(5414, 'M''Tsangamouji', 141, 'YT', '13', 'commune', -12.7601941, 45.0876892),
-(5404, 'Mamoudzou', 141, 'YT', '03', 'commune', -12.7804136, 45.2279761),
-(5416, 'Mtsamboro', 141, 'YT', '15', 'commune', -12.6996969, 45.0679904),
-(5411, 'Ouangani', 141, 'YT', '10', 'commune', -12.8498235, 45.1398664),
-(5403, 'Pamandzi', 141, 'YT', '02', 'commune', -12.7983446, 45.2746515),
-(5410, 'Sada', 141, 'YT', '09', 'commune', -12.8518289, 45.0993169),
-(5413, 'Tsingoni', 141, 'YT', '12', 'commune', -12.7897252, 45.1038055);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5415, 'Acoua', 'Acoua', 141, 'YT', '14', 'commune', 'comuna', -12.7243245, 45.0589372),
+(5417, 'Bandraboua', 'Bandraboua', 141, 'YT', '16', 'commune', 'comuna', -12.7045482, 45.1221926),
+(5406, 'Bandrélé', 'Bandrelé', 141, 'YT', '05', 'commune', 'comuna', -12.9133586, 45.1928677),
+(5408, 'Boueni', 'Bouen', 141, 'YT', '07', 'commune', 'comuna', -12.9107086, 45.0801256),
+(5412, 'Chiconi', 'Chiconi', 141, 'YT', '11', 'commune', 'comuna', -12.8323497, 45.1149766),
+(5409, 'Chirongui', 'Chirongui', 141, 'YT', '08', 'commune', 'comuna', -12.93544, 45.1492157),
+(5405, 'Dembeni', 'Débat', 141, 'YT', '04', 'commune', 'comuna', -12.8433081, 45.1839954),
+(5402, 'Dzaoudzi', 'Leur', 141, 'YT', '01', 'commune', 'comuna', -12.7760651, 45.2563246),
+(5407, 'Kani Keli', 'Ce seul', 141, 'YT', '06', 'commune', 'comuna', -12.9565222, 45.1052606),
+(5418, 'Koungou', 'Maintenant', 141, 'YT', '17', 'commune', 'comuna', -12.735753, 45.2067459),
+(5414, 'M''Tsangamouji', 'Entrée', 141, 'YT', '13', 'commune', 'comuna', -12.7601941, 45.0876892),
+(5404, 'Mamoudzou', 'Mamoudzou', 141, 'YT', '03', 'commune', 'comuna', -12.7804136, 45.2279761),
+(5416, 'Mtsamboro', 'Mtsamboro', 141, 'YT', '15', 'commune', 'comuna', -12.6996969, 45.0679904),
+(5411, 'Ouangani', 'Ambitieux', 141, 'YT', '10', 'commune', 'comuna', -12.8498235, 45.1398664),
+(5403, 'Pamandzi', 'En ville', 141, 'YT', '02', 'commune', 'comuna', -12.7983446, 45.2746515),
+(5410, 'Sada', 'Maintenant', 141, 'YT', '09', 'commune', 'comuna', -12.8518289, 45.0993169),
+(5413, 'Tsingoni', 'Tsingoni', 141, 'YT', '12', 'commune', 'comuna', -12.7897252, 45.1038055);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (160325, 'Acoua', 5415, 141, -12.72391, 45.05819),

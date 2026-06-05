@@ -1,24 +1,24 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(242, 'Virgin Islands (US)', 'VI', 'VIR', 'Americas', 'Caribbean', 'Charlotte Amalie', 'USD', 18.34, -64.93, '🇻🇮');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(242, 'Virgin Islands (US)', 'Islas Vírgenes de los Estados Unidos', 'VI', 'VIR', 'Americas', 'América', 'Caribbean', 'Caribe', 'Charlotte Amalie', 'USD', 18.34, -64.93, '🇻🇮');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5074, 'Saint Croix', 242, 'VI', 'SC', 'district', 17.729124, -64.7589156),
-(5073, 'Saint John', 242, 'VI', 'SJ', 'district', 18.3356013, -64.7550406),
-(5072, 'Saint Thomas', 242, 'VI', 'ST', 'district', 18.3429081, -64.9188997);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5074, 'Saint Croix', 'Holy cross', 242, 'VI', 'SC', 'district', 'distrito', 17.729124, -64.7589156),
+(5073, 'Saint John', 'Saint John', 242, 'VI', 'SJ', 'district', 'distrito', 18.3356013, -64.7550406),
+(5072, 'Saint Thomas', 'Saint Thomas', 242, 'VI', 'ST', 'district', 'distrito', 18.3429081, -64.9188997);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (149573, 'Christiansted', 5074, 242, 17.7440364, -64.7106086),

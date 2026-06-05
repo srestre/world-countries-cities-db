@@ -1,23 +1,23 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(88, 'Guadeloupe', 'GP', 'GLP', 'Americas', 'Caribbean', 'Basse-Terre', 'EUR', 16.25, -61.583333, '🇬🇵');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(88, 'Guadeloupe', 'Guadalupe', 'GP', 'GLP', 'Americas', 'América', 'Caribbean', 'Caribe', 'Basse-Terre', 'EUR', 16.25, -61.583333, '🇬🇵');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5384, 'Basse-Terre', 88, 'GP', '01', 'district', 16.0000778, -61.7333373),
-(5385, 'Pointe-à-Pitre', 88, 'GP', '02', 'district', 16.2408636, -61.5334077);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5384, 'Basse-Terre', 'Basse-Terre', 88, 'GP', '01', 'district', 'distrito', 16.0000778, -61.7333373),
+(5385, 'Pointe-à-Pitre', 'Pointe-à-Pitre', 88, 'GP', '02', 'district', 'distrito', 16.2408636, -61.5334077);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (154948, 'Baie-Mahault', 5384, 88, 16.2497607, -61.6775072),

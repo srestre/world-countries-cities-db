@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".ca"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 60
   longitude: -95
   emoji: "🇨🇦"
   states:
     -
       name: "Alberta"
+      native: "Alberta"
       code: "AB"
       iso3166_2: "CA-AB"
       type: "province"
+      type_es: "provincia"
       latitude: 55.001251
       longitude: -115.002136
       cities:
@@ -491,9 +495,11 @@
           longitude: -113.38119
     -
       name: "British Columbia"
+      native: "British Columbia"
       code: "BC"
       iso3166_2: "CA-BC"
       type: "province"
+      type_es: "provincia"
       latitude: 55.001251
       longitude: -125.002441
       cities:
@@ -1055,9 +1061,11 @@
           longitude: -122.14451
     -
       name: "Manitoba"
+      native: "Manitoba"
       code: "MB"
       iso3166_2: "CA-MB"
       type: "province"
+      type_es: "provincia"
       latitude: 55.001251
       longitude: -97.001038
       cities:
@@ -1235,9 +1243,11 @@
           longitude: -97.14704
     -
       name: "New Brunswick"
+      native: "New Brunswick"
       code: "NB"
       iso3166_2: "CA-NB"
       type: "province"
+      type_es: "provincia"
       latitude: 46.500283
       longitude: -66.750183
       cities:
@@ -1391,9 +1401,11 @@
           longitude: -65.92313
     -
       name: "Newfoundland and Labrador"
+      native: "Newfoundland and Labrador"
       code: "NL"
       iso3166_2: "CA-NL"
       type: "province"
+      type_es: "provincia"
       latitude: 53.8217327
       longitude: -61.2295532
       cities:
@@ -1527,9 +1539,11 @@
           longitude: -52.94806
     -
       name: "Northwest Territories"
+      native: "Northwest Territories"
       code: "NT"
       iso3166_2: "CA-NT"
       type: "territory"
+      type_es: "territorio"
       latitude: 65.0000004
       longitude: -118
       cities:
@@ -1563,9 +1577,11 @@
           longitude: -114.37248
     -
       name: "Nova Scotia"
+      native: "New Scotia"
       code: "NS"
       iso3166_2: "CA-NS"
       type: "province"
+      type_es: "provincia"
       latitude: 45.1960403
       longitude: -63.1653789
       cities:
@@ -1743,9 +1759,11 @@
           longitude: -66.11557
     -
       name: "Nunavut"
+      native: "Nunavut"
       code: "NU"
       iso3166_2: "CA-NU"
       type: "territory"
+      type_es: "territorio"
       latitude: 65.0377727
       longitude: -92.5540791
       cities:
@@ -1775,9 +1793,11 @@
           longitude: -92.08534
     -
       name: "Ontario"
+      native: "Ontario"
       code: "ON"
       iso3166_2: "CA-ON"
       type: "province"
+      type_es: "provincia"
       latitude: 50.000678
       longitude: -86.000977
       cities:
@@ -2743,9 +2763,11 @@
           longitude: -79.4372217
     -
       name: "Prince Edward Island"
+      native: "Prince Edward Island"
       code: "PE"
       iso3166_2: "CA-PE"
       type: "province"
+      type_es: "provincia"
       latitude: 46.5036807
       longitude: -63.595411
       cities:
@@ -2787,9 +2809,11 @@
           longitude: -63.78762
     -
       name: "Quebec"
+      native: "Quebec"
       code: "QC"
       iso3166_2: "CA-QC"
       type: "province"
+      type_es: "provincia"
       latitude: 52.4760892
       longitude: -71.8258668
       cities:
@@ -4195,9 +4219,11 @@
           longitude: -72.83243
     -
       name: "Saskatchewan"
+      native: "Saskatchewan"
       code: "SK"
       iso3166_2: "CA-SK"
       type: "province"
+      type_es: "provincia"
       latitude: 55.5321257
       longitude: -106.141224
       cities:
@@ -4419,9 +4445,11 @@
           longitude: -102.46766
     -
       name: "Yukon"
+      native: "Yukon"
       code: "YT"
       iso3166_2: "CA-YT"
       type: "territory"
+      type_es: "territorio"
       latitude: 63.000147
       longitude: -136.002502
       cities:

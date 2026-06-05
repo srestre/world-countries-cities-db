@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".tl"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: -8.83333333
   longitude: 125.91666666
   emoji: "🇹🇱"
   states:
     -
       name: "Aileu"
+      native: "Aileu"
       code: "AL"
       iso3166_2: "TL-AL"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.7049799
       longitude: 125.6625518
       cities:
@@ -39,9 +43,11 @@
           longitude: 125.66667
     -
       name: "Ainaro"
+      native: "Ainaro"
       code: "AN"
       iso3166_2: "TL-AN"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.9969021
       longitude: 125.50482
       cities:
@@ -55,9 +61,11 @@
           longitude: 125.58935
     -
       name: "Baucau"
+      native: "Bauau"
       code: "BA"
       iso3166_2: "TL-BA"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.4714308
       longitude: 126.4575991
       cities:
@@ -91,9 +99,11 @@
           longitude: 126.37833
     -
       name: "Bobonaro"
+      native: "Ver"
       code: "BO"
       iso3166_2: "TL-BO"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.974555
       longitude: 125.2306505
       cities:
@@ -103,9 +113,11 @@
           longitude: 125.21972
     -
       name: "Cova Lima"
+      native: "Cova Lima"
       code: "CO"
       iso3166_2: "TL-CO"
       type: "municipality"
+      type_es: "municipio"
       latitude: -9.2352985
       longitude: 125.2329359
       cities:
@@ -131,9 +143,11 @@
           longitude: 125.10887
     -
       name: "Dili"
+      native: "Dili"
       code: "DI"
       iso3166_2: "TL-DI"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.5536809
       longitude: 125.5784093
       cities:
@@ -155,9 +169,11 @@
           longitude: 125.74163
     -
       name: "Ermera"
+      native: "Hermera"
       code: "ER"
       iso3166_2: "TL-ER"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.765625
       longitude: 125.4215713
       cities:
@@ -183,9 +199,11 @@
           longitude: 125.42546
     -
       name: "Lautém"
+      native: "Lautem"
       code: "LA"
       iso3166_2: "TL-LA"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.4335127
       longitude: 126.8258738
       cities:
@@ -211,9 +229,11 @@
           longitude: 127.25923
     -
       name: "Liquiçá"
+      native: "Liquiçá"
       code: "LI"
       iso3166_2: "TL-LI"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.655061
       longitude: 125.2751452
       cities:
@@ -231,9 +251,11 @@
           longitude: 125.20611
     -
       name: "Manatuto"
+      native: "Manatsuto"
       code: "MT"
       iso3166_2: "TL-MT"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.5155608
       longitude: 126.0159255
       cities:
@@ -263,9 +285,11 @@
           longitude: 125.94
     -
       name: "Manufahi"
+      native: "Fabricante"
       code: "MF"
       iso3166_2: "TL-MF"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.96666
       longitude: 125.7810921
       cities:
@@ -287,9 +311,11 @@
           longitude: 125.70454
     -
       name: "Oecusse"
+      native: "Oé-Cusse Ambeno"
       code: "OE"
       iso3166_2: "TL-OE"
       type: "special administrative region"
+      type_es: "región administrativa especial"
       latitude: -9.35
       longitude: 124.3
       cities:
@@ -315,9 +341,11 @@
           longitude: 124.34333333
     -
       name: "Viqueque"
+      native: "Viqueque"
       code: "VI"
       iso3166_2: "TL-VI"
       type: "municipality"
+      type_es: "municipio"
       latitude: -8.8597918
       longitude: 126.3633516
       cities:

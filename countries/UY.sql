@@ -1,40 +1,40 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(235, 'Uruguay', 'UY', 'URY', 'Americas', 'South America', 'Montevideo', 'UYU', -33, -56, '🇺🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(235, 'Uruguay', 'Uruguay', 'UY', 'URY', 'Americas', 'América', 'South America', 'Sudamérica', 'Montevideo', 'UYU', -33, -56, '🇺🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3205, 'Artigas', 235, 'UY', 'AR', 'department', -30.6170756, -56.9373451),
-(3213, 'Canelones', 235, 'UY', 'CA', 'department', -34.6222482, -55.9903797),
-(3211, 'Cerro Largo', 235, 'UY', 'CL', 'department', -32.333333, -54.333333),
-(3208, 'Colonia', 235, 'UY', 'CO', 'department', -34.1664516, -57.4993268),
-(3209, 'Durazno', 235, 'UY', 'DU', 'department', -33.0833329, -56.0833331),
-(3203, 'Flores', 235, 'UY', 'FS', 'department', -33.6518845, -56.8393553),
-(3217, 'Florida', 235, 'UY', 'FD', 'department', -33.833333, -55.916667),
-(3215, 'Lavalleja', 235, 'UY', 'LA', 'department', -33.9971964, -54.9992242),
-(3206, 'Maldonado', 235, 'UY', 'MA', 'department', -34.666667, -54.916667),
-(3218, 'Montevideo', 235, 'UY', 'MO', 'department', -34.8652724, -56.1819512),
-(3212, 'Paysandú', 235, 'UY', 'PA', 'department', -32, -57.25),
-(3210, 'Río Negro', 235, 'UY', 'RN', 'department', -32.7257419, -57.387578),
-(3207, 'Rivera', 235, 'UY', 'RV', 'department', -31.5, -55.25),
-(3216, 'Rocha', 235, 'UY', 'RO', 'department', -34, -54),
-(3220, 'Salto', 235, 'UY', 'SA', 'department', -31.388028, -57.9612455),
-(3204, 'San José', 235, 'UY', 'SJ', 'department', -34.3396521, -56.7143155),
-(3219, 'Soriano', 235, 'UY', 'SO', 'department', -33.4921266, -57.7893105),
-(3221, 'Tacuarembó', 235, 'UY', 'TA', 'department', -31.7110183, -55.9788762),
-(3214, 'Treinta y Tres', 235, 'UY', 'TT', 'department', -33, -54.25);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3205, 'Artigas', 'Artigas', 235, 'UY', 'AR', 'department', 'departamento', -30.6170756, -56.9373451),
+(3213, 'Canelones', 'Canelones', 235, 'UY', 'CA', 'department', 'departamento', -34.6222482, -55.9903797),
+(3211, 'Cerro Largo', 'Cerro Largo', 235, 'UY', 'CL', 'department', 'departamento', -32.333333, -54.333333),
+(3208, 'Colonia', 'Colonia', 235, 'UY', 'CO', 'department', 'departamento', -34.1664516, -57.4993268),
+(3209, 'Durazno', 'Durazno', 235, 'UY', 'DU', 'department', 'departamento', -33.0833329, -56.0833331),
+(3203, 'Flores', 'Flores', 235, 'UY', 'FS', 'department', 'departamento', -33.6518845, -56.8393553),
+(3217, 'Florida', 'Florida', 235, 'UY', 'FD', 'department', 'departamento', -33.833333, -55.916667),
+(3215, 'Lavalleja', 'Lavalleja', 235, 'UY', 'LA', 'department', 'departamento', -33.9971964, -54.9992242),
+(3206, 'Maldonado', 'Maldonado', 235, 'UY', 'MA', 'department', 'departamento', -34.666667, -54.916667),
+(3218, 'Montevideo', 'Montevideo', 235, 'UY', 'MO', 'department', 'departamento', -34.8652724, -56.1819512),
+(3212, 'Paysandú', 'Paysandú', 235, 'UY', 'PA', 'department', 'departamento', -32, -57.25),
+(3210, 'Río Negro', 'Río Negro', 235, 'UY', 'RN', 'department', 'departamento', -32.7257419, -57.387578),
+(3207, 'Rivera', 'Rivera', 235, 'UY', 'RV', 'department', 'departamento', -31.5, -55.25),
+(3216, 'Rocha', 'Rocha', 235, 'UY', 'RO', 'department', 'departamento', -34, -54),
+(3220, 'Salto', 'Tacón', 235, 'UY', 'SA', 'department', 'departamento', -31.388028, -57.9612455),
+(3204, 'San José', 'San José', 235, 'UY', 'SJ', 'department', 'departamento', -34.3396521, -56.7143155),
+(3219, 'Soriano', 'Soriano', 235, 'UY', 'SO', 'department', 'departamento', -33.4921266, -57.7893105),
+(3221, 'Tacuarembó', 'Tacuarembó', 235, 'UY', 'TA', 'department', 'departamento', -31.7110183, -55.9788762),
+(3214, 'Treinta y Tres', 'Treinta y Tres', 235, 'UY', 'TT', 'department', 'departamento', -33, -54.25);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (129777, 'Artigas', 3205, 235, -30.4, -56.46667),

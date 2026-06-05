@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(172, 'Paraguay', 'PY', 'PRY', 'Americas', 'South America', 'Asunción', 'PYG', -23, -58, '🇵🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(172, 'Paraguay', 'Paraguay', 'PY', 'PRY', 'Americas', 'América', 'South America', 'Sudamérica', 'Asunción', 'PYG', -23, -58, '🇵🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2785, 'Alto Paraguay', 172, 'PY', '16', 'department', -20.5, -59.166667),
-(2784, 'Alto Paraná', 172, 'PY', '10', 'department', -25.5, -54.833333),
-(2782, 'Amambay', 172, 'PY', '13', 'department', -23, -56),
-(5221, 'Asuncion', 172, 'PY', 'ASU', 'department', -25.2800459, -57.6343814),
-(2780, 'Boquerón', 172, 'PY', '19', 'department', -22.6643064, -61.0015877),
-(2773, 'Caaguazú', 172, 'PY', '5', 'department', -25.4645818, -56.013851),
-(2775, 'Caazapá', 172, 'PY', '6', 'department', -26.1973302, -56.3666422),
-(2771, 'Canindeyú', 172, 'PY', '14', 'department', -24.25, -55.25),
-(2777, 'Central', 172, 'PY', '11', 'department', -25.5, -57.5),
-(2779, 'Concepción', 172, 'PY', '1', 'department', -23.4068281, -57.4427802),
-(2783, 'Cordillera', 172, 'PY', '3', 'department', -25.25, -57),
-(2772, 'Guairá', 172, 'PY', '4', 'department', -25.75, -56.5),
-(2778, 'Itapúa', 172, 'PY', '7', 'department', -26.833333, -55.833333),
-(2786, 'Misiones', 172, 'PY', '8', 'department', -27, -57),
-(2781, 'Ñeembucú', 172, 'PY', '12', 'department', -27, -58),
-(2774, 'Paraguarí', 172, 'PY', '9', 'department', -25.6262174, -57.1520642),
-(2770, 'Presidente Hayes', 172, 'PY', '15', 'department', -23.5, -58.833333),
-(2776, 'San Pedro', 172, 'PY', '2', 'department', -24.25, -56.5);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2785, 'Alto Paraguay', 'Alto Paraguay', 172, 'PY', '16', 'department', 'departamento', -20.5, -59.166667),
+(2784, 'Alto Paraná', 'Alto paraná', 172, 'PY', '10', 'department', 'departamento', -25.5, -54.833333),
+(2782, 'Amambay', 'Amambay', 172, 'PY', '13', 'department', 'departamento', -23, -56),
+(5221, 'Asuncion', 'Asunción', 172, 'PY', 'ASU', 'department', 'departamento', -25.2800459, -57.6343814),
+(2780, 'Boquerón', 'Boquerón', 172, 'PY', '19', 'department', 'departamento', -22.6643064, -61.0015877),
+(2773, 'Caaguazú', 'Caaguazú', 172, 'PY', '5', 'department', 'departamento', -25.4645818, -56.013851),
+(2775, 'Caazapá', 'Caazapá', 172, 'PY', '6', 'department', 'departamento', -26.1973302, -56.3666422),
+(2771, 'Canindeyú', 'Canindeyú', 172, 'PY', '14', 'department', 'departamento', -24.25, -55.25),
+(2777, 'Central', 'Central', 172, 'PY', '11', 'department', 'departamento', -25.5, -57.5),
+(2779, 'Concepción', 'Concepción', 172, 'PY', '1', 'department', 'departamento', -23.4068281, -57.4427802),
+(2783, 'Cordillera', 'Cordillera', 172, 'PY', '3', 'department', 'departamento', -25.25, -57),
+(2772, 'Guairá', 'Guairá', 172, 'PY', '4', 'department', 'departamento', -25.75, -56.5),
+(2778, 'Itapúa', 'Itapúa', 172, 'PY', '7', 'department', 'departamento', -26.833333, -55.833333),
+(2786, 'Misiones', 'Misiones', 172, 'PY', '8', 'department', 'departamento', -27, -57),
+(2781, 'Ñeembucú', 'Ñeembucú', 172, 'PY', '12', 'department', 'departamento', -27, -58),
+(2774, 'Paraguarí', 'Paraguarí', 172, 'PY', '9', 'department', 'departamento', -25.6262174, -57.1520642),
+(2770, 'Presidente Hayes', 'Presidente Hayes', 172, 'PY', '15', 'department', 'departamento', -23.5, -58.833333),
+(2776, 'San Pedro', 'San Pedro', 172, 'PY', '2', 'department', 'departamento', -24.25, -56.5);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (161645, 'Agua Dulce de Santa María', 2785, 172, -19.983785, -59.758447),

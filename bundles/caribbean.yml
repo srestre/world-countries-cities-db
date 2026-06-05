@@ -1,5 +1,6 @@
 bundle: "caribbean"
 name: "Caribbean"
+name_es: "Caribe"
 countries:
   -
     name: "Cuba"
@@ -15,16 +16,20 @@ countries:
     currency_symbol: "$"
     tld: ".cu"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 21.5
     longitude: -80
     emoji: "🇨🇺"
     states:
       -
         name: "Artemisa"
+        native: "Artemisa"
         code: "15"
         iso3166_2: "CU-15"
         type: "province"
+        type_es: "provincia"
         latitude: 22.8272763
         longitude: -82.9259245
         cities:
@@ -98,9 +103,11 @@ countries:
             longitude: -83.01667
       -
         name: "Camagüey"
+        native: "Camagüey"
         code: "09"
         iso3166_2: "CU-09"
         type: "province"
+        type_es: "provincia"
         latitude: 21.3108932
         longitude: -77.9428695
         cities:
@@ -158,9 +165,11 @@ countries:
             longitude: -78.14979
       -
         name: "Ciego de Ávila"
+        native: "Ciego de Ávila"
         code: "08"
         iso3166_2: "CU-08"
         type: "province"
+        type_es: "provincia"
         latitude: 21.8420472
         longitude: -78.7599682
         cities:
@@ -206,9 +215,11 @@ countries:
             longitude: -78.79336
       -
         name: "Cienfuegos"
+        native: "Cienfuegos"
         code: "06"
         iso3166_2: "CU-06"
         type: "province"
+        type_es: "provincia"
         latitude: 22.1459864
         longitude: -80.4530775
         cities:
@@ -254,9 +265,11 @@ countries:
             longitude: -80.55596
       -
         name: "Granma"
+        native: "Granma"
         code: "12"
         iso3166_2: "CU-12"
         type: "province"
+        type_es: "provincia"
         latitude: 20.1947889
         longitude: -77.2936265
         cities:
@@ -318,9 +331,11 @@ countries:
             longitude: -76.95132
       -
         name: "Guantánamo"
+        native: "Guantánamo"
         code: "14"
         iso3166_2: "CU-14"
         type: "province"
+        type_es: "provincia"
         latitude: 20.2106063
         longitude: -74.6938395
         cities:
@@ -350,9 +365,11 @@ countries:
             longitude: -74.8075
       -
         name: "Havana"
+        native: "la Habana"
         code: "03"
         iso3166_2: "CU-03"
         type: "province"
+        type_es: "provincia"
         latitude: 23.135305
         longitude: -82.3589631
         cities:
@@ -410,9 +427,11 @@ countries:
             longitude: -82.38694
       -
         name: "Holguín"
+        native: "Holguín"
         code: "11"
         iso3166_2: "CU-11"
         type: "province"
+        type_es: "provincia"
         latitude: 20.9115576
         longitude: -75.7891978
         cities:
@@ -462,9 +481,11 @@ countries:
             longitude: -76.13364
       -
         name: "Isla de la Juventud"
+        native: "Isla de la Juventud"
         code: "99"
         iso3166_2: "CU-99"
         type: "special municipality"
+        type_es: "municipio especial"
         latitude: 21.6910976
         longitude: -82.8155856
         cities:
@@ -474,9 +495,11 @@ countries:
             longitude: -82.80556
       -
         name: "Las Tunas"
+        native: "Las Tunas"
         code: "10"
         iso3166_2: "CU-10"
         type: "province"
+        type_es: "provincia"
         latitude: 21.0887045
         longitude: -76.8121648
         cities:
@@ -510,9 +533,11 @@ countries:
             longitude: -76.60358
       -
         name: "Matanzas"
+        native: "Matanzas"
         code: "04"
         iso3166_2: "CU-04"
         type: "province"
+        type_es: "provincia"
         latitude: 22.4545999
         longitude: -81.4961585
         cities:
@@ -590,9 +615,11 @@ countries:
             longitude: -81.24441
       -
         name: "Mayabeque"
+        native: "Mayabeque"
         code: "16"
         iso3166_2: "CU-16"
         type: "province"
+        type_es: "provincia"
         latitude: 22.8254157
         longitude: -82.0701062
         cities:
@@ -650,9 +677,11 @@ countries:
             longitude: -81.92556
       -
         name: "Pinar del Río"
+        native: "Pinar del Río"
         code: "01"
         iso3166_2: "CU-01"
         type: "province"
+        type_es: "provincia"
         latitude: 22.312447
         longitude: -83.9389386
         cities:
@@ -714,9 +743,11 @@ countries:
             longitude: -83.70694
       -
         name: "Sancti Spíritus"
+        native: "Espíritu santo"
         code: "07"
         iso3166_2: "CU-07"
         type: "province"
+        type_es: "provincia"
         latitude: 21.9275667
         longitude: -79.443211
         cities:
@@ -782,9 +813,11 @@ countries:
             longitude: -79.36678
       -
         name: "Santiago de Cuba"
+        native: "Santiago de Cuba"
         code: "13"
         iso3166_2: "CU-13"
         type: "province"
+        type_es: "provincia"
         latitude: 20.1209475
         longitude: -75.924009
         cities:
@@ -818,9 +851,11 @@ countries:
             longitude: -75.82667
       -
         name: "Villa Clara"
+        native: "Villa Clara"
         code: "05"
         iso3166_2: "CU-05"
         type: "province"
+        type_es: "provincia"
         latitude: 22.7036119
         longitude: -79.6944968
         cities:
@@ -910,16 +945,20 @@ countries:
     currency_symbol: "$"
     tld: ".do"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 19
     longitude: -70.66666666
     emoji: "🇩🇴"
     states:
       -
         name: "Azua"
+        native: "Azua"
         code: "02"
         iso3166_2: "DO-02"
         type: "province"
+        type_es: "provincia"
         latitude: 18.4552709
         longitude: -70.7380928
         cities:
@@ -973,9 +1012,11 @@ countries:
             longitude: -70.92753
       -
         name: "Baoruco"
+        native: "Baoruco"
         code: "03"
         iso3166_2: "DO-03"
         type: "province"
+        type_es: "provincia"
         latitude: 18.5140239
         longitude: -71.3303393
         cities:
@@ -1009,9 +1050,11 @@ countries:
             longitude: -71.48377
       -
         name: "Barahona"
+        native: "Barahona"
         code: "04"
         iso3166_2: "DO-04"
         type: "province"
+        type_es: "provincia"
         latitude: 18.2139066
         longitude: -71.1043759
         cities:
@@ -1073,45 +1116,55 @@ countries:
             longitude: -71.18009
       -
         name: "Cibao Nordeste"
+        native: "Cibao Nordeste"
         code: "33"
         iso3166_2: "DO-33"
         type: "region"
+        type_es: "región"
         latitude: 19.4
         longitude: -69.9
         cities:
           []
       -
         name: "Cibao Noroeste"
+        native: "Cibao Noroeste"
         code: "34"
         iso3166_2: "DO-34"
         type: "region"
+        type_es: "región"
         latitude: 19.6
         longitude: -71
         cities:
           []
       -
         name: "Cibao Norte"
+        native: "Cibao Norte"
         code: "35"
         iso3166_2: "DO-35"
         type: "region"
+        type_es: "región"
         latitude: 19.5
         longitude: -70.7
         cities:
           []
       -
         name: "Cibao Sur"
+        native: "Cibao Sur"
         code: "36"
         iso3166_2: "DO-36"
         type: "region"
+        type_es: "región"
         latitude: 19.2
         longitude: -70.5
         cities:
           []
       -
         name: "Dajabón"
+        native: "Dajabón"
         code: "05"
         iso3166_2: "DO-05"
         type: "province"
+        type_es: "provincia"
         latitude: 19.5499241
         longitude: -71.7086514
         cities:
@@ -1137,9 +1190,11 @@ countries:
             longitude: -71.69239
       -
         name: "Distrito Nacional"
+        native: "Distrito Nacional"
         code: "01"
         iso3166_2: "DO-01"
         type: "district"
+        type_es: "distrito"
         latitude: 18.4860575
         longitude: -69.9312117
         cities:
@@ -1185,9 +1240,11 @@ countries:
             longitude: -69.88914
       -
         name: "Duarte"
+        native: "Duarte"
         code: "06"
         iso3166_2: "DO-06"
         type: "province"
+        type_es: "provincia"
         latitude: 19.2833163
         longitude: -70.1880055
         cities:
@@ -1225,9 +1282,11 @@ countries:
             longitude: -69.8837
       -
         name: "El Seibo"
+        native: "El Seibo"
         code: "08"
         iso3166_2: "DO-08"
         type: "province"
+        type_es: "provincia"
         latitude: 18.7658496
         longitude: -69.040668
         cities:
@@ -1245,36 +1304,44 @@ countries:
             longitude: -69.03886
       -
         name: "El Valle"
+        native: "El Valle"
         code: "37"
         iso3166_2: "DO-37"
         type: "region"
+        type_es: "región"
         latitude: 18.8
         longitude: -71.2
         cities:
           []
       -
         name: "Elías Piña"
+        native: "Elías Piña"
         code: "07"
         iso3166_2: "DO-07"
         type: "province"
+        type_es: "provincia"
         latitude: 19.03333
         longitude: -71.68333
         cities:
           []
       -
         name: "Enriquillo"
+        native: "Enriquillo"
         code: "38"
         iso3166_2: "DO-38"
         type: "region"
+        type_es: "región"
         latitude: 18.2
         longitude: -71.3
         cities:
           []
       -
         name: "Espaillat"
+        native: "Espaillat"
         code: "09"
         iso3166_2: "DO-09"
         type: "province"
+        type_es: "provincia"
         latitude: 19.5108126
         longitude: -70.4918803
         cities:
@@ -1312,9 +1379,11 @@ countries:
             longitude: -70.33333
       -
         name: "Hato Mayor"
+        native: "Hato Mayor"
         code: "30"
         iso3166_2: "DO-30"
         type: "province"
+        type_es: "provincia"
         latitude: 18.7089524
         longitude: -69.3256524
         cities:
@@ -1336,9 +1405,11 @@ countries:
             longitude: -69.41667
       -
         name: "Hermanas Mirabal"
+        native: "Hermanas Mirabal"
         code: "19"
         iso3166_2: "DO-19"
         type: "province"
+        type_es: "provincia"
         latitude: 19.3957699
         longitude: -70.3840578
         cities:
@@ -1360,18 +1431,22 @@ countries:
             longitude: -70.42199
       -
         name: "Higuamo"
+        native: "Higuamo"
         code: "39"
         iso3166_2: "DO-39"
         type: "region"
+        type_es: "región"
         latitude: 18.7
         longitude: -69.2
         cities:
           []
       -
         name: "Independencia"
+        native: "Independencia"
         code: "10"
         iso3166_2: "DO-10"
         type: "province"
+        type_es: "provincia"
         latitude: 18.4155861
         longitude: -71.6357396
         cities:
@@ -1405,9 +1480,11 @@ countries:
             longitude: -71.63561
       -
         name: "La Altagracia"
+        native: "La Altagracia"
         code: "11"
         iso3166_2: "DO-11"
         type: "province"
+        type_es: "provincia"
         latitude: 18.5880886
         longitude: -68.6053104
         cities:
@@ -1437,9 +1514,11 @@ countries:
             longitude: -68.6739
       -
         name: "La Romana"
+        native: "La Romana"
         code: "12"
         iso3166_2: "DO-12"
         type: "province"
+        type_es: "provincia"
         latitude: 18.4230137
         longitude: -68.9661104
         cities:
@@ -1453,9 +1532,11 @@ countries:
             longitude: -68.97285
       -
         name: "La Vega"
+        native: "La Vega"
         code: "13"
         iso3166_2: "DO-13"
         type: "province"
+        type_es: "provincia"
         latitude: 19.2211554
         longitude: -70.5288753
         cities:
@@ -1489,9 +1570,11 @@ countries:
             longitude: -70.6885
       -
         name: "María Trinidad Sánchez"
+        native: "María Trinidad Sánchez"
         code: "14"
         iso3166_2: "DO-14"
         type: "province"
+        type_es: "provincia"
         latitude: 19.4433304
         longitude: -69.9990821
         cities:
@@ -1521,9 +1604,11 @@ countries:
             longitude: -70.07703
       -
         name: "Monseñor Nouel"
+        native: "Monseñor Nouel"
         code: "28"
         iso3166_2: "DO-28"
         type: "province"
+        type_es: "provincia"
         latitude: 18.9234801
         longitude: -70.4157265
         cities:
@@ -1549,9 +1634,11 @@ countries:
             longitude: -70.41667
       -
         name: "Monte Cristi"
+        native: "Monte Cristi"
         code: "15"
         iso3166_2: "DO-15"
         type: "province"
+        type_es: "provincia"
         latitude: 19.7177718
         longitude: -71.4448113
         cities:
@@ -1597,9 +1684,11 @@ countries:
             longitude: -71.44
       -
         name: "Monte Plata"
+        native: "Monte Plata"
         code: "29"
         iso3166_2: "DO-29"
         type: "province"
+        type_es: "provincia"
         latitude: 18.8080878
         longitude: -69.7869146
         cities:
@@ -1641,18 +1730,22 @@ countries:
             longitude: -70.02583
       -
         name: "Ozama"
+        native: "Ozama"
         code: "40"
         iso3166_2: "DO-40"
         type: "region"
+        type_es: "región"
         latitude: 18.5
         longitude: -69.9
         cities:
           []
       -
         name: "Pedernales"
+        native: "Pedernales"
         code: "16"
         iso3166_2: "DO-16"
         type: "province"
+        type_es: "provincia"
         latitude: 18.0907918
         longitude: -71.5595247
         cities:
@@ -1670,9 +1763,11 @@ countries:
             longitude: -71.6
       -
         name: "Peravia"
+        native: "Peravia"
         code: "17"
         iso3166_2: "DO-17"
         type: "province"
+        type_es: "provincia"
         latitude: 18.3309575
         longitude: -70.3712349
         cities:
@@ -1702,9 +1797,11 @@ countries:
             longitude: -70.52352
       -
         name: "Puerto Plata"
+        native: "Puerto Plata"
         code: "18"
         iso3166_2: "DO-18"
         type: "province"
+        type_es: "provincia"
         latitude: 19.7225234
         longitude: -70.7208338
         cities:
@@ -1758,9 +1855,11 @@ countries:
             longitude: -71.06056
       -
         name: "Samaná"
+        native: "Samaná"
         code: "20"
         iso3166_2: "DO-20"
         type: "province"
+        type_es: "provincia"
         latitude: 19.2058371
         longitude: -69.3362949
         cities:
@@ -1778,9 +1877,11 @@ countries:
             longitude: -69.6137
       -
         name: "San Cristóbal"
+        native: "San Cristóbal"
         code: "21"
         iso3166_2: "DO-21"
         type: "province"
+        type_es: "provincia"
         latitude: 18.4180414
         longitude: -70.1065849
         cities:
@@ -1822,9 +1923,11 @@ countries:
             longitude: -70.18333
       -
         name: "San José de Ocoa"
+        native: "San José de Ocoa"
         code: "31"
         iso3166_2: "DO-31"
         type: "province"
+        type_es: "provincia"
         latitude: 18.543858
         longitude: -70.5041816
         cities:
@@ -1834,9 +1937,11 @@ countries:
             longitude: -70.50631
       -
         name: "San Juan"
+        native: "San Juan"
         code: "22"
         iso3166_2: "DO-22"
         type: "province"
+        type_es: "provincia"
         latitude: 18.87967
         longitude: -71.2862706
         cities:
@@ -1878,9 +1983,11 @@ countries:
             longitude: -71.33431
       -
         name: "San Pedro de Macorís"
+        native: "San Pedro de Macorís"
         code: "23"
         iso3166_2: "DO-23"
         type: "province"
+        type_es: "provincia"
         latitude: 18.46266
         longitude: -69.3051234
         cities:
@@ -1906,9 +2013,11 @@ countries:
             longitude: -69.30864
       -
         name: "Sánchez Ramírez"
+        native: "Sánchez Ramírez"
         code: "24"
         iso3166_2: "DO-24"
         type: "province"
+        type_es: "provincia"
         latitude: 19.0176147
         longitude: -70.1448351
         cities:
@@ -1926,9 +2035,11 @@ countries:
             longitude: -70.3
       -
         name: "Santiago"
+        native: "Santiago"
         code: "25"
         iso3166_2: "DO-25"
         type: "province"
+        type_es: "provincia"
         latitude: 19.336389
         longitude: -70.9521277
         cities:
@@ -1990,9 +2101,11 @@ countries:
             longitude: -70.78853
       -
         name: "Santiago Rodríguez"
+        native: "Santiago Rodríguez"
         code: "26"
         iso3166_2: "DO-26"
         type: "province"
+        type_es: "provincia"
         latitude: 19.3690729
         longitude: -71.3523808
         cities:
@@ -2010,9 +2123,11 @@ countries:
             longitude: -71.35
       -
         name: "Santo Domingo"
+        native: "Santo Domingo"
         code: "32"
         iso3166_2: "DO-32"
         type: "province"
+        type_es: "provincia"
         latitude: 18.5638543
         longitude: -69.8531692
         cities:
@@ -2030,18 +2145,22 @@ countries:
             longitude: -70
       -
         name: "Valdesia"
+        native: "Valdesia"
         code: "41"
         iso3166_2: "DO-41"
         type: "region"
+        type_es: "región"
         latitude: 18.4
         longitude: -70.3
         cities:
           []
       -
         name: "Valverde"
+        native: "Valverde"
         code: "27"
         iso3166_2: "DO-27"
         type: "province"
+        type_es: "provincia"
         latitude: 19.5955662
         longitude: -71.0303974
         cities:
@@ -2083,9 +2202,11 @@ countries:
             longitude: -71.07813
       -
         name: "Yuma"
+        native: "Yuma"
         code: "42"
         iso3166_2: "DO-42"
         type: "region"
+        type_es: "región"
         latitude: 18.6
         longitude: -68.7
         cities:
@@ -2104,16 +2225,20 @@ countries:
     currency_symbol: "$"
     tld: ".pr"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 18.25
     longitude: -66.5
     emoji: "🇵🇷"
     states:
       -
         name: "Adjuntas"
+        native: "Adjuntas"
         code: "001"
         iso3166_2: "PR-001"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1634848
         longitude: -66.723158
         cities:
@@ -2123,9 +2248,11 @@ countries:
             longitude: -66.723158
       -
         name: "Aguada"
+        native: "Aguada"
         code: "003"
         iso3166_2: "PR-003"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3801579
         longitude: -67.188704
         cities:
@@ -2135,9 +2262,11 @@ countries:
             longitude: -67.188704
       -
         name: "Aguadilla"
+        native: "Aguadilla"
         code: "005"
         iso3166_2: "PR-005"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4496551
         longitude: -67.1184764
         cities:
@@ -2147,9 +2276,11 @@ countries:
             longitude: -67.1540698
       -
         name: "Aguas Buenas"
+        native: "Aguas Buenas"
         code: "007"
         iso3166_2: "PR-007"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2568989
         longitude: -66.1029442
         cities:
@@ -2159,9 +2290,11 @@ countries:
             longitude: -66.1029442
       -
         name: "Aibonito"
+        native: "Aibonito"
         code: "009"
         iso3166_2: "PR-009"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1281472
         longitude: -66.2692441
         cities:
@@ -2171,9 +2304,11 @@ countries:
             longitude: -66.2660016
       -
         name: "Añasco"
+        native: "Añasco"
         code: "011"
         iso3166_2: "PR-011"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2854476
         longitude: -67.1402935
         cities:
@@ -2183,9 +2318,11 @@ countries:
             longitude: -67.1402935
       -
         name: "Arecibo"
+        native: "Arecibo"
         code: "AR"
         iso3166_2: "PR-AR"
         type: "region"
+        type_es: "región"
         latitude: 18.47055556
         longitude: -66.72083333
         cities:
@@ -2195,9 +2332,11 @@ countries:
             longitude: -66.7218472
       -
         name: "Arroyo"
+        native: "Cauce seco de un río"
         code: "015"
         iso3166_2: "PR-015"
         type: "municipality"
+        type_es: "municipio"
         latitude: 17.9961993
         longitude: -66.0531683
         cities:
@@ -2207,9 +2346,11 @@ countries:
             longitude: -66.0924879
       -
         name: "Barceloneta"
+        native: "Barceloneta"
         code: "017"
         iso3166_2: "PR-017"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4546639
         longitude: -66.5386877
         cities:
@@ -2219,9 +2360,11 @@ countries:
             longitude: 2.1896957
       -
         name: "Barranquitas"
+        native: "Barranquita"
         code: "019"
         iso3166_2: "PR-019"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1866242
         longitude: -66.3062802
         cities:
@@ -2231,9 +2374,11 @@ countries:
             longitude: -66.3062802
       -
         name: "Bayamon"
+        native: "Bayamon"
         code: "BY"
         iso3166_2: "PR-BY"
         type: "region"
+        type_es: "región"
         latitude: 18.3449582
         longitude: -66.168374
         cities:
@@ -2243,9 +2388,11 @@ countries:
             longitude: -66.1653224
       -
         name: "Cabo Rojo"
+        native: "Cabo Rojo"
         code: "023"
         iso3166_2: "PR-023"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0866265
         longitude: -67.1457347
         cities:
@@ -2255,9 +2402,11 @@ countries:
             longitude: -67.1457347
       -
         name: "Caguas"
+        native: "Caguas"
         code: "CG"
         iso3166_2: "PR-CG"
         type: "region"
+        type_es: "región"
         latitude: 18.23333333
         longitude: -66.03333333
         cities:
@@ -2267,9 +2416,11 @@ countries:
             longitude: -66.035249
       -
         name: "Camuy"
+        native: "Camuleta"
         code: "027"
         iso3166_2: "PR-027"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.483833
         longitude: -66.8448994
         cities:
@@ -2279,9 +2430,11 @@ countries:
             longitude: -66.8448994
       -
         name: "Canóvanas"
+        native: "Canóvanas"
         code: "029"
         iso3166_2: "PR-029"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3748748
         longitude: -65.8997533
         cities:
@@ -2291,9 +2444,11 @@ countries:
             longitude: -65.8997533
       -
         name: "Carolina"
+        native: "Carolina"
         code: "CL"
         iso3166_2: "PR-CL"
         type: "region"
+        type_es: "región"
         latitude: 18.3808516
         longitude: -65.9570244
         cities:
@@ -2303,9 +2458,11 @@ countries:
             longitude: -66.0424734
       -
         name: "Cataño"
+        native: "Cataño"
         code: "033"
         iso3166_2: "PR-033"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4465355
         longitude: -66.1355775
         cities:
@@ -2315,9 +2472,11 @@ countries:
             longitude: -66.1355775
       -
         name: "Cayey"
+        native: "Cayey"
         code: "035"
         iso3166_2: "PR-035"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1119051
         longitude: -66.166
         cities:
@@ -2327,9 +2486,11 @@ countries:
             longitude: -66.166
       -
         name: "Ceiba"
+        native: "Ceiba"
         code: "037"
         iso3166_2: "PR-037"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1877139
         longitude: -65.894484
         cities:
@@ -2339,9 +2500,11 @@ countries:
             longitude: -65.9084953
       -
         name: "Ciales"
+        native: "Ciales"
         code: "039"
         iso3166_2: "PR-039"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3360622
         longitude: -66.4687823
         cities:
@@ -2351,9 +2514,11 @@ countries:
             longitude: -66.4687823
       -
         name: "Cidra"
+        native: "Trampas"
         code: "041"
         iso3166_2: "PR-041"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1757914
         longitude: -66.1612779
         cities:
@@ -2363,9 +2528,11 @@ countries:
             longitude: -66.1612779
       -
         name: "Coamo"
+        native: "Coamo"
         code: "043"
         iso3166_2: "PR-043"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0799616
         longitude: -66.3579473
         cities:
@@ -2375,9 +2542,11 @@ countries:
             longitude: -66.3579473
       -
         name: "Comerío"
+        native: "Comerío"
         code: "045"
         iso3166_2: "PR-045"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2192001
         longitude: -66.2256022
         cities:
@@ -2387,9 +2556,11 @@ countries:
             longitude: -66.2256022
       -
         name: "Corozal"
+        native: "Corozal"
         code: "047"
         iso3166_2: "PR-047"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3043878
         longitude: -66.3289186
         cities:
@@ -2399,9 +2570,11 @@ countries:
             longitude: -88.3967536
       -
         name: "Culebra"
+        native: "Culebra"
         code: "049"
         iso3166_2: "PR-049"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3136776
         longitude: -65.2826226
         cities:
@@ -2411,9 +2584,11 @@ countries:
             longitude: -65.3030705
       -
         name: "Dorado"
+        native: "Dorado"
         code: "051"
         iso3166_2: "PR-051"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4594766
         longitude: -66.2618846
         cities:
@@ -2423,9 +2598,11 @@ countries:
             longitude: -77.5772222
       -
         name: "Fajardo"
+        native: "Fajardo"
         code: "053"
         iso3166_2: "PR-053"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3252148
         longitude: -65.6539356
         cities:
@@ -2435,9 +2612,11 @@ countries:
             longitude: -65.6539356
       -
         name: "Florida"
+        native: "Florida"
         code: "054"
         iso3166_2: "PR-054"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3629772
         longitude: -66.5669961
         cities:
@@ -2447,9 +2626,11 @@ countries:
             longitude: -81.5157535
       -
         name: "Guánica"
+        native: "Guánica"
         code: "055"
         iso3166_2: "PR-055"
         type: "municipality"
+        type_es: "municipio"
         latitude: 17.9725145
         longitude: -66.9086264
         cities:
@@ -2459,9 +2640,11 @@ countries:
             longitude: -66.9086264
       -
         name: "Guayama"
+        native: "Guayama"
         code: "057"
         iso3166_2: "PR-057"
         type: "municipality"
+        type_es: "municipio"
         latitude: 17.9841328
         longitude: -66.1137767
         cities:
@@ -2471,9 +2654,11 @@ countries:
             longitude: -66.1137767
       -
         name: "Guayanilla"
+        native: "Guayanilla"
         code: "059"
         iso3166_2: "PR-059"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0191314
         longitude: -66.791842
         cities:
@@ -2483,9 +2668,11 @@ countries:
             longitude: -66.791842
       -
         name: "Guaynabo"
+        native: "Guaynabo"
         code: "GN"
         iso3166_2: "PR-GN"
         type: "region"
+        type_es: "región"
         latitude: 18.3591596
         longitude: -66.1156802
         cities:
@@ -2495,9 +2682,11 @@ countries:
             longitude: -66.1102957
       -
         name: "Gurabo"
+        native: "Gurabo"
         code: "063"
         iso3166_2: "PR-063"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2543987
         longitude: -65.9729421
         cities:
@@ -2507,9 +2696,11 @@ countries:
             longitude: -65.9729421
       -
         name: "Hatillo"
+        native: "Hatillo"
         code: "065"
         iso3166_2: "PR-065"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4071589
         longitude: -66.7959287
         cities:
@@ -2519,9 +2710,11 @@ countries:
             longitude: -66.7875321
       -
         name: "Hormigueros"
+        native: "Hormigueros"
         code: "067"
         iso3166_2: "PR-067"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1334638
         longitude: -67.1128123
         cities:
@@ -2531,9 +2724,11 @@ countries:
             longitude: -67.1128123
       -
         name: "Humacao"
+        native: "Humacao"
         code: "069"
         iso3166_2: "PR-069"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1515736
         longitude: -65.8248529
         cities:
@@ -2543,9 +2738,11 @@ countries:
             longitude: -65.8248529
       -
         name: "Isabela"
+        native: "Isabela"
         code: "071"
         iso3166_2: "PR-071"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.5007536
         longitude: -67.0237422
         cities:
@@ -2555,9 +2752,11 @@ countries:
             longitude: 121.8107079
       -
         name: "Jayuya"
+        native: "Jayuya"
         code: "073"
         iso3166_2: "PR-073"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2185674
         longitude: -66.5915617
         cities:
@@ -2567,9 +2766,11 @@ countries:
             longitude: -66.5915617
       -
         name: "Juana Díaz"
+        native: "Juana Díaz"
         code: "075"
         iso3166_2: "PR-075"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0534372
         longitude: -66.5075079
         cities:
@@ -2579,9 +2780,11 @@ countries:
             longitude: -66.5075079
       -
         name: "Juncos"
+        native: "Juncos"
         code: "077"
         iso3166_2: "PR-077"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2274558
         longitude: -65.920997
         cities:
@@ -2591,9 +2794,11 @@ countries:
             longitude: -65.920997
       -
         name: "Lajas"
+        native: "Lajas"
         code: "079"
         iso3166_2: "PR-079"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.049962
         longitude: -67.0593449
         cities:
@@ -2603,9 +2808,11 @@ countries:
             longitude: -67.0593449
       -
         name: "Lares"
+        native: "Casas"
         code: "081"
         iso3166_2: "PR-081"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2948683
         longitude: -66.8776045
         cities:
@@ -2615,9 +2822,11 @@ countries:
             longitude: -118.4594593
       -
         name: "Las Marías"
+        native: "Las Marías"
         code: "083"
         iso3166_2: "PR-083"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2522446
         longitude: -66.9918133
         cities:
@@ -2627,9 +2836,11 @@ countries:
             longitude: -78.6103566
       -
         name: "Las Piedras"
+        native: "Las Piedras"
         code: "085"
         iso3166_2: "PR-085"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1824445
         longitude: -65.8646741
         cities:
@@ -2639,9 +2850,11 @@ countries:
             longitude: -65.8736245
       -
         name: "Loíza"
+        native: "Flojo"
         code: "087"
         iso3166_2: "PR-087"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4329904
         longitude: -65.87836
         cities:
@@ -2651,9 +2864,11 @@ countries:
             longitude: -65.87836
       -
         name: "Luquillo"
+        native: "Luquillo"
         code: "089"
         iso3166_2: "PR-089"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3724507
         longitude: -65.7165511
         cities:
@@ -2663,9 +2878,11 @@ countries:
             longitude: -65.7165511
       -
         name: "Manatí"
+        native: "Manatí"
         code: "091"
         iso3166_2: "PR-091"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4182467
         longitude: -66.49178
         cities:
@@ -2675,9 +2892,11 @@ countries:
             longitude: -66.5262783
       -
         name: "Maricao"
+        native: "Maricao"
         code: "093"
         iso3166_2: "PR-093"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1807902
         longitude: -66.9799001
         cities:
@@ -2687,9 +2906,11 @@ countries:
             longitude: -66.9799001
       -
         name: "Maunabo"
+        native: "Maunaloa, establecimiento"
         code: "095"
         iso3166_2: "PR-095"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0071885
         longitude: -65.8993289
         cities:
@@ -2699,9 +2920,11 @@ countries:
             longitude: -65.8993289
       -
         name: "Mayagüez"
+        native: "Mayagüez"
         code: "MG"
         iso3166_2: "PR-MG"
         type: "region"
+        type_es: "región"
         latitude: 18.20111111
         longitude: -67.13972222
         cities:
@@ -2711,9 +2934,11 @@ countries:
             longitude: -67.1451549
       -
         name: "Moca"
+        native: "Moca"
         code: "099"
         iso3166_2: "PR-099"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3947512
         longitude: -67.113679
         cities:
@@ -2723,9 +2948,11 @@ countries:
             longitude: -67.1479035
       -
         name: "Morovis"
+        native: "Morovis"
         code: "101"
         iso3166_2: "PR-101"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.325785
         longitude: -66.4065592
         cities:
@@ -2735,9 +2962,11 @@ countries:
             longitude: -66.4065592
       -
         name: "Naguabo"
+        native: "Naguabo"
         code: "103"
         iso3166_2: "PR-103"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2116247
         longitude: -65.7348841
         cities:
@@ -2747,9 +2976,11 @@ countries:
             longitude: -65.7348841
       -
         name: "Naranjito"
+        native: "Naranjito"
         code: "105"
         iso3166_2: "PR-105"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3007861
         longitude: -66.2448904
         cities:
@@ -2759,9 +2990,11 @@ countries:
             longitude: -66.2448904
       -
         name: "Orocovis"
+        native: "Orocovis"
         code: "107"
         iso3166_2: "PR-107"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2269224
         longitude: -66.3911686
         cities:
@@ -2771,9 +3004,11 @@ countries:
             longitude: -66.3911686
       -
         name: "Patillas"
+        native: "Patillas"
         code: "109"
         iso3166_2: "PR-109"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0037381
         longitude: -66.0134059
         cities:
@@ -2783,9 +3018,11 @@ countries:
             longitude: -66.0134059
       -
         name: "Peñuelas"
+        native: "Peñuelas"
         code: "111"
         iso3166_2: "PR-111"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0633577
         longitude: -66.7273896
         cities:
@@ -2795,9 +3032,11 @@ countries:
             longitude: -66.7273896
       -
         name: "Ponce"
+        native: "Ponce"
         code: "PO"
         iso3166_2: "PR-PO"
         type: "region"
+        type_es: "región"
         latitude: 18.011564
         longitude: -66.613958
         cities:
@@ -2807,9 +3046,11 @@ countries:
             longitude: -66.6140616
       -
         name: "Quebradillas"
+        native: "Quebradillas"
         code: "115"
         iso3166_2: "PR-115"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.473833
         longitude: -66.938512
         cities:
@@ -2819,9 +3060,11 @@ countries:
             longitude: -66.938512
       -
         name: "Rincón"
+        native: "Rincón"
         code: "117"
         iso3166_2: "PR-117"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3362074
         longitude: -67.2321202
         cities:
@@ -2831,9 +3074,11 @@ countries:
             longitude: -67.2499459
       -
         name: "Río Grande"
+        native: "Río Grande"
         code: "119"
         iso3166_2: "PR-119"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3606321
         longitude: -67.2368723
         cities:
@@ -2843,9 +3088,11 @@ countries:
             longitude: -101.8353878
       -
         name: "Sabana Grande"
+        native: "Sabana Grande"
         code: "121"
         iso3166_2: "PR-121"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0777392
         longitude: -66.9604549
         cities:
@@ -2855,9 +3102,11 @@ countries:
             longitude: -66.9604549
       -
         name: "Salinas"
+        native: "Salinas"
         code: "123"
         iso3166_2: "PR-123"
         type: "municipality"
+        type_es: "municipio"
         latitude: 17.9769779
         longitude: -66.2980187
         cities:
@@ -2867,9 +3116,11 @@ countries:
             longitude: -121.6555013
       -
         name: "San Germán"
+        native: "San Germán"
         code: "125"
         iso3166_2: "PR-125"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0807082
         longitude: -67.0411096
         cities:
@@ -2879,9 +3130,11 @@ countries:
             longitude: -67.0411096
       -
         name: "San Juan"
+        native: "San Juan"
         code: "SJ"
         iso3166_2: "PR-SJ"
         type: "region"
+        type_es: "región"
         latitude: 18.384239
         longitude: -66.05344
         cities:
@@ -2891,9 +3144,11 @@ countries:
             longitude: -66.1147571
       -
         name: "San Lorenzo"
+        native: "San Lorenzo"
         code: "129"
         iso3166_2: "PR-129"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1904303
         longitude: -65.9611794
         cities:
@@ -2903,9 +3158,11 @@ countries:
             longitude: -65.9765862
       -
         name: "San Sebastián"
+        native: "San Sebastián"
         code: "131"
         iso3166_2: "PR-131"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.32346
         longitude: -66.972837
         cities:
@@ -2915,9 +3172,11 @@ countries:
             longitude: -1.9812313
       -
         name: "Santa Isabel"
+        native: "Santa Isabel"
         code: "133"
         iso3166_2: "PR-133"
         type: "municipality"
+        type_es: "municipio"
         latitude: 17.9660775
         longitude: -66.404892
         cities:
@@ -2927,9 +3186,11 @@ countries:
             longitude: -66.404892
       -
         name: "Toa Alta"
+        native: "Toa debajo"
         code: "135"
         iso3166_2: "PR-135"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.3882823
         longitude: -66.2482237
         cities:
@@ -2939,9 +3200,11 @@ countries:
             longitude: -66.2482237
       -
         name: "Toa Baja"
+        native: "Toa acero"
         code: "TB"
         iso3166_2: "PR-TB"
         type: "region"
+        type_es: "región"
         latitude: 18.443889
         longitude: -66.259722
         cities:
@@ -2951,9 +3214,11 @@ countries:
             longitude: -66.2543293
       -
         name: "Trujillo Alto"
+        native: "Trujillo Alto"
         code: "TA"
         iso3166_2: "PR-TA"
         type: "region"
+        type_es: "región"
         latitude: 18.3542408
         longitude: -66.007377
         cities:
@@ -2963,9 +3228,11 @@ countries:
             longitude: -66.0073876
       -
         name: "Utuado"
+        native: "Utilizado"
         code: "141"
         iso3166_2: "PR-141"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.2655095
         longitude: -66.7004519
         cities:
@@ -2975,9 +3242,11 @@ countries:
             longitude: -66.7004519
       -
         name: "Vega Alta"
+        native: "Vega Alta"
         code: "143"
         iso3166_2: "PR-143"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4121703
         longitude: -66.3312805
         cities:
@@ -2987,9 +3256,11 @@ countries:
             longitude: -66.3312805
       -
         name: "Vega Baja"
+        native: "Vega Baja"
         code: "145"
         iso3166_2: "PR-145"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.4445314
         longitude: -66.387587
         cities:
@@ -2999,9 +3270,11 @@ countries:
             longitude: -66.4041967
       -
         name: "Vieques"
+        native: "Componentes"
         code: "147"
         iso3166_2: "PR-147"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1215622
         longitude: -65.457464
         cities:
@@ -3011,9 +3284,11 @@ countries:
             longitude: -65.4400985
       -
         name: "Villalba"
+        native: "Villalba"
         code: "149"
         iso3166_2: "PR-149"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.1217554
         longitude: -66.4985787
         cities:
@@ -3023,9 +3298,11 @@ countries:
             longitude: -66.4985787
       -
         name: "Yabucoa"
+        native: "Yabucoa"
         code: "151"
         iso3166_2: "PR-151"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.0505201
         longitude: -65.8793288
         cities:
@@ -3035,9 +3312,11 @@ countries:
             longitude: -65.8793288
       -
         name: "Yauco"
+        native: "Yauco"
         code: "153"
         iso3166_2: "PR-153"
         type: "municipality"
+        type_es: "municipio"
         latitude: 18.034964
         longitude: -66.8498983
         cities:
@@ -3059,16 +3338,20 @@ countries:
     currency_symbol: "G"
     tld: ".ht"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 19
     longitude: -72.41666666
     emoji: "🇭🇹"
     states:
       -
         name: "Artibonite"
+        native: "Artibonite"
         code: "AR"
         iso3166_2: "HT-AR"
         type: "department"
+        type_es: "departamento"
         latitude: 19.3366225
         longitude: -72.4924346
         cities:
@@ -3118,9 +3401,11 @@ countries:
             longitude: -72.46585
       -
         name: "Centre"
+        native: "Centre"
         code: "CE"
         iso3166_2: "HT-CE"
         type: "department"
+        type_es: "departamento"
         latitude: 18.9908235
         longitude: -71.9943985
         cities:
@@ -3158,9 +3443,11 @@ countries:
             longitude: -71.96235
       -
         name: "Grand'Anse"
+        native: "Grand'Anse"
         code: "GA"
         iso3166_2: "HT-GA"
         type: "department"
+        type_es: "departamento"
         latitude: 18.5304144
         longitude: -74.1511463
         cities:
@@ -3206,9 +3493,11 @@ countries:
             longitude: -73.23495
       -
         name: "Nippes"
+        native: "Nippes"
         code: "NI"
         iso3166_2: "HT-NI"
         type: "department"
+        type_es: "departamento"
         latitude: 18.4420426
         longitude: -73.3913782
         cities:
@@ -3230,9 +3519,11 @@ countries:
             longitude: -73.50815
       -
         name: "Nord"
+        native: "Nord"
         code: "ND"
         iso3166_2: "HT-ND"
         type: "department"
+        type_es: "departamento"
         latitude: 19.6258245
         longitude: -72.2699286
         cities:
@@ -3318,9 +3609,11 @@ countries:
             longitude: -72.1991
       -
         name: "Nord-Est"
+        native: "Nord-Est"
         code: "NE"
         iso3166_2: "HT-NE"
         type: "department"
+        type_es: "departamento"
         latitude: 19.5178468
         longitude: -71.8728225
         cities:
@@ -3378,9 +3671,11 @@ countries:
             longitude: -71.76667
       -
         name: "Nord-Ouest"
+        native: "Nord-Ouest"
         code: "NO"
         iso3166_2: "HT-NO"
         type: "department"
+        type_es: "departamento"
         latitude: 19.8469434
         longitude: -73.0589966
         cities:
@@ -3438,9 +3733,11 @@ countries:
             longitude: -72.83333
       -
         name: "Ouest"
+        native: "Ouest"
         code: "OU"
         iso3166_2: "HT-OU"
         type: "department"
+        type_es: "departamento"
         latitude: 18.7668687
         longitude: -72.4387315
         cities:
@@ -3530,9 +3827,11 @@ countries:
             longitude: -72.86521
       -
         name: "Sud"
+        native: "Soudoir"
         code: "SD"
         iso3166_2: "HT-SD"
         type: "department"
+        type_es: "departamento"
         latitude: 18.2612839
         longitude: -73.8444985
         cities:
@@ -3598,9 +3897,11 @@ countries:
             longitude: -73.80949
       -
         name: "Sud-Est"
+        native: "Sud-Est"
         code: "SE"
         iso3166_2: "HT-SE"
         type: "department"
+        type_es: "departamento"
         latitude: 18.2973566
         longitude: -72.3745698
         cities:
@@ -3654,16 +3955,20 @@ countries:
     currency_symbol: "J$"
     tld: ".jm"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 18.25
     longitude: -77.5
     emoji: "🇯🇲"
     states:
       -
         name: "Clarendon"
+        native: "Clarendon"
         code: "13"
         iso3166_2: "JM-13"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.9518525
         longitude: -77.2719277
         cities:
@@ -4013,9 +4318,11 @@ countries:
             longitude: -77.30002
       -
         name: "Hanover"
+        native: "Hanover"
         code: "09"
         iso3166_2: "JM-09"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.3850653
         longitude: -78.130993
         cities:
@@ -4165,9 +4472,11 @@ countries:
             longitude: -78.07217
       -
         name: "Kingston"
+        native: "Kingston"
         code: "01"
         iso3166_2: "JM-01"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.9712148
         longitude: -76.7928128
         cities:
@@ -4273,9 +4582,11 @@ countries:
             longitude: -76.79704
       -
         name: "Manchester"
+        native: "Manchester"
         code: "12"
         iso3166_2: "JM-12"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.0499257
         longitude: -77.5110143
         cities:
@@ -4581,9 +4892,11 @@ countries:
             longitude: -77.46582
       -
         name: "Portland"
+        native: "Portland"
         code: "04"
         iso3166_2: "JM-04"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.1268206
         longitude: -76.5374012
         cities:
@@ -4765,9 +5078,11 @@ countries:
             longitude: -76.33876
       -
         name: "Saint Andrew"
+        native: "Saint Andrew"
         code: "02"
         iso3166_2: "JM-02"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.0589648
         longitude: -76.7607767
         cities:
@@ -5197,9 +5512,11 @@ countries:
             longitude: -76.80978
       -
         name: "Saint Ann"
+        native: "Saint Ann"
         code: "06"
         iso3166_2: "JM-06"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.32993
         longitude: -77.2541816
         cities:
@@ -5421,9 +5738,11 @@ countries:
             longitude: -77.22923
       -
         name: "Saint Catherine"
+        native: "Saint Catherine"
         code: "14"
         iso3166_2: "JM-14"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.0471737
         longitude: -77.0333852
         cities:
@@ -5641,9 +5960,11 @@ countries:
             longitude: -76.98199
       -
         name: "Saint Elizabeth"
+        native: "Saint Elizabeth"
         code: "11"
         iso3166_2: "JM-11"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.053845
         longitude: -77.7828249
         cities:
@@ -5901,9 +6222,11 @@ countries:
             longitude: -77.81067
       -
         name: "Saint James"
+        native: "Saint James"
         code: "08"
         iso3166_2: "JM-08"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.365809
         longitude: -77.8522037
         cities:
@@ -6205,9 +6528,11 @@ countries:
             longitude: -77.91757
       -
         name: "Saint Mary"
+        native: "Saint Mary"
         code: "05"
         iso3166_2: "JM-05"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.2789179
         longitude: -76.9021868
         cities:
@@ -6393,9 +6718,11 @@ countries:
             longitude: -76.92679
       -
         name: "Saint Thomas"
+        native: "Saint Thomas"
         code: "03"
         iso3166_2: "JM-03"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.9716306
         longitude: -76.4414306
         cities:
@@ -6625,9 +6952,11 @@ countries:
             longitude: -76.43983
       -
         name: "Trelawny"
+        native: "Trelawny"
         code: "07"
         iso3166_2: "JM-07"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.3682128
         longitude: -77.6043615
         cities:
@@ -6785,9 +7114,11 @@ countries:
             longitude: -77.53276
       -
         name: "Westmoreland"
+        native: "Westmoreland"
         code: "10"
         iso3166_2: "JM-10"
         type: "parish"
+        type_es: "parroquia"
         latitude: 18.2104026
         longitude: -77.9793211
         cities:
@@ -7133,16 +7464,20 @@ countries:
     currency_symbol: "$"
     tld: ".tt"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 11
     longitude: -61
     emoji: "🇹🇹"
     states:
       -
         name: "Arima"
+        native: "Arima"
         code: "ARI"
         iso3166_2: "TT-ARI"
         type: "borough"
+        type_es: "distrito"
         latitude: 10.6372057
         longitude: -61.2829762
         cities:
@@ -7152,9 +7487,11 @@ countries:
             longitude: -61.28228
       -
         name: "Chaguanas"
+        native: "SelectNas"
         code: "CHA"
         iso3166_2: "TT-CHA"
         type: "borough"
+        type_es: "distrito"
         latitude: 10.5168387
         longitude: -61.4114482
         cities:
@@ -7168,9 +7505,11 @@ countries:
             longitude: -61.38333
       -
         name: "Couva-Tabaquite-Talparo"
+        native: "Couva-Tabaquite-Talparo"
         code: "CTT"
         iso3166_2: "TT-CTT"
         type: "region"
+        type_es: "región"
         latitude: 10.4497669
         longitude: -61.3443881
         cities:
@@ -7184,9 +7523,11 @@ countries:
             longitude: -61.29704
       -
         name: "Diego Martin"
+        native: "Diego Martin"
         code: "DMN"
         iso3166_2: "TT-DMN"
         type: "region"
+        type_es: "región"
         latitude: 10.7138596
         longitude: -61.5793555
         cities:
@@ -7200,18 +7541,22 @@ countries:
             longitude: -61.58333
       -
         name: "Eastern Tobago"
+        native: "Eastern Tobago"
         code: "ETO"
         iso3166_2: "TT-ETO"
         type: "region"
+        type_es: "región"
         latitude: 11.2832232
         longitude: -60.6925066
         cities:
           []
       -
         name: "Penal-Debe"
+        native: "Criminal-Debe"
         code: "PED"
         iso3166_2: "TT-PED"
         type: "region"
+        type_es: "región"
         latitude: 10.1649187
         longitude: -61.4286325
         cities:
@@ -7225,9 +7570,11 @@ countries:
             longitude: -61.46667
       -
         name: "Point Fortin"
+        native: "Point Fortin"
         code: "PTF"
         iso3166_2: "TT-PTF"
         type: "borough"
+        type_es: "distrito"
         latitude: 10.1759283
         longitude: -61.6827286
         cities:
@@ -7237,9 +7584,11 @@ countries:
             longitude: -61.68407
       -
         name: "Port of Spain"
+        native: "Port of Spain"
         code: "POS"
         iso3166_2: "TT-POS"
         type: "city"
+        type_es: "ciudad"
         latitude: 10.6572678
         longitude: -61.5180173
         cities:
@@ -7253,9 +7602,11 @@ countries:
             longitude: -61.51889
       -
         name: "Princes Town"
+        native: "Princes Town"
         code: "PRT"
         iso3166_2: "TT-PRT"
         type: "region"
+        type_es: "región"
         latitude: 10.2048003
         longitude: -61.2806186
         cities:
@@ -7265,9 +7616,11 @@ countries:
             longitude: -61.37103
       -
         name: "Rio Claro-Mayaro"
+        native: "Rio Claro-Mayaro"
         code: "MRC"
         iso3166_2: "TT-MRC"
         type: "region"
+        type_es: "región"
         latitude: 10.2597016
         longitude: -61.0923503
         cities:
@@ -7277,9 +7630,11 @@ countries:
             longitude: -61.17556
       -
         name: "San Fernando"
+        native: "San Fernando"
         code: "SFO"
         iso3166_2: "TT-SFO"
         type: "region"
+        type_es: "región"
         latitude: 10.2807069
         longitude: -61.4645896
         cities:
@@ -7297,9 +7652,11 @@ countries:
             longitude: -61.46835
       -
         name: "San Juan-Laventille"
+        native: "For San Juan Lavent"
         code: "SJL"
         iso3166_2: "TT-SJL"
         type: "region"
+        type_es: "región"
         latitude: 10.6756066
         longitude: -61.4710154
         cities:
@@ -7309,9 +7666,11 @@ countries:
             longitude: -61.49889
       -
         name: "Sangre Grande"
+        native: "Big blood"
         code: "SGE"
         iso3166_2: "TT-SGE"
         type: "region"
+        type_es: "región"
         latitude: 10.6375402
         longitude: -61.1177499
         cities:
@@ -7321,9 +7680,11 @@ countries:
             longitude: -61.13008
       -
         name: "Siparia"
+        native: "Siparia"
         code: "SIP"
         iso3166_2: "TT-SIP"
         type: "region"
+        type_es: "región"
         latitude: 10.1471607
         longitude: -61.5787032
         cities:
@@ -7337,9 +7698,11 @@ countries:
             longitude: -61.46667
       -
         name: "Tobago"
+        native: "Tobago"
         code: "TOB"
         iso3166_2: "TT-TOB"
         type: "ward"
+        type_es: "distrito"
         latitude: 11.25
         longitude: -60.6833333
         cities:
@@ -7349,9 +7712,11 @@ countries:
             longitude: -60.73525
       -
         name: "Tunapuna-Piarco"
+        native: "Tunapuna-Piarco"
         code: "TUP"
         iso3166_2: "TT-TUP"
         type: "region"
+        type_es: "región"
         latitude: 10.6854333
         longitude: -61.3205274
         cities:
@@ -7369,9 +7734,11 @@ countries:
             longitude: -61.38878
       -
         name: "Western Tobago"
+        native: "Western Tobago"
         code: "WTO"
         iso3166_2: "TT-WTO"
         type: "region"
+        type_es: "región"
         latitude: 11.1572885
         longitude: -60.8165013
         cities:
@@ -7390,34 +7757,42 @@ countries:
     currency_symbol: "B$"
     tld: ".bs"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 24.25
     longitude: -76
     emoji: "🇧🇸"
     states:
       -
         name: "Acklins"
+        native: "Acklins"
         code: "AK"
         iso3166_2: "BS-AK"
         type: "district"
+        type_es: "distrito"
         latitude: 22.4145
         longitude: -74.0606831
         cities:
           []
       -
         name: "Berry Islands"
+        native: "Berry Islands"
         code: "BY"
         iso3166_2: "BS-BY"
         type: "district"
+        type_es: "distrito"
         latitude: 25.5905
         longitude: -77.7261006
         cities:
           []
       -
         name: "Bimini"
+        native: "Bimini"
         code: "BI"
         iso3166_2: "BS-BI"
         type: "district"
+        type_es: "distrito"
         latitude: 25.7032538
         longitude: -79.2733449
         cities:
@@ -7427,18 +7802,22 @@ countries:
             longitude: -79.29721
       -
         name: "Black Point"
+        native: "Black Point"
         code: "BP"
         iso3166_2: "BS-BP"
         type: "district"
+        type_es: "distrito"
         latitude: 24.0962598
         longitude: -76.4022591
         cities:
           []
       -
         name: "Cat Island"
+        native: "Cat Island"
         code: "CI"
         iso3166_2: "BS-CI"
         type: "district"
+        type_es: "distrito"
         latitude: 24.3385
         longitude: -75.6149932
         cities:
@@ -7448,9 +7827,11 @@ countries:
             longitude: -75.67151
       -
         name: "Central Abaco"
+        native: "Central Abaco"
         code: "CO"
         iso3166_2: "BS-CO"
         type: "district"
+        type_es: "distrito"
         latitude: 26.5255105
         longitude: -77.2838118
         cities:
@@ -7460,27 +7841,33 @@ countries:
             longitude: -77.0636
       -
         name: "Central Andros"
+        native: "Central Andros"
         code: "CS"
         iso3166_2: "BS-CS"
         type: "district"
+        type_es: "distrito"
         latitude: 24.4343749
         longitude: -77.7934077
         cities:
           []
       -
         name: "Central Eleuthera"
+        native: "Central Eleuthera"
         code: "CE"
         iso3166_2: "BS-CE"
         type: "district"
+        type_es: "distrito"
         latitude: 25.239
         longitude: -76.3291621
         cities:
           []
       -
         name: "Crooked Island"
+        native: "Crooked Island"
         code: "CK"
         iso3166_2: "BS-CK"
         type: "district"
+        type_es: "distrito"
         latitude: 22.7486959
         longitude: -74.2386163
         cities:
@@ -7490,9 +7877,11 @@ countries:
             longitude: -74.20415
       -
         name: "East Grand Bahama"
+        native: "East Grand Bahama"
         code: "EG"
         iso3166_2: "BS-EG"
         type: "district"
+        type_es: "distrito"
         latitude: 26.6772229
         longitude: -78.0134521
         cities:
@@ -7502,9 +7891,11 @@ countries:
             longitude: -78.27863
       -
         name: "Exuma"
+        native: "Exuma"
         code: "EX"
         iso3166_2: "BS-EX"
         type: "district"
+        type_es: "distrito"
         latitude: 23.9685
         longitude: -76.1799049
         cities:
@@ -7514,9 +7905,11 @@ countries:
             longitude: -75.78665
       -
         name: "Freeport"
+        native: "Freeport"
         code: "FP"
         iso3166_2: "BS-FP"
         type: "district"
+        type_es: "distrito"
         latitude: 26.535681
         longitude: -78.6953623
         cities:
@@ -7530,18 +7923,22 @@ countries:
             longitude: -78.66667
       -
         name: "Grand Cay"
+        native: "Grand Cay"
         code: "GC"
         iso3166_2: "BS-GC"
         type: "district"
+        type_es: "distrito"
         latitude: 27.2287191
         longitude: -78.3324366
         cities:
           []
       -
         name: "Harbour Island"
+        native: "Harbour Island"
         code: "HI"
         iso3166_2: "BS-HI"
         type: "district"
+        type_es: "distrito"
         latitude: 25.50011
         longitude: -76.6340511
         cities:
@@ -7551,18 +7948,22 @@ countries:
             longitude: -76.63633
       -
         name: "Hope Town"
+        native: "Hope Town"
         code: "HT"
         iso3166_2: "BS-HT"
         type: "district"
+        type_es: "distrito"
         latitude: 26.5407116
         longitude: -76.9594379
         cities:
           []
       -
         name: "Inagua"
+        native: "IT IS GOING"
         code: "IN"
         iso3166_2: "BS-IN"
         type: "district"
+        type_es: "distrito"
         latitude: 21.2325
         longitude: -73.3096213
         cities:
@@ -7572,9 +7973,11 @@ countries:
             longitude: -73.67346
       -
         name: "Long Island"
+        native: "Long Island"
         code: "LI"
         iso3166_2: "BS-LI"
         type: "district"
+        type_es: "distrito"
         latitude: 23.303
         longitude: -75.1058782
         cities:
@@ -7584,18 +7987,22 @@ countries:
             longitude: -74.98333
       -
         name: "Mangrove Cay"
+        native: "Mangrove Cay"
         code: "MC"
         iso3166_2: "BS-MC"
         type: "district"
+        type_es: "distrito"
         latitude: 24.2188205
         longitude: -77.7176145
         cities:
           []
       -
         name: "Mayaguana"
+        native: "Mayaguana"
         code: "MG"
         iso3166_2: "BS-MG"
         type: "district"
+        type_es: "distrito"
         latitude: 22.3698426
         longitude: -72.8876816
         cities:
@@ -7605,18 +8012,22 @@ countries:
             longitude: -72.96667
       -
         name: "Moore's Island"
+        native: "Moore's Island"
         code: "MI"
         iso3166_2: "BS-MI"
         type: "district"
+        type_es: "distrito"
         latitude: 25.866667
         longitude: -77.966667
         cities:
           []
       -
         name: "New Providence"
+        native: "New Providence"
         code: "NP"
         iso3166_2: "BS-NP"
         type: "island"
+        type_es: "isla"
         latitude: 25.1943588
         longitude: -77.2953297
         cities:
@@ -7626,9 +8037,11 @@ countries:
             longitude: -77.33333333
       -
         name: "North Abaco"
+        native: "North Abaco"
         code: "NO"
         iso3166_2: "BS-NO"
         type: "district"
+        type_es: "distrito"
         latitude: 26.9383943
         longitude: -77.6838221
         cities:
@@ -7638,9 +8051,11 @@ countries:
             longitude: -77.51131
       -
         name: "North Andros"
+        native: "North Andros"
         code: "NS"
         iso3166_2: "BS-NS"
         type: "district"
+        type_es: "distrito"
         latitude: 24.8875
         longitude: -78.0811619
         cities:
@@ -7654,18 +8069,22 @@ countries:
             longitude: -78.05
       -
         name: "North Eleuthera"
+        native: "North Eleuthera"
         code: "NE"
         iso3166_2: "BS-NE"
         type: "district"
+        type_es: "distrito"
         latitude: 25.3776694
         longitude: -76.7842655
         cities:
           []
       -
         name: "Ragged Island"
+        native: "Ragged Island"
         code: "RI"
         iso3166_2: "BS-RI"
         type: "district"
+        type_es: "distrito"
         latitude: 22.4765594
         longitude: -75.8020934
         cities:
@@ -7675,9 +8094,11 @@ countries:
             longitude: -75.72583
       -
         name: "Rum Cay"
+        native: "Rum Cay"
         code: "RC"
         iso3166_2: "BS-RC"
         type: "district"
+        type_es: "distrito"
         latitude: 23.8263065
         longitude: -74.9326829
         cities:
@@ -7687,9 +8108,11 @@ countries:
             longitude: -74.84157
       -
         name: "San Salvador Island"
+        native: "San Salvador Island"
         code: "SS"
         iso3166_2: "BS-SS"
         type: "district"
+        type_es: "distrito"
         latitude: 24.0343816
         longitude: -74.4851373
         cities:
@@ -7699,36 +8122,44 @@ countries:
             longitude: -74.53138
       -
         name: "South Abaco"
+        native: "South Abaco"
         code: "SO"
         iso3166_2: "BS-SO"
         type: "district"
+        type_es: "distrito"
         latitude: 26.004
         longitude: -77.3567072
         cities:
           []
       -
         name: "South Andros"
+        native: "South Andros"
         code: "SA"
         iso3166_2: "BS-SA"
         type: "district"
+        type_es: "distrito"
         latitude: 23.8985
         longitude: -77.4565404
         cities:
           []
       -
         name: "South Eleuthera"
+        native: "South Eleuthera"
         code: "SE"
         iso3166_2: "BS-SE"
         type: "district"
+        type_es: "distrito"
         latitude: 24.7310794
         longitude: -76.2926928
         cities:
           []
       -
         name: "Spanish Wells"
+        native: "Spanish Wells"
         code: "SW"
         iso3166_2: "BS-SW"
         type: "district"
+        type_es: "distrito"
         latitude: 25.5402336
         longitude: -76.9606233
         cities:
@@ -7738,9 +8169,11 @@ countries:
             longitude: -76.76405
       -
         name: "West Grand Bahama"
+        native: "West Grand Bahama"
         code: "WG"
         iso3166_2: "BS-WG"
         type: "district"
+        type_es: "distrito"
         latitude: 26.744
         longitude: -78.8788685
         cities:
@@ -7762,16 +8195,20 @@ countries:
     currency_symbol: "Bds$"
     tld: ".bb"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 13.16666666
     longitude: -59.53333333
     emoji: "🇧🇧"
     states:
       -
         name: "Christ Church"
+        native: "Christ Church"
         code: "01"
         iso3166_2: "BB-01"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.082618
         longitude: -59.5374451
         cities:
@@ -7781,9 +8218,11 @@ countries:
             longitude: -59.54637
       -
         name: "Saint Andrew"
+        native: "Saint Andrew"
         code: "02"
         iso3166_2: "BB-02"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.2432904
         longitude: -59.57317
         cities:
@@ -7793,18 +8232,22 @@ countries:
             longitude: -59.57763
       -
         name: "Saint George"
+        native: "Saint George"
         code: "03"
         iso3166_2: "BB-03"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.1384022
         longitude: -59.5443721
         cities:
           []
       -
         name: "Saint James"
+        native: "Saint James"
         code: "04"
         iso3166_2: "BB-04"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.1863793
         longitude: -59.625192
         cities:
@@ -7814,18 +8257,22 @@ countries:
             longitude: -59.63808
       -
         name: "Saint John"
+        native: "Saint John"
         code: "05"
         iso3166_2: "BB-05"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.1899463
         longitude: -59.5592151
         cities:
           []
       -
         name: "Saint Joseph"
+        native: "Saint Joseph"
         code: "06"
         iso3166_2: "BB-06"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.1899463
         longitude: -59.5592151
         cities:
@@ -7835,18 +8282,22 @@ countries:
             longitude: -59.52596
       -
         name: "Saint Lucy"
+        native: "Saint Lucy"
         code: "07"
         iso3166_2: "BB-07"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.3024068
         longitude: -59.6129445
         cities:
           []
       -
         name: "Saint Michael"
+        native: "Saint Michael"
         code: "08"
         iso3166_2: "BB-08"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.1182985
         longitude: -59.6015783
         cities:
@@ -7856,9 +8307,11 @@ countries:
             longitude: -59.62021
       -
         name: "Saint Peter"
+        native: "Saint Peter"
         code: "09"
         iso3166_2: "BB-09"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.2619779
         longitude: -59.6207444
         cities:
@@ -7868,9 +8321,11 @@ countries:
             longitude: -59.64396
       -
         name: "Saint Philip"
+        native: "Saint Philip"
         code: "10"
         iso3166_2: "BB-10"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.129539
         longitude: -59.4674102
         cities:
@@ -7880,9 +8335,11 @@ countries:
             longitude: -59.44861
       -
         name: "Saint Thomas"
+        native: "Saint Thomas"
         code: "11"
         iso3166_2: "BB-11"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.177202
         longitude: -59.5853833
         cities:
@@ -7901,16 +8358,20 @@ countries:
     currency_symbol: "$"
     tld: ".dm"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 15.41666666
     longitude: -61.33333333
     emoji: "🇩🇲"
     states:
       -
         name: "Saint Andrew"
+        native: "Saint Andrew"
         code: "02"
         iso3166_2: "DM-02"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.4238539
         longitude: -61.3416513
         cities:
@@ -7932,9 +8393,11 @@ countries:
             longitude: -61.33149
       -
         name: "Saint David"
+        native: "Saint David"
         code: "03"
         iso3166_2: "DM-03"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.4238539
         longitude: -61.3416513
         cities:
@@ -7948,9 +8411,11 @@ countries:
             longitude: -61.26667
       -
         name: "Saint George"
+        native: "Saint George"
         code: "04"
         iso3166_2: "DM-04"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.3058849
         longitude: -61.3477286
         cities:
@@ -7960,9 +8425,11 @@ countries:
             longitude: -61.38808
       -
         name: "Saint John"
+        native: "Saint John"
         code: "05"
         iso3166_2: "DM-05"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.5739158
         longitude: -61.4369757
         cities:
@@ -7972,9 +8439,11 @@ countries:
             longitude: -61.46667
       -
         name: "Saint Joseph"
+        native: "Saint Joseph"
         code: "06"
         iso3166_2: "DM-06"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.4063155
         longitude: -61.4239093
         cities:
@@ -7988,9 +8457,11 @@ countries:
             longitude: -61.43637
       -
         name: "Saint Luke"
+        native: "Saint Luke"
         code: "07"
         iso3166_2: "DM-07"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.2526483
         longitude: -61.3606848
         cities:
@@ -8000,9 +8471,11 @@ countries:
             longitude: -61.37452
       -
         name: "Saint Mark"
+        native: "Saint Mark"
         code: "08"
         iso3166_2: "DM-08"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.2285265
         longitude: -61.3500041
         cities:
@@ -8012,9 +8485,11 @@ countries:
             longitude: -61.35881
       -
         name: "Saint Patrick"
+        native: "Saint Patrick"
         code: "09"
         iso3166_2: "DM-09"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.2770426
         longitude: -61.2964775
         cities:
@@ -8028,9 +8503,11 @@ countries:
             longitude: -61.24753
       -
         name: "Saint Paul"
+        native: "Saint Paul"
         code: "10"
         iso3166_2: "DM-10"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.3630184
         longitude: -61.3613416
         cities:
@@ -8044,9 +8521,11 @@ countries:
             longitude: -61.35
       -
         name: "Saint Peter"
+        native: "Saint Peter"
         code: "11"
         iso3166_2: "DM-11"
         type: "parish"
+        type_es: "parroquia"
         latitude: 15.4997591
         longitude: -61.4403471
         cities:
@@ -8068,16 +8547,20 @@ countries:
     currency_symbol: "$"
     tld: ".gd"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 12.11666666
     longitude: -61.66666666
     emoji: "🇬🇩"
     states:
       -
         name: "Carriacou"
+        native: "Carriacou"
         code: "10"
         iso3166_2: "GD-10"
         type: "dependency"
+        type_es: "dependencia"
         latitude: 12.4829985
         longitude: -61.4448436
         cities:
@@ -8087,9 +8570,11 @@ countries:
             longitude: -61.45597
       -
         name: "Saint Andrew"
+        native: "Saint Andrew"
         code: "01"
         iso3166_2: "GD-01"
         type: "parish"
+        type_es: "parroquia"
         latitude: 12.1111935
         longitude: -61.6865971
         cities:
@@ -8099,9 +8584,11 @@ countries:
             longitude: -61.62498
       -
         name: "Saint David"
+        native: "Saint David"
         code: "02"
         iso3166_2: "GD-02"
         type: "parish"
+        type_es: "parroquia"
         latitude: 12.0428069
         longitude: -61.6778988
         cities:
@@ -8111,9 +8598,11 @@ countries:
             longitude: -61.66875
       -
         name: "Saint George"
+        native: "Saint George"
         code: "03"
         iso3166_2: "GD-03"
         type: "parish"
+        type_es: "parroquia"
         latitude: 12.0535331
         longitude: -61.751805
         cities:
@@ -8123,9 +8612,11 @@ countries:
             longitude: -61.75226
       -
         name: "Saint John"
+        native: "Saint John"
         code: "04"
         iso3166_2: "GD-04"
         type: "parish"
+        type_es: "parroquia"
         latitude: 12.1444029
         longitude: -61.7121841
         cities:
@@ -8135,9 +8626,11 @@ countries:
             longitude: -61.72965
       -
         name: "Saint Mark"
+        native: "Saint Mark"
         code: "05"
         iso3166_2: "GD-05"
         type: "parish"
+        type_es: "parroquia"
         latitude: 12.1886437
         longitude: -61.6954355
         cities:
@@ -8147,9 +8640,11 @@ countries:
             longitude: -61.70677
       -
         name: "Saint Patrick"
+        native: "Saint Patrick"
         code: "06"
         iso3166_2: "GD-06"
         type: "parish"
+        type_es: "parroquia"
         latitude: 12.2102986
         longitude: -61.6350539
         cities:
@@ -8171,16 +8666,20 @@ countries:
     currency_symbol: "$"
     tld: ".kn"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 17.33333333
     longitude: -62.75
     emoji: "🇰🇳"
     states:
       -
         name: "Christ Church Nichola Town"
+        native: "Christ Church Nichola Town"
         code: "01"
         iso3166_2: "KN-01"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3604812
         longitude: -62.7617837
         cities:
@@ -8190,18 +8689,22 @@ countries:
             longitude: -62.75318
       -
         name: "Nevis"
+        native: "Nevis"
         code: "N"
         iso3166_2: "KN-N"
         type: "state"
+        type_es: "estado"
         latitude: 17.1553558
         longitude: -62.5796026
         cities:
           []
       -
         name: "Saint Anne Sandy Point"
+        native: "Saint Anne Sandy Point"
         code: "02"
         iso3166_2: "KN-02"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3725333
         longitude: -62.8441133
         cities:
@@ -8211,18 +8714,22 @@ countries:
             longitude: -62.84858
       -
         name: "Saint George Basseterre"
+        native: "Saint George Basseterre"
         code: "03"
         iso3166_2: "KN-03"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.2391544
         longitude: -62.6424082
         cities:
           []
       -
         name: "Saint George Gingerland"
+        native: "Saint George Gingerland"
         code: "04"
         iso3166_2: "KN-04"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1257759
         longitude: -62.5619811
         cities:
@@ -8232,9 +8739,11 @@ countries:
             longitude: -62.57267
       -
         name: "Saint James Windward"
+        native: "Saint James Windward"
         code: "05"
         iso3166_2: "KN-05"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1769633
         longitude: -62.5796026
         cities:
@@ -8244,9 +8753,11 @@ countries:
             longitude: -62.58333
       -
         name: "Saint John Capisterre"
+        native: "Saint John Capisterre"
         code: "06"
         iso3166_2: "KN-06"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3872567
         longitude: -62.7992132
         cities:
@@ -8256,9 +8767,11 @@ countries:
             longitude: -62.8139
       -
         name: "Saint John Figtree"
+        native: "Saint John Figtree"
         code: "07"
         iso3166_2: "KN-07"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1155748
         longitude: -62.6031004
         cities:
@@ -8268,18 +8781,22 @@ countries:
             longitude: -62.60265
       -
         name: "Saint Kitts"
+        native: "Saint Kitts"
         code: "K"
         iso3166_2: "KN-K"
         type: "state"
+        type_es: "estado"
         latitude: 17.3156929
         longitude: -62.7446806
         cities:
           []
       -
         name: "Saint Mary Cayon"
+        native: "Saint Mary Cayon"
         code: "08"
         iso3166_2: "KN-08"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3462071
         longitude: -62.7382671
         cities:
@@ -8289,9 +8806,11 @@ countries:
             longitude: -62.73333
       -
         name: "Saint Paul Capisterre"
+        native: "Saint Paul Capisterre"
         code: "09"
         iso3166_2: "KN-09"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3949059
         longitude: -62.835829
         cities:
@@ -8301,9 +8820,11 @@ countries:
             longitude: -62.83562
       -
         name: "Saint Paul Charlestown"
+        native: "Saint Paul Charlestown"
         code: "10"
         iso3166_2: "KN-10"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1346297
         longitude: -62.6133816
         cities:
@@ -8313,9 +8834,11 @@ countries:
             longitude: -62.61667
       -
         name: "Saint Peter Basseterre"
+        native: "Saint Peter Basseterre"
         code: "11"
         iso3166_2: "KN-11"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3255653
         longitude: -62.7217779
         cities:
@@ -8325,9 +8848,11 @@ countries:
             longitude: -62.72914
       -
         name: "Saint Thomas Lowland"
+        native: "Saint Thomas Lowland"
         code: "12"
         iso3166_2: "KN-12"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1650513
         longitude: -62.6089753
         cities:
@@ -8337,9 +8862,11 @@ countries:
             longitude: -62.61667
       -
         name: "Saint Thomas Middle Island"
+        native: "Saint Thomas Middle Island"
         code: "13"
         iso3166_2: "KN-13"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3348813
         longitude: -62.8088251
         cities:
@@ -8349,9 +8876,11 @@ countries:
             longitude: -62.81055
       -
         name: "Trinity Palmetto Point"
+        native: "Trinity Palmetto Point"
         code: "15"
         iso3166_2: "KN-15"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.3145143
         longitude: -62.7685145
         cities:
@@ -8373,16 +8902,20 @@ countries:
     currency_symbol: "$"
     tld: ".lc"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 13.88333333
     longitude: -60.96666666
     emoji: "🇱🇨"
     states:
       -
         name: "Anse la Raye"
+        native: "Anse la Raye"
         code: "01"
         iso3166_2: "LC-01"
         type: "district"
+        type_es: "distrito"
         latitude: 13.9459424
         longitude: -61.0369468
         cities:
@@ -8488,9 +9021,11 @@ countries:
             longitude: -61.04184
       -
         name: "Canaries"
+        native: "Canaries"
         code: "12"
         iso3166_2: "LC-12"
         type: "district"
+        type_es: "distrito"
         latitude: 13.9040024
         longitude: -61.0718714
         cities:
@@ -8528,9 +9063,11 @@ countries:
             longitude: -61.06108
       -
         name: "Castries"
+        native: "Castries"
         code: "02"
         iso3166_2: "LC-02"
         type: "district"
+        type_es: "distrito"
         latitude: 14.0101094
         longitude: -60.9874687
         cities:
@@ -9012,9 +9549,11 @@ countries:
             longitude: -60.97919
       -
         name: "Choiseul"
+        native: "Choiseul"
         code: "03"
         iso3166_2: "LC-03"
         type: "district"
+        type_es: "distrito"
         latitude: 13.7750154
         longitude: -61.048591
         cities:
@@ -9164,9 +9703,11 @@ countries:
             longitude: -61.0502
       -
         name: "Dennery"
+        native: "Dennery"
         code: "05"
         iso3166_2: "LC-05"
         type: "district"
+        type_es: "distrito"
         latitude: 13.9267393
         longitude: -60.9190988
         cities:
@@ -9328,9 +9869,11 @@ countries:
             longitude: -60.94786
       -
         name: "Gros Islet"
+        native: "Gros islet"
         code: "06"
         iso3166_2: "LC-06"
         type: "district"
+        type_es: "distrito"
         latitude: 14.0843578
         longitude: -60.9452794
         cities:
@@ -9660,9 +10203,11 @@ countries:
             longitude: -60.95272
       -
         name: "Laborie"
+        native: "Labor"
         code: "07"
         iso3166_2: "LC-07"
         type: "district"
+        type_es: "distrito"
         latitude: 13.7522783
         longitude: -60.9932889
         cities:
@@ -9788,9 +10333,11 @@ countries:
             longitude: -61.00047
       -
         name: "Micoud"
+        native: "Micoud"
         code: "08"
         iso3166_2: "LC-08"
         type: "district"
+        type_es: "distrito"
         latitude: 13.8211871
         longitude: -60.9001934
         cities:
@@ -9988,9 +10535,11 @@ countries:
             longitude: -60.90789
       -
         name: "Soufrière"
+        native: "Sulfur"
         code: "10"
         iso3166_2: "LC-10"
         type: "district"
+        type_es: "distrito"
         latitude: 13.8522266
         longitude: -61.0238291
         cities:
@@ -10192,9 +10741,11 @@ countries:
             longitude: -61.03394
       -
         name: "Vieux Fort"
+        native: "Vieux Fort"
         code: "11"
         iso3166_2: "LC-11"
         type: "district"
+        type_es: "distrito"
         latitude: 13.720608
         longitude: -60.9496433
         cities:
@@ -10388,16 +10939,20 @@ countries:
     currency_symbol: "$"
     tld: ".vc"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 13.25
     longitude: -61.2
     emoji: "🇻🇨"
     states:
       -
         name: "Charlotte"
+        native: "Charlotte"
         code: "01"
         iso3166_2: "VC-01"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.2750872
         longitude: -61.1462327
         cities:
@@ -10415,9 +10970,11 @@ countries:
             longitude: -61.1185
       -
         name: "Grenadines"
+        native: "Grenadines"
         code: "06"
         iso3166_2: "VC-06"
         type: "parish"
+        type_es: "parroquia"
         latitude: 12.90447
         longitude: -61.2765569
         cities:
@@ -10427,9 +10984,11 @@ countries:
             longitude: -61.23548
       -
         name: "Saint Andrew"
+        native: "Saint Andrew"
         code: "02"
         iso3166_2: "VC-02"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.1942695
         longitude: -61.2399866
         cities:
@@ -10439,9 +10998,11 @@ countries:
             longitude: -61.27014
       -
         name: "Saint David"
+        native: "Saint David"
         code: "03"
         iso3166_2: "VC-03"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.318364
         longitude: -61.2008786
         cities:
@@ -10451,9 +11012,11 @@ countries:
             longitude: -61.24043
       -
         name: "Saint George"
+        native: "Saint George"
         code: "04"
         iso3166_2: "VC-04"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.166295
         longitude: -61.1878512
         cities:
@@ -10467,9 +11030,11 @@ countries:
             longitude: -61.23161
       -
         name: "Saint Patrick"
+        native: "Saint Patrick"
         code: "05"
         iso3166_2: "VC-05"
         type: "parish"
+        type_es: "parroquia"
         latitude: 13.2380793
         longitude: -61.2364184
         cities:
@@ -10491,16 +11056,20 @@ countries:
     currency_symbol: "$"
     tld: ".ag"
     region: "Americas"
+    region_es: "América"
     subregion: "Caribbean"
+    subregion_es: "Caribe"
     latitude: 17.05
     longitude: -61.8
     emoji: "🇦🇬"
     states:
       -
         name: "Barbuda"
+        native: "Barbuda"
         code: "10"
         iso3166_2: "AG-10"
         type: "dependency"
+        type_es: "dependencia"
         latitude: 17.6219203
         longitude: -61.7839588
         cities:
@@ -10510,18 +11079,22 @@ countries:
             longitude: -61.83333
       -
         name: "Redonda"
+        native: "Round"
         code: "11"
         iso3166_2: "AG-11"
         type: "dependency"
+        type_es: "dependencia"
         latitude: 16.938416
         longitude: -62.3455148
         cities:
           []
       -
         name: "Saint George"
+        native: "Saint George"
         code: "03"
         iso3166_2: "AG-03"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1218022
         longitude: -61.78123
         cities:
@@ -10531,9 +11104,11 @@ countries:
             longitude: -61.8
       -
         name: "Saint John"
+        native: "Saint John"
         code: "04"
         iso3166_2: "AG-04"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1151502
         longitude: -61.8583488
         cities:
@@ -10547,9 +11122,11 @@ countries:
             longitude: -61.84329
       -
         name: "Saint Mary"
+        native: "Saint Mary"
         code: "05"
         iso3166_2: "AG-05"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.054815
         longitude: -61.8602368
         cities:
@@ -10559,9 +11136,11 @@ countries:
             longitude: -61.87466
       -
         name: "Saint Paul"
+        native: "Saint Paul"
         code: "06"
         iso3166_2: "AG-06"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.0325831
         longitude: -61.7706567
         cities:
@@ -10575,9 +11154,11 @@ countries:
             longitude: -61.79052
       -
         name: "Saint Peter"
+        native: "Saint Peter"
         code: "07"
         iso3166_2: "AG-07"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.1070239
         longitude: -61.7502143
         cities:
@@ -10591,9 +11172,11 @@ countries:
             longitude: -61.77046
       -
         name: "Saint Philip"
+        native: "Saint Philip"
         code: "08"
         iso3166_2: "AG-08"
         type: "parish"
+        type_es: "parroquia"
         latitude: 17.066357
         longitude: -61.7061957
         cities:

@@ -12,16 +12,20 @@
   currency_symbol: "ko"
   tld: ".is"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 65
   longitude: -18
   emoji: "🇮🇸"
   states:
     -
       name: "Akranes"
+      native: "Akraneskaupstaður"
       code: "AKN"
       iso3166_2: "IS-AKN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.32
       longitude: -22.08
       cities:
@@ -31,9 +35,11 @@
           longitude: -22.0749
     -
       name: "Akureyri"
+      native: "Akureyrarkaupstaður"
       code: "AKU"
       iso3166_2: "IS-AKU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.68
       longitude: -18.1
       cities:
@@ -43,9 +49,11 @@
           longitude: -18.0878
     -
       name: "Árborg"
+      native: "Sveitarfélagið Árborg"
       code: "SFA"
       iso3166_2: "IS-SFA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.9
       longitude: -20.88
       cities:
@@ -55,18 +63,22 @@
           longitude: -20.99712
     -
       name: "Árneshreppur"
+      native: "Árneshreppur"
       code: "ARN"
       iso3166_2: "IS-ARN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.08
       longitude: -21.5
       cities:
         []
     -
       name: "Ásahreppur"
+      native: "Ásahreppur"
       code: "ASA"
       iso3166_2: "IS-ASA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.95
       longitude: -21.5
       cities:
@@ -76,9 +88,11 @@
           longitude: -20.59484
     -
       name: "Bláskógabyggð"
+      native: "Bláskógabyggð"
       code: "BLA"
       iso3166_2: "IS-BLA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.23
       longitude: -20.27
       cities:
@@ -88,18 +102,22 @@
           longitude: -20.33333
     -
       name: "Bolungarvík"
+      native: "Bolungarvíkurkaupstaður"
       code: "BOL"
       iso3166_2: "IS-BOL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.15
       longitude: -23.26
       cities:
         []
     -
       name: "Borgarbyggð"
+      native: "Borgarbyggð"
       code: "BOG"
       iso3166_2: "IS-BOG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.75
       longitude: -21.67
       cities:
@@ -121,18 +139,22 @@
           longitude: -21.92064
     -
       name: "Capital"
+      native: "Höfuðborg"
       code: "1"
       iso3166_2: "IS-1"
       type: "region"
+      type_es: "región"
       latitude: 64.1727137
       longitude: -21.5667575
       cities:
         []
     -
       name: "Dalabyggð"
+      native: "Dalabyggð"
       code: "DAB"
       iso3166_2: "IS-DAB"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.25
       longitude: -21.83
       cities:
@@ -142,9 +164,11 @@
           longitude: -21.72871
     -
       name: "Dalvíkurbyggð"
+      native: "Dalvíkurbyggð"
       code: "DAV"
       iso3166_2: "IS-DAV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.97
       longitude: -18.53
       cities:
@@ -158,18 +182,22 @@
           longitude: -18.60844
     -
       name: "Eastern"
+      native: "Austur"
       code: "7"
       iso3166_2: "IS-7"
       type: "region"
+      type_es: "región"
       latitude: 65.1940668
       longitude: -15.0924209
       cities:
         []
     -
       name: "Eyja- og Miklaholtshreppur"
+      native: "Eyja- og Miklaholtshreppur"
       code: "EOM"
       iso3166_2: "IS-EOM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.72
       longitude: -22.65
       cities:
@@ -179,9 +207,11 @@
           longitude: -22.54557
     -
       name: "Eyjafjarðarsveit"
+      native: "Eyjafjarðarsveit"
       code: "EYF"
       iso3166_2: "IS-EYF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.63
       longitude: -18.25
       cities:
@@ -191,9 +221,11 @@
           longitude: -18.16667
     -
       name: "Fjallabyggð"
+      native: "Fjallabyggð"
       code: "FJL"
       iso3166_2: "IS-FJL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.05
       longitude: -18.9
       cities:
@@ -207,9 +239,11 @@
           longitude: -18.90815
     -
       name: "Fjarðabyggð"
+      native: "Fjarðabyggð"
       code: "FJD"
       iso3166_2: "IS-FJD"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.93
       longitude: -14.3
       cities:
@@ -239,9 +273,11 @@
           longitude: -14.21832
     -
       name: "Fljótsdalshreppur"
+      native: "Fljótsdalshreppur"
       code: "FLR"
       iso3166_2: "IS-FLR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.25
       longitude: -14.83
       cities:
@@ -251,9 +287,11 @@
           longitude: -15.2568
     -
       name: "Flóahreppur"
+      native: "Flóahreppur"
       code: "FLA"
       iso3166_2: "IS-FLA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.93
       longitude: -20.68
       cities:
@@ -263,9 +301,11 @@
           longitude: -20.80159
     -
       name: "Garðabær"
+      native: "Garðabær"
       code: "GAR"
       iso3166_2: "IS-GAR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.09
       longitude: -21.93
       cities:
@@ -279,9 +319,11 @@
           longitude: -21.92298
     -
       name: "Grímsnes- og Grafningshreppur"
+      native: "Grímsnes- og Grafningshreppur"
       code: "GOG"
       iso3166_2: "IS-GOG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.07
       longitude: -20.88
       cities:
@@ -291,9 +333,11 @@
           longitude: -20.9671
     -
       name: "Grindavík"
+      native: "Grindavíkurbær"
       code: "GRN"
       iso3166_2: "IS-GRN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.84
       longitude: -22.43
       cities:
@@ -303,18 +347,22 @@
           longitude: -22.43931
     -
       name: "Grundarfjörður"
+      native: "Grundarfjarðarbær"
       code: "GRU"
       iso3166_2: "IS-GRU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.93
       longitude: -23.25
       cities:
         []
     -
       name: "Grýtubakkahreppur"
+      native: "Grýtubakkahreppur"
       code: "GRY"
       iso3166_2: "IS-GRY"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.72
       longitude: -17.57
       cities:
@@ -324,9 +372,11 @@
           longitude: -18.11667
     -
       name: "Hafnarfjörður"
+      native: "Hafnarfjarðarkaupstaður"
       code: "HAF"
       iso3166_2: "IS-HAF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.07
       longitude: -21.95
       cities:
@@ -336,9 +386,11 @@
           longitude: -21.93774
     -
       name: "Hörðarsveit"
+      native: "Hörðarsveit"
       code: "HRG"
       iso3166_2: "IS-HRG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.6
       longitude: -21.15
       cities:
@@ -348,9 +400,11 @@
           longitude: -18.49599
     -
       name: "Hornafjörður"
+      native: "Sveitarfélagið Hornafjörður"
       code: "SHF"
       iso3166_2: "IS-SHF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.25
       longitude: -15.2
       cities:
@@ -360,9 +414,11 @@
           longitude: -15.21212
     -
       name: "Hrunamannahreppur"
+      native: "Hrunamannahreppur"
       code: "HRU"
       iso3166_2: "IS-HRU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.07
       longitude: -20.35
       cities:
@@ -372,18 +428,22 @@
           longitude: -19.72237
     -
       name: "Húnabyggð"
+      native: "Húnabyggð"
       code: "HUG"
       iso3166_2: "IS-HUG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.75
       longitude: -20.83
       cities:
         []
     -
       name: "Húnaþing vestra"
+      native: "Húnaþing vestra"
       code: "HUV"
       iso3166_2: "IS-HUV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.6
       longitude: -21.25
       cities:
@@ -393,9 +453,11 @@
           longitude: -20.91667
     -
       name: "Hvalfjarðarsveit"
+      native: "Hvalfjarðarsveit"
       code: "HVA"
       iso3166_2: "IS-HVA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.4
       longitude: -21.45
       cities:
@@ -405,9 +467,11 @@
           longitude: -21.61086
     -
       name: "Hveragerði"
+      native: "Hveragerbisbær"
       code: "HVE"
       iso3166_2: "IS-HVE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64
       longitude: -21.18
       cities:
@@ -417,9 +481,11 @@
           longitude: -21.18602
     -
       name: "Ísafjörður"
+      native: "Ísafjarðarbær"
       code: "ISA"
       iso3166_2: "IS-ISA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.07
       longitude: -23.13
       cities:
@@ -433,18 +499,22 @@
           longitude: -23.13498
     -
       name: "Kaldrananeshreppur"
+      native: "Kaldrananeshreppur"
       code: "KAL"
       iso3166_2: "IS-KAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.97
       longitude: -23.48
       cities:
         []
     -
       name: "Kjósarhreppur"
+      native: "Kjósarhreppur"
       code: "KJO"
       iso3166_2: "IS-KJO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.23
       longitude: -21.47
       cities:
@@ -454,9 +524,11 @@
           longitude: -21.49919
     -
       name: "Kópavogur"
+      native: "Kópavogsbær"
       code: "KOP"
       iso3166_2: "IS-KOP"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.11
       longitude: -21.91
       cities:
@@ -466,9 +538,11 @@
           longitude: -21.91298
     -
       name: "Langanesbyggð"
+      native: "Langanesbyggð"
       code: "LAN"
       iso3166_2: "IS-LAN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.3
       longitude: -14.95
       cities:
@@ -478,9 +552,11 @@
           longitude: -15.18969
     -
       name: "Mosfellsbær"
+      native: "Mosfellsbær"
       code: "MOS"
       iso3166_2: "IS-MOS"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.17
       longitude: -21.4
       cities:
@@ -490,9 +566,11 @@
           longitude: -21.65
     -
       name: "Múlaþing"
+      native: "Múlaþing"
       code: "MUL"
       iso3166_2: "IS-MUL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.25
       longitude: -14.55
       cities:
@@ -502,9 +580,11 @@
           longitude: -15.37211
     -
       name: "Mýrdalshreppur"
+      native: "Mýrdalshreppur"
       code: "MYR"
       iso3166_2: "IS-MYR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.47
       longitude: -18.87
       cities:
@@ -514,9 +594,11 @@
           longitude: -19
     -
       name: "Norðurþing"
+      native: "Norðurþing"
       code: "NOR"
       iso3166_2: "IS-NOR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.05
       longitude: -17.35
       cities:
@@ -526,27 +608,33 @@
           longitude: -17.33834
     -
       name: "Northeastern"
+      native: "Norðaustur"
       code: "6"
       iso3166_2: "IS-6"
       type: "region"
+      type_es: "región"
       latitude: 65.4735997
       longitude: -17.4433339
       cities:
         []
     -
       name: "Northwestern"
+      native: "Norðvestur"
       code: "5"
       iso3166_2: "IS-5"
       type: "region"
+      type_es: "región"
       latitude: 65.4622189
       longitude: -19.8471016
       cities:
         []
     -
       name: "Ölfus"
+      native: "Sveitarfélagið Ölfus"
       code: "SOL"
       iso3166_2: "IS-SOL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.93
       longitude: -21.07
       cities:
@@ -556,27 +644,33 @@
           longitude: -21.38337
     -
       name: "Rangárþing eystra"
+      native: "Rangárþing eystra"
       code: "RGE"
       iso3166_2: "IS-RGE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.88
       longitude: -20.05
       cities:
         []
     -
       name: "Rangárþing ytra"
+      native: "Rangárþing ytra"
       code: "RGY"
       iso3166_2: "IS-RGY"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.82
       longitude: -20.42
       cities:
         []
     -
       name: "Reykhólahreppur"
+      native: "Reykhólahreppur"
       code: "RHH"
       iso3166_2: "IS-RHH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.45
       longitude: -22.18
       cities:
@@ -586,9 +680,11 @@
           longitude: -22.33324
     -
       name: "Reykjanesbær"
+      native: "Reykjanesbær"
       code: "RKN"
       iso3166_2: "IS-RKN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.98
       longitude: -22.55
       cities:
@@ -610,9 +706,11 @@
           longitude: -22.70799
     -
       name: "Reykjavík"
+      native: "Reykjavíkurborg"
       code: "RKV"
       iso3166_2: "IS-RKV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.13
       longitude: -21.9
       cities:
@@ -622,9 +720,11 @@
           longitude: -21.89541
     -
       name: "Seltjarnarnes"
+      native: "Seltjarnarnesbær"
       code: "SEL"
       iso3166_2: "IS-SEL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.16
       longitude: -22.01
       cities:
@@ -634,9 +734,11 @@
           longitude: -21.99499
     -
       name: "Skaftárhreppur"
+      native: "Skaftárhreppur"
       code: "SKF"
       iso3166_2: "IS-SKF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.87
       longitude: -18.07
       cities:
@@ -646,9 +748,11 @@
           longitude: -18.14491
     -
       name: "Skagabyggð"
+      native: "Skagabyggð"
       code: "SKG"
       iso3166_2: "IS-SKG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.85
       longitude: -20.5
       cities:
@@ -658,9 +762,11 @@
           longitude: -20.25
     -
       name: "Skagafjörður"
+      native: "Skagafjörður"
       code: "SKR"
       iso3166_2: "IS-SKR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.73
       longitude: -19.5
       cities:
@@ -674,18 +780,22 @@
           longitude: -19.44566
     -
       name: "Skagaströnd"
+      native: "Sveitarfélagið Skagaströnd"
       code: "SSS"
       iso3166_2: "IS-SSS"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.83
       longitude: -20.3
       cities:
         []
     -
       name: "Skeiða- og Gnúpverjahreppur"
+      native: "Skeiða- og Gnúpverjahreppur"
       code: "SOG"
       iso3166_2: "IS-SOG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.03
       longitude: -20.5
       cities:
@@ -695,9 +805,11 @@
           longitude: -19.37757
     -
       name: "Skorradalshreppur"
+      native: "Skorradalshreppur"
       code: "SKO"
       iso3166_2: "IS-SKO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.7
       longitude: -21.35
       cities:
@@ -707,9 +819,11 @@
           longitude: -21.5
     -
       name: "Snæfellsbær"
+      native: "Snæfellsbær"
       code: "SNF"
       iso3166_2: "IS-SNF"
       type: "municipality"
+      type_es: "municipio"
       latitude: 64.88
       longitude: -23.73
       cities:
@@ -723,27 +837,33 @@
           longitude: -23.5
     -
       name: "Southern"
+      native: "Suður"
       code: "8"
       iso3166_2: "IS-8"
       type: "region"
+      type_es: "región"
       latitude: 63.9415014
       longitude: -22.2018627
       cities:
         []
     -
       name: "Southern Peninsula"
+      native: "Suður -skaginn"
       code: "2"
       iso3166_2: "IS-2"
       type: "region"
+      type_es: "región"
       latitude: 63.9415014
       longitude: -22.2018627
       cities:
         []
     -
       name: "Strandabyggð"
+      native: "Strandabyggð"
       code: "STR"
       iso3166_2: "IS-STR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.58
       longitude: -21.63
       cities:
@@ -753,9 +873,11 @@
           longitude: -21.95725
     -
       name: "Stykkishólmur"
+      native: "Stykkishólmsbær"
       code: "STY"
       iso3166_2: "IS-STY"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.08
       longitude: -22.73
       cities:
@@ -769,27 +891,33 @@
           longitude: -22.72977
     -
       name: "Súðavík"
+      native: "Súðavíkurhreppur"
       code: "SDV"
       iso3166_2: "IS-SDV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.05
       longitude: -23.13
       cities:
         []
     -
       name: "Suðurnesjabær"
+      native: "Suðurnesjabær"
       code: "SDN"
       iso3166_2: "IS-SDN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.87
       longitude: -22.08
       cities:
         []
     -
       name: "Svalbardsstrandarhreppur"
+      native: "Svalbardsstrandarhreppur"
       code: "SBT"
       iso3166_2: "IS-SBT"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.27
       longitude: -21.17
       cities:
@@ -799,9 +927,11 @@
           longitude: -18.03513
     -
       name: "Tálknafjarðarhreppur"
+      native: "Tálknafjarðarhreppur"
       code: "TAL"
       iso3166_2: "IS-TAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.63
       longitude: -23.78
       cities:
@@ -811,9 +941,11 @@
           longitude: -23.88333
     -
       name: "Tjörneshreppur"
+      native: "Tjörneshreppur"
       code: "TJO"
       iso3166_2: "IS-TJO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.2
       longitude: -17.05
       cities:
@@ -823,9 +955,11 @@
           longitude: -17.2
     -
       name: "Vestmannaeyjar"
+      native: "Vestmannaeyjabaer"
       code: "VEM"
       iso3166_2: "IS-VEM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.44
       longitude: -20.27
       cities:
@@ -839,18 +973,22 @@
           longitude: -20.27339
     -
       name: "Vesturbyggð"
+      native: "Vesturbyggð"
       code: "VER"
       iso3166_2: "IS-VER"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.52
       longitude: -24.02
       cities:
         []
     -
       name: "Vogar"
+      native: "Sveitarfélagið Vogar"
       code: "SVG"
       iso3166_2: "IS-SVG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 63.98
       longitude: -22.38
       cities:
@@ -860,36 +998,44 @@
           longitude: -22.38473
     -
       name: "Vopnafjarðarhreppur"
+      native: "Vopnafjarðarhreppur"
       code: "VOP"
       iso3166_2: "IS-VOP"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.75
       longitude: -14.83
       cities:
         []
     -
       name: "Western"
+      native: "Western"
       code: "3"
       iso3166_2: "IS-3"
       type: "region"
+      type_es: "región"
       latitude: 52.6241496
       longitude: -1.153756
       cities:
         []
     -
       name: "Westfjords"
+      native: "Westfjords"
       code: "4"
       iso3166_2: "IS-4"
       type: "region"
+      type_es: "región"
       latitude: 65.9082049
       longitude: -21.8078883
       cities:
         []
     -
       name: "Þingeyjarsveit"
+      native: "Þingeyjarsveit"
       code: "THG"
       iso3166_2: "IS-THG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 65.87
       longitude: -17.08
       cities:

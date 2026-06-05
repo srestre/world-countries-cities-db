@@ -1,11 +1,11 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-SS,South Sudan,Africa,Middle Africa,EC,Central Equatoria,,,
-SS,South Sudan,Africa,Middle Africa,EE,Eastern Equatoria,,,
-SS,South Sudan,Africa,Middle Africa,JG,Jonglei State,,,
-SS,South Sudan,Africa,Middle Africa,LK,Lakes,Yirol,6.5525,30.49806
-SS,South Sudan,Africa,Middle Africa,BN,Northern Bahr el Ghazal,,,
-SS,South Sudan,Africa,Middle Africa,UY,Unity,,,
-SS,South Sudan,Africa,Middle Africa,NU,Upper Nile,,,
-SS,South Sudan,Africa,Middle Africa,WR,Warrap,,,
-SS,South Sudan,Africa,Middle Africa,BW,Western Bahr el Ghazal,,,
-SS,South Sudan,Africa,Middle Africa,EW,Western Equatoria,,,
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,EC,Central Equatoria,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,EE,Eastern Equatoria,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,JG,Jonglei State,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,LK,Lakes,state,estado,Yirol,6.5525,30.49806
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,BN,Northern Bahr el Ghazal,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,UY,Unity,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,NU,Upper Nile,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,WR,Warrap,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,BW,Western Bahr el Ghazal,state,estado,,,
+SS,South Sudan,Sudán del Sur,Africa,África,Middle Africa,África Central,EW,Western Equatoria,state,estado,,,

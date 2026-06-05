@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(56, 'Cuba', 'CU', 'CUB', 'Americas', 'Caribbean', 'Havana', 'CUP', 21.5, -80, '🇨🇺');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(56, 'Cuba', 'Cuba', 'CU', 'CUB', 'Americas', 'América', 'Caribbean', 'Caribe', 'Havana', 'CUP', 21.5, -80, '🇨🇺');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(283, 'Artemisa', 56, 'CU', '15', 'province', 22.8272763, -82.9259245),
-(286, 'Camagüey', 56, 'CU', '09', 'province', 21.3108932, -77.9428695),
-(282, 'Ciego de Ávila', 56, 'CU', '08', 'province', 21.8420472, -78.7599682),
-(287, 'Cienfuegos', 56, 'CU', '06', 'province', 22.1459864, -80.4530775),
-(275, 'Granma', 56, 'CU', '12', 'province', 20.1947889, -77.2936265),
-(285, 'Guantánamo', 56, 'CU', '14', 'province', 20.2106063, -74.6938395),
-(272, 'Havana', 56, 'CU', '03', 'province', 23.135305, -82.3589631),
-(279, 'Holguín', 56, 'CU', '11', 'province', 20.9115576, -75.7891978),
-(278, 'Isla de la Juventud', 56, 'CU', '99', 'special municipality', 21.6910976, -82.8155856),
-(281, 'Las Tunas', 56, 'CU', '10', 'province', 21.0887045, -76.8121648),
-(284, 'Matanzas', 56, 'CU', '04', 'province', 22.4545999, -81.4961585),
-(276, 'Mayabeque', 56, 'CU', '16', 'province', 22.8254157, -82.0701062),
-(277, 'Pinar del Río', 56, 'CU', '01', 'province', 22.312447, -83.9389386),
-(274, 'Sancti Spíritus', 56, 'CU', '07', 'province', 21.9275667, -79.443211),
-(273, 'Santiago de Cuba', 56, 'CU', '13', 'province', 20.1209475, -75.924009),
-(280, 'Villa Clara', 56, 'CU', '05', 'province', 22.7036119, -79.6944968);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(283, 'Artemisa', 'Artemisa', 56, 'CU', '15', 'province', 'provincia', 22.8272763, -82.9259245),
+(286, 'Camagüey', 'Camagüey', 56, 'CU', '09', 'province', 'provincia', 21.3108932, -77.9428695),
+(282, 'Ciego de Ávila', 'Ciego de Ávila', 56, 'CU', '08', 'province', 'provincia', 21.8420472, -78.7599682),
+(287, 'Cienfuegos', 'Cienfuegos', 56, 'CU', '06', 'province', 'provincia', 22.1459864, -80.4530775),
+(275, 'Granma', 'Granma', 56, 'CU', '12', 'province', 'provincia', 20.1947889, -77.2936265),
+(285, 'Guantánamo', 'Guantánamo', 56, 'CU', '14', 'province', 'provincia', 20.2106063, -74.6938395),
+(272, 'Havana', 'la Habana', 56, 'CU', '03', 'province', 'provincia', 23.135305, -82.3589631),
+(279, 'Holguín', 'Holguín', 56, 'CU', '11', 'province', 'provincia', 20.9115576, -75.7891978),
+(278, 'Isla de la Juventud', 'Isla de la Juventud', 56, 'CU', '99', 'special municipality', 'municipio especial', 21.6910976, -82.8155856),
+(281, 'Las Tunas', 'Las Tunas', 56, 'CU', '10', 'province', 'provincia', 21.0887045, -76.8121648),
+(284, 'Matanzas', 'Matanzas', 56, 'CU', '04', 'province', 'provincia', 22.4545999, -81.4961585),
+(276, 'Mayabeque', 'Mayabeque', 56, 'CU', '16', 'province', 'provincia', 22.8254157, -82.0701062),
+(277, 'Pinar del Río', 'Pinar del Río', 56, 'CU', '01', 'province', 'provincia', 22.312447, -83.9389386),
+(274, 'Sancti Spíritus', 'Espíritu santo', 56, 'CU', '07', 'province', 'provincia', 21.9275667, -79.443211),
+(273, 'Santiago de Cuba', 'Santiago de Cuba', 56, 'CU', '13', 'province', 'provincia', 20.1209475, -75.924009),
+(280, 'Villa Clara', 'Villa Clara', 56, 'CU', '05', 'province', 'provincia', 22.7036119, -79.6944968);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (21804, 'Alquízar', 283, 56, 22.80517, -82.58392),

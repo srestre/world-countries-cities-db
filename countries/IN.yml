@@ -12,16 +12,20 @@
   currency_symbol: "₹"
   tld: ".in"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 20
   longitude: 77
   emoji: "🇮🇳"
   states:
     -
       name: "Andaman and Nicobar Islands"
+      native: "अंडमान व नोकोबार द्वीप समूह"
       code: "AN"
       iso3166_2: "IN-AN"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 12.6112387
       longitude: 92.8316541
       cities:
@@ -43,9 +47,11 @@
           longitude: 92.52136
     -
       name: "Andhra Pradesh"
+      native: "आंध्र प्रदेश"
       code: "AP"
       iso3166_2: "IN-AP"
       type: "state"
+      type_es: "estado"
       latitude: 15.9240905
       longitude: 80.1863809
       cities:
@@ -723,9 +729,11 @@
           longitude: 83.27419
     -
       name: "Arunachal Pradesh"
+      native: "अरुणाचल प्रदेश"
       code: "AR"
       iso3166_2: "IN-AR"
       type: "state"
+      type_es: "estado"
       latitude: 28.0937702
       longitude: 94.5921326
       cities:
@@ -835,9 +843,11 @@
           longitude: 93.83854
     -
       name: "Assam"
+      native: "असम"
       code: "AS"
       iso3166_2: "IN-AS"
       type: "state"
+      type_es: "estado"
       latitude: 26.4073841
       longitude: 93.2551303
       cities:
@@ -1191,9 +1201,11 @@
           longitude: 92.10215
     -
       name: "Bihar"
+      native: "बिहार"
       code: "BR"
       iso3166_2: "IN-BR"
       type: "state"
+      type_es: "estado"
       latitude: 25.6440845
       longitude: 85.906508
       cities:
@@ -1723,9 +1735,11 @@
           longitude: 85.64047
     -
       name: "Chandigarh"
+      native: "चंडीगढ़"
       code: "CH"
       iso3166_2: "IN-CH"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 30.7333148
       longitude: 76.7794179
       cities:
@@ -1735,9 +1749,11 @@
           longitude: 76.7884
     -
       name: "Chhattisgarh"
+      native: "छत्तीसगढ"
       code: "CT"
       iso3166_2: "IN-CT"
       type: "state"
+      type_es: "estado"
       latitude: 21.6637359
       longitude: 81.8406351
       cities:
@@ -2055,9 +2071,11 @@
           longitude: 81.1
     -
       name: "Dadra and Nagar Haveli and Daman and Diu"
+      native: "दादरा और नगर हवेली और दमन और दीव"
       code: "DH"
       iso3166_2: "IN-DH"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 20.7181749
       longitude: 70.9323834
       cities:
@@ -2087,9 +2105,11 @@
           longitude: 72.99673
     -
       name: "Delhi"
+      native: "दिल्ली"
       code: "DL"
       iso3166_2: "IN-DL"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 28.6328027
       longitude: 77.2197713
       cities:
@@ -2171,9 +2191,11 @@
           longitude: 77.10068
     -
       name: "Goa"
+      native: "गोवा"
       code: "GA"
       iso3166_2: "IN-GA"
       type: "state"
+      type_es: "estado"
       latitude: 15.3004543
       longitude: 74.0855134
       cities:
@@ -2379,9 +2401,11 @@
           longitude: 73.81568
     -
       name: "Gujarat"
+      native: "गुजरात"
       code: "GJ"
       iso3166_2: "IN-GJ"
       type: "state"
+      type_es: "estado"
       latitude: 22.3850051
       longitude: 71.745261
       cities:
@@ -3599,9 +3623,11 @@
           longitude: 70.94379
     -
       name: "Haryana"
+      native: "हरियाणा"
       code: "HR"
       iso3166_2: "IN-HR"
       type: "state"
+      type_es: "estado"
       latitude: 29
       longitude: 76
       cities:
@@ -3927,9 +3953,11 @@
           longitude: 77.30498
     -
       name: "Himachal Pradesh"
+      native: "हिमाचल प्रदेश"
       code: "HP"
       iso3166_2: "IN-HP"
       type: "state"
+      type_es: "estado"
       latitude: 31.9292352
       longitude: 77.1828462
       cities:
@@ -4163,9 +4191,11 @@
           longitude: 76.19622
     -
       name: "Jammu and Kashmir"
+      native: "जम्मू और कश्मीर"
       code: "JK"
       iso3166_2: "IN-JK"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 33.6649297
       longitude: 75.1629584
       cities:
@@ -4387,9 +4417,11 @@
           longitude: 74.05088
     -
       name: "Jharkhand"
+      native: "झारखंड"
       code: "JH"
       iso3166_2: "IN-JH"
       type: "state"
+      type_es: "estado"
       latitude: 23.4559809
       longitude: 85.2557301
       cities:
@@ -4703,9 +4735,11 @@
           longitude: 86.19792
     -
       name: "Karnataka"
+      native: "कर्नाटक"
       code: "KA"
       iso3166_2: "IN-KA"
       type: "state"
+      type_es: "estado"
       latitude: 14.5203896
       longitude: 75.7223521
       cities:
@@ -5679,9 +5713,11 @@
           longitude: 74.70929
     -
       name: "Kerala"
+      native: "केरल"
       code: "KL"
       iso3166_2: "IN-KL"
       type: "state"
+      type_es: "estado"
       latitude: 10.3528744
       longitude: 76.5120396
       cities:
@@ -6111,9 +6147,11 @@
           longitude: 76.083
     -
       name: "Ladakh"
+      native: "लद्दाख"
       code: "LA"
       iso3166_2: "IN-LA"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 33.9456407
       longitude: 77.6568576
       cities:
@@ -6127,9 +6165,11 @@
           longitude: 77.58402
     -
       name: "Lakshadweep"
+      native: "लक्षद्वीप"
       code: "LD"
       iso3166_2: "IN-LD"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 10.3337313
       longitude: 72.9205386
       cities:
@@ -6143,9 +6183,11 @@
           longitude: 74.04582
     -
       name: "Madhya Pradesh"
+      native: "मध्य प्रदेश"
       code: "MP"
       iso3166_2: "IN-MP"
       type: "state"
+      type_es: "estado"
       latitude: 23.8143419
       longitude: 77.5340719
       cities:
@@ -7243,9 +7285,11 @@
           longitude: 80.04301
     -
       name: "Maharashtra"
+      native: "महाराष्ट्र"
       code: "MH"
       iso3166_2: "IN-MH"
       type: "state"
+      type_es: "estado"
       latitude: 18.9068356
       longitude: 75.6741579
       cities:
@@ -9479,9 +9523,11 @@
           longitude: 74.48944
     -
       name: "Manipur"
+      native: "मणिपुर"
       code: "MN"
       iso3166_2: "IN-MN"
       type: "state"
+      type_es: "estado"
       latitude: 24.7208818
       longitude: 93.9229386
       cities:
@@ -9551,9 +9597,11 @@
           longitude: 94.35883
     -
       name: "Meghalaya"
+      native: "मेघालय"
       code: "ML"
       iso3166_2: "IN-ML"
       type: "state"
+      type_es: "estado"
       latitude: 25.5379432
       longitude: 91.2999102
       cities:
@@ -9631,9 +9679,11 @@
           longitude: 91.26957
     -
       name: "Mizoram"
+      native: "मिजोरम"
       code: "MZ"
       iso3166_2: "IN-MZ"
       type: "state"
+      type_es: "estado"
       latitude: 23.2146169
       longitude: 92.8687612
       cities:
@@ -9695,9 +9745,11 @@
           longitude: 92.75
     -
       name: "Nagaland"
+      native: "नागालैंड"
       code: "NL"
       iso3166_2: "IN-NL"
       type: "state"
+      type_es: "estado"
       latitude: 26.1630556
       longitude: 94.5884911
       cities:
@@ -9743,9 +9795,11 @@
           longitude: 94.5
     -
       name: "Odisha"
+      native: "ओडिशा"
       code: "OR"
       iso3166_2: "IN-OR"
       type: "state"
+      type_es: "estado"
       latitude: 20.5431241
       longitude: 84.6897321
       cities:
@@ -10191,9 +10245,11 @@
           longitude: 84.36869
     -
       name: "Puducherry"
+      native: "पुदुचेरी"
       code: "PY"
       iso3166_2: "IN-PY"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 11.9340568
       longitude: 79.8306447
       cities:
@@ -10215,9 +10271,11 @@
           longitude: 82.21773
     -
       name: "Punjab"
+      native: "पंजाब"
       code: "PB"
       iso3166_2: "IN-PB"
       type: "state"
+      type_es: "estado"
       latitude: 30.9293211
       longitude: 75.5004841
       cities:
@@ -10683,9 +10741,11 @@
           longitude: 74.99106
     -
       name: "Rajasthan"
+      native: "राजस्थान"
       code: "RJ"
       iso3166_2: "IN-RJ"
       type: "state"
+      type_es: "estado"
       latitude: 26.8105777
       longitude: 73.7684549
       cities:
@@ -11439,9 +11499,11 @@
           longitude: 77.17636
     -
       name: "Sikkim"
+      native: "सिक्किम"
       code: "SK"
       iso3166_2: "IN-SK"
       type: "state"
+      type_es: "estado"
       latitude: 27.601029
       longitude: 88.4541364
       cities:
@@ -11495,9 +11557,11 @@
           longitude: 88.25
     -
       name: "Tamil Nadu"
+      native: "तमिलनाडु"
       code: "TN"
       iso3166_2: "IN-TN"
       type: "state"
+      type_es: "estado"
       latitude: 10.9094334
       longitude: 78.3665347
       cities:
@@ -12903,9 +12967,11 @@
           longitude: 76.78442
     -
       name: "Telangana"
+      native: "तेलंगाना"
       code: "TG"
       iso3166_2: "IN-TG"
       type: "state"
+      type_es: "estado"
       latitude: 17.8495919
       longitude: 79.1151663
       cities:
@@ -13263,9 +13329,11 @@
           longitude: 77.60743
     -
       name: "Tripura"
+      native: "त्रिपुरा"
       code: "TR"
       iso3166_2: "IN-TR"
       type: "state"
+      type_es: "estado"
       latitude: 23.7750823
       longitude: 91.7025091
       cities:
@@ -13347,9 +13415,11 @@
           longitude: 91.5
     -
       name: "Uttar Pradesh"
+      native: "उत्तर प्रदेश"
       code: "UP"
       iso3166_2: "IN-UP"
       type: "state"
+      type_es: "estado"
       latitude: 27.1303344
       longitude: 80.859666
       cities:
@@ -15827,9 +15897,11 @@
           longitude: 83.55786
     -
       name: "Uttarakhand"
+      native: "उत्तराखंड"
       code: "UK"
       iso3166_2: "IN-UK"
       type: "state"
+      type_es: "estado"
       latitude: 30.0417376
       longitude: 79.089691
       cities:
@@ -16059,9 +16131,11 @@
           longitude: 77.77275
     -
       name: "West Bengal"
+      native: "पश्चिम बंगाल"
       code: "WB"
       iso3166_2: "IN-WB"
       type: "state"
+      type_es: "estado"
       latitude: 22.9964948
       longitude: 87.6855882
       cities:

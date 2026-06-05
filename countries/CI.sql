@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(54, 'Ivory Coast', 'CI', 'CIV', 'Africa', 'Western Africa', 'Yamoussoukro', 'XOF', 8, -5, '🇨🇮');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(54, 'Ivory Coast', 'Costa de Marfil', 'CI', 'CIV', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Yamoussoukro', 'XOF', 8, -5, '🇨🇮');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2634, 'Abidjan', 54, 'CI', 'AB', 'autonomous district', 5.3599517, -4.0082563),
-(2643, 'Bas-Sassandra', 54, 'CI', 'BS', 'district', 5.2798356, -6.1526985),
-(2654, 'Comoé', 54, 'CI', 'CM', 'district', 6.2219079, -4.6072799),
-(2644, 'Denguélé', 54, 'CI', 'DN', 'district', 48.0707763, -68.5609341),
-(2651, 'Gôh-Djiboua', 54, 'CI', 'GD', 'district', 5.8711393, -5.5617279),
-(2632, 'Lacs', 54, 'CI', 'LC', 'district', 48.1980169, -80.4564412),
-(2627, 'Lagunes', 54, 'CI', 'LG', 'district', 5.8827334, -4.2333355),
-(2629, 'Montagnes', 54, 'CI', 'MG', 'district', 6.8871664, -9.1070644),
-(2648, 'Sassandra-Marahoué', 54, 'CI', 'SM', 'district', 6.8803348, -6.2375947),
-(2625, 'Savanes', 54, 'CI', 'SV', 'district', 9.6373527, -6.7007186),
-(2637, 'Vallée du Bandama', 54, 'CI', 'VB', 'district', 8.278978, -4.8935627),
-(2650, 'Woroba', 54, 'CI', 'WR', 'district', 8.2491372, -6.9209135),
-(2653, 'Yamoussoukro', 54, 'CI', 'YM', 'autonomous district', 6.8276228, -5.2893433),
-(2641, 'Zanzan', 54, 'CI', 'ZZ', 'district', 8.8207904, -3.4195527);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2634, 'Abidjan', 'Abidjan', 54, 'CI', 'AB', 'autonomous district', 'distrito autónomo', 5.3599517, -4.0082563),
+(2643, 'Bas-Sassandra', 'Bas-Sassandra', 54, 'CI', 'BS', 'district', 'distrito', 5.2798356, -6.1526985),
+(2654, 'Comoé', 'Comoé', 54, 'CI', 'CM', 'district', 'distrito', 6.2219079, -4.6072799),
+(2644, 'Denguélé', 'Denguélé', 54, 'CI', 'DN', 'district', 'distrito', 48.0707763, -68.5609341),
+(2651, 'Gôh-Djiboua', 'Gôh-Djiboua', 54, 'CI', 'GD', 'district', 'distrito', 5.8711393, -5.5617279),
+(2632, 'Lacs', 'Lacs', 54, 'CI', 'LC', 'district', 'distrito', 48.1980169, -80.4564412),
+(2627, 'Lagunes', 'Tombé en panne', 54, 'CI', 'LG', 'district', 'distrito', 5.8827334, -4.2333355),
+(2629, 'Montagnes', 'Montagnes', 54, 'CI', 'MG', 'district', 'distrito', 6.8871664, -9.1070644),
+(2648, 'Sassandra-Marahoué', 'Sassandra-Marahoué', 54, 'CI', 'SM', 'district', 'distrito', 6.8803348, -6.2375947),
+(2625, 'Savanes', 'Savanes', 54, 'CI', 'SV', 'district', 'distrito', 9.6373527, -6.7007186),
+(2637, 'Vallée du Bandama', 'Vallée du Bandama', 54, 'CI', 'VB', 'district', 'distrito', 8.278978, -4.8935627),
+(2650, 'Woroba', 'Ver', 54, 'CI', 'WR', 'district', 'distrito', 8.2491372, -6.9209135),
+(2653, 'Yamoussoukro', 'Yamoussoukro', 54, 'CI', 'YM', 'autonomous district', 'distrito autónomo', 6.8276228, -5.2893433),
+(2641, 'Zanzan', 'Zanzan', 54, 'CI', 'ZZ', 'district', 'distrito', 8.8207904, -3.4195527);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (18860, 'Abidjan', 2634, 54, 5.30966, -4.01266),

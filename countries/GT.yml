@@ -12,16 +12,20 @@
   currency_symbol: "Q"
   tld: ".gt"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   latitude: 15.5
   longitude: -90.25
   emoji: "🇬🇹"
   states:
     -
       name: "Alta Verapaz "
+      native: "Alta Verapaz "
       code: "16"
       iso3166_2: "GT-16"
       type: "department"
+      type_es: "departamento"
       latitude: 15.5949705
       longitude: -90.0918031
       cities:
@@ -87,9 +91,11 @@
           longitude: -90.06667
     -
       name: "Baja Verapaz "
+      native: "Baja Verapaz"
       code: "15"
       iso3166_2: "GT-15"
       type: "department"
+      type_es: "departamento"
       latitude: 15.1170798
       longitude: -90.4109616
       cities:
@@ -127,9 +133,11 @@
           longitude: -90.39442
     -
       name: "Chimaltenango "
+      native: "Chimaltenango"
       code: "04"
       iso3166_2: "GT-04"
       type: "department"
+      type_es: "departamento"
       latitude: 14.6539748
       longitude: -90.9272741
       cities:
@@ -199,9 +207,11 @@
           longitude: -90.89034
     -
       name: "Chiquimula "
+      native: "Chiquimula"
       code: "20"
       iso3166_2: "GT-20"
       type: "department"
+      type_es: "departamento"
       latitude: 14.8005709
       longitude: -89.5459173
       cities:
@@ -251,9 +261,11 @@
           longitude: -89.43014
     -
       name: "El Progreso "
+      native: "El Progreso"
       code: "02"
       iso3166_2: "GT-02"
       type: "department"
+      type_es: "departamento"
       latitude: 14.9100436
       longitude: -90.0682728
       cities:
@@ -291,9 +303,11 @@
           longitude: -90.11615
     -
       name: "Escuintla "
+      native: "Escuintla"
       code: "05"
       iso3166_2: "GT-05"
       type: "department"
+      type_es: "departamento"
       latitude: 14.1921287
       longitude: -91.0263791
       cities:
@@ -351,9 +365,11 @@
           longitude: -91.36063
     -
       name: "Guatemala "
+      native: "Guatemala"
       code: "01"
       iso3166_2: "GT-01"
       type: "department"
+      type_es: "departamento"
       latitude: 14.6416142
       longitude: -90.5132836
       cities:
@@ -427,9 +443,11 @@
           longitude: -90.58544
     -
       name: "Huehuetenango "
+      native: "Huehuetenango"
       code: "13"
       iso3166_2: "GT-13"
       type: "department"
+      type_es: "departamento"
       latitude: 15.606418
       longitude: -91.6442217
       cities:
@@ -555,9 +573,11 @@
           longitude: -91.60382
     -
       name: "Izabal "
+      native: "Izabal"
       code: "18"
       iso3166_2: "GT-18"
       type: "department"
+      type_es: "departamento"
       latitude: 15.5700584
       longitude: -88.9829247
       cities:
@@ -591,9 +611,11 @@
           longitude: -88.59444
     -
       name: "Jalapa "
+      native: "Jalapa"
       code: "21"
       iso3166_2: "GT-21"
       type: "department"
+      type_es: "departamento"
       latitude: 14.6344164
       longitude: -89.9897996
       cities:
@@ -631,9 +653,11 @@
           longitude: -89.85
     -
       name: "Jutiapa "
+      native: "Jutiapa"
       code: "22"
       iso3166_2: "GT-22"
       type: "department"
+      type_es: "departamento"
       latitude: 14.1476859
       longitude: -89.8872508
       cities:
@@ -711,9 +735,11 @@
           longitude: -89.83333
     -
       name: "Petén "
+      native: "Petén "
       code: "17"
       iso3166_2: "GT-17"
       type: "department"
+      type_es: "departamento"
       latitude: 16.8317906
       longitude: -90.0450637
       cities:
@@ -795,9 +821,11 @@
           longitude: -90.18801
     -
       name: "Quetzaltenango "
+      native: "Quetzaltenango"
       code: "09"
       iso3166_2: "GT-09"
       type: "department"
+      type_es: "departamento"
       latitude: 14.8594641
       longitude: -91.5931586
       cities:
@@ -935,9 +963,11 @@
           longitude: -91.48345
     -
       name: "Quiché "
+      native: "Quiché"
       code: "14"
       iso3166_2: "GT-14"
       type: "department"
+      type_es: "departamento"
       latitude: 15.4381786
       longitude: -91.0075186
       cities:
@@ -1099,9 +1129,11 @@
           longitude: -90.87815
     -
       name: "Retalhuleu "
+      native: "Retalhuleu"
       code: "11"
       iso3166_2: "GT-11"
       type: "department"
+      type_es: "departamento"
       latitude: 14.5359621
       longitude: -91.6780651
       cities:
@@ -1147,9 +1179,11 @@
           longitude: -91.62441
     -
       name: "Sacatepéquez "
+      native: "Sacatepéquez"
       code: "03"
       iso3166_2: "GT-03"
       type: "department"
+      type_es: "departamento"
       latitude: 14.5531759
       longitude: -90.7547018
       cities:
@@ -1247,9 +1281,11 @@
           longitude: -90.73427
     -
       name: "San Marcos "
+      native: "San Marcos"
       code: "12"
       iso3166_2: "GT-12"
       type: "department"
+      type_es: "departamento"
       latitude: 14.9533135
       longitude: -91.9120444
       cities:
@@ -1391,9 +1427,11 @@
           longitude: -91.80635
     -
       name: "Santa Rosa "
+      native: "Santa Rosa"
       code: "06"
       iso3166_2: "GT-06"
       type: "department"
+      type_es: "departamento"
       latitude: 14.1501523
       longitude: -90.3508818
       cities:
@@ -1467,9 +1505,11 @@
           longitude: -90.46791
     -
       name: "Sololá "
+      native: "Sololá"
       code: "07"
       iso3166_2: "GT-07"
       type: "department"
+      type_es: "departamento"
       latitude: 14.7039412
       longitude: -91.282818
       cities:
@@ -1567,9 +1607,11 @@
           longitude: -91.18333
     -
       name: "Suchitepéquez "
+      native: "Suchitepéquez"
       code: "10"
       iso3166_2: "GT-10"
       type: "department"
+      type_es: "departamento"
       latitude: 14.3740226
       longitude: -91.3650139
       cities:
@@ -1663,9 +1705,11 @@
           longitude: -91.5098
     -
       name: "Totonicapán "
+      native: "Totonicapán"
       code: "08"
       iso3166_2: "GT-08"
       type: "department"
+      type_es: "departamento"
       latitude: 14.9173402
       longitude: -91.3613923
       cities:
@@ -1715,9 +1759,11 @@
           longitude: -91.36111
     -
       name: "Zacapa"
+      native: "Zacapa"
       code: "19"
       iso3166_2: "GT-19"
       type: "department"
+      type_es: "departamento"
       latitude: 14.9707219
       longitude: -89.5297411
       cities:

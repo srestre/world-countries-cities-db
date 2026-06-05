@@ -1,43 +1,43 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(146, 'Mongolia', 'MN', 'MNG', 'Asia', 'Eastern Asia', 'Ulan Bator', 'MNT', 46, 105, '🇲🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(146, 'Mongolia', 'Mongolia', 'MN', 'MNG', 'Asia', 'Asia', 'Eastern Asia', 'Asia Oriental', 'Ulan Bator', 'MNT', 46, 105, '🇲🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1973, 'Arkhangai', 146, 'MN', '073', 'province', 47.862646, 101.0316283),
-(1969, 'Bayan-Ölgii', 146, 'MN', '071', 'province', 48.5470083, 89.8549358),
-(1976, 'Bayankhongor', 146, 'MN', '069', 'province', 45.2380937, 99.5146799),
-(1961, 'Bulgan', 146, 'MN', '067', 'province', 48.9521438, 103.3965591),
-(1962, 'Darkhan-Uul', 146, 'MN', '037', 'province', 49.3767291, 106.2901384),
-(1963, 'Dornod', 146, 'MN', '061', 'province', 47.6772781, 115.2177155),
-(1981, 'Dornogovi', 146, 'MN', '063', 'province', 44.4179637, 109.7783753),
-(1970, 'Dundgovi', 146, 'MN', '059', 'province', 45.5186722, 106.2611562),
-(1972, 'Govi-Altai', 146, 'MN', '065', 'province', 45.3463139, 95.9325806),
-(1978, 'Govisümber', 146, 'MN', '064', 'province', 46.4610827, 108.5173101),
-(1974, 'Khentii', 146, 'MN', '039', 'province', 47.885981, 110.4201043),
-(1964, 'Khovd', 146, 'MN', '043', 'province', 46.8997977, 92.2959651),
-(1975, 'Khövsgöl', 146, 'MN', '041', 'province', 50.2206196, 99.9170492),
-(1967, 'Ömnögovi', 146, 'MN', '053', 'province', 43.282363, 104.1133864),
-(1966, 'Orkhon', 146, 'MN', '035', 'province', 49.0243744, 104.2998863),
-(1965, 'Övörkhangai', 146, 'MN', '055', 'province', 45.8297039, 102.7237769),
-(1980, 'Selenge', 146, 'MN', '049', 'province', 49.3910136, 107.0629034),
-(1977, 'Sükhbaatar', 146, 'MN', '051', 'province', 46.2093417, 113.5077196),
-(1968, 'Töv', 146, 'MN', '047', 'province', 47.4692538, 106.5525161),
-(5453, 'Ulaanbaatar', 146, 'MN', '001', 'capital city', 47.9184676, 106.9177016),
-(1971, 'Uvs', 146, 'MN', '046', 'province', 49.6313887, 92.9558186),
-(1979, 'Zavkhan', 146, 'MN', '057', 'province', 48.3133355, 96.2850506);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1973, 'Arkhangai', 'Архангай', 146, 'MN', '073', 'province', 'provincia', 47.862646, 101.0316283),
+(1969, 'Bayan-Ölgii', 'Баян-Өлгий', 146, 'MN', '071', 'province', 'provincia', 48.5470083, 89.8549358),
+(1976, 'Bayankhongor', 'Баянхонгор', 146, 'MN', '069', 'province', 'provincia', 45.2380937, 99.5146799),
+(1961, 'Bulgan', 'Булган', 146, 'MN', '067', 'province', 'provincia', 48.9521438, 103.3965591),
+(1962, 'Darkhan-Uul', 'Дархан-Уул', 146, 'MN', '037', 'province', 'provincia', 49.3767291, 106.2901384),
+(1963, 'Dornod', 'Дорнод', 146, 'MN', '061', 'province', 'provincia', 47.6772781, 115.2177155),
+(1981, 'Dornogovi', 'Дорноговь', 146, 'MN', '063', 'province', 'provincia', 44.4179637, 109.7783753),
+(1970, 'Dundgovi', 'Дундговь', 146, 'MN', '059', 'province', 'provincia', 45.5186722, 106.2611562),
+(1972, 'Govi-Altai', 'Говь-Алтай', 146, 'MN', '065', 'province', 'provincia', 45.3463139, 95.9325806),
+(1978, 'Govisümber', 'Говьсүмбэр', 146, 'MN', '064', 'province', 'provincia', 46.4610827, 108.5173101),
+(1974, 'Khentii', 'Хэнтий', 146, 'MN', '039', 'province', 'provincia', 47.885981, 110.4201043),
+(1964, 'Khovd', 'Ховд', 146, 'MN', '043', 'province', 'provincia', 46.8997977, 92.2959651),
+(1975, 'Khövsgöl', 'Хөвсгөл', 146, 'MN', '041', 'province', 'provincia', 50.2206196, 99.9170492),
+(1967, 'Ömnögovi', 'Өмнөговь', 146, 'MN', '053', 'province', 'provincia', 43.282363, 104.1133864),
+(1966, 'Orkhon', 'Орхон', 146, 'MN', '035', 'province', 'provincia', 49.0243744, 104.2998863),
+(1965, 'Övörkhangai', 'Өвөрхангай', 146, 'MN', '055', 'province', 'provincia', 45.8297039, 102.7237769),
+(1980, 'Selenge', 'Сэлэнгэ', 146, 'MN', '049', 'province', 'provincia', 49.3910136, 107.0629034),
+(1977, 'Sükhbaatar', 'Сүхбаатар', 146, 'MN', '051', 'province', 'provincia', 46.2093417, 113.5077196),
+(1968, 'Töv', 'Төв', 146, 'MN', '047', 'province', 'provincia', 47.4692538, 106.5525161),
+(5453, 'Ulaanbaatar', 'Улаанбаатар', 146, 'MN', '001', 'capital city', 'ciudad capital', 47.9184676, 106.9177016),
+(1971, 'Uvs', 'Увс', 146, 'MN', '046', 'province', 'provincia', 49.6313887, 92.9558186),
+(1979, 'Zavkhan', 'Завхан', 146, 'MN', '057', 'province', 'provincia', 48.3133355, 96.2850506);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67734, 'Tsetserleg', 1973, 146, 47.475, 101.45417),

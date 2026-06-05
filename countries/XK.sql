@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(248, 'Kosovo', 'XK', 'XKX', 'Europe', 'Eastern Europe', 'Pristina', 'EUR', 42.5612909, 20.3403035, '🇽🇰');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(248, 'Kosovo', 'Kosovo', 'XK', 'XKX', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Pristina', 'EUR', 42.5612909, 20.3403035, '🇽🇰');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4874, 'Ferizaj', 248, 'XK', 'XUF', 'district', 42.3701844, 21.1483281),
-(4876, 'Gjakove', 248, 'XK', 'XDG', 'district', 42.3798793, 20.4316226),
-(4877, 'Gjilan', 248, 'XK', 'XGJ', 'district', 42.4635206, 21.4694011),
-(4878, 'Mitrovica', 248, 'XK', 'XKM', 'district', 42.8790424, 20.8657862),
-(5321, 'Peja', 248, 'XK', 'PEJ', 'district', 42.6593986, 20.2885757),
-(4879, 'Pristina', 248, 'XK', 'XPI', 'district', 42.6629138, 21.1655028),
-(5322, 'Prizren', 248, 'XK', 'PRI', 'district', 42.2130151, 20.7363339);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4874, 'Ferizaj', 'Ferizaj', 248, 'XK', 'XUF', 'district', 'distrito', 42.3701844, 21.1483281),
+(4876, 'Gjakove', 'Gjakove', 248, 'XK', 'XDG', 'district', 'distrito', 42.3798793, 20.4316226),
+(4877, 'Gjilan', 'Gjilan', 248, 'XK', 'XGJ', 'district', 'distrito', 42.4635206, 21.4694011),
+(4878, 'Mitrovica', 'Mitrovica', 248, 'XK', 'XKM', 'district', 'distrito', 42.8790424, 20.8657862),
+(5321, 'Peja', 'Peja', 248, 'XK', 'PEJ', 'district', 'distrito', 42.6593986, 20.2885757),
+(4879, 'Pristina', 'Pristina', 248, 'XK', 'XPI', 'district', 'distrito', 42.6629138, 21.1655028),
+(5322, 'Prizren', 'Prizren', 248, 'XK', 'PRI', 'district', 'distrito', 42.2130151, 20.7363339);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (160143, 'Ferizaj', 4874, 248, 42.37056, 21.15528),

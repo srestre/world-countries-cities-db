@@ -12,16 +12,20 @@
   currency_symbol: "FCFA"
   tld: ".cm"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 6
   longitude: 12
   emoji: "🇨🇲"
   states:
     -
       name: "Adamawa"
+      native: "Adamawa"
       code: "AD"
       iso3166_2: "CM-AD"
       type: "region"
+      type_es: "región"
       latitude: 6.8496708
       longitude: 13.2163222
       cities:
@@ -75,9 +79,11 @@
           longitude: 13.72711
     -
       name: "Centre"
+      native: "Centre"
       code: "CE"
       iso3166_2: "CM-CE"
       type: "region"
+      type_es: "región"
       latitude: 4.686267
       longitude: 11.9414512
       cities:
@@ -187,9 +193,11 @@
           longitude: 12.31667
     -
       name: "East"
+      native: "Est"
       code: "ES"
       iso3166_2: "CM-ES"
       type: "region"
+      type_es: "región"
       latitude: 3.9894393
       longitude: 14.178373
       cities:
@@ -239,9 +247,11 @@
           longitude: 15.05
     -
       name: "Far North"
+      native: "Grand Nord"
       code: "EN"
       iso3166_2: "CM-EN"
       type: "region"
+      type_es: "región"
       latitude: 10.6377186
       longitude: 14.2738156
       cities:
@@ -295,9 +305,11 @@
           longitude: 15.23288
     -
       name: "Littoral"
+      native: "Littoral"
       code: "LT"
       iso3166_2: "CM-LT"
       type: "region"
+      type_es: "región"
       latitude: 4.203033
       longitude: 10.0563057
       cities:
@@ -367,9 +379,11 @@
           longitude: 9.96822
     -
       name: "North"
+      native: "North"
       code: "NO"
       iso3166_2: "CM-NO"
       type: "region"
+      type_es: "región"
       latitude: 8.7712794
       longitude: 13.7803627
       cities:
@@ -415,9 +429,11 @@
           longitude: 14.1698
     -
       name: "Northwest"
+      native: "Nord-ouest"
       code: "NW"
       iso3166_2: "CM-NW"
       type: "region"
+      type_es: "región"
       latitude: 6.3775255
       longitude: 10.3864171
       cities:
@@ -475,9 +491,11 @@
           longitude: 10.06667
     -
       name: "South"
+      native: "Sud"
       code: "SU"
       iso3166_2: "CM-SU"
       type: "region"
+      type_es: "región"
       latitude: 2.7312374
       longitude: 11.6254622
       cities:
@@ -515,9 +533,11 @@
           longitude: 11.98333
     -
       name: "Southwest"
+      native: "Sud-ouest"
       code: "SW"
       iso3166_2: "CM-SW"
       type: "region"
+      type_es: "región"
       latitude: 5.0577606
       longitude: 9.2289407
       cities:
@@ -579,9 +599,11 @@
           longitude: 9.36005
     -
       name: "West"
+      native: "Ouest"
       code: "OU"
       iso3166_2: "CM-OU"
       type: "region"
+      type_es: "región"
       latitude: 5.5356382
       longitude: 10.5828826
       cities:

@@ -1,68 +1,68 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(109, 'Japan', 'JP', 'JPN', 'Asia', 'Eastern Asia', 'Tokyo', 'JPY', 36, 138, '🇯🇵');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(109, 'Japan', 'Japón', 'JP', 'JPN', 'Asia', 'Asia', 'Eastern Asia', 'Asia Oriental', 'Tokyo', 'JPY', 36, 138, '🇯🇵');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(827, 'Aichi', 109, 'JP', '23', 'prefecture', 34.9991645, 137.254574),
-(829, 'Akita', 109, 'JP', '05', 'prefecture', 39.6898802, 140.342608),
-(839, 'Aomori', 109, 'JP', '02', 'prefecture', 40.8222833, 140.7472027),
-(821, 'Chiba', 109, 'JP', '12', 'prefecture', 35.549399, 140.2647303),
-(865, 'Ehime', 109, 'JP', '38', 'prefecture', 33.6013646, 132.8185275),
-(848, 'Fukui', 109, 'JP', '18', 'prefecture', 36.061751, 136.2260542),
-(861, 'Fukuoka', 109, 'JP', '40', 'prefecture', 33.6251241, 130.6180016),
-(847, 'Fukushima', 109, 'JP', '07', 'prefecture', 37.760777, 140.4745807),
-(858, 'Gifu', 109, 'JP', '21', 'prefecture', 35.7867449, 137.0460777),
-(862, 'Gunma', 109, 'JP', '10', 'prefecture', 36.52198, 139.033483),
-(828, 'Hiroshima', 109, 'JP', '34', 'prefecture', 34.3917241, 132.4517589),
-(832, 'Hokkaidō', 109, 'JP', '01', 'prefecture', 43.4519831, 142.8197834),
-(831, 'Hyōgo', 109, 'JP', '28', 'prefecture', 34.914934, 134.860666),
-(851, 'Ibaraki', 109, 'JP', '08', 'prefecture', 36.2871186, 140.4240926),
-(830, 'Ishikawa', 109, 'JP', '17', 'prefecture', 36.9890574, 136.8162839),
-(856, 'Iwate', 109, 'JP', '03', 'prefecture', 39.5713763, 141.4253574),
-(864, 'Kagawa', 109, 'JP', '37', 'prefecture', 34.2480104, 134.0586579),
-(840, 'Kagoshima', 109, 'JP', '46', 'prefecture', 31.521587, 130.5474077),
-(842, 'Kanagawa', 109, 'JP', '14', 'prefecture', 35.4342935, 139.374753),
-(4924, 'Kōchi', 109, 'JP', '39', 'prefecture', 33.5680384, 133.5394221),
-(846, 'Kumamoto', 109, 'JP', '43', 'prefecture', 32.8033909, 130.7082737),
-(834, 'Kyōto', 109, 'JP', '26', 'prefecture', 35.0115754, 135.7681441),
-(833, 'Mie', 109, 'JP', '24', 'prefecture', 34.7339685, 136.5154489),
-(857, 'Miyagi', 109, 'JP', '04', 'prefecture', 38.3880155, 140.9761025),
-(855, 'Miyazaki', 109, 'JP', '45', 'prefecture', 32.097681, 131.294542),
-(843, 'Nagano', 109, 'JP', '20', 'prefecture', 36.1143945, 138.0319015),
-(849, 'Nagasaki', 109, 'JP', '42', 'prefecture', 33.1154683, 129.7874339),
-(824, 'Nara', 109, 'JP', '29', 'prefecture', 34.2963089, 135.8816819),
-(841, 'Niigata', 109, 'JP', '15', 'prefecture', 37.6452283, 138.7669125),
-(822, 'Ōita', 109, 'JP', '44', 'prefecture', 33.1819875, 131.4270217),
-(820, 'Okayama', 109, 'JP', '33', 'prefecture', 34.8581334, 133.7759256),
-(853, 'Okinawa', 109, 'JP', '47', 'prefecture', 26.3343738, 127.8056597),
-(859, 'Ōsaka', 109, 'JP', '27', 'prefecture', 34.6198813, 135.490357),
-(863, 'Saga', 109, 'JP', '41', 'prefecture', 33.2639134, 130.3008378),
-(860, 'Saitama', 109, 'JP', '11', 'prefecture', 35.9754168, 139.4160114),
-(845, 'Shiga', 109, 'JP', '25', 'prefecture', 35.247154, 136.109385),
-(826, 'Shimane', 109, 'JP', '32', 'prefecture', 34.9418212, 132.537439),
-(825, 'Shizuoka', 109, 'JP', '22', 'prefecture', 34.9751974, 138.3831697),
-(854, 'Tochigi', 109, 'JP', '09', 'prefecture', 36.6782167, 139.8096549),
-(836, 'Tokushima', 109, 'JP', '36', 'prefecture', 33.9196418, 134.2509634),
-(823, 'Tokyo', 109, 'JP', '13', 'prefecture', 35.6768601, 139.7638947),
-(850, 'Tottori', 109, 'JP', '31', 'prefecture', 35.3555075, 133.8678525),
-(838, 'Toyama', 109, 'JP', '16', 'prefecture', 36.6958266, 137.2137071),
-(844, 'Wakayama', 109, 'JP', '30', 'prefecture', 33.8070292, 135.5930743),
-(837, 'Yamagata', 109, 'JP', '06', 'prefecture', 38.4746705, 140.083237),
-(835, 'Yamaguchi', 109, 'JP', '35', 'prefecture', 34.2379614, 131.5873845),
-(852, 'Yamanashi', 109, 'JP', '19', 'prefecture', 35.6399328, 138.6380495);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(827, 'Aichi', '愛知', 109, 'JP', '23', 'prefecture', 'prefectura', 34.9991645, 137.254574),
+(829, 'Akita', '秋田', 109, 'JP', '05', 'prefecture', 'prefectura', 39.6898802, 140.342608),
+(839, 'Aomori', '青森', 109, 'JP', '02', 'prefecture', 'prefectura', 40.8222833, 140.7472027),
+(821, 'Chiba', '千葉', 109, 'JP', '12', 'prefecture', 'prefectura', 35.549399, 140.2647303),
+(865, 'Ehime', '愛媛', 109, 'JP', '38', 'prefecture', 'prefectura', 33.6013646, 132.8185275),
+(848, 'Fukui', '福井', 109, 'JP', '18', 'prefecture', 'prefectura', 36.061751, 136.2260542),
+(861, 'Fukuoka', '福岡', 109, 'JP', '40', 'prefecture', 'prefectura', 33.6251241, 130.6180016),
+(847, 'Fukushima', '福島', 109, 'JP', '07', 'prefecture', 'prefectura', 37.760777, 140.4745807),
+(858, 'Gifu', '岐阜', 109, 'JP', '21', 'prefecture', 'prefectura', 35.7867449, 137.0460777),
+(862, 'Gunma', '群馬', 109, 'JP', '10', 'prefecture', 'prefectura', 36.52198, 139.033483),
+(828, 'Hiroshima', '広島', 109, 'JP', '34', 'prefecture', 'prefectura', 34.3917241, 132.4517589),
+(832, 'Hokkaidō', '北海道', 109, 'JP', '01', 'prefecture', 'prefectura', 43.4519831, 142.8197834),
+(831, 'Hyōgo', '兵庫県', 109, 'JP', '28', 'prefecture', 'prefectura', 34.914934, 134.860666),
+(851, 'Ibaraki', '茨城', 109, 'JP', '08', 'prefecture', 'prefectura', 36.2871186, 140.4240926),
+(830, 'Ishikawa', '石川', 109, 'JP', '17', 'prefecture', 'prefectura', 36.9890574, 136.8162839),
+(856, 'Iwate', '岩手', 109, 'JP', '03', 'prefecture', 'prefectura', 39.5713763, 141.4253574),
+(864, 'Kagawa', '香川', 109, 'JP', '37', 'prefecture', 'prefectura', 34.2480104, 134.0586579),
+(840, 'Kagoshima', '鹿児島', 109, 'JP', '46', 'prefecture', 'prefectura', 31.521587, 130.5474077),
+(842, 'Kanagawa', '神奈川', 109, 'JP', '14', 'prefecture', 'prefectura', 35.4342935, 139.374753),
+(4924, 'Kōchi', '高知', 109, 'JP', '39', 'prefecture', 'prefectura', 33.5680384, 133.5394221),
+(846, 'Kumamoto', '熊本', 109, 'JP', '43', 'prefecture', 'prefectura', 32.8033909, 130.7082737),
+(834, 'Kyōto', '京都', 109, 'JP', '26', 'prefecture', 'prefectura', 35.0115754, 135.7681441),
+(833, 'Mie', '三重', 109, 'JP', '24', 'prefecture', 'prefectura', 34.7339685, 136.5154489),
+(857, 'Miyagi', '宮城県', 109, 'JP', '04', 'prefecture', 'prefectura', 38.3880155, 140.9761025),
+(855, 'Miyazaki', '宮崎', 109, 'JP', '45', 'prefecture', 'prefectura', 32.097681, 131.294542),
+(843, 'Nagano', '長野', 109, 'JP', '20', 'prefecture', 'prefectura', 36.1143945, 138.0319015),
+(849, 'Nagasaki', '長崎', 109, 'JP', '42', 'prefecture', 'prefectura', 33.1154683, 129.7874339),
+(824, 'Nara', '奈良', 109, 'JP', '29', 'prefecture', 'prefectura', 34.2963089, 135.8816819),
+(841, 'Niigata', '新潟', 109, 'JP', '15', 'prefecture', 'prefectura', 37.6452283, 138.7669125),
+(822, 'Ōita', '大分', 109, 'JP', '44', 'prefecture', 'prefectura', 33.1819875, 131.4270217),
+(820, 'Okayama', '岡山', 109, 'JP', '33', 'prefecture', 'prefectura', 34.8581334, 133.7759256),
+(853, 'Okinawa', '沖縄', 109, 'JP', '47', 'prefecture', 'prefectura', 26.3343738, 127.8056597),
+(859, 'Ōsaka', '大阪', 109, 'JP', '27', 'prefecture', 'prefectura', 34.6198813, 135.490357),
+(863, 'Saga', '佐賀', 109, 'JP', '41', 'prefecture', 'prefectura', 33.2639134, 130.3008378),
+(860, 'Saitama', '埼玉', 109, 'JP', '11', 'prefecture', 'prefectura', 35.9754168, 139.4160114),
+(845, 'Shiga', '滋賀', 109, 'JP', '25', 'prefecture', 'prefectura', 35.247154, 136.109385),
+(826, 'Shimane', '島根', 109, 'JP', '32', 'prefecture', 'prefectura', 34.9418212, 132.537439),
+(825, 'Shizuoka', '静岡', 109, 'JP', '22', 'prefecture', 'prefectura', 34.9751974, 138.3831697),
+(854, 'Tochigi', '栃木県', 109, 'JP', '09', 'prefecture', 'prefectura', 36.6782167, 139.8096549),
+(836, 'Tokushima', '徳島', 109, 'JP', '36', 'prefecture', 'prefectura', 33.9196418, 134.2509634),
+(823, 'Tokyo', '東京', 109, 'JP', '13', 'prefecture', 'prefectura', 35.6768601, 139.7638947),
+(850, 'Tottori', '鳥取', 109, 'JP', '31', 'prefecture', 'prefectura', 35.3555075, 133.8678525),
+(838, 'Toyama', '富山', 109, 'JP', '16', 'prefecture', 'prefectura', 36.6958266, 137.2137071),
+(844, 'Wakayama', '和歌山', 109, 'JP', '30', 'prefecture', 'prefectura', 33.8070292, 135.5930743),
+(837, 'Yamagata', '山形', 109, 'JP', '06', 'prefecture', 'prefectura', 38.4746705, 140.083237),
+(835, 'Yamaguchi', '山口', 109, 'JP', '35', 'prefecture', 'prefectura', 34.2379614, 131.5873845),
+(852, 'Yamanashi', '山梨', 109, 'JP', '19', 'prefecture', 'prefectura', 35.6399328, 138.6380495);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (63223, 'Aisai-shi', 827, 109, 35.17234, 136.69478),

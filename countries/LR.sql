@@ -1,36 +1,36 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(123, 'Liberia', 'LR', 'LBR', 'Africa', 'Western Africa', 'Monrovia', 'LRD', 6.5, -9.5, '🇱🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(123, 'Liberia', 'Liberia', 'LR', 'LBR', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Monrovia', 'LRD', 6.5, -9.5, '🇱🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3041, 'Bomi', 123, 'LR', 'BM', 'county', 6.7177856, -10.7881766),
-(3034, 'Bong', 123, 'LR', 'BG', 'county', 6.9622195, -9.7134459),
-(3044, 'Gbarpolu', 123, 'LR', 'GP', 'county', 7.2681564, -10.3814771),
-(3040, 'Grand Bassa', 123, 'LR', 'GB', 'county', 6.1640621, -9.895669),
-(3036, 'Grand Cape Mount', 123, 'LR', 'CM', 'county', 7.0496206, -11.129843),
-(3039, 'Grand Gedeh', 123, 'LR', 'GG', 'county', 5.8161533, -8.0995537),
-(3045, 'Grand Kru', 123, 'LR', 'GK', 'county', 4.84932, -8.3308845),
-(3037, 'Lofa', 123, 'LR', 'LO', 'county', 7.8824046, -9.9760297),
-(3043, 'Margibi', 123, 'LR', 'MG', 'county', 6.6053676, -10.1758429),
-(3042, 'Maryland', 123, 'LR', 'MY', 'county', 4.6355376, -7.7281669),
-(3032, 'Montserrado', 123, 'LR', 'MO', 'county', 6.4095537, -10.6059403),
-(3046, 'Nimba', 123, 'LR', 'NI', 'county', 6.8088813, -8.7461448),
-(3033, 'River Cess', 123, 'LR', 'RI', 'county', 5.9087331, -9.3938267),
-(3038, 'River Gee', 123, 'LR', 'RG', 'county', 5.2653903, -7.8856203),
-(3035, 'Sinoe', 123, 'LR', 'SI', 'county', 5.3232693, -8.8435955);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3041, 'Bomi', 'Bomi', 123, 'LR', 'BM', 'county', 'condado', 6.7177856, -10.7881766),
+(3034, 'Bong', 'Bong', 123, 'LR', 'BG', 'county', 'condado', 6.9622195, -9.7134459),
+(3044, 'Gbarpolu', 'Gbarpolu', 123, 'LR', 'GP', 'county', 'condado', 7.2681564, -10.3814771),
+(3040, 'Grand Bassa', 'Grand Bassa', 123, 'LR', 'GB', 'county', 'condado', 6.1640621, -9.895669),
+(3036, 'Grand Cape Mount', 'Grand Cape Mount', 123, 'LR', 'CM', 'county', 'condado', 7.0496206, -11.129843),
+(3039, 'Grand Gedeh', 'Grand Gedeh', 123, 'LR', 'GG', 'county', 'condado', 5.8161533, -8.0995537),
+(3045, 'Grand Kru', 'Grand crew', 123, 'LR', 'GK', 'county', 'condado', 4.84932, -8.3308845),
+(3037, 'Lofa', 'Applaud', 123, 'LR', 'LO', 'county', 'condado', 7.8824046, -9.9760297),
+(3043, 'Margibi', 'Margibi', 123, 'LR', 'MG', 'county', 'condado', 6.6053676, -10.1758429),
+(3042, 'Maryland', 'Maryland', 123, 'LR', 'MY', 'county', 'condado', 4.6355376, -7.7281669),
+(3032, 'Montserrado', 'Montserrado', 123, 'LR', 'MO', 'county', 'condado', 6.4095537, -10.6059403),
+(3046, 'Nimba', 'If', 123, 'LR', 'NI', 'county', 'condado', 6.8088813, -8.7461448),
+(3033, 'River Cess', 'River Cess', 123, 'LR', 'RI', 'county', 'condado', 5.9087331, -9.3938267),
+(3038, 'River Gee', 'River Gee', 123, 'LR', 'RG', 'county', 'condado', 5.2653903, -7.8856203),
+(3035, 'Sinoe', 'SINOIE', 123, 'LR', 'SI', 'county', 'condado', 5.3232693, -8.8435955);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (66561, 'Tubmanburg', 3041, 123, 6.87064, -10.8211),

@@ -1,50 +1,50 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(14, 'Australia', 'AU', 'AUS', 'Oceania', 'Australia and New Zealand', 'Canberra', 'AUD', -27, 133, '🇦🇺'),
-(46, 'Christmas Island', 'CX', 'CXR', 'Oceania', 'Australia and New Zealand', 'Flying Fish Cove', 'AUD', -10.5, 105.66666666, '🇨🇽'),
-(47, 'Cocos (Keeling) Islands', 'CC', 'CCK', 'Oceania', 'Australia and New Zealand', 'West Island', 'AUD', -12.5, 96.83333333, '🇨🇨'),
-(158, 'New Zealand', 'NZ', 'NZL', 'Oceania', 'Australia and New Zealand', 'Wellington', 'NZD', -41, 174, '🇳🇿'),
-(163, 'Norfolk Island', 'NF', 'NFK', 'Oceania', 'Australia and New Zealand', 'Kingston', 'AUD', -29.03333333, 167.95, '🇳🇫');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(14, 'Australia', 'Australia', 'AU', 'AUS', 'Oceania', 'Oceanía', 'Australia and New Zealand', 'Australia y Nueva Zelanda', 'Canberra', 'AUD', -27, 133, '🇦🇺'),
+(46, 'Christmas Island', 'Isla de Navidad', 'CX', 'CXR', 'Oceania', 'Oceanía', 'Australia and New Zealand', 'Australia y Nueva Zelanda', 'Flying Fish Cove', 'AUD', -10.5, 105.66666666, '🇨🇽'),
+(47, 'Cocos (Keeling) Islands', 'Islas Cocos o Islas Keeling', 'CC', 'CCK', 'Oceania', 'Oceanía', 'Australia and New Zealand', 'Australia y Nueva Zelanda', 'West Island', 'AUD', -12.5, 96.83333333, '🇨🇨'),
+(158, 'New Zealand', 'Nueva Zelanda', 'NZ', 'NZL', 'Oceania', 'Oceanía', 'Australia and New Zealand', 'Australia y Nueva Zelanda', 'Wellington', 'NZD', -41, 174, '🇳🇿'),
+(163, 'Norfolk Island', 'Isla de Norfolk', 'NF', 'NFK', 'Oceania', 'Oceanía', 'Australia and New Zealand', 'Australia y Nueva Zelanda', 'Kingston', 'AUD', -29.03333333, 167.95, '🇳🇫');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3907, 'Australian Capital Territory', 14, 'AU', 'ACT', 'territory', -35.4883502, 149.0026942),
-(3909, 'New South Wales', 14, 'AU', 'NSW', 'state', -31.8759835, 147.2869493),
-(3910, 'Northern Territory', 14, 'AU', 'NT', 'territory', -19.8516101, 133.2303375),
-(3905, 'Queensland', 14, 'AU', 'QLD', 'state', -22.1646782, 144.5844903),
-(3904, 'South Australia', 14, 'AU', 'SA', 'state', -30.5343665, 135.6301212),
-(3908, 'Tasmania', 14, 'AU', 'TAS', 'state', -42.035067, 146.6366887),
-(3903, 'Victoria', 14, 'AU', 'VIC', 'state', -36.5986096, 144.6780052),
-(3906, 'Western Australia', 14, 'AU', 'WA', 'state', -25.2303005, 121.0187246),
-(4072, 'Auckland', 158, 'NZ', 'AUK', 'region', -36.852095, 174.7631803),
-(4074, 'Bay of Plenty', 158, 'NZ', 'BOP', 'region', -37.4969185, 176.9228349),
-(4066, 'Canterbury', 158, 'NZ', 'CAN', 'region', -43.4941762, 171.8098448),
-(4067, 'Chatham Islands', 158, 'NZ', 'CIT', 'special island authority', -43.917534, -176.18734),
-(4068, 'Gisborne', 158, 'NZ', 'GIS', 'region', -38.1532287, 178.1367524),
-(4075, 'Hawke''s Bay', 158, 'NZ', 'HKB', 'region', -39.5256512, 176.7611457),
-(4060, 'Manawatu-Whanganui', 158, 'NZ', 'MWT', 'region', -39.6407734, 175.5713557),
-(4063, 'Marlborough', 158, 'NZ', 'MBH', 'region', -41.4744747, 173.8330263),
-(4070, 'Nelson', 158, 'NZ', 'NSN', 'region', -41.2710849, 173.2836756),
-(4059, 'Northland', 158, 'NZ', 'NTL', 'region', -35.3755091, 173.9470106),
-(4062, 'Otago', 158, 'NZ', 'OTA', 'region', -45.3975053, 170.1778918),
-(4071, 'Southland', 158, 'NZ', 'STL', 'region', -45.9254266, 167.6068483),
-(4069, 'Taranaki', 158, 'NZ', 'TKI', 'region', -39.3848064, 174.1973505),
-(4073, 'Tasman', 158, 'NZ', 'TAS', 'region', -41.302221, 172.8945319),
-(4061, 'Waikato', 158, 'NZ', 'WKO', 'region', -37.7792272, 175.2010324),
-(4065, 'Wellington', 158, 'NZ', 'WGN', 'region', -41.2235474, 175.4157576),
-(4064, 'West Coast', 158, 'NZ', 'WTC', 'region', -42.5638896, 171.452334);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3907, 'Australian Capital Territory', 'Australian Capital Territory', 14, 'AU', 'ACT', 'territory', 'territorio', -35.4883502, 149.0026942),
+(3909, 'New South Wales', 'New South Wales', 14, 'AU', 'NSW', 'state', 'estado', -31.8759835, 147.2869493),
+(3910, 'Northern Territory', 'Northern Territory', 14, 'AU', 'NT', 'territory', 'territorio', -19.8516101, 133.2303375),
+(3905, 'Queensland', 'Queensland', 14, 'AU', 'QLD', 'state', 'estado', -22.1646782, 144.5844903),
+(3904, 'South Australia', 'South Australia', 14, 'AU', 'SA', 'state', 'estado', -30.5343665, 135.6301212),
+(3908, 'Tasmania', 'Tasmania', 14, 'AU', 'TAS', 'state', 'estado', -42.035067, 146.6366887),
+(3903, 'Victoria', 'Victoria', 14, 'AU', 'VIC', 'state', 'estado', -36.5986096, 144.6780052),
+(3906, 'Western Australia', 'Western Australia', 14, 'AU', 'WA', 'state', 'estado', -25.2303005, 121.0187246),
+(4072, 'Auckland', 'Auckland', 158, 'NZ', 'AUK', 'region', 'región', -36.852095, 174.7631803),
+(4074, 'Bay of Plenty', 'Bay of Plenty', 158, 'NZ', 'BOP', 'region', 'región', -37.4969185, 176.9228349),
+(4066, 'Canterbury', 'Canterbury', 158, 'NZ', 'CAN', 'region', 'región', -43.4941762, 171.8098448),
+(4067, 'Chatham Islands', 'Chatham Islands', 158, 'NZ', 'CIT', 'special island authority', 'autoridad insular especial', -43.917534, -176.18734),
+(4068, 'Gisborne', 'Gisborne', 158, 'NZ', 'GIS', 'region', 'región', -38.1532287, 178.1367524),
+(4075, 'Hawke''s Bay', 'Hawke''s Bay', 158, 'NZ', 'HKB', 'region', 'región', -39.5256512, 176.7611457),
+(4060, 'Manawatu-Whanganui', 'Manawatu-Wanganui', 158, 'NZ', 'MWT', 'region', 'región', -39.6407734, 175.5713557),
+(4063, 'Marlborough', 'Marlborough', 158, 'NZ', 'MBH', 'region', 'región', -41.4744747, 173.8330263),
+(4070, 'Nelson', 'Nelson', 158, 'NZ', 'NSN', 'region', 'región', -41.2710849, 173.2836756),
+(4059, 'Northland', 'Northland', 158, 'NZ', 'NTL', 'region', 'región', -35.3755091, 173.9470106),
+(4062, 'Otago', 'Otago', 158, 'NZ', 'OTA', 'region', 'región', -45.3975053, 170.1778918),
+(4071, 'Southland', 'Southland', 158, 'NZ', 'STL', 'region', 'región', -45.9254266, 167.6068483),
+(4069, 'Taranaki', 'Taranaki', 158, 'NZ', 'TKI', 'region', 'región', -39.3848064, 174.1973505),
+(4073, 'Tasman', 'Tasman', 158, 'NZ', 'TAS', 'region', 'región', -41.302221, 172.8945319),
+(4061, 'Waikato', 'Waikato', 158, 'NZ', 'WKO', 'region', 'región', -37.7792272, 175.2010324),
+(4065, 'Wellington', 'Wellington', 158, 'NZ', 'WGN', 'region', 'región', -41.2235474, 175.4157576),
+(4064, 'West Coast', 'West Coast', 158, 'NZ', 'WTC', 'region', 'región', -42.5638896, 171.452334);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (3915, 'Acton', 3907, 14, -35.27767, 149.11829),

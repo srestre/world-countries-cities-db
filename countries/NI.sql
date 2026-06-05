@@ -1,38 +1,38 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(159, 'Nicaragua', 'NI', 'NIC', 'Americas', 'Central America', 'Managua', 'NIO', 13, -85, '🇳🇮');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(159, 'Nicaragua', 'Nicaragua', 'NI', 'NIC', 'Americas', 'América', 'Central America', 'Centroamérica', 'Managua', 'NIO', 13, -85, '🇳🇮');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(946, 'Boaco', 159, 'NI', 'BO', 'department', 12.469284, -85.6614682),
-(950, 'Carazo', 159, 'NI', 'CA', 'department', 11.6619985, -86.3125697),
-(954, 'Chinandega', 159, 'NI', 'CI', 'department', 12.7777962, -87.269584),
-(940, 'Chontales', 159, 'NI', 'CO', 'department', 11.9876753, -85.1860798),
-(945, 'Estelí', 159, 'NI', 'ES', 'department', 13.0931241, -86.3554436),
-(943, 'Granada', 159, 'NI', 'GR', 'department', 11.9344073, -85.9560005),
-(955, 'Jinotega', 159, 'NI', 'JI', 'department', 13.0883907, -85.9993997),
-(944, 'León', 159, 'NI', 'LE', 'department', 12.5092037, -86.6611083),
-(948, 'Madriz', 159, 'NI', 'MD', 'department', 13.4272871, -86.401622),
-(941, 'Managua', 159, 'NI', 'MN', 'department', 12.1080585, -86.3505808),
-(953, 'Masaya', 159, 'NI', 'MS', 'department', 11.9736474, -86.0960547),
-(947, 'Matagalpa', 159, 'NI', 'MT', 'department', 12.940323, -85.6960942),
-(951, 'North Caribbean Coast', 159, 'NI', 'AN', 'autonomous region', 14.0557499, -83.7475765),
-(4964, 'Nueva Segovia', 159, 'NI', 'NS', 'department', 13.7719023, -86.0584542),
-(949, 'Río San Juan', 159, 'NI', 'SJ', 'department', 11.3080026, -84.7550693),
-(942, 'Rivas', 159, 'NI', 'RI', 'department', 11.3434687, -85.7159624),
-(952, 'South Caribbean Coast', 159, 'NI', 'AS', 'autonomous region', 12.1793275, -83.7774051);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(946, 'Boaco', 'Reno', 159, 'NI', 'BO', 'department', 'departamento', 12.469284, -85.6614682),
+(950, 'Carazo', 'Carazo', 159, 'NI', 'CA', 'department', 'departamento', 11.6619985, -86.3125697),
+(954, 'Chinandega', 'Chinandega', 159, 'NI', 'CI', 'department', 'departamento', 12.7777962, -87.269584),
+(940, 'Chontales', 'Chontales', 159, 'NI', 'CO', 'department', 'departamento', 11.9876753, -85.1860798),
+(945, 'Estelí', 'Estelí', 159, 'NI', 'ES', 'department', 'departamento', 13.0931241, -86.3554436),
+(943, 'Granada', 'Granada', 159, 'NI', 'GR', 'department', 'departamento', 11.9344073, -85.9560005),
+(955, 'Jinotega', 'Jinotega', 159, 'NI', 'JI', 'department', 'departamento', 13.0883907, -85.9993997),
+(944, 'León', 'León', 159, 'NI', 'LE', 'department', 'departamento', 12.5092037, -86.6611083),
+(948, 'Madriz', 'Madriz', 159, 'NI', 'MD', 'department', 'departamento', 13.4272871, -86.401622),
+(941, 'Managua', 'Gerencia', 159, 'NI', 'MN', 'department', 'departamento', 12.1080585, -86.3505808),
+(953, 'Masaya', 'Es divertido', 159, 'NI', 'MS', 'department', 'departamento', 11.9736474, -86.0960547),
+(947, 'Matagalpa', 'Matagalpa', 159, 'NI', 'MT', 'department', 'departamento', 12.940323, -85.6960942),
+(951, 'North Caribbean Coast', 'Costa del Caribe del Norte', 159, 'NI', 'AN', 'autonomous region', 'región autónoma', 14.0557499, -83.7475765),
+(4964, 'Nueva Segovia', 'Nueva Segovia', 159, 'NI', 'NS', 'department', 'departamento', 13.7719023, -86.0584542),
+(949, 'Río San Juan', 'Río San Juan', 159, 'NI', 'SJ', 'department', 'departamento', 11.3080026, -84.7550693),
+(942, 'Rivas', 'Rivas', 159, 'NI', 'RI', 'department', 'departamento', 11.3434687, -85.7159624),
+(952, 'South Caribbean Coast', 'Costa del Caribe del Sur', 159, 'NI', 'AS', 'autonomous region', 'región autónoma', 12.1793275, -83.7774051);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (77159, 'Boaco', 946, 159, 12.47224, -85.6586),

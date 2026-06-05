@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".mx"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 23
   longitude: -102
   emoji: "🇲🇽"
   states:
     -
       name: "Aguascalientes"
+      native: "Aguascalientes"
       code: "AGU"
       iso3166_2: "MX-AGU"
       type: "state"
+      type_es: "estado"
       latitude: 21.8852562
       longitude: -102.2915677
       cities:
@@ -391,9 +395,11 @@
           longitude: -102.18778
     -
       name: "Baja California"
+      native: "Baja California"
       code: "BCN"
       iso3166_2: "MX-BCN"
       type: "state"
+      type_es: "estado"
       latitude: 30.0338923
       longitude: -115.1425107
       cities:
@@ -779,9 +785,11 @@
           longitude: -115.54667
     -
       name: "Baja California Sur"
+      native: "Baja California Sur"
       code: "BCS"
       iso3166_2: "MX-BCS"
       type: "state"
+      type_es: "estado"
       latitude: 25.5818014
       longitude: -111.5706164
       cities:
@@ -911,9 +919,11 @@
           longitude: -111.62806
     -
       name: "Campeche"
+      native: "Campeche"
       code: "CAM"
       iso3166_2: "MX-CAM"
       type: "state"
+      type_es: "estado"
       latitude: 19.8381215
       longitude: -90.5198253
       cities:
@@ -1211,9 +1221,11 @@
           longitude: -89.41714
     -
       name: "Chiapas"
+      native: "Chiapas"
       code: "CHP"
       iso3166_2: "MX-CHP"
       type: "state"
+      type_es: "estado"
       latitude: 16.5000001
       longitude: -92.5000001
       cities:
@@ -3355,9 +3367,11 @@
           longitude: -92.72257
     -
       name: "Chihuahua"
+      native: "Chihuahua"
       code: "CHH"
       iso3166_2: "MX-CHH"
       type: "state"
+      type_es: "estado"
       latitude: 28.6329957
       longitude: -106.0691004
       cities:
@@ -3955,9 +3969,11 @@
           longitude: -108.92781
     -
       name: "Ciudad de México"
+      native: "Ciudad de México"
       code: "CMX"
       iso3166_2: "MX-CMX"
       type: "federal district"
+      type_es: "distrito federal"
       latitude: 19.4326077
       longitude: -99.133208
       cities:
@@ -4115,9 +4131,11 @@
           longitude: -99.10356
     -
       name: "Coahuila de Zaragoza"
+      native: "Coahuila de Zaragoza"
       code: "COA"
       iso3166_2: "MX-COA"
       type: "state"
+      type_es: "estado"
       latitude: 27.3333331
       longitude: -102.0000001
       cities:
@@ -4567,9 +4585,11 @@
           longitude: -100.9223
     -
       name: "Colima"
+      native: "Colima"
       code: "COL"
       iso3166_2: "MX-COL"
       type: "state"
+      type_es: "estado"
       latitude: 19.2452342
       longitude: -103.7240868
       cities:
@@ -4711,9 +4731,11 @@
           longitude: -103.82433
     -
       name: "Durango"
+      native: "Durango"
       code: "DUR"
       iso3166_2: "MX-DUR"
       type: "state"
+      type_es: "estado"
       latitude: 24.833333
       longitude: -104.833333
       cities:
@@ -5247,9 +5269,11 @@
           longitude: -104.04705
     -
       name: "Estado de México"
+      native: "Estado de México"
       code: "MEX"
       iso3166_2: "MX-MEX"
       type: "state"
+      type_es: "estado"
       latitude: 19.4839446
       longitude: -99.6899716
       cities:
@@ -9015,9 +9039,11 @@
           longitude: -99.09946
     -
       name: "Guanajuato"
+      native: "Guanajuato"
       code: "GUA"
       iso3166_2: "MX-GUA"
       type: "state"
+      type_es: "estado"
       latitude: 21.0190145
       longitude: -101.2573586
       cities:
@@ -10927,9 +10953,11 @@
           longitude: -101.24795
     -
       name: "Guerrero"
+      native: "Guerrero"
       code: "GRO"
       iso3166_2: "MX-GRO"
       type: "state"
+      type_es: "estado"
       latitude: 17.666667
       longitude: -100
       cities:
@@ -12667,9 +12695,11 @@
           longitude: -99.52725
     -
       name: "Hidalgo"
+      native: "Hidalgo"
       code: "HID"
       iso3166_2: "MX-HID"
       type: "state"
+      type_es: "estado"
       latitude: 24.1685545
       longitude: -99.3873729
       cities:
@@ -14343,9 +14373,11 @@
           longitude: -98.51094
     -
       name: "Jalisco"
+      native: "Jalisco"
       code: "JAL"
       iso3166_2: "MX-JAL"
       type: "state"
+      type_es: "estado"
       latitude: 20.3333331
       longitude: -103.6666671
       cities:
@@ -17619,9 +17651,11 @@
           longitude: -102.72816
     -
       name: "Michoacán de Ocampo"
+      native: "Michoacán de Ocampo"
       code: "MIC"
       iso3166_2: "MX-MIC"
       type: "state"
+      type_es: "estado"
       latitude: 19.207098
       longitude: -101.878113
       cities:
@@ -19395,9 +19429,11 @@
           longitude: -101.01113
     -
       name: "Morelos"
+      native: "Morelos"
       code: "MOR"
       iso3166_2: "MX-MOR"
       type: "state"
+      type_es: "estado"
       latitude: 18.75
       longitude: -99
       cities:
@@ -20415,9 +20451,11 @@
           longitude: -99.64405
     -
       name: "Nayarit"
+      native: "Nayarit"
       code: "NAY"
       iso3166_2: "MX-NAY"
       type: "state"
+      type_es: "estado"
       latitude: 22.0000001
       longitude: -105.0000001
       cities:
@@ -20895,9 +20933,11 @@
           longitude: -104.60899
     -
       name: "Nuevo León"
+      native: "Nuevo León"
       code: "NLE"
       iso3166_2: "MX-NLE"
       type: "state"
+      type_es: "estado"
       latitude: 26.2384363
       longitude: -99.8873
       cities:
@@ -21883,9 +21923,11 @@
           longitude: -100.18528
     -
       name: "Oaxaca"
+      native: "Oaxaca"
       code: "OAX"
       iso3166_2: "MX-OAX"
       type: "state"
+      type_es: "estado"
       latitude: 17
       longitude: -96.5
       cities:
@@ -24667,9 +24709,11 @@
           longitude: -96.58917
     -
       name: "Puebla"
+      native: "Puebla"
       code: "PUE"
       iso3166_2: "MX-PUE"
       type: "state"
+      type_es: "estado"
       latitude: 19.0414398
       longitude: -98.2062727
       cities:
@@ -27715,9 +27759,11 @@
           longitude: -97.56934
     -
       name: "Querétaro"
+      native: "Querétaro"
       code: "QUE"
       iso3166_2: "MX-QUE"
       type: "state"
+      type_es: "estado"
       latitude: 20.5887932
       longitude: -100.3898881
       cities:
@@ -28531,9 +28577,11 @@
           longitude: -100.11797
     -
       name: "Quintana Roo"
+      native: "Quintana Roo"
       code: "ROO"
       iso3166_2: "MX-ROO"
       type: "state"
+      type_es: "estado"
       latitude: 19.6666671
       longitude: -88.5000001
       cities:
@@ -28795,9 +28843,11 @@
           longitude: -86.85361
     -
       name: "San Luis Potosí"
+      native: "San Luis Potosí"
       code: "SLP"
       iso3166_2: "MX-SLP"
       type: "state"
+      type_es: "estado"
       latitude: 22.1516472
       longitude: -100.9763993
       cities:
@@ -29511,9 +29561,11 @@
           longitude: -98.92139
     -
       name: "Sinaloa"
+      native: "Sinaloa"
       code: "SIN"
       iso3166_2: "MX-SIN"
       type: "state"
+      type_es: "estado"
       latitude: 25.0000001
       longitude: -107.5000001
       cities:
@@ -30399,9 +30451,11 @@
           longitude: -106.21947
     -
       name: "Sonora"
+      native: "Sonora"
       code: "SON"
       iso3166_2: "MX-SON"
       type: "state"
+      type_es: "estado"
       latitude: 29.3333331
       longitude: -110.6666671
       cities:
@@ -31047,9 +31101,11 @@
           longitude: -109.52103
     -
       name: "Tabasco"
+      native: "Tabasco"
       code: "TAB"
       iso3166_2: "MX-TAB"
       type: "state"
+      type_es: "estado"
       latitude: 17.9999288
       longitude: -92.6681659
       cities:
@@ -31911,9 +31967,11 @@
           longitude: -92.70474
     -
       name: "Tamaulipas"
+      native: "Tamaulipas"
       code: "TAM"
       iso3166_2: "MX-TAM"
       type: "state"
+      type_es: "estado"
       latitude: 23.9891553
       longitude: -98.7026825
       cities:
@@ -32359,9 +32417,11 @@
           longitude: -98.94218
     -
       name: "Tlaxcala"
+      native: "Tlaxcala"
       code: "TLA"
       iso3166_2: "MX-TLA"
       type: "state"
+      type_es: "estado"
       latitude: 19.318154
       longitude: -98.2374954
       cities:
@@ -32983,9 +33043,11 @@
           longitude: -98.22407
     -
       name: "Veracruz de Ignacio de la Llave"
+      native: "Veracruz de Ignacio de la Llave"
       code: "VER"
       iso3166_2: "MX-VER"
       type: "state"
+      type_es: "estado"
       latitude: 19.333333
       longitude: -96.666667
       cities:
@@ -36043,9 +36105,11 @@
           longitude: -97.57567
     -
       name: "Yucatán"
+      native: "Yucatán"
       code: "YUC"
       iso3166_2: "MX-YUC"
       type: "state"
+      type_es: "estado"
       latitude: 20.6845957
       longitude: -88.8755669
       cities:
@@ -36851,9 +36915,11 @@
           longitude: -89.45429
     -
       name: "Zacatecas"
+      native: "Zacatecas"
       code: "ZAC"
       iso3166_2: "MX-ZAC"
       type: "state"
+      type_es: "estado"
       latitude: 22.7753891
       longitude: -102.5722706
       cities:

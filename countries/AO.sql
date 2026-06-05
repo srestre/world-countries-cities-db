@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(7, 'Angola', 'AO', 'AGO', 'Africa', 'Middle Africa', 'Luanda', 'AOA', -12.5, 18.5, '🇦🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(7, 'Angola', 'Angola', 'AO', 'AGO', 'Africa', 'África', 'Middle Africa', 'África Central', 'Luanda', 'AOA', -12.5, 18.5, '🇦🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(221, 'Bengo', 7, 'AO', 'BGO', 'province', -8.3196672, 13.8656195),
-(218, 'Benguela', 7, 'AO', 'BGU', 'province', -12.9104657, 14.0356608),
-(212, 'Bié', 7, 'AO', 'BIE', 'province', -12.2630485, 17.4967812),
-(228, 'Cabinda', 7, 'AO', 'CAB', 'province', -5.056395, 12.3211749),
-(226, 'Cuando Cubango', 7, 'AO', 'CCU', 'province', -16.0457694, 19.5621532),
-(216, 'Cuanza', 7, 'AO', 'CUS', 'province', -10.7707527, 15.0975712),
-(217, 'Cuanza Norte', 7, 'AO', 'CNO', 'province', -9.0296752, 15.0926324),
-(215, 'Cunene', 7, 'AO', 'CNN', 'province', -16.5568536, 15.7867319),
-(213, 'Huambo', 7, 'AO', 'HUA', 'province', -12.6076318, 15.7411039),
-(225, 'Huíla', 7, 'AO', 'HUI', 'province', -14.6957808, 15.0976293),
-(222, 'Luanda', 7, 'AO', 'LUA', 'province', -8.8315747, 13.24797),
-(223, 'Lunda Norte', 7, 'AO', 'LNO', 'province', -8.5088253, 19.7538618),
-(220, 'Lunda Sul', 7, 'AO', 'LSU', 'province', -10.1473779, 20.9907756),
-(227, 'Malanje', 7, 'AO', 'MAL', 'province', -9.535332, 16.9364293),
-(219, 'Moxico', 7, 'AO', 'MOX', 'province', -12.7287195, 21.2737637),
-(5469, 'Namibe', 7, 'AO', 'NAM', 'province', -15.2, 12.15),
-(224, 'Uíge', 7, 'AO', 'UIG', 'province', -6.9516802, 15.4799164),
-(214, 'Zaire', 7, 'AO', 'ZAI', 'province', -6.6925131, 13.5293029);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(221, 'Bengo', 'Porta-malas', 7, 'AO', 'BGO', 'province', 'provincia', -8.3196672, 13.8656195),
+(218, 'Benguela', 'Benguela', 7, 'AO', 'BGU', 'province', 'provincia', -12.9104657, 14.0356608),
+(212, 'Bié', 'Bié', 7, 'AO', 'BIE', 'province', 'provincia', -12.2630485, 17.4967812),
+(228, 'Cabinda', 'Cabinda', 7, 'AO', 'CAB', 'province', 'provincia', -5.056395, 12.3211749),
+(226, 'Cuando Cubango', 'Quando Cubango', 7, 'AO', 'CCU', 'province', 'provincia', -16.0457694, 19.5621532),
+(216, 'Cuanza', 'Quanza', 7, 'AO', 'CUS', 'province', 'provincia', -10.7707527, 15.0975712),
+(217, 'Cuanza Norte', 'Cuanza Norte', 7, 'AO', 'CNO', 'province', 'provincia', -9.0296752, 15.0926324),
+(215, 'Cunene', 'Cunene', 7, 'AO', 'CNN', 'province', 'provincia', -16.5568536, 15.7867319),
+(213, 'Huambo', 'Huambo', 7, 'AO', 'HUA', 'province', 'provincia', -12.6076318, 15.7411039),
+(225, 'Huíla', 'Huíla', 7, 'AO', 'HUI', 'province', 'provincia', -14.6957808, 15.0976293),
+(222, 'Luanda', 'Luanda', 7, 'AO', 'LUA', 'province', 'provincia', -8.8315747, 13.24797),
+(223, 'Lunda Norte', 'Lunda Norte', 7, 'AO', 'LNO', 'province', 'provincia', -8.5088253, 19.7538618),
+(220, 'Lunda Sul', 'Lunda Sul', 7, 'AO', 'LSU', 'province', 'provincia', -10.1473779, 20.9907756),
+(227, 'Malanje', 'Malanje', 7, 'AO', 'MAL', 'province', 'provincia', -9.535332, 16.9364293),
+(219, 'Moxico', 'Moxico', 7, 'AO', 'MOX', 'province', 'provincia', -12.7287195, 21.2737637),
+(5469, 'Namibe', 'Namibe', 7, 'AO', 'NAM', 'province', 'provincia', -15.2, 12.15),
+(224, 'Uíge', 'Uíge', 7, 'AO', 'UIG', 'province', 'provincia', -6.9516802, 15.4799164),
+(214, 'Zaire', 'Zaire', 7, 'AO', 'ZAI', 'province', 'provincia', -6.6925131, 13.5293029);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (153645, 'Ambriz', 221, 7, -7.8574, 13.1251),

@@ -12,52 +12,64 @@
   currency_symbol: "CFA"
   tld: ".bf"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 13
   longitude: -2
   emoji: "🇧🇫"
   states:
     -
       name: "Balé"
+      native: "Ballet"
       code: "BAL"
       iso3166_2: "BF-BAL"
       type: "province"
+      type_es: "provincia"
       latitude: 11.658145
       longitude: -3.0541022
       cities:
         []
     -
       name: "Bam"
+      native: "Bam"
       code: "BAM"
       iso3166_2: "BF-BAM"
       type: "province"
+      type_es: "provincia"
       latitude: 13.468115
       longitude: -1.5986637
       cities:
         []
     -
       name: "Banwa"
+      native: "Banwa"
       code: "BAN"
       iso3166_2: "BF-BAN"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2265568
       longitude: -4.1913344
       cities:
         []
     -
       name: "Bazèga"
+      native: "Bazèga"
       code: "BAZ"
       iso3166_2: "BF-BAZ"
       type: "province"
+      type_es: "provincia"
       latitude: 11.8922276
       longitude: -1.4593762
       cities:
         []
     -
       name: "Boucle du Mouhoun"
+      native: "Boucle du Mouhoun"
       code: "01"
       iso3166_2: "BF-01"
       type: "region"
+      type_es: "región"
       latitude: 12.4777805
       longitude: -3.5879571
       cities:
@@ -115,36 +127,44 @@
           longitude: -3.0694
     -
       name: "Bougouriba"
+      native: "Bougouriba"
       code: "BGR"
       iso3166_2: "BF-BGR"
       type: "province"
+      type_es: "provincia"
       latitude: 10.8820933
       longitude: -3.4306631
       cities:
         []
     -
       name: "Boulgou"
+      native: "Boulgou"
       code: "BLG"
       iso3166_2: "BF-BLG"
       type: "province"
+      type_es: "provincia"
       latitude: 11.464625
       longitude: -0.4089101
       cities:
         []
     -
       name: "Boulkiemde"
+      native: "Boulkiemde"
       code: "BLK"
       iso3166_2: "BF-BLK"
       type: "province"
+      type_es: "provincia"
       latitude: 12.293712
       longitude: -2.1041312
       cities:
         []
     -
       name: "Cascades"
+      native: "Cascades"
       code: "02"
       iso3166_2: "BF-02"
       type: "region"
+      type_es: "región"
       latitude: 10.3071812
       longitude: -4.4351893
       cities:
@@ -166,9 +186,11 @@
           longitude: -5.16667
     -
       name: "Centre"
+      native: "Centre"
       code: "03"
       iso3166_2: "BF-03"
       type: "region"
+      type_es: "región"
       latitude: 12.36732
       longitude: -1.5430869
       cities:
@@ -182,9 +204,11 @@
           longitude: -1.53388
     -
       name: "Centre-Est"
+      native: "Centre-Est"
       code: "04"
       iso3166_2: "BF-04"
       type: "region"
+      type_es: "región"
       latitude: 11.734933
       longitude: -0.2921056
       cities:
@@ -218,9 +242,11 @@
           longitude: -0.36972
     -
       name: "Centre-Nord"
+      native: "Centre-Nord"
       code: "05"
       iso3166_2: "BF-05"
       type: "region"
+      type_es: "región"
       latitude: 13.23871
       longitude: -1.0349832
       cities:
@@ -250,9 +276,11 @@
           longitude: -1.08333
     -
       name: "Centre-Ouest"
+      native: "Centre-Ouest"
       code: "06"
       iso3166_2: "BF-06"
       type: "region"
+      type_es: "región"
       latitude: 11.9067933
       longitude: -2.3044801
       cities:
@@ -302,9 +330,11 @@
           longitude: -1.77361
     -
       name: "Centre-Sud"
+      native: "Centre-Sud"
       code: "07"
       iso3166_2: "BF-07"
       type: "region"
+      type_es: "región"
       latitude: 11.5833646
       longitude: -1.0556301
       cities:
@@ -334,18 +364,22 @@
           longitude: -1
     -
       name: "Comoé"
+      native: "Comoé"
       code: "COM"
       iso3166_2: "BF-COM"
       type: "province"
+      type_es: "provincia"
       latitude: 10.2419897
       longitude: -4.4268875
       cities:
         []
     -
       name: "Est"
+      native: "Est"
       code: "08"
       iso3166_2: "BF-08"
       type: "region"
+      type_es: "región"
       latitude: 12.2527495
       longitude: 0.8736106
       cities:
@@ -391,36 +425,44 @@
           longitude: 0.5
     -
       name: "Ganzourgou"
+      native: "Ganzourgou"
       code: "GAN"
       iso3166_2: "BF-GAN"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2899154
       longitude: -0.8083429
       cities:
         []
     -
       name: "Gnagna"
+      native: "Gnagne"
       code: "GNA"
       iso3166_2: "BF-GNA"
       type: "province"
+      type_es: "provincia"
       latitude: 12.9154574
       longitude: -0.0659562
       cities:
         []
     -
       name: "Gourma"
+      native: "Gourma"
       code: "GOU"
       iso3166_2: "BF-GOU"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2278267
       longitude: 0.5472078
       cities:
         []
     -
       name: "Hauts-Bassins"
+      native: "Hauts-Bassins"
       code: "09"
       iso3166_2: "BF-09"
       type: "region"
+      type_es: "región"
       latitude: 11.3890275
       longitude: -4.041365
       cities:
@@ -446,153 +488,187 @@
           longitude: -3.41667
     -
       name: "Houet"
+      native: "Houetter"
       code: "HOU"
       iso3166_2: "BF-HOU"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3851056
       longitude: -4.3273643
       cities:
         []
     -
       name: "Ioba"
+      native: "Emploi"
       code: "IOB"
       iso3166_2: "BF-IOB"
       type: "province"
+      type_es: "provincia"
       latitude: 11.0343187
       longitude: -2.9627761
       cities:
         []
     -
       name: "Kadiogo"
+      native: "Kadiogo"
       code: "KAD"
       iso3166_2: "BF-KAD"
       type: "province"
+      type_es: "provincia"
       latitude: 12.36732
       longitude: -1.5430869
       cities:
         []
     -
       name: "Kénédougou"
+      native: "Kénédougou"
       code: "KEN"
       iso3166_2: "BF-KEN"
       type: "province"
+      type_es: "provincia"
       latitude: 11.403998
       longitude: -4.9851028
       cities:
         []
     -
       name: "Komondjari"
+      native: "Komondjari"
       code: "KMD"
       iso3166_2: "BF-KMD"
       type: "province"
+      type_es: "provincia"
       latitude: 12.7269113
       longitude: 0.7047083
       cities:
         []
     -
       name: "Kompienga"
+      native: "Kompieng"
       code: "KMP"
       iso3166_2: "BF-KMP"
       type: "province"
+      type_es: "provincia"
       latitude: 11.4487592
       longitude: 0.9770378
       cities:
         []
     -
       name: "Kossi"
+      native: "Baiser"
       code: "KOS"
       iso3166_2: "BF-KOS"
       type: "province"
+      type_es: "provincia"
       latitude: 12.9593346
       longitude: -3.8436797
       cities:
         []
     -
       name: "Koulpélogo"
+      native: "Koulpélogo"
       code: "KOP"
       iso3166_2: "BF-KOP"
       type: "province"
+      type_es: "provincia"
       latitude: 11.4153137
       longitude: 0.149899
       cities:
         []
     -
       name: "Kouritenga"
+      native: "Baril"
       code: "KOT"
       iso3166_2: "BF-KOT"
       type: "province"
+      type_es: "provincia"
       latitude: 12.185035
       longitude: -0.244848
       cities:
         []
     -
       name: "Kourwéogo"
+      native: "Kourwéogo"
       code: "KOW"
       iso3166_2: "BF-KOW"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6004222
       longitude: -1.7598561
       cities:
         []
     -
       name: "Léraba"
+      native: "Trib"
       code: "LER"
       iso3166_2: "BF-LER"
       type: "province"
+      type_es: "provincia"
       latitude: 10.6520035
       longitude: -5.2116858
       cities:
         []
     -
       name: "Loroum"
+      native: "Loroum"
       code: "LOR"
       iso3166_2: "BF-LOR"
       type: "province"
+      type_es: "provincia"
       latitude: 13.9463767
       longitude: -2.10554
       cities:
         []
     -
       name: "Mouhoun"
+      native: "Mouhoun"
       code: "MOU"
       iso3166_2: "BF-MOU"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2367475
       longitude: -3.3387562
       cities:
         []
     -
       name: "Nahouri"
+      native: "Nahite"
       code: "NAO"
       iso3166_2: "BF-NAO"
       type: "province"
+      type_es: "provincia"
       latitude: 11.2545114
       longitude: -1.2699821
       cities:
         []
     -
       name: "Namentenga"
+      native: "Namenga"
       code: "NAM"
       iso3166_2: "BF-NAM"
       type: "province"
+      type_es: "provincia"
       latitude: 13.23672
       longitude: -0.4819343
       cities:
         []
     -
       name: "Nayala"
+      native: "Nayala"
       code: "NAY"
       iso3166_2: "BF-NAY"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6601866
       longitude: -2.9891153
       cities:
         []
     -
       name: "Nord"
+      native: "Nord"
       code: "10"
       iso3166_2: "BF-10"
       type: "region"
+      type_es: "región"
       latitude: 13.45911
       longitude: -2.2496367
       cities:
@@ -630,45 +706,55 @@
           longitude: -2.26075
     -
       name: "Noumbiel"
+      native: "Noumbiel"
       code: "NOU"
       iso3166_2: "BF-NOU"
       type: "province"
+      type_es: "provincia"
       latitude: 9.7967453
       longitude: -2.9265543
       cities:
         []
     -
       name: "Oubritenga"
+      native: "Ouutanga"
       code: "OUB"
       iso3166_2: "BF-OUB"
       type: "province"
+      type_es: "provincia"
       latitude: 12.59701
       longitude: -1.252231
       cities:
         []
     -
       name: "Oudalan"
+      native: "Oudalan"
       code: "OUD"
       iso3166_2: "BF-OUD"
       type: "province"
+      type_es: "provincia"
       latitude: 14.6253063
       longitude: -0.3333471
       cities:
         []
     -
       name: "Passoré"
+      native: "Passoré"
       code: "PAS"
       iso3166_2: "BF-PAS"
       type: "province"
+      type_es: "provincia"
       latitude: 12.8777
       longitude: -2.2944905
       cities:
         []
     -
       name: "Plateau-Central"
+      native: "Plateau-central"
       code: "11"
       iso3166_2: "BF-11"
       type: "region"
+      type_es: "región"
       latitude: 12.40414
       longitude: -0.886416
       cities:
@@ -698,18 +784,22 @@
           longitude: -0.61527
     -
       name: "Poni"
+      native: "Violet"
       code: "PON"
       iso3166_2: "BF-PON"
       type: "province"
+      type_es: "provincia"
       latitude: 10.3085943
       longitude: -3.3016811
       cities:
         []
     -
       name: "Sahel"
+      native: "Sahel"
       code: "12"
       iso3166_2: "BF-12"
       type: "region"
+      type_es: "región"
       latitude: 14.0279165
       longitude: -0.7717776
       cities:
@@ -743,63 +833,77 @@
           longitude: 0.58333
     -
       name: "Sanguié"
+      native: "Sangué"
       code: "SNG"
       iso3166_2: "BF-SNG"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2101561
       longitude: -2.6421059
       cities:
         []
     -
       name: "Sanmatenga"
+      native: "Sanmatenga"
       code: "SMT"
       iso3166_2: "BF-SMT"
       type: "province"
+      type_es: "provincia"
       latitude: 13.2405448
       longitude: -0.9747023
       cities:
         []
     -
       name: "Séno"
+      native: "Keno"
       code: "SEN"
       iso3166_2: "BF-SEN"
       type: "province"
+      type_es: "provincia"
       latitude: 13.99508
       longitude: -0.0992076
       cities:
         []
     -
       name: "Sissili"
+      native: "Tissuli"
       code: "SIS"
       iso3166_2: "BF-SIS"
       type: "province"
+      type_es: "provincia"
       latitude: 11.4484064
       longitude: -2.3912085
       cities:
         []
     -
       name: "Soum"
+      native: "Soum"
       code: "SOM"
       iso3166_2: "BF-SOM"
       type: "province"
+      type_es: "provincia"
       latitude: 14.2861443
       longitude: -1.3452326
       cities:
         []
     -
       name: "Sourou"
+      native: "Sourou"
       code: "SOR"
       iso3166_2: "BF-SOR"
       type: "province"
+      type_es: "provincia"
       latitude: 13.2311675
       longitude: -2.962181
       cities:
         []
     -
       name: "Sud-Ouest"
+      native: "Sud-Ouest"
       code: "13"
       iso3166_2: "BF-13"
       type: "region"
+      type_es: "región"
       latitude: 10.3869208
       longitude: -3.2831886
       cities:
@@ -833,63 +937,77 @@
           longitude: -3.41667
     -
       name: "Tapoa"
+      native: "Tapoa"
       code: "TAP"
       iso3166_2: "BF-TAP"
       type: "province"
+      type_es: "provincia"
       latitude: 12.1450627
       longitude: 1.7603025
       cities:
         []
     -
       name: "Tuy"
+      native: "Bien que"
       code: "TUI"
       iso3166_2: "BF-TUI"
       type: "province"
+      type_es: "provincia"
       latitude: 11.4495604
       longitude: -3.3787653
       cities:
         []
     -
       name: "Yagha"
+      native: "Yagha"
       code: "YAG"
       iso3166_2: "BF-YAG"
       type: "province"
+      type_es: "provincia"
       latitude: 13.4269445
       longitude: 0.6161497
       cities:
         []
     -
       name: "Yatenga"
+      native: "A pris"
       code: "YAT"
       iso3166_2: "BF-YAT"
       type: "province"
+      type_es: "provincia"
       latitude: 13.5942938
       longitude: -2.5249513
       cities:
         []
     -
       name: "Ziro"
+      native: "Zéro"
       code: "ZIR"
       iso3166_2: "BF-ZIR"
       type: "province"
+      type_es: "provincia"
       latitude: 11.675305
       longitude: -1.9146626
       cities:
         []
     -
       name: "Zondoma"
+      native: "Zondo"
       code: "ZON"
       iso3166_2: "BF-ZON"
       type: "province"
+      type_es: "provincia"
       latitude: 13.1975396
       longitude: -2.3085276
       cities:
         []
     -
       name: "Zoundwéogo"
+      native: "Zoundwéogo"
       code: "ZOU"
       iso3166_2: "BF-ZOU"
       type: "province"
+      type_es: "provincia"
       latitude: 11.5525895
       longitude: -1.0308938
       cities:

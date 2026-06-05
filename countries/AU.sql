@@ -1,29 +1,29 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(14, 'Australia', 'AU', 'AUS', 'Oceania', 'Australia and New Zealand', 'Canberra', 'AUD', -27, 133, '🇦🇺');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(14, 'Australia', 'Australia', 'AU', 'AUS', 'Oceania', 'Oceanía', 'Australia and New Zealand', 'Australia y Nueva Zelanda', 'Canberra', 'AUD', -27, 133, '🇦🇺');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3907, 'Australian Capital Territory', 14, 'AU', 'ACT', 'territory', -35.4883502, 149.0026942),
-(3909, 'New South Wales', 14, 'AU', 'NSW', 'state', -31.8759835, 147.2869493),
-(3910, 'Northern Territory', 14, 'AU', 'NT', 'territory', -19.8516101, 133.2303375),
-(3905, 'Queensland', 14, 'AU', 'QLD', 'state', -22.1646782, 144.5844903),
-(3904, 'South Australia', 14, 'AU', 'SA', 'state', -30.5343665, 135.6301212),
-(3908, 'Tasmania', 14, 'AU', 'TAS', 'state', -42.035067, 146.6366887),
-(3903, 'Victoria', 14, 'AU', 'VIC', 'state', -36.5986096, 144.6780052),
-(3906, 'Western Australia', 14, 'AU', 'WA', 'state', -25.2303005, 121.0187246);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3907, 'Australian Capital Territory', 'Australian Capital Territory', 14, 'AU', 'ACT', 'territory', 'territorio', -35.4883502, 149.0026942),
+(3909, 'New South Wales', 'New South Wales', 14, 'AU', 'NSW', 'state', 'estado', -31.8759835, 147.2869493),
+(3910, 'Northern Territory', 'Northern Territory', 14, 'AU', 'NT', 'territory', 'territorio', -19.8516101, 133.2303375),
+(3905, 'Queensland', 'Queensland', 14, 'AU', 'QLD', 'state', 'estado', -22.1646782, 144.5844903),
+(3904, 'South Australia', 'South Australia', 14, 'AU', 'SA', 'state', 'estado', -30.5343665, 135.6301212),
+(3908, 'Tasmania', 'Tasmania', 14, 'AU', 'TAS', 'state', 'estado', -42.035067, 146.6366887),
+(3903, 'Victoria', 'Victoria', 14, 'AU', 'VIC', 'state', 'estado', -36.5986096, 144.6780052),
+(3906, 'Western Australia', 'Western Australia', 14, 'AU', 'WA', 'state', 'estado', -25.2303005, 121.0187246);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (3915, 'Acton', 3907, 14, -35.27767, 149.11829),

@@ -1,27 +1,27 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(57, 'Cyprus', 'CY', 'CYP', 'Europe', 'Southern Europe', 'Nicosia', 'EUR', 35, 33, '🇨🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(57, 'Cyprus', 'Chipre', 'CY', 'CYP', 'Europe', 'Europa', 'Southern Europe', 'Europa del Sur', 'Nicosia', 'EUR', 35, 33, '🇨🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(749, 'Famagusta (Mağusa)', 57, 'CY', '04', 'district', 35.1352137, 33.9239831),
-(744, 'Kyrenia (Keryneia)', 57, 'CY', '06', 'district', 35.2951481, 33.2769155),
-(747, 'Larnaca (Larnaka)', 57, 'CY', '03', 'district', 34.8697484, 33.6092097),
-(748, 'Limassol (Leymasun)', 57, 'CY', '02', 'district', 34.6911485, 33.0078384),
-(745, 'Nicosia (Lefkoşa)', 57, 'CY', '01', 'district', 35.1565464, 33.3705626),
-(746, 'Paphos (Pafos)', 57, 'CY', '05', 'district', 34.7812978, 32.4214097);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(749, 'Famagusta (Mağusa)', 'Αμμάγκουστ (Αμμάγκουστε)', 57, 'CY', '04', 'district', 'distrito', 35.1352137, 33.9239831),
+(744, 'Kyrenia (Keryneia)', 'Kyrenia (Keryneia)', 57, 'CY', '06', 'district', 'distrito', 35.2951481, 33.2769155),
+(747, 'Larnaca (Larnaka)', 'Larnaca (Larnaka)', 57, 'CY', '03', 'district', 'distrito', 34.8697484, 33.6092097),
+(748, 'Limassol (Leymasun)', 'Λεουμασό (Leymasun)', 57, 'CY', '02', 'district', 'distrito', 34.6911485, 33.0078384),
+(745, 'Nicosia (Lefkoşa)', 'Λευκωσία (Λευκωσία)', 57, 'CY', '01', 'district', 'distrito', 35.1565464, 33.3705626),
+(746, 'Paphos (Pafos)', 'Paphos (PAFOS)', 57, 'CY', '05', 'district', 'distrito', 34.7812978, 32.4214097);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (22011, 'Acherítou', 749, 57, 35.10022, 33.86155),

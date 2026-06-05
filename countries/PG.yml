@@ -12,16 +12,20 @@
   currency_symbol: "K"
   tld: ".pg"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -6
   longitude: 147
   emoji: "🇵🇬"
   states:
     -
       name: "Bougainville"
+      native: "Bougainville"
       code: "NSB"
       iso3166_2: "PG-NSB"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: -6.1441283
       longitude: 155.2059339
       cities:
@@ -51,9 +55,11 @@
           longitude: 155.6964
     -
       name: "Central"
+      native: "Central"
       code: "CPM"
       iso3166_2: "PG-CPM"
       type: "province"
+      type_es: "provincia"
       latitude: -10
       longitude: 148
       cities:
@@ -75,9 +81,11 @@
           longitude: 147.83333
     -
       name: "Chimbu"
+      native: "Bur"
       code: "CPK"
       iso3166_2: "PG-CPK"
       type: "province"
+      type_es: "provincia"
       latitude: -6.25
       longitude: 144.833333
       cities:
@@ -107,9 +115,11 @@
           longitude: 145.01667
     -
       name: "East New Britain"
+      native: "East New Britain"
       code: "EBR"
       iso3166_2: "PG-EBR"
       type: "province"
+      type_es: "provincia"
       latitude: -5.1386278
       longitude: 151.9020187
       cities:
@@ -131,18 +141,22 @@
           longitude: 152.16667
     -
       name: "East Sepik"
+      native: "East"
       code: "ESW"
       iso3166_2: "PG-ESW"
       type: "province"
+      type_es: "provincia"
       latitude: -4.355541
       longitude: 143.2325162
       cities:
         []
     -
       name: "Eastern Highlands"
+      native: "Eastern Highlands"
       code: "EHG"
       iso3166_2: "PG-EHG"
       type: "province"
+      type_es: "provincia"
       latitude: -6.5
       longitude: 145.583333
       cities:
@@ -180,9 +194,11 @@
           longitude: 145.51667
     -
       name: "Enga"
+      native: "Nake"
       code: "EPW"
       iso3166_2: "PG-EPW"
       type: "province"
+      type_es: "provincia"
       latitude: -5.6725937
       longitude: 143.6436942
       cities:
@@ -212,9 +228,11 @@
           longitude: 143.91667
     -
       name: "Gulf"
+      native: "Gulf"
       code: "GPK"
       iso3166_2: "PG-GPK"
       type: "province"
+      type_es: "provincia"
       latitude: -7.5556411
       longitude: 144.8850036
       cities:
@@ -228,9 +246,11 @@
           longitude: 144.33333
     -
       name: "Hela"
+      native: "Hela"
       code: "HLA"
       iso3166_2: "PG-HLA"
       type: "province"
+      type_es: "provincia"
       latitude: -5.7729776
       longitude: 142.7792477
       cities:
@@ -252,9 +272,11 @@
           longitude: 142.83333
     -
       name: "Jiwaka"
+      native: "Burn it"
       code: "JWK"
       iso3166_2: "PG-JWK"
       type: "province"
+      type_es: "provincia"
       latitude: -5.5797604
       longitude: 144.613752
       cities:
@@ -272,9 +294,11 @@
           longitude: 144.68333
     -
       name: "Madang"
+      native: "Madang"
       code: "MPM"
       iso3166_2: "PG-MPM"
       type: "province"
+      type_es: "provincia"
       latitude: -5
       longitude: 145.5
       cities:
@@ -304,9 +328,11 @@
           longitude: 145.16667
     -
       name: "Manus"
+      native: "Manus"
       code: "MRL"
       iso3166_2: "PG-MRL"
       type: "province"
+      type_es: "provincia"
       latitude: -2.1032645
       longitude: 146.9325448
       cities:
@@ -320,9 +346,11 @@
           longitude: 146.96612
     -
       name: "Milne Bay"
+      native: "Milne Bay"
       code: "MBA"
       iso3166_2: "PG-MBA"
       type: "province"
+      type_es: "provincia"
       latitude: -10.0226491
       longitude: 151.5800288
       cities:
@@ -348,9 +376,11 @@
           longitude: 150.54703
     -
       name: "Morobe"
+      native: "Morobe"
       code: "MPL"
       iso3166_2: "PG-MPL"
       type: "province"
+      type_es: "provincia"
       latitude: -7
       longitude: 147
       cities:
@@ -396,9 +426,11 @@
           longitude: 146.71649
     -
       name: "New Ireland"
+      native: "New Ireland"
       code: "NIK"
       iso3166_2: "PG-NIK"
       type: "province"
+      type_es: "provincia"
       latitude: -3.7021472
       longitude: 152.4360021
       cities:
@@ -412,9 +444,11 @@
           longitude: 152.83333
     -
       name: "Oro"
+      native: "Oro"
       code: "NPP"
       iso3166_2: "PG-NPP"
       type: "province"
+      type_es: "provincia"
       latitude: -9
       longitude: 148.5
       cities:
@@ -436,9 +470,11 @@
           longitude: 147.91667
     -
       name: "Port Moresby"
+      native: "Port Moresby"
       code: "NCD"
       iso3166_2: "PG-NCD"
       type: "district"
+      type_es: "distrito"
       latitude: -9.4743301
       longitude: 147.1599504
       cities:
@@ -452,9 +488,11 @@
           longitude: 147.15089
     -
       name: "Sandaun"
+      native: "Sandadaun"
       code: "SAN"
       iso3166_2: "PG-SAN"
       type: "province"
+      type_es: "provincia"
       latitude: -3.5
       longitude: 142
       cities:
@@ -484,9 +522,11 @@
           longitude: 141.35
     -
       name: "Southern Highlands"
+      native: "Southern Highlands"
       code: "SHM"
       iso3166_2: "PG-SHM"
       type: "province"
+      type_es: "provincia"
       latitude: -6.4471522
       longitude: 143.6006612
       cities:
@@ -512,9 +552,11 @@
           longitude: 143.33333
     -
       name: "West New Britain"
+      native: "West New Britain"
       code: "WBK"
       iso3166_2: "PG-WBK"
       type: "province"
+      type_es: "provincia"
       latitude: -5.8891465
       longitude: 149.699546
       cities:
@@ -536,9 +578,11 @@
           longitude: 149.58333
     -
       name: "Western"
+      native: "Western"
       code: "WPD"
       iso3166_2: "PG-WPD"
       type: "province"
+      type_es: "provincia"
       latitude: -7.5
       longitude: 142
       cities:
@@ -568,9 +612,11 @@
           longitude: 142.11667
     -
       name: "Western Highlands"
+      native: "Western Highlands"
       code: "WHM"
       iso3166_2: "PG-WHM"
       type: "province"
+      type_es: "provincia"
       latitude: -5.841586
       longitude: 144.2355348
       cities:

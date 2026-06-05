@@ -12,25 +12,31 @@
   currency_symbol: "€"
   tld: ".it"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 42.83333333
   longitude: 12.83333333
   emoji: "🇮🇹"
   states:
     -
       name: "Abruzzo"
+      native: "Abruzzo"
       code: "65"
       iso3166_2: "IT-65"
       type: "region"
+      type_es: "región"
       latitude: 42.227681
       longitude: 13.854983
       cities:
         []
     -
       name: "Agrigento"
+      native: "Agrigento"
       code: "AG"
       iso3166_2: "IT-AG"
       type: "free municipal consortium"
+      type_es: "consorcio municipal libre"
       latitude: 37.3122991
       longitude: 13.57465
       cities:
@@ -224,9 +230,11 @@
           longitude: 13.55919
     -
       name: "Alessandria"
+      native: "Alessandria"
       code: "AL"
       iso3166_2: "IT-AL"
       type: "province"
+      type_es: "provincia"
       latitude: 44.8349533
       longitude: 8.7450304
       cities:
@@ -1040,9 +1048,11 @@
           longitude: 8.84274
     -
       name: "Ancona"
+      native: "Ancona"
       code: "AN"
       iso3166_2: "IT-AN"
       type: "province"
+      type_es: "provincia"
       latitude: 43.4801189
       longitude: 13.2187279
       cities:
@@ -1324,9 +1334,11 @@
           longitude: 13.60312
     -
       name: "Aosta Valley"
+      native: "Usando"
       code: "23"
       iso3166_2: "IT-23"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 45.730099
       longitude: 7.387426
       cities:
@@ -1696,18 +1708,22 @@
           longitude: 7.20682
     -
       name: "Apulia"
+      native: "Apulia"
       code: "75"
       iso3166_2: "IT-75"
       type: "region"
+      type_es: "región"
       latitude: 40.9842539
       longitude: 16.6210027
       cities:
         []
     -
       name: "Arezzo"
+      native: "Arezzo"
       code: "AR"
       iso3166_2: "IT-AR"
       type: "province"
+      type_es: "provincia"
       latitude: 43.5171442
       longitude: 11.7639282
       cities:
@@ -1969,9 +1985,11 @@
           longitude: 11.77323
     -
       name: "Ascoli Piceno"
+      native: "Ascoli Piceno"
       code: "AP"
       iso3166_2: "IT-AP"
       type: "province"
+      type_es: "provincia"
       latitude: 42.8546185
       longitude: 13.5755038
       cities:
@@ -2137,9 +2155,11 @@
           longitude: 13.74481
     -
       name: "Asti"
+      native: "Asti"
       code: "AT"
       iso3166_2: "IT-AT"
       type: "province"
+      type_es: "provincia"
       latitude: 44.9007652
       longitude: 8.2064315
       cities:
@@ -2625,9 +2645,11 @@
           longitude: 8.32094
     -
       name: "Avellino"
+      native: "Avellino"
       code: "AV"
       iso3166_2: "IT-AV"
       type: "province"
+      type_es: "provincia"
       latitude: 40.9965446
       longitude: 15.140569
       cities:
@@ -3141,9 +3163,11 @@
           longitude: 15.20255
     -
       name: "Bari"
+      native: "Bari"
       code: "BA"
       iso3166_2: "IT-BA"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 41.117143
       longitude: 16.871872
       cities:
@@ -3345,9 +3369,11 @@
           longitude: 16.88491
     -
       name: "Barletta-Andria-Trani"
+      native: "Barletta-Andria-Trani"
       code: "BT"
       iso3166_2: "IT-BT"
       type: "province"
+      type_es: "provincia"
       latitude: 41.180172
       longitude: 16.1466408
       cities:
@@ -3397,18 +3423,22 @@
           longitude: 16.08924
     -
       name: "Basilicata"
+      native: "Basilicata"
       code: "77"
       iso3166_2: "IT-77"
       type: "region"
+      type_es: "región"
       latitude: 40.500571
       longitude: 16.081953
       cities:
         []
     -
       name: "Belluno"
+      native: "Belluno"
       code: "BL"
       iso3166_2: "IT-BL"
       type: "province"
+      type_es: "provincia"
       latitude: 46.2805407
       longitude: 12.0789137
       cities:
@@ -3706,9 +3736,11 @@
           longitude: 12.17368
     -
       name: "Benevento"
+      native: "Benevento"
       code: "BN"
       iso3166_2: "IT-BN"
       type: "province"
+      type_es: "provincia"
       latitude: 41.2476307
       longitude: 14.7057054
       cities:
@@ -4038,9 +4070,11 @@
           longitude: 14.64821
     -
       name: "Bergamo"
+      native: "Bergamo"
       code: "BG"
       iso3166_2: "IT-BG"
       type: "province"
+      type_es: "provincia"
       latitude: 45.6982642
       longitude: 9.6772698
       cities:
@@ -5142,9 +5176,11 @@
           longitude: 9.65992
     -
       name: "Biella"
+      native: "Biella"
       code: "BI"
       iso3166_2: "IT-BI"
       type: "province"
+      type_es: "provincia"
       latitude: 45.5628176
       longitude: 8.0582717
       cities:
@@ -5490,9 +5526,11 @@
           longitude: 8.08942
     -
       name: "Bologna"
+      native: "Bologna"
       code: "BO"
       iso3166_2: "IT-BO"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 44.494887
       longitude: 11.342621
       cities:
@@ -5858,9 +5896,11 @@
           longitude: 11.21831
     -
       name: "Brescia"
+      native: "Brescia"
       code: "BS"
       iso3166_2: "IT-BS"
       type: "province"
+      type_es: "provincia"
       latitude: 45.5415526
       longitude: 10.2118019
       cities:
@@ -6862,9 +6902,11 @@
           longitude: 10.11586
     -
       name: "Brindisi"
+      native: "Brindisi"
       code: "BR"
       iso3166_2: "IT-BR"
       type: "province"
+      type_es: "provincia"
       latitude: 40.6358599
       longitude: 17.6884975
       cities:
@@ -6978,9 +7020,11 @@
           longitude: 17.47468
     -
       name: "Cagliari"
+      native: "Cagliari"
       code: "CA"
       iso3166_2: "IT-CA"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 39.223804
       longitude: 9.121667
       cities:
@@ -7062,18 +7106,22 @@
           longitude: 8.99695
     -
       name: "Calabria"
+      native: "Calabria"
       code: "78"
       iso3166_2: "IT-78"
       type: "region"
+      type_es: "región"
       latitude: 39.0565974
       longitude: 16.5249864
       cities:
         []
     -
       name: "Caltanissetta"
+      native: "Caltanissetta"
       code: "CL"
       iso3166_2: "IT-CL"
       type: "free municipal consortium"
+      type_es: "consorcio municipal libre"
       latitude: 37.486013
       longitude: 14.0614982
       cities:
@@ -7167,18 +7215,22 @@
           longitude: 13.84452
     -
       name: "Campania"
+      native: "Campania"
       code: "72"
       iso3166_2: "IT-72"
       type: "region"
+      type_es: "región"
       latitude: 40.860672
       longitude: 14.843984
       cities:
         []
     -
       name: "Campobasso"
+      native: "Campobasso"
       code: "CB"
       iso3166_2: "IT-CB"
       type: "province"
+      type_es: "provincia"
       latitude: 41.7172648
       longitude: 14.8262267
       cities:
@@ -7524,9 +7576,11 @@
           longitude: 14.592
     -
       name: "Caserta"
+      native: "Caserta"
       code: "CE"
       iso3166_2: "IT-CE"
       type: "province"
+      type_es: "provincia"
       latitude: 41.2035192
       longitude: 14.1168624
       cities:
@@ -8028,9 +8082,11 @@
           longitude: 14.13082
     -
       name: "Catania"
+      native: "Catania"
       code: "CT"
       iso3166_2: "IT-CT"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 37.502878
       longitude: 15.087042
       cities:
@@ -8332,9 +8388,11 @@
           longitude: 15.10432
     -
       name: "Catanzaro"
+      native: "Catanzaro"
       code: "CZ"
       iso3166_2: "IT-CZ"
       type: "province"
+      type_es: "provincia"
       latitude: 38.8299603
       longitude: 16.4315569
       cities:
@@ -8744,9 +8802,11 @@
           longitude: 16.6642
     -
       name: "Chieti"
+      native: "Chieti"
       code: "CH"
       iso3166_2: "IT-CH"
       type: "province"
+      type_es: "provincia"
       latitude: 42.1026928
       longitude: 14.4159053
       cities:
@@ -9184,9 +9244,11 @@
           longitude: 14.23689
     -
       name: "Como"
+      native: "COME"
       code: "CO"
       iso3166_2: "IT-CO"
       type: "province"
+      type_es: "provincia"
       latitude: 45.8080416
       longitude: 9.0851793
       cities:
@@ -9928,9 +9990,11 @@
           longitude: 9.18054
     -
       name: "Cosenza"
+      native: "Cosenza"
       code: "CS"
       iso3166_2: "IT-CS"
       type: "province"
+      type_es: "provincia"
       latitude: 39.5966853
       longitude: 16.3330556
       cities:
@@ -10696,9 +10760,11 @@
           longitude: 16.29269
     -
       name: "Cremona"
+      native: "Cremona"
       code: "CR"
       iso3166_2: "IT-CR"
       type: "province"
+      type_es: "provincia"
       latitude: 45.2208641
       longitude: 10.037038
       cities:
@@ -11224,9 +11290,11 @@
           longitude: 10.12968
     -
       name: "Crotone"
+      native: "Crotone"
       code: "KR"
       iso3166_2: "IT-KR"
       type: "province"
+      type_es: "provincia"
       latitude: 39.0806223
       longitude: 17.127196
       cities:
@@ -11372,9 +11440,11 @@
           longitude: 16.85613
     -
       name: "Cuneo"
+      native: "Cuneo"
       code: "CN"
       iso3166_2: "IT-CN"
       type: "province"
+      type_es: "provincia"
       latitude: 44.4580703
       longitude: 7.5581367
       cities:
@@ -12456,18 +12526,22 @@
           longitude: 7.57913
     -
       name: "Emilia-Romagna"
+      native: "Emilia-Romagna"
       code: "45"
       iso3166_2: "IT-45"
       type: "region"
+      type_es: "región"
       latitude: 44.525696
       longitude: 11.039437
       cities:
         []
     -
       name: "Enna"
+      native: "Enna"
       code: "EN"
       iso3166_2: "IT-EN"
       type: "free municipal consortium"
+      type_es: "consorcio municipal libre"
       latitude: 37.5676216
       longitude: 14.2795349
       cities:
@@ -12557,9 +12631,11 @@
           longitude: 14.17089
     -
       name: "Fermo"
+      native: "Fermo"
       code: "FM"
       iso3166_2: "IT-FM"
       type: "province"
+      type_es: "provincia"
       latitude: 43.0922489
       longitude: 13.6387681
       cities:
@@ -12765,9 +12841,11 @@
           longitude: 13.61113
     -
       name: "Ferrara"
+      native: "Ferrara"
       code: "FE"
       iso3166_2: "IT-FE"
       type: "province"
+      type_es: "provincia"
       latitude: 44.7667642
       longitude: 11.827939
       cities:
@@ -12945,9 +13023,11 @@
           longitude: 11.75182
     -
       name: "Florence"
+      native: "Firenze"
       code: "FI"
       iso3166_2: "IT-FI"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 43.769231
       longitude: 11.255884
       cities:
@@ -13261,9 +13341,11 @@
           longitude: 10.92365
     -
       name: "Foggia"
+      native: "Foggia"
       code: "FG"
       iso3166_2: "IT-FG"
       type: "province"
+      type_es: "provincia"
       latitude: 41.5028105
       longitude: 15.4528939
       cities:
@@ -13513,9 +13595,11 @@
           longitude: 15.95615
     -
       name: "Forlì-Cesena"
+      native: "Forlì-Cesena"
       code: "FC"
       iso3166_2: "IT-FC"
       type: "province"
+      type_es: "provincia"
       latitude: 44.0227193
       longitude: 12.0141036
       cities:
@@ -13721,18 +13805,22 @@
           longitude: 12.43575
     -
       name: "Friuli–Venezia Giulia"
+      native: "Friuli–Venezia Giulia"
       code: "36"
       iso3166_2: "IT-36"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 46.151042
       longitude: 13.055904
       cities:
         []
     -
       name: "Frosinone"
+      native: "Frosinone"
       code: "FR"
       iso3166_2: "IT-FR"
       type: "province"
+      type_es: "provincia"
       latitude: 41.6285468
       longitude: 13.5758498
       cities:
@@ -14186,9 +14274,11 @@
           longitude: 13.97027
     -
       name: "Genoa"
+      native: "Genova"
       code: "GE"
       iso3166_2: "IT-GE"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 44.411491
       longitude: 8.932859
       cities:
@@ -14502,9 +14592,11 @@
           longitude: 9.2668
     -
       name: "Gorizia"
+      native: "Gorizia"
       code: "GO"
       iso3166_2: "IT-GO"
       type: "decentralized regional entity"
+      type_es: "entidad regional descentralizada"
       latitude: 45.862521
       longitude: 13.4979259
       cities:
@@ -14630,9 +14722,11 @@
           longitude: 13.4438
     -
       name: "Grosseto"
+      native: "Grosseto"
       code: "GR"
       iso3166_2: "IT-GR"
       type: "province"
+      type_es: "provincia"
       latitude: 42.7751102
       longitude: 11.2878044
       cities:
@@ -14802,9 +14896,11 @@
           longitude: 11.71943
     -
       name: "Imperia"
+      native: "Imperia"
       code: "IM"
       iso3166_2: "IT-IM"
       type: "province"
+      type_es: "provincia"
       latitude: 43.9583753
       longitude: 7.8667427
       cities:
@@ -15074,9 +15170,11 @@
           longitude: 8.08965
     -
       name: "Isernia"
+      native: "Isernia"
       code: "IS"
       iso3166_2: "IT-IS"
       type: "province"
+      type_es: "provincia"
       latitude: 41.600175
       longitude: 14.2383017
       cities:
@@ -15298,9 +15396,11 @@
           longitude: 14.04773
     -
       name: "L'Aquila"
+      native: "L'Aquila"
       code: "AQ"
       iso3166_2: "IT-AQ"
       type: "province"
+      type_es: "provincia"
       latitude: 42.1368853
       longitude: 13.610341
       cities:
@@ -15798,9 +15898,11 @@
           longitude: 13.8167
     -
       name: "La Spezia"
+      native: "La Spezia"
       code: "SP"
       iso3166_2: "IT-SP"
       type: "province"
+      type_es: "provincia"
       latitude: 44.238366
       longitude: 9.6912326
       cities:
@@ -15986,9 +16088,11 @@
           longitude: 9.88692
     -
       name: "Latina"
+      native: "Latina"
       code: "LT"
       iso3166_2: "IT-LT"
       type: "province"
+      type_es: "provincia"
       latitude: 41.4595261
       longitude: 13.0125912
       cities:
@@ -16186,18 +16290,22 @@
           longitude: 13.42777
     -
       name: "Lazio"
+      native: "Lazio"
       code: "62"
       iso3166_2: "IT-62"
       type: "region"
+      type_es: "región"
       latitude: 41.9808038
       longitude: 12.7662312
       cities:
         []
     -
       name: "Lecce"
+      native: "Lecce"
       code: "LE"
       iso3166_2: "IT-LE"
       type: "province"
+      type_es: "provincia"
       latitude: 40.1522173
       longitude: 18.2260628
       cities:
@@ -16687,9 +16795,11 @@
           longitude: 18.24774
     -
       name: "Lecco"
+      native: "Lecco"
       code: "LC"
       iso3166_2: "IT-LC"
       type: "province"
+      type_es: "provincia"
       latitude: 45.9005485
       longitude: 9.4120248
       cities:
@@ -17095,18 +17205,22 @@
           longitude: 9.32494
     -
       name: "Liguria"
+      native: "Liguria"
       code: "42"
       iso3166_2: "IT-42"
       type: "region"
+      type_es: "región"
       latitude: 44.4777617
       longitude: 8.7026296
       cities:
         []
     -
       name: "Livorno"
+      native: "Livorno"
       code: "LI"
       iso3166_2: "IT-LI"
       type: "province"
+      type_es: "provincia"
       latitude: 42.7902379
       longitude: 10.3402239
       cities:
@@ -17232,9 +17346,11 @@
           longitude: 10.68471
     -
       name: "Lodi"
+      native: "Lodi"
       code: "LO"
       iso3166_2: "IT-LO"
       type: "province"
+      type_es: "provincia"
       latitude: 45.2613104
       longitude: 9.4916781
       cities:
@@ -17508,18 +17624,22 @@
           longitude: 9.61603
     -
       name: "Lombardy"
+      native: "Lombardia"
       code: "25"
       iso3166_2: "IT-25"
       type: "region"
+      type_es: "región"
       latitude: 45.5703694
       longitude: 9.7732524
       cities:
         []
     -
       name: "Lucca"
+      native: "Lucca"
       code: "LU"
       iso3166_2: "IT-LU"
       type: "province"
+      type_es: "provincia"
       latitude: 43.8376736
       longitude: 10.495053
       cities:
@@ -17721,9 +17841,11 @@
           longitude: 10.3976
     -
       name: "Macerata"
+      native: "Macerata"
       code: "MC"
       iso3166_2: "IT-MC"
       type: "province"
+      type_es: "provincia"
       latitude: 43.1529781
       longitude: 13.1508822
       cities:
@@ -18005,9 +18127,11 @@
           longitude: 13.48834
     -
       name: "Mantua"
+      native: "Mantova"
       code: "MN"
       iso3166_2: "IT-MN"
       type: "province"
+      type_es: "provincia"
       latitude: 45.1566683
       longitude: 10.7917191
       cities:
@@ -18337,18 +18461,22 @@
           longitude: 10.65891
     -
       name: "Marche"
+      native: "Marche"
       code: "57"
       iso3166_2: "IT-57"
       type: "region"
+      type_es: "región"
       latitude: 43.3458388
       longitude: 13.1415872
       cities:
         []
     -
       name: "Massa and Carrara"
+      native: "Massa e Carrara"
       code: "MS"
       iso3166_2: "IT-MS"
       type: "province"
+      type_es: "provincia"
       latitude: 44.0410162
       longitude: 10.1554922
       cities:
@@ -18446,9 +18574,11 @@
           longitude: 9.76318
     -
       name: "Matera"
+      native: "Matera"
       code: "MT"
       iso3166_2: "IT-MT"
       type: "province"
+      type_es: "provincia"
       latitude: 40.6663496
       longitude: 16.6043636
       cities:
@@ -18594,9 +18724,11 @@
           longitude: 16.44388
     -
       name: "Messina"
+      native: "Messina"
       code: "ME"
       iso3166_2: "IT-ME"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 38.19395
       longitude: 15.552562
       cities:
@@ -19118,9 +19250,11 @@
           longitude: 15.43885
     -
       name: "Milan"
+      native: "Milano"
       code: "MI"
       iso3166_2: "IT-MI"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 45.466794
       longitude: 9.190072
       cities:
@@ -19814,9 +19948,11 @@
           longitude: 9.11119
     -
       name: "Modena"
+      native: "Modena"
       code: "MO"
       iso3166_2: "IT-MO"
       type: "province"
+      type_es: "provincia"
       latitude: 44.5384728
       longitude: 10.9359609
       cities:
@@ -20134,18 +20270,22 @@
           longitude: 10.99308
     -
       name: "Molise"
+      native: "Molise"
       code: "67"
       iso3166_2: "IT-67"
       type: "region"
+      type_es: "región"
       latitude: 41.630828
       longitude: 14.492925
       cities:
         []
     -
       name: "Monza and Brianza"
+      native: "Monza and Brianza"
       code: "MB"
       iso3166_2: "IT-MB"
       type: "province"
+      type_es: "provincia"
       latitude: 45.6395418
       longitude: 9.2788304
       cities:
@@ -20423,9 +20563,11 @@
           longitude: 9.25377
     -
       name: "Naples"
+      native: "Napoli"
       code: "NA"
       iso3166_2: "IT-NA"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 40.851777
       longitude: 14.268117
       cities:
@@ -20995,9 +21137,11 @@
           longitude: 14.28355
     -
       name: "Novara"
+      native: "Novara"
       code: "NO"
       iso3166_2: "IT-NO"
       type: "province"
+      type_es: "provincia"
       latitude: 45.58425
       longitude: 8.545997
       cities:
@@ -21379,9 +21523,11 @@
           longitude: 8.51979
     -
       name: "Nuoro"
+      native: "Nuoro"
       code: "NU"
       iso3166_2: "IT-NU"
       type: "province"
+      type_es: "provincia"
       latitude: 40.3210601
       longitude: 9.3297339
       cities:
@@ -21699,9 +21845,11 @@
           longitude: 9.50943
     -
       name: "Oristano"
+      native: "Oristano"
       code: "OR"
       iso3166_2: "IT-OR"
       type: "province"
+      type_es: "provincia"
       latitude: 40.0265676
       longitude: 8.6796416
       cities:
@@ -22071,9 +22219,11 @@
           longitude: 8.70971
     -
       name: "Padua"
+      native: "Padova"
       code: "PD"
       iso3166_2: "IT-PD"
       type: "province"
+      type_es: "provincia"
       latitude: 45.391408
       longitude: 11.8058487
       cities:
@@ -22615,9 +22765,11 @@
           longitude: 11.6415
     -
       name: "Palermo"
+      native: "Palermo"
       code: "PA"
       iso3166_2: "IT-PA"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 38.11569
       longitude: 13.3614868
       cities:
@@ -22995,9 +23147,11 @@
           longitude: 13.48486
     -
       name: "Parma"
+      native: "Parma"
       code: "PR"
       iso3166_2: "IT-PR"
       type: "province"
+      type_es: "provincia"
       latitude: 44.8015322
       longitude: 10.3279354
       cities:
@@ -23251,9 +23405,11 @@
           longitude: 10.33037
     -
       name: "Pavia"
+      native: "Pavia"
       code: "PV"
       iso3166_2: "IT-PV"
       type: "province"
+      type_es: "provincia"
       latitude: 45.1860043
       longitude: 9.1546375
       cities:
@@ -24063,9 +24219,11 @@
           longitude: 9.02975
     -
       name: "Perugia"
+      native: "Perugia"
       code: "PG"
       iso3166_2: "IT-PG"
       type: "province"
+      type_es: "provincia"
       latitude: 43.1119613
       longitude: 12.3890104
       cities:
@@ -24479,9 +24637,11 @@
           longitude: 12.48106
     -
       name: "Pesaro and Urbino"
+      native: "Pesaro and Urbino"
       code: "PU"
       iso3166_2: "IT-PU"
       type: "province"
+      type_es: "provincia"
       latitude: 43.6130118
       longitude: 12.7135121
       cities:
@@ -24811,9 +24971,11 @@
           longitude: 12.93529
     -
       name: "Pescara"
+      native: "Pescara"
       code: "PE"
       iso3166_2: "IT-PE"
       type: "province"
+      type_es: "provincia"
       latitude: 42.3102619
       longitude: 13.9575901
       cities:
@@ -25035,9 +25197,11 @@
           longitude: 14.12338
     -
       name: "Piacenza"
+      native: "Piacenza"
       code: "PC"
       iso3166_2: "IT-PC"
       type: "province"
+      type_es: "provincia"
       latitude: 44.8476352
       longitude: 9.6665313
       cities:
@@ -25239,18 +25403,22 @@
           longitude: 9.39486
     -
       name: "Piedmont"
+      native: "Piemonte"
       code: "21"
       iso3166_2: "IT-21"
       type: "region"
+      type_es: "región"
       latitude: 45.060735
       longitude: 7.923549
       cities:
         []
     -
       name: "Pisa"
+      native: "Pisa"
       code: "PI"
       iso3166_2: "IT-PI"
       type: "province"
+      type_es: "provincia"
       latitude: 43.7228315
       longitude: 10.4017194
       cities:
@@ -25548,9 +25716,11 @@
           longitude: 10.86152
     -
       name: "Pistoia"
+      native: "Pistoia"
       code: "PT"
       iso3166_2: "IT-PT"
       type: "province"
+      type_es: "provincia"
       latitude: 43.9740957
       longitude: 10.8687081
       cities:
@@ -25684,9 +25854,11 @@
           longitude: 10.99045
     -
       name: "Pordenone"
+      native: "Pordenone"
       code: "PN"
       iso3166_2: "IT-PN"
       type: "decentralized regional entity"
+      type_es: "entidad regional descentralizada"
       latitude: 46.1017367
       longitude: 12.7039028
       cities:
@@ -25944,9 +26116,11 @@
           longitude: 12.76828
     -
       name: "Potenza"
+      native: "Potenza"
       code: "PZ"
       iso3166_2: "IT-PZ"
       type: "province"
+      type_es: "provincia"
       latitude: 40.5173119
       longitude: 15.8216088
       cities:
@@ -26368,9 +26542,11 @@
           longitude: 15.61868
     -
       name: "Prato"
+      native: "Prato"
       code: "PO"
       iso3166_2: "IT-PO"
       type: "province"
+      type_es: "provincia"
       latitude: 43.9357181
       longitude: 11.0941473
       cities:
@@ -26428,9 +26604,11 @@
           longitude: 11.15052
     -
       name: "Ragusa"
+      native: "Ragusa"
       code: "RG"
       iso3166_2: "IT-RG"
       type: "free municipal consortium"
+      type_es: "consorcio municipal libre"
       latitude: 36.9269273
       longitude: 14.7255129
       cities:
@@ -26508,9 +26686,11 @@
           longitude: 14.52788
     -
       name: "Ravenna"
+      native: "Ravenna"
       code: "RA"
       iso3166_2: "IT-RA"
       type: "province"
+      type_es: "provincia"
       latitude: 44.4184443
       longitude: 12.2035998
       cities:
@@ -26712,9 +26892,11 @@
           longitude: 11.93533
     -
       name: "Reggio Calabria"
+      native: "Reggio Calabria"
       code: "RC"
       iso3166_2: "IT-RC"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 38.108822
       longitude: 15.643922
       cities:
@@ -27204,9 +27386,11 @@
           longitude: 16.0997
     -
       name: "Reggio Emilia"
+      native: "Reggio Emilia"
       code: "RE"
       iso3166_2: "IT-RE"
       type: "province"
+      type_es: "provincia"
       latitude: 44.6086674
       longitude: 10.5940667
       cities:
@@ -27536,9 +27720,11 @@
           longitude: 10.74382
     -
       name: "Rieti"
+      native: "Rieti"
       code: "RI"
       iso3166_2: "IT-RI"
       type: "province"
+      type_es: "provincia"
       latitude: 42.4026569
       longitude: 12.860813
       cities:
@@ -27844,9 +28030,11 @@
           longitude: 13.02052
     -
       name: "Rimini"
+      native: "Rimini"
       code: "RN"
       iso3166_2: "IT-RN"
       type: "province"
+      type_es: "provincia"
       latitude: 44.0678288
       longitude: 12.5695158
       cities:
@@ -28000,9 +28188,11 @@
           longitude: 12.42317
     -
       name: "Rome"
+      native: "Roma"
       code: "RM"
       iso3166_2: "IT-RM"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 41.89277
       longitude: 12.48366
       cities:
@@ -28808,9 +28998,11 @@
           longitude: 12.8154
     -
       name: "Rovigo"
+      native: "Rovigo"
       code: "RO"
       iso3166_2: "IT-RO"
       type: "province"
+      type_es: "provincia"
       latitude: 45.0698166
       longitude: 11.78882
       cities:
@@ -29108,9 +29300,11 @@
           longitude: 11.96675
     -
       name: "Salerno"
+      native: "Salerno"
       code: "SA"
       iso3166_2: "IT-SA"
       type: "province"
+      type_es: "provincia"
       latitude: 40.4194416
       longitude: 15.3106085
       cities:
@@ -29968,18 +30162,22 @@
           longitude: 15.59401
     -
       name: "Sardinia"
+      native: "Sardegna"
       code: "88"
       iso3166_2: "IT-88"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 40.0912813
       longitude: 9.0305773
       cities:
         []
     -
       name: "Sassari"
+      native: "Sassari"
       code: "SS"
       iso3166_2: "IT-SS"
       type: "province"
+      type_es: "provincia"
       latitude: 40.7234746
       longitude: 8.5612674
       cities:
@@ -30381,9 +30579,11 @@
           longitude: 8.47115
     -
       name: "Savona"
+      native: "Savona"
       code: "SV"
       iso3166_2: "IT-SV"
       type: "province"
+      type_es: "provincia"
       latitude: 44.2334238
       longitude: 8.2525727
       cities:
@@ -30737,18 +30937,22 @@
           longitude: 8.11814
     -
       name: "Sicily"
+      native: "Sicilia"
       code: "82"
       iso3166_2: "IT-82"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 37.587794
       longitude: 14.155048
       cities:
         []
     -
       name: "Siena"
+      native: "Siena"
       code: "SI"
       iso3166_2: "IT-SI"
       type: "province"
+      type_es: "provincia"
       latitude: 43.3185536
       longitude: 11.3316533
       cities:
@@ -30974,9 +31178,11 @@
           longitude: 11.39198
     -
       name: "Siracusa"
+      native: "Siracusa"
       code: "SR"
       iso3166_2: "IT-SR"
       type: "free municipal consortium"
+      type_es: "consorcio municipal libre"
       latitude: 37.0656924
       longitude: 15.2857109
       cities:
@@ -31094,9 +31300,11 @@
           longitude: 15.09087
     -
       name: "Sondrio"
+      native: "Sondrio"
       code: "SO"
       iso3166_2: "IT-SO"
       type: "province"
+      type_es: "provincia"
       latitude: 46.1713553
       longitude: 9.8734274
       cities:
@@ -31470,9 +31678,11 @@
           longitude: 9.6795
     -
       name: "South Sardinia"
+      native: "Sudinia meridionale"
       code: "SU"
       iso3166_2: "IT-SU"
       type: "province"
+      type_es: "provincia"
       latitude: 39.3893535
       longitude: 8.9397
       cities:
@@ -31918,9 +32128,11 @@
           longitude: 8.92584
     -
       name: "South Tyrol"
+      native: "Bolzano"
       code: "BZ"
       iso3166_2: "IT-BZ"
       type: "autonomous province"
+      type_es: "provincia autónoma"
       latitude: 46.499335
       longitude: 11.356622
       cities:
@@ -32522,9 +32734,11 @@
           longitude: 11.42961
     -
       name: "Taranto"
+      native: "Taranto"
       code: "TA"
       iso3166_2: "IT-TA"
       type: "province"
+      type_es: "provincia"
       latitude: 40.4712427
       longitude: 17.2432278
       cities:
@@ -32666,9 +32880,11 @@
           longitude: 17.6046
     -
       name: "Teramo"
+      native: "Teramo"
       code: "TE"
       iso3166_2: "IT-TE"
       type: "province"
+      type_es: "provincia"
       latitude: 42.6581179
       longitude: 13.6978746
       cities:
@@ -32922,9 +33138,11 @@
           longitude: 13.92015
     -
       name: "Terni"
+      native: "Terni"
       code: "TR"
       iso3166_2: "IT-TR"
       type: "province"
+      type_es: "provincia"
       latitude: 42.5641417
       longitude: 12.6405466
       cities:
@@ -33094,9 +33312,11 @@
           longitude: 12.64329
     -
       name: "Trapani"
+      native: "Trapani"
       code: "TP"
       iso3166_2: "IT-TP"
       type: "free municipal consortium"
+      type_es: "consorcio municipal libre"
       latitude: 38.0183116
       longitude: 12.5148265
       cities:
@@ -33254,9 +33474,11 @@
           longitude: 12.82755
     -
       name: "Trentino"
+      native: "Trento"
       code: "TN"
       iso3166_2: "IT-TN"
       type: "autonomous province"
+      type_es: "provincia autónoma"
       latitude: 46.067878
       longitude: 11.121083
       cities:
@@ -34222,18 +34444,22 @@
           longitude: 10.75107
     -
       name: "Trentino-South Tyrol"
+      native: "Trentino-sud Tyrol"
       code: "32"
       iso3166_2: "IT-32"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 46.4995934
       longitude: 11.3553015
       cities:
         []
     -
       name: "Treviso"
+      native: "Treviso"
       code: "TV"
       iso3166_2: "IT-TV"
       type: "province"
+      type_es: "provincia"
       latitude: 45.6668517
       longitude: 12.2430617
       cities:
@@ -34923,9 +35149,11 @@
           longitude: 12.16381
     -
       name: "Trieste"
+      native: "Trieste"
       code: "TS"
       iso3166_2: "IT-TS"
       type: "decentralized regional entity"
+      type_es: "entidad regional descentralizada"
       latitude: 45.6894823
       longitude: 13.7833072
       cities:
@@ -34971,9 +35199,11 @@
           longitude: 13.81038
     -
       name: "Turin"
+      native: "Torino"
       code: "TO"
       iso3166_2: "IT-TO"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 45.070496
       longitude: 7.686822
       cities:
@@ -36367,18 +36597,22 @@
           longitude: 7.51142
     -
       name: "Tuscany"
+      native: "Toscana"
       code: "52"
       iso3166_2: "IT-52"
       type: "region"
+      type_es: "región"
       latitude: 43.4586541
       longitude: 11.1389204
       cities:
         []
     -
       name: "Udine"
+      native: "Udine"
       code: "UD"
       iso3166_2: "IT-UD"
       type: "decentralized regional entity"
+      type_es: "entidad regional descentralizada"
       latitude: 46.145948
       longitude: 13.2974303
       cities:
@@ -37040,18 +37274,22 @@
           longitude: 13.02589
     -
       name: "Umbria"
+      native: "Umbria"
       code: "55"
       iso3166_2: "IT-55"
       type: "region"
+      type_es: "región"
       latitude: 42.965916
       longitude: 12.490236
       cities:
         []
     -
       name: "Varese"
+      native: "Varese"
       code: "VA"
       iso3166_2: "IT-VA"
       type: "province"
+      type_es: "provincia"
       latitude: 45.8397203
       longitude: 8.7541338
       cities:
@@ -37673,18 +37911,22 @@
           longitude: 8.69651
     -
       name: "Veneto"
+      native: "Veneto"
       code: "34"
       iso3166_2: "IT-34"
       type: "region"
+      type_es: "región"
       latitude: 45.6476663
       longitude: 11.8665254
       cities:
         []
     -
       name: "Venice"
+      native: "Venezia"
       code: "VE"
       iso3166_2: "IT-VE"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 45.434097
       longitude: 12.338906
       cities:
@@ -38034,9 +38276,11 @@
           longitude: 12.2079
     -
       name: "Verbano-Cusio-Ossola"
+      native: "Verbano-Cusio-Ossola"
       code: "VB"
       iso3166_2: "IT-VB"
       type: "province"
+      type_es: "provincia"
       latitude: 46.1155755
       longitude: 8.3835967
       cities:
@@ -38374,9 +38618,11 @@
           longitude: 8.29137
     -
       name: "Vercelli"
+      native: "Vercelli"
       code: "VC"
       iso3166_2: "IT-VC"
       type: "province"
+      type_es: "provincia"
       latitude: 45.3202204
       longitude: 8.418508
       cities:
@@ -38726,9 +38972,11 @@
           longitude: 8.1958
     -
       name: "Verona"
+      native: "Verona"
       code: "VR"
       iso3166_2: "IT-VR"
       type: "province"
+      type_es: "provincia"
       latitude: 45.4384958
       longitude: 10.9924122
       cities:
@@ -39322,9 +39570,11 @@
           longitude: 11.12929
     -
       name: "Vibo Valentia"
+      native: "Vibo Valentia"
       code: "VV"
       iso3166_2: "IT-VV"
       type: "province"
+      type_es: "provincia"
       latitude: 38.6266556
       longitude: 16.0986935
       cities:
@@ -39554,9 +39804,11 @@
           longitude: 15.98409
     -
       name: "Vicenza"
+      native: "Vicenza"
       code: "VI"
       iso3166_2: "IT-VI"
       type: "province"
+      type_es: "provincia"
       latitude: 45.6348591
       longitude: 11.4063543
       cities:
@@ -40182,9 +40434,11 @@
           longitude: 11.52399
     -
       name: "Viterbo"
+      native: "Viterbo"
       code: "VT"
       iso3166_2: "IT-VT"
       type: "province"
+      type_es: "provincia"
       latitude: 42.4929522
       longitude: 11.9488136
       cities:

@@ -1,43 +1,43 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(124, 'Libya', 'LY', 'LBY', 'Africa', 'Northern Africa', 'Tripolis', 'LYD', 25, 17, '🇱🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(124, 'Libya', 'Libia', 'LY', 'LBY', 'Africa', 'África', 'Northern Africa', 'África del Norte', 'Tripolis', 'LYD', 25, 17, '🇱🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5641, 'Al Butnan', 124, 'LY', 'BU', 'popularate', 30, 24),
-(2964, 'Al Wahat', 124, 'LY', 'WA', 'popularate', 29.1573123, 21.7496392),
-(2981, 'Benghazi', 124, 'LY', 'BA', 'popularate', 32.1194242, 20.0867909),
-(2966, 'Derna', 124, 'LY', 'DR', 'popularate', 32.755613, 22.6377432),
-(2969, 'Ghat', 124, 'LY', 'GT', 'popularate', 24.9640371, 10.1759285),
-(2980, 'Jabal al Akhdar', 124, 'LY', 'JA', 'popularate', 32.4874119, 21.7089729),
-(2974, 'Jabal al Gharbi', 124, 'LY', 'JG', 'popularate', 30.704649, 13.2233859),
-(2979, 'Jafara', 124, 'LY', 'JI', 'popularate', 32.5587916, 13.0707024),
-(2970, 'Jufra', 124, 'LY', 'JU', 'popularate', 28.0055724, 16.7430292),
-(2972, 'Kufra', 124, 'LY', 'KF', 'popularate', 23.3323776, 22.0840331),
-(2968, 'Marj', 124, 'LY', 'MJ', 'popularate', 31.9108728, 21.1477877),
-(2978, 'Misrata', 124, 'LY', 'MI', 'popularate', 32.3745923, 15.0905803),
-(2961, 'Murqub', 124, 'LY', 'MB', 'popularate', 32.4071058, 13.8621903),
-(2967, 'Murzuq', 124, 'LY', 'MQ', 'popularate', 25.9182262, 13.9260001),
-(2976, 'Nalut', 124, 'LY', 'NL', 'popularate', 31.8637865, 10.9827903),
-(2962, 'Nuqat al Khams', 124, 'LY', 'NQ', 'popularate', 32.7177153, 11.9896415),
-(2965, 'Sabha', 124, 'LY', 'SB', 'popularate', 27.0365406, 14.4290236),
-(2977, 'Sirte', 124, 'LY', 'SR', 'popularate', 31.2059625, 16.5836206),
-(2971, 'Tripoli', 124, 'LY', 'TB', 'popularate', 32.7733899, 13.3318732),
-(2973, 'Wadi al Hayaa', 124, 'LY', 'WD', 'popularate', 26.4233369, 12.7183638),
-(2975, 'Wadi al Shatii', 124, 'LY', 'WS', 'popularate', 27.6023172, 12.8637627),
-(2963, 'Zawiya', 124, 'LY', 'ZA', 'popularate', 32.7630282, 12.7364962);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5641, 'Al Butnan', 'البطنان', 124, 'LY', 'BU', 'popularate', 'popularate', 30, 24),
+(2964, 'Al Wahat', 'الواحات', 124, 'LY', 'WA', 'popularate', 'popularate', 29.1573123, 21.7496392),
+(2981, 'Benghazi', 'بنغازي', 124, 'LY', 'BA', 'popularate', 'popularate', 32.1194242, 20.0867909),
+(2966, 'Derna', 'درنة', 124, 'LY', 'DR', 'popularate', 'popularate', 32.755613, 22.6377432),
+(2969, 'Ghat', 'غات', 124, 'LY', 'GT', 'popularate', 'popularate', 24.9640371, 10.1759285),
+(2980, 'Jabal al Akhdar', 'الجبل الأخضر', 124, 'LY', 'JA', 'popularate', 'popularate', 32.4874119, 21.7089729),
+(2974, 'Jabal al Gharbi', 'جبل الغربي', 124, 'LY', 'JG', 'popularate', 'popularate', 30.704649, 13.2233859),
+(2979, 'Jafara', 'جفارة', 124, 'LY', 'JI', 'popularate', 'popularate', 32.5587916, 13.0707024),
+(2970, 'Jufra', 'الجفرة', 124, 'LY', 'JU', 'popularate', 'popularate', 28.0055724, 16.7430292),
+(2972, 'Kufra', 'الكفرة', 124, 'LY', 'KF', 'popularate', 'popularate', 23.3323776, 22.0840331),
+(2968, 'Marj', 'مارج', 124, 'LY', 'MJ', 'popularate', 'popularate', 31.9108728, 21.1477877),
+(2978, 'Misrata', 'مصراتة', 124, 'LY', 'MI', 'popularate', 'popularate', 32.3745923, 15.0905803),
+(2961, 'Murqub', 'مرقب', 124, 'LY', 'MB', 'popularate', 'popularate', 32.4071058, 13.8621903),
+(2967, 'Murzuq', 'مرزق', 124, 'LY', 'MQ', 'popularate', 'popularate', 25.9182262, 13.9260001),
+(2976, 'Nalut', 'نالوت', 124, 'LY', 'NL', 'popularate', 'popularate', 31.8637865, 10.9827903),
+(2962, 'Nuqat al Khams', 'النقاط الخمس', 124, 'LY', 'NQ', 'popularate', 'popularate', 32.7177153, 11.9896415),
+(2965, 'Sabha', 'سبها', 124, 'LY', 'SB', 'popularate', 'popularate', 27.0365406, 14.4290236),
+(2977, 'Sirte', 'سرت', 124, 'LY', 'SR', 'popularate', 'popularate', 31.2059625, 16.5836206),
+(2971, 'Tripoli', 'طرابلس', 124, 'LY', 'TB', 'popularate', 'popularate', 32.7733899, 13.3318732),
+(2973, 'Wadi al Hayaa', 'وادي الحياة', 124, 'LY', 'WD', 'popularate', 'popularate', 26.4233369, 12.7183638),
+(2975, 'Wadi al Shatii', 'وادي الشاطئ', 124, 'LY', 'WS', 'popularate', 'popularate', 27.6023172, 12.8637627),
+(2963, 'Zawiya', 'زاوية', 124, 'LY', 'ZA', 'popularate', 'popularate', 32.7630282, 12.7364962);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (160044, 'Bardia', 5641, 124, 31.76, 25.075),

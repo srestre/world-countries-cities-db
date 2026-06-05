@@ -1,55 +1,55 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(1, 'Afghanistan', 'AF', 'AFG', 'Asia', 'Southern Asia', 'Kabul', 'AFN', 33, 65, '🇦🇫');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(1, 'Afghanistan', 'Afganistán', 'AF', 'AFG', 'Asia', 'Asia', 'Southern Asia', 'Asia del Sur', 'Kabul', 'AFN', 33, 65, '🇦🇫');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3901, 'Badakhshan', 1, 'AF', 'BDS', 'province', 36.8040254, 71.367658),
-(3871, 'Badghis', 1, 'AF', 'BDG', 'province', 35, 63.75),
-(3875, 'Baghlan', 1, 'AF', 'BGL', 'province', 36.1789026, 68.7453064),
-(3884, 'Balkh', 1, 'AF', 'BAL', 'province', 36.7550603, 66.8975372),
-(3872, 'Bamyan', 1, 'AF', 'BAM', 'province', 34.794631, 67.684334),
-(3892, 'Daykundi', 1, 'AF', 'DAY', 'province', 33.725113, 66.2196554),
-(3899, 'Farah', 1, 'AF', 'FRA', 'province', 32.3740907, 62.1146266),
-(3889, 'Faryab', 1, 'AF', 'FYB', 'province', 35.9261784, 64.6237758),
-(3870, 'Ghazni', 1, 'AF', 'GHA', 'province', 33.5450587, 68.4173972),
-(3888, 'Ghōr', 1, 'AF', 'GHO', 'province', 34.1605257, 64.9201949),
-(3873, 'Helmand', 1, 'AF', 'HEL', 'province', 31, 64),
-(3887, 'Herat', 1, 'AF', 'HER', 'province', 34.3491443, 62.2163252),
-(3886, 'Jowzjan', 1, 'AF', 'JOW', 'province', 36.9665706, 65.9560232),
-(3902, 'Kabul', 1, 'AF', 'KAB', 'province', 34.5266431, 69.1849082),
-(3890, 'Kandahar', 1, 'AF', 'KAN', 'province', 31.6205738, 65.7157573),
-(3879, 'Kapisa', 1, 'AF', 'KAP', 'province', 34.905556, 69.741667),
-(3878, 'Khost', 1, 'AF', 'KHO', 'province', 33.3391402, 69.9206359),
-(3876, 'Kunar', 1, 'AF', 'KNR', 'province', 34.95, 71.133333),
-(3900, 'Kunduz Province', 1, 'AF', 'KDZ', 'province', 36.8707187, 68.7563528),
-(3891, 'Laghman', 1, 'AF', 'LAG', 'province', 34.783333, 70.183333),
-(3897, 'Logar', 1, 'AF', 'LOG', 'province', 34.0653595, 69.160172),
-(3882, 'Nangarhar', 1, 'AF', 'NAN', 'province', 34.220389, 70.3800314),
-(3896, 'Nimruz', 1, 'AF', 'NIM', 'province', 30.7753811, 62.4793088),
-(3880, 'Nuristan', 1, 'AF', 'NUR', 'province', 35.3, 70.833333),
-(3894, 'Paktia', 1, 'AF', 'PIA', 'province', 33.705724, 69.4083555),
-(3877, 'Paktika', 1, 'AF', 'PKA', 'province', 32.3936231, 68.7036514),
-(3881, 'Panjshir', 1, 'AF', 'PAN', 'province', 35.6973556, 70.0999604),
-(3895, 'Parwan', 1, 'AF', 'PAR', 'province', 34.9797014, 68.9146703),
-(3883, 'Samangan', 1, 'AF', 'SAM', 'province', 36.2674938, 68.0215374),
-(3885, 'Sar-e Pol', 1, 'AF', 'SAR', 'province', 36.216628, 65.93336),
-(3893, 'Takhar', 1, 'AF', 'TAK', 'province', 36.5940732, 69.7938996),
-(3898, 'Urozgan', 1, 'AF', 'URU', 'province', 32.8129681, 66.0183185),
-(5468, 'Wardak', 1, 'AF', 'WAR', 'province', 34.3, 68.5),
-(3874, 'Zabul', 1, 'AF', 'ZAB', 'province', 32.3068942, 67.129904);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3901, 'Badakhshan', 'بدخشان', 1, 'AF', 'BDS', 'province', 'provincia', 36.8040254, 71.367658),
+(3871, 'Badghis', 'بادغیس', 1, 'AF', 'BDG', 'province', 'provincia', 35, 63.75),
+(3875, 'Baghlan', 'بغلان', 1, 'AF', 'BGL', 'province', 'provincia', 36.1789026, 68.7453064),
+(3884, 'Balkh', 'بلخ', 1, 'AF', 'BAL', 'province', 'provincia', 36.7550603, 66.8975372),
+(3872, 'Bamyan', 'بامیان', 1, 'AF', 'BAM', 'province', 'provincia', 34.794631, 67.684334),
+(3892, 'Daykundi', 'دیوکونډي', 1, 'AF', 'DAY', 'province', 'provincia', 33.725113, 66.2196554),
+(3899, 'Farah', 'فراه', 1, 'AF', 'FRA', 'province', 'provincia', 32.3740907, 62.1146266),
+(3889, 'Faryab', 'د فارماب', 1, 'AF', 'FYB', 'province', 'provincia', 35.9261784, 64.6237758),
+(3870, 'Ghazni', 'غزني', 1, 'AF', 'GHA', 'province', 'provincia', 33.5450587, 68.4173972),
+(3888, 'Ghōr', 'جور', 1, 'AF', 'GHO', 'province', 'provincia', 34.1605257, 64.9201949),
+(3873, 'Helmand', 'هلمند', 1, 'AF', 'HEL', 'province', 'provincia', 31, 64),
+(3887, 'Herat', 'هرات', 1, 'AF', 'HER', 'province', 'provincia', 34.3491443, 62.2163252),
+(3886, 'Jowzjan', 'جوزجان', 1, 'AF', 'JOW', 'province', 'provincia', 36.9665706, 65.9560232),
+(3902, 'Kabul', 'کابل', 1, 'AF', 'KAB', 'province', 'provincia', 34.5266431, 69.1849082),
+(3890, 'Kandahar', 'کندهار', 1, 'AF', 'KAN', 'province', 'provincia', 31.6205738, 65.7157573),
+(3879, 'Kapisa', 'کیپټن', 1, 'AF', 'KAP', 'province', 'provincia', 34.905556, 69.741667),
+(3878, 'Khost', 'خوست', 1, 'AF', 'KHO', 'province', 'provincia', 33.3391402, 69.9206359),
+(3876, 'Kunar', 'دری برابره', 1, 'AF', 'KNR', 'province', 'provincia', 34.95, 71.133333),
+(3900, 'Kunduz Province', 'کندز ولایت', 1, 'AF', 'KDZ', 'province', 'provincia', 36.8707187, 68.7563528),
+(3891, 'Laghman', 'لغمان', 1, 'AF', 'LAG', 'province', 'provincia', 34.783333, 70.183333),
+(3897, 'Logar', 'لوګر', 1, 'AF', 'LOG', 'province', 'provincia', 34.0653595, 69.160172),
+(3882, 'Nangarhar', 'ننګرهار', 1, 'AF', 'NAN', 'province', 'provincia', 34.220389, 70.3800314),
+(3896, 'Nimruz', 'نیمروز', 1, 'AF', 'NIM', 'province', 'provincia', 30.7753811, 62.4793088),
+(3880, 'Nuristan', 'نورستان', 1, 'AF', 'NUR', 'province', 'provincia', 35.3, 70.833333),
+(3894, 'Paktia', 'بسته', 1, 'AF', 'PIA', 'province', 'provincia', 33.705724, 69.4083555),
+(3877, 'Paktika', 'بسته', 1, 'AF', 'PKA', 'province', 'provincia', 32.3936231, 68.7036514),
+(3881, 'Panjshir', 'پنجشیر', 1, 'AF', 'PAN', 'province', 'provincia', 35.6973556, 70.0999604),
+(3895, 'Parwan', 'ایوان', 1, 'AF', 'PAR', 'province', 'provincia', 34.9797014, 68.9146703),
+(3883, 'Samangan', 'خدايه', 1, 'AF', 'SAM', 'province', 'provincia', 36.2674938, 68.0215374),
+(3885, 'Sar-e Pol', 'سرپل پول', 1, 'AF', 'SAR', 'province', 'provincia', 36.216628, 65.93336),
+(3893, 'Takhar', 'تخار', 1, 'AF', 'TAK', 'province', 'provincia', 36.5940732, 69.7938996),
+(3898, 'Urozgan', 'ارزګان', 1, 'AF', 'URU', 'province', 'provincia', 32.8129681, 66.0183185),
+(5468, 'Wardak', 'میدان وردک', 1, 'AF', 'WAR', 'province', 'provincia', 34.3, 68.5),
+(3874, 'Zabul', 'زابل', 1, 'AF', 'ZAB', 'province', 'provincia', 32.3068942, 67.129904);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (52, 'Ashkāsham', 3901, 1, 36.68333, 71.53333),

@@ -1,45 +1,45 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(40, 'Cape Verde', 'CV', 'CPV', 'Africa', 'Western Africa', 'Praia', 'CVE', 16, -24, '🇨🇻');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(40, 'Cape Verde', 'Cabo Verde', 'CV', 'CPV', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Praia', 'CVE', 16, -24, '🇨🇻');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2994, 'Barlavento Islands', 40, 'CV', 'B', 'geographical region', 17.0555285, -25.1723049),
-(2999, 'Boa Vista', 40, 'CV', 'BV', 'municipality', 16.099509, -22.8009411),
-(2996, 'Brava', 40, 'CV', 'BR', 'municipality', 14.8519426, -24.7086939),
-(2991, 'Maio', 40, 'CV', 'MA', 'municipality', 15.2272182, -23.1563014),
-(2987, 'Mosteiros', 40, 'CV', 'MO', 'municipality', 15.0347257, -24.3277421),
-(2997, 'Paul', 40, 'CV', 'PA', 'municipality', 17.1150295, -25.0201589),
-(2989, 'Porto Novo', 40, 'CV', 'PN', 'municipality', 17.0193423, -25.0641922),
-(2988, 'Praia', 40, 'CV', 'PR', 'municipality', 14.9481201, -23.5158945),
-(2982, 'Ribeira Brava', 40, 'CV', 'RB', 'municipality', 16.615728, -24.2982543),
-(3002, 'Ribeira Grande', 40, 'CV', 'RG', 'municipality', 17.1833547, -25.0643795),
-(2984, 'Ribeira Grande de Santiago', 40, 'CV', 'RS', 'municipality', 14.9830298, -23.6561725),
-(2998, 'Sal', 40, 'CV', 'SL', 'municipality', 16.7204556, -22.9386761),
-(2985, 'Santa Catarina', 40, 'CV', 'CA', 'municipality', 15.0890754, -23.7134304),
-(2995, 'Santa Catarina do Fogo', 40, 'CV', 'CF', 'municipality', 14.9022545, -24.3212579),
-(3004, 'Santa Cruz', 40, 'CV', 'CR', 'municipality', 15.1323932, -23.5576819),
-(2986, 'São Domingos', 40, 'CV', 'SD', 'municipality', 15.0286165, -23.563922),
-(3000, 'São Filipe', 40, 'CV', 'SF', 'municipality', 14.8951679, -24.4945636),
-(2993, 'São Lourenço dos Órgãos', 40, 'CV', 'SO', 'municipality', 15.0709442, -23.5865131),
-(2990, 'São Miguel', 40, 'CV', 'SM', 'municipality', 15.1899662, -23.6420486),
-(5552, 'São Salvador do Mundo', 40, 'CV', 'SS', 'municipality', 15.07, -23.63),
-(3001, 'São Vicente', 40, 'CV', 'SV', 'municipality', 16.8494412, -24.9718792),
-(2992, 'Sotavento Islands', 40, 'CV', 'S', 'geographical region', 15.1200758, -23.6348181),
-(2983, 'Tarrafal', 40, 'CV', 'TA', 'municipality', 15.2760578, -23.7484077),
-(3003, 'Tarrafal de São Nicolau', 40, 'CV', 'TS', 'municipality', 16.5636498, -24.354942);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2994, 'Barlavento Islands', 'Barlavento Islands', 40, 'CV', 'B', 'geographical region', 'región geográfica', 17.0555285, -25.1723049),
+(2999, 'Boa Vista', 'Boa Vista', 40, 'CV', 'BV', 'municipality', 'municipio', 16.099509, -22.8009411),
+(2996, 'Brava', 'Brava', 40, 'CV', 'BR', 'municipality', 'municipio', 14.8519426, -24.7086939),
+(2991, 'Maio', 'Maio', 40, 'CV', 'MA', 'municipality', 'municipio', 15.2272182, -23.1563014),
+(2987, 'Mosteiros', 'Mosteiros', 40, 'CV', 'MO', 'municipality', 'municipio', 15.0347257, -24.3277421),
+(2997, 'Paul', 'Paul', 40, 'CV', 'PA', 'municipality', 'municipio', 17.1150295, -25.0201589),
+(2989, 'Porto Novo', 'Porto Novo', 40, 'CV', 'PN', 'municipality', 'municipio', 17.0193423, -25.0641922),
+(2988, 'Praia', 'Praia', 40, 'CV', 'PR', 'municipality', 'municipio', 14.9481201, -23.5158945),
+(2982, 'Ribeira Brava', 'Ribeira Brava', 40, 'CV', 'RB', 'municipality', 'municipio', 16.615728, -24.2982543),
+(3002, 'Ribeira Grande', 'Ribeira Grande', 40, 'CV', 'RG', 'municipality', 'municipio', 17.1833547, -25.0643795),
+(2984, 'Ribeira Grande de Santiago', 'Ribeira Grande de Santiago', 40, 'CV', 'RS', 'municipality', 'municipio', 14.9830298, -23.6561725),
+(2998, 'Sal', 'Sal', 40, 'CV', 'SL', 'municipality', 'municipio', 16.7204556, -22.9386761),
+(2985, 'Santa Catarina', 'Santa Catarina', 40, 'CV', 'CA', 'municipality', 'municipio', 15.0890754, -23.7134304),
+(2995, 'Santa Catarina do Fogo', 'Santa Catarina do Fogo', 40, 'CV', 'CF', 'municipality', 'municipio', 14.9022545, -24.3212579),
+(3004, 'Santa Cruz', 'Santa Cruz', 40, 'CV', 'CR', 'municipality', 'municipio', 15.1323932, -23.5576819),
+(2986, 'São Domingos', 'São Domingos', 40, 'CV', 'SD', 'municipality', 'municipio', 15.0286165, -23.563922),
+(3000, 'São Filipe', 'São Filipe', 40, 'CV', 'SF', 'municipality', 'municipio', 14.8951679, -24.4945636),
+(2993, 'São Lourenço dos Órgãos', 'São Lourenço dos Órgãos', 40, 'CV', 'SO', 'municipality', 'municipio', 15.0709442, -23.5865131),
+(2990, 'São Miguel', 'São Miguel', 40, 'CV', 'SM', 'municipality', 'municipio', 15.1899662, -23.6420486),
+(5552, 'São Salvador do Mundo', 'São Salvador do Mundo', 40, 'CV', 'SS', 'municipality', 'municipio', 15.07, -23.63),
+(3001, 'São Vicente', 'São Vicente', 40, 'CV', 'SV', 'municipality', 'municipio', 16.8494412, -24.9718792),
+(2992, 'Sotavento Islands', 'Ilhas das Ilhas Sotavent', 40, 'CV', 'S', 'geographical region', 'región geográfica', 15.1200758, -23.6348181),
+(2983, 'Tarrafal', 'Tarrafal', 40, 'CV', 'TA', 'municipality', 'municipio', 15.2760578, -23.7484077),
+(3003, 'Tarrafal de São Nicolau', 'Tarrafal de São Nicolau', 40, 'CV', 'TS', 'municipality', 'municipio', 16.5636498, -24.354942);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (22003, 'Sal Rei', 2999, 40, 16.17611, -22.91722),

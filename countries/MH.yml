@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".mh"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 9
   longitude: 168
   emoji: "🇲🇭"
   states:
     -
       name: "Ailinglaplap"
+      native: "Ailinglaplap"
       code: "ALL"
       iso3166_2: "MH-ALL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.5
       longitude: 168.73333333
       cities:
@@ -31,9 +35,11 @@
           longitude: 168.73333333
     -
       name: "Ailuk"
+      native: "Ailuk"
       code: "ALK"
       iso3166_2: "MH-ALK"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.31666667
       longitude: 169.93333333
       cities:
@@ -43,9 +49,11 @@
           longitude: 169.93333333
     -
       name: "Arno"
+      native: "Arno"
       code: "ARN"
       iso3166_2: "MH-ARN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.08333333
       longitude: 171.7
       cities:
@@ -55,9 +63,11 @@
           longitude: 171.7
     -
       name: "Aur"
+      native: "Aur"
       code: "AUR"
       iso3166_2: "MH-AUR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.2
       longitude: 171.1
       cities:
@@ -67,9 +77,11 @@
           longitude: 171.1
     -
       name: "Bikini & Kili"
+      native: "Bikini & Kili"
       code: "KIL"
       iso3166_2: "MH-KIL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.6
       longitude: 165.4
       cities:
@@ -83,9 +95,11 @@
           longitude: 169.11666667
     -
       name: "Ebon"
+      native: "Ebon"
       code: "EBO"
       iso3166_2: "MH-EBO"
       type: "municipality"
+      type_es: "municipio"
       latitude: 4.63333333
       longitude: 168.71666667
       cities:
@@ -95,9 +109,11 @@
           longitude: 168.71666667
     -
       name: "Enewetak & Ujelang"
+      native: "Enewetak & Ujelang"
       code: "ENI"
       iso3166_2: "MH-ENI"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.5
       longitude: 162.33333333
       cities:
@@ -111,9 +127,11 @@
           longitude: 160.9
     -
       name: "Jabat"
+      native: "Jabat"
       code: "JAB"
       iso3166_2: "MH-JAB"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.75
       longitude: 168.96666667
       cities:
@@ -123,9 +141,11 @@
           longitude: 168.96666667
     -
       name: "Jaluit"
+      native: "Jaluit"
       code: "JAL"
       iso3166_2: "MH-JAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 6
       longitude: 169.56666667
       cities:
@@ -135,9 +155,11 @@
           longitude: 169.56666667
     -
       name: "Kwajalein"
+      native: "Kwajalein"
       code: "KWA"
       iso3166_2: "MH-KWA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.71666667
       longitude: 167.73333333
       cities:
@@ -147,9 +169,11 @@
           longitude: -111.92
     -
       name: "Lae"
+      native: "Lae"
       code: "LAE"
       iso3166_2: "MH-LAE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.93611111
       longitude: 166.2375
       cities:
@@ -159,9 +183,11 @@
           longitude: 166.2375
     -
       name: "Lib"
+      native: "Lib"
       code: "LIB"
       iso3166_2: "MH-LIB"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.31305556
       longitude: 167.37777778
       cities:
@@ -171,9 +197,11 @@
           longitude: 167.37777778
     -
       name: "Likiep"
+      native: "Likiep"
       code: "LIK"
       iso3166_2: "MH-LIK"
       type: "municipality"
+      type_es: "municipio"
       latitude: 9.88498
       longitude: 169.14345
       cities:
@@ -183,9 +211,11 @@
           longitude: 169.14345
     -
       name: "Majuro"
+      native: "Majuro"
       code: "MAJ"
       iso3166_2: "MH-MAJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.0918
       longitude: 171.3802
       cities:
@@ -195,9 +225,11 @@
           longitude: 171.38333333
     -
       name: "Maloelap"
+      native: "Maloelap"
       code: "MAL"
       iso3166_2: "MH-MAL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 8.75343611
       longitude: 171.04888889
       cities:
@@ -207,9 +239,11 @@
           longitude: 33.41666667
     -
       name: "Mejit"
+      native: "Mejit"
       code: "MEJ"
       iso3166_2: "MH-MEJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.28333333
       longitude: 170.88333333
       cities:
@@ -219,9 +253,11 @@
           longitude: 170.88333333
     -
       name: "Mili"
+      native: "Mili"
       code: "MIL"
       iso3166_2: "MH-MIL"
       type: "municipality"
+      type_es: "municipio"
       latitude: 6.12621667
       longitude: 171.97998056
       cities:
@@ -231,9 +267,11 @@
           longitude: 171.97998056
     -
       name: "Namdrik"
+      native: "Namdrik"
       code: "NMK"
       iso3166_2: "MH-NMK"
       type: "municipality"
+      type_es: "municipio"
       latitude: 5.61666667
       longitude: 168.11666667
       cities:
@@ -243,9 +281,11 @@
           longitude: 168.11666667
     -
       name: "Namu"
+      native: "Namu"
       code: "NMU"
       iso3166_2: "MH-NMU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 7.98333333
       longitude: 168.17361111
       cities:
@@ -255,27 +295,33 @@
           longitude: 168.17361111
     -
       name: "Ralik"
+      native: "Titled"
       code: "L"
       iso3166_2: "MH-L"
       type: "chain"
+      type_es: "archipiélago"
       latitude: 8.230817
       longitude: 167.7953224
       cities:
         []
     -
       name: "Ratak"
+      native: "Ratak"
       code: "T"
       iso3166_2: "MH-T"
       type: "chain"
+      type_es: "archipiélago"
       latitude: 8.615055
       longitude: 170.8205547
       cities:
         []
     -
       name: "Rongelap"
+      native: "Rongelap"
       code: "RON"
       iso3166_2: "MH-RON"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.31666667
       longitude: 166.78333333
       cities:
@@ -285,9 +331,11 @@
           longitude: 166.78333333
     -
       name: "Ujae"
+      native: "Ujae"
       code: "UJA"
       iso3166_2: "MH-UJA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 9.05
       longitude: 165.65
       cities:
@@ -297,9 +345,11 @@
           longitude: 165.65
     -
       name: "Utrik"
+      native: "Utrik"
       code: "UTI"
       iso3166_2: "MH-UTI"
       type: "municipality"
+      type_es: "municipio"
       latitude: 11.26730556
       longitude: 169.78426111
       cities:
@@ -309,9 +359,11 @@
           longitude: 169.78426111
     -
       name: "Wotho"
+      native: "Wotho"
       code: "WTH"
       iso3166_2: "MH-WTH"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.1
       longitude: 165.96666667
       cities:
@@ -321,9 +373,11 @@
           longitude: 165.96666667
     -
       name: "Wotje"
+      native: "Wotje"
       code: "WTJ"
       iso3166_2: "MH-WTJ"
       type: "municipality"
+      type_es: "municipio"
       latitude: 9.43333333
       longitude: 170.01666667
       cities:

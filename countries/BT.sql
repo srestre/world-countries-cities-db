@@ -1,41 +1,41 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(26, 'Bhutan', 'BT', 'BTN', 'Asia', 'Southern Asia', 'Thimphu', 'BTN', 27.5, 90.5, '🇧🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(26, 'Bhutan', 'Bután', 'BT', 'BTN', 'Asia', 'Asia', 'Southern Asia', 'Asia del Sur', 'Thimphu', 'BTN', 27.5, 90.5, '🇧🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(240, 'Bumthang ', 26, 'BT', '33', 'district', 27.7079132, 90.7697435),
-(239, 'Chukha ', 26, 'BT', '12', 'district', 27.0575803, 89.5638178),
-(238, 'Dagana ', 26, 'BT', '22', 'district', 27.0746653, 89.8786685),
-(229, 'Gasa ', 26, 'BT', 'GA', 'district', 27.9190875, 89.7875318),
-(232, 'Haa ', 26, 'BT', '13', 'district', 27.3596658, 89.2357556),
-(234, 'Lhuntse ', 26, 'BT', '44', 'district', 27.7287448, 91.1363624),
-(242, 'Mongar ', 26, 'BT', '42', 'district', 27.2763005, 91.237536),
-(237, 'Paro ', 26, 'BT', '11', 'district', 27.4285949, 89.4166516),
-(244, 'Pemagatshel ', 26, 'BT', '43', 'district', 27.0030415, 91.3677054),
-(235, 'Punakha ', 26, 'BT', '23', 'district', 27.5842857, 89.8593094),
-(243, 'Samdrup Jongkhar ', 26, 'BT', '45', 'district', 26.8035682, 91.5039207),
-(246, 'Samtse ', 26, 'BT', '14', 'district', 27.0352532, 89.0147344),
-(247, 'Sarpang ', 26, 'BT', '31', 'district', 26.9863897, 90.3800673),
-(241, 'Thimphu ', 26, 'BT', '15', 'district', 27.4712216, 89.6339041),
-(5242, 'Trashi Yangtse	', 26, 'BT', 'TY', 'district', 27.717585, 91.1981102),
-(236, 'Trashigang ', 26, 'BT', '41', 'district', 27.2843778, 91.5742509),
-(245, 'Trongsa ', 26, 'BT', '32', 'district', 27.5002269, 90.5080634),
-(230, 'Tsirang ', 26, 'BT', '21', 'district', 27.0072232, 90.1326289),
-(231, 'Wangdue Phodrang ', 26, 'BT', '24', 'district', 27.544634, 89.955581),
-(233, 'Zhemgang ', 26, 'BT', '34', 'district', 27.0821148, 90.8408984);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(240, 'Bumthang ', 'Bumthang ', 26, 'BT', '33', 'district', 'distrito', 27.7079132, 90.7697435),
+(239, 'Chukha ', 'Chukha ', 26, 'BT', '12', 'district', 'distrito', 27.0575803, 89.5638178),
+(238, 'Dagana ', 'Dagana ', 26, 'BT', '22', 'district', 'distrito', 27.0746653, 89.8786685),
+(229, 'Gasa ', 'Gasa ', 26, 'BT', 'GA', 'district', 'distrito', 27.9190875, 89.7875318),
+(232, 'Haa ', 'Haa ', 26, 'BT', '13', 'district', 'distrito', 27.3596658, 89.2357556),
+(234, 'Lhuntse ', 'Lhuntse ', 26, 'BT', '44', 'district', 'distrito', 27.7287448, 91.1363624),
+(242, 'Mongar ', 'Mongar ', 26, 'BT', '42', 'district', 'distrito', 27.2763005, 91.237536),
+(237, 'Paro ', 'Paro ', 26, 'BT', '11', 'district', 'distrito', 27.4285949, 89.4166516),
+(244, 'Pemagatshel ', 'Pemagatshel ', 26, 'BT', '43', 'district', 'distrito', 27.0030415, 91.3677054),
+(235, 'Punakha ', 'Punakha ', 26, 'BT', '23', 'district', 'distrito', 27.5842857, 89.8593094),
+(243, 'Samdrup Jongkhar ', 'Samdrup Jongkhar ', 26, 'BT', '45', 'district', 'distrito', 26.8035682, 91.5039207),
+(246, 'Samtse ', 'Samtse ', 26, 'BT', '14', 'district', 'distrito', 27.0352532, 89.0147344),
+(247, 'Sarpang ', 'Sarpang ', 26, 'BT', '31', 'district', 'distrito', 26.9863897, 90.3800673),
+(241, 'Thimphu ', 'Thimphu ', 26, 'BT', '15', 'district', 'distrito', 27.4712216, 89.6339041),
+(5242, 'Trashi Yangtse	', 'Trashi Yangtse	', 26, 'BT', 'TY', 'district', 'distrito', 27.717585, 91.1981102),
+(236, 'Trashigang ', 'Trashigang ', 26, 'BT', '41', 'district', 'distrito', 27.2843778, 91.5742509),
+(245, 'Trongsa ', 'Trongsa ', 26, 'BT', '32', 'district', 'distrito', 27.5002269, 90.5080634),
+(230, 'Tsirang ', 'Tsirang ', 26, 'BT', '21', 'district', 'distrito', 27.0072232, 90.1326289),
+(231, 'Wangdue Phodrang ', 'Wangdue Phodrang ', 26, 'BT', '24', 'district', 'distrito', 27.544634, 89.955581),
+(233, 'Zhemgang ', 'Zhemgang ', 26, 'BT', '34', 'district', 'distrito', 27.0821148, 90.8408984);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (15709, 'Jakar', 240, 26, 27.54918, 90.7525),

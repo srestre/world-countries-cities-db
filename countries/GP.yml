@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".gp"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 16.25
   longitude: -61.583333
   emoji: "🇬🇵"
   states:
     -
       name: "Basse-Terre"
+      native: "Basse-Terre"
       code: "01"
       iso3166_2: "GP-01"
       type: "district"
+      type_es: "distrito"
       latitude: 16.0000778
       longitude: -61.7333373
       cities:
@@ -99,9 +103,11 @@
           longitude: -61.7993923
     -
       name: "Pointe-à-Pitre"
+      native: "Pointe-à-Pitre"
       code: "02"
       iso3166_2: "GP-02"
       type: "district"
+      type_es: "distrito"
       latitude: 16.2408636
       longitude: -61.5334077
       cities:

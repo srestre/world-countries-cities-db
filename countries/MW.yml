@@ -12,34 +12,42 @@
   currency_symbol: "MK"
   tld: ".mw"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -13.5
   longitude: 34
   emoji: "🇲🇼"
   states:
     -
       name: "Balaka"
+      native: "Balaka"
       code: "BA"
       iso3166_2: "MW-BA"
       type: "district"
+      type_es: "distrito"
       latitude: -15.0347969
       longitude: 35.0605888
       cities:
         []
     -
       name: "Blantyre"
+      native: "Blantyre"
       code: "BL"
       iso3166_2: "MW-BL"
       type: "district"
+      type_es: "distrito"
       latitude: -15.6843502
       longitude: 34.9227838
       cities:
         []
     -
       name: "Central"
+      native: "Central"
       code: "C"
       iso3166_2: "MW-C"
       type: "region"
+      type_es: "región"
       latitude: -13.7442725
       longitude: 33.7056942
       cities:
@@ -125,171 +133,209 @@
           longitude: 34.40184
     -
       name: "Chikwawa"
+      native: "Chikwawa"
       code: "CK"
       iso3166_2: "MW-CK"
       type: "district"
+      type_es: "distrito"
       latitude: -16.215382
       longitude: 34.7228393
       cities:
         []
     -
       name: "Chiradzulu"
+      native: "Shael"
       code: "CR"
       iso3166_2: "MW-CR"
       type: "district"
+      type_es: "distrito"
       latitude: -15.75472
       longitude: 35.2055362
       cities:
         []
     -
       name: "Chitipa"
+      native: "Carpea"
       code: "CT"
       iso3166_2: "MW-CT"
       type: "district"
+      type_es: "distrito"
       latitude: -9.7037655
       longitude: 33.2700253
       cities:
         []
     -
       name: "Dedza"
+      native: "DEEE"
       code: "DE"
       iso3166_2: "MW-DE"
       type: "district"
+      type_es: "distrito"
       latitude: -14.2374479
       longitude: 34.3196514
       cities:
         []
     -
       name: "Dowa"
+      native: "Dowo"
       code: "DO"
       iso3166_2: "MW-DO"
       type: "district"
+      type_es: "distrito"
       latitude: -13.5387578
       longitude: 33.778108
       cities:
         []
     -
       name: "Karonga"
+      native: "Accessories"
       code: "KR"
       iso3166_2: "MW-KR"
       type: "district"
+      type_es: "distrito"
       latitude: -10.0847469
       longitude: 33.8661918
       cities:
         []
     -
       name: "Kasungu"
+      native: "Sowning"
       code: "KS"
       iso3166_2: "MW-KS"
       type: "district"
+      type_es: "distrito"
       latitude: -12.9921789
       longitude: 33.4724535
       cities:
         []
     -
       name: "Likoma"
+      native: "Love"
       code: "LK"
       iso3166_2: "MW-LK"
       type: "district"
+      type_es: "distrito"
       latitude: -12.0584005
       longitude: 34.7354031
       cities:
         []
     -
       name: "Lilongwe"
+      native: "Lilongwe"
       code: "LI"
       iso3166_2: "MW-LI"
       type: "district"
+      type_es: "distrito"
       latitude: -14.0414105
       longitude: 33.7353708
       cities:
         []
     -
       name: "Machinga"
+      native: "Machinga"
       code: "MH"
       iso3166_2: "MW-MH"
       type: "district"
+      type_es: "distrito"
       latitude: -14.9094681
       longitude: 35.601696
       cities:
         []
     -
       name: "Mangochi"
+      native: "Mangochi"
       code: "MG"
       iso3166_2: "MW-MG"
       type: "district"
+      type_es: "distrito"
       latitude: -14.141111
       longitude: 35.3267495
       cities:
         []
     -
       name: "Mchinji"
+      native: "Hybpha"
       code: "MC"
       iso3166_2: "MW-MC"
       type: "district"
+      type_es: "distrito"
       latitude: -13.7828897
       longitude: 33.0204739
       cities:
         []
     -
       name: "Mulanje"
+      native: "Poporary"
       code: "MU"
       iso3166_2: "MW-MU"
       type: "district"
+      type_es: "distrito"
       latitude: -15.91088
       longitude: 35.541255
       cities:
         []
     -
       name: "Mwanza"
+      native: "Mwanza"
       code: "MW"
       iso3166_2: "MW-MW"
       type: "district"
+      type_es: "distrito"
       latitude: -15.6136031
       longitude: 34.5146595
       cities:
         []
     -
       name: "Mzimba"
+      native: "Immoral"
       code: "MZ"
       iso3166_2: "MW-MZ"
       type: "district"
+      type_es: "distrito"
       latitude: -11.8458102
       longitude: 33.5578319
       cities:
         []
     -
       name: "Neno"
+      native: "The word"
       code: "NE"
       iso3166_2: "MW-NE"
       type: "district"
+      type_es: "distrito"
       latitude: -15.5137183
       longitude: 34.6832205
       cities:
         []
     -
       name: "Nkhata Bay"
+      native: "Correas"
       code: "NB"
       iso3166_2: "MW-NB"
       type: "district"
+      type_es: "distrito"
       latitude: -11.606995
       longitude: 34.2983907
       cities:
         []
     -
       name: "Nkhotakota"
+      native: "Blast"
       code: "NK"
       iso3166_2: "MW-NK"
       type: "district"
+      type_es: "distrito"
       latitude: -12.8321965
       longitude: 34.0329177
       cities:
         []
     -
       name: "Northern"
+      native: "Northern"
       code: "N"
       iso3166_2: "MW-N"
       type: "region"
+      type_es: "región"
       latitude: -11.0491652
       longitude: 33.7730261
       cities:
@@ -347,63 +393,77 @@
           longitude: 33.80524
     -
       name: "Nsanje"
+      native: "Jealousy"
       code: "NS"
       iso3166_2: "MW-NS"
       type: "district"
+      type_es: "distrito"
       latitude: -16.7199917
       longitude: 35.1011088
       cities:
         []
     -
       name: "Ntcheu"
+      native: "Ntcheu"
       code: "NU"
       iso3166_2: "MW-NU"
       type: "district"
+      type_es: "distrito"
       latitude: -14.8227293
       longitude: 34.7687178
       cities:
         []
     -
       name: "Ntchisi"
+      native: "Nice"
       code: "NI"
       iso3166_2: "MW-NI"
       type: "district"
+      type_es: "distrito"
       latitude: -13.276988
       longitude: 33.8546272
       cities:
         []
     -
       name: "Phalombe"
+      native: "Olf"
       code: "PH"
       iso3166_2: "MW-PH"
       type: "district"
+      type_es: "distrito"
       latitude: -15.6922071
       longitude: 35.6650523
       cities:
         []
     -
       name: "Rumphi"
+      native: "Rumphi"
       code: "RU"
       iso3166_2: "MW-RU"
       type: "district"
+      type_es: "distrito"
       latitude: -10.7909326
       longitude: 33.8507118
       cities:
         []
     -
       name: "Salima"
+      native: "Salima"
       code: "SA"
       iso3166_2: "MW-SA"
       type: "district"
+      type_es: "distrito"
       latitude: -13.7628984
       longitude: 34.45237
       cities:
         []
     -
       name: "Southern"
+      native: "Southern"
       code: "S"
       iso3166_2: "MW-S"
       type: "region"
+      type_es: "región"
       latitude: -15.3062901
       longitude: 35.3283174
       cities:
@@ -521,18 +581,22 @@
           longitude: 35.41829
     -
       name: "Thyolo"
+      native: "The thin"
       code: "TH"
       iso3166_2: "MW-TH"
       type: "district"
+      type_es: "distrito"
       latitude: -16.1287747
       longitude: 35.1449132
       cities:
         []
     -
       name: "Zomba"
+      native: "Abortion"
       code: "ZO"
       iso3166_2: "MW-ZO"
       type: "district"
+      type_es: "distrito"
       latitude: -15.3863208
       longitude: 35.3268273
       cities:

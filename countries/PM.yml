@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".pm"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 46.83333333
   longitude: -56.33333333
   emoji: "🇵🇲"
   states:
     -
       name: "Saint-Pierre and Miquelon"
+      native: "Saint-Pierre-et-Miquelon"
       code: "01"
       iso3166_2: "FR-PM"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: 46.83333333
       longitude: -56.33333333
       cities:

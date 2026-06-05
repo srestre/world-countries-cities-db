@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".zw"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -20
   longitude: 30
   emoji: "🇿🇼"
   states:
     -
       name: "Bulawayo"
+      native: "Bulawayo"
       code: "BU"
       iso3166_2: "ZW-BU"
       type: "province"
+      type_es: "provincia"
       latitude: -20.1111148
       longitude: 28.5356781
       cities:
@@ -31,9 +35,11 @@
           longitude: 28.58333
     -
       name: "Harare"
+      native: "Harare"
       code: "HA"
       iso3166_2: "ZW-HA"
       type: "province"
+      type_es: "provincia"
       latitude: -17.831773
       longitude: 31.045686
       cities:
@@ -51,9 +57,11 @@
           longitude: 31.05337
     -
       name: "Manicaland"
+      native: "Manicaland"
       code: "MA"
       iso3166_2: "ZW-MA"
       type: "province"
+      type_es: "provincia"
       latitude: -19.0188422
       longitude: 32.368889
       cities:
@@ -127,9 +135,11 @@
           longitude: 32.12843
     -
       name: "Mashonaland Central"
+      native: "Mashonaland Central"
       code: "MC"
       iso3166_2: "ZW-MC"
       type: "province"
+      type_es: "provincia"
       latitude: -16.742872
       longitude: 31.2952086
       cities:
@@ -191,9 +201,11 @@
           longitude: 31.64146
     -
       name: "Mashonaland East"
+      native: "Mashonaland East"
       code: "ME"
       iso3166_2: "ZW-ME"
       type: "province"
+      type_es: "provincia"
       latitude: -17.7927323
       longitude: 31.7678044
       cities:
@@ -243,9 +255,11 @@
           longitude: 31.24472
     -
       name: "Mashonaland West"
+      native: "Mashonaland West"
       code: "MW"
       iso3166_2: "ZW-MW"
       type: "province"
+      type_es: "provincia"
       latitude: -17.4851029
       longitude: 29.7889248
       cities:
@@ -315,9 +329,11 @@
           longitude: 30.43333
     -
       name: "Masvingo"
+      native: "Masvingo"
       code: "MV"
       iso3166_2: "ZW-MV"
       type: "province"
+      type_es: "provincia"
       latitude: -20.7453957
       longitude: 31.334138
       cities:
@@ -363,9 +379,11 @@
           longitude: 30.06648
     -
       name: "Matabeleland North"
+      native: "Matabeleland North"
       code: "MN"
       iso3166_2: "ZW-MN"
       type: "province"
+      type_es: "provincia"
       latitude: -18.9283715
       longitude: 27.4992231
       cities:
@@ -419,9 +437,11 @@
           longitude: 25.83066
     -
       name: "Matabeleland South"
+      native: "Matabeleland South"
       code: "MS"
       iso3166_2: "ZW-MS"
       type: "province"
+      type_es: "provincia"
       latitude: -20.7364801
       longitude: 28.9396495
       cities:
@@ -475,9 +495,11 @@
           longitude: 28.94994
     -
       name: "Midlands"
+      native: "Midlands"
       code: "MI"
       iso3166_2: "ZW-MI"
       type: "province"
+      type_es: "provincia"
       latitude: -19.2785043
       longitude: 29.8790852
       cities:

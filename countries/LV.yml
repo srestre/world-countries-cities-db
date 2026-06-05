@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".lv"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 57
   longitude: 25
   emoji: "🇱🇻"
   states:
     -
       name: "Ādaži"
+      native: "Ādaži"
       code: "011"
       iso3166_2: "LV-011"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.0874671
       longitude: 24.3195797
       cities:
@@ -31,9 +35,11 @@
           longitude: 24.28423
     -
       name: "Aizkraukle"
+      native: "Aizkraukle"
       code: "002"
       iso3166_2: "LV-002"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6166708
       longitude: 25.2230643
       cities:
@@ -63,9 +69,11 @@
           longitude: 25.12058
     -
       name: "Alūksne"
+      native: "Alūksne"
       code: "007"
       iso3166_2: "LV-007"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.4254485
       longitude: 27.0424968
       cities:
@@ -75,9 +83,11 @@
           longitude: 27.04662
     -
       name: "Augšdaugava"
+      native: "Augšdaugava"
       code: "111"
       iso3166_2: "LV-111"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.8561323
       longitude: 27.0458076
       cities:
@@ -91,9 +101,11 @@
           longitude: 26.29655
     -
       name: "Balvi"
+      native: "Balvi"
       code: "015"
       iso3166_2: "LV-015"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.132624
       longitude: 27.2646685
       cities:
@@ -115,9 +127,11 @@
           longitude: 27.6722
     -
       name: "Bauska"
+      native: "Bauska"
       code: "016"
       iso3166_2: "LV-016"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.4101868
       longitude: 24.2000689
       cities:
@@ -139,9 +153,11 @@
           longitude: 24.52232
     -
       name: "Cēsis"
+      native: "Cēsis"
       code: "022"
       iso3166_2: "LV-022"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.3102897
       longitude: 25.2676125
       cities:
@@ -167,18 +183,22 @@
           longitude: 25.81624
     -
       name: "Daugavpils"
+      native: "Daugavpils"
       code: "DGV"
       iso3166_2: "LV-DGV"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 55.8712267
       longitude: 26.5159337
       cities:
         []
     -
       name: "Dienvidkurzemes"
+      native: "Dienvidkurzemes"
       code: "112"
       iso3166_2: "LV-112"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.5224575
       longitude: 21.4595894
       cities:
@@ -216,9 +236,11 @@
           longitude: 21.85405
     -
       name: "Dobele"
+      native: "Dobele"
       code: "026"
       iso3166_2: "LV-026"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.626305
       longitude: 23.2809066
       cities:
@@ -240,9 +262,11 @@
           longitude: 23.35194
     -
       name: "Gulbene"
+      native: "Gulbene"
       code: "033"
       iso3166_2: "LV-033"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.1759721
       longitude: 26.7514713
       cities:
@@ -252,9 +276,11 @@
           longitude: 26.75291
     -
       name: "Jēkabpils"
+      native: "Jēkabpils"
       code: "042"
       iso3166_2: "LV-042"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.4958638
       longitude: 25.8687747
       cities:
@@ -276,9 +302,11 @@
           longitude: 25.55514
     -
       name: "Jelgava"
+      native: "Jelgava"
       code: "041"
       iso3166_2: "LV-041"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6514394
       longitude: 23.7339143
       cities:
@@ -292,9 +320,11 @@
           longitude: 23.58902
     -
       name: "Jelgava"
+      native: "Jelgava"
       code: "JEL"
       iso3166_2: "LV-JEL"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.6514394
       longitude: 23.7339143
       cities:
@@ -304,9 +334,11 @@
           longitude: 23.71278
     -
       name: "Jūrmala"
+      native: "Jūrmala"
       code: "JUR"
       iso3166_2: "LV-JUR"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.9727164
       longitude: 23.7886979
       cities:
@@ -316,9 +348,11 @@
           longitude: 23.77038
     -
       name: "Ķekava"
+      native: "Ķekava"
       code: "052"
       iso3166_2: "LV-052"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8258465
       longitude: 24.2208128
       cities:
@@ -336,9 +370,11 @@
           longitude: 24.23
     -
       name: "Krāslava"
+      native: "Krāslava"
       code: "047"
       iso3166_2: "LV-047"
       type: "municipality"
+      type_es: "municipio"
       latitude: 55.895206
       longitude: 27.1619304
       cities:
@@ -352,9 +388,11 @@
           longitude: 27.16799
     -
       name: "Kuldīga"
+      native: "Kuldīga"
       code: "050"
       iso3166_2: "LV-050"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.9687257
       longitude: 21.9613739
       cities:
@@ -372,9 +410,11 @@
           longitude: 22.01649
     -
       name: "Liepāja"
+      native: "Liepāja"
       code: "LPX"
       iso3166_2: "LV-LPX"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.5046678
       longitude: 21.010806
       cities:
@@ -388,9 +428,11 @@
           longitude: 21.01085
     -
       name: "Limbaži"
+      native: "Limbaži"
       code: "054"
       iso3166_2: "LV-054"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.5146586
       longitude: 24.7131536
       cities:
@@ -416,9 +458,11 @@
           longitude: 24.74706
     -
       name: "Līvāni"
+      native: "Līvāni"
       code: "056"
       iso3166_2: "LV-056"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.3550942
       longitude: 26.172519
       cities:
@@ -428,9 +472,11 @@
           longitude: 26.17579
     -
       name: "Ludza"
+      native: "Ludza"
       code: "058"
       iso3166_2: "LV-058"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.545959
       longitude: 27.7143199
       cities:
@@ -452,9 +498,11 @@
           longitude: 28.12165
     -
       name: "Madona"
+      native: "Madona"
       code: "059"
       iso3166_2: "LV-059"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8517467
       longitude: 26.2184769
       cities:
@@ -476,9 +524,11 @@
           longitude: 26.21698
     -
       name: "Mārupe"
+      native: "Mārupe"
       code: "062"
       iso3166_2: "LV-062"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8965717
       longitude: 24.0460049
       cities:
@@ -492,9 +542,11 @@
           longitude: 23.91365
     -
       name: "Ogre"
+      native: "Ogre"
       code: "067"
       iso3166_2: "LV-067"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8147355
       longitude: 24.6044555
       cities:
@@ -520,9 +572,11 @@
           longitude: 24.61401
     -
       name: "Olaine"
+      native: "Olaine"
       code: "068"
       iso3166_2: "LV-068"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.7905906
       longitude: 23.9331981
       cities:
@@ -532,9 +586,11 @@
           longitude: 23.9358
     -
       name: "Preiļi"
+      native: "Preiļi"
       code: "073"
       iso3166_2: "LV-073"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.2937366
       longitude: 26.7266734
       cities:
@@ -560,9 +616,11 @@
           longitude: 26.50811
     -
       name: "Rēzekne"
+      native: "Rēzekne"
       code: "REZ"
       iso3166_2: "LV-REZ"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.506281
       longitude: 27.3306623
       cities:
@@ -572,9 +630,11 @@
           longitude: 27.34
     -
       name: "Rēzekne"
+      native: "Rēzekne"
       code: "077"
       iso3166_2: "LV-077"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.506281
       longitude: 27.3306623
       cities:
@@ -584,9 +644,11 @@
           longitude: 26.92449
     -
       name: "Riga"
+      native: "Riga"
       code: "RIX"
       iso3166_2: "LV-RIX"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 56.9496487
       longitude: 24.1051865
       cities:
@@ -612,9 +674,11 @@
           longitude: 24.10589
     -
       name: "Ropaži"
+      native: "Ropaži"
       code: "080"
       iso3166_2: "LV-080"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.9713771
       longitude: 24.6307233
       cities:
@@ -636,9 +700,11 @@
           longitude: 24.54468
     -
       name: "Salaspils"
+      native: "Salaspils"
       code: "087"
       iso3166_2: "LV-087"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.8608152
       longitude: 24.3497881
       cities:
@@ -648,9 +714,11 @@
           longitude: 24.36544
     -
       name: "Saldus"
+      native: "Mīļš"
       code: "088"
       iso3166_2: "LV-088"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6665088
       longitude: 22.4935493
       cities:
@@ -664,9 +732,11 @@
           longitude: 22.48807
     -
       name: "Saulkrasti"
+      native: "Saulkrasti"
       code: "089"
       iso3166_2: "LV-089"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.2579418
       longitude: 24.4183146
       cities:
@@ -676,9 +746,11 @@
           longitude: 24.41471
     -
       name: "Sigulda"
+      native: "Sigulda"
       code: "091"
       iso3166_2: "LV-091"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.1540561
       longitude: 24.8567141
       cities:
@@ -696,9 +768,11 @@
           longitude: 24.85953
     -
       name: "Smiltene"
+      native: "Smiltene"
       code: "094"
       iso3166_2: "LV-094"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.4230332
       longitude: 25.900278
       cities:
@@ -716,9 +790,11 @@
           longitude: 25.90164
     -
       name: "Talsi"
+      native: "Talsi"
       code: "097"
       iso3166_2: "LV-097"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.2451926
       longitude: 22.5903003
       cities:
@@ -748,9 +824,11 @@
           longitude: 22.59188
     -
       name: "Tukums"
+      native: "Tukums"
       code: "099"
       iso3166_2: "LV-099"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.9672868
       longitude: 23.1524379
       cities:
@@ -776,9 +854,11 @@
           longitude: 23.15554
     -
       name: "Valka"
+      native: "Valka"
       code: "101"
       iso3166_2: "LV-101"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.77439
       longitude: 26.017005
       cities:
@@ -788,9 +868,11 @@
           longitude: 26.01013
     -
       name: "Valmiera"
+      native: "Valmiera"
       code: "113"
       iso3166_2: "LV-113"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.5384659
       longitude: 25.4263618
       cities:
@@ -828,9 +910,11 @@
           longitude: 25.42751
     -
       name: "Varakļāni"
+      native: "Varakļāni"
       code: "102"
       iso3166_2: "LV-102"
       type: "municipality"
+      type_es: "municipio"
       latitude: 56.6088743
       longitude: 26.7539093
       cities:
@@ -840,9 +924,11 @@
           longitude: 26.75377
     -
       name: "Ventspils"
+      native: "Ventspils"
       code: "VEN"
       iso3166_2: "LV-VEN"
       type: "state city"
+      type_es: "ciudad-estado"
       latitude: 57.3903918
       longitude: 21.5635991
       cities:
@@ -852,9 +938,11 @@
           longitude: 21.57288
     -
       name: "Ventspils"
+      native: "Ventspils"
       code: "106"
       iso3166_2: "LV-106"
       type: "municipality"
+      type_es: "municipio"
       latitude: 57.3903918
       longitude: 21.5635991
       cities:

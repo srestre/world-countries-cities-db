@@ -12,16 +12,20 @@
   currency_symbol: "﷼"
   tld: ".sa"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 25
   longitude: 45
   emoji: "🇸🇦"
   states:
     -
       name: "Al Bahah"
+      native: "الباحة"
       code: "11"
       iso3166_2: "SA-11"
       type: "region"
+      type_es: "región"
       latitude: 20.2372671
       longitude: 41.4615479
       cities:
@@ -39,9 +43,11 @@
           longitude: 41.05
     -
       name: "Al Jawf"
+      native: "الجوف"
       code: "12"
       iso3166_2: "SA-12"
       type: "region"
+      type_es: "región"
       latitude: 29.7673818
       longitude: 39.5629883
       cities:
@@ -79,9 +85,11 @@
           longitude: 38.21603
     -
       name: "Al Madinah"
+      native: "المدينة المنورة"
       code: "03"
       iso3166_2: "SA-03"
       type: "region"
+      type_es: "región"
       latitude: 25.1354363
       longitude: 39.162594
       cities:
@@ -327,9 +335,11 @@
           longitude: 38.0618
     -
       name: "Al-Qassim"
+      native: "القصيم"
       code: "05"
       iso3166_2: "SA-05"
       type: "region"
+      type_es: "región"
       latitude: 26.1942235
       longitude: 43.4565711
       cities:
@@ -383,9 +393,11 @@
           longitude: 42.8343
     -
       name: "Asir"
+      native: "عسير"
       code: "14"
       iso3166_2: "SA-14"
       type: "region"
+      type_es: "región"
       latitude: 19.166667
       longitude: 43.166667
       cities:
@@ -427,9 +439,11 @@
           longitude: 42.4
     -
       name: "Eastern Province"
+      native: "المنطقة الشرقية"
       code: "04"
       iso3166_2: "SA-04"
       type: "region"
+      type_es: "región"
       latitude: 23.3036077
       longitude: 50.1258804
       cities:
@@ -583,9 +597,11 @@
           longitude: 50.2144
     -
       name: "Ha'il"
+      native: "يشيد"
       code: "06"
       iso3166_2: "SA-06"
       type: "region"
+      type_es: "región"
       latitude: 26.9920987
       longitude: 41.4892578
       cities:
@@ -639,9 +655,11 @@
           longitude: 41.45
     -
       name: "Jizan"
+      native: "جيزان"
       code: "09"
       iso3166_2: "SA-09"
       type: "region"
+      type_es: "región"
       latitude: 17.333333
       longitude: 42.666667
       cities:
@@ -911,9 +929,11 @@
           longitude: 42.94435
     -
       name: "Makkah"
+      native: "مكة المكرمة"
       code: "02"
       iso3166_2: "SA-02"
       type: "region"
+      type_es: "región"
       latitude: 21.6698063
       longitude: 41.4996029
       cities:
@@ -1507,9 +1527,11 @@
           longitude: 39.85
     -
       name: "Najran"
+      native: "نجران"
       code: "10"
       iso3166_2: "SA-10"
       type: "region"
+      type_es: "región"
       latitude: 18
       longitude: 45.666667
       cities:
@@ -1543,9 +1565,11 @@
           longitude: 44.32639
     -
       name: "Northern Borders"
+      native: "الحدود الشمالية"
       code: "08"
       iso3166_2: "SA-08"
       type: "region"
+      type_es: "región"
       latitude: 30
       longitude: 42.666667
       cities:
@@ -1567,9 +1591,11 @@
           longitude: 44.69549
     -
       name: "Riyadh"
+      native: "الرياض"
       code: "01"
       iso3166_2: "SA-01"
       type: "region"
+      type_es: "región"
       latitude: 23.333333
       longitude: 45.333333
       cities:
@@ -1695,9 +1721,11 @@
           longitude: 44.3924
     -
       name: "Tabuk"
+      native: "تبوك"
       code: "07"
       iso3166_2: "SA-07"
       type: "region"
+      type_es: "región"
       latitude: 28.3251866
       longitude: 37.6328648
       cities:

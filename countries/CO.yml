@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".co"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: 4
   longitude: -72
   emoji: "🇨🇴"
   states:
     -
       name: "Amazonas"
+      native: "Amazonas"
       code: "AMA"
       iso3166_2: "CO-AMA"
       type: "department"
+      type_es: "departamento"
       latitude: -1.305299
       longitude: -71.4659212
       cities:
@@ -71,9 +75,11 @@
           longitude: -69.77692
     -
       name: "Antioquia"
+      native: "Antioquia"
       code: "ANT"
       iso3166_2: "CO-ANT"
       type: "department"
+      type_es: "departamento"
       latitude: 7.0000085
       longitude: -75.5000086
       cities:
@@ -579,9 +585,11 @@
           longitude: -74.86919
     -
       name: "Arauca"
+      native: "Arauca"
       code: "ARA"
       iso3166_2: "CO-ARA"
       type: "department"
+      type_es: "departamento"
       latitude: 6.6666755
       longitude: -71.0000086
       cities:
@@ -615,9 +623,11 @@
           longitude: -71.73618
     -
       name: "Atlántico"
+      native: "atlántico"
       code: "ATL"
       iso3166_2: "CO-ATL"
       type: "department"
+      type_es: "departamento"
       latitude: 10.6773422
       longitude: -74.9718666
       cities:
@@ -715,9 +725,11 @@
           longitude: -74.97604
     -
       name: "Bogotá D.C."
+      native: "Bogotá D.C."
       code: "DC"
       iso3166_2: "CO-DC"
       type: "capital district"
+      type_es: "distrito capital"
       latitude: 4.2834715
       longitude: -74.1753606
       cities:
@@ -727,9 +739,11 @@
           longitude: -74.0705
     -
       name: "Bolívar"
+      native: "Bolívar"
       code: "BOL"
       iso3166_2: "CO-BOL"
       type: "department"
+      type_es: "departamento"
       latitude: 9.3660477
       longitude: -74.8023636
       cities:
@@ -919,9 +933,11 @@
           longitude: -74.88487
     -
       name: "Boyacá"
+      native: "Boyacá"
       code: "BOY"
       iso3166_2: "CO-BOY"
       type: "department"
+      type_es: "departamento"
       latitude: 5.4428193
       longitude: -73.3745224
       cities:
@@ -1419,9 +1435,11 @@
           longitude: -73.18275
     -
       name: "Caldas"
+      native: "Caldas"
       code: "CAL"
       iso3166_2: "CO-CAL"
       type: "department"
+      type_es: "departamento"
       latitude: 5.3302514
       longitude: -75.2873471
       cities:
@@ -1535,9 +1553,11 @@
           longitude: -75.87159
     -
       name: "Caquetá"
+      native: "Caquetá"
       code: "CAQ"
       iso3166_2: "CO-CAQ"
       type: "department"
+      type_es: "departamento"
       latitude: 1.1153385
       longitude: -74.1056838
       cities:
@@ -1607,9 +1627,11 @@
           longitude: -75.70746
     -
       name: "Casanare"
+      native: "Casanare"
       code: "CAS"
       iso3166_2: "CO-CAS"
       type: "department"
+      type_es: "departamento"
       latitude: 5.5000085
       longitude: -71.5000086
       cities:
@@ -1691,9 +1713,11 @@
           longitude: -72.39586
     -
       name: "Cauca"
+      native: "Cauca"
       code: "CAU"
       iso3166_2: "CO-CAU"
       type: "department"
+      type_es: "departamento"
       latitude: 2.715645
       longitude: -76.662665
       cities:
@@ -1867,9 +1891,11 @@
           longitude: -76.84939
     -
       name: "Cesar"
+      native: "César"
       code: "CES"
       iso3166_2: "CO-CES"
       type: "department"
+      type_es: "departamento"
       latitude: 9.3333415
       longitude: -73.5000086
       cities:
@@ -1975,9 +2001,11 @@
           longitude: -73.25322
     -
       name: "Chocó"
+      native: "Chocó"
       code: "CHO"
       iso3166_2: "CO-CHO"
       type: "department"
+      type_es: "departamento"
       latitude: 6.0000085
       longitude: -77.0000086
       cities:
@@ -2103,9 +2131,11 @@
           longitude: -76.63
     -
       name: "Córdoba"
+      native: "Córdoba"
       code: "COR"
       iso3166_2: "CO-COR"
       type: "department"
+      type_es: "departamento"
       latitude: 8.3344713
       longitude: -75.6666238
       cities:
@@ -2231,9 +2261,11 @@
           longitude: -76.21428
     -
       name: "Cundinamarca"
+      native: "Cundinamarca"
       code: "CUN"
       iso3166_2: "CO-CUN"
       type: "department"
+      type_es: "departamento"
       latitude: 5.1096596
       longitude: -74.0995854
       cities:
@@ -2703,9 +2735,11 @@
           longitude: -74.00481
     -
       name: "Guainía"
+      native: "Guainía"
       code: "GUA"
       iso3166_2: "CO-GUA"
       type: "department"
+      type_es: "departamento"
       latitude: 2.5000086
       longitude: -69.0000086
       cities:
@@ -2747,9 +2781,11 @@
           longitude: -67.34122
     -
       name: "Guaviare"
+      native: "Guaviare"
       code: "GUV"
       iso3166_2: "CO-GUV"
       type: "department"
+      type_es: "departamento"
       latitude: 1.7899198
       longitude: -72.3761784
       cities:
@@ -2771,9 +2807,11 @@
           longitude: -72.64591
     -
       name: "Huila"
+      native: "Ruedas"
       code: "HUI"
       iso3166_2: "CO-HUI"
       type: "department"
+      type_es: "departamento"
       latitude: 2.4738993
       longitude: -75.5900113
       cities:
@@ -2927,9 +2965,11 @@
           longitude: -75.5175
     -
       name: "La Guajira"
+      native: "La Guajira"
       code: "LAG"
       iso3166_2: "CO-LAG"
       type: "department"
+      type_es: "departamento"
       latitude: 11.4354118
       longitude: -72.9002161
       cities:
@@ -2995,9 +3035,11 @@
           longitude: -72.96077
     -
       name: "Magdalena"
+      native: "Magdalena"
       code: "MAG"
       iso3166_2: "CO-MAG"
       type: "department"
+      type_es: "departamento"
       latitude: 10.5808075
       longitude: -74.0685669
       cities:
@@ -3123,9 +3165,11 @@
           longitude: -74.15722
     -
       name: "Meta"
+      native: "Meta"
       code: "MET"
       iso3166_2: "CO-MET"
       type: "department"
+      type_es: "departamento"
       latitude: 5.1554448
       longitude: -70.8653784
       cities:
@@ -3247,9 +3291,11 @@
           longitude: -73.75156
     -
       name: "Nariño"
+      native: "Nariño"
       code: "NAR"
       iso3166_2: "CO-NAR"
       type: "department"
+      type_es: "departamento"
       latitude: 1.289151
       longitude: -77.35794
       cities:
@@ -3511,9 +3557,11 @@
           longitude: -77.40169
     -
       name: "Norte de Santander"
+      native: "Norte de Santander"
       code: "NSA"
       iso3166_2: "CO-NSA"
       type: "department"
+      type_es: "departamento"
       latitude: 8.4417924
       longitude: -73.0492505
       cities:
@@ -3679,9 +3727,11 @@
           longitude: -72.48182
     -
       name: "Putumayo"
+      native: "Putumayo"
       code: "PUT"
       iso3166_2: "CO-PUT"
       type: "department"
+      type_es: "departamento"
       latitude: 0.5000086
       longitude: -76.0000086
       cities:
@@ -3739,9 +3789,11 @@
           longitude: -76.72794
     -
       name: "Quindío"
+      native: "Quindío"
       code: "QUI"
       iso3166_2: "CO-QUI"
       type: "department"
+      type_es: "departamento"
       latitude: 4.4028313
       longitude: -75.7025795
       cities:
@@ -3795,9 +3847,11 @@
           longitude: -75.5674
     -
       name: "Risaralda"
+      native: "Risaralda"
       code: "RIS"
       iso3166_2: "CO-RIS"
       type: "department"
+      type_es: "departamento"
       latitude: 5.2102948
       longitude: -75.9842236
       cities:
@@ -3859,9 +3913,11 @@
           longitude: -75.9906
     -
       name: "San Andrés, Providencia y Santa Catalina"
+      native: "San Andrés, Providencia y Santa Catalina"
       code: "SAP"
       iso3166_2: "CO-SAP"
       type: "department"
+      type_es: "departamento"
       latitude: 12.5375979
       longitude: -81.7204155
       cities:
@@ -3875,9 +3931,11 @@
           longitude: -81.7204155
     -
       name: "Santander"
+      native: "Santander"
       code: "SAN"
       iso3166_2: "CO-SAN"
       type: "department"
+      type_es: "departamento"
       latitude: 7.0000085
       longitude: -73.2500086
       cities:
@@ -4231,9 +4289,11 @@
           longitude: -73.26768
     -
       name: "Sucre"
+      native: "Sucre"
       code: "SUC"
       iso3166_2: "CO-SUC"
       type: "department"
+      type_es: "departamento"
       latitude: 9
       longitude: -75
       cities:
@@ -4343,9 +4403,11 @@
           longitude: -75.43864
     -
       name: "Tolima"
+      native: "Tolima"
       code: "TOL"
       iso3166_2: "CO-TOL"
       type: "department"
+      type_es: "departamento"
       latitude: 4.0355786
       longitude: -75.2086642
       cities:
@@ -4539,9 +4601,11 @@
           longitude: -74.65258
     -
       name: "Valle del Cauca"
+      native: "Valle del Cauca"
       code: "VAC"
       iso3166_2: "CO-VAC"
       type: "department"
+      type_es: "departamento"
       latitude: 3.6984053
       longitude: -76.5501996
       cities:
@@ -4715,9 +4779,11 @@
           longitude: -76.0715
     -
       name: "Vaupés"
+      native: "Vaupés"
       code: "VAU"
       iso3166_2: "CO-VAU"
       type: "department"
+      type_es: "departamento"
       latitude: 0.4228124
       longitude: -70.9468372
       cities:
@@ -4747,9 +4813,11 @@
           longitude: -69.62959
     -
       name: "Vichada"
+      native: "Vichada"
       code: "VID"
       iso3166_2: "CO-VID"
       type: "department"
+      type_es: "departamento"
       latitude: 4.8686613
       longitude: -69.3736658
       cities:

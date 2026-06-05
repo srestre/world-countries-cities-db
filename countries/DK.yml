@@ -12,16 +12,20 @@
   currency_symbol: "Kr."
   tld: ".dk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 56
   longitude: 10
   emoji: "🇩🇰"
   states:
     -
       name: "Central Denmark"
+      native: "Central Danmark"
       code: "82"
       iso3166_2: "DK-82"
       type: "region"
+      type_es: "región"
       latitude: 56.2356483
       longitude: 9.234625
       cities:
@@ -407,9 +411,11 @@
           longitude: 9.55582
     -
       name: "Denmark"
+      native: "Danmark"
       code: "84"
       iso3166_2: "DK-84"
       type: "region"
+      type_es: "región"
       latitude: 55.670249
       longitude: 10.3333283
       cities:
@@ -763,9 +769,11 @@
           longitude: 12.23837
     -
       name: "North Denmark"
+      native: "North Danmark"
       code: "81"
       iso3166_2: "DK-81"
       type: "region"
+      type_es: "región"
       latitude: 56.8152793
       longitude: 9.7273308
       cities:
@@ -995,9 +1003,11 @@
           longitude: 9.94176
     -
       name: "Southern Denmark"
+      native: "Sydlige Danmark"
       code: "83"
       iso3166_2: "DK-83"
       type: "region"
+      type_es: "región"
       latitude: 55.3784263
       longitude: 9.1318064
       cities:
@@ -1439,9 +1449,11 @@
           longitude: 9.30603
     -
       name: "Zealand"
+      native: "Zealand"
       code: "85"
       iso3166_2: "DK-85"
       type: "region"
+      type_es: "región"
       latitude: 55.5455979
       longitude: 11.6973741
       cities:

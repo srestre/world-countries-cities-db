@@ -1,40 +1,40 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(104, 'Iraq', 'IQ', 'IRQ', 'Asia', 'Western Asia', 'Baghdad', 'IQD', 33, 44, '🇮🇶');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(104, 'Iraq', 'Irak', 'IQ', 'IRQ', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Baghdad', 'IQD', 33, 44, '🇮🇶');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3964, 'Al Anbar', 104, 'IQ', 'AN', 'governorate', 32.7889443, 41.6093983),
-(3958, 'Al Muthanna', 104, 'IQ', 'MU', 'governorate', 30.5923739, 45.2916041),
-(3956, 'Al-Qādisiyyah', 104, 'IQ', 'QA', 'governorate', 31.9599617, 45.1197814),
-(3955, 'Babylon', 104, 'IQ', 'BB', 'governorate', 32.6319335, 44.5629362),
-(3959, 'Baghdad', 104, 'IQ', 'BG', 'governorate', 33.3061701, 44.3872213),
-(3960, 'Basra', 104, 'IQ', 'BA', 'governorate', 30.4952371, 47.8090981),
-(3954, 'Dhi Qar', 104, 'IQ', 'DQ', 'governorate', 31.2857941, 46.3068347),
-(3965, 'Diyala', 104, 'IQ', 'DI', 'governorate', 34.0228719, 45.1046224),
-(3967, 'Dohuk', 104, 'IQ', 'DA', 'governorate', 36.8542598, 42.9924528),
-(3968, 'Erbil', 104, 'IQ', 'AR', 'governorate', 36.5479007, 44.4788356),
-(5625, 'Iqlim Kurdistan', 104, 'IQ', 'KR', 'region', 36.18333333, 44),
-(3957, 'Karbala', 104, 'IQ', 'KA', 'governorate', 32.4511703, 43.8196617),
-(3971, 'Kirkuk', 104, 'IQ', 'KI', 'governorate', 35.2960094, 44.0311953),
-(3966, 'Maysan', 104, 'IQ', 'MA', 'governorate', 32.0182542, 47.0695957),
-(3962, 'Najaf', 104, 'IQ', 'NA', 'governorate', 31.338353, 43.8411337),
-(3963, 'Nineveh', 104, 'IQ', 'NI', 'governorate', 36.0367935, 42.3168623),
-(3961, 'Saladin', 104, 'IQ', 'SD', 'governorate', 34.376222, 43.6446504),
-(3969, 'Sulaymaniyah', 104, 'IQ', 'SU', 'governorate', 35.5574725, 45.435202),
-(3970, 'Wasit', 104, 'IQ', 'WA', 'governorate', 32.6944827, 45.6848009);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3964, 'Al Anbar', 'الأنبار', 104, 'IQ', 'AN', 'governorate', 'gobernación', 32.7889443, 41.6093983),
+(3958, 'Al Muthanna', 'المثنى', 104, 'IQ', 'MU', 'governorate', 'gobernación', 30.5923739, 45.2916041),
+(3956, 'Al-Qādisiyyah', 'القادسية', 104, 'IQ', 'QA', 'governorate', 'gobernación', 31.9599617, 45.1197814),
+(3955, 'Babylon', 'بابل', 104, 'IQ', 'BB', 'governorate', 'gobernación', 32.6319335, 44.5629362),
+(3959, 'Baghdad', 'بغداد', 104, 'IQ', 'BG', 'governorate', 'gobernación', 33.3061701, 44.3872213),
+(3960, 'Basra', 'البصرة', 104, 'IQ', 'BA', 'governorate', 'gobernación', 30.4952371, 47.8090981),
+(3954, 'Dhi Qar', 'ذي قار', 104, 'IQ', 'DQ', 'governorate', 'gobernación', 31.2857941, 46.3068347),
+(3965, 'Diyala', 'ديالى', 104, 'IQ', 'DI', 'governorate', 'gobernación', 34.0228719, 45.1046224),
+(3967, 'Dohuk', 'دهوك', 104, 'IQ', 'DA', 'governorate', 'gobernación', 36.8542598, 42.9924528),
+(3968, 'Erbil', 'أربيل', 104, 'IQ', 'AR', 'governorate', 'gobernación', 36.5479007, 44.4788356),
+(5625, 'Iqlim Kurdistan', 'ھەرێمی کوردستان', 104, 'IQ', 'KR', 'region', 'región', 36.18333333, 44),
+(3957, 'Karbala', 'كربلاء', 104, 'IQ', 'KA', 'governorate', 'gobernación', 32.4511703, 43.8196617),
+(3971, 'Kirkuk', 'كركوك', 104, 'IQ', 'KI', 'governorate', 'gobernación', 35.2960094, 44.0311953),
+(3966, 'Maysan', 'ميسان', 104, 'IQ', 'MA', 'governorate', 'gobernación', 32.0182542, 47.0695957),
+(3962, 'Najaf', 'النجف', 104, 'IQ', 'NA', 'governorate', 'gobernación', 31.338353, 43.8411337),
+(3963, 'Nineveh', 'نينوى', 104, 'IQ', 'NI', 'governorate', 'gobernación', 36.0367935, 42.3168623),
+(3961, 'Saladin', 'صلاح الدين', 104, 'IQ', 'SD', 'governorate', 'gobernación', 34.376222, 43.6446504),
+(3969, 'Sulaymaniyah', 'السليمانية', 104, 'IQ', 'SU', 'governorate', 'gobernación', 35.5574725, 45.435202),
+(3970, 'Wasit', 'واسط', 104, 'IQ', 'WA', 'governorate', 'gobernación', 32.6944827, 45.6848009);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (134552, '‘Anah', 3964, 104, 34.36857, 41.98194),

@@ -1,41 +1,41 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(112, 'Kazakhstan', 'KZ', 'KAZ', 'Asia', 'Central Asia', 'Astana', 'KZT', 48, 68, '🇰🇿');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(112, 'Kazakhstan', 'Kazajistán', 'KZ', 'KAZ', 'Asia', 'Asia', 'Central Asia', 'Asia Central', 'Astana', 'KZT', 48, 68, '🇰🇿');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5455, 'Abai', 112, 'KZ', '10', 'region', 48.6163335, 78.7834791),
-(145, 'Akmola', 112, 'KZ', '11', 'region', 51.8742347, 69.8582132),
-(151, 'Aktobe', 112, 'KZ', '15', 'region', 48.2552772, 59.4499172),
-(143, 'Almaty', 112, 'KZ', '19', 'region', 43.6136955, 77.1358136),
-(152, 'Almaty', 112, 'KZ', '75', 'city', 43.6136955, 77.1358136),
-(156, 'Astana', 112, 'KZ', '71', 'city', 51.1282205, 71.4306682),
-(153, 'Atyrau', 112, 'KZ', '23', 'region', 47.1076188, 51.914133),
-(154, 'East Kazakhstan', 112, 'KZ', '63', 'region', 49.097376, 84.7657817),
-(147, 'Jambyl', 112, 'KZ', '31', 'region', 44.4168463, 72.134166),
-(5456, 'Jetisu', 112, 'KZ', '33', 'region', 45.5385692, 78.0583144),
-(150, 'Karaganda', 112, 'KZ', '35', 'region', 49.1767322, 74.1811272),
-(157, 'Kostanay', 112, 'KZ', '39', 'region', 52.0615626, 62.9372689),
-(142, 'Kyzylorda', 112, 'KZ', '43', 'region', 45.2058853, 63.9155202),
-(141, 'Mangystau', 112, 'KZ', '47', 'region', 44.4364918, 53.7999931),
-(144, 'North Kazakhstan', 112, 'KZ', '59', 'region', 53.9797171, 69.0450902),
-(146, 'Pavlodar', 112, 'KZ', '55', 'region', 52.2857573, 76.9455035),
-(5454, 'Shymkent', 112, 'KZ', '79', 'city', 42.3419177, 69.5072351),
-(149, 'Turkistan', 112, 'KZ', '61', 'region', 43.3019457, 68.2703698),
-(5457, 'Ulytau', 112, 'KZ', '62', 'region', 47.942247, 64.8933714),
-(148, 'West Kazakhstan', 112, 'KZ', '27', 'region', 49.5568479, 50.2227409);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5455, 'Abai', 'Абай', 112, 'KZ', '10', 'region', 'región', 48.6163335, 78.7834791),
+(145, 'Akmola', 'Ақмола', 112, 'KZ', '11', 'region', 'región', 51.8742347, 69.8582132),
+(151, 'Aktobe', 'Ақтөбе', 112, 'KZ', '15', 'region', 'región', 48.2552772, 59.4499172),
+(143, 'Almaty', 'Алматы', 112, 'KZ', '19', 'region', 'región', 43.6136955, 77.1358136),
+(152, 'Almaty', 'Алматы', 112, 'KZ', '75', 'city', 'ciudad', 43.6136955, 77.1358136),
+(156, 'Astana', 'Астана', 112, 'KZ', '71', 'city', 'ciudad', 51.1282205, 71.4306682),
+(153, 'Atyrau', 'Атырау', 112, 'KZ', '23', 'region', 'región', 47.1076188, 51.914133),
+(154, 'East Kazakhstan', 'Шығыс Қазақстан', 112, 'KZ', '63', 'region', 'región', 49.097376, 84.7657817),
+(147, 'Jambyl', 'Жамбыл', 112, 'KZ', '31', 'region', 'región', 44.4168463, 72.134166),
+(5456, 'Jetisu', 'Жетісу', 112, 'KZ', '33', 'region', 'región', 45.5385692, 78.0583144),
+(150, 'Karaganda', 'Қарағанды', 112, 'KZ', '35', 'region', 'región', 49.1767322, 74.1811272),
+(157, 'Kostanay', 'Қостанай', 112, 'KZ', '39', 'region', 'región', 52.0615626, 62.9372689),
+(142, 'Kyzylorda', 'Қызылорда', 112, 'KZ', '43', 'region', 'región', 45.2058853, 63.9155202),
+(141, 'Mangystau', 'Маңғыстау', 112, 'KZ', '47', 'region', 'región', 44.4364918, 53.7999931),
+(144, 'North Kazakhstan', 'Солтүстік Қазақстан', 112, 'KZ', '59', 'region', 'región', 53.9797171, 69.0450902),
+(146, 'Pavlodar', 'Павлодар', 112, 'KZ', '55', 'region', 'región', 52.2857573, 76.9455035),
+(5454, 'Shymkent', 'Шымкент', 112, 'KZ', '79', 'city', 'ciudad', 42.3419177, 69.5072351),
+(149, 'Turkistan', 'Түркістан', 112, 'KZ', '61', 'region', 'región', 43.3019457, 68.2703698),
+(5457, 'Ulytau', 'Ұлытау', 112, 'KZ', '62', 'region', 'región', 47.942247, 64.8933714),
+(148, 'West Kazakhstan', 'Батыс Қазақстан', 112, 'KZ', '27', 'region', 'región', 49.5568479, 50.2227409);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65596, 'Akkol', 145, 112, 51.99374, 70.94704),

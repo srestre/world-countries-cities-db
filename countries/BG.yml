@@ -12,16 +12,20 @@
   currency_symbol: "Лв."
   tld: ".bg"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 43
   longitude: 25
   emoji: "🇧🇬"
   states:
     -
       name: "Blagoevgrad"
+      native: "Благоевград"
       code: "01"
       iso3166_2: "BG-01"
       type: "district"
+      type_es: "distrito"
       latitude: 42.0111077
       longitude: 23.0906457
       cities:
@@ -143,9 +147,11 @@
           longitude: 23.68417
     -
       name: "Burgas"
+      native: "Бургас"
       code: "02"
       iso3166_2: "BG-02"
       type: "district"
+      type_es: "distrito"
       latitude: 42.4936616
       longitude: 27.4721276
       cities:
@@ -279,9 +285,11 @@
           longitude: 27.84541
     -
       name: "Dobrich"
+      native: "Добрич"
       code: "08"
       iso3166_2: "BG-08"
       type: "district"
+      type_es: "distrito"
       latitude: 43.572786
       longitude: 27.8272802
       cities:
@@ -347,9 +355,11 @@
           longitude: 27.40911
     -
       name: "Gabrovo"
+      native: "Габрово"
       code: "07"
       iso3166_2: "BG-07"
       type: "district"
+      type_es: "distrito"
       latitude: 42.86847
       longitude: 25.316889
       cities:
@@ -387,9 +397,11 @@
           longitude: 25.5
     -
       name: "Haskovo"
+      native: "Хасково"
       code: "26"
       iso3166_2: "BG-26"
       type: "district"
+      type_es: "distrito"
       latitude: 41.9344178
       longitude: 25.5554672
       cities:
@@ -471,9 +483,11 @@
           longitude: 26.3320703
     -
       name: "Kardzhali"
+      native: "Кърджали"
       code: "09"
       iso3166_2: "BG-09"
       type: "district"
+      type_es: "distrito"
       latitude: 41.643746
       longitude: 25.3722156
       cities:
@@ -523,9 +537,11 @@
           longitude: 25.5
     -
       name: "Kyustendil"
+      native: "Кюстендил"
       code: "10"
       iso3166_2: "BG-10"
       type: "district"
+      type_es: "distrito"
       latitude: 42.2868799
       longitude: 22.6939635
       cities:
@@ -599,9 +615,11 @@
           longitude: 23.26667
     -
       name: "Lovech"
+      native: "Ловеч"
       code: "11"
       iso3166_2: "BG-11"
       type: "district"
+      type_es: "distrito"
       latitude: 43.1367798
       longitude: 24.7139335
       cities:
@@ -651,9 +669,11 @@
           longitude: 24.11278
     -
       name: "Montana"
+      native: "Монтана"
       code: "12"
       iso3166_2: "BG-12"
       type: "district"
+      type_es: "distrito"
       latitude: 43.4085148
       longitude: 23.2257589
       cities:
@@ -731,9 +751,11 @@
           longitude: 23.3535
     -
       name: "Pazardzhik"
+      native: "Пазарджик"
       code: "13"
       iso3166_2: "BG-13"
       type: "district"
+      type_es: "distrito"
       latitude: 42.1927567
       longitude: 24.3336226
       cities:
@@ -835,9 +857,11 @@
           longitude: 23.99155
     -
       name: "Pernik"
+      native: "Перник"
       code: "14"
       iso3166_2: "BG-14"
       type: "district"
+      type_es: "distrito"
       latitude: 42.605199
       longitude: 23.0377916
       cities:
@@ -883,9 +907,11 @@
           longitude: 22.74917
     -
       name: "Pleven"
+      native: "Плевен"
       code: "15"
       iso3166_2: "BG-15"
       type: "district"
+      type_es: "distrito"
       latitude: 43.409022
       longitude: 24.6180123
       cities:
@@ -987,9 +1013,11 @@
           longitude: 24.86667
     -
       name: "Plovdiv"
+      native: "Плодов"
       code: "16"
       iso3166_2: "BG-16"
       type: "district"
+      type_es: "distrito"
       latitude: 42.1354079
       longitude: 24.7452904
       cities:
@@ -1131,9 +1159,11 @@
           longitude: 25
     -
       name: "Razgrad"
+      native: "Разград"
       code: "17"
       iso3166_2: "BG-17"
       type: "district"
+      type_es: "distrito"
       latitude: 43.5271705
       longitude: 26.5241228
       cities:
@@ -1199,9 +1229,11 @@
           longitude: 26.68063
     -
       name: "Ruse"
+      native: "Русе"
       code: "18"
       iso3166_2: "BG-18"
       type: "district"
+      type_es: "distrito"
       latitude: 43.8355964
       longitude: 25.9656144
       cities:
@@ -1271,9 +1303,11 @@
           longitude: 26.26667
     -
       name: "Shumen"
+      native: "Шумен"
       code: "27"
       iso3166_2: "BG-27"
       type: "district"
+      type_es: "distrito"
       latitude: 43.2712398
       longitude: 26.9361286
       cities:
@@ -1283,9 +1317,11 @@
           longitude: 26.933333
     -
       name: "Silistra"
+      native: "Силистра"
       code: "19"
       iso3166_2: "BG-19"
       type: "district"
+      type_es: "distrito"
       latitude: 44.1147101
       longitude: 27.2671454
       cities:
@@ -1347,9 +1383,11 @@
           longitude: 26.61206
     -
       name: "Sliven"
+      native: "Сливен"
       code: "20"
       iso3166_2: "BG-20"
       type: "district"
+      type_es: "distrito"
       latitude: 42.6816702
       longitude: 26.3228569
       cities:
@@ -1391,9 +1429,11 @@
           longitude: 25.9
     -
       name: "Smolyan"
+      native: "Смолян"
       code: "21"
       iso3166_2: "BG-21"
       type: "district"
+      type_es: "distrito"
       latitude: 41.5774148
       longitude: 24.7010871
       cities:
@@ -1483,9 +1523,11 @@
           longitude: 25.09605
     -
       name: "Sofia"
+      native: "София"
       code: "23"
       iso3166_2: "BG-23"
       type: "district"
+      type_es: "distrito"
       latitude: 42.64191
       longitude: 23.9735632
       cities:
@@ -1659,9 +1701,11 @@
           longitude: 24.13333
     -
       name: "Sofia City"
+      native: "София град"
       code: "22"
       iso3166_2: "BG-22"
       type: "district"
+      type_es: "distrito"
       latitude: 42.654318
       longitude: 23.3331572
       cities:
@@ -1679,9 +1723,11 @@
           longitude: 23.30561
     -
       name: "Stara Zagora"
+      native: "Стара Загора"
       code: "24"
       iso3166_2: "BG-24"
       type: "district"
+      type_es: "distrito"
       latitude: 42.4257709
       longitude: 25.6344855
       cities:
@@ -1775,9 +1821,11 @@
           longitude: 25.64194
     -
       name: "Targovishte"
+      native: "Търговище"
       code: "25"
       iso3166_2: "BG-25"
       type: "district"
+      type_es: "distrito"
       latitude: 43.2462349
       longitude: 26.5691251
       cities:
@@ -1823,9 +1871,11 @@
           longitude: 26.57215
     -
       name: "Varna"
+      native: "Варна"
       code: "03"
       iso3166_2: "BG-03"
       type: "district"
+      type_es: "distrito"
       latitude: 43.2046477
       longitude: 27.9105488
       cities:
@@ -1939,9 +1989,11 @@
           longitude: 28.0418
     -
       name: "Veliko Tarnovo"
+      native: "Велико Търново"
       code: "04"
       iso3166_2: "BG-04"
       type: "district"
+      type_es: "distrito"
       latitude: 43.0820584
       longitude: 25.6321312
       cities:
@@ -2043,9 +2095,11 @@
           longitude: 25.9
     -
       name: "Vidin"
+      native: "Видин"
       code: "05"
       iso3166_2: "BG-05"
       type: "district"
+      type_es: "distrito"
       latitude: 43.9857242
       longitude: 22.8772194
       cities:
@@ -2131,9 +2185,11 @@
           longitude: 22.88236
     -
       name: "Vratsa"
+      native: "Враца"
       code: "06"
       iso3166_2: "BG-06"
       type: "district"
+      type_es: "distrito"
       latitude: 43.2101806
       longitude: 23.552921
       cities:
@@ -2215,9 +2271,11 @@
           longitude: 23.5625
     -
       name: "Yambol"
+      native: "Ямбол"
       code: "28"
       iso3166_2: "BG-28"
       type: "district"
+      type_es: "distrito"
       latitude: 42.4841494
       longitude: 26.5035296
       cities:

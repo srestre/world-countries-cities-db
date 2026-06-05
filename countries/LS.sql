@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(122, 'Lesotho', 'LS', 'LSO', 'Africa', 'Southern Africa', 'Maseru', 'LSL', -29.5, 28.5, '🇱🇸');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(122, 'Lesotho', 'Lesotho', 'LS', 'LSO', 'Africa', 'África', 'Southern Africa', 'África Austral', 'Maseru', 'LSL', -29.5, 28.5, '🇱🇸');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3030, 'Berea', 122, 'LS', 'D', 'district', -29.1963971, 27.9175581),
-(3029, 'Butha-Buthe', 122, 'LS', 'B', 'district', -28.7653754, 28.2468148),
-(3026, 'Leribe', 122, 'LS', 'C', 'district', -28.866891, 28.0579408),
-(3022, 'Mafeteng', 122, 'LS', 'E', 'district', -29.7893049, 27.4423193),
-(3028, 'Maseru', 122, 'LS', 'A', 'district', -29.5816942, 27.8243208),
-(3023, 'Mohale''s Hoek', 122, 'LS', 'F', 'district', -30.1516305, 27.4770113),
-(3024, 'Mokhotlong', 122, 'LS', 'J', 'district', -29.2190697, 29.0351369),
-(3025, 'Qacha''s Nek', 122, 'LS', 'H', 'district', -30.1114565, 28.678979),
-(3027, 'Quthing', 122, 'LS', 'G', 'district', -30.4015687, 27.7080133),
-(3031, 'Thaba-Tseka', 122, 'LS', 'K', 'district', -29.5151832, 28.6036179);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3030, 'Berea', 'Berea', 122, 'LS', 'D', 'district', 'distrito', -29.1963971, 27.9175581),
+(3029, 'Butha-Buthe', 'Butha-Buthe', 122, 'LS', 'B', 'district', 'distrito', -28.7653754, 28.2468148),
+(3026, 'Leribe', 'LERIBE', 122, 'LS', 'C', 'district', 'distrito', -28.866891, 28.0579408),
+(3022, 'Mafeteng', 'Mafeteng', 122, 'LS', 'E', 'district', 'distrito', -29.7893049, 27.4423193),
+(3028, 'Maseru', 'Maseru', 122, 'LS', 'A', 'district', 'distrito', -29.5816942, 27.8243208),
+(3023, 'Mohale''s Hoek', 'Mohale''s corner', 122, 'LS', 'F', 'district', 'distrito', -30.1516305, 27.4770113),
+(3024, 'Mokhotlong', 'Mokhotlong', 122, 'LS', 'J', 'district', 'distrito', -29.2190697, 29.0351369),
+(3025, 'Qacha''s Nek', 'Qacha''s Nek', 122, 'LS', 'H', 'district', 'distrito', -30.1114565, 28.678979),
+(3027, 'Quthing', 'Quthing', 122, 'LS', 'G', 'district', 'distrito', -30.4015687, 27.7080133),
+(3031, 'Thaba-Tseka', 'Butha-Buthe', 122, 'LS', 'K', 'district', 'distrito', -29.5151832, 28.6036179);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (66574, 'Teyateyaneng', 3030, 122, -29.14719, 27.74895),

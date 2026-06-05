@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".to"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   latitude: -20
   longitude: -175
   emoji: "🇹🇴"
   states:
     -
       name: "Haʻapai"
+      native: "Haʻapai"
       code: "02"
       iso3166_2: "TO-02"
       type: "division"
+      type_es: "división"
       latitude: -20.0587404
       longitude: -174.6229919
       cities:
@@ -31,9 +35,11 @@
           longitude: -174.35423
     -
       name: "ʻEua"
+      native: "ʻEua"
       code: "01"
       iso3166_2: "TO-01"
       type: "division"
+      type_es: "división"
       latitude: -21.3705828
       longitude: -174.9388843
       cities:
@@ -43,9 +49,11 @@
           longitude: -174.95
     -
       name: "Niuas"
+      native: "Niuas"
       code: "03"
       iso3166_2: "TO-03"
       type: "division"
+      type_es: "división"
       latitude: -15.9594
       longitude: -173.783
       cities:
@@ -55,9 +63,11 @@
           longitude: -173.79616
     -
       name: "Tongatapu"
+      native: "Tongatapu"
       code: "04"
       iso3166_2: "TO-04"
       type: "division"
+      type_es: "división"
       latitude: -21.1678253
       longitude: -175.2738691
       cities:
@@ -79,9 +89,11 @@
           longitude: -175.17678
     -
       name: "Vavaʻu"
+      native: "Vavaʻu"
       code: "05"
       iso3166_2: "TO-05"
       type: "division"
+      type_es: "división"
       latitude: -18.6231468
       longitude: -174.002138
       cities:

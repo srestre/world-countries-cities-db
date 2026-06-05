@@ -1,50 +1,50 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-ML,Mali,Africa,Western Africa,BKO,Bamako,Bamako,12.65,-8
-ML,Mali,Africa,Western Africa,7,Gao,Ansongo,15.6597,0.5022
-ML,Mali,Africa,Western Africa,7,Gao,Cercle de Bourem,17.71192,-0.34284
-ML,Mali,Africa,Western Africa,7,Gao,Gao,16.27167,-0.04472
-ML,Mali,Africa,Western Africa,7,Gao,Gao Cercle,16.72237,0.43984
-ML,Mali,Africa,Western Africa,7,Gao,Inékar,15.95944,3.14111
-ML,Mali,Africa,Western Africa,1,Kayes,Bafoulabé,13.8065,-10.8321
-ML,Mali,Africa,Western Africa,1,Kayes,Kayes,14.44693,-11.44448
-ML,Mali,Africa,Western Africa,1,Kayes,Kita,13.0349,-9.4895
-ML,Mali,Africa,Western Africa,1,Kayes,Kokofata,12.88333,-9.95
-ML,Mali,Africa,Western Africa,1,Kayes,Sagalo,12.2,-10.7
-ML,Mali,Africa,Western Africa,8,Kidal,Abeïbara,19.11667,1.75
-ML,Mali,Africa,Western Africa,8,Kidal,Cercle d’Abeïbara,19.48878,2.20025
-ML,Mali,Africa,Western Africa,8,Kidal,Kidal,18.44111,1.40778
-ML,Mali,Africa,Western Africa,2,Koulikoro,Banamba,13.54773,-7.44808
-ML,Mali,Africa,Western Africa,2,Koulikoro,Kangaba,11.93333,-8.41667
-ML,Mali,Africa,Western Africa,2,Koulikoro,Kati,12.74409,-8.07257
-ML,Mali,Africa,Western Africa,2,Koulikoro,Kolokani,13.5728,-8.0339
-ML,Mali,Africa,Western Africa,2,Koulikoro,Koulikoro,12.86273,-7.55985
-ML,Mali,Africa,Western Africa,9,Ménaka,,,
-ML,Mali,Africa,Western Africa,5,Mopti,Bandiagara,14.35005,-3.61038
-ML,Mali,Africa,Western Africa,5,Mopti,Djénné,13.90608,-4.55332
-ML,Mali,Africa,Western Africa,5,Mopti,Douentza,15.00155,-2.94978
-ML,Mali,Africa,Western Africa,5,Mopti,Douentza Cercle,15.06947,-2.40875
-ML,Mali,Africa,Western Africa,5,Mopti,Mopti,14.4843,-4.18296
-ML,Mali,Africa,Western Africa,5,Mopti,Ténenkou,14.45722,-4.9169
-ML,Mali,Africa,Western Africa,4,Ségou,Baroueli,13.07489,-6.57171
-ML,Mali,Africa,Western Africa,4,Ségou,Cercle de San,13.17895,-5.01617
-ML,Mali,Africa,Western Africa,4,Ségou,Ké-Macina,13.9641,-5.35791
-ML,Mali,Africa,Western Africa,4,Ségou,Kinmparana,12.84217,-4.9245
-ML,Mali,Africa,Western Africa,4,Ségou,Markala,13.7021,-6.0659
-ML,Mali,Africa,Western Africa,4,Ségou,San,13.30335,-4.89562
-ML,Mali,Africa,Western Africa,4,Ségou,Ségou,13.4317,-6.2157
-ML,Mali,Africa,Western Africa,4,Ségou,Sokolo,14.7328,-6.1219
-ML,Mali,Africa,Western Africa,3,Sikasso,Bougouni,11.41769,-7.48323
-ML,Mali,Africa,Western Africa,3,Sikasso,Kolondiéba,11.08943,-6.8929
-ML,Mali,Africa,Western Africa,3,Sikasso,Koutiala,12.39173,-5.46421
-ML,Mali,Africa,Western Africa,3,Sikasso,Koutiala Cercle,12.35311,-5.5839
-ML,Mali,Africa,Western Africa,3,Sikasso,Ntossoni,12.5304,-5.77003
-ML,Mali,Africa,Western Africa,3,Sikasso,Sikasso,11.31755,-5.66654
-ML,Mali,Africa,Western Africa,3,Sikasso,Yorosso,12.35811,-4.77688
-ML,Mali,Africa,Western Africa,10,Taoudénit,,,
-ML,Mali,Africa,Western Africa,6,Tombouctou,Araouane,18.90476,-3.52649
-ML,Mali,Africa,Western Africa,6,Tombouctou,Cercle de Goundam,18.60035,-4.99306
-ML,Mali,Africa,Western Africa,6,Tombouctou,Dire,16.28017,-3.31302
-ML,Mali,Africa,Western Africa,6,Tombouctou,Goundam,16.41453,-3.67075
-ML,Mali,Africa,Western Africa,6,Tombouctou,Gourma-Rharous Cercle,16.07979,-1.76981
-ML,Mali,Africa,Western Africa,6,Tombouctou,Niafunké,15.9322,-3.9906
-ML,Mali,Africa,Western Africa,6,Tombouctou,Timbuktu,16.77348,-3.00742
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,BKO,Bamako,district,distrito,Bamako,12.65,-8
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,7,Gao,region,región,Ansongo,15.6597,0.5022
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,7,Gao,region,región,Cercle de Bourem,17.71192,-0.34284
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,7,Gao,region,región,Gao,16.27167,-0.04472
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,7,Gao,region,región,Gao Cercle,16.72237,0.43984
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,7,Gao,region,región,Inékar,15.95944,3.14111
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,1,Kayes,region,región,Bafoulabé,13.8065,-10.8321
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,1,Kayes,region,región,Kayes,14.44693,-11.44448
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,1,Kayes,region,región,Kita,13.0349,-9.4895
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,1,Kayes,region,región,Kokofata,12.88333,-9.95
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,1,Kayes,region,región,Sagalo,12.2,-10.7
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,8,Kidal,region,región,Abeïbara,19.11667,1.75
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,8,Kidal,region,región,Cercle d’Abeïbara,19.48878,2.20025
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,8,Kidal,region,región,Kidal,18.44111,1.40778
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,2,Koulikoro,region,región,Banamba,13.54773,-7.44808
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,2,Koulikoro,region,región,Kangaba,11.93333,-8.41667
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,2,Koulikoro,region,región,Kati,12.74409,-8.07257
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,2,Koulikoro,region,región,Kolokani,13.5728,-8.0339
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,2,Koulikoro,region,región,Koulikoro,12.86273,-7.55985
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,9,Ménaka,region,región,,,
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,5,Mopti,region,región,Bandiagara,14.35005,-3.61038
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,5,Mopti,region,región,Djénné,13.90608,-4.55332
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,5,Mopti,region,región,Douentza,15.00155,-2.94978
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,5,Mopti,region,región,Douentza Cercle,15.06947,-2.40875
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,5,Mopti,region,región,Mopti,14.4843,-4.18296
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,5,Mopti,region,región,Ténenkou,14.45722,-4.9169
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,Baroueli,13.07489,-6.57171
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,Cercle de San,13.17895,-5.01617
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,Ké-Macina,13.9641,-5.35791
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,Kinmparana,12.84217,-4.9245
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,Markala,13.7021,-6.0659
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,San,13.30335,-4.89562
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,Ségou,13.4317,-6.2157
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,4,Ségou,region,región,Sokolo,14.7328,-6.1219
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,3,Sikasso,region,región,Bougouni,11.41769,-7.48323
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,3,Sikasso,region,región,Kolondiéba,11.08943,-6.8929
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,3,Sikasso,region,región,Koutiala,12.39173,-5.46421
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,3,Sikasso,region,región,Koutiala Cercle,12.35311,-5.5839
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,3,Sikasso,region,región,Ntossoni,12.5304,-5.77003
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,3,Sikasso,region,región,Sikasso,11.31755,-5.66654
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,3,Sikasso,region,región,Yorosso,12.35811,-4.77688
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,10,Taoudénit,region,región,,,
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,6,Tombouctou,region,región,Araouane,18.90476,-3.52649
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,6,Tombouctou,region,región,Cercle de Goundam,18.60035,-4.99306
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,6,Tombouctou,region,región,Dire,16.28017,-3.31302
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,6,Tombouctou,region,región,Goundam,16.41453,-3.67075
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,6,Tombouctou,region,región,Gourma-Rharous Cercle,16.07979,-1.76981
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,6,Tombouctou,region,región,Niafunké,15.9322,-3.9906
+ML,Mali,Mali,Africa,África,Western Africa,África Occidental,6,Tombouctou,region,región,Timbuktu,16.77348,-3.00742

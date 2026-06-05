@@ -1,34 +1,34 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(70, 'Ethiopia', 'ET', 'ETH', 'Africa', 'Eastern Africa', 'Addis Ababa', 'ETB', 8, 38, '🇪🇹');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(70, 'Ethiopia', 'Etiopía', 'ET', 'ETH', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Addis Ababa', 'ETB', 8, 38, '🇪🇹');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(11, 'Addis Ababa', 70, 'ET', 'AA', 'administration', 9, 38.75),
-(6, 'Afar', 70, 'ET', 'AF', 'region', 11.7108206, 41.0330866),
-(3, 'Amhara', 70, 'ET', 'AM', 'region', 11.5, 38.5),
-(9, 'Benishangul-Gumuz', 70, 'ET', 'BE', 'region', 10.3778251, 35.5084442),
-(8, 'Dire Dawa', 70, 'ET', 'DD', 'administration', 9.591323, 41.8566341),
-(10, 'Gambela', 70, 'ET', 'GA', 'region', 7.8102647, 34.1822172),
-(7, 'Harari', 70, 'ET', 'HA', 'region', 9.2905517, 42.1885672),
-(5, 'Oromia', 70, 'ET', 'OR', 'region', 7.6721644, 40.0299727),
-(5465, 'Sidama', 70, 'ET', 'SI', 'region', 6.5, 38.5),
-(2, 'Somali', 70, 'ET', 'SO', 'region', 7.2629844, 43.5360531),
-(1, 'Southern Nations, Nationalities, and Peoples', 70, 'ET', 'SN', 'region', 6.5156911, 36.954107),
-(5466, 'Southwest Ethiopia Peoples', 70, 'ET', 'SW', 'region', 7.3, 36.2),
-(4, 'Tigray', 70, 'ET', 'TI', 'region', 13.881273, 39.127495);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(11, 'Addis Ababa', 'አዲስ አበባ', 70, 'ET', 'AA', 'administration', 'administración', 9, 38.75),
+(6, 'Afar', 'አፋር', 70, 'ET', 'AF', 'region', 'región', 11.7108206, 41.0330866),
+(3, 'Amhara', 'አማራ', 70, 'ET', 'AM', 'region', 'región', 11.5, 38.5),
+(9, 'Benishangul-Gumuz', 'ቤኒሻል-ጉሙዝ', 70, 'ET', 'BE', 'region', 'región', 10.3778251, 35.5084442),
+(8, 'Dire Dawa', 'አዝናኝ', 70, 'ET', 'DD', 'administration', 'administración', 9.591323, 41.8566341),
+(10, 'Gambela', 'ጋምቤላ', 70, 'ET', 'GA', 'region', 'región', 7.8102647, 34.1822172),
+(7, 'Harari', 'ሐረሪ', 70, 'ET', 'HA', 'region', 'región', 9.2905517, 42.1885672),
+(5, 'Oromia', 'ኦሮሚያ', 70, 'ET', 'OR', 'region', 'región', 7.6721644, 40.0299727),
+(5465, 'Sidama', 'ሲዳማ', 70, 'ET', 'SI', 'region', 'región', 6.5, 38.5),
+(2, 'Somali', 'ሶማሌ', 70, 'ET', 'SO', 'region', 'región', 7.2629844, 43.5360531),
+(1, 'Southern Nations, Nationalities, and Peoples', 'ደቡብ ብሔር ብሔረሰቦችና ሕዝቦች', 70, 'ET', 'SN', 'region', 'región', 6.5156911, 36.954107),
+(5466, 'Southwest Ethiopia Peoples', 'ደቡብ ምዕራብ የኢትዮጵያ ሕዝቦች', 70, 'ET', 'SW', 'region', 'región', 7.3, 36.2),
+(4, 'Tigray', 'ክልል ትግራይ', 70, 'ET', 'TI', 'region', 'región', 13.881273, 39.127495);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (38587, 'Addis Ababa', 11, 70, 9.02497, 38.74689),

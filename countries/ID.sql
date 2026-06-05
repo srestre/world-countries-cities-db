@@ -1,66 +1,66 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(102, 'Indonesia', 'ID', 'IDN', 'Asia', 'South-Eastern Asia', 'Jakarta', 'IDR', -5, 120, '🇮🇩');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(102, 'Indonesia', 'Indonesia', 'ID', 'IDN', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Jakarta', 'IDR', -5, 120, '🇮🇩');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1822, 'Aceh', 102, 'ID', 'AC', 'province', 4.3685491, 97.0253024),
-(1826, 'Bali', 102, 'ID', 'BA', 'province', -8.2271303, 115.1919203),
-(1810, 'Banten', 102, 'ID', 'BT', 'province', -6.4453801, 106.1375586),
-(1793, 'Bengkulu', 102, 'ID', 'BE', 'province', -3.7928451, 102.2607641),
-(1829, 'DI Yogyakarta', 102, 'ID', 'YO', 'Special region', -7.9778384, 110.3672257),
-(1805, 'DKI Jakarta', 102, 'ID', 'JK', 'capital district', -6.1754049, 106.827168),
-(1812, 'Gorontalo', 102, 'ID', 'GO', 'province', 0.5435442, 123.0567693),
-(1815, 'Jambi', 102, 'ID', 'JA', 'province', -1.6296917, 103.6077806),
-(5618, 'Jawa', 102, 'ID', 'JW', 'geographical unit', -7.49166667, 110.00444444),
-(1825, 'Jawa Barat', 102, 'ID', 'JB', 'province', -6.8891904, 107.6404716),
-(1802, 'Jawa Tengah', 102, 'ID', 'JT', 'province', -7.3032412, 110.0044145),
-(1827, 'Jawa Timur', 102, 'ID', 'JI', 'province', -7.6977397, 112.4914199),
-(5619, 'Kalimantan', 102, 'ID', 'KA', 'geographical unit', -1, 114),
-(1806, 'Kalimantan Barat', 102, 'ID', 'KB', 'province', -0.1322387, 111.0968901),
-(1819, 'Kalimantan Selatan', 102, 'ID', 'KS', 'province', -2.9285686, 115.3700718),
-(1794, 'Kalimantan Tengah', 102, 'ID', 'KT', 'province', -1.499583, 113.2903307),
-(1804, 'Kalimantan Timur', 102, 'ID', 'KI', 'province', 0.7884397, 116.2419977),
-(1824, 'Kalimantan Utara', 102, 'ID', 'KU', 'province', 3.0235817, 116.2049306),
-(1820, 'Kepulauan Bangka Belitung', 102, 'ID', 'BB', 'province', -2.7052886, 106.3585607),
-(1807, 'Kepulauan Riau', 102, 'ID', 'KR', 'province', -0.1547846, 104.5803745),
-(1811, 'Lampung', 102, 'ID', 'LA', 'province', -4.8555039, 105.0272986),
-(5620, 'Maluku', 102, 'ID', 'ML', 'geographical unit', -3, 129),
-(1800, 'Maluku', 102, 'ID', 'MA', 'province', -3.118837, 129.4207759),
-(1801, 'Maluku Utara', 102, 'ID', 'MU', 'province', 0.6301215, 127.9720219),
-(5621, 'Nusa Tenggara', 102, 'ID', 'NU', 'geographical unit', -8.5, 120),
-(1814, 'Nusa Tenggara Barat', 102, 'ID', 'NB', 'province', -8.7892855, 117.146169),
-(1818, 'Nusa Tenggara Timur', 102, 'ID', 'NT', 'province', -8.5656787, 120.6978581),
-(1798, 'Papua', 102, 'ID', 'PA', 'province', -2.4749149, 138.08485),
-(5622, 'Papua', 102, 'ID', 'PP', 'geographical unit', -4, 136),
-(1799, 'Papua Barat', 102, 'ID', 'PB', 'province', -2.8553556, 133.4738171),
-(5238, 'Papua Barat Daya', 102, 'ID', 'PD', 'province', -1.09856, 131.3525336),
-(5236, 'Papua Pegunungan', 102, 'ID', 'PE', 'province', -4.2478013, 139.3725476),
-(5237, 'Papua Selatan', 102, 'ID', 'PS', 'province', -6.5008882, 139.3835339),
-(5235, 'Papua Tengah', 102, 'ID', 'PT', 'province', -3.8642437, 136.37328),
-(1809, 'Riau', 102, 'ID', 'RI', 'province', 1.0498079, 101.6548433),
-(5623, 'Sulawesi', 102, 'ID', 'SL', 'geographical unit', -2, 121),
-(1817, 'Sulawesi Barat', 102, 'ID', 'SR', 'province', -2.4974546, 119.3918955),
-(1795, 'Sulawesi Selatan', 102, 'ID', 'SN', 'province', -3.6446718, 119.9471906),
-(1813, 'Sulawesi Tengah', 102, 'ID', 'ST', 'province', -1.6937786, 120.8088555),
-(1796, 'Sulawesi Tenggara', 102, 'ID', 'SG', 'province', -3.5491199, 121.7279646),
-(1808, 'Sulawesi Utara', 102, 'ID', 'SA', 'province', 0.6555692, 124.090151),
-(5624, 'Sumatera', 102, 'ID', 'SM', 'geographical unit', 0, 102),
-(1828, 'Sumatera Barat', 102, 'ID', 'SB', 'province', -0.5827529, 100.6133379),
-(1816, 'Sumatera Selatan', 102, 'ID', 'SS', 'province', -3.2193103, 104.4075059),
-(1792, 'Sumatera Utara', 102, 'ID', 'SU', 'province', 2.1923519, 99.3812201);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1822, 'Aceh', 'Aceh', 102, 'ID', 'AC', 'province', 'provincia', 4.3685491, 97.0253024),
+(1826, 'Bali', 'Bali', 102, 'ID', 'BA', 'province', 'provincia', -8.2271303, 115.1919203),
+(1810, 'Banten', 'Banten', 102, 'ID', 'BT', 'province', 'provincia', -6.4453801, 106.1375586),
+(1793, 'Bengkulu', 'Bengkulu', 102, 'ID', 'BE', 'province', 'provincia', -3.7928451, 102.2607641),
+(1829, 'DI Yogyakarta', 'DI Yogyakarta', 102, 'ID', 'YO', 'Special region', 'región especial', -7.9778384, 110.3672257),
+(1805, 'DKI Jakarta', 'DKI Jakarta', 102, 'ID', 'JK', 'capital district', 'distrito capital', -6.1754049, 106.827168),
+(1812, 'Gorontalo', 'Gorontalo', 102, 'ID', 'GO', 'province', 'provincia', 0.5435442, 123.0567693),
+(1815, 'Jambi', 'Jambi', 102, 'ID', 'JA', 'province', 'provincia', -1.6296917, 103.6077806),
+(5618, 'Jawa', 'Jawa', 102, 'ID', 'JW', 'geographical unit', 'unidad geográfica', -7.49166667, 110.00444444),
+(1825, 'Jawa Barat', 'Jawa Barat', 102, 'ID', 'JB', 'province', 'provincia', -6.8891904, 107.6404716),
+(1802, 'Jawa Tengah', 'Jawa Tengah', 102, 'ID', 'JT', 'province', 'provincia', -7.3032412, 110.0044145),
+(1827, 'Jawa Timur', 'Jawa Timur', 102, 'ID', 'JI', 'province', 'provincia', -7.6977397, 112.4914199),
+(5619, 'Kalimantan', 'Kalimantan', 102, 'ID', 'KA', 'geographical unit', 'unidad geográfica', -1, 114),
+(1806, 'Kalimantan Barat', 'Kalimantan Barat', 102, 'ID', 'KB', 'province', 'provincia', -0.1322387, 111.0968901),
+(1819, 'Kalimantan Selatan', 'Kalimantan Selatan', 102, 'ID', 'KS', 'province', 'provincia', -2.9285686, 115.3700718),
+(1794, 'Kalimantan Tengah', 'Kalimantan Tengah', 102, 'ID', 'KT', 'province', 'provincia', -1.499583, 113.2903307),
+(1804, 'Kalimantan Timur', 'Kalimantan Timur', 102, 'ID', 'KI', 'province', 'provincia', 0.7884397, 116.2419977),
+(1824, 'Kalimantan Utara', 'Kalimantan Utara', 102, 'ID', 'KU', 'province', 'provincia', 3.0235817, 116.2049306),
+(1820, 'Kepulauan Bangka Belitung', 'Kepulauan Bangka Belitung', 102, 'ID', 'BB', 'province', 'provincia', -2.7052886, 106.3585607),
+(1807, 'Kepulauan Riau', 'Kepulauan Riau', 102, 'ID', 'KR', 'province', 'provincia', -0.1547846, 104.5803745),
+(1811, 'Lampung', 'Lampung', 102, 'ID', 'LA', 'province', 'provincia', -4.8555039, 105.0272986),
+(5620, 'Maluku', 'Maluku', 102, 'ID', 'ML', 'geographical unit', 'unidad geográfica', -3, 129),
+(1800, 'Maluku', 'Maluku', 102, 'ID', 'MA', 'province', 'provincia', -3.118837, 129.4207759),
+(1801, 'Maluku Utara', 'Maluku Utara', 102, 'ID', 'MU', 'province', 'provincia', 0.6301215, 127.9720219),
+(5621, 'Nusa Tenggara', 'Nusa Tenggara', 102, 'ID', 'NU', 'geographical unit', 'unidad geográfica', -8.5, 120),
+(1814, 'Nusa Tenggara Barat', 'Nusa Tenggara Barat', 102, 'ID', 'NB', 'province', 'provincia', -8.7892855, 117.146169),
+(1818, 'Nusa Tenggara Timur', 'Nusa Tenggara Timur', 102, 'ID', 'NT', 'province', 'provincia', -8.5656787, 120.6978581),
+(1798, 'Papua', 'Papua', 102, 'ID', 'PA', 'province', 'provincia', -2.4749149, 138.08485),
+(5622, 'Papua', 'Papua', 102, 'ID', 'PP', 'geographical unit', 'unidad geográfica', -4, 136),
+(1799, 'Papua Barat', 'Papua Barat', 102, 'ID', 'PB', 'province', 'provincia', -2.8553556, 133.4738171),
+(5238, 'Papua Barat Daya', 'Papua Barat Daya', 102, 'ID', 'PD', 'province', 'provincia', -1.09856, 131.3525336),
+(5236, 'Papua Pegunungan', 'Papua Pegunungan', 102, 'ID', 'PE', 'province', 'provincia', -4.2478013, 139.3725476),
+(5237, 'Papua Selatan', 'Papua Selatan', 102, 'ID', 'PS', 'province', 'provincia', -6.5008882, 139.3835339),
+(5235, 'Papua Tengah', 'Papua Tengah', 102, 'ID', 'PT', 'province', 'provincia', -3.8642437, 136.37328),
+(1809, 'Riau', 'Riau', 102, 'ID', 'RI', 'province', 'provincia', 1.0498079, 101.6548433),
+(5623, 'Sulawesi', 'Sulawesi', 102, 'ID', 'SL', 'geographical unit', 'unidad geográfica', -2, 121),
+(1817, 'Sulawesi Barat', 'Sulawesi Barat', 102, 'ID', 'SR', 'province', 'provincia', -2.4974546, 119.3918955),
+(1795, 'Sulawesi Selatan', 'Sulawesi Selatan', 102, 'ID', 'SN', 'province', 'provincia', -3.6446718, 119.9471906),
+(1813, 'Sulawesi Tengah', 'Sulawesi Tengah', 102, 'ID', 'ST', 'province', 'provincia', -1.6937786, 120.8088555),
+(1796, 'Sulawesi Tenggara', 'Sulawesi Tenggara', 102, 'ID', 'SG', 'province', 'provincia', -3.5491199, 121.7279646),
+(1808, 'Sulawesi Utara', 'Sulawesi Utara', 102, 'ID', 'SA', 'province', 'provincia', 0.6555692, 124.090151),
+(5624, 'Sumatera', 'Sumatera', 102, 'ID', 'SM', 'geographical unit', 'unidad geográfica', 0, 102),
+(1828, 'Sumatera Barat', 'Sumatera Barat', 102, 'ID', 'SB', 'province', 'provincia', -0.5827529, 100.6133379),
+(1816, 'Sumatera Selatan', 'Sumatera Selatan', 102, 'ID', 'SS', 'province', 'provincia', -3.2193103, 104.4075059),
+(1792, 'Sumatera Utara', 'Sumatera Utara', 102, 'ID', 'SU', 'province', 'provincia', 2.1923519, 99.3812201);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (56307, 'Aceh Barat', 1822, 102, 4.45, 96.16667),

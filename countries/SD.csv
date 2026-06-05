@@ -1,72 +1,72 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-SD,Sudan,Africa,Northern Africa,GZ,Al Jazirah,Al Hasaheisa,14.75264,33.29836
-SD,Sudan,Africa,Northern Africa,GZ,Al Jazirah,Al Hilāliyya,14.9398,33.234
-SD,Sudan,Africa,Northern Africa,GZ,Al Jazirah,Al Kiremit al ‘Arakiyyīn,14.3476,32.9437
-SD,Sudan,Africa,Northern Africa,GZ,Al Jazirah,Al Manāqil,14.2459,32.9891
-SD,Sudan,Africa,Northern Africa,GZ,Al Jazirah,Al Masallamiyya,14.5748,33.3373
-SD,Sudan,Africa,Northern Africa,GZ,Al Jazirah,Wad Medani,14.40118,33.51989
-SD,Sudan,Africa,Northern Africa,GZ,Al Jazirah,Wad Rāwah,15.16028,33.13972
-SD,Sudan,Africa,Northern Africa,GD,Al Qadarif,Al Ḩawātah,13.41667,34.63333
-SD,Sudan,Africa,Northern Africa,GD,Al Qadarif,Al Qadarif,14.03493,35.38344
-SD,Sudan,Africa,Northern Africa,GD,Al Qadarif,Doka,13.51667,35.76667
-SD,Sudan,Africa,Northern Africa,NB,Blue Nile,Ad-Damazin,11.7891,34.3592
-SD,Sudan,Africa,Northern Africa,NB,Blue Nile,Ar Ruseris,11.8659,34.3869
-SD,Sudan,Africa,Northern Africa,NB,Blue Nile,Kurmuk,10.55,34.28333
-SD,Sudan,Africa,Northern Africa,DC,Central Darfur,Zalingei,12.90918,23.47058
-SD,Sudan,Africa,Northern Africa,DE,East Darfur,El Daein,11.46186,26.12583
-SD,Sudan,Africa,Northern Africa,KA,Kassala,Aroma,15.81667,36.13333
-SD,Sudan,Africa,Northern Africa,KA,Kassala,Kassala,15.45099,36.39998
-SD,Sudan,Africa,Northern Africa,KA,Kassala,Wagar,16.1525,36.2032
-SD,Sudan,Africa,Northern Africa,KH,Khartoum,Khartoum,15.55177,32.53241
-SD,Sudan,Africa,Northern Africa,KH,Khartoum,Omdurman,15.64453,32.47773
-SD,Sudan,Africa,Northern Africa,DN,North Darfur,El Fasher,13.62793,25.34936
-SD,Sudan,Africa,Northern Africa,DN,North Darfur,Kutum,14.2,24.66667
-SD,Sudan,Africa,Northern Africa,DN,North Darfur,Umm Kaddadah,13.60169,26.68759
-SD,Sudan,Africa,Northern Africa,KN,North Kordofan,Ar Rahad,12.71667,30.65
-SD,Sudan,Africa,Northern Africa,KN,North Kordofan,Bārah,13.7,30.36667
-SD,Sudan,Africa,Northern Africa,KN,North Kordofan,El Obeid,13.18421,30.21669
-SD,Sudan,Africa,Northern Africa,KN,North Kordofan,Umm Ruwaba,12.9061,31.2158
-SD,Sudan,Africa,Northern Africa,NO,Northern,Ad Dabbah,18.05,30.95
-SD,Sudan,Africa,Northern Africa,NO,Northern,Argo,19.51667,30.41667
-SD,Sudan,Africa,Northern Africa,NO,Northern,Dongola,19.18163,30.47689
-SD,Sudan,Africa,Northern Africa,NO,Northern,Karmah an Nuzul,19.63333,30.41667
-SD,Sudan,Africa,Northern Africa,NO,Northern,Kuraymah,18.55,31.85
-SD,Sudan,Africa,Northern Africa,NO,Northern,Merowe,18.47036,31.81126
-SD,Sudan,Africa,Northern Africa,RS,Red Sea,Gebeit,21.06667,36.31667
-SD,Sudan,Africa,Northern Africa,RS,Red Sea,Port Sudan,19.61745,37.21644
-SD,Sudan,Africa,Northern Africa,RS,Red Sea,Sawākin,19.1059,37.3321
-SD,Sudan,Africa,Northern Africa,RS,Red Sea,Tokār,18.4254,37.729
-SD,Sudan,Africa,Northern Africa,NR,River Nile,Atbara,17.70217,33.98638
-SD,Sudan,Africa,Northern Africa,NR,River Nile,Berber,18.02158,33.98299
-SD,Sudan,Africa,Northern Africa,NR,River Nile,Ed Damer,17.59898,33.97205
-SD,Sudan,Africa,Northern Africa,NR,River Nile,El Bauga,18.26197,33.90812
-SD,Sudan,Africa,Northern Africa,NR,River Nile,El Matama,16.7095,33.3565
-SD,Sudan,Africa,Northern Africa,NR,River Nile,Shendi,16.6915,33.4341
-SD,Sudan,Africa,Northern Africa,SI,Sennar,Ad Dindar,13.2,34.16667
-SD,Sudan,Africa,Northern Africa,SI,Sennar,As Sūkī,13.31667,33.88333
-SD,Sudan,Africa,Northern Africa,SI,Sennar,Jalqani,12.4486,34.2186
-SD,Sudan,Africa,Northern Africa,SI,Sennar,Kināna,14.0361,33.1712
-SD,Sudan,Africa,Northern Africa,SI,Sennar,Maiurno,13.41667,33.66667
-SD,Sudan,Africa,Northern Africa,SI,Sennar,Singa,13.1483,33.93117
-SD,Sudan,Africa,Northern Africa,SI,Sennar,Sinnar,13.56907,33.56718
-SD,Sudan,Africa,Northern Africa,DS,South Darfur,Gereida,11.27543,25.14026
-SD,Sudan,Africa,Northern Africa,DS,South Darfur,Nyala,12.04888,24.88069
-SD,Sudan,Africa,Northern Africa,KS,South Kordofan,Abu Jibeha,11.4562,31.2285
-SD,Sudan,Africa,Northern Africa,KS,South Kordofan,Al Fūlah,11.73292,28.35786
-SD,Sudan,Africa,Northern Africa,KS,South Kordofan,Dilling,12.05,29.65
-SD,Sudan,Africa,Northern Africa,KS,South Kordofan,Kadugli,11.01111,29.71833
-SD,Sudan,Africa,Northern Africa,KS,South Kordofan,Talodi,10.63246,30.3797
-SD,Sudan,Africa,Northern Africa,DW,West Darfur,Geneina,13.45262,22.44725
-SD,Sudan,Africa,Northern Africa,GK,West Kordofan,Abū Zabad,12.35,29.25
-SD,Sudan,Africa,Northern Africa,GK,West Kordofan,Al Lagowa,11.4,29.13333
-SD,Sudan,Africa,Northern Africa,GK,West Kordofan,Al Mijlad,11.03333,27.73333
-SD,Sudan,Africa,Northern Africa,GK,West Kordofan,An Nuhūd,12.7,28.43333
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Ad Douiem,14.0012,32.3116
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Al Kawa,13.7463,32.4996
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Al Qiţena,14.8648,32.3668
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Kosti,13.1629,32.66347
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Marabba,12.35,32.18333
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Rabak,13.18087,32.73999
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Tandaltī,13.01667,31.86667
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Um Jar Al Gharbiyya,13.8013,32.4078
-SD,Sudan,Africa,Northern Africa,NW,White Nile,Wad az Zāki,14.4619,32.2065
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GZ,Al Jazirah,state,estado,Al Hasaheisa,14.75264,33.29836
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GZ,Al Jazirah,state,estado,Al Hilāliyya,14.9398,33.234
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GZ,Al Jazirah,state,estado,Al Kiremit al ‘Arakiyyīn,14.3476,32.9437
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GZ,Al Jazirah,state,estado,Al Manāqil,14.2459,32.9891
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GZ,Al Jazirah,state,estado,Al Masallamiyya,14.5748,33.3373
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GZ,Al Jazirah,state,estado,Wad Medani,14.40118,33.51989
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GZ,Al Jazirah,state,estado,Wad Rāwah,15.16028,33.13972
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GD,Al Qadarif,state,estado,Al Ḩawātah,13.41667,34.63333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GD,Al Qadarif,state,estado,Al Qadarif,14.03493,35.38344
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GD,Al Qadarif,state,estado,Doka,13.51667,35.76667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NB,Blue Nile,state,estado,Ad-Damazin,11.7891,34.3592
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NB,Blue Nile,state,estado,Ar Ruseris,11.8659,34.3869
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NB,Blue Nile,state,estado,Kurmuk,10.55,34.28333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DC,Central Darfur,state,estado,Zalingei,12.90918,23.47058
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DE,East Darfur,state,estado,El Daein,11.46186,26.12583
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KA,Kassala,state,estado,Aroma,15.81667,36.13333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KA,Kassala,state,estado,Kassala,15.45099,36.39998
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KA,Kassala,state,estado,Wagar,16.1525,36.2032
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KH,Khartoum,state,estado,Khartoum,15.55177,32.53241
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KH,Khartoum,state,estado,Omdurman,15.64453,32.47773
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DN,North Darfur,state,estado,El Fasher,13.62793,25.34936
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DN,North Darfur,state,estado,Kutum,14.2,24.66667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DN,North Darfur,state,estado,Umm Kaddadah,13.60169,26.68759
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KN,North Kordofan,state,estado,Ar Rahad,12.71667,30.65
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KN,North Kordofan,state,estado,Bārah,13.7,30.36667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KN,North Kordofan,state,estado,El Obeid,13.18421,30.21669
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KN,North Kordofan,state,estado,Umm Ruwaba,12.9061,31.2158
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NO,Northern,state,estado,Ad Dabbah,18.05,30.95
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NO,Northern,state,estado,Argo,19.51667,30.41667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NO,Northern,state,estado,Dongola,19.18163,30.47689
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NO,Northern,state,estado,Karmah an Nuzul,19.63333,30.41667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NO,Northern,state,estado,Kuraymah,18.55,31.85
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NO,Northern,state,estado,Merowe,18.47036,31.81126
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,RS,Red Sea,state,estado,Gebeit,21.06667,36.31667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,RS,Red Sea,state,estado,Port Sudan,19.61745,37.21644
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,RS,Red Sea,state,estado,Sawākin,19.1059,37.3321
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,RS,Red Sea,state,estado,Tokār,18.4254,37.729
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NR,River Nile,state,estado,Atbara,17.70217,33.98638
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NR,River Nile,state,estado,Berber,18.02158,33.98299
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NR,River Nile,state,estado,Ed Damer,17.59898,33.97205
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NR,River Nile,state,estado,El Bauga,18.26197,33.90812
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NR,River Nile,state,estado,El Matama,16.7095,33.3565
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NR,River Nile,state,estado,Shendi,16.6915,33.4341
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,SI,Sennar,state,estado,Ad Dindar,13.2,34.16667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,SI,Sennar,state,estado,As Sūkī,13.31667,33.88333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,SI,Sennar,state,estado,Jalqani,12.4486,34.2186
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,SI,Sennar,state,estado,Kināna,14.0361,33.1712
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,SI,Sennar,state,estado,Maiurno,13.41667,33.66667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,SI,Sennar,state,estado,Singa,13.1483,33.93117
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,SI,Sennar,state,estado,Sinnar,13.56907,33.56718
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DS,South Darfur,state,estado,Gereida,11.27543,25.14026
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DS,South Darfur,state,estado,Nyala,12.04888,24.88069
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KS,South Kordofan,state,estado,Abu Jibeha,11.4562,31.2285
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KS,South Kordofan,state,estado,Al Fūlah,11.73292,28.35786
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KS,South Kordofan,state,estado,Dilling,12.05,29.65
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KS,South Kordofan,state,estado,Kadugli,11.01111,29.71833
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,KS,South Kordofan,state,estado,Talodi,10.63246,30.3797
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,DW,West Darfur,state,estado,Geneina,13.45262,22.44725
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GK,West Kordofan,state,estado,Abū Zabad,12.35,29.25
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GK,West Kordofan,state,estado,Al Lagowa,11.4,29.13333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GK,West Kordofan,state,estado,Al Mijlad,11.03333,27.73333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,GK,West Kordofan,state,estado,An Nuhūd,12.7,28.43333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Ad Douiem,14.0012,32.3116
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Al Kawa,13.7463,32.4996
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Al Qiţena,14.8648,32.3668
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Kosti,13.1629,32.66347
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Marabba,12.35,32.18333
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Rabak,13.18087,32.73999
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Tandaltī,13.01667,31.86667
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Um Jar Al Gharbiyya,13.8013,32.4078
+SD,Sudan,Sudán,Africa,África,Northern Africa,África del Norte,NW,White Nile,state,estado,Wad az Zāki,14.4619,32.2065

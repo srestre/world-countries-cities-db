@@ -12,16 +12,20 @@
   currency_symbol: "FC"
   tld: ".cd"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 0
   longitude: 25
   emoji: "🇨🇩"
   states:
     -
       name: "Bas-Uélé"
+      native: "Bas-Uélé"
       code: "BU"
       iso3166_2: "CD-BU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.6644488
       longitude: 25.2137871
       cities:
@@ -39,9 +43,11 @@
           longitude: 24.72997
     -
       name: "Équateur"
+      native: "Équateur"
       code: "EQ"
       iso3166_2: "CD-EQ"
       type: "province"
+      type_es: "provincia"
       latitude: 0.6060154
       longitude: 18.7800729
       cities:
@@ -63,9 +69,11 @@
           longitude: 18.26034
     -
       name: "Haut-Katanga"
+      native: "Haut-Katanga"
       code: "HK"
       iso3166_2: "CD-HK"
       type: "province"
+      type_es: "provincia"
       latitude: -10.519718
       longitude: 27.8432804
       cities:
@@ -79,9 +87,11 @@
           longitude: 27.47938
     -
       name: "Haut-Lomami"
+      native: "Haut-Lomami"
       code: "HL"
       iso3166_2: "CD-HL"
       type: "province"
+      type_es: "provincia"
       latitude: -8.1495036
       longitude: 25.5557963
       cities:
@@ -95,9 +105,11 @@
           longitude: 24.99798
     -
       name: "Haut-Uélé"
+      native: "Haut-Uélé"
       code: "HU"
       iso3166_2: "CD-HU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.3398499
       longitude: 28.789274
       cities:
@@ -115,9 +127,11 @@
           longitude: 29.53551
     -
       name: "Ituri"
+      native: "Ituri"
       code: "IT"
       iso3166_2: "CD-IT"
       type: "province"
+      type_es: "provincia"
       latitude: 1.8330623
       longitude: 29.4980774
       cities:
@@ -127,9 +141,11 @@
           longitude: 30.25224
     -
       name: "Kasaï"
+      native: "Kasaï"
       code: "KS"
       iso3166_2: "CD-KS"
       type: "province"
+      type_es: "provincia"
       latitude: -4.8740862
       longitude: 21.1234899
       cities:
@@ -151,18 +167,22 @@
           longitude: 20.79995
     -
       name: "Kasaï Central"
+      native: "Kasaï Central"
       code: "KC"
       iso3166_2: "CD-KC"
       type: "province"
+      type_es: "provincia"
       latitude: -5.9046896
       longitude: 21.4334417
       cities:
         []
     -
       name: "Kasaï Oriental"
+      native: "Kasaï Oriental"
       code: "KE"
       iso3166_2: "CD-KE"
       type: "province"
+      type_es: "provincia"
       latitude: -6.1258942
       longitude: 23.5998111
       cities:
@@ -180,9 +200,11 @@
           longitude: 23.58979
     -
       name: "Kinshasa"
+      native: "Kinshasa"
       code: "KN"
       iso3166_2: "CD-KN"
       type: "city"
+      type_es: "ciudad"
       latitude: -4.32171
       longitude: 15.3122511
       cities:
@@ -192,9 +214,11 @@
           longitude: 15.31357
     -
       name: "Kongo Central"
+      native: "Kongo Central"
       code: "BC"
       iso3166_2: "CD-BC"
       type: "province"
+      type_es: "provincia"
       latitude: -5.1778483
       longitude: 14.3909935
       cities:
@@ -224,9 +248,11 @@
           longitude: 12.9484
     -
       name: "Kwango"
+      native: "Casse-casse"
       code: "KG"
       iso3166_2: "CD-KG"
       type: "province"
+      type_es: "provincia"
       latitude: -6.1822381
       longitude: 17.7711691
       cities:
@@ -236,9 +262,11 @@
           longitude: 16.81735
     -
       name: "Kwilu"
+      native: "Kwilu"
       code: "KL"
       iso3166_2: "CD-KL"
       type: "province"
+      type_es: "provincia"
       latitude: -4.8108497
       longitude: 18.805534
       cities:
@@ -260,9 +288,11 @@
           longitude: 19.53385
     -
       name: "Lomami"
+      native: "Lomami"
       code: "LO"
       iso3166_2: "CD-LO"
       type: "province"
+      type_es: "provincia"
       latitude: -6.128664
       longitude: 24.4577962
       cities:
@@ -276,9 +306,11 @@
           longitude: 23.45278
     -
       name: "Lualaba"
+      native: "Kriednle"
       code: "LU"
       iso3166_2: "CD-LU"
       type: "province"
+      type_es: "provincia"
       latitude: -10.7027809
       longitude: 25.4657979
       cities:
@@ -292,9 +324,11 @@
           longitude: 25.466667
     -
       name: "Mai-Ndombe"
+      native: "Peut"
       code: "MN"
       iso3166_2: "CD-MN"
       type: "province"
+      type_es: "provincia"
       latitude: -2.5406945
       longitude: 18.6065732
       cities:
@@ -316,9 +350,11 @@
           longitude: 17.69001
     -
       name: "Maniema"
+      native: "Maniema"
       code: "MA"
       iso3166_2: "CD-MA"
       type: "province"
+      type_es: "provincia"
       latitude: -2.9612778
       longitude: 25.9634848
       cities:
@@ -336,9 +372,11 @@
           longitude: 25.92237
     -
       name: "Mongala"
+      native: "Mongala"
       code: "MO"
       iso3166_2: "CD-MO"
       type: "province"
+      type_es: "provincia"
       latitude: 2.15406
       longitude: 21.4861221
       cities:
@@ -348,9 +386,11 @@
           longitude: 22.46827
     -
       name: "Nord-Kivu"
+      native: "Nord-Kivu"
       code: "NK"
       iso3166_2: "CD-NK"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5645647
       longitude: 28.7061945
       cities:
@@ -372,9 +412,11 @@
           longitude: 29.04339
     -
       name: "Nord-Ubangi"
+      native: "Nord-Deren-Christ"
       code: "NU"
       iso3166_2: "CD-NU"
       type: "province"
+      type_es: "provincia"
       latitude: 4.0175656
       longitude: 21.3779242
       cities:
@@ -392,9 +434,11 @@
           longitude: 21.00284
     -
       name: "Sankuru"
+      native: "Sankuru"
       code: "SA"
       iso3166_2: "CD-SA"
       type: "province"
+      type_es: "provincia"
       latitude: -3.5074885
       longitude: 23.5845039
       cities:
@@ -408,9 +452,11 @@
           longitude: 23.44391
     -
       name: "Sud-Kivu"
+      native: "Sud-Kivu"
       code: "SK"
       iso3166_2: "CD-SK"
       type: "province"
+      type_es: "provincia"
       latitude: -3.2968958
       longitude: 28.1674008
       cities:
@@ -428,9 +474,11 @@
           longitude: 29.13779
     -
       name: "Sud-Ubangi"
+      native: "Mousse"
       code: "SU"
       iso3166_2: "CD-SU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.3283335
       longitude: 19.4627581
       cities:
@@ -444,9 +492,11 @@
           longitude: 18.63566
     -
       name: "Tanganyika"
+      native: "Tanganyika"
       code: "TA"
       iso3166_2: "CD-TA"
       type: "province"
+      type_es: "provincia"
       latitude: -6.7105797
       longitude: 27.9879861
       cities:
@@ -464,9 +514,11 @@
           longitude: 27.00029
     -
       name: "Tshopo"
+      native: "Tshopo"
       code: "TO"
       iso3166_2: "CD-TO"
       type: "province"
+      type_es: "provincia"
       latitude: 0.4991493
       longitude: 25.1651226
       cities:
@@ -484,9 +536,11 @@
           longitude: 24.43973
     -
       name: "Tshuapa"
+      native: "Thuapa"
       code: "TU"
       iso3166_2: "CD-TU"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5875933
       longitude: 22.1544364
       cities:

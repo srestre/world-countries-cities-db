@@ -12,16 +12,20 @@
   currency_symbol: "FCFA"
   tld: ".gq"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 2
   longitude: 10
   emoji: "🇬🇶"
   states:
     -
       name: "Annobón"
+      native: "Annobón"
       code: "AN"
       iso3166_2: "GQ-AN"
       type: "province"
+      type_es: "provincia"
       latitude: -1.4268782
       longitude: 5.6352801
       cities:
@@ -31,9 +35,11 @@
           longitude: 5.63178
     -
       name: "Bioko Norte"
+      native: "Bioko norte"
       code: "BN"
       iso3166_2: "GQ-BN"
       type: "province"
+      type_es: "provincia"
       latitude: 3.6484594
       longitude: 8.7851155
       cities:
@@ -51,9 +57,11 @@
           longitude: 8.9084
     -
       name: "Bioko Sur"
+      native: "Bioko sur"
       code: "BS"
       iso3166_2: "GQ-BS"
       type: "province"
+      type_es: "provincia"
       latitude: 3.4245254
       longitude: 8.6646092
       cities:
@@ -63,9 +71,11 @@
           longitude: 8.55465
     -
       name: "Centro Sur"
+      native: "Centro Sur"
       code: "CS"
       iso3166_2: "GQ-CS"
       type: "province"
+      type_es: "provincia"
       latitude: 1.3969966
       longitude: 10.4538528
       cities:
@@ -83,9 +93,11 @@
           longitude: 10.55124
     -
       name: "Djibloho"
+      native: "Djibloho"
       code: "DJ"
       iso3166_2: "GQ-DJ"
       type: "province"
+      type_es: "provincia"
       latitude: 1.6
       longitude: 10.8
       cities:
@@ -99,18 +111,22 @@
           longitude: 10.9
     -
       name: "Insular"
+      native: "Insular"
       code: "I"
       iso3166_2: "GQ-I"
       type: "region"
+      type_es: "región"
       latitude: 3.4986523
       longitude: 8.7136062
       cities:
         []
     -
       name: "Kié-Ntem"
+      native: "A quien hice"
       code: "KN"
       iso3166_2: "GQ-KN"
       type: "province"
+      type_es: "provincia"
       latitude: 2.0579266
       longitude: 10.9855916
       cities:
@@ -132,9 +148,11 @@
           longitude: 10.94599
     -
       name: "Litoral"
+      native: "Costero"
       code: "LI"
       iso3166_2: "GQ-LI"
       type: "province"
+      type_es: "provincia"
       latitude: 1.6026374
       longitude: 9.841569
       cities:
@@ -164,18 +182,22 @@
           longitude: 9.82212
     -
       name: "Río Muni"
+      native: "Río Muni"
       code: "C"
       iso3166_2: "GQ-C"
       type: "region"
+      type_es: "región"
       latitude: 1.0570951
       longitude: 9.6532917
       cities:
         []
     -
       name: "Wele-Nzas"
+      native: "Wele-nza"
       code: "WN"
       iso3166_2: "GQ-WN"
       type: "province"
+      type_es: "provincia"
       latitude: 1.4648719
       longitude: 11.131676
       cities:

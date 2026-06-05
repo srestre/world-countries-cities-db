@@ -1,64 +1,64 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(99, 'Hungary', 'HU', 'HUN', 'Europe', 'Eastern Europe', 'Budapest', 'HUF', 47, 20, '🇭🇺');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(99, 'Hungary', 'Hungría', 'HU', 'HUN', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Budapest', 'HUF', 47, 20, '🇭🇺');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1048, 'Bács-Kiskun', 99, 'HU', 'BK', 'county', 46.5809294, 19.5128532),
-(1055, 'Baranya', 99, 'HU', 'BA', 'county', 45.9714436, 18.1669246),
-(1060, 'Békés', 99, 'HU', 'BE', 'county', 46.7717431, 21.1325877),
-(1036, 'Békéscsaba', 99, 'HU', 'BC', 'city with county rights', 46.6798003, 21.0985425),
-(1058, 'Borsod-Abaúj-Zemplén', 99, 'HU', 'BZ', 'county', 48.2397936, 21.1353474),
-(1064, 'Budapest', 99, 'HU', 'BU', 'capital city', 47.497912, 19.040235),
-(1031, 'Csongrád County', 99, 'HU', 'CS', 'county', 46.2607525, 20.1484568),
-(1032, 'Debrecen', 99, 'HU', 'DE', 'city with county rights', 47.5316049, 21.6273124),
-(1049, 'Dunaújváros', 99, 'HU', 'DU', 'city with county rights', 46.9619059, 18.9355227),
-(1037, 'Eger', 99, 'HU', 'EG', 'city with county rights', 47.9025348, 20.3772284),
-(1028, 'Érd', 99, 'HU', 'ER', 'city with county rights', 47.3772495, 18.9213833),
-(1044, 'Fejér County', 99, 'HU', 'FE', 'county', 47.1217932, 18.5294815),
-(1041, 'Győr', 99, 'HU', 'GY', 'city with county rights', 47.687609, 17.6346815),
-(1042, 'Győr-Moson-Sopron County', 99, 'HU', 'GS', 'county', 47.6509285, 17.2505883),
-(1063, 'Hajdú-Bihar County', 99, 'HU', 'HB', 'county', 47.4688355, 21.5453227),
-(1040, 'Heves County', 99, 'HU', 'HE', 'county', 47.8057617, 20.2038559),
-(1027, 'Hódmezővásárhely', 99, 'HU', 'HV', 'city with county rights', 46.4181262, 20.3300315),
-(1043, 'Jász-Nagykun-Szolnok County', 99, 'HU', 'JN', 'county', 47.2555579, 20.5232456),
-(1067, 'Kaposvár', 99, 'HU', 'KV', 'city with county rights', 46.3593606, 17.7967639),
-(1056, 'Kecskemét', 99, 'HU', 'KM', 'city with county rights', 46.9073883, 19.6917206),
-(5085, 'Komárom-Esztergom', 99, 'HU', 'KE', 'county', 47.6511599, 18.2551911),
-(1065, 'Miskolc', 99, 'HU', 'MI', 'city with county rights', 48.1034775, 20.7784384),
-(1030, 'Nagykanizsa', 99, 'HU', 'NK', 'city with county rights', 46.4590218, 16.9896796),
-(1051, 'Nógrád County', 99, 'HU', 'NO', 'county', 47.9041031, 19.0498504),
-(1034, 'Nyíregyháza', 99, 'HU', 'NY', 'city with county rights', 47.9495324, 21.7244053),
-(1053, 'Pécs', 99, 'HU', 'PS', 'city with county rights', 46.0727345, 18.232266),
-(1059, 'Pest County', 99, 'HU', 'PE', 'county', 47.4480001, 19.4618128),
-(1068, 'Salgótarján', 99, 'HU', 'ST', 'city with county rights', 48.0935237, 19.7999813),
-(1035, 'Somogy County', 99, 'HU', 'SO', 'county', 46.554859, 17.5866732),
-(1057, 'Sopron', 99, 'HU', 'SN', 'city with county rights', 47.6803063, 16.5983457),
-(1045, 'Szabolcs-Szatmár-Bereg County', 99, 'HU', 'SZ', 'county', 48.0394954, 22.00333),
-(1029, 'Szeged', 99, 'HU', 'SD', 'city with county rights', 46.2530102, 20.1414253),
-(1033, 'Székesfehérvár', 99, 'HU', 'SF', 'city with county rights', 47.1910169, 18.410811),
-(1061, 'Szekszárd', 99, 'HU', 'SS', 'city with county rights', 46.3474326, 18.7062293),
-(1047, 'Szolnok', 99, 'HU', 'SK', 'city with county rights', 47.1753833, 20.1946279),
-(1052, 'Szombathely', 99, 'HU', 'SH', 'city with county rights', 47.2306851, 16.6218441),
-(1066, 'Tatabánya', 99, 'HU', 'TB', 'city with county rights', 47.583845, 18.3979855),
-(1038, 'Tolna County', 99, 'HU', 'TO', 'county', 46.4762754, 18.5570627),
-(1039, 'Vas County', 99, 'HU', 'VA', 'county', 47.0929111, 16.6812183),
-(1062, 'Veszprém', 99, 'HU', 'VM', 'city with county rights', 47.0933824, 17.9080406),
-(1054, 'Veszprém County', 99, 'HU', 'VE', 'county', 47.0930974, 17.9100763),
-(1046, 'Zala County', 99, 'HU', 'ZA', 'county', 46.7900881, 16.9339428),
-(1050, 'Zalaegerszeg', 99, 'HU', 'ZE', 'county', 46.8416936, 16.8416322);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1048, 'Bács-Kiskun', 'Bács-Kiskun', 99, 'HU', 'BK', 'county', 'condado', 46.5809294, 19.5128532),
+(1055, 'Baranya', 'Baranya', 99, 'HU', 'BA', 'county', 'condado', 45.9714436, 18.1669246),
+(1060, 'Békés', 'Békés', 99, 'HU', 'BE', 'county', 'condado', 46.7717431, 21.1325877),
+(1036, 'Békéscsaba', 'Békéscsaba', 99, 'HU', 'BC', 'city with county rights', 'ciudad con rango de condado', 46.6798003, 21.0985425),
+(1058, 'Borsod-Abaúj-Zemplén', 'Borsod-Abaúj-Zemplén', 99, 'HU', 'BZ', 'county', 'condado', 48.2397936, 21.1353474),
+(1064, 'Budapest', 'Budapest', 99, 'HU', 'BU', 'capital city', 'ciudad capital', 47.497912, 19.040235),
+(1031, 'Csongrád County', 'Csongrád County', 99, 'HU', 'CS', 'county', 'condado', 46.2607525, 20.1484568),
+(1032, 'Debrecen', 'Debrecen', 99, 'HU', 'DE', 'city with county rights', 'ciudad con rango de condado', 47.5316049, 21.6273124),
+(1049, 'Dunaújváros', 'Dunaújváros', 99, 'HU', 'DU', 'city with county rights', 'ciudad con rango de condado', 46.9619059, 18.9355227),
+(1037, 'Eger', 'Buja', 99, 'HU', 'EG', 'city with county rights', 'ciudad con rango de condado', 47.9025348, 20.3772284),
+(1028, 'Érd', 'Érd', 99, 'HU', 'ER', 'city with county rights', 'ciudad con rango de condado', 47.3772495, 18.9213833),
+(1044, 'Fejér County', 'Fejér County', 99, 'HU', 'FE', 'county', 'condado', 47.1217932, 18.5294815),
+(1041, 'Győr', 'Győr', 99, 'HU', 'GY', 'city with county rights', 'ciudad con rango de condado', 47.687609, 17.6346815),
+(1042, 'Győr-Moson-Sopron County', 'Győr-Moson-Sopron County', 99, 'HU', 'GS', 'county', 'condado', 47.6509285, 17.2505883),
+(1063, 'Hajdú-Bihar County', 'Hajdú-Bihar County', 99, 'HU', 'HB', 'county', 'condado', 47.4688355, 21.5453227),
+(1040, 'Heves County', 'Heves megye', 99, 'HU', 'HE', 'county', 'condado', 47.8057617, 20.2038559),
+(1027, 'Hódmezővásárhely', 'Hódmezővásárhely', 99, 'HU', 'HV', 'city with county rights', 'ciudad con rango de condado', 46.4181262, 20.3300315),
+(1043, 'Jász-Nagykun-Szolnok County', 'Jász-Nagykun-Szolnok County', 99, 'HU', 'JN', 'county', 'condado', 47.2555579, 20.5232456),
+(1067, 'Kaposvár', 'Kaposvár', 99, 'HU', 'KV', 'city with county rights', 'ciudad con rango de condado', 46.3593606, 17.7967639),
+(1056, 'Kecskemét', 'Kecskemét', 99, 'HU', 'KM', 'city with county rights', 'ciudad con rango de condado', 46.9073883, 19.6917206),
+(5085, 'Komárom-Esztergom', 'Komárom-Esztergom', 99, 'HU', 'KE', 'county', 'condado', 47.6511599, 18.2551911),
+(1065, 'Miskolc', 'Miskolc', 99, 'HU', 'MI', 'city with county rights', 'ciudad con rango de condado', 48.1034775, 20.7784384),
+(1030, 'Nagykanizsa', 'Nagykanizsa', 99, 'HU', 'NK', 'city with county rights', 'ciudad con rango de condado', 46.4590218, 16.9896796),
+(1051, 'Nógrád County', 'Nógrád County', 99, 'HU', 'NO', 'county', 'condado', 47.9041031, 19.0498504),
+(1034, 'Nyíregyháza', 'Nyíregyháza', 99, 'HU', 'NY', 'city with county rights', 'ciudad con rango de condado', 47.9495324, 21.7244053),
+(1053, 'Pécs', 'Pécs', 99, 'HU', 'PS', 'city with county rights', 'ciudad con rango de condado', 46.0727345, 18.232266),
+(1059, 'Pest County', 'Kártevő megye', 99, 'HU', 'PE', 'county', 'condado', 47.4480001, 19.4618128),
+(1068, 'Salgótarján', 'Salgótarján', 99, 'HU', 'ST', 'city with county rights', 'ciudad con rango de condado', 48.0935237, 19.7999813),
+(1035, 'Somogy County', 'Somogy megye', 99, 'HU', 'SO', 'county', 'condado', 46.554859, 17.5866732),
+(1057, 'Sopron', 'Sopron', 99, 'HU', 'SN', 'city with county rights', 'ciudad con rango de condado', 47.6803063, 16.5983457),
+(1045, 'Szabolcs-Szatmár-Bereg County', 'Szabolcs-Szatmár-Bereg County', 99, 'HU', 'SZ', 'county', 'condado', 48.0394954, 22.00333),
+(1029, 'Szeged', 'Szeged', 99, 'HU', 'SD', 'city with county rights', 'ciudad con rango de condado', 46.2530102, 20.1414253),
+(1033, 'Székesfehérvár', 'Székesfehérvár', 99, 'HU', 'SF', 'city with county rights', 'ciudad con rango de condado', 47.1910169, 18.410811),
+(1061, 'Szekszárd', 'Szekszárd', 99, 'HU', 'SS', 'city with county rights', 'ciudad con rango de condado', 46.3474326, 18.7062293),
+(1047, 'Szolnok', 'Szolnok', 99, 'HU', 'SK', 'city with county rights', 'ciudad con rango de condado', 47.1753833, 20.1946279),
+(1052, 'Szombathely', 'Szombathely', 99, 'HU', 'SH', 'city with county rights', 'ciudad con rango de condado', 47.2306851, 16.6218441),
+(1066, 'Tatabánya', 'Tatabánya', 99, 'HU', 'TB', 'city with county rights', 'ciudad con rango de condado', 47.583845, 18.3979855),
+(1038, 'Tolna County', 'Tolna County', 99, 'HU', 'TO', 'county', 'condado', 46.4762754, 18.5570627),
+(1039, 'Vas County', 'Vas County', 99, 'HU', 'VA', 'county', 'condado', 47.0929111, 16.6812183),
+(1062, 'Veszprém', 'Veszprém', 99, 'HU', 'VM', 'city with county rights', 'ciudad con rango de condado', 47.0933824, 17.9080406),
+(1054, 'Veszprém County', 'Veszprém County', 99, 'HU', 'VE', 'county', 'condado', 47.0930974, 17.9100763),
+(1046, 'Zala County', 'Zala megye', 99, 'HU', 'ZA', 'county', 'condado', 46.7900881, 16.9339428),
+(1050, 'Zalaegerszeg', 'Zalaegerszeg', 99, 'HU', 'ZE', 'county', 'condado', 46.8416936, 16.8416322);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (56141, 'Ágasegyháza', 1048, 99, 46.84025, 19.45208),

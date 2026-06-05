@@ -1,45 +1,45 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(11, 'Argentina', 'AR', 'ARG', 'Americas', 'South America', 'Buenos Aires', 'ARS', -34, -64, '🇦🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(11, 'Argentina', 'Argentina', 'AR', 'ARG', 'Americas', 'América', 'South America', 'Sudamérica', 'Buenos Aires', 'ARS', -34, -64, '🇦🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4880, 'Autonomous City of Buenos Aires', 11, 'AR', 'C', 'city', -34.6161231, -58.4356212),
-(3656, 'Buenos Aires', 11, 'AR', 'B', 'province', -37.1498403, -60.1319456),
-(3647, 'Catamarca', 11, 'AR', 'K', 'province', -28.4715877, -65.7877209),
-(3640, 'Chaco', 11, 'AR', 'H', 'province', -26.3829647, -60.8816092),
-(3651, 'Chubut', 11, 'AR', 'U', 'province', -43.7128356, -68.7461817),
-(3642, 'Córdoba', 11, 'AR', 'X', 'province', -31.4166867, -64.1834193),
-(3638, 'Corrientes', 11, 'AR', 'W', 'province', -27.4818684, -58.7955872),
-(3654, 'Entre Ríos', 11, 'AR', 'E', 'province', -31.6252842, -59.3539578),
-(3652, 'Formosa', 11, 'AR', 'P', 'province', -26.1852983, -58.1744976),
-(3645, 'Jujuy', 11, 'AR', 'Y', 'province', -23.3161458, -65.7595288),
-(3655, 'La Pampa', 11, 'AR', 'L', 'province', -37.2314643, -65.3972948),
-(3653, 'La Rioja', 11, 'AR', 'F', 'province', -29.4193793, -66.8559932),
-(3646, 'Mendoza', 11, 'AR', 'M', 'province', -32.8894587, -68.8458386),
-(3644, 'Misiones', 11, 'AR', 'N', 'province', -26.737224, -54.4315257),
-(3648, 'Neuquén', 11, 'AR', 'Q', 'province', -38.9519679, -68.0591741),
-(3639, 'Río Negro', 11, 'AR', 'R', 'province', -39.7296321, -65.3418189),
-(3643, 'Salta', 11, 'AR', 'A', 'province', -24.7892946, -65.4103194),
-(3634, 'San Juan', 11, 'AR', 'J', 'province', -31.5370909, -68.5251802),
-(3636, 'San Luis', 11, 'AR', 'D', 'province', -33.2962042, -66.3294948),
-(3649, 'Santa Cruz', 11, 'AR', 'Z', 'province', -48.5693327, -70.1606767),
-(3641, 'Santa Fe', 11, 'AR', 'S', 'province', -31.6186951, -60.7019561),
-(3635, 'Santiago del Estero', 11, 'AR', 'G', 'province', -27.7833574, -64.264167),
-(3650, 'Tierra del Fuego', 11, 'AR', 'V', 'province', -54.4071064, -67.8974895),
-(3637, 'Tucumán', 11, 'AR', 'T', 'province', -26.8303703, -65.2038133);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4880, 'Autonomous City of Buenos Aires', 'Ciudad autónoma de Buenos Aires', 11, 'AR', 'C', 'city', 'ciudad', -34.6161231, -58.4356212),
+(3656, 'Buenos Aires', 'Buenos Aires', 11, 'AR', 'B', 'province', 'provincia', -37.1498403, -60.1319456),
+(3647, 'Catamarca', 'Catamarca', 11, 'AR', 'K', 'province', 'provincia', -28.4715877, -65.7877209),
+(3640, 'Chaco', 'Chaco', 11, 'AR', 'H', 'province', 'provincia', -26.3829647, -60.8816092),
+(3651, 'Chubut', 'Chubut', 11, 'AR', 'U', 'province', 'provincia', -43.7128356, -68.7461817),
+(3642, 'Córdoba', 'Córdoba', 11, 'AR', 'X', 'province', 'provincia', -31.4166867, -64.1834193),
+(3638, 'Corrientes', 'Corrientes', 11, 'AR', 'W', 'province', 'provincia', -27.4818684, -58.7955872),
+(3654, 'Entre Ríos', 'Entre Ríos', 11, 'AR', 'E', 'province', 'provincia', -31.6252842, -59.3539578),
+(3652, 'Formosa', 'Formosa', 11, 'AR', 'P', 'province', 'provincia', -26.1852983, -58.1744976),
+(3645, 'Jujuy', 'Jujuy', 11, 'AR', 'Y', 'province', 'provincia', -23.3161458, -65.7595288),
+(3655, 'La Pampa', 'La Pampa', 11, 'AR', 'L', 'province', 'provincia', -37.2314643, -65.3972948),
+(3653, 'La Rioja', 'La Rioja', 11, 'AR', 'F', 'province', 'provincia', -29.4193793, -66.8559932),
+(3646, 'Mendoza', 'Mendoza', 11, 'AR', 'M', 'province', 'provincia', -32.8894587, -68.8458386),
+(3644, 'Misiones', 'Misiones', 11, 'AR', 'N', 'province', 'provincia', -26.737224, -54.4315257),
+(3648, 'Neuquén', 'Neuquén', 11, 'AR', 'Q', 'province', 'provincia', -38.9519679, -68.0591741),
+(3639, 'Río Negro', 'Río Negro', 11, 'AR', 'R', 'province', 'provincia', -39.7296321, -65.3418189),
+(3643, 'Salta', 'Salta', 11, 'AR', 'A', 'province', 'provincia', -24.7892946, -65.4103194),
+(3634, 'San Juan', 'San Juan', 11, 'AR', 'J', 'province', 'provincia', -31.5370909, -68.5251802),
+(3636, 'San Luis', 'San Luis', 11, 'AR', 'D', 'province', 'provincia', -33.2962042, -66.3294948),
+(3649, 'Santa Cruz', 'Santa Cruz', 11, 'AR', 'Z', 'province', 'provincia', -48.5693327, -70.1606767),
+(3641, 'Santa Fe', 'Santa Fe', 11, 'AR', 'S', 'province', 'provincia', -31.6186951, -60.7019561),
+(3635, 'Santiago del Estero', 'Santiago del Estero', 11, 'AR', 'G', 'province', 'provincia', -27.7833574, -64.264167),
+(3650, 'Tierra del Fuego', 'Tierra del Fuego', 11, 'AR', 'V', 'province', 'provincia', -54.4071064, -67.8974895),
+(3637, 'Tucumán', 'Tucumán', 11, 'AR', 'T', 'province', 'provincia', -26.8303703, -65.2038133);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (154263, 'Agronomía', 4880, 11, -34.5922264, -58.4999764),

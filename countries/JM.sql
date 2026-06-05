@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(108, 'Jamaica', 'JM', 'JAM', 'Americas', 'Caribbean', 'Kingston', 'JMD', 18.25, -77.5, '🇯🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(108, 'Jamaica', 'Jamaica', 'JM', 'JAM', 'Americas', 'América', 'Caribbean', 'Caribe', 'Kingston', 'JMD', 18.25, -77.5, '🇯🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3753, 'Clarendon', 108, 'JM', '13', 'parish', 17.9518525, -77.2719277),
-(3749, 'Hanover', 108, 'JM', '09', 'parish', 18.3850653, -78.130993),
-(3748, 'Kingston', 108, 'JM', '01', 'parish', 17.9712148, -76.7928128),
-(3754, 'Manchester', 108, 'JM', '12', 'parish', 18.0499257, -77.5110143),
-(3752, 'Portland', 108, 'JM', '04', 'parish', 18.1268206, -76.5374012),
-(3751, 'Saint Andrew', 108, 'JM', '02', 'parish', 18.0589648, -76.7607767),
-(3744, 'Saint Ann', 108, 'JM', '06', 'parish', 18.32993, -77.2541816),
-(3746, 'Saint Catherine', 108, 'JM', '14', 'parish', 18.0471737, -77.0333852),
-(3743, 'Saint Elizabeth', 108, 'JM', '11', 'parish', 18.053845, -77.7828249),
-(3745, 'Saint James', 108, 'JM', '08', 'parish', 18.365809, -77.8522037),
-(3747, 'Saint Mary', 108, 'JM', '05', 'parish', 18.2789179, -76.9021868),
-(3750, 'Saint Thomas', 108, 'JM', '03', 'parish', 17.9716306, -76.4414306),
-(3755, 'Trelawny', 108, 'JM', '07', 'parish', 18.3682128, -77.6043615),
-(3742, 'Westmoreland', 108, 'JM', '10', 'parish', 18.2104026, -77.9793211);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3753, 'Clarendon', 'Clarendon', 108, 'JM', '13', 'parish', 'parroquia', 17.9518525, -77.2719277),
+(3749, 'Hanover', 'Hanover', 108, 'JM', '09', 'parish', 'parroquia', 18.3850653, -78.130993),
+(3748, 'Kingston', 'Kingston', 108, 'JM', '01', 'parish', 'parroquia', 17.9712148, -76.7928128),
+(3754, 'Manchester', 'Manchester', 108, 'JM', '12', 'parish', 'parroquia', 18.0499257, -77.5110143),
+(3752, 'Portland', 'Portland', 108, 'JM', '04', 'parish', 'parroquia', 18.1268206, -76.5374012),
+(3751, 'Saint Andrew', 'Saint Andrew', 108, 'JM', '02', 'parish', 'parroquia', 18.0589648, -76.7607767),
+(3744, 'Saint Ann', 'Saint Ann', 108, 'JM', '06', 'parish', 'parroquia', 18.32993, -77.2541816),
+(3746, 'Saint Catherine', 'Saint Catherine', 108, 'JM', '14', 'parish', 'parroquia', 18.0471737, -77.0333852),
+(3743, 'Saint Elizabeth', 'Saint Elizabeth', 108, 'JM', '11', 'parish', 'parroquia', 18.053845, -77.7828249),
+(3745, 'Saint James', 'Saint James', 108, 'JM', '08', 'parish', 'parroquia', 18.365809, -77.8522037),
+(3747, 'Saint Mary', 'Saint Mary', 108, 'JM', '05', 'parish', 'parroquia', 18.2789179, -76.9021868),
+(3750, 'Saint Thomas', 'Saint Thomas', 108, 'JM', '03', 'parish', 'parroquia', 17.9716306, -76.4414306),
+(3755, 'Trelawny', 'Trelawny', 108, 'JM', '07', 'parish', 'parroquia', 18.3682128, -77.6043615),
+(3742, 'Westmoreland', 'Westmoreland', 108, 'JM', '10', 'parish', 'parroquia', 18.2104026, -77.9793211);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (62295, 'Aenon Town', 3753, 108, 18.21027, -77.39851),

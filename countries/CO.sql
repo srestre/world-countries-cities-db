@@ -1,54 +1,54 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(48, 'Colombia', 'CO', 'COL', 'Americas', 'South America', 'Bogotá', 'COP', 4, -72, '🇨🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(48, 'Colombia', 'Colombia', 'CO', 'COL', 'Americas', 'América', 'South America', 'Sudamérica', 'Bogotá', 'COP', 4, -72, '🇨🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2895, 'Amazonas', 48, 'CO', 'AMA', 'department', -1.305299, -71.4659212),
-(2890, 'Antioquia', 48, 'CO', 'ANT', 'department', 7.0000085, -75.5000086),
-(2881, 'Arauca', 48, 'CO', 'ARA', 'department', 6.6666755, -71.0000086),
-(2880, 'Atlántico', 48, 'CO', 'ATL', 'department', 10.6773422, -74.9718666),
-(4921, 'Bogotá D.C.', 48, 'CO', 'DC', 'capital district', 4.2834715, -74.1753606),
-(2893, 'Bolívar', 48, 'CO', 'BOL', 'department', 9.3660477, -74.8023636),
-(2903, 'Boyacá', 48, 'CO', 'BOY', 'department', 5.4428193, -73.3745224),
-(2887, 'Caldas', 48, 'CO', 'CAL', 'department', 5.3302514, -75.2873471),
-(2891, 'Caquetá', 48, 'CO', 'CAQ', 'department', 1.1153385, -74.1056838),
-(2892, 'Casanare', 48, 'CO', 'CAS', 'department', 5.5000085, -71.5000086),
-(2884, 'Cauca', 48, 'CO', 'CAU', 'department', 2.715645, -76.662665),
-(2899, 'Cesar', 48, 'CO', 'CES', 'department', 9.3333415, -73.5000086),
-(2876, 'Chocó', 48, 'CO', 'CHO', 'department', 6.0000085, -77.0000086),
-(2898, 'Córdoba', 48, 'CO', 'COR', 'department', 8.3344713, -75.6666238),
-(2875, 'Cundinamarca', 48, 'CO', 'CUN', 'department', 5.1096596, -74.0995854),
-(2882, 'Guainía', 48, 'CO', 'GUA', 'department', 2.5000086, -69.0000086),
-(2888, 'Guaviare', 48, 'CO', 'GUV', 'department', 1.7899198, -72.3761784),
-(4871, 'Huila', 48, 'CO', 'HUI', 'department', 2.4738993, -75.5900113),
-(2889, 'La Guajira', 48, 'CO', 'LAG', 'department', 11.4354118, -72.9002161),
-(2886, 'Magdalena', 48, 'CO', 'MAG', 'department', 10.5808075, -74.0685669),
-(2878, 'Meta', 48, 'CO', 'MET', 'department', 5.1554448, -70.8653784),
-(2897, 'Nariño', 48, 'CO', 'NAR', 'department', 1.289151, -77.35794),
-(2877, 'Norte de Santander', 48, 'CO', 'NSA', 'department', 8.4417924, -73.0492505),
-(2896, 'Putumayo', 48, 'CO', 'PUT', 'department', 0.5000086, -76.0000086),
-(2874, 'Quindío', 48, 'CO', 'QUI', 'department', 4.4028313, -75.7025795),
-(2879, 'Risaralda', 48, 'CO', 'RIS', 'department', 5.2102948, -75.9842236),
-(2900, 'San Andrés, Providencia y Santa Catalina', 48, 'CO', 'SAP', 'department', 12.5375979, -81.7204155),
-(2901, 'Santander', 48, 'CO', 'SAN', 'department', 7.0000085, -73.2500086),
-(2902, 'Sucre', 48, 'CO', 'SUC', 'department', 9, -75),
-(2883, 'Tolima', 48, 'CO', 'TOL', 'department', 4.0355786, -75.2086642),
-(2904, 'Valle del Cauca', 48, 'CO', 'VAC', 'department', 3.6984053, -76.5501996),
-(2885, 'Vaupés', 48, 'CO', 'VAU', 'department', 0.4228124, -70.9468372),
-(2894, 'Vichada', 48, 'CO', 'VID', 'department', 4.8686613, -69.3736658);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2895, 'Amazonas', 'Amazonas', 48, 'CO', 'AMA', 'department', 'departamento', -1.305299, -71.4659212),
+(2890, 'Antioquia', 'Antioquia', 48, 'CO', 'ANT', 'department', 'departamento', 7.0000085, -75.5000086),
+(2881, 'Arauca', 'Arauca', 48, 'CO', 'ARA', 'department', 'departamento', 6.6666755, -71.0000086),
+(2880, 'Atlántico', 'atlántico', 48, 'CO', 'ATL', 'department', 'departamento', 10.6773422, -74.9718666),
+(4921, 'Bogotá D.C.', 'Bogotá D.C.', 48, 'CO', 'DC', 'capital district', 'distrito capital', 4.2834715, -74.1753606),
+(2893, 'Bolívar', 'Bolívar', 48, 'CO', 'BOL', 'department', 'departamento', 9.3660477, -74.8023636),
+(2903, 'Boyacá', 'Boyacá', 48, 'CO', 'BOY', 'department', 'departamento', 5.4428193, -73.3745224),
+(2887, 'Caldas', 'Caldas', 48, 'CO', 'CAL', 'department', 'departamento', 5.3302514, -75.2873471),
+(2891, 'Caquetá', 'Caquetá', 48, 'CO', 'CAQ', 'department', 'departamento', 1.1153385, -74.1056838),
+(2892, 'Casanare', 'Casanare', 48, 'CO', 'CAS', 'department', 'departamento', 5.5000085, -71.5000086),
+(2884, 'Cauca', 'Cauca', 48, 'CO', 'CAU', 'department', 'departamento', 2.715645, -76.662665),
+(2899, 'Cesar', 'César', 48, 'CO', 'CES', 'department', 'departamento', 9.3333415, -73.5000086),
+(2876, 'Chocó', 'Chocó', 48, 'CO', 'CHO', 'department', 'departamento', 6.0000085, -77.0000086),
+(2898, 'Córdoba', 'Córdoba', 48, 'CO', 'COR', 'department', 'departamento', 8.3344713, -75.6666238),
+(2875, 'Cundinamarca', 'Cundinamarca', 48, 'CO', 'CUN', 'department', 'departamento', 5.1096596, -74.0995854),
+(2882, 'Guainía', 'Guainía', 48, 'CO', 'GUA', 'department', 'departamento', 2.5000086, -69.0000086),
+(2888, 'Guaviare', 'Guaviare', 48, 'CO', 'GUV', 'department', 'departamento', 1.7899198, -72.3761784),
+(4871, 'Huila', 'Ruedas', 48, 'CO', 'HUI', 'department', 'departamento', 2.4738993, -75.5900113),
+(2889, 'La Guajira', 'La Guajira', 48, 'CO', 'LAG', 'department', 'departamento', 11.4354118, -72.9002161),
+(2886, 'Magdalena', 'Magdalena', 48, 'CO', 'MAG', 'department', 'departamento', 10.5808075, -74.0685669),
+(2878, 'Meta', 'Meta', 48, 'CO', 'MET', 'department', 'departamento', 5.1554448, -70.8653784),
+(2897, 'Nariño', 'Nariño', 48, 'CO', 'NAR', 'department', 'departamento', 1.289151, -77.35794),
+(2877, 'Norte de Santander', 'Norte de Santander', 48, 'CO', 'NSA', 'department', 'departamento', 8.4417924, -73.0492505),
+(2896, 'Putumayo', 'Putumayo', 48, 'CO', 'PUT', 'department', 'departamento', 0.5000086, -76.0000086),
+(2874, 'Quindío', 'Quindío', 48, 'CO', 'QUI', 'department', 'departamento', 4.4028313, -75.7025795),
+(2879, 'Risaralda', 'Risaralda', 48, 'CO', 'RIS', 'department', 'departamento', 5.2102948, -75.9842236),
+(2900, 'San Andrés, Providencia y Santa Catalina', 'San Andrés, Providencia y Santa Catalina', 48, 'CO', 'SAP', 'department', 'departamento', 12.5375979, -81.7204155),
+(2901, 'Santander', 'Santander', 48, 'CO', 'SAN', 'department', 'departamento', 7.0000085, -73.2500086),
+(2902, 'Sucre', 'Sucre', 48, 'CO', 'SUC', 'department', 'departamento', 9, -75),
+(2883, 'Tolima', 'Tolima', 48, 'CO', 'TOL', 'department', 'departamento', 4.0355786, -75.2086642),
+(2904, 'Valle del Cauca', 'Valle del Cauca', 48, 'CO', 'VAC', 'department', 'departamento', 3.6984053, -76.5501996),
+(2885, 'Vaupés', 'Vaupés', 48, 'CO', 'VAU', 'department', 'departamento', 0.4228124, -70.9468372),
+(2894, 'Vichada', 'Vichada', 48, 'CO', 'VID', 'department', 'departamento', 4.8686613, -69.3736658);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (20807, 'El Encanto', 2895, 48, -1.56261, -73.25684),

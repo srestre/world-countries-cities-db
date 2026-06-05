@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(215, 'Syria', 'SY', 'SYR', 'Asia', 'Western Asia', 'Damascus', 'SYP', 35, 38, '🇸🇾');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(215, 'Syria', 'Siria', 'SY', 'SYR', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Damascus', 'SYP', 35, 38, '🇸🇾');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2941, 'Al-Hasakah', 215, 'SY', 'HA', 'province', 36.4364544, 40.5793816),
-(2944, 'Al-Raqqah', 215, 'SY', 'RA', 'province', 35.949678, 39.0089212),
-(2946, 'Aleppo', 215, 'SY', 'HL', 'province', 36.1517479, 37.3935),
-(2936, 'As-Suwayda', 215, 'SY', 'SU', 'province', 32.77055, 36.8776335),
-(2939, 'Damascus', 215, 'SY', 'DI', 'province', 33.5130695, 36.3095814),
-(2945, 'Daraa', 215, 'SY', 'DR', 'province', 32.8284685, 36.1055602),
-(2937, 'Deir ez-Zor', 215, 'SY', 'DY', 'province', 35.2693236, 40.2401172),
-(2934, 'Hama', 215, 'SY', 'HM', 'province', 35.309489, 37.2704222),
-(2942, 'Homs', 215, 'SY', 'HI', 'province', 34.4709821, 38.1502622),
-(2940, 'Idlib', 215, 'SY', 'ID', 'province', 35.8595974, 36.5713701),
-(2938, 'Latakia', 215, 'SY', 'LA', 'province', 35.5786198, 35.9814691),
-(2943, 'Quneitra', 215, 'SY', 'QU', 'province', 33.0537759, 35.9047094),
-(2935, 'Rif Dimashq', 215, 'SY', 'RD', 'province', 33.4708234, 37.647632),
-(2947, 'Tartus', 215, 'SY', 'TA', 'province', 34.9452553, 36.0753261);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2941, 'Al-Hasakah', 'الحسكة', 215, 'SY', 'HA', 'province', 'provincia', 36.4364544, 40.5793816),
+(2944, 'Al-Raqqah', 'الرقة', 215, 'SY', 'RA', 'province', 'provincia', 35.949678, 39.0089212),
+(2946, 'Aleppo', 'حلب', 215, 'SY', 'HL', 'province', 'provincia', 36.1517479, 37.3935),
+(2936, 'As-Suwayda', 'السويداء', 215, 'SY', 'SU', 'province', 'provincia', 32.77055, 36.8776335),
+(2939, 'Damascus', 'دمشق', 215, 'SY', 'DI', 'province', 'provincia', 33.5130695, 36.3095814),
+(2945, 'Daraa', 'درعا', 215, 'SY', 'DR', 'province', 'provincia', 32.8284685, 36.1055602),
+(2937, 'Deir ez-Zor', 'دير الزور', 215, 'SY', 'DY', 'province', 'provincia', 35.2693236, 40.2401172),
+(2934, 'Hama', 'حماة', 215, 'SY', 'HM', 'province', 'provincia', 35.309489, 37.2704222),
+(2942, 'Homs', 'حمص', 215, 'SY', 'HI', 'province', 'provincia', 34.4709821, 38.1502622),
+(2940, 'Idlib', 'إدلب', 215, 'SY', 'ID', 'province', 'provincia', 35.8595974, 36.5713701),
+(2938, 'Latakia', 'اللاذقية', 215, 'SY', 'LA', 'province', 'provincia', 35.5786198, 35.9814691),
+(2943, 'Quneitra', 'القنيطرة', 215, 'SY', 'QU', 'province', 'provincia', 33.0537759, 35.9047094),
+(2935, 'Rif Dimashq', 'ريف دمشق', 215, 'SY', 'RD', 'province', 'provincia', 33.4708234, 37.647632),
+(2947, 'Tartus', 'طرطوس', 215, 'SY', 'TA', 'province', 'provincia', 34.9452553, 36.0753261);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (104940, 'Ad Darbāsīyah', 2941, 215, 37.07279, 40.65199),

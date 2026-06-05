@@ -12,16 +12,20 @@
   currency_symbol: "฿"
   tld: ".th"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 15
   longitude: 100
   emoji: "🇹🇭"
   states:
     -
       name: "Amnat Charoen"
+      native: "อำนาจเจริญ"
       code: "37"
       iso3166_2: "TH-37"
       type: "province"
+      type_es: "provincia"
       latitude: 15.8656783
       longitude: 104.6257774
       cities:
@@ -59,9 +63,11 @@
           longitude: 104.68441
     -
       name: "Ang Thong"
+      native: "อ่างทอง"
       code: "15"
       iso3166_2: "TH-15"
       type: "province"
+      type_es: "provincia"
       latitude: 14.5896054
       longitude: 100.455052
       cities:
@@ -111,9 +117,11 @@
           longitude: 100.33825
     -
       name: "Bangkok"
+      native: "กรุงเทพฯ"
       code: "10"
       iso3166_2: "TH-10"
       type: "metropolitan administration"
+      type_es: "administración metropolitana"
       latitude: 13.7563309
       longitude: 100.5017651
       cities:
@@ -323,9 +331,11 @@
           longitude: 100.5395
     -
       name: "Bueng Kan"
+      native: "บึงกาฬ"
       code: "38"
       iso3166_2: "TH-38"
       type: "province"
+      type_es: "provincia"
       latitude: 18.3609104
       longitude: 103.6464463
       cities:
@@ -371,9 +381,11 @@
           longitude: 103.44923
     -
       name: "Buri Ram"
+      native: "บุรีรัมย์"
       code: "31"
       iso3166_2: "TH-31"
       type: "province"
+      type_es: "provincia"
       latitude: 14.9951003
       longitude: 103.1115915
       cities:
@@ -491,9 +503,11 @@
           longitude: 103.29192
     -
       name: "Chachoengsao"
+      native: "ฉะเชิงเทรา"
       code: "24"
       iso3166_2: "TH-24"
       type: "province"
+      type_es: "provincia"
       latitude: 13.6904194
       longitude: 101.0779596
       cities:
@@ -567,9 +581,11 @@
           longitude: 101.73457
     -
       name: "Chai Nat"
+      native: "ชัยนาท"
       code: "18"
       iso3166_2: "TH-18"
       type: "province"
+      type_es: "provincia"
       latitude: 15.1851971
       longitude: 100.125125
       cities:
@@ -611,9 +627,11 @@
           longitude: 99.9668
     -
       name: "Chaiyaphum"
+      native: "ชัยภูมิ"
       code: "36"
       iso3166_2: "TH-36"
       type: "province"
+      type_es: "provincia"
       latitude: 16.2720349
       longitude: 101.7153824
       cities:
@@ -643,9 +661,11 @@
           longitude: 102.12853
     -
       name: "Chanthaburi"
+      native: "จันทบุรี"
       code: "22"
       iso3166_2: "TH-22"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6112485
       longitude: 102.1037806
       cities:
@@ -711,9 +731,11 @@
           longitude: 102.00481
     -
       name: "Chiang Mai"
+      native: "เชียงใหม่"
       code: "50"
       iso3166_2: "TH-50"
       type: "province"
+      type_es: "provincia"
       latitude: 18.7883439
       longitude: 98.9853008
       cities:
@@ -851,9 +873,11 @@
           longitude: 98.65845
     -
       name: "Chiang Rai"
+      native: "เชียงราย"
       code: "57"
       iso3166_2: "TH-57"
       type: "province"
+      type_es: "provincia"
       latitude: 19.9104798
       longitude: 99.840576
       cities:
@@ -955,9 +979,11 @@
           longitude: 99.44925
     -
       name: "Chon Buri"
+      native: "ชลบุรี"
       code: "20"
       iso3166_2: "TH-20"
       type: "province"
+      type_es: "provincia"
       latitude: 13.1857117
       longitude: 101.1210777
       cities:
@@ -1051,9 +1077,11 @@
           longitude: 100.93111
     -
       name: "Chumphon"
+      native: "ชุมพร"
       code: "86"
       iso3166_2: "TH-86"
       type: "province"
+      type_es: "provincia"
       latitude: 10.4930496
       longitude: 99.1800199
       cities:
@@ -1103,9 +1131,11 @@
           longitude: 99.05337
     -
       name: "Kalasin"
+      native: "กาฬสินธุ์"
       code: "46"
       iso3166_2: "TH-46"
       type: "province"
+      type_es: "provincia"
       latitude: 16.438508
       longitude: 103.5060994
       cities:
@@ -1211,9 +1241,11 @@
           longitude: 103.36785
     -
       name: "Kamphaeng Phet"
+      native: "กำแพงเพชร"
       code: "62"
       iso3166_2: "TH-62"
       type: "province"
+      type_es: "provincia"
       latitude: 16.4748045
       longitude: 99.5280072
       cities:
@@ -1275,9 +1307,11 @@
           longitude: 99.87854
     -
       name: "Kanchanaburi"
+      native: "กาญจนบุรี"
       code: "71"
       iso3166_2: "TH-71"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0342066
       longitude: 99.5256113
       cities:
@@ -1359,9 +1393,11 @@
           longitude: 98.69233
     -
       name: "Khon Kaen"
+      native: "ขอนแก่น"
       code: "40"
       iso3166_2: "TH-40"
       type: "province"
+      type_es: "provincia"
       latitude: 16.4303916
       longitude: 102.8355904
       cities:
@@ -1495,9 +1531,11 @@
           longitude: 102.29186
     -
       name: "Krabi"
+      native: "กระบี่"
       code: "81"
       iso3166_2: "TH-81"
       type: "province"
+      type_es: "provincia"
       latitude: 8.0634637
       longitude: 98.9162345
       cities:
@@ -1555,9 +1593,11 @@
           longitude: 99.03651
     -
       name: "Lampang"
+      native: "ลำปาง"
       code: "52"
       iso3166_2: "TH-52"
       type: "province"
+      type_es: "provincia"
       latitude: 18.2899489
       longitude: 99.4958526
       cities:
@@ -1627,9 +1667,11 @@
           longitude: 99.61933
     -
       name: "Lamphun"
+      native: "ลำพูน"
       code: "51"
       iso3166_2: "TH-51"
       type: "province"
+      type_es: "provincia"
       latitude: 18.5744606
       longitude: 99.0087221
       cities:
@@ -1679,9 +1721,11 @@
           longitude: 98.75856
     -
       name: "Loei"
+      native: "เลย"
       code: "42"
       iso3166_2: "TH-42"
       type: "province"
+      type_es: "provincia"
       latitude: 17.4860232
       longitude: 101.7223002
       cities:
@@ -1755,9 +1799,11 @@
           longitude: 101.7685
     -
       name: "Lop Buri"
+      native: "ลพบุรี"
       code: "16"
       iso3166_2: "TH-16"
       type: "province"
+      type_es: "provincia"
       latitude: 14.8023289
       longitude: 100.6146858
       cities:
@@ -1815,9 +1861,11 @@
           longitude: 100.50921
     -
       name: "Mae Hong Son"
+      native: "แม่ฮ่องสอน"
       code: "58"
       iso3166_2: "TH-58"
       type: "province"
+      type_es: "provincia"
       latitude: 19.3020296
       longitude: 97.9654368
       cities:
@@ -1855,9 +1903,11 @@
           longitude: 97.93149
     -
       name: "Maha Sarakham"
+      native: "มหาสารคาม"
       code: "44"
       iso3166_2: "TH-44"
       type: "province"
+      type_es: "provincia"
       latitude: 15.9041448
       longitude: 103.0840638
       cities:
@@ -1931,9 +1981,11 @@
           longitude: 103.08916
     -
       name: "Mukdahan"
+      native: "มุกดาหาร"
       code: "49"
       iso3166_2: "TH-49"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5414065
       longitude: 104.7290699
       cities:
@@ -1971,9 +2023,11 @@
           longitude: 104.72865
     -
       name: "Nakhon Nayok"
+      native: "นครนายก"
       code: "26"
       iso3166_2: "TH-26"
       type: "province"
+      type_es: "provincia"
       latitude: 14.2069466
       longitude: 101.2130511
       cities:
@@ -1999,9 +2053,11 @@
           longitude: 101.34482
     -
       name: "Nakhon Pathom"
+      native: "นครปฐม"
       code: "73"
       iso3166_2: "TH-73"
       type: "province"
+      type_es: "provincia"
       latitude: 13.8341476
       longitude: 100.0502775
       cities:
@@ -2047,9 +2103,11 @@
           longitude: 100.21526
     -
       name: "Nakhon Phanom"
+      native: "นครพนม"
       code: "48"
       iso3166_2: "TH-48"
       type: "province"
+      type_es: "provincia"
       latitude: 17.4032326
       longitude: 104.7853098
       cities:
@@ -2115,9 +2173,11 @@
           longitude: 104.45373
     -
       name: "Nakhon Ratchasima"
+      native: "นครราชสีมา"
       code: "30"
       iso3166_2: "TH-30"
       type: "province"
+      type_es: "provincia"
       latitude: 14.9747339
       longitude: 102.0981161
       cities:
@@ -2311,9 +2371,11 @@
           longitude: 101.85533
     -
       name: "Nakhon Sawan"
+      native: "นครสวรรค์"
       code: "60"
       iso3166_2: "TH-60"
       type: "province"
+      type_es: "provincia"
       latitude: 15.705783
       longitude: 100.1330046
       cities:
@@ -2407,9 +2469,11 @@
           longitude: 100.45939
     -
       name: "Nakhon Si Thammarat"
+      native: "นครศรีธรรมราช"
       code: "80"
       iso3166_2: "TH-80"
       type: "province"
+      type_es: "provincia"
       latitude: 8.4324831
       longitude: 99.9599033
       cities:
@@ -2531,9 +2595,11 @@
           longitude: 99.37196
     -
       name: "Nan"
+      native: "แนน"
       code: "55"
       iso3166_2: "TH-55"
       type: "province"
+      type_es: "provincia"
       latitude: 18.7778874
       longitude: 100.773732
       cities:
@@ -2607,9 +2673,11 @@
           longitude: 100.91937
     -
       name: "Narathiwat"
+      native: "นราธิวาส"
       code: "96"
       iso3166_2: "TH-96"
       type: "province"
+      type_es: "provincia"
       latitude: 6.4350352
       longitude: 101.8228923
       cities:
@@ -2687,9 +2755,11 @@
           longitude: 101.70035
     -
       name: "Nong Bua Lam Phu"
+      native: "หนองบัวลำภู"
       code: "39"
       iso3166_2: "TH-39"
       type: "province"
+      type_es: "provincia"
       latitude: 17.2022252
       longitude: 102.440702
       cities:
@@ -2735,9 +2805,11 @@
           longitude: 102.24852
     -
       name: "Nong Khai"
+      native: "หนองคาย"
       code: "43"
       iso3166_2: "TH-43"
       type: "province"
+      type_es: "provincia"
       latitude: 17.8782803
       longitude: 102.7412638
       cities:
@@ -2799,9 +2871,11 @@
           longitude: 102.58139
     -
       name: "Nonthaburi"
+      native: "นนทบุรี"
       code: "12"
       iso3166_2: "TH-12"
       type: "province"
+      type_es: "provincia"
       latitude: 13.8428962
       longitude: 100.4937886
       cities:
@@ -2851,9 +2925,11 @@
           longitude: 100.31072
     -
       name: "Pathum Thani"
+      native: "ปทุมธานี"
       code: "13"
       iso3166_2: "TH-13"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0208391
       longitude: 100.5250276
       cities:
@@ -2895,9 +2971,11 @@
           longitude: 100.76291
     -
       name: "Pattani"
+      native: "ปัตตานี"
       code: "94"
       iso3166_2: "TH-94"
       type: "province"
+      type_es: "provincia"
       latitude: 6.6997443
       longitude: 101.3989917
       cities:
@@ -2967,18 +3045,22 @@
           longitude: 101.36894
     -
       name: "Pattaya"
+      native: "พัทยา"
       code: "S"
       iso3166_2: "TH-S"
       type: "metropolitan administration"
+      type_es: "administración metropolitana"
       latitude: 12.9366924
       longitude: 100.8865002
       cities:
         []
     -
       name: "Phangnga"
+      native: "พังงา"
       code: "82"
       iso3166_2: "TH-82"
       type: "province"
+      type_es: "provincia"
       latitude: 8.5010944
       longitude: 98.5068054
       cities:
@@ -3032,9 +3114,11 @@
           longitude: 98.63208
     -
       name: "Phatthalung"
+      native: "พัทลุง"
       code: "93"
       iso3166_2: "TH-93"
       type: "province"
+      type_es: "provincia"
       latitude: 7.6166823
       longitude: 100.0740231
       cities:
@@ -3088,9 +3172,11 @@
           longitude: 100.04358
     -
       name: "Phayao"
+      native: "พะเยา"
       code: "56"
       iso3166_2: "TH-56"
       type: "province"
+      type_es: "provincia"
       latitude: 19.341673
       longitude: 100.1854539
       cities:
@@ -3152,9 +3238,11 @@
           longitude: 100.27522
     -
       name: "Phetchabun"
+      native: "เพชรบูรณ์"
       code: "67"
       iso3166_2: "TH-67"
       type: "province"
+      type_es: "provincia"
       latitude: 16.418027
       longitude: 101.1556825
       cities:
@@ -3224,9 +3312,11 @@
           longitude: 101.10603
     -
       name: "Phetchaburi"
+      native: "เพชรบุรี"
       code: "76"
       iso3166_2: "TH-76"
       type: "province"
+      type_es: "provincia"
       latitude: 13.0692869
       longitude: 99.6044376
       cities:
@@ -3280,9 +3370,11 @@
           longitude: 99.90555
     -
       name: "Phichit"
+      native: "พิจิตร"
       code: "66"
       iso3166_2: "TH-66"
       type: "province"
+      type_es: "provincia"
       latitude: 16.4428085
       longitude: 100.3438228
       cities:
@@ -3356,9 +3448,11 @@
           longitude: 100.53801
     -
       name: "Phitsanulok"
+      native: "พิษณุโลก"
       code: "65"
       iso3166_2: "TH-65"
       type: "province"
+      type_es: "provincia"
       latitude: 16.8211238
       longitude: 100.2658516
       cities:
@@ -3420,9 +3514,11 @@
           longitude: 100.36298
     -
       name: "Phra Nakhon Si Ayutthaya"
+      native: "พระนครศรีอยุธยา"
       code: "14"
       iso3166_2: "TH-14"
       type: "province"
+      type_es: "provincia"
       latitude: 14.3535427
       longitude: 100.5645684
       cities:
@@ -3520,9 +3616,11 @@
           longitude: 100.7155
     -
       name: "Phrae"
+      native: "แพร่"
       code: "54"
       iso3166_2: "TH-54"
       type: "province"
+      type_es: "provincia"
       latitude: 18.1445774
       longitude: 100.1402831
       cities:
@@ -3576,9 +3674,11 @@
           longitude: 99.6499
     -
       name: "Phuket"
+      native: "ภูเก็ต"
       code: "83"
       iso3166_2: "TH-83"
       type: "province"
+      type_es: "provincia"
       latitude: 7.8804479
       longitude: 98.3922504
       cities:
@@ -3652,9 +3752,11 @@
           longitude: 98.38523
     -
       name: "Prachin Buri"
+      native: "ปราจีนบุรี"
       code: "25"
       iso3166_2: "TH-25"
       type: "province"
+      type_es: "provincia"
       latitude: 14.1542055
       longitude: 101.5547823
       cities:
@@ -3696,9 +3798,11 @@
           longitude: 101.42499
     -
       name: "Prachuap Khiri Khan"
+      native: "ประจวบคีรีขันธ์"
       code: "77"
       iso3166_2: "TH-77"
       type: "province"
+      type_es: "provincia"
       latitude: 11.8057688
       longitude: 99.7967271
       cities:
@@ -3760,9 +3864,11 @@
           longitude: 99.57159
     -
       name: "Ranong"
+      native: "ระนอง"
       code: "85"
       iso3166_2: "TH-85"
       type: "province"
+      type_es: "provincia"
       latitude: 9.964128
       longitude: 98.6340038
       cities:
@@ -3792,9 +3898,11 @@
           longitude: 98.49117
     -
       name: "Ratchaburi"
+      native: "ราชบุรี"
       code: "70"
       iso3166_2: "TH-70"
       type: "province"
+      type_es: "provincia"
       latitude: 13.539067
       longitude: 99.8197035
       cities:
@@ -3864,9 +3972,11 @@
           longitude: 99.86959
     -
       name: "Rayong"
+      native: "ระยอง"
       code: "21"
       iso3166_2: "TH-21"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6813957
       longitude: 101.2816261
       cities:
@@ -3920,9 +4030,11 @@
           longitude: 101.51533
     -
       name: "Roi Et"
+      native: "ร้อยเอ็ด"
       code: "45"
       iso3166_2: "TH-45"
       type: "province"
+      type_es: "provincia"
       latitude: 16.0538196
       longitude: 103.6520036
       cities:
@@ -4036,9 +4148,11 @@
           longitude: 103.97786
     -
       name: "Sa Kaeo"
+      native: "สระแก้ว"
       code: "27"
       iso3166_2: "TH-27"
       type: "province"
+      type_es: "provincia"
       latitude: 13.824038
       longitude: 102.0645839
       cities:
@@ -4092,9 +4206,11 @@
           longitude: 102.35652
     -
       name: "Sakon Nakhon"
+      native: "สกลนคร"
       code: "47"
       iso3166_2: "TH-47"
       type: "province"
+      type_es: "provincia"
       latitude: 17.1664211
       longitude: 104.1486055
       cities:
@@ -4180,9 +4296,11 @@
           longitude: 103.62283
     -
       name: "Samut Prakan"
+      native: "สมุทรปราการ"
       code: "11"
       iso3166_2: "TH-11"
       type: "province"
+      type_es: "provincia"
       latitude: 13.6531651
       longitude: 100.8182578
       cities:
@@ -4228,9 +4346,11 @@
           longitude: 100.59675
     -
       name: "Samut Sakhon"
+      native: "สมุทรสาคร"
       code: "74"
       iso3166_2: "TH-74"
       type: "province"
+      type_es: "provincia"
       latitude: 13.5475216
       longitude: 100.2743956
       cities:
@@ -4260,9 +4380,11 @@
           longitude: 100.27362
     -
       name: "Samut Songkhram"
+      native: "สมุทรสงคราม"
       code: "75"
       iso3166_2: "TH-75"
       type: "province"
+      type_es: "provincia"
       latitude: 13.4098217
       longitude: 100.0022645
       cities:
@@ -4284,9 +4406,11 @@
           longitude: 100.00264
     -
       name: "Saraburi"
+      native: "สระบุรี"
       code: "19"
       iso3166_2: "TH-19"
       type: "province"
+      type_es: "provincia"
       latitude: 14.5289154
       longitude: 100.9101421
       cities:
@@ -4364,9 +4488,11 @@
           longitude: 100.96458
     -
       name: "Satun"
+      native: "สตูล"
       code: "91"
       iso3166_2: "TH-91"
       type: "province"
+      type_es: "provincia"
       latitude: 6.6238158
       longitude: 100.0673744
       cities:
@@ -4408,9 +4534,11 @@
           longitude: 99.76587
     -
       name: "Si Sa Ket"
+      native: "ศรีสะเกษ"
       code: "33"
       iso3166_2: "TH-33"
       type: "province"
+      type_es: "provincia"
       latitude: 15.1186009
       longitude: 104.3220095
       cities:
@@ -4516,9 +4644,11 @@
           longitude: 104.39083
     -
       name: "Sing Buri"
+      native: "สิงห์บุรี"
       code: "17"
       iso3166_2: "TH-17"
       type: "province"
+      type_es: "provincia"
       latitude: 14.8936253
       longitude: 100.3967314
       cities:
@@ -4560,9 +4690,11 @@
           longitude: 100.39349
     -
       name: "Songkhla"
+      native: "สงขลา"
       code: "90"
       iso3166_2: "TH-90"
       type: "province"
+      type_es: "provincia"
       latitude: 7.1897659
       longitude: 100.5953813
       cities:
@@ -4656,9 +4788,11 @@
           longitude: 100.91025
     -
       name: "Sukhothai"
+      native: "สุโขทัย"
       code: "64"
       iso3166_2: "TH-64"
       type: "province"
+      type_es: "provincia"
       latitude: 17.1446985
       longitude: 99.4375845
       cities:
@@ -4724,9 +4858,11 @@
           longitude: 99.55265
     -
       name: "Suphan Buri"
+      native: "สุพรรณบุรี"
       code: "72"
       iso3166_2: "TH-72"
       type: "province"
+      type_es: "provincia"
       latitude: 14.4744892
       longitude: 100.1177128
       cities:
@@ -4780,9 +4916,11 @@
           longitude: 99.88949
     -
       name: "Surat Thani"
+      native: "สุราษฎร์ธานี"
       code: "84"
       iso3166_2: "TH-84"
       type: "province"
+      type_es: "provincia"
       latitude: 9.1404136
       longitude: 99.3241347
       cities:
@@ -4912,9 +5050,11 @@
           longitude: 98.87028
     -
       name: "Surin"
+      native: "สุรินทร์"
       code: "32"
       iso3166_2: "TH-32"
       type: "province"
+      type_es: "provincia"
       latitude: 15.0610142
       longitude: 103.7613123
       cities:
@@ -4992,9 +5132,11 @@
           longitude: 103.65111
     -
       name: "Tak"
+      native: "ตาก"
       code: "63"
       iso3166_2: "TH-63"
       type: "province"
+      type_es: "provincia"
       latitude: 17.1053568
       longitude: 98.9953943
       cities:
@@ -5048,9 +5190,11 @@
           longitude: 99.14826
     -
       name: "Trang"
+      native: "ตรัง"
       code: "92"
       iso3166_2: "TH-92"
       type: "province"
+      type_es: "provincia"
       latitude: 7.5557778
       longitude: 99.6076502
       cities:
@@ -5108,9 +5252,11 @@
           longitude: 99.73438
     -
       name: "Trat"
+      native: "ตราด"
       code: "23"
       iso3166_2: "TH-23"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2427563
       longitude: 102.5174734
       cities:
@@ -5160,9 +5306,11 @@
           longitude: 102.51514
     -
       name: "Ubon Ratchathani"
+      native: "อุบลราชธานี"
       code: "34"
       iso3166_2: "TH-34"
       type: "province"
+      type_es: "provincia"
       latitude: 15.2274235
       longitude: 104.8589462
       cities:
@@ -5288,9 +5436,11 @@
           longitude: 104.8628
     -
       name: "Udon Thani"
+      native: "อุดรธานี"
       code: "41"
       iso3166_2: "TH-41"
       type: "province"
+      type_es: "provincia"
       latitude: 17.3907364
       longitude: 102.7773582
       cities:
@@ -5408,9 +5558,11 @@
           longitude: 103.46262
     -
       name: "Uthai Thani"
+      native: "อุทัยธานี"
       code: "61"
       iso3166_2: "TH-61"
       type: "province"
+      type_es: "provincia"
       latitude: 15.3835001
       longitude: 100.0245527
       cities:
@@ -5464,9 +5616,11 @@
           longitude: 100.0245
     -
       name: "Uttaradit"
+      native: "อุตรดิตถ์"
       code: "53"
       iso3166_2: "TH-53"
       type: "province"
+      type_es: "provincia"
       latitude: 17.6200886
       longitude: 100.0992942
       cities:
@@ -5512,9 +5666,11 @@
           longitude: 100.09421
     -
       name: "Yala"
+      native: "ยะลา"
       code: "95"
       iso3166_2: "TH-95"
       type: "province"
+      type_es: "provincia"
       latitude: 6.5567245
       longitude: 101.2902517
       cities:
@@ -5560,9 +5716,11 @@
           longitude: 101.28128
     -
       name: "Yasothon"
+      native: "ยโสธร"
       code: "35"
       iso3166_2: "TH-35"
       type: "province"
+      type_es: "provincia"
       latitude: 15.792641
       longitude: 104.1452827
       cities:

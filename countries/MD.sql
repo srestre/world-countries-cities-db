@@ -1,58 +1,58 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(144, 'Moldova', 'MD', 'MDA', 'Europe', 'Eastern Europe', 'Chisinau', 'MDL', 47, 29, '🇲🇩');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(144, 'Moldova', 'Moldavia', 'MD', 'MDA', 'Europe', 'Europa', 'Eastern Europe', 'Europa Oriental', 'Chisinau', 'MDL', 47, 29, '🇲🇩');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4368, 'Anenii Noi', 144, 'MD', 'AN', 'district', 46.8795663, 29.2312175),
-(4393, 'Bălți', 144, 'MD', 'BA', 'city', 47.7647136, 27.919916),
-(4379, 'Basarabeasca', 144, 'MD', 'BS', 'district', 46.3985242, 28.9022084),
-(4362, 'Bender', 144, 'MD', 'BD', 'city', 46.8227551, 29.4620101),
-(4375, 'Briceni', 144, 'MD', 'BR', 'district', 48.3632022, 27.0750398),
-(4391, 'Cahul', 144, 'MD', 'CA', 'district', 45.9044087, 28.1946583),
-(4366, 'Călărași', 144, 'MD', 'CL', 'district', 47.2705086, 28.2875685),
-(4380, 'Cantemir', 144, 'MD', 'CT', 'district', 46.2771742, 28.2009653),
-(4365, 'Căușeni', 144, 'MD', 'CS', 'district', 46.6554715, 29.4091222),
-(4373, 'Chișinău', 144, 'MD', 'CU', 'city', 47.0245117, 28.8322923),
-(4360, 'Cimișlia', 144, 'MD', 'CM', 'district', 46.5250851, 28.7721835),
-(4390, 'Criuleni', 144, 'MD', 'CR', 'district', 47.2136114, 29.1557519),
-(4384, 'Dondușeni', 144, 'MD', 'DO', 'district', 48.2338305, 27.5998087),
-(4392, 'Drochia', 144, 'MD', 'DR', 'district', 48.1128441, 27.8095419),
-(4383, 'Dubăsari', 144, 'MD', 'DU', 'district', 47.2643942, 29.1550348),
-(4387, 'Edineț', 144, 'MD', 'ED', 'district', 48.1678991, 27.2936143),
-(4381, 'Fălești', 144, 'MD', 'FA', 'district', 47.5735141, 27.7068016),
-(4370, 'Florești', 144, 'MD', 'FL', 'district', 47.8991479, 28.3132612),
-(4385, 'Gagauzia', 144, 'MD', 'GA', 'autonomous territorial unit', 46.2070204, 28.7636281),
-(4367, 'Glodeni', 144, 'MD', 'GL', 'district', 47.7790156, 27.516801),
-(4382, 'Hîncești', 144, 'MD', 'HI', 'district', 46.8281147, 28.5850889),
-(4369, 'Ialoveni', 144, 'MD', 'IA', 'district', 46.94376, 28.7767232),
-(5667, 'Leova', 144, 'MD', 'LE', 'district', 46.5, 28.41666667),
-(4363, 'Nisporeni', 144, 'MD', 'NI', 'district', 47.0751349, 28.1768155),
-(4389, 'Ocnița', 144, 'MD', 'OC', 'district', 48.4110435, 27.4768092),
-(4361, 'Orhei', 144, 'MD', 'OR', 'district', 47.38604, 28.8303082),
-(4394, 'Rezina', 144, 'MD', 'RE', 'district', 47.7489209, 28.9565739),
-(4376, 'Rîșcani', 144, 'MD', 'RI', 'district', 47.9535987, 27.5514453),
-(4364, 'Sîngerei', 144, 'MD', 'SI', 'district', 47.6389134, 28.1371816),
-(4388, 'Șoldănești', 144, 'MD', 'SD', 'district', 47.8147389, 28.7889586),
-(4374, 'Soroca', 144, 'MD', 'SO', 'district', 48.1549743, 28.2870783),
-(4378, 'Ștefan Vodă', 144, 'MD', 'SV', 'district', 46.5160024, 29.6644973),
-(4377, 'Strășeni', 144, 'MD', 'ST', 'district', 47.1450267, 28.6136736),
-(4372, 'Taraclia', 144, 'MD', 'TA', 'district', 45.898651, 28.6671644),
-(4371, 'Telenești', 144, 'MD', 'TE', 'district', 47.4983962, 28.3676019),
-(4395, 'Transnistria', 144, 'MD', 'SN', 'territorial unit', 47.7598678, 29.1176055),
-(4386, 'Ungheni', 144, 'MD', 'UN', 'district', 47.2059965, 27.798917);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4368, 'Anenii Noi', 'Anenii Noi', 144, 'MD', 'AN', 'district', 'distrito', 46.8795663, 29.2312175),
+(4393, 'Bălți', 'Bălți', 144, 'MD', 'BA', 'city', 'ciudad', 47.7647136, 27.919916),
+(4379, 'Basarabeasca', 'Basarabeasca', 144, 'MD', 'BS', 'district', 'distrito', 46.3985242, 28.9022084),
+(4362, 'Bender', 'Bender', 144, 'MD', 'BD', 'city', 'ciudad', 46.8227551, 29.4620101),
+(4375, 'Briceni', 'Briceni', 144, 'MD', 'BR', 'district', 'distrito', 48.3632022, 27.0750398),
+(4391, 'Cahul', 'Cahul', 144, 'MD', 'CA', 'district', 'distrito', 45.9044087, 28.1946583),
+(4366, 'Călărași', 'Călărași', 144, 'MD', 'CL', 'district', 'distrito', 47.2705086, 28.2875685),
+(4380, 'Cantemir', 'Cantemir', 144, 'MD', 'CT', 'district', 'distrito', 46.2771742, 28.2009653),
+(4365, 'Căușeni', 'Căușeni', 144, 'MD', 'CS', 'district', 'distrito', 46.6554715, 29.4091222),
+(4373, 'Chișinău', 'Chișinău', 144, 'MD', 'CU', 'city', 'ciudad', 47.0245117, 28.8322923),
+(4360, 'Cimișlia', 'Cimișlia', 144, 'MD', 'CM', 'district', 'distrito', 46.5250851, 28.7721835),
+(4390, 'Criuleni', 'Criuleni', 144, 'MD', 'CR', 'district', 'distrito', 47.2136114, 29.1557519),
+(4384, 'Dondușeni', 'Dondușeni', 144, 'MD', 'DO', 'district', 'distrito', 48.2338305, 27.5998087),
+(4392, 'Drochia', 'Drochia', 144, 'MD', 'DR', 'district', 'distrito', 48.1128441, 27.8095419),
+(4383, 'Dubăsari', 'Dubăsari', 144, 'MD', 'DU', 'district', 'distrito', 47.2643942, 29.1550348),
+(4387, 'Edineț', 'Edineț', 144, 'MD', 'ED', 'district', 'distrito', 48.1678991, 27.2936143),
+(4381, 'Fălești', 'Fălești', 144, 'MD', 'FA', 'district', 'distrito', 47.5735141, 27.7068016),
+(4370, 'Florești', 'Florești', 144, 'MD', 'FL', 'district', 'distrito', 47.8991479, 28.3132612),
+(4385, 'Gagauzia', 'Gagauzia', 144, 'MD', 'GA', 'autonomous territorial unit', 'unidad territorial autónoma', 46.2070204, 28.7636281),
+(4367, 'Glodeni', 'Glodeni', 144, 'MD', 'GL', 'district', 'distrito', 47.7790156, 27.516801),
+(4382, 'Hîncești', 'Hîncești', 144, 'MD', 'HI', 'district', 'distrito', 46.8281147, 28.5850889),
+(4369, 'Ialoveni', 'Ialoveni', 144, 'MD', 'IA', 'district', 'distrito', 46.94376, 28.7767232),
+(5667, 'Leova', 'Leova', 144, 'MD', 'LE', 'district', 'distrito', 46.5, 28.41666667),
+(4363, 'Nisporeni', 'Nisporeni', 144, 'MD', 'NI', 'district', 'distrito', 47.0751349, 28.1768155),
+(4389, 'Ocnița', 'Ocnița', 144, 'MD', 'OC', 'district', 'distrito', 48.4110435, 27.4768092),
+(4361, 'Orhei', 'Orhei', 144, 'MD', 'OR', 'district', 'distrito', 47.38604, 28.8303082),
+(4394, 'Rezina', 'Cauciuc', 144, 'MD', 'RE', 'district', 'distrito', 47.7489209, 28.9565739),
+(4376, 'Rîșcani', 'Rîșcani', 144, 'MD', 'RI', 'district', 'distrito', 47.9535987, 27.5514453),
+(4364, 'Sîngerei', 'Sîngerei', 144, 'MD', 'SI', 'district', 'distrito', 47.6389134, 28.1371816),
+(4388, 'Șoldănești', 'Șoldănești', 144, 'MD', 'SD', 'district', 'distrito', 47.8147389, 28.7889586),
+(4374, 'Soroca', 'Soroca', 144, 'MD', 'SO', 'district', 'distrito', 48.1549743, 28.2870783),
+(4378, 'Ștefan Vodă', 'Ștefan Vodă', 144, 'MD', 'SV', 'district', 'distrito', 46.5160024, 29.6644973),
+(4377, 'Strășeni', 'Strășeni', 144, 'MD', 'ST', 'district', 'distrito', 47.1450267, 28.6136736),
+(4372, 'Taraclia', 'Taraclia', 144, 'MD', 'TA', 'district', 'distrito', 45.898651, 28.6671644),
+(4371, 'Telenești', 'Telenești', 144, 'MD', 'TE', 'district', 'distrito', 47.4983962, 28.3676019),
+(4395, 'Transnistria', 'Transnistria', 144, 'MD', 'SN', 'territorial unit', 'unidad territorial', 47.7598678, 29.1176055),
+(4386, 'Ungheni', 'Ungheni', 144, 'MD', 'UN', 'district', 'distrito', 47.2059965, 27.798917);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67271, 'Anenii Noi', 4368, 144, 46.87839, 29.23483),

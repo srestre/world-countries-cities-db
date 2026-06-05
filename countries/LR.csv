@@ -1,19 +1,19 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-LR,Liberia,Africa,Western Africa,BM,Bomi,Tubmanburg,6.87064,-10.8211
-LR,Liberia,Africa,Western Africa,BG,Bong,Gbarnga,6.99543,-9.47122
-LR,Liberia,Africa,Western Africa,GP,Gbarpolu,Bopolu,7.06667,-10.4875
-LR,Liberia,Africa,Western Africa,GB,Grand Bassa,Buchanan,5.87693,-10.04964
-LR,Liberia,Africa,Western Africa,CM,Grand Cape Mount,Robertsport,6.75329,-11.3671
-LR,Liberia,Africa,Western Africa,GG,Grand Gedeh,Zwedru,6.06846,-8.13559
-LR,Liberia,Africa,Western Africa,GK,Grand Kru,Barclayville,4.67443,-8.23306
-LR,Liberia,Africa,Western Africa,LO,Lofa,Voinjama,8.42194,-9.74778
-LR,Liberia,Africa,Western Africa,MG,Margibi,Kakata,6.53104,-10.35368
-LR,Liberia,Africa,Western Africa,MY,Maryland,Harper,4.3782,-7.71081
-LR,Liberia,Africa,Western Africa,MO,Montserrado,Bensonville,6.44716,-10.61283
-LR,Liberia,Africa,Western Africa,MO,Montserrado,Monrovia,6.30054,-10.7969
-LR,Liberia,Africa,Western Africa,NI,Nimba,Ganta,7.30222,-8.53083
-LR,Liberia,Africa,Western Africa,NI,Nimba,New Yekepa,7.57944,-8.53778
-LR,Liberia,Africa,Western Africa,NI,Nimba,Sanniquellie,7.36215,-8.71326
-LR,Liberia,Africa,Western Africa,RI,River Cess,Cestos City,5.45683,-9.58167
-LR,Liberia,Africa,Western Africa,RG,River Gee,Fish Town,5.19739,-7.87579
-LR,Liberia,Africa,Western Africa,SI,Sinoe,Greenville,5.01133,-9.0388
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,BM,Bomi,county,condado,Tubmanburg,6.87064,-10.8211
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,BG,Bong,county,condado,Gbarnga,6.99543,-9.47122
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,GP,Gbarpolu,county,condado,Bopolu,7.06667,-10.4875
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,GB,Grand Bassa,county,condado,Buchanan,5.87693,-10.04964
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,CM,Grand Cape Mount,county,condado,Robertsport,6.75329,-11.3671
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,GG,Grand Gedeh,county,condado,Zwedru,6.06846,-8.13559
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,GK,Grand Kru,county,condado,Barclayville,4.67443,-8.23306
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,LO,Lofa,county,condado,Voinjama,8.42194,-9.74778
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,MG,Margibi,county,condado,Kakata,6.53104,-10.35368
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,MY,Maryland,county,condado,Harper,4.3782,-7.71081
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,MO,Montserrado,county,condado,Bensonville,6.44716,-10.61283
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,MO,Montserrado,county,condado,Monrovia,6.30054,-10.7969
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,NI,Nimba,county,condado,Ganta,7.30222,-8.53083
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,NI,Nimba,county,condado,New Yekepa,7.57944,-8.53778
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,NI,Nimba,county,condado,Sanniquellie,7.36215,-8.71326
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,RI,River Cess,county,condado,Cestos City,5.45683,-9.58167
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,RG,River Gee,county,condado,Fish Town,5.19739,-7.87579
+LR,Liberia,Liberia,Africa,África,Western Africa,África Occidental,SI,Sinoe,county,condado,Greenville,5.01133,-9.0388

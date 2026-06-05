@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(231, 'United Arab Emirates', 'AE', 'ARE', 'Asia', 'Western Asia', 'Abu Dhabi', 'AED', 24, 54, '🇦🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(231, 'United Arab Emirates', 'Emiratos Árabes Unidos', 'AE', 'ARE', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Abu Dhabi', 'AED', 24, 54, '🇦🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3396, 'Abu Dhabi', 231, 'AE', 'AZ', 'emirate', 24.453884, 54.3773438),
-(3395, 'Ajman', 231, 'AE', 'AJ', 'emirate', 25.3936557, 55.4451432),
-(3391, 'Dubai', 231, 'AE', 'DU', 'emirate', 25.2647227, 55.2924146),
-(3393, 'Fujairah', 231, 'AE', 'FU', 'emirate', 25.1244604, 56.3355085),
-(3394, 'Ras Al Khaimah', 231, 'AE', 'RK', 'emirate', 25.7386349, 55.9249224),
-(3390, 'Sharjah', 231, 'AE', 'SH', 'emirate', 25.3461498, 55.4210633),
-(3392, 'Umm Al Quwain', 231, 'AE', 'UQ', 'emirate', 25.6112488, 55.6174631);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3396, 'Abu Dhabi', 'أبو ظبي', 231, 'AE', 'AZ', 'emirate', 'emirato', 24.453884, 54.3773438),
+(3395, 'Ajman', 'عجمان', 231, 'AE', 'AJ', 'emirate', 'emirato', 25.3936557, 55.4451432),
+(3391, 'Dubai', 'دبي', 231, 'AE', 'DU', 'emirate', 'emirato', 25.2647227, 55.2924146),
+(3393, 'Fujairah', 'فجيرة', 231, 'AE', 'FU', 'emirate', 'emirato', 25.1244604, 56.3355085),
+(3394, 'Ras Al Khaimah', 'رأس الخيمة', 231, 'AE', 'RK', 'emirate', 'emirato', 25.7386349, 55.9249224),
+(3390, 'Sharjah', 'الشارقة', 231, 'AE', 'SH', 'emirate', 'emirato', 25.3461498, 55.4210633),
+(3392, 'Umm Al Quwain', 'أم القوي', 231, 'AE', 'UQ', 'emirate', 'emirato', 25.6112488, 55.6174631);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (12, 'Abu Dhabi', 3396, 231, 24.41361, 54.43295),

@@ -12,16 +12,20 @@
   currency_symbol: "T"
   tld: ".tm"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   latitude: 40
   longitude: 60
   emoji: "🇹🇲"
   states:
     -
       name: "Ahal"
+      native: "Mümkin"
       code: "A"
       iso3166_2: "TM-A"
       type: "region"
+      type_es: "región"
       latitude: 38.8395548
       longitude: 58.8610186
       cities:
@@ -51,9 +55,11 @@
           longitude: 60.50545
     -
       name: "Ashgabat"
+      native: "Ashgabat"
       code: "S"
       iso3166_2: "TM-S"
       type: "city"
+      type_es: "ciudad"
       latitude: 37.9404648
       longitude: 58.3823487
       cities:
@@ -63,9 +69,11 @@
           longitude: 58.38333
     -
       name: "Balkan"
+      native: "Balkan"
       code: "B"
       iso3166_2: "TM-B"
       type: "region"
+      type_es: "región"
       latitude: 39.9353714
       longitude: 54.9120055
       cities:
@@ -95,9 +103,11 @@
           longitude: 52.95517
     -
       name: "Daşoguz"
+      native: "Daş"
       code: "D"
       iso3166_2: "TM-D"
       type: "region"
+      type_es: "región"
       latitude: 41.8368737
       longitude: 59.9651904
       cities:
@@ -127,9 +137,11 @@
           longitude: 59.65
     -
       name: "Lebap"
+      native: "Lebap"
       code: "L"
       iso3166_2: "TM-L"
       type: "region"
+      type_es: "región"
       latitude: 38.8131139
       longitude: 63.0513218
       cities:
@@ -159,9 +171,11 @@
           longitude: 63.57861
     -
       name: "Mary"
+      native: "Mary"
       code: "M"
       iso3166_2: "TM-M"
       type: "region"
+      type_es: "región"
       latitude: 37.1302916
       longitude: 62.4019513
       cities:

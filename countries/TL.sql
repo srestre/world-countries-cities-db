@@ -1,34 +1,34 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(63, 'Timor-Leste', 'TL', 'TLS', 'Asia', 'South-Eastern Asia', 'Dili', 'USD', -8.83333333, 125.91666666, '🇹🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(63, 'Timor-Leste', 'Timor Oriental', 'TL', 'TLS', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Dili', 'USD', -8.83333333, 125.91666666, '🇹🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4520, 'Aileu', 63, 'TL', 'AL', 'municipality', -8.7049799, 125.6625518),
-(4518, 'Ainaro', 63, 'TL', 'AN', 'municipality', -8.9969021, 125.50482),
-(4521, 'Baucau', 63, 'TL', 'BA', 'municipality', -8.4714308, 126.4575991),
-(4525, 'Bobonaro', 63, 'TL', 'BO', 'municipality', -8.974555, 125.2306505),
-(4522, 'Cova Lima', 63, 'TL', 'CO', 'municipality', -9.2352985, 125.2329359),
-(4524, 'Dili', 63, 'TL', 'DI', 'municipality', -8.5536809, 125.5784093),
-(4516, 'Ermera', 63, 'TL', 'ER', 'municipality', -8.765625, 125.4215713),
-(4523, 'Lautém', 63, 'TL', 'LA', 'municipality', -8.4335127, 126.8258738),
-(4515, 'Liquiçá', 63, 'TL', 'LI', 'municipality', -8.655061, 125.2751452),
-(4517, 'Manatuto', 63, 'TL', 'MT', 'municipality', -8.5155608, 126.0159255),
-(4519, 'Manufahi', 63, 'TL', 'MF', 'municipality', -8.96666, 125.7810921),
-(5550, 'Oecusse', 63, 'TL', 'OE', 'special administrative region', -9.35, 124.3),
-(4514, 'Viqueque', 63, 'TL', 'VI', 'municipality', -8.8597918, 126.3633516);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4520, 'Aileu', 'Aileu', 63, 'TL', 'AL', 'municipality', 'municipio', -8.7049799, 125.6625518),
+(4518, 'Ainaro', 'Ainaro', 63, 'TL', 'AN', 'municipality', 'municipio', -8.9969021, 125.50482),
+(4521, 'Baucau', 'Bauau', 63, 'TL', 'BA', 'municipality', 'municipio', -8.4714308, 126.4575991),
+(4525, 'Bobonaro', 'Ver', 63, 'TL', 'BO', 'municipality', 'municipio', -8.974555, 125.2306505),
+(4522, 'Cova Lima', 'Cova Lima', 63, 'TL', 'CO', 'municipality', 'municipio', -9.2352985, 125.2329359),
+(4524, 'Dili', 'Dili', 63, 'TL', 'DI', 'municipality', 'municipio', -8.5536809, 125.5784093),
+(4516, 'Ermera', 'Hermera', 63, 'TL', 'ER', 'municipality', 'municipio', -8.765625, 125.4215713),
+(4523, 'Lautém', 'Lautem', 63, 'TL', 'LA', 'municipality', 'municipio', -8.4335127, 126.8258738),
+(4515, 'Liquiçá', 'Liquiçá', 63, 'TL', 'LI', 'municipality', 'municipio', -8.655061, 125.2751452),
+(4517, 'Manatuto', 'Manatsuto', 63, 'TL', 'MT', 'municipality', 'municipio', -8.5155608, 126.0159255),
+(4519, 'Manufahi', 'Fabricante', 63, 'TL', 'MF', 'municipality', 'municipio', -8.96666, 125.7810921),
+(5550, 'Oecusse', 'Oé-Cusse Ambeno', 63, 'TL', 'OE', 'special administrative region', 'región administrativa especial', -9.35, 124.3),
+(4514, 'Viqueque', 'Viqueque', 63, 'TL', 'VI', 'municipality', 'municipio', -8.8597918, 126.3633516);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (106830, 'Aileu', 4520, 63, -8.72806, 125.56639),

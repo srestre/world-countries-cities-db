@@ -1,31 +1,31 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HCW,Central and Western,Admiralty,22.278,114.164
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HCW,Central and Western,Central,22.281,114.159
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HEA,Eastern,,,
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NIS,Islands,Tai O,22.247,113.869
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KKC,Kowloon City,Kowloon Tong,22.337,114.179
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NKT,Kwai Tsing,,,
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KKT,Kwun Tong,Kwun Tong,22.31,114.225
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KKT,Kwun Tong,Lam Tin,22.307,114.235
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NNO,North,Sheung Shui,22.501,114.123
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NSK,Sai Kung,Sai Kung,22.384,114.273
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NSK,Sai Kung,Tseung Kwan O,22.319,114.263
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NST,Sha Tin,Ma On Shan,22.422,114.23
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NST,Sha Tin,Sha Tin,22.383,114.188
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NST,Sha Tin,Sha Tin Wai,22.38,114.191
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KSS,Sham Shui Po,Cheung Sha Wan,22.336,114.151
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KSS,Sham Shui Po,Lai Chi Kok,22.337,114.146
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HSO,Southern,Aberdeen,22.247,114.152
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HSO,Southern,Stanley,22.22,114.214
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HSO,Southern,Stanley Peninsula,22.21,114.217
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NTP,Tai Po,Tai Mei Tuk,22.457,114.184
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NTP,Tai Po,Tai Po,22.449,114.16
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NTW,Tsuen Wan,Tsuen Wan,22.371,114.114
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NTW,Tsuen Wan,Tuen Mun,22.395,113.973
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NTM,Tuen Mun,,,
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HWC,Wan Chai,Causeway Bay,22.28,114.185
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,HWC,Wan Chai,Wan Chai,22.278,114.182
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KWT,Wong Tai Sin,Wong Tai Sin,22.341,114.193
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KYT,Yau Tsim Mong,Mong Kok,22.319,114.169
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,KYT,Yau Tsim Mong,Tsim Sha Tsui,22.298,114.172
-HK,Hong Kong S.A.R.,Asia,Eastern Asia,NYL,Yuen Long,Yuen Long,22.444,114.027
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HCW,Central and Western,district,distrito,Admiralty,22.278,114.164
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HCW,Central and Western,district,distrito,Central,22.281,114.159
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HEA,Eastern,district,distrito,,,
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NIS,Islands,district,distrito,Tai O,22.247,113.869
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KKC,Kowloon City,district,distrito,Kowloon Tong,22.337,114.179
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NKT,Kwai Tsing,district,distrito,,,
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KKT,Kwun Tong,district,distrito,Kwun Tong,22.31,114.225
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KKT,Kwun Tong,district,distrito,Lam Tin,22.307,114.235
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NNO,North,district,distrito,Sheung Shui,22.501,114.123
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NSK,Sai Kung,district,distrito,Sai Kung,22.384,114.273
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NSK,Sai Kung,district,distrito,Tseung Kwan O,22.319,114.263
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NST,Sha Tin,district,distrito,Ma On Shan,22.422,114.23
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NST,Sha Tin,district,distrito,Sha Tin,22.383,114.188
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NST,Sha Tin,district,distrito,Sha Tin Wai,22.38,114.191
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KSS,Sham Shui Po,district,distrito,Cheung Sha Wan,22.336,114.151
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KSS,Sham Shui Po,district,distrito,Lai Chi Kok,22.337,114.146
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HSO,Southern,district,distrito,Aberdeen,22.247,114.152
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HSO,Southern,district,distrito,Stanley,22.22,114.214
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HSO,Southern,district,distrito,Stanley Peninsula,22.21,114.217
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NTP,Tai Po,district,distrito,Tai Mei Tuk,22.457,114.184
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NTP,Tai Po,district,distrito,Tai Po,22.449,114.16
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NTW,Tsuen Wan,district,distrito,Tsuen Wan,22.371,114.114
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NTW,Tsuen Wan,district,distrito,Tuen Mun,22.395,113.973
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NTM,Tuen Mun,district,distrito,,,
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HWC,Wan Chai,district,distrito,Causeway Bay,22.28,114.185
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,HWC,Wan Chai,district,distrito,Wan Chai,22.278,114.182
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KWT,Wong Tai Sin,district,distrito,Wong Tai Sin,22.341,114.193
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KYT,Yau Tsim Mong,district,distrito,Mong Kok,22.319,114.169
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,KYT,Yau Tsim Mong,district,distrito,Tsim Sha Tsui,22.298,114.172
+HK,Hong Kong S.A.R.,Hong Kong,Asia,Asia,Eastern Asia,Asia Oriental,NYL,Yuen Long,district,distrito,Yuen Long,22.444,114.027

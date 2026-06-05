@@ -1,35 +1,35 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BS,The Bahamas,Americas,Caribbean,AK,Acklins,,,
-BS,The Bahamas,Americas,Caribbean,BY,Berry Islands,,,
-BS,The Bahamas,Americas,Caribbean,BI,Bimini,Alice Town,25.728,-79.29721
-BS,The Bahamas,Americas,Caribbean,BP,Black Point,,,
-BS,The Bahamas,Americas,Caribbean,CI,Cat Island,Arthur’s Town,24.6224,-75.67151
-BS,The Bahamas,Americas,Caribbean,CO,Central Abaco,Marsh Harbour,26.54124,-77.0636
-BS,The Bahamas,Americas,Caribbean,CS,Central Andros,,,
-BS,The Bahamas,Americas,Caribbean,CE,Central Eleuthera,,,
-BS,The Bahamas,Americas,Caribbean,CK,Crooked Island,Colonel Hill,22.7545,-74.20415
-BS,The Bahamas,Americas,Caribbean,EG,East Grand Bahama,High Rock,26.60999,-78.27863
-BS,The Bahamas,Americas,Caribbean,EX,Exuma,George Town,23.51616,-75.78665
-BS,The Bahamas,Americas,Caribbean,FP,Freeport,Freeport,26.53333,-78.7
-BS,The Bahamas,Americas,Caribbean,FP,Freeport,Lucaya,26.53333,-78.66667
-BS,The Bahamas,Americas,Caribbean,GC,Grand Cay,,,
-BS,The Bahamas,Americas,Caribbean,HI,Harbour Island,Dunmore Town,25.50216,-76.63633
-BS,The Bahamas,Americas,Caribbean,HT,Hope Town,,,
-BS,The Bahamas,Americas,Caribbean,IN,Inagua,Matthew Town,20.94982,-73.67346
-BS,The Bahamas,Americas,Caribbean,LI,Long Island,Clarence Town,23.1,-74.98333
-BS,The Bahamas,Americas,Caribbean,MC,Mangrove Cay,,,
-BS,The Bahamas,Americas,Caribbean,MG,Mayaguana,Abraham’s Bay,22.36667,-72.96667
-BS,The Bahamas,Americas,Caribbean,MI,Moore's Island,,,
-BS,The Bahamas,Americas,Caribbean,NP,New Providence,Nassau,25.06666667,-77.33333333
-BS,The Bahamas,Americas,Caribbean,NO,North Abaco,Cooper’s Town,26.87137,-77.51131
-BS,The Bahamas,Americas,Caribbean,NS,North Andros,Andros Town,24.70502,-77.76912
-BS,The Bahamas,Americas,Caribbean,NS,North Andros,San Andros,25.06667,-78.05
-BS,The Bahamas,Americas,Caribbean,NE,North Eleuthera,,,
-BS,The Bahamas,Americas,Caribbean,RI,Ragged Island,Duncan Town,22.19083,-75.72583
-BS,The Bahamas,Americas,Caribbean,RC,Rum Cay,Port Nelson,23.64967,-74.84157
-BS,The Bahamas,Americas,Caribbean,SS,San Salvador Island,Cockburn Town,24.05179,-74.53138
-BS,The Bahamas,Americas,Caribbean,SO,South Abaco,,,
-BS,The Bahamas,Americas,Caribbean,SA,South Andros,,,
-BS,The Bahamas,Americas,Caribbean,SE,South Eleuthera,,,
-BS,The Bahamas,Americas,Caribbean,SW,Spanish Wells,Spanish Wells,25.54717,-76.76405
-BS,The Bahamas,Americas,Caribbean,WG,West Grand Bahama,West End,26.68711,-78.97702
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,AK,Acklins,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,BY,Berry Islands,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,BI,Bimini,district,distrito,Alice Town,25.728,-79.29721
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,BP,Black Point,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,CI,Cat Island,district,distrito,Arthur’s Town,24.6224,-75.67151
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,CO,Central Abaco,district,distrito,Marsh Harbour,26.54124,-77.0636
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,CS,Central Andros,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,CE,Central Eleuthera,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,CK,Crooked Island,district,distrito,Colonel Hill,22.7545,-74.20415
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,EG,East Grand Bahama,district,distrito,High Rock,26.60999,-78.27863
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,EX,Exuma,district,distrito,George Town,23.51616,-75.78665
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,FP,Freeport,district,distrito,Freeport,26.53333,-78.7
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,FP,Freeport,district,distrito,Lucaya,26.53333,-78.66667
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,GC,Grand Cay,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,HI,Harbour Island,district,distrito,Dunmore Town,25.50216,-76.63633
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,HT,Hope Town,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,IN,Inagua,district,distrito,Matthew Town,20.94982,-73.67346
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,LI,Long Island,district,distrito,Clarence Town,23.1,-74.98333
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,MC,Mangrove Cay,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,MG,Mayaguana,district,distrito,Abraham’s Bay,22.36667,-72.96667
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,MI,Moore's Island,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,NP,New Providence,island,isla,Nassau,25.06666667,-77.33333333
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,NO,North Abaco,district,distrito,Cooper’s Town,26.87137,-77.51131
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,NS,North Andros,district,distrito,Andros Town,24.70502,-77.76912
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,NS,North Andros,district,distrito,San Andros,25.06667,-78.05
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,NE,North Eleuthera,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,RI,Ragged Island,district,distrito,Duncan Town,22.19083,-75.72583
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,RC,Rum Cay,district,distrito,Port Nelson,23.64967,-74.84157
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,SS,San Salvador Island,district,distrito,Cockburn Town,24.05179,-74.53138
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,SO,South Abaco,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,SA,South Andros,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,SE,South Eleuthera,district,distrito,,,
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,SW,Spanish Wells,district,distrito,Spanish Wells,25.54717,-76.76405
+BS,The Bahamas,Bahamas,Americas,América,Caribbean,Caribe,WG,West Grand Bahama,district,distrito,West End,26.68711,-78.97702

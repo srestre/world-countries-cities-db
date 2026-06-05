@@ -12,16 +12,20 @@
   currency_symbol: "TSh"
   tld: ".tz"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: -6
   longitude: 35
   emoji: "🇹🇿"
   states:
     -
       name: "Arusha"
+      native: "Arusha"
       code: "01"
       iso3166_2: "TZ-01"
       type: "region"
+      type_es: "región"
       latitude: -3.3696827
       longitude: 36.6880794
       cities:
@@ -83,9 +87,11 @@
           longitude: 36.85
     -
       name: "Dar es Salaam"
+      native: "Dar ni salaam"
       code: "02"
       iso3166_2: "TZ-02"
       type: "region"
+      type_es: "región"
       latitude: -6.8160837
       longitude: 39.2803583
       cities:
@@ -119,9 +125,11 @@
           longitude: 39.246636
     -
       name: "Dodoma"
+      native: "Dodoma"
       code: "03"
       iso3166_2: "TZ-03"
       type: "region"
+      type_es: "región"
       latitude: -6.1791181
       longitude: 35.7468174
       cities:
@@ -155,9 +163,11 @@
           longitude: 36.03333
     -
       name: "Geita"
+      native: "Geita"
       code: "27"
       iso3166_2: "TZ-27"
       type: "region"
+      type_es: "región"
       latitude: -2.8707573
       longitude: 32.2340831
       cities:
@@ -195,9 +205,11 @@
           longitude: 31.52583
     -
       name: "Iringa"
+      native: "Iringa"
       code: "04"
       iso3166_2: "TZ-04"
       type: "region"
+      type_es: "región"
       latitude: -7.7742718
       longitude: 35.4826339
       cities:
@@ -227,9 +239,11 @@
           longitude: 34.85
     -
       name: "Kagera"
+      native: "Kagera"
       code: "05"
       iso3166_2: "TZ-05"
       type: "region"
+      type_es: "región"
       latitude: -1.5825315
       longitude: 31.4798031
       cities:
@@ -291,9 +305,11 @@
           longitude: 30.6325
     -
       name: "Katavi"
+      native: "Katavi"
       code: "28"
       iso3166_2: "TZ-28"
       type: "region"
+      type_es: "región"
       latitude: -6.3015493
       longitude: 30.9278274
       cities:
@@ -315,9 +331,11 @@
           longitude: 31.23333
     -
       name: "Kigoma"
+      native: "Kigoma"
       code: "08"
       iso3166_2: "TZ-08"
       type: "region"
+      type_es: "región"
       latitude: -4.877862
       longitude: 29.6296319
       cities:
@@ -355,9 +373,11 @@
           longitude: 30.39111
     -
       name: "Kilimanjaro"
+      native: "Kilimanjaro"
       code: "09"
       iso3166_2: "TZ-09"
       type: "region"
+      type_es: "región"
       latitude: -3.476279
       longitude: 37.3872648
       cities:
@@ -383,9 +403,11 @@
           longitude: 37.88278
     -
       name: "Lindi"
+      native: "Lindi"
       code: "12"
       iso3166_2: "TZ-12"
       type: "region"
+      type_es: "región"
       latitude: -9.3985098
       longitude: 37.8997467
       cities:
@@ -419,9 +441,11 @@
           longitude: 38.93333
     -
       name: "Manyara"
+      native: "Manyara"
       code: "26"
       iso3166_2: "TZ-26"
       type: "region"
+      type_es: "región"
       latitude: -4.072751
       longitude: 35.8521735
       cities:
@@ -483,9 +507,11 @@
           longitude: 35.45
     -
       name: "Mara"
+      native: "Mara"
       code: "13"
       iso3166_2: "TZ-13"
       type: "region"
+      type_es: "región"
       latitude: -1.6409527
       longitude: 33.8421608
       cities:
@@ -539,9 +565,11 @@
           longitude: 34.47596
     -
       name: "Mbeya"
+      native: "Mbeya"
       code: "14"
       iso3166_2: "TZ-14"
       type: "region"
+      type_es: "región"
       latitude: -8.6131228
       longitude: 33.3341957
       cities:
@@ -687,9 +715,11 @@
           longitude: 34.2897
     -
       name: "Morogoro"
+      native: "Morogoro"
       code: "16"
       iso3166_2: "TZ-16"
       type: "region"
+      type_es: "región"
       latitude: -7.0842931
       longitude: 37.4232686
       cities:
@@ -767,9 +797,11 @@
           longitude: 38.11667
     -
       name: "Mtwara"
+      native: "Mtwara"
       code: "17"
       iso3166_2: "TZ-17"
       type: "region"
+      type_es: "región"
       latitude: -10.2838146
       longitude: 40.1789136
       cities:
@@ -851,9 +883,11 @@
           longitude: 39.63333
     -
       name: "Mwanza"
+      native: "Mwanza"
       code: "18"
       iso3166_2: "TZ-18"
       type: "region"
+      type_es: "región"
       latitude: -2.5196915
       longitude: 32.9014417
       cities:
@@ -895,9 +929,11 @@
           longitude: 33
     -
       name: "Njombe"
+      native: "Njombe"
       code: "29"
       iso3166_2: "TZ-29"
       type: "region"
+      type_es: "región"
       latitude: -9.2861487
       longitude: 35.1575097
       cities:
@@ -931,9 +967,11 @@
           longitude: 34.77167
     -
       name: "Pemba North"
+      native: "Pemba North"
       code: "06"
       iso3166_2: "TZ-06"
       type: "region"
+      type_es: "región"
       latitude: -5.0153101
       longitude: 39.7313864
       cities:
@@ -951,9 +989,11 @@
           longitude: 39.72938
     -
       name: "Pemba South"
+      native: "Pemba Kusini"
       code: "10"
       iso3166_2: "TZ-10"
       type: "region"
+      type_es: "región"
       latitude: -5.2850214
       longitude: 39.7131087
       cities:
@@ -971,9 +1011,11 @@
           longitude: 39.68333
     -
       name: "Pwani"
+      native: "Pwani"
       code: "19"
       iso3166_2: "TZ-19"
       type: "region"
+      type_es: "región"
       latitude: -7.1160874
       longitude: 38.7300111
       cities:
@@ -1043,9 +1085,11 @@
           longitude: 39.29849
     -
       name: "Rukwa"
+      native: "Rukwa"
       code: "20"
       iso3166_2: "TZ-20"
       type: "region"
+      type_es: "región"
       latitude: -7.7511321
       longitude: 30.9487902
       cities:
@@ -1079,9 +1123,11 @@
           longitude: 31.61667
     -
       name: "Ruvuma"
+      native: "Ruvuma"
       code: "21"
       iso3166_2: "TZ-21"
       type: "region"
+      type_es: "región"
       latitude: -10.749721
       longitude: 35.6616934
       cities:
@@ -1123,9 +1169,11 @@
           longitude: 35.03333
     -
       name: "Shinyanga"
+      native: "Shinyanga"
       code: "22"
       iso3166_2: "TZ-22"
       type: "region"
+      type_es: "región"
       latitude: -3.6562049
       longitude: 33.4271153
       cities:
@@ -1167,9 +1215,11 @@
           longitude: 33.2
     -
       name: "Simiyu"
+      native: "Simiyu"
       code: "30"
       iso3166_2: "TZ-30"
       type: "region"
+      type_es: "región"
       latitude: -3.1328347
       longitude: 34.1837946
       cities:
@@ -1211,9 +1261,11 @@
           longitude: 33.95
     -
       name: "Singida"
+      native: "Singida"
       code: "23"
       iso3166_2: "TZ-23"
       type: "region"
+      type_es: "región"
       latitude: -5.2902148
       longitude: 34.6367444
       cities:
@@ -1279,9 +1331,11 @@
           longitude: 34.74358
     -
       name: "Songwe"
+      native: "Songwe"
       code: "31"
       iso3166_2: "TZ-31"
       type: "region"
+      type_es: "región"
       latitude: -7.8269475
       longitude: 32.6193937
       cities:
@@ -1311,9 +1365,11 @@
           longitude: 32.9312
     -
       name: "Tabora"
+      native: "Tabora"
       code: "24"
       iso3166_2: "TZ-24"
       type: "region"
+      type_es: "región"
       latitude: -5.0202431
       longitude: 32.8097724
       cities:
@@ -1351,9 +1407,11 @@
           longitude: 32.35
     -
       name: "Tanga"
+      native: "Tanga"
       code: "25"
       iso3166_2: "TZ-25"
       type: "region"
+      type_es: "región"
       latitude: -5.202134
       longitude: 38.2275548
       cities:
@@ -1415,9 +1473,11 @@
           longitude: 39.09875
     -
       name: "Zanzibar North"
+      native: "Zanzibar Kaskazini"
       code: "07"
       iso3166_2: "TZ-07"
       type: "region"
+      type_es: "región"
       latitude: -5.9395093
       longitude: 39.2791011
       cities:
@@ -1443,9 +1503,11 @@
           longitude: 39.2987
     -
       name: "Zanzibar South"
+      native: "Zanzibar Kusini"
       code: "11"
       iso3166_2: "TZ-11"
       type: "region"
+      type_es: "región"
       latitude: -6.2083752
       longitude: 39.3579634
       cities:
@@ -1467,9 +1529,11 @@
           longitude: 39.55
     -
       name: "Zanzibar West"
+      native: "Zanzibar West"
       code: "15"
       iso3166_2: "TZ-15"
       type: "region"
+      type_es: "región"
       latitude: -6.1653854
       longitude: 39.2386951
       cities:

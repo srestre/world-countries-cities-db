@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".bm"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 32.33333333
   longitude: -64.75
   emoji: "🇧🇲"
   states:
     -
       name: "Devonshire"
+      native: "Devonshire"
       code: "DEV"
       iso3166_2: "BM-DEV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3038062
       longitude: -64.7606954
       cities:
@@ -31,9 +35,11 @@
           longitude: -64.8
     -
       name: "Hamilton"
+      native: "Hamilton"
       code: "HA"
       iso3166_2: "BM-HA"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3379906
       longitude: -64.7357556
       cities:
@@ -43,9 +49,11 @@
           longitude: -64.783
     -
       name: "Paget"
+      native: "Paget"
       code: "PAG"
       iso3166_2: "BM-PAG"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.281074
       longitude: -64.7784787
       cities:
@@ -55,18 +63,22 @@
           longitude: -64.769
     -
       name: "Pembroke"
+      native: "Pembroke"
       code: "PEM"
       iso3166_2: "BM-PEM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3007672
       longitude: -64.796263
       cities:
         []
     -
       name: "Saint George's"
+      native: "Saint George's"
       code: "SGE"
       iso3166_2: "BM-SGE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3722689
       longitude: -64.698502
       cities:
@@ -80,9 +92,11 @@
           longitude: -64.6881
     -
       name: "Sandys"
+      native: "Sandys"
       code: "SAN"
       iso3166_2: "BM-SAN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.2999528
       longitude: -64.8674103
       cities:
@@ -92,9 +106,11 @@
           longitude: -64.844
     -
       name: "Smith's"
+      native: "Smith's"
       code: "SMI"
       iso3166_2: "BM-SMI"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.3133966
       longitude: -64.7310588
       cities:
@@ -104,9 +120,11 @@
           longitude: -64.736
     -
       name: "Southampton"
+      native: "Southampton"
       code: "SOU"
       iso3166_2: "BM-SOU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.2517959
       longitude: -64.8496989
       cities:
@@ -116,9 +134,11 @@
           longitude: -64.861
     -
       name: "Warwick"
+      native: "Warwick"
       code: "WAR"
       iso3166_2: "BM-WAR"
       type: "municipality"
+      type_es: "municipio"
       latitude: 32.2661534
       longitude: -64.8081198
       cities:
@@ -140,16 +160,20 @@
   currency_symbol: "$"
   tld: ".ca"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 60
   longitude: -95
   emoji: "🇨🇦"
   states:
     -
       name: "Alberta"
+      native: "Alberta"
       code: "AB"
       iso3166_2: "CA-AB"
       type: "province"
+      type_es: "provincia"
       latitude: 55.001251
       longitude: -115.002136
       cities:
@@ -619,9 +643,11 @@
           longitude: -113.38119
     -
       name: "British Columbia"
+      native: "British Columbia"
       code: "BC"
       iso3166_2: "CA-BC"
       type: "province"
+      type_es: "provincia"
       latitude: 55.001251
       longitude: -125.002441
       cities:
@@ -1183,9 +1209,11 @@
           longitude: -122.14451
     -
       name: "Manitoba"
+      native: "Manitoba"
       code: "MB"
       iso3166_2: "CA-MB"
       type: "province"
+      type_es: "provincia"
       latitude: 55.001251
       longitude: -97.001038
       cities:
@@ -1363,9 +1391,11 @@
           longitude: -97.14704
     -
       name: "New Brunswick"
+      native: "New Brunswick"
       code: "NB"
       iso3166_2: "CA-NB"
       type: "province"
+      type_es: "provincia"
       latitude: 46.500283
       longitude: -66.750183
       cities:
@@ -1519,9 +1549,11 @@
           longitude: -65.92313
     -
       name: "Newfoundland and Labrador"
+      native: "Newfoundland and Labrador"
       code: "NL"
       iso3166_2: "CA-NL"
       type: "province"
+      type_es: "provincia"
       latitude: 53.8217327
       longitude: -61.2295532
       cities:
@@ -1655,9 +1687,11 @@
           longitude: -52.94806
     -
       name: "Northwest Territories"
+      native: "Northwest Territories"
       code: "NT"
       iso3166_2: "CA-NT"
       type: "territory"
+      type_es: "territorio"
       latitude: 65.0000004
       longitude: -118
       cities:
@@ -1691,9 +1725,11 @@
           longitude: -114.37248
     -
       name: "Nova Scotia"
+      native: "New Scotia"
       code: "NS"
       iso3166_2: "CA-NS"
       type: "province"
+      type_es: "provincia"
       latitude: 45.1960403
       longitude: -63.1653789
       cities:
@@ -1871,9 +1907,11 @@
           longitude: -66.11557
     -
       name: "Nunavut"
+      native: "Nunavut"
       code: "NU"
       iso3166_2: "CA-NU"
       type: "territory"
+      type_es: "territorio"
       latitude: 65.0377727
       longitude: -92.5540791
       cities:
@@ -1903,9 +1941,11 @@
           longitude: -92.08534
     -
       name: "Ontario"
+      native: "Ontario"
       code: "ON"
       iso3166_2: "CA-ON"
       type: "province"
+      type_es: "provincia"
       latitude: 50.000678
       longitude: -86.000977
       cities:
@@ -2871,9 +2911,11 @@
           longitude: -79.4372217
     -
       name: "Prince Edward Island"
+      native: "Prince Edward Island"
       code: "PE"
       iso3166_2: "CA-PE"
       type: "province"
+      type_es: "provincia"
       latitude: 46.5036807
       longitude: -63.595411
       cities:
@@ -2915,9 +2957,11 @@
           longitude: -63.78762
     -
       name: "Quebec"
+      native: "Quebec"
       code: "QC"
       iso3166_2: "CA-QC"
       type: "province"
+      type_es: "provincia"
       latitude: 52.4760892
       longitude: -71.8258668
       cities:
@@ -4323,9 +4367,11 @@
           longitude: -72.83243
     -
       name: "Saskatchewan"
+      native: "Saskatchewan"
       code: "SK"
       iso3166_2: "CA-SK"
       type: "province"
+      type_es: "provincia"
       latitude: 55.5321257
       longitude: -106.141224
       cities:
@@ -4547,9 +4593,11 @@
           longitude: -102.46766
     -
       name: "Yukon"
+      native: "Yukon"
       code: "YT"
       iso3166_2: "CA-YT"
       type: "territory"
+      type_es: "territorio"
       latitude: 63.000147
       longitude: -136.002502
       cities:
@@ -4583,16 +4631,20 @@
   currency_symbol: "Kr."
   tld: ".gl"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 72
   longitude: -40
   emoji: "🇬🇱"
   states:
     -
       name: "Avannaata"
+      native: "Avannaata"
       code: "AV"
       iso3166_2: "GL-AV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 76.5049265
       longitude: -56.2911976
       cities:
@@ -4614,9 +4666,11 @@
           longitude: -52.1497824
     -
       name: "Kujalleq"
+      native: "Kujalleq"
       code: "KU"
       iso3166_2: "GL-KU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 61
       longitude: -45
       cities:
@@ -4634,9 +4688,11 @@
           longitude: -46.0548163
     -
       name: "Qeqertalik"
+      native: "Qeqertalik"
       code: "QT"
       iso3166_2: "GL-QT"
       type: "municipality"
+      type_es: "municipio"
       latitude: 68.8249553
       longitude: -54.7622472
       cities:
@@ -4658,9 +4714,11 @@
           longitude: -53.5644006
     -
       name: "Qeqqata"
+      native: "Qeqqata"
       code: "QE"
       iso3166_2: "GL-QE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.5
       longitude: -48
       cities:
@@ -4674,9 +4732,11 @@
           longitude: -53.7456766
     -
       name: "Sermersooq"
+      native: "Sermersooq"
       code: "SM"
       iso3166_2: "GL-SM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66
       longitude: -40
       cities:
@@ -4714,16 +4774,20 @@
   currency_symbol: "$"
   tld: ".mx"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 23
   longitude: -102
   emoji: "🇲🇽"
   states:
     -
       name: "Aguascalientes"
+      native: "Aguascalientes"
       code: "AGU"
       iso3166_2: "MX-AGU"
       type: "state"
+      type_es: "estado"
       latitude: 21.8852562
       longitude: -102.2915677
       cities:
@@ -5093,9 +5157,11 @@
           longitude: -102.18778
     -
       name: "Baja California"
+      native: "Baja California"
       code: "BCN"
       iso3166_2: "MX-BCN"
       type: "state"
+      type_es: "estado"
       latitude: 30.0338923
       longitude: -115.1425107
       cities:
@@ -5481,9 +5547,11 @@
           longitude: -115.54667
     -
       name: "Baja California Sur"
+      native: "Baja California Sur"
       code: "BCS"
       iso3166_2: "MX-BCS"
       type: "state"
+      type_es: "estado"
       latitude: 25.5818014
       longitude: -111.5706164
       cities:
@@ -5613,9 +5681,11 @@
           longitude: -111.62806
     -
       name: "Campeche"
+      native: "Campeche"
       code: "CAM"
       iso3166_2: "MX-CAM"
       type: "state"
+      type_es: "estado"
       latitude: 19.8381215
       longitude: -90.5198253
       cities:
@@ -5913,9 +5983,11 @@
           longitude: -89.41714
     -
       name: "Chiapas"
+      native: "Chiapas"
       code: "CHP"
       iso3166_2: "MX-CHP"
       type: "state"
+      type_es: "estado"
       latitude: 16.5000001
       longitude: -92.5000001
       cities:
@@ -8057,9 +8129,11 @@
           longitude: -92.72257
     -
       name: "Chihuahua"
+      native: "Chihuahua"
       code: "CHH"
       iso3166_2: "MX-CHH"
       type: "state"
+      type_es: "estado"
       latitude: 28.6329957
       longitude: -106.0691004
       cities:
@@ -8657,9 +8731,11 @@
           longitude: -108.92781
     -
       name: "Ciudad de México"
+      native: "Ciudad de México"
       code: "CMX"
       iso3166_2: "MX-CMX"
       type: "federal district"
+      type_es: "distrito federal"
       latitude: 19.4326077
       longitude: -99.133208
       cities:
@@ -8817,9 +8893,11 @@
           longitude: -99.10356
     -
       name: "Coahuila de Zaragoza"
+      native: "Coahuila de Zaragoza"
       code: "COA"
       iso3166_2: "MX-COA"
       type: "state"
+      type_es: "estado"
       latitude: 27.3333331
       longitude: -102.0000001
       cities:
@@ -9269,9 +9347,11 @@
           longitude: -100.9223
     -
       name: "Colima"
+      native: "Colima"
       code: "COL"
       iso3166_2: "MX-COL"
       type: "state"
+      type_es: "estado"
       latitude: 19.2452342
       longitude: -103.7240868
       cities:
@@ -9413,9 +9493,11 @@
           longitude: -103.82433
     -
       name: "Durango"
+      native: "Durango"
       code: "DUR"
       iso3166_2: "MX-DUR"
       type: "state"
+      type_es: "estado"
       latitude: 24.833333
       longitude: -104.833333
       cities:
@@ -9949,9 +10031,11 @@
           longitude: -104.04705
     -
       name: "Estado de México"
+      native: "Estado de México"
       code: "MEX"
       iso3166_2: "MX-MEX"
       type: "state"
+      type_es: "estado"
       latitude: 19.4839446
       longitude: -99.6899716
       cities:
@@ -13717,9 +13801,11 @@
           longitude: -99.09946
     -
       name: "Guanajuato"
+      native: "Guanajuato"
       code: "GUA"
       iso3166_2: "MX-GUA"
       type: "state"
+      type_es: "estado"
       latitude: 21.0190145
       longitude: -101.2573586
       cities:
@@ -15629,9 +15715,11 @@
           longitude: -101.24795
     -
       name: "Guerrero"
+      native: "Guerrero"
       code: "GRO"
       iso3166_2: "MX-GRO"
       type: "state"
+      type_es: "estado"
       latitude: 17.666667
       longitude: -100
       cities:
@@ -17369,9 +17457,11 @@
           longitude: -99.52725
     -
       name: "Hidalgo"
+      native: "Hidalgo"
       code: "HID"
       iso3166_2: "MX-HID"
       type: "state"
+      type_es: "estado"
       latitude: 24.1685545
       longitude: -99.3873729
       cities:
@@ -19045,9 +19135,11 @@
           longitude: -98.51094
     -
       name: "Jalisco"
+      native: "Jalisco"
       code: "JAL"
       iso3166_2: "MX-JAL"
       type: "state"
+      type_es: "estado"
       latitude: 20.3333331
       longitude: -103.6666671
       cities:
@@ -22321,9 +22413,11 @@
           longitude: -102.72816
     -
       name: "Michoacán de Ocampo"
+      native: "Michoacán de Ocampo"
       code: "MIC"
       iso3166_2: "MX-MIC"
       type: "state"
+      type_es: "estado"
       latitude: 19.207098
       longitude: -101.878113
       cities:
@@ -24097,9 +24191,11 @@
           longitude: -101.01113
     -
       name: "Morelos"
+      native: "Morelos"
       code: "MOR"
       iso3166_2: "MX-MOR"
       type: "state"
+      type_es: "estado"
       latitude: 18.75
       longitude: -99
       cities:
@@ -25117,9 +25213,11 @@
           longitude: -99.64405
     -
       name: "Nayarit"
+      native: "Nayarit"
       code: "NAY"
       iso3166_2: "MX-NAY"
       type: "state"
+      type_es: "estado"
       latitude: 22.0000001
       longitude: -105.0000001
       cities:
@@ -25597,9 +25695,11 @@
           longitude: -104.60899
     -
       name: "Nuevo León"
+      native: "Nuevo León"
       code: "NLE"
       iso3166_2: "MX-NLE"
       type: "state"
+      type_es: "estado"
       latitude: 26.2384363
       longitude: -99.8873
       cities:
@@ -26585,9 +26685,11 @@
           longitude: -100.18528
     -
       name: "Oaxaca"
+      native: "Oaxaca"
       code: "OAX"
       iso3166_2: "MX-OAX"
       type: "state"
+      type_es: "estado"
       latitude: 17
       longitude: -96.5
       cities:
@@ -29369,9 +29471,11 @@
           longitude: -96.58917
     -
       name: "Puebla"
+      native: "Puebla"
       code: "PUE"
       iso3166_2: "MX-PUE"
       type: "state"
+      type_es: "estado"
       latitude: 19.0414398
       longitude: -98.2062727
       cities:
@@ -32417,9 +32521,11 @@
           longitude: -97.56934
     -
       name: "Querétaro"
+      native: "Querétaro"
       code: "QUE"
       iso3166_2: "MX-QUE"
       type: "state"
+      type_es: "estado"
       latitude: 20.5887932
       longitude: -100.3898881
       cities:
@@ -33233,9 +33339,11 @@
           longitude: -100.11797
     -
       name: "Quintana Roo"
+      native: "Quintana Roo"
       code: "ROO"
       iso3166_2: "MX-ROO"
       type: "state"
+      type_es: "estado"
       latitude: 19.6666671
       longitude: -88.5000001
       cities:
@@ -33497,9 +33605,11 @@
           longitude: -86.85361
     -
       name: "San Luis Potosí"
+      native: "San Luis Potosí"
       code: "SLP"
       iso3166_2: "MX-SLP"
       type: "state"
+      type_es: "estado"
       latitude: 22.1516472
       longitude: -100.9763993
       cities:
@@ -34213,9 +34323,11 @@
           longitude: -98.92139
     -
       name: "Sinaloa"
+      native: "Sinaloa"
       code: "SIN"
       iso3166_2: "MX-SIN"
       type: "state"
+      type_es: "estado"
       latitude: 25.0000001
       longitude: -107.5000001
       cities:
@@ -35101,9 +35213,11 @@
           longitude: -106.21947
     -
       name: "Sonora"
+      native: "Sonora"
       code: "SON"
       iso3166_2: "MX-SON"
       type: "state"
+      type_es: "estado"
       latitude: 29.3333331
       longitude: -110.6666671
       cities:
@@ -35749,9 +35863,11 @@
           longitude: -109.52103
     -
       name: "Tabasco"
+      native: "Tabasco"
       code: "TAB"
       iso3166_2: "MX-TAB"
       type: "state"
+      type_es: "estado"
       latitude: 17.9999288
       longitude: -92.6681659
       cities:
@@ -36613,9 +36729,11 @@
           longitude: -92.70474
     -
       name: "Tamaulipas"
+      native: "Tamaulipas"
       code: "TAM"
       iso3166_2: "MX-TAM"
       type: "state"
+      type_es: "estado"
       latitude: 23.9891553
       longitude: -98.7026825
       cities:
@@ -37061,9 +37179,11 @@
           longitude: -98.94218
     -
       name: "Tlaxcala"
+      native: "Tlaxcala"
       code: "TLA"
       iso3166_2: "MX-TLA"
       type: "state"
+      type_es: "estado"
       latitude: 19.318154
       longitude: -98.2374954
       cities:
@@ -37685,9 +37805,11 @@
           longitude: -98.22407
     -
       name: "Veracruz de Ignacio de la Llave"
+      native: "Veracruz de Ignacio de la Llave"
       code: "VER"
       iso3166_2: "MX-VER"
       type: "state"
+      type_es: "estado"
       latitude: 19.333333
       longitude: -96.666667
       cities:
@@ -40745,9 +40867,11 @@
           longitude: -97.57567
     -
       name: "Yucatán"
+      native: "Yucatán"
       code: "YUC"
       iso3166_2: "MX-YUC"
       type: "state"
+      type_es: "estado"
       latitude: 20.6845957
       longitude: -88.8755669
       cities:
@@ -41553,9 +41677,11 @@
           longitude: -89.45429
     -
       name: "Zacatecas"
+      native: "Zacatecas"
       code: "ZAC"
       iso3166_2: "MX-ZAC"
       type: "state"
+      type_es: "estado"
       latitude: 22.7753891
       longitude: -102.5722706
       cities:
@@ -42273,16 +42399,20 @@
   currency_symbol: "€"
   tld: ".pm"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 46.83333333
   longitude: -56.33333333
   emoji: "🇵🇲"
   states:
     -
       name: "Saint-Pierre and Miquelon"
+      native: "Saint-Pierre-et-Miquelon"
       code: "01"
       iso3166_2: "FR-PM"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: 46.83333333
       longitude: -56.33333333
       cities:
@@ -42308,16 +42438,20 @@
   currency_symbol: "$"
   tld: ".us"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 38
   longitude: -97
   emoji: "🇺🇸"
   states:
     -
       name: "Alabama"
+      native: "Alabama"
       code: "AL"
       iso3166_2: "US-AL"
       type: "state"
+      type_es: "estado"
       latitude: 33.2588817
       longitude: -86.8295337
       cities:
@@ -43835,9 +43969,11 @@
           longitude: -88.29642
     -
       name: "Alaska"
+      native: "Down"
       code: "AK"
       iso3166_2: "US-AK"
       type: "state"
+      type_es: "estado"
       latitude: 64.4459613
       longitude: -149.680909
       cities:
@@ -44227,18 +44363,22 @@
           longitude: -152.71667
     -
       name: "American Samoa"
+      native: "American Samoa"
       code: "AS"
       iso3166_2: "US-AS"
       type: "outlying area"
+      type_es: "área periférica"
       latitude: -14.297124
       longitude: -170.7131481
       cities:
         []
     -
       name: "Arizona"
+      native: "Arizona"
       code: "AZ"
       iso3166_2: "US-AZ"
       type: "state"
+      type_es: "estado"
       latitude: 34.395342
       longitude: -111.763275
       cities:
@@ -45148,9 +45288,11 @@
           longitude: -113.90556
     -
       name: "Arkansas"
+      native: "Arkansa"
       code: "AR"
       iso3166_2: "US-AR"
       type: "state"
+      type_es: "estado"
       latitude: 35.2048883
       longitude: -92.4479108
       cities:
@@ -46300,36 +46442,44 @@
           longitude: -92.68489
     -
       name: "Armed Forces Europe"
+      native: "Armed Forces Europe"
       code: "AE"
       iso3166_2: null
       type: "military postal region"
+      type_es: "región postal militar"
       latitude: null
       longitude: null
       cities:
         []
     -
       name: "Armed Forces of the Americas"
+      native: "Armed Forces of the Americas"
       code: "AA"
       iso3166_2: null
       type: "military postal region"
+      type_es: "región postal militar"
       latitude: null
       longitude: null
       cities:
         []
     -
       name: "Armed Forces Pacific"
+      native: "Armed Forces Pacific"
       code: "AP"
       iso3166_2: null
       type: "military postal region"
+      type_es: "región postal militar"
       latitude: null
       longitude: null
       cities:
         []
     -
       name: "California"
+      native: "California"
       code: "CA"
       iso3166_2: "US-CA"
       type: "state"
+      type_es: "estado"
       latitude: 36.7014631
       longitude: -118.755997
       cities:
@@ -50827,9 +50977,11 @@
           longitude: -116.43224
     -
       name: "Colorado"
+      native: "Colorado"
       code: "CO"
       iso3166_2: "US-CO"
       type: "state"
+      type_es: "estado"
       latitude: 38.7251776
       longitude: -105.607716
       cities:
@@ -51991,9 +52143,11 @@
           longitude: -102.42423
     -
       name: "Connecticut"
+      native: "Connecticut"
       code: "CT"
       iso3166_2: "US-CT"
       type: "state"
+      type_es: "estado"
       latitude: 41.6500201
       longitude: -72.7342163
       cities:
@@ -52759,9 +52913,11 @@
           longitude: -72.99149
     -
       name: "Delaware"
+      native: "Delaware"
       code: "DE"
       iso3166_2: "US-DE"
       type: "state"
+      type_es: "estado"
       latitude: 38.6920451
       longitude: -75.4013315
       cities:
@@ -52983,9 +53139,11 @@
           longitude: -75.55881
     -
       name: "District of Columbia"
+      native: "District of Columbia"
       code: "DC"
       iso3166_2: "US-DC"
       type: "district"
+      type_es: "distrito"
       latitude: 38.8950368
       longitude: -77.0365427
       cities:
@@ -53007,9 +53165,11 @@
           longitude: -77.03637
     -
       name: "Florida"
+      native: "Florida"
       code: "FL"
       iso3166_2: "US-FL"
       type: "state"
+      type_es: "estado"
       latitude: 27.7567667
       longitude: -81.4639835
       cities:
@@ -56391,9 +56551,11 @@
           longitude: -81.79592
     -
       name: "Georgia"
+      native: "Georgia"
       code: "GA"
       iso3166_2: "US-GA"
       type: "state"
+      type_es: "estado"
       latitude: 32.3293809
       longitude: -83.1137366
       cities:
@@ -58535,18 +58697,22 @@
           longitude: -84.3427
     -
       name: "Guam"
+      native: "Guam"
       code: "GU"
       iso3166_2: "US-GU"
       type: "outlying area"
+      type_es: "área periférica"
       latitude: 13.4499943
       longitude: 144.7651677
       cities:
         []
     -
       name: "Hawaii"
+      native: "Hawaii"
       code: "HI"
       iso3166_2: "US-HI"
       type: "state"
+      type_es: "estado"
       latitude: 19.6273325
       longitude: -155.564561
       cities:
@@ -59036,9 +59202,11 @@
           longitude: -158.02464
     -
       name: "Idaho"
+      native: "Idaho"
       code: "ID"
       iso3166_2: "US-ID"
       type: "state"
+      type_es: "estado"
       latitude: 43.6447642
       longitude: -114.015407
       cities:
@@ -59612,9 +59780,11 @@
           longitude: -116.91182
     -
       name: "Illinois"
+      native: "Illinois"
       code: "IL"
       iso3166_2: "US-IL"
       type: "state"
+      type_es: "estado"
       latitude: 40.0796606
       longitude: -89.4337288
       cities:
@@ -63032,9 +63202,11 @@
           longitude: -87.83285
     -
       name: "Indiana"
+      native: "Indiana"
       code: "IN"
       iso3166_2: "US-IN"
       type: "state"
+      type_es: "estado"
       latitude: 40.3270127
       longitude: -86.1746933
       cities:
@@ -64772,9 +64944,11 @@
           longitude: -86.26194
     -
       name: "Iowa"
+      native: "Iowa"
       code: "IA"
       iso3166_2: "US-IA"
       type: "state"
+      type_es: "estado"
       latitude: 41.9216734
       longitude: -93.3122705
       cities:
@@ -66308,9 +66482,11 @@
           longitude: -93.73515
     -
       name: "Kansas"
+      native: "Kansas"
       code: "KS"
       iso3166_2: "US-KS"
       type: "state"
+      type_es: "estado"
       latitude: 38.27312
       longitude: -98.5821872
       cities:
@@ -67592,9 +67768,11 @@
           longitude: -95.73332
     -
       name: "Kentucky"
+      native: "Kentucky"
       code: "KY"
       iso3166_2: "US-KY"
       type: "state"
+      type_es: "estado"
       latitude: 37.5726028
       longitude: -85.1551411
       cities:
@@ -69148,9 +69326,11 @@
           longitude: -82.77794
     -
       name: "Louisiana"
+      native: "Louisiana"
       code: "LA"
       iso3166_2: "US-LA"
       type: "state"
+      type_es: "estado"
       latitude: 30.8703881
       longitude: -92.007126
       cities:
@@ -70532,9 +70712,11 @@
           longitude: -93.64407
     -
       name: "Maine"
+      native: "Maine"
       code: "ME"
       iso3166_2: "US-ME"
       type: "state"
+      type_es: "estado"
       latitude: 45.709097
       longitude: -68.8590201
       cities:
@@ -71624,9 +71806,11 @@
           longitude: -70.64561
     -
       name: "Maryland"
+      native: "Maryland"
       code: "MD"
       iso3166_2: "US-MD"
       type: "state"
+      type_es: "estado"
       latitude: 39.5162401
       longitude: -76.9382069
       cities:
@@ -73084,9 +73268,11 @@
           longitude: -75.29667
     -
       name: "Massachusetts"
+      native: "Massachusetts"
       code: "MA"
       iso3166_2: "US-MA"
       type: "state"
+      type_es: "estado"
       latitude: 42.3788774
       longitude: -72.032366
       cities:
@@ -74712,9 +74898,11 @@
           longitude: -70.24947
     -
       name: "Michigan"
+      native: "Michigan"
       code: "MI"
       iso3166_2: "US-MI"
       type: "state"
+      type_es: "estado"
       latitude: 43.6211955
       longitude: -84.6824346
       cities:
@@ -76820,9 +77008,11 @@
           longitude: -83.92053
     -
       name: "Minnesota"
+      native: "Minnesota"
       code: "MN"
       iso3166_2: "US-MN"
       type: "state"
+      type_es: "estado"
       latitude: 45.9896587
       longitude: -94.6113288
       cities:
@@ -78668,9 +78858,11 @@
           longitude: -92.66908
     -
       name: "Mississippi"
+      native: "Mississippi"
       code: "MS"
       iso3166_2: "US-MS"
       type: "state"
+      type_es: "estado"
       latitude: 32.9715285
       longitude: -89.7348497
       cities:
@@ -79856,9 +80048,11 @@
           longitude: -90.40565
     -
       name: "Missouri"
+      native: "Missouri"
       code: "MO"
       iso3166_2: "US-MO"
       type: "state"
+      type_es: "estado"
       latitude: 38.7604815
       longitude: -92.5617875
       cities:
@@ -81896,9 +82090,11 @@
           longitude: -91.02014
     -
       name: "Montana"
+      native: "Montana"
       code: "MT"
       iso3166_2: "US-MT"
       type: "state"
+      type_es: "estado"
       latitude: 47.3752671
       longitude: -109.638757
       cities:
@@ -82548,9 +82744,11 @@
           longitude: -108.27435
     -
       name: "Nebraska"
+      native: "Nebraska"
       code: "NE"
       iso3166_2: "US-NE"
       type: "state"
+      type_es: "estado"
       latitude: 41.7370229
       longitude: -99.5873816
       cities:
@@ -83508,9 +83706,11 @@
           longitude: -96.39725
     -
       name: "Nevada"
+      native: "Nevada"
       code: "NV"
       iso3166_2: "US-NV"
       type: "state"
+      type_es: "estado"
       latitude: 39.5158825
       longitude: -116.853722
       cities:
@@ -83844,9 +84044,11 @@
           longitude: -119.16293
     -
       name: "New Hampshire"
+      native: "New Hampshire"
       code: "NH"
       iso3166_2: "US-NH"
       type: "state"
+      type_es: "estado"
       latitude: 43.4849133
       longitude: -71.6553992
       cities:
@@ -84592,9 +84794,11 @@
           longitude: -72.03731
     -
       name: "New Jersey"
+      native: "New Jersey"
       code: "NJ"
       iso3166_2: "US-NJ"
       type: "state"
+      type_es: "estado"
       latitude: 40.0757384
       longitude: -74.4041622
       cities:
@@ -86808,9 +87012,11 @@
           longitude: -74.33765
     -
       name: "New Mexico"
+      native: "New Mexico"
       code: "NM"
       iso3166_2: "US-NM"
       type: "state"
+      type_es: "estado"
       latitude: 34.5802074
       longitude: -105.996047
       cities:
@@ -87544,9 +87750,11 @@
           longitude: -108.85064
     -
       name: "New York"
+      native: "New York"
       code: "NY"
       iso3166_2: "US-NY"
       type: "state"
+      type_es: "estado"
       latitude: 40.7127753
       longitude: -74.0059728
       cities:
@@ -91756,9 +91964,11 @@
           longitude: -74.07625
     -
       name: "North Carolina"
+      native: "North Carolina"
       code: "NC"
       iso3166_2: "US-NC"
       type: "state"
+      type_es: "estado"
       latitude: 35.6729639
       longitude: -79.0392919
       cities:
@@ -93980,9 +94190,11 @@
           longitude: -78.31472
     -
       name: "North Dakota"
+      native: "North Dakota"
       code: "ND"
       iso3166_2: "US-ND"
       type: "state"
+      type_es: "estado"
       latitude: 47.6201461
       longitude: -100.540737
       cities:
@@ -94520,18 +94732,22 @@
           longitude: -103.61797
     -
       name: "Northern Mariana Islands"
+      native: "Northern Mariana Islands"
       code: "MP"
       iso3166_2: "US-MP"
       type: "outlying area"
+      type_es: "área periférica"
       latitude: 15.1753648
       longitude: 145.7379338
       cities:
         []
     -
       name: "Ohio"
+      native: "Ohio"
       code: "OH"
       iso3166_2: "US-OH"
       type: "state"
+      type_es: "estado"
       latitude: 40.2253569
       longitude: -82.6881395
       cities:
@@ -97557,9 +97773,11 @@
           longitude: -82.01319
     -
       name: "Oklahoma"
+      native: "Oklahola"
       code: "OK"
       iso3166_2: "US-OK"
       type: "state"
+      type_es: "estado"
       latitude: 35.5545024
       longitude: -97.4366239
       cities:
@@ -98845,9 +99063,11 @@
           longitude: -97.76254
     -
       name: "Oregon"
+      native: "Oregon"
       code: "OR"
       iso3166_2: "US-OR"
       type: "state"
+      type_es: "estado"
       latitude: 43.9792797
       longitude: -120.737257
       cities:
@@ -99873,9 +100093,11 @@
           longitude: -123.28342
     -
       name: "Pennsylvania"
+      native: "Pennsylvania"
       code: "PA"
       iso3166_2: "US-PA"
       type: "state"
+      type_es: "estado"
       latitude: 40.9699889
       longitude: -77.7278831
       cities:
@@ -104093,9 +104315,11 @@
           longitude: -77.68472
     -
       name: "Puerto Rico"
+      native: "Puerto Rico"
       code: "PR"
       iso3166_2: "US-PR"
       type: "outlying area"
+      type_es: "área periférica"
       latitude: 18.2247706
       longitude: -66.4858295
       cities:
@@ -105121,9 +105345,11 @@
           longitude: -66.05722222
     -
       name: "Rhode Island"
+      native: "Rhode Island"
       code: "RI"
       iso3166_2: "US-RI"
       type: "state"
+      type_es: "estado"
       latitude: 41.7962409
       longitude: -71.5992372
       cities:
@@ -105345,9 +105571,11 @@
           longitude: -71.51478
     -
       name: "South Carolina"
+      native: "South Carolina"
       code: "SC"
       iso3166_2: "US-SC"
       type: "state"
+      type_es: "estado"
       latitude: 33.6874388
       longitude: -80.4363743
       cities:
@@ -106485,9 +106713,11 @@
           longitude: -81.18442
     -
       name: "South Dakota"
+      native: "South Dakota"
       code: "SD"
       iso3166_2: "US-SD"
       type: "state"
+      type_es: "estado"
       latitude: 44.6471761
       longitude: -100.348761
       cities:
@@ -107161,9 +107391,11 @@
           longitude: -101.66586
     -
       name: "Tennessee"
+      native: "Tennessee"
       code: "TN"
       iso3166_2: "US-TN"
       type: "state"
+      type_es: "estado"
       latitude: 35.7730076
       longitude: -86.2820081
       cities:
@@ -108717,9 +108949,11 @@
           longitude: -86.07166
     -
       name: "Texas"
+      native: "Texas"
       code: "TX"
       iso3166_2: "US-TX"
       type: "state"
+      type_es: "estado"
       latitude: 31.2638905
       longitude: -98.5456116
       cities:
@@ -113829,27 +114063,33 @@
           longitude: -99.7606
     -
       name: "United States Minor Outlying Islands"
+      native: "United States Minor Outlying Islands"
       code: "UM"
       iso3166_2: "US-UM"
       type: "outlying area"
+      type_es: "área periférica"
       latitude: 28.2360511
       longitude: -177.3685632
       cities:
         []
     -
       name: "United States Virgin Islands"
+      native: "United States Virgin Islands"
       code: "VI"
       iso3166_2: "US-VI"
       type: "outlying area"
+      type_es: "área periférica"
       latitude: 17.789187
       longitude: -64.7080574
       cities:
         []
     -
       name: "Utah"
+      native: "Utah"
       code: "UT"
       iso3166_2: "US-UT"
       type: "state"
+      type_es: "estado"
       latitude: 39.4225192
       longitude: -111.714358
       cities:
@@ -114683,9 +114923,11 @@
           longitude: -111.89216
     -
       name: "Vermont"
+      native: "Vermont"
       code: "VT"
       iso3166_2: "US-VT"
       type: "state"
+      type_es: "estado"
       latitude: 44.5990718
       longitude: -72.5002608
       cities:
@@ -115075,9 +115317,11 @@
           longitude: -72.51843
     -
       name: "Virginia"
+      native: "Virginia"
       code: "VA"
       iso3166_2: "US-VA"
       type: "state"
+      type_es: "estado"
       latitude: 37.1232245
       longitude: -78.4927721
       cities:
@@ -117031,9 +117275,11 @@
           longitude: -76.50967
     -
       name: "Washington"
+      native: "Washington"
       code: "WA"
       iso3166_2: "US-WA"
       type: "state"
+      type_es: "estado"
       latitude: 47.2868352
       longitude: -120.212613
       cities:
@@ -118771,9 +119017,11 @@
           longitude: -120.262
     -
       name: "West Virginia"
+      native: "West Virginia"
       code: "WV"
       iso3166_2: "US-WV"
       type: "state"
+      type_es: "estado"
       latitude: 38.4758406
       longitude: -80.8408415
       cities:
@@ -119651,9 +119899,11 @@
           longitude: -81.54918
     -
       name: "Wisconsin"
+      native: "Wisconsin"
       code: "WI"
       iso3166_2: "US-WI"
       type: "state"
+      type_es: "estado"
       latitude: 44.4308975
       longitude: -89.6884637
       cities:
@@ -121627,9 +121877,11 @@
           longitude: -88.16288
     -
       name: "Wyoming"
+      native: "Wyoming"
       code: "WY"
       iso3166_2: "US-WY"
       type: "state"
+      type_es: "estado"
       latitude: 43.1700264
       longitude: -107.568534
       cities:
@@ -121967,88 +122219,108 @@
   currency_symbol: "$"
   tld: ".us"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 0
   longitude: 0
   emoji: "🇺🇲"
   states:
     -
       name: "Baker Island"
+      native: "Baker Island"
       code: "81"
       iso3166_2: "UM-81"
       type: "island"
+      type_es: "isla"
       latitude: 0.1936266
       longitude: -176.476908
       cities:
         []
     -
       name: "Howland Island"
+      native: "Howland Island"
       code: "84"
       iso3166_2: "UM-84"
       type: "island"
+      type_es: "isla"
       latitude: 0.8113219
       longitude: -176.6182736
       cities:
         []
     -
       name: "Jarvis Island"
+      native: "Jarvis Island"
       code: "86"
       iso3166_2: "UM-86"
       type: "island"
+      type_es: "isla"
       latitude: -0.3743503
       longitude: -159.9967206
       cities:
         []
     -
       name: "Johnston Atoll"
+      native: "Johnston Atoll"
       code: "67"
       iso3166_2: "UM-67"
       type: "island"
+      type_es: "isla"
       latitude: 16.7295035
       longitude: -169.5336477
       cities:
         []
     -
       name: "Kingman Reef"
+      native: "Kingman Reef"
       code: "89"
       iso3166_2: "UM-89"
       type: "island"
+      type_es: "isla"
       latitude: 6.383333
       longitude: -162.416667
       cities:
         []
     -
       name: "Midway Islands"
+      native: "Midway Islands"
       code: "71"
       iso3166_2: "UM-71"
       type: "island"
+      type_es: "isla"
       latitude: 28.2072168
       longitude: -177.3734926
       cities:
         []
     -
       name: "Navassa Island"
+      native: "Navassa Island"
       code: "76"
       iso3166_2: "UM-76"
       type: "island"
+      type_es: "isla"
       latitude: 18.4100689
       longitude: -75.0114612
       cities:
         []
     -
       name: "Palmyra Atoll"
+      native: "Palmyra atoll"
       code: "95"
       iso3166_2: "UM-95"
       type: "island"
+      type_es: "isla"
       latitude: 5.8885026
       longitude: -162.0786656
       cities:
         []
     -
       name: "Wake Island"
+      native: "Wake Island"
       code: "79"
       iso3166_2: "UM-79"
       type: "island"
+      type_es: "isla"
       latitude: 19.279619
       longitude: 166.6499348
       cities:

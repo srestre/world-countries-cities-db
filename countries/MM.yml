@@ -12,16 +12,20 @@
   currency_symbol: "K"
   tld: ".mm"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 22
   longitude: 98
   emoji: "🇲🇲"
   states:
     -
       name: "Ayeyarwady"
+      native: "ar ရာဝတီ"
       code: "07"
       iso3166_2: "MM-07"
       type: "region"
+      type_es: "región"
       latitude: 16.8340079
       longitude: 95.1804705
       cities:
@@ -67,9 +71,11 @@
           longitude: 95.18278
     -
       name: "Bago"
+      native: "ဉီးစွာ"
       code: "02"
       iso3166_2: "MM-02"
       type: "region"
+      type_es: "región"
       latitude: 17.336667
       longitude: 96.479722
       cities:
@@ -111,9 +117,11 @@
           longitude: 95.78813
     -
       name: "Chin"
+      native: "မေးစေ့"
       code: "14"
       iso3166_2: "MM-14"
       type: "state"
+      type_es: "estado"
       latitude: 22.018242
       longitude: 93.5038035
       cities:
@@ -127,9 +135,11 @@
           longitude: 93.61076
     -
       name: "Kachin"
+      native: "ကချင်လူမျိုး"
       code: "11"
       iso3166_2: "MM-11"
       type: "state"
+      type_es: "estado"
       latitude: 26.0207656
       longitude: 97.4919258
       cities:
@@ -143,9 +153,11 @@
           longitude: 97.39637
     -
       name: "Kayah"
+      native: "ကရင်"
       code: "12"
       iso3166_2: "MM-12"
       type: "state"
+      type_es: "estado"
       latitude: 19.2812505
       longitude: 97.3291806
       cities:
@@ -155,9 +167,11 @@
           longitude: 97.20975
     -
       name: "Kayin"
+      native: "nephy"
       code: "13"
       iso3166_2: "MM-13"
       type: "state"
+      type_es: "estado"
       latitude: 17.1863135
       longitude: 97.7499316
       cities:
@@ -199,9 +213,11 @@
           longitude: 97.91458
     -
       name: "Magway"
+      native: "ဆောင်ရွက်နိုင်"
       code: "03"
       iso3166_2: "MM-03"
       type: "region"
+      type_es: "región"
       latitude: 20.1491458
       longitude: 94.9213518
       cities:
@@ -239,9 +255,11 @@
           longitude: 94.8712
     -
       name: "Mandalay"
+      native: "မန္တလေး"
       code: "04"
       iso3166_2: "MM-04"
       type: "region"
+      type_es: "región"
       latitude: 21.9596834
       longitude: 96.0948743
       cities:
@@ -279,9 +297,11 @@
           longitude: 96.13875
     -
       name: "Mon State"
+      native: "မွန်ပြည်နယ်"
       code: "15"
       iso3166_2: "MM-15"
       type: "state"
+      type_es: "estado"
       latitude: 17.0832546
       longitude: 97.3337305
       cities:
@@ -311,9 +331,11 @@
           longitude: 97.37001
     -
       name: "Naypyidaw"
+      native: "နေပြည်တော်"
       code: "18"
       iso3166_2: "MM-18"
       type: "union territory"
+      type_es: "territorio de la unión"
       latitude: 19.7753289
       longitude: 96.1032552
       cities:
@@ -327,9 +349,11 @@
           longitude: 96.20742
     -
       name: "Rakhine"
+      native: "ရခိုင်"
       code: "16"
       iso3166_2: "MM-16"
       type: "state"
+      type_es: "estado"
       latitude: 19.5212991
       longitude: 94.0072428
       cities:
@@ -339,9 +363,11 @@
           longitude: 92.89835
     -
       name: "Sagaing"
+      native: "စစ်ကိုင်းတိုင်း"
       code: "01"
       iso3166_2: "MM-01"
       type: "region"
+      type_es: "región"
       latitude: 24.4768486
       longitude: 95.47474
       cities:
@@ -363,9 +389,11 @@
           longitude: 95.69818
     -
       name: "Shan"
+      native: "ရှမ်း"
       code: "17"
       iso3166_2: "MM-17"
       type: "state"
+      type_es: "estado"
       latitude: 21.5122404
       longitude: 98.0098362
       cities:
@@ -383,9 +411,11 @@
           longitude: 97.03776
     -
       name: "Tanintharyi"
+      native: "တနင်္သာရီ"
       code: "05"
       iso3166_2: "MM-05"
       type: "region"
+      type_es: "región"
       latitude: 12.1091546
       longitude: 98.8165256
       cities:
@@ -403,9 +433,11 @@
           longitude: 98.60028
     -
       name: "Yangon"
+      native: "ရန်ကုန်"
       code: "06"
       iso3166_2: "MM-06"
       type: "region"
+      type_es: "región"
       latitude: 16.7967129
       longitude: 96.1609916
       cities:

@@ -1,35 +1,35 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-MQ,Martinique,Americas,Caribbean,01,Fort-de-France,Fort-de-France,14.6492418,-61.1098445
-MQ,Martinique,Americas,Caribbean,01,Fort-de-France,Le Lamentin,14.6230862,-61.0334749
-MQ,Martinique,Americas,Caribbean,01,Fort-de-France,Saint-Joseph,14.683534,-61.0818662
-MQ,Martinique,Americas,Caribbean,01,Fort-de-France,Schœlcher,14.6517997,-61.1412867
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Basse-Pointe,14.8409708,-61.1648523
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Grand'Rivière,14.8469663,-61.2042764
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Gros-Morne,14.7084184,-61.1127122
-MQ,Martinique,Americas,Caribbean,02,La Trinité,L'Ajoupa-Bouillon,14.8159718,-61.1717063
-MQ,Martinique,Americas,Caribbean,02,La Trinité,La Trinité,14.7380415,-61.0292956
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Le Lorrain,14.7995256,-61.1151374
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Le Marigot,14.7795818,-61.0942458
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Le Robert,14.6744327,-61.0169272
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Macouba,14.8474386,-61.1670946
-MQ,Martinique,Americas,Caribbean,02,La Trinité,Sainte-Marie,14.7730093,-61.0495997
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Ducos,14.5785442,-61.0097386
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Le Diamant,14.4768004,-61.0597384
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Le François,14.6092885,-60.9799911
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Le Marin,14.4822169,-60.9001141
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Le Vauclin,14.542086,-60.9006006
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Les Anses-d'Arlet,14.4995478,-61.1148162
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Les Trois-Îlets,14.5328746,-61.0787769
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Rivière-Pilote,14.5026697,-60.9381921
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Rivière-Salée,14.526214,-61.0035309
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Saint-Esprit,14.5617595,-60.9645111
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Sainte-Anne,14.431422,-60.8927876
-MQ,Martinique,Americas,Caribbean,03,Le Marin,Sainte-Luce,14.4904093,-60.9879365
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Bellefontaine,14.6747476,-61.1665308
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Case-Pilote,14.6593399,-61.1502612
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Fonds-Saint-Denis,14.7227546,-61.1618919
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Le Carbet,14.7052158,-61.1944468
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Le Morne-Rouge,14.7695364,-61.1629284
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Le Morne-Vert,14.7046433,-61.1567977
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Le Prêcheur,14.8220261,-61.2374686
-MQ,Martinique,Americas,Caribbean,04,Saint-Pierre,Saint-Pierre,14.7716719,-61.2147501
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,01,Fort-de-France,district,distrito,Fort-de-France,14.6492418,-61.1098445
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,01,Fort-de-France,district,distrito,Le Lamentin,14.6230862,-61.0334749
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,01,Fort-de-France,district,distrito,Saint-Joseph,14.683534,-61.0818662
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,01,Fort-de-France,district,distrito,Schœlcher,14.6517997,-61.1412867
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Basse-Pointe,14.8409708,-61.1648523
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Grand'Rivière,14.8469663,-61.2042764
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Gros-Morne,14.7084184,-61.1127122
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,L'Ajoupa-Bouillon,14.8159718,-61.1717063
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,La Trinité,14.7380415,-61.0292956
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Le Lorrain,14.7995256,-61.1151374
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Le Marigot,14.7795818,-61.0942458
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Le Robert,14.6744327,-61.0169272
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Macouba,14.8474386,-61.1670946
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,02,La Trinité,district,distrito,Sainte-Marie,14.7730093,-61.0495997
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Ducos,14.5785442,-61.0097386
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Le Diamant,14.4768004,-61.0597384
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Le François,14.6092885,-60.9799911
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Le Marin,14.4822169,-60.9001141
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Le Vauclin,14.542086,-60.9006006
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Les Anses-d'Arlet,14.4995478,-61.1148162
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Les Trois-Îlets,14.5328746,-61.0787769
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Rivière-Pilote,14.5026697,-60.9381921
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Rivière-Salée,14.526214,-61.0035309
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Saint-Esprit,14.5617595,-60.9645111
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Sainte-Anne,14.431422,-60.8927876
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,03,Le Marin,district,distrito,Sainte-Luce,14.4904093,-60.9879365
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Bellefontaine,14.6747476,-61.1665308
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Case-Pilote,14.6593399,-61.1502612
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Fonds-Saint-Denis,14.7227546,-61.1618919
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Le Carbet,14.7052158,-61.1944468
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Le Morne-Rouge,14.7695364,-61.1629284
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Le Morne-Vert,14.7046433,-61.1567977
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Le Prêcheur,14.8220261,-61.2374686
+MQ,Martinique,Martinica,Americas,América,Caribbean,Caribe,04,Saint-Pierre,district,distrito,Saint-Pierre,14.7716719,-61.2147501

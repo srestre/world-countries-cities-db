@@ -1,10 +1,10 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BH,Bahrain,Asia,Western Asia,13,Capital,Jidd Ḩafş,26.21861,50.54778
-BH,Bahrain,Asia,Western Asia,13,Capital,Manama,26.22787,50.58565
-BH,Bahrain,Asia,Western Asia,13,Capital,Sitrah,26.15472,50.62056
-BH,Bahrain,Asia,Western Asia,15,Muharraq,Al Ḩadd,26.24556,50.65417
-BH,Bahrain,Asia,Western Asia,15,Muharraq,Al Muharraq,26.25722,50.61194
-BH,Bahrain,Asia,Western Asia,17,Northern,Madīnat Ḩamad,26.11528,50.50694
-BH,Bahrain,Asia,Western Asia,14,Southern,Ar Rifā‘,26.13,50.555
-BH,Bahrain,Asia,Western Asia,14,Southern,Dār Kulayb,26.06861,50.50389
-BH,Bahrain,Asia,Western Asia,14,Southern,Madīnat ‘Īsá,26.17361,50.54778
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,13,Capital,governorate,gobernación,Jidd Ḩafş,26.21861,50.54778
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,13,Capital,governorate,gobernación,Manama,26.22787,50.58565
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,13,Capital,governorate,gobernación,Sitrah,26.15472,50.62056
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,15,Muharraq,governorate,gobernación,Al Ḩadd,26.24556,50.65417
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,15,Muharraq,governorate,gobernación,Al Muharraq,26.25722,50.61194
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,17,Northern,governorate,gobernación,Madīnat Ḩamad,26.11528,50.50694
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,14,Southern,governorate,gobernación,Ar Rifā‘,26.13,50.555
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,14,Southern,governorate,gobernación,Dār Kulayb,26.06861,50.50389
+BH,Bahrain,Bahrein,Asia,Asia,Western Asia,Asia Occidental,14,Southern,governorate,gobernación,Madīnat ‘Īsá,26.17361,50.54778

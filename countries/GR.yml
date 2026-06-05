@@ -12,25 +12,31 @@
   currency_symbol: "€"
   tld: ".gr"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 39
   longitude: 22
   emoji: "🇬🇷"
   states:
     -
       name: "Achaea"
+      native: "Αχαΐα"
       code: "13"
       iso3166_2: "GR-13"
       type: "regional unit"
+      type_es: "unidad regional"
       latitude: 38.0692748
       longitude: 21.8727304
       cities:
         []
     -
       name: "Attica"
+      native: "Αττική"
       code: "I"
       iso3166_2: "GR-I"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 37.7561803
       longitude: 23.6669006
       cities:
@@ -596,9 +602,11 @@
           longitude: 23.76911
     -
       name: "Central Greece"
+      native: "Κεντρική Ελλάδα"
       code: "H"
       iso3166_2: "GR-H"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 38.5624595
       longitude: 23.1618528
       cities:
@@ -1084,9 +1092,11 @@
           longitude: 22.9406918
     -
       name: "Central Macedonia"
+      native: "Κεντρική Μακεδονία"
       code: "B"
       iso3166_2: "GR-B"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 40.6186482
       longitude: 22.9179536
       cities:
@@ -2096,9 +2106,11 @@
           longitude: 24.1576616
     -
       name: "Crete"
+      native: "Κρήτη"
       code: "M"
       iso3166_2: "GR-M"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 35.2800826
       longitude: 24.638844
       cities:
@@ -2388,9 +2400,11 @@
           longitude: 24.82944
     -
       name: "East Attica"
+      native: "Ανατολική Αττική"
       code: "A2"
       iso3166_2: "GR-A2"
       type: "regional unit"
+      type_es: "unidad regional"
       latitude: 37.9715827
       longitude: 23.9767854
       cities:
@@ -2760,9 +2774,11 @@
           longitude: 24.38132
     -
       name: "East Macedonia and Thrace"
+      native: "Ανατολική Μακεδονία και Θράκη"
       code: "A"
       iso3166_2: "GR-A"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 40.8533759
       longitude: 25.8030499
       cities:
@@ -2852,9 +2868,11 @@
           longitude: 24.5132893
     -
       name: "Epirus"
+      native: "Ήπειρος"
       code: "D"
       iso3166_2: "GR-D"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 39.6501917
       longitude: 20.6908456
       cities:
@@ -3052,9 +3070,11 @@
           longitude: 20.78597
     -
       name: "Ionian Islands"
+      native: "Επτάνησα"
       code: "F"
       iso3166_2: "GR-F"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 37.7891384
       longitude: 20.7900896
       cities:
@@ -3180,18 +3200,22 @@
           longitude: 20.89555
     -
       name: "North Aegean"
+      native: "Βόρειο Αιγαίο"
       code: "K"
       iso3166_2: "GR-K"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 38.7645361
       longitude: 24.7011328
       cities:
         []
     -
       name: "Peloponnese"
+      native: "Πελοπόννησος"
       code: "J"
       iso3166_2: "GR-J"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 37.363372
       longitude: 22.2394984
       cities:
@@ -3545,9 +3569,11 @@
           longitude: 22.8
     -
       name: "South Aegean"
+      native: "Νότιο Αιγαίο"
       code: "L"
       iso3166_2: "GR-L"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 37.1501031
       longitude: 25.4550768
       cities:
@@ -3769,9 +3795,11 @@
           longitude: 27.20532
     -
       name: "Thessaly"
+      native: "Θεσσαλία"
       code: "E"
       iso3166_2: "GR-E"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 39.5775845
       longitude: 21.4078368
       cities:
@@ -4025,9 +4053,11 @@
           longitude: 22.12336
     -
       name: "West Greece"
+      native: "Δυτική Ελλάδα"
       code: "G"
       iso3166_2: "GR-G"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 38.2529473
       longitude: 21.7117625
       cities:
@@ -4393,9 +4423,11 @@
           longitude: 21.65
     -
       name: "West Macedonia"
+      native: "Δυτική Μακεδονία"
       code: "C"
       iso3166_2: "GR-C"
       type: "administrative region"
+      type_es: "región administrativa"
       latitude: 40.3870919
       longitude: 21.4412445
       cities:

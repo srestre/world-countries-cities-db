@@ -12,16 +12,20 @@
   currency_symbol: "Lek"
   tld: ".al"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 41
   longitude: 20
   emoji: "🇦🇱"
   states:
     -
       name: "Berat"
+      native: "I rëndë"
       code: "01"
       iso3166_2: "AL-01"
       type: "county"
+      type_es: "condado"
       latitude: 40.7018636
       longitude: 19.9580758
       cities:
@@ -83,9 +87,11 @@
           longitude: 19.87778
     -
       name: "Dibër"
+      native: "Dibër"
       code: "09"
       iso3166_2: "AL-09"
       type: "county"
+      type_es: "condado"
       latitude: 41.622192
       longitude: 20.180816
       cities:
@@ -143,9 +149,11 @@
           longitude: 19.89333
     -
       name: "Durrës"
+      native: "Durrës"
       code: "02"
       iso3166_2: "AL-02"
       type: "county"
+      type_es: "condado"
       latitude: 41.4279863
       longitude: 19.5373372
       cities:
@@ -191,9 +199,11 @@
           longitude: 19.53778
     -
       name: "Elbasan"
+      native: "Elbasan"
       code: "03"
       iso3166_2: "AL-03"
       type: "county"
+      type_es: "condado"
       latitude: 41.0510829
       longitude: 20.1398526
       cities:
@@ -211,9 +221,11 @@
           longitude: 19.7405004
     -
       name: "Fier"
+      native: "Hekuros"
       code: "04"
       iso3166_2: "AL-04"
       type: "county"
+      type_es: "condado"
       latitude: 40.9191392
       longitude: 19.6639309
       cities:
@@ -275,9 +287,11 @@
           longitude: 19.78333
     -
       name: "Gjirokastër"
+      native: "Gjirokastër"
       code: "05"
       iso3166_2: "AL-05"
       type: "county"
+      type_es: "condado"
       latitude: 40.0770871
       longitude: 20.1393359
       cities:
@@ -339,9 +353,11 @@
           longitude: 20.01917
     -
       name: "Korçë"
+      native: "Korçë"
       code: "06"
       iso3166_2: "AL-06"
       type: "county"
+      type_es: "condado"
       latitude: 40.5858753
       longitude: 20.7361315
       cities:
@@ -419,9 +435,11 @@
           longitude: 20.58889
     -
       name: "Kukës"
+      native: "Kukës"
       code: "07"
       iso3166_2: "AL-07"
       type: "county"
+      type_es: "condado"
       latitude: 42.1885664
       longitude: 20.3769633
       cities:
@@ -451,9 +469,11 @@
           longitude: 19.7453929
     -
       name: "Lezhë"
+      native: "Lezhë"
       code: "08"
       iso3166_2: "AL-08"
       type: "county"
+      type_es: "condado"
       latitude: 41.7813759
       longitude: 19.8067916
       cities:
@@ -515,9 +535,11 @@
           longitude: 19.59389
     -
       name: "Shkodër"
+      native: "Shkodër"
       code: "10"
       iso3166_2: "AL-10"
       type: "county"
+      type_es: "condado"
       latitude: 42.2507677
       longitude: 19.5959723
       cities:
@@ -571,9 +593,11 @@
           longitude: 19.54778
     -
       name: "Tirana"
+      native: "Tiranë"
       code: "11"
       iso3166_2: "AL-11"
       type: "county"
+      type_es: "condado"
       latitude: 41.2584478
       longitude: 19.8302656
       cities:
@@ -623,9 +647,11 @@
           longitude: 19.655
     -
       name: "Vlorë"
+      native: "Vlorë"
       code: "12"
       iso3166_2: "AL-12"
       type: "county"
+      type_es: "condado"
       latitude: 40.150096
       longitude: 19.8067916
       cities:

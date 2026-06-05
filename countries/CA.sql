@@ -1,34 +1,34 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(39, 'Canada', 'CA', 'CAN', 'Americas', 'Northern America', 'Ottawa', 'CAD', 60, -95, '🇨🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(39, 'Canada', 'Canadá', 'CA', 'CAN', 'Americas', 'América', 'Northern America', 'Norteamérica', 'Ottawa', 'CAD', 60, -95, '🇨🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(872, 'Alberta', 39, 'CA', 'AB', 'province', 55.001251, -115.002136),
-(875, 'British Columbia', 39, 'CA', 'BC', 'province', 55.001251, -125.002441),
-(867, 'Manitoba', 39, 'CA', 'MB', 'province', 55.001251, -97.001038),
-(868, 'New Brunswick', 39, 'CA', 'NB', 'province', 46.500283, -66.750183),
-(877, 'Newfoundland and Labrador', 39, 'CA', 'NL', 'province', 53.8217327, -61.2295532),
-(878, 'Northwest Territories', 39, 'CA', 'NT', 'territory', 65.0000004, -118),
-(874, 'Nova Scotia', 39, 'CA', 'NS', 'province', 45.1960403, -63.1653789),
-(876, 'Nunavut', 39, 'CA', 'NU', 'territory', 65.0377727, -92.5540791),
-(866, 'Ontario', 39, 'CA', 'ON', 'province', 50.000678, -86.000977),
-(871, 'Prince Edward Island', 39, 'CA', 'PE', 'province', 46.5036807, -63.595411),
-(873, 'Quebec', 39, 'CA', 'QC', 'province', 52.4760892, -71.8258668),
-(870, 'Saskatchewan', 39, 'CA', 'SK', 'province', 55.5321257, -106.141224),
-(869, 'Yukon', 39, 'CA', 'YT', 'territory', 63.000147, -136.002502);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(872, 'Alberta', 'Alberta', 39, 'CA', 'AB', 'province', 'provincia', 55.001251, -115.002136),
+(875, 'British Columbia', 'British Columbia', 39, 'CA', 'BC', 'province', 'provincia', 55.001251, -125.002441),
+(867, 'Manitoba', 'Manitoba', 39, 'CA', 'MB', 'province', 'provincia', 55.001251, -97.001038),
+(868, 'New Brunswick', 'New Brunswick', 39, 'CA', 'NB', 'province', 'provincia', 46.500283, -66.750183),
+(877, 'Newfoundland and Labrador', 'Newfoundland and Labrador', 39, 'CA', 'NL', 'province', 'provincia', 53.8217327, -61.2295532),
+(878, 'Northwest Territories', 'Northwest Territories', 39, 'CA', 'NT', 'territory', 'territorio', 65.0000004, -118),
+(874, 'Nova Scotia', 'New Scotia', 39, 'CA', 'NS', 'province', 'provincia', 45.1960403, -63.1653789),
+(876, 'Nunavut', 'Nunavut', 39, 'CA', 'NU', 'territory', 'territorio', 65.0377727, -92.5540791),
+(866, 'Ontario', 'Ontario', 39, 'CA', 'ON', 'province', 'provincia', 50.000678, -86.000977),
+(871, 'Prince Edward Island', 'Prince Edward Island', 39, 'CA', 'PE', 'province', 'provincia', 46.5036807, -63.595411),
+(873, 'Quebec', 'Quebec', 39, 'CA', 'QC', 'province', 'provincia', 52.4760892, -71.8258668),
+(870, 'Saskatchewan', 'Saskatchewan', 39, 'CA', 'SK', 'province', 'provincia', 55.5321257, -106.141224),
+(869, 'Yukon', 'Yukon', 39, 'CA', 'YT', 'territory', 'territorio', 63.000147, -136.002502);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (16151, 'Airdrie', 872, 39, 51.30011, -114.03528),

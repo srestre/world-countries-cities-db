@@ -1,28 +1,28 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-TT,Trinidad and Tobago,Americas,Caribbean,ARI,Arima,Arima,10.63737,-61.28228
-TT,Trinidad and Tobago,Americas,Caribbean,CHA,Chaguanas,Chaguanas,10.51667,-61.41667
-TT,Trinidad and Tobago,Americas,Caribbean,CHA,Chaguanas,Ward of Chaguanas,10.5,-61.38333
-TT,Trinidad and Tobago,Americas,Caribbean,CTT,Couva-Tabaquite-Talparo,Couva,10.42248,-61.46748
-TT,Trinidad and Tobago,Americas,Caribbean,CTT,Couva-Tabaquite-Talparo,Tabaquite,10.38824,-61.29704
-TT,Trinidad and Tobago,Americas,Caribbean,DMN,Diego Martin,Petit Valley,10.69974,-61.54717
-TT,Trinidad and Tobago,Americas,Caribbean,DMN,Diego Martin,Ward of Diego Martin,10.7,-61.58333
-TT,Trinidad and Tobago,Americas,Caribbean,ETO,Eastern Tobago,,,
-TT,Trinidad and Tobago,Americas,Caribbean,PED,Penal-Debe,Debe,10.20846,-61.45273
-TT,Trinidad and Tobago,Americas,Caribbean,PED,Penal-Debe,Peñal,10.16667,-61.46667
-TT,Trinidad and Tobago,Americas,Caribbean,PTF,Point Fortin,Point Fortin,10.17411,-61.68407
-TT,Trinidad and Tobago,Americas,Caribbean,POS,Port of Spain,Mucurapo,10.66253,-61.53697
-TT,Trinidad and Tobago,Americas,Caribbean,POS,Port of Spain,Port of Spain,10.66668,-61.51889
-TT,Trinidad and Tobago,Americas,Caribbean,PRT,Princes Town,Princes Town,10.27184,-61.37103
-TT,Trinidad and Tobago,Americas,Caribbean,MRC,Rio Claro-Mayaro,Rio Claro,10.30594,-61.17556
-TT,Trinidad and Tobago,Americas,Caribbean,SFO,San Fernando,Marabella,10.30618,-61.44671
-TT,Trinidad and Tobago,Americas,Caribbean,SFO,San Fernando,Mon Repos,10.27979,-61.4459
-TT,Trinidad and Tobago,Americas,Caribbean,SFO,San Fernando,San Fernando,10.27969,-61.46835
-TT,Trinidad and Tobago,Americas,Caribbean,SJL,San Juan-Laventille,Laventille,10.64917,-61.49889
-TT,Trinidad and Tobago,Americas,Caribbean,SGE,Sangre Grande,Sangre Grande,10.58705,-61.13008
-TT,Trinidad and Tobago,Americas,Caribbean,SIP,Siparia,Siparia,10.14525,-61.5074
-TT,Trinidad and Tobago,Americas,Caribbean,SIP,Siparia,Ward of Siparia,10.15,-61.46667
-TT,Trinidad and Tobago,Americas,Caribbean,TOB,Tobago,Scarborough,11.18229,-60.73525
-TT,Trinidad and Tobago,Americas,Caribbean,TUP,Tunapuna-Piarco,Arouca,10.62877,-61.33487
-TT,Trinidad and Tobago,Americas,Caribbean,TUP,Tunapuna-Piarco,Paradise,10.65298,-61.36298
-TT,Trinidad and Tobago,Americas,Caribbean,TUP,Tunapuna-Piarco,Tunapuna,10.65245,-61.38878
-TT,Trinidad and Tobago,Americas,Caribbean,WTO,Western Tobago,,,
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,ARI,Arima,borough,distrito,Arima,10.63737,-61.28228
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,CHA,Chaguanas,borough,distrito,Chaguanas,10.51667,-61.41667
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,CHA,Chaguanas,borough,distrito,Ward of Chaguanas,10.5,-61.38333
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,CTT,Couva-Tabaquite-Talparo,region,región,Couva,10.42248,-61.46748
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,CTT,Couva-Tabaquite-Talparo,region,región,Tabaquite,10.38824,-61.29704
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,DMN,Diego Martin,region,región,Petit Valley,10.69974,-61.54717
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,DMN,Diego Martin,region,región,Ward of Diego Martin,10.7,-61.58333
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,ETO,Eastern Tobago,region,región,,,
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,PED,Penal-Debe,region,región,Debe,10.20846,-61.45273
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,PED,Penal-Debe,region,región,Peñal,10.16667,-61.46667
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,PTF,Point Fortin,borough,distrito,Point Fortin,10.17411,-61.68407
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,POS,Port of Spain,city,ciudad,Mucurapo,10.66253,-61.53697
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,POS,Port of Spain,city,ciudad,Port of Spain,10.66668,-61.51889
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,PRT,Princes Town,region,región,Princes Town,10.27184,-61.37103
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,MRC,Rio Claro-Mayaro,region,región,Rio Claro,10.30594,-61.17556
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,SFO,San Fernando,region,región,Marabella,10.30618,-61.44671
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,SFO,San Fernando,region,región,Mon Repos,10.27979,-61.4459
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,SFO,San Fernando,region,región,San Fernando,10.27969,-61.46835
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,SJL,San Juan-Laventille,region,región,Laventille,10.64917,-61.49889
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,SGE,Sangre Grande,region,región,Sangre Grande,10.58705,-61.13008
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,SIP,Siparia,region,región,Siparia,10.14525,-61.5074
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,SIP,Siparia,region,región,Ward of Siparia,10.15,-61.46667
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,TOB,Tobago,ward,distrito,Scarborough,11.18229,-60.73525
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,TUP,Tunapuna-Piarco,region,región,Arouca,10.62877,-61.33487
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,TUP,Tunapuna-Piarco,region,región,Paradise,10.65298,-61.36298
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,TUP,Tunapuna-Piarco,region,región,Tunapuna,10.65245,-61.38878
+TT,Trinidad and Tobago,Trinidad y Tobago,Americas,América,Caribbean,Caribe,WTO,Western Tobago,region,región,,,

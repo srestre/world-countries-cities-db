@@ -1,38 +1,38 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(116, 'South Korea', 'KR', 'KOR', 'Asia', 'Eastern Asia', 'Seoul', 'KRW', 37, 127.5, '🇰🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(116, 'South Korea', 'Corea del Sur', 'KR', 'KOR', 'Asia', 'Asia', 'Eastern Asia', 'Asia Oriental', 'Seoul', 'KRW', 37, 127.5, '🇰🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3860, 'Busan', 116, 'KR', '26', 'metropolitan city', 35.1795543, 129.0756416),
-(3846, 'Daegu', 116, 'KR', '27', 'metropolitan city', 35.8714354, 128.601445),
-(3850, 'Daejeon', 116, 'KR', '30', 'metropolitan city', 36.3504119, 127.3845475),
-(3862, 'Gangwon', 116, 'KR', '42', 'special self-governing province', 37.885, 127.7297),
-(3858, 'Gwangju', 116, 'KR', '29', 'metropolitan city', 35.1595454, 126.8526012),
-(3847, 'Gyeonggi', 116, 'KR', '41', 'province', 37.2884675, 127.0535231),
-(3848, 'Incheon', 116, 'KR', '28', 'metropolitan city', 37.4562557, 126.7052062),
-(3853, 'Jeju', 116, 'KR', '49', 'special self-governing province', 33.4998289, 126.5313902),
-(3854, 'North Chungcheong', 116, 'KR', '43', 'province', 36.6357, 127.4915),
-(3855, 'North Gyeongsang', 116, 'KR', '47', 'province', 36.5754, 128.5058),
-(3851, 'North Jeolla', 116, 'KR', '45', 'province', 35.8198999, 127.109),
-(3861, 'Sejong City', 116, 'KR', '50', 'special self-governing city', 36.4799999, 127.289),
-(3849, 'Seoul', 116, 'KR', '11', 'special city', 37.566535, 126.9779692),
-(3859, 'South Chungcheong', 116, 'KR', '44', 'province', 36.6593, 126.6729),
-(3857, 'South Gyeongsang', 116, 'KR', '48', 'province', 35.2382, 128.6925),
-(3856, 'South Jeolla', 116, 'KR', '46', 'province', 34.8159, 126.4629),
-(3852, 'Ulsan', 116, 'KR', '31', 'metropolitan city', 35.5383773, 129.3113596);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3860, 'Busan', '부산', 116, 'KR', '26', 'metropolitan city', 'ciudad metropolitana', 35.1795543, 129.0756416),
+(3846, 'Daegu', '대구', 116, 'KR', '27', 'metropolitan city', 'ciudad metropolitana', 35.8714354, 128.601445),
+(3850, 'Daejeon', '대전', 116, 'KR', '30', 'metropolitan city', 'ciudad metropolitana', 36.3504119, 127.3845475),
+(3862, 'Gangwon', '강원도', 116, 'KR', '42', 'special self-governing province', 'provincia autónoma especial', 37.885, 127.7297),
+(3858, 'Gwangju', '광주', 116, 'KR', '29', 'metropolitan city', 'ciudad metropolitana', 35.1595454, 126.8526012),
+(3847, 'Gyeonggi', '경기도', 116, 'KR', '41', 'province', 'provincia', 37.2884675, 127.0535231),
+(3848, 'Incheon', '인천', 116, 'KR', '28', 'metropolitan city', 'ciudad metropolitana', 37.4562557, 126.7052062),
+(3853, 'Jeju', '제주', 116, 'KR', '49', 'special self-governing province', 'provincia autónoma especial', 33.4998289, 126.5313902),
+(3854, 'North Chungcheong', '충청북도', 116, 'KR', '43', 'province', 'provincia', 36.6357, 127.4915),
+(3855, 'North Gyeongsang', '경상북도', 116, 'KR', '47', 'province', 'provincia', 36.5754, 128.5058),
+(3851, 'North Jeolla', '전라북도', 116, 'KR', '45', 'province', 'provincia', 35.8198999, 127.109),
+(3861, 'Sejong City', '세종시', 116, 'KR', '50', 'special self-governing city', 'ciudad autónoma especial', 36.4799999, 127.289),
+(3849, 'Seoul', '서울', 116, 'KR', '11', 'special city', 'ciudad especial', 37.566535, 126.9779692),
+(3859, 'South Chungcheong', '충청남도', 116, 'KR', '44', 'province', 'provincia', 36.6593, 126.6729),
+(3857, 'South Gyeongsang', '경상남도', 116, 'KR', '48', 'province', 'provincia', 35.2382, 128.6925),
+(3856, 'South Jeolla', '전라남도', 116, 'KR', '46', 'province', 'provincia', 34.8159, 126.4629),
+(3852, 'Ulsan', '울산', 116, 'KR', '31', 'metropolitan city', 'ciudad metropolitana', 35.5383773, 129.3113596);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65276, 'Buk-gu', 3860, 116, 35.19724, 128.99134),

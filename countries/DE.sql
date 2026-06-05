@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(82, 'Germany', 'DE', 'DEU', 'Europe', 'Western Europe', 'Berlin', 'EUR', 51, 9, '🇩🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(82, 'Germany', 'Alemania', 'DE', 'DEU', 'Europe', 'Europa', 'Western Europe', 'Europa Occidental', 'Berlin', 'EUR', 51, 9, '🇩🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3006, 'Baden-Württemberg', 82, 'DE', 'BW', 'land', 48.53775, 9.041169),
-(3009, 'Bavaria', 82, 'DE', 'BY', 'land', 48.9467562, 11.4038717),
-(3010, 'Berlin', 82, 'DE', 'BE', 'land', 52.510885, 13.3989367),
-(3013, 'Brandenburg', 82, 'DE', 'BB', 'land', 52.8455492, 13.2461296),
-(3014, 'Bremen', 82, 'DE', 'HB', 'land', 53.0792962, 8.8016936),
-(3016, 'Hamburg', 82, 'DE', 'HH', 'land', 53.5510846, 9.9936819),
-(3018, 'Hessen', 82, 'DE', 'HE', 'land', 50.6080651, 9.0284647),
-(3008, 'Lower Saxony', 82, 'DE', 'NI', 'land', 52.8398531, 9.075962),
-(3007, 'Mecklenburg-Vorpommern', 82, 'DE', 'MV', 'land', 53.7735064, 12.5755471),
-(3017, 'North Rhine-Westphalia', 82, 'DE', 'NW', 'land', 51.4789205, 7.5543751),
-(3019, 'Rhineland-Palatinate', 82, 'DE', 'RP', 'land', 49.9531599, 7.310646),
-(3020, 'Saarland', 82, 'DE', 'SL', 'land', 49.3841872, 6.9537369),
-(3021, 'Saxony', 82, 'DE', 'SN', 'land', 50.9295798, 13.4585052),
-(3011, 'Saxony-Anhalt', 82, 'DE', 'ST', 'land', 51.9280976, 11.6812243),
-(3005, 'Schleswig-Holstein', 82, 'DE', 'SH', 'land', 54.1853998, 9.8220089),
-(3015, 'Thuringia', 82, 'DE', 'TH', 'land', 50.9014721, 11.0377839);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3006, 'Baden-Württemberg', 'Baden-Württemberg', 82, 'DE', 'BW', 'land', 'estado federado', 48.53775, 9.041169),
+(3009, 'Bavaria', 'Bayern', 82, 'DE', 'BY', 'land', 'estado federado', 48.9467562, 11.4038717),
+(3010, 'Berlin', 'Berlin', 82, 'DE', 'BE', 'land', 'estado federado', 52.510885, 13.3989367),
+(3013, 'Brandenburg', 'Brandenburg', 82, 'DE', 'BB', 'land', 'estado federado', 52.8455492, 13.2461296),
+(3014, 'Bremen', 'Bremen', 82, 'DE', 'HB', 'land', 'estado federado', 53.0792962, 8.8016936),
+(3016, 'Hamburg', 'Hamburg', 82, 'DE', 'HH', 'land', 'estado federado', 53.5510846, 9.9936819),
+(3018, 'Hessen', 'Hessen', 82, 'DE', 'HE', 'land', 'estado federado', 50.6080651, 9.0284647),
+(3008, 'Lower Saxony', 'Niedersachsen', 82, 'DE', 'NI', 'land', 'estado federado', 52.8398531, 9.075962),
+(3007, 'Mecklenburg-Vorpommern', 'Mecklenburg-Vorpommern', 82, 'DE', 'MV', 'land', 'estado federado', 53.7735064, 12.5755471),
+(3017, 'North Rhine-Westphalia', 'Nordrhein-Westfalen', 82, 'DE', 'NW', 'land', 'estado federado', 51.4789205, 7.5543751),
+(3019, 'Rhineland-Palatinate', 'Rheinland-Pfalz', 82, 'DE', 'RP', 'land', 'estado federado', 49.9531599, 7.310646),
+(3020, 'Saarland', 'Saarland', 82, 'DE', 'SL', 'land', 'estado federado', 49.3841872, 6.9537369),
+(3021, 'Saxony', 'Sachsen', 82, 'DE', 'SN', 'land', 'estado federado', 50.9295798, 13.4585052),
+(3011, 'Saxony-Anhalt', 'Sachsen-Anhalt', 82, 'DE', 'ST', 'land', 'estado federado', 51.9280976, 11.6812243),
+(3005, 'Schleswig-Holstein', 'Schleswig-Holstein', 82, 'DE', 'SH', 'land', 'estado federado', 54.1853998, 9.8220089),
+(3015, 'Thuringia', 'Thüringen', 82, 'DE', 'TH', 'land', 'estado federado', 50.9014721, 11.0377839);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (23461, 'Aach', 3006, 82, 47.8424, 8.85384),

@@ -1,27 +1,27 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(117, 'Kuwait', 'KW', 'KWT', 'Asia', 'Western Asia', 'Kuwait City', 'KWD', 29.5, 45.75, '🇰🇼');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(117, 'Kuwait', 'Kuwait', 'KW', 'KWT', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Kuwait City', 'KWD', 29.5, 45.75, '🇰🇼');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(977, 'Al Ahmadi', 117, 'KW', 'AH', 'governorate', 28.8538571, 48.1652377),
-(976, 'Al Asimah', 117, 'KW', 'KU', 'governorate', 29.0926128, 48.513355),
-(975, 'Al Farwaniyah', 117, 'KW', 'FA', 'governorate', 29.2482539, 47.9136755),
-(972, 'Al Jahra', 117, 'KW', 'JA', 'governorate', 29.3474636, 47.6722054),
-(973, 'Hawalli', 117, 'KW', 'HA', 'governorate', 29.3236609, 48.1153148),
-(974, 'Mubarak Al-Kabeer', 117, 'KW', 'MU', 'governorate', 29.1870956, 48.0827589);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(977, 'Al Ahmadi', 'الأحمدي', 117, 'KW', 'AH', 'governorate', 'gobernación', 28.8538571, 48.1652377),
+(976, 'Al Asimah', 'العاصمة', 117, 'KW', 'KU', 'governorate', 'gobernación', 29.0926128, 48.513355),
+(975, 'Al Farwaniyah', 'الفروانية', 117, 'KW', 'FA', 'governorate', 'gobernación', 29.2482539, 47.9136755),
+(972, 'Al Jahra', 'الجهراء', 117, 'KW', 'JA', 'governorate', 'gobernación', 29.3474636, 47.6722054),
+(973, 'Hawalli', 'حولي', 117, 'KW', 'HA', 'governorate', 'gobernación', 29.3236609, 48.1153148),
+(974, 'Mubarak Al-Kabeer', 'مبارك الكبير', 117, 'KW', 'MU', 'governorate', 'gobernación', 29.1870956, 48.0827589);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (65572, 'Al Aḩmadī', 977, 117, 29.07694, 48.08389),

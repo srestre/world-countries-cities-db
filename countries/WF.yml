@@ -12,16 +12,20 @@
   currency_symbol: "₣"
   tld: ".wf"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   latitude: -13.3
   longitude: -176.2
   emoji: "🇼🇫"
   states:
     -
       name: "Alo"
+      native: "Alo"
       code: "AL"
       iso3166_2: "WF-AL"
       type: "administrative precinct"
+      type_es: "distrito administrativo"
       latitude: -14.30938056
       longitude: -178.12355
       cities:
@@ -31,9 +35,11 @@
           longitude: -178.105
     -
       name: "Sigave"
+      native: "Sigavé"
       code: "SG"
       iso3166_2: "WF-SG"
       type: "administrative precinct"
+      type_es: "distrito administrativo"
       latitude: -14.2961
       longitude: -178.1585
       cities:
@@ -43,9 +49,11 @@
           longitude: -178.1585
     -
       name: "Uvea"
+      native: "ʻUvea"
       code: "UV"
       iso3166_2: "WF-UV"
       type: "administrative precinct"
+      type_es: "distrito administrativo"
       latitude: -13.28333333
       longitude: -176.2
       cities:

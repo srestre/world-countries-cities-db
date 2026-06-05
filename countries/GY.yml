@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".gy"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: 5
   longitude: -59
   emoji: "🇬🇾"
   states:
     -
       name: "Barima-Waini"
+      native: "Barima-Waini"
       code: "BA"
       iso3166_2: "GY-BA"
       type: "region"
+      type_es: "región"
       latitude: 7.7559147
       longitude: -59.7179022
       cities:
@@ -31,9 +35,11 @@
           longitude: -59.78333
     -
       name: "Cuyuni-Mazaruni"
+      native: "The Cunyi-Pieces"
       code: "CU"
       iso3166_2: "GY-CU"
       type: "region"
+      type_es: "región"
       latitude: 6.188854
       longitude: -59.849737
       cities:
@@ -43,9 +49,11 @@
           longitude: -58.62192
     -
       name: "Demerara-Mahaica"
+      native: "Demerara-Mahaica"
       code: "DE"
       iso3166_2: "GY-DE"
       type: "region"
+      type_es: "región"
       latitude: 6.4547883
       longitude: -58.1280676
       cities:
@@ -59,9 +67,11 @@
           longitude: -57.92181
     -
       name: "East Berbice-Corentyne"
+      native: "East Berbice-Corentyne"
       code: "EB"
       iso3166_2: "GY-EB"
       type: "region"
+      type_es: "región"
       latitude: 3.8972611
       longitude: -58.1383925
       cities:
@@ -75,9 +85,11 @@
           longitude: -57.13333
     -
       name: "Essequibo Islands-West Demerara"
+      native: "Overcome Islands-West Demerara"
       code: "ES"
       iso3166_2: "GY-ES"
       type: "region"
+      type_es: "región"
       latitude: 6.8777848
       longitude: -58.3114218
       cities:
@@ -91,9 +103,11 @@
           longitude: -58.19798
     -
       name: "Mahaica-Berbice"
+      native: "Mahaica-Berbice"
       code: "MA"
       iso3166_2: "GY-MA"
       type: "region"
+      type_es: "región"
       latitude: 6.2766898
       longitude: -57.82391
       cities:
@@ -107,9 +121,11 @@
           longitude: -57.53697
     -
       name: "Pomeroon-Supenaam"
+      native: "Pomerone superconame"
       code: "PM"
       iso3166_2: "GY-PM"
       type: "region"
+      type_es: "región"
       latitude: 7.2049548
       longitude: -58.8295641
       cities:
@@ -119,9 +135,11 @@
           longitude: -58.50769
     -
       name: "Potaro-Siparuni"
+      native: "Potaro-saiparuni"
       code: "PT"
       iso3166_2: "GY-PT"
       type: "region"
+      type_es: "región"
       latitude: 4.8622287
       longitude: -59.4193612
       cities:
@@ -131,9 +149,11 @@
           longitude: -59.15
     -
       name: "Upper Demerara-Berbice"
+      native: "Upper Demerara-Berbice"
       code: "UD"
       iso3166_2: "GY-UD"
       type: "region"
+      type_es: "región"
       latitude: 5.5612677
       longitude: -58.154152
       cities:
@@ -143,9 +163,11 @@
           longitude: -58.30714
     -
       name: "Upper Takutu-Upper Essequibo"
+      native: "Upper Takutu-Upper Essequibo"
       code: "UT"
       iso3166_2: "GY-UT"
       type: "region"
+      type_es: "región"
       latitude: 2.8449628
       longitude: -58.9784823
       cities:

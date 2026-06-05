@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(66, 'El Salvador', 'SV', 'SLV', 'Americas', 'Central America', 'San Salvador', 'USD', 13.83333333, -88.91666666, '🇸🇻');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(66, 'El Salvador', 'El Salvador', 'SV', 'SLV', 'Americas', 'América', 'Central America', 'Centroamérica', 'San Salvador', 'USD', 13.83333333, -88.91666666, '🇸🇻');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4139, 'Ahuachapán', 66, 'SV', 'AH', 'department', 13.8634993, -89.9273861),
-(4132, 'Cabañas', 66, 'SV', 'CA', 'department', 13.8832914, -88.7383096),
-(4131, 'Chalatenango', 66, 'SV', 'CH', 'department', 14.1765311, -89.0932963),
-(4137, 'Cuscatlán', 66, 'SV', 'CU', 'department', 13.8586903, -89.0632592),
-(4134, 'La Libertad', 66, 'SV', 'LI', 'department', 13.7449622, -89.3610819),
-(4136, 'La Paz', 66, 'SV', 'PA', 'department', 13.4669766, -88.9850622),
-(4138, 'La Unión ', 66, 'SV', 'UN', 'department', 13.5326318, -87.902582),
-(4130, 'Morazán', 66, 'SV', 'MO', 'department', 13.7726176, -88.0951973),
-(4135, 'San Miguel', 66, 'SV', 'SM', 'department', 13.4320224, -88.271737),
-(4133, 'San Salvador', 66, 'SV', 'SS', 'department', 13.735588, -89.2005546),
-(4127, 'San Vicente', 66, 'SV', 'SV', 'department', 13.5274935, -88.7396986),
-(4128, 'Santa Ana', 66, 'SV', 'SA', 'department', 14.1145585, -89.5678141),
-(4140, 'Sonsonate', 66, 'SV', 'SO', 'department', 13.7115105, -89.6605842),
-(4129, 'Usulután', 66, 'SV', 'US', 'department', 13.4324702, -88.5398358);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4139, 'Ahuachapán', 'Ahuachapán', 66, 'SV', 'AH', 'department', 'departamento', 13.8634993, -89.9273861),
+(4132, 'Cabañas', 'Cabañas', 66, 'SV', 'CA', 'department', 'departamento', 13.8832914, -88.7383096),
+(4131, 'Chalatenango', 'Chalatenango', 66, 'SV', 'CH', 'department', 'departamento', 14.1765311, -89.0932963),
+(4137, 'Cuscatlán', 'Cuscatlán', 66, 'SV', 'CU', 'department', 'departamento', 13.8586903, -89.0632592),
+(4134, 'La Libertad', 'La Libertad', 66, 'SV', 'LI', 'department', 'departamento', 13.7449622, -89.3610819),
+(4136, 'La Paz', 'La Paz', 66, 'SV', 'PA', 'department', 'departamento', 13.4669766, -88.9850622),
+(4138, 'La Unión ', 'La Unión ', 66, 'SV', 'UN', 'department', 'departamento', 13.5326318, -87.902582),
+(4130, 'Morazán', 'Morazán', 66, 'SV', 'MO', 'department', 'departamento', 13.7726176, -88.0951973),
+(4135, 'San Miguel', 'San Miguel', 66, 'SV', 'SM', 'department', 'departamento', 13.4320224, -88.271737),
+(4133, 'San Salvador', 'San Salvador', 66, 'SV', 'SS', 'department', 'departamento', 13.735588, -89.2005546),
+(4127, 'San Vicente', 'San Vicente', 66, 'SV', 'SV', 'department', 'departamento', 13.5274935, -88.7396986),
+(4128, 'Santa Ana', 'Santa Ana', 66, 'SV', 'SA', 'department', 'departamento', 14.1145585, -89.5678141),
+(4140, 'Sonsonate', 'Sonsonate', 66, 'SV', 'SO', 'department', 'departamento', 13.7115105, -89.6605842),
+(4129, 'Usulután', 'Usulután', 66, 'SV', 'US', 'department', 'departamento', 13.4324702, -88.5398358);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (104842, 'Ahuachapán', 4139, 66, 13.92139, -89.845),

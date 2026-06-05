@@ -12,16 +12,20 @@
   currency_symbol: "CFA"
   tld: ".ml"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 17
   longitude: -4
   emoji: "🇲🇱"
   states:
     -
       name: "Bamako"
+      native: "Bamako"
       code: "BKO"
       iso3166_2: "ML-BKO"
       type: "district"
+      type_es: "distrito"
       latitude: 12.649319
       longitude: -8.000337
       cities:
@@ -31,9 +35,11 @@
           longitude: -8
     -
       name: "Gao"
+      native: "Gao"
       code: "7"
       iso3166_2: "ML-7"
       type: "region"
+      type_es: "región"
       latitude: 17.00244
       longitude: -0.0991154
       cities:
@@ -59,9 +65,11 @@
           longitude: 3.14111
     -
       name: "Kayes"
+      native: "Kayes"
       code: "1"
       iso3166_2: "ML-1"
       type: "region"
+      type_es: "región"
       latitude: 13.8001844
       longitude: -10.2245548
       cities:
@@ -87,9 +95,11 @@
           longitude: -10.7
     -
       name: "Kidal"
+      native: "Gauche -"
       code: "8"
       iso3166_2: "ML-8"
       type: "region"
+      type_es: "región"
       latitude: 18.4408358
       longitude: 1.4075395
       cities:
@@ -107,9 +117,11 @@
           longitude: 1.40778
     -
       name: "Koulikoro"
+      native: "Koulikoro"
       code: "2"
       iso3166_2: "ML-2"
       type: "region"
+      type_es: "región"
       latitude: 13.4820706
       longitude: -7.6096079
       cities:
@@ -135,18 +147,22 @@
           longitude: -7.55985
     -
       name: "Ménaka"
+      native: "Ménaka"
       code: "9"
       iso3166_2: "ML-9"
       type: "region"
+      type_es: "región"
       latitude: 15.9156421
       longitude: 2.396174
       cities:
         []
     -
       name: "Mopti"
+      native: "Mopti"
       code: "5"
       iso3166_2: "ML-5"
       type: "region"
+      type_es: "región"
       latitude: 14.514489
       longitude: -3.6464581
       cities:
@@ -176,9 +192,11 @@
           longitude: -4.9169
     -
       name: "Ségou"
+      native: "Ségou"
       code: "4"
       iso3166_2: "ML-4"
       type: "region"
+      type_es: "región"
       latitude: 14.0487607
       longitude: -6.0047091
       cities:
@@ -216,9 +234,11 @@
           longitude: -6.1219
     -
       name: "Sikasso"
+      native: "Sikasso"
       code: "3"
       iso3166_2: "ML-3"
       type: "region"
+      type_es: "región"
       latitude: 11.529684
       longitude: -6.8663259
       cities:
@@ -252,18 +272,22 @@
           longitude: -4.77688
     -
       name: "Taoudénit"
+      native: "Taoudénit"
       code: "10"
       iso3166_2: "ML-10"
       type: "region"
+      type_es: "región"
       latitude: 20.8582718
       longitude: -3.39819
       cities:
         []
     -
       name: "Tombouctou"
+      native: "Tombouctou"
       code: "6"
       iso3166_2: "ML-6"
       type: "region"
+      type_es: "región"
       latitude: 16.7719091
       longitude: -3.0087272
       cities:

@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(3, 'Albania', 'AL', 'ALB', 'Europe', 'Southern Europe', 'Tirana', 'ALL', 41, 20, '🇦🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(3, 'Albania', 'Albania', 'AL', 'ALB', 'Europe', 'Europa', 'Southern Europe', 'Europa del Sur', 'Tirana', 'ALL', 41, 20, '🇦🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(603, 'Berat', 3, 'AL', '01', 'county', 40.7018636, 19.9580758),
-(610, 'Dibër', 3, 'AL', '09', 'county', 41.622192, 20.180816),
-(632, 'Durrës', 3, 'AL', '02', 'county', 41.4279863, 19.5373372),
-(598, 'Elbasan', 3, 'AL', '03', 'county', 41.0510829, 20.1398526),
-(631, 'Fier', 3, 'AL', '04', 'county', 40.9191392, 19.6639309),
-(604, 'Gjirokastër', 3, 'AL', '05', 'county', 40.0770871, 20.1393359),
-(630, 'Korçë', 3, 'AL', '06', 'county', 40.5858753, 20.7361315),
-(601, 'Kukës', 3, 'AL', '07', 'county', 42.1885664, 20.3769633),
-(609, 'Lezhë', 3, 'AL', '08', 'county', 41.7813759, 19.8067916),
-(611, 'Shkodër', 3, 'AL', '10', 'county', 42.2507677, 19.5959723),
-(615, 'Tirana', 3, 'AL', '11', 'county', 41.2584478, 19.8302656),
-(634, 'Vlorë', 3, 'AL', '12', 'county', 40.150096, 19.8067916);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(603, 'Berat', 'I rëndë', 3, 'AL', '01', 'county', 'condado', 40.7018636, 19.9580758),
+(610, 'Dibër', 'Dibër', 3, 'AL', '09', 'county', 'condado', 41.622192, 20.180816),
+(632, 'Durrës', 'Durrës', 3, 'AL', '02', 'county', 'condado', 41.4279863, 19.5373372),
+(598, 'Elbasan', 'Elbasan', 3, 'AL', '03', 'county', 'condado', 41.0510829, 20.1398526),
+(631, 'Fier', 'Hekuros', 3, 'AL', '04', 'county', 'condado', 40.9191392, 19.6639309),
+(604, 'Gjirokastër', 'Gjirokastër', 3, 'AL', '05', 'county', 'condado', 40.0770871, 20.1393359),
+(630, 'Korçë', 'Korçë', 3, 'AL', '06', 'county', 'condado', 40.5858753, 20.7361315),
+(601, 'Kukës', 'Kukës', 3, 'AL', '07', 'county', 'condado', 42.1885664, 20.3769633),
+(609, 'Lezhë', 'Lezhë', 3, 'AL', '08', 'county', 'condado', 41.7813759, 19.8067916),
+(611, 'Shkodër', 'Shkodër', 3, 'AL', '10', 'county', 'condado', 42.2507677, 19.5959723),
+(615, 'Tirana', 'Tiranë', 3, 'AL', '11', 'county', 'condado', 41.2584478, 19.8302656),
+(634, 'Vlorë', 'Vlorë', 3, 'AL', '12', 'county', 'condado', 40.150096, 19.8067916);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (153, 'Banaj', 603, 3, 40.82492, 19.84074),

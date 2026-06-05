@@ -12,16 +12,20 @@
   currency_symbol: "FCFA"
   tld: ".cf"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 7
   longitude: 21
   emoji: "🇨🇫"
   states:
     -
       name: "Bamingui-Bangoran"
+      native: "Bamingui-bangoran"
       code: "BB"
       iso3166_2: "CF-BB"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 8.698547
       longitude: 20.5281149
       cities:
@@ -35,9 +39,11 @@
           longitude: 20.89108
     -
       name: "Bangui"
+      native: "Bangui"
       code: "BGF"
       iso3166_2: "CF-BGF"
       type: "commune"
+      type_es: "comuna"
       latitude: 4.3635118
       longitude: 18.5835913
       cities:
@@ -47,9 +53,11 @@
           longitude: 18.55496
     -
       name: "Basse-Kotto"
+      native: "Basse-kotto"
       code: "BK"
       iso3166_2: "CF-BK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.1283201
       longitude: 21.3883825
       cities:
@@ -67,9 +75,11 @@
           longitude: 21.17861
     -
       name: "Haut-Mbomou"
+      native: "Aujourd'hui-mbomou"
       code: "HM"
       iso3166_2: "CF-HM"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 6.3497929
       longitude: 25.6508738
       cities:
@@ -83,9 +93,11 @@
           longitude: 25.13614
     -
       name: "Haute-Kotto"
+      native: "Haute-Kotto"
       code: "HK"
       iso3166_2: "CF-HK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 7.3625645
       longitude: 22.9271411
       cities:
@@ -99,9 +111,11 @@
           longitude: 22.40075
     -
       name: "Kémo"
+      native: "note"
       code: "KG"
       iso3166_2: "CF-KG"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.9480074
       longitude: 19.2158871
       cities:
@@ -111,9 +125,11 @@
           longitude: 19.07389
     -
       name: "Lobaye"
+      native: "Siffler"
       code: "LB"
       iso3166_2: "CF-LB"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 4.1034548
       longitude: 17.5653592
       cities:
@@ -135,9 +151,11 @@
           longitude: 18.59364
     -
       name: "Mambéré-Kadéï"
+      native: "Mugely-Kadéï"
       code: "HS"
       iso3166_2: "CF-HS"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 4.5662762
       longitude: 15.8671403
       cities:
@@ -155,9 +173,11 @@
           longitude: 15.13926
     -
       name: "Mbomou"
+      native: "Mbomou"
       code: "MB"
       iso3166_2: "CF-MB"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.5230899
       longitude: 23.4445705
       cities:
@@ -179,9 +199,11 @@
           longitude: 24.20305
     -
       name: "Nana-Grébizi"
+      native: "Nana-Grébizi"
       code: "KB"
       iso3166_2: "CF-KB"
       type: "economic prefecture"
+      type_es: "prefectura económica"
       latitude: 7.5048007
       longitude: 19.1923579
       cities:
@@ -191,9 +213,11 @@
           longitude: 19.18744
     -
       name: "Nana-Mambéré"
+      native: "Nana-Mambéré"
       code: "NM"
       iso3166_2: "CF-NM"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.2231625
       longitude: 15.3517922
       cities:
@@ -207,9 +231,11 @@
           longitude: 15.59599
     -
       name: "Ombella-M'Poko"
+      native: "Ombela-Mou-M'roko"
       code: "MP"
       iso3166_2: "CF-MP"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.0726761
       longitude: 18.1717789
       cities:
@@ -227,9 +253,11 @@
           longitude: 18.7035
     -
       name: "Ouaka"
+      native: "Ouuaka"
       code: "UK"
       iso3166_2: "CF-UK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 6.3110548
       longitude: 20.5447525
       cities:
@@ -251,9 +279,11 @@
           longitude: 19.96186
     -
       name: "Ouham"
+      native: "Ouham"
       code: "AC"
       iso3166_2: "CF-AC"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 7.1314008
       longitude: 17.7041361
       cities:
@@ -275,9 +305,11 @@
           longitude: 18.62903
     -
       name: "Ouham-Pendé"
+      native: "Ouham-Pendé"
       code: "OP"
       iso3166_2: "CF-OP"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 6.7057282
       longitude: 16.1443202
       cities:
@@ -295,9 +327,11 @@
           longitude: 16.44059
     -
       name: "Sangha-Mbaéré"
+      native: "Sangha-Mbaéré"
       code: "SE"
       iso3166_2: "CF-SE"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 3.6754895
       longitude: 16.3246915
       cities:
@@ -307,9 +341,11 @@
           longitude: 16.04583
     -
       name: "Vakaga"
+      native: "Seulement"
       code: "VK"
       iso3166_2: "CF-VK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 9.8250502
       longitude: 22.376363
       cities:

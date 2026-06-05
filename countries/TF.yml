@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".tf"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   latitude: -49.25
   longitude: 69.167
   emoji: "🇹🇫"
   states:
     -
       name: "Adélie Land"
+      native: "Terre Adélie"
       code: "01"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -66.66277778
       longitude: 140.00111111
       cities:
@@ -31,9 +35,11 @@
           longitude: 140.00111111
     -
       name: "Crozet Islands"
+      native: "Îles Crozet"
       code: "02"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -46.4325
       longitude: 51.85763889
       cities:
@@ -43,9 +49,11 @@
           longitude: 51.85763889
     -
       name: "Kerguelen Islands"
+      native: "Archipel des Kerguelen"
       code: "03"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -49.35
       longitude: 70.21888889
       cities:
@@ -55,9 +63,11 @@
           longitude: 70.21888889
     -
       name: "Saint-Paul and Amsterdam Islands"
+      native: "Îles Saint-Paul et Amsterdam"
       code: "04"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -37.79555556
       longitude: 77.57333333
       cities:
@@ -67,9 +77,11 @@
           longitude: 77.57333333
     -
       name: "Scattered Islands"
+      native: "Îles Éparses"
       code: "05"
       iso3166_2: null
       type: "district"
+      type_es: "distrito"
       latitude: -15.89222222
       longitude: 54.52083333
       cities:

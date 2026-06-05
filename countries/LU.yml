@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".lu"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 49.75
   longitude: 6.16666666
   emoji: "🇱🇺"
   states:
     -
       name: "Capellen"
+      native: "Rond"
       code: "CA"
       iso3166_2: "LU-CA"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.6424353
       longitude: 5.9805893
       cities:
@@ -95,9 +99,11 @@
           longitude: 5.91917
     -
       name: "Clervaux"
+      native: "Clervaux"
       code: "CL"
       iso3166_2: "LU-CL"
       type: "canton"
+      type_es: "cantón"
       latitude: 50.0546313
       longitude: 6.0285875
       cities:
@@ -127,9 +133,11 @@
           longitude: 5.91917
     -
       name: "Diekirch"
+      native: "Diekkch"
       code: "DI"
       iso3166_2: "LU-DI"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.8671784
       longitude: 6.1595633
       cities:
@@ -187,9 +195,11 @@
           longitude: 6.08415
     -
       name: "Echternach"
+      native: "Empire"
       code: "EC"
       iso3166_2: "LU-EC"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.8114133
       longitude: 6.4175635
       cities:
@@ -227,9 +237,11 @@
           longitude: 6.28431
     -
       name: "Esch-sur-Alzette"
+      native: "Plancher-sur-alzette"
       code: "ES"
       iso3166_2: "LU-ES"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.5008805
       longitude: 5.9860925
       cities:
@@ -335,9 +347,11 @@
           longitude: 6.04222
     -
       name: "Grevenmacher"
+      native: "Great"
       code: "G"
       iso3166_2: "LU-G"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.680851
       longitude: 6.4407524
       cities:
@@ -383,9 +397,11 @@
           longitude: 6.40546
     -
       name: "Luxembourg "
+      native: "Luxembourg"
       code: "L"
       iso3166_2: "LU-L"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.6112768
       longitude: 6.129799
       cities:
@@ -479,9 +495,11 @@
           longitude: 6.20083
     -
       name: "Mersch"
+      native: "Marchandi"
       code: "ME"
       iso3166_2: "LU-ME"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.7506746
       longitude: 6.1066591
       cities:
@@ -535,9 +553,11 @@
           longitude: 6.01028
     -
       name: "Redange"
+      native: "Réorganiser"
       code: "RD"
       iso3166_2: "LU-RD"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.76455
       longitude: 5.88948
       cities:
@@ -587,9 +607,11 @@
           longitude: 5.90639
     -
       name: "Remich"
+      native: "Remtors"
       code: "RM"
       iso3166_2: "LU-RM"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.545017
       longitude: 6.3674222
       cities:
@@ -627,9 +649,11 @@
           longitude: 6.28789
     -
       name: "Vianden"
+      native: "Vues"
       code: "VD"
       iso3166_2: "LU-VD"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.9341924
       longitude: 6.2019917
       cities:
@@ -647,9 +671,11 @@
           longitude: 6.20889
     -
       name: "Wiltz"
+      native: "Wiltsz"
       code: "WI"
       iso3166_2: "LU-WI"
       type: "canton"
+      type_es: "cantón"
       latitude: 49.96622
       longitude: 5.9324306
       cities:

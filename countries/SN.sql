@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(195, 'Senegal', 'SN', 'SEN', 'Africa', 'Western Africa', 'Dakar', 'XOF', 14, -14, '🇸🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(195, 'Senegal', 'Senegal', 'SN', 'SEN', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Dakar', 'XOF', 14, -14, '🇸🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(473, 'Dakar', 195, 'SN', 'DK', 'region', 14.693425, -17.447938),
-(480, 'Diourbel Region', 195, 'SN', 'DB', 'region', 14.7844539, -16.0316451),
-(479, 'Fatick', 195, 'SN', 'FK', 'region', 14.3390167, -16.4111425),
-(475, 'Kaffrine', 195, 'SN', 'KA', 'region', 14.105202, -15.5415755),
-(483, 'Kaolack', 195, 'SN', 'KL', 'region', 14.138815, -16.076391),
-(481, 'Kédougou', 195, 'SN', 'KE', 'region', 12.5570752, -12.1855655),
-(474, 'Kolda', 195, 'SN', 'KD', 'region', 12.8921154, -14.9400971),
-(485, 'Louga', 195, 'SN', 'LG', 'region', 15.6141768, -16.22868),
-(476, 'Matam', 195, 'SN', 'MT', 'region', 15.6600225, -13.2576906),
-(477, 'Saint-Louis', 195, 'SN', 'SL', 'region', 16.0280445, -16.5048686),
-(482, 'Sédhiou', 195, 'SN', 'SE', 'region', 12.704604, -15.5562304),
-(486, 'Tambacounda Region', 195, 'SN', 'TC', 'region', 13.8686324, -13.3190328),
-(484, 'Thiès Region', 195, 'SN', 'TH', 'region', 14.7538661, -16.8637823),
-(478, 'Ziguinchor', 195, 'SN', 'ZG', 'region', 12.5641479, -16.2639825);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(473, 'Dakar', 'Dakar', 195, 'SN', 'DK', 'region', 'región', 14.693425, -17.447938),
+(480, 'Diourbel Region', 'Diourbel Region', 195, 'SN', 'DB', 'region', 'región', 14.7844539, -16.0316451),
+(479, 'Fatick', 'Fatick', 195, 'SN', 'FK', 'region', 'región', 14.3390167, -16.4111425),
+(475, 'Kaffrine', 'Kaffrine', 195, 'SN', 'KA', 'region', 'región', 14.105202, -15.5415755),
+(483, 'Kaolack', 'Kaolack', 195, 'SN', 'KL', 'region', 'región', 14.138815, -16.076391),
+(481, 'Kédougou', 'Kédougou', 195, 'SN', 'KE', 'region', 'región', 12.5570752, -12.1855655),
+(474, 'Kolda', 'Dans le bras', 195, 'SN', 'KD', 'region', 'región', 12.8921154, -14.9400971),
+(485, 'Louga', 'Lougue', 195, 'SN', 'LG', 'region', 'región', 15.6141768, -16.22868),
+(476, 'Matam', 'doux', 195, 'SN', 'MT', 'region', 'región', 15.6600225, -13.2576906),
+(477, 'Saint-Louis', 'Saint-Louis', 195, 'SN', 'SL', 'region', 'región', 16.0280445, -16.5048686),
+(482, 'Sédhiou', 'Sédhiou', 195, 'SN', 'SE', 'region', 'región', 12.704604, -15.5562304),
+(486, 'Tambacounda Region', 'Tambacounda Region', 195, 'SN', 'TC', 'region', 'región', 13.8686324, -13.3190328),
+(484, 'Thiès Region', 'Thiès Region', 195, 'SN', 'TH', 'region', 'región', 14.7538661, -16.8637823),
+(478, 'Ziguinchor', 'Ziguinchor', 195, 'SN', 'ZG', 'region', 'región', 12.5641479, -16.2639825);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (104704, 'Dakar', 473, 195, 14.6937, -17.44406),

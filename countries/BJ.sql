@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(24, 'Benin', 'BJ', 'BEN', 'Africa', 'Western Africa', 'Porto-Novo', 'XOF', 9.5, 2.25, '🇧🇯');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(24, 'Benin', 'Benín', 'BJ', 'BEN', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Porto-Novo', 'XOF', 9.5, 2.25, '🇧🇯');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3077, 'Alibori', 24, 'BJ', 'AL', 'department', 11.4649482, 2.7938798),
-(3076, 'Atakora', 24, 'BJ', 'AK', 'department', 10.7160515, 1.5331527),
-(3079, 'Atlantique', 24, 'BJ', 'AQ', 'department', 6.540829, 2.223095),
-(3078, 'Borgou', 24, 'BJ', 'BO', 'department', 9.7097453, 2.7422648),
-(3070, 'Collines', 24, 'BJ', 'CO', 'department', 8.1085479, 2.1853101),
-(3072, 'Donga', 24, 'BJ', 'DO', 'department', 9.2679806, 1.7170684),
-(3071, 'Kouffo', 24, 'BJ', 'KO', 'department', 7.1312662, 1.7567394),
-(3081, 'Littoral', 24, 'BJ', 'LI', 'department', 6.3663195, 2.4170608),
-(3075, 'Mono', 24, 'BJ', 'MO', 'department', 6.457624, 1.867408),
-(3080, 'Ouémé', 24, 'BJ', 'OU', 'department', 6.6013531, 2.550566),
-(3074, 'Plateau', 24, 'BJ', 'PL', 'department', 7.1002602, 2.6409144),
-(3073, 'Zou', 24, 'BJ', 'ZO', 'department', 7.2834335, 2.1227604);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3077, 'Alibori', 'Alibori', 24, 'BJ', 'AL', 'department', 'departamento', 11.4649482, 2.7938798),
+(3076, 'Atakora', 'Atakora', 24, 'BJ', 'AK', 'department', 'departamento', 10.7160515, 1.5331527),
+(3079, 'Atlantique', 'Atlantique', 24, 'BJ', 'AQ', 'department', 'departamento', 6.540829, 2.223095),
+(3078, 'Borgou', 'Borgou', 24, 'BJ', 'BO', 'department', 'departamento', 9.7097453, 2.7422648),
+(3070, 'Collines', 'Collines', 24, 'BJ', 'CO', 'department', 'departamento', 8.1085479, 2.1853101),
+(3072, 'Donga', 'Donga', 24, 'BJ', 'DO', 'department', 'departamento', 9.2679806, 1.7170684),
+(3071, 'Kouffo', 'Kouffo', 24, 'BJ', 'KO', 'department', 'departamento', 7.1312662, 1.7567394),
+(3081, 'Littoral', 'Littoral', 24, 'BJ', 'LI', 'department', 'departamento', 6.3663195, 2.4170608),
+(3075, 'Mono', 'Mono', 24, 'BJ', 'MO', 'department', 'departamento', 6.457624, 1.867408),
+(3080, 'Ouémé', 'Ouémé', 24, 'BJ', 'OU', 'department', 'departamento', 6.6013531, 2.550566),
+(3074, 'Plateau', 'Plateau', 24, 'BJ', 'PL', 'department', 'departamento', 7.1002602, 2.6409144),
+(3073, 'Zou', 'Serait', 24, 'BJ', 'ZO', 'department', 'departamento', 7.2834335, 2.1227604);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (9782, 'Banikoara', 3077, 24, 11.29845, 2.43856),

@@ -1,62 +1,62 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(92, 'Guinea', 'GN', 'GIN', 'Africa', 'Western Africa', 'Conakry', 'GNF', 11, -10, '🇬🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(92, 'Guinea', 'Guinea', 'GN', 'GIN', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Conakry', 'GNF', 11, -10, '🇬🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2672, 'Beyla', 92, 'GN', 'BE', 'prefecture', 8.909432, -8.3674755),
-(2699, 'Boffa', 92, 'GN', 'BF', 'prefecture', 10.1808254, -14.0391615),
-(2676, 'Boké', 92, 'GN', 'B', 'administrative region', 11.3406898, -13.9440724),
-(2709, 'Boké', 92, 'GN', 'BK', 'prefecture', 11.3406898, -13.9440724),
-(2686, 'Conakry', 92, 'GN', 'C', 'governorate', 9.5170602, -13.6998434),
-(2705, 'Coyah', 92, 'GN', 'CO', 'prefecture', 9.709041, -13.388956),
-(2679, 'Dabola', 92, 'GN', 'DB', 'prefecture', 10.742172, -11.106486),
-(2706, 'Dalaba', 92, 'GN', 'DL', 'prefecture', 10.6868176, -12.2490697),
-(2688, 'Dinguiraye', 92, 'GN', 'DI', 'prefecture', 11.5325439, -10.6727268),
-(2681, 'Dubréka', 92, 'GN', 'DU', 'prefecture', 9.7907348, -13.5147735),
-(5344, 'Faranah', 92, 'GN', 'F', 'administrative region', 10.3143203, -10.890097),
-(2682, 'Faranah', 92, 'GN', 'FA', 'prefecture', 10.042493, -10.740824),
-(2683, 'Forécariah', 92, 'GN', 'FO', 'prefecture', 9.4300088, -13.0833859),
-(2675, 'Fria', 92, 'GN', 'FR', 'prefecture', 10.3674543, -13.5841871),
-(2685, 'Gaoual', 92, 'GN', 'GA', 'prefecture', 11.7243435, -13.2477875),
-(2711, 'Guéckédou', 92, 'GN', 'GU', 'prefecture', 8.5649688, -10.1311163),
-(2704, 'Kankan', 92, 'GN', 'KA', 'prefecture', 10.3835169, -9.3069354),
-(2697, 'Kankan', 92, 'GN', 'K', 'administrative region', 10.3835169, -9.3069354),
-(2710, 'Kérouané', 92, 'GN', 'KE', 'prefecture', 9.2705687, -9.0076196),
-(2701, 'Kindia', 92, 'GN', 'D', 'administrative region', 10.0368, -12.8260215),
-(2693, 'Kindia', 92, 'GN', 'KD', 'prefecture', 10.0368, -12.8260215),
-(2691, 'Kissidougou', 92, 'GN', 'KS', 'prefecture', 9.192389, -10.098269),
-(2692, 'Koubia', 92, 'GN', 'KB', 'prefecture', 11.582354, -11.8920237),
-(2703, 'Koundara', 92, 'GN', 'KN', 'prefecture', 12.485154, -13.298509),
-(2695, 'Kouroussa', 92, 'GN', 'KO', 'prefecture', 10.6489229, -9.8850586),
-(2680, 'Labé', 92, 'GN', 'LA', 'prefecture', 11.3541939, -12.3463875),
-(2677, 'Labé', 92, 'GN', 'L', 'administrative region', 11.3232042, -12.2891314),
-(2690, 'Lélouma', 92, 'GN', 'LE', 'prefecture', 11.4257233, -12.6828521),
-(2708, 'Lola', 92, 'GN', 'LO', 'prefecture', 8.0166961, -8.3078426),
-(2702, 'Macenta', 92, 'GN', 'MC', 'prefecture', 8.2948292, -9.2094463),
-(2700, 'Mali', 92, 'GN', 'ML', 'prefecture', 12.0420493, -12.2623061),
-(2698, 'Mamou', 92, 'GN', 'M', 'administrative region', 10.6619269, -12.1139542),
-(2689, 'Mamou', 92, 'GN', 'MM', 'prefecture', 10.6619269, -12.1139542),
-(2673, 'Mandiana', 92, 'GN', 'MD', 'prefecture', 10.6172827, -8.6985716),
-(2684, 'Nzérékoré', 92, 'GN', 'N', 'administrative region', 7.8932884, -8.8812922),
-(2678, 'Nzérékoré', 92, 'GN', 'NZ', 'prefecture', 7.8932884, -8.8812922),
-(2694, 'Pita', 92, 'GN', 'PI', 'prefecture', 10.8994295, -12.636091),
-(2707, 'Siguiri', 92, 'GN', 'SI', 'prefecture', 11.4148113, -9.1788304),
-(2687, 'Télimélé', 92, 'GN', 'TE', 'prefecture', 10.9089364, -13.0299331),
-(2696, 'Tougué', 92, 'GN', 'TO', 'prefecture', 11.4394566, -11.6629484),
-(2674, 'Yomou', 92, 'GN', 'YO', 'prefecture', 7.5696279, -9.2591571);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2672, 'Beyla', 'Wedla', 92, 'GN', 'BE', 'prefecture', 'prefectura', 8.909432, -8.3674755),
+(2699, 'Boffa', 'Lampe', 92, 'GN', 'BF', 'prefecture', 'prefectura', 10.1808254, -14.0391615),
+(2676, 'Boké', 'Boké', 92, 'GN', 'B', 'administrative region', 'región administrativa', 11.3406898, -13.9440724),
+(2709, 'Boké', 'Boké', 92, 'GN', 'BK', 'prefecture', 'prefectura', 11.3406898, -13.9440724),
+(2686, 'Conakry', 'Conakry', 92, 'GN', 'C', 'governorate', 'gobernación', 9.5170602, -13.6998434),
+(2705, 'Coyah', 'Coyah', 92, 'GN', 'CO', 'prefecture', 'prefectura', 9.709041, -13.388956),
+(2679, 'Dabola', 'Dabole', 92, 'GN', 'DB', 'prefecture', 'prefectura', 10.742172, -11.106486),
+(2706, 'Dalaba', 'Délinquant', 92, 'GN', 'DL', 'prefecture', 'prefectura', 10.6868176, -12.2490697),
+(2688, 'Dinguiraye', 'Dinguiraye', 92, 'GN', 'DI', 'prefecture', 'prefectura', 11.5325439, -10.6727268),
+(2681, 'Dubréka', 'Surnommer', 92, 'GN', 'DU', 'prefecture', 'prefectura', 9.7907348, -13.5147735),
+(5344, 'Faranah', 'Faranah', 92, 'GN', 'F', 'administrative region', 'región administrativa', 10.3143203, -10.890097),
+(2682, 'Faranah', 'Faranah', 92, 'GN', 'FA', 'prefecture', 'prefectura', 10.042493, -10.740824),
+(2683, 'Forécariah', 'Florécariah', 92, 'GN', 'FO', 'prefecture', 'prefectura', 9.4300088, -13.0833859),
+(2675, 'Fria', 'Gratuit', 92, 'GN', 'FR', 'prefecture', 'prefectura', 10.3674543, -13.5841871),
+(2685, 'Gaoual', 'Gaoual', 92, 'GN', 'GA', 'prefecture', 'prefectura', 11.7243435, -13.2477875),
+(2711, 'Guéckédou', 'Guidyou', 92, 'GN', 'GU', 'prefecture', 'prefectura', 8.5649688, -10.1311163),
+(2704, 'Kankan', 'Non', 92, 'GN', 'KA', 'prefecture', 'prefectura', 10.3835169, -9.3069354),
+(2697, 'Kankan', 'Non', 92, 'GN', 'K', 'administrative region', 'región administrativa', 10.3835169, -9.3069354),
+(2710, 'Kérouané', 'Bronzé', 92, 'GN', 'KE', 'prefecture', 'prefectura', 9.2705687, -9.0076196),
+(2701, 'Kindia', 'Kindia', 92, 'GN', 'D', 'administrative region', 'región administrativa', 10.0368, -12.8260215),
+(2693, 'Kindia', 'Kindia', 92, 'GN', 'KD', 'prefecture', 'prefectura', 10.0368, -12.8260215),
+(2691, 'Kissidougou', 'Kissidougou', 92, 'GN', 'KS', 'prefecture', 'prefectura', 9.192389, -10.098269),
+(2692, 'Koubia', 'Koubia', 92, 'GN', 'KB', 'prefecture', 'prefectura', 11.582354, -11.8920237),
+(2703, 'Koundara', 'Koundara', 92, 'GN', 'KN', 'prefecture', 'prefectura', 12.485154, -13.298509),
+(2695, 'Kouroussa', 'Kouroussa', 92, 'GN', 'KO', 'prefecture', 'prefectura', 10.6489229, -9.8850586),
+(2680, 'Labé', 'Labé', 92, 'GN', 'LA', 'prefecture', 'prefectura', 11.3541939, -12.3463875),
+(2677, 'Labé', 'Labé', 92, 'GN', 'L', 'administrative region', 'región administrativa', 11.3232042, -12.2891314),
+(2690, 'Lélouma', 'Lélouma', 92, 'GN', 'LE', 'prefecture', 'prefectura', 11.4257233, -12.6828521),
+(2708, 'Lola', 'Lola', 92, 'GN', 'LO', 'prefecture', 'prefectura', 8.0166961, -8.3078426),
+(2702, 'Macenta', 'Sa mélodie', 92, 'GN', 'MC', 'prefecture', 'prefectura', 8.2948292, -9.2094463),
+(2700, 'Mali', 'Mali', 92, 'GN', 'ML', 'prefecture', 'prefectura', 12.0420493, -12.2623061),
+(2698, 'Mamou', 'Maman', 92, 'GN', 'M', 'administrative region', 'región administrativa', 10.6619269, -12.1139542),
+(2689, 'Mamou', 'Maman', 92, 'GN', 'MM', 'prefecture', 'prefectura', 10.6619269, -12.1139542),
+(2673, 'Mandiana', 'Mandiana', 92, 'GN', 'MD', 'prefecture', 'prefectura', 10.6172827, -8.6985716),
+(2684, 'Nzérékoré', 'Nzérékor', 92, 'GN', 'N', 'administrative region', 'región administrativa', 7.8932884, -8.8812922),
+(2678, 'Nzérékoré', 'Nzérékor', 92, 'GN', 'NZ', 'prefecture', 'prefectura', 7.8932884, -8.8812922),
+(2694, 'Pita', 'Pita', 92, 'GN', 'PI', 'prefecture', 'prefectura', 10.8994295, -12.636091),
+(2707, 'Siguiri', 'Siguiri', 92, 'GN', 'SI', 'prefecture', 'prefectura', 11.4148113, -9.1788304),
+(2687, 'Télimélé', 'Bord d''hiver', 92, 'GN', 'TE', 'prefecture', 'prefectura', 10.9089364, -13.0299331),
+(2696, 'Tougué', 'Tougué', 92, 'GN', 'TO', 'prefecture', 'prefectura', 11.4394566, -11.6629484),
+(2674, 'Yomou', 'Yomou', 92, 'GN', 'YO', 'prefecture', 'prefectura', 7.5696279, -9.2591571);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (52323, 'Boffa', 2676, 92, 10.33333, -14.16667),

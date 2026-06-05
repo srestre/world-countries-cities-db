@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".lc"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 13.88333333
   longitude: -60.96666666
   emoji: "🇱🇨"
   states:
     -
       name: "Anse la Raye"
+      native: "Anse la Raye"
       code: "01"
       iso3166_2: "LC-01"
       type: "district"
+      type_es: "distrito"
       latitude: 13.9459424
       longitude: -61.0369468
       cities:
@@ -127,9 +131,11 @@
           longitude: -61.04184
     -
       name: "Canaries"
+      native: "Canaries"
       code: "12"
       iso3166_2: "LC-12"
       type: "district"
+      type_es: "distrito"
       latitude: 13.9040024
       longitude: -61.0718714
       cities:
@@ -167,9 +173,11 @@
           longitude: -61.06108
     -
       name: "Castries"
+      native: "Castries"
       code: "02"
       iso3166_2: "LC-02"
       type: "district"
+      type_es: "distrito"
       latitude: 14.0101094
       longitude: -60.9874687
       cities:
@@ -651,9 +659,11 @@
           longitude: -60.97919
     -
       name: "Choiseul"
+      native: "Choiseul"
       code: "03"
       iso3166_2: "LC-03"
       type: "district"
+      type_es: "distrito"
       latitude: 13.7750154
       longitude: -61.048591
       cities:
@@ -803,9 +813,11 @@
           longitude: -61.0502
     -
       name: "Dennery"
+      native: "Dennery"
       code: "05"
       iso3166_2: "LC-05"
       type: "district"
+      type_es: "distrito"
       latitude: 13.9267393
       longitude: -60.9190988
       cities:
@@ -967,9 +979,11 @@
           longitude: -60.94786
     -
       name: "Gros Islet"
+      native: "Gros islet"
       code: "06"
       iso3166_2: "LC-06"
       type: "district"
+      type_es: "distrito"
       latitude: 14.0843578
       longitude: -60.9452794
       cities:
@@ -1299,9 +1313,11 @@
           longitude: -60.95272
     -
       name: "Laborie"
+      native: "Labor"
       code: "07"
       iso3166_2: "LC-07"
       type: "district"
+      type_es: "distrito"
       latitude: 13.7522783
       longitude: -60.9932889
       cities:
@@ -1427,9 +1443,11 @@
           longitude: -61.00047
     -
       name: "Micoud"
+      native: "Micoud"
       code: "08"
       iso3166_2: "LC-08"
       type: "district"
+      type_es: "distrito"
       latitude: 13.8211871
       longitude: -60.9001934
       cities:
@@ -1627,9 +1645,11 @@
           longitude: -60.90789
     -
       name: "Soufrière"
+      native: "Sulfur"
       code: "10"
       iso3166_2: "LC-10"
       type: "district"
+      type_es: "distrito"
       latitude: 13.8522266
       longitude: -61.0238291
       cities:
@@ -1831,9 +1851,11 @@
           longitude: -61.03394
     -
       name: "Vieux Fort"
+      native: "Vieux Fort"
       code: "11"
       iso3166_2: "LC-11"
       type: "district"
+      type_es: "distrito"
       latitude: 13.720608
       longitude: -60.9496433
       cities:

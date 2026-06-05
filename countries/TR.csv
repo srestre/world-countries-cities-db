@@ -1,981 +1,981 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-TR,Turkey,Asia,Western Asia,01,Adana,Adana,36.9975753,35.1232526
-TR,Turkey,Asia,Western Asia,01,Adana,Aladağ,37.55854,35.40196
-TR,Turkey,Asia,Western Asia,01,Adana,Ceyhan,37.02472,35.8175
-TR,Turkey,Asia,Western Asia,01,Adana,Çukurova,37.05627,35.13119
-TR,Turkey,Asia,Western Asia,01,Adana,Feke,37.82405,35.91826
-TR,Turkey,Asia,Western Asia,01,Adana,İmamoğlu,37.275,35.66649
-TR,Turkey,Asia,Western Asia,01,Adana,Karaisalı,37.26655,35.05033
-TR,Turkey,Asia,Western Asia,01,Adana,Karataş,36.57186,35.36784
-TR,Turkey,Asia,Western Asia,01,Adana,Kozan,37.5,35.75
-TR,Turkey,Asia,Western Asia,01,Adana,Pozantı,37.43671,34.88057
-TR,Turkey,Asia,Western Asia,01,Adana,Saimbeyli,37.99615,36.09909
-TR,Turkey,Asia,Western Asia,01,Adana,Sarıçam,37.14971,35.50949
-TR,Turkey,Asia,Western Asia,01,Adana,Seyhan,36.9554,35.21637
-TR,Turkey,Asia,Western Asia,01,Adana,Tufanbeyli,38.27343,36.22731
-TR,Turkey,Asia,Western Asia,01,Adana,Yumurtalık,36.78245,35.79949
-TR,Turkey,Asia,Western Asia,01,Adana,Yüreğir,36.99205,35.45402
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Besni,37.69278,37.86111
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Çelikhan,38.0256,38.23665
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Gerger,37.95,39.01667
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Gölbaşı,37.78361,37.63667
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Kâhta,37.78552,38.6237
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Merkez,37.74454,38.26801
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Samsat,37.58194,38.47417
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Sincik,38.03645,38.61257
-TR,Turkey,Asia,Western Asia,02,Adıyaman,Tut,37.79529,37.9161
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Başmakçı,37.89722,30.01167
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Bayat,38.98306,30.92472
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Bolvadin,38.71111,31.04861
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Çay,38.59167,31.02861
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Çobanlar,38.71085,30.78874
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Dazkırı,37.91861,29.86056
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Dinar,38.065,30.16557
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Emirdağ,39.01972,31.15
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Evciler,38.04139,29.88667
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Hocalar,38.57824,29.96768
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,İhsaniye,39.02916,30.41639
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,İscehisar,38.939,30.75002
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Kızılören,38.25806,30.15167
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Merkez,38.79698,30.51951
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Sandıklı,38.46472,30.26946
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Sinanpaşa,38.74444,30.24278
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Şuhut,38.53111,30.54583
-TR,Turkey,Asia,Western Asia,03,Afyonkarahisar,Sultandağı,38.53111,31.22806
-TR,Turkey,Asia,Western Asia,04,Ağrı,Diyadin,39.54056,43.67135
-TR,Turkey,Asia,Western Asia,04,Ağrı,Doğubayazıt,39.54694,44.08417
-TR,Turkey,Asia,Western Asia,04,Ağrı,Eleşkirt,39.79803,42.67574
-TR,Turkey,Asia,Western Asia,04,Ağrı,Hamur,39.60561,42.985
-TR,Turkey,Asia,Western Asia,04,Ağrı,Merkez,39.71944,43.05139
-TR,Turkey,Asia,Western Asia,04,Ağrı,Patnos,39.22493,42.85693
-TR,Turkey,Asia,Western Asia,04,Ağrı,Taşlıçay,39.62966,43.36878
-TR,Turkey,Asia,Western Asia,04,Ağrı,Tutak,39.55042,42.77572
-TR,Turkey,Asia,Western Asia,68,Aksaray,Ağaçören,38.87484,33.91674
-TR,Turkey,Asia,Western Asia,68,Aksaray,Eskil,38.41158,33.41994
-TR,Turkey,Asia,Western Asia,68,Aksaray,Gülağaç,38.40641,34.35071
-TR,Turkey,Asia,Western Asia,68,Aksaray,Güzelyurt,38.27722,34.37194
-TR,Turkey,Asia,Western Asia,68,Aksaray,Merkez,38.3706,34.02843
-TR,Turkey,Asia,Western Asia,68,Aksaray,Ortaköy,38.73728,34.03866
-TR,Turkey,Asia,Western Asia,68,Aksaray,Sarıyahşi,38.98349,33.84136
-TR,Turkey,Asia,Western Asia,68,Aksaray,Sultanhanı,38.2471,33.54961
-TR,Turkey,Asia,Western Asia,05,Amasya,Göynücek,40.39917,35.525
-TR,Turkey,Asia,Western Asia,05,Amasya,Gümüşhacıköy,40.87306,35.21472
-TR,Turkey,Asia,Western Asia,05,Amasya,Hamamözü,40.79539,35.03367
-TR,Turkey,Asia,Western Asia,05,Amasya,Merkez,40.61939,35.87016
-TR,Turkey,Asia,Western Asia,05,Amasya,Merzifon,40.88348,35.47116
-TR,Turkey,Asia,Western Asia,05,Amasya,Suluova,40.83129,35.64788
-TR,Turkey,Asia,Western Asia,05,Amasya,Taşova,40.75972,36.3225
-TR,Turkey,Asia,Western Asia,06,Ankara,Akyurt,40.13512,33.08614
-TR,Turkey,Asia,Western Asia,06,Ankara,Altındağ,40.0011,32.97022
-TR,Turkey,Asia,Western Asia,06,Ankara,Ankara,39.9034367,32.4331003
-TR,Turkey,Asia,Western Asia,06,Ankara,Ayaş,40.01933,32.33221
-TR,Turkey,Asia,Western Asia,06,Ankara,Bala,39.56374,33.12962
-TR,Turkey,Asia,Western Asia,06,Ankara,Beypazarı,40.1675,31.92111
-TR,Turkey,Asia,Western Asia,06,Ankara,Çamlıdere,40.48958,32.47499
-TR,Turkey,Asia,Western Asia,06,Ankara,Çankaya,39.9179,32.86268
-TR,Turkey,Asia,Western Asia,06,Ankara,Çubuk,40.23861,33.03222
-TR,Turkey,Asia,Western Asia,06,Ankara,Elmadağ,39.92083,33.23083
-TR,Turkey,Asia,Western Asia,06,Ankara,Etimesgut,39.96335,32.63744
-TR,Turkey,Asia,Western Asia,06,Ankara,Evren,39.02402,33.80626
-TR,Turkey,Asia,Western Asia,06,Ankara,Gölbaşı,39.79043,32.80903
-TR,Turkey,Asia,Western Asia,06,Ankara,Güdül,40.21051,32.24552
-TR,Turkey,Asia,Western Asia,06,Ankara,Haymana,39.43212,32.49732
-TR,Turkey,Asia,Western Asia,06,Ankara,Kahramankazan,40.16502,32.63904
-TR,Turkey,Asia,Western Asia,06,Ankara,Kalecik,40.09722,33.40833
-TR,Turkey,Asia,Western Asia,06,Ankara,Keçiören,40.02106,32.83102
-TR,Turkey,Asia,Western Asia,06,Ankara,Kızılcahamam,40.46972,32.65056
-TR,Turkey,Asia,Western Asia,06,Ankara,Mamak,39.94587,32.90811
-TR,Turkey,Asia,Western Asia,06,Ankara,Nallıhan,40.18593,31.35179
-TR,Turkey,Asia,Western Asia,06,Ankara,Polatlı,39.57715,32.14132
-TR,Turkey,Asia,Western Asia,06,Ankara,Pursaklar,40.03961,32.90139
-TR,Turkey,Asia,Western Asia,06,Ankara,Şereflikoçhisar,38.93925,33.5386
-TR,Turkey,Asia,Western Asia,06,Ankara,Sincan,39.95943,32.49567
-TR,Turkey,Asia,Western Asia,06,Ankara,Yenimahalle,39.99043,32.69555
-TR,Turkey,Asia,Western Asia,07,Antalya,Akseki,37.04861,31.79
-TR,Turkey,Asia,Western Asia,07,Antalya,Aksu,36.95389,30.84778
-TR,Turkey,Asia,Western Asia,07,Antalya,Alanya,36.54375,31.99982
-TR,Turkey,Asia,Western Asia,07,Antalya,Antalya,36.8980983,30.5532907
-TR,Turkey,Asia,Western Asia,07,Antalya,Demre,36.24444,29.985
-TR,Turkey,Asia,Western Asia,07,Antalya,Döşemealtı,37.02366,30.5904
-TR,Turkey,Asia,Western Asia,07,Antalya,Elmalı,36.73583,29.91775
-TR,Turkey,Asia,Western Asia,07,Antalya,Finike,36.42355,30.06645
-TR,Turkey,Asia,Western Asia,07,Antalya,Gazipaşa,36.26942,32.31792
-TR,Turkey,Asia,Western Asia,07,Antalya,Gündoğmuş,36.82446,32.00679
-TR,Turkey,Asia,Western Asia,07,Antalya,İbradı,37.09694,31.59917
-TR,Turkey,Asia,Western Asia,07,Antalya,Kaş,36.20176,29.63766
-TR,Turkey,Asia,Western Asia,07,Antalya,Kemer,36.59778,30.56056
-TR,Turkey,Asia,Western Asia,07,Antalya,Kepez,37.01187,30.75966
-TR,Turkey,Asia,Western Asia,07,Antalya,Konyaaltı,36.86424,30.62714
-TR,Turkey,Asia,Western Asia,07,Antalya,Korkuteli,37.06498,30.19565
-TR,Turkey,Asia,Western Asia,07,Antalya,Kumluca,36.58,30.3
-TR,Turkey,Asia,Western Asia,07,Antalya,Manavgat,36.78667,31.44306
-TR,Turkey,Asia,Western Asia,07,Antalya,Muratpaşa,36.89157,30.76498
-TR,Turkey,Asia,Western Asia,07,Antalya,Serik,37.07743,31.00677
-TR,Turkey,Asia,Western Asia,75,Ardahan,Çıldır,41.13783,43.14169
-TR,Turkey,Asia,Western Asia,75,Ardahan,Damal,41.34145,42.8368
-TR,Turkey,Asia,Western Asia,75,Ardahan,Göle,40.78746,42.60603
-TR,Turkey,Asia,Western Asia,75,Ardahan,Hanak,41.23344,42.84037
-TR,Turkey,Asia,Western Asia,75,Ardahan,Merkez,41.10871,42.70222
-TR,Turkey,Asia,Western Asia,75,Ardahan,Posof,41.51111,42.72917
-TR,Turkey,Asia,Western Asia,08,Artvin,Ardanuç,41.12738,42.06292
-TR,Turkey,Asia,Western Asia,08,Artvin,Arhavi,41.35121,41.30456
-TR,Turkey,Asia,Western Asia,08,Artvin,Borçka,41.35792,41.66579
-TR,Turkey,Asia,Western Asia,08,Artvin,Hopa,41.39046,41.41966
-TR,Turkey,Asia,Western Asia,08,Artvin,Kemalpaşa,41.48336,41.5275
-TR,Turkey,Asia,Western Asia,08,Artvin,Merkez,41.18161,41.82172
-TR,Turkey,Asia,Western Asia,08,Artvin,Murgul,41.27937,41.55514
-TR,Turkey,Asia,Western Asia,08,Artvin,Şavşat,41.24027,42.36109
-TR,Turkey,Asia,Western Asia,08,Artvin,Yusufeli,40.82042,41.53743
-TR,Turkey,Asia,Western Asia,09,Aydın,Bozdoğan,37.67134,28.31395
-TR,Turkey,Asia,Western Asia,09,Aydın,Buharkent,37.96397,28.7427
-TR,Turkey,Asia,Western Asia,09,Aydın,Çine,37.61266,28.05912
-TR,Turkey,Asia,Western Asia,09,Aydın,Didim,37.39305,27.29357
-TR,Turkey,Asia,Western Asia,09,Aydın,Efeler,37.83835,27.84557
-TR,Turkey,Asia,Western Asia,09,Aydın,Germencik,37.87056,27.60283
-TR,Turkey,Asia,Western Asia,09,Aydın,İncirliova,37.85222,27.72361
-TR,Turkey,Asia,Western Asia,09,Aydın,Karacasu,37.74731,28.59402
-TR,Turkey,Asia,Western Asia,09,Aydın,Karpuzlu,37.55861,27.83528
-TR,Turkey,Asia,Western Asia,09,Aydın,Koçarlı,37.76113,27.70583
-TR,Turkey,Asia,Western Asia,09,Aydın,Köşk,37.85333,28.05167
-TR,Turkey,Asia,Western Asia,09,Aydın,Kuşadası,37.86014,27.25713
-TR,Turkey,Asia,Western Asia,09,Aydın,Kuyucak,37.9133,28.45917
-TR,Turkey,Asia,Western Asia,09,Aydın,Nazilli,37.9357,28.30609
-TR,Turkey,Asia,Western Asia,09,Aydın,Söke,37.7482,27.40614
-TR,Turkey,Asia,Western Asia,09,Aydın,Sultanhisar,37.88989,28.15436
-TR,Turkey,Asia,Western Asia,09,Aydın,Yenipazar,37.82332,28.19573
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Altıeylül,39.64099,27.88639
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Ayvalık,39.31927,26.69341
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Balya,39.74861,27.57889
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Bandırma,40.35222,27.97667
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Bigadiç,39.3925,28.13111
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Burhaniye,39.50041,26.97269
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Dursunbey,39.58596,28.62568
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Edremit,39.59611,27.02444
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Erdek,40.3996,27.79348
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Gömeç,39.39016,26.84127
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Gönen,40.1049,27.65399
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Havran,39.55833,27.09833
-TR,Turkey,Asia,Western Asia,10,Balıkesir,İvrindi,39.58389,27.48639
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Karesi,39.648333,27.8825
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Kepsut,39.68889,28.15222
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Manyas,40.04639,27.97
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Marmara,40.58633,27.55541
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Savaştepe,39.38319,27.65612
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Sındırgı,39.24128,28.17842
-TR,Turkey,Asia,Western Asia,10,Balıkesir,Susurluk,39.91361,28.15778
-TR,Turkey,Asia,Western Asia,74,Bartın,Amasra,41.74633,32.38633
-TR,Turkey,Asia,Western Asia,74,Bartın,Kurucaşile,41.83781,32.71621
-TR,Turkey,Asia,Western Asia,74,Bartın,Merkez,41.63583,32.3375
-TR,Turkey,Asia,Western Asia,74,Bartın,Ulus,41.59373,32.65066
-TR,Turkey,Asia,Western Asia,72,Batman,Beşiri,37.91573,41.2865
-TR,Turkey,Asia,Western Asia,72,Batman,Gercüş,37.59139,41.33278
-TR,Turkey,Asia,Western Asia,72,Batman,Hasankeyf,37.70612,41.4048
-TR,Turkey,Asia,Western Asia,72,Batman,Kozluk,38.19249,41.48705
-TR,Turkey,Asia,Western Asia,72,Batman,Merkez,37.84362,41.18341
-TR,Turkey,Asia,Western Asia,72,Batman,Sason,38.32767,41.41377
-TR,Turkey,Asia,Western Asia,69,Bayburt,Aydıntepe,40.38325,40.14272
-TR,Turkey,Asia,Western Asia,69,Bayburt,Demirözü,40.1656,39.89343
-TR,Turkey,Asia,Western Asia,69,Bayburt,Merkez,40.25631,40.22289
-TR,Turkey,Asia,Western Asia,11,Bilecik,Bozüyük,39.90778,30.03667
-TR,Turkey,Asia,Western Asia,11,Bilecik,Gölpazarı,40.28472,30.31722
-TR,Turkey,Asia,Western Asia,11,Bilecik,İnhisar,40.04932,30.38521
-TR,Turkey,Asia,Western Asia,11,Bilecik,Merkez,40.14192,29.97932
-TR,Turkey,Asia,Western Asia,11,Bilecik,Osmaneli,40.35722,30.01417
-TR,Turkey,Asia,Western Asia,11,Bilecik,Pazaryeri,39.99395,29.90424
-TR,Turkey,Asia,Western Asia,11,Bilecik,Söğüt,40.02479,30.173
-TR,Turkey,Asia,Western Asia,11,Bilecik,Yenipazar,40.17833,30.52
-TR,Turkey,Asia,Western Asia,12,Bingöl,Adaklı,39.2287,40.48252
-TR,Turkey,Asia,Western Asia,12,Bingöl,Genç,38.74773,40.55343
-TR,Turkey,Asia,Western Asia,12,Bingöl,Karlıova,39.29044,41.00594
-TR,Turkey,Asia,Western Asia,12,Bingöl,Kiğı,39.30894,40.34995
-TR,Turkey,Asia,Western Asia,12,Bingöl,Merkez,38.95025,40.52802
-TR,Turkey,Asia,Western Asia,12,Bingöl,Solhan,38.96525,41.05443
-TR,Turkey,Asia,Western Asia,12,Bingöl,Yayladere,39.22614,40.0695
-TR,Turkey,Asia,Western Asia,12,Bingöl,Yedisu,39.43277,40.53368
-TR,Turkey,Asia,Western Asia,13,Bitlis,Adilcevaz,38.79911,42.73159
-TR,Turkey,Asia,Western Asia,13,Bitlis,Ahlat,38.7489,42.48007
-TR,Turkey,Asia,Western Asia,13,Bitlis,Güroymak,38.5758,42.01558
-TR,Turkey,Asia,Western Asia,13,Bitlis,Hizan,38.22498,42.4183
-TR,Turkey,Asia,Western Asia,13,Bitlis,Merkez,38.31702,42.10065
-TR,Turkey,Asia,Western Asia,13,Bitlis,Mutki,38.40624,41.92018
-TR,Turkey,Asia,Western Asia,13,Bitlis,Tatvan,38.49221,42.28269
-TR,Turkey,Asia,Western Asia,14,Bolu,Dörtdivan,40.72052,32.06314
-TR,Turkey,Asia,Western Asia,14,Bolu,Gerede,40.71364,32.31263
-TR,Turkey,Asia,Western Asia,14,Bolu,Göynük,40.40028,30.78833
-TR,Turkey,Asia,Western Asia,14,Bolu,Kıbrıscık,40.40778,31.85194
-TR,Turkey,Asia,Western Asia,14,Bolu,Mengen,40.93877,32.07642
-TR,Turkey,Asia,Western Asia,14,Bolu,Merkez,40.73583,31.60611
-TR,Turkey,Asia,Western Asia,14,Bolu,Mudurnu,40.473,31.20755
-TR,Turkey,Asia,Western Asia,14,Bolu,Seben,40.41134,31.57359
-TR,Turkey,Asia,Western Asia,14,Bolu,Yeniçağa,40.77115,32.03375
-TR,Turkey,Asia,Western Asia,15,Burdur,Ağlasun,37.64944,30.53417
-TR,Turkey,Asia,Western Asia,15,Burdur,Altınyayla,36.99722,29.54579
-TR,Turkey,Asia,Western Asia,15,Burdur,Bucak,37.45917,30.595
-TR,Turkey,Asia,Western Asia,15,Burdur,Çavdır,37.16483,29.69937
-TR,Turkey,Asia,Western Asia,15,Burdur,Çeltikçi,37.53885,30.46823
-TR,Turkey,Asia,Western Asia,15,Burdur,Gölhisar,37.1459,29.50876
-TR,Turkey,Asia,Western Asia,15,Burdur,Karamanlı,37.37301,29.82308
-TR,Turkey,Asia,Western Asia,15,Burdur,Kemer,37.35222,30.06306
-TR,Turkey,Asia,Western Asia,15,Burdur,Merkez,37.62762,30.20408
-TR,Turkey,Asia,Western Asia,15,Burdur,Tefenni,37.30968,29.77538
-TR,Turkey,Asia,Western Asia,15,Burdur,Yeşilova,37.50806,29.75472
-TR,Turkey,Asia,Western Asia,16,Bursa,Büyükorhan,39.78223,28.89338
-TR,Turkey,Asia,Western Asia,16,Bursa,Gemlik,40.4351,29.14943
-TR,Turkey,Asia,Western Asia,16,Bursa,Gürsu,40.25498,29.21183
-TR,Turkey,Asia,Western Asia,16,Bursa,Harmancık,39.67743,29.15523
-TR,Turkey,Asia,Western Asia,16,Bursa,İnegöl,40.07806,29.51333
-TR,Turkey,Asia,Western Asia,16,Bursa,İznik,40.42861,29.72111
-TR,Turkey,Asia,Western Asia,16,Bursa,Karacabey,40.21323,28.3612
-TR,Turkey,Asia,Western Asia,16,Bursa,Keles,39.91361,29.22944
-TR,Turkey,Asia,Western Asia,16,Bursa,Kestel,40.19828,29.21237
-TR,Turkey,Asia,Western Asia,16,Bursa,Mudanya,40.33342,28.77218
-TR,Turkey,Asia,Western Asia,16,Bursa,Mustafakemalpaşa,40.03815,28.40866
-TR,Turkey,Asia,Western Asia,16,Bursa,Nilüfer,40.21375,28.98464
-TR,Turkey,Asia,Western Asia,16,Bursa,Orhaneli,39.90333,28.99056
-TR,Turkey,Asia,Western Asia,16,Bursa,Orhangazi,40.48917,29.30889
-TR,Turkey,Asia,Western Asia,16,Bursa,Osmangazi,40.15644,29.08753
-TR,Turkey,Asia,Western Asia,16,Bursa,Yenişehir,40.26444,29.65306
-TR,Turkey,Asia,Western Asia,16,Bursa,Yıldırım,40.19567,29.0364
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Ayvacık,39.60111,26.40472
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Bayramiç,39.81951,26.6249
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Biga,40.26921,27.20841
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Bozcaada,39.82409,26.04069
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Çan,40.03328,27.05236
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Eceabat,40.18416,26.3574
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Ezine,39.78561,26.34083
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Gelibolu,40.41028,26.67083
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Gökçeada,40.16523,25.85907
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Lapseki,40.34417,26.68556
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Merkez,40.05093,26.49489
-TR,Turkey,Asia,Western Asia,17,Çanakkale,Yenice,39.93083,27.25806
-TR,Turkey,Asia,Western Asia,18,Çankırı,Atkaracalar,40.81593,33.07556
-TR,Turkey,Asia,Western Asia,18,Çankırı,Bayramören,40.94329,33.203
-TR,Turkey,Asia,Western Asia,18,Çankırı,Çerkeş,40.81164,32.89358
-TR,Turkey,Asia,Western Asia,18,Çankırı,Eldivan,40.52975,33.49903
-TR,Turkey,Asia,Western Asia,18,Çankırı,Ilgaz,40.92511,33.62586
-TR,Turkey,Asia,Western Asia,18,Çankırı,Kızılırmak,40.34556,33.98639
-TR,Turkey,Asia,Western Asia,18,Çankırı,Korgun,40.73479,33.51844
-TR,Turkey,Asia,Western Asia,18,Çankırı,Kurşunlu,40.84101,33.26028
-TR,Turkey,Asia,Western Asia,18,Çankırı,Merkez,40.6,33.616667
-TR,Turkey,Asia,Western Asia,18,Çankırı,Orta,40.6242,33.10928
-TR,Turkey,Asia,Western Asia,18,Çankırı,Şabanözü,40.48333,33.28333
-TR,Turkey,Asia,Western Asia,18,Çankırı,Yapraklı,40.75785,33.77819
-TR,Turkey,Asia,Western Asia,19,Çorum,Alaca,40.16833,34.8425
-TR,Turkey,Asia,Western Asia,19,Çorum,Bayat,40.64583,34.26139
-TR,Turkey,Asia,Western Asia,19,Çorum,Boğazkale,40.03031,34.61745
-TR,Turkey,Asia,Western Asia,19,Çorum,Dodurga,40.85489,34.80703
-TR,Turkey,Asia,Western Asia,19,Çorum,İskilip,40.73528,34.47389
-TR,Turkey,Asia,Western Asia,19,Çorum,Kargı,41.14377,34.49342
-TR,Turkey,Asia,Western Asia,19,Çorum,Laçin,40.77486,34.88068
-TR,Turkey,Asia,Western Asia,19,Çorum,Mecitözü,40.52,35.29528
-TR,Turkey,Asia,Western Asia,19,Çorum,Merkez,40.50905,34.85791
-TR,Turkey,Asia,Western Asia,19,Çorum,Oğuzlar,40.76323,34.70813
-TR,Turkey,Asia,Western Asia,19,Çorum,Ortaköy,40.27352,35.25175
-TR,Turkey,Asia,Western Asia,19,Çorum,Osmancık,41.0024,34.78243
-TR,Turkey,Asia,Western Asia,19,Çorum,Sungurlu,40.18213,34.28217
-TR,Turkey,Asia,Western Asia,19,Çorum,Uğurludağ,40.44631,34.45259
-TR,Turkey,Asia,Western Asia,20,Denizli,Acıpayam,37.42385,29.34941
-TR,Turkey,Asia,Western Asia,20,Denizli,Babadağ,37.80764,28.85665
-TR,Turkey,Asia,Western Asia,20,Denizli,Baklan,37.97694,29.60861
-TR,Turkey,Asia,Western Asia,20,Denizli,Bekilli,38.24027,29.42559
-TR,Turkey,Asia,Western Asia,20,Denizli,Beyağaç,37.24546,28.90041
-TR,Turkey,Asia,Western Asia,20,Denizli,Bozkurt,37.77583,29.60811
-TR,Turkey,Asia,Western Asia,20,Denizli,Buldan,38.045,28.83056
-TR,Turkey,Asia,Western Asia,20,Denizli,Çal,38.09371,29.40467
-TR,Turkey,Asia,Western Asia,20,Denizli,Çameli,37.0866,29.35225
-TR,Turkey,Asia,Western Asia,20,Denizli,Çardak,37.77485,29.70593
-TR,Turkey,Asia,Western Asia,20,Denizli,Çivril,38.30139,29.73861
-TR,Turkey,Asia,Western Asia,20,Denizli,Güney,38.16454,29.07324
-TR,Turkey,Asia,Western Asia,20,Denizli,Honaz,37.77146,29.34466
-TR,Turkey,Asia,Western Asia,20,Denizli,Kale,37.43917,28.84528
-TR,Turkey,Asia,Western Asia,20,Denizli,Merkezefendi,37.80544,29.04236
-TR,Turkey,Asia,Western Asia,20,Denizli,Pamukkale,37.91644,29.11729
-TR,Turkey,Asia,Western Asia,20,Denizli,Sarayköy,37.9158,28.87999
-TR,Turkey,Asia,Western Asia,20,Denizli,Serinhisar,37.58105,29.26639
-TR,Turkey,Asia,Western Asia,20,Denizli,Tavas,37.57351,29.07058
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Bağlar,37.91068,40.22627
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Bismil,37.84514,40.65931
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Çermik,38.13538,39.445
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Çınar,37.72562,40.41484
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Çüngüş,38.20798,39.28554
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Dicle,38.36571,40.0645
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Eğil,38.25748,40.07435
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Ergani,38.26899,39.75446
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Hani,38.40741,40.38578
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Hazro,38.24903,40.77129
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Kayapınar,37.938,40.1731
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Kocaköy,38.28889,40.49786
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Kulp,38.49754,41.00668
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Lice,38.45821,40.63888
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Silvan,38.13708,41.00817
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Sur,37.91356,40.23743
-TR,Turkey,Asia,Western Asia,21,Diyarbakır,Yenişehir,37.91373,40.2061
-TR,Turkey,Asia,Western Asia,81,Düzce,Akçakoca,41.08663,31.11623
-TR,Turkey,Asia,Western Asia,81,Düzce,Çilimli,40.90267,31.05913
-TR,Turkey,Asia,Western Asia,81,Düzce,Cumayeri,40.88176,30.94094
-TR,Turkey,Asia,Western Asia,81,Düzce,Gölyaka,40.78644,31.00276
-TR,Turkey,Asia,Western Asia,81,Düzce,Gümüşova,40.8564,30.94935
-TR,Turkey,Asia,Western Asia,81,Düzce,Kaynaşlı,40.77908,31.31135
-TR,Turkey,Asia,Western Asia,81,Düzce,Merkez,40.83889,31.16389
-TR,Turkey,Asia,Western Asia,81,Düzce,Yığılca,40.96497,31.45672
-TR,Turkey,Asia,Western Asia,22,Edirne,Enez,40.72472,26.0825
-TR,Turkey,Asia,Western Asia,22,Edirne,Havsa,41.54898,26.82207
-TR,Turkey,Asia,Western Asia,22,Edirne,İpsala,40.92115,26.38273
-TR,Turkey,Asia,Western Asia,22,Edirne,Keşan,40.85583,26.63028
-TR,Turkey,Asia,Western Asia,22,Edirne,Lâlapaşa,41.83951,26.73561
-TR,Turkey,Asia,Western Asia,22,Edirne,Meriç,41.19183,26.42097
-TR,Turkey,Asia,Western Asia,22,Edirne,Merkez,41.67719,26.55597
-TR,Turkey,Asia,Western Asia,22,Edirne,Süloğlu,41.77956,26.92602
-TR,Turkey,Asia,Western Asia,22,Edirne,Uzunköprü,41.26597,26.6885
-TR,Turkey,Asia,Western Asia,23,Elazığ,Ağın,38.93792,38.71155
-TR,Turkey,Asia,Western Asia,23,Elazığ,Alacakaya,38.462698,39.862758
-TR,Turkey,Asia,Western Asia,23,Elazığ,Arıcak,38.5634,40.1248
-TR,Turkey,Asia,Western Asia,23,Elazığ,Baskil,38.56866,38.81634
-TR,Turkey,Asia,Western Asia,23,Elazığ,Karakoçan,38.95178,40.02706
-TR,Turkey,Asia,Western Asia,23,Elazığ,Keban,38.7938,38.73517
-TR,Turkey,Asia,Western Asia,23,Elazığ,Kovancılar,38.71882,39.86268
-TR,Turkey,Asia,Western Asia,23,Elazığ,Maden,38.39354,39.67252
-TR,Turkey,Asia,Western Asia,23,Elazığ,Merkez,38.6679,39.21567
-TR,Turkey,Asia,Western Asia,23,Elazığ,Palu,38.69135,39.91984
-TR,Turkey,Asia,Western Asia,23,Elazığ,Sivrice,38.44223,39.30938
-TR,Turkey,Asia,Western Asia,24,Erzincan,Çayırlı,39.80454,40.03724
-TR,Turkey,Asia,Western Asia,24,Erzincan,İliç,39.45587,38.56409
-TR,Turkey,Asia,Western Asia,24,Erzincan,Kemah,39.59606,39.02329
-TR,Turkey,Asia,Western Asia,24,Erzincan,Kemaliye,39.26288,38.49674
-TR,Turkey,Asia,Western Asia,24,Erzincan,Merkez,39.73919,39.49015
-TR,Turkey,Asia,Western Asia,24,Erzincan,Otlukbeli,39.97,40.01872
-TR,Turkey,Asia,Western Asia,24,Erzincan,Refahiye,39.89315,38.76607
-TR,Turkey,Asia,Western Asia,24,Erzincan,Tercan,39.77709,40.37783
-TR,Turkey,Asia,Western Asia,24,Erzincan,Üzümlü,39.70943,39.70125
-TR,Turkey,Asia,Western Asia,25,Erzurum,Aşkale,39.92083,40.695
-TR,Turkey,Asia,Western Asia,25,Erzurum,Aziziye,39.94028,41.11153
-TR,Turkey,Asia,Western Asia,25,Erzurum,Çat,39.61055,40.97851
-TR,Turkey,Asia,Western Asia,25,Erzurum,Hınıs,39.35766,41.69253
-TR,Turkey,Asia,Western Asia,25,Erzurum,Horasan,40.03885,42.16366
-TR,Turkey,Asia,Western Asia,25,Erzurum,İspir,40.47981,40.99373
-TR,Turkey,Asia,Western Asia,25,Erzurum,Karaçoban,39.34364,42.09918
-TR,Turkey,Asia,Western Asia,25,Erzurum,Karayazı,39.69604,42.14277
-TR,Turkey,Asia,Western Asia,25,Erzurum,Köprüköy,39.97178,41.86804
-TR,Turkey,Asia,Western Asia,25,Erzurum,Narman,40.34449,41.86088
-TR,Turkey,Asia,Western Asia,25,Erzurum,Oltu,40.53945,41.98722
-TR,Turkey,Asia,Western Asia,25,Erzurum,Olur,40.82165,42.13055
-TR,Turkey,Asia,Western Asia,25,Erzurum,Palandöken,39.8556,41.27975
-TR,Turkey,Asia,Western Asia,25,Erzurum,Pasinler,39.97975,41.66997
-TR,Turkey,Asia,Western Asia,25,Erzurum,Pazaryolu,40.41142,40.7678
-TR,Turkey,Asia,Western Asia,25,Erzurum,Şenkaya,40.55652,42.34266
-TR,Turkey,Asia,Western Asia,25,Erzurum,Tekman,39.64111,41.50542
-TR,Turkey,Asia,Western Asia,25,Erzurum,Tortum,40.28892,41.54096
-TR,Turkey,Asia,Western Asia,25,Erzurum,Uzundere,40.53218,41.53832
-TR,Turkey,Asia,Western Asia,25,Erzurum,Yakutiye,40.00132,41.30997
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Alpu,39.76903,30.9606
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Beylikova,39.68694,31.20556
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Çifteler,39.38306,31.03917
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Günyüzü,39.3941,31.814
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Han,39.15917,30.86139
-TR,Turkey,Asia,Western Asia,26,Eskişehir,İnönü,39.81534,30.14549
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Mahmudiye,39.50724,30.99247
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Mihalgazi,40.02621,30.57707
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Mihalıççık,39.87564,31.50091
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Odunpazarı,39.76699,30.54113
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Sarıcakaya,40.04671,30.61994
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Seyitgazi,39.44472,30.69472
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Sivrihisar,39.45037,31.53409
-TR,Turkey,Asia,Western Asia,26,Eskişehir,Tepebaşı,39.7843,30.50206
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Araban,37.42559,37.78175
-TR,Turkey,Asia,Western Asia,27,Gaziantep,İslahiye,36.96528,36.70972
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Karkamış,36.83452,37.9983
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Nizip,37.00972,37.79417
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Nurdağı,37.16821,36.73623
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Oğuzeli,36.96572,37.51339
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Şahinbey,37.03741,37.37822
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Şehitkamil,37.17217,37.36974
-TR,Turkey,Asia,Western Asia,27,Gaziantep,Yavuzeli,37.31772,37.56824
-TR,Turkey,Asia,Western Asia,28,Giresun,Alucra,40.31924,38.76528
-TR,Turkey,Asia,Western Asia,28,Giresun,Bulancak,40.93805,38.23148
-TR,Turkey,Asia,Western Asia,28,Giresun,Çamoluk,40.13418,38.73389
-TR,Turkey,Asia,Western Asia,28,Giresun,Çanakçı,40.86,39.05
-TR,Turkey,Asia,Western Asia,28,Giresun,Dereli,40.613,38.39
-TR,Turkey,Asia,Western Asia,28,Giresun,Doğankent,40.8075,38.91722
-TR,Turkey,Asia,Western Asia,28,Giresun,Espiye,40.94705,38.70299
-TR,Turkey,Asia,Western Asia,28,Giresun,Eynesil,41.06436,39.14274
-TR,Turkey,Asia,Western Asia,28,Giresun,Görele,41.03083,39.00306
-TR,Turkey,Asia,Western Asia,28,Giresun,Güce,40.89368,38.80855
-TR,Turkey,Asia,Western Asia,28,Giresun,Keşap,40.91387,38.51442
-TR,Turkey,Asia,Western Asia,28,Giresun,Merkez,40.8266,38.36085
-TR,Turkey,Asia,Western Asia,28,Giresun,Piraziz,40.92244,38.12458
-TR,Turkey,Asia,Western Asia,28,Giresun,Şebinkarahisar,40.28833,38.42361
-TR,Turkey,Asia,Western Asia,28,Giresun,Tirebolu,41.00633,38.8498
-TR,Turkey,Asia,Western Asia,28,Giresun,Yağlıdere,40.85711,38.63242
-TR,Turkey,Asia,Western Asia,29,Gümüşhane,Kelkit,40.12682,39.43424
-TR,Turkey,Asia,Western Asia,29,Gümüşhane,Köse,40.20692,39.64626
-TR,Turkey,Asia,Western Asia,29,Gümüşhane,Kürtün,40.69516,39.09468
-TR,Turkey,Asia,Western Asia,29,Gümüşhane,Merkez,40.46843,39.67441
-TR,Turkey,Asia,Western Asia,29,Gümüşhane,Şiran,40.19064,39.11747
-TR,Turkey,Asia,Western Asia,29,Gümüşhane,Torul,40.55071,39.28344
-TR,Turkey,Asia,Western Asia,30,Hakkâri,Çukurca,37.24806,43.61361
-TR,Turkey,Asia,Western Asia,30,Hakkâri,Derecik,37.072423,44.324348
-TR,Turkey,Asia,Western Asia,30,Hakkâri,Merkez,37.57444,43.74083
-TR,Turkey,Asia,Western Asia,30,Hakkâri,Şemdinli,37.30514,44.5742
-TR,Turkey,Asia,Western Asia,30,Hakkâri,Yüksekova,37.54627,44.25827
-TR,Turkey,Asia,Western Asia,31,Hatay,Altınözü,36.11244,36.24488
-TR,Turkey,Asia,Western Asia,31,Hatay,Antakya,36.20655,36.15722
-TR,Turkey,Asia,Western Asia,31,Hatay,Arsuz,36.41305,35.89033
-TR,Turkey,Asia,Western Asia,31,Hatay,Belen,36.48866,36.19489
-TR,Turkey,Asia,Western Asia,31,Hatay,Defne,36.23739,36.16364
-TR,Turkey,Asia,Western Asia,31,Hatay,Dörtyol,36.83917,36.23025
-TR,Turkey,Asia,Western Asia,31,Hatay,Erzin,36.95348,36.19839
-TR,Turkey,Asia,Western Asia,31,Hatay,Hassa,36.79944,36.51778
-TR,Turkey,Asia,Western Asia,31,Hatay,İskenderun,36.58718,36.17347
-TR,Turkey,Asia,Western Asia,31,Hatay,Kırıkhan,36.49939,36.35755
-TR,Turkey,Asia,Western Asia,31,Hatay,Kumlu,36.36508,36.45526
-TR,Turkey,Asia,Western Asia,31,Hatay,Payas,36.756,36.21432
-TR,Turkey,Asia,Western Asia,31,Hatay,Reyhanlı,36.26791,36.56747
-TR,Turkey,Asia,Western Asia,31,Hatay,Samandağ,36.085,35.980556
-TR,Turkey,Asia,Western Asia,31,Hatay,Yayladağı,35.9025,36.06272
-TR,Turkey,Asia,Western Asia,76,Iğdır,Aralık,39.872778,44.519167
-TR,Turkey,Asia,Western Asia,76,Iğdır,Karakoyunlu,39.87036,43.63014
-TR,Turkey,Asia,Western Asia,76,Iğdır,Merkez,39.92371,44.045
-TR,Turkey,Asia,Western Asia,76,Iğdır,Tuzluca,40.03863,43.65212
-TR,Turkey,Asia,Western Asia,32,Isparta,Aksu,37.79889,31.07111
-TR,Turkey,Asia,Western Asia,32,Isparta,Atabey,37.95083,30.63861
-TR,Turkey,Asia,Western Asia,32,Isparta,Eğirdir,37.87462,30.85042
-TR,Turkey,Asia,Western Asia,32,Isparta,Gelendost,38.12083,31.01528
-TR,Turkey,Asia,Western Asia,32,Isparta,Gönen,37.95639,30.5114
-TR,Turkey,Asia,Western Asia,32,Isparta,Keçiborlu,37.9425,30.30222
-TR,Turkey,Asia,Western Asia,32,Isparta,Merkez,37.76444,30.55222
-TR,Turkey,Asia,Western Asia,32,Isparta,Şarkikaraağaç,38.07944,31.36639
-TR,Turkey,Asia,Western Asia,32,Isparta,Senirkent,38.10444,30.54861
-TR,Turkey,Asia,Western Asia,32,Isparta,Sütçüler,37.5112,30.95661
-TR,Turkey,Asia,Western Asia,32,Isparta,Uluborlu,38.07825,30.45019
-TR,Turkey,Asia,Western Asia,32,Isparta,Yalvaç,38.29556,31.17778
-TR,Turkey,Asia,Western Asia,32,Isparta,Yenişarbademli,37.70778,31.38639
-TR,Turkey,Asia,Western Asia,34,İstanbul,Adalar,40.86913,29.12064
-TR,Turkey,Asia,Western Asia,34,İstanbul,Arnavutköy,41.19674,28.73405
-TR,Turkey,Asia,Western Asia,34,İstanbul,Ataşehir,40.99104,29.13471
-TR,Turkey,Asia,Western Asia,34,İstanbul,Avcılar,41.02355,28.7186
-TR,Turkey,Asia,Western Asia,34,İstanbul,Bağcılar,41.04275,28.83625
-TR,Turkey,Asia,Western Asia,34,İstanbul,Bahçelievler,41.00652,28.84099
-TR,Turkey,Asia,Western Asia,34,İstanbul,Bakırköy,40.98388,28.83541
-TR,Turkey,Asia,Western Asia,34,İstanbul,Başakşehir,41.09203,28.80203
-TR,Turkey,Asia,Western Asia,34,İstanbul,Bayrampaşa,41.04691,28.90278
-TR,Turkey,Asia,Western Asia,34,İstanbul,Beşiktaş,41.07122,29.02321
-TR,Turkey,Asia,Western Asia,34,İstanbul,Beykoz,41.13774,29.16932
-TR,Turkey,Asia,Western Asia,34,İstanbul,Beylikdüzü,41.00322,28.64067
-TR,Turkey,Asia,Western Asia,34,İstanbul,Beyoğlu,41.03786,28.96767
-TR,Turkey,Asia,Western Asia,34,İstanbul,Büyükçekmece,41.04521,28.59573
-TR,Turkey,Asia,Western Asia,34,İstanbul,Çatalca,41.29651,28.45419
-TR,Turkey,Asia,Western Asia,34,İstanbul,Çekmeköy,41.03819,29.20029
-TR,Turkey,Asia,Western Asia,34,İstanbul,Esenler,41.07925,28.85235
-TR,Turkey,Asia,Western Asia,34,İstanbul,Esenyurt,41.04,28.66161
-TR,Turkey,Asia,Western Asia,34,İstanbul,Eyüpsultan,41.19904,28.88667
-TR,Turkey,Asia,Western Asia,34,İstanbul,Fatih,41.01746,28.94053
-TR,Turkey,Asia,Western Asia,34,İstanbul,Gaziosmanpaşa,41.07857,28.89679
-TR,Turkey,Asia,Western Asia,34,İstanbul,Güngören,41.01787,28.87882
-TR,Turkey,Asia,Western Asia,34,İstanbul,Istanbul,41.0053702,28.6825162
-TR,Turkey,Asia,Western Asia,34,İstanbul,Kadıköy,40.98229,29.09032
-TR,Turkey,Asia,Western Asia,34,İstanbul,Kâğıthane,41.08319,28.97826
-TR,Turkey,Asia,Western Asia,34,İstanbul,Kartal,40.91197,29.2119
-TR,Turkey,Asia,Western Asia,34,İstanbul,Küçükçekmece,41.06947,28.76983
-TR,Turkey,Asia,Western Asia,34,İstanbul,Maltepe,40.9589,29.17866
-TR,Turkey,Asia,Western Asia,34,İstanbul,Pendik,40.94577,29.33019
-TR,Turkey,Asia,Western Asia,34,İstanbul,Sancaktepe,40.98949,29.2432
-TR,Turkey,Asia,Western Asia,34,İstanbul,Sarıyer,41.21482,29.05678
-TR,Turkey,Asia,Western Asia,34,İstanbul,Şile,41.12902,29.61845
-TR,Turkey,Asia,Western Asia,34,İstanbul,Silivri,41.18116,28.1989
-TR,Turkey,Asia,Western Asia,34,İstanbul,Şişli,41.12514,29.00013
-TR,Turkey,Asia,Western Asia,34,İstanbul,Sultanbeyli,40.95264,29.26797
-TR,Turkey,Asia,Western Asia,34,İstanbul,Sultangazi,41.21792,28.7174
-TR,Turkey,Asia,Western Asia,34,İstanbul,Tuzla,40.86368,29.31942
-TR,Turkey,Asia,Western Asia,34,İstanbul,Ümraniye,41.01643,29.12476
-TR,Turkey,Asia,Western Asia,34,İstanbul,Üsküdar,41.02274,29.01366
-TR,Turkey,Asia,Western Asia,34,İstanbul,Zeytinburnu,41.00824,28.90952
-TR,Turkey,Asia,Western Asia,35,İzmir,Aliağa,38.80078,27.04375
-TR,Turkey,Asia,Western Asia,35,İzmir,Balçova,38.37302,27.08714
-TR,Turkey,Asia,Western Asia,35,İzmir,Bayındır,38.21741,27.64744
-TR,Turkey,Asia,Western Asia,35,İzmir,Bayraklı,38.46222,27.16667
-TR,Turkey,Asia,Western Asia,35,İzmir,Bergama,39.17088,27.18918
-TR,Turkey,Asia,Western Asia,35,İzmir,Beydağ,38.08241,28.21609
-TR,Turkey,Asia,Western Asia,35,İzmir,Bornova,38.48492,27.25235
-TR,Turkey,Asia,Western Asia,35,İzmir,Buca,38.34813,27.25053
-TR,Turkey,Asia,Western Asia,35,İzmir,Çeşme,38.32614,26.30574
-TR,Turkey,Asia,Western Asia,35,İzmir,Çiğli,38.48802,26.96596
-TR,Turkey,Asia,Western Asia,35,İzmir,Dikili,39.071,26.89017
-TR,Turkey,Asia,Western Asia,35,İzmir,Foça,38.6703,26.75656
-TR,Turkey,Asia,Western Asia,35,İzmir,Gaziemir,38.31098,27.15178
-TR,Turkey,Asia,Western Asia,35,İzmir,Güzelbahçe,38.37046,26.8693
-TR,Turkey,Asia,Western Asia,35,İzmir,İzmir,38.4178287,26.914903
-TR,Turkey,Asia,Western Asia,35,İzmir,Karabağlar,38.36912,27.12696
-TR,Turkey,Asia,Western Asia,35,İzmir,Karaburun,38.6364,26.51094
-TR,Turkey,Asia,Western Asia,35,İzmir,Karşıyaka,38.46775,27.11502
-TR,Turkey,Asia,Western Asia,35,İzmir,Kemalpaşa,38.40883,27.491
-TR,Turkey,Asia,Western Asia,35,İzmir,Kiraz,38.23056,28.20444
-TR,Turkey,Asia,Western Asia,35,İzmir,Kınık,39.08722,27.38333
-TR,Turkey,Asia,Western Asia,35,İzmir,Konak,38.41448,27.14412
-TR,Turkey,Asia,Western Asia,35,İzmir,Menderes,38.24963,27.13429
-TR,Turkey,Asia,Western Asia,35,İzmir,Menemen,38.61608,27.06315
-TR,Turkey,Asia,Western Asia,35,İzmir,Narlıdere,38.38957,27.02431
-TR,Turkey,Asia,Western Asia,35,İzmir,Ödemiş,38.2278,27.96955
-TR,Turkey,Asia,Western Asia,35,İzmir,Seferihisar,38.18144,26.88877
-TR,Turkey,Asia,Western Asia,35,İzmir,Selçuk,37.95137,27.36849
-TR,Turkey,Asia,Western Asia,35,İzmir,Tire,38.06582,27.7273
-TR,Turkey,Asia,Western Asia,35,İzmir,Torbalı,38.17603,27.37182
-TR,Turkey,Asia,Western Asia,35,İzmir,Urla,38.32292,26.76403
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Afşin,38.24769,36.91399
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Andırın,37.57757,36.35492
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Çağlayancerit,37.74523,37.28618
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Dulkadiroğlu,37.58254,36.91973
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Ekinözü,38.07007,37.19414
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Elbistan,38.20591,37.1983
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Göksun,38.02096,36.4973
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Nurhak,37.96366,37.44047
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Onikişubat,37.59002,36.90548
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Pazarcık,37.48685,37.29961
-TR,Turkey,Asia,Western Asia,46,Kahramanmaraş,Türkoğlu,37.38417,36.84626
-TR,Turkey,Asia,Western Asia,78,Karabük,Eflani,41.42289,32.95761
-TR,Turkey,Asia,Western Asia,78,Karabük,Eskipazar,40.95207,32.54604
-TR,Turkey,Asia,Western Asia,78,Karabük,Merkez,41.20488,32.62768
-TR,Turkey,Asia,Western Asia,78,Karabük,Ovacık,41.08029,32.93224
-TR,Turkey,Asia,Western Asia,78,Karabük,Safranbolu,41.25083,32.69417
-TR,Turkey,Asia,Western Asia,78,Karabük,Yenice,41.19962,32.33133
-TR,Turkey,Asia,Western Asia,70,Karaman,Ayrancı,37.37111,33.69291
-TR,Turkey,Asia,Western Asia,70,Karaman,Başyayla,36.75337,32.68018
-TR,Turkey,Asia,Western Asia,70,Karaman,Ermenek,36.64043,32.89179
-TR,Turkey,Asia,Western Asia,70,Karaman,Kazımkarabekir,37.23028,32.95889
-TR,Turkey,Asia,Western Asia,70,Karaman,Merkez,37.18111,33.215
-TR,Turkey,Asia,Western Asia,70,Karaman,Sarıveliler,36.69705,32.61203
-TR,Turkey,Asia,Western Asia,36,Kars,Akyaka,40.74093,43.61432
-TR,Turkey,Asia,Western Asia,36,Kars,Arpaçay,40.84522,43.32747
-TR,Turkey,Asia,Western Asia,36,Kars,Digor,40.37515,43.41361
-TR,Turkey,Asia,Western Asia,36,Kars,Kağızman,40.15669,43.13424
-TR,Turkey,Asia,Western Asia,36,Kars,Merkez,40.59825,43.08548
-TR,Turkey,Asia,Western Asia,36,Kars,Sarıkamış,40.32769,42.58705
-TR,Turkey,Asia,Western Asia,36,Kars,Selim,40.45772,42.78287
-TR,Turkey,Asia,Western Asia,36,Kars,Susuz,40.7791,43.12769
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Abana,41.97858,34.011
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Ağlı,41.69283,33.54487
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Araç,41.24222,33.32767
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Azdavay,41.64267,33.3
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Bozkurt,41.95769,34.01087
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Çatalzeytin,41.93795,34.20285
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Cide,41.85583,33.03977
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Daday,41.47866,33.46667
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Devrekani,41.60303,33.83922
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Doğanyurt,42.00457,33.46029
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Hanönü,41.62705,34.46667
-TR,Turkey,Asia,Western Asia,37,Kastamonu,İhsangazi,41.20432,33.55455
-TR,Turkey,Asia,Western Asia,37,Kastamonu,İnebolu,41.97472,33.76083
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Küre,41.80578,33.71161
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Merkez,41.37805,33.77528
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Pınarbaşı,41.60388,33.11099
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Şenpazar,41.81651,33.21766
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Seydiler,41.62005,33.71815
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Taşköprü,41.5098,34.21414
-TR,Turkey,Asia,Western Asia,37,Kastamonu,Tosya,41.01545,34.04013
-TR,Turkey,Asia,Western Asia,38,Kayseri,Akkışla,39.00222,36.17381
-TR,Turkey,Asia,Western Asia,38,Kayseri,Bünyan,38.8463,35.86033
-TR,Turkey,Asia,Western Asia,38,Kayseri,Develi,38.26789,35.59161
-TR,Turkey,Asia,Western Asia,38,Kayseri,Felahiye,39.09056,35.56722
-TR,Turkey,Asia,Western Asia,38,Kayseri,Hacılar,38.64631,35.44937
-TR,Turkey,Asia,Western Asia,38,Kayseri,İncesu,38.63789,35.19394
-TR,Turkey,Asia,Western Asia,38,Kayseri,Kayseri,38.7235532,35.3053732
-TR,Turkey,Asia,Western Asia,38,Kayseri,Kocasinan,38.87959,35.3554
-TR,Turkey,Asia,Western Asia,38,Kayseri,Melikgazi,38.77933,35.66076
-TR,Turkey,Asia,Western Asia,38,Kayseri,Özvatan,39.11737,35.71149
-TR,Turkey,Asia,Western Asia,38,Kayseri,Pınarbaşı,38.72285,36.39314
-TR,Turkey,Asia,Western Asia,38,Kayseri,Sarıoğlan,39.07694,35.96671
-TR,Turkey,Asia,Western Asia,38,Kayseri,Sarız,38.47917,36.49898
-TR,Turkey,Asia,Western Asia,38,Kayseri,Talas,38.6908,35.5538
-TR,Turkey,Asia,Western Asia,38,Kayseri,Tomarza,38.44722,35.79917
-TR,Turkey,Asia,Western Asia,38,Kayseri,Yahyalı,38.10228,35.35704
-TR,Turkey,Asia,Western Asia,38,Kayseri,Yeşilhisar,38.33475,35.11795
-TR,Turkey,Asia,Western Asia,79,Kilis,Elbeyli,36.67417,37.46667
-TR,Turkey,Asia,Western Asia,79,Kilis,Merkez,36.71611,37.115
-TR,Turkey,Asia,Western Asia,79,Kilis,Musabeyli,36.88639,36.91861
-TR,Turkey,Asia,Western Asia,79,Kilis,Polateli,36.83694,37.15083
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Bahşılı,39.80979,33.4408
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Balışeyh,39.91411,33.72333
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Çelebi,39.4747,33.52895
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Delice,39.95371,34.02587
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Karakeçili,39.59417,33.37778
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Keskin,39.67306,33.61361
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Merkez,39.84528,33.50639
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Sulakyurt,40.15733,33.716
-TR,Turkey,Asia,Western Asia,71,Kırıkkale,Yahşihan,39.85992,33.45615
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Babaeski,41.4325,27.09306
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Demirköy,41.83567,27.77137
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Kofçaz,41.94481,27.15829
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Lüleburgaz,41.41495,27.37325
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Merkez,41.73508,27.22521
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Pehlivanköy,41.34812,26.92522
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Pınarhisar,41.62417,27.52
-TR,Turkey,Asia,Western Asia,39,Kırklareli,Vize,41.5725,27.76583
-TR,Turkey,Asia,Western Asia,40,Kırşehir,Akçakent,39.63184,34.08468
-TR,Turkey,Asia,Western Asia,40,Kırşehir,Akpınar,39.45005,33.96484
-TR,Turkey,Asia,Western Asia,40,Kırşehir,Boztepe,39.27979,34.26657
-TR,Turkey,Asia,Western Asia,40,Kırşehir,Çiçekdağı,39.60694,34.40861
-TR,Turkey,Asia,Western Asia,40,Kırşehir,Kaman,39.3575,33.72389
-TR,Turkey,Asia,Western Asia,40,Kırşehir,Merkez,39.14583,34.16389
-TR,Turkey,Asia,Western Asia,40,Kırşehir,Mucur,39.06147,34.38286
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Başiskele,40.64574,29.90015
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Çayırova,40.82784,29.39014
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Darıca,40.7678,29.37126
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Derince,40.75694,29.81472
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Dilovası,40.77972,29.535
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Gebze,40.80276,29.43068
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Gölcük,40.70323,29.87216
-TR,Turkey,Asia,Western Asia,41,Kocaeli,İzmit,40.77521,29.94624
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Kandıra,41.07,30.15262
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Karamürsel,40.69129,29.61649
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Kartepe,40.75246,30.02787
-TR,Turkey,Asia,Western Asia,41,Kocaeli,Körfez,40.76704,29.78275
-TR,Turkey,Asia,Western Asia,42,Konya,Ahırlı,37.24828,32.12419
-TR,Turkey,Asia,Western Asia,42,Konya,Akören,37.46265,32.37489
-TR,Turkey,Asia,Western Asia,42,Konya,Akşehir,38.3575,31.41639
-TR,Turkey,Asia,Western Asia,42,Konya,Altınekin,38.30778,32.86861
-TR,Turkey,Asia,Western Asia,42,Konya,Beyşehir,37.67735,31.72458
-TR,Turkey,Asia,Western Asia,42,Konya,Bozkır,37.18963,32.24736
-TR,Turkey,Asia,Western Asia,42,Konya,Çeltik,39.03388,31.79408
-TR,Turkey,Asia,Western Asia,42,Konya,Cihanbeyli,38.66072,32.92437
-TR,Turkey,Asia,Western Asia,42,Konya,Çumra,37.5732,32.77446
-TR,Turkey,Asia,Western Asia,42,Konya,Derbent,38.01422,32.01639
-TR,Turkey,Asia,Western Asia,42,Konya,Derebucak,37.39179,31.50918
-TR,Turkey,Asia,Western Asia,42,Konya,Doğanhisar,38.1463,31.67648
-TR,Turkey,Asia,Western Asia,42,Konya,Emirgazi,37.90222,33.83722
-TR,Turkey,Asia,Western Asia,42,Konya,Ereğli,37.51333,34.04672
-TR,Turkey,Asia,Western Asia,42,Konya,Güneysınır,37.27977,32.73735
-TR,Turkey,Asia,Western Asia,42,Konya,Hadim,36.98776,32.45674
-TR,Turkey,Asia,Western Asia,42,Konya,Halkapınar,37.43394,34.18743
-TR,Turkey,Asia,Western Asia,42,Konya,Hüyük,37.95388,31.59639
-TR,Turkey,Asia,Western Asia,42,Konya,Ilgın,38.27917,31.91389
-TR,Turkey,Asia,Western Asia,42,Konya,Kadınhanı,38.23972,32.21139
-TR,Turkey,Asia,Western Asia,42,Konya,Karapınar,37.71596,33.55064
-TR,Turkey,Asia,Western Asia,42,Konya,Karatay,37.94001,32.99828
-TR,Turkey,Asia,Western Asia,42,Konya,Kulu,39.09513,33.07989
-TR,Turkey,Asia,Western Asia,42,Konya,Meram,37.83984,32.47111
-TR,Turkey,Asia,Western Asia,42,Konya,Sarayönü,38.26201,32.40457
-TR,Turkey,Asia,Western Asia,42,Konya,Selçuklu,38.05761,32.54088
-TR,Turkey,Asia,Western Asia,42,Konya,Seydişehir,37.41926,31.84527
-TR,Turkey,Asia,Western Asia,42,Konya,Taşkent,36.9243,32.49131
-TR,Turkey,Asia,Western Asia,42,Konya,Tuzlukçu,38.47778,31.62639
-TR,Turkey,Asia,Western Asia,42,Konya,Yalıhüyük,37.30077,32.08548
-TR,Turkey,Asia,Western Asia,42,Konya,Yunak,38.81418,31.73223
-TR,Turkey,Asia,Western Asia,43,Kütahya,Altıntaş,39.06932,30.12048
-TR,Turkey,Asia,Western Asia,43,Kütahya,Aslanapa,39.21581,29.8699
-TR,Turkey,Asia,Western Asia,43,Kütahya,Çavdarhisar,39.20333,29.63094
-TR,Turkey,Asia,Western Asia,43,Kütahya,Domaniç,39.80194,29.60918
-TR,Turkey,Asia,Western Asia,43,Kütahya,Dumlupınar,38.85408,29.9772
-TR,Turkey,Asia,Western Asia,43,Kütahya,Emet,39.343,29.25847
-TR,Turkey,Asia,Western Asia,43,Kütahya,Gediz,38.99389,29.39131
-TR,Turkey,Asia,Western Asia,43,Kütahya,Hisarcık,39.25987,29.24134
-TR,Turkey,Asia,Western Asia,43,Kütahya,Merkez,39.42417,29.98333
-TR,Turkey,Asia,Western Asia,43,Kütahya,Pazarlar,38.995,29.12583
-TR,Turkey,Asia,Western Asia,43,Kütahya,Şaphane,39.0273,29.22218
-TR,Turkey,Asia,Western Asia,43,Kütahya,Simav,39.0882,28.97767
-TR,Turkey,Asia,Western Asia,43,Kütahya,Tavşanlı,39.54237,29.49866
-TR,Turkey,Asia,Western Asia,44,Malatya,Akçadağ,38.33899,37.97021
-TR,Turkey,Asia,Western Asia,44,Malatya,Arapgir,39.04117,38.49516
-TR,Turkey,Asia,Western Asia,44,Malatya,Arguvan,38.78172,38.26349
-TR,Turkey,Asia,Western Asia,44,Malatya,Battalgazi,38.43932,38.45764
-TR,Turkey,Asia,Western Asia,44,Malatya,Darende,38.54583,37.50583
-TR,Turkey,Asia,Western Asia,44,Malatya,Doğanşehir,38.08574,37.87116
-TR,Turkey,Asia,Western Asia,44,Malatya,Doğanyol,38.30746,39.03431
-TR,Turkey,Asia,Western Asia,44,Malatya,Hekimhan,38.81622,37.92882
-TR,Turkey,Asia,Western Asia,44,Malatya,Kale,39.03333,38
-TR,Turkey,Asia,Western Asia,44,Malatya,Kuluncak,38.87656,37.66279
-TR,Turkey,Asia,Western Asia,44,Malatya,Pütürge,38.1963,38.87418
-TR,Turkey,Asia,Western Asia,44,Malatya,Yazıhan,38.59292,38.17327
-TR,Turkey,Asia,Western Asia,44,Malatya,Yeşilyurt,38.29602,38.24526
-TR,Turkey,Asia,Western Asia,45,Manisa,Ahmetli,38.5196,27.93865
-TR,Turkey,Asia,Western Asia,45,Manisa,Akhisar,38.91852,27.84006
-TR,Turkey,Asia,Western Asia,45,Manisa,Alaşehir,38.35083,28.51718
-TR,Turkey,Asia,Western Asia,45,Manisa,Demirci,39.04607,28.65889
-TR,Turkey,Asia,Western Asia,45,Manisa,Gölmarmara,38.71389,27.91417
-TR,Turkey,Asia,Western Asia,45,Manisa,Gördes,38.93278,28.28942
-TR,Turkey,Asia,Western Asia,45,Manisa,Kırkağaç,39.10638,27.66925
-TR,Turkey,Asia,Western Asia,45,Manisa,Köprübaşı,38.74972,28.40472
-TR,Turkey,Asia,Western Asia,45,Manisa,Kula,38.56775,28.64146
-TR,Turkey,Asia,Western Asia,45,Manisa,Salihli,38.49254,28.15264
-TR,Turkey,Asia,Western Asia,45,Manisa,Sarıgöl,38.23953,28.69663
-TR,Turkey,Asia,Western Asia,45,Manisa,Saruhanlı,38.76778,27.64714
-TR,Turkey,Asia,Western Asia,45,Manisa,Şehzadeler,38.6166,27.43861
-TR,Turkey,Asia,Western Asia,45,Manisa,Selendi,38.74444,28.86778
-TR,Turkey,Asia,Western Asia,45,Manisa,Soma,39.18554,27.60945
-TR,Turkey,Asia,Western Asia,45,Manisa,Turgutlu,38.51515,27.73515
-TR,Turkey,Asia,Western Asia,45,Manisa,Yunusemre,38.62063,27.40806
-TR,Turkey,Asia,Western Asia,47,Mardin,Artuklu,37.31714,40.72473
-TR,Turkey,Asia,Western Asia,47,Mardin,Dargeçit,37.54616,41.71652
-TR,Turkey,Asia,Western Asia,47,Mardin,Derik,37.36431,40.26883
-TR,Turkey,Asia,Western Asia,47,Mardin,Kızıltepe,37.18836,40.57723
-TR,Turkey,Asia,Western Asia,47,Mardin,Mazıdağı,37.47801,40.48152
-TR,Turkey,Asia,Western Asia,47,Mardin,Midyat,37.41908,41.33909
-TR,Turkey,Asia,Western Asia,47,Mardin,Nusaybin,37.07028,41.21465
-TR,Turkey,Asia,Western Asia,47,Mardin,Ömerli,37.39903,40.95442
-TR,Turkey,Asia,Western Asia,47,Mardin,Savur,37.53544,40.87876
-TR,Turkey,Asia,Western Asia,47,Mardin,Yeşilli,37.33813,40.81739
-TR,Turkey,Asia,Western Asia,33,Mersin,Akdeniz,36.86424,34.67731
-TR,Turkey,Asia,Western Asia,33,Mersin,Anamur,36.07508,32.83691
-TR,Turkey,Asia,Western Asia,33,Mersin,Aydıncık,36.1437,33.32016
-TR,Turkey,Asia,Western Asia,33,Mersin,Bozyazı,36.1082,32.96113
-TR,Turkey,Asia,Western Asia,33,Mersin,Çamlıyayla,37.18,34.60678
-TR,Turkey,Asia,Western Asia,33,Mersin,Erdemli,36.60498,34.30836
-TR,Turkey,Asia,Western Asia,33,Mersin,Gülnar,36.34148,33.39921
-TR,Turkey,Asia,Western Asia,33,Mersin,Mersin,36.7428767,34.3640915
-TR,Turkey,Asia,Western Asia,33,Mersin,Mezitli,36.894,34.42987
-TR,Turkey,Asia,Western Asia,33,Mersin,Mut,36.71842,33.38718
-TR,Turkey,Asia,Western Asia,33,Mersin,Silifke,36.37778,33.93444
-TR,Turkey,Asia,Western Asia,33,Mersin,Tarsus,36.91766,34.89277
-TR,Turkey,Asia,Western Asia,33,Mersin,Toroslar,36.87083,34.60299
-TR,Turkey,Asia,Western Asia,33,Mersin,Yenişehir,36.81602,34.57621
-TR,Turkey,Asia,Western Asia,48,Muğla,Bodrum,37.065,27.49819
-TR,Turkey,Asia,Western Asia,48,Muğla,Dalaman,36.81691,28.87815
-TR,Turkey,Asia,Western Asia,48,Muğla,Datça,36.73778,27.68417
-TR,Turkey,Asia,Western Asia,48,Muğla,Fethiye,36.64038,29.12758
-TR,Turkey,Asia,Western Asia,48,Muğla,Kavaklıdere,37.43929,28.38402
-TR,Turkey,Asia,Western Asia,48,Muğla,Köyceğiz,36.97798,28.72418
-TR,Turkey,Asia,Western Asia,48,Muğla,Marmaris,36.855,28.27417
-TR,Turkey,Asia,Western Asia,48,Muğla,Menteşe,37.21447,28.36168
-TR,Turkey,Asia,Western Asia,48,Muğla,Milas,37.31639,27.78389
-TR,Turkey,Asia,Western Asia,48,Muğla,Ortaca,36.83915,28.76457
-TR,Turkey,Asia,Western Asia,48,Muğla,Seydikemer,36.64308,29.34929
-TR,Turkey,Asia,Western Asia,48,Muğla,Ula,37.10491,28.41667
-TR,Turkey,Asia,Western Asia,48,Muğla,Yatağan,37.35864,28.11441
-TR,Turkey,Asia,Western Asia,49,Muş,Bulanık,39.08656,42.27158
-TR,Turkey,Asia,Western Asia,49,Muş,Hasköy,38.68231,41.67851
-TR,Turkey,Asia,Western Asia,49,Muş,Korkut,38.7339,41.78396
-TR,Turkey,Asia,Western Asia,49,Muş,Malazgirt,39.1465,42.53536
-TR,Turkey,Asia,Western Asia,49,Muş,Merkez,38.83793,41.48332
-TR,Turkey,Asia,Western Asia,49,Muş,Varto,39.17375,41.45402
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Acıgöl,38.55028,34.50917
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Avanos,38.715,34.84667
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Derinkuyu,38.3751,34.73419
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Gülşehir,38.74594,34.62524
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Hacıbektaş,38.94077,34.5577
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Kozaklı,39.23204,34.85585
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Merkez,38.60039,34.68537
-TR,Turkey,Asia,Western Asia,50,Nevşehir,Ürgüp,38.57342,34.9402
-TR,Turkey,Asia,Western Asia,51,Niğde,Altunhisar,37.99159,34.37334
-TR,Turkey,Asia,Western Asia,51,Niğde,Bor,37.89056,34.55889
-TR,Turkey,Asia,Western Asia,51,Niğde,Çamardı,37.84157,34.99005
-TR,Turkey,Asia,Western Asia,51,Niğde,Çiftlik,38.1758,34.48535
-TR,Turkey,Asia,Western Asia,51,Niğde,Merkez,37.96583,34.67935
-TR,Turkey,Asia,Western Asia,51,Niğde,Ulukışla,37.54592,34.58737
-TR,Turkey,Asia,Western Asia,52,Ordu,Akkuş,40.81,36.96
-TR,Turkey,Asia,Western Asia,52,Ordu,Altınordu,40.94879,37.79572
-TR,Turkey,Asia,Western Asia,52,Ordu,Aybastı,40.6969,37.40794
-TR,Turkey,Asia,Western Asia,52,Ordu,Çamaş,40.902,37.52786
-TR,Turkey,Asia,Western Asia,52,Ordu,Çatalpınar,40.88678,37.44329
-TR,Turkey,Asia,Western Asia,52,Ordu,Çaybaşı,41.02532,37.10867
-TR,Turkey,Asia,Western Asia,52,Ordu,Fatsa,41.02778,37.50139
-TR,Turkey,Asia,Western Asia,52,Ordu,Gölköy,40.68726,37.6166
-TR,Turkey,Asia,Western Asia,52,Ordu,Gülyalı,40.96682,38.05679
-TR,Turkey,Asia,Western Asia,52,Ordu,Gürgentepe,40.78567,37.58969
-TR,Turkey,Asia,Western Asia,52,Ordu,İkizce,41.05833,37.08028
-TR,Turkey,Asia,Western Asia,52,Ordu,Kabadüz,40.86096,37.8847
-TR,Turkey,Asia,Western Asia,52,Ordu,Kabataş,40.75,37.45
-TR,Turkey,Asia,Western Asia,52,Ordu,Korgan,40.82472,37.34667
-TR,Turkey,Asia,Western Asia,52,Ordu,Kumru,40.87444,37.26389
-TR,Turkey,Asia,Western Asia,52,Ordu,Mesudiye,40.45446,37.77353
-TR,Turkey,Asia,Western Asia,52,Ordu,Perşembe,41.06556,37.77139
-TR,Turkey,Asia,Western Asia,52,Ordu,Ulubey,40.86863,37.75405
-TR,Turkey,Asia,Western Asia,52,Ordu,Ünye,41.13921,37.27246
-TR,Turkey,Asia,Western Asia,80,Osmaniye,Bahçe,37.20105,36.57687
-TR,Turkey,Asia,Western Asia,80,Osmaniye,Düziçi,37.25062,36.47051
-TR,Turkey,Asia,Western Asia,80,Osmaniye,Hasanbeyli,37.12838,36.54608
-TR,Turkey,Asia,Western Asia,80,Osmaniye,Kadirli,37.37389,36.09611
-TR,Turkey,Asia,Western Asia,80,Osmaniye,Merkez,37.07417,36.24778
-TR,Turkey,Asia,Western Asia,80,Osmaniye,Sumbas,37.46169,36.02914
-TR,Turkey,Asia,Western Asia,80,Osmaniye,Toprakkale,37.06855,36.14661
-TR,Turkey,Asia,Western Asia,53,Rize,Ardeşen,41.19111,40.9875
-TR,Turkey,Asia,Western Asia,53,Rize,Çamlıhemşin,41.045938,41.005275
-TR,Turkey,Asia,Western Asia,53,Rize,Çayeli,41.08941,40.73696
-TR,Turkey,Asia,Western Asia,53,Rize,Derepazarı,41.024722,40.425556
-TR,Turkey,Asia,Western Asia,53,Rize,Fındıklı,41.2711,41.14449
-TR,Turkey,Asia,Western Asia,53,Rize,Güneysu,40.9813,40.60465
-TR,Turkey,Asia,Western Asia,53,Rize,Hemşin,41.05922,40.9014
-TR,Turkey,Asia,Western Asia,53,Rize,İkizdere,40.77713,40.56076
-TR,Turkey,Asia,Western Asia,53,Rize,İyidere,41.00905,40.37776
-TR,Turkey,Asia,Western Asia,53,Rize,Kalkandere,40.92143,40.43999
-TR,Turkey,Asia,Western Asia,53,Rize,Merkez,41.02083,40.52194
-TR,Turkey,Asia,Western Asia,53,Rize,Pazar,41.17917,40.88417
-TR,Turkey,Asia,Western Asia,54,Sakarya,Adapazarı,40.78056,30.40333
-TR,Turkey,Asia,Western Asia,54,Sakarya,Akyazı,40.685,30.62222
-TR,Turkey,Asia,Western Asia,54,Sakarya,Arifiye,40.71327,30.36128
-TR,Turkey,Asia,Western Asia,54,Sakarya,Erenler,40.75564,30.41453
-TR,Turkey,Asia,Western Asia,54,Sakarya,Ferizli,40.94082,30.48583
-TR,Turkey,Asia,Western Asia,54,Sakarya,Geyve,40.5075,30.2925
-TR,Turkey,Asia,Western Asia,54,Sakarya,Hendek,40.79944,30.74806
-TR,Turkey,Asia,Western Asia,54,Sakarya,Karapürçek,40.64194,30.53944
-TR,Turkey,Asia,Western Asia,54,Sakarya,Karasu,41.09983,30.68241
-TR,Turkey,Asia,Western Asia,54,Sakarya,Kaynarca,41.03083,30.3075
-TR,Turkey,Asia,Western Asia,54,Sakarya,Kocaali,41.05336,30.85278
-TR,Turkey,Asia,Western Asia,54,Sakarya,Pamukova,40.5081,30.16732
-TR,Turkey,Asia,Western Asia,54,Sakarya,Sapanca,40.69141,30.26738
-TR,Turkey,Asia,Western Asia,54,Sakarya,Serdivan,40.76371,30.36784
-TR,Turkey,Asia,Western Asia,54,Sakarya,Söğütlü,40.9059,30.47448
-TR,Turkey,Asia,Western Asia,54,Sakarya,Taraklı,40.39694,30.49278
-TR,Turkey,Asia,Western Asia,55,Samsun,Alaçam,41.61563,35.60632
-TR,Turkey,Asia,Western Asia,55,Samsun,Asarcık,41.03556,36.23556
-TR,Turkey,Asia,Western Asia,55,Samsun,Atakum,41.3473,36.23051
-TR,Turkey,Asia,Western Asia,55,Samsun,Ayvacık,40.99111,36.63139
-TR,Turkey,Asia,Western Asia,55,Samsun,Bafra,41.46082,35.84435
-TR,Turkey,Asia,Western Asia,55,Samsun,Canik,41.23858,36.33694
-TR,Turkey,Asia,Western Asia,55,Samsun,Çarşamba,41.19889,36.72194
-TR,Turkey,Asia,Western Asia,55,Samsun,Havza,40.97056,35.66222
-TR,Turkey,Asia,Western Asia,55,Samsun,İlkadım,41.29161,36.30106
-TR,Turkey,Asia,Western Asia,55,Samsun,Kavak,41.07833,36.0425
-TR,Turkey,Asia,Western Asia,55,Samsun,Ladik,40.91056,35.89194
-TR,Turkey,Asia,Western Asia,55,Samsun,Ondokuzmayıs,41.51188,36.07298
-TR,Turkey,Asia,Western Asia,55,Samsun,Salıpazarı,41.09352,36.81718
-TR,Turkey,Asia,Western Asia,55,Samsun,Tekkeköy,41.14493,36.46205
-TR,Turkey,Asia,Western Asia,55,Samsun,Terme,41.20917,36.97389
-TR,Turkey,Asia,Western Asia,55,Samsun,Vezirköprü,41.14361,35.45472
-TR,Turkey,Asia,Western Asia,55,Samsun,Yakakent,41.6325,35.52889
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Akçakale,36.71111,38.9475
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Birecik,37.02577,37.97841
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Bozova,37.3625,38.52667
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Ceylanpınar,36.84722,40.05
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Eyyübiye,37.21434,38.79358
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Halfeti,37.24529,37.86874
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Haliliye,37.14144,38.79599
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Harran,36.86,39.03139
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Hilvan,37.58687,38.95505
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Karaköprü,37.18029,38.81109
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Siverek,37.75503,39.31667
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Suruç,36.97612,38.42533
-TR,Turkey,Asia,Western Asia,63,Şanlıurfa,Viranşehir,37.22349,39.75519
-TR,Turkey,Asia,Western Asia,56,Siirt,Baykan,38.15754,41.7733
-TR,Turkey,Asia,Western Asia,56,Siirt,Eruh,37.74183,42.17422
-TR,Turkey,Asia,Western Asia,56,Siirt,Kurtalan,37.92533,41.68493
-TR,Turkey,Asia,Western Asia,56,Siirt,Merkez,37.9293,41.94134
-TR,Turkey,Asia,Western Asia,56,Siirt,Pervari,37.93573,42.54927
-TR,Turkey,Asia,Western Asia,56,Siirt,Şirvan,38.06251,42.02517
-TR,Turkey,Asia,Western Asia,56,Siirt,Tillo,37.94911,42.0121
-TR,Turkey,Asia,Western Asia,57,Sinop,Ayancık,41.95,34.583333
-TR,Turkey,Asia,Western Asia,57,Sinop,Boyabat,41.46889,34.76667
-TR,Turkey,Asia,Western Asia,57,Sinop,Dikmen,41.66,35.27055556
-TR,Turkey,Asia,Western Asia,57,Sinop,Durağan,41.42555556,35.05777778
-TR,Turkey,Asia,Western Asia,57,Sinop,Erfelek,41.87926,34.91838
-TR,Turkey,Asia,Western Asia,57,Sinop,Gerze,41.81,35.19027778
-TR,Turkey,Asia,Western Asia,57,Sinop,Merkez,41.91835,35.00687
-TR,Turkey,Asia,Western Asia,57,Sinop,Saraydüzü,41.33722222,34.85361111
-TR,Turkey,Asia,Western Asia,57,Sinop,Türkeli,41.94777778,34.33861111
-TR,Turkey,Asia,Western Asia,58,Sivas,Akıncılar,40.07172,38.3433
-TR,Turkey,Asia,Western Asia,58,Sivas,Altınyayla,39.27249,36.75098
-TR,Turkey,Asia,Western Asia,58,Sivas,Divriği,39.371,38.1137
-TR,Turkey,Asia,Western Asia,58,Sivas,Doğanşar,40.20841,37.53123
-TR,Turkey,Asia,Western Asia,58,Sivas,Gemerek,39.18342,36.07189
-TR,Turkey,Asia,Western Asia,58,Sivas,Gölova,40.06194,38.60667
-TR,Turkey,Asia,Western Asia,58,Sivas,Gürün,38.72225,37.27097
-TR,Turkey,Asia,Western Asia,58,Sivas,Hafik,39.85639,37.38639
-TR,Turkey,Asia,Western Asia,58,Sivas,İmranlı,39.87544,38.11358
-TR,Turkey,Asia,Western Asia,58,Sivas,Kangal,39.23354,37.39111
-TR,Turkey,Asia,Western Asia,58,Sivas,Koyulhisar,40.30184,37.82336
-TR,Turkey,Asia,Western Asia,58,Sivas,Merkez,39.71613,36.97695
-TR,Turkey,Asia,Western Asia,58,Sivas,Şarkışla,39.35186,36.40976
-TR,Turkey,Asia,Western Asia,58,Sivas,Suşehri,40.16005,38.08413
-TR,Turkey,Asia,Western Asia,58,Sivas,Ulaş,39.44492,37.039
-TR,Turkey,Asia,Western Asia,58,Sivas,Yıldızeli,39.87601,36.60652
-TR,Turkey,Asia,Western Asia,58,Sivas,Zara,39.82406,37.77499
-TR,Turkey,Asia,Western Asia,73,Şırnak,Beytüşşebap,37.57144,43.16515
-TR,Turkey,Asia,Western Asia,73,Şırnak,Cizre,37.33024,42.18484
-TR,Turkey,Asia,Western Asia,73,Şırnak,Güçlükonak,37.47133,41.91298
-TR,Turkey,Asia,Western Asia,73,Şırnak,İdil,37.33481,41.88944
-TR,Turkey,Asia,Western Asia,73,Şırnak,Merkez,37.51393,42.45432
-TR,Turkey,Asia,Western Asia,73,Şırnak,Silopi,37.24379,42.46345
-TR,Turkey,Asia,Western Asia,73,Şırnak,Uludere,37.44074,42.85236
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Çerkezköy,41.28616,27.99969
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Çorlu,41.15917,27.8
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Ergene,40.85953,27.27081
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Hayrabolu,41.21311,27.10688
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Kapaklı,41.32912,27.98064
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Malkara,40.89,26.90111
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Marmaraereğlisi,40.97003,27.95528
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Muratlı,41.18345,27.51454
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Saray,41.44431,27.92194
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Şarköy,40.62513,27.10069
-TR,Turkey,Asia,Western Asia,59,Tekirdağ,Süleymanpaşa,40.9799,27.30377
-TR,Turkey,Asia,Western Asia,60,Tokat,Almus,40.37583,36.90444
-TR,Turkey,Asia,Western Asia,60,Tokat,Artova,40.11578,36.3001
-TR,Turkey,Asia,Western Asia,60,Tokat,Başçiftlik,40.54694,37.16917
-TR,Turkey,Asia,Western Asia,60,Tokat,Erbaa,40.7139,36.59364
-TR,Turkey,Asia,Western Asia,60,Tokat,Merkez,40.31389,36.55444
-TR,Turkey,Asia,Western Asia,60,Tokat,Niksar,40.60509,36.97174
-TR,Turkey,Asia,Western Asia,60,Tokat,Pazar,40.27652,36.28347
-TR,Turkey,Asia,Western Asia,60,Tokat,Reşadiye,40.43284,37.37652
-TR,Turkey,Asia,Western Asia,60,Tokat,Sulusaray,39.99389,36.08404
-TR,Turkey,Asia,Western Asia,60,Tokat,Turhal,40.3875,36.08111
-TR,Turkey,Asia,Western Asia,60,Tokat,Yeşilyurt,39.99916,36.23479
-TR,Turkey,Asia,Western Asia,60,Tokat,Zile,40.30306,35.88639
-TR,Turkey,Asia,Western Asia,61,Trabzon,Akçaabat,41.0197,39.56293
-TR,Turkey,Asia,Western Asia,61,Trabzon,Araklı,40.74,39.96
-TR,Turkey,Asia,Western Asia,61,Trabzon,Arsin,40.86743,39.92938
-TR,Turkey,Asia,Western Asia,61,Trabzon,Beşikdüzü,41.05202,39.23294
-TR,Turkey,Asia,Western Asia,61,Trabzon,Çarşıbaşı,41.04203,39.40035
-TR,Turkey,Asia,Western Asia,61,Trabzon,Çaykara,40.74267,40.23175
-TR,Turkey,Asia,Western Asia,61,Trabzon,Dernekpazarı,40.79658,40.2446
-TR,Turkey,Asia,Western Asia,61,Trabzon,Düzköy,40.87461,39.41536
-TR,Turkey,Asia,Western Asia,61,Trabzon,Hayrat,40.8853,40.36495
-TR,Turkey,Asia,Western Asia,61,Trabzon,Köprübaşı,40.80692,40.11439
-TR,Turkey,Asia,Western Asia,61,Trabzon,Maçka,40.72127,39.59786
-TR,Turkey,Asia,Western Asia,61,Trabzon,Of,40.94055,40.25918
-TR,Turkey,Asia,Western Asia,61,Trabzon,Ortahisar,40.88029,39.88998
-TR,Turkey,Asia,Western Asia,61,Trabzon,Şalpazarı,40.93826,39.19006
-TR,Turkey,Asia,Western Asia,61,Trabzon,Sürmene,40.90588,40.12792
-TR,Turkey,Asia,Western Asia,61,Trabzon,Tonya,40.88402,39.28486
-TR,Turkey,Asia,Western Asia,61,Trabzon,Vakfıkebir,41.04583,39.27639
-TR,Turkey,Asia,Western Asia,61,Trabzon,Yomra,40.95326,39.85546
-TR,Turkey,Asia,Western Asia,62,Tunceli,Çemişgezek,39.06234,38.914
-TR,Turkey,Asia,Western Asia,62,Tunceli,Hozat,39.10029,39.20816
-TR,Turkey,Asia,Western Asia,62,Tunceli,Mazgirt,39.01783,39.60064
-TR,Turkey,Asia,Western Asia,62,Tunceli,Merkez,39.17114,39.5557
-TR,Turkey,Asia,Western Asia,62,Tunceli,Nazımiye,39.17952,39.82805
-TR,Turkey,Asia,Western Asia,62,Tunceli,Ovacık,39.35259,39.2089
-TR,Turkey,Asia,Western Asia,62,Tunceli,Pertek,38.86574,39.32273
-TR,Turkey,Asia,Western Asia,62,Tunceli,Pülümür,39.48662,39.89874
-TR,Turkey,Asia,Western Asia,64,Uşak,Banaz,38.73707,29.75194
-TR,Turkey,Asia,Western Asia,64,Uşak,Eşme,38.39976,28.96905
-TR,Turkey,Asia,Western Asia,64,Uşak,Karahallı,38.32083,29.53028
-TR,Turkey,Asia,Western Asia,64,Uşak,Merkez,38.68463,29.29455
-TR,Turkey,Asia,Western Asia,64,Uşak,Sivaslı,38.49944,29.68361
-TR,Turkey,Asia,Western Asia,64,Uşak,Ulubey,38.41987,29.29129
-TR,Turkey,Asia,Western Asia,65,Van,Bahçesaray,38.1246,42.79825
-TR,Turkey,Asia,Western Asia,65,Van,Başkale,38.04526,44.01718
-TR,Turkey,Asia,Western Asia,65,Van,Çaldıran,39.14317,43.91068
-TR,Turkey,Asia,Western Asia,65,Van,Çatak,38.0078,43.06195
-TR,Turkey,Asia,Western Asia,65,Van,Edremit,38.37889,43.29717
-TR,Turkey,Asia,Western Asia,65,Van,Erciş,39.15123,43.33705
-TR,Turkey,Asia,Western Asia,65,Van,Gevaş,38.2921,43.10189
-TR,Turkey,Asia,Western Asia,65,Van,Gürpınar,38.32372,43.40991
-TR,Turkey,Asia,Western Asia,65,Van,İpekyolu,38.49041,43.3469
-TR,Turkey,Asia,Western Asia,65,Van,Muradiye,38.97889,43.75374
-TR,Turkey,Asia,Western Asia,65,Van,Özalp,38.65455,43.98869
-TR,Turkey,Asia,Western Asia,65,Van,Saray,38.64691,44.16116
-TR,Turkey,Asia,Western Asia,65,Van,Tuşba,38.521178,43.349093
-TR,Turkey,Asia,Western Asia,77,Yalova,Altınova,40.69495,29.50986
-TR,Turkey,Asia,Western Asia,77,Yalova,Armutlu,40.52919,28.83871
-TR,Turkey,Asia,Western Asia,77,Yalova,Çiftlikköy,40.66028,29.32361
-TR,Turkey,Asia,Western Asia,77,Yalova,Çınarcık,40.64538,29.1245
-TR,Turkey,Asia,Western Asia,77,Yalova,Merkez,40.65501,29.27693
-TR,Turkey,Asia,Western Asia,77,Yalova,Termal,40.61381,29.18049
-TR,Turkey,Asia,Western Asia,66,Yozgat,Akdağmadeni,39.66028,35.88361
-TR,Turkey,Asia,Western Asia,66,Yozgat,Aydıncık,40.12727,35.28765
-TR,Turkey,Asia,Western Asia,66,Yozgat,Boğazlıyan,39.19627,35.2542
-TR,Turkey,Asia,Western Asia,66,Yozgat,Çandır,39.25445,35.52284
-TR,Turkey,Asia,Western Asia,66,Yozgat,Çayıralan,39.30278,35.64389
-TR,Turkey,Asia,Western Asia,66,Yozgat,Çekerek,40.07306,35.49472
-TR,Turkey,Asia,Western Asia,66,Yozgat,Kadışehri,39.99568,35.79193
-TR,Turkey,Asia,Western Asia,66,Yozgat,Merkez,39.82,34.80444
-TR,Turkey,Asia,Western Asia,66,Yozgat,Saraykent,39.69361,35.51111
-TR,Turkey,Asia,Western Asia,66,Yozgat,Sarıkaya,39.49361,35.37694
-TR,Turkey,Asia,Western Asia,66,Yozgat,Şefaatli,39.5008,34.76388
-TR,Turkey,Asia,Western Asia,66,Yozgat,Sorgun,39.81012,35.18596
-TR,Turkey,Asia,Western Asia,66,Yozgat,Yenifakılı,39.21142,35.00036
-TR,Turkey,Asia,Western Asia,66,Yozgat,Yerköy,39.63806,34.46722
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Alaplı,41.1814,31.38514
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Çaycuma,41.42639,32.07556
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Devrek,41.21917,31.95583
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Ereğli,41.23807,31.60581
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Gökçebey,41.31339,32.14981
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Kilimli,41.49111,31.83861
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Kozlu,41.43194,31.74583
-TR,Turkey,Asia,Western Asia,67,Zonguldak,Merkez,41.45139,31.79305
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Adana,36.9975753,35.1232526
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Aladağ,37.55854,35.40196
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Ceyhan,37.02472,35.8175
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Çukurova,37.05627,35.13119
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Feke,37.82405,35.91826
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,İmamoğlu,37.275,35.66649
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Karaisalı,37.26655,35.05033
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Karataş,36.57186,35.36784
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Kozan,37.5,35.75
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Pozantı,37.43671,34.88057
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Saimbeyli,37.99615,36.09909
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Sarıçam,37.14971,35.50949
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Seyhan,36.9554,35.21637
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Tufanbeyli,38.27343,36.22731
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Yumurtalık,36.78245,35.79949
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,01,Adana,province,provincia,Yüreğir,36.99205,35.45402
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Besni,37.69278,37.86111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Çelikhan,38.0256,38.23665
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Gerger,37.95,39.01667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Gölbaşı,37.78361,37.63667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Kâhta,37.78552,38.6237
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Merkez,37.74454,38.26801
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Samsat,37.58194,38.47417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Sincik,38.03645,38.61257
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,02,Adıyaman,province,provincia,Tut,37.79529,37.9161
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Başmakçı,37.89722,30.01167
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Bayat,38.98306,30.92472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Bolvadin,38.71111,31.04861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Çay,38.59167,31.02861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Çobanlar,38.71085,30.78874
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Dazkırı,37.91861,29.86056
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Dinar,38.065,30.16557
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Emirdağ,39.01972,31.15
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Evciler,38.04139,29.88667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Hocalar,38.57824,29.96768
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,İhsaniye,39.02916,30.41639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,İscehisar,38.939,30.75002
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Kızılören,38.25806,30.15167
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Merkez,38.79698,30.51951
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Sandıklı,38.46472,30.26946
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Sinanpaşa,38.74444,30.24278
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Şuhut,38.53111,30.54583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,03,Afyonkarahisar,province,provincia,Sultandağı,38.53111,31.22806
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Diyadin,39.54056,43.67135
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Doğubayazıt,39.54694,44.08417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Eleşkirt,39.79803,42.67574
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Hamur,39.60561,42.985
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Merkez,39.71944,43.05139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Patnos,39.22493,42.85693
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Taşlıçay,39.62966,43.36878
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,04,Ağrı,province,provincia,Tutak,39.55042,42.77572
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Ağaçören,38.87484,33.91674
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Eskil,38.41158,33.41994
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Gülağaç,38.40641,34.35071
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Güzelyurt,38.27722,34.37194
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Merkez,38.3706,34.02843
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Ortaköy,38.73728,34.03866
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Sarıyahşi,38.98349,33.84136
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,68,Aksaray,province,provincia,Sultanhanı,38.2471,33.54961
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,05,Amasya,province,provincia,Göynücek,40.39917,35.525
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,05,Amasya,province,provincia,Gümüşhacıköy,40.87306,35.21472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,05,Amasya,province,provincia,Hamamözü,40.79539,35.03367
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,05,Amasya,province,provincia,Merkez,40.61939,35.87016
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,05,Amasya,province,provincia,Merzifon,40.88348,35.47116
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,05,Amasya,province,provincia,Suluova,40.83129,35.64788
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,05,Amasya,province,provincia,Taşova,40.75972,36.3225
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Akyurt,40.13512,33.08614
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Altındağ,40.0011,32.97022
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Ankara,39.9034367,32.4331003
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Ayaş,40.01933,32.33221
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Bala,39.56374,33.12962
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Beypazarı,40.1675,31.92111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Çamlıdere,40.48958,32.47499
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Çankaya,39.9179,32.86268
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Çubuk,40.23861,33.03222
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Elmadağ,39.92083,33.23083
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Etimesgut,39.96335,32.63744
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Evren,39.02402,33.80626
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Gölbaşı,39.79043,32.80903
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Güdül,40.21051,32.24552
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Haymana,39.43212,32.49732
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Kahramankazan,40.16502,32.63904
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Kalecik,40.09722,33.40833
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Keçiören,40.02106,32.83102
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Kızılcahamam,40.46972,32.65056
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Mamak,39.94587,32.90811
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Nallıhan,40.18593,31.35179
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Polatlı,39.57715,32.14132
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Pursaklar,40.03961,32.90139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Şereflikoçhisar,38.93925,33.5386
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Sincan,39.95943,32.49567
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,06,Ankara,province,provincia,Yenimahalle,39.99043,32.69555
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Akseki,37.04861,31.79
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Aksu,36.95389,30.84778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Alanya,36.54375,31.99982
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Antalya,36.8980983,30.5532907
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Demre,36.24444,29.985
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Döşemealtı,37.02366,30.5904
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Elmalı,36.73583,29.91775
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Finike,36.42355,30.06645
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Gazipaşa,36.26942,32.31792
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Gündoğmuş,36.82446,32.00679
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,İbradı,37.09694,31.59917
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Kaş,36.20176,29.63766
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Kemer,36.59778,30.56056
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Kepez,37.01187,30.75966
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Konyaaltı,36.86424,30.62714
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Korkuteli,37.06498,30.19565
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Kumluca,36.58,30.3
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Manavgat,36.78667,31.44306
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Muratpaşa,36.89157,30.76498
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,07,Antalya,province,provincia,Serik,37.07743,31.00677
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,75,Ardahan,province,provincia,Çıldır,41.13783,43.14169
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,75,Ardahan,province,provincia,Damal,41.34145,42.8368
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,75,Ardahan,province,provincia,Göle,40.78746,42.60603
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,75,Ardahan,province,provincia,Hanak,41.23344,42.84037
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,75,Ardahan,province,provincia,Merkez,41.10871,42.70222
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,75,Ardahan,province,provincia,Posof,41.51111,42.72917
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Ardanuç,41.12738,42.06292
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Arhavi,41.35121,41.30456
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Borçka,41.35792,41.66579
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Hopa,41.39046,41.41966
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Kemalpaşa,41.48336,41.5275
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Merkez,41.18161,41.82172
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Murgul,41.27937,41.55514
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Şavşat,41.24027,42.36109
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,08,Artvin,province,provincia,Yusufeli,40.82042,41.53743
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Bozdoğan,37.67134,28.31395
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Buharkent,37.96397,28.7427
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Çine,37.61266,28.05912
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Didim,37.39305,27.29357
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Efeler,37.83835,27.84557
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Germencik,37.87056,27.60283
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,İncirliova,37.85222,27.72361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Karacasu,37.74731,28.59402
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Karpuzlu,37.55861,27.83528
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Koçarlı,37.76113,27.70583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Köşk,37.85333,28.05167
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Kuşadası,37.86014,27.25713
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Kuyucak,37.9133,28.45917
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Nazilli,37.9357,28.30609
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Söke,37.7482,27.40614
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Sultanhisar,37.88989,28.15436
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,09,Aydın,province,provincia,Yenipazar,37.82332,28.19573
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Altıeylül,39.64099,27.88639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Ayvalık,39.31927,26.69341
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Balya,39.74861,27.57889
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Bandırma,40.35222,27.97667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Bigadiç,39.3925,28.13111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Burhaniye,39.50041,26.97269
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Dursunbey,39.58596,28.62568
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Edremit,39.59611,27.02444
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Erdek,40.3996,27.79348
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Gömeç,39.39016,26.84127
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Gönen,40.1049,27.65399
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Havran,39.55833,27.09833
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,İvrindi,39.58389,27.48639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Karesi,39.648333,27.8825
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Kepsut,39.68889,28.15222
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Manyas,40.04639,27.97
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Marmara,40.58633,27.55541
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Savaştepe,39.38319,27.65612
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Sındırgı,39.24128,28.17842
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,10,Balıkesir,province,provincia,Susurluk,39.91361,28.15778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,74,Bartın,province,provincia,Amasra,41.74633,32.38633
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,74,Bartın,province,provincia,Kurucaşile,41.83781,32.71621
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,74,Bartın,province,provincia,Merkez,41.63583,32.3375
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,74,Bartın,province,provincia,Ulus,41.59373,32.65066
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,72,Batman,province,provincia,Beşiri,37.91573,41.2865
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,72,Batman,province,provincia,Gercüş,37.59139,41.33278
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,72,Batman,province,provincia,Hasankeyf,37.70612,41.4048
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,72,Batman,province,provincia,Kozluk,38.19249,41.48705
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,72,Batman,province,provincia,Merkez,37.84362,41.18341
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,72,Batman,province,provincia,Sason,38.32767,41.41377
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,69,Bayburt,province,provincia,Aydıntepe,40.38325,40.14272
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,69,Bayburt,province,provincia,Demirözü,40.1656,39.89343
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,69,Bayburt,province,provincia,Merkez,40.25631,40.22289
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,Bozüyük,39.90778,30.03667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,Gölpazarı,40.28472,30.31722
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,İnhisar,40.04932,30.38521
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,Merkez,40.14192,29.97932
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,Osmaneli,40.35722,30.01417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,Pazaryeri,39.99395,29.90424
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,Söğüt,40.02479,30.173
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,11,Bilecik,province,provincia,Yenipazar,40.17833,30.52
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Adaklı,39.2287,40.48252
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Genç,38.74773,40.55343
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Karlıova,39.29044,41.00594
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Kiğı,39.30894,40.34995
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Merkez,38.95025,40.52802
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Solhan,38.96525,41.05443
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Yayladere,39.22614,40.0695
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,12,Bingöl,province,provincia,Yedisu,39.43277,40.53368
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,13,Bitlis,province,provincia,Adilcevaz,38.79911,42.73159
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,13,Bitlis,province,provincia,Ahlat,38.7489,42.48007
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,13,Bitlis,province,provincia,Güroymak,38.5758,42.01558
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,13,Bitlis,province,provincia,Hizan,38.22498,42.4183
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,13,Bitlis,province,provincia,Merkez,38.31702,42.10065
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,13,Bitlis,province,provincia,Mutki,38.40624,41.92018
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,13,Bitlis,province,provincia,Tatvan,38.49221,42.28269
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Dörtdivan,40.72052,32.06314
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Gerede,40.71364,32.31263
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Göynük,40.40028,30.78833
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Kıbrıscık,40.40778,31.85194
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Mengen,40.93877,32.07642
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Merkez,40.73583,31.60611
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Mudurnu,40.473,31.20755
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Seben,40.41134,31.57359
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,14,Bolu,province,provincia,Yeniçağa,40.77115,32.03375
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Ağlasun,37.64944,30.53417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Altınyayla,36.99722,29.54579
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Bucak,37.45917,30.595
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Çavdır,37.16483,29.69937
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Çeltikçi,37.53885,30.46823
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Gölhisar,37.1459,29.50876
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Karamanlı,37.37301,29.82308
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Kemer,37.35222,30.06306
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Merkez,37.62762,30.20408
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Tefenni,37.30968,29.77538
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,15,Burdur,province,provincia,Yeşilova,37.50806,29.75472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Büyükorhan,39.78223,28.89338
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Gemlik,40.4351,29.14943
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Gürsu,40.25498,29.21183
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Harmancık,39.67743,29.15523
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,İnegöl,40.07806,29.51333
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,İznik,40.42861,29.72111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Karacabey,40.21323,28.3612
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Keles,39.91361,29.22944
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Kestel,40.19828,29.21237
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Mudanya,40.33342,28.77218
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Mustafakemalpaşa,40.03815,28.40866
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Nilüfer,40.21375,28.98464
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Orhaneli,39.90333,28.99056
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Orhangazi,40.48917,29.30889
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Osmangazi,40.15644,29.08753
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Yenişehir,40.26444,29.65306
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,16,Bursa,province,provincia,Yıldırım,40.19567,29.0364
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Ayvacık,39.60111,26.40472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Bayramiç,39.81951,26.6249
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Biga,40.26921,27.20841
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Bozcaada,39.82409,26.04069
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Çan,40.03328,27.05236
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Eceabat,40.18416,26.3574
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Ezine,39.78561,26.34083
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Gelibolu,40.41028,26.67083
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Gökçeada,40.16523,25.85907
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Lapseki,40.34417,26.68556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Merkez,40.05093,26.49489
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,17,Çanakkale,province,provincia,Yenice,39.93083,27.25806
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Atkaracalar,40.81593,33.07556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Bayramören,40.94329,33.203
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Çerkeş,40.81164,32.89358
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Eldivan,40.52975,33.49903
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Ilgaz,40.92511,33.62586
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Kızılırmak,40.34556,33.98639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Korgun,40.73479,33.51844
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Kurşunlu,40.84101,33.26028
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Merkez,40.6,33.616667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Orta,40.6242,33.10928
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Şabanözü,40.48333,33.28333
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,18,Çankırı,province,provincia,Yapraklı,40.75785,33.77819
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Alaca,40.16833,34.8425
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Bayat,40.64583,34.26139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Boğazkale,40.03031,34.61745
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Dodurga,40.85489,34.80703
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,İskilip,40.73528,34.47389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Kargı,41.14377,34.49342
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Laçin,40.77486,34.88068
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Mecitözü,40.52,35.29528
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Merkez,40.50905,34.85791
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Oğuzlar,40.76323,34.70813
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Ortaköy,40.27352,35.25175
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Osmancık,41.0024,34.78243
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Sungurlu,40.18213,34.28217
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,19,Çorum,province,provincia,Uğurludağ,40.44631,34.45259
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Acıpayam,37.42385,29.34941
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Babadağ,37.80764,28.85665
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Baklan,37.97694,29.60861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Bekilli,38.24027,29.42559
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Beyağaç,37.24546,28.90041
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Bozkurt,37.77583,29.60811
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Buldan,38.045,28.83056
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Çal,38.09371,29.40467
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Çameli,37.0866,29.35225
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Çardak,37.77485,29.70593
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Çivril,38.30139,29.73861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Güney,38.16454,29.07324
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Honaz,37.77146,29.34466
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Kale,37.43917,28.84528
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Merkezefendi,37.80544,29.04236
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Pamukkale,37.91644,29.11729
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Sarayköy,37.9158,28.87999
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Serinhisar,37.58105,29.26639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,20,Denizli,province,provincia,Tavas,37.57351,29.07058
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Bağlar,37.91068,40.22627
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Bismil,37.84514,40.65931
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Çermik,38.13538,39.445
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Çınar,37.72562,40.41484
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Çüngüş,38.20798,39.28554
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Dicle,38.36571,40.0645
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Eğil,38.25748,40.07435
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Ergani,38.26899,39.75446
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Hani,38.40741,40.38578
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Hazro,38.24903,40.77129
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Kayapınar,37.938,40.1731
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Kocaköy,38.28889,40.49786
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Kulp,38.49754,41.00668
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Lice,38.45821,40.63888
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Silvan,38.13708,41.00817
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Sur,37.91356,40.23743
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,21,Diyarbakır,province,provincia,Yenişehir,37.91373,40.2061
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Akçakoca,41.08663,31.11623
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Çilimli,40.90267,31.05913
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Cumayeri,40.88176,30.94094
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Gölyaka,40.78644,31.00276
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Gümüşova,40.8564,30.94935
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Kaynaşlı,40.77908,31.31135
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Merkez,40.83889,31.16389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,81,Düzce,province,provincia,Yığılca,40.96497,31.45672
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Enez,40.72472,26.0825
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Havsa,41.54898,26.82207
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,İpsala,40.92115,26.38273
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Keşan,40.85583,26.63028
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Lâlapaşa,41.83951,26.73561
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Meriç,41.19183,26.42097
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Merkez,41.67719,26.55597
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Süloğlu,41.77956,26.92602
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,22,Edirne,province,provincia,Uzunköprü,41.26597,26.6885
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Ağın,38.93792,38.71155
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Alacakaya,38.462698,39.862758
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Arıcak,38.5634,40.1248
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Baskil,38.56866,38.81634
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Karakoçan,38.95178,40.02706
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Keban,38.7938,38.73517
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Kovancılar,38.71882,39.86268
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Maden,38.39354,39.67252
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Merkez,38.6679,39.21567
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Palu,38.69135,39.91984
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,23,Elazığ,province,provincia,Sivrice,38.44223,39.30938
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Çayırlı,39.80454,40.03724
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,İliç,39.45587,38.56409
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Kemah,39.59606,39.02329
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Kemaliye,39.26288,38.49674
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Merkez,39.73919,39.49015
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Otlukbeli,39.97,40.01872
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Refahiye,39.89315,38.76607
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Tercan,39.77709,40.37783
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,24,Erzincan,province,provincia,Üzümlü,39.70943,39.70125
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Aşkale,39.92083,40.695
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Aziziye,39.94028,41.11153
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Çat,39.61055,40.97851
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Hınıs,39.35766,41.69253
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Horasan,40.03885,42.16366
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,İspir,40.47981,40.99373
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Karaçoban,39.34364,42.09918
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Karayazı,39.69604,42.14277
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Köprüköy,39.97178,41.86804
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Narman,40.34449,41.86088
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Oltu,40.53945,41.98722
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Olur,40.82165,42.13055
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Palandöken,39.8556,41.27975
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Pasinler,39.97975,41.66997
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Pazaryolu,40.41142,40.7678
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Şenkaya,40.55652,42.34266
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Tekman,39.64111,41.50542
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Tortum,40.28892,41.54096
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Uzundere,40.53218,41.53832
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,25,Erzurum,province,provincia,Yakutiye,40.00132,41.30997
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Alpu,39.76903,30.9606
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Beylikova,39.68694,31.20556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Çifteler,39.38306,31.03917
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Günyüzü,39.3941,31.814
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Han,39.15917,30.86139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,İnönü,39.81534,30.14549
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Mahmudiye,39.50724,30.99247
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Mihalgazi,40.02621,30.57707
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Mihalıççık,39.87564,31.50091
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Odunpazarı,39.76699,30.54113
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Sarıcakaya,40.04671,30.61994
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Seyitgazi,39.44472,30.69472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Sivrihisar,39.45037,31.53409
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,26,Eskişehir,province,provincia,Tepebaşı,39.7843,30.50206
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Araban,37.42559,37.78175
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,İslahiye,36.96528,36.70972
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Karkamış,36.83452,37.9983
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Nizip,37.00972,37.79417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Nurdağı,37.16821,36.73623
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Oğuzeli,36.96572,37.51339
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Şahinbey,37.03741,37.37822
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Şehitkamil,37.17217,37.36974
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,27,Gaziantep,province,provincia,Yavuzeli,37.31772,37.56824
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Alucra,40.31924,38.76528
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Bulancak,40.93805,38.23148
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Çamoluk,40.13418,38.73389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Çanakçı,40.86,39.05
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Dereli,40.613,38.39
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Doğankent,40.8075,38.91722
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Espiye,40.94705,38.70299
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Eynesil,41.06436,39.14274
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Görele,41.03083,39.00306
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Güce,40.89368,38.80855
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Keşap,40.91387,38.51442
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Merkez,40.8266,38.36085
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Piraziz,40.92244,38.12458
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Şebinkarahisar,40.28833,38.42361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Tirebolu,41.00633,38.8498
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,28,Giresun,province,provincia,Yağlıdere,40.85711,38.63242
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,29,Gümüşhane,province,provincia,Kelkit,40.12682,39.43424
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,29,Gümüşhane,province,provincia,Köse,40.20692,39.64626
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,29,Gümüşhane,province,provincia,Kürtün,40.69516,39.09468
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,29,Gümüşhane,province,provincia,Merkez,40.46843,39.67441
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,29,Gümüşhane,province,provincia,Şiran,40.19064,39.11747
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,29,Gümüşhane,province,provincia,Torul,40.55071,39.28344
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,30,Hakkâri,province,provincia,Çukurca,37.24806,43.61361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,30,Hakkâri,province,provincia,Derecik,37.072423,44.324348
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,30,Hakkâri,province,provincia,Merkez,37.57444,43.74083
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,30,Hakkâri,province,provincia,Şemdinli,37.30514,44.5742
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,30,Hakkâri,province,provincia,Yüksekova,37.54627,44.25827
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Altınözü,36.11244,36.24488
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Antakya,36.20655,36.15722
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Arsuz,36.41305,35.89033
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Belen,36.48866,36.19489
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Defne,36.23739,36.16364
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Dörtyol,36.83917,36.23025
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Erzin,36.95348,36.19839
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Hassa,36.79944,36.51778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,İskenderun,36.58718,36.17347
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Kırıkhan,36.49939,36.35755
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Kumlu,36.36508,36.45526
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Payas,36.756,36.21432
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Reyhanlı,36.26791,36.56747
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Samandağ,36.085,35.980556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,31,Hatay,province,provincia,Yayladağı,35.9025,36.06272
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,76,Iğdır,province,provincia,Aralık,39.872778,44.519167
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,76,Iğdır,province,provincia,Karakoyunlu,39.87036,43.63014
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,76,Iğdır,province,provincia,Merkez,39.92371,44.045
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,76,Iğdır,province,provincia,Tuzluca,40.03863,43.65212
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Aksu,37.79889,31.07111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Atabey,37.95083,30.63861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Eğirdir,37.87462,30.85042
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Gelendost,38.12083,31.01528
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Gönen,37.95639,30.5114
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Keçiborlu,37.9425,30.30222
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Merkez,37.76444,30.55222
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Şarkikaraağaç,38.07944,31.36639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Senirkent,38.10444,30.54861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Sütçüler,37.5112,30.95661
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Uluborlu,38.07825,30.45019
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Yalvaç,38.29556,31.17778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,32,Isparta,province,provincia,Yenişarbademli,37.70778,31.38639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Adalar,40.86913,29.12064
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Arnavutköy,41.19674,28.73405
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Ataşehir,40.99104,29.13471
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Avcılar,41.02355,28.7186
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Bağcılar,41.04275,28.83625
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Bahçelievler,41.00652,28.84099
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Bakırköy,40.98388,28.83541
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Başakşehir,41.09203,28.80203
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Bayrampaşa,41.04691,28.90278
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Beşiktaş,41.07122,29.02321
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Beykoz,41.13774,29.16932
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Beylikdüzü,41.00322,28.64067
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Beyoğlu,41.03786,28.96767
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Büyükçekmece,41.04521,28.59573
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Çatalca,41.29651,28.45419
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Çekmeköy,41.03819,29.20029
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Esenler,41.07925,28.85235
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Esenyurt,41.04,28.66161
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Eyüpsultan,41.19904,28.88667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Fatih,41.01746,28.94053
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Gaziosmanpaşa,41.07857,28.89679
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Güngören,41.01787,28.87882
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Istanbul,41.0053702,28.6825162
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Kadıköy,40.98229,29.09032
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Kâğıthane,41.08319,28.97826
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Kartal,40.91197,29.2119
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Küçükçekmece,41.06947,28.76983
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Maltepe,40.9589,29.17866
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Pendik,40.94577,29.33019
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Sancaktepe,40.98949,29.2432
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Sarıyer,41.21482,29.05678
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Şile,41.12902,29.61845
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Silivri,41.18116,28.1989
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Şişli,41.12514,29.00013
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Sultanbeyli,40.95264,29.26797
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Sultangazi,41.21792,28.7174
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Tuzla,40.86368,29.31942
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Ümraniye,41.01643,29.12476
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Üsküdar,41.02274,29.01366
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,34,İstanbul,province,provincia,Zeytinburnu,41.00824,28.90952
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Aliağa,38.80078,27.04375
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Balçova,38.37302,27.08714
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Bayındır,38.21741,27.64744
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Bayraklı,38.46222,27.16667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Bergama,39.17088,27.18918
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Beydağ,38.08241,28.21609
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Bornova,38.48492,27.25235
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Buca,38.34813,27.25053
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Çeşme,38.32614,26.30574
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Çiğli,38.48802,26.96596
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Dikili,39.071,26.89017
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Foça,38.6703,26.75656
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Gaziemir,38.31098,27.15178
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Güzelbahçe,38.37046,26.8693
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,İzmir,38.4178287,26.914903
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Karabağlar,38.36912,27.12696
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Karaburun,38.6364,26.51094
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Karşıyaka,38.46775,27.11502
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Kemalpaşa,38.40883,27.491
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Kiraz,38.23056,28.20444
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Kınık,39.08722,27.38333
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Konak,38.41448,27.14412
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Menderes,38.24963,27.13429
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Menemen,38.61608,27.06315
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Narlıdere,38.38957,27.02431
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Ödemiş,38.2278,27.96955
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Seferihisar,38.18144,26.88877
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Selçuk,37.95137,27.36849
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Tire,38.06582,27.7273
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Torbalı,38.17603,27.37182
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,35,İzmir,province,provincia,Urla,38.32292,26.76403
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Afşin,38.24769,36.91399
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Andırın,37.57757,36.35492
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Çağlayancerit,37.74523,37.28618
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Dulkadiroğlu,37.58254,36.91973
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Ekinözü,38.07007,37.19414
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Elbistan,38.20591,37.1983
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Göksun,38.02096,36.4973
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Nurhak,37.96366,37.44047
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Onikişubat,37.59002,36.90548
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Pazarcık,37.48685,37.29961
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,46,Kahramanmaraş,province,provincia,Türkoğlu,37.38417,36.84626
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,78,Karabük,province,provincia,Eflani,41.42289,32.95761
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,78,Karabük,province,provincia,Eskipazar,40.95207,32.54604
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,78,Karabük,province,provincia,Merkez,41.20488,32.62768
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,78,Karabük,province,provincia,Ovacık,41.08029,32.93224
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,78,Karabük,province,provincia,Safranbolu,41.25083,32.69417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,78,Karabük,province,provincia,Yenice,41.19962,32.33133
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,70,Karaman,province,provincia,Ayrancı,37.37111,33.69291
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,70,Karaman,province,provincia,Başyayla,36.75337,32.68018
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,70,Karaman,province,provincia,Ermenek,36.64043,32.89179
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,70,Karaman,province,provincia,Kazımkarabekir,37.23028,32.95889
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,70,Karaman,province,provincia,Merkez,37.18111,33.215
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,70,Karaman,province,provincia,Sarıveliler,36.69705,32.61203
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Akyaka,40.74093,43.61432
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Arpaçay,40.84522,43.32747
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Digor,40.37515,43.41361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Kağızman,40.15669,43.13424
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Merkez,40.59825,43.08548
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Sarıkamış,40.32769,42.58705
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Selim,40.45772,42.78287
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,36,Kars,province,provincia,Susuz,40.7791,43.12769
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Abana,41.97858,34.011
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Ağlı,41.69283,33.54487
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Araç,41.24222,33.32767
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Azdavay,41.64267,33.3
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Bozkurt,41.95769,34.01087
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Çatalzeytin,41.93795,34.20285
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Cide,41.85583,33.03977
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Daday,41.47866,33.46667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Devrekani,41.60303,33.83922
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Doğanyurt,42.00457,33.46029
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Hanönü,41.62705,34.46667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,İhsangazi,41.20432,33.55455
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,İnebolu,41.97472,33.76083
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Küre,41.80578,33.71161
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Merkez,41.37805,33.77528
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Pınarbaşı,41.60388,33.11099
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Şenpazar,41.81651,33.21766
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Seydiler,41.62005,33.71815
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Taşköprü,41.5098,34.21414
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,37,Kastamonu,province,provincia,Tosya,41.01545,34.04013
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Akkışla,39.00222,36.17381
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Bünyan,38.8463,35.86033
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Develi,38.26789,35.59161
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Felahiye,39.09056,35.56722
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Hacılar,38.64631,35.44937
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,İncesu,38.63789,35.19394
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Kayseri,38.7235532,35.3053732
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Kocasinan,38.87959,35.3554
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Melikgazi,38.77933,35.66076
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Özvatan,39.11737,35.71149
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Pınarbaşı,38.72285,36.39314
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Sarıoğlan,39.07694,35.96671
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Sarız,38.47917,36.49898
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Talas,38.6908,35.5538
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Tomarza,38.44722,35.79917
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Yahyalı,38.10228,35.35704
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,38,Kayseri,province,provincia,Yeşilhisar,38.33475,35.11795
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,79,Kilis,province,provincia,Elbeyli,36.67417,37.46667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,79,Kilis,province,provincia,Merkez,36.71611,37.115
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,79,Kilis,province,provincia,Musabeyli,36.88639,36.91861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,79,Kilis,province,provincia,Polateli,36.83694,37.15083
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Bahşılı,39.80979,33.4408
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Balışeyh,39.91411,33.72333
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Çelebi,39.4747,33.52895
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Delice,39.95371,34.02587
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Karakeçili,39.59417,33.37778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Keskin,39.67306,33.61361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Merkez,39.84528,33.50639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Sulakyurt,40.15733,33.716
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,71,Kırıkkale,province,provincia,Yahşihan,39.85992,33.45615
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Babaeski,41.4325,27.09306
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Demirköy,41.83567,27.77137
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Kofçaz,41.94481,27.15829
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Lüleburgaz,41.41495,27.37325
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Merkez,41.73508,27.22521
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Pehlivanköy,41.34812,26.92522
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Pınarhisar,41.62417,27.52
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,39,Kırklareli,province,provincia,Vize,41.5725,27.76583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,40,Kırşehir,province,provincia,Akçakent,39.63184,34.08468
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,40,Kırşehir,province,provincia,Akpınar,39.45005,33.96484
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,40,Kırşehir,province,provincia,Boztepe,39.27979,34.26657
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,40,Kırşehir,province,provincia,Çiçekdağı,39.60694,34.40861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,40,Kırşehir,province,provincia,Kaman,39.3575,33.72389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,40,Kırşehir,province,provincia,Merkez,39.14583,34.16389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,40,Kırşehir,province,provincia,Mucur,39.06147,34.38286
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Başiskele,40.64574,29.90015
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Çayırova,40.82784,29.39014
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Darıca,40.7678,29.37126
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Derince,40.75694,29.81472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Dilovası,40.77972,29.535
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Gebze,40.80276,29.43068
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Gölcük,40.70323,29.87216
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,İzmit,40.77521,29.94624
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Kandıra,41.07,30.15262
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Karamürsel,40.69129,29.61649
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Kartepe,40.75246,30.02787
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,41,Kocaeli,province,provincia,Körfez,40.76704,29.78275
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Ahırlı,37.24828,32.12419
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Akören,37.46265,32.37489
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Akşehir,38.3575,31.41639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Altınekin,38.30778,32.86861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Beyşehir,37.67735,31.72458
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Bozkır,37.18963,32.24736
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Çeltik,39.03388,31.79408
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Cihanbeyli,38.66072,32.92437
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Çumra,37.5732,32.77446
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Derbent,38.01422,32.01639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Derebucak,37.39179,31.50918
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Doğanhisar,38.1463,31.67648
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Emirgazi,37.90222,33.83722
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Ereğli,37.51333,34.04672
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Güneysınır,37.27977,32.73735
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Hadim,36.98776,32.45674
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Halkapınar,37.43394,34.18743
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Hüyük,37.95388,31.59639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Ilgın,38.27917,31.91389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Kadınhanı,38.23972,32.21139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Karapınar,37.71596,33.55064
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Karatay,37.94001,32.99828
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Kulu,39.09513,33.07989
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Meram,37.83984,32.47111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Sarayönü,38.26201,32.40457
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Selçuklu,38.05761,32.54088
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Seydişehir,37.41926,31.84527
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Taşkent,36.9243,32.49131
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Tuzlukçu,38.47778,31.62639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Yalıhüyük,37.30077,32.08548
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,42,Konya,province,provincia,Yunak,38.81418,31.73223
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Altıntaş,39.06932,30.12048
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Aslanapa,39.21581,29.8699
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Çavdarhisar,39.20333,29.63094
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Domaniç,39.80194,29.60918
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Dumlupınar,38.85408,29.9772
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Emet,39.343,29.25847
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Gediz,38.99389,29.39131
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Hisarcık,39.25987,29.24134
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Merkez,39.42417,29.98333
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Pazarlar,38.995,29.12583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Şaphane,39.0273,29.22218
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Simav,39.0882,28.97767
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,43,Kütahya,province,provincia,Tavşanlı,39.54237,29.49866
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Akçadağ,38.33899,37.97021
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Arapgir,39.04117,38.49516
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Arguvan,38.78172,38.26349
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Battalgazi,38.43932,38.45764
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Darende,38.54583,37.50583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Doğanşehir,38.08574,37.87116
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Doğanyol,38.30746,39.03431
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Hekimhan,38.81622,37.92882
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Kale,39.03333,38
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Kuluncak,38.87656,37.66279
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Pütürge,38.1963,38.87418
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Yazıhan,38.59292,38.17327
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,44,Malatya,province,provincia,Yeşilyurt,38.29602,38.24526
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Ahmetli,38.5196,27.93865
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Akhisar,38.91852,27.84006
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Alaşehir,38.35083,28.51718
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Demirci,39.04607,28.65889
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Gölmarmara,38.71389,27.91417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Gördes,38.93278,28.28942
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Kırkağaç,39.10638,27.66925
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Köprübaşı,38.74972,28.40472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Kula,38.56775,28.64146
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Salihli,38.49254,28.15264
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Sarıgöl,38.23953,28.69663
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Saruhanlı,38.76778,27.64714
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Şehzadeler,38.6166,27.43861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Selendi,38.74444,28.86778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Soma,39.18554,27.60945
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Turgutlu,38.51515,27.73515
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,45,Manisa,province,provincia,Yunusemre,38.62063,27.40806
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Artuklu,37.31714,40.72473
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Dargeçit,37.54616,41.71652
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Derik,37.36431,40.26883
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Kızıltepe,37.18836,40.57723
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Mazıdağı,37.47801,40.48152
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Midyat,37.41908,41.33909
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Nusaybin,37.07028,41.21465
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Ömerli,37.39903,40.95442
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Savur,37.53544,40.87876
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,47,Mardin,province,provincia,Yeşilli,37.33813,40.81739
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Akdeniz,36.86424,34.67731
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Anamur,36.07508,32.83691
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Aydıncık,36.1437,33.32016
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Bozyazı,36.1082,32.96113
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Çamlıyayla,37.18,34.60678
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Erdemli,36.60498,34.30836
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Gülnar,36.34148,33.39921
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Mersin,36.7428767,34.3640915
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Mezitli,36.894,34.42987
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Mut,36.71842,33.38718
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Silifke,36.37778,33.93444
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Tarsus,36.91766,34.89277
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Toroslar,36.87083,34.60299
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,33,Mersin,province,provincia,Yenişehir,36.81602,34.57621
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Bodrum,37.065,27.49819
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Dalaman,36.81691,28.87815
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Datça,36.73778,27.68417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Fethiye,36.64038,29.12758
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Kavaklıdere,37.43929,28.38402
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Köyceğiz,36.97798,28.72418
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Marmaris,36.855,28.27417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Menteşe,37.21447,28.36168
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Milas,37.31639,27.78389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Ortaca,36.83915,28.76457
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Seydikemer,36.64308,29.34929
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Ula,37.10491,28.41667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,48,Muğla,province,provincia,Yatağan,37.35864,28.11441
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,49,Muş,province,provincia,Bulanık,39.08656,42.27158
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,49,Muş,province,provincia,Hasköy,38.68231,41.67851
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,49,Muş,province,provincia,Korkut,38.7339,41.78396
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,49,Muş,province,provincia,Malazgirt,39.1465,42.53536
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,49,Muş,province,provincia,Merkez,38.83793,41.48332
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,49,Muş,province,provincia,Varto,39.17375,41.45402
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Acıgöl,38.55028,34.50917
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Avanos,38.715,34.84667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Derinkuyu,38.3751,34.73419
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Gülşehir,38.74594,34.62524
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Hacıbektaş,38.94077,34.5577
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Kozaklı,39.23204,34.85585
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Merkez,38.60039,34.68537
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,50,Nevşehir,province,provincia,Ürgüp,38.57342,34.9402
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,51,Niğde,province,provincia,Altunhisar,37.99159,34.37334
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,51,Niğde,province,provincia,Bor,37.89056,34.55889
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,51,Niğde,province,provincia,Çamardı,37.84157,34.99005
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,51,Niğde,province,provincia,Çiftlik,38.1758,34.48535
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,51,Niğde,province,provincia,Merkez,37.96583,34.67935
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,51,Niğde,province,provincia,Ulukışla,37.54592,34.58737
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Akkuş,40.81,36.96
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Altınordu,40.94879,37.79572
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Aybastı,40.6969,37.40794
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Çamaş,40.902,37.52786
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Çatalpınar,40.88678,37.44329
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Çaybaşı,41.02532,37.10867
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Fatsa,41.02778,37.50139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Gölköy,40.68726,37.6166
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Gülyalı,40.96682,38.05679
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Gürgentepe,40.78567,37.58969
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,İkizce,41.05833,37.08028
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Kabadüz,40.86096,37.8847
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Kabataş,40.75,37.45
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Korgan,40.82472,37.34667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Kumru,40.87444,37.26389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Mesudiye,40.45446,37.77353
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Perşembe,41.06556,37.77139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Ulubey,40.86863,37.75405
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,52,Ordu,province,provincia,Ünye,41.13921,37.27246
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,80,Osmaniye,province,provincia,Bahçe,37.20105,36.57687
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,80,Osmaniye,province,provincia,Düziçi,37.25062,36.47051
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,80,Osmaniye,province,provincia,Hasanbeyli,37.12838,36.54608
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,80,Osmaniye,province,provincia,Kadirli,37.37389,36.09611
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,80,Osmaniye,province,provincia,Merkez,37.07417,36.24778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,80,Osmaniye,province,provincia,Sumbas,37.46169,36.02914
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,80,Osmaniye,province,provincia,Toprakkale,37.06855,36.14661
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Ardeşen,41.19111,40.9875
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Çamlıhemşin,41.045938,41.005275
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Çayeli,41.08941,40.73696
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Derepazarı,41.024722,40.425556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Fındıklı,41.2711,41.14449
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Güneysu,40.9813,40.60465
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Hemşin,41.05922,40.9014
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,İkizdere,40.77713,40.56076
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,İyidere,41.00905,40.37776
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Kalkandere,40.92143,40.43999
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Merkez,41.02083,40.52194
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,53,Rize,province,provincia,Pazar,41.17917,40.88417
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Adapazarı,40.78056,30.40333
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Akyazı,40.685,30.62222
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Arifiye,40.71327,30.36128
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Erenler,40.75564,30.41453
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Ferizli,40.94082,30.48583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Geyve,40.5075,30.2925
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Hendek,40.79944,30.74806
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Karapürçek,40.64194,30.53944
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Karasu,41.09983,30.68241
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Kaynarca,41.03083,30.3075
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Kocaali,41.05336,30.85278
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Pamukova,40.5081,30.16732
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Sapanca,40.69141,30.26738
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Serdivan,40.76371,30.36784
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Söğütlü,40.9059,30.47448
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,54,Sakarya,province,provincia,Taraklı,40.39694,30.49278
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Alaçam,41.61563,35.60632
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Asarcık,41.03556,36.23556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Atakum,41.3473,36.23051
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Ayvacık,40.99111,36.63139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Bafra,41.46082,35.84435
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Canik,41.23858,36.33694
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Çarşamba,41.19889,36.72194
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Havza,40.97056,35.66222
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,İlkadım,41.29161,36.30106
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Kavak,41.07833,36.0425
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Ladik,40.91056,35.89194
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Ondokuzmayıs,41.51188,36.07298
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Salıpazarı,41.09352,36.81718
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Tekkeköy,41.14493,36.46205
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Terme,41.20917,36.97389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Vezirköprü,41.14361,35.45472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,55,Samsun,province,provincia,Yakakent,41.6325,35.52889
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Akçakale,36.71111,38.9475
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Birecik,37.02577,37.97841
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Bozova,37.3625,38.52667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Ceylanpınar,36.84722,40.05
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Eyyübiye,37.21434,38.79358
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Halfeti,37.24529,37.86874
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Haliliye,37.14144,38.79599
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Harran,36.86,39.03139
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Hilvan,37.58687,38.95505
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Karaköprü,37.18029,38.81109
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Siverek,37.75503,39.31667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Suruç,36.97612,38.42533
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,63,Şanlıurfa,province,provincia,Viranşehir,37.22349,39.75519
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,56,Siirt,province,provincia,Baykan,38.15754,41.7733
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,56,Siirt,province,provincia,Eruh,37.74183,42.17422
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,56,Siirt,province,provincia,Kurtalan,37.92533,41.68493
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,56,Siirt,province,provincia,Merkez,37.9293,41.94134
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,56,Siirt,province,provincia,Pervari,37.93573,42.54927
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,56,Siirt,province,provincia,Şirvan,38.06251,42.02517
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,56,Siirt,province,provincia,Tillo,37.94911,42.0121
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Ayancık,41.95,34.583333
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Boyabat,41.46889,34.76667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Dikmen,41.66,35.27055556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Durağan,41.42555556,35.05777778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Erfelek,41.87926,34.91838
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Gerze,41.81,35.19027778
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Merkez,41.91835,35.00687
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Saraydüzü,41.33722222,34.85361111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,57,Sinop,province,provincia,Türkeli,41.94777778,34.33861111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Akıncılar,40.07172,38.3433
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Altınyayla,39.27249,36.75098
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Divriği,39.371,38.1137
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Doğanşar,40.20841,37.53123
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Gemerek,39.18342,36.07189
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Gölova,40.06194,38.60667
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Gürün,38.72225,37.27097
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Hafik,39.85639,37.38639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,İmranlı,39.87544,38.11358
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Kangal,39.23354,37.39111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Koyulhisar,40.30184,37.82336
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Merkez,39.71613,36.97695
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Şarkışla,39.35186,36.40976
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Suşehri,40.16005,38.08413
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Ulaş,39.44492,37.039
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Yıldızeli,39.87601,36.60652
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,58,Sivas,province,provincia,Zara,39.82406,37.77499
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,73,Şırnak,province,provincia,Beytüşşebap,37.57144,43.16515
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,73,Şırnak,province,provincia,Cizre,37.33024,42.18484
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,73,Şırnak,province,provincia,Güçlükonak,37.47133,41.91298
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,73,Şırnak,province,provincia,İdil,37.33481,41.88944
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,73,Şırnak,province,provincia,Merkez,37.51393,42.45432
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,73,Şırnak,province,provincia,Silopi,37.24379,42.46345
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,73,Şırnak,province,provincia,Uludere,37.44074,42.85236
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Çerkezköy,41.28616,27.99969
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Çorlu,41.15917,27.8
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Ergene,40.85953,27.27081
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Hayrabolu,41.21311,27.10688
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Kapaklı,41.32912,27.98064
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Malkara,40.89,26.90111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Marmaraereğlisi,40.97003,27.95528
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Muratlı,41.18345,27.51454
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Saray,41.44431,27.92194
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Şarköy,40.62513,27.10069
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,59,Tekirdağ,province,provincia,Süleymanpaşa,40.9799,27.30377
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Almus,40.37583,36.90444
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Artova,40.11578,36.3001
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Başçiftlik,40.54694,37.16917
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Erbaa,40.7139,36.59364
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Merkez,40.31389,36.55444
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Niksar,40.60509,36.97174
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Pazar,40.27652,36.28347
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Reşadiye,40.43284,37.37652
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Sulusaray,39.99389,36.08404
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Turhal,40.3875,36.08111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Yeşilyurt,39.99916,36.23479
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,60,Tokat,province,provincia,Zile,40.30306,35.88639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Akçaabat,41.0197,39.56293
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Araklı,40.74,39.96
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Arsin,40.86743,39.92938
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Beşikdüzü,41.05202,39.23294
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Çarşıbaşı,41.04203,39.40035
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Çaykara,40.74267,40.23175
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Dernekpazarı,40.79658,40.2446
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Düzköy,40.87461,39.41536
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Hayrat,40.8853,40.36495
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Köprübaşı,40.80692,40.11439
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Maçka,40.72127,39.59786
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Of,40.94055,40.25918
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Ortahisar,40.88029,39.88998
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Şalpazarı,40.93826,39.19006
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Sürmene,40.90588,40.12792
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Tonya,40.88402,39.28486
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Vakfıkebir,41.04583,39.27639
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,61,Trabzon,province,provincia,Yomra,40.95326,39.85546
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Çemişgezek,39.06234,38.914
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Hozat,39.10029,39.20816
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Mazgirt,39.01783,39.60064
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Merkez,39.17114,39.5557
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Nazımiye,39.17952,39.82805
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Ovacık,39.35259,39.2089
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Pertek,38.86574,39.32273
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,62,Tunceli,province,provincia,Pülümür,39.48662,39.89874
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,64,Uşak,province,provincia,Banaz,38.73707,29.75194
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,64,Uşak,province,provincia,Eşme,38.39976,28.96905
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,64,Uşak,province,provincia,Karahallı,38.32083,29.53028
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,64,Uşak,province,provincia,Merkez,38.68463,29.29455
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,64,Uşak,province,provincia,Sivaslı,38.49944,29.68361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,64,Uşak,province,provincia,Ulubey,38.41987,29.29129
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Bahçesaray,38.1246,42.79825
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Başkale,38.04526,44.01718
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Çaldıran,39.14317,43.91068
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Çatak,38.0078,43.06195
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Edremit,38.37889,43.29717
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Erciş,39.15123,43.33705
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Gevaş,38.2921,43.10189
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Gürpınar,38.32372,43.40991
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,İpekyolu,38.49041,43.3469
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Muradiye,38.97889,43.75374
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Özalp,38.65455,43.98869
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Saray,38.64691,44.16116
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,65,Van,province,provincia,Tuşba,38.521178,43.349093
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,77,Yalova,province,provincia,Altınova,40.69495,29.50986
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,77,Yalova,province,provincia,Armutlu,40.52919,28.83871
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,77,Yalova,province,provincia,Çiftlikköy,40.66028,29.32361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,77,Yalova,province,provincia,Çınarcık,40.64538,29.1245
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,77,Yalova,province,provincia,Merkez,40.65501,29.27693
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,77,Yalova,province,provincia,Termal,40.61381,29.18049
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Akdağmadeni,39.66028,35.88361
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Aydıncık,40.12727,35.28765
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Boğazlıyan,39.19627,35.2542
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Çandır,39.25445,35.52284
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Çayıralan,39.30278,35.64389
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Çekerek,40.07306,35.49472
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Kadışehri,39.99568,35.79193
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Merkez,39.82,34.80444
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Saraykent,39.69361,35.51111
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Sarıkaya,39.49361,35.37694
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Şefaatli,39.5008,34.76388
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Sorgun,39.81012,35.18596
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Yenifakılı,39.21142,35.00036
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,66,Yozgat,province,provincia,Yerköy,39.63806,34.46722
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Alaplı,41.1814,31.38514
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Çaycuma,41.42639,32.07556
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Devrek,41.21917,31.95583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Ereğli,41.23807,31.60581
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Gökçebey,41.31339,32.14981
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Kilimli,41.49111,31.83861
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Kozlu,41.43194,31.74583
+TR,Turkey,Turquía,Asia,Asia,Western Asia,Asia Occidental,67,Zonguldak,province,provincia,Merkez,41.45139,31.79305

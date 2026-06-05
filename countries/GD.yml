@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".gd"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 12.11666666
   longitude: -61.66666666
   emoji: "🇬🇩"
   states:
     -
       name: "Carriacou"
+      native: "Carriacou"
       code: "10"
       iso3166_2: "GD-10"
       type: "dependency"
+      type_es: "dependencia"
       latitude: 12.4829985
       longitude: -61.4448436
       cities:
@@ -31,9 +35,11 @@
           longitude: -61.45597
     -
       name: "Saint Andrew"
+      native: "Saint Andrew"
       code: "01"
       iso3166_2: "GD-01"
       type: "parish"
+      type_es: "parroquia"
       latitude: 12.1111935
       longitude: -61.6865971
       cities:
@@ -43,9 +49,11 @@
           longitude: -61.62498
     -
       name: "Saint David"
+      native: "Saint David"
       code: "02"
       iso3166_2: "GD-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 12.0428069
       longitude: -61.6778988
       cities:
@@ -55,9 +63,11 @@
           longitude: -61.66875
     -
       name: "Saint George"
+      native: "Saint George"
       code: "03"
       iso3166_2: "GD-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 12.0535331
       longitude: -61.751805
       cities:
@@ -67,9 +77,11 @@
           longitude: -61.75226
     -
       name: "Saint John"
+      native: "Saint John"
       code: "04"
       iso3166_2: "GD-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 12.1444029
       longitude: -61.7121841
       cities:
@@ -79,9 +91,11 @@
           longitude: -61.72965
     -
       name: "Saint Mark"
+      native: "Saint Mark"
       code: "05"
       iso3166_2: "GD-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 12.1886437
       longitude: -61.6954355
       cities:
@@ -91,9 +105,11 @@
           longitude: -61.70677
     -
       name: "Saint Patrick"
+      native: "Saint Patrick"
       code: "06"
       iso3166_2: "GD-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 12.2102986
       longitude: -61.6350539
       cities:

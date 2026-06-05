@@ -1,25 +1,25 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(138, 'Martinique', 'MQ', 'MTQ', 'Americas', 'Caribbean', 'Fort-de-France', 'EUR', 14.666667, -61, '🇲🇶');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(138, 'Martinique', 'Martinica', 'MQ', 'MTQ', 'Americas', 'América', 'Caribbean', 'Caribe', 'Fort-de-France', 'EUR', 14.666667, -61, '🇲🇶');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5398, 'Fort-de-France', 138, 'MQ', '01', 'district', 14.6027962, -61.0676724),
-(5399, 'La Trinité', 138, 'MQ', '02', 'district', 14.7553161, -61.0287226),
-(5400, 'Le Marin', 138, 'MQ', '03', 'district', 14.5251841, -60.9624151),
-(5401, 'Saint-Pierre', 138, 'MQ', '04', 'district', 14.7417183, -61.1763904);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5398, 'Fort-de-France', 'Fort-de-France', 138, 'MQ', '01', 'district', 'distrito', 14.6027962, -61.0676724),
+(5399, 'La Trinité', 'La Trinité', 138, 'MQ', '02', 'district', 'distrito', 14.7553161, -61.0287226),
+(5400, 'Le Marin', 'Le Marin', 138, 'MQ', '03', 'district', 'distrito', 14.5251841, -60.9624151),
+(5401, 'Saint-Pierre', 'Saint-Pierre', 138, 'MQ', '04', 'district', 'distrito', 14.7417183, -61.1763904);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (154980, 'Fort-de-France', 5398, 138, 14.6492418, -61.1098445),

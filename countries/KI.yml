@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".ki"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   latitude: 1.41666666
   longitude: 173
   emoji: "🇰🇮"
   states:
     -
       name: "Gilbert"
+      native: "Gilbert"
       code: "G"
       iso3166_2: "KI-G"
       type: "island"
+      type_es: "isla"
       latitude: -1.2394556
       longitude: 175.2969455
       cities:
@@ -143,9 +147,11 @@
           longitude: 173.16226
     -
       name: "Line"
+      native: "Line"
       code: "L"
       iso3166_2: "KI-L"
       type: "island"
+      type_es: "isla"
       latitude: 1.3589779
       longitude: 172.9311202
       cities:
@@ -179,9 +185,11 @@
           longitude: -160.38803
     -
       name: "Phoenix"
+      native: "Phoenix"
       code: "P"
       iso3166_2: "KI-P"
       type: "island"
+      type_es: "isla"
       latitude: -3.7213444
       longitude: -170.7117052
       cities:

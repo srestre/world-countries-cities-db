@@ -1,8 +1,8 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-GD,Grenada,Americas,Caribbean,10,Carriacou,Hillsborough,12.48292,-61.45597
-GD,Grenada,Americas,Caribbean,01,Saint Andrew,Grenville,12.12278,-61.62498
-GD,Grenada,Americas,Caribbean,02,Saint David,Saint David’s,12.04903,-61.66875
-GD,Grenada,Americas,Caribbean,03,Saint George,Saint George's,12.05288,-61.75226
-GD,Grenada,Americas,Caribbean,04,Saint John,Gouyave,12.16462,-61.72965
-GD,Grenada,Americas,Caribbean,05,Saint Mark,Victoria,12.19021,-61.70677
-GD,Grenada,Americas,Caribbean,06,Saint Patrick,Sauteurs,12.21833,-61.63917
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+GD,Grenada,Grenada,Americas,América,Caribbean,Caribe,10,Carriacou,dependency,dependencia,Hillsborough,12.48292,-61.45597
+GD,Grenada,Grenada,Americas,América,Caribbean,Caribe,01,Saint Andrew,parish,parroquia,Grenville,12.12278,-61.62498
+GD,Grenada,Grenada,Americas,América,Caribbean,Caribe,02,Saint David,parish,parroquia,Saint David’s,12.04903,-61.66875
+GD,Grenada,Grenada,Americas,América,Caribbean,Caribe,03,Saint George,parish,parroquia,Saint George's,12.05288,-61.75226
+GD,Grenada,Grenada,Americas,América,Caribbean,Caribe,04,Saint John,parish,parroquia,Gouyave,12.16462,-61.72965
+GD,Grenada,Grenada,Americas,América,Caribbean,Caribe,05,Saint Mark,parish,parroquia,Victoria,12.19021,-61.70677
+GD,Grenada,Grenada,Americas,América,Caribbean,Caribe,06,Saint Patrick,parish,parroquia,Sauteurs,12.21833,-61.63917

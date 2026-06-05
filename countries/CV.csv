@@ -1,31 +1,31 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-CV,Cape Verde,Africa,Western Africa,B,Barlavento Islands,,,
-CV,Cape Verde,Africa,Western Africa,BV,Boa Vista,Sal Rei,16.17611,-22.91722
-CV,Cape Verde,Africa,Western Africa,BR,Brava,Nova Sintra,14.87139,-24.69556
-CV,Cape Verde,Africa,Western Africa,MA,Maio,Vila do Maio,15.13823,-23.21158
-CV,Cape Verde,Africa,Western Africa,MO,Mosteiros,Igreja,15.03389,-24.325
-CV,Cape Verde,Africa,Western Africa,PA,Paul,Pombas,17.15026,-25.02007
-CV,Cape Verde,Africa,Western Africa,PN,Porto Novo,Porto Novo,17.01969,-25.06471
-CV,Cape Verde,Africa,Western Africa,PR,Praia,Praia,14.93152,-23.51254
-CV,Cape Verde,Africa,Western Africa,RB,Ribeira Brava,Ribeira Brava,16.61583,-24.29833
-CV,Cape Verde,Africa,Western Africa,RG,Ribeira Grande,Ponta do Sol,17.20171,-25.09217
-CV,Cape Verde,Africa,Western Africa,RG,Ribeira Grande,Ribeira Grande,17.1825,-25.065
-CV,Cape Verde,Africa,Western Africa,RS,Ribeira Grande de Santiago,Cidade Velha,14.91531,-23.60527
-CV,Cape Verde,Africa,Western Africa,SL,Sal,Espargos,16.75524,-22.9446
-CV,Cape Verde,Africa,Western Africa,SL,Sal,Santa Maria,16.59796,-22.90509
-CV,Cape Verde,Africa,Western Africa,CA,Santa Catarina,Assomada,15.1,-23.68333
-CV,Cape Verde,Africa,Western Africa,CF,Santa Catarina do Fogo,Cova Figueira,14.89054,-24.29343
-CV,Cape Verde,Africa,Western Africa,CR,Santa Cruz,Pedra Badejo,15.1375,-23.53083
-CV,Cape Verde,Africa,Western Africa,CR,Santa Cruz,Santa Cruz,15.13333,-23.56667
-CV,Cape Verde,Africa,Western Africa,SD,São Domingos,São Domingos,15.02438,-23.5625
-CV,Cape Verde,Africa,Western Africa,SF,São Filipe,São Filipe,14.8961,-24.49556
-CV,Cape Verde,Africa,Western Africa,SO,São Lourenço dos Órgãos,João Teves,15.06694,-23.58917
-CV,Cape Verde,Africa,Western Africa,SM,São Miguel,Calheta,15.18613,-23.59228
-CV,Cape Verde,Africa,Western Africa,SS,São Salvador do Mundo,Achada Leitão,15.08,-23.64
-CV,Cape Verde,Africa,Western Africa,SS,São Salvador do Mundo,Leitão Grande,15.075,-23.645
-CV,Cape Verde,Africa,Western Africa,SS,São Salvador do Mundo,Picos,15.083,-23.632
-CV,Cape Verde,Africa,Western Africa,SS,São Salvador do Mundo,Picos Acima,15.09,-23.63
-CV,Cape Verde,Africa,Western Africa,SV,São Vicente,Mindelo,16.89014,-24.98042
-CV,Cape Verde,Africa,Western Africa,S,Sotavento Islands,,,
-CV,Cape Verde,Africa,Western Africa,TA,Tarrafal,Tarrafal,15.27881,-23.75192
-CV,Cape Verde,Africa,Western Africa,TS,Tarrafal de São Nicolau,Tarrafal de São Nicolau,16.56622,-24.35793
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,B,Barlavento Islands,geographical region,región geográfica,,,
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,BV,Boa Vista,municipality,municipio,Sal Rei,16.17611,-22.91722
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,BR,Brava,municipality,municipio,Nova Sintra,14.87139,-24.69556
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,MA,Maio,municipality,municipio,Vila do Maio,15.13823,-23.21158
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,MO,Mosteiros,municipality,municipio,Igreja,15.03389,-24.325
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,PA,Paul,municipality,municipio,Pombas,17.15026,-25.02007
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,PN,Porto Novo,municipality,municipio,Porto Novo,17.01969,-25.06471
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,PR,Praia,municipality,municipio,Praia,14.93152,-23.51254
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,RB,Ribeira Brava,municipality,municipio,Ribeira Brava,16.61583,-24.29833
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,RG,Ribeira Grande,municipality,municipio,Ponta do Sol,17.20171,-25.09217
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,RG,Ribeira Grande,municipality,municipio,Ribeira Grande,17.1825,-25.065
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,RS,Ribeira Grande de Santiago,municipality,municipio,Cidade Velha,14.91531,-23.60527
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SL,Sal,municipality,municipio,Espargos,16.75524,-22.9446
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SL,Sal,municipality,municipio,Santa Maria,16.59796,-22.90509
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,CA,Santa Catarina,municipality,municipio,Assomada,15.1,-23.68333
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,CF,Santa Catarina do Fogo,municipality,municipio,Cova Figueira,14.89054,-24.29343
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,CR,Santa Cruz,municipality,municipio,Pedra Badejo,15.1375,-23.53083
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,CR,Santa Cruz,municipality,municipio,Santa Cruz,15.13333,-23.56667
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SD,São Domingos,municipality,municipio,São Domingos,15.02438,-23.5625
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SF,São Filipe,municipality,municipio,São Filipe,14.8961,-24.49556
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SO,São Lourenço dos Órgãos,municipality,municipio,João Teves,15.06694,-23.58917
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SM,São Miguel,municipality,municipio,Calheta,15.18613,-23.59228
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SS,São Salvador do Mundo,municipality,municipio,Achada Leitão,15.08,-23.64
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SS,São Salvador do Mundo,municipality,municipio,Leitão Grande,15.075,-23.645
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SS,São Salvador do Mundo,municipality,municipio,Picos,15.083,-23.632
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SS,São Salvador do Mundo,municipality,municipio,Picos Acima,15.09,-23.63
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,SV,São Vicente,municipality,municipio,Mindelo,16.89014,-24.98042
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,S,Sotavento Islands,geographical region,región geográfica,,,
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,TA,Tarrafal,municipality,municipio,Tarrafal,15.27881,-23.75192
+CV,Cape Verde,Cabo Verde,Africa,África,Western Africa,África Occidental,TS,Tarrafal de São Nicolau,municipality,municipio,Tarrafal de São Nicolau,16.56622,-24.35793

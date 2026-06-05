@@ -1,41 +1,41 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(55, 'Croatia', 'HR', 'HRV', 'Europe', 'Southern Europe', 'Zagreb', 'EUR', 45.16666666, 15.5, '🇭🇷');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(55, 'Croatia', 'Croacia', 'HR', 'HRV', 'Europe', 'Europa', 'Southern Europe', 'Europa del Sur', 'Zagreb', 'EUR', 45.16666666, 15.5, '🇭🇷');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(734, 'Bjelovar-Bilogora', 55, 'HR', '07', 'county', 45.7462142, 16.9212335),
-(737, 'Brod-Posavina', 55, 'HR', '12', 'county', 45.1542669, 18.0117761),
-(728, 'Dubrovnik-Neretva', 55, 'HR', '19', 'county', 42.8143166, 17.3746628),
-(743, 'Istria', 55, 'HR', '18', 'county', 45.1934345, 13.9150536),
-(5069, 'Karlovac', 55, 'HR', '04', 'county', 45.4892522, 15.5486303),
-(742, 'Koprivnica-Križevci', 55, 'HR', '06', 'county', 46.1254508, 16.8221278),
-(729, 'Krapina-Zagorje', 55, 'HR', '02', 'county', 46.0983218, 15.9377404),
-(731, 'Lika-Senj', 55, 'HR', '09', 'county', 44.66818, 15.3324696),
-(726, 'Međimurje', 55, 'HR', '20', 'county', 46.4061943, 16.5472278),
-(740, 'Osijek-Baranja', 55, 'HR', '14', 'county', 45.541111, 18.4384615),
-(724, 'Požega-Slavonia', 55, 'HR', '11', 'county', 45.4381151, 17.5133687),
-(735, 'Primorje-Gorski Kotar', 55, 'HR', '08', 'county', 45.4225937, 14.6172032),
-(730, 'Šibenik-Knin', 55, 'HR', '15', 'county', 43.9281485, 16.1037694),
-(733, 'Sisak-Moslavina', 55, 'HR', '03', 'county', 45.3981666, 16.4955111),
-(725, 'Split-Dalmatia', 55, 'HR', '17', 'county', 43.5003407, 16.8156193),
-(739, 'Varaždin', 55, 'HR', '05', 'county', 46.3079645, 16.3378198),
-(732, 'Virovitica-Podravina', 55, 'HR', '10', 'county', 45.7732751, 17.5789161),
-(741, 'Vukovar-Syrmia', 55, 'HR', '16', 'county', 45.1672401, 18.6389898),
-(727, 'Zadar', 55, 'HR', '13', 'county', 44.1168594, 15.2353257),
-(736, 'Zagreb', 55, 'HR', '01', 'county', 45.8130967, 15.9772795);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(734, 'Bjelovar-Bilogora', 'Bjelovar-Bilogora', 55, 'HR', '07', 'county', 'condado', 45.7462142, 16.9212335),
+(737, 'Brod-Posavina', 'Brod-Posavina', 55, 'HR', '12', 'county', 'condado', 45.1542669, 18.0117761),
+(728, 'Dubrovnik-Neretva', 'Dubrovnik-Neretva', 55, 'HR', '19', 'county', 'condado', 42.8143166, 17.3746628),
+(743, 'Istria', 'Istrija', 55, 'HR', '18', 'county', 'condado', 45.1934345, 13.9150536),
+(5069, 'Karlovac', 'Karlovac', 55, 'HR', '04', 'county', 'condado', 45.4892522, 15.5486303),
+(742, 'Koprivnica-Križevci', 'Koprivnica-Križevci', 55, 'HR', '06', 'county', 'condado', 46.1254508, 16.8221278),
+(729, 'Krapina-Zagorje', 'Krapina-Zagorje', 55, 'HR', '02', 'county', 'condado', 46.0983218, 15.9377404),
+(731, 'Lika-Senj', 'Lika-Senj', 55, 'HR', '09', 'county', 'condado', 44.66818, 15.3324696),
+(726, 'Međimurje', 'Međimurje', 55, 'HR', '20', 'county', 'condado', 46.4061943, 16.5472278),
+(740, 'Osijek-Baranja', 'Osijek-Baranja', 55, 'HR', '14', 'county', 'condado', 45.541111, 18.4384615),
+(724, 'Požega-Slavonia', 'Požega-Slavonia', 55, 'HR', '11', 'county', 'condado', 45.4381151, 17.5133687),
+(735, 'Primorje-Gorski Kotar', 'Primorje-gorski kotar', 55, 'HR', '08', 'county', 'condado', 45.4225937, 14.6172032),
+(730, 'Šibenik-Knin', 'Šibenik-Knin', 55, 'HR', '15', 'county', 'condado', 43.9281485, 16.1037694),
+(733, 'Sisak-Moslavina', 'Sisak-Moslavina', 55, 'HR', '03', 'county', 'condado', 45.3981666, 16.4955111),
+(725, 'Split-Dalmatia', 'Split-dalmacija', 55, 'HR', '17', 'county', 'condado', 43.5003407, 16.8156193),
+(739, 'Varaždin', 'Varaždin', 55, 'HR', '05', 'county', 'condado', 46.3079645, 16.3378198),
+(732, 'Virovitica-Podravina', 'Virovitica-Podravina', 55, 'HR', '10', 'county', 'condado', 45.7732751, 17.5789161),
+(741, 'Vukovar-Syrmia', 'Vukovar-Sirmija', 55, 'HR', '16', 'county', 'condado', 45.1672401, 18.6389898),
+(727, 'Zadar', 'Zadar', 55, 'HR', '13', 'county', 'condado', 44.1168594, 15.2353257),
+(736, 'Zagreb', 'Zagreb', 55, 'HR', '01', 'county', 'condado', 45.8130967, 15.9772795);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (54404, 'Bjelovar', 734, 55, 45.89861, 16.84889),

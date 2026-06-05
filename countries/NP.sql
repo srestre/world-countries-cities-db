@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(154, 'Nepal', 'NP', 'NPL', 'Asia', 'Southern Asia', 'Kathmandu', 'NPR', 28, 84, '🇳🇵');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(154, 'Nepal', 'Nepal', 'NP', 'NPL', 'Asia', 'Asia', 'Southern Asia', 'Asia del Sur', 'Kathmandu', 'NPR', 28, 84, '🇳🇵');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2073, 'Bagmati', 154, 'NP', 'P3', 'province', 27.4845108, 85.2929758),
-(2069, 'Gandaki', 154, 'NP', 'P4', 'province', 28.3740324, 84.0513324),
-(2068, 'Karnali', 154, 'NP', 'P6', 'province', 29.20272, 81.6145214),
-(2066, 'Koshi', 154, 'NP', 'P1', 'province', 26.5602871, 87.0066582),
-(2067, 'Lumbini', 154, 'NP', 'P5', 'province', 28.0654626, 82.535642),
-(5240, 'Madhesh', 154, 'NP', 'P2', 'province', 26.9066675, 85.7069635),
-(5241, 'Sudurpashchim', 154, 'NP', 'P7', 'province', 29.4333933, 81.0139775);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2073, 'Bagmati', 'बागमती', 154, 'NP', 'P3', 'province', 'provincia', 27.4845108, 85.2929758),
+(2069, 'Gandaki', 'गण्डकी', 154, 'NP', 'P4', 'province', 'provincia', 28.3740324, 84.0513324),
+(2068, 'Karnali', 'कर्णाली', 154, 'NP', 'P6', 'province', 'provincia', 29.20272, 81.6145214),
+(2066, 'Koshi', 'कोशी', 154, 'NP', 'P1', 'province', 'provincia', 26.5602871, 87.0066582),
+(2067, 'Lumbini', 'लुम्बिनी', 154, 'NP', 'P5', 'province', 'provincia', 28.0654626, 82.535642),
+(5240, 'Madhesh', 'मधेश', 154, 'NP', 'P2', 'province', 'provincia', 26.9066675, 85.7069635),
+(5241, 'Sudurpashchim', 'सुदर्गेपचिम', 154, 'NP', 'P7', 'province', 'provincia', 29.4333933, 81.0139775);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (79705, 'Bhaktapur', 2073, 154, 27.6774344, 85.403867),

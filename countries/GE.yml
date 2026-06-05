@@ -12,16 +12,20 @@
   currency_symbol: "ლ"
   tld: ".ge"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 42
   longitude: 43.5
   emoji: "🇬🇪"
   states:
     -
       name: "Abkhazia"
+      native: "აფხაზეთი"
       code: "AB"
       iso3166_2: "GE-AB"
       type: "autonomous republic"
+      type_es: "república autónoma"
       latitude: 42.9967187
       longitude: 41.0544741
       cities:
@@ -75,9 +79,11 @@
           longitude: 41.68007
     -
       name: "Adjara"
+      native: "აჭარა"
       code: "AJ"
       iso3166_2: "GE-AJ"
       type: "autonomous republic"
+      type_es: "república autónoma"
       latitude: 41.6731508
       longitude: 41.9196652
       cities:
@@ -127,9 +133,11 @@
           longitude: 41.75517
     -
       name: "Guria"
+      native: "გურია"
       code: "GU"
       iso3166_2: "GE-GU"
       type: "region"
+      type_es: "región"
       latitude: 41.9772681
       longitude: 41.9828262
       cities:
@@ -151,9 +159,11 @@
           longitude: 41.77861
     -
       name: "Imereti"
+      native: "იმერეთი"
       code: "IM"
       iso3166_2: "GE-IM"
       type: "region"
+      type_es: "región"
       latitude: 42.18756
       longitude: 42.9521554
       cities:
@@ -215,9 +225,11 @@
           longitude: 43.0525
     -
       name: "Kakheti"
+      native: "კახეთი"
       code: "KA"
       iso3166_2: "GE-KA"
       type: "region"
+      type_es: "región"
       latitude: 41.8144317
       longitude: 45.7174977
       cities:
@@ -259,9 +271,11 @@
           longitude: 45.96943
     -
       name: "Kvemo Kartli"
+      native: "ქვემო ქართლი"
       code: "KK"
       iso3166_2: "GE-KK"
       type: "region"
+      type_es: "región"
       latitude: 41.5124578
       longitude: 44.5495369
       cities:
@@ -327,9 +341,11 @@
           longitude: 44.08909
     -
       name: "Mtskheta-Mtianeti"
+      native: "მცხეთა-მთიანეთი"
       code: "MM"
       iso3166_2: "GE-MM"
       type: "region"
+      type_es: "región"
       latitude: 42.2290312
       longitude: 44.8569963
       cities:
@@ -367,9 +383,11 @@
           longitude: 44.77264
     -
       name: "Racha-Lechkhumi and Kvemo Svaneti"
+      native: "რაჭა-ლეჩხუმი და ქვემო სვანეთი"
       code: "RL"
       iso3166_2: "GE-RL"
       type: "region"
+      type_es: "región"
       latitude: 42.668849
       longitude: 43.125251
       cities:
@@ -391,9 +409,11 @@
           longitude: 43.4425
     -
       name: "Samegrelo-Zemo Svaneti"
+      native: "სამეგრელო-ზემო სვანეთი"
       code: "SZ"
       iso3166_2: "GE-SZ"
       type: "region"
+      type_es: "región"
       latitude: 42.635452
       longitude: 42.2487138
       cities:
@@ -447,9 +467,11 @@
           longitude: 41.87088
     -
       name: "Samtskhe-Javakheti"
+      native: "სამცხე-ჯავახეთი"
       code: "SJ"
       iso3166_2: "GE-SJ"
       type: "region"
+      type_es: "región"
       latitude: 41.5296305
       longitude: 43.2434208
       cities:
@@ -507,9 +529,11 @@
           longitude: 42.87224
     -
       name: "Shida Kartli"
+      native: "შიდა ქართლი"
       code: "SK"
       iso3166_2: "GE-SK"
       type: "region"
+      type_es: "región"
       latitude: 41.9886836
       longitude: 43.986125
       cities:
@@ -543,9 +567,11 @@
           longitude: 43.96861
     -
       name: "Tbilisi"
+      native: "თბილის"
       code: "TB"
       iso3166_2: "GE-TB"
       type: "city"
+      type_es: "ciudad"
       latitude: 41.6934591
       longitude: 44.8014495
       cities:

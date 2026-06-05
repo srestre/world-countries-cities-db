@@ -1,29 +1,29 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(179, 'Qatar', 'QA', 'QAT', 'Asia', 'Western Asia', 'Doha', 'QAR', 25.5, 51.25, '🇶🇦');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(179, 'Qatar', 'Catar', 'QA', 'QAT', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Doha', 'QAR', 25.5, 51.25, '🇶🇦');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3182, 'Al Daayen', 179, 'QA', 'ZA', 'municipality', 25.5097419, 51.4422699),
-(3183, 'Al Khor', 179, 'QA', 'KH', 'municipality', 25.6804078, 51.4968502),
-(3177, 'Al Rayyan', 179, 'QA', 'RA', 'municipality', 24.9304741, 50.9776888),
-(3179, 'Al Wakrah', 179, 'QA', 'WA', 'municipality', 25.1566623, 51.6013212),
-(3178, 'Al-Shahaniya', 179, 'QA', 'SH', 'municipality', 25.3717421, 51.227109),
-(3181, 'Doha', 179, 'QA', 'DA', 'municipality', 25.2854473, 51.5310398),
-(3180, 'Madinat ash Shamal', 179, 'QA', 'MS', 'municipality', 26.1182743, 51.2157265),
-(3184, 'Umm Salal', 179, 'QA', 'US', 'municipality', 25.4647654, 51.3383996);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3182, 'Al Daayen', 'دايين', 179, 'QA', 'ZA', 'municipality', 'municipio', 25.5097419, 51.4422699),
+(3183, 'Al Khor', 'Al Khor', 179, 'QA', 'KH', 'municipality', 'municipio', 25.6804078, 51.4968502),
+(3177, 'Al Rayyan', 'Al Rayyan', 179, 'QA', 'RA', 'municipality', 'municipio', 24.9304741, 50.9776888),
+(3179, 'Al Wakrah', 'واكرا', 179, 'QA', 'WA', 'municipality', 'municipio', 25.1566623, 51.6013212),
+(3178, 'Al-Shahaniya', 'الشهانية', 179, 'QA', 'SH', 'municipality', 'municipio', 25.3717421, 51.227109),
+(3181, 'Doha', 'الدوحة', 179, 'QA', 'DA', 'municipality', 'municipio', 25.2854473, 51.5310398),
+(3180, 'Madinat ash Shamal', 'مينات آش شوال', 179, 'QA', 'MS', 'municipality', 'municipio', 26.1182743, 51.2157265),
+(3184, 'Umm Salal', 'قاعدة أم', 179, 'QA', 'US', 'municipality', 'municipio', 25.4647654, 51.3383996);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (89856, 'Al Ghuwayrīyah', 3183, 179, 25.82882, 51.24567),

@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(156, 'Netherlands', 'NL', 'NLD', 'Europe', 'Western Europe', 'Amsterdam', 'EUR', 52.5, 5.75, '🇳🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(156, 'Netherlands', 'Países Bajos', 'NL', 'NLD', 'Europe', 'Europa', 'Western Europe', 'Europa Occidental', 'Amsterdam', 'EUR', 52.5, 5.75, '🇳🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2613, 'Drenthe', 156, 'NL', 'DR', 'province', 52.9067922, 6.6368423),
-(2619, 'Flevoland', 156, 'NL', 'FL', 'province', 52.4484375, 5.4235397),
-(2622, 'Friesland', 156, 'NL', 'FR', 'province', 53.0923689, 5.777043),
-(2611, 'Gelderland', 156, 'NL', 'GE', 'province', 52.1014041, 5.9515701),
-(2617, 'Groningen', 156, 'NL', 'GR', 'province', 53.2193835, 6.5665017),
-(2615, 'Limburg', 156, 'NL', 'LI', 'province', 51.2015196, 5.9046302),
-(2623, 'North Brabant', 156, 'NL', 'NB', 'province', 51.6017723, 5.4441391),
-(2612, 'North Holland', 156, 'NL', 'NH', 'province', 52.7212825, 4.820665),
-(2618, 'Overijssel', 156, 'NL', 'OV', 'province', 52.4254143, 6.4610611),
-(2614, 'South Holland', 156, 'NL', 'ZH', 'province', 51.9966792, 4.5597397),
-(2610, 'Utrecht', 156, 'NL', 'UT', 'province', 52.0907374, 5.1214201),
-(2620, 'Zeeland', 156, 'NL', 'ZE', 'province', 51.4162975, 3.7028061);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2613, 'Drenthe', 'Drenthe', 156, 'NL', 'DR', 'province', 'provincia', 52.9067922, 6.6368423),
+(2619, 'Flevoland', 'Flevoland', 156, 'NL', 'FL', 'province', 'provincia', 52.4484375, 5.4235397),
+(2622, 'Friesland', 'Frieland', 156, 'NL', 'FR', 'province', 'provincia', 53.0923689, 5.777043),
+(2611, 'Gelderland', 'Gelderland', 156, 'NL', 'GE', 'province', 'provincia', 52.1014041, 5.9515701),
+(2617, 'Groningen', 'Groningen', 156, 'NL', 'GR', 'province', 'provincia', 53.2193835, 6.5665017),
+(2615, 'Limburg', 'Limburg', 156, 'NL', 'LI', 'province', 'provincia', 51.2015196, 5.9046302),
+(2623, 'North Brabant', 'Noord-Brabant', 156, 'NL', 'NB', 'province', 'provincia', 51.6017723, 5.4441391),
+(2612, 'North Holland', 'Noord-Holland', 156, 'NL', 'NH', 'province', 'provincia', 52.7212825, 4.820665),
+(2618, 'Overijssel', 'Overijssel', 156, 'NL', 'OV', 'province', 'provincia', 52.4254143, 6.4610611),
+(2614, 'South Holland', 'Zuid -Holland', 156, 'NL', 'ZH', 'province', 'provincia', 51.9966792, 4.5597397),
+(2610, 'Utrecht', 'Utrecht', 156, 'NL', 'UT', 'province', 'provincia', 52.0907374, 5.1214201),
+(2620, 'Zeeland', 'Zeeland', 156, 'NL', 'ZE', 'province', 'provincia', 51.4162975, 3.7028061);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (77306, 'Aalden', 2613, 156, 52.79, 6.71806),

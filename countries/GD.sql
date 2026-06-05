@@ -1,28 +1,28 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(87, 'Grenada', 'GD', 'GRD', 'Americas', 'Caribbean', 'St. George''s', 'XCD', 12.11666666, -61.66666666, '🇬🇩');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(87, 'Grenada', 'Grenada', 'GD', 'GRD', 'Americas', 'América', 'Caribbean', 'Caribe', 'St. George''s', 'XCD', 12.11666666, -61.66666666, '🇬🇩');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3867, 'Carriacou', 87, 'GD', '10', 'dependency', 12.4829985, -61.4448436),
-(3865, 'Saint Andrew', 87, 'GD', '01', 'parish', 12.1111935, -61.6865971),
-(3869, 'Saint David', 87, 'GD', '02', 'parish', 12.0428069, -61.6778988),
-(3864, 'Saint George', 87, 'GD', '03', 'parish', 12.0535331, -61.751805),
-(3868, 'Saint John', 87, 'GD', '04', 'parish', 12.1444029, -61.7121841),
-(3866, 'Saint Mark', 87, 'GD', '05', 'parish', 12.1886437, -61.6954355),
-(3863, 'Saint Patrick', 87, 'GD', '06', 'parish', 12.2102986, -61.6350539);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3867, 'Carriacou', 'Carriacou', 87, 'GD', '10', 'dependency', 'dependencia', 12.4829985, -61.4448436),
+(3865, 'Saint Andrew', 'Saint Andrew', 87, 'GD', '01', 'parish', 'parroquia', 12.1111935, -61.6865971),
+(3869, 'Saint David', 'Saint David', 87, 'GD', '02', 'parish', 'parroquia', 12.0428069, -61.6778988),
+(3864, 'Saint George', 'Saint George', 87, 'GD', '03', 'parish', 'parroquia', 12.0535331, -61.751805),
+(3868, 'Saint John', 'Saint John', 87, 'GD', '04', 'parish', 'parroquia', 12.1444029, -61.7121841),
+(3866, 'Saint Mark', 'Saint Mark', 87, 'GD', '05', 'parish', 'parroquia', 12.1886437, -61.6954355),
+(3863, 'Saint Patrick', 'Saint Patrick', 87, 'GD', '06', 'parish', 'parroquia', 12.2102986, -61.6350539);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (52030, 'Hillsborough', 3867, 87, 12.48292, -61.45597),

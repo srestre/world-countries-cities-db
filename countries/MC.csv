@@ -1,18 +1,18 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-MC,Monaco,Europe,Western Europe,FO,Fontvieille,Fontvieille,43.72944444,7.415
-MC,Monaco,Europe,Western Europe,JE,Jardin Exotique,Jardin Exotique,43.73138889,7.41388889
-MC,Monaco,Europe,Western Europe,CL,La Colle,La Colle,43.7327465,7.4137276
-MC,Monaco,Europe,Western Europe,CO,La Condamine,La Condamine,43.7350665,7.419906
-MC,Monaco,Europe,Western Europe,GA,La Gare,La Gare,43.7319,7.4168
-MC,Monaco,Europe,Western Europe,SO,La Source,La Source,43.7365,7.4195
-MC,Monaco,Europe,Western Europe,LA,Larvotto,Larvotto,43.74666667,7.43333333
-MC,Monaco,Europe,Western Europe,MA,Malbousquet,Malbousquet,43.7345,7.4215
-MC,Monaco,Europe,Western Europe,MO,Monaco-Ville,Monaco-Ville,43.7311,7.42
-MC,Monaco,Europe,Western Europe,MG,Moneghetti,Moneghetti,43.7364927,7.4153383
-MC,Monaco,Europe,Western Europe,MC,Monte-Carlo,Monte-Carlo,43.73972222,7.42722222
-MC,Monaco,Europe,Western Europe,MU,Moulins,Moulins,43.7389,7.4185
-MC,Monaco,Europe,Western Europe,PH,Port-Hercule,Port-Hercule,43.7347,7.4253
-MC,Monaco,Europe,Western Europe,SR,Saint-Roman,Saint-Roman,43.7453,7.4318
-MC,Monaco,Europe,Western Europe,SD,Sainte-Dévote,Sainte-Dévote,43.7372,7.4208
-MC,Monaco,Europe,Western Europe,SP,Spélugues,Spélugues,43.7392,7.4251
-MC,Monaco,Europe,Western Europe,VR,Vallon de la Rousse,Vallon de la Rousse,43.7401,7.4175
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,FO,Fontvieille,quarter,distrito,Fontvieille,43.72944444,7.415
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,JE,Jardin Exotique,quarter,distrito,Jardin Exotique,43.73138889,7.41388889
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,CL,La Colle,quarter,distrito,La Colle,43.7327465,7.4137276
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,CO,La Condamine,quarter,distrito,La Condamine,43.7350665,7.419906
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,GA,La Gare,quarter,distrito,La Gare,43.7319,7.4168
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,SO,La Source,quarter,distrito,La Source,43.7365,7.4195
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,LA,Larvotto,quarter,distrito,Larvotto,43.74666667,7.43333333
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,MA,Malbousquet,quarter,distrito,Malbousquet,43.7345,7.4215
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,MO,Monaco-Ville,quarter,distrito,Monaco-Ville,43.7311,7.42
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,MG,Moneghetti,quarter,distrito,Moneghetti,43.7364927,7.4153383
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,MC,Monte-Carlo,quarter,distrito,Monte-Carlo,43.73972222,7.42722222
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,MU,Moulins,quarter,distrito,Moulins,43.7389,7.4185
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,PH,Port-Hercule,quarter,distrito,Port-Hercule,43.7347,7.4253
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,SR,Saint-Roman,quarter,distrito,Saint-Roman,43.7453,7.4318
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,SD,Sainte-Dévote,quarter,distrito,Sainte-Dévote,43.7372,7.4208
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,SP,Spélugues,quarter,distrito,Spélugues,43.7392,7.4251
+MC,Monaco,Mónaco,Europe,Europa,Western Europe,Europa Occidental,VR,Vallon de la Rousse,quarter,distrito,Vallon de la Rousse,43.7401,7.4175

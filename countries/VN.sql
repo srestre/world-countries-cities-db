@@ -1,55 +1,55 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(240, 'Vietnam', 'VN', 'VNM', 'Asia', 'South-Eastern Asia', 'Hanoi', 'VND', 16.16666666, 107.83333333, '🇻🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(240, 'Vietnam', 'Vietnam', 'VN', 'VNM', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Hanoi', 'VND', 16.16666666, 107.83333333, '🇻🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3794, 'An Giang', 240, 'VN', '44', 'province', 10.3188672, 105.0432488),
-(3791, 'Bắc Ninh', 240, 'VN', '56', 'province', 21.1781515, 106.0710078),
-(3778, 'Cà Mau', 240, 'VN', '59', 'province', 9.1762003, 105.1508415),
-(4925, 'Cần Thơ', 240, 'VN', 'CT', 'municipality', 10.0364634, 105.7875821),
-(3782, 'Cao Bằng', 240, 'VN', '04', 'province', 22.665781, 106.2587824),
-(3806, 'Đà Nẵng', 240, 'VN', 'DN', 'municipality', 16.068, 108.212),
-(3829, 'Đắk Lắk', 240, 'VN', '33', 'province', 12.8741856, 108.7979302),
-(3773, 'Điện Biên', 240, 'VN', '71', 'province', 21.6546566, 103.2168632),
-(3821, 'Đồng Nai', 240, 'VN', '39', 'province', 11.4285446, 107.1624245),
-(3769, 'Đồng Tháp', 240, 'VN', '45', 'province', 10.425183, 105.9271362),
-(3813, 'Gia Lai', 240, 'VN', '30', 'province', 14.0201373, 108.6354524),
-(3810, 'Hà Nội', 240, 'VN', 'HN', 'municipality', 21.0283334, 105.854041),
-(3816, 'Hà Tĩnh', 240, 'VN', '23', 'province', 18.338181, 105.8958971),
-(3783, 'Hải Phòng', 240, 'VN', 'HP', 'province', 20.8623278, 106.6799266),
-(3811, 'Hồ Chí Minh', 240, 'VN', 'SG', 'province', 10.7763897, 106.7011391),
-(3768, 'Hưng Yên', 240, 'VN', '66', 'province', 20.6568406, 106.054036),
-(3793, 'Khánh Hòa', 240, 'VN', '34', 'province', 12.2980751, 108.9950386),
-(3825, 'Lai Châu', 240, 'VN', '01', 'province', 22.3996612, 103.4516882),
-(3818, 'Lâm Đồng', 240, 'VN', '35', 'province', 11.6614957, 108.1335279),
-(3792, 'Lạng Sơn', 240, 'VN', '09', 'province', 21.853708, 106.761519),
-(3817, 'Lào Cai', 240, 'VN', '02', 'province', 22.5003944, 103.96562),
-(3780, 'Nghệ An', 240, 'VN', '22', 'province', 19.1976001, 105.060676),
-(3786, 'Ninh Bình', 240, 'VN', '18', 'province', 20.2506149, 105.9744536),
-(3801, 'Phú Thọ', 240, 'VN', '68', 'province', 21.3007538, 105.1349604),
-(3828, 'Quảng Ngãi', 240, 'VN', '29', 'province', 15.1213873, 108.8044145),
-(3814, 'Quảng Ninh', 240, 'VN', '13', 'province', 21.1718046, 107.2012742),
-(3803, 'Quảng Trị', 240, 'VN', '25', 'province', 17.3024666, 106.6624287),
-(3812, 'Sơn La', 240, 'VN', '05', 'province', 21.3269601, 103.9143842),
-(3826, 'Tây Ninh', 240, 'VN', '37', 'province', 11.3136555, 106.0966969),
-(3807, 'Thái Nguyên', 240, 'VN', '69', 'province', 21.5954448, 105.8386957),
-(3771, 'Thanh Hóa', 240, 'VN', '21', 'province', 19.806692, 105.7851816),
-(3798, 'Thừa Thiên-Huế', 240, 'VN', '26', 'province', 16.5530473, 107.6900375),
-(3795, 'Tuyên Quang', 240, 'VN', '07', 'province', 21.8192281, 105.2149355),
-(3790, 'Vĩnh Long', 240, 'VN', '49', 'province', 10.254809, 105.9714673);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3794, 'An Giang', 'An Giang', 240, 'VN', '44', 'province', 'provincia', 10.3188672, 105.0432488),
+(3791, 'Bắc Ninh', 'Bắc Ninh', 240, 'VN', '56', 'province', 'provincia', 21.1781515, 106.0710078),
+(3778, 'Cà Mau', 'Cà Mau', 240, 'VN', '59', 'province', 'provincia', 9.1762003, 105.1508415),
+(4925, 'Cần Thơ', 'Cần Thơ', 240, 'VN', 'CT', 'municipality', 'municipio', 10.0364634, 105.7875821),
+(3782, 'Cao Bằng', 'Cao Bằng', 240, 'VN', '04', 'province', 'provincia', 22.665781, 106.2587824),
+(3806, 'Đà Nẵng', 'Đà Nẵng', 240, 'VN', 'DN', 'municipality', 'municipio', 16.068, 108.212),
+(3829, 'Đắk Lắk', 'Đắk Lắk', 240, 'VN', '33', 'province', 'provincia', 12.8741856, 108.7979302),
+(3773, 'Điện Biên', 'Điện Biên', 240, 'VN', '71', 'province', 'provincia', 21.6546566, 103.2168632),
+(3821, 'Đồng Nai', 'Đồng Nai', 240, 'VN', '39', 'province', 'provincia', 11.4285446, 107.1624245),
+(3769, 'Đồng Tháp', 'Đồng Tháp', 240, 'VN', '45', 'province', 'provincia', 10.425183, 105.9271362),
+(3813, 'Gia Lai', 'Gia Lai', 240, 'VN', '30', 'province', 'provincia', 14.0201373, 108.6354524),
+(3810, 'Hà Nội', 'Hà Nội', 240, 'VN', 'HN', 'municipality', 'municipio', 21.0283334, 105.854041),
+(3816, 'Hà Tĩnh', 'Hà Tĩnh', 240, 'VN', '23', 'province', 'provincia', 18.338181, 105.8958971),
+(3783, 'Hải Phòng', 'Hải Phòng', 240, 'VN', 'HP', 'province', 'provincia', 20.8623278, 106.6799266),
+(3811, 'Hồ Chí Minh', 'Hồ Chí Minh', 240, 'VN', 'SG', 'province', 'provincia', 10.7763897, 106.7011391),
+(3768, 'Hưng Yên', 'Hưng Yên', 240, 'VN', '66', 'province', 'provincia', 20.6568406, 106.054036),
+(3793, 'Khánh Hòa', 'Khánh Hòa', 240, 'VN', '34', 'province', 'provincia', 12.2980751, 108.9950386),
+(3825, 'Lai Châu', 'Lai Châu', 240, 'VN', '01', 'province', 'provincia', 22.3996612, 103.4516882),
+(3818, 'Lâm Đồng', 'Lâm Đồng', 240, 'VN', '35', 'province', 'provincia', 11.6614957, 108.1335279),
+(3792, 'Lạng Sơn', 'Lạng Sơn', 240, 'VN', '09', 'province', 'provincia', 21.853708, 106.761519),
+(3817, 'Lào Cai', 'Lào Cai', 240, 'VN', '02', 'province', 'provincia', 22.5003944, 103.96562),
+(3780, 'Nghệ An', 'Nghệ An', 240, 'VN', '22', 'province', 'provincia', 19.1976001, 105.060676),
+(3786, 'Ninh Bình', 'Ninh Bình', 240, 'VN', '18', 'province', 'provincia', 20.2506149, 105.9744536),
+(3801, 'Phú Thọ', 'Phú Thọ', 240, 'VN', '68', 'province', 'provincia', 21.3007538, 105.1349604),
+(3828, 'Quảng Ngãi', 'Quảng Ngãi', 240, 'VN', '29', 'province', 'provincia', 15.1213873, 108.8044145),
+(3814, 'Quảng Ninh', 'Quảng Ninh', 240, 'VN', '13', 'province', 'provincia', 21.1718046, 107.2012742),
+(3803, 'Quảng Trị', 'Quảng Trị', 240, 'VN', '25', 'province', 'provincia', 17.3024666, 106.6624287),
+(3812, 'Sơn La', 'Sơn La', 240, 'VN', '05', 'province', 'provincia', 21.3269601, 103.9143842),
+(3826, 'Tây Ninh', 'Tây Ninh', 240, 'VN', '37', 'province', 'provincia', 11.3136555, 106.0966969),
+(3807, 'Thái Nguyên', 'Thái Nguyên', 240, 'VN', '69', 'province', 'provincia', 21.5954448, 105.8386957),
+(3771, 'Thanh Hóa', 'Thanh Hóa', 240, 'VN', '21', 'province', 'provincia', 19.806692, 105.7851816),
+(3798, 'Thừa Thiên-Huế', 'Thừa Thiên-Huế', 240, 'VN', '26', 'province', 'provincia', 16.5530473, 107.6900375),
+(3795, 'Tuyên Quang', 'Tuyên Quang', 240, 'VN', '07', 'province', 'provincia', 21.8192281, 105.2149355),
+(3790, 'Vĩnh Long', 'Vĩnh Long', 240, 'VN', '49', 'province', 'provincia', 10.254809, 105.9714673);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (130185, 'Cho Dok', 3794, 240, 10.7, 105.11667),

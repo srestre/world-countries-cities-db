@@ -1,43 +1,43 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(245, 'Yemen', 'YE', 'YEM', 'Asia', 'Western Asia', 'Sanaa', 'YER', 15, 48, '🇾🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(245, 'Yemen', 'Yemen', 'YE', 'YEM', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Sanaa', 'YER', 15, 48, '🇾🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1237, 'Abyan', 245, 'YE', 'AB', 'governorate', 13.786202, 46.141766),
-(5467, 'Ad Dali''', 245, 'YE', 'DA', 'governorate', 13.7, 44.73),
-(1242, 'Adan', 245, 'YE', 'AD', 'governorate', 12.833333, 44.916667),
-(1240, 'Al Bayda''', 245, 'YE', 'BA', 'governorate', 14.34166, 45.394422),
-(1241, 'Al Hudaydah', 245, 'YE', 'HU', 'governorate', 15.1159326, 42.844785),
-(1243, 'Al Jawf', 245, 'YE', 'JA', 'governorate', 16.689733, 45.611556),
-(1251, 'Al Mahrah', 245, 'YE', 'MR', 'governorate', 17, 51.5),
-(1235, 'Al Mahwit', 245, 'YE', 'MW', 'governorate', 15.387151, 43.566296),
-(1232, 'Amanat Al Asimah', 245, 'YE', 'SA', 'municipality', 15.35, 44.2),
-(1250, 'Amran', 245, 'YE', 'AM', 'governorate', 16.230218, 43.909834),
-(1246, 'Dhamar', 245, 'YE', 'DH', 'governorate', 14.7384268, 44.2709597),
-(1238, 'Hadhramaut', 245, 'YE', 'HD', 'governorate', 16.7323022, 48.6084967),
-(1244, 'Hajjah', 245, 'YE', 'HJ', 'governorate', 16, 43.25),
-(1233, 'Ibb', 245, 'YE', 'IB', 'governorate', 14.1419291, 44.1389849),
-(1245, 'Lahij', 245, 'YE', 'LA', 'governorate', 13.0577821, 44.8836135),
-(1234, 'Ma''rib', 245, 'YE', 'MA', 'governorate', 15.4578788, 45.3230242),
-(1248, 'Raymah', 245, 'YE', 'RA', 'governorate', 14.6875552, 43.6648264),
-(1249, 'Saada', 245, 'YE', 'SD', 'governorate', 16.917332, 43.759997),
-(1236, 'Sana''a', 245, 'YE', 'SN', 'governorate', 15.260691, 44.424895),
-(1247, 'Shabwah', 245, 'YE', 'SH', 'governorate', 14.9274109, 46.6084967),
-(1239, 'Socotra', 245, 'YE', 'SU', 'governorate', 12.5, 53.833333),
-(1231, 'Ta''izz', 245, 'YE', 'TA', 'governorate', 13.5775886, 44.0177989);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1237, 'Abyan', 'أبين', 245, 'YE', 'AB', 'governorate', 'gobernación', 13.786202, 46.141766),
+(5467, 'Ad Dali''', 'الضالع', 245, 'YE', 'DA', 'governorate', 'gobernación', 13.7, 44.73),
+(1242, 'Adan', 'عدن', 245, 'YE', 'AD', 'governorate', 'gobernación', 12.833333, 44.916667),
+(1240, 'Al Bayda''', 'البيضاء', 245, 'YE', 'BA', 'governorate', 'gobernación', 14.34166, 45.394422),
+(1241, 'Al Hudaydah', 'الحديدة', 245, 'YE', 'HU', 'governorate', 'gobernación', 15.1159326, 42.844785),
+(1243, 'Al Jawf', 'الجوف', 245, 'YE', 'JA', 'governorate', 'gobernación', 16.689733, 45.611556),
+(1251, 'Al Mahrah', 'المهرة', 245, 'YE', 'MR', 'governorate', 'gobernación', 17, 51.5),
+(1235, 'Al Mahwit', 'المحويت', 245, 'YE', 'MW', 'governorate', 'gobernación', 15.387151, 43.566296),
+(1232, 'Amanat Al Asimah', 'أمانة العاصمة', 245, 'YE', 'SA', 'municipality', 'municipio', 15.35, 44.2),
+(1250, 'Amran', 'عمران', 245, 'YE', 'AM', 'governorate', 'gobernación', 16.230218, 43.909834),
+(1246, 'Dhamar', 'ذمار', 245, 'YE', 'DH', 'governorate', 'gobernación', 14.7384268, 44.2709597),
+(1238, 'Hadhramaut', 'حضرموت', 245, 'YE', 'HD', 'governorate', 'gobernación', 16.7323022, 48.6084967),
+(1244, 'Hajjah', 'حجة', 245, 'YE', 'HJ', 'governorate', 'gobernación', 16, 43.25),
+(1233, 'Ibb', 'إب', 245, 'YE', 'IB', 'governorate', 'gobernación', 14.1419291, 44.1389849),
+(1245, 'Lahij', 'لحج', 245, 'YE', 'LA', 'governorate', 'gobernación', 13.0577821, 44.8836135),
+(1234, 'Ma''rib', 'مأرب', 245, 'YE', 'MA', 'governorate', 'gobernación', 15.4578788, 45.3230242),
+(1248, 'Raymah', 'ريمة', 245, 'YE', 'RA', 'governorate', 'gobernación', 14.6875552, 43.6648264),
+(1249, 'Saada', 'صعدة', 245, 'YE', 'SD', 'governorate', 'gobernación', 16.917332, 43.759997),
+(1236, 'Sana''a', 'صنعاء', 245, 'YE', 'SN', 'governorate', 'gobernación', 15.260691, 44.424895),
+(1247, 'Shabwah', 'شبوة', 245, 'YE', 'SH', 'governorate', 'gobernación', 14.9274109, 46.6084967),
+(1239, 'Socotra', 'سقطرى', 245, 'YE', 'SU', 'governorate', 'gobernación', 12.5, 53.833333),
+(1231, 'Ta''izz', 'تعز', 245, 'YE', 'TA', 'governorate', 'gobernación', 13.5775886, 44.0177989);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (130673, 'Ahwar', 1237, 245, 13.6853, 46.7556),

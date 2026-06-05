@@ -1,21 +1,21 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Christiansted,17.7440364,-64.7106086
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,East End,17.7523882,-64.670301
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Frederiksted,17.7124691,-64.8867192
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Good Hope,17.7223442,-64.7172494
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Northcentral,17.7501145,-64.8238491
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Northwest,17.7382782,-64.8906347
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Sion Farm,17.7543276,-64.7794611
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Southcentral,17.7064917,-64.8144865
-VI,Virgin Islands (US),Americas,Caribbean,SC,Saint Croix,Southwest,17.6917787,-64.9355939
-VI,Virgin Islands (US),Americas,Caribbean,SJ,Saint John,Central,18.3356838,-64.7947078
-VI,Virgin Islands (US),Americas,Caribbean,SJ,Saint John,Coral Bay,18.3480089,-64.7219682
-VI,Virgin Islands (US),Americas,Caribbean,SJ,Saint John,Cruz Bay,18.3182037,-64.8024211
-VI,Virgin Islands (US),Americas,Caribbean,SJ,Saint John,East End,18.3403647,-64.6806266
-VI,Virgin Islands (US),Americas,Caribbean,ST,Saint Thomas,Charlotte Amalie,18.3412761,-64.9483869
-VI,Virgin Islands (US),Americas,Caribbean,ST,Saint Thomas,East End,18.3290162,-64.8704731
-VI,Virgin Islands (US),Americas,Caribbean,ST,Saint Thomas,Northside,18.3738081,-64.9558909
-VI,Virgin Islands (US),Americas,Caribbean,ST,Saint Thomas,Southside,18.3052912,-64.9172445
-VI,Virgin Islands (US),Americas,Caribbean,ST,Saint Thomas,Tutu,18.3388427,-64.8953072
-VI,Virgin Islands (US),Americas,Caribbean,ST,Saint Thomas,Water Island,18.3208653,-64.9693263
-VI,Virgin Islands (US),Americas,Caribbean,ST,Saint Thomas,West End,18.3724367,-65.0649013
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Christiansted,17.7440364,-64.7106086
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,East End,17.7523882,-64.670301
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Frederiksted,17.7124691,-64.8867192
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Good Hope,17.7223442,-64.7172494
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Northcentral,17.7501145,-64.8238491
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Northwest,17.7382782,-64.8906347
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Sion Farm,17.7543276,-64.7794611
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Southcentral,17.7064917,-64.8144865
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SC,Saint Croix,district,distrito,Southwest,17.6917787,-64.9355939
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SJ,Saint John,district,distrito,Central,18.3356838,-64.7947078
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SJ,Saint John,district,distrito,Coral Bay,18.3480089,-64.7219682
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SJ,Saint John,district,distrito,Cruz Bay,18.3182037,-64.8024211
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,SJ,Saint John,district,distrito,East End,18.3403647,-64.6806266
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,ST,Saint Thomas,district,distrito,Charlotte Amalie,18.3412761,-64.9483869
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,ST,Saint Thomas,district,distrito,East End,18.3290162,-64.8704731
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,ST,Saint Thomas,district,distrito,Northside,18.3738081,-64.9558909
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,ST,Saint Thomas,district,distrito,Southside,18.3052912,-64.9172445
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,ST,Saint Thomas,district,distrito,Tutu,18.3388427,-64.8953072
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,ST,Saint Thomas,district,distrito,Water Island,18.3208653,-64.9693263
+VI,Virgin Islands (US),Islas Vírgenes de los Estados Unidos,Americas,América,Caribbean,Caribe,ST,Saint Thomas,district,distrito,West End,18.3724367,-65.0649013

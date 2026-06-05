@@ -12,16 +12,20 @@
   currency_symbol: "CHf"
   tld: ".li"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 47.26666666
   longitude: 9.53333333
   emoji: "🇱🇮"
   states:
     -
       name: "Balzers"
+      native: "Balzern"
       code: "01"
       iso3166_2: "LI-01"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.0688822
       longitude: 9.506159
       cities:
@@ -31,9 +35,11 @@
           longitude: 9.50251
     -
       name: "Eschen"
+      native: "Eschen"
       code: "02"
       iso3166_2: "LI-02"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.2126274
       longitude: 9.5233202
       cities:
@@ -43,9 +49,11 @@
           longitude: 9.52223
     -
       name: "Gamprin"
+      native: "Gamprin"
       code: "03"
       iso3166_2: "LI-03"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.213249
       longitude: 9.5025195
       cities:
@@ -55,9 +63,11 @@
           longitude: 9.50935
     -
       name: "Mauren"
+      native: "Mauren"
       code: "04"
       iso3166_2: "LI-04"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.2189285
       longitude: 9.541735
       cities:
@@ -67,9 +77,11 @@
           longitude: 9.5442
     -
       name: "Planken"
+      native: "Planken"
       code: "05"
       iso3166_2: "LI-05"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.1858848
       longitude: 9.5452211
       cities:
@@ -79,9 +91,11 @@
           longitude: 9.54437
     -
       name: "Ruggell"
+      native: "Ruggell"
       code: "06"
       iso3166_2: "LI-06"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.2397575
       longitude: 9.5262871
       cities:
@@ -91,9 +105,11 @@
           longitude: 9.5254
     -
       name: "Schaan"
+      native: "Schaan"
       code: "07"
       iso3166_2: "LI-07"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.1663397
       longitude: 9.510312
       cities:
@@ -103,9 +119,11 @@
           longitude: 9.50867
     -
       name: "Schellenberg"
+      native: "Schellenberg"
       code: "08"
       iso3166_2: "LI-08"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.230966
       longitude: 9.5467843
       cities:
@@ -115,9 +133,11 @@
           longitude: 9.54678
     -
       name: "Triesen"
+      native: "Versuche"
       code: "09"
       iso3166_2: "LI-09"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.1097988
       longitude: 9.5248296
       cities:
@@ -127,9 +147,11 @@
           longitude: 9.52815
     -
       name: "Triesenberg"
+      native: "Triesenberg"
       code: "10"
       iso3166_2: "LI-10"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.1186181
       longitude: 9.5433663
       cities:
@@ -139,9 +161,11 @@
           longitude: 9.54197
     -
       name: "Vaduz"
+      native: "Vaduz"
       code: "11"
       iso3166_2: "LI-11"
       type: "commune"
+      type_es: "comuna"
       latitude: 47.1410303
       longitude: 9.5209277
       cities:

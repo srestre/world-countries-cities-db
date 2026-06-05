@@ -12,133 +12,163 @@
   currency_symbol: "$"
   tld: ".nu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   latitude: -19.03333333
   longitude: -169.86666666
   emoji: "🇳🇺"
   states:
     -
       name: "Alofi North"
+      native: "Mightyly"
       code: "14"
       iso3166_2: "NU-14"
       type: "village"
+      type_es: "aldea"
       latitude: -19.0488977
       longitude: -169.9190905
       cities:
         []
     -
       name: "Alofi South"
+      native: "Alofa south"
       code: "13"
       iso3166_2: "NU-13"
       type: "village"
+      type_es: "aldea"
       latitude: -19.054836
       longitude: -169.9198846
       cities:
         []
     -
       name: "Avatele"
+      native: "Avatele"
       code: "11"
       iso3166_2: "NU-11"
       type: "village"
+      type_es: "aldea"
       latitude: -19.1237302
       longitude: -169.9165678
       cities:
         []
     -
       name: "Hakupu"
+      native: "Afflass"
       code: "09"
       iso3166_2: "NU-09"
       type: "village"
+      type_es: "aldea"
       latitude: -19.1287275
       longitude: -169.8492123
       cities:
         []
     -
       name: "Hikutavake"
+      native: "Hikuvake"
       code: "04"
       iso3166_2: "NU-04"
       type: "village"
+      type_es: "aldea"
       latitude: -18.9656326
       longitude: -169.880636
       cities:
         []
     -
       name: "Lakepa"
+      native: "Lake coffee"
       code: "07"
       iso3166_2: "NU-07"
       type: "village"
+      type_es: "aldea"
       latitude: -19.0096425
       longitude: -169.8120046
       cities:
         []
     -
       name: "Liku"
+      native: "Liku"
       code: "08"
       iso3166_2: "NU-08"
       type: "village"
+      type_es: "aldea"
       latitude: -19.0536907
       longitude: -169.7942591
       cities:
         []
     -
       name: "Makefu"
+      native: "Makeffi"
       code: "01"
       iso3166_2: "NU-01"
       type: "village"
+      type_es: "aldea"
       latitude: -19.0032618
       longitude: -169.9204732
       cities:
         []
     -
       name: "Mutalau"
+      native: "Mutalau"
       code: "06"
       iso3166_2: "NU-06"
       type: "village"
+      type_es: "aldea"
       latitude: -18.9639385
       longitude: -169.8327863
       cities:
         []
     -
       name: "Namukulu"
+      native: "The hospital"
       code: "03"
       iso3166_2: "NU-03"
       type: "village"
+      type_es: "aldea"
       latitude: -18.9812275
       longitude: -169.9029422
       cities:
         []
     -
       name: "Tamakautoga"
+      native: "Tamakautoga"
       code: "12"
       iso3166_2: "NU-12"
       type: "village"
+      type_es: "aldea"
       latitude: -19.104524
       longitude: -169.917382
       cities:
         []
     -
       name: "Toi"
+      native: "Toi"
       code: "05"
       iso3166_2: "NU-05"
       type: "village"
+      type_es: "aldea"
       latitude: -18.97376
       longitude: -169.8629774
       cities:
         []
     -
       name: "Tuapa"
+      native: "Backplaces"
       code: "02"
       iso3166_2: "NU-02"
       type: "village"
+      type_es: "aldea"
       latitude: -18.9912507
       longitude: -169.9092078
       cities:
         []
     -
       name: "Vaiea"
+      native: "Woe"
       code: "10"
       iso3166_2: "NU-10"
       type: "village"
+      type_es: "aldea"
       latitude: -19.1308358
       longitude: -169.8938012
       cities:

@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(97, 'Honduras', 'HN', 'HND', 'Americas', 'Central America', 'Tegucigalpa', 'HNL', 15, -86.5, '🇭🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(97, 'Honduras', 'Honduras', 'HN', 'HND', 'Americas', 'América', 'Central America', 'Centroamérica', 'Tegucigalpa', 'HNL', 15, -86.5, '🇭🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4047, 'Atlántida', 97, 'HN', 'AT', 'department', 15.8172492, -87.1146935),
-(4045, 'Bay Islands', 97, 'HN', 'IB', 'department', 16.3217674, -86.1786833),
-(4041, 'Choluteca', 97, 'HN', 'CH', 'department', 13.3014081, -87.1842323),
-(4051, 'Colón', 97, 'HN', 'CL', 'department', 15.7149552, -85.7023584),
-(4042, 'Comayagua', 97, 'HN', 'CM', 'department', 14.5525837, -87.6903154),
-(4049, 'Copán', 97, 'HN', 'CP', 'department', 14.8958685, -88.9255812),
-(4046, 'Cortés', 97, 'HN', 'CR', 'department', 15.4784073, -88.0343858),
-(4043, 'El Paraíso', 97, 'HN', 'EP', 'department', 13.9619941, -86.5627921),
-(4052, 'Francisco Morazán', 97, 'HN', 'FM', 'department', 14.3430478, -87.1141957),
-(4048, 'Gracias a Dios', 97, 'HN', 'GD', 'department', 15.4333305, -84.148687),
-(4044, 'Intibucá', 97, 'HN', 'IN', 'department', 14.3121375, -88.1780847),
-(4058, 'La Paz', 97, 'HN', 'LP', 'department', 14.1284089, -87.9615276),
-(4054, 'Lempira', 97, 'HN', 'LE', 'department', 14.4556602, -88.6188558),
-(4056, 'Ocotepeque', 97, 'HN', 'OC', 'department', 14.4759433, -89.0365633),
-(4050, 'Olancho', 97, 'HN', 'OL', 'department', 14.8211028, -85.9549881),
-(4053, 'Santa Bárbara', 97, 'HN', 'SB', 'department', 15.0960558, -88.3673692),
-(4055, 'Valle', 97, 'HN', 'VA', 'department', 13.5110996, -87.5472925),
-(4057, 'Yoro', 97, 'HN', 'YO', 'department', 15.2994474, -87.2916981);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4047, 'Atlántida', 'Atlántida', 97, 'HN', 'AT', 'department', 'departamento', 15.8172492, -87.1146935),
+(4045, 'Bay Islands', 'Islas de la Bahía', 97, 'HN', 'IB', 'department', 'departamento', 16.3217674, -86.1786833),
+(4041, 'Choluteca', 'Choluteca', 97, 'HN', 'CH', 'department', 'departamento', 13.3014081, -87.1842323),
+(4051, 'Colón', 'Colon', 97, 'HN', 'CL', 'department', 'departamento', 15.7149552, -85.7023584),
+(4042, 'Comayagua', 'Comayagua', 97, 'HN', 'CM', 'department', 'departamento', 14.5525837, -87.6903154),
+(4049, 'Copán', 'Copán', 97, 'HN', 'CP', 'department', 'departamento', 14.8958685, -88.9255812),
+(4046, 'Cortés', 'Cortés', 97, 'HN', 'CR', 'department', 'departamento', 15.4784073, -88.0343858),
+(4043, 'El Paraíso', 'El Paraíso', 97, 'HN', 'EP', 'department', 'departamento', 13.9619941, -86.5627921),
+(4052, 'Francisco Morazán', 'Francisco Morazán', 97, 'HN', 'FM', 'department', 'departamento', 14.3430478, -87.1141957),
+(4048, 'Gracias a Dios', 'Gracias a Dios', 97, 'HN', 'GD', 'department', 'departamento', 15.4333305, -84.148687),
+(4044, 'Intibucá', 'Intibucá', 97, 'HN', 'IN', 'department', 'departamento', 14.3121375, -88.1780847),
+(4058, 'La Paz', 'La Paz', 97, 'HN', 'LP', 'department', 'departamento', 14.1284089, -87.9615276),
+(4054, 'Lempira', 'Lempira', 97, 'HN', 'LE', 'department', 'departamento', 14.4556602, -88.6188558),
+(4056, 'Ocotepeque', 'Ocotepeque', 97, 'HN', 'OC', 'department', 'departamento', 14.4759433, -89.0365633),
+(4050, 'Olancho', 'Olancho', 97, 'HN', 'OL', 'department', 'departamento', 14.8211028, -85.9549881),
+(4053, 'Santa Bárbara', 'Santa Bárbara', 97, 'HN', 'SB', 'department', 'departamento', 15.0960558, -88.3673692),
+(4055, 'Valle', 'Valle', 97, 'HN', 'VA', 'department', 'departamento', 13.5110996, -87.5472925),
+(4057, 'Yoro', 'Yoro', 97, 'HN', 'YO', 'department', 'departamento', 15.2994474, -87.2916981);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (53857, 'Arizona', 4047, 97, 15.63333, -87.31667),

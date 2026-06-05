@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".sm"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 43.76666666
   longitude: 12.41666666
   emoji: "🇸🇲"
   states:
     -
       name: "Acquaviva"
+      native: "Acquaviva"
       code: "01"
       iso3166_2: "SM-01"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9464246
       longitude: 12.4191909
       cities:
@@ -31,9 +35,11 @@
           longitude: 12.4185
     -
       name: "Borgo Maggiore"
+      native: "Borgo Maggiore"
       code: "06"
       iso3166_2: "SM-06"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9411865
       longitude: 12.447422
       cities:
@@ -43,9 +49,11 @@
           longitude: 12.44738
     -
       name: "Chiesanuova"
+      native: "Chiesanuova"
       code: "02"
       iso3166_2: "SM-02"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9053382
       longitude: 12.4220187
       cities:
@@ -55,9 +63,11 @@
           longitude: 12.42142
     -
       name: "Domagnano"
+      native: "Domagnano"
       code: "03"
       iso3166_2: "SM-03"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9501929
       longitude: 12.4681537
       cities:
@@ -67,9 +77,11 @@
           longitude: 12.46828
     -
       name: "Faetano"
+      native: "Condizione"
       code: "04"
       iso3166_2: "SM-04"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9269122
       longitude: 12.4974633
       cities:
@@ -79,9 +91,11 @@
           longitude: 12.49798
     -
       name: "Fiorentino"
+      native: "Fiorentino"
       code: "05"
       iso3166_2: "SM-05"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9078337
       longitude: 12.4581209
       cities:
@@ -91,9 +105,11 @@
           longitude: 12.45738
     -
       name: "Montegiardino"
+      native: "Montegiardino"
       code: "08"
       iso3166_2: "SM-08"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9052999
       longitude: 12.4810542
       cities:
@@ -103,9 +119,11 @@
           longitude: 12.48201
     -
       name: "San Marino"
+      native: "San Marino"
       code: "07"
       iso3166_2: "SM-07"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.94236
       longitude: 12.457777
       cities:
@@ -115,9 +133,11 @@
           longitude: 12.44639
     -
       name: "Serravalle"
+      native: "Serravalle"
       code: "09"
       iso3166_2: "SM-09"
       type: "municipality"
+      type_es: "municipio"
       latitude: 43.9699026
       longitude: 12.4802946
       cities:

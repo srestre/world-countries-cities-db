@@ -1,2 +1,2 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-MF,Saint-Martin (French part),Americas,Caribbean,01,Saint-Martin,Marigot,18.0731,-63.0822
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+MF,Saint-Martin (French part),Saint Martin,Americas,América,Caribbean,Caribe,01,Saint-Martin,overseas collectivity,colectividad de ultramar,Marigot,18.0731,-63.0822

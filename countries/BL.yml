@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".bl"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 18.5
   longitude: -63.41666666
   emoji: "🇧🇱"
   states:
     -
       name: "Saint-Barthélemy"
+      native: "Saint-Barthélemy"
       code: "01"
       iso3166_2: "FR-BL"
       type: "overseas collectivity"
+      type_es: "colectividad de ultramar"
       latitude: 17.9
       longitude: -62.83333333
       cities:

@@ -12,7 +12,9 @@
   currency_symbol: "؋"
   tld: ".af"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Afghan"
   population: 43844000
   gdp: null
@@ -33,7 +35,9 @@
   currency_symbol: "€"
   tld: ".ax"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Aland Island"
   population: 30654
   gdp: null
@@ -54,7 +58,9 @@
   currency_symbol: "Lek"
   tld: ".al"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Albanian "
   population: 2363314
   gdp: 28372
@@ -75,7 +81,9 @@
   currency_symbol: "دج"
   tld: ".dz"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   nationality: "Algerian"
   population: 47400000
   gdp: 268885
@@ -96,7 +104,9 @@
   currency_symbol: "$"
   tld: ".as"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "American Samoan"
   population: 49710
   gdp: null
@@ -117,7 +127,9 @@
   currency_symbol: "€"
   tld: ".ad"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Andorran"
   population: 88306
   gdp: 4035
@@ -138,7 +150,9 @@
   currency_symbol: "Kz"
   tld: ".ao"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Angolan"
   population: 36170961
   gdp: 113343
@@ -159,7 +173,9 @@
   currency_symbol: "$"
   tld: ".ai"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Anguillan"
   population: 16010
   gdp: null
@@ -180,7 +196,9 @@
   currency_symbol: "$"
   tld: ".aq"
   region: "Polar"
+  region_es: "Regiones polares"
   subregion: null
+  subregion_es: null
   nationality: "Antarctic"
   population: null
   gdp: null
@@ -201,7 +219,9 @@
   currency_symbol: "$"
   tld: ".ag"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Antiguan or Barbudan"
   population: 103603
   gdp: 2373
@@ -222,7 +242,9 @@
   currency_symbol: "$"
   tld: ".ar"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Argentine"
   population: 46735004
   gdp: 683533
@@ -243,7 +265,9 @@
   currency_symbol: "֏"
   tld: ".am"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Armenian"
   population: 3081100
   gdp: 26258
@@ -264,7 +288,9 @@
   currency_symbol: "ƒ"
   tld: ".aw"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Aruban"
   population: 107566
   gdp: 4100
@@ -285,7 +311,9 @@
   currency_symbol: "$"
   tld: ".au"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   nationality: "Australian"
   population: 27400013
   gdp: 1771681
@@ -306,7 +334,9 @@
   currency_symbol: "€"
   tld: ".at"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "Austrian"
   population: 9200931
   gdp: 534301
@@ -327,7 +357,9 @@
   currency_symbol: "m"
   tld: ".az"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Azerbaijani, Azeri"
   population: 10241722
   gdp: 78870
@@ -348,7 +380,9 @@
   currency_symbol: ".د.ب"
   tld: ".bh"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Bahraini"
   population: 1594654
   gdp: 47829
@@ -369,7 +403,9 @@
   currency_symbol: "৳"
   tld: ".bd"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Bangladeshi"
   population: 169828911
   gdp: 467218
@@ -390,7 +426,9 @@
   currency_symbol: "Bds$"
   tld: ".bb"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Barbadian"
   population: 267800
   gdp: 7552
@@ -411,7 +449,9 @@
   currency_symbol: "Br"
   tld: ".by"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Belarusian"
   population: 9109280
   gdp: 71561
@@ -432,7 +472,9 @@
   currency_symbol: "€"
   tld: ".be"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "Belgian"
   population: 11825551
   gdp: 684864
@@ -453,7 +495,9 @@
   currency_symbol: "$"
   tld: ".bz"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   nationality: "Belizean"
   population: 417634
   gdp: 3611
@@ -474,7 +518,9 @@
   currency_symbol: "CFA"
   tld: ".bj"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Beninese, Beninois"
   population: 13224860
   gdp: 22236
@@ -495,7 +541,9 @@
   currency_symbol: "$"
   tld: ".bm"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   nationality: "Bermudian, Bermudan"
   population: 64055
   gdp: null
@@ -516,7 +564,9 @@
   currency_symbol: "Nu."
   tld: ".bt"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Bhutanese"
   population: 784043
   gdp: 3422
@@ -537,7 +587,9 @@
   currency_symbol: "Bs."
   tld: ".bo"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Bolivian"
   population: 11312620
   gdp: 56339
@@ -558,7 +610,9 @@
   currency_symbol: "$"
   tld: ".an"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Bonaire"
   population: 26552
   gdp: null
@@ -579,7 +633,9 @@
   currency_symbol: "KM"
   tld: ".ba"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Bosnian or Herzegovinian"
   population: 3422000
   gdp: 28807
@@ -600,7 +656,9 @@
   currency_symbol: "P"
   tld: ".bw"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   nationality: "Motswana, Botswanan"
   population: 2359609
   gdp: 19400
@@ -621,7 +679,9 @@
   currency_symbol: "ko"
   tld: ".bv"
   region: null
+  region_es: null
   subregion: null
+  subregion_es: null
   nationality: "Bouvet Island"
   population: null
   gdp: null
@@ -642,7 +702,9 @@
   currency_symbol: "R$"
   tld: ".br"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Brazilian"
   population: 213421037
   gdp: 2125958
@@ -663,7 +725,9 @@
   currency_symbol: "$"
   tld: ".io"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "BIOT"
   population: null
   gdp: null
@@ -684,7 +748,9 @@
   currency_symbol: "B$"
   tld: ".bn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Bruneian"
   population: 455500
   gdp: 16007
@@ -705,7 +771,9 @@
   currency_symbol: "Лв."
   tld: ".bg"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Bulgarian"
   population: 6437360
   gdp: 117007
@@ -726,7 +794,9 @@
   currency_symbol: "CFA"
   tld: ".bf"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Burkinabe"
   population: 24070553
   gdp: 27056
@@ -747,7 +817,9 @@
   currency_symbol: "FBu"
   tld: ".bi"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Burundian"
   population: 12332788
   gdp: 6745
@@ -768,7 +840,9 @@
   currency_symbol: "KHR"
   tld: ".kh"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Cambodian"
   population: 17577760
   gdp: 49799
@@ -789,7 +863,9 @@
   currency_symbol: "FCFA"
   tld: ".cm"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Cameroonian"
   population: 29442327
   gdp: 56011
@@ -810,7 +886,9 @@
   currency_symbol: "$"
   tld: ".ca"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   nationality: "Canadian"
   population: 41548787
   gdp: 2225341
@@ -831,7 +909,9 @@
   currency_symbol: "$"
   tld: ".cv"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Verdean"
   population: 491233
   gdp: 2786
@@ -852,7 +932,9 @@
   currency_symbol: "$"
   tld: ".ky"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Caymanian"
   population: 84738
   gdp: null
@@ -873,7 +955,9 @@
   currency_symbol: "FCFA"
   tld: ".cf"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Central African"
   population: 6470307
   gdp: 2932
@@ -894,7 +978,9 @@
   currency_symbol: "FCFA"
   tld: ".td"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Chadian"
   population: 19340757
   gdp: 18792
@@ -915,7 +1001,9 @@
   currency_symbol: "$"
   tld: ".cl"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Chilean"
   population: 20206953
   gdp: 343823
@@ -936,7 +1024,9 @@
   currency_symbol: "¥"
   tld: ".cn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "Chinese"
   population: 1408280000
   gdp: 19231705
@@ -957,7 +1047,9 @@
   currency_symbol: "$"
   tld: ".cx"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   nationality: "Christmas Island"
   population: 1692
   gdp: null
@@ -978,7 +1070,9 @@
   currency_symbol: "$"
   tld: ".cc"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   nationality: "Cocos Island"
   population: 593
   gdp: null
@@ -999,7 +1093,9 @@
   currency_symbol: "$"
   tld: ".co"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Colombian"
   population: 53057212
   gdp: 427766
@@ -1020,7 +1116,9 @@
   currency_symbol: "CF"
   tld: ".km"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Comoran, Comorian"
   population: 870038
   gdp: 1548
@@ -1041,7 +1139,9 @@
   currency_symbol: "FC"
   tld: ".cg"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Congolese"
   population: 6142180
   gdp: 15281
@@ -1062,7 +1162,9 @@
   currency_symbol: "$"
   tld: ".ck"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Cook Island"
   population: 15040
   gdp: null
@@ -1083,7 +1185,9 @@
   currency_symbol: "₡"
   tld: ".cr"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   nationality: "Costa Rican"
   population: 5309625
   gdp: 102591
@@ -1104,7 +1208,9 @@
   currency_symbol: "€"
   tld: ".hr"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Croatian"
   population: 3866233
   gdp: 98951
@@ -1125,7 +1231,9 @@
   currency_symbol: "$"
   tld: ".cu"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Cuban"
   population: 9748007
   gdp: null
@@ -1146,7 +1254,9 @@
   currency_symbol: "ƒ"
   tld: ".cw"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Curacaoan"
   population: 156115
   gdp: null
@@ -1167,7 +1277,9 @@
   currency_symbol: "€"
   tld: ".cy"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Cypriot"
   population: 966400
   gdp: 38736
@@ -1188,7 +1300,9 @@
   currency_symbol: "Kč"
   tld: ".cz"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Czech"
   population: 10876875
   gdp: 360244
@@ -1209,7 +1323,9 @@
   currency_symbol: "FC"
   tld: ".cd"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Congolese"
   population: 112832000
   gdp: 79119
@@ -1230,7 +1346,9 @@
   currency_symbol: "Kr."
   tld: ".dk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Danish"
   population: 6004342
   gdp: 449940
@@ -1251,7 +1369,9 @@
   currency_symbol: "Fdj"
   tld: ".dj"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Djiboutian"
   population: 1066809
   gdp: 4587
@@ -1272,7 +1392,9 @@
   currency_symbol: "$"
   tld: ".dm"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Dominican"
   population: 67408
   gdp: 742
@@ -1293,7 +1415,9 @@
   currency_symbol: "$"
   tld: ".do"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Dominican"
   population: 10771504
   gdp: 127828
@@ -1314,7 +1438,9 @@
   currency_symbol: "$"
   tld: ".ec"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Ecuadorian"
   population: 18103660
   gdp: 125677
@@ -1335,7 +1461,9 @@
   currency_symbol: "ج.م"
   tld: ".eg"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   nationality: "Egyptian"
   population: 107271260
   gdp: 347342
@@ -1356,7 +1484,9 @@
   currency_symbol: "$"
   tld: ".sv"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   nationality: "Salvadoran"
   population: 6029976
   gdp: 36749
@@ -1377,7 +1507,9 @@
   currency_symbol: "FCFA"
   tld: ".gq"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Equatorial Guinean, Equatoguinean"
   population: 1668768
   gdp: 12684
@@ -1398,7 +1530,9 @@
   currency_symbol: "Nfk"
   tld: ".er"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Eritrean"
   population: 3607000
   gdp: null
@@ -1419,7 +1553,9 @@
   currency_symbol: "€"
   tld: ".ee"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Estonian"
   population: 1369995
   gdp: 45004
@@ -1440,7 +1576,9 @@
   currency_symbol: "E"
   tld: ".sz"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   nationality: "Swazi"
   population: 1235549
   gdp: 5483
@@ -1461,7 +1599,9 @@
   currency_symbol: "Nkf"
   tld: ".et"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Ethiopian"
   population: 111652998
   gdp: 117457
@@ -1482,7 +1622,9 @@
   currency_symbol: "£"
   tld: ".fk"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Falkland Island"
   population: 3662
   gdp: null
@@ -1503,7 +1645,9 @@
   currency_symbol: "Kr."
   tld: ".fo"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Faroese"
   population: 55146
   gdp: null
@@ -1524,7 +1668,9 @@
   currency_symbol: "FJ$"
   tld: ".fj"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   nationality: "Fijian"
   population: 900869
   gdp: 6257
@@ -1545,7 +1691,9 @@
   currency_symbol: "€"
   tld: ".fi"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Finnish"
   population: 5645651
   gdp: 303945
@@ -1566,7 +1714,9 @@
   currency_symbol: "€"
   tld: ".fr"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "French"
   population: 68688000
   gdp: 3211292
@@ -1587,7 +1737,9 @@
   currency_symbol: "€"
   tld: ".gf"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "French Guianese"
   population: 292354
   gdp: null
@@ -1608,7 +1760,9 @@
   currency_symbol: "₣"
   tld: ".pf"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "French Polynesia"
   population: 279500
   gdp: null
@@ -1629,7 +1783,9 @@
   currency_symbol: "€"
   tld: ".tf"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   nationality: "French Southern Territories"
   population: null
   gdp: null
@@ -1650,7 +1806,9 @@
   currency_symbol: "FCFA"
   tld: ".ga"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Gabonese"
   population: 2469296
   gdp: 20391
@@ -1671,7 +1829,9 @@
   currency_symbol: "ლ"
   tld: ".ge"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Georgian"
   population: 3704500
   gdp: 35353
@@ -1692,7 +1852,9 @@
   currency_symbol: "€"
   tld: ".de"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "German"
   population: 83517030
   gdp: 4744804
@@ -1713,7 +1875,9 @@
   currency_symbol: "GH₵"
   tld: ".gh"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Ghanaian"
   population: 33742380
   gdp: 88332
@@ -1734,7 +1898,9 @@
   currency_symbol: "£"
   tld: ".gi"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Gibraltar"
   population: 38000
   gdp: null
@@ -1755,7 +1921,9 @@
   currency_symbol: "€"
   tld: ".gr"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Greek, Hellenic"
   population: 10400720
   gdp: 267348
@@ -1776,7 +1944,9 @@
   currency_symbol: "Kr."
   tld: ".gl"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   nationality: "Greenlandic"
   population: 56542
   gdp: null
@@ -1797,7 +1967,9 @@
   currency_symbol: "$"
   tld: ".gd"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Grenadian"
   population: 109021
   gdp: 1464
@@ -1818,7 +1990,9 @@
   currency_symbol: "€"
   tld: ".gp"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Guadeloupe"
   population: 373791
   gdp: null
@@ -1839,7 +2013,9 @@
   currency_symbol: "$"
   tld: ".gu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   nationality: "Guamanian, Guambat"
   population: 153836
   gdp: null
@@ -1860,7 +2036,9 @@
   currency_symbol: "Q"
   tld: ".gt"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   nationality: "Guatemalan"
   population: 18079810
   gdp: 121177
@@ -1881,7 +2059,9 @@
   currency_symbol: "£"
   tld: ".gg"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Channel Island"
   population: 64781
   gdp: null
@@ -1902,7 +2082,9 @@
   currency_symbol: "FG"
   tld: ".gn"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Guinean"
   population: 14363931
   gdp: 30094
@@ -1923,7 +2105,9 @@
   currency_symbol: "CFA"
   tld: ".gw"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Bissau-Guinean"
   population: 1781308
   gdp: 2274
@@ -1944,7 +2128,9 @@
   currency_symbol: "$"
   tld: ".gy"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Guyanese"
   population: 772975
   gdp: 25822
@@ -1965,7 +2151,9 @@
   currency_symbol: "G"
   tld: ".ht"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Haitian"
   population: 11867032
   gdp: 33548
@@ -1986,7 +2174,9 @@
   currency_symbol: "$"
   tld: ".hm"
   region: null
+  region_es: null
   subregion: null
+  subregion_es: null
   nationality: "Heard Island or McDonald Islands"
   population: null
   gdp: null
@@ -2007,7 +2197,9 @@
   currency_symbol: "L"
   tld: ".hn"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   nationality: "Honduran"
   population: 9892632
   gdp: 38172
@@ -2028,7 +2220,9 @@
   currency_symbol: "$"
   tld: ".hk"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "Hong Kong, Hong Kongese"
   population: 7527500
   gdp: 423999
@@ -2049,7 +2243,9 @@
   currency_symbol: "Ft"
   tld: ".hu"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Hungarian, Magyar"
   population: 9539502
   gdp: 237070
@@ -2070,7 +2266,9 @@
   currency_symbol: "ko"
   tld: ".is"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Icelandic"
   population: 391810
   gdp: 35309
@@ -2091,7 +2289,9 @@
   currency_symbol: "₹"
   tld: ".in"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Indian"
   population: 1417492000
   gdp: 4187017
@@ -2112,7 +2312,9 @@
   currency_symbol: "Rp"
   tld: ".id"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Indonesian"
   population: 284438782
   gdp: 1429743
@@ -2133,7 +2335,9 @@
   currency_symbol: "﷼"
   tld: ".ir"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Iranian, Persian"
   population: 85961000
   gdp: 341013
@@ -2154,7 +2358,9 @@
   currency_symbol: "د.ع"
   tld: ".iq"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Iraqi"
   population: 46118793
   gdp: 258020
@@ -2175,7 +2381,9 @@
   currency_symbol: "€"
   tld: ".ie"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Irish"
   population: 5458600
   gdp: 598840
@@ -2196,7 +2404,9 @@
   currency_symbol: "₪"
   tld: ".il"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Israeli"
   population: 10119400
   gdp: 583361
@@ -2217,7 +2427,9 @@
   currency_symbol: "€"
   tld: ".it"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Italian"
   population: 58919230
   gdp: 2422855
@@ -2238,7 +2450,9 @@
   currency_symbol: "CFA"
   tld: ".ci"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Ivorian"
   population: 29389150
   gdp: 94483
@@ -2259,7 +2473,9 @@
   currency_symbol: "J$"
   tld: ".jm"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Jamaican"
   population: 2825544
   gdp: 21411
@@ -2280,7 +2496,9 @@
   currency_symbol: "¥"
   tld: ".jp"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "Japanese"
   population: 123300000
   gdp: 4186431
@@ -2301,7 +2519,9 @@
   currency_symbol: "£"
   tld: ".je"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Channel Island"
   population: 103267
   gdp: null
@@ -2322,7 +2542,9 @@
   currency_symbol: "ا.د"
   tld: ".jo"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Jordanian"
   population: 11734000
   gdp: 56102
@@ -2343,7 +2565,9 @@
   currency_symbol: "лв"
   tld: ".kz"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   nationality: "Kazakhstani, Kazakh"
   population: 20407844
   gdp: 300538
@@ -2364,7 +2588,9 @@
   currency_symbol: "KSh"
   tld: ".ke"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Kenyan"
   population: 53330978
   gdp: 131673
@@ -2385,7 +2611,9 @@
   currency_symbol: "$"
   tld: ".ki"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   nationality: "I-Kiribati"
   population: 120740
   gdp: 312
@@ -2406,7 +2634,9 @@
   currency_symbol: "€"
   tld: ".xk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Kosovar, Kosovan"
   population: 1585566
   gdp: 11274
@@ -2427,7 +2657,9 @@
   currency_symbol: "ك.د"
   tld: ".kw"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Kuwaiti"
   population: 4881254
   gdp: 153101
@@ -2448,7 +2680,9 @@
   currency_symbol: "лв"
   tld: ".kg"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   nationality: "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
   population: 7281800
   gdp: 19849
@@ -2469,7 +2703,9 @@
   currency_symbol: "₭"
   tld: ".la"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Lao, Laotian"
   population: 7647000
   gdp: 16322
@@ -2490,7 +2726,9 @@
   currency_symbol: "€"
   tld: ".lv"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Latvian"
   population: 1830400
   gdp: 45535
@@ -2511,7 +2749,9 @@
   currency_symbol: "£"
   tld: ".lb"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Lebanese"
   population: 5490000
   gdp: null
@@ -2532,7 +2772,9 @@
   currency_symbol: "L"
   tld: ".ls"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   nationality: "Basotho"
   population: 2116427
   gdp: 2404
@@ -2553,7 +2795,9 @@
   currency_symbol: "$"
   tld: ".lr"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Liberian"
   population: 5248621
   gdp: 5166
@@ -2574,7 +2818,9 @@
   currency_symbol: "د.ل"
   tld: ".ly"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   nationality: "Libyan"
   population: 7459000
   gdp: 47484
@@ -2595,7 +2841,9 @@
   currency_symbol: "CHf"
   tld: ".li"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "Liechtenstein"
   population: 40900
   gdp: null
@@ -2616,7 +2864,9 @@
   currency_symbol: "€"
   tld: ".lt"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Lithuanian"
   population: 2894548
   gdp: 89192
@@ -2637,7 +2887,9 @@
   currency_symbol: "€"
   tld: ".lu"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "Luxembourg, Luxembourgish"
   population: 681973
   gdp: 96613
@@ -2658,7 +2910,9 @@
   currency_symbol: "$"
   tld: ".mo"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "Macanese, Chinese"
   population: 685900
   gdp: 53354
@@ -2679,7 +2933,9 @@
   currency_symbol: "Ar"
   tld: ".mg"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Malagasy"
   population: 31727042
   gdp: 18708
@@ -2700,7 +2956,9 @@
   currency_symbol: "MK"
   tld: ".mw"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Malawian"
   population: 20734262
   gdp: 13959
@@ -2721,7 +2979,9 @@
   currency_symbol: "RM"
   tld: ".my"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Malaysian"
   population: 34231700
   gdp: 444984
@@ -2742,7 +3002,9 @@
   currency_symbol: "Rf"
   tld: ".mv"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Maldivian"
   population: 515132
   gdp: 7480
@@ -2763,7 +3025,9 @@
   currency_symbol: "CFA"
   tld: ".ml"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Malian, Malinese"
   population: 22395489
   gdp: 23208
@@ -2784,7 +3048,9 @@
   currency_symbol: "€"
   tld: ".mt"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Maltese"
   population: 574250
   gdp: 25750
@@ -2805,7 +3071,9 @@
   currency_symbol: "£"
   tld: ".im"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Manx"
   population: 84530
   gdp: null
@@ -2826,7 +3094,9 @@
   currency_symbol: "$"
   tld: ".mh"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   nationality: "Marshallese"
   population: 42418
   gdp: 297
@@ -2847,7 +3117,9 @@
   currency_symbol: "€"
   tld: ".mq"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Martiniquais, Martinican"
   population: 339897
   gdp: null
@@ -2868,7 +3140,9 @@
   currency_symbol: "UM"
   tld: ".mr"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Mauritanian"
   population: 4927532
   gdp: 11470
@@ -2889,7 +3163,9 @@
   currency_symbol: "₨"
   tld: ".mu"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Mauritian"
   population: 1243741
   gdp: 15495
@@ -2910,7 +3186,9 @@
   currency_symbol: "€"
   tld: ".yt"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Mahoran"
   population: 337011
   gdp: null
@@ -2931,7 +3209,9 @@
   currency_symbol: "$"
   tld: ".mx"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   nationality: "Mexican"
   population: 130575786
   gdp: 1692640
@@ -2952,7 +3232,9 @@
   currency_symbol: "$"
   tld: ".fm"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   nationality: "Micronesian"
   population: 105564
   gdp: 500
@@ -2973,7 +3255,9 @@
   currency_symbol: "L"
   tld: ".md"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Moldovan"
   population: 2381300
   gdp: 19462
@@ -2994,7 +3278,9 @@
   currency_symbol: "€"
   tld: ".mc"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "Monegasque, Monacan"
   population: 38423
   gdp: null
@@ -3015,7 +3301,9 @@
   currency_symbol: "₮"
   tld: ".mn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "Mongolian"
   population: 3544835
   gdp: 25804
@@ -3036,7 +3324,9 @@
   currency_symbol: "€"
   tld: ".me"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Montenegrin"
   population: 623327
   gdp: 8562
@@ -3057,7 +3347,9 @@
   currency_symbol: "$"
   tld: ".ms"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Montserratian"
   population: 4386
   gdp: null
@@ -3078,7 +3370,9 @@
   currency_symbol: "DH"
   tld: ".ma"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   nationality: "Moroccan"
   population: 36828330
   gdp: 165835
@@ -3099,7 +3393,9 @@
   currency_symbol: "MT"
   tld: ".mz"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Mozambican"
   population: 34090466
   gdp: 23771
@@ -3120,7 +3416,9 @@
   currency_symbol: "K"
   tld: ".mm"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Burmese"
   population: 51316756
   gdp: 64944
@@ -3141,7 +3439,9 @@
   currency_symbol: "$"
   tld: ".na"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   nationality: "Namibian"
   population: 3022401
   gdp: 14214
@@ -3162,7 +3462,9 @@
   currency_symbol: "$"
   tld: ".nr"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   nationality: "Nauruan"
   population: 11680
   gdp: 169
@@ -3183,7 +3485,9 @@
   currency_symbol: "₨"
   tld: ".np"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Nepali, Nepalese"
   population: 29911840
   gdp: 46080
@@ -3204,7 +3508,9 @@
   currency_symbol: "€"
   tld: ".nl"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "Dutch, Netherlandic"
   population: 18080943
   gdp: 1272011
@@ -3225,7 +3531,9 @@
   currency_symbol: "₣"
   tld: ".nc"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   nationality: "New Caledonian"
   population: 264596
   gdp: null
@@ -3246,7 +3554,9 @@
   currency_symbol: "$"
   tld: ".nz"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   nationality: "New Zealand, NZ"
   population: 5324700
   gdp: 248666
@@ -3267,7 +3577,9 @@
   currency_symbol: "C$"
   tld: ".ni"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   nationality: "Nicaraguan"
   population: 6803886
   gdp: 21155
@@ -3288,7 +3600,9 @@
   currency_symbol: "CFA"
   tld: ".ne"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Nigerien"
   population: 26312034
   gdp: 21874
@@ -3309,7 +3623,9 @@
   currency_symbol: "₦"
   tld: ".ng"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Nigerian"
   population: 223800000
   gdp: 188271
@@ -3330,7 +3646,9 @@
   currency_symbol: "$"
   tld: ".nu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Niuean"
   population: 1681
   gdp: null
@@ -3351,7 +3669,9 @@
   currency_symbol: "$"
   tld: ".nf"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Australia and New Zealand"
+  subregion_es: "Australia y Nueva Zelanda"
   nationality: "Norfolk Island"
   population: 2188
   gdp: null
@@ -3372,7 +3692,9 @@
   currency_symbol: "₩"
   tld: ".kp"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "North Korean"
   population: 25950000
   gdp: null
@@ -3393,7 +3715,9 @@
   currency_symbol: "ден"
   tld: ".mk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Macedonian"
   population: 1826247
   gdp: 17885
@@ -3414,7 +3738,9 @@
   currency_symbol: "$"
   tld: ".mp"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   nationality: "Northern Marianan"
   population: 47329
   gdp: null
@@ -3435,7 +3761,9 @@
   currency_symbol: "ko"
   tld: ".no"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Norwegian"
   population: 5606944
   gdp: 504276
@@ -3456,7 +3784,9 @@
   currency_symbol: ".ع.ر"
   tld: ".om"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Omani"
   population: 5306976
   gdp: 104351
@@ -3477,7 +3807,9 @@
   currency_symbol: "₨"
   tld: ".pk"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Pakistani"
   population: 241499431
   gdp: null
@@ -3498,7 +3830,9 @@
   currency_symbol: "$"
   tld: ".pw"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Micronesia"
+  subregion_es: "Micronesia"
   nationality: "Palauan"
   population: 16733
   gdp: 333
@@ -3519,7 +3853,9 @@
   currency_symbol: "₪"
   tld: ".ps"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Palestinian"
   population: 5483450
   gdp: null
@@ -3540,7 +3876,9 @@
   currency_symbol: "B/."
   tld: ".pa"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   nationality: "Panamanian"
   population: 4064780
   gdp: 91675
@@ -3561,7 +3899,9 @@
   currency_symbol: "K"
   tld: ".pg"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   nationality: "Papua New Guinean, Papuan"
   population: 11781559
   gdp: 32835
@@ -3582,7 +3922,9 @@
   currency_symbol: "₲"
   tld: ".py"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Paraguayan"
   population: 6109644
   gdp: 45465
@@ -3603,7 +3945,9 @@
   currency_symbol: "S/."
   tld: ".pe"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Peruvian"
   population: 34350244
   gdp: 303293
@@ -3624,7 +3968,9 @@
   currency_symbol: "₱"
   tld: ".ph"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Philippine, Filipino"
   population: 114123600
   gdp: 497495
@@ -3645,7 +3991,9 @@
   currency_symbol: "$"
   tld: ".pn"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Pitcairn Island"
   population: 35
   gdp: null
@@ -3666,7 +4014,9 @@
   currency_symbol: "zł"
   tld: ".pl"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Polish"
   population: 37401000
   gdp: 979960
@@ -3687,7 +4037,9 @@
   currency_symbol: "€"
   tld: ".pt"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Portuguese"
   population: 10749635
   gdp: 321440
@@ -3708,7 +4060,9 @@
   currency_symbol: "$"
   tld: ".pr"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Puerto Rican"
   population: 3203295
   gdp: 122522
@@ -3729,7 +4083,9 @@
   currency_symbol: "ق.ر"
   tld: ".qa"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Qatari"
   population: 3173024
   gdp: 222776
@@ -3750,7 +4106,9 @@
   currency_symbol: "€"
   tld: ".re"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Reunionese, Reunionnais"
   population: 896175
   gdp: null
@@ -3771,7 +4129,9 @@
   currency_symbol: "lei"
   tld: ".ro"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Romanian"
   population: 19036031
   gdp: 403395
@@ -3792,7 +4152,9 @@
   currency_symbol: "₽"
   tld: ".ru"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Russian"
   population: 146028325
   gdp: 2076396
@@ -3813,7 +4175,9 @@
   currency_symbol: "FRw"
   tld: ".rw"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Rwandan"
   population: 14104969
   gdp: 14771
@@ -3834,7 +4198,9 @@
   currency_symbol: "£"
   tld: ".sh"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Saint Helenian"
   population: 5651
   gdp: null
@@ -3855,7 +4221,9 @@
   currency_symbol: "$"
   tld: ".kn"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Kittitian or Nevisian"
   population: 51320
   gdp: 1129
@@ -3876,7 +4244,9 @@
   currency_symbol: "$"
   tld: ".lc"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Saint Lucian"
   population: 184100
   gdp: 2632
@@ -3897,7 +4267,9 @@
   currency_symbol: "€"
   tld: ".pm"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   nationality: "Saint-Pierrais or Miquelonnais"
   population: 5819
   gdp: null
@@ -3918,7 +4290,9 @@
   currency_symbol: "$"
   tld: ".vc"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Saint Vincentian, Vincentian"
   population: 110872
   gdp: 1242
@@ -3939,7 +4313,9 @@
   currency_symbol: "€"
   tld: ".bl"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Barthelemois"
   population: 10562
   gdp: null
@@ -3960,7 +4336,9 @@
   currency_symbol: "€"
   tld: ".mf"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Saint-Martinoise"
   population: 31496
   gdp: null
@@ -3981,7 +4359,9 @@
   currency_symbol: "SAT"
   tld: ".ws"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Samoan"
   population: 205557
   gdp: 1160
@@ -4002,7 +4382,9 @@
   currency_symbol: "€"
   tld: ".sm"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Sammarinese"
   population: 34132
   gdp: 2047
@@ -4023,7 +4405,9 @@
   currency_symbol: "Db"
   tld: ".st"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "Sao Tomean"
   population: 209607
   gdp: 864
@@ -4044,7 +4428,9 @@
   currency_symbol: "﷼"
   tld: ".sa"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Saudi, Saudi Arabian"
   population: 35300280
   gdp: 1083749
@@ -4065,7 +4451,9 @@
   currency_symbol: "CFA"
   tld: ".sn"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Senegalese"
   population: 18593258
   gdp: 34728
@@ -4086,7 +4474,9 @@
   currency_symbol: "din"
   tld: ".rs"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Serbian"
   population: 6567783
   gdp: 92549
@@ -4107,7 +4497,9 @@
   currency_symbol: "SRe"
   tld: ".sc"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Seychellois"
   population: 122729
   gdp: 2198
@@ -4128,7 +4520,9 @@
   currency_symbol: "Le"
   tld: ".sl"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Sierra Leonean"
   population: 9077691
   gdp: 8386
@@ -4149,7 +4543,9 @@
   currency_symbol: "$"
   tld: ".sg"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Singaporean"
   population: 6036900
   gdp: 564774
@@ -4170,7 +4566,9 @@
   currency_symbol: "ƒ"
   tld: ".sx"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Sint Maarten"
   population: 41349
   gdp: null
@@ -4191,7 +4589,9 @@
   currency_symbol: "€"
   tld: ".sk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Slovak"
   population: 5413813
   gdp: 147031
@@ -4212,7 +4612,9 @@
   currency_symbol: "€"
   tld: ".si"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Slovenian, Slovene"
   population: 2130638
   gdp: 75224
@@ -4233,7 +4635,9 @@
   currency_symbol: "Si$"
   tld: ".sb"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   nationality: "Solomon Island"
   population: 750325
   gdp: 1898
@@ -4254,7 +4658,9 @@
   currency_symbol: "Sh.so."
   tld: ".so"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Somali, Somalian"
   population: 19655000
   gdp: 12994
@@ -4275,7 +4681,9 @@
   currency_symbol: "R"
   tld: ".za"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   nationality: "South African"
   population: 63100945
   gdp: 410338
@@ -4296,7 +4704,9 @@
   currency_symbol: "£"
   tld: ".gs"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "South Georgia or South Sandwich Islands"
   population: null
   gdp: null
@@ -4317,7 +4727,9 @@
   currency_symbol: "₩"
   tld: ".kr"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "South Korean"
   population: 51159889
   gdp: 1790322
@@ -4338,7 +4750,9 @@
   currency_symbol: "£"
   tld: ".ss"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   nationality: "South Sudanese"
   population: 15786898
   gdp: 3998
@@ -4359,7 +4773,9 @@
   currency_symbol: "€"
   tld: ".es"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Spanish"
   population: 49315949
   gdp: 1799511
@@ -4380,7 +4796,9 @@
   currency_symbol: "Rs"
   tld: ".lk"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   nationality: "Sri Lankan"
   population: 21763170
   gdp: null
@@ -4401,7 +4819,9 @@
   currency_symbol: ".س.ج"
   tld: ".sd"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   nationality: "Sudanese"
   population: 51662000
   gdp: 31506
@@ -4422,7 +4842,9 @@
   currency_symbol: "$"
   tld: ".sr"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Surinamese"
   population: 616500
   gdp: 4506
@@ -4443,7 +4865,9 @@
   currency_symbol: "ko"
   tld: ".sj"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Svalbard"
   population: null
   gdp: null
@@ -4464,7 +4888,9 @@
   currency_symbol: "ko"
   tld: ".se"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "Swedish"
   population: 10596652
   gdp: 620297
@@ -4485,7 +4911,9 @@
   currency_symbol: "CHf"
   tld: ".ch"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   nationality: "Swiss"
   population: 9082848
   gdp: 947125
@@ -4506,7 +4934,9 @@
   currency_symbol: "LS"
   tld: ".sy"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Syrian"
   population: 25620000
   gdp: null
@@ -4527,7 +4957,9 @@
   currency_symbol: "$"
   tld: ".tw"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   nationality: "Chinese, Taiwanese"
   population: 23337936
   gdp: 804889
@@ -4548,7 +4980,9 @@
   currency_symbol: "SM"
   tld: ".tj"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   nationality: "Tajikistani"
   population: 10499000
   gdp: 14836
@@ -4569,7 +5003,9 @@
   currency_symbol: "TSh"
   tld: ".tz"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Tanzanian"
   population: 68153004
   gdp: 85977
@@ -4590,7 +5026,9 @@
   currency_symbol: "฿"
   tld: ".th"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Thai"
   population: 65859640
   gdp: 546224
@@ -4611,7 +5049,9 @@
   currency_symbol: "B$"
   tld: ".bs"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Bahamian"
   population: 398165
   gdp: null
@@ -4632,7 +5072,9 @@
   currency_symbol: "D"
   tld: ".gm"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Gambian"
   population: 2422712
   gdp: 2771
@@ -4653,7 +5095,9 @@
   currency_symbol: "$"
   tld: ".tl"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Timorese"
   population: 1391221
   gdp: 2115
@@ -4674,7 +5118,9 @@
   currency_symbol: "CFA"
   tld: ".tg"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   nationality: "Togolese"
   population: 8095498
   gdp: 10023
@@ -4695,7 +5141,9 @@
   currency_symbol: "$"
   tld: ".tk"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Tokelauan"
   population: 1647
   gdp: null
@@ -4716,7 +5164,9 @@
   currency_symbol: "$"
   tld: ".to"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Tongan"
   population: 100179
   gdp: 568
@@ -4737,7 +5187,9 @@
   currency_symbol: "$"
   tld: ".tt"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Trinidadian or Tobagonian"
   population: 1368333
   gdp: 26467
@@ -4758,7 +5210,9 @@
   currency_symbol: "ت.د"
   tld: ".tn"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   nationality: "Tunisian"
   population: 11972169
   gdp: 56291
@@ -4779,7 +5233,9 @@
   currency_symbol: "₺"
   tld: ".tr"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Turkish"
   population: 85664944
   gdp: 1437406
@@ -4800,7 +5256,9 @@
   currency_symbol: "T"
   tld: ".tm"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   nationality: "Turkmen"
   population: 7057841
   gdp: 89054
@@ -4821,7 +5279,9 @@
   currency_symbol: "$"
   tld: ".tc"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "Turks and Caicos Island"
   population: 50894
   gdp: null
@@ -4842,7 +5302,9 @@
   currency_symbol: "$"
   tld: ".tv"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Tuvaluan"
   population: 10643
   gdp: 65
@@ -4863,7 +5325,9 @@
   currency_symbol: "USh"
   tld: ".ug"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Ugandan"
   population: 45905417
   gdp: 64277
@@ -4884,7 +5348,9 @@
   currency_symbol: "₴"
   tld: ".ua"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   nationality: "Ukrainian"
   population: 32862000
   gdp: 205742
@@ -4905,7 +5371,9 @@
   currency_symbol: "إ.د"
   tld: ".ae"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Emirati, Emirian, Emiri"
   population: 10678556
   gdp: 548598
@@ -4926,7 +5394,9 @@
   currency_symbol: "£"
   tld: ".uk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   nationality: "British, UK"
   population: 68265209
   gdp: 3839180
@@ -4947,7 +5417,9 @@
   currency_symbol: "$"
   tld: ".us"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   nationality: "American"
   population: 340110988
   gdp: 30507217
@@ -4968,7 +5440,9 @@
   currency_symbol: "$"
   tld: ".us"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   nationality: "American"
   population: null
   gdp: null
@@ -4989,7 +5463,9 @@
   currency_symbol: "$"
   tld: ".uy"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Uruguayan"
   population: 3499451
   gdp: 79731
@@ -5010,7 +5486,9 @@
   currency_symbol: "лв"
   tld: ".uz"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Central Asia"
+  subregion_es: "Asia Central"
   nationality: "Uzbekistani, Uzbek"
   population: 37859698
   gdp: 132484
@@ -5031,7 +5509,9 @@
   currency_symbol: "VT"
   tld: ".vu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   nationality: "Ni-Vanuatu, Vanuatuan"
   population: 321409
   gdp: 1267
@@ -5052,7 +5532,9 @@
   currency_symbol: "€"
   tld: ".va"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   nationality: "Vatican"
   population: 882
   gdp: null
@@ -5073,7 +5555,9 @@
   currency_symbol: "Bs"
   tld: ".ve"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   nationality: "Venezuelan"
   population: 28517000
   gdp: 108511
@@ -5094,7 +5578,9 @@
   currency_symbol: "₫"
   tld: ".vn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   nationality: "Vietnamese"
   population: 101343800
   gdp: 490970
@@ -5115,7 +5601,9 @@
   currency_symbol: "$"
   tld: ".vg"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "British Virgin Island"
   population: 39471
   gdp: null
@@ -5136,7 +5624,9 @@
   currency_symbol: "$"
   tld: ".vi"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   nationality: "U.S. Virgin Island"
   population: 87146
   gdp: null
@@ -5157,7 +5647,9 @@
   currency_symbol: "₣"
   tld: ".wf"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Polynesia"
+  subregion_es: "Polinesia"
   nationality: "Wallis and Futuna, Wallisian or Futunan"
   population: 11620
   gdp: null
@@ -5178,7 +5670,9 @@
   currency_symbol: "DH"
   tld: ".eh"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   nationality: "Sahrawi, Sahrawian, Sahraouian"
   population: 600904
   gdp: null
@@ -5199,7 +5693,9 @@
   currency_symbol: "﷼"
   tld: ".ye"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   nationality: "Yemeni"
   population: 32684503
   gdp: 17401
@@ -5220,7 +5716,9 @@
   currency_symbol: "ZK"
   tld: ".zm"
   region: "Africa"
+  region_es: "África"
   subregion: "Southern Africa"
+  subregion_es: "África Austral"
   nationality: "Zambian"
   population: 19693423
   gdp: 28910
@@ -5241,7 +5739,9 @@
   currency_symbol: "$"
   tld: ".zw"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   nationality: "Zimbabwean"
   population: 17073087
   gdp: 38172

@@ -1,14 +1,14 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-GG,Guernsey,Europe,Northern Europe,04,Alderney,,,
-GG,Guernsey,Europe,Northern Europe,01,Castel,,,
-GG,Guernsey,Europe,Northern Europe,02,Forest,Forest Parish,49.42983,-2.60168
-GG,Guernsey,Europe,Northern Europe,07,Sark,,,
-GG,Guernsey,Europe,Northern Europe,03,St Andrew,,,
-GG,Guernsey,Europe,Northern Europe,05,St Martin,,,
-GG,Guernsey,Europe,Northern Europe,06,St Peter Port,Saint Peter Port,49.45981,-2.53527
-GG,Guernsey,Europe,Northern Europe,08,St Pierre du Bois,Saint Pierre du Bois Parish,49.45399,-2.63808
-GG,Guernsey,Europe,Northern Europe,08,St Pierre du Bois,Vale Parish,49.4944,-2.5179
-GG,Guernsey,Europe,Northern Europe,09,St Sampson,Saint Sampson,49.48389,-2.52333
-GG,Guernsey,Europe,Northern Europe,10,St Saviour,,,
-GG,Guernsey,Europe,Northern Europe,11,Torteval,,,
-GG,Guernsey,Europe,Northern Europe,12,Vale,,,
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,04,Alderney,parish,parroquia,,,
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,01,Castel,parish,parroquia,,,
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,02,Forest,parish,parroquia,Forest Parish,49.42983,-2.60168
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,07,Sark,parish,parroquia,,,
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,03,St Andrew,parish,parroquia,,,
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,05,St Martin,parish,parroquia,,,
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,06,St Peter Port,parish,parroquia,Saint Peter Port,49.45981,-2.53527
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,08,St Pierre du Bois,parish,parroquia,Saint Pierre du Bois Parish,49.45399,-2.63808
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,08,St Pierre du Bois,parish,parroquia,Vale Parish,49.4944,-2.5179
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,09,St Sampson,parish,parroquia,Saint Sampson,49.48389,-2.52333
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,10,St Saviour,parish,parroquia,,,
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,11,Torteval,parish,parroquia,,,
+GG,Guernsey,Guernsey,Europe,Europa,Northern Europe,Europa del Norte,12,Vale,parish,parroquia,,,

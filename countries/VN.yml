@@ -12,16 +12,20 @@
   currency_symbol: "₫"
   tld: ".vn"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 16.16666666
   longitude: 107.83333333
   emoji: "🇻🇳"
   states:
     -
       name: "An Giang"
+      native: "An Giang"
       code: "44"
       iso3166_2: "VN-44"
       type: "province"
+      type_es: "provincia"
       latitude: 10.3188672
       longitude: 105.0432488
       cities:
@@ -111,9 +115,11 @@
           longitude: 105.08091
     -
       name: "Bắc Ninh"
+      native: "Bắc Ninh"
       code: "56"
       iso3166_2: "VN-56"
       type: "province"
+      type_es: "provincia"
       latitude: 21.1781515
       longitude: 106.0710078
       cities:
@@ -159,9 +165,11 @@
           longitude: 106.11689
     -
       name: "Cà Mau"
+      native: "Cà Mau"
       code: "59"
       iso3166_2: "VN-59"
       type: "province"
+      type_es: "provincia"
       latitude: 9.1762003
       longitude: 105.1508415
       cities:
@@ -199,9 +207,11 @@
           longitude: 105.16023
     -
       name: "Cần Thơ"
+      native: "Cần Thơ"
       code: "CT"
       iso3166_2: "VN-CT"
       type: "municipality"
+      type_es: "municipio"
       latitude: 10.0364634
       longitude: 105.7875821
       cities:
@@ -259,9 +269,11 @@
           longitude: 105.40111111
     -
       name: "Cao Bằng"
+      native: "Cao Bằng"
       code: "04"
       iso3166_2: "VN-04"
       type: "province"
+      type_es: "provincia"
       latitude: 22.665781
       longitude: 106.2587824
       cities:
@@ -311,9 +323,11 @@
           longitude: 106.56074
     -
       name: "Đà Nẵng"
+      native: "Đà Nẵng"
       code: "DN"
       iso3166_2: "VN-DN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 16.068
       longitude: 108.212
       cities:
@@ -367,9 +381,11 @@
           longitude: 108.47403
     -
       name: "Đắk Lắk"
+      native: "Đắk Lắk"
       code: "33"
       iso3166_2: "VN-33"
       type: "province"
+      type_es: "provincia"
       latitude: 12.8741856
       longitude: 108.7979302
       cities:
@@ -407,9 +423,11 @@
           longitude: 109.32094
     -
       name: "Điện Biên"
+      native: "Điện Biên"
       code: "71"
       iso3166_2: "VN-71"
       type: "province"
+      type_es: "provincia"
       latitude: 21.6546566
       longitude: 103.2168632
       cities:
@@ -439,9 +457,11 @@
           longitude: 103.12331
     -
       name: "Đồng Nai"
+      native: "Đồng Nai"
       code: "39"
       iso3166_2: "VN-39"
       type: "province"
+      type_es: "provincia"
       latitude: 11.4285446
       longitude: 107.1624245
       cities:
@@ -503,9 +523,11 @@
           longitude: 106.9967
     -
       name: "Đồng Tháp"
+      native: "Đồng Tháp"
       code: "45"
       iso3166_2: "VN-45"
       type: "province"
+      type_es: "provincia"
       latitude: 10.425183
       longitude: 105.9271362
       cities:
@@ -587,9 +609,11 @@
           longitude: 106.65847
     -
       name: "Gia Lai"
+      native: "Gia Lai"
       code: "30"
       iso3166_2: "VN-30"
       type: "province"
+      type_es: "provincia"
       latitude: 14.0201373
       longitude: 108.6354524
       cities:
@@ -663,9 +687,11 @@
           longitude: 109.22367
     -
       name: "Hà Nội"
+      native: "Hà Nội"
       code: "HN"
       iso3166_2: "VN-HN"
       type: "municipality"
+      type_es: "municipio"
       latitude: 21.0283334
       longitude: 105.854041
       cities:
@@ -791,9 +817,11 @@
           longitude: 105.6364852
     -
       name: "Hà Tĩnh"
+      native: "Hà Tĩnh"
       code: "23"
       iso3166_2: "VN-23"
       type: "province"
+      type_es: "provincia"
       latitude: 18.338181
       longitude: 105.8958971
       cities:
@@ -827,9 +855,11 @@
           longitude: 105.81123
     -
       name: "Hải Phòng"
+      native: "Hải Phòng"
       code: "HP"
       iso3166_2: "VN-HP"
       type: "province"
+      type_es: "provincia"
       latitude: 20.8623278
       longitude: 106.6799266
       cities:
@@ -875,9 +905,11 @@
           longitude: 106.39638
     -
       name: "Hồ Chí Minh"
+      native: "Hồ Chí Minh"
       code: "SG"
       iso3166_2: "VN-SG"
       type: "province"
+      type_es: "provincia"
       latitude: 10.7763897
       longitude: 106.7011391
       cities:
@@ -935,9 +967,11 @@
           longitude: 107.08426
     -
       name: "Hưng Yên"
+      native: "Hưng Yên"
       code: "66"
       iso3166_2: "VN-66"
       type: "province"
+      type_es: "provincia"
       latitude: 20.6568406
       longitude: 106.054036
       cities:
@@ -1003,9 +1037,11 @@
           longitude: 106.34002
     -
       name: "Khánh Hòa"
+      native: "Khánh Hòa"
       code: "34"
       iso3166_2: "VN-34"
       type: "province"
+      type_es: "provincia"
       latitude: 12.2980751
       longitude: 108.9950386
       cities:
@@ -1051,9 +1087,11 @@
           longitude: 109.06057
     -
       name: "Lai Châu"
+      native: "Lai Châu"
       code: "01"
       iso3166_2: "VN-01"
       type: "province"
+      type_es: "provincia"
       latitude: 22.3996612
       longitude: 103.4516882
       cities:
@@ -1071,9 +1109,11 @@
           longitude: 103.82857
     -
       name: "Lâm Đồng"
+      native: "Lâm Đồng"
       code: "35"
       iso3166_2: "VN-35"
       type: "province"
+      type_es: "provincia"
       latitude: 11.6614957
       longitude: 108.1335279
       cities:
@@ -1171,9 +1211,11 @@
           longitude: 108.15778
     -
       name: "Lạng Sơn"
+      native: "Lạng Sơn"
       code: "09"
       iso3166_2: "VN-09"
       type: "province"
+      type_es: "provincia"
       latitude: 21.853708
       longitude: 106.761519
       cities:
@@ -1211,9 +1253,11 @@
           longitude: 106.76101
     -
       name: "Lào Cai"
+      native: "Lào Cai"
       code: "02"
       iso3166_2: "VN-02"
       type: "province"
+      type_es: "provincia"
       latitude: 22.5003944
       longitude: 103.96562
       cities:
@@ -1287,9 +1331,11 @@
           longitude: 104.9113
     -
       name: "Nghệ An"
+      native: "Nghệ An"
       code: "22"
       iso3166_2: "VN-22"
       type: "province"
+      type_es: "provincia"
       latitude: 19.1976001
       longitude: 105.060676
       cities:
@@ -1367,9 +1413,11 @@
           longitude: 105.66667
     -
       name: "Ninh Bình"
+      native: "Ninh Bình"
       code: "18"
       iso3166_2: "VN-18"
       type: "province"
+      type_es: "provincia"
       latitude: 20.2506149
       longitude: 105.9744536
       cities:
@@ -1459,9 +1507,11 @@
           longitude: 105.91221
     -
       name: "Phú Thọ"
+      native: "Phú Thọ"
       code: "68"
       iso3166_2: "VN-68"
       type: "province"
+      type_es: "provincia"
       latitude: 21.3007538
       longitude: 105.1349604
       cities:
@@ -1547,9 +1597,11 @@
           longitude: 105.60489
     -
       name: "Quảng Ngãi"
+      native: "Quảng Ngãi"
       code: "29"
       iso3166_2: "VN-29"
       type: "province"
+      type_es: "provincia"
       latitude: 15.1213873
       longitude: 108.8044145
       cities:
@@ -1639,9 +1691,11 @@
           longitude: 108.79232
     -
       name: "Quảng Ninh"
+      native: "Quảng Ninh"
       code: "13"
       iso3166_2: "VN-13"
       type: "province"
+      type_es: "provincia"
       latitude: 21.1718046
       longitude: 107.2012742
       cities:
@@ -1703,9 +1757,11 @@
           longitude: 106.77049
     -
       name: "Quảng Trị"
+      native: "Quảng Trị"
       code: "25"
       iso3166_2: "VN-25"
       type: "province"
+      type_es: "provincia"
       latitude: 17.3024666
       longitude: 106.6624287
       cities:
@@ -1763,9 +1819,11 @@
           longitude: 106.62226
     -
       name: "Sơn La"
+      native: "Sơn La"
       code: "05"
       iso3166_2: "VN-05"
       type: "province"
+      type_es: "provincia"
       latitude: 21.3269601
       longitude: 103.9143842
       cities:
@@ -1811,9 +1869,11 @@
           longitude: 103.91882
     -
       name: "Tây Ninh"
+      native: "Tây Ninh"
       code: "37"
       iso3166_2: "VN-37"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3136555
       longitude: 106.0966969
       cities:
@@ -1911,9 +1971,11 @@
           longitude: 106.09828
     -
       name: "Thái Nguyên"
+      native: "Thái Nguyên"
       code: "69"
       iso3166_2: "VN-69"
       type: "province"
+      type_es: "provincia"
       latitude: 21.5954448
       longitude: 105.8386957
       cities:
@@ -1951,9 +2013,11 @@
           longitude: 105.83867
     -
       name: "Thanh Hóa"
+      native: "Thanh Hóa"
       code: "21"
       iso3166_2: "VN-21"
       type: "province"
+      type_es: "provincia"
       latitude: 19.806692
       longitude: 105.7851816
       cities:
@@ -2051,9 +2115,11 @@
           longitude: 105.76667
     -
       name: "Thừa Thiên-Huế"
+      native: "Thừa Thiên-Huế"
       code: "26"
       iso3166_2: "VN-26"
       type: "province"
+      type_es: "provincia"
       latitude: 16.5530473
       longitude: 107.6900375
       cities:
@@ -2087,9 +2153,11 @@
           longitude: 107.4937
     -
       name: "Tuyên Quang"
+      native: "Tuyên Quang"
       code: "07"
       iso3166_2: "VN-07"
       type: "province"
+      type_es: "provincia"
       latitude: 21.8192281
       longitude: 105.2149355
       cities:
@@ -2155,9 +2223,11 @@
           longitude: 105.21424
     -
       name: "Vĩnh Long"
+      native: "Vĩnh Long"
       code: "49"
       iso3166_2: "VN-49"
       type: "province"
+      type_es: "provincia"
       latitude: 10.254809
       longitude: 105.9714673
       cities:

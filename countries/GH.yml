@@ -12,16 +12,20 @@
   currency_symbol: "GH₵"
   tld: ".gh"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 8
   longitude: -2
   emoji: "🇬🇭"
   states:
     -
       name: "Ahafo"
+      native: "Ahafo"
       code: "AF"
       iso3166_2: "GH-AF"
       type: "region"
+      type_es: "región"
       latitude: 6.9096645
       longitude: -2.2330123
       cities:
@@ -51,9 +55,11 @@
           longitude: -2.1258661
     -
       name: "Ashanti"
+      native: "Ashanti"
       code: "AH"
       iso3166_2: "GH-AH"
       type: "region"
+      type_es: "región"
       latitude: 6.8003319
       longitude: -1.5188142
       cities:
@@ -91,9 +97,11 @@
           longitude: -1.6137
     -
       name: "Bono"
+      native: "Bono"
       code: "BO"
       iso3166_2: "GH-BO"
       type: "region"
+      type_es: "región"
       latitude: 7.8035236
       longitude: -1.0876492
       cities:
@@ -147,9 +155,11 @@
           longitude: -2.1226788
     -
       name: "Bono East"
+      native: "Bono East"
       code: "BE"
       iso3166_2: "GH-BE"
       type: "region"
+      type_es: "región"
       latitude: 8.2247942
       longitude: -0.6544711
       cities:
@@ -199,9 +209,11 @@
           longitude: -2.0814057
     -
       name: "Central"
+      native: "Central"
       code: "CP"
       iso3166_2: "GH-CP"
       type: "region"
+      type_es: "región"
       latitude: 5.7244148
       longitude: -1.3761749
       cities:
@@ -247,9 +259,11 @@
           longitude: -0.62313
     -
       name: "Eastern"
+      native: "Eastern"
       code: "EP"
       iso3166_2: "GH-EP"
       type: "region"
+      type_es: "región"
       latitude: 6.446877
       longitude: -0.3770964
       cities:
@@ -303,9 +317,11 @@
           longitude: -0.45004
     -
       name: "Greater Accra"
+      native: "Greater Accra"
       code: "AA"
       iso3166_2: "GH-AA"
       type: "region"
+      type_es: "región"
       latitude: 5.8101532
       longitude: 0.0995242
       cities:
@@ -343,9 +359,11 @@
           longitude: -0.10722
     -
       name: "North East"
+      native: "North East"
       code: "NE"
       iso3166_2: "GH-NE"
       type: "region"
+      type_es: "región"
       latitude: 10.5279933
       longitude: -0.3698625
       cities:
@@ -375,9 +393,11 @@
           longitude: -0.009
     -
       name: "Northern"
+      native: "Northern"
       code: "NP"
       iso3166_2: "GH-NP"
       type: "region"
+      type_es: "región"
       latitude: 9.6600005
       longitude: -0.3943799
       cities:
@@ -403,9 +423,11 @@
           longitude: -0.00991
     -
       name: "Oti"
+      native: "Completed"
       code: "OT"
       iso3166_2: "GH-OT"
       type: "region"
+      type_es: "región"
       latitude: 6.1064098
       longitude: -0.2483786
       cities:
@@ -443,9 +465,11 @@
           longitude: 0.5018519
     -
       name: "Savannah"
+      native: "Savannah"
       code: "SV"
       iso3166_2: "GH-SV"
       type: "region"
+      type_es: "región"
       latitude: 9.1400654
       longitude: -1.7111234
       cities:
@@ -479,9 +503,11 @@
           longitude: -2.2644041
     -
       name: "Upper East"
+      native: "Upper East"
       code: "UE"
       iso3166_2: "GH-UE"
       type: "region"
+      type_es: "región"
       latitude: 10.7245907
       longitude: -0.8196591
       cities:
@@ -499,9 +525,11 @@
           longitude: -1.0921
     -
       name: "Upper West"
+      native: "Upper West"
       code: "UW"
       iso3166_2: "GH-UW"
       type: "region"
+      type_es: "región"
       latitude: 10.3669525
       longitude: -2.0921426
       cities:
@@ -511,9 +539,11 @@
           longitude: -2.50192
     -
       name: "Volta"
+      native: "Volta"
       code: "TV"
       iso3166_2: "GH-TV"
       type: "region"
+      type_es: "región"
       latitude: 6.5348624
       longitude: 0.4556055
       cities:
@@ -547,9 +577,11 @@
           longitude: 0.29306
     -
       name: "Western"
+      native: "Western"
       code: "WP"
       iso3166_2: "GH-WP"
       type: "region"
+      type_es: "región"
       latitude: 5.4261241
       longitude: -2.1286574
       cities:
@@ -587,9 +619,11 @@
           longitude: -1.98956
     -
       name: "Western North"
+      native: "Western North"
       code: "WN"
       iso3166_2: "GH-WN"
       type: "region"
+      type_es: "región"
       latitude: 6.2064665
       longitude: -2.4855092
       cities:

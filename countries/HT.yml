@@ -12,16 +12,20 @@
   currency_symbol: "G"
   tld: ".ht"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 19
   longitude: -72.41666666
   emoji: "🇭🇹"
   states:
     -
       name: "Artibonite"
+      native: "Artibonite"
       code: "AR"
       iso3166_2: "HT-AR"
       type: "department"
+      type_es: "departamento"
       latitude: 19.3366225
       longitude: -72.4924346
       cities:
@@ -71,9 +75,11 @@
           longitude: -72.46585
     -
       name: "Centre"
+      native: "Centre"
       code: "CE"
       iso3166_2: "HT-CE"
       type: "department"
+      type_es: "departamento"
       latitude: 18.9908235
       longitude: -71.9943985
       cities:
@@ -111,9 +117,11 @@
           longitude: -71.96235
     -
       name: "Grand'Anse"
+      native: "Grand'Anse"
       code: "GA"
       iso3166_2: "HT-GA"
       type: "department"
+      type_es: "departamento"
       latitude: 18.5304144
       longitude: -74.1511463
       cities:
@@ -159,9 +167,11 @@
           longitude: -73.23495
     -
       name: "Nippes"
+      native: "Nippes"
       code: "NI"
       iso3166_2: "HT-NI"
       type: "department"
+      type_es: "departamento"
       latitude: 18.4420426
       longitude: -73.3913782
       cities:
@@ -183,9 +193,11 @@
           longitude: -73.50815
     -
       name: "Nord"
+      native: "Nord"
       code: "ND"
       iso3166_2: "HT-ND"
       type: "department"
+      type_es: "departamento"
       latitude: 19.6258245
       longitude: -72.2699286
       cities:
@@ -271,9 +283,11 @@
           longitude: -72.1991
     -
       name: "Nord-Est"
+      native: "Nord-Est"
       code: "NE"
       iso3166_2: "HT-NE"
       type: "department"
+      type_es: "departamento"
       latitude: 19.5178468
       longitude: -71.8728225
       cities:
@@ -331,9 +345,11 @@
           longitude: -71.76667
     -
       name: "Nord-Ouest"
+      native: "Nord-Ouest"
       code: "NO"
       iso3166_2: "HT-NO"
       type: "department"
+      type_es: "departamento"
       latitude: 19.8469434
       longitude: -73.0589966
       cities:
@@ -391,9 +407,11 @@
           longitude: -72.83333
     -
       name: "Ouest"
+      native: "Ouest"
       code: "OU"
       iso3166_2: "HT-OU"
       type: "department"
+      type_es: "departamento"
       latitude: 18.7668687
       longitude: -72.4387315
       cities:
@@ -483,9 +501,11 @@
           longitude: -72.86521
     -
       name: "Sud"
+      native: "Soudoir"
       code: "SD"
       iso3166_2: "HT-SD"
       type: "department"
+      type_es: "departamento"
       latitude: 18.2612839
       longitude: -73.8444985
       cities:
@@ -551,9 +571,11 @@
           longitude: -73.80949
     -
       name: "Sud-Est"
+      native: "Sud-Est"
       code: "SE"
       iso3166_2: "HT-SE"
       type: "department"
+      type_es: "departamento"
       latitude: 18.2973566
       longitude: -72.3745698
       cities:

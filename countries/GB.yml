@@ -12,16 +12,20 @@
   currency_symbol: "£"
   tld: ".uk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 54
   longitude: -2
   emoji: "🇬🇧"
   states:
     -
       name: "Aberdeen"
+      native: "Aberdeen"
       code: "ABE"
       iso3166_2: "GB-ABE"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.149717
       longitude: -2.094278
       cities:
@@ -131,9 +135,11 @@
           longitude: -2.27966
     -
       name: "Aberdeenshire"
+      native: "Aberdeenshire"
       code: "ABD"
       iso3166_2: "GB-ABD"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.166667
       longitude: -2.666667
       cities:
@@ -183,9 +189,11 @@
           longitude: -2.45932
     -
       name: "Angus"
+      native: "Angus"
       code: "ANS"
       iso3166_2: "GB-ANS"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.666667
       longitude: -2.916667
       cities:
@@ -239,9 +247,11 @@
           longitude: -2.41553
     -
       name: "Antrim and Newtownabbey"
+      native: "Antrim and Newtownabbey"
       code: "ANN"
       iso3166_2: "GB-ANN"
       type: "district"
+      type_es: "distrito"
       latitude: 54.6897136
       longitude: -6.1710612
       cities:
@@ -279,9 +289,11 @@
           longitude: -6.08333
     -
       name: "Ards and North Down"
+      native: "Ards and North Down"
       code: "AND"
       iso3166_2: "GB-AND"
       type: "district"
+      type_es: "distrito"
       latitude: 54.6489642
       longitude: -5.5627852
       cities:
@@ -331,9 +343,11 @@
           longitude: -5.70933
     -
       name: "Argyll and Bute"
+      native: "Argyll and Bute"
       code: "AGB"
       iso3166_2: "GB-AGB"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.4603494
       longitude: -5.8618419
       cities:
@@ -363,9 +377,11 @@
           longitude: -6.07231
     -
       name: "Armagh, Banbridge and Craigavon"
+      native: "Armagh, Banbridge and Craigavon"
       code: "ABC"
       iso3166_2: "GB-ABC"
       type: "district"
+      type_es: "distrito"
       latitude: 54.3161085
       longitude: -6.7189182
       cities:
@@ -395,9 +411,11 @@
           longitude: -6.41396
     -
       name: "Barking and Dagenham"
+      native: "Barking and Dagenham"
       code: "BDG"
       iso3166_2: "GB-BDG"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5541171
       longitude: 0.1505051
       cities:
@@ -423,9 +441,11 @@
           longitude: 0.18582
     -
       name: "Barnet"
+      native: "Barnet"
       code: "BNE"
       iso3166_2: "GB-BNE"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.6049673
       longitude: -0.2076295
       cities:
@@ -451,9 +471,11 @@
           longitude: -0.28067
     -
       name: "Barnsley"
+      native: "Barnsley"
       code: "BNS"
       iso3166_2: "GB-BNS"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5527719
       longitude: -1.4827755
       cities:
@@ -531,9 +553,11 @@
           longitude: -1.51457
     -
       name: "Bath and North East Somerset"
+      native: "Bath and North East Somerset"
       code: "BAS"
       iso3166_2: "GB-BAS"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.3563238
       longitude: -2.4866614
       cities:
@@ -711,9 +735,11 @@
           longitude: -2.40574
     -
       name: "Bedford"
+      native: "Bedford"
       code: "BDF"
       iso3166_2: "GB-BDF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.1887014
       longitude: -0.4665892
       cities:
@@ -891,9 +917,11 @@
           longitude: -0.58099
     -
       name: "Belfast"
+      native: "Belfast"
       code: "BFS"
       iso3166_2: "GB-BFS"
       type: "district"
+      type_es: "distrito"
       latitude: 54.5975804
       longitude: -5.9277097
       cities:
@@ -951,9 +979,11 @@
           longitude: -5.90858
     -
       name: "Bexley"
+      native: "Bexley"
       code: "BEX"
       iso3166_2: "GB-BEX"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4402375
       longitude: 0.1479494
       cities:
@@ -1019,9 +1049,11 @@
           longitude: 0.26127
     -
       name: "Birmingham"
+      native: "Birmingham"
       code: "BIR"
       iso3166_2: "GB-BIR"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.4796992
       longitude: -1.9026911
       cities:
@@ -1075,9 +1107,11 @@
           longitude: -1.74005
     -
       name: "Blackburn with Darwen"
+      native: "Blackburn with Darwen"
       code: "BBD"
       iso3166_2: "GB-BBD"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.6957522
       longitude: -2.4682985
       cities:
@@ -1163,9 +1197,11 @@
           longitude: -2.41444
     -
       name: "Blackpool"
+      native: "Blackpool"
       code: "BPL"
       iso3166_2: "GB-BPL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.8175053
       longitude: -3.0356748
       cities:
@@ -1271,9 +1307,11 @@
           longitude: -2.91573
     -
       name: "Blaenau Gwent"
+      native: "Blaenau Gwent"
       code: "BGW"
       iso3166_2: "GB-BGW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7533711
       longitude: -3.1848444
       cities:
@@ -1335,9 +1373,11 @@
           longitude: -3.2
     -
       name: "Bolton"
+      native: "Bolton"
       code: "BOL"
       iso3166_2: "GB-BOL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 55.9208178
       longitude: -2.7905988
       cities:
@@ -1347,9 +1387,11 @@
           longitude: -2.01186
     -
       name: "Bournemouth, Christchurch and Poole"
+      native: "Bournemouth, Christchurch and Poole"
       code: "BCP"
       iso3166_2: "GB-BCP"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.7457035
       longitude: -2.1906224
       cities:
@@ -1459,9 +1501,11 @@
           longitude: -2.2189
     -
       name: "Bracknell Forest"
+      native: "Bracknell Forest"
       code: "BRC"
       iso3166_2: "GB-BRC"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4002688
       longitude: -0.7417888
       cities:
@@ -1543,9 +1587,11 @@
           longitude: -0.63695
     -
       name: "Bradford"
+      native: "Bradford"
       code: "BRD"
       iso3166_2: "GB-BRD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.795984
       longitude: -1.759398
       cities:
@@ -1651,9 +1697,11 @@
           longitude: -1.68743
     -
       name: "Brent"
+      native: "Brent"
       code: "BEN"
       iso3166_2: "GB-BEN"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 52.0188918
       longitude: -0.7235039
       cities:
@@ -1703,9 +1751,11 @@
           longitude: -0.64982
     -
       name: "Bridgend"
+      native: "Bridgend"
       code: "BGE"
       iso3166_2: "GB-BGE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5083199
       longitude: -3.5812075
       cities:
@@ -1763,9 +1813,11 @@
           longitude: -3.54944
     -
       name: "Brighton and Hove"
+      native: "Brighton and Hove"
       code: "BNH"
       iso3166_2: "GB-BNH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.8453169
       longitude: -0.1497469
       cities:
@@ -1899,9 +1951,11 @@
           longitude: -0.37538
     -
       name: "Bristol"
+      native: "Bristol"
       code: "BST"
       iso3166_2: "GB-BST"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4538022
       longitude: -2.5972985
       cities:
@@ -1935,9 +1989,11 @@
           longitude: -2.66098
     -
       name: "Bromley"
+      native: "Bromley"
       code: "BRY"
       iso3166_2: "GB-BRY"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3679705
       longitude: 0.070062
       cities:
@@ -2015,9 +2071,11 @@
           longitude: 0.30899
     -
       name: "Buckinghamshire"
+      native: "Buckinghamshire"
       code: "BKM"
       iso3166_2: "GB-BKM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7834994
       longitude: -0.8946441
       cities:
@@ -2103,9 +2161,11 @@
           longitude: -0.74244
     -
       name: "Bury"
+      native: "Bury"
       code: "BUR"
       iso3166_2: "GB-BUR"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5933498
       longitude: -2.2966054
       cities:
@@ -2159,9 +2219,11 @@
           longitude: -2.3
     -
       name: "Caerphilly"
+      native: "Caerphilly"
       code: "CAY"
       iso3166_2: "GB-CAY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.6723809
       longitude: -3.1783938
       cities:
@@ -2231,9 +2293,11 @@
           longitude: -3.30725
     -
       name: "Calderdale"
+      native: "Calderdale"
       code: "CLD"
       iso3166_2: "GB-CLD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.7204748
       longitude: -1.9622886
       cities:
@@ -2315,9 +2379,11 @@
           longitude: -2.10001
     -
       name: "Cambridgeshire"
+      native: "Cambridgeshire"
       code: "CAM"
       iso3166_2: "GB-CAM"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.333333
       longitude: 0.083333
       cities:
@@ -2575,9 +2641,11 @@
           longitude: 0.20602
     -
       name: "Camden"
+      native: "Camden"
       code: "CMD"
       iso3166_2: "GB-CMD"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5454736
       longitude: -0.1627902
       cities:
@@ -2591,9 +2659,11 @@
           longitude: -0.14334
     -
       name: "Cardiff"
+      native: "Cardiff"
       code: "CRF"
       iso3166_2: "GB-CRF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.481581
       longitude: -3.17909
       cities:
@@ -2631,9 +2701,11 @@
           longitude: -3.26369
     -
       name: "Carmarthenshire"
+      native: "Carmarthenshire"
       code: "CMN"
       iso3166_2: "GB-CMN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.8936698
       longitude: -4.2172827
       cities:
@@ -2707,9 +2779,11 @@
           longitude: -4.10972
     -
       name: "Causeway Coast and Glens"
+      native: "Causeway Coast and Glens"
       code: "CCG"
       iso3166_2: "GB-CCG"
       type: "district"
+      type_es: "distrito"
       latitude: 55.0361298
       longitude: -6.5909449
       cities:
@@ -2783,9 +2857,11 @@
           longitude: -6.71402
     -
       name: "Central Bedfordshire"
+      native: "Central Bedfordshire"
       code: "CBF"
       iso3166_2: "GB-CBF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.9980328
       longitude: -0.4791514
       cities:
@@ -2939,9 +3015,11 @@
           longitude: -0.44889
     -
       name: "Ceredigion"
+      native: "Ceredigion"
       code: "CGN"
       iso3166_2: "GB-CGN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.2945764
       longitude: -3.952781
       cities:
@@ -2999,9 +3077,11 @@
           longitude: -4.09276
     -
       name: "Cheshire East"
+      native: "Cheshire East"
       code: "CHE"
       iso3166_2: "GB-CHE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1673422
       longitude: -2.2928803
       cities:
@@ -3063,9 +3143,11 @@
           longitude: -2.4
     -
       name: "Cheshire West and Chester"
+      native: "Cheshire West and Chester"
       code: "CHW"
       iso3166_2: "GB-CHW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1637979
       longitude: -2.7285361
       cities:
@@ -3155,9 +3237,11 @@
           longitude: -2.52398
     -
       name: "City of Kingston upon Hull"
+      native: "City of Kingston upon Hull"
       code: "KHL"
       iso3166_2: "GB-KHL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.7676236
       longitude: -0.3274198
       cities:
@@ -3243,9 +3327,11 @@
           longitude: -0.33333
     -
       name: "City of Southampton"
+      native: "City of Southampton"
       code: "STH"
       iso3166_2: "GB-STH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.9001878
       longitude: -1.4139557
       cities:
@@ -3371,9 +3457,11 @@
           longitude: -1.64855
     -
       name: "Clackmannanshire"
+      native: "Clackmannanshire"
       code: "CLK"
       iso3166_2: "GB-CLK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.166395
       longitude: -3.7513968
       cities:
@@ -3427,9 +3515,11 @@
           longitude: -3.74015
     -
       name: "Conwy"
+      native: "Conwy"
       code: "CWY"
       iso3166_2: "GB-CWY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.2811822
       longitude: -3.8287012
       cities:
@@ -3523,9 +3613,11 @@
           longitude: -4.20476
     -
       name: "Cornwall"
+      native: "Cornwall"
       code: "CON"
       iso3166_2: "GB-CON"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.4433489
       longitude: -4.6246566
       cities:
@@ -3739,9 +3831,11 @@
           longitude: -4.83633
     -
       name: "Coventry"
+      native: "Coventry"
       code: "COV"
       iso3166_2: "GB-COV"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.406822
       longitude: -1.519693
       cities:
@@ -3807,9 +3901,11 @@
           longitude: -1.39544
     -
       name: "Croydon"
+      native: "Croydon"
       code: "CRY"
       iso3166_2: "GB-CRY"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3713049
       longitude: -0.101957
       cities:
@@ -3859,9 +3955,11 @@
           longitude: -0.03372
     -
       name: "Cumbria"
+      native: "Cumbria"
       code: "CMA"
       iso3166_2: "GB-CMA"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 54.6143136
       longitude: -2.9420899
       cities:
@@ -3991,9 +4089,11 @@
           longitude: -3.54413
     -
       name: "Darlington"
+      native: "Darlington"
       code: "DAL"
       iso3166_2: "GB-DAL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.5352564
       longitude: -1.552943
       cities:
@@ -4043,9 +4143,11 @@
           longitude: -1.61276
     -
       name: "Denbighshire"
+      native: "Denbighshire"
       code: "DEN"
       iso3166_2: "GB-DEN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1097895
       longitude: -3.3671284
       cities:
@@ -4087,9 +4189,11 @@
           longitude: -3.4203
     -
       name: "Derby"
+      native: "Derby"
       code: "DER"
       iso3166_2: "GB-DER"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.1666927
       longitude: -1.5833223
       cities:
@@ -4127,9 +4231,11 @@
           longitude: -1.69044
     -
       name: "Derbyshire"
+      native: "Derbyshire"
       code: "DBY"
       iso3166_2: "GB-DBY"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.1185033
       longitude: -1.5566179
       cities:
@@ -4215,9 +4321,11 @@
           longitude: -1.57391
     -
       name: "Derry City and Strabane"
+      native: "Derry City and Strabane"
       code: "DRS"
       iso3166_2: "GB-DRS"
       type: "district"
+      type_es: "distrito"
       latitude: 55.0047443
       longitude: -7.3209222
       cities:
@@ -4263,9 +4371,11 @@
           longitude: -7.46916
     -
       name: "Devon"
+      native: "Devon"
       code: "DEV"
       iso3166_2: "GB-DEV"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.7241405
       longitude: -3.6607788
       cities:
@@ -4459,9 +4569,11 @@
           longitude: -3.4016
     -
       name: "Doncaster"
+      native: "Doncaster"
       code: "DNC"
       iso3166_2: "GB-DNC"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.52282
       longitude: -1.128462
       cities:
@@ -4587,9 +4699,11 @@
           longitude: -1.14261
     -
       name: "Dorset"
+      native: "Dorset"
       code: "DOR"
       iso3166_2: "GB-DOR"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.7487635
       longitude: -2.3444786
       cities:
@@ -4691,9 +4805,11 @@
           longitude: -2.57959
     -
       name: "Dudley"
+      native: "Dudley"
       code: "DUD"
       iso3166_2: "GB-DUD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 55.0541243
       longitude: -1.5949864
       cities:
@@ -4771,9 +4887,11 @@
           longitude: -1.62246
     -
       name: "Dumfries and Galloway"
+      native: "Dumfries and Galloway"
       code: "DGY"
       iso3166_2: "GB-DGY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.083333
       longitude: -3.833333
       cities:
@@ -4827,9 +4945,11 @@
           longitude: -3.76667
     -
       name: "Dundee"
+      native: "Dundee"
       code: "DND"
       iso3166_2: "GB-DND"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.462018
       longitude: -2.970721
       cities:
@@ -4879,9 +4999,11 @@
           longitude: -2.87966
     -
       name: "Durham"
+      native: "Durham"
       code: "DUR"
       iso3166_2: "GB-DUR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.666667
       longitude: -1.75
       cities:
@@ -5003,9 +5125,11 @@
           longitude: -1.88319
     -
       name: "Ealing"
+      native: "Ealing"
       code: "EAL"
       iso3166_2: "GB-EAL"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5250846
       longitude: -0.3142935
       cities:
@@ -5039,9 +5163,11 @@
           longitude: -0.29686
     -
       name: "East Ayrshire"
+      native: "East Ayrshire"
       code: "EAY"
       iso3166_2: "GB-EAY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.5
       longitude: -4.25
       cities:
@@ -5115,9 +5241,11 @@
           longitude: -4.48648
     -
       name: "East Dunbartonshire"
+      native: "East Dunbartonshire"
       code: "EDU"
       iso3166_2: "GB-EDU"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.933333
       longitude: -4.2
       cities:
@@ -5179,9 +5307,11 @@
           longitude: -4.08219
     -
       name: "East Lothian"
+      native: "East Lothian"
       code: "ELN"
       iso3166_2: "GB-ELN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.915797
       longitude: -2.7511952
       cities:
@@ -5251,9 +5381,11 @@
           longitude: -2.95412
     -
       name: "East Renfrewshire"
+      native: "East Renfrewshire"
       code: "ERW"
       iso3166_2: "GB-ERW"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.7494793
       longitude: -4.3606592
       cities:
@@ -5315,9 +5447,11 @@
           longitude: -4.28372
     -
       name: "East Riding of Yorkshire"
+      native: "East Riding of Yorkshire"
       code: "ERY"
       iso3166_2: "GB-ERY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.8735965
       longitude: -0.5347788
       cities:
@@ -5479,9 +5613,11 @@
           longitude: -0.39993
     -
       name: "East Sussex"
+      native: "East Sussex"
       code: "ESX"
       iso3166_2: "GB-ESX"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.9404266
       longitude: 0.3699978
       cities:
@@ -5639,9 +5775,11 @@
           longitude: 0.72158
     -
       name: "Edinburgh"
+      native: "Edinburgh"
       code: "EDH"
       iso3166_2: "GB-EDH"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.953252
       longitude: -3.188267
       cities:
@@ -5723,9 +5861,11 @@
           longitude: -3.04231
     -
       name: "Enfield"
+      native: "Enfield"
       code: "ENF"
       iso3166_2: "GB-ENF"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.6526384
       longitude: -0.0908639
       cities:
@@ -5763,18 +5903,22 @@
           longitude: -0.03575
     -
       name: "England"
+      native: "England"
       code: "ENG"
       iso3166_2: "GB-ENG"
       type: "country"
+      type_es: "país"
       latitude: 52.5310214
       longitude: -1.2649062
       cities:
         []
     -
       name: "Essex"
+      native: "Essex"
       code: "ESS"
       iso3166_2: "GB-ESS"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.7704679
       longitude: 0.4646698
       cities:
@@ -5980,9 +6124,11 @@
           longitude: 0.42938
     -
       name: "Falkirk"
+      native: "Falkirk"
       code: "FAL"
       iso3166_2: "GB-FAL"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.0018775
       longitude: -3.7839131
       cities:
@@ -6096,9 +6242,11 @@
           longitude: -3.74016
     -
       name: "Fermanagh and Omagh"
+      native: "Fermanagh and Omagh"
       code: "FMO"
       iso3166_2: "GB-FMO"
       type: "district"
+      type_es: "distrito"
       latitude: 54.3558863
       longitude: -7.5936636
       cities:
@@ -6140,9 +6288,11 @@
           longitude: -7.3
     -
       name: "Fife"
+      native: "Fife"
       code: "FIF"
       iso3166_2: "GB-FIF"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.3333331
       longitude: -3.0000001
       cities:
@@ -6272,9 +6422,11 @@
           longitude: -3.05274
     -
       name: "Flintshire"
+      native: "Flintshire"
       code: "FLN"
       iso3166_2: "GB-FLN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.2165096
       longitude: -3.1402189
       cities:
@@ -6348,9 +6500,11 @@
           longitude: -3.40776
     -
       name: "Gateshead"
+      native: "Gateshead"
       code: "GAT"
       iso3166_2: "GB-GAT"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.9625789
       longitude: -1.6019294
       cities:
@@ -6408,9 +6562,11 @@
           longitude: -1.67635
     -
       name: "Glasgow"
+      native: "Glasgow"
       code: "GLG"
       iso3166_2: "GB-GLG"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.864237
       longitude: -4.251806
       cities:
@@ -6452,9 +6608,11 @@
           longitude: -4.21376
     -
       name: "Gloucestershire"
+      native: "Gloucestershire"
       code: "GLS"
       iso3166_2: "GB-GLS"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.8333313
       longitude: -2.1666674
       cities:
@@ -6616,9 +6774,11 @@
           longitude: -1.96398
     -
       name: "Greenwich"
+      native: "Greenwich"
       code: "GRE"
       iso3166_2: "GB-GRE"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4686256
       longitude: 0.0488306
       cities:
@@ -6628,9 +6788,11 @@
           longitude: 0.10747
     -
       name: "Gwynedd"
+      native: "Gwynedd"
       code: "GWN"
       iso3166_2: "GB-GWN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.9089585
       longitude: -3.8335244
       cities:
@@ -6708,9 +6870,11 @@
           longitude: -3.92289
     -
       name: "Hackney"
+      native: "Hackney"
       code: "HCK"
       iso3166_2: "GB-HCK"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5488819
       longitude: -0.0476691
       cities:
@@ -6720,9 +6884,11 @@
           longitude: -0.06109
     -
       name: "Halton"
+      native: "Stop"
       code: "HAL"
       iso3166_2: "GB-HAL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 55.0049099
       longitude: -2.0045216
       cities:
@@ -6768,18 +6934,22 @@
           longitude: -1.82187
     -
       name: "Hammersmith and Fulham"
+      native: "Hammersmith and Fulham"
       code: "HMF"
       iso3166_2: "GB-HMF"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4990156
       longitude: -0.22915
       cities:
         []
     -
       name: "Hampshire"
+      native: "Hampshire"
       code: "HAM"
       iso3166_2: "GB-HAM"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.0449814
       longitude: -1.2433133
       cities:
@@ -6905,9 +7075,11 @@
           longitude: -1.3187
     -
       name: "Haringey"
+      native: "Haringey"
       code: "HRY"
       iso3166_2: "GB-HRY"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5906113
       longitude: -0.1109709
       cities:
@@ -6921,9 +7093,11 @@
           longitude: -0.09956
     -
       name: "Harrow"
+      native: "Harrow"
       code: "HRW"
       iso3166_2: "GB-HRW"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5881627
       longitude: -0.3422851
       cities:
@@ -6981,9 +7155,11 @@
           longitude: -0.39602
     -
       name: "Hartlepool"
+      native: "Hartlepool"
       code: "HPL"
       iso3166_2: "GB-HPL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.691745
       longitude: -1.212926
       cities:
@@ -7029,9 +7205,11 @@
           longitude: -1.37896
     -
       name: "Havering"
+      native: "Gardening"
       code: "HAV"
       iso3166_2: "GB-HAV"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5579262
       longitude: 0.2498128
       cities:
@@ -7081,9 +7259,11 @@
           longitude: 0.2556
     -
       name: "Herefordshire"
+      native: "Herefordshire"
       code: "HEF"
       iso3166_2: "GB-HEF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.083333
       longitude: -2.75
       cities:
@@ -7161,9 +7341,11 @@
           longitude: -2.85802
     -
       name: "Hertfordshire"
+      native: "Hertfordshire"
       code: "HRT"
       iso3166_2: "GB-HRT"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.8400523
       longitude: -0.0978552
       cities:
@@ -7301,9 +7483,11 @@
           longitude: -0.29371
     -
       name: "Highland"
+      native: "Highland"
       code: "HLD"
       iso3166_2: "GB-HLD"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.5066357
       longitude: -5.0038367
       cities:
@@ -7377,9 +7561,11 @@
           longitude: -5.16039
     -
       name: "Hillingdon"
+      native: "Hillingdon"
       code: "HIL"
       iso3166_2: "GB-HIL"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5351832
       longitude: -0.4481378
       cities:
@@ -7425,9 +7611,11 @@
           longitude: -0.46667
     -
       name: "Hounslow"
+      native: "Hounslow"
       code: "HNS"
       iso3166_2: "GB-HNS"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4617334
       longitude: -0.380131
       cities:
@@ -7477,9 +7665,11 @@
           longitude: -0.45975
     -
       name: "Inverclyde"
+      native: "Inverclyde"
       code: "IVC"
       iso3166_2: "GB-IVC"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.9
       longitude: -4.75
       cities:
@@ -7573,9 +7763,11 @@
           longitude: -4.8895
     -
       name: "Isle of Anglesey"
+      native: "Isle of Anglesey"
       code: "AGY"
       iso3166_2: "GB-AGY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.280702
       longitude: -4.6899519
       cities:
@@ -7629,9 +7821,11 @@
           longitude: -4.56644
     -
       name: "Isle of Wight"
+      native: "Isle of Wight"
       code: "IOW"
       iso3166_2: "GB-IOW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.6710482
       longitude: -1.3327111
       cities:
@@ -7705,9 +7899,11 @@
           longitude: -1.49929
     -
       name: "Isles of Scilly"
+      native: "Isles of Scilly"
       code: "IOS"
       iso3166_2: "GB-IOS"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 49.9203409
       longitude: -6.2928791
       cities:
@@ -7737,9 +7933,11 @@
           longitude: -6.2928791
     -
       name: "Islington"
+      native: "Islington"
       code: "ISL"
       iso3166_2: "GB-ISL"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5465063
       longitude: -0.1058058
       cities:
@@ -7769,9 +7967,11 @@
           longitude: -0.10304
     -
       name: "Kensington and Chelsea"
+      native: "Kensington and Chelsea"
       code: "KEC"
       iso3166_2: "GB-KEC"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4990805
       longitude: -0.1938253
       cities:
@@ -7789,9 +7989,11 @@
           longitude: -0.16667
     -
       name: "Kent"
+      native: "Kent"
       code: "KEN"
       iso3166_2: "GB-KEN"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.2070748
       longitude: 0.7210362
       cities:
@@ -7929,9 +8131,11 @@
           longitude: 0.4292
     -
       name: "Kingston upon Thames"
+      native: "Kingston upon Thames"
       code: "KTT"
       iso3166_2: "GB-KTT"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3817763
       longitude: -0.2769933
       cities:
@@ -7985,9 +8189,11 @@
           longitude: -0.24445
     -
       name: "Kirklees"
+      native: "Kirklees"
       code: "KIR"
       iso3166_2: "GB-KIR"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.6422635
       longitude: -1.7809433
       cities:
@@ -8081,9 +8287,11 @@
           longitude: -1.83181
     -
       name: "Knowsley"
+      native: "Knowsley"
       code: "KWL"
       iso3166_2: "GB-KWL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.454594
       longitude: -2.852907
       cities:
@@ -8105,9 +8313,11 @@
           longitude: -2.80031
     -
       name: "Lambeth"
+      native: "Lambeth"
       code: "LBH"
       iso3166_2: "GB-LBH"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4952111
       longitude: -0.1163354
       cities:
@@ -8121,9 +8331,11 @@
           longitude: -0.11152
     -
       name: "Lancashire"
+      native: "Lancashire"
       code: "LAN"
       iso3166_2: "GB-LAN"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.8611712
       longitude: -2.5650945
       cities:
@@ -8245,9 +8457,11 @@
           longitude: -2.40712
     -
       name: "Leeds"
+      native: "Leeds"
       code: "LDS"
       iso3166_2: "GB-LDS"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.8007554
       longitude: -1.5490774
       cities:
@@ -8349,9 +8563,11 @@
           longitude: -1.38672
     -
       name: "Leicester"
+      native: "Leicester"
       code: "LCE"
       iso3166_2: "GB-LCE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.6368778
       longitude: -1.1397592
       cities:
@@ -8445,9 +8661,11 @@
           longitude: -1.09248
     -
       name: "Leicestershire"
+      native: "Leicestershire"
       code: "LEC"
       iso3166_2: "GB-LEC"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.6849137
       longitude: -1.1847653
       cities:
@@ -8577,9 +8795,11 @@
           longitude: -1.11288
     -
       name: "Lewisham"
+      native: "Lewisham"
       code: "LEW"
       iso3166_2: "GB-LEW"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4535207
       longitude: -0.0124751
       cities:
@@ -8593,9 +8813,11 @@
           longitude: 0.0079
     -
       name: "Lincolnshire"
+      native: "Lincolnshire"
       code: "LIN"
       iso3166_2: "GB-LIN"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.1282267
       longitude: -0.1901974
       cities:
@@ -8781,9 +9003,11 @@
           longitude: -0.3
     -
       name: "Lisburn and Castlereagh"
+      native: "Lisburn and Castlereagh"
       code: "LBC"
       iso3166_2: "GB-LBC"
       type: "district"
+      type_es: "distrito"
       latitude: 54.4974026
       longitude: -6.0330739
       cities:
@@ -8849,9 +9073,11 @@
           longitude: -6.29929
     -
       name: "Liverpool"
+      native: "Liverpool"
       code: "LIV"
       iso3166_2: "GB-LIV"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4071991
       longitude: -2.99168
       cities:
@@ -8869,18 +9095,22 @@
           longitude: -3.06497
     -
       name: "London"
+      native: "London"
       code: "LND"
       iso3166_2: "GB-LND"
       type: "city"
+      type_es: "ciudad"
       latitude: 51.5123443
       longitude: -0.0909852
       cities:
         []
     -
       name: "Luton"
+      native: "Luton"
       code: "LUT"
       iso3166_2: "GB-LUT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.8910773
       longitude: -0.5103349
       cities:
@@ -8966,9 +9196,11 @@
           longitude: -0.65824
     -
       name: "Manchester"
+      native: "Manchester"
       code: "MAN"
       iso3166_2: "GB-MAN"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4807593
       longitude: -2.2426305
       cities:
@@ -9002,9 +9234,11 @@
           longitude: -2.20104
     -
       name: "Medway"
+      native: "Medway"
       code: "MDW"
       iso3166_2: "GB-MDW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4157386
       longitude: 0.5687309
       cities:
@@ -9122,9 +9356,11 @@
           longitude: 0.45816
     -
       name: "Merthyr Tydfil"
+      native: "Merthyr Tydfil"
       code: "MTY"
       iso3166_2: "GB-MTY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7467474
       longitude: -3.3813275
       cities:
@@ -9170,9 +9406,11 @@
           longitude: -3.28553
     -
       name: "Merton"
+      native: "Merton"
       code: "MRT"
       iso3166_2: "GB-MRT"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4108698
       longitude: -0.1880971
       cities:
@@ -9186,9 +9424,11 @@
           longitude: -0.19837
     -
       name: "Mid and East Antrim"
+      native: "Mid and East Antrim"
       code: "MEA"
       iso3166_2: "GB-MEA"
       type: "district"
+      type_es: "distrito"
       latitude: 54.8725745
       longitude: -6.150246
       cities:
@@ -9234,9 +9474,11 @@
           longitude: -6.10141
     -
       name: "Mid Ulster"
+      native: "Mid Ulster"
       code: "MUL"
       iso3166_2: "GB-MUL"
       type: "district"
+      type_es: "distrito"
       latitude: 54.6385573
       longitude: -6.692581
       cities:
@@ -9278,9 +9520,11 @@
           longitude: -6.66956
     -
       name: "Middlesbrough"
+      native: "Middlesbrough"
       code: "MDB"
       iso3166_2: "GB-MDB"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.574227
       longitude: -1.234956
       cities:
@@ -9298,9 +9542,11 @@
           longitude: -1.1933
     -
       name: "Midlothian"
+      native: "Midlothian"
       code: "MLN"
       iso3166_2: "GB-MLN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.833333
       longitude: -3.083333
       cities:
@@ -9354,9 +9600,11 @@
           longitude: -3.35607
     -
       name: "Milton Keynes"
+      native: "Milton Keynes"
       code: "MIK"
       iso3166_2: "GB-MIK"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.0406502
       longitude: -0.7594092
       cities:
@@ -9450,9 +9698,11 @@
           longitude: -0.88131
     -
       name: "Monmouthshire"
+      native: "Monmouthshire"
       code: "MON"
       iso3166_2: "GB-MON"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7501058
       longitude: -2.8333331
       cities:
@@ -9502,9 +9752,11 @@
           longitude: -2.90332
     -
       name: "Moray"
+      native: "Moray"
       code: "MRY"
       iso3166_2: "GB-MRY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.416667
       longitude: -3.25
       cities:
@@ -9646,9 +9898,11 @@
           longitude: -2.57863
     -
       name: "Neath Port Talbot"
+      native: "Neath Port Talbot"
       code: "NTL"
       iso3166_2: "GB-NTL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.6689557
       longitude: -3.7218179
       cities:
@@ -9722,9 +9976,11 @@
           longitude: -3.78082
     -
       name: "Newcastle upon Tyne"
+      native: "Newcastle upon Tyne"
       code: "NET"
       iso3166_2: "GB-NET"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.978252
       longitude: -1.61778
       cities:
@@ -9758,9 +10014,11 @@
           longitude: -1.66667
     -
       name: "Newham"
+      native: "Newham"
       code: "NWM"
       iso3166_2: "GB-NWM"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5255162
       longitude: 0.0352163
       cities:
@@ -9774,18 +10032,22 @@
           longitude: -0.02085
     -
       name: "Newport"
+      native: "Newport"
       code: "NWP"
       iso3166_2: "GB-NWP"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.7688594
       longitude: -2.3783676
       cities:
         []
     -
       name: "Newry, Mourne and Down"
+      native: "Newry, Mourne and Down"
       code: "NMD"
       iso3166_2: "GB-NMD"
       type: "district"
+      type_es: "distrito"
       latitude: 54.1775283
       longitude: -6.337506
       cities:
@@ -9839,9 +10101,11 @@
           longitude: -6.25731
     -
       name: "Norfolk"
+      native: "Norfolk"
       code: "NFK"
       iso3166_2: "GB-NFK"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.666667
       longitude: 1
       cities:
@@ -10103,9 +10367,11 @@
           longitude: 0.8511
     -
       name: "North Ayrshire"
+      native: "North Ayrshire"
       code: "NAY"
       iso3166_2: "GB-NAY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.7278508
       longitude: -4.7271767
       cities:
@@ -10199,9 +10465,11 @@
           longitude: -4.85771
     -
       name: "North East Lincolnshire"
+      native: "North East Lincolnshire"
       code: "NEL"
       iso3166_2: "GB-NEL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.5368033
       longitude: -0.093681
       cities:
@@ -10299,9 +10567,11 @@
           longitude: 0.03347
     -
       name: "North Lanarkshire"
+      native: "North Lanarkshire"
       code: "NLK"
       iso3166_2: "GB-NLK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.8830507
       longitude: -3.9461551
       cities:
@@ -10451,9 +10721,11 @@
           longitude: -3.91667
     -
       name: "North Lincolnshire"
+      native: "North Lincolnshire"
       code: "NLN"
       iso3166_2: "GB-NLN"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.5897441
       longitude: -0.602323
       cities:
@@ -10591,9 +10863,11 @@
           longitude: -0.46194
     -
       name: "North Northamptonshire"
+      native: "North Northamptonshire"
       code: "NNH"
       iso3166_2: "GB-NNH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.4171085
       longitude: -0.9535511
       cities:
@@ -10679,9 +10953,11 @@
           longitude: -1.07804
     -
       name: "North Somerset"
+      native: "North Somerset"
       code: "NSM"
       iso3166_2: "GB-NSM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.3966305
       longitude: -2.7691289
       cities:
@@ -10791,9 +11067,11 @@
           longitude: -2.82353
     -
       name: "North Tyneside"
+      native: "North Tyneside"
       code: "NTY"
       iso3166_2: "GB-NTY"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 55.0297994
       longitude: -1.508256
       cities:
@@ -10827,9 +11105,11 @@
           longitude: -1.44713
     -
       name: "North Yorkshire"
+      native: "North Yorkshire"
       code: "NYK"
       iso3166_2: "GB-NYK"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 54.0915928
       longitude: -1.5359113
       cities:
@@ -10883,18 +11163,22 @@
           longitude: -1.34411
     -
       name: "Northern Ireland"
+      native: "Northern Ireland"
       code: "NIR"
       iso3166_2: "GB-NIR"
       type: "province"
+      type_es: "provincia"
       latitude: 54.5859836
       longitude: -6.9591554
       cities:
         []
     -
       name: "Northumberland"
+      native: "Northumberland"
       code: "NBL"
       iso3166_2: "GB-NBL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 55.25
       longitude: -2.000559
       cities:
@@ -10992,9 +11276,11 @@
           longitude: -2.01186
     -
       name: "Nottingham"
+      native: "Nottingham"
       code: "NGM"
       iso3166_2: "GB-NGM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.9547832
       longitude: -1.1581086
       cities:
@@ -11144,9 +11430,11 @@
           longitude: -1.35846
     -
       name: "Nottinghamshire"
+      native: "Nottinghamshire"
       code: "NTT"
       iso3166_2: "GB-NTT"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 53.1459288
       longitude: -1.0214971
       cities:
@@ -11304,9 +11592,11 @@
           longitude: -1.12404
     -
       name: "Oldham"
+      native: "Oldham"
       code: "OLD"
       iso3166_2: "GB-OLD"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5415797
       longitude: -2.1147831
       cities:
@@ -11344,9 +11634,11 @@
           longitude: -2.08333
     -
       name: "Orkney Islands"
+      native: "Orkney Islands"
       code: "ORK"
       iso3166_2: "GB-ORK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 58.9418231
       longitude: -3.1296944
       cities:
@@ -11380,9 +11672,11 @@
           longitude: -3.09424
     -
       name: "Outer Hebrides"
+      native: "Outer Hebrides"
       code: "ELS"
       iso3166_2: "GB-ELS"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 57.666667
       longitude: -7.166667
       cities:
@@ -11420,9 +11714,11 @@
           longitude: -6.38649
     -
       name: "Oxfordshire"
+      native: "Oxfordshire"
       code: "OXF"
       iso3166_2: "GB-OXF"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.833333
       longitude: -1.25
       cities:
@@ -11576,9 +11872,11 @@
           longitude: -1.31149
     -
       name: "Pembrokeshire"
+      native: "Pembrokeshire"
       code: "PEM"
       iso3166_2: "GB-PEM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.8339209
       longitude: -4.916667
       cities:
@@ -11688,9 +11986,11 @@
           longitude: -4.61528
     -
       name: "Perth and Kinross"
+      native: "Perth and Kinross"
       code: "PKN"
       iso3166_2: "GB-PKN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.5
       longitude: -3.75
       cities:
@@ -11744,9 +12044,11 @@
           longitude: -3.45184
     -
       name: "Peterborough"
+      native: "Peterborough"
       code: "PTE"
       iso3166_2: "GB-PTE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.5725769
       longitude: -0.2427336
       cities:
@@ -11896,9 +12198,11 @@
           longitude: -0.25852
     -
       name: "Plymouth"
+      native: "Plymouth"
       code: "PLY"
       iso3166_2: "GB-PLY"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.3714122
       longitude: -4.1424451
       cities:
@@ -11980,9 +12284,11 @@
           longitude: -4.08382
     -
       name: "Portsmouth"
+      native: "Portsmouth"
       code: "POR"
       iso3166_2: "GB-POR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.800031
       longitude: -1.0906023
       cities:
@@ -12080,9 +12386,11 @@
           longitude: -1.18815
     -
       name: "Powys"
+      native: "Powys"
       code: "POW"
       iso3166_2: "GB-POW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.3271499
       longitude: -3.3553352
       cities:
@@ -12132,9 +12440,11 @@
           longitude: -3.1471
     -
       name: "Reading"
+      native: "Reading"
       code: "RDG"
       iso3166_2: "GB-RDG"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4514953
       longitude: -0.9836342
       cities:
@@ -12208,9 +12518,11 @@
           longitude: -0.86577
     -
       name: "Redbridge"
+      native: "Redbridge"
       code: "RDB"
       iso3166_2: "GB-RDB"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5765828
       longitude: 0.0453401
       cities:
@@ -12236,9 +12548,11 @@
           longitude: 0.09781
     -
       name: "Redcar and Cleveland"
+      native: "Redcar and Cleveland"
       code: "RCC"
       iso3166_2: "GB-RCC"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.5679056
       longitude: -1.0054963
       cities:
@@ -12316,9 +12630,11 @@
           longitude: -0.61498
     -
       name: "Renfrewshire"
+      native: "Renfrewshire"
       code: "RFW"
       iso3166_2: "GB-RFW"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.833333
       longitude: -4.5
       cities:
@@ -12380,9 +12696,11 @@
           longitude: -4.5
     -
       name: "Rhondda Cynon Taf"
+      native: "Rhondda Cynon Taf"
       code: "RCT"
       iso3166_2: "GB-RCT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.6651636
       longitude: -3.4577558
       cities:
@@ -12456,9 +12774,11 @@
           longitude: -3.36036
     -
       name: "Richmond upon Thames"
+      native: "Richmond upon Thames"
       code: "RIC"
       iso3166_2: "GB-RIC"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4405529
       longitude: -0.3076394
       cities:
@@ -12480,9 +12800,11 @@
           longitude: -0.37997
     -
       name: "Rochdale"
+      native: "Roughly"
       code: "RCH"
       iso3166_2: "GB-RCH"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.6097136
       longitude: -2.1561
       cities:
@@ -12520,9 +12842,11 @@
           longitude: -2.1771
     -
       name: "Rotherham"
+      native: "Rotherham"
       code: "ROT"
       iso3166_2: "GB-ROT"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4326035
       longitude: -1.3635009
       cities:
@@ -12600,9 +12924,11 @@
           longitude: -1.17204
     -
       name: "Rutland"
+      native: "Rutland"
       code: "RUT"
       iso3166_2: "GB-RUT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.6423036
       longitude: -0.6632643
       cities:
@@ -12728,9 +13054,11 @@
           longitude: -0.72272
     -
       name: "Salford"
+      native: "Salford"
       code: "SLF"
       iso3166_2: "GB-SLF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4875235
       longitude: -2.2901264
       cities:
@@ -12772,9 +13100,11 @@
           longitude: -2.4
     -
       name: "Sandwell"
+      native: "Sandwell"
       code: "SAW"
       iso3166_2: "GB-SAW"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.5148466
       longitude: -2.0134889
       cities:
@@ -12848,18 +13178,22 @@
           longitude: -1.9945
     -
       name: "Scotland"
+      native: "Scotland"
       code: "SCT"
       iso3166_2: "GB-SCT"
       type: "country"
+      type_es: "país"
       latitude: 56.7861112
       longitude: -4.1140518
       cities:
         []
     -
       name: "Scottish Borders"
+      native: "Scottish Borders"
       code: "SCB"
       iso3166_2: "GB-SCB"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.583333
       longitude: -2.833333
       cities:
@@ -12929,9 +13263,11 @@
           longitude: -2.76692
     -
       name: "Sefton"
+      native: "Sefton"
       code: "SFT"
       iso3166_2: "GB-SFT"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5034449
       longitude: -2.970359
       cities:
@@ -12985,9 +13321,11 @@
           longitude: -3.03017
     -
       name: "Sheffield"
+      native: "Sheffield"
       code: "SHF"
       iso3166_2: "GB-SHF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.3806626
       longitude: -1.4702278
       cities:
@@ -13037,9 +13375,11 @@
           longitude: -1.35
     -
       name: "Shetland Islands"
+      native: "Shetland Islands"
       code: "ZET"
       iso3166_2: "GB-ZET"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 60.333333
       longitude: -1.333333
       cities:
@@ -13057,9 +13397,11 @@
           longitude: -1.333333
     -
       name: "Shropshire"
+      native: "Shropshire"
       code: "SHR"
       iso3166_2: "GB-SHR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.6523393
       longitude: -2.7958679
       cities:
@@ -13137,9 +13479,11 @@
           longitude: -2.75
     -
       name: "Slough"
+      native: "Slough"
       code: "SLG"
       iso3166_2: "GB-SLG"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5105384
       longitude: -0.5950406
       cities:
@@ -13225,9 +13569,11 @@
           longitude: -0.6
     -
       name: "Solihull"
+      native: "Solihull"
       code: "SOL"
       iso3166_2: "GB-SOL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.411811
       longitude: -1.77761
       cities:
@@ -13289,9 +13635,11 @@
           longitude: -1.89188
     -
       name: "Somerset"
+      native: "Somerset"
       code: "SOM"
       iso3166_2: "GB-SOM"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.083333
       longitude: -3
       cities:
@@ -13461,9 +13809,11 @@
           longitude: -2.93814
     -
       name: "South Ayrshire"
+      native: "South Ayrshire"
       code: "SAY"
       iso3166_2: "GB-SAY"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.299818
       longitude: -4.6459884
       cities:
@@ -13525,9 +13875,11 @@
           longitude: -5.02731
     -
       name: "South Gloucestershire"
+      native: "South Gloucestershire"
       code: "SGC"
       iso3166_2: "GB-SGC"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5491916
       longitude: -2.4809528
       cities:
@@ -13641,9 +13993,11 @@
           longitude: -2.41839
     -
       name: "South Lanarkshire"
+      native: "South Lanarkshire"
       code: "SLK"
       iso3166_2: "GB-SLK"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.5831634
       longitude: -3.8332212
       cities:
@@ -13701,9 +14055,11 @@
           longitude: -4.0668
     -
       name: "South Tyneside"
+      native: "South Tyneside"
       code: "STY"
       iso3166_2: "GB-STY"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.9636693
       longitude: -1.4418634
       cities:
@@ -13741,9 +14097,11 @@
           longitude: -1.36861
     -
       name: "Southend-on-Sea"
+      native: "Southend-on-Sea"
       code: "SOS"
       iso3166_2: "GB-SOS"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5459269
       longitude: 0.7077123
       cities:
@@ -13857,9 +14215,11 @@
           longitude: 0.69179
     -
       name: "Southwark"
+      native: "Southwark"
       code: "SWK"
       iso3166_2: "GB-SWK"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4652545
       longitude: -0.0690186
       cities:
@@ -13877,9 +14237,11 @@
           longitude: -0.06969
     -
       name: "St Helens"
+      native: "St Helens"
       code: "SHN"
       iso3166_2: "GB-SHN"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4535471
       longitude: -2.7343231
       cities:
@@ -13909,9 +14271,11 @@
           longitude: -2.73333
     -
       name: "Staffordshire"
+      native: "Staffordshire"
       code: "STS"
       iso3166_2: "GB-STS"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.8246942
       longitude: -2.0074547
       cities:
@@ -13981,9 +14345,11 @@
           longitude: -1.79068
     -
       name: "Stirling"
+      native: "Stirling"
       code: "STG"
       iso3166_2: "GB-STG"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 56.1165227
       longitude: -3.9369029
       cities:
@@ -14037,9 +14403,11 @@
           longitude: -3.83835
     -
       name: "Stockport"
+      native: "Stockport"
       code: "SKP"
       iso3166_2: "GB-SKP"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4106316
       longitude: -2.1575332
       cities:
@@ -14141,9 +14509,11 @@
           longitude: -2.23148
     -
       name: "Stockton-on-Tees"
+      native: "Stockton-on-Tees"
       code: "STT"
       iso3166_2: "GB-STT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 54.564094
       longitude: -1.3129164
       cities:
@@ -14185,9 +14555,11 @@
           longitude: -1.35793
     -
       name: "Stoke-on-Trent"
+      native: "Stoke-on-Trent"
       code: "STE"
       iso3166_2: "GB-STE"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.0162014
       longitude: -2.1812607
       cities:
@@ -14257,9 +14629,11 @@
           longitude: -2.2114
     -
       name: "Suffolk"
+      native: "Suffolk"
       code: "SFK"
       iso3166_2: "GB-SFK"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.2410014
       longitude: 1.0465716
       cities:
@@ -14517,9 +14891,11 @@
           longitude: 0.88826
     -
       name: "Sunderland"
+      native: "Sunderland"
       code: "SND"
       iso3166_2: "GB-SND"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 54.9058512
       longitude: -1.3828727
       cities:
@@ -14581,9 +14957,11 @@
           longitude: -1.5
     -
       name: "Surrey"
+      native: "Surrey"
       code: "SRY"
       iso3166_2: "GB-SRY"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 51.2715316
       longitude: -0.3414524
       cities:
@@ -14737,9 +15115,11 @@
           longitude: -0.37195
     -
       name: "Sutton"
+      native: "Suton"
       code: "STN"
       iso3166_2: "GB-STN"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.3573762
       longitude: -0.1752796
       cities:
@@ -14769,9 +15149,11 @@
           longitude: -0.2
     -
       name: "Swansea"
+      native: "Swansea"
       code: "SWA"
       iso3166_2: "GB-SWA"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.62144
       longitude: -3.943646
       cities:
@@ -14845,9 +15227,11 @@
           longitude: -4.02
     -
       name: "Swindon"
+      native: "Swindon"
       code: "SWD"
       iso3166_2: "GB-SWD"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5557739
       longitude: -1.7797176
       cities:
@@ -14965,9 +15349,11 @@
           longitude: -1.79559
     -
       name: "Tameside"
+      native: "Tameside"
       code: "TAM"
       iso3166_2: "GB-TAM"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.4805828
       longitude: -2.0809891
       cities:
@@ -15029,9 +15415,11 @@
           longitude: -2.05908
     -
       name: "Telford and Wrekin"
+      native: "Telford and Wrekin"
       code: "TFW"
       iso3166_2: "GB-TFW"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.7214452
       longitude: -2.5008624
       cities:
@@ -15101,9 +15489,11 @@
           longitude: -2.33333
     -
       name: "Thurrock"
+      native: "Thurrock"
       code: "THR"
       iso3166_2: "GB-THR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.5080169
       longitude: 0.3962817
       cities:
@@ -15177,9 +15567,11 @@
           longitude: 0.52331
     -
       name: "Torbay"
+      native: "Torbay"
       code: "TOB"
       iso3166_2: "GB-TOB"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 50.4392329
       longitude: -3.5369899
       cities:
@@ -15277,9 +15669,11 @@
           longitude: -3.6843
     -
       name: "Torfaen"
+      native: "Torfaen"
       code: "TOF"
       iso3166_2: "GB-TOF"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.7002253
       longitude: -3.0446015
       cities:
@@ -15313,9 +15707,11 @@
           longitude: -3.05136
     -
       name: "Tower Hamlets"
+      native: "Tower Hamlets"
       code: "TWH"
       iso3166_2: "GB-TWH"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.1288633
       longitude: 1.2986686
       cities:
@@ -15437,9 +15833,11 @@
           longitude: 1.1794
     -
       name: "Trafford"
+      native: "Trafford"
       code: "TRF"
       iso3166_2: "GB-TRF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.418936
       longitude: -2.3592972
       cities:
@@ -15501,9 +15899,11 @@
           longitude: -2.35419
     -
       name: "Vale of Glamorgan"
+      native: "Vale of Glamorgan"
       code: "VGL"
       iso3166_2: "GB-VGL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4470646
       longitude: -3.3988831
       cities:
@@ -15549,9 +15949,11 @@
           longitude: -3.41667
     -
       name: "Wakefield"
+      native: "Wakefield"
       code: "WKF"
       iso3166_2: "GB-WKF"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.6829541
       longitude: -1.4967286
       cities:
@@ -15653,18 +16055,22 @@
           longitude: -1.49768
     -
       name: "Wales"
+      native: "Wales"
       code: "WLS"
       iso3166_2: "GB-WLS"
       type: "country"
+      type_es: "país"
       latitude: 52.2928116
       longitude: -3.73893
       cities:
         []
     -
       name: "Walsall"
+      native: "Walsall"
       code: "WLL"
       iso3166_2: "GB-WLL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.586214
       longitude: -1.982919
       cities:
@@ -15738,9 +16144,11 @@
           longitude: -1.76091
     -
       name: "Waltham Forest"
+      native: "Waltham Forest"
       code: "WFT"
       iso3166_2: "GB-WFT"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.5982633
       longitude: -0.0177388
       cities:
@@ -15758,9 +16166,11 @@
           longitude: 0.02329
     -
       name: "Wandsworth"
+      native: "Wandsworth"
       code: "WND"
       iso3166_2: "GB-WND"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4568274
       longitude: -0.1896638
       cities:
@@ -15770,9 +16180,11 @@
           longitude: -0.1854
     -
       name: "Warrington"
+      native: "Warrington"
       code: "WRT"
       iso3166_2: "GB-WRT"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.3899497
       longitude: -2.5943178
       cities:
@@ -15846,9 +16258,11 @@
           longitude: -2.6
     -
       name: "Warwickshire"
+      native: "Warwickshire"
       code: "WAR"
       iso3166_2: "GB-WAR"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.3213064
       longitude: -1.5536906
       cities:
@@ -15902,9 +16316,11 @@
           longitude: -1.66898
     -
       name: "West Berkshire"
+      native: "West Berkshire"
       code: "WBK"
       iso3166_2: "GB-WBK"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4463134
       longitude: -1.275882
       cities:
@@ -16010,9 +16426,11 @@
           longitude: -1.3466
     -
       name: "West Dunbartonshire"
+      native: "West Dunbartonshire"
       code: "WDU"
       iso3166_2: "GB-WDU"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.966667
       longitude: -4.533333
       cities:
@@ -16074,9 +16492,11 @@
           longitude: -4.53333
     -
       name: "West Lothian"
+      native: "West Lothian"
       code: "WLN"
       iso3166_2: "GB-WLN"
       type: "council area"
+      type_es: "área de consejo"
       latitude: 55.916667
       longitude: -3.5
       cities:
@@ -16214,9 +16634,11 @@
           longitude: -3.46464
     -
       name: "West Northamptonshire"
+      native: "West Northamptonshire"
       code: "WNH"
       iso3166_2: "GB-WNH"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 52.2268977
       longitude: -1.3483191
       cities:
@@ -16302,9 +16724,11 @@
           longitude: -1.08371
     -
       name: "West Sussex"
+      native: "West Sussex"
       code: "WSX"
       iso3166_2: "GB-WSX"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 50.9445845
       longitude: -0.5278477
       cities:
@@ -16446,9 +16870,11 @@
           longitude: -0.613
     -
       name: "Westminster"
+      native: "Westminster"
       code: "WSM"
       iso3166_2: "GB-WSM"
       type: "london borough"
+      type_es: "distrito de Londres"
       latitude: 51.4973206
       longitude: -0.137149
       cities:
@@ -16470,9 +16896,11 @@
           longitude: -0.1551
     -
       name: "Wigan"
+      native: "Wigan"
       code: "WGN"
       iso3166_2: "GB-WGN"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.5457188
       longitude: -2.6264624
       cities:
@@ -16570,9 +16998,11 @@
           longitude: -2.63706
     -
       name: "Wiltshire"
+      native: "Wiltshire"
       code: "WIL"
       iso3166_2: "GB-WIL"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.324162
       longitude: -1.9032487
       cities:
@@ -16718,9 +17148,11 @@
           longitude: -2.04111
     -
       name: "Windsor and Maidenhead"
+      native: "Windsor and Maidenhead"
       code: "WNM"
       iso3166_2: "GB-WNM"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.4803412
       longitude: -0.6769505
       cities:
@@ -16750,9 +17182,11 @@
           longitude: -0.77239
     -
       name: "Wirral"
+      native: "Wirral"
       code: "WRL"
       iso3166_2: "GB-WRL"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 53.3409714
       longitude: -3.0500916
       cities:
@@ -16814,9 +17248,11 @@
           longitude: -2.99732
     -
       name: "Wokingham"
+      native: "Wokingham"
       code: "WOK"
       iso3166_2: "GB-WOK"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 51.410457
       longitude: -0.833861
       cities:
@@ -16866,9 +17302,11 @@
           longitude: -0.82985
     -
       name: "Wolverhampton"
+      native: "Wolverhampton"
       code: "WLV"
       iso3166_2: "GB-WLV"
       type: "metropolitan district"
+      type_es: "distrito metropolitano"
       latitude: 52.5847651
       longitude: -2.127567
       cities:
@@ -16946,9 +17384,11 @@
           longitude: -2.18333
     -
       name: "Worcestershire"
+      native: "Worcestershire"
       code: "WOR"
       iso3166_2: "GB-WOR"
       type: "two-tier county"
+      type_es: "condado de dos niveles"
       latitude: 52.2109495
       longitude: -2.1569555
       cities:
@@ -17082,9 +17522,11 @@
           longitude: -2.11555
     -
       name: "Wrexham"
+      native: "Wrexham"
       code: "WRX"
       iso3166_2: "GB-WRX"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.0465084
       longitude: -2.9937869
       cities:
@@ -17158,9 +17600,11 @@
           longitude: -3
     -
       name: "York"
+      native: "York"
       code: "YOR"
       iso3166_2: "GB-YOR"
       type: "unitary authority"
+      type_es: "autoridad unitaria"
       latitude: 53.9599651
       longitude: -1.0872979
       cities:

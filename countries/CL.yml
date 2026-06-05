@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".cl"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -30
   longitude: -71
   emoji: "🇨🇱"
   states:
     -
       name: "Aisén del General Carlos Ibañez del Campo"
+      native: "Aisén del General Carlos Ibañez del Campo"
       code: "AI"
       iso3166_2: "CL-AI"
       type: "region"
+      type_es: "región"
       latitude: -46.4590147
       longitude: -72.6718386
       cities:
@@ -67,9 +71,11 @@
           longitude: -73.56666667
     -
       name: "Antofagasta"
+      native: "Antofagasta"
       code: "AN"
       iso3166_2: "CL-AN"
       type: "region"
+      type_es: "región"
       latitude: -23.6041314
       longitude: -69.0842783
       cities:
@@ -111,9 +117,11 @@
           longitude: -70.19792
     -
       name: "Arica y Parinacota"
+      native: "Arica y Parinacota"
       code: "AP"
       iso3166_2: "CL-AP"
       type: "region"
+      type_es: "región"
       latitude: -18.5713496
       longitude: -69.7884774
       cities:
@@ -135,9 +143,11 @@
           longitude: -69.5592
     -
       name: "Atacama"
+      native: "Atacama"
       code: "AT"
       iso3166_2: "CL-AT"
       type: "region"
+      type_es: "región"
       latitude: -27.5571783
       longitude: -70.0156882
       cities:
@@ -179,9 +189,11 @@
           longitude: -70.75938
     -
       name: "Biobío"
+      native: "Biobío"
       code: "BI"
       iso3166_2: "CL-BI"
       type: "region"
+      type_es: "región"
       latitude: -37.3391407
       longitude: -72.4106825
       cities:
@@ -319,9 +331,11 @@
           longitude: -72.56084
     -
       name: "Coquimbo"
+      native: "Coquimbo"
       code: "CO"
       iso3166_2: "CL-CO"
       type: "region"
+      type_es: "región"
       latitude: -30.7546652
       longitude: -70.9005536
       cities:
@@ -387,9 +401,11 @@
           longitude: -70.71274
     -
       name: "La Araucanía"
+      native: "La Araucanía"
       code: "AR"
       iso3166_2: "CL-AR"
       type: "region"
+      type_es: "región"
       latitude: -40.9071314
       longitude: -73.157326
       cities:
@@ -523,9 +539,11 @@
           longitude: -72.2279
     -
       name: "Libertador General Bernardo O'Higgins"
+      native: "Liberador General Bernardo O'Higgins"
       code: "LI"
       iso3166_2: "CL-LI"
       type: "region"
+      type_es: "región"
       latitude: -34.534538
       longitude: -71.0354822
       cities:
@@ -663,9 +681,11 @@
           longitude: -71.36576
     -
       name: "Los Lagos"
+      native: "Los Lagos"
       code: "LL"
       iso3166_2: "CL-LL"
       type: "region"
+      type_es: "región"
       latitude: -42.300844
       longitude: -73.105387
       cities:
@@ -791,9 +811,11 @@
           longitude: -73.01666667
     -
       name: "Los Ríos"
+      native: "Los Ríos"
       code: "LR"
       iso3166_2: "CL-LR"
       type: "region"
+      type_es: "región"
       latitude: -39.9742747
       longitude: -72.6677006
       cities:
@@ -847,9 +869,11 @@
           longitude: -73.24589
     -
       name: "Magallanes y de la Antártica Chilena"
+      native: "Magallanes y de la Antártica Chilena"
       code: "MA"
       iso3166_2: "CL-MA"
       type: "region"
+      type_es: "región"
       latitude: -53.3527518
       longitude: -71.5547782
       cities:
@@ -899,9 +923,11 @@
           longitude: -72.35
     -
       name: "Maule"
+      native: "Maule"
       code: "ML"
       iso3166_2: "CL-ML"
       type: "region"
+      type_es: "región"
       latitude: -35.521347
       longitude: -71.6918891
       cities:
@@ -1027,9 +1053,11 @@
           longitude: -71.58333333
     -
       name: "Ñuble"
+      native: "Ñuble"
       code: "NB"
       iso3166_2: "CL-NB"
       type: "region"
+      type_es: "región"
       latitude: -36.6331577
       longitude: -71.9384821
       cities:
@@ -1119,9 +1147,11 @@
           longitude: -72.01666667
     -
       name: "Región Metropolitana de Santiago"
+      native: "Región Metropolitana de Santiago"
       code: "RM"
       iso3166_2: "CL-RM"
       type: "region"
+      type_es: "región"
       latitude: -33.5739341
       longitude: -70.6205518
       cities:
@@ -1151,9 +1181,11 @@
           longitude: -70.92734
     -
       name: "Tarapacá"
+      native: "Tarapacá"
       code: "TA"
       iso3166_2: "CL-TA"
       type: "region"
+      type_es: "región"
       latitude: -20.1636672
       longitude: -69.5463448
       cities:
@@ -1187,9 +1219,11 @@
           longitude: -69.7862
     -
       name: "Valparaíso"
+      native: "Valparaíso"
       code: "VS"
       iso3166_2: "CL-VS"
       type: "region"
+      type_es: "región"
       latitude: -33.047238
       longitude: -71.6126885
       cities:

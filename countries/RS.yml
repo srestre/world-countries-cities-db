@@ -12,16 +12,20 @@
   currency_symbol: "din"
   tld: ".rs"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 44
   longitude: 21
   emoji: "🇷🇸"
   states:
     -
       name: "Belgrade"
+      native: "Београд"
       code: "00"
       iso3166_2: "RS-00"
       type: "city"
+      type_es: "ciudad"
       latitude: 44.8178131
       longitude: 20.4568974
       cities:
@@ -107,9 +111,11 @@
           longitude: 20.16432
     -
       name: "Bor"
+      native: "Бор"
       code: "14"
       iso3166_2: "RS-14"
       type: "district"
+      type_es: "distrito"
       latitude: 44.0698918
       longitude: 22.0985086
       cities:
@@ -135,9 +141,11 @@
           longitude: 22.4516206
     -
       name: "Braničevo"
+      native: "Браничево"
       code: "11"
       iso3166_2: "RS-11"
       type: "district"
+      type_es: "distrito"
       latitude: 44.6982246
       longitude: 21.5446775
       cities:
@@ -187,9 +195,11 @@
           longitude: 21.6931799
     -
       name: "Central Banat"
+      native: "Централни банат"
       code: "02"
       iso3166_2: "RS-02"
       type: "district"
+      type_es: "distrito"
       latitude: 45.4358778
       longitude: 20.5108293
       cities:
@@ -387,9 +397,11 @@
           longitude: 20.38194
     -
       name: "Jablanica"
+      native: "Јабланица"
       code: "23"
       iso3166_2: "RS-23"
       type: "district"
+      type_es: "distrito"
       latitude: 43.4529825
       longitude: 21.2688387
       cities:
@@ -423,9 +435,11 @@
           longitude: 22.0939966
     -
       name: "Kolubara"
+      native: "Колубара"
       code: "09"
       iso3166_2: "RS-09"
       type: "district"
+      type_es: "distrito"
       latitude: 44.358907
       longitude: 20.1421297
       cities:
@@ -463,45 +477,55 @@
           longitude: 19.89821
     -
       name: "Kosovo"
+      native: "Косово"
       code: "25"
       iso3166_2: "RS-25"
       type: "district"
+      type_es: "distrito"
       latitude: 42.66333333
       longitude: 21.16222222
       cities:
         []
     -
       name: "Kosovo-Metohija"
+      native: "Косово и Метохија"
       code: "KM"
       iso3166_2: "RS-KM"
       type: "province"
+      type_es: "provincia"
       latitude: 42.66666667
       longitude: 21.16666667
       cities:
         []
     -
       name: "Kosovo-Pomoravlje"
+      native: "Косовско-Поморавље"
       code: "29"
       iso3166_2: "RS-29"
       type: "district"
+      type_es: "distrito"
       latitude: 42.5333
       longitude: 21.5667
       cities:
         []
     -
       name: "Kosovska Mitrovica"
+      native: "Косовска Митровица"
       code: "28"
       iso3166_2: "RS-28"
       type: "district"
+      type_es: "distrito"
       latitude: 42.88333333
       longitude: 20.86666667
       cities:
         []
     -
       name: "Mačva"
+      native: "Мач"
       code: "08"
       iso3166_2: "RS-08"
       type: "district"
+      type_es: "distrito"
       latitude: 44.5203374
       longitude: 19.5034197
       cities:
@@ -671,9 +695,11 @@
           longitude: 19.4707
     -
       name: "Moravica"
+      native: "Моравица"
       code: "17"
       iso3166_2: "RS-17"
       type: "district"
+      type_es: "distrito"
       latitude: 42.3872682
       longitude: 21.7218213
       cities:
@@ -699,9 +725,11 @@
           longitude: 20.43521
     -
       name: "Nišava"
+      native: "Nišava"
       code: "20"
       iso3166_2: "RS-20"
       type: "district"
+      type_es: "distrito"
       latitude: 43.2178129
       longitude: 22.4795786
       cities:
@@ -739,9 +767,11 @@
           longitude: 21.8047277
     -
       name: "North Bačka"
+      native: "Северна Бачка"
       code: "01"
       iso3166_2: "RS-01"
       type: "district"
+      type_es: "distrito"
       latitude: 45.9011831
       longitude: 19.5834192
       cities:
@@ -763,9 +793,11 @@
           longitude: 19.66667
     -
       name: "North Banat"
+      native: "Северна Банат"
       code: "03"
       iso3166_2: "RS-03"
       type: "district"
+      type_es: "distrito"
       latitude: 45.8887418
       longitude: 20.1902354
       cities:
@@ -859,9 +891,11 @@
           longitude: 20.31791
     -
       name: "Pčinja"
+      native: "Пас"
       code: "24"
       iso3166_2: "RS-24"
       type: "district"
+      type_es: "distrito"
       latitude: 42.3850389
       longitude: 22.0103627
       cities:
@@ -919,18 +953,22 @@
           longitude: 21.70212
     -
       name: "Peć"
+      native: "Пећ"
       code: "26"
       iso3166_2: "RS-26"
       type: "district"
+      type_es: "distrito"
       latitude: 42.66
       longitude: 20.288
       cities:
         []
     -
       name: "Pirot"
+      native: "Пирот"
       code: "22"
       iso3166_2: "RS-22"
       type: "district"
+      type_es: "distrito"
       latitude: 43.1547342
       longitude: 22.5865039
       cities:
@@ -956,9 +994,11 @@
           longitude: 21.734
     -
       name: "Podunavlje"
+      native: "Podunavlje"
       code: "10"
       iso3166_2: "RS-10"
       type: "district"
+      type_es: "distrito"
       latitude: 44.7281091
       longitude: 20.8092213
       cities:
@@ -980,9 +1020,11 @@
           longitude: 20.9703228
     -
       name: "Pomoravlje"
+      native: "Морски"
       code: "13"
       iso3166_2: "RS-13"
       type: "district"
+      type_es: "distrito"
       latitude: 44.0221107
       longitude: 21.4408567
       cities:
@@ -1028,18 +1070,22 @@
           longitude: 21.1580364
     -
       name: "Prizren"
+      native: "Призрен"
       code: "27"
       iso3166_2: "RS-27"
       type: "district"
+      type_es: "distrito"
       latitude: 42.21277778
       longitude: 20.73916667
       cities:
         []
     -
       name: "Rasina"
+      native: "Смола"
       code: "19"
       iso3166_2: "RS-19"
       type: "district"
+      type_es: "distrito"
       latitude: 43.4109278
       longitude: 21.159705
       cities:
@@ -1069,9 +1115,11 @@
           longitude: 21.3409852
     -
       name: "Raška"
+      native: "Распадати"
       code: "18"
       iso3166_2: "RS-18"
       type: "district"
+      type_es: "distrito"
       latitude: 43.2869592
       longitude: 20.6141348
       cities:
@@ -1101,9 +1149,11 @@
           longitude: 20.89634
     -
       name: "South Bačka"
+      native: "Јужна Бачка"
       code: "06"
       iso3166_2: "RS-06"
       type: "district"
+      type_es: "distrito"
       latitude: 45.4491396
       longitude: 19.7680303
       cities:
@@ -1253,9 +1303,11 @@
           longitude: 19.6905
     -
       name: "South Banat"
+      native: "Јужни Банат"
       code: "04"
       iso3166_2: "RS-04"
       type: "district"
+      type_es: "distrito"
       latitude: 44.9947432
       longitude: 20.9388489
       cities:
@@ -1417,9 +1469,11 @@
           longitude: 21.30361
     -
       name: "Srem"
+      native: "Срем"
       code: "07"
       iso3166_2: "RS-07"
       type: "district"
+      type_es: "distrito"
       latitude: 44.9187838
       longitude: 19.9702308
       cities:
@@ -1573,9 +1627,11 @@
           longitude: 19.79227
     -
       name: "Šumadija"
+      native: "Шумадија"
       code: "12"
       iso3166_2: "RS-12"
       type: "district"
+      type_es: "distrito"
       latitude: 44.6178028
       longitude: 20.2771884
       cities:
@@ -1613,9 +1669,11 @@
           longitude: 20.6686305
     -
       name: "Toplica"
+      native: "Топлице"
       code: "21"
       iso3166_2: "RS-21"
       type: "district"
+      type_es: "distrito"
       latitude: 43.2165528
       longitude: 21.4043682
       cities:
@@ -1645,18 +1703,22 @@
           longitude: 21.6164132
     -
       name: "Vojvodina"
+      native: "Vojvodina"
       code: "VO"
       iso3166_2: "RS-VO"
       type: "province"
+      type_es: "provincia"
       latitude: 45.4102776
       longitude: 19.9762992
       cities:
         []
     -
       name: "West Bačka"
+      native: "Вест Бачка"
       code: "05"
       iso3166_2: "RS-05"
       type: "district"
+      type_es: "distrito"
       latitude: 45.7355385
       longitude: 19.1897364
       cities:
@@ -1718,9 +1780,11 @@
           longitude: 19.16709
     -
       name: "Zaječar"
+      native: "Зајечар"
       code: "15"
       iso3166_2: "RS-15"
       type: "district"
+      type_es: "distrito"
       latitude: 43.9015048
       longitude: 22.2738011
       cities:
@@ -1746,9 +1810,11 @@
           longitude: 21.98778
     -
       name: "Zlatibor"
+      native: "Златибор"
       code: "16"
       iso3166_2: "RS-16"
       type: "district"
+      type_es: "distrito"
       latitude: 43.6531807
       longitude: 19.6405865
       cities:

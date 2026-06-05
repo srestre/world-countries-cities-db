@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".ad"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Southern Europe"
+  subregion_es: "Europa del Sur"
   latitude: 42.5
   longitude: 1.5
   emoji: "🇦🇩"
   states:
     -
       name: "Andorra la Vella"
+      native: "Andorra la Vella"
       code: "07"
       iso3166_2: "AD-07"
       type: "parish"
+      type_es: "parroquia"
       latitude: 42.5063174
       longitude: 1.5218355
       cities:
@@ -31,9 +35,11 @@
           longitude: 1.52109
     -
       name: "Canillo"
+      native: "Canillo"
       code: "02"
       iso3166_2: "AD-02"
       type: "parish"
+      type_es: "parroquia"
       latitude: 42.5868092
       longitude: 1.6574431
       cities:
@@ -47,9 +53,11 @@
           longitude: 1.65362
     -
       name: "Encamp"
+      native: "Encamp"
       code: "03"
       iso3166_2: "AD-03"
       type: "parish"
+      type_es: "parroquia"
       latitude: 42.5359764
       longitude: 1.5836773
       cities:
@@ -63,9 +71,11 @@
           longitude: 1.73361
     -
       name: "Escaldes-Engordany"
+      native: "Escaldes-Engordany"
       code: "08"
       iso3166_2: "AD-08"
       type: "parish"
+      type_es: "parroquia"
       latitude: 42.486196
       longitude: 1.6037711
       cities:
@@ -75,9 +85,11 @@
           longitude: 1.53414
     -
       name: "La Massana"
+      native: "La Massana"
       code: "04"
       iso3166_2: "AD-04"
       type: "parish"
+      type_es: "parroquia"
       latitude: 42.545625
       longitude: 1.5147392
       cities:
@@ -91,9 +103,11 @@
           longitude: 1.51483
     -
       name: "Ordino"
+      native: "Ordino"
       code: "05"
       iso3166_2: "AD-05"
       type: "parish"
+      type_es: "parroquia"
       latitude: 42.5994433
       longitude: 1.5402327
       cities:
@@ -103,9 +117,11 @@
           longitude: 1.53319
     -
       name: "Sant Julià de Lòria"
+      native: "Sant Julià de Lòria"
       code: "06"
       iso3166_2: "AD-06"
       type: "parish"
+      type_es: "parroquia"
       latitude: 42.4668541
       longitude: 1.4923277
       cities:

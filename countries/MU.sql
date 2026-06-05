@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(140, 'Mauritius', 'MU', 'MUS', 'Africa', 'Eastern Africa', 'Port Louis', 'MUR', -20.28333333, 57.55, '🇲🇺');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(140, 'Mauritius', 'Mauricio', 'MU', 'MUS', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Port Louis', 'MUR', -20.28333333, 57.55, '🇲🇺');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3248, 'Agalega Islands', 140, 'MU', 'AG', 'dependency', -10.3848578, 56.6123525),
-(3259, 'Black River', 140, 'MU', 'BL', 'district', -20.3264792, 57.4155785),
-(3254, 'Flacq', 140, 'MU', 'FL', 'district', -20.2217312, 57.7223251),
-(3264, 'Grand Port', 140, 'MU', 'GP', 'district', -20.3897284, 57.6160762),
-(3253, 'Moka', 140, 'MU', 'MO', 'district', -20.2521392, 57.5872245),
-(3250, 'Pamplemousses', 140, 'MU', 'PA', 'district', -20.1136008, 57.575926),
-(3263, 'Plaines Wilhems', 140, 'MU', 'PW', 'district', -20.3053896, 57.4959619),
-(3260, 'Port Louis', 140, 'MU', 'PL', 'district', -20.1608912, 57.5012222),
-(3261, 'Rivière du Rempart', 140, 'MU', 'RR', 'district', -20.0669943, 57.65063),
-(3249, 'Rodrigues Island', 140, 'MU', 'RO', 'dependency', -19.7195149, 63.4175938),
-(3251, 'Saint Brandon Islands', 140, 'MU', 'CC', 'dependency', -16.583333, 59.616667),
-(3257, 'Savanne', 140, 'MU', 'SA', 'district', -20.458386, 57.4893297);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3248, 'Agalega Islands', 'Agly Islands', 140, 'MU', 'AG', 'dependency', 'dependencia', -10.3848578, 56.6123525),
+(3259, 'Black River', 'Black River', 140, 'MU', 'BL', 'district', 'distrito', -20.3264792, 57.4155785),
+(3254, 'Flacq', 'Flacq', 140, 'MU', 'FL', 'district', 'distrito', -20.2217312, 57.7223251),
+(3264, 'Grand Port', 'Grand Port', 140, 'MU', 'GP', 'district', 'distrito', -20.3897284, 57.6160762),
+(3253, 'Moka', 'Moka', 140, 'MU', 'MO', 'district', 'distrito', -20.2521392, 57.5872245),
+(3250, 'Pamplemousses', 'Pamplemousses', 140, 'MU', 'PA', 'district', 'distrito', -20.1136008, 57.575926),
+(3263, 'Plaines Wilhems', 'Plaines Wilhems', 140, 'MU', 'PW', 'district', 'distrito', -20.3053896, 57.4959619),
+(3260, 'Port Louis', 'Port Louis', 140, 'MU', 'PL', 'district', 'distrito', -20.1608912, 57.5012222),
+(3261, 'Rivière du Rempart', 'Rampart river', 140, 'MU', 'RR', 'district', 'distrito', -20.0669943, 57.65063),
+(3249, 'Rodrigues Island', 'Rodrigues Island', 140, 'MU', 'RO', 'dependency', 'dependencia', -19.7195149, 63.4175938),
+(3251, 'Saint Brandon Islands', 'Saint Brandon Islands', 140, 'MU', 'CC', 'dependency', 'dependencia', -16.583333, 59.616667),
+(3257, 'Savanne', 'Savanne', 140, 'MU', 'SA', 'district', 'distrito', -20.458386, 57.4893297);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67922, 'Vingt Cinq', 3248, 140, -10.38803, 56.61795),

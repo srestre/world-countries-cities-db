@@ -1,38 +1,38 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(165, 'Norway', 'NO', 'NOR', 'Europe', 'Northern Europe', 'Oslo', 'NOK', 62, 10, '🇳🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(165, 'Norway', 'Noruega', 'NO', 'NOR', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Oslo', 'NOK', 62, 10, '🇳🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1014, 'Agder', 165, 'NO', '42', 'county', 58.7194423, 8.0349635),
-(5448, 'Akershus', 165, 'NO', '32', 'county', 60.0312215, 11.3174619),
-(5449, 'Buskerud', 165, 'NO', '33', 'county', 60.2497876, 8.9627868),
-(1015, 'Finnmark', 165, 'NO', '56', 'county', 69.9697735, 24.7685788),
-(1009, 'Innlandet', 165, 'NO', '34', 'county', 63.1047826, 7.7351793),
-(1026, 'Jan Mayen', 165, 'NO', '22', 'arctic region', 70.9931471, -8.3520659),
-(1020, 'Møre og Romsdal', 165, 'NO', '15', 'county', 62.8452777, 7.5181941),
-(1025, 'Nordland', 165, 'NO', '18', 'county', 67.2756405, 13.8623606),
-(1007, 'Oslo', 165, 'NO', '03', 'county', 59.9138688, 10.7522454),
-(5450, 'Østfold', 165, 'NO', '31', 'county', 59.2669302, 11.2085719),
-(1021, 'Rogaland', 165, 'NO', '11', 'county', 58.9363137, 5.8058786),
-(1013, 'Svalbard', 165, 'NO', '21', 'arctic region', 78.7198519, 20.3493328),
-(1024, 'Telemark', 165, 'NO', '40', 'county', 59.3962676, 8.66266),
-(5451, 'Troms', 165, 'NO', '55', 'county', 69.5311071, 19.5296839),
-(1006, 'Trøndelag', 165, 'NO', '50', 'county', 63.8775924, 10.1950505),
-(5452, 'Vestfold', 165, 'NO', '39', 'county', 59.1954857, 10.2662616),
-(1018, 'Vestland', 165, 'NO', '46', 'county', 60.9291011, 6.1078869);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1014, 'Agder', 'Agder', 165, 'NO', '42', 'county', 'condado', 58.7194423, 8.0349635),
+(5448, 'Akershus', 'Akershus', 165, 'NO', '32', 'county', 'condado', 60.0312215, 11.3174619),
+(5449, 'Buskerud', 'Buskerud', 165, 'NO', '33', 'county', 'condado', 60.2497876, 8.9627868),
+(1015, 'Finnmark', 'Finnmark', 165, 'NO', '56', 'county', 'condado', 69.9697735, 24.7685788),
+(1009, 'Innlandet', 'Innlandet', 165, 'NO', '34', 'county', 'condado', 63.1047826, 7.7351793),
+(1026, 'Jan Mayen', 'Jan Mayen', 165, 'NO', '22', 'arctic region', 'región ártica', 70.9931471, -8.3520659),
+(1020, 'Møre og Romsdal', 'Møre og Romsdal', 165, 'NO', '15', 'county', 'condado', 62.8452777, 7.5181941),
+(1025, 'Nordland', 'Nordland', 165, 'NO', '18', 'county', 'condado', 67.2756405, 13.8623606),
+(1007, 'Oslo', 'Oslo', 165, 'NO', '03', 'county', 'condado', 59.9138688, 10.7522454),
+(5450, 'Østfold', 'Østfold', 165, 'NO', '31', 'county', 'condado', 59.2669302, 11.2085719),
+(1021, 'Rogaland', 'Rogaland', 165, 'NO', '11', 'county', 'condado', 58.9363137, 5.8058786),
+(1013, 'Svalbard', 'Svalbard', 165, 'NO', '21', 'arctic region', 'región ártica', 78.7198519, 20.3493328),
+(1024, 'Telemark', 'Telemark', 165, 'NO', '40', 'county', 'condado', 59.3962676, 8.66266),
+(5451, 'Troms', 'Troms', 165, 'NO', '55', 'county', 'condado', 69.5311071, 19.5296839),
+(1006, 'Trøndelag', 'Trøndelag', 165, 'NO', '50', 'county', 'condado', 63.8775924, 10.1950505),
+(5452, 'Vestfold', 'Vestfold', 165, 'NO', '39', 'county', 'condado', 59.1954857, 10.2662616),
+(1018, 'Vestland', 'Vestland', 165, 'NO', '46', 'county', 'condado', 60.9291011, 6.1078869);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (79688, 'Åseral', 1014, 165, 58.6173, 7.41118),

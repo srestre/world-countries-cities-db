@@ -1,64 +1,64 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(120, 'Latvia', 'LV', 'LVA', 'Europe', 'Northern Europe', 'Riga', 'EUR', 57, 25, '🇱🇻');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(120, 'Latvia', 'Letonia', 'LV', 'LVA', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Riga', 'EUR', 57, 25, '🇱🇻');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4454, 'Ādaži', 120, 'LV', '011', 'municipality', 57.0874671, 24.3195797),
-(4472, 'Aizkraukle', 120, 'LV', '002', 'municipality', 56.6166708, 25.2230643),
-(4487, 'Alūksne', 120, 'LV', '007', 'municipality', 57.4254485, 27.0424968),
-(4492, 'Augšdaugava', 120, 'LV', '111', 'municipality', 55.8561323, 27.0458076),
-(4505, 'Balvi', 120, 'LV', '015', 'municipality', 57.132624, 27.2646685),
-(4465, 'Bauska', 120, 'LV', '016', 'municipality', 56.4101868, 24.2000689),
-(4469, 'Cēsis', 120, 'LV', '022', 'municipality', 57.3102897, 25.2676125),
-(4463, 'Daugavpils', 120, 'LV', 'DGV', 'state city', 55.8712267, 26.5159337),
-(4508, 'Dienvidkurzemes', 120, 'LV', '112', 'municipality', 56.5224575, 21.4595894),
-(4437, 'Dobele', 120, 'LV', '026', 'municipality', 56.626305, 23.2809066),
-(4400, 'Gulbene', 120, 'LV', '033', 'municipality', 57.1759721, 26.7514713),
-(4438, 'Jēkabpils', 120, 'LV', '042', 'municipality', 56.4958638, 25.8687747),
-(4424, 'Jelgava', 120, 'LV', '041', 'municipality', 56.6514394, 23.7339143),
-(4500, 'Jelgava', 120, 'LV', 'JEL', 'state city', 56.6514394, 23.7339143),
-(4446, 'Jūrmala', 120, 'LV', 'JUR', 'state city', 56.9727164, 23.7886979),
-(4435, 'Ķekava', 120, 'LV', '052', 'municipality', 56.8258465, 24.2208128),
-(4474, 'Krāslava', 120, 'LV', '047', 'municipality', 55.895206, 27.1619304),
-(4490, 'Kuldīga', 120, 'LV', '050', 'municipality', 56.9687257, 21.9613739),
-(4460, 'Liepāja', 120, 'LV', 'LPX', 'state city', 56.5046678, 21.010806),
-(4418, 'Limbaži', 120, 'LV', '054', 'municipality', 57.5146586, 24.7131536),
-(4401, 'Līvāni', 120, 'LV', '056', 'municipality', 56.3550942, 26.172519),
-(4501, 'Ludza', 120, 'LV', '058', 'municipality', 56.545959, 27.7143199),
-(4433, 'Madona', 120, 'LV', '059', 'municipality', 56.8517467, 26.2184769),
-(4450, 'Mārupe', 120, 'LV', '062', 'municipality', 56.8965717, 24.0460049),
-(4416, 'Ogre', 120, 'LV', '067', 'municipality', 56.8147355, 24.6044555),
-(4417, 'Olaine', 120, 'LV', '068', 'municipality', 56.7905906, 23.9331981),
-(4483, 'Preiļi', 120, 'LV', '073', 'municipality', 56.2937366, 26.7266734),
-(4509, 'Rēzekne', 120, 'LV', 'REZ', 'state city', 56.506281, 27.3306623),
-(4455, 'Rēzekne', 120, 'LV', '077', 'municipality', 56.506281, 27.3306623),
-(4491, 'Riga', 120, 'LV', 'RIX', 'state city', 56.9496487, 24.1051865),
-(4493, 'Ropaži', 120, 'LV', '080', 'municipality', 56.9713771, 24.6307233),
-(4402, 'Salaspils', 120, 'LV', '087', 'municipality', 56.8608152, 24.3497881),
-(4439, 'Saldus', 120, 'LV', '088', 'municipality', 56.6665088, 22.4935493),
-(4443, 'Saulkrasti', 120, 'LV', '089', 'municipality', 57.2579418, 24.4183146),
-(4476, 'Sigulda', 120, 'LV', '091', 'municipality', 57.1540561, 24.8567141),
-(4462, 'Smiltene', 120, 'LV', '094', 'municipality', 57.4230332, 25.900278),
-(4459, 'Talsi', 120, 'LV', '097', 'municipality', 57.2451926, 22.5903003),
-(4409, 'Tukums', 120, 'LV', '099', 'municipality', 56.9672868, 23.1524379),
-(4425, 'Valka', 120, 'LV', '101', 'municipality', 57.77439, 26.017005),
-(4473, 'Valmiera', 120, 'LV', '113', 'municipality', 57.5384659, 25.4263618),
-(4431, 'Varakļāni', 120, 'LV', '102', 'municipality', 56.6088743, 26.7539093),
-(4421, 'Ventspils', 120, 'LV', 'VEN', 'state city', 57.3903918, 21.5635991),
-(4403, 'Ventspils', 120, 'LV', '106', 'municipality', 57.3903918, 21.5635991);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4454, 'Ādaži', 'Ādaži', 120, 'LV', '011', 'municipality', 'municipio', 57.0874671, 24.3195797),
+(4472, 'Aizkraukle', 'Aizkraukle', 120, 'LV', '002', 'municipality', 'municipio', 56.6166708, 25.2230643),
+(4487, 'Alūksne', 'Alūksne', 120, 'LV', '007', 'municipality', 'municipio', 57.4254485, 27.0424968),
+(4492, 'Augšdaugava', 'Augšdaugava', 120, 'LV', '111', 'municipality', 'municipio', 55.8561323, 27.0458076),
+(4505, 'Balvi', 'Balvi', 120, 'LV', '015', 'municipality', 'municipio', 57.132624, 27.2646685),
+(4465, 'Bauska', 'Bauska', 120, 'LV', '016', 'municipality', 'municipio', 56.4101868, 24.2000689),
+(4469, 'Cēsis', 'Cēsis', 120, 'LV', '022', 'municipality', 'municipio', 57.3102897, 25.2676125),
+(4463, 'Daugavpils', 'Daugavpils', 120, 'LV', 'DGV', 'state city', 'ciudad-estado', 55.8712267, 26.5159337),
+(4508, 'Dienvidkurzemes', 'Dienvidkurzemes', 120, 'LV', '112', 'municipality', 'municipio', 56.5224575, 21.4595894),
+(4437, 'Dobele', 'Dobele', 120, 'LV', '026', 'municipality', 'municipio', 56.626305, 23.2809066),
+(4400, 'Gulbene', 'Gulbene', 120, 'LV', '033', 'municipality', 'municipio', 57.1759721, 26.7514713),
+(4438, 'Jēkabpils', 'Jēkabpils', 120, 'LV', '042', 'municipality', 'municipio', 56.4958638, 25.8687747),
+(4424, 'Jelgava', 'Jelgava', 120, 'LV', '041', 'municipality', 'municipio', 56.6514394, 23.7339143),
+(4500, 'Jelgava', 'Jelgava', 120, 'LV', 'JEL', 'state city', 'ciudad-estado', 56.6514394, 23.7339143),
+(4446, 'Jūrmala', 'Jūrmala', 120, 'LV', 'JUR', 'state city', 'ciudad-estado', 56.9727164, 23.7886979),
+(4435, 'Ķekava', 'Ķekava', 120, 'LV', '052', 'municipality', 'municipio', 56.8258465, 24.2208128),
+(4474, 'Krāslava', 'Krāslava', 120, 'LV', '047', 'municipality', 'municipio', 55.895206, 27.1619304),
+(4490, 'Kuldīga', 'Kuldīga', 120, 'LV', '050', 'municipality', 'municipio', 56.9687257, 21.9613739),
+(4460, 'Liepāja', 'Liepāja', 120, 'LV', 'LPX', 'state city', 'ciudad-estado', 56.5046678, 21.010806),
+(4418, 'Limbaži', 'Limbaži', 120, 'LV', '054', 'municipality', 'municipio', 57.5146586, 24.7131536),
+(4401, 'Līvāni', 'Līvāni', 120, 'LV', '056', 'municipality', 'municipio', 56.3550942, 26.172519),
+(4501, 'Ludza', 'Ludza', 120, 'LV', '058', 'municipality', 'municipio', 56.545959, 27.7143199),
+(4433, 'Madona', 'Madona', 120, 'LV', '059', 'municipality', 'municipio', 56.8517467, 26.2184769),
+(4450, 'Mārupe', 'Mārupe', 120, 'LV', '062', 'municipality', 'municipio', 56.8965717, 24.0460049),
+(4416, 'Ogre', 'Ogre', 120, 'LV', '067', 'municipality', 'municipio', 56.8147355, 24.6044555),
+(4417, 'Olaine', 'Olaine', 120, 'LV', '068', 'municipality', 'municipio', 56.7905906, 23.9331981),
+(4483, 'Preiļi', 'Preiļi', 120, 'LV', '073', 'municipality', 'municipio', 56.2937366, 26.7266734),
+(4509, 'Rēzekne', 'Rēzekne', 120, 'LV', 'REZ', 'state city', 'ciudad-estado', 56.506281, 27.3306623),
+(4455, 'Rēzekne', 'Rēzekne', 120, 'LV', '077', 'municipality', 'municipio', 56.506281, 27.3306623),
+(4491, 'Riga', 'Riga', 120, 'LV', 'RIX', 'state city', 'ciudad-estado', 56.9496487, 24.1051865),
+(4493, 'Ropaži', 'Ropaži', 120, 'LV', '080', 'municipality', 'municipio', 56.9713771, 24.6307233),
+(4402, 'Salaspils', 'Salaspils', 120, 'LV', '087', 'municipality', 'municipio', 56.8608152, 24.3497881),
+(4439, 'Saldus', 'Mīļš', 120, 'LV', '088', 'municipality', 'municipio', 56.6665088, 22.4935493),
+(4443, 'Saulkrasti', 'Saulkrasti', 120, 'LV', '089', 'municipality', 'municipio', 57.2579418, 24.4183146),
+(4476, 'Sigulda', 'Sigulda', 120, 'LV', '091', 'municipality', 'municipio', 57.1540561, 24.8567141),
+(4462, 'Smiltene', 'Smiltene', 120, 'LV', '094', 'municipality', 'municipio', 57.4230332, 25.900278),
+(4459, 'Talsi', 'Talsi', 120, 'LV', '097', 'municipality', 'municipio', 57.2451926, 22.5903003),
+(4409, 'Tukums', 'Tukums', 120, 'LV', '099', 'municipality', 'municipio', 56.9672868, 23.1524379),
+(4425, 'Valka', 'Valka', 120, 'LV', '101', 'municipality', 'municipio', 57.77439, 26.017005),
+(4473, 'Valmiera', 'Valmiera', 120, 'LV', '113', 'municipality', 'municipio', 57.5384659, 25.4263618),
+(4431, 'Varakļāni', 'Varakļāni', 120, 'LV', '102', 'municipality', 'municipio', 56.6088743, 26.7539093),
+(4421, 'Ventspils', 'Ventspils', 120, 'LV', 'VEN', 'state city', 'ciudad-estado', 57.3903918, 21.5635991),
+(4403, 'Ventspils', 'Ventspils', 120, 'LV', '106', 'municipality', 'municipio', 57.3903918, 21.5635991);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (66885, 'Carnikava', 4454, 120, 57.12935, 24.28423),

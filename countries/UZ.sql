@@ -1,35 +1,35 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(236, 'Uzbekistan', 'UZ', 'UZB', 'Asia', 'Central Asia', 'Tashkent', 'UZS', 41, 64, '🇺🇿');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(236, 'Uzbekistan', 'Uzbekistán', 'UZ', 'UZB', 'Asia', 'Asia', 'Central Asia', 'Asia Central', 'Tashkent', 'UZS', 41, 64, '🇺🇿');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2540, 'Andijan', 236, 'UZ', 'AN', 'region', 40.7727796, 72.341966),
-(2541, 'Bukhara', 236, 'UZ', 'BU', 'region', 40.229366, 63.5470584),
-(2538, 'Fergana', 236, 'UZ', 'FA', 'region', 40.5, 71.25),
-(2545, 'Jizzakh', 236, 'UZ', 'JI', 'region', 40.3319095, 67.4551198),
-(2548, 'Karakalpakstan', 236, 'UZ', 'QR', 'republic', 43.7738841, 57.6234617),
-(2537, 'Namangan', 236, 'UZ', 'NG', 'region', 40.9555061, 71.1097749),
-(2542, 'Navoiy', 236, 'UZ', 'NW', 'region', 42, 64),
-(2543, 'Qashqadaryo', 236, 'UZ', 'QA', 'region', 39.0424974, 66.5775276),
-(2544, 'Samarqand', 236, 'UZ', 'SA', 'region', 39.6550017, 66.9756954),
-(2547, 'Sirdaryo', 236, 'UZ', 'SI', 'region', 40.8029326, 68.8242841),
-(2546, 'Surxondaryo', 236, 'UZ', 'SU', 'region', 37.9520843, 67.1265996),
-(2536, 'Tashkent', 236, 'UZ', 'TK', 'city', 41.3123363, 69.2787079),
-(2549, 'Tashkent', 236, 'UZ', 'TO', 'region', 41.3123363, 69.2787079),
-(2539, 'Xorazm', 236, 'UZ', 'XO', 'region', 41.2902835, 60.5428537);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2540, 'Andijan', 'Andijan', 236, 'UZ', 'AN', 'region', 'región', 40.7727796, 72.341966),
+(2541, 'Bukhara', 'Buxoro', 236, 'UZ', 'BU', 'region', 'región', 40.229366, 63.5470584),
+(2538, 'Fergana', 'Farg''ona', 236, 'UZ', 'FA', 'region', 'región', 40.5, 71.25),
+(2545, 'Jizzakh', 'Jizzakh', 236, 'UZ', 'JI', 'region', 'región', 40.3319095, 67.4551198),
+(2548, 'Karakalpakstan', 'Qoraqalpog''iston', 236, 'UZ', 'QR', 'republic', 'república', 43.7738841, 57.6234617),
+(2537, 'Namangan', 'Namangan', 236, 'UZ', 'NG', 'region', 'región', 40.9555061, 71.1097749),
+(2542, 'Navoiy', 'Navoiy', 236, 'UZ', 'NW', 'region', 'región', 42, 64),
+(2543, 'Qashqadaryo', 'Qashqadaryo', 236, 'UZ', 'QA', 'region', 'región', 39.0424974, 66.5775276),
+(2544, 'Samarqand', 'Samarqand', 236, 'UZ', 'SA', 'region', 'región', 39.6550017, 66.9756954),
+(2547, 'Sirdaryo', 'Sirdaryo', 236, 'UZ', 'SI', 'region', 'región', 40.8029326, 68.8242841),
+(2546, 'Surxondaryo', 'Surxondaryo', 236, 'UZ', 'SU', 'region', 'región', 37.9520843, 67.1265996),
+(2536, 'Tashkent', 'Tashkent', 236, 'UZ', 'TK', 'city', 'ciudad', 41.3123363, 69.2787079),
+(2549, 'Tashkent', 'Toshkent', 236, 'UZ', 'TO', 'region', 'región', 41.3123363, 69.2787079),
+(2539, 'Xorazm', 'Xorazm', 236, 'UZ', 'XO', 'region', 'región', 41.2902835, 60.5428537);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (129894, 'Andijon', 2540, 236, 40.78206, 72.34424),

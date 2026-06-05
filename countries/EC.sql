@@ -1,45 +1,45 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(64, 'Ecuador', 'EC', 'ECU', 'Americas', 'South America', 'Quito', 'USD', -2, -77.5, '🇪🇨');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(64, 'Ecuador', 'Ecuador', 'EC', 'ECU', 'Americas', 'América', 'South America', 'Sudamérica', 'Quito', 'USD', -2, -77.5, '🇪🇨');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2923, 'Azuay', 64, 'EC', 'A', 'province', -3.0524451, -79.2395135),
-(2920, 'Bolívar', 64, 'EC', 'B', 'province', -1.5392733, -79.0816505),
-(2917, 'Cañar', 64, 'EC', 'F', 'province', -2.574484, -78.9804678),
-(2915, 'Carchi', 64, 'EC', 'C', 'province', 0.8375163, -78.2075154),
-(2925, 'Chimborazo', 64, 'EC', 'H', 'province', -1.4680988, -78.8155589),
-(2921, 'Cotopaxi', 64, 'EC', 'X', 'province', -0.8268521, -78.8937757),
-(2924, 'El Oro', 64, 'EC', 'O', 'province', -3.5311093, -79.8333234),
-(2922, 'Esmeraldas', 64, 'EC', 'E', 'province', 0.9681789, -79.6517202),
-(2905, 'Galápagos', 64, 'EC', 'W', 'province', -0.0606899, -90.673898),
-(2914, 'Guayas', 64, 'EC', 'G', 'province', -2, -80),
-(2911, 'Imbabura', 64, 'EC', 'I', 'province', 0.2542902, -78.1803913),
-(5068, 'Loja', 64, 'EC', 'L', 'province', -3.99313, -79.20422),
-(2910, 'Los Ríos', 64, 'EC', 'R', 'province', -1.4941273, -79.5542485),
-(2913, 'Manabí', 64, 'EC', 'M', 'province', -0.7588025, -80.0612131),
-(2918, 'Morona-Santiago', 64, 'EC', 'S', 'province', -2.6232969, -78.0048106),
-(2916, 'Napo', 64, 'EC', 'N', 'province', -0.6081965, -77.9520341),
-(2926, 'Orellana', 64, 'EC', 'D', 'province', -0.78618, -76.4803184),
-(2907, 'Pastaza', 64, 'EC', 'Y', 'province', -1.916667, -77),
-(2927, 'Pichincha', 64, 'EC', 'P', 'province', -0.0584893, -78.3284371),
-(2912, 'Santa Elena', 64, 'EC', 'SE', 'province', -2.2267105, -80.859499),
-(2919, 'Santo Domingo de los Tsáchilas', 64, 'EC', 'SD', 'province', -0.2546212, -79.1686724),
-(2906, 'Sucumbíos', 64, 'EC', 'U', 'province', -0.039138, -76.5119678),
-(2908, 'Tungurahua', 64, 'EC', 'T', 'province', -1.2765895, -78.4754667),
-(2909, 'Zamora Chinchipe', 64, 'EC', 'Z', 'province', -4.0620183, -78.7751588);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2923, 'Azuay', 'Azuay', 64, 'EC', 'A', 'province', 'provincia', -3.0524451, -79.2395135),
+(2920, 'Bolívar', 'Bolívar', 64, 'EC', 'B', 'province', 'provincia', -1.5392733, -79.0816505),
+(2917, 'Cañar', 'Cañar', 64, 'EC', 'F', 'province', 'provincia', -2.574484, -78.9804678),
+(2915, 'Carchi', 'Carchi', 64, 'EC', 'C', 'province', 'provincia', 0.8375163, -78.2075154),
+(2925, 'Chimborazo', 'Chimborazo', 64, 'EC', 'H', 'province', 'provincia', -1.4680988, -78.8155589),
+(2921, 'Cotopaxi', 'Cotopaxi', 64, 'EC', 'X', 'province', 'provincia', -0.8268521, -78.8937757),
+(2924, 'El Oro', 'El Oro', 64, 'EC', 'O', 'province', 'provincia', -3.5311093, -79.8333234),
+(2922, 'Esmeraldas', 'Esmeraldas', 64, 'EC', 'E', 'province', 'provincia', 0.9681789, -79.6517202),
+(2905, 'Galápagos', 'Galápagos', 64, 'EC', 'W', 'province', 'provincia', -0.0606899, -90.673898),
+(2914, 'Guayas', 'Guayas', 64, 'EC', 'G', 'province', 'provincia', -2, -80),
+(2911, 'Imbabura', 'Imbabura', 64, 'EC', 'I', 'province', 'provincia', 0.2542902, -78.1803913),
+(5068, 'Loja', 'Almacenar', 64, 'EC', 'L', 'province', 'provincia', -3.99313, -79.20422),
+(2910, 'Los Ríos', 'Los Ríos', 64, 'EC', 'R', 'province', 'provincia', -1.4941273, -79.5542485),
+(2913, 'Manabí', 'Manabí', 64, 'EC', 'M', 'province', 'provincia', -0.7588025, -80.0612131),
+(2918, 'Morona-Santiago', 'Morona-Santiago', 64, 'EC', 'S', 'province', 'provincia', -2.6232969, -78.0048106),
+(2916, 'Napo', 'NAPO', 64, 'EC', 'N', 'province', 'provincia', -0.6081965, -77.9520341),
+(2926, 'Orellana', 'Orellana', 64, 'EC', 'D', 'province', 'provincia', -0.78618, -76.4803184),
+(2907, 'Pastaza', 'Pastaza', 64, 'EC', 'Y', 'province', 'provincia', -1.916667, -77),
+(2927, 'Pichincha', 'Pichincha', 64, 'EC', 'P', 'province', 'provincia', -0.0584893, -78.3284371),
+(2912, 'Santa Elena', 'Santa Elena', 64, 'EC', 'SE', 'province', 'provincia', -2.2267105, -80.859499),
+(2919, 'Santo Domingo de los Tsáchilas', 'Santo Domingo de los Tsáchilas', 64, 'EC', 'SD', 'province', 'provincia', -0.2546212, -79.1686724),
+(2906, 'Sucumbíos', 'Sucumbíos', 64, 'EC', 'U', 'province', 'provincia', -0.039138, -76.5119678),
+(2908, 'Tungurahua', 'Tungurahua', 64, 'EC', 'T', 'province', 'provincia', -1.2765895, -78.4754667),
+(2909, 'Zamora Chinchipe', 'Zamora Chinchipe', 64, 'EC', 'Z', 'province', 'provincia', -4.0620183, -78.7751588);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (31493, 'Cantón San Fernando', 2923, 64, -3.13349, -79.26893),

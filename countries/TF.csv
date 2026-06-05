@@ -1,6 +1,6 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-TF,French Southern Territories,Africa,Southern Africa,01,Adélie Land,Dumont d'Urville Station,-66.66277778,140.00111111
-TF,French Southern Territories,Africa,Southern Africa,02,Crozet Islands,Alfred Faure,-46.4325,51.85763889
-TF,French Southern Territories,Africa,Southern Africa,03,Kerguelen Islands,Port-aux-Français,-49.35,70.21888889
-TF,French Southern Territories,Africa,Southern Africa,04,Saint-Paul and Amsterdam Islands,Martin-de-Viviès,-37.79555556,77.57333333
-TF,French Southern Territories,Africa,Southern Africa,05,Scattered Islands,Tromelin,-15.89222222,54.52083333
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+TF,French Southern Territories,Tierras Australes y Antárticas Francesas,Africa,África,Southern Africa,África Austral,01,Adélie Land,district,distrito,Dumont d'Urville Station,-66.66277778,140.00111111
+TF,French Southern Territories,Tierras Australes y Antárticas Francesas,Africa,África,Southern Africa,África Austral,02,Crozet Islands,district,distrito,Alfred Faure,-46.4325,51.85763889
+TF,French Southern Territories,Tierras Australes y Antárticas Francesas,Africa,África,Southern Africa,África Austral,03,Kerguelen Islands,district,distrito,Port-aux-Français,-49.35,70.21888889
+TF,French Southern Territories,Tierras Australes y Antárticas Francesas,Africa,África,Southern Africa,África Austral,04,Saint-Paul and Amsterdam Islands,district,distrito,Martin-de-Viviès,-37.79555556,77.57333333
+TF,French Southern Territories,Tierras Australes y Antárticas Francesas,Africa,África,Southern Africa,África Austral,05,Scattered Islands,district,distrito,Tromelin,-15.89222222,54.52083333

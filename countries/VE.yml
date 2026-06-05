@@ -12,16 +12,20 @@
   currency_symbol: "Bs"
   tld: ".ve"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: 8
   longitude: -66
   emoji: "🇻🇪"
   states:
     -
       name: "Amazonas"
+      native: "Amazonas"
       code: "Z"
       iso3166_2: "VE-Z"
       type: "state"
+      type_es: "estado"
       latitude: 3.422575
       longitude: -65.723231
       cities:
@@ -51,9 +55,11 @@
           longitude: -66.05402
     -
       name: "Anzoátegui"
+      native: "Anzoátegui"
       code: "B"
       iso3166_2: "VE-B"
       type: "state"
+      type_es: "estado"
       latitude: 9.0197925
       longitude: -64.2168001
       cities:
@@ -99,9 +105,11 @@
           longitude: -64.16512
     -
       name: "Apure"
+      native: "Apure"
       code: "C"
       iso3166_2: "VE-C"
       type: "state"
+      type_es: "estado"
       latitude: 7.0735781
       longitude: -68.8202025
       cities:
@@ -111,9 +119,11 @@
           longitude: -67.4819328
     -
       name: "Aragua"
+      native: "Aragua"
       code: "D"
       iso3166_2: "VE-D"
       type: "state"
+      type_es: "estado"
       latitude: 9.9897564
       longitude: -67.0839257
       cities:
@@ -159,9 +169,11 @@
           longitude: -67.48938
     -
       name: "Barinas"
+      native: "Barinas"
       code: "E"
       iso3166_2: "VE-E"
       type: "state"
+      type_es: "estado"
       latitude: 8.6182737
       longitude: -70.2274065
       cities:
@@ -183,9 +195,11 @@
           longitude: -70.19852
     -
       name: "Bolívar"
+      native: "Bolívar"
       code: "F"
       iso3166_2: "VE-F"
       type: "state"
+      type_es: "estado"
       latitude: 8.0018709
       longitude: -66.1109318
       cities:
@@ -211,9 +225,11 @@
           longitude: -62.40561
     -
       name: "Carabobo"
+      native: "Carabobo"
       code: "G"
       iso3166_2: "VE-G"
       type: "state"
+      type_es: "estado"
       latitude: 10.2137258
       longitude: -68.0396345
       cities:
@@ -259,9 +275,11 @@
           longitude: -68.00765
     -
       name: "Cojedes"
+      native: "Cojedes"
       code: "H"
       iso3166_2: "VE-H"
       type: "state"
+      type_es: "estado"
       latitude: 9.3094457
       longitude: -68.3590546
       cities:
@@ -275,9 +293,11 @@
           longitude: -68.30472
     -
       name: "Delta Amacuro"
+      native: "Delta Amacuro"
       code: "Y"
       iso3166_2: "VE-Y"
       type: "state"
+      type_es: "estado"
       latitude: 8.9414599
       longitude: -61.3403273
       cities:
@@ -287,9 +307,11 @@
           longitude: -62.05
     -
       name: "Distrito Capital"
+      native: "Distrito Capital"
       code: "A"
       iso3166_2: "VE-A"
       type: "capital district"
+      type_es: "distrito capital"
       latitude: 10.4749543
       longitude: -66.9708041
       cities:
@@ -299,9 +321,11 @@
           longitude: -66.93333333
     -
       name: "Falcón"
+      native: "Falcón"
       code: "I"
       iso3166_2: "VE-I"
       type: "state"
+      type_es: "estado"
       latitude: 11.273946
       longitude: -69.5834205
       cities:
@@ -335,9 +359,11 @@
           longitude: -68.32564
     -
       name: "Guárico"
+      native: "Guárico"
       code: "J"
       iso3166_2: "VE-J"
       type: "state"
+      type_es: "estado"
       latitude: 8.8378585
       longitude: -66.3821
       cities:
@@ -363,9 +389,11 @@
           longitude: -65.32452
     -
       name: "La Guaira"
+      native: "La Guaira"
       code: "X"
       iso3166_2: "VE-X"
       type: "state"
+      type_es: "estado"
       latitude: 10.6000384
       longitude: -66.9296405
       cities:
@@ -387,9 +415,11 @@
           longitude: -66.95624
     -
       name: "Lara"
+      native: "Lara"
       code: "K"
       iso3166_2: "VE-K"
       type: "state"
+      type_es: "estado"
       latitude: 10.0714266
       longitude: -70.0163241
       cities:
@@ -419,9 +449,11 @@
           longitude: -69.6201
     -
       name: "Mérida"
+      native: "Mérida"
       code: "L"
       iso3166_2: "VE-L"
       type: "state"
+      type_es: "estado"
       latitude: 8.4911705
       longitude: -71.3043439
       cities:
@@ -447,9 +479,11 @@
           longitude: -71.11667
     -
       name: "Miranda"
+      native: "Miranda"
       code: "M"
       iso3166_2: "VE-M"
       type: "state"
+      type_es: "estado"
       latitude: 10.323351
       longitude: -66.4842121
       cities:
@@ -527,9 +561,11 @@
           longitude: -66.66474
     -
       name: "Monagas"
+      native: "Monagas"
       code: "N"
       iso3166_2: "VE-N"
       type: "state"
+      type_es: "estado"
       latitude: 9.3437846
       longitude: -63.1589318
       cities:
@@ -551,9 +587,11 @@
           longitude: -62.35164
     -
       name: "Nueva Esparta"
+      native: "Nueva Esparta"
       code: "O"
       iso3166_2: "VE-O"
       type: "state"
+      type_es: "estado"
       latitude: 10.9645415
       longitude: -64.0975447
       cities:
@@ -571,9 +609,11 @@
           longitude: -63.86971
     -
       name: "Portuguesa"
+      native: "portugués"
       code: "P"
       iso3166_2: "VE-P"
       type: "state"
+      type_es: "estado"
       latitude: 8.9674808
       longitude: -69.3915205
       cities:
@@ -595,9 +635,11 @@
           longitude: -69.11968
     -
       name: "Sucre"
+      native: "Sucre"
       code: "R"
       iso3166_2: "VE-R"
       type: "state"
+      type_es: "estado"
       latitude: 10.429015
       longitude: -63.5649999
       cities:
@@ -619,9 +661,11 @@
           longitude: -62.30029
     -
       name: "Táchira"
+      native: "Táchira"
       code: "S"
       iso3166_2: "VE-S"
       type: "state"
+      type_es: "estado"
       latitude: 8.0219748
       longitude: -72.0205763
       cities:
@@ -659,9 +703,11 @@
           longitude: -72.22427
     -
       name: "Trujillo"
+      native: "Trujillo"
       code: "T"
       iso3166_2: "VE-T"
       type: "state"
+      type_es: "estado"
       latitude: 9.4958129
       longitude: -70.7688907
       cities:
@@ -687,18 +733,22 @@
           longitude: -70.60361
     -
       name: "Venezuela"
+      native: "Venezuela"
       code: "W"
       iso3166_2: "VE-W"
       type: "federal dependency"
+      type_es: "dependencia federal"
       latitude: 8.0018709
       longitude: -66.1109318
       cities:
         []
     -
       name: "Yaracuy"
+      native: "Yaracuy"
       code: "U"
       iso3166_2: "VE-U"
       type: "state"
+      type_es: "estado"
       latitude: 10.3040312
       longitude: -68.7014018
       cities:
@@ -724,9 +774,11 @@
           longitude: -69.1242
     -
       name: "Zulia"
+      native: "Zulia"
       code: "V"
       iso3166_2: "VE-V"
       type: "state"
+      type_es: "estado"
       latitude: 10.1065099
       longitude: -71.8641307
       cities:

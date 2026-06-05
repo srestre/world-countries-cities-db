@@ -12,16 +12,20 @@
   currency_symbol: "₦"
   tld: ".ng"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 10
   longitude: 8
   emoji: "🇳🇬"
   states:
     -
       name: "Abia"
+      native: "Abia"
       code: "AB"
       iso3166_2: "NG-AB"
       type: "state"
+      type_es: "estado"
       latitude: 5.4540953
       longitude: 7.5153071
       cities:
@@ -51,9 +55,11 @@
           longitude: 7.49461
     -
       name: "Abuja Federal Capital Territory"
+      native: "Abuja Federal Capital Territory"
       code: "FC"
       iso3166_2: "NG-FC"
       type: "capital territory"
+      type_es: "territorio capital"
       latitude: 8.8311228
       longitude: 7.1724673
       cities:
@@ -127,9 +133,11 @@
           longitude: 7.1952
     -
       name: "Adamawa"
+      native: "Adamawa"
       code: "AD"
       iso3166_2: "NG-AD"
       type: "state"
+      type_es: "estado"
       latitude: 9.5129772
       longitude: 12.3881887
       cities:
@@ -179,9 +187,11 @@
           longitude: 12.48146
     -
       name: "Akwa Ibom"
+      native: "Immoral"
       code: "AK"
       iso3166_2: "NG-AK"
       type: "state"
+      type_es: "estado"
       latitude: 4.9906379
       longitude: 7.7966205
       cities:
@@ -315,9 +325,11 @@
           longitude: 7.9335
     -
       name: "Anambra"
+      native: "Anambra"
       code: "AN"
       iso3166_2: "NG-AN"
       type: "state"
+      type_es: "estado"
       latitude: 6.2183136
       longitude: 6.9531842
       cities:
@@ -371,9 +383,11 @@
           longitude: 6.84312
     -
       name: "Bauchi"
+      native: "Bauchi"
       code: "BA"
       iso3166_2: "NG-BA"
       type: "state"
+      type_es: "estado"
       latitude: 10.6228284
       longitude: 10.0287754
       cities:
@@ -459,9 +473,11 @@
           longitude: 10.17647
     -
       name: "Bayelsa"
+      native: "Bayelsa"
       code: "BY"
       iso3166_2: "NG-BY"
       type: "state"
+      type_es: "estado"
       latitude: 4.7629786
       longitude: 6.028898
       cities:
@@ -479,9 +495,11 @@
           longitude: 6.26764
     -
       name: "Benue"
+      native: "Benue"
       code: "BE"
       iso3166_2: "NG-BE"
       type: "state"
+      type_es: "estado"
       latitude: 7.3505747
       longitude: 8.7772877
       cities:
@@ -531,9 +549,11 @@
           longitude: 9.6104
     -
       name: "Borno"
+      native: "Borno"
       code: "BO"
       iso3166_2: "NG-BO"
       type: "state"
+      type_es: "estado"
       latitude: 12.1875392
       longitude: 13.3080034
       cities:
@@ -627,9 +647,11 @@
           longitude: 12.71992
     -
       name: "Cross River"
+      native: "Cross River"
       code: "CR"
       iso3166_2: "NG-CR"
       type: "state"
+      type_es: "estado"
       latitude: 5.8671966
       longitude: 8.5204774
       cities:
@@ -655,9 +677,11 @@
           longitude: 8.08098
     -
       name: "Delta"
+      native: "Delta"
       code: "DE"
       iso3166_2: "NG-DE"
       type: "state"
+      type_es: "estado"
       latitude: 5.5273061
       longitude: 6.1784167
       cities:
@@ -719,9 +743,11 @@
           longitude: 5.75006
     -
       name: "Ebonyi"
+      native: "Ebonyi"
       code: "EB"
       iso3166_2: "NG-EB"
       type: "state"
+      type_es: "estado"
       latitude: 6.1996918
       longitude: 8.0348906
       cities:
@@ -747,9 +773,11 @@
           longitude: 8.03736
     -
       name: "Edo"
+      native: "Or"
       code: "ED"
       iso3166_2: "NG-ED"
       type: "state"
+      type_es: "estado"
       latitude: 6.6076575
       longitude: 5.9722713
       cities:
@@ -791,9 +819,11 @@
           longitude: 6.33333
     -
       name: "Ekiti"
+      native: "Ekiti"
       code: "EK"
       iso3166_2: "NG-EK"
       type: "state"
+      type_es: "estado"
       latitude: 7.736891
       longitude: 5.2738326
       cities:
@@ -859,9 +889,11 @@
           longitude: 5.32854717
     -
       name: "Enugu"
+      native: "Enugu"
       code: "EN"
       iso3166_2: "NG-EN"
       type: "state"
+      type_es: "estado"
       latitude: 6.5536094
       longitude: 7.4143061
       cities:
@@ -927,9 +959,11 @@
           longitude: 7.42086
     -
       name: "Gombe"
+      native: "Gombe"
       code: "GO"
       iso3166_2: "NG-GO"
       type: "state"
+      type_es: "estado"
       latitude: 10.4304018
       longitude: 11.2065408
       cities:
@@ -991,9 +1025,11 @@
           longitude: 10.95229
     -
       name: "Imo"
+      native: "Imo"
       code: "IM"
       iso3166_2: "NG-IM"
       type: "state"
+      type_es: "estado"
       latitude: 5.5859456
       longitude: 7.0669651
       cities:
@@ -1023,9 +1059,11 @@
           longitude: 7.03325
     -
       name: "Jigawa"
+      native: "Jigawa"
       code: "JI"
       iso3166_2: "NG-JI"
       type: "state"
+      type_es: "estado"
       latitude: 12.3252362
       longitude: 9.5103296
       cities:
@@ -1083,9 +1121,11 @@
           longitude: 9.63989
     -
       name: "Kaduna"
+      native: "Kaduna"
       code: "KD"
       iso3166_2: "NG-KD"
       type: "state"
+      type_es: "estado"
       latitude: 10.3825318
       longitude: 7.8533226
       cities:
@@ -1155,9 +1195,11 @@
           longitude: 7.7227
     -
       name: "Kano"
+      native: "Kano"
       code: "KN"
       iso3166_2: "NG-KN"
       type: "state"
+      type_es: "estado"
       latitude: 11.8948389
       longitude: 8.5364136
       cities:
@@ -1175,9 +1217,11 @@
           longitude: 8.51672
     -
       name: "Katsina"
+      native: "Katsina"
       code: "KT"
       iso3166_2: "NG-KT"
       type: "state"
+      type_es: "estado"
       latitude: 12.5630825
       longitude: 7.6207063
       cities:
@@ -1239,9 +1283,11 @@
           longitude: 7.19579
     -
       name: "Kebbi"
+      native: "Kebbi"
       code: "KE"
       iso3166_2: "NG-KE"
       type: "state"
+      type_es: "estado"
       latitude: 11.4167574
       longitude: 4.1074545
       cities:
@@ -1319,9 +1365,11 @@
           longitude: 5.23494
     -
       name: "Kogi"
+      native: "Kogi"
       code: "KO"
       iso3166_2: "NG-KO"
       type: "state"
+      type_es: "estado"
       latitude: 7.7949602
       longitude: 6.6868669
       cities:
@@ -1387,9 +1435,11 @@
           longitude: 6.23589
     -
       name: "Kwara"
+      native: "Kwara"
       code: "KW"
       iso3166_2: "NG-KW"
       type: "state"
+      type_es: "estado"
       latitude: 8.8367891
       longitude: 4.6688487
       cities:
@@ -1447,9 +1497,11 @@
           longitude: 3.4
     -
       name: "Lagos"
+      native: "Lagos"
       code: "LA"
       iso3166_2: "NG-LA"
       type: "state"
+      type_es: "estado"
       latitude: 6.4550575
       longitude: 3.3941795
       cities:
@@ -1599,9 +1651,11 @@
           longitude: 3.3601286
     -
       name: "Nasarawa"
+      native: "Nasarawa"
       code: "NA"
       iso3166_2: "NG-NA"
       type: "state"
+      type_es: "estado"
       latitude: 8.4387868
       longitude: 8.2382849
       cities:
@@ -1631,9 +1685,11 @@
           longitude: 8.60315
     -
       name: "Niger"
+      native: "Niger"
       code: "NI"
       iso3166_2: "NG-NI"
       type: "state"
+      type_es: "estado"
       latitude: 9.9326083
       longitude: 5.6511088
       cities:
@@ -1715,9 +1771,11 @@
           longitude: 6.15238
     -
       name: "Ogun"
+      native: "Ogun"
       code: "OG"
       iso3166_2: "NG-OG"
       type: "state"
+      type_es: "estado"
       latitude: 6.9788582
       longitude: 3.4389293
       cities:
@@ -1771,9 +1829,11 @@
           longitude: 3.50561
     -
       name: "Ondo"
+      native: "Ondo"
       code: "ON"
       iso3166_2: "NG-ON"
       type: "state"
+      type_es: "estado"
       latitude: 7.0209686
       longitude: 5.0567477
       cities:
@@ -1815,9 +1875,11 @@
           longitude: 5.58681
     -
       name: "Osun"
+      native: "Osun"
       code: "OS"
       iso3166_2: "NG-OS"
       type: "state"
+      type_es: "estado"
       latitude: 7.5484047
       longitude: 4.4978307
       cities:
@@ -1895,9 +1957,11 @@
           longitude: 4.76667
     -
       name: "Oyo"
+      native: "Oyo"
       code: "OY"
       iso3166_2: "NG-OY"
       type: "state"
+      type_es: "estado"
       latitude: 8.2151249
       longitude: 3.5642897
       cities:
@@ -1959,9 +2023,11 @@
           longitude: 3.39393
     -
       name: "Plateau"
+      native: "Plateau"
       code: "PL"
       iso3166_2: "NG-PL"
       type: "state"
+      type_es: "estado"
       latitude: 9.0583446
       longitude: 9.6826289
       cities:
@@ -2007,9 +2073,11 @@
           longitude: 9.63333
     -
       name: "Rivers"
+      native: "Rivers"
       code: "RI"
       iso3166_2: "NG-RI"
       type: "state"
+      type_es: "estado"
       latitude: 4.8416028
       longitude: 6.8604088
       cities:
@@ -2067,9 +2135,11 @@
           longitude: 6.98333333
     -
       name: "Sokoto"
+      native: "Sokoto"
       code: "SO"
       iso3166_2: "NG-SO"
       type: "state"
+      type_es: "estado"
       latitude: 13.0611195
       longitude: 5.3152203
       cities:
@@ -2115,9 +2185,11 @@
           longitude: 5.42373
     -
       name: "Taraba"
+      native: "Taraba"
       code: "TA"
       iso3166_2: "NG-TA"
       type: "state"
+      type_es: "estado"
       latitude: 8.0141334
       longitude: 10.7376336
       cities:
@@ -2163,9 +2235,11 @@
           longitude: 9.77786
     -
       name: "Yobe"
+      native: "Yobe"
       code: "YO"
       iso3166_2: "NG-YO"
       type: "state"
+      type_es: "estado"
       latitude: 12.1233242
       longitude: 11.5065937
       cities:
@@ -2231,9 +2305,11 @@
           longitude: 11.08108
     -
       name: "Zamfara"
+      native: "Zamfara"
       code: "ZA"
       iso3166_2: "NG-ZA"
       type: "state"
+      type_es: "estado"
       latitude: 12.0078998
       longitude: 6.4191432
       cities:

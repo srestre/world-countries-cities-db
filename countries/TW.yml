@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".tw"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 23.5
   longitude: 121
   emoji: "🇹🇼"
   states:
     -
       name: "Changhua"
+      native: "Changhua"
       code: "CHA"
       iso3166_2: "TW-CHA"
       type: "county"
+      type_es: "condado"
       latitude: 24.0755667
       longitude: 120.5444667
       cities:
@@ -35,9 +39,11 @@
           longitude: 120.57608
     -
       name: "Chiayi"
+      native: "Chiayi"
       code: "CYI"
       iso3166_2: "TW-CYI"
       type: "city"
+      type_es: "ciudad"
       latitude: 23.4591664
       longitude: 120.2930004
       cities:
@@ -51,9 +57,11 @@
           longitude: 120.44472
     -
       name: "Chiayi County"
+      native: "嘉義縣"
       code: "CYQ"
       iso3166_2: "TW-CYQ"
       type: "county"
+      type_es: "condado"
       latitude: 23.49620556
       longitude: 120.641875
       cities:
@@ -75,9 +83,11 @@
           longitude: 120.445696
     -
       name: "Hsinchu"
+      native: "Hsinchu"
       code: "HSZ"
       iso3166_2: "TW-HSZ"
       type: "city"
+      type_es: "ciudad"
       latitude: 24.8138287
       longitude: 120.9674798
       cities:
@@ -87,9 +97,11 @@
           longitude: 121.16111
     -
       name: "Hsinchu County"
+      native: "新竹縣"
       code: "HSQ"
       iso3166_2: "TW-HSQ"
       type: "county"
+      type_es: "condado"
       latitude: 24.83333333
       longitude: 121.01472222
       cities:
@@ -107,9 +119,11 @@
           longitude: 121.01194444
     -
       name: "Hualien"
+      native: "Hualien"
       code: "HUA"
       iso3166_2: "TW-HUA"
       type: "county"
+      type_es: "condado"
       latitude: 23.9871589
       longitude: 121.6015714
       cities:
@@ -119,9 +133,11 @@
           longitude: 121.39333
     -
       name: "Kaohsiung"
+      native: "Kaohsiung"
       code: "KHH"
       iso3166_2: "TW-KHH"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 22.6203348
       longitude: 120.3120375
       cities:
@@ -131,18 +147,22 @@
           longitude: 120.31333
     -
       name: "Keelung"
+      native: "Keelung"
       code: "KEE"
       iso3166_2: "TW-KEE"
       type: "city"
+      type_es: "ciudad"
       latitude: 25.1317232
       longitude: 121.744652
       cities:
         []
     -
       name: "Kinmen"
+      native: "Kinmen"
       code: "KIN"
       iso3166_2: "TW-KIN"
       type: "county"
+      type_es: "condado"
       latitude: 24.4367638
       longitude: 118.3186435
       cities:
@@ -156,9 +176,11 @@
           longitude: 118.38861
     -
       name: "Lienchiang"
+      native: "Lienchiang"
       code: "LIE"
       iso3166_2: "TW-LIE"
       type: "county"
+      type_es: "condado"
       latitude: 26.1577951
       longitude: 119.9519756
       cities:
@@ -172,9 +194,11 @@
           longitude: 119.93284
     -
       name: "Miaoli"
+      native: "Miaoli"
       code: "MIA"
       iso3166_2: "TW-MIA"
       type: "county"
+      type_es: "condado"
       latitude: 24.560159
       longitude: 120.8214265
       cities:
@@ -184,9 +208,11 @@
           longitude: 120.90638
     -
       name: "Nantou"
+      native: "Nantou"
       code: "NAN"
       iso3166_2: "TW-NAN"
       type: "county"
+      type_es: "condado"
       latitude: 23.90235
       longitude: 120.6909167
       cities:
@@ -208,18 +234,22 @@
           longitude: 120.68516
     -
       name: "New Taipei"
+      native: "New Taipei"
       code: "NWT"
       iso3166_2: "TW-NWT"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 25.011997
       longitude: 121.4656619
       cities:
         []
     -
       name: "Penghu"
+      native: "Penghu"
       code: "PEN"
       iso3166_2: "TW-PEN"
       type: "county"
+      type_es: "condado"
       latitude: 23.569694
       longitude: 119.5664543
       cities:
@@ -233,9 +263,11 @@
           longitude: 119.61138
     -
       name: "Pingtung"
+      native: "Pingtung"
       code: "PIF"
       iso3166_2: "TW-PIF"
       type: "county"
+      type_es: "condado"
       latitude: 22.6628468
       longitude: 120.4915677
       cities:
@@ -253,9 +285,11 @@
           longitude: 120.61444
     -
       name: "Taichung"
+      native: "Taichung"
       code: "TXG"
       iso3166_2: "TW-TXG"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 24.163162
       longitude: 120.6478282
       cities:
@@ -265,9 +299,11 @@
           longitude: 120.6839
     -
       name: "Tainan"
+      native: "Tainan"
       code: "TNN"
       iso3166_2: "TW-TNN"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 22.9912348
       longitude: 120.184982
       cities:
@@ -281,9 +317,11 @@
           longitude: 120.46138
     -
       name: "Taipei"
+      native: "Taipei"
       code: "TPE"
       iso3166_2: "TW-TPE"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 25.0329694
       longitude: 121.5654177
       cities:
@@ -301,9 +339,11 @@
           longitude: 121.53185
     -
       name: "Taitung"
+      native: "Taitung"
       code: "TTT"
       iso3166_2: "TW-TTT"
       type: "county"
+      type_es: "condado"
       latitude: 22.7560447
       longitude: 121.1456538
       cities:
@@ -313,9 +353,11 @@
           longitude: 121.04833
     -
       name: "Taoyuan"
+      native: "Taoyuan"
       code: "TAO"
       iso3166_2: "TW-TAO"
       type: "special municipality"
+      type_es: "municipio especial"
       latitude: 24.9936281
       longitude: 121.3009798
       cities:
@@ -329,9 +371,11 @@
           longitude: 121.24611
     -
       name: "Yilan"
+      native: "Yilan"
       code: "ILA"
       iso3166_2: "TW-ILA"
       type: "county"
+      type_es: "condado"
       latitude: 24.7302791
       longitude: 121.7631149
       cities:
@@ -341,9 +385,11 @@
           longitude: 121.63361
     -
       name: "Yunlin"
+      native: "Yunlin"
       code: "YUN"
       iso3166_2: "TW-YUN"
       type: "county"
+      type_es: "condado"
       latitude: 23.6990775
       longitude: 120.5245511
       cities:

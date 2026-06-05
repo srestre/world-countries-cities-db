@@ -1,57 +1,57 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(101, 'India', 'IN', 'IND', 'Asia', 'Southern Asia', 'New Delhi', 'INR', 20, 77, '🇮🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(101, 'India', 'India', 'IN', 'IND', 'Asia', 'Asia', 'Southern Asia', 'Asia del Sur', 'New Delhi', 'INR', 20, 77, '🇮🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4023, 'Andaman and Nicobar Islands', 101, 'IN', 'AN', 'union territory', 12.6112387, 92.8316541),
-(4017, 'Andhra Pradesh', 101, 'IN', 'AP', 'state', 15.9240905, 80.1863809),
-(4024, 'Arunachal Pradesh', 101, 'IN', 'AR', 'state', 28.0937702, 94.5921326),
-(4027, 'Assam', 101, 'IN', 'AS', 'state', 26.4073841, 93.2551303),
-(4037, 'Bihar', 101, 'IN', 'BR', 'state', 25.6440845, 85.906508),
-(4031, 'Chandigarh', 101, 'IN', 'CH', 'union territory', 30.7333148, 76.7794179),
-(4040, 'Chhattisgarh', 101, 'IN', 'CT', 'state', 21.6637359, 81.8406351),
-(4033, 'Dadra and Nagar Haveli and Daman and Diu', 101, 'IN', 'DH', 'union territory', 20.7181749, 70.9323834),
-(4021, 'Delhi', 101, 'IN', 'DL', 'union territory', 28.6328027, 77.2197713),
-(4009, 'Goa', 101, 'IN', 'GA', 'state', 15.3004543, 74.0855134),
-(4030, 'Gujarat', 101, 'IN', 'GJ', 'state', 22.3850051, 71.745261),
-(4007, 'Haryana', 101, 'IN', 'HR', 'state', 29, 76),
-(4020, 'Himachal Pradesh', 101, 'IN', 'HP', 'state', 31.9292352, 77.1828462),
-(4029, 'Jammu and Kashmir', 101, 'IN', 'JK', 'union territory', 33.6649297, 75.1629584),
-(4025, 'Jharkhand', 101, 'IN', 'JH', 'state', 23.4559809, 85.2557301),
-(4026, 'Karnataka', 101, 'IN', 'KA', 'state', 14.5203896, 75.7223521),
-(4028, 'Kerala', 101, 'IN', 'KL', 'state', 10.3528744, 76.5120396),
-(4852, 'Ladakh', 101, 'IN', 'LA', 'union territory', 33.9456407, 77.6568576),
-(4019, 'Lakshadweep', 101, 'IN', 'LD', 'union territory', 10.3337313, 72.9205386),
-(4039, 'Madhya Pradesh', 101, 'IN', 'MP', 'state', 23.8143419, 77.5340719),
-(4008, 'Maharashtra', 101, 'IN', 'MH', 'state', 18.9068356, 75.6741579),
-(4010, 'Manipur', 101, 'IN', 'MN', 'state', 24.7208818, 93.9229386),
-(4006, 'Meghalaya', 101, 'IN', 'ML', 'state', 25.5379432, 91.2999102),
-(4036, 'Mizoram', 101, 'IN', 'MZ', 'state', 23.2146169, 92.8687612),
-(4018, 'Nagaland', 101, 'IN', 'NL', 'state', 26.1630556, 94.5884911),
-(4013, 'Odisha', 101, 'IN', 'OR', 'state', 20.5431241, 84.6897321),
-(4011, 'Puducherry', 101, 'IN', 'PY', 'union territory', 11.9340568, 79.8306447),
-(4015, 'Punjab', 101, 'IN', 'PB', 'state', 30.9293211, 75.5004841),
-(4014, 'Rajasthan', 101, 'IN', 'RJ', 'state', 26.8105777, 73.7684549),
-(4034, 'Sikkim', 101, 'IN', 'SK', 'state', 27.601029, 88.4541364),
-(4035, 'Tamil Nadu', 101, 'IN', 'TN', 'state', 10.9094334, 78.3665347),
-(4012, 'Telangana', 101, 'IN', 'TG', 'state', 17.8495919, 79.1151663),
-(4038, 'Tripura', 101, 'IN', 'TR', 'state', 23.7750823, 91.7025091),
-(4022, 'Uttar Pradesh', 101, 'IN', 'UP', 'state', 27.1303344, 80.859666),
-(4016, 'Uttarakhand', 101, 'IN', 'UK', 'state', 30.0417376, 79.089691),
-(4853, 'West Bengal', 101, 'IN', 'WB', 'state', 22.9964948, 87.6855882);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4023, 'Andaman and Nicobar Islands', 'अंडमान व नोकोबार द्वीप समूह', 101, 'IN', 'AN', 'union territory', 'territorio de la unión', 12.6112387, 92.8316541),
+(4017, 'Andhra Pradesh', 'आंध्र प्रदेश', 101, 'IN', 'AP', 'state', 'estado', 15.9240905, 80.1863809),
+(4024, 'Arunachal Pradesh', 'अरुणाचल प्रदेश', 101, 'IN', 'AR', 'state', 'estado', 28.0937702, 94.5921326),
+(4027, 'Assam', 'असम', 101, 'IN', 'AS', 'state', 'estado', 26.4073841, 93.2551303),
+(4037, 'Bihar', 'बिहार', 101, 'IN', 'BR', 'state', 'estado', 25.6440845, 85.906508),
+(4031, 'Chandigarh', 'चंडीगढ़', 101, 'IN', 'CH', 'union territory', 'territorio de la unión', 30.7333148, 76.7794179),
+(4040, 'Chhattisgarh', 'छत्तीसगढ', 101, 'IN', 'CT', 'state', 'estado', 21.6637359, 81.8406351),
+(4033, 'Dadra and Nagar Haveli and Daman and Diu', 'दादरा और नगर हवेली और दमन और दीव', 101, 'IN', 'DH', 'union territory', 'territorio de la unión', 20.7181749, 70.9323834),
+(4021, 'Delhi', 'दिल्ली', 101, 'IN', 'DL', 'union territory', 'territorio de la unión', 28.6328027, 77.2197713),
+(4009, 'Goa', 'गोवा', 101, 'IN', 'GA', 'state', 'estado', 15.3004543, 74.0855134),
+(4030, 'Gujarat', 'गुजरात', 101, 'IN', 'GJ', 'state', 'estado', 22.3850051, 71.745261),
+(4007, 'Haryana', 'हरियाणा', 101, 'IN', 'HR', 'state', 'estado', 29, 76),
+(4020, 'Himachal Pradesh', 'हिमाचल प्रदेश', 101, 'IN', 'HP', 'state', 'estado', 31.9292352, 77.1828462),
+(4029, 'Jammu and Kashmir', 'जम्मू और कश्मीर', 101, 'IN', 'JK', 'union territory', 'territorio de la unión', 33.6649297, 75.1629584),
+(4025, 'Jharkhand', 'झारखंड', 101, 'IN', 'JH', 'state', 'estado', 23.4559809, 85.2557301),
+(4026, 'Karnataka', 'कर्नाटक', 101, 'IN', 'KA', 'state', 'estado', 14.5203896, 75.7223521),
+(4028, 'Kerala', 'केरल', 101, 'IN', 'KL', 'state', 'estado', 10.3528744, 76.5120396),
+(4852, 'Ladakh', 'लद्दाख', 101, 'IN', 'LA', 'union territory', 'territorio de la unión', 33.9456407, 77.6568576),
+(4019, 'Lakshadweep', 'लक्षद्वीप', 101, 'IN', 'LD', 'union territory', 'territorio de la unión', 10.3337313, 72.9205386),
+(4039, 'Madhya Pradesh', 'मध्य प्रदेश', 101, 'IN', 'MP', 'state', 'estado', 23.8143419, 77.5340719),
+(4008, 'Maharashtra', 'महाराष्ट्र', 101, 'IN', 'MH', 'state', 'estado', 18.9068356, 75.6741579),
+(4010, 'Manipur', 'मणिपुर', 101, 'IN', 'MN', 'state', 'estado', 24.7208818, 93.9229386),
+(4006, 'Meghalaya', 'मेघालय', 101, 'IN', 'ML', 'state', 'estado', 25.5379432, 91.2999102),
+(4036, 'Mizoram', 'मिजोरम', 101, 'IN', 'MZ', 'state', 'estado', 23.2146169, 92.8687612),
+(4018, 'Nagaland', 'नागालैंड', 101, 'IN', 'NL', 'state', 'estado', 26.1630556, 94.5884911),
+(4013, 'Odisha', 'ओडिशा', 101, 'IN', 'OR', 'state', 'estado', 20.5431241, 84.6897321),
+(4011, 'Puducherry', 'पुदुचेरी', 101, 'IN', 'PY', 'union territory', 'territorio de la unión', 11.9340568, 79.8306447),
+(4015, 'Punjab', 'पंजाब', 101, 'IN', 'PB', 'state', 'estado', 30.9293211, 75.5004841),
+(4014, 'Rajasthan', 'राजस्थान', 101, 'IN', 'RJ', 'state', 'estado', 26.8105777, 73.7684549),
+(4034, 'Sikkim', 'सिक्किम', 101, 'IN', 'SK', 'state', 'estado', 27.601029, 88.4541364),
+(4035, 'Tamil Nadu', 'तमिलनाडु', 101, 'IN', 'TN', 'state', 'estado', 10.9094334, 78.3665347),
+(4012, 'Telangana', 'तेलंगाना', 101, 'IN', 'TG', 'state', 'estado', 17.8495919, 79.1151663),
+(4038, 'Tripura', 'त्रिपुरा', 101, 'IN', 'TR', 'state', 'estado', 23.7750823, 91.7025091),
+(4022, 'Uttar Pradesh', 'उत्तर प्रदेश', 101, 'IN', 'UP', 'state', 'estado', 27.1303344, 80.859666),
+(4016, 'Uttarakhand', 'उत्तराखंड', 101, 'IN', 'UK', 'state', 'estado', 30.0417376, 79.089691),
+(4853, 'West Bengal', 'पश्चिम बंगाल', 101, 'IN', 'WB', 'state', 'estado', 22.9964948, 87.6855882);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (57837, 'Bamboo Flat', 4023, 101, 11.7, 92.71667),

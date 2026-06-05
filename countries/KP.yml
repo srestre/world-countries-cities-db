@@ -12,16 +12,20 @@
   currency_symbol: "₩"
   tld: ".kp"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Eastern Asia"
+  subregion_es: "Asia Oriental"
   latitude: 40
   longitude: 127
   emoji: "🇰🇵"
   states:
     -
       name: "Chagang"
+      native: "차강"
       code: "04"
       iso3166_2: "KP-04"
       type: "province"
+      type_es: "provincia"
       latitude: 40.7198536
       longitude: 126.539056
       cities:
@@ -43,18 +47,22 @@
           longitude: 126.28944
     -
       name: "Kaesong"
+      native: "개성시"
       code: "15"
       iso3166_2: "KP-15"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 37.97166667
       longitude: 126.55277778
       cities:
         []
     -
       name: "Kangwon"
+      native: "강원도"
       code: "07"
       iso3166_2: "KP-07"
       type: "province"
+      type_es: "provincia"
       latitude: 38.8354349
       longitude: 127.5146547
       cities:
@@ -80,18 +88,22 @@
           longitude: 127.44361
     -
       name: "Nampho"
+      native: "남포시"
       code: "14"
       iso3166_2: "KP-14"
       type: "metropolitan city"
+      type_es: "ciudad metropolitana"
       latitude: 38.73555556
       longitude: 125.40888889
       cities:
         []
     -
       name: "North Hamgyong"
+      native: "함경북도"
       code: "09"
       iso3166_2: "KP-09"
       type: "province"
+      type_es: "provincia"
       latitude: 41.9098723
       longitude: 129.369056
       cities:
@@ -161,9 +173,11 @@
           longitude: 129.66889
     -
       name: "North Hwanghae"
+      native: "황해북도"
       code: "06"
       iso3166_2: "KP-06"
       type: "province"
+      type_es: "provincia"
       latitude: 38.5709632
       longitude: 126.2465723
       cities:
@@ -197,9 +211,11 @@
           longitude: 125.645
     -
       name: "North Pyongan"
+      native: "평안북도"
       code: "03"
       iso3166_2: "KP-03"
       type: "province"
+      type_es: "provincia"
       latitude: 40.0642847
       longitude: 125.2356222
       cities:
@@ -253,9 +269,11 @@
           longitude: 125.80417
     -
       name: "Pyongyang"
+      native: "평양"
       code: "01"
       iso3166_2: "KP-01"
       type: "capital city"
+      type_es: "ciudad capital"
       latitude: 39.0167979
       longitude: 125.7473609
       cities:
@@ -281,9 +299,11 @@
           longitude: 125.97778
     -
       name: "Rason"
+      native: "라손"
       code: "13"
       iso3166_2: "KP-13"
       type: "special city"
+      type_es: "ciudad especial"
       latitude: 42.2497316
       longitude: 130.3113296
       cities:
@@ -297,9 +317,11 @@
           longitude: 130.46222
     -
       name: "Ryanggang"
+      native: "량강"
       code: "10"
       iso3166_2: "KP-10"
       type: "province"
+      type_es: "provincia"
       latitude: 41.0997898
       longitude: 128.1690346
       cities:
@@ -321,9 +343,11 @@
           longitude: 128.79889
     -
       name: "South Hamgyong"
+      native: "함경남도"
       code: "08"
       iso3166_2: "KP-08"
       type: "province"
+      type_es: "provincia"
       latitude: 40.119918
       longitude: 127.5990989
       cities:
@@ -365,9 +389,11 @@
           longitude: 128.15972
     -
       name: "South Hwanghae"
+      native: "황해남도"
       code: "05"
       iso3166_2: "KP-05"
       type: "province"
+      type_es: "provincia"
       latitude: 38.2628262
       longitude: 125.476901
       cities:
@@ -405,9 +431,11 @@
           longitude: 126.16111
     -
       name: "South Pyongan"
+      native: "남평안"
       code: "02"
       iso3166_2: "KP-02"
       type: "province"
+      type_es: "provincia"
       latitude: 39.5416505
       longitude: 126.0647645
       cities:

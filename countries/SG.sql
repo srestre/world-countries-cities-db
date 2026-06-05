@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(199, 'Singapore', 'SG', 'SGP', 'Asia', 'South-Eastern Asia', 'Singapur', 'SGD', 1.36666666, 103.8, '🇸🇬');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(199, 'Singapore', 'Singapur', 'SG', 'SGP', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Singapur', 'SGD', 1.36666666, 103.8, '🇸🇬');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4651, 'Central Singapore', 199, 'SG', '01', 'district', 1.2884, 103.8535),
-(4649, 'North East', 199, 'SG', '02', 'district', 5.3341186, 100.2761077),
-(4653, 'North West', 199, 'SG', '03', 'district', 1.4509382, 103.7849519),
-(4650, 'South East', 199, 'SG', '04', 'district', 1.3352329, 103.9598931),
-(4652, 'South West', 199, 'SG', '05', 'district', 5.2883389, 100.2815099);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4651, 'Central Singapore', 'Central Singapore', 199, 'SG', '01', 'district', 'distrito', 1.2884, 103.8535),
+(4649, 'North East', 'North East', 199, 'SG', '02', 'district', 'distrito', 5.3341186, 100.2761077),
+(4653, 'North West', 'North West', 199, 'SG', '03', 'district', 'distrito', 1.4509382, 103.7849519),
+(4650, 'South East', 'South East', 199, 'SG', '04', 'district', 'distrito', 1.3352329, 103.9598931),
+(4652, 'South West', 'South West', 199, 'SG', '05', 'district', 'distrito', 5.2883389, 100.2815099);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (153462, 'Bukit Timah', 4651, 199, 1.3294, 103.8021),

@@ -12,16 +12,20 @@
   currency_symbol: "CFA"
   tld: ".sn"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 14
   longitude: -14
   emoji: "🇸🇳"
   states:
     -
       name: "Dakar"
+      native: "Dakar"
       code: "DK"
       iso3166_2: "SN-DK"
       type: "region"
+      type_es: "región"
       latitude: 14.693425
       longitude: -17.447938
       cities:
@@ -59,9 +63,11 @@
           longitude: -17.19841
     -
       name: "Diourbel Region"
+      native: "Diourbel Region"
       code: "DB"
       iso3166_2: "SN-DB"
       type: "region"
+      type_es: "región"
       latitude: 14.7844539
       longitude: -16.0316451
       cities:
@@ -83,9 +89,11 @@
           longitude: -15.88333
     -
       name: "Fatick"
+      native: "Fatick"
       code: "FK"
       iso3166_2: "SN-FK"
       type: "region"
+      type_es: "región"
       latitude: 14.3390167
       longitude: -16.4111425
       cities:
@@ -119,9 +127,11 @@
           longitude: -16.36667
     -
       name: "Kaffrine"
+      native: "Kaffrine"
       code: "KA"
       iso3166_2: "SN-KA"
       type: "region"
+      type_es: "región"
       latitude: 14.105202
       longitude: -15.5415755
       cities:
@@ -135,9 +145,11 @@
           longitude: -14.8
     -
       name: "Kaolack"
+      native: "Kaolack"
       code: "KL"
       iso3166_2: "SN-KL"
       type: "region"
+      type_es: "región"
       latitude: 14.138815
       longitude: -16.076391
       cities:
@@ -159,9 +171,11 @@
           longitude: -15.8
     -
       name: "Kédougou"
+      native: "Kédougou"
       code: "KE"
       iso3166_2: "SN-KE"
       type: "region"
+      type_es: "región"
       latitude: 12.5570752
       longitude: -12.1855655
       cities:
@@ -183,9 +197,11 @@
           longitude: -11.79627
     -
       name: "Kolda"
+      native: "Dans le bras"
       code: "KD"
       iso3166_2: "SN-KD"
       type: "region"
+      type_es: "región"
       latitude: 12.8921154
       longitude: -14.9400971
       cities:
@@ -207,9 +223,11 @@
           longitude: -14.11667
     -
       name: "Louga"
+      native: "Lougue"
       code: "LG"
       iso3166_2: "SN-LG"
       type: "region"
+      type_es: "región"
       latitude: 15.6141768
       longitude: -16.22868
       cities:
@@ -235,9 +253,11 @@
           longitude: -15.4766
     -
       name: "Matam"
+      native: "doux"
       code: "MT"
       iso3166_2: "SN-MT"
       type: "region"
+      type_es: "región"
       latitude: 15.6600225
       longitude: -13.2576906
       cities:
@@ -275,9 +295,11 @@
           longitude: -12.86821
     -
       name: "Saint-Louis"
+      native: "Saint-Louis"
       code: "SL"
       iso3166_2: "SN-SL"
       type: "region"
+      type_es: "región"
       latitude: 16.0280445
       longitude: -16.5048686
       cities:
@@ -307,9 +329,11 @@
           longitude: -16.48962
     -
       name: "Sédhiou"
+      native: "Sédhiou"
       code: "SE"
       iso3166_2: "SN-SE"
       type: "region"
+      type_es: "región"
       latitude: 12.704604
       longitude: -15.5562304
       cities:
@@ -323,9 +347,11 @@
           longitude: -15.55694
     -
       name: "Tambacounda Region"
+      native: "Tambacounda Region"
       code: "TC"
       iso3166_2: "SN-TC"
       type: "region"
+      type_es: "región"
       latitude: 13.8686324
       longitude: -13.3190328
       cities:
@@ -339,9 +365,11 @@
           longitude: -13.647
     -
       name: "Thiès Region"
+      native: "Thiès Region"
       code: "TH"
       iso3166_2: "SN-TH"
       type: "region"
+      type_es: "región"
       latitude: 14.7538661
       longitude: -16.8637823
       cities:
@@ -395,9 +423,11 @@
           longitude: -16.94366
     -
       name: "Ziguinchor"
+      native: "Ziguinchor"
       code: "ZG"
       iso3166_2: "SN-ZG"
       type: "region"
+      type_es: "región"
       latitude: 12.5641479
       longitude: -16.2639825
       cities:

@@ -1,23 +1,23 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-GF,French Guiana,Americas,South America,01,Guyane,Apatou,5.15666667,-54.34305556
-GF,French Guiana,Americas,South America,01,Guyane,Awala-Yalimapo,5.73611111,-53.90805556
-GF,French Guiana,Americas,South America,01,Guyane,Camopi,3.16694444,-52.33111111
-GF,French Guiana,Americas,South America,01,Guyane,Cayenne,4.93861111,-52.335
-GF,French Guiana,Americas,South America,01,Guyane,Grand-Santi,4.27333333,-54.38166667
-GF,French Guiana,Americas,South America,01,Guyane,Iracoubo,5.48,-53.20555556
-GF,French Guiana,Americas,South America,01,Guyane,Kourou,5.15833333,-52.64277778
-GF,French Guiana,Americas,South America,01,Guyane,Macouria,5.01361111,-52.47388889
-GF,French Guiana,Americas,South America,01,Guyane,Mana,5.66722222,-53.77694444
-GF,French Guiana,Americas,South America,01,Guyane,Maripasoula,3.64111111,-54.02777778
-GF,French Guiana,Americas,South America,01,Guyane,Matoury,4.85055556,-52.33111111
-GF,French Guiana,Americas,South America,01,Guyane,Montsinéry-Tonnegrande,4.89277778,-52.49277778
-GF,French Guiana,Americas,South America,01,Guyane,Ouanary,4.20916667,-51.67166667
-GF,French Guiana,Americas,South America,01,Guyane,Papaichton,3.80972222,-54.14888889
-GF,French Guiana,Americas,South America,01,Guyane,Régina,4.31361111,-52.12916667
-GF,French Guiana,Americas,South America,01,Guyane,Remire-Montjoly,4.905,-52.27638889
-GF,French Guiana,Americas,South America,01,Guyane,Roura,4.72833333,-52.32416667
-GF,French Guiana,Americas,South America,01,Guyane,Saint-Élie,4.82555556,-53.28805556
-GF,French Guiana,Americas,South America,01,Guyane,Saint-Georges,3.88944444,-51.80111111
-GF,French Guiana,Americas,South America,01,Guyane,Saint-Laurent-du-Maroni,5.50388889,-54.02888889
-GF,French Guiana,Americas,South America,01,Guyane,Saül,3.62277778,-53.20833333
-GF,French Guiana,Americas,South America,01,Guyane,Sinnamary,5.3775,-52.95861111
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Apatou,5.15666667,-54.34305556
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Awala-Yalimapo,5.73611111,-53.90805556
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Camopi,3.16694444,-52.33111111
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Cayenne,4.93861111,-52.335
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Grand-Santi,4.27333333,-54.38166667
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Iracoubo,5.48,-53.20555556
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Kourou,5.15833333,-52.64277778
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Macouria,5.01361111,-52.47388889
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Mana,5.66722222,-53.77694444
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Maripasoula,3.64111111,-54.02777778
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Matoury,4.85055556,-52.33111111
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Montsinéry-Tonnegrande,4.89277778,-52.49277778
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Ouanary,4.20916667,-51.67166667
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Papaichton,3.80972222,-54.14888889
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Régina,4.31361111,-52.12916667
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Remire-Montjoly,4.905,-52.27638889
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Roura,4.72833333,-52.32416667
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Saint-Élie,4.82555556,-53.28805556
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Saint-Georges,3.88944444,-51.80111111
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Saint-Laurent-du-Maroni,5.50388889,-54.02888889
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Saül,3.62277778,-53.20833333
+GF,French Guiana,Guayana Francesa,Americas,América,South America,Sudamérica,01,Guyane,overseas region,región de ultramar,Sinnamary,5.3775,-52.95861111

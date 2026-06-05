@@ -12,16 +12,20 @@
   currency_symbol: "€"
   tld: ".xk"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 42.5612909
   longitude: 20.3403035
   emoji: "🇽🇰"
   states:
     -
       name: "Ferizaj"
+      native: "Ferizaj"
       code: "XUF"
       iso3166_2: "XK-XUF"
       type: "district"
+      type_es: "distrito"
       latitude: 42.3701844
       longitude: 21.1483281
       cities:
@@ -47,9 +51,11 @@
           longitude: 21.02722
     -
       name: "Gjakove"
+      native: "Gjakove"
       code: "XDG"
       iso3166_2: "XK-XDG"
       type: "district"
+      type_es: "distrito"
       latitude: 42.3798793
       longitude: 20.4316226
       cities:
@@ -115,9 +121,11 @@
           longitude: 20.31619
     -
       name: "Gjilan"
+      native: "Gjilan"
       code: "XGJ"
       iso3166_2: "XK-XGJ"
       type: "district"
+      type_es: "distrito"
       latitude: 42.4635206
       longitude: 21.4694011
       cities:
@@ -151,9 +159,11 @@
           longitude: 21.35833
     -
       name: "Mitrovica"
+      native: "Mitrovica"
       code: "XKM"
       iso3166_2: "XK-XKM"
       type: "district"
+      type_es: "distrito"
       latitude: 42.8790424
       longitude: 20.8657862
       cities:
@@ -183,9 +193,11 @@
           longitude: 20.84028
     -
       name: "Peja"
+      native: "Peja"
       code: "PEJ"
       iso3166_2: "XK-PEJ"
       type: "district"
+      type_es: "distrito"
       latitude: 42.6593986
       longitude: 20.2885757
       cities:
@@ -211,9 +223,11 @@
           longitude: 20.28828
     -
       name: "Pristina"
+      native: "Pristina"
       code: "XPI"
       iso3166_2: "XK-XPI"
       type: "district"
+      type_es: "distrito"
       latitude: 42.6629138
       longitude: 21.1655028
       cities:
@@ -255,9 +269,11 @@
           longitude: 21.16688
     -
       name: "Prizren"
+      native: "Prizren"
       code: "PRI"
       iso3166_2: "XK-PRI"
       type: "district"
+      type_es: "distrito"
       latitude: 42.2130151
       longitude: 20.7363339
       cities:

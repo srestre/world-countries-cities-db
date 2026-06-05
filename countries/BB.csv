@@ -1,12 +1,12 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BB,Barbados,Americas,Caribbean,01,Christ Church,Oistins,13.07067,-59.54637
-BB,Barbados,Americas,Caribbean,02,Saint Andrew,Greenland,13.25808,-59.57763
-BB,Barbados,Americas,Caribbean,03,Saint George,,,
-BB,Barbados,Americas,Caribbean,04,Saint James,Holetown,13.18672,-59.63808
-BB,Barbados,Americas,Caribbean,05,Saint John,,,
-BB,Barbados,Americas,Caribbean,06,Saint Joseph,Bathsheba,13.21133,-59.52596
-BB,Barbados,Americas,Caribbean,07,Saint Lucy,,,
-BB,Barbados,Americas,Caribbean,08,Saint Michael,Bridgetown,13.10732,-59.62021
-BB,Barbados,Americas,Caribbean,09,Saint Peter,Speightstown,13.25072,-59.64396
-BB,Barbados,Americas,Caribbean,10,Saint Philip,Crane,13.10487,-59.44861
-BB,Barbados,Americas,Caribbean,11,Saint Thomas,,,
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,01,Christ Church,parish,parroquia,Oistins,13.07067,-59.54637
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,02,Saint Andrew,parish,parroquia,Greenland,13.25808,-59.57763
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,03,Saint George,parish,parroquia,,,
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,04,Saint James,parish,parroquia,Holetown,13.18672,-59.63808
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,05,Saint John,parish,parroquia,,,
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,06,Saint Joseph,parish,parroquia,Bathsheba,13.21133,-59.52596
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,07,Saint Lucy,parish,parroquia,,,
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,08,Saint Michael,parish,parroquia,Bridgetown,13.10732,-59.62021
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,09,Saint Peter,parish,parroquia,Speightstown,13.25072,-59.64396
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,10,Saint Philip,parish,parroquia,Crane,13.10487,-59.44861
+BB,Barbados,Barbados,Americas,América,Caribbean,Caribe,11,Saint Thomas,parish,parroquia,,,

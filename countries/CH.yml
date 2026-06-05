@@ -12,16 +12,20 @@
   currency_symbol: "CHf"
   tld: ".ch"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Western Europe"
+  subregion_es: "Europa Occidental"
   latitude: 47
   longitude: 8
   emoji: "🇨🇭"
   states:
     -
       name: "Aargau"
+      native: "Aargau"
       code: "AG"
       iso3166_2: "CH-AG"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.412396
       longitude: 8.1948321
       cities:
@@ -499,9 +503,11 @@
           longitude: 7.94586
     -
       name: "Appenzell Ausserrhoden"
+      native: "Appenzell Ausserrhoden"
       code: "AR"
       iso3166_2: "CH-AR"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.3960076
       longitude: 9.3705839
       cities:
@@ -567,9 +573,11 @@
           longitude: 9.60495
     -
       name: "Appenzell Innerrhoden"
+      native: "Appenzell Innerrhoden"
       code: "AI"
       iso3166_2: "CH-AI"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.3007262
       longitude: 9.3991527
       cities:
@@ -591,9 +599,11 @@
           longitude: 9.55134
     -
       name: "Basel-Land"
+      native: "Baselland"
       code: "BL"
       iso3166_2: "CH-BL"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.5092938
       longitude: 7.6588333
       cities:
@@ -783,9 +793,11 @@
           longitude: 7.53027
     -
       name: "Basel-Stadt"
+      native: "Basel-Stadt"
       code: "BS"
       iso3166_2: "CH-BS"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.5579097
       longitude: 7.5927728
       cities:
@@ -803,9 +815,11 @@
           longitude: 7.633333
     -
       name: "Bern"
+      native: "Bern"
       code: "BE"
       iso3166_2: "CH-BE"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.8382351
       longitude: 7.6004502
       cities:
@@ -1479,9 +1493,11 @@
           longitude: 7.37302
     -
       name: "Fribourg"
+      native: "Friborg"
       code: "FR"
       iso3166_2: "CH-FR"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.6789116
       longitude: 7.1027113
       cities:
@@ -1707,9 +1723,11 @@
           longitude: 7.01732
     -
       name: "Geneva"
+      native: "Genf"
       code: "GE"
       iso3166_2: "CH-GE"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.2256509
       longitude: 6.1439209
       cities:
@@ -1827,9 +1845,11 @@
           longitude: 6.18436
     -
       name: "Glarus"
+      native: "Glarus"
       code: "GL"
       iso3166_2: "CH-GL"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.0411232
       longitude: 9.0679
       cities:
@@ -1879,9 +1899,11 @@
           longitude: 9.0701
     -
       name: "Graubünden"
+      native: "Graubünden"
       code: "GR"
       iso3166_2: "CH-GR"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.6960615
       longitude: 9.6027351
       cities:
@@ -2127,9 +2149,11 @@
           longitude: 9.95965
     -
       name: "Jura"
+      native: "Jura"
       code: "JU"
       iso3166_2: "CH-JU"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.3566699
       longitude: 7.1598893
       cities:
@@ -2215,9 +2239,11 @@
           longitude: 7.41342
     -
       name: "Lucerne"
+      native: "Luzerne"
       code: "LU"
       iso3166_2: "CH-LU"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.0908207
       longitude: 8.1719611
       cities:
@@ -2491,9 +2517,11 @@
           longitude: 7.92495
     -
       name: "Neuchâtel"
+      native: "Neuchâtel"
       code: "NE"
       iso3166_2: "CH-NE"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.9899874
       longitude: 6.9292732
       cities:
@@ -2623,9 +2651,11 @@
           longitude: 6.5631
     -
       name: "Nidwalden"
+      native: "Nidwalden"
       code: "NW"
       iso3166_2: "CH-NW"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.942756
       longitude: 8.4119773
       cities:
@@ -2667,9 +2697,11 @@
           longitude: 8.39423
     -
       name: "Obwalden"
+      native: "Obwalden"
       code: "OW"
       iso3166_2: "CH-OW"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.8613857
       longitude: 8.2067825
       cities:
@@ -2703,9 +2735,11 @@
           longitude: 8.24531
     -
       name: "Schaffhausen"
+      native: "Schaffhausen"
       code: "SH"
       iso3166_2: "CH-SH"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.6960491
       longitude: 8.634513
       cities:
@@ -2783,9 +2817,11 @@
           longitude: 8.46774
     -
       name: "Schwyz"
+      native: "Schwyz"
       code: "SZ"
       iso3166_2: "CH-SZ"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.0207138
       longitude: 8.6529884
       cities:
@@ -2919,9 +2955,11 @@
           longitude: 8.71903
     -
       name: "Solothurn"
+      native: "Solothurn"
       code: "SO"
       iso3166_2: "CH-SO"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.31874
       longitude: 7.6698284
       cities:
@@ -3139,9 +3177,11 @@
           longitude: 7.56649
     -
       name: "St. Gallen"
+      native: "St. Gallen"
       code: "SG"
       iso3166_2: "CH-SG"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.1561047
       longitude: 9.338323
       cities:
@@ -3459,9 +3499,11 @@
           longitude: 9.11196
     -
       name: "Thurgau"
+      native: "Thurgau"
       code: "TG"
       iso3166_2: "CH-TG"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.5859649
       longitude: 9.1428769
       cities:
@@ -3663,9 +3705,11 @@
           longitude: 9.03141
     -
       name: "Ticino"
+      native: "Ticino"
       code: "TI"
       iso3166_2: "CH-TI"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.3351913
       longitude: 8.7525902
       cities:
@@ -3923,9 +3967,11 @@
           longitude: 8.96879
     -
       name: "Uri"
+      native: "Uri"
       code: "UR"
       iso3166_2: "CH-UR"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.7864413
       longitude: 8.6420159
       cities:
@@ -3971,9 +4017,11 @@
           longitude: 8.67325
     -
       name: "Valais"
+      native: "Valais"
       code: "VS"
       iso3166_2: "CH-VS"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.2303063
       longitude: 7.6605757
       cities:
@@ -4279,9 +4327,11 @@
           longitude: 7.74863
     -
       name: "Vaud"
+      native: "Vaud"
       code: "VD"
       iso3166_2: "CH-VD"
       type: "canton"
+      type_es: "cantón"
       latitude: 46.6356963
       longitude: 6.5320717
       cities:
@@ -4707,9 +4757,11 @@
           longitude: 6.74249
     -
       name: "Zug"
+      native: "Zug"
       code: "ZG"
       iso3166_2: "CH-ZG"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.1661505
       longitude: 8.5154749
       cities:
@@ -4751,9 +4803,11 @@
           longitude: 8.51745
     -
       name: "Zürich"
+      native: "Zürich"
       code: "ZH"
       iso3166_2: "CH-ZH"
       type: "canton"
+      type_es: "cantón"
       latitude: 47.4133024
       longitude: 8.656394
       cities:

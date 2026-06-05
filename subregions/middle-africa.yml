@@ -12,16 +12,20 @@
   currency_symbol: "Kz"
   tld: ".ao"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: -12.5
   longitude: 18.5
   emoji: "🇦🇴"
   states:
     -
       name: "Bengo"
+      native: "Porta-malas"
       code: "BGO"
       iso3166_2: "AO-BGO"
       type: "province"
+      type_es: "provincia"
       latitude: -8.3196672
       longitude: 13.8656195
       cities:
@@ -59,9 +63,11 @@
           longitude: 13.6829
     -
       name: "Benguela"
+      native: "Benguela"
       code: "BGU"
       iso3166_2: "AO-BGU"
       type: "province"
+      type_es: "provincia"
       latitude: -12.9104657
       longitude: 14.0356608
       cities:
@@ -111,9 +117,11 @@
           longitude: 13.8448
     -
       name: "Bié"
+      native: "Bié"
       code: "BIE"
       iso3166_2: "AO-BIE"
       type: "province"
+      type_es: "provincia"
       latitude: -12.2630485
       longitude: 17.4967812
       cities:
@@ -135,9 +143,11 @@
           longitude: 16.93333
     -
       name: "Cabinda"
+      native: "Cabinda"
       code: "CAB"
       iso3166_2: "AO-CAB"
       type: "province"
+      type_es: "provincia"
       latitude: -5.056395
       longitude: 12.3211749
       cities:
@@ -147,9 +157,11 @@
           longitude: 12.2
     -
       name: "Cuando Cubango"
+      native: "Quando Cubango"
       code: "CCU"
       iso3166_2: "AO-CCU"
       type: "province"
+      type_es: "provincia"
       latitude: -16.0457694
       longitude: 19.5621532
       cities:
@@ -159,9 +171,11 @@
           longitude: 17.69099
     -
       name: "Cuanza"
+      native: "Quanza"
       code: "CUS"
       iso3166_2: "AO-CUS"
       type: "province"
+      type_es: "provincia"
       latitude: -10.7707527
       longitude: 15.0975712
       cities:
@@ -179,9 +193,11 @@
           longitude: 15.11719
     -
       name: "Cuanza Norte"
+      native: "Cuanza Norte"
       code: "CNO"
       iso3166_2: "AO-CNO"
       type: "province"
+      type_es: "provincia"
       latitude: -9.0296752
       longitude: 15.0926324
       cities:
@@ -195,9 +211,11 @@
           longitude: 14.91162
     -
       name: "Cunene"
+      native: "Cunene"
       code: "CNN"
       iso3166_2: "AO-CNN"
       type: "province"
+      type_es: "provincia"
       latitude: -16.5568536
       longitude: 15.7867319
       cities:
@@ -207,9 +225,11 @@
           longitude: 15.73333
     -
       name: "Huambo"
+      native: "Huambo"
       code: "HUA"
       iso3166_2: "AO-HUA"
       type: "province"
+      type_es: "provincia"
       latitude: -12.6076318
       longitude: 15.7411039
       cities:
@@ -231,9 +251,11 @@
           longitude: 15.25333
     -
       name: "Huíla"
+      native: "Huíla"
       code: "HUI"
       iso3166_2: "AO-HUI"
       type: "province"
+      type_es: "provincia"
       latitude: -14.6957808
       longitude: 15.0976293
       cities:
@@ -291,9 +313,11 @@
           longitude: 14.55953
     -
       name: "Luanda"
+      native: "Luanda"
       code: "LUA"
       iso3166_2: "AO-LUA"
       type: "province"
+      type_es: "provincia"
       latitude: -8.8315747
       longitude: 13.24797
       cities:
@@ -327,9 +351,11 @@
           longitude: 13.2861
     -
       name: "Lunda Norte"
+      native: "Lunda Norte"
       code: "LNO"
       iso3166_2: "AO-LNO"
       type: "province"
+      type_es: "provincia"
       latitude: -8.5088253
       longitude: 19.7538618
       cities:
@@ -339,9 +365,11 @@
           longitude: 20.27045
     -
       name: "Lunda Sul"
+      native: "Lunda Sul"
       code: "LSU"
       iso3166_2: "AO-LSU"
       type: "province"
+      type_es: "provincia"
       latitude: -10.1473779
       longitude: 20.9907756
       cities:
@@ -355,9 +383,11 @@
           longitude: 20.39155
     -
       name: "Malanje"
+      native: "Malanje"
       code: "MAL"
       iso3166_2: "AO-MAL"
       type: "province"
+      type_es: "provincia"
       latitude: -9.535332
       longitude: 16.9364293
       cities:
@@ -367,9 +397,11 @@
           longitude: 16.34096
     -
       name: "Moxico"
+      native: "Moxico"
       code: "MOX"
       iso3166_2: "AO-MOX"
       type: "province"
+      type_es: "provincia"
       latitude: -12.7287195
       longitude: 21.2737637
       cities:
@@ -391,9 +423,11 @@
           longitude: 20.78333
     -
       name: "Namibe"
+      native: "Namibe"
       code: "NAM"
       iso3166_2: "AO-NAM"
       type: "province"
+      type_es: "provincia"
       latitude: -15.2
       longitude: 12.15
       cities:
@@ -419,9 +453,11 @@
           longitude: 13.2667
     -
       name: "Uíge"
+      native: "Uíge"
       code: "UIG"
       iso3166_2: "AO-UIG"
       type: "province"
+      type_es: "provincia"
       latitude: -6.9516802
       longitude: 15.4799164
       cities:
@@ -431,9 +467,11 @@
           longitude: 15.06131
     -
       name: "Zaire"
+      native: "Zaire"
       code: "ZAI"
       iso3166_2: "AO-ZAI"
       type: "province"
+      type_es: "provincia"
       latitude: -6.6925131
       longitude: 13.5293029
       cities:
@@ -463,16 +501,20 @@
   currency_symbol: "FCFA"
   tld: ".cm"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 6
   longitude: 12
   emoji: "🇨🇲"
   states:
     -
       name: "Adamawa"
+      native: "Adamawa"
       code: "AD"
       iso3166_2: "CM-AD"
       type: "region"
+      type_es: "región"
       latitude: 6.8496708
       longitude: 13.2163222
       cities:
@@ -526,9 +568,11 @@
           longitude: 13.72711
     -
       name: "Centre"
+      native: "Centre"
       code: "CE"
       iso3166_2: "CM-CE"
       type: "region"
+      type_es: "región"
       latitude: 4.686267
       longitude: 11.9414512
       cities:
@@ -638,9 +682,11 @@
           longitude: 12.31667
     -
       name: "East"
+      native: "Est"
       code: "ES"
       iso3166_2: "CM-ES"
       type: "region"
+      type_es: "región"
       latitude: 3.9894393
       longitude: 14.178373
       cities:
@@ -690,9 +736,11 @@
           longitude: 15.05
     -
       name: "Far North"
+      native: "Grand Nord"
       code: "EN"
       iso3166_2: "CM-EN"
       type: "region"
+      type_es: "región"
       latitude: 10.6377186
       longitude: 14.2738156
       cities:
@@ -746,9 +794,11 @@
           longitude: 15.23288
     -
       name: "Littoral"
+      native: "Littoral"
       code: "LT"
       iso3166_2: "CM-LT"
       type: "region"
+      type_es: "región"
       latitude: 4.203033
       longitude: 10.0563057
       cities:
@@ -818,9 +868,11 @@
           longitude: 9.96822
     -
       name: "North"
+      native: "North"
       code: "NO"
       iso3166_2: "CM-NO"
       type: "region"
+      type_es: "región"
       latitude: 8.7712794
       longitude: 13.7803627
       cities:
@@ -866,9 +918,11 @@
           longitude: 14.1698
     -
       name: "Northwest"
+      native: "Nord-ouest"
       code: "NW"
       iso3166_2: "CM-NW"
       type: "region"
+      type_es: "región"
       latitude: 6.3775255
       longitude: 10.3864171
       cities:
@@ -926,9 +980,11 @@
           longitude: 10.06667
     -
       name: "South"
+      native: "Sud"
       code: "SU"
       iso3166_2: "CM-SU"
       type: "region"
+      type_es: "región"
       latitude: 2.7312374
       longitude: 11.6254622
       cities:
@@ -966,9 +1022,11 @@
           longitude: 11.98333
     -
       name: "Southwest"
+      native: "Sud-ouest"
       code: "SW"
       iso3166_2: "CM-SW"
       type: "region"
+      type_es: "región"
       latitude: 5.0577606
       longitude: 9.2289407
       cities:
@@ -1030,9 +1088,11 @@
           longitude: 9.36005
     -
       name: "West"
+      native: "Ouest"
       code: "OU"
       iso3166_2: "CM-OU"
       type: "region"
+      type_es: "región"
       latitude: 5.5356382
       longitude: 10.5828826
       cities:
@@ -1118,16 +1178,20 @@
   currency_symbol: "FCFA"
   tld: ".cf"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 7
   longitude: 21
   emoji: "🇨🇫"
   states:
     -
       name: "Bamingui-Bangoran"
+      native: "Bamingui-bangoran"
       code: "BB"
       iso3166_2: "CF-BB"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 8.698547
       longitude: 20.5281149
       cities:
@@ -1141,9 +1205,11 @@
           longitude: 20.89108
     -
       name: "Bangui"
+      native: "Bangui"
       code: "BGF"
       iso3166_2: "CF-BGF"
       type: "commune"
+      type_es: "comuna"
       latitude: 4.3635118
       longitude: 18.5835913
       cities:
@@ -1153,9 +1219,11 @@
           longitude: 18.55496
     -
       name: "Basse-Kotto"
+      native: "Basse-kotto"
       code: "BK"
       iso3166_2: "CF-BK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.1283201
       longitude: 21.3883825
       cities:
@@ -1173,9 +1241,11 @@
           longitude: 21.17861
     -
       name: "Haut-Mbomou"
+      native: "Aujourd'hui-mbomou"
       code: "HM"
       iso3166_2: "CF-HM"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 6.3497929
       longitude: 25.6508738
       cities:
@@ -1189,9 +1259,11 @@
           longitude: 25.13614
     -
       name: "Haute-Kotto"
+      native: "Haute-Kotto"
       code: "HK"
       iso3166_2: "CF-HK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 7.3625645
       longitude: 22.9271411
       cities:
@@ -1205,9 +1277,11 @@
           longitude: 22.40075
     -
       name: "Kémo"
+      native: "note"
       code: "KG"
       iso3166_2: "CF-KG"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.9480074
       longitude: 19.2158871
       cities:
@@ -1217,9 +1291,11 @@
           longitude: 19.07389
     -
       name: "Lobaye"
+      native: "Siffler"
       code: "LB"
       iso3166_2: "CF-LB"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 4.1034548
       longitude: 17.5653592
       cities:
@@ -1241,9 +1317,11 @@
           longitude: 18.59364
     -
       name: "Mambéré-Kadéï"
+      native: "Mugely-Kadéï"
       code: "HS"
       iso3166_2: "CF-HS"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 4.5662762
       longitude: 15.8671403
       cities:
@@ -1261,9 +1339,11 @@
           longitude: 15.13926
     -
       name: "Mbomou"
+      native: "Mbomou"
       code: "MB"
       iso3166_2: "CF-MB"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.5230899
       longitude: 23.4445705
       cities:
@@ -1285,9 +1365,11 @@
           longitude: 24.20305
     -
       name: "Nana-Grébizi"
+      native: "Nana-Grébizi"
       code: "KB"
       iso3166_2: "CF-KB"
       type: "economic prefecture"
+      type_es: "prefectura económica"
       latitude: 7.5048007
       longitude: 19.1923579
       cities:
@@ -1297,9 +1379,11 @@
           longitude: 19.18744
     -
       name: "Nana-Mambéré"
+      native: "Nana-Mambéré"
       code: "NM"
       iso3166_2: "CF-NM"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.2231625
       longitude: 15.3517922
       cities:
@@ -1313,9 +1397,11 @@
           longitude: 15.59599
     -
       name: "Ombella-M'Poko"
+      native: "Ombela-Mou-M'roko"
       code: "MP"
       iso3166_2: "CF-MP"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 5.0726761
       longitude: 18.1717789
       cities:
@@ -1333,9 +1419,11 @@
           longitude: 18.7035
     -
       name: "Ouaka"
+      native: "Ouuaka"
       code: "UK"
       iso3166_2: "CF-UK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 6.3110548
       longitude: 20.5447525
       cities:
@@ -1357,9 +1445,11 @@
           longitude: 19.96186
     -
       name: "Ouham"
+      native: "Ouham"
       code: "AC"
       iso3166_2: "CF-AC"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 7.1314008
       longitude: 17.7041361
       cities:
@@ -1381,9 +1471,11 @@
           longitude: 18.62903
     -
       name: "Ouham-Pendé"
+      native: "Ouham-Pendé"
       code: "OP"
       iso3166_2: "CF-OP"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 6.7057282
       longitude: 16.1443202
       cities:
@@ -1401,9 +1493,11 @@
           longitude: 16.44059
     -
       name: "Sangha-Mbaéré"
+      native: "Sangha-Mbaéré"
       code: "SE"
       iso3166_2: "CF-SE"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 3.6754895
       longitude: 16.3246915
       cities:
@@ -1413,9 +1507,11 @@
           longitude: 16.04583
     -
       name: "Vakaga"
+      native: "Seulement"
       code: "VK"
       iso3166_2: "CF-VK"
       type: "prefecture"
+      type_es: "prefectura"
       latitude: 9.8250502
       longitude: 22.376363
       cities:
@@ -1441,16 +1537,20 @@
   currency_symbol: "FCFA"
   tld: ".td"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 15
   longitude: 19
   emoji: "🇹🇩"
   states:
     -
       name: "Bahr el Gazel"
+      native: "Bahr El Gazel"
       code: "BG"
       iso3166_2: "TD-BG"
       type: "province"
+      type_es: "provincia"
       latitude: 14.4682468
       longitude: 16.9416836
       cities:
@@ -1460,9 +1560,11 @@
           longitude: 16.48941
     -
       name: "Batha"
+      native: "Batha"
       code: "BA"
       iso3166_2: "TD-BA"
       type: "province"
+      type_es: "provincia"
       latitude: 13.8367731
       longitude: 18.9649806
       cities:
@@ -1476,9 +1578,11 @@
           longitude: 19.6966
     -
       name: "Borkou"
+      native: "Borkou"
       code: "BO"
       iso3166_2: "TD-BO"
       type: "province"
+      type_es: "provincia"
       latitude: 17.2658129
       longitude: 18.3695288
       cities:
@@ -1488,9 +1592,11 @@
           longitude: 19.10428
     -
       name: "Chari-Baguirmi"
+      native: "Chari-baguirmi"
       code: "CB"
       iso3166_2: "TD-CB"
       type: "province"
+      type_es: "provincia"
       latitude: 11.3345348
       longitude: 16.2884311
       cities:
@@ -1524,18 +1630,22 @@
           longitude: 16.17
     -
       name: "Ennedi-Est"
+      native: "Ennedi-Est"
       code: "EE"
       iso3166_2: "TD-EE"
       type: "province"
+      type_es: "provincia"
       latitude: 17.6219737
       longitude: 23.3133676
       cities:
         []
     -
       name: "Ennedi-Ouest"
+      native: "Ennedi-Ouest"
       code: "EO"
       iso3166_2: "TD-EO"
       type: "province"
+      type_es: "provincia"
       latitude: 18.1636803
       longitude: 21.5082709
       cities:
@@ -1545,9 +1655,11 @@
           longitude: 21.58114
     -
       name: "Guéra"
+      native: "Guéra"
       code: "GR"
       iso3166_2: "TD-GR"
       type: "province"
+      type_es: "provincia"
       latitude: 11.6753817
       longitude: 18.4910031
       cities:
@@ -1565,9 +1677,11 @@
           longitude: 18.69303
     -
       name: "Hadjer-Lamis"
+      native: "Hadjer-lamis"
       code: "HL"
       iso3166_2: "TD-HL"
       type: "province"
+      type_es: "provincia"
       latitude: 12.6903906
       longitude: 16.3352648
       cities:
@@ -1585,9 +1699,11 @@
           longitude: 15.72927
     -
       name: "Kanem"
+      native: "Kanem"
       code: "KA"
       iso3166_2: "TD-KA"
       type: "province"
+      type_es: "provincia"
       latitude: 15.2264398
       longitude: 15.3151191
       cities:
@@ -1597,9 +1713,11 @@
           longitude: 15.3103
     -
       name: "Lac"
+      native: "Lac"
       code: "LC"
       iso3166_2: "TD-LC"
       type: "province"
+      type_es: "provincia"
       latitude: 13.5820827
       longitude: 14.3788329
       cities:
@@ -1609,9 +1727,11 @@
           longitude: 14.71363
     -
       name: "Logone Occidental"
+      native: "Logone Occidental"
       code: "LO"
       iso3166_2: "TD-LO"
       type: "province"
+      type_es: "provincia"
       latitude: 8.7795637
       longitude: 15.9126749
       cities:
@@ -1633,9 +1753,11 @@
           longitude: 16.08333
     -
       name: "Logone Oriental"
+      native: "Logone Oriental"
       code: "LR"
       iso3166_2: "TD-LR"
       type: "province"
+      type_es: "provincia"
       latitude: 8.2047152
       longitude: 16.470181
       cities:
@@ -1653,9 +1775,11 @@
           longitude: 16.85
     -
       name: "Mandoul"
+      native: "Mandall"
       code: "MA"
       iso3166_2: "TD-MA"
       type: "province"
+      type_es: "provincia"
       latitude: 8.72751
       longitude: 17.5841771
       cities:
@@ -1673,9 +1797,11 @@
           longitude: 17.7663
     -
       name: "Mayo-Kebbi Est"
+      native: "Micha-cube EST"
       code: "ME"
       iso3166_2: "TD-ME"
       type: "province"
+      type_es: "provincia"
       latitude: 10.126618
       longitude: 15.818345
       cities:
@@ -1693,9 +1819,11 @@
           longitude: 15.55011
     -
       name: "Mayo-Kebbi Ouest"
+      native: "Mayo-kebbi Oust"
       code: "MO"
       iso3166_2: "TD-MO"
       type: "province"
+      type_es: "provincia"
       latitude: 9.2640383
       longitude: 14.7151598
       cities:
@@ -1709,9 +1837,11 @@
           longitude: 14.9046
     -
       name: "Moyen-Chari"
+      native: "Moyen-Chari"
       code: "MC"
       iso3166_2: "TD-MC"
       type: "province"
+      type_es: "provincia"
       latitude: 9.4407768
       longitude: 18.8160927
       cities:
@@ -1725,9 +1855,11 @@
           longitude: 18.3923
     -
       name: "N'Djamena"
+      native: "N'Djamena"
       code: "ND"
       iso3166_2: "TD-ND"
       type: "province"
+      type_es: "provincia"
       latitude: 12.1191543
       longitude: 15.0502758
       cities:
@@ -1737,9 +1869,11 @@
           longitude: 15.05
     -
       name: "Ouaddaï"
+      native: "Ouaddaï"
       code: "OD"
       iso3166_2: "TD-OD"
       type: "province"
+      type_es: "provincia"
       latitude: 13.4613569
       longitude: 21.288445
       cities:
@@ -1757,9 +1891,11 @@
           longitude: 20.5468
     -
       name: "Salamat"
+      native: "Merci"
       code: "SA"
       iso3166_2: "TD-SA"
       type: "province"
+      type_es: "provincia"
       latitude: 10.7575596
       longitude: 20.6934116
       cities:
@@ -1769,9 +1905,11 @@
           longitude: 20.2827
     -
       name: "Sila"
+      native: "Ils sont"
       code: "SI"
       iso3166_2: "TD-SI"
       type: "province"
+      type_es: "provincia"
       latitude: 12.11786
       longitude: 21.4458848
       cities:
@@ -1781,9 +1919,11 @@
           longitude: 21.41034
     -
       name: "Tandjilé"
+      native: "Dentaire"
       code: "TA"
       iso3166_2: "TD-TA"
       type: "province"
+      type_es: "provincia"
       latitude: 9.5713051
       longitude: 16.5294956
       cities:
@@ -1801,9 +1941,11 @@
           longitude: 16.30066
     -
       name: "Tibesti"
+      native: "Tibesti"
       code: "TI"
       iso3166_2: "TD-TI"
       type: "province"
+      type_es: "provincia"
       latitude: 21.4007391
       longitude: 17.4742763
       cities:
@@ -1813,9 +1955,11 @@
           longitude: 17.4275
     -
       name: "Wadi Fira"
+      native: "Wadi Fira"
       code: "WF"
       iso3166_2: "TD-WF"
       type: "province"
+      type_es: "provincia"
       latitude: 15.0191449
       longitude: 21.467319
       cities:
@@ -1841,16 +1985,20 @@
   currency_symbol: "FC"
   tld: ".cg"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: -1
   longitude: 15
   emoji: "🇨🇬"
   states:
     -
       name: "Bouenza"
+      native: "Bouenza"
       code: "11"
       iso3166_2: "CG-11"
       type: "department"
+      type_es: "departamento"
       latitude: -4.2868653
       longitude: 13.3972129
       cities:
@@ -1864,9 +2012,11 @@
           longitude: 13.55
     -
       name: "Brazzaville"
+      native: "Brazzaville"
       code: "BZV"
       iso3166_2: "CG-BZV"
       type: "department"
+      type_es: "departamento"
       latitude: -4.2694407
       longitude: 15.2712256
       cities:
@@ -1876,9 +2026,11 @@
           longitude: 15.28318
     -
       name: "Cuvette"
+      native: "Cuvette"
       code: "8"
       iso3166_2: "CG-8"
       type: "department"
+      type_es: "departamento"
       latitude: -0.4936855
       longitude: 16.1602013
       cities:
@@ -1892,9 +2044,11 @@
           longitude: 15.89988
     -
       name: "Cuvette-Ouest"
+      native: "Cuvette-Ouest"
       code: "15"
       iso3166_2: "CG-15"
       type: "department"
+      type_es: "departamento"
       latitude: 0.280252
       longitude: 14.5292599
       cities:
@@ -1904,18 +2058,22 @@
           longitude: 14.82056
     -
       name: "Kouilou"
+      native: "Kouilou"
       code: "5"
       iso3166_2: "CG-5"
       type: "department"
+      type_es: "departamento"
       latitude: -4.1960964
       longitude: 11.9104388
       cities:
         []
     -
       name: "Lékoumou"
+      native: "Chambre à coucher"
       code: "2"
       iso3166_2: "CG-2"
       type: "department"
+      type_es: "departamento"
       latitude: -3.2315605
       longitude: 13.5211721
       cities:
@@ -1925,9 +2083,11 @@
           longitude: 13.34985
     -
       name: "Likouala"
+      native: "Likouala"
       code: "7"
       iso3166_2: "CG-7"
       type: "department"
+      type_es: "departamento"
       latitude: 1.6788828
       longitude: 17.4747723
       cities:
@@ -1937,9 +2097,11 @@
           longitude: 18.05981
     -
       name: "Niari"
+      native: "Quasi-partage"
       code: "9"
       iso3166_2: "CG-9"
       type: "department"
+      type_es: "departamento"
       latitude: -2.9077055
       longitude: 12.3298313
       cities:
@@ -1953,9 +2115,11 @@
           longitude: 12.70423
     -
       name: "Plateaux"
+      native: "Plateaux"
       code: "14"
       iso3166_2: "CG-14"
       type: "department"
+      type_es: "departamento"
       latitude: -2.1709644
       longitude: 15.2286129
       cities:
@@ -1969,9 +2133,11 @@
           longitude: 15.86444
     -
       name: "Pointe-Noire"
+      native: "Pointe-Noire"
       code: "16"
       iso3166_2: "CG-16"
       type: "department"
+      type_es: "departamento"
       latitude: -4.7975373
       longitude: 11.8503297
       cities:
@@ -1985,9 +2151,11 @@
           longitude: 11.86352
     -
       name: "Pool"
+      native: "Pool"
       code: "12"
       iso3166_2: "CG-12"
       type: "department"
+      type_es: "departamento"
       latitude: -3.7298545
       longitude: 15.053872
       cities:
@@ -1997,9 +2165,11 @@
           longitude: 14.76444
     -
       name: "Sangha"
+      native: "Sangha"
       code: "13"
       iso3166_2: "CG-13"
       type: "department"
+      type_es: "departamento"
       latitude: 1.4284362
       longitude: 15.4222522
       cities:
@@ -2025,16 +2195,20 @@
   currency_symbol: "FC"
   tld: ".cd"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 0
   longitude: 25
   emoji: "🇨🇩"
   states:
     -
       name: "Bas-Uélé"
+      native: "Bas-Uélé"
       code: "BU"
       iso3166_2: "CD-BU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.6644488
       longitude: 25.2137871
       cities:
@@ -2052,9 +2226,11 @@
           longitude: 24.72997
     -
       name: "Équateur"
+      native: "Équateur"
       code: "EQ"
       iso3166_2: "CD-EQ"
       type: "province"
+      type_es: "provincia"
       latitude: 0.6060154
       longitude: 18.7800729
       cities:
@@ -2076,9 +2252,11 @@
           longitude: 18.26034
     -
       name: "Haut-Katanga"
+      native: "Haut-Katanga"
       code: "HK"
       iso3166_2: "CD-HK"
       type: "province"
+      type_es: "provincia"
       latitude: -10.519718
       longitude: 27.8432804
       cities:
@@ -2092,9 +2270,11 @@
           longitude: 27.47938
     -
       name: "Haut-Lomami"
+      native: "Haut-Lomami"
       code: "HL"
       iso3166_2: "CD-HL"
       type: "province"
+      type_es: "provincia"
       latitude: -8.1495036
       longitude: 25.5557963
       cities:
@@ -2108,9 +2288,11 @@
           longitude: 24.99798
     -
       name: "Haut-Uélé"
+      native: "Haut-Uélé"
       code: "HU"
       iso3166_2: "CD-HU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.3398499
       longitude: 28.789274
       cities:
@@ -2128,9 +2310,11 @@
           longitude: 29.53551
     -
       name: "Ituri"
+      native: "Ituri"
       code: "IT"
       iso3166_2: "CD-IT"
       type: "province"
+      type_es: "provincia"
       latitude: 1.8330623
       longitude: 29.4980774
       cities:
@@ -2140,9 +2324,11 @@
           longitude: 30.25224
     -
       name: "Kasaï"
+      native: "Kasaï"
       code: "KS"
       iso3166_2: "CD-KS"
       type: "province"
+      type_es: "provincia"
       latitude: -4.8740862
       longitude: 21.1234899
       cities:
@@ -2164,18 +2350,22 @@
           longitude: 20.79995
     -
       name: "Kasaï Central"
+      native: "Kasaï Central"
       code: "KC"
       iso3166_2: "CD-KC"
       type: "province"
+      type_es: "provincia"
       latitude: -5.9046896
       longitude: 21.4334417
       cities:
         []
     -
       name: "Kasaï Oriental"
+      native: "Kasaï Oriental"
       code: "KE"
       iso3166_2: "CD-KE"
       type: "province"
+      type_es: "provincia"
       latitude: -6.1258942
       longitude: 23.5998111
       cities:
@@ -2193,9 +2383,11 @@
           longitude: 23.58979
     -
       name: "Kinshasa"
+      native: "Kinshasa"
       code: "KN"
       iso3166_2: "CD-KN"
       type: "city"
+      type_es: "ciudad"
       latitude: -4.32171
       longitude: 15.3122511
       cities:
@@ -2205,9 +2397,11 @@
           longitude: 15.31357
     -
       name: "Kongo Central"
+      native: "Kongo Central"
       code: "BC"
       iso3166_2: "CD-BC"
       type: "province"
+      type_es: "provincia"
       latitude: -5.1778483
       longitude: 14.3909935
       cities:
@@ -2237,9 +2431,11 @@
           longitude: 12.9484
     -
       name: "Kwango"
+      native: "Casse-casse"
       code: "KG"
       iso3166_2: "CD-KG"
       type: "province"
+      type_es: "provincia"
       latitude: -6.1822381
       longitude: 17.7711691
       cities:
@@ -2249,9 +2445,11 @@
           longitude: 16.81735
     -
       name: "Kwilu"
+      native: "Kwilu"
       code: "KL"
       iso3166_2: "CD-KL"
       type: "province"
+      type_es: "provincia"
       latitude: -4.8108497
       longitude: 18.805534
       cities:
@@ -2273,9 +2471,11 @@
           longitude: 19.53385
     -
       name: "Lomami"
+      native: "Lomami"
       code: "LO"
       iso3166_2: "CD-LO"
       type: "province"
+      type_es: "provincia"
       latitude: -6.128664
       longitude: 24.4577962
       cities:
@@ -2289,9 +2489,11 @@
           longitude: 23.45278
     -
       name: "Lualaba"
+      native: "Kriednle"
       code: "LU"
       iso3166_2: "CD-LU"
       type: "province"
+      type_es: "provincia"
       latitude: -10.7027809
       longitude: 25.4657979
       cities:
@@ -2305,9 +2507,11 @@
           longitude: 25.466667
     -
       name: "Mai-Ndombe"
+      native: "Peut"
       code: "MN"
       iso3166_2: "CD-MN"
       type: "province"
+      type_es: "provincia"
       latitude: -2.5406945
       longitude: 18.6065732
       cities:
@@ -2329,9 +2533,11 @@
           longitude: 17.69001
     -
       name: "Maniema"
+      native: "Maniema"
       code: "MA"
       iso3166_2: "CD-MA"
       type: "province"
+      type_es: "provincia"
       latitude: -2.9612778
       longitude: 25.9634848
       cities:
@@ -2349,9 +2555,11 @@
           longitude: 25.92237
     -
       name: "Mongala"
+      native: "Mongala"
       code: "MO"
       iso3166_2: "CD-MO"
       type: "province"
+      type_es: "provincia"
       latitude: 2.15406
       longitude: 21.4861221
       cities:
@@ -2361,9 +2569,11 @@
           longitude: 22.46827
     -
       name: "Nord-Kivu"
+      native: "Nord-Kivu"
       code: "NK"
       iso3166_2: "CD-NK"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5645647
       longitude: 28.7061945
       cities:
@@ -2385,9 +2595,11 @@
           longitude: 29.04339
     -
       name: "Nord-Ubangi"
+      native: "Nord-Deren-Christ"
       code: "NU"
       iso3166_2: "CD-NU"
       type: "province"
+      type_es: "provincia"
       latitude: 4.0175656
       longitude: 21.3779242
       cities:
@@ -2405,9 +2617,11 @@
           longitude: 21.00284
     -
       name: "Sankuru"
+      native: "Sankuru"
       code: "SA"
       iso3166_2: "CD-SA"
       type: "province"
+      type_es: "provincia"
       latitude: -3.5074885
       longitude: 23.5845039
       cities:
@@ -2421,9 +2635,11 @@
           longitude: 23.44391
     -
       name: "Sud-Kivu"
+      native: "Sud-Kivu"
       code: "SK"
       iso3166_2: "CD-SK"
       type: "province"
+      type_es: "provincia"
       latitude: -3.2968958
       longitude: 28.1674008
       cities:
@@ -2441,9 +2657,11 @@
           longitude: 29.13779
     -
       name: "Sud-Ubangi"
+      native: "Mousse"
       code: "SU"
       iso3166_2: "CD-SU"
       type: "province"
+      type_es: "provincia"
       latitude: 3.3283335
       longitude: 19.4627581
       cities:
@@ -2457,9 +2675,11 @@
           longitude: 18.63566
     -
       name: "Tanganyika"
+      native: "Tanganyika"
       code: "TA"
       iso3166_2: "CD-TA"
       type: "province"
+      type_es: "provincia"
       latitude: -6.7105797
       longitude: 27.9879861
       cities:
@@ -2477,9 +2697,11 @@
           longitude: 27.00029
     -
       name: "Tshopo"
+      native: "Tshopo"
       code: "TO"
       iso3166_2: "CD-TO"
       type: "province"
+      type_es: "provincia"
       latitude: 0.4991493
       longitude: 25.1651226
       cities:
@@ -2497,9 +2719,11 @@
           longitude: 24.43973
     -
       name: "Tshuapa"
+      native: "Thuapa"
       code: "TU"
       iso3166_2: "CD-TU"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5875933
       longitude: 22.1544364
       cities:
@@ -2521,16 +2745,20 @@
   currency_symbol: "FCFA"
   tld: ".gq"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 2
   longitude: 10
   emoji: "🇬🇶"
   states:
     -
       name: "Annobón"
+      native: "Annobón"
       code: "AN"
       iso3166_2: "GQ-AN"
       type: "province"
+      type_es: "provincia"
       latitude: -1.4268782
       longitude: 5.6352801
       cities:
@@ -2540,9 +2768,11 @@
           longitude: 5.63178
     -
       name: "Bioko Norte"
+      native: "Bioko norte"
       code: "BN"
       iso3166_2: "GQ-BN"
       type: "province"
+      type_es: "provincia"
       latitude: 3.6484594
       longitude: 8.7851155
       cities:
@@ -2560,9 +2790,11 @@
           longitude: 8.9084
     -
       name: "Bioko Sur"
+      native: "Bioko sur"
       code: "BS"
       iso3166_2: "GQ-BS"
       type: "province"
+      type_es: "provincia"
       latitude: 3.4245254
       longitude: 8.6646092
       cities:
@@ -2572,9 +2804,11 @@
           longitude: 8.55465
     -
       name: "Centro Sur"
+      native: "Centro Sur"
       code: "CS"
       iso3166_2: "GQ-CS"
       type: "province"
+      type_es: "provincia"
       latitude: 1.3969966
       longitude: 10.4538528
       cities:
@@ -2592,9 +2826,11 @@
           longitude: 10.55124
     -
       name: "Djibloho"
+      native: "Djibloho"
       code: "DJ"
       iso3166_2: "GQ-DJ"
       type: "province"
+      type_es: "provincia"
       latitude: 1.6
       longitude: 10.8
       cities:
@@ -2608,18 +2844,22 @@
           longitude: 10.9
     -
       name: "Insular"
+      native: "Insular"
       code: "I"
       iso3166_2: "GQ-I"
       type: "region"
+      type_es: "región"
       latitude: 3.4986523
       longitude: 8.7136062
       cities:
         []
     -
       name: "Kié-Ntem"
+      native: "A quien hice"
       code: "KN"
       iso3166_2: "GQ-KN"
       type: "province"
+      type_es: "provincia"
       latitude: 2.0579266
       longitude: 10.9855916
       cities:
@@ -2641,9 +2881,11 @@
           longitude: 10.94599
     -
       name: "Litoral"
+      native: "Costero"
       code: "LI"
       iso3166_2: "GQ-LI"
       type: "province"
+      type_es: "provincia"
       latitude: 1.6026374
       longitude: 9.841569
       cities:
@@ -2673,18 +2915,22 @@
           longitude: 9.82212
     -
       name: "Río Muni"
+      native: "Río Muni"
       code: "C"
       iso3166_2: "GQ-C"
       type: "region"
+      type_es: "región"
       latitude: 1.0570951
       longitude: 9.6532917
       cities:
         []
     -
       name: "Wele-Nzas"
+      native: "Wele-nza"
       code: "WN"
       iso3166_2: "GQ-WN"
       type: "province"
+      type_es: "provincia"
       latitude: 1.4648719
       longitude: 11.131676
       cities:
@@ -2726,16 +2972,20 @@
   currency_symbol: "FCFA"
   tld: ".ga"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: -1
   longitude: 11.75
   emoji: "🇬🇦"
   states:
     -
       name: "Estuaire"
+      native: "Estuaire"
       code: "1"
       iso3166_2: "GA-1"
       type: "province"
+      type_es: "provincia"
       latitude: 0.4302639
       longitude: 9.4655189
       cities:
@@ -2753,9 +3003,11 @@
           longitude: 9.76096
     -
       name: "Haut-Ogooué"
+      native: "Haut-Ogooué"
       code: "2"
       iso3166_2: "GA-2"
       type: "province"
+      type_es: "provincia"
       latitude: -1.231544
       longitude: 13.8309713
       cities:
@@ -2781,9 +3033,11 @@
           longitude: 13.67533
     -
       name: "Moyen-Ogooué"
+      native: "Moyen-Ogooué"
       code: "3"
       iso3166_2: "GA-3"
       type: "province"
+      type_es: "provincia"
       latitude: -0.5003495
       longitude: 10.4991063
       cities:
@@ -2797,9 +3051,11 @@
           longitude: 10.76488
     -
       name: "Ngounié"
+      native: "Ngounié"
       code: "4"
       iso3166_2: "GA-4"
       type: "province"
+      type_es: "provincia"
       latitude: -1.5910727
       longitude: 10.978503
       cities:
@@ -2825,9 +3081,11 @@
           longitude: 11.35813
     -
       name: "Nyanga"
+      native: "Lune"
       code: "5"
       iso3166_2: "GA-5"
       type: "province"
+      type_es: "provincia"
       latitude: -3.0080415
       longitude: 10.9964746
       cities:
@@ -2841,9 +3099,11 @@
           longitude: 10.98178
     -
       name: "Ogooué-Ivindo"
+      native: "Ogooué-Ivindo"
       code: "6"
       iso3166_2: "GA-6"
       type: "province"
+      type_es: "provincia"
       latitude: 0.60082
       longitude: 12.6887911
       cities:
@@ -2861,9 +3121,11 @@
           longitude: 13.90813
     -
       name: "Ogooué-Lolo"
+      native: "Ogooué-lolo"
       code: "7"
       iso3166_2: "GA-7"
       type: "province"
+      type_es: "provincia"
       latitude: -1.0002904
       longitude: 12.4952424
       cities:
@@ -2877,9 +3139,11 @@
           longitude: 12.70818
     -
       name: "Ogooué-Maritime"
+      native: "Ogooué-Maritime"
       code: "8"
       iso3166_2: "GA-8"
       type: "province"
+      type_es: "provincia"
       latitude: -1.4958157
       longitude: 9.5060896
       cities:
@@ -2897,9 +3161,11 @@
           longitude: 8.78151
     -
       name: "Woleu-Ntem"
+      native: "Woleu-Ntem"
       code: "9"
       iso3166_2: "GA-9"
       type: "province"
+      type_es: "provincia"
       latitude: 1.2950125
       longitude: 11.8218827
       cities:
@@ -2929,16 +3195,20 @@
   currency_symbol: "Db"
   tld: ".st"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 1
   longitude: 7
   emoji: "🇸🇹"
   states:
     -
       name: "Água Grande"
+      native: "Água Grande"
       code: "01"
       iso3166_2: "ST-01"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3301924
       longitude: 6.733343
       cities:
@@ -2948,9 +3218,11 @@
           longitude: 6.72732
     -
       name: "Cantagalo"
+      native: "Cantagalo"
       code: "02"
       iso3166_2: "ST-02"
       type: "district"
+      type_es: "distrito"
       latitude: 0.21667
       longitude: 6.7
       cities:
@@ -2960,9 +3232,11 @@
           longitude: 6.73444
     -
       name: "Caué"
+      native: "Caué"
       code: "03"
       iso3166_2: "ST-03"
       type: "district"
+      type_es: "distrito"
       latitude: 0.13415
       longitude: 6.63825
       cities:
@@ -2972,9 +3246,11 @@
           longitude: 6.64972
     -
       name: "Lemba"
+      native: "Lemba"
       code: "04"
       iso3166_2: "ST-04"
       type: "district"
+      type_es: "distrito"
       latitude: 0.22
       longitude: 6.58
       cities:
@@ -2984,9 +3260,11 @@
           longitude: 6.55
     -
       name: "Lobata"
+      native: "Lobata"
       code: "05"
       iso3166_2: "ST-05"
       type: "district"
+      type_es: "distrito"
       latitude: 0.41
       longitude: 6.61
       cities:
@@ -2996,9 +3274,11 @@
           longitude: 6.61667
     -
       name: "Mé-Zóchi"
+      native: "Mé-Zóchi"
       code: "06"
       iso3166_2: "ST-06"
       type: "district"
+      type_es: "distrito"
       latitude: 0.3
       longitude: 6.6
       cities:
@@ -3008,9 +3288,11 @@
           longitude: 6.68139
     -
       name: "Príncipe"
+      native: "Príncipe"
       code: "P"
       iso3166_2: "ST-P"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 1.6139381
       longitude: 7.4056928
       cities:
@@ -3032,43 +3314,53 @@
   currency_symbol: "£"
   tld: ".ss"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: 7
   longitude: 30
   emoji: "🇸🇸"
   states:
     -
       name: "Central Equatoria"
+      native: "Central Equatoria"
       code: "EC"
       iso3166_2: "SS-EC"
       type: "state"
+      type_es: "estado"
       latitude: 5
       longitude: 31.5
       cities:
         []
     -
       name: "Eastern Equatoria"
+      native: "Eastern Equatoria"
       code: "EE"
       iso3166_2: "SS-EE"
       type: "state"
+      type_es: "estado"
       latitude: 5.283932
       longitude: 33.5912329
       cities:
         []
     -
       name: "Jonglei State"
+      native: "Jonglei State"
       code: "JG"
       iso3166_2: "SS-JG"
       type: "state"
+      type_es: "estado"
       latitude: 8
       longitude: 32
       cities:
         []
     -
       name: "Lakes"
+      native: "Lakes"
       code: "LK"
       iso3166_2: "SS-LK"
       type: "state"
+      type_es: "estado"
       latitude: 6.7526716
       longitude: 30.0948429
       cities:
@@ -3078,54 +3370,66 @@
           longitude: 30.49806
     -
       name: "Northern Bahr el Ghazal"
+      native: "Northern Bahr el Ghazal"
       code: "BN"
       iso3166_2: "SS-BN"
       type: "state"
+      type_es: "estado"
       latitude: 9
       longitude: 27
       cities:
         []
     -
       name: "Unity"
+      native: "Unity"
       code: "UY"
       iso3166_2: "SS-UY"
       type: "state"
+      type_es: "estado"
       latitude: 8.4582525
       longitude: 29.9560547
       cities:
         []
     -
       name: "Upper Nile"
+      native: "Upper Nile"
       code: "NU"
       iso3166_2: "SS-NU"
       type: "state"
+      type_es: "estado"
       latitude: 9
       longitude: 33
       cities:
         []
     -
       name: "Warrap"
+      native: "Warrap"
       code: "WR"
       iso3166_2: "SS-WR"
       type: "state"
+      type_es: "estado"
       latitude: 7.9132688
       longitude: 28.9588141
       cities:
         []
     -
       name: "Western Bahr el Ghazal"
+      native: "Western bahr el ghazal"
       code: "BW"
       iso3166_2: "SS-BW"
       type: "state"
+      type_es: "estado"
       latitude: 8.5455555
       longitude: 25.2224504
       cities:
         []
     -
       name: "Western Equatoria"
+      native: "Western Equatoria"
       code: "EW"
       iso3166_2: "SS-EW"
       type: "state"
+      type_es: "estado"
       latitude: 5.5381215
       longitude: 29.1495118
       cities:

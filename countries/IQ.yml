@@ -12,16 +12,20 @@
   currency_symbol: "د.ع"
   tld: ".iq"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Western Asia"
+  subregion_es: "Asia Occidental"
   latitude: 33
   longitude: 44
   emoji: "🇮🇶"
   states:
     -
       name: "Al Anbar"
+      native: "الأنبار"
       code: "AN"
       iso3166_2: "IQ-AN"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.7889443
       longitude: 41.6093983
       cities:
@@ -63,9 +67,11 @@
           longitude: 41.91898
     -
       name: "Al Muthanna"
+      native: "المثنى"
       code: "MU"
       iso3166_2: "IQ-MU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.5923739
       longitude: 45.2916041
       cities:
@@ -79,9 +85,11 @@
           longitude: 45.2944
     -
       name: "Al-Qādisiyyah"
+      native: "القادسية"
       code: "QA"
       iso3166_2: "IQ-QA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.9599617
       longitude: 45.1197814
       cities:
@@ -107,9 +115,11 @@
           longitude: 44.6196
     -
       name: "Babylon"
+      native: "بابل"
       code: "BB"
       iso3166_2: "IQ-BB"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.6319335
       longitude: 44.5629362
       cities:
@@ -131,9 +141,11 @@
           longitude: 44.27857
     -
       name: "Baghdad"
+      native: "بغداد"
       code: "BG"
       iso3166_2: "IQ-BG"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.3061701
       longitude: 44.3872213
       cities:
@@ -367,9 +379,11 @@
           longitude: 44.454546
     -
       name: "Basra"
+      native: "البصرة"
       code: "BA"
       iso3166_2: "IQ-BA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 30.4952371
       longitude: 47.8090981
       cities:
@@ -399,9 +413,11 @@
           longitude: 47.91951
     -
       name: "Dhi Qar"
+      native: "ذي قار"
       code: "DQ"
       iso3166_2: "IQ-DQ"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.2857941
       longitude: 46.3068347
       cities:
@@ -419,9 +435,11 @@
           longitude: 46.25726
     -
       name: "Diyala"
+      native: "ديالى"
       code: "DI"
       iso3166_2: "IQ-DI"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.0228719
       longitude: 45.1046224
       cities:
@@ -455,9 +473,11 @@
           longitude: 44.85821
     -
       name: "Dohuk"
+      native: "دهوك"
       code: "DA"
       iso3166_2: "IQ-DA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.8542598
       longitude: 42.9924528
       cities:
@@ -483,9 +503,11 @@
           longitude: 42.68591
     -
       name: "Erbil"
+      native: "أربيل"
       code: "AR"
       iso3166_2: "IQ-AR"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.5479007
       longitude: 44.4788356
       cities:
@@ -515,18 +537,22 @@
           longitude: 44.54407
     -
       name: "Iqlim Kurdistan"
+      native: "ھەرێمی کوردستان"
       code: "KR"
       iso3166_2: "IQ-KR"
       type: "region"
+      type_es: "región"
       latitude: 36.18333333
       longitude: 44
       cities:
         []
     -
       name: "Karbala"
+      native: "كربلاء"
       code: "KA"
       iso3166_2: "IQ-KA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.4511703
       longitude: 43.8196617
       cities:
@@ -540,9 +566,11 @@
           longitude: 44.02488
     -
       name: "Kirkuk"
+      native: "كركوك"
       code: "KI"
       iso3166_2: "IQ-KI"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.2960094
       longitude: 44.0311953
       cities:
@@ -552,9 +580,11 @@
           longitude: 44.39222
     -
       name: "Maysan"
+      native: "ميسان"
       code: "MA"
       iso3166_2: "IQ-MA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.0182542
       longitude: 47.0695957
       cities:
@@ -572,9 +602,11 @@
           longitude: 47.20355
     -
       name: "Najaf"
+      native: "النجف"
       code: "NA"
       iso3166_2: "IQ-NA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.338353
       longitude: 43.8411337
       cities:
@@ -592,9 +624,11 @@
           longitude: 44.34625
     -
       name: "Nineveh"
+      native: "نينوى"
       code: "NI"
       iso3166_2: "IQ-NI"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.0367935
       longitude: 42.3168623
       cities:
@@ -632,9 +666,11 @@
           longitude: 43.12114
     -
       name: "Saladin"
+      native: "صلاح الدين"
       code: "SD"
       iso3166_2: "IQ-SD"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.376222
       longitude: 43.6446504
       cities:
@@ -664,9 +700,11 @@
           longitude: 44.63256
     -
       name: "Sulaymaniyah"
+      native: "السليمانية"
       code: "SU"
       iso3166_2: "IQ-SU"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.5574725
       longitude: 45.435202
       cities:
@@ -688,9 +726,11 @@
           longitude: 44.8343
     -
       name: "Wasit"
+      native: "واسط"
       code: "WA"
       iso3166_2: "IQ-WA"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 32.6944827
       longitude: 45.6848009
       cities:

@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(77, 'French Polynesia', 'PF', 'PYF', 'Oceania', 'Polynesia', 'Papeete', 'XPF', -15, -140, '🇵🇫');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(77, 'French Polynesia', 'Polinesia Francesa', 'PF', 'PYF', 'Oceania', 'Oceanía', 'Polynesia', 'Polinesia', 'Papeete', 'XPF', -15, -140, '🇵🇫');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(5369, 'Austral Islands', 77, 'PF', '01', 'division', -23.3655617, -149.4620816),
-(5370, 'Leeward Islands', 77, 'PF', '02', 'division', -16.6308348, -151.5039159),
-(5371, 'Marquesas Islands', 77, 'PF', '03', 'division', -9.7793255, -139.0067835),
-(5372, 'Tuamotu-Gambier', 77, 'PF', '04', 'division', -18.8027687, -141.9054929),
-(5373, 'Windward Islands', 77, 'PF', '05', 'division', -17.6873439, -149.4451681);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(5369, 'Austral Islands', 'Îles austral', 77, 'PF', '01', 'division', 'división', -23.3655617, -149.4620816),
+(5370, 'Leeward Islands', 'Îles sous le vent', 77, 'PF', '02', 'division', 'división', -16.6308348, -151.5039159),
+(5371, 'Marquesas Islands', 'Îles de Marquesas', 77, 'PF', '03', 'division', 'división', -9.7793255, -139.0067835),
+(5372, 'Tuamotu-Gambier', 'Tuamotu-gambier', 77, 'PF', '04', 'division', 'división', -18.8027687, -141.9054929),
+(5373, 'Windward Islands', 'Îles du vent', 77, 'PF', '05', 'division', 'división', -17.6873439, -149.4451681);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (154867, 'Raivavae', 5369, 77, -23.8694633, -147.7324472),

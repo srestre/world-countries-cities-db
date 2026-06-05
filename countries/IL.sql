@@ -1,27 +1,27 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(106, 'Israel', 'IL', 'ISR', 'Asia', 'Western Asia', 'Jerusalem', 'ILS', 31.5, 34.75, '🇮🇱');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(106, 'Israel', 'Israel', 'IL', 'ISR', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Jerusalem', 'ILS', 31.5, 34.75, '🇮🇱');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1367, 'Central', 106, 'IL', 'M', 'district', -25.348206, -57.569615),
-(1369, 'Haifa', 106, 'IL', 'HA', 'district', 32.6304297, 34.9800992),
-(1370, 'Jerusalem', 106, 'IL', 'JM', 'district', 31.7428253, 35.064069),
-(1366, 'Northern', 106, 'IL', 'Z', 'district', 33.0601833, 35.2448195),
-(1368, 'Southern', 106, 'IL', 'D', 'district', 30.6823334, 34.8824229),
-(1371, 'Tel Aviv', 106, 'IL', 'TA', 'district', 32.0929075, 34.8072165);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1367, 'Central', 'Central', 106, 'IL', 'M', 'district', 'distrito', -25.348206, -57.569615),
+(1369, 'Haifa', 'Haifa', 106, 'IL', 'HA', 'district', 'distrito', 32.6304297, 34.9800992),
+(1370, 'Jerusalem', 'Jerusalem', 106, 'IL', 'JM', 'district', 'distrito', 31.7428253, 35.064069),
+(1366, 'Northern', 'Northern', 106, 'IL', 'Z', 'district', 'distrito', 33.0601833, 35.2448195),
+(1368, 'Southern', 'Southern', 106, 'IL', 'D', 'district', 'distrito', 30.6823334, 34.8824229),
+(1371, 'Tel Aviv', 'Tel Aviv', 106, 'IL', 'TA', 'district', 'distrito', 32.0929075, 34.8072165);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (57446, 'Bet Dagan', 1367, 106, 32.00191, 34.82977),

@@ -12,16 +12,20 @@
   currency_symbol: "RM"
   tld: ".my"
   region: "Asia"
+  region_es: "Asia"
   subregion: "South-Eastern Asia"
+  subregion_es: "Sudeste Asiático"
   latitude: 2.5
   longitude: 112.5
   emoji: "🇲🇾"
   states:
     -
       name: "Johor"
+      native: "Johor"
       code: "01"
       iso3166_2: "MY-01"
       type: "state"
+      type_es: "estado"
       latitude: 2.0228821
       longitude: 103.3114564
       cities:
@@ -151,9 +155,11 @@
           longitude: 103.0659
     -
       name: "Kedah"
+      native: "Kedah"
       code: "02"
       iso3166_2: "MY-02"
       type: "state"
+      type_es: "estado"
       latitude: 5.8098265
       longitude: 100.6715035
       cities:
@@ -215,9 +221,11 @@
           longitude: 100.48772
     -
       name: "Kelantan"
+      native: "Kelantan"
       code: "03"
       iso3166_2: "MY-03"
       type: "state"
+      type_es: "estado"
       latitude: 5.4021302
       longitude: 102.0635972
       cities:
@@ -251,9 +259,11 @@
           longitude: 102.17098
     -
       name: "Kuala Lumpur"
+      native: "Kuala Lumpur"
       code: "14"
       iso3166_2: "MY-14"
       type: "federal territory"
+      type_es: "territorio federal"
       latitude: 3.1516964
       longitude: 101.6942371
       cities:
@@ -263,9 +273,11 @@
           longitude: 101.68653
     -
       name: "Labuan"
+      native: "Labuan"
       code: "15"
       iso3166_2: "MY-15"
       type: "federal territory"
+      type_es: "territorio federal"
       latitude: 5.3168336
       longitude: 115.2198613
       cities:
@@ -275,9 +287,11 @@
           longitude: 115.2475
     -
       name: "Malacca"
+      native: "Melaka"
       code: "04"
       iso3166_2: "MY-04"
       type: "state"
+      type_es: "estado"
       latitude: 2.189594
       longitude: 102.2500868
       cities:
@@ -335,9 +349,11 @@
           longitude: 102.1427
     -
       name: "Negeri Sembilan"
+      native: "Negeri Sembilan"
       code: "05"
       iso3166_2: "MY-05"
       type: "state"
+      type_es: "estado"
       latitude: 2.7831895
       longitude: 102.1925319
       cities:
@@ -367,9 +383,11 @@
           longitude: 102.2302
     -
       name: "Pahang"
+      native: "Pahang"
       code: "06"
       iso3166_2: "MY-06"
       type: "state"
+      type_es: "estado"
       latitude: 3.6168822
       longitude: 102.5994547
       cities:
@@ -419,9 +437,11 @@
           longitude: 102.4176
     -
       name: "Penang"
+      native: "Pulau Pinang"
       code: "07"
       iso3166_2: "MY-07"
       type: "state"
+      type_es: "estado"
       latitude: 5.4065013
       longitude: 100.2559077
       cities:
@@ -487,9 +507,11 @@
           longitude: 100.23333
     -
       name: "Perak"
+      native: "Perak"
       code: "08"
       iso3166_2: "MY-08"
       type: "state"
+      type_es: "estado"
       latitude: 4.812181
       longitude: 100.9797908
       cities:
@@ -551,9 +573,11 @@
           longitude: 101.02083
     -
       name: "Perlis"
+      native: "Perlis"
       code: "09"
       iso3166_2: "MY-09"
       type: "state"
+      type_es: "estado"
       latitude: 6.4868392
       longitude: 100.2577623
       cities:
@@ -571,9 +595,11 @@
           longitude: 99.72786
     -
       name: "Putrajaya"
+      native: "Putrajaya"
       code: "16"
       iso3166_2: "MY-16"
       type: "federal territory"
+      type_es: "territorio federal"
       latitude: 2.9384381
       longitude: 101.69223
       cities:
@@ -583,9 +609,11 @@
           longitude: 101.69112
     -
       name: "Sabah"
+      native: "Sabah"
       code: "12"
       iso3166_2: "MY-12"
       type: "state"
+      type_es: "estado"
       latitude: 5.4257359
       longitude: 117.0326392
       cities:
@@ -655,9 +683,11 @@
           longitude: 117.89115
     -
       name: "Sarawak"
+      native: "Sarawak"
       code: "13"
       iso3166_2: "MY-13"
       type: "state"
+      type_es: "estado"
       latitude: 2.5023855
       longitude: 112.9547283
       cities:
@@ -719,9 +749,11 @@
           longitude: 111.45278
     -
       name: "Selangor"
+      native: "Selangor"
       code: "10"
       iso3166_2: "MY-10"
       type: "state"
+      type_es: "estado"
       latitude: 3.2083304
       longitude: 101.304146
       cities:
@@ -999,9 +1031,11 @@
           longitude: 101.55
     -
       name: "Terengganu"
+      native: "Terengganu"
       code: "11"
       iso3166_2: "MY-11"
       type: "state"
+      type_es: "estado"
       latitude: 4.8630743
       longitude: 102.9949297
       cities:

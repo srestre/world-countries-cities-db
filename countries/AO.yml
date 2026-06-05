@@ -12,16 +12,20 @@
   currency_symbol: "Kz"
   tld: ".ao"
   region: "Africa"
+  region_es: "África"
   subregion: "Middle Africa"
+  subregion_es: "África Central"
   latitude: -12.5
   longitude: 18.5
   emoji: "🇦🇴"
   states:
     -
       name: "Bengo"
+      native: "Porta-malas"
       code: "BGO"
       iso3166_2: "AO-BGO"
       type: "province"
+      type_es: "provincia"
       latitude: -8.3196672
       longitude: 13.8656195
       cities:
@@ -59,9 +63,11 @@
           longitude: 13.6829
     -
       name: "Benguela"
+      native: "Benguela"
       code: "BGU"
       iso3166_2: "AO-BGU"
       type: "province"
+      type_es: "provincia"
       latitude: -12.9104657
       longitude: 14.0356608
       cities:
@@ -111,9 +117,11 @@
           longitude: 13.8448
     -
       name: "Bié"
+      native: "Bié"
       code: "BIE"
       iso3166_2: "AO-BIE"
       type: "province"
+      type_es: "provincia"
       latitude: -12.2630485
       longitude: 17.4967812
       cities:
@@ -135,9 +143,11 @@
           longitude: 16.93333
     -
       name: "Cabinda"
+      native: "Cabinda"
       code: "CAB"
       iso3166_2: "AO-CAB"
       type: "province"
+      type_es: "provincia"
       latitude: -5.056395
       longitude: 12.3211749
       cities:
@@ -147,9 +157,11 @@
           longitude: 12.2
     -
       name: "Cuando Cubango"
+      native: "Quando Cubango"
       code: "CCU"
       iso3166_2: "AO-CCU"
       type: "province"
+      type_es: "provincia"
       latitude: -16.0457694
       longitude: 19.5621532
       cities:
@@ -159,9 +171,11 @@
           longitude: 17.69099
     -
       name: "Cuanza"
+      native: "Quanza"
       code: "CUS"
       iso3166_2: "AO-CUS"
       type: "province"
+      type_es: "provincia"
       latitude: -10.7707527
       longitude: 15.0975712
       cities:
@@ -179,9 +193,11 @@
           longitude: 15.11719
     -
       name: "Cuanza Norte"
+      native: "Cuanza Norte"
       code: "CNO"
       iso3166_2: "AO-CNO"
       type: "province"
+      type_es: "provincia"
       latitude: -9.0296752
       longitude: 15.0926324
       cities:
@@ -195,9 +211,11 @@
           longitude: 14.91162
     -
       name: "Cunene"
+      native: "Cunene"
       code: "CNN"
       iso3166_2: "AO-CNN"
       type: "province"
+      type_es: "provincia"
       latitude: -16.5568536
       longitude: 15.7867319
       cities:
@@ -207,9 +225,11 @@
           longitude: 15.73333
     -
       name: "Huambo"
+      native: "Huambo"
       code: "HUA"
       iso3166_2: "AO-HUA"
       type: "province"
+      type_es: "provincia"
       latitude: -12.6076318
       longitude: 15.7411039
       cities:
@@ -231,9 +251,11 @@
           longitude: 15.25333
     -
       name: "Huíla"
+      native: "Huíla"
       code: "HUI"
       iso3166_2: "AO-HUI"
       type: "province"
+      type_es: "provincia"
       latitude: -14.6957808
       longitude: 15.0976293
       cities:
@@ -291,9 +313,11 @@
           longitude: 14.55953
     -
       name: "Luanda"
+      native: "Luanda"
       code: "LUA"
       iso3166_2: "AO-LUA"
       type: "province"
+      type_es: "provincia"
       latitude: -8.8315747
       longitude: 13.24797
       cities:
@@ -327,9 +351,11 @@
           longitude: 13.2861
     -
       name: "Lunda Norte"
+      native: "Lunda Norte"
       code: "LNO"
       iso3166_2: "AO-LNO"
       type: "province"
+      type_es: "provincia"
       latitude: -8.5088253
       longitude: 19.7538618
       cities:
@@ -339,9 +365,11 @@
           longitude: 20.27045
     -
       name: "Lunda Sul"
+      native: "Lunda Sul"
       code: "LSU"
       iso3166_2: "AO-LSU"
       type: "province"
+      type_es: "provincia"
       latitude: -10.1473779
       longitude: 20.9907756
       cities:
@@ -355,9 +383,11 @@
           longitude: 20.39155
     -
       name: "Malanje"
+      native: "Malanje"
       code: "MAL"
       iso3166_2: "AO-MAL"
       type: "province"
+      type_es: "provincia"
       latitude: -9.535332
       longitude: 16.9364293
       cities:
@@ -367,9 +397,11 @@
           longitude: 16.34096
     -
       name: "Moxico"
+      native: "Moxico"
       code: "MOX"
       iso3166_2: "AO-MOX"
       type: "province"
+      type_es: "provincia"
       latitude: -12.7287195
       longitude: 21.2737637
       cities:
@@ -391,9 +423,11 @@
           longitude: 20.78333
     -
       name: "Namibe"
+      native: "Namibe"
       code: "NAM"
       iso3166_2: "AO-NAM"
       type: "province"
+      type_es: "provincia"
       latitude: -15.2
       longitude: 12.15
       cities:
@@ -419,9 +453,11 @@
           longitude: 13.2667
     -
       name: "Uíge"
+      native: "Uíge"
       code: "UIG"
       iso3166_2: "AO-UIG"
       type: "province"
+      type_es: "provincia"
       latitude: -6.9516802
       longitude: 15.4799164
       cities:
@@ -431,9 +467,11 @@
           longitude: 15.06131
     -
       name: "Zaire"
+      native: "Zaire"
       code: "ZAI"
       iso3166_2: "AO-ZAI"
       type: "province"
+      type_es: "provincia"
       latitude: -6.6925131
       longitude: 13.5293029
       cities:

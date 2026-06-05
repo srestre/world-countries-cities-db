@@ -1,13 +1,13 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-RW,Rwanda,Africa,Eastern Africa,02,Eastern,Kibungo,-2.1597,30.5427
-RW,Rwanda,Africa,Eastern Africa,02,Eastern,Rwamagana,-1.9487,30.4347
-RW,Rwanda,Africa,Eastern Africa,01,Kigali,Kigali,-1.94995,30.05885
-RW,Rwanda,Africa,Eastern Africa,03,Northern,Byumba,-1.5763,30.0675
-RW,Rwanda,Africa,Eastern Africa,03,Northern,Musanze,-1.49984,29.63497
-RW,Rwanda,Africa,Eastern Africa,05,Southern,Butare,-2.59667,29.73944
-RW,Rwanda,Africa,Eastern Africa,05,Southern,Eglise Catholique Centrale GIKO,-1.93653,29.8061
-RW,Rwanda,Africa,Eastern Africa,05,Southern,Gitarama,-2.07444,29.75667
-RW,Rwanda,Africa,Eastern Africa,05,Southern,Nzega,-2.479,29.5564
-RW,Rwanda,Africa,Eastern Africa,04,Western,Cyangugu,-2.4846,28.9075
-RW,Rwanda,Africa,Eastern Africa,04,Western,Gisenyi,-1.70278,29.25639
-RW,Rwanda,Africa,Eastern Africa,04,Western,Kibuye,-2.06028,29.34778
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,02,Eastern,province,provincia,Kibungo,-2.1597,30.5427
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,02,Eastern,province,provincia,Rwamagana,-1.9487,30.4347
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,01,Kigali,city,ciudad,Kigali,-1.94995,30.05885
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,03,Northern,province,provincia,Byumba,-1.5763,30.0675
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,03,Northern,province,provincia,Musanze,-1.49984,29.63497
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,05,Southern,province,provincia,Butare,-2.59667,29.73944
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,05,Southern,province,provincia,Eglise Catholique Centrale GIKO,-1.93653,29.8061
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,05,Southern,province,provincia,Gitarama,-2.07444,29.75667
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,05,Southern,province,provincia,Nzega,-2.479,29.5564
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,04,Western,province,provincia,Cyangugu,-2.4846,28.9075
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,04,Western,province,provincia,Gisenyi,-1.70278,29.25639
+RW,Rwanda,Ruanda,Africa,África,Eastern Africa,África Oriental,04,Western,province,provincia,Kibuye,-2.06028,29.34778

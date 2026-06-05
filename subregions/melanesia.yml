@@ -12,43 +12,53 @@
   currency_symbol: "FJ$"
   tld: ".fj"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -18
   longitude: 175
   emoji: "🇫🇯"
   states:
     -
       name: "Ba"
+      native: "Ba"
       code: "01"
       iso3166_2: "FJ-01"
       type: "province"
+      type_es: "provincia"
       latitude: 36.0613893
       longitude: -95.8005872
       cities:
         []
     -
       name: "Bua"
+      native: "Bua"
       code: "02"
       iso3166_2: "FJ-02"
       type: "province"
+      type_es: "provincia"
       latitude: 43.0964584
       longitude: -89.50088
       cities:
         []
     -
       name: "Cakaudrove"
+      native: "Cakaudrove"
       code: "03"
       iso3166_2: "FJ-03"
       type: "province"
+      type_es: "provincia"
       latitude: -16.8133648
       longitude: 179.2868682
       cities:
         []
     -
       name: "Central"
+      native: "Central"
       code: "C"
       iso3166_2: "FJ-C"
       type: "division"
+      type_es: "división"
       latitude: 34.0440066
       longitude: -118.2472738
       cities:
@@ -78,9 +88,11 @@
           longitude: 178.5
     -
       name: "Eastern"
+      native: "Eastern"
       code: "E"
       iso3166_2: "FJ-E"
       type: "division"
+      type_es: "división"
       latitude: 32.8094305
       longitude: -117.1289937
       cities:
@@ -102,72 +114,88 @@
           longitude: 178.8
     -
       name: "Kadavu"
+      native: "Kadavu"
       code: "04"
       iso3166_2: "FJ-04"
       type: "province"
+      type_es: "provincia"
       latitude: -19.0127122
       longitude: 178.1876676
       cities:
         []
     -
       name: "Lau"
+      native: "Lau"
       code: "05"
       iso3166_2: "FJ-05"
       type: "province"
+      type_es: "provincia"
       latitude: 31.6687015
       longitude: -106.3955763
       cities:
         []
     -
       name: "Lomaiviti"
+      native: "Lomaiviti"
       code: "06"
       iso3166_2: "FJ-06"
       type: "province"
+      type_es: "provincia"
       latitude: -17.709
       longitude: 179.091
       cities:
         []
     -
       name: "Macuata"
+      native: "Mute"
       code: "07"
       iso3166_2: "FJ-07"
       type: "province"
+      type_es: "provincia"
       latitude: -16.4864922
       longitude: 179.2847251
       cities:
         []
     -
       name: "Nadroga-Navosa"
+      native: "Grahoga-navos"
       code: "08"
       iso3166_2: "FJ-08"
       type: "province"
+      type_es: "provincia"
       latitude: -17.9865278
       longitude: 177.658113
       cities:
         []
     -
       name: "Naitasiri"
+      native: "I have it"
       code: "09"
       iso3166_2: "FJ-09"
       type: "province"
+      type_es: "provincia"
       latitude: -17.8975754
       longitude: 178.2071598
       cities:
         []
     -
       name: "Namosi"
+      native: "Nomis"
       code: "10"
       iso3166_2: "FJ-10"
       type: "province"
+      type_es: "provincia"
       latitude: -18.0864176
       longitude: 178.1291387
       cities:
         []
     -
       name: "Northern"
+      native: "Northern"
       code: "N"
       iso3166_2: "FJ-N"
       type: "division"
+      type_es: "división"
       latitude: -16.8133648
       longitude: 179.2868682
       cities:
@@ -189,54 +217,66 @@
           longitude: 179.25
     -
       name: "Ra"
+      native: "Ra"
       code: "11"
       iso3166_2: "FJ-11"
       type: "province"
+      type_es: "provincia"
       latitude: 37.1003153
       longitude: -95.6744246
       cities:
         []
     -
       name: "Rewa"
+      native: "Rewa"
       code: "12"
       iso3166_2: "FJ-12"
       type: "province"
+      type_es: "provincia"
       latitude: 34.7923517
       longitude: -82.3609264
       cities:
         []
     -
       name: "Rotuma"
+      native: "Rotum"
       code: "R"
       iso3166_2: "FJ-R"
       type: "dependency"
+      type_es: "dependencia"
       latitude: -12.5025069
       longitude: 177.0724164
       cities:
         []
     -
       name: "Serua"
+      native: "Serua"
       code: "13"
       iso3166_2: "FJ-13"
       type: "province"
+      type_es: "provincia"
       latitude: -18.1804749
       longitude: 178.050979
       cities:
         []
     -
       name: "Tailevu"
+      native: "Tailev"
       code: "14"
       iso3166_2: "FJ-14"
       type: "province"
+      type_es: "provincia"
       latitude: -17.8269111
       longitude: 178.293248
       cities:
         []
     -
       name: "Western"
+      native: "Western"
       code: "W"
       iso3166_2: "FJ-W"
       type: "division"
+      type_es: "división"
       latitude: 42.9662198
       longitude: -78.7021134
       cities:
@@ -278,16 +318,20 @@
   currency_symbol: "₣"
   tld: ".nc"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -21.5
   longitude: 165.5
   emoji: "🇳🇨"
   states:
     -
       name: "Loyalty Islands Province"
+      native: "Loyalty Islands Province"
       code: "03"
       iso3166_2: "NC-03"
       type: "province"
+      type_es: "provincia"
       latitude: -20.972966
       longitude: 167.2884295
       cities:
@@ -301,9 +345,11 @@
           longitude: 167.9833
     -
       name: "North Province"
+      native: "Province du Nord"
       code: "02"
       iso3166_2: "NC-02"
       type: "province"
+      type_es: "provincia"
       latitude: -20.1472512
       longitude: 164.1237568
       cities:
@@ -321,9 +367,11 @@
           longitude: 165.3293
     -
       name: "South Province"
+      native: "Province du sud"
       code: "01"
       iso3166_2: "NC-01"
       type: "province"
+      type_es: "provincia"
       latitude: -22.2758421
       longitude: 166.6417946
       cities:
@@ -361,16 +409,20 @@
   currency_symbol: "K"
   tld: ".pg"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -6
   longitude: 147
   emoji: "🇵🇬"
   states:
     -
       name: "Bougainville"
+      native: "Bougainville"
       code: "NSB"
       iso3166_2: "PG-NSB"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: -6.1441283
       longitude: 155.2059339
       cities:
@@ -400,9 +452,11 @@
           longitude: 155.6964
     -
       name: "Central"
+      native: "Central"
       code: "CPM"
       iso3166_2: "PG-CPM"
       type: "province"
+      type_es: "provincia"
       latitude: -10
       longitude: 148
       cities:
@@ -424,9 +478,11 @@
           longitude: 147.83333
     -
       name: "Chimbu"
+      native: "Bur"
       code: "CPK"
       iso3166_2: "PG-CPK"
       type: "province"
+      type_es: "provincia"
       latitude: -6.25
       longitude: 144.833333
       cities:
@@ -456,9 +512,11 @@
           longitude: 145.01667
     -
       name: "East New Britain"
+      native: "East New Britain"
       code: "EBR"
       iso3166_2: "PG-EBR"
       type: "province"
+      type_es: "provincia"
       latitude: -5.1386278
       longitude: 151.9020187
       cities:
@@ -480,18 +538,22 @@
           longitude: 152.16667
     -
       name: "East Sepik"
+      native: "East"
       code: "ESW"
       iso3166_2: "PG-ESW"
       type: "province"
+      type_es: "provincia"
       latitude: -4.355541
       longitude: 143.2325162
       cities:
         []
     -
       name: "Eastern Highlands"
+      native: "Eastern Highlands"
       code: "EHG"
       iso3166_2: "PG-EHG"
       type: "province"
+      type_es: "provincia"
       latitude: -6.5
       longitude: 145.583333
       cities:
@@ -529,9 +591,11 @@
           longitude: 145.51667
     -
       name: "Enga"
+      native: "Nake"
       code: "EPW"
       iso3166_2: "PG-EPW"
       type: "province"
+      type_es: "provincia"
       latitude: -5.6725937
       longitude: 143.6436942
       cities:
@@ -561,9 +625,11 @@
           longitude: 143.91667
     -
       name: "Gulf"
+      native: "Gulf"
       code: "GPK"
       iso3166_2: "PG-GPK"
       type: "province"
+      type_es: "provincia"
       latitude: -7.5556411
       longitude: 144.8850036
       cities:
@@ -577,9 +643,11 @@
           longitude: 144.33333
     -
       name: "Hela"
+      native: "Hela"
       code: "HLA"
       iso3166_2: "PG-HLA"
       type: "province"
+      type_es: "provincia"
       latitude: -5.7729776
       longitude: 142.7792477
       cities:
@@ -601,9 +669,11 @@
           longitude: 142.83333
     -
       name: "Jiwaka"
+      native: "Burn it"
       code: "JWK"
       iso3166_2: "PG-JWK"
       type: "province"
+      type_es: "provincia"
       latitude: -5.5797604
       longitude: 144.613752
       cities:
@@ -621,9 +691,11 @@
           longitude: 144.68333
     -
       name: "Madang"
+      native: "Madang"
       code: "MPM"
       iso3166_2: "PG-MPM"
       type: "province"
+      type_es: "provincia"
       latitude: -5
       longitude: 145.5
       cities:
@@ -653,9 +725,11 @@
           longitude: 145.16667
     -
       name: "Manus"
+      native: "Manus"
       code: "MRL"
       iso3166_2: "PG-MRL"
       type: "province"
+      type_es: "provincia"
       latitude: -2.1032645
       longitude: 146.9325448
       cities:
@@ -669,9 +743,11 @@
           longitude: 146.96612
     -
       name: "Milne Bay"
+      native: "Milne Bay"
       code: "MBA"
       iso3166_2: "PG-MBA"
       type: "province"
+      type_es: "provincia"
       latitude: -10.0226491
       longitude: 151.5800288
       cities:
@@ -697,9 +773,11 @@
           longitude: 150.54703
     -
       name: "Morobe"
+      native: "Morobe"
       code: "MPL"
       iso3166_2: "PG-MPL"
       type: "province"
+      type_es: "provincia"
       latitude: -7
       longitude: 147
       cities:
@@ -745,9 +823,11 @@
           longitude: 146.71649
     -
       name: "New Ireland"
+      native: "New Ireland"
       code: "NIK"
       iso3166_2: "PG-NIK"
       type: "province"
+      type_es: "provincia"
       latitude: -3.7021472
       longitude: 152.4360021
       cities:
@@ -761,9 +841,11 @@
           longitude: 152.83333
     -
       name: "Oro"
+      native: "Oro"
       code: "NPP"
       iso3166_2: "PG-NPP"
       type: "province"
+      type_es: "provincia"
       latitude: -9
       longitude: 148.5
       cities:
@@ -785,9 +867,11 @@
           longitude: 147.91667
     -
       name: "Port Moresby"
+      native: "Port Moresby"
       code: "NCD"
       iso3166_2: "PG-NCD"
       type: "district"
+      type_es: "distrito"
       latitude: -9.4743301
       longitude: 147.1599504
       cities:
@@ -801,9 +885,11 @@
           longitude: 147.15089
     -
       name: "Sandaun"
+      native: "Sandadaun"
       code: "SAN"
       iso3166_2: "PG-SAN"
       type: "province"
+      type_es: "provincia"
       latitude: -3.5
       longitude: 142
       cities:
@@ -833,9 +919,11 @@
           longitude: 141.35
     -
       name: "Southern Highlands"
+      native: "Southern Highlands"
       code: "SHM"
       iso3166_2: "PG-SHM"
       type: "province"
+      type_es: "provincia"
       latitude: -6.4471522
       longitude: 143.6006612
       cities:
@@ -861,9 +949,11 @@
           longitude: 143.33333
     -
       name: "West New Britain"
+      native: "West New Britain"
       code: "WBK"
       iso3166_2: "PG-WBK"
       type: "province"
+      type_es: "provincia"
       latitude: -5.8891465
       longitude: 149.699546
       cities:
@@ -885,9 +975,11 @@
           longitude: 149.58333
     -
       name: "Western"
+      native: "Western"
       code: "WPD"
       iso3166_2: "PG-WPD"
       type: "province"
+      type_es: "provincia"
       latitude: -7.5
       longitude: 142
       cities:
@@ -917,9 +1009,11 @@
           longitude: 142.11667
     -
       name: "Western Highlands"
+      native: "Western Highlands"
       code: "WHM"
       iso3166_2: "PG-WHM"
       type: "province"
+      type_es: "provincia"
       latitude: -5.841586
       longitude: 144.2355348
       cities:
@@ -957,16 +1051,20 @@
   currency_symbol: "Si$"
   tld: ".sb"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -8
   longitude: 159
   emoji: "🇸🇧"
   states:
     -
       name: "Central"
+      native: "Central"
       code: "CE"
       iso3166_2: "SB-CE"
       type: "province"
+      type_es: "provincia"
       latitude: -8.9833335
       longitude: 159.75
       cities:
@@ -976,18 +1074,22 @@
           longitude: 160.15056
     -
       name: "Choiseul"
+      native: "Choiseul"
       code: "CH"
       iso3166_2: "SB-CH"
       type: "province"
+      type_es: "provincia"
       latitude: -7.0091756
       longitude: 156.9239532
       cities:
         []
     -
       name: "Guadalcanal"
+      native: "Guadalcanal"
       code: "GU"
       iso3166_2: "SB-GU"
       type: "province"
+      type_es: "provincia"
       latitude: -9.5984209
       longitude: 160.1485117
       cities:
@@ -997,18 +1099,22 @@
           longitude: 159.95
     -
       name: "Honiara"
+      native: "Honeycomb"
       code: "CT"
       iso3166_2: "SB-CT"
       type: "capital territory"
+      type_es: "territorio capital"
       latitude: -9.4377975
       longitude: 159.9624175
       cities:
         []
     -
       name: "Isabel"
+      native: "Isabel"
       code: "IS"
       iso3166_2: "SB-IS"
       type: "province"
+      type_es: "provincia"
       latitude: -7.9999999
       longitude: 158.9999999
       cities:
@@ -1018,9 +1124,11 @@
           longitude: 159.59212
     -
       name: "Makira-Ulawa"
+      native: "Missing up"
       code: "MK"
       iso3166_2: "SB-MK"
       type: "province"
+      type_es: "provincia"
       latitude: -10.2835257
       longitude: 161.7280731
       cities:
@@ -1030,9 +1138,11 @@
           longitude: 161.92045
     -
       name: "Malaita"
+      native: "Malaita"
       code: "ML"
       iso3166_2: "SB-ML"
       type: "province"
+      type_es: "provincia"
       latitude: -8.9551687
       longitude: 160.9514413
       cities:
@@ -1042,18 +1152,22 @@
           longitude: 160.69778
     -
       name: "Rennell and Bellona"
+      native: "Rennell and Bellona"
       code: "RB"
       iso3166_2: "SB-RB"
       type: "province"
+      type_es: "provincia"
       latitude: -12.1134266
       longitude: 160.3170523
       cities:
         []
     -
       name: "Temotu"
+      native: "Temotu"
       code: "TE"
       iso3166_2: "SB-TE"
       type: "province"
+      type_es: "provincia"
       latitude: -10.8891322
       longitude: 166.231035
       cities:
@@ -1063,9 +1177,11 @@
           longitude: 165.79722
     -
       name: "Western"
+      native: "Western"
       code: "WE"
       iso3166_2: "SB-WE"
       type: "province"
+      type_es: "provincia"
       latitude: -7.8166667
       longitude: 156.683988
       cities:
@@ -1087,16 +1203,20 @@
   currency_symbol: "VT"
   tld: ".vu"
   region: "Oceania"
+  region_es: "Oceanía"
   subregion: "Melanesia"
+  subregion_es: "Melanesia"
   latitude: -16
   longitude: 167
   emoji: "🇻🇺"
   states:
     -
       name: "Malampa"
+      native: "Malampa"
       code: "MAP"
       iso3166_2: "VU-MAP"
       type: "province"
+      type_es: "provincia"
       latitude: -16.2975
       longitude: 167.8103716
       cities:
@@ -1110,18 +1230,22 @@
           longitude: 167.39714
     -
       name: "Penama"
+      native: "Penama"
       code: "PAM"
       iso3166_2: "VU-PAM"
       type: "province"
+      type_es: "provincia"
       latitude: -15.2116666
       longitude: 167.9360319
       cities:
         []
     -
       name: "Sanma"
+      native: "Sanma"
       code: "SAM"
       iso3166_2: "VU-SAM"
       type: "province"
+      type_es: "provincia"
       latitude: -15.158134
       longitude: 166.9393865
       cities:
@@ -1135,9 +1259,11 @@
           longitude: 167.07265
     -
       name: "Shefa"
+      native: "Shefa"
       code: "SEE"
       iso3166_2: "VU-SEE"
       type: "province"
+      type_es: "provincia"
       latitude: -17.3283967
       longitude: 168.2547316
       cities:
@@ -1147,9 +1273,11 @@
           longitude: 168.31366
     -
       name: "Tafea"
+      native: "Tafea"
       code: "TAE"
       iso3166_2: "VU-TAE"
       type: "province"
+      type_es: "provincia"
       latitude: -19.3706034
       longitude: 169.6752428
       cities:
@@ -1159,9 +1287,11 @@
           longitude: 169.28167
     -
       name: "Torba"
+      native: "Torba"
       code: "TOB"
       iso3166_2: "VU-TOB"
       type: "province"
+      type_es: "provincia"
       latitude: -13.6644135
       longitude: 167.1741636
       cities:

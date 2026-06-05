@@ -1,28 +1,28 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-FO,Faroe Islands,Europe,Northern Europe,EY,Eysturoy,Eiði,62.2789,-7.0123
-FO,Faroe Islands,Europe,Northern Europe,EY,Eysturoy,Eystur,62.1567,-6.8233
-FO,Faroe Islands,Europe,Northern Europe,EY,Eysturoy,Fuglafjørður,62.2101,-6.8123
-FO,Faroe Islands,Europe,Northern Europe,EY,Eysturoy,Nes,62.0987,-6.7654
-FO,Faroe Islands,Europe,Northern Europe,EY,Eysturoy,Runavík,62.1323,-6.789
-FO,Faroe Islands,Europe,Northern Europe,EY,Eysturoy,Sjóvar,62.1234,-6.8765
-FO,Faroe Islands,Europe,Northern Europe,NO,Northern Isles,Hvannasund,62.3456,-6.789
-FO,Faroe Islands,Europe,Northern Europe,NO,Northern Isles,Klaksvík,62.221,-6.58
-FO,Faroe Islands,Europe,Northern Europe,NO,Northern Isles,Kunoy,62.3456,-6.8901
-FO,Faroe Islands,Europe,Northern Europe,SA,Sandoy,Húsavík,61.8096495,-6.6794956
-FO,Faroe Islands,Europe,Northern Europe,SA,Sandoy,Sandur,61.8348155,-6.8175826
-FO,Faroe Islands,Europe,Northern Europe,SA,Sandoy,Skálavík,61.8302676,-6.664032
-FO,Faroe Islands,Europe,Northern Europe,SA,Sandoy,Skopun,62.0123,-6.9876
-FO,Faroe Islands,Europe,Northern Europe,SA,Sandoy,Skúvoy,61.7664432,-6.826962
-FO,Faroe Islands,Europe,Northern Europe,ST,Streymoy,Kvívík,62.1456,-7.2098
-FO,Faroe Islands,Europe,Northern Europe,ST,Streymoy,Sunda,62.1345,-7.0987
-FO,Faroe Islands,Europe,Northern Europe,ST,Streymoy,Tórshavn,62,-7
-FO,Faroe Islands,Europe,Northern Europe,ST,Streymoy,Vestmanna,62.1567,-7.2345
-FO,Faroe Islands,Europe,Northern Europe,SU,Suðuroy,Fámjin,61.5246866,-6.8792705
-FO,Faroe Islands,Europe,Northern Europe,SU,Suðuroy,Hov,61.5069357,-6.7557422
-FO,Faroe Islands,Europe,Northern Europe,SU,Suðuroy,Hvalba,61.5987,-6.9876
-FO,Faroe Islands,Europe,Northern Europe,SU,Suðuroy,Porkeri,61.5432,-6.9876
-FO,Faroe Islands,Europe,Northern Europe,SU,Suðuroy,Sumba,61.4033267,-6.7117361
-FO,Faroe Islands,Europe,Northern Europe,SU,Suðuroy,Tvøroyri,61.5623,-6.778
-FO,Faroe Islands,Europe,Northern Europe,SU,Suðuroy,Vágur,61.4789,-6.8101
-FO,Faroe Islands,Europe,Northern Europe,VA,Vágar,Sørvágur,62.0654,-7.3787
-FO,Faroe Islands,Europe,Northern Europe,VA,Vágar,Vágar,62.0667,-7.1
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,EY,Eysturoy,region,región,Eiði,62.2789,-7.0123
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,EY,Eysturoy,region,región,Eystur,62.1567,-6.8233
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,EY,Eysturoy,region,región,Fuglafjørður,62.2101,-6.8123
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,EY,Eysturoy,region,región,Nes,62.0987,-6.7654
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,EY,Eysturoy,region,región,Runavík,62.1323,-6.789
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,EY,Eysturoy,region,región,Sjóvar,62.1234,-6.8765
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,NO,Northern Isles,region,región,Hvannasund,62.3456,-6.789
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,NO,Northern Isles,region,región,Klaksvík,62.221,-6.58
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,NO,Northern Isles,region,región,Kunoy,62.3456,-6.8901
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SA,Sandoy,region,región,Húsavík,61.8096495,-6.6794956
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SA,Sandoy,region,región,Sandur,61.8348155,-6.8175826
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SA,Sandoy,region,región,Skálavík,61.8302676,-6.664032
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SA,Sandoy,region,región,Skopun,62.0123,-6.9876
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SA,Sandoy,region,región,Skúvoy,61.7664432,-6.826962
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,ST,Streymoy,region,región,Kvívík,62.1456,-7.2098
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,ST,Streymoy,region,región,Sunda,62.1345,-7.0987
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,ST,Streymoy,region,región,Tórshavn,62,-7
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,ST,Streymoy,region,región,Vestmanna,62.1567,-7.2345
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SU,Suðuroy,region,región,Fámjin,61.5246866,-6.8792705
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SU,Suðuroy,region,región,Hov,61.5069357,-6.7557422
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SU,Suðuroy,region,región,Hvalba,61.5987,-6.9876
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SU,Suðuroy,region,región,Porkeri,61.5432,-6.9876
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SU,Suðuroy,region,región,Sumba,61.4033267,-6.7117361
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SU,Suðuroy,region,región,Tvøroyri,61.5623,-6.778
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,SU,Suðuroy,region,región,Vágur,61.4789,-6.8101
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,VA,Vágar,region,región,Sørvágur,62.0654,-7.3787
+FO,Faroe Islands,Islas Faroe,Europe,Europa,Northern Europe,Europa del Norte,VA,Vágar,region,región,Vágar,62.0667,-7.1

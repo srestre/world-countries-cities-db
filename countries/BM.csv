@@ -1,11 +1,11 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BM,Bermuda,Americas,Northern America,DEV,Devonshire,Devonshire,32.293,-64.8
-BM,Bermuda,Americas,Northern America,HA,Hamilton,Hamilton,32.294,-64.783
-BM,Bermuda,Americas,Northern America,PAG,Paget,Paget,32.278,-64.769
-BM,Bermuda,Americas,Northern America,PEM,Pembroke,,,
-BM,Bermuda,Americas,Northern America,SGE,Saint George's,St. George's,32.381,-64.674
-BM,Bermuda,Americas,Northern America,SGE,Saint George's,Tucker’s Town,32.3328,-64.6881
-BM,Bermuda,Americas,Northern America,SAN,Sandys,Somerset,32.282,-64.844
-BM,Bermuda,Americas,Northern America,SMI,Smith's,Flatts,32.328,-64.736
-BM,Bermuda,Americas,Northern America,SOU,Southampton,Southampton,32.249,-64.861
-BM,Bermuda,Americas,Northern America,WAR,Warwick,Warwick,32.267,-64.806
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,DEV,Devonshire,municipality,municipio,Devonshire,32.293,-64.8
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,HA,Hamilton,municipality,municipio,Hamilton,32.294,-64.783
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,PAG,Paget,municipality,municipio,Paget,32.278,-64.769
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,PEM,Pembroke,municipality,municipio,,,
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,SGE,Saint George's,municipality,municipio,St. George's,32.381,-64.674
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,SGE,Saint George's,municipality,municipio,Tucker’s Town,32.3328,-64.6881
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,SAN,Sandys,municipality,municipio,Somerset,32.282,-64.844
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,SMI,Smith's,municipality,municipio,Flatts,32.328,-64.736
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,SOU,Southampton,municipality,municipio,Southampton,32.249,-64.861
+BM,Bermuda,Bermudas,Americas,América,Northern America,Norteamérica,WAR,Warwick,municipality,municipio,Warwick,32.267,-64.806

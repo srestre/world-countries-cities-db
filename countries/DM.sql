@@ -1,31 +1,31 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(61, 'Dominica', 'DM', 'DMA', 'Americas', 'Caribbean', 'Roseau', 'XCD', 15.41666666, -61.33333333, '🇩🇲');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(61, 'Dominica', 'Dominica', 'DM', 'DMA', 'Americas', 'América', 'Caribbean', 'Caribe', 'Roseau', 'XCD', 15.41666666, -61.33333333, '🇩🇲');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4082, 'Saint Andrew', 61, 'DM', '02', 'parish', 15.4238539, -61.3416513),
-(4078, 'Saint David', 61, 'DM', '03', 'parish', 15.4238539, -61.3416513),
-(4079, 'Saint George', 61, 'DM', '04', 'parish', 15.3058849, -61.3477286),
-(4076, 'Saint John', 61, 'DM', '05', 'parish', 15.5739158, -61.4369757),
-(4085, 'Saint Joseph', 61, 'DM', '06', 'parish', 15.4063155, -61.4239093),
-(4083, 'Saint Luke', 61, 'DM', '07', 'parish', 15.2526483, -61.3606848),
-(4077, 'Saint Mark', 61, 'DM', '08', 'parish', 15.2285265, -61.3500041),
-(4080, 'Saint Patrick', 61, 'DM', '09', 'parish', 15.2770426, -61.2964775),
-(4084, 'Saint Paul', 61, 'DM', '10', 'parish', 15.3630184, -61.3613416),
-(4081, 'Saint Peter', 61, 'DM', '11', 'parish', 15.4997591, -61.4403471);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4082, 'Saint Andrew', 'Saint Andrew', 61, 'DM', '02', 'parish', 'parroquia', 15.4238539, -61.3416513),
+(4078, 'Saint David', 'Saint David', 61, 'DM', '03', 'parish', 'parroquia', 15.4238539, -61.3416513),
+(4079, 'Saint George', 'Saint George', 61, 'DM', '04', 'parish', 'parroquia', 15.3058849, -61.3477286),
+(4076, 'Saint John', 'Saint John', 61, 'DM', '05', 'parish', 'parroquia', 15.5739158, -61.4369757),
+(4085, 'Saint Joseph', 'Saint Joseph', 61, 'DM', '06', 'parish', 'parroquia', 15.4063155, -61.4239093),
+(4083, 'Saint Luke', 'Saint Luke', 61, 'DM', '07', 'parish', 'parroquia', 15.2526483, -61.3606848),
+(4077, 'Saint Mark', 'Saint Mark', 61, 'DM', '08', 'parish', 'parroquia', 15.2285265, -61.3500041),
+(4080, 'Saint Patrick', 'Saint Patrick', 61, 'DM', '09', 'parish', 'parroquia', 15.2770426, -61.2964775),
+(4084, 'Saint Paul', 'Saint Paul', 61, 'DM', '10', 'parish', 'parroquia', 15.3630184, -61.3613416),
+(4081, 'Saint Peter', 'Saint Peter', 61, 'DM', '11', 'parish', 'parroquia', 15.4997591, -61.4403471);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (31003, 'Calibishie', 4082, 61, 15.59297, -61.34901),

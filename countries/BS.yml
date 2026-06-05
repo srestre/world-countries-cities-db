@@ -12,34 +12,42 @@
   currency_symbol: "B$"
   tld: ".bs"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 24.25
   longitude: -76
   emoji: "🇧🇸"
   states:
     -
       name: "Acklins"
+      native: "Acklins"
       code: "AK"
       iso3166_2: "BS-AK"
       type: "district"
+      type_es: "distrito"
       latitude: 22.4145
       longitude: -74.0606831
       cities:
         []
     -
       name: "Berry Islands"
+      native: "Berry Islands"
       code: "BY"
       iso3166_2: "BS-BY"
       type: "district"
+      type_es: "distrito"
       latitude: 25.5905
       longitude: -77.7261006
       cities:
         []
     -
       name: "Bimini"
+      native: "Bimini"
       code: "BI"
       iso3166_2: "BS-BI"
       type: "district"
+      type_es: "distrito"
       latitude: 25.7032538
       longitude: -79.2733449
       cities:
@@ -49,18 +57,22 @@
           longitude: -79.29721
     -
       name: "Black Point"
+      native: "Black Point"
       code: "BP"
       iso3166_2: "BS-BP"
       type: "district"
+      type_es: "distrito"
       latitude: 24.0962598
       longitude: -76.4022591
       cities:
         []
     -
       name: "Cat Island"
+      native: "Cat Island"
       code: "CI"
       iso3166_2: "BS-CI"
       type: "district"
+      type_es: "distrito"
       latitude: 24.3385
       longitude: -75.6149932
       cities:
@@ -70,9 +82,11 @@
           longitude: -75.67151
     -
       name: "Central Abaco"
+      native: "Central Abaco"
       code: "CO"
       iso3166_2: "BS-CO"
       type: "district"
+      type_es: "distrito"
       latitude: 26.5255105
       longitude: -77.2838118
       cities:
@@ -82,27 +96,33 @@
           longitude: -77.0636
     -
       name: "Central Andros"
+      native: "Central Andros"
       code: "CS"
       iso3166_2: "BS-CS"
       type: "district"
+      type_es: "distrito"
       latitude: 24.4343749
       longitude: -77.7934077
       cities:
         []
     -
       name: "Central Eleuthera"
+      native: "Central Eleuthera"
       code: "CE"
       iso3166_2: "BS-CE"
       type: "district"
+      type_es: "distrito"
       latitude: 25.239
       longitude: -76.3291621
       cities:
         []
     -
       name: "Crooked Island"
+      native: "Crooked Island"
       code: "CK"
       iso3166_2: "BS-CK"
       type: "district"
+      type_es: "distrito"
       latitude: 22.7486959
       longitude: -74.2386163
       cities:
@@ -112,9 +132,11 @@
           longitude: -74.20415
     -
       name: "East Grand Bahama"
+      native: "East Grand Bahama"
       code: "EG"
       iso3166_2: "BS-EG"
       type: "district"
+      type_es: "distrito"
       latitude: 26.6772229
       longitude: -78.0134521
       cities:
@@ -124,9 +146,11 @@
           longitude: -78.27863
     -
       name: "Exuma"
+      native: "Exuma"
       code: "EX"
       iso3166_2: "BS-EX"
       type: "district"
+      type_es: "distrito"
       latitude: 23.9685
       longitude: -76.1799049
       cities:
@@ -136,9 +160,11 @@
           longitude: -75.78665
     -
       name: "Freeport"
+      native: "Freeport"
       code: "FP"
       iso3166_2: "BS-FP"
       type: "district"
+      type_es: "distrito"
       latitude: 26.535681
       longitude: -78.6953623
       cities:
@@ -152,18 +178,22 @@
           longitude: -78.66667
     -
       name: "Grand Cay"
+      native: "Grand Cay"
       code: "GC"
       iso3166_2: "BS-GC"
       type: "district"
+      type_es: "distrito"
       latitude: 27.2287191
       longitude: -78.3324366
       cities:
         []
     -
       name: "Harbour Island"
+      native: "Harbour Island"
       code: "HI"
       iso3166_2: "BS-HI"
       type: "district"
+      type_es: "distrito"
       latitude: 25.50011
       longitude: -76.6340511
       cities:
@@ -173,18 +203,22 @@
           longitude: -76.63633
     -
       name: "Hope Town"
+      native: "Hope Town"
       code: "HT"
       iso3166_2: "BS-HT"
       type: "district"
+      type_es: "distrito"
       latitude: 26.5407116
       longitude: -76.9594379
       cities:
         []
     -
       name: "Inagua"
+      native: "IT IS GOING"
       code: "IN"
       iso3166_2: "BS-IN"
       type: "district"
+      type_es: "distrito"
       latitude: 21.2325
       longitude: -73.3096213
       cities:
@@ -194,9 +228,11 @@
           longitude: -73.67346
     -
       name: "Long Island"
+      native: "Long Island"
       code: "LI"
       iso3166_2: "BS-LI"
       type: "district"
+      type_es: "distrito"
       latitude: 23.303
       longitude: -75.1058782
       cities:
@@ -206,18 +242,22 @@
           longitude: -74.98333
     -
       name: "Mangrove Cay"
+      native: "Mangrove Cay"
       code: "MC"
       iso3166_2: "BS-MC"
       type: "district"
+      type_es: "distrito"
       latitude: 24.2188205
       longitude: -77.7176145
       cities:
         []
     -
       name: "Mayaguana"
+      native: "Mayaguana"
       code: "MG"
       iso3166_2: "BS-MG"
       type: "district"
+      type_es: "distrito"
       latitude: 22.3698426
       longitude: -72.8876816
       cities:
@@ -227,18 +267,22 @@
           longitude: -72.96667
     -
       name: "Moore's Island"
+      native: "Moore's Island"
       code: "MI"
       iso3166_2: "BS-MI"
       type: "district"
+      type_es: "distrito"
       latitude: 25.866667
       longitude: -77.966667
       cities:
         []
     -
       name: "New Providence"
+      native: "New Providence"
       code: "NP"
       iso3166_2: "BS-NP"
       type: "island"
+      type_es: "isla"
       latitude: 25.1943588
       longitude: -77.2953297
       cities:
@@ -248,9 +292,11 @@
           longitude: -77.33333333
     -
       name: "North Abaco"
+      native: "North Abaco"
       code: "NO"
       iso3166_2: "BS-NO"
       type: "district"
+      type_es: "distrito"
       latitude: 26.9383943
       longitude: -77.6838221
       cities:
@@ -260,9 +306,11 @@
           longitude: -77.51131
     -
       name: "North Andros"
+      native: "North Andros"
       code: "NS"
       iso3166_2: "BS-NS"
       type: "district"
+      type_es: "distrito"
       latitude: 24.8875
       longitude: -78.0811619
       cities:
@@ -276,18 +324,22 @@
           longitude: -78.05
     -
       name: "North Eleuthera"
+      native: "North Eleuthera"
       code: "NE"
       iso3166_2: "BS-NE"
       type: "district"
+      type_es: "distrito"
       latitude: 25.3776694
       longitude: -76.7842655
       cities:
         []
     -
       name: "Ragged Island"
+      native: "Ragged Island"
       code: "RI"
       iso3166_2: "BS-RI"
       type: "district"
+      type_es: "distrito"
       latitude: 22.4765594
       longitude: -75.8020934
       cities:
@@ -297,9 +349,11 @@
           longitude: -75.72583
     -
       name: "Rum Cay"
+      native: "Rum Cay"
       code: "RC"
       iso3166_2: "BS-RC"
       type: "district"
+      type_es: "distrito"
       latitude: 23.8263065
       longitude: -74.9326829
       cities:
@@ -309,9 +363,11 @@
           longitude: -74.84157
     -
       name: "San Salvador Island"
+      native: "San Salvador Island"
       code: "SS"
       iso3166_2: "BS-SS"
       type: "district"
+      type_es: "distrito"
       latitude: 24.0343816
       longitude: -74.4851373
       cities:
@@ -321,36 +377,44 @@
           longitude: -74.53138
     -
       name: "South Abaco"
+      native: "South Abaco"
       code: "SO"
       iso3166_2: "BS-SO"
       type: "district"
+      type_es: "distrito"
       latitude: 26.004
       longitude: -77.3567072
       cities:
         []
     -
       name: "South Andros"
+      native: "South Andros"
       code: "SA"
       iso3166_2: "BS-SA"
       type: "district"
+      type_es: "distrito"
       latitude: 23.8985
       longitude: -77.4565404
       cities:
         []
     -
       name: "South Eleuthera"
+      native: "South Eleuthera"
       code: "SE"
       iso3166_2: "BS-SE"
       type: "district"
+      type_es: "distrito"
       latitude: 24.7310794
       longitude: -76.2926928
       cities:
         []
     -
       name: "Spanish Wells"
+      native: "Spanish Wells"
       code: "SW"
       iso3166_2: "BS-SW"
       type: "district"
+      type_es: "distrito"
       latitude: 25.5402336
       longitude: -76.9606233
       cities:
@@ -360,9 +424,11 @@
           longitude: -76.76405
     -
       name: "West Grand Bahama"
+      native: "West Grand Bahama"
       code: "WG"
       iso3166_2: "BS-WG"
       type: "district"
+      type_es: "distrito"
       latitude: 26.744
       longitude: -78.8788685
       cities:

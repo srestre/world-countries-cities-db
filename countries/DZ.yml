@@ -12,16 +12,20 @@
   currency_symbol: "دج"
   tld: ".dz"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   latitude: 28
   longitude: 3
   emoji: "🇩🇿"
   states:
     -
       name: "Adrar"
+      native: "أدرار"
       code: "01"
       iso3166_2: "DZ-01"
       type: "province"
+      type_es: "provincia"
       latitude: 26.4888155
       longitude: -1.3582442
       cities:
@@ -43,9 +47,11 @@
           longitude: 0.23098
     -
       name: "Aïn Defla"
+      native: "عين الدفلى"
       code: "44"
       iso3166_2: "DZ-44"
       type: "province"
+      type_es: "provincia"
       latitude: 36.2657178
       longitude: 1.9701347
       cities:
@@ -71,9 +77,11 @@
           longitude: 2.02806
     -
       name: "Aïn Témouchent"
+      native: "عين تموشنت"
       code: "46"
       iso3166_2: "DZ-46"
       type: "province"
+      type_es: "provincia"
       latitude: 35.2992698
       longitude: -1.1392792
       cities:
@@ -99,9 +107,11 @@
           longitude: -0.96778
     -
       name: "Algiers"
+      native: "الجزائر"
       code: "16"
       iso3166_2: "DZ-16"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7000509
       longitude: 3.0291266
       cities:
@@ -135,9 +145,11 @@
           longitude: 3.28079
     -
       name: "Annaba"
+      native: "عنابة"
       code: "23"
       iso3166_2: "DZ-23"
       type: "province"
+      type_es: "provincia"
       latitude: 36.8438448
       longitude: 7.5981738
       cities:
@@ -159,9 +171,11 @@
           longitude: 7.73684
     -
       name: "Batna"
+      native: "باتنة"
       code: "05"
       iso3166_2: "DZ-05"
       type: "province"
+      type_es: "provincia"
       latitude: 35.5492346
       longitude: 6.1160382
       cities:
@@ -199,9 +213,11 @@
           longitude: 6.26074
     -
       name: "Béchar"
+      native: "بشار"
       code: "08"
       iso3166_2: "DZ-08"
       type: "province"
+      type_es: "provincia"
       latitude: 31.6238098
       longitude: -2.2162443
       cities:
@@ -211,9 +227,11 @@
           longitude: -2.21667
     -
       name: "Béjaïa"
+      native: "بجاية"
       code: "06"
       iso3166_2: "DZ-06"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7515258
       longitude: 5.0556837
       cities:
@@ -251,18 +269,22 @@
           longitude: 4.68611
     -
       name: "Béni Abbès"
+      native: "بني عباس"
       code: "53"
       iso3166_2: "DZ-53"
       type: "province"
+      type_es: "provincia"
       latitude: 30.108921
       longitude: -2.4622548
       cities:
         []
     -
       name: "Biskra"
+      native: "بسكرة"
       code: "07"
       iso3166_2: "DZ-07"
       type: "province"
+      type_es: "provincia"
       latitude: 34.8449437
       longitude: 5.7248567
       cities:
@@ -292,9 +314,11 @@
           longitude: 6.51109
     -
       name: "Blida"
+      native: "البليدة"
       code: "09"
       iso3166_2: "DZ-09"
       type: "province"
+      type_es: "provincia"
       latitude: 36.5012595
       longitude: 2.9517666
       cities:
@@ -348,18 +372,22 @@
           longitude: 2.90528
     -
       name: "Bordj Baji Mokhtar"
+      native: "برج باجي مختار"
       code: "52"
       iso3166_2: "DZ-52"
       type: "province"
+      type_es: "provincia"
       latitude: 22.6261461
       longitude: 0.1275817
       cities:
         []
     -
       name: "Bordj Bou Arréridj"
+      native: "برج بوعريريج"
       code: "34"
       iso3166_2: "DZ-34"
       type: "province"
+      type_es: "provincia"
       latitude: 36.0739925
       longitude: 4.7630271
       cities:
@@ -393,9 +421,11 @@
           longitude: 5.03107
     -
       name: "Bouïra"
+      native: "بويرة"
       code: "10"
       iso3166_2: "DZ-10"
       type: "province"
+      type_es: "provincia"
       latitude: 36.3691846
       longitude: 3.9006194
       cities:
@@ -425,9 +455,11 @@
           longitude: 3.69123
     -
       name: "Boumerdès"
+      native: "بومرداس"
       code: "35"
       iso3166_2: "DZ-35"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7358032
       longitude: 3.6163046
       cities:
@@ -489,9 +521,11 @@
           longitude: 3.77445
     -
       name: "Chlef"
+      native: "الشلف"
       code: "02"
       iso3166_2: "DZ-02"
       type: "province"
+      type_es: "provincia"
       latitude: 36.164592
       longitude: 1.331499
       cities:
@@ -525,9 +559,11 @@
           longitude: 1.30258
     -
       name: "Constantine"
+      native: "قسطنطين"
       code: "25"
       iso3166_2: "DZ-25"
       type: "province"
+      type_es: "provincia"
       latitude: 36.3584165
       longitude: 6.6671674
       cities:
@@ -557,18 +593,22 @@
           longitude: 6.59603
     -
       name: "Djanet"
+      native: "جانت"
       code: "56"
       iso3166_2: "DZ-56"
       type: "province"
+      type_es: "provincia"
       latitude: 24.071521
       longitude: 9.6155847
       cities:
         []
     -
       name: "Djelfa"
+      native: "الجلفة"
       code: "17"
       iso3166_2: "DZ-17"
       type: "province"
+      type_es: "provincia"
       latitude: 34.6703956
       longitude: 3.2503761
       cities:
@@ -606,9 +646,11 @@
           longitude: 3.50309
     -
       name: "El Bayadh"
+      native: "البيض"
       code: "32"
       iso3166_2: "DZ-32"
       type: "province"
+      type_es: "provincia"
       latitude: 32.570303
       longitude: 1.1259581
       cities:
@@ -626,27 +668,33 @@
           longitude: 1.01927
     -
       name: "El M'ghair"
+      native: "المغير"
       code: "49"
       iso3166_2: "DZ-49"
       type: "province"
+      type_es: "provincia"
       latitude: 33.95807
       longitude: 5.7011262
       cities:
         []
     -
       name: "El Menia"
+      native: "المنيا"
       code: "50"
       iso3166_2: "DZ-50"
       type: "province"
+      type_es: "provincia"
       latitude: 30.7071885
       longitude: 3.0480625
       cities:
         []
     -
       name: "El Oued"
+      native: "الواد"
       code: "39"
       iso3166_2: "DZ-39"
       type: "province"
+      type_es: "provincia"
       latitude: 33.3611531
       longitude: 6.8606693
       cities:
@@ -668,9 +716,11 @@
           longitude: 6.90984
     -
       name: "El Tarf"
+      native: "الطارف"
       code: "36"
       iso3166_2: "DZ-36"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7667186
       longitude: 8.3169418
       cities:
@@ -692,9 +742,11 @@
           longitude: 8.31377
     -
       name: "Ghardaïa"
+      native: "غرداية"
       code: "47"
       iso3166_2: "DZ-47"
       type: "province"
+      type_es: "provincia"
       latitude: 32.485855
       longitude: 3.677104
       cities:
@@ -712,9 +764,11 @@
           longitude: 3.63333
     -
       name: "Guelma"
+      native: "قالمة"
       code: "24"
       iso3166_2: "DZ-24"
       type: "province"
+      type_es: "provincia"
       latitude: 36.4627444
       longitude: 7.4330833
       cities:
@@ -732,9 +786,11 @@
           longitude: 7.44278
     -
       name: "Illizi"
+      native: "إليزي"
       code: "33"
       iso3166_2: "DZ-33"
       type: "province"
+      type_es: "provincia"
       latitude: 26.504191
       longitude: 8.479926
       cities:
@@ -744,27 +800,33 @@
           longitude: 8.46667
     -
       name: "In Guezzam"
+      native: "في قزام"
       code: "58"
       iso3166_2: "DZ-58"
       type: "province"
+      type_es: "provincia"
       latitude: 20.42753
       longitude: 4.676631
       cities:
         []
     -
       name: "In Salah"
+      native: "في صلاح"
       code: "57"
       iso3166_2: "DZ-57"
       type: "province"
+      type_es: "provincia"
       latitude: 27.1950331
       longitude: 2.4826132
       cities:
         []
     -
       name: "Jijel"
+      native: "جيجل"
       code: "18"
       iso3166_2: "DZ-18"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7292188
       longitude: 5.9607776
       cities:
@@ -774,9 +836,11 @@
           longitude: 5.76671
     -
       name: "Khenchela"
+      native: "خنشلة"
       code: "40"
       iso3166_2: "DZ-40"
       type: "province"
+      type_es: "provincia"
       latitude: 35.4269404
       longitude: 7.1460155
       cities:
@@ -786,9 +850,11 @@
           longitude: 7.14333
     -
       name: "Laghouat"
+      native: "الأغواط"
       code: "03"
       iso3166_2: "DZ-03"
       type: "province"
+      type_es: "provincia"
       latitude: 33.8063451
       longitude: 2.8802635
       cities:
@@ -802,9 +868,11 @@
           longitude: 2.86514
     -
       name: "M'Sila"
+      native: "مسيلة"
       code: "28"
       iso3166_2: "DZ-28"
       type: "province"
+      type_es: "provincia"
       latitude: 35.7087553
       longitude: 4.5371552
       cities:
@@ -826,9 +894,11 @@
           longitude: 3.77236
     -
       name: "Mascara"
+      native: "ماسكارا"
       code: "29"
       iso3166_2: "DZ-29"
       type: "province"
+      type_es: "provincia"
       latitude: 35.394081
       longitude: 0.1379568
       cities:
@@ -850,9 +920,11 @@
           longitude: -0.19369
     -
       name: "Médéa"
+      native: "ميديا"
       code: "26"
       iso3166_2: "DZ-26"
       type: "province"
+      type_es: "provincia"
       latitude: 36.2637078
       longitude: 2.7587857
       cities:
@@ -874,9 +946,11 @@
           longitude: 2.75393
     -
       name: "Mila"
+      native: "ميلا"
       code: "43"
       iso3166_2: "DZ-43"
       type: "province"
+      type_es: "provincia"
       latitude: 36.2502135
       longitude: 6.1652163
       cities:
@@ -902,9 +976,11 @@
           longitude: 6.35434
     -
       name: "Mostaganem"
+      native: "مستغانم"
       code: "27"
       iso3166_2: "DZ-27"
       type: "province"
+      type_es: "provincia"
       latitude: 36.0026915
       longitude: 0.3686867
       cities:
@@ -914,9 +990,11 @@
           longitude: 0.08918
     -
       name: "Naama"
+      native: "نعمة"
       code: "45"
       iso3166_2: "DZ-45"
       type: "province"
+      type_es: "provincia"
       latitude: 33.2667317
       longitude: -0.3128659
       cities:
@@ -930,9 +1008,11 @@
           longitude: -0.31667
     -
       name: "Oran"
+      native: "وهران"
       code: "31"
       iso3166_2: "DZ-31"
       type: "province"
+      type_es: "provincia"
       latitude: 35.6215861
       longitude: -0.7016143
       cities:
@@ -970,9 +1050,11 @@
           longitude: -0.52168
     -
       name: "Ouargla"
+      native: "ورقلة"
       code: "30"
       iso3166_2: "DZ-30"
       type: "province"
+      type_es: "provincia"
       latitude: 31.9444998
       longitude: 5.3217813
       cities:
@@ -1014,18 +1096,22 @@
           longitude: 6.05796
     -
       name: "Ouled Djellal"
+      native: "أولاد جلال"
       code: "51"
       iso3166_2: "DZ-51"
       type: "province"
+      type_es: "provincia"
       latitude: 34.4254103
       longitude: 5.0644342
       cities:
         []
     -
       name: "Oum El Bouaghi"
+      native: "أم البواقي"
       code: "04"
       iso3166_2: "DZ-04"
       type: "province"
+      type_es: "provincia"
       latitude: 35.8688789
       longitude: 7.1108266
       cities:
@@ -1055,9 +1141,11 @@
           longitude: 7.11353
     -
       name: "Relizane"
+      native: "غليزان"
       code: "48"
       iso3166_2: "DZ-48"
       type: "province"
+      type_es: "provincia"
       latitude: 35.7381193
       longitude: 0.5547673
       cities:
@@ -1095,9 +1183,11 @@
           longitude: 0.75509
     -
       name: "Saïda"
+      native: "صيدا"
       code: "20"
       iso3166_2: "DZ-20"
       type: "province"
+      type_es: "provincia"
       latitude: 34.8302067
       longitude: 0.1502692
       cities:
@@ -1111,9 +1201,11 @@
           longitude: 0.15171
     -
       name: "Sétif"
+      native: "سطيف"
       code: "19"
       iso3166_2: "DZ-19"
       type: "province"
+      type_es: "provincia"
       latitude: 36.1893494
       longitude: 5.4046876
       cities:
@@ -1143,9 +1235,11 @@
           longitude: 5.41373
     -
       name: "Sidi Bel Abbès"
+      native: "سيدي بلعباس"
       code: "22"
       iso3166_2: "DZ-22"
       type: "province"
+      type_es: "provincia"
       latitude: 34.682268
       longitude: -0.4357555
       cities:
@@ -1311,9 +1405,11 @@
           longitude: -0.5221939
     -
       name: "Skikda"
+      native: "سكيكدة"
       code: "21"
       iso3166_2: "DZ-21"
       type: "province"
+      type_es: "provincia"
       latitude: 36.7545115
       longitude: 6.8856255
       cities:
@@ -1335,9 +1431,11 @@
           longitude: 6.64018
     -
       name: "Souk Ahras"
+      native: "سوق أهراس"
       code: "41"
       iso3166_2: "DZ-41"
       type: "province"
+      type_es: "provincia"
       latitude: 36.282865
       longitude: 7.9537896
       cities:
@@ -1351,9 +1449,11 @@
           longitude: 7.95111
     -
       name: "Tamanghasset"
+      native: "تمنغست"
       code: "11"
       iso3166_2: "DZ-11"
       type: "province"
+      type_es: "provincia"
       latitude: 22.7859372
       longitude: 5.5291395
       cities:
@@ -1367,9 +1467,11 @@
           longitude: 5.52278
     -
       name: "Tébessa"
+      native: "تبسة"
       code: "12"
       iso3166_2: "DZ-12"
       type: "province"
+      type_es: "provincia"
       latitude: 35.124945
       longitude: 7.9011735
       cities:
@@ -1391,9 +1493,11 @@
           longitude: 8.12417
     -
       name: "Tiaret"
+      native: "تيارت"
       code: "14"
       iso3166_2: "DZ-14"
       type: "province"
+      type_es: "provincia"
       latitude: 35.3708689
       longitude: 1.3217852
       cities:
@@ -1427,18 +1531,22 @@
           longitude: 1.31699
     -
       name: "Timimoun"
+      native: "تيميمون"
       code: "54"
       iso3166_2: "DZ-54"
       type: "province"
+      type_es: "provincia"
       latitude: 30.0244725
       longitude: 0.8485979
       cities:
         []
     -
       name: "Tindouf"
+      native: "تندوف"
       code: "37"
       iso3166_2: "DZ-37"
       type: "province"
+      type_es: "provincia"
       latitude: 27.543907
       longitude: -6.2400411
       cities:
@@ -1448,9 +1556,11 @@
           longitude: -8.14743
     -
       name: "Tipasa"
+      native: "تيبازة"
       code: "42"
       iso3166_2: "DZ-42"
       type: "province"
+      type_es: "provincia"
       latitude: 36.527157
       longitude: 2.1672012
       cities:
@@ -1508,9 +1618,11 @@
           longitude: 2.84244
     -
       name: "Tissemsilt"
+      native: "تيسمسيلت"
       code: "38"
       iso3166_2: "DZ-38"
       type: "province"
+      type_es: "provincia"
       latitude: 35.6053781
       longitude: 1.813098
       cities:
@@ -1524,9 +1636,11 @@
           longitude: 1.81081
     -
       name: "Tizi Ouzou"
+      native: "تيزي وزو"
       code: "15"
       iso3166_2: "DZ-15"
       type: "province"
+      type_es: "provincia"
       latitude: 36.6816175
       longitude: 4.237186
       cities:
@@ -1600,9 +1714,11 @@
           longitude: 4.05712
     -
       name: "Tlemcen"
+      native: "تلمسان"
       code: "13"
       iso3166_2: "DZ-13"
       type: "province"
+      type_es: "provincia"
       latitude: 34.667468
       longitude: -1.2978132
       cities:
@@ -1656,9 +1772,11 @@
           longitude: -1.315
     -
       name: "Touggourt"
+      native: "تقرت"
       code: "55"
       iso3166_2: "DZ-55"
       type: "province"
+      type_es: "provincia"
       latitude: 33.1048574
       longitude: 6.0667276
       cities:

@@ -12,133 +12,163 @@
   currency_symbol: "$"
   tld: ".ai"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 18.25
   longitude: -63.16666666
   emoji: "🇦🇮"
   states:
     -
       name: "Blowing Point"
+      native: "Blowing Point"
       code: "01"
       iso3166_2: "AI-01"
       type: "district"
+      type_es: "distrito"
       latitude: 18.1765553
       longitude: -63.1021296
       cities:
         []
     -
       name: "East End"
+      native: "East End"
       code: "02"
       iso3166_2: "AI-02"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2342629
       longitude: -62.997374
       cities:
         []
     -
       name: "George Hill"
+      native: "George Hill"
       code: "03"
       iso3166_2: "AI-03"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2036599
       longitude: -63.0648112
       cities:
         []
     -
       name: "Island Harbour"
+      native: "Island Harbour"
       code: "04"
       iso3166_2: "AI-04"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2556888
       longitude: -63.0012814
       cities:
         []
     -
       name: "North Hill"
+      native: "North Hill"
       code: "05"
       iso3166_2: "AI-05"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2050863
       longitude: -63.0858457
       cities:
         []
     -
       name: "North Side"
+      native: "North Side"
       code: "06"
       iso3166_2: "AI-06"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2300544
       longitude: -63.051889
       cities:
         []
     -
       name: "Sandy Ground"
+      native: "Sandy Ground"
       code: "07"
       iso3166_2: "AI-07"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2018551
       longitude: -63.0973471
       cities:
         []
     -
       name: "Sandy Hill"
+      native: "Sandy Hill"
       code: "08"
       iso3166_2: "AI-08"
       type: "district"
+      type_es: "distrito"
       latitude: 18.218921
       longitude: -63.0129916
       cities:
         []
     -
       name: "South Hill"
+      native: "South Hill"
       code: "09"
       iso3166_2: "AI-09"
       type: "district"
+      type_es: "distrito"
       latitude: 18.1892475
       longitude: -63.0976367
       cities:
         []
     -
       name: "Stoney Ground"
+      native: "Stoney Ground"
       code: "10"
       iso3166_2: "AI-10"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2179997
       longitude: -63.0400727
       cities:
         []
     -
       name: "The Farrington"
+      native: "The Farrington"
       code: "11"
       iso3166_2: "AI-11"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2134701
       longitude: -63.0272162
       cities:
         []
     -
       name: "The Quarter"
+      native: "The Quarter"
       code: "12"
       iso3166_2: "AI-12"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2145334
       longitude: -63.0564489
       cities:
         []
     -
       name: "The Valley"
+      native: "The Valley"
       code: "13"
       iso3166_2: "AI-13"
       type: "district"
+      type_es: "distrito"
       latitude: 18.2145861
       longitude: -63.0517759
       cities:
         []
     -
       name: "West End"
+      native: "West End"
       code: "14"
       iso3166_2: "AI-14"
       type: "district"
+      type_es: "distrito"
       latitude: 18.1721666
       longitude: -63.1567037
       cities:

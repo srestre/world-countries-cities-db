@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(203, 'Somalia', 'SO', 'SOM', 'Africa', 'Eastern Africa', 'Mogadishu', 'SOS', 10, 49, '🇸🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(203, 'Somalia', 'Somalia', 'SO', 'SOM', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Mogadishu', 'SOS', 10, 49, '🇸🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(925, 'Awdal', 203, 'SO', 'AW', 'region', 10.6951152, 43.4904963),
-(917, 'Bakool', 203, 'SO', 'BK', 'region', 4.3514387, 43.7186102),
-(927, 'Banaadir', 203, 'SO', 'BN', 'region', 2.0783351, 45.2805421),
-(930, 'Bari', 203, 'SO', 'BR', 'region', 10.1903509, 50.1298044),
-(926, 'Bay', 203, 'SO', 'BY', 'region', 2.9999946, 43.500177),
-(918, 'Galguduud', 203, 'SO', 'GA', 'region', 5.0755014, 46.8803363),
-(928, 'Gedo', 203, 'SO', 'GE', 'region', 3, 42),
-(915, 'Hiran', 203, 'SO', 'HI', 'region', 4.3616958, 45.5333102),
-(924, 'Lower Juba', 203, 'SO', 'JH', 'region', -0.0001019, 41.9999624),
-(921, 'Lower Shebelle', 203, 'SO', 'SH', 'region', 1.8427539, 44.5937239),
-(922, 'Middle Juba', 203, 'SO', 'JD', 'region', 1.4325937, 42.6559939),
-(923, 'Middle Shebelle', 203, 'SO', 'SD', 'region', 3, 46),
-(916, 'Mudug', 203, 'SO', 'MU', 'region', 6.6507279, 48.3009945),
-(920, 'Nugal', 203, 'SO', 'NU', 'region', 8.16698, 48.9978971),
-(919, 'Sanaag', 203, 'SO', 'SA', 'region', 10.4386899, 47.5924085),
-(5699, 'Sool', 203, 'SO', 'SO', 'region', 8.39611111, 47.69138889),
-(929, 'Togdheer', 203, 'SO', 'TO', 'region', 9.3029453, 45.4861213),
-(5700, 'Woqooyi Galbeed', 203, 'SO', 'WO', 'region', 9.56305556, 44.0675);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(925, 'Awdal', 'Awdal', 203, 'SO', 'AW', 'region', 'región', 10.6951152, 43.4904963),
+(917, 'Bakool', 'Bakool', 203, 'SO', 'BK', 'region', 'región', 4.3514387, 43.7186102),
+(927, 'Banaadir', 'Banaadir', 203, 'SO', 'BN', 'region', 'región', 2.0783351, 45.2805421),
+(930, 'Bari', 'Bari', 203, 'SO', 'BR', 'region', 'región', 10.1903509, 50.1298044),
+(926, 'Bay', 'Gacan biyo badda', 203, 'SO', 'BY', 'region', 'región', 2.9999946, 43.500177),
+(918, 'Galguduud', 'Galguduud', 203, 'SO', 'GA', 'region', 'región', 5.0755014, 46.8803363),
+(928, 'Gedo', 'Gedo', 203, 'SO', 'GE', 'region', 'región', 3, 42),
+(915, 'Hiran', 'Hiraan', 203, 'SO', 'HI', 'region', 'región', 4.3616958, 45.5333102),
+(924, 'Lower Juba', 'Jubbada Hoose', 203, 'SO', 'JH', 'region', 'región', -0.0001019, 41.9999624),
+(921, 'Lower Shebelle', 'Hoose Shebelle', 203, 'SO', 'SH', 'region', 'región', 1.8427539, 44.5937239),
+(922, 'Middle Juba', 'Jubbada Dhexe', 203, 'SO', 'JD', 'region', 'región', 1.4325937, 42.6559939),
+(923, 'Middle Shebelle', 'Dhexe ee Shebelle', 203, 'SO', 'SD', 'region', 'región', 3, 46),
+(916, 'Mudug', 'Mudug', 203, 'SO', 'MU', 'region', 'región', 6.6507279, 48.3009945),
+(920, 'Nugal', 'Nugal', 203, 'SO', 'NU', 'region', 'región', 8.16698, 48.9978971),
+(919, 'Sanaag', 'Sanaag', 203, 'SO', 'SA', 'region', 'región', 10.4386899, 47.5924085),
+(5699, 'Sool', 'Sool', 203, 'SO', 'SO', 'region', 'región', 8.39611111, 47.69138889),
+(929, 'Togdheer', 'Togdheer', 203, 'SO', 'TO', 'region', 'región', 9.3029453, 45.4861213),
+(5700, 'Woqooyi Galbeed', 'Maroodi Jeex', 203, 'SO', 'WO', 'region', 'región', 9.56305556, 44.0675);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (104815, 'Tayeeglow', 917, 203, 4.01897, 44.51111),

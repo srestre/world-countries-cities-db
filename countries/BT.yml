@@ -12,16 +12,20 @@
   currency_symbol: "Nu."
   tld: ".bt"
   region: "Asia"
+  region_es: "Asia"
   subregion: "Southern Asia"
+  subregion_es: "Asia del Sur"
   latitude: 27.5
   longitude: 90.5
   emoji: "🇧🇹"
   states:
     -
       name: "Bumthang "
+      native: "Bumthang "
       code: "33"
       iso3166_2: "BT-33"
       type: "district"
+      type_es: "distrito"
       latitude: 27.7079132
       longitude: 90.7697435
       cities:
@@ -35,9 +39,11 @@
           longitude: 90.7449544
     -
       name: "Chukha "
+      native: "Chukha "
       code: "12"
       iso3166_2: "BT-12"
       type: "district"
+      type_es: "distrito"
       latitude: 27.0575803
       longitude: 89.5638178
       cities:
@@ -67,9 +73,11 @@
           longitude: 89.38837
     -
       name: "Dagana "
+      native: "Dagana "
       code: "22"
       iso3166_2: "BT-22"
       type: "district"
+      type_es: "distrito"
       latitude: 27.0746653
       longitude: 89.8786685
       cities:
@@ -87,9 +95,11 @@
           longitude: 89.9667
     -
       name: "Gasa "
+      native: "Gasa "
       code: "GA"
       iso3166_2: "BT-GA"
       type: "district"
+      type_es: "distrito"
       latitude: 27.9190875
       longitude: 89.7875318
       cities:
@@ -99,9 +109,11 @@
           longitude: 89.72689
     -
       name: "Haa "
+      native: "Haa "
       code: "13"
       iso3166_2: "BT-13"
       type: "district"
+      type_es: "distrito"
       latitude: 27.3596658
       longitude: 89.2357556
       cities:
@@ -119,9 +131,11 @@
           longitude: 89.3167
     -
       name: "Lhuntse "
+      native: "Lhuntse "
       code: "44"
       iso3166_2: "BT-44"
       type: "district"
+      type_es: "distrito"
       latitude: 27.7287448
       longitude: 91.1363624
       cities:
@@ -131,9 +145,11 @@
           longitude: 91.18393
     -
       name: "Mongar "
+      native: "Mongar "
       code: "42"
       iso3166_2: "BT-42"
       type: "district"
+      type_es: "distrito"
       latitude: 27.2763005
       longitude: 91.237536
       cities:
@@ -151,9 +167,11 @@
           longitude: 91.2667
     -
       name: "Paro "
+      native: "Paro "
       code: "11"
       iso3166_2: "BT-11"
       type: "district"
+      type_es: "distrito"
       latitude: 27.4285949
       longitude: 89.4166516
       cities:
@@ -171,9 +189,11 @@
           longitude: 89.65
     -
       name: "Pemagatshel "
+      native: "Pemagatshel "
       code: "43"
       iso3166_2: "BT-43"
       type: "district"
+      type_es: "distrito"
       latitude: 27.0030415
       longitude: 91.3677054
       cities:
@@ -187,9 +207,11 @@
           longitude: 91.40305
     -
       name: "Punakha "
+      native: "Punakha "
       code: "23"
       iso3166_2: "BT-23"
       type: "district"
+      type_es: "distrito"
       latitude: 27.5842857
       longitude: 89.8593094
       cities:
@@ -203,9 +225,11 @@
           longitude: 89.87743
     -
       name: "Samdrup Jongkhar "
+      native: "Samdrup Jongkhar "
       code: "45"
       iso3166_2: "BT-45"
       type: "district"
+      type_es: "distrito"
       latitude: 26.8035682
       longitude: 91.5039207
       cities:
@@ -215,9 +239,11 @@
           longitude: 91.50519
     -
       name: "Samtse "
+      native: "Samtse "
       code: "14"
       iso3166_2: "BT-14"
       type: "district"
+      type_es: "distrito"
       latitude: 27.0352532
       longitude: 89.0147344
       cities:
@@ -239,9 +265,11 @@
           longitude: 88.8833
     -
       name: "Sarpang "
+      native: "Sarpang "
       code: "31"
       iso3166_2: "BT-31"
       type: "district"
+      type_es: "distrito"
       latitude: 26.9863897
       longitude: 90.3800673
       cities:
@@ -263,9 +291,11 @@
           longitude: 90.26745
     -
       name: "Thimphu "
+      native: "Thimphu "
       code: "15"
       iso3166_2: "BT-15"
       type: "district"
+      type_es: "distrito"
       latitude: 27.4712216
       longitude: 89.6339041
       cities:
@@ -275,9 +305,11 @@
           longitude: 89.64191
     -
       name: "Trashi Yangtse\t"
+      native: "Trashi Yangtse\t"
       code: "TY"
       iso3166_2: "BT-TY"
       type: "district"
+      type_es: "distrito"
       latitude: 27.717585
       longitude: 91.1981102
       cities:
@@ -295,9 +327,11 @@
           longitude: 91.6333
     -
       name: "Trashigang "
+      native: "Trashigang "
       code: "41"
       iso3166_2: "BT-41"
       type: "district"
+      type_es: "distrito"
       latitude: 27.2843778
       longitude: 91.5742509
       cities:
@@ -335,9 +369,11 @@
           longitude: 91.5604447
     -
       name: "Trongsa "
+      native: "Trongsa "
       code: "32"
       iso3166_2: "BT-32"
       type: "district"
+      type_es: "distrito"
       latitude: 27.5002269
       longitude: 90.5080634
       cities:
@@ -347,9 +383,11 @@
           longitude: 90.5047
     -
       name: "Tsirang "
+      native: "Tsirang "
       code: "21"
       iso3166_2: "BT-21"
       type: "district"
+      type_es: "distrito"
       latitude: 27.0072232
       longitude: 90.1326289
       cities:
@@ -371,9 +409,11 @@
           longitude: 90.12291
     -
       name: "Wangdue Phodrang "
+      native: "Wangdue Phodrang "
       code: "24"
       iso3166_2: "BT-24"
       type: "district"
+      type_es: "distrito"
       latitude: 27.544634
       longitude: 89.955581
       cities:
@@ -391,9 +431,11 @@
           longitude: 89.9
     -
       name: "Zhemgang "
+      native: "Zhemgang "
       code: "34"
       iso3166_2: "BT-34"
       type: "district"
+      type_es: "distrito"
       latitude: 27.0821148
       longitude: 90.8408984
       cities:

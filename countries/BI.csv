@@ -1,19 +1,19 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-BI,Burundi,Africa,Eastern Africa,BB,Bubanza,Bubanza,-3.0804,29.391
-BI,Burundi,Africa,Eastern Africa,BM,Bujumbura Mairie,Bujumbura,-3.38193,29.36142
-BI,Burundi,Africa,Eastern Africa,BL,Bujumbura Rural,,,
-BI,Burundi,Africa,Eastern Africa,BR,Bururi,Bururi,-3.94877,29.62438
-BI,Burundi,Africa,Eastern Africa,CA,Cankuzo,Cankuzo,-3.2186,30.5528
-BI,Burundi,Africa,Eastern Africa,CI,Cibitoke,Cibitoke,-2.8869,29.1248
-BI,Burundi,Africa,Eastern Africa,GI,Gitega,Gitega,-3.42708,29.92463
-BI,Burundi,Africa,Eastern Africa,KR,Karuzi,Karuzi,-3.10139,30.16278
-BI,Burundi,Africa,Eastern Africa,KY,Kayanza,Kayanza,-2.9221,29.6293
-BI,Burundi,Africa,Eastern Africa,KI,Kirundo,Kirundo,-2.5845,30.0959
-BI,Burundi,Africa,Eastern Africa,MA,Makamba,Makamba,-4.1348,29.804
-BI,Burundi,Africa,Eastern Africa,MU,Muramvya,Muramvya,-3.2682,29.6079
-BI,Burundi,Africa,Eastern Africa,MY,Muyinga,Muyinga,-2.8451,30.3414
-BI,Burundi,Africa,Eastern Africa,MW,Mwaro,Mwaro,-3.51128,29.70334
-BI,Burundi,Africa,Eastern Africa,NG,Ngozi,Ngozi,-2.9075,29.8306
-BI,Burundi,Africa,Eastern Africa,RM,Rumonge,Rumonge,-3.9736,29.4386
-BI,Burundi,Africa,Eastern Africa,RT,Rutana,Rutana,-3.9279,29.992
-BI,Burundi,Africa,Eastern Africa,RY,Ruyigi,Ruyigi,-3.47639,30.24861
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,BB,Bubanza,province,provincia,Bubanza,-3.0804,29.391
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,BM,Bujumbura Mairie,province,provincia,Bujumbura,-3.38193,29.36142
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,BL,Bujumbura Rural,province,provincia,,,
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,BR,Bururi,province,provincia,Bururi,-3.94877,29.62438
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,CA,Cankuzo,province,provincia,Cankuzo,-3.2186,30.5528
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,CI,Cibitoke,province,provincia,Cibitoke,-2.8869,29.1248
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,GI,Gitega,province,provincia,Gitega,-3.42708,29.92463
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,KR,Karuzi,province,provincia,Karuzi,-3.10139,30.16278
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,KY,Kayanza,province,provincia,Kayanza,-2.9221,29.6293
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,KI,Kirundo,province,provincia,Kirundo,-2.5845,30.0959
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,MA,Makamba,province,provincia,Makamba,-4.1348,29.804
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,MU,Muramvya,province,provincia,Muramvya,-3.2682,29.6079
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,MY,Muyinga,province,provincia,Muyinga,-2.8451,30.3414
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,MW,Mwaro,province,provincia,Mwaro,-3.51128,29.70334
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,NG,Ngozi,province,provincia,Ngozi,-2.9075,29.8306
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,RM,Rumonge,province,provincia,Rumonge,-3.9736,29.4386
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,RT,Rutana,province,provincia,Rutana,-3.9279,29.992
+BI,Burundi,Burundi,Africa,África,Eastern Africa,África Oriental,RY,Ruyigi,province,provincia,Ruyigi,-3.47639,30.24861

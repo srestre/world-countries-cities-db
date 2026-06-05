@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(183, 'Rwanda', 'RW', 'RWA', 'Africa', 'Eastern Africa', 'Kigali', 'RWF', -2, 30, '🇷🇼');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(183, 'Rwanda', 'Ruanda', 'RW', 'RWA', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Kigali', 'RWF', -2, 30, '🇷🇼');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(261, 'Eastern', 183, 'RW', '02', 'province', -1.7415136, 30.5404282),
-(262, 'Kigali', 183, 'RW', '01', 'city', -1.950851, 30.061507),
-(263, 'Northern', 183, 'RW', '03', 'province', -1.5809699, 29.9269776),
-(259, 'Southern', 183, 'RW', '05', 'province', -2.6272137, 29.6063049),
-(260, 'Western', 183, 'RW', '04', 'province', -0.7727891, 30.0884324);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(261, 'Eastern', 'Iburasirazuba', 183, 'RW', '02', 'province', 'provincia', -1.7415136, 30.5404282),
+(262, 'Kigali', 'Kigali', 183, 'RW', '01', 'city', 'ciudad', -1.950851, 30.061507),
+(263, 'Northern', 'Amajyaruguru', 183, 'RW', '03', 'province', 'provincia', -1.5809699, 29.9269776),
+(259, 'Southern', 'Amajyepfo', 183, 'RW', '05', 'province', 'provincia', -2.6272137, 29.6063049),
+(260, 'Western', 'Western', 183, 'RW', '04', 'province', 'provincia', -0.7727891, 30.0884324);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (102798, 'Kibungo', 261, 183, -2.1597, 30.5427),

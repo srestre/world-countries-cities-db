@@ -12,16 +12,20 @@
   currency_symbol: "ت.د"
   tld: ".tn"
   region: "Africa"
+  region_es: "África"
   subregion: "Northern Africa"
+  subregion_es: "África del Norte"
   latitude: 34
   longitude: 9
   emoji: "🇹🇳"
   states:
     -
       name: "Ariana"
+      native: "أريانا"
       code: "12"
       iso3166_2: "TN-12"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.9685735
       longitude: 10.1219855
       cities:
@@ -55,9 +59,11 @@
           longitude: 10.0403
     -
       name: "Béja"
+      native: "باجة"
       code: "31"
       iso3166_2: "TN-31"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.7236755
       longitude: 9.185382
       cities:
@@ -99,9 +105,11 @@
           longitude: 9.0622
     -
       name: "Ben Arous"
+      native: "بن عروس"
       code: "13"
       iso3166_2: "TN-13"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.6306483
       longitude: 10.2100827
       cities:
@@ -127,9 +135,11 @@
           longitude: 10.27468
     -
       name: "Bizerte"
+      native: "بنزرت"
       code: "23"
       iso3166_2: "TN-23"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 37.0354339
       longitude: 9.6393259
       cities:
@@ -187,9 +197,11 @@
           longitude: 10.03876
     -
       name: "Gabès"
+      native: "قابس"
       code: "81"
       iso3166_2: "TN-81"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.7765032
       longitude: 9.793063
       cities:
@@ -211,9 +223,11 @@
           longitude: 9.97157
     -
       name: "Gafsa"
+      native: "قفصة"
       code: "71"
       iso3166_2: "TN-71"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.4224374
       longitude: 8.7843862
       cities:
@@ -239,9 +253,11 @@
           longitude: 8.17057
     -
       name: "Jendouba"
+      native: "جندوبة"
       code: "32"
       iso3166_2: "TN-32"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.6779725
       longitude: 8.752647
       cities:
@@ -263,9 +279,11 @@
           longitude: 8.75801
     -
       name: "Kairouan"
+      native: "القيروان"
       code: "41"
       iso3166_2: "TN-41"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.6711663
       longitude: 10.1005469
       cities:
@@ -283,9 +301,11 @@
           longitude: 10.02081
     -
       name: "Kasserine"
+      native: "القصرين"
       code: "42"
       iso3166_2: "TN-42"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.1687646
       longitude: 8.8365654
       cities:
@@ -307,9 +327,11 @@
           longitude: 8.67031
     -
       name: "Kebili"
+      native: "قبلي"
       code: "73"
       iso3166_2: "TN-73"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.7071551
       longitude: 8.9714623
       cities:
@@ -331,9 +353,11 @@
           longitude: 8.96903
     -
       name: "Kef"
+      native: "الكاف"
       code: "33"
       iso3166_2: "TN-33"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.0357642
       longitude: 8.7249381
       cities:
@@ -367,9 +391,11 @@
           longitude: 8.55276
     -
       name: "Mahdia"
+      native: "المهدية"
       code: "53"
       iso3166_2: "TN-53"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.4877893
       longitude: 10.9622433
       cities:
@@ -411,9 +437,11 @@
           longitude: 11.06056
     -
       name: "Manouba"
+      native: "منوبة"
       code: "14"
       iso3166_2: "TN-14"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.7624363
       longitude: 9.8336191
       cities:
@@ -435,9 +463,11 @@
           longitude: 10.04057
     -
       name: "Medenine"
+      native: "مدنين"
       code: "82"
       iso3166_2: "TN-82"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.3434014
       longitude: 10.4910703
       cities:
@@ -475,9 +505,11 @@
           longitude: 11.11215
     -
       name: "Monastir"
+      native: "المنستير"
       code: "52"
       iso3166_2: "TN-52"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.7707582
       longitude: 10.8280511
       cities:
@@ -547,9 +579,11 @@
           longitude: 10.82732
     -
       name: "Nabeul"
+      native: "نابل"
       code: "21"
       iso3166_2: "TN-21"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.4823676
       longitude: 10.6707197
       cities:
@@ -647,9 +681,11 @@
           longitude: 10.206034
     -
       name: "Sfax"
+      native: "صفاقس"
       code: "61"
       iso3166_2: "TN-61"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 34.7232387
       longitude: 10.3358474
       cities:
@@ -679,9 +715,11 @@
           longitude: 10.06999
     -
       name: "Sidi Bouzid"
+      native: "سيدي بوزيد"
       code: "43"
       iso3166_2: "TN-43"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.0354386
       longitude: 9.4839392
       cities:
@@ -707,9 +745,11 @@
           longitude: 9.48494
     -
       name: "Siliana"
+      native: "سليانة"
       code: "34"
       iso3166_2: "TN-34"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.0887208
       longitude: 9.3645335
       cities:
@@ -739,9 +779,11 @@
           longitude: 9.37082
     -
       name: "Sousse"
+      native: "سوسة"
       code: "51"
       iso3166_2: "TN-51"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 35.8939852
       longitude: 10.3977704
       cities:
@@ -779,9 +821,11 @@
           longitude: 10.63699
     -
       name: "Tataouine"
+      native: "تطاوين"
       code: "83"
       iso3166_2: "TN-83"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 31.7317009
       longitude: 9.7702197
       cities:
@@ -795,9 +839,11 @@
           longitude: 10.45177
     -
       name: "Tozeur"
+      native: "توزر"
       code: "72"
       iso3166_2: "TN-72"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 33.9844105
       longitude: 8.0711309
       cities:
@@ -823,9 +869,11 @@
           longitude: 8.13352
     -
       name: "Tunis"
+      native: "تونس"
       code: "11"
       iso3166_2: "TN-11"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.81791
       longitude: 10.2127219
       cities:
@@ -855,9 +903,11 @@
           longitude: 10.16579
     -
       name: "Zaghouan"
+      native: "زغوان"
       code: "22"
       iso3166_2: "TN-22"
       type: "governorate"
+      type_es: "gobernación"
       latitude: 36.3994751
       longitude: 10.1446349
       cities:

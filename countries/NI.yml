@@ -12,16 +12,20 @@
   currency_symbol: "C$"
   tld: ".ni"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   latitude: 13
   longitude: -85
   emoji: "🇳🇮"
   states:
     -
       name: "Boaco"
+      native: "Reno"
       code: "BO"
       iso3166_2: "NI-BO"
       type: "department"
+      type_es: "departamento"
       latitude: 12.469284
       longitude: -85.6614682
       cities:
@@ -51,9 +55,11 @@
           longitude: -85.79798
     -
       name: "Carazo"
+      native: "Carazo"
       code: "CA"
       iso3166_2: "NI-CA"
       type: "department"
+      type_es: "departamento"
       latitude: 11.6619985
       longitude: -86.3125697
       cities:
@@ -95,9 +101,11 @@
           longitude: -86.21413
     -
       name: "Chinandega"
+      native: "Chinandega"
       code: "CI"
       iso3166_2: "NI-CI"
       type: "department"
+      type_es: "departamento"
       latitude: 12.7777962
       longitude: -87.269584
       cities:
@@ -151,9 +159,11 @@
           longitude: -86.90506
     -
       name: "Chontales"
+      native: "Chontales"
       code: "CO"
       iso3166_2: "NI-CO"
       type: "department"
+      type_es: "departamento"
       latitude: 11.9876753
       longitude: -85.1860798
       cities:
@@ -195,9 +205,11 @@
           longitude: -84.99362
     -
       name: "Estelí"
+      native: "Estelí"
       code: "ES"
       iso3166_2: "NI-ES"
       type: "department"
+      type_es: "departamento"
       latitude: 13.0931241
       longitude: -86.3554436
       cities:
@@ -223,9 +235,11 @@
           longitude: -86.61234
     -
       name: "Granada"
+      native: "Granada"
       code: "GR"
       iso3166_2: "NI-GR"
       type: "department"
+      type_es: "departamento"
       latitude: 11.9344073
       longitude: -85.9560005
       cities:
@@ -247,9 +261,11 @@
           longitude: -86.05286
     -
       name: "Jinotega"
+      native: "Jinotega"
       code: "JI"
       iso3166_2: "NI-JI"
       type: "department"
+      type_es: "departamento"
       latitude: 13.0883907
       longitude: -85.9993997
       cities:
@@ -287,9 +303,11 @@
           longitude: -86.18641
     -
       name: "León"
+      native: "León"
       code: "LE"
       iso3166_2: "NI-LE"
       type: "department"
+      type_es: "departamento"
       latitude: 12.5092037
       longitude: -86.6611083
       cities:
@@ -335,9 +353,11 @@
           longitude: -86.85938
     -
       name: "Madriz"
+      native: "Madriz"
       code: "MD"
       iso3166_2: "NI-MD"
       type: "department"
+      type_es: "departamento"
       latitude: 13.4272871
       longitude: -86.401622
       cities:
@@ -379,9 +399,11 @@
           longitude: -86.49305
     -
       name: "Managua"
+      native: "Gerencia"
       code: "MN"
       iso3166_2: "NI-MN"
       type: "department"
+      type_es: "departamento"
       latitude: 12.1080585
       longitude: -86.3505808
       cities:
@@ -423,9 +445,11 @@
           longitude: -86.50571
     -
       name: "Masaya"
+      native: "Es divertido"
       code: "MS"
       iso3166_2: "NI-MS"
       type: "department"
+      type_es: "departamento"
       latitude: 11.9736474
       longitude: -86.0960547
       cities:
@@ -483,9 +507,11 @@
           longitude: -86.01739
     -
       name: "Matagalpa"
+      native: "Matagalpa"
       code: "MT"
       iso3166_2: "NI-MT"
       type: "department"
+      type_es: "departamento"
       latitude: 12.940323
       longitude: -85.6960942
       cities:
@@ -523,9 +549,11 @@
           longitude: -85.96474
     -
       name: "North Caribbean Coast"
+      native: "Costa del Caribe del Norte"
       code: "AN"
       iso3166_2: "NI-AN"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 14.0557499
       longitude: -83.7475765
       cities:
@@ -555,9 +583,11 @@
           longitude: -83.9717
     -
       name: "Nueva Segovia"
+      native: "Nueva Segovia"
       code: "NS"
       iso3166_2: "NI-NS"
       type: "department"
+      type_es: "departamento"
       latitude: 13.7719023
       longitude: -86.0584542
       cities:
@@ -611,9 +641,11 @@
           longitude: -85.831697
     -
       name: "Río San Juan"
+      native: "Río San Juan"
       code: "SJ"
       iso3166_2: "NI-SJ"
       type: "department"
+      type_es: "departamento"
       latitude: 11.3080026
       longitude: -84.7550693
       cities:
@@ -639,9 +671,11 @@
           longitude: -84.89991
     -
       name: "Rivas"
+      native: "Rivas"
       code: "RI"
       iso3166_2: "NI-RI"
       type: "department"
+      type_es: "departamento"
       latitude: 11.3434687
       longitude: -85.7159624
       cities:
@@ -727,9 +761,11 @@
           longitude: -85.93891
     -
       name: "South Caribbean Coast"
+      native: "Costa del Caribe del Sur"
       code: "AS"
       iso3166_2: "NI-AS"
       type: "autonomous region"
+      type_es: "región autónoma"
       latitude: 12.1793275
       longitude: -83.7774051
       cities:

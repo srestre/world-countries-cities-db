@@ -12,16 +12,20 @@
   currency_symbol: "Nfk"
   tld: ".er"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: 15
   longitude: 39
   emoji: "🇪🇷"
   states:
     -
       name: "Anseba"
+      native: "ኣንሰባ"
       code: "AN"
       iso3166_2: "ER-AN"
       type: "region"
+      type_es: "región"
       latitude: 16.5000101
       longitude: 37.5000048
       cities:
@@ -31,9 +35,11 @@
           longitude: 38.45107
     -
       name: "Debub"
+      native: "ዲቡብ ."
       code: "DU"
       iso3166_2: "ER-DU"
       type: "region"
+      type_es: "región"
       latitude: 14.9099667
       longitude: 38.8150692
       cities:
@@ -51,9 +57,11 @@
           longitude: 38.81528
     -
       name: "Gash-Barka"
+      native: "ጋሽ-እንቋዕ ደሓን መጻእኩም"
       code: "GB"
       iso3166_2: "ER-GB"
       type: "region"
+      type_es: "región"
       latitude: 15.25
       longitude: 37.5
       cities:
@@ -71,9 +79,11 @@
           longitude: 36.6575
     -
       name: "Maekel"
+      native: "ጉሓት"
       code: "MA"
       iso3166_2: "ER-MA"
       type: "region"
+      type_es: "región"
       latitude: 15.333333
       longitude: 38.916667
       cities:
@@ -83,9 +93,11 @@
           longitude: 38.93184
     -
       name: "Northern Red Sea"
+      native: "ሰሜናዊ ቀይሕ ባሕሪ"
       code: "SK"
       iso3166_2: "ER-SK"
       type: "region"
+      type_es: "región"
       latitude: 16
       longitude: 39
       cities:
@@ -95,9 +107,11 @@
           longitude: 39.47455
     -
       name: "Southern Red Sea"
+      native: "ደቡባዊ ቀይሕ ባሕሪ"
       code: "DK"
       iso3166_2: "ER-DK"
       type: "region"
+      type_es: "región"
       latitude: 13.75
       longitude: 41.5
       cities:

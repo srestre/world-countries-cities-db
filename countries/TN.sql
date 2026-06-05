@@ -1,45 +1,45 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(224, 'Tunisia', 'TN', 'TUN', 'Africa', 'Northern Africa', 'Tunis', 'TND', 34, 9, '🇹🇳');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(224, 'Tunisia', 'Túnez', 'TN', 'TUN', 'Africa', 'África', 'Northern Africa', 'África del Norte', 'Tunis', 'TND', 34, 9, '🇹🇳');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(2550, 'Ariana', 224, 'TN', '12', 'governorate', 36.9685735, 10.1219855),
-(2572, 'Béja', 224, 'TN', '31', 'governorate', 36.7236755, 9.185382),
-(2566, 'Ben Arous', 224, 'TN', '13', 'governorate', 36.6306483, 10.2100827),
-(2551, 'Bizerte', 224, 'TN', '23', 'governorate', 37.0354339, 9.6393259),
-(2558, 'Gabès', 224, 'TN', '81', 'governorate', 33.7765032, 9.793063),
-(2556, 'Gafsa', 224, 'TN', '71', 'governorate', 34.4224374, 8.7843862),
-(2552, 'Jendouba', 224, 'TN', '32', 'governorate', 36.6779725, 8.752647),
-(2564, 'Kairouan', 224, 'TN', '41', 'governorate', 35.6711663, 10.1005469),
-(2570, 'Kasserine', 224, 'TN', '42', 'governorate', 35.1687646, 8.8365654),
-(2562, 'Kebili', 224, 'TN', '73', 'governorate', 33.7071551, 8.9714623),
-(2561, 'Kef', 224, 'TN', '33', 'governorate', 36.0357642, 8.7249381),
-(2568, 'Mahdia', 224, 'TN', '53', 'governorate', 35.4877893, 10.9622433),
-(2555, 'Manouba', 224, 'TN', '14', 'governorate', 36.7624363, 9.8336191),
-(2560, 'Medenine', 224, 'TN', '82', 'governorate', 33.3434014, 10.4910703),
-(2553, 'Monastir', 224, 'TN', '52', 'governorate', 35.7707582, 10.8280511),
-(5116, 'Nabeul', 224, 'TN', '21', 'governorate', 36.4823676, 10.6707197),
-(2557, 'Sfax', 224, 'TN', '61', 'governorate', 34.7232387, 10.3358474),
-(2567, 'Sidi Bouzid', 224, 'TN', '43', 'governorate', 35.0354386, 9.4839392),
-(2563, 'Siliana', 224, 'TN', '34', 'governorate', 36.0887208, 9.3645335),
-(2571, 'Sousse', 224, 'TN', '51', 'governorate', 35.8939852, 10.3977704),
-(2559, 'Tataouine', 224, 'TN', '83', 'governorate', 31.7317009, 9.7702197),
-(2569, 'Tozeur', 224, 'TN', '72', 'governorate', 33.9844105, 8.0711309),
-(2554, 'Tunis', 224, 'TN', '11', 'governorate', 36.81791, 10.2127219),
-(2565, 'Zaghouan', 224, 'TN', '22', 'governorate', 36.3994751, 10.1446349);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(2550, 'Ariana', 'أريانا', 224, 'TN', '12', 'governorate', 'gobernación', 36.9685735, 10.1219855),
+(2572, 'Béja', 'باجة', 224, 'TN', '31', 'governorate', 'gobernación', 36.7236755, 9.185382),
+(2566, 'Ben Arous', 'بن عروس', 224, 'TN', '13', 'governorate', 'gobernación', 36.6306483, 10.2100827),
+(2551, 'Bizerte', 'بنزرت', 224, 'TN', '23', 'governorate', 'gobernación', 37.0354339, 9.6393259),
+(2558, 'Gabès', 'قابس', 224, 'TN', '81', 'governorate', 'gobernación', 33.7765032, 9.793063),
+(2556, 'Gafsa', 'قفصة', 224, 'TN', '71', 'governorate', 'gobernación', 34.4224374, 8.7843862),
+(2552, 'Jendouba', 'جندوبة', 224, 'TN', '32', 'governorate', 'gobernación', 36.6779725, 8.752647),
+(2564, 'Kairouan', 'القيروان', 224, 'TN', '41', 'governorate', 'gobernación', 35.6711663, 10.1005469),
+(2570, 'Kasserine', 'القصرين', 224, 'TN', '42', 'governorate', 'gobernación', 35.1687646, 8.8365654),
+(2562, 'Kebili', 'قبلي', 224, 'TN', '73', 'governorate', 'gobernación', 33.7071551, 8.9714623),
+(2561, 'Kef', 'الكاف', 224, 'TN', '33', 'governorate', 'gobernación', 36.0357642, 8.7249381),
+(2568, 'Mahdia', 'المهدية', 224, 'TN', '53', 'governorate', 'gobernación', 35.4877893, 10.9622433),
+(2555, 'Manouba', 'منوبة', 224, 'TN', '14', 'governorate', 'gobernación', 36.7624363, 9.8336191),
+(2560, 'Medenine', 'مدنين', 224, 'TN', '82', 'governorate', 'gobernación', 33.3434014, 10.4910703),
+(2553, 'Monastir', 'المنستير', 224, 'TN', '52', 'governorate', 'gobernación', 35.7707582, 10.8280511),
+(5116, 'Nabeul', 'نابل', 224, 'TN', '21', 'governorate', 'gobernación', 36.4823676, 10.6707197),
+(2557, 'Sfax', 'صفاقس', 224, 'TN', '61', 'governorate', 'gobernación', 34.7232387, 10.3358474),
+(2567, 'Sidi Bouzid', 'سيدي بوزيد', 224, 'TN', '43', 'governorate', 'gobernación', 35.0354386, 9.4839392),
+(2563, 'Siliana', 'سليانة', 224, 'TN', '34', 'governorate', 'gobernación', 36.0887208, 9.3645335),
+(2571, 'Sousse', 'سوسة', 224, 'TN', '51', 'governorate', 'gobernación', 35.8939852, 10.3977704),
+(2559, 'Tataouine', 'تطاوين', 224, 'TN', '83', 'governorate', 'gobernación', 31.7317009, 9.7702197),
+(2569, 'Tozeur', 'توزر', 224, 'TN', '72', 'governorate', 'gobernación', 33.9844105, 8.0711309),
+(2554, 'Tunis', 'تونس', 224, 'TN', '11', 'governorate', 'gobernación', 36.81791, 10.2127219),
+(2565, 'Zaghouan', 'زغوان', 224, 'TN', '22', 'governorate', 'gobernación', 36.3994751, 10.1446349);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (106915, 'Ariana', 2550, 224, 36.86012, 10.19337),

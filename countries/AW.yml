@@ -12,25 +12,31 @@
   currency_symbol: "ƒ"
   tld: ".aw"
   region: "Americas"
+  region_es: "América"
   subregion: "Caribbean"
+  subregion_es: "Caribe"
   latitude: 12.5
   longitude: -69.96666666
   emoji: "🇦🇼"
   states:
     -
       name: "Noord"
+      native: "Noord"
       code: "01"
       iso3166_2: "AW-01"
       type: "region"
+      type_es: "región"
       latitude: 12.5636805
       longitude: -70.0329869
       cities:
         []
     -
       name: "Oranjestad"
+      native: "Oranjestad"
       code: "09"
       iso3166_2: "AW-09"
       type: "capital city"
+      type_es: "ciudad capital"
       latitude: 12.5201024
       longitude: -70.0371329
       cities:
@@ -84,63 +90,77 @@
           longitude: -70.03816
     -
       name: "Oranjestad East"
+      native: "Oranjestad East"
       code: "03"
       iso3166_2: "AW-03"
       type: "region"
+      type_es: "región"
       latitude: 12.5022696
       longitude: -70.0149586
       cities:
         []
     -
       name: "Oranjestad West"
+      native: "Oranjestad West"
       code: "02"
       iso3166_2: "AW-02"
       type: "region"
+      type_es: "región"
       latitude: 12.5361486
       longitude: -70.0430597
       cities:
         []
     -
       name: "Paradera"
+      native: "Paradera"
       code: "04"
       iso3166_2: "AW-04"
       type: "region"
+      type_es: "región"
       latitude: 12.5362871
       longitude: -70.0148511
       cities:
         []
     -
       name: "San Nicolaas Noord"
+      native: "San Nicolaas Noord"
       code: "05"
       iso3166_2: "AW-05"
       type: "region"
+      type_es: "región"
       latitude: 12.4642717
       longitude: -69.9434939
       cities:
         []
     -
       name: "San Nicolaas Zuid"
+      native: "San Nicolaas Zuid"
       code: "06"
       iso3166_2: "AW-06"
       type: "region"
+      type_es: "región"
       latitude: 12.4278558
       longitude: -69.9381079
       cities:
         []
     -
       name: "Santa Cruz"
+      native: "Santa Cruz"
       code: "07"
       iso3166_2: "AW-07"
       type: "region"
+      type_es: "región"
       latitude: 12.5112836
       longitude: -69.9876966
       cities:
         []
     -
       name: "Savaneta"
+      native: "Savaneta"
       code: "08"
       iso3166_2: "AW-08"
       type: "region"
+      type_es: "región"
       latitude: 12.4526385
       longitude: -69.9496521
       cities:

@@ -1,33 +1,33 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(111, 'Jordan', 'JO', 'JOR', 'Asia', 'Western Asia', 'Amman', 'JOD', 31, 36, '🇯🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(111, 'Jordan', 'Jordania', 'JO', 'JOR', 'Asia', 'Asia', 'Western Asia', 'Asia Occidental', 'Amman', 'JOD', 31, 36, '🇯🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(963, 'Ajloun', 111, 'JO', 'AJ', 'governorate', 32.3325584, 35.7516844),
-(965, 'Amman', 111, 'JO', 'AM', 'governorate', 31.9453633, 35.9283895),
-(959, 'Aqaba', 111, 'JO', 'AQ', 'governorate', 29.532086, 35.0062821),
-(961, 'Balqa', 111, 'JO', 'BA', 'governorate', 31.9782917, 35.6585232),
-(960, 'Irbid', 111, 'JO', 'IR', 'governorate', 32.5569636, 35.8478965),
-(966, 'Jerash', 111, 'JO', 'JA', 'governorate', 32.2747237, 35.8960954),
-(956, 'Karak', 111, 'JO', 'KA', 'governorate', 31.1257036, 35.824704),
-(964, 'Ma''an', 111, 'JO', 'MN', 'governorate', 30.2, 35.7333329),
-(958, 'Madaba', 111, 'JO', 'MD', 'governorate', 31.7196097, 35.7932754),
-(962, 'Mafraq', 111, 'JO', 'MA', 'governorate', 32.3416923, 36.2020175),
-(957, 'Tafilah', 111, 'JO', 'AT', 'governorate', 30.833333, 35.5999999),
-(967, 'Zarqa', 111, 'JO', 'AZ', 'governorate', 32.0608505, 36.0942121);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(963, 'Ajloun', 'عجلون', 111, 'JO', 'AJ', 'governorate', 'gobernación', 32.3325584, 35.7516844),
+(965, 'Amman', 'عمان', 111, 'JO', 'AM', 'governorate', 'gobernación', 31.9453633, 35.9283895),
+(959, 'Aqaba', 'العقبة', 111, 'JO', 'AQ', 'governorate', 'gobernación', 29.532086, 35.0062821),
+(961, 'Balqa', 'البلقاء', 111, 'JO', 'BA', 'governorate', 'gobernación', 31.9782917, 35.6585232),
+(960, 'Irbid', 'إربد', 111, 'JO', 'IR', 'governorate', 'gobernación', 32.5569636, 35.8478965),
+(966, 'Jerash', 'جرش', 111, 'JO', 'JA', 'governorate', 'gobernación', 32.2747237, 35.8960954),
+(956, 'Karak', 'الكرك', 111, 'JO', 'KA', 'governorate', 'gobernación', 31.1257036, 35.824704),
+(964, 'Ma''an', 'معان', 111, 'JO', 'MN', 'governorate', 'gobernación', 30.2, 35.7333329),
+(958, 'Madaba', 'مادبا', 111, 'JO', 'MD', 'governorate', 'gobernación', 31.7196097, 35.7932754),
+(962, 'Mafraq', 'المفرق', 111, 'JO', 'MA', 'governorate', 'gobernación', 32.3416923, 36.2020175),
+(957, 'Tafilah', 'الطفيلة', 111, 'JO', 'AT', 'governorate', 'gobernación', 30.833333, 35.5999999),
+(967, 'Zarqa', 'الزرقاء', 111, 'JO', 'AZ', 'governorate', 'gobernación', 32.0608505, 36.0942121);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (63206, '‘Ajlūn', 963, 111, 32.33326, 35.75279),

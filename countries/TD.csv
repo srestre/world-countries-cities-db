@@ -1,51 +1,51 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-TD,Chad,Africa,Middle Africa,BG,Bahr el Gazel,Moussoro,13.64143,16.48941
-TD,Chad,Africa,Middle Africa,BA,Batha,Ati,13.2154,18.3353
-TD,Chad,Africa,Middle Africa,BA,Batha,Oum Hadjer,13.2954,19.6966
-TD,Chad,Africa,Middle Africa,BO,Borkou,Faya-Largeau,17.9257,19.10428
-TD,Chad,Africa,Middle Africa,CB,Chari-Baguirmi,Baguirmi Department,11.39833333,16.1675
-TD,Chad,Africa,Middle Africa,CB,Chari-Baguirmi,Bousso,10.4825,16.71611111
-TD,Chad,Africa,Middle Africa,CB,Chari-Baguirmi,Dababa,12.38,17.06
-TD,Chad,Africa,Middle Africa,CB,Chari-Baguirmi,Gaoui,12.1807,15.1476
-TD,Chad,Africa,Middle Africa,CB,Chari-Baguirmi,Linia,12.0562141,15.3037987
-TD,Chad,Africa,Middle Africa,CB,Chari-Baguirmi,Mandjafa,11.19861111,15.36111111
-TD,Chad,Africa,Middle Africa,CB,Chari-Baguirmi,Massenya,11.40277778,16.17
-TD,Chad,Africa,Middle Africa,EE,Ennedi-Est,,,
-TD,Chad,Africa,Middle Africa,EO,Ennedi-Ouest,Fada,17.18535,21.58114
-TD,Chad,Africa,Middle Africa,GR,Guéra,Bitkine,11.9801,18.2138
-TD,Chad,Africa,Middle Africa,GR,Guéra,Melfi,11.0598,17.9355
-TD,Chad,Africa,Middle Africa,GR,Guéra,Mongo,12.18441,18.69303
-TD,Chad,Africa,Middle Africa,HL,Hadjer-Lamis,Bokoro,12.37813,17.05876
-TD,Chad,Africa,Middle Africa,HL,Hadjer-Lamis,Massaguet,12.47554,15.43647
-TD,Chad,Africa,Middle Africa,HL,Hadjer-Lamis,Massakory,12.996,15.72927
-TD,Chad,Africa,Middle Africa,KA,Kanem,Mao,14.12116,15.3103
-TD,Chad,Africa,Middle Africa,LC,Lac,Bol,13.46706,14.71363
-TD,Chad,Africa,Middle Africa,LO,Logone Occidental,Beïnamar,8.6698,15.3813
-TD,Chad,Africa,Middle Africa,LO,Logone Occidental,Benoy,8.98327,16.31991
-TD,Chad,Africa,Middle Africa,LO,Logone Occidental,Lac Wey,8.70502,15.98303
-TD,Chad,Africa,Middle Africa,LO,Logone Occidental,Moundou,8.56667,16.08333
-TD,Chad,Africa,Middle Africa,LR,Logone Oriental,Bébédja,8.6761,16.566
-TD,Chad,Africa,Middle Africa,LR,Logone Oriental,Béboto,8.26681,16.93898
-TD,Chad,Africa,Middle Africa,LR,Logone Oriental,Doba,8.65,16.85
-TD,Chad,Africa,Middle Africa,MA,Mandoul,Goundi,9.36267,17.36597
-TD,Chad,Africa,Middle Africa,MA,Mandoul,Koumra,8.91256,17.55392
-TD,Chad,Africa,Middle Africa,MA,Mandoul,Moïssala,8.3404,17.7663
-TD,Chad,Africa,Middle Africa,ME,Mayo-Kebbi Est,Bongor,10.28056,15.37222
-TD,Chad,Africa,Middle Africa,ME,Mayo-Kebbi Est,Gounou Gaya,9.6294,15.5132
-TD,Chad,Africa,Middle Africa,ME,Mayo-Kebbi Est,Guelendeng,10.91762,15.55011
-TD,Chad,Africa,Middle Africa,MO,Mayo-Kebbi Ouest,Mboursou Léré,9.7639,14.1539
-TD,Chad,Africa,Middle Africa,MO,Mayo-Kebbi Ouest,Pala,9.3642,14.9046
-TD,Chad,Africa,Middle Africa,MC,Moyen-Chari,Kyabé,9.45149,18.94493
-TD,Chad,Africa,Middle Africa,MC,Moyen-Chari,Sarh,9.1429,18.3923
-TD,Chad,Africa,Middle Africa,ND,N'Djamena,N'Djamena,12.11,15.05
-TD,Chad,Africa,Middle Africa,OD,Ouaddaï,Abéché,13.82916,20.8324
-TD,Chad,Africa,Middle Africa,OD,Ouaddaï,Adré,13.46648,22.19875
-TD,Chad,Africa,Middle Africa,OD,Ouaddaï,Goz Béïda,13.94563,20.5468
-TD,Chad,Africa,Middle Africa,SA,Salamat,Am Timan,11.0297,20.2827
-TD,Chad,Africa,Middle Africa,SI,Sila,Goz Beïda,12.22484,21.41034
-TD,Chad,Africa,Middle Africa,TA,Tandjilé,Béré,9.3202,16.1552
-TD,Chad,Africa,Middle Africa,TA,Tandjilé,Kelo,9.30859,15.80658
-TD,Chad,Africa,Middle Africa,TA,Tandjilé,Laï,9.3972,16.30066
-TD,Chad,Africa,Middle Africa,TI,Tibesti,Aozou,21.8375,17.4275
-TD,Chad,Africa,Middle Africa,WF,Wadi Fira,Biltine,14.52791,20.92749
-TD,Chad,Africa,Middle Africa,WF,Wadi Fira,Iriba,15.11667,22.25
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,BG,Bahr el Gazel,province,provincia,Moussoro,13.64143,16.48941
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,BA,Batha,province,provincia,Ati,13.2154,18.3353
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,BA,Batha,province,provincia,Oum Hadjer,13.2954,19.6966
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,BO,Borkou,province,provincia,Faya-Largeau,17.9257,19.10428
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,CB,Chari-Baguirmi,province,provincia,Baguirmi Department,11.39833333,16.1675
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,CB,Chari-Baguirmi,province,provincia,Bousso,10.4825,16.71611111
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,CB,Chari-Baguirmi,province,provincia,Dababa,12.38,17.06
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,CB,Chari-Baguirmi,province,provincia,Gaoui,12.1807,15.1476
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,CB,Chari-Baguirmi,province,provincia,Linia,12.0562141,15.3037987
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,CB,Chari-Baguirmi,province,provincia,Mandjafa,11.19861111,15.36111111
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,CB,Chari-Baguirmi,province,provincia,Massenya,11.40277778,16.17
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,EE,Ennedi-Est,province,provincia,,,
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,EO,Ennedi-Ouest,province,provincia,Fada,17.18535,21.58114
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,GR,Guéra,province,provincia,Bitkine,11.9801,18.2138
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,GR,Guéra,province,provincia,Melfi,11.0598,17.9355
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,GR,Guéra,province,provincia,Mongo,12.18441,18.69303
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,HL,Hadjer-Lamis,province,provincia,Bokoro,12.37813,17.05876
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,HL,Hadjer-Lamis,province,provincia,Massaguet,12.47554,15.43647
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,HL,Hadjer-Lamis,province,provincia,Massakory,12.996,15.72927
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,KA,Kanem,province,provincia,Mao,14.12116,15.3103
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LC,Lac,province,provincia,Bol,13.46706,14.71363
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LO,Logone Occidental,province,provincia,Beïnamar,8.6698,15.3813
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LO,Logone Occidental,province,provincia,Benoy,8.98327,16.31991
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LO,Logone Occidental,province,provincia,Lac Wey,8.70502,15.98303
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LO,Logone Occidental,province,provincia,Moundou,8.56667,16.08333
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LR,Logone Oriental,province,provincia,Bébédja,8.6761,16.566
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LR,Logone Oriental,province,provincia,Béboto,8.26681,16.93898
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,LR,Logone Oriental,province,provincia,Doba,8.65,16.85
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,MA,Mandoul,province,provincia,Goundi,9.36267,17.36597
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,MA,Mandoul,province,provincia,Koumra,8.91256,17.55392
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,MA,Mandoul,province,provincia,Moïssala,8.3404,17.7663
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,ME,Mayo-Kebbi Est,province,provincia,Bongor,10.28056,15.37222
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,ME,Mayo-Kebbi Est,province,provincia,Gounou Gaya,9.6294,15.5132
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,ME,Mayo-Kebbi Est,province,provincia,Guelendeng,10.91762,15.55011
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,MO,Mayo-Kebbi Ouest,province,provincia,Mboursou Léré,9.7639,14.1539
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,MO,Mayo-Kebbi Ouest,province,provincia,Pala,9.3642,14.9046
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,MC,Moyen-Chari,province,provincia,Kyabé,9.45149,18.94493
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,MC,Moyen-Chari,province,provincia,Sarh,9.1429,18.3923
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,ND,N'Djamena,province,provincia,N'Djamena,12.11,15.05
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,OD,Ouaddaï,province,provincia,Abéché,13.82916,20.8324
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,OD,Ouaddaï,province,provincia,Adré,13.46648,22.19875
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,OD,Ouaddaï,province,provincia,Goz Béïda,13.94563,20.5468
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,SA,Salamat,province,provincia,Am Timan,11.0297,20.2827
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,SI,Sila,province,provincia,Goz Beïda,12.22484,21.41034
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,TA,Tandjilé,province,provincia,Béré,9.3202,16.1552
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,TA,Tandjilé,province,provincia,Kelo,9.30859,15.80658
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,TA,Tandjilé,province,provincia,Laï,9.3972,16.30066
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,TI,Tibesti,province,provincia,Aozou,21.8375,17.4275
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,WF,Wadi Fira,province,provincia,Biltine,14.52791,20.92749
+TD,Chad,Chad,Africa,África,Middle Africa,África Central,WF,Wadi Fira,province,provincia,Iriba,15.11667,22.25

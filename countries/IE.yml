@@ -12,43 +12,53 @@
   currency_symbol: "€"
   tld: ".ie"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 53
   longitude: -8
   emoji: "🇮🇪"
   states:
     -
       name: "Carlow"
+      native: "Carlow"
       code: "CW"
       iso3166_2: "IE-CW"
       type: "county"
+      type_es: "condado"
       latitude: 52.6907887
       longitude: -6.8251452
       cities:
         []
     -
       name: "Cavan"
+      native: "Cavan"
       code: "CN"
       iso3166_2: "IE-CN"
       type: "county"
+      type_es: "condado"
       latitude: 53.9911042
       longitude: -7.3603119
       cities:
         []
     -
       name: "Clare"
+      native: "Clare"
       code: "CE"
       iso3166_2: "IE-CE"
       type: "county"
+      type_es: "condado"
       latitude: 53.3454937
       longitude: -8.9860534
       cities:
         []
     -
       name: "Connacht"
+      native: "Connacht"
       code: "C"
       iso3166_2: "IE-C"
       type: "province"
+      type_es: "provincia"
       latitude: 53.7210278
       longitude: -8.925256
       cities:
@@ -222,81 +232,99 @@
           longitude: -9.51667
     -
       name: "Cork"
+      native: "Cork"
       code: "CO"
       iso3166_2: "IE-CO"
       type: "county"
+      type_es: "condado"
       latitude: 51.8985143
       longitude: -8.4756035
       cities:
         []
     -
       name: "Donegal"
+      native: "Donegal"
       code: "DL"
       iso3166_2: "IE-DL"
       type: "county"
+      type_es: "condado"
       latitude: 54.6548993
       longitude: -8.1040967
       cities:
         []
     -
       name: "Dublin"
+      native: "Dublin"
       code: "D"
       iso3166_2: "IE-D"
       type: "county"
+      type_es: "condado"
       latitude: 53.3498053
       longitude: -6.2603097
       cities:
         []
     -
       name: "Galway"
+      native: "Galway"
       code: "G"
       iso3166_2: "IE-G"
       type: "county"
+      type_es: "condado"
       latitude: 53.2744122
       longitude: -9.0490601
       cities:
         []
     -
       name: "Kerry"
+      native: "Kerry"
       code: "KY"
       iso3166_2: "IE-KY"
       type: "county"
+      type_es: "condado"
       latitude: 52.1453345
       longitude: -9.5174011
       cities:
         []
     -
       name: "Kildare"
+      native: "Kildare"
       code: "KE"
       iso3166_2: "IE-KE"
       type: "county"
+      type_es: "condado"
       latitude: 53.1543645
       longitude: -6.8184423
       cities:
         []
     -
       name: "Kilkenny"
+      native: "Kilkenny"
       code: "KK"
       iso3166_2: "IE-KK"
       type: "county"
+      type_es: "condado"
       latitude: 52.5687098
       longitude: -7.1889831
       cities:
         []
     -
       name: "Laois"
+      native: "Laois"
       code: "LS"
       iso3166_2: "IE-LS"
       type: "county"
+      type_es: "condado"
       latitude: 52.9984575
       longitude: -7.3980338
       cities:
         []
     -
       name: "Leinster"
+      native: "Leinster"
       code: "L"
       iso3166_2: "IE-L"
       type: "province"
+      type_es: "provincia"
       latitude: 53.118465
       longitude: -6.9918183
       cities:
@@ -1146,72 +1174,88 @@
           longitude: -6.41667
     -
       name: "Leitrim"
+      native: "Leitrim"
       code: "LM"
       iso3166_2: "IE-LM"
       type: "county"
+      type_es: "condado"
       latitude: 54.1401622
       longitude: -8.0524782
       cities:
         []
     -
       name: "Limerick"
+      native: "Limerick"
       code: "LK"
       iso3166_2: "IE-LK"
       type: "county"
+      type_es: "condado"
       latitude: 52.5188316
       longitude: -8.7958347
       cities:
         []
     -
       name: "Longford"
+      native: "Longford"
       code: "LD"
       iso3166_2: "IE-LD"
       type: "county"
+      type_es: "condado"
       latitude: 53.7274982
       longitude: -7.7931527
       cities:
         []
     -
       name: "Louth"
+      native: "Louth"
       code: "LH"
       iso3166_2: "IE-LH"
       type: "county"
+      type_es: "condado"
       latitude: 53.9062848
       longitude: -6.5320502
       cities:
         []
     -
       name: "Mayo"
+      native: "Mayo"
       code: "MO"
       iso3166_2: "IE-MO"
       type: "county"
+      type_es: "condado"
       latitude: 53.9087056
       longitude: -9.2983049
       cities:
         []
     -
       name: "Meath"
+      native: "Meath"
       code: "MH"
       iso3166_2: "IE-MH"
       type: "county"
+      type_es: "condado"
       latitude: 53.6497514
       longitude: -6.5884245
       cities:
         []
     -
       name: "Monaghan"
+      native: "Monaghan"
       code: "MN"
       iso3166_2: "IE-MN"
       type: "county"
+      type_es: "condado"
       latitude: 54.2492046
       longitude: -6.9683132
       cities:
         []
     -
       name: "Munster"
+      native: "Munster"
       code: "M"
       iso3166_2: "IE-M"
       type: "province"
+      type_es: "provincia"
       latitude: 52.3076216
       longitude: -8.5708973
       cities:
@@ -1545,45 +1589,55 @@
           longitude: -7.85056
     -
       name: "Offaly"
+      native: "Offaly"
       code: "OY"
       iso3166_2: "IE-OY"
       type: "county"
+      type_es: "condado"
       latitude: 53.1361722
       longitude: -7.8103408
       cities:
         []
     -
       name: "Roscommon"
+      native: "Roscommon"
       code: "RN"
       iso3166_2: "IE-RN"
       type: "county"
+      type_es: "condado"
       latitude: 53.6982695
       longitude: -8.2182508
       cities:
         []
     -
       name: "Sligo"
+      native: "Sligo"
       code: "SO"
       iso3166_2: "IE-SO"
       type: "county"
+      type_es: "condado"
       latitude: 54.1929861
       longitude: -8.7305427
       cities:
         []
     -
       name: "Tipperary"
+      native: "Tipperary"
       code: "TA"
       iso3166_2: "IE-TA"
       type: "county"
+      type_es: "condado"
       latitude: 52.4737894
       longitude: -8.1618514
       cities:
         []
     -
       name: "Ulster"
+      native: "Ulster"
       code: "U"
       iso3166_2: "IE-U"
       type: "province"
+      type_es: "provincia"
       latitude: 54.0934659
       longitude: -7.1989794
       cities:
@@ -1729,36 +1783,44 @@
           longitude: -7.07556
     -
       name: "Waterford"
+      native: "Waterford"
       code: "WD"
       iso3166_2: "IE-WD"
       type: "county"
+      type_es: "condado"
       latitude: 52.1509131
       longitude: -7.6577982
       cities:
         []
     -
       name: "Westmeath"
+      native: "Westmeath"
       code: "WH"
       iso3166_2: "IE-WH"
       type: "county"
+      type_es: "condado"
       latitude: 53.5577902
       longitude: -7.3478558
       cities:
         []
     -
       name: "Wexford"
+      native: "Wexford"
       code: "WX"
       iso3166_2: "IE-WX"
       type: "county"
+      type_es: "condado"
       latitude: 52.4601874
       longitude: -6.6065155
       cities:
         []
     -
       name: "Wicklow"
+      native: "Wicklow"
       code: "WW"
       iso3166_2: "IE-WW"
       type: "county"
+      type_es: "condado"
       latitude: 52.9582099
       longitude: -6.3814208
       cities:

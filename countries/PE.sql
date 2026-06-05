@@ -1,47 +1,47 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(173, 'Peru', 'PE', 'PER', 'Americas', 'South America', 'Lima', 'PEN', -10, -76, '🇵🇪');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(173, 'Peru', 'Perú', 'PE', 'PER', 'Americas', 'América', 'South America', 'Sudamérica', 'Lima', 'PEN', -10, -76, '🇵🇪');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3685, 'Amazonas', 173, 'PE', 'AMA', 'region', -5, -78),
-(3680, 'Áncash', 173, 'PE', 'ANC', 'region', -9.5, -77.75),
-(3699, 'Apurímac', 173, 'PE', 'APU', 'region', -14, -73),
-(3681, 'Arequipa', 173, 'PE', 'ARE', 'region', -16.3988667, -71.5369607),
-(3692, 'Ayacucho', 173, 'PE', 'AYA', 'region', -13.1638737, -74.2235641),
-(3688, 'Cajamarca', 173, 'PE', 'CAJ', 'region', -7.1617465, -78.5127855),
-(3701, 'Callao', 173, 'PE', 'CAL', 'region', -12.0522626, -77.1391133),
-(3691, 'Cusco', 173, 'PE', 'CUS', 'region', -13.5170887, -71.9785356),
-(3679, 'Huancavelica', 173, 'PE', 'HUV', 'region', -12.7861978, -74.9764024),
-(3687, 'Huanuco', 173, 'PE', 'HUC', 'region', -9.9207648, -76.2410843),
-(3700, 'Ica', 173, 'PE', 'ICA', 'region', -14.0640967, -75.7290915),
-(3693, 'Junín', 173, 'PE', 'JUN', 'region', -11.1581925, -75.9926306),
-(3683, 'La Libertad', 173, 'PE', 'LAL', 'region', -8, -78.5),
-(3702, 'Lambayeque', 173, 'PE', 'LAM', 'region', -6.703027, -79.9065086),
-(3695, 'Lima', 173, 'PE', 'LIM', 'region', -12.0621065, -77.0365256),
-(4922, 'Loreto', 173, 'PE', 'LOR', 'region', -4, -75.166667),
-(3678, 'Madre de Dios', 173, 'PE', 'MDD', 'region', -12, -70.25),
-(3698, 'Moquegua', 173, 'PE', 'MOQ', 'region', -17.1927361, -70.9328138),
-(5687, 'Municipalidad Metropolitana de Lima', 173, 'PE', 'LMA', 'municipality', -12.0464, -77.0428),
-(3686, 'Pasco', 173, 'PE', 'PAS', 'region', -10.7246926, -76.1657305),
-(3697, 'Piura', 173, 'PE', 'PIU', 'region', -5.1971376, -80.6267237),
-(3682, 'Puno', 173, 'PE', 'PUN', 'region', -15.8402218, -70.0218805),
-(3694, 'San Martín', 173, 'PE', 'SAM', 'region', -6.4095133, -76.8712581),
-(3696, 'Tacna', 173, 'PE', 'TAC', 'region', -18.0065679, -70.2462741),
-(3689, 'Tumbes', 173, 'PE', 'TUM', 'region', -3.5707875, -80.4596454),
-(3684, 'Ucayali', 173, 'PE', 'UCA', 'region', -9, -73.5);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3685, 'Amazonas', 'Amazonas', 173, 'PE', 'AMA', 'region', 'región', -5, -78),
+(3680, 'Áncash', 'Áncash', 173, 'PE', 'ANC', 'region', 'región', -9.5, -77.75),
+(3699, 'Apurímac', 'Apurímac', 173, 'PE', 'APU', 'region', 'región', -14, -73),
+(3681, 'Arequipa', 'Arequipa', 173, 'PE', 'ARE', 'region', 'región', -16.3988667, -71.5369607),
+(3692, 'Ayacucho', 'Ayacucho', 173, 'PE', 'AYA', 'region', 'región', -13.1638737, -74.2235641),
+(3688, 'Cajamarca', 'Cajamarca', 173, 'PE', 'CAJ', 'region', 'región', -7.1617465, -78.5127855),
+(3701, 'Callao', 'Callao', 173, 'PE', 'CAL', 'region', 'región', -12.0522626, -77.1391133),
+(3691, 'Cusco', 'Cúsa', 173, 'PE', 'CUS', 'region', 'región', -13.5170887, -71.9785356),
+(3679, 'Huancavelica', 'Huancavelica', 173, 'PE', 'HUV', 'region', 'región', -12.7861978, -74.9764024),
+(3687, 'Huanuco', 'Huanuco', 173, 'PE', 'HUC', 'region', 'región', -9.9207648, -76.2410843),
+(3700, 'Ica', 'ICA', 173, 'PE', 'ICA', 'region', 'región', -14.0640967, -75.7290915),
+(3693, 'Junín', 'Junín', 173, 'PE', 'JUN', 'region', 'región', -11.1581925, -75.9926306),
+(3683, 'La Libertad', 'La Libertad', 173, 'PE', 'LAL', 'region', 'región', -8, -78.5),
+(3702, 'Lambayeque', 'Lambayeque', 173, 'PE', 'LAM', 'region', 'región', -6.703027, -79.9065086),
+(3695, 'Lima', 'Lima', 173, 'PE', 'LIM', 'region', 'región', -12.0621065, -77.0365256),
+(4922, 'Loreto', 'Loreto', 173, 'PE', 'LOR', 'region', 'región', -4, -75.166667),
+(3678, 'Madre de Dios', 'Madre de Dios', 173, 'PE', 'MDD', 'region', 'región', -12, -70.25),
+(3698, 'Moquegua', 'Moquegua', 173, 'PE', 'MOQ', 'region', 'región', -17.1927361, -70.9328138),
+(5687, 'Municipalidad Metropolitana de Lima', 'Municipalidad Metropolitana de Lima', 173, 'PE', 'LMA', 'municipality', 'municipio', -12.0464, -77.0428),
+(3686, 'Pasco', 'Pasto', 173, 'PE', 'PAS', 'region', 'región', -10.7246926, -76.1657305),
+(3697, 'Piura', 'Piura', 173, 'PE', 'PIU', 'region', 'región', -5.1971376, -80.6267237),
+(3682, 'Puno', 'Mucho', 173, 'PE', 'PUN', 'region', 'región', -15.8402218, -70.0218805),
+(3694, 'San Martín', 'San Martín', 173, 'PE', 'SAM', 'region', 'región', -6.4095133, -76.8712581),
+(3696, 'Tacna', 'Tacna', 173, 'PE', 'TAC', 'region', 'región', -18.0065679, -70.2462741),
+(3689, 'Tumbes', 'Tumbes', 173, 'PE', 'TUM', 'region', 'región', -3.5707875, -80.4596454),
+(3684, 'Ucayali', 'Ucayali', 173, 'PE', 'UCA', 'region', 'región', -9, -73.5);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (80572, 'Bagua Grande', 3685, 173, -5.75611, -78.44111),

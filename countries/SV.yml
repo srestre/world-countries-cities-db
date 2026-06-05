@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".sv"
   region: "Americas"
+  region_es: "América"
   subregion: "Central America"
+  subregion_es: "Centroamérica"
   latitude: 13.83333333
   longitude: -88.91666666
   emoji: "🇸🇻"
   states:
     -
       name: "Ahuachapán"
+      native: "Ahuachapán"
       code: "AH"
       iso3166_2: "SV-AH"
       type: "department"
+      type_es: "departamento"
       latitude: 13.8634993
       longitude: -89.9273861
       cities:
@@ -55,9 +59,11 @@
           longitude: -89.92972
     -
       name: "Cabañas"
+      native: "Cabañas"
       code: "CA"
       iso3166_2: "SV-CA"
       type: "department"
+      type_es: "departamento"
       latitude: 13.8832914
       longitude: -88.7383096
       cities:
@@ -71,9 +77,11 @@
           longitude: -88.63333
     -
       name: "Chalatenango"
+      native: "Chalatenango"
       code: "CH"
       iso3166_2: "SV-CH"
       type: "department"
+      type_es: "departamento"
       latitude: 14.1765311
       longitude: -89.0932963
       cities:
@@ -87,9 +95,11 @@
           longitude: -89.3
     -
       name: "Cuscatlán"
+      native: "Cuscatlán"
       code: "CU"
       iso3166_2: "SV-CU"
       type: "department"
+      type_es: "departamento"
       latitude: 13.8586903
       longitude: -89.0632592
       cities:
@@ -115,9 +125,11 @@
           longitude: -88.98333
     -
       name: "La Libertad"
+      native: "La Libertad"
       code: "LI"
       iso3166_2: "SV-LI"
       type: "department"
+      type_es: "departamento"
       latitude: 13.7449622
       longitude: -89.3610819
       cities:
@@ -159,9 +171,11 @@
           longitude: -89.28889
     -
       name: "La Paz"
+      native: "La Paz"
       code: "PA"
       iso3166_2: "SV-PA"
       type: "department"
+      type_es: "departamento"
       latitude: 13.4669766
       longitude: -88.9850622
       cities:
@@ -187,9 +201,11 @@
           longitude: -88.86667
     -
       name: "La Unión "
+      native: "La Unión "
       code: "UN"
       iso3166_2: "SV-UN"
       type: "department"
+      type_es: "departamento"
       latitude: 13.5326318
       longitude: -87.902582
       cities:
@@ -227,9 +243,11 @@
           longitude: -87.89361
     -
       name: "Morazán"
+      native: "Morazán"
       code: "MO"
       iso3166_2: "SV-MO"
       type: "department"
+      type_es: "departamento"
       latitude: 13.7726176
       longitude: -88.0951973
       cities:
@@ -259,9 +277,11 @@
           longitude: -88.01667
     -
       name: "San Miguel"
+      native: "San Miguel"
       code: "SM"
       iso3166_2: "SV-SM"
       type: "department"
+      type_es: "departamento"
       latitude: 13.4320224
       longitude: -88.271737
       cities:
@@ -311,9 +331,11 @@
           longitude: -88.36667
     -
       name: "San Salvador"
+      native: "San Salvador"
       code: "SS"
       iso3166_2: "SV-SS"
       type: "department"
+      type_es: "departamento"
       latitude: 13.735588
       longitude: -89.2005546
       cities:
@@ -383,9 +405,11 @@
           longitude: -89.11861
     -
       name: "San Vicente"
+      native: "San Vicente"
       code: "SV"
       iso3166_2: "SV-SV"
       type: "department"
+      type_es: "departamento"
       latitude: 13.5274935
       longitude: -88.7396986
       cities:
@@ -403,9 +427,11 @@
           longitude: -88.8
     -
       name: "Santa Ana"
+      native: "Santa Ana"
       code: "SA"
       iso3166_2: "SV-SA"
       type: "department"
+      type_es: "departamento"
       latitude: 14.1145585
       longitude: -89.5678141
       cities:
@@ -439,9 +465,11 @@
           longitude: -89.5
     -
       name: "Sonsonate"
+      native: "Sonsonate"
       code: "SO"
       iso3166_2: "SV-SO"
       type: "department"
+      type_es: "departamento"
       latitude: 13.7115105
       longitude: -89.6605842
       cities:
@@ -479,9 +507,11 @@
           longitude: -89.71472
     -
       name: "Usulután"
+      native: "Usulután"
       code: "US"
       iso3166_2: "SV-US"
       type: "department"
+      type_es: "departamento"
       latitude: 13.4324702
       longitude: -88.5398358
       cities:

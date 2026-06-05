@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(209, 'Sudan', 'SD', 'SDN', 'Africa', 'Northern Africa', 'Khartoum', 'SDG', 15, 30, '🇸🇩');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(209, 'Sudan', 'Sudán', 'SD', 'SDN', 'Africa', 'África', 'Northern Africa', 'África del Norte', 'Khartoum', 'SDG', 15, 30, '🇸🇩');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(885, 'Al Jazirah', 209, 'SD', 'GZ', 'state', 14.6671537, 33.222361),
-(886, 'Al Qadarif', 209, 'SD', 'GD', 'state', 14.040941, 35.398832),
-(887, 'Blue Nile', 209, 'SD', 'NB', 'state', 11.9566972, 34.122894),
-(896, 'Central Darfur', 209, 'SD', 'DC', 'state', 12.1297093, 23.3541687),
-(892, 'East Darfur', 209, 'SD', 'DE', 'state', 11.2231983, 26.5858041),
-(884, 'Kassala', 209, 'SD', 'KA', 'state', 15.452011, 36.3770699),
-(881, 'Khartoum', 209, 'SD', 'KH', 'state', 15.5038301, 32.5738979),
-(890, 'North Darfur', 209, 'SD', 'DN', 'state', 16, 26),
-(893, 'North Kordofan', 209, 'SD', 'KN', 'state', 14.4169302, 29.468369),
-(895, 'Northern', 209, 'SD', 'NO', 'state', 19, 30),
-(880, 'Red Sea', 209, 'SD', 'RS', 'state', 20, 36),
-(891, 'River Nile', 209, 'SD', 'NR', 'state', 19.0105596, 33.018318),
-(882, 'Sennar', 209, 'SD', 'SI', 'state', 13.5424054, 33.6103555),
-(894, 'South Darfur', 209, 'SD', 'DS', 'state', 11, 25),
-(883, 'South Kordofan', 209, 'SD', 'KS', 'state', 11, 31),
-(888, 'West Darfur', 209, 'SD', 'DW', 'state', 13.5110052, 22.7033427),
-(889, 'West Kordofan', 209, 'SD', 'GK', 'state', 11.7522803, 28.2046026),
-(879, 'White Nile', 209, 'SD', 'NW', 'state', 12.4999838, 32.5000166);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(885, 'Al Jazirah', 'الجزيرة', 209, 'SD', 'GZ', 'state', 'estado', 14.6671537, 33.222361),
+(886, 'Al Qadarif', 'القضارف', 209, 'SD', 'GD', 'state', 'estado', 14.040941, 35.398832),
+(887, 'Blue Nile', 'النيل الأزرق', 209, 'SD', 'NB', 'state', 'estado', 11.9566972, 34.122894),
+(896, 'Central Darfur', 'وسط دارفور', 209, 'SD', 'DC', 'state', 'estado', 12.1297093, 23.3541687),
+(892, 'East Darfur', 'شرق دارفور', 209, 'SD', 'DE', 'state', 'estado', 11.2231983, 26.5858041),
+(884, 'Kassala', 'كسلا', 209, 'SD', 'KA', 'state', 'estado', 15.452011, 36.3770699),
+(881, 'Khartoum', 'الخرطوم', 209, 'SD', 'KH', 'state', 'estado', 15.5038301, 32.5738979),
+(890, 'North Darfur', 'شمال دارفور', 209, 'SD', 'DN', 'state', 'estado', 16, 26),
+(893, 'North Kordofan', 'شمال كردفان', 209, 'SD', 'KN', 'state', 'estado', 14.4169302, 29.468369),
+(895, 'Northern', 'شمالي', 209, 'SD', 'NO', 'state', 'estado', 19, 30),
+(880, 'Red Sea', 'البحر الأحمر', 209, 'SD', 'RS', 'state', 'estado', 20, 36),
+(891, 'River Nile', 'نهر النيل', 209, 'SD', 'NR', 'state', 'estado', 19.0105596, 33.018318),
+(882, 'Sennar', 'سنار', 209, 'SD', 'SI', 'state', 'estado', 13.5424054, 33.6103555),
+(894, 'South Darfur', 'جنوب دارفور', 209, 'SD', 'DS', 'state', 'estado', 11, 25),
+(883, 'South Kordofan', 'جنوب كردفان', 209, 'SD', 'KS', 'state', 'estado', 11, 31),
+(888, 'West Darfur', 'غرب دارفور', 209, 'SD', 'DW', 'state', 'estado', 13.5110052, 22.7033427),
+(889, 'West Kordofan', 'غرب كردفان', 209, 'SD', 'GK', 'state', 'estado', 11.7522803, 28.2046026),
+(879, 'White Nile', 'النيل الأبيض', 209, 'SD', 'NW', 'state', 'estado', 12.4999838, 32.5000166);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (102921, 'Al Hasaheisa', 885, 209, 14.75264, 33.29836),

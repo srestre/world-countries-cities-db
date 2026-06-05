@@ -1,29 +1,29 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-MH,Marshall Islands,Oceania,Micronesia,ALL,Ailinglaplap,Ailinglaplap,7.5,168.73333333
-MH,Marshall Islands,Oceania,Micronesia,ALK,Ailuk,Ailuk,10.31666667,169.93333333
-MH,Marshall Islands,Oceania,Micronesia,ARN,Arno,Arno,7.08333333,171.7
-MH,Marshall Islands,Oceania,Micronesia,AUR,Aur,Aur,8.2,171.1
-MH,Marshall Islands,Oceania,Micronesia,KIL,Bikini & Kili,Bikini,11.6,165.4
-MH,Marshall Islands,Oceania,Micronesia,KIL,Bikini & Kili,Kili,5.61666667,169.11666667
-MH,Marshall Islands,Oceania,Micronesia,EBO,Ebon,Ebon,4.63333333,168.71666667
-MH,Marshall Islands,Oceania,Micronesia,ENI,Enewetak & Ujelang,Enewetak,11.5,162.33333333
-MH,Marshall Islands,Oceania,Micronesia,ENI,Enewetak & Ujelang,Ujelang,9.82222222,160.9
-MH,Marshall Islands,Oceania,Micronesia,JAB,Jabat,Jabat,7.75,168.96666667
-MH,Marshall Islands,Oceania,Micronesia,JAL,Jaluit,Jabor,6,169.56666667
-MH,Marshall Islands,Oceania,Micronesia,KWA,Kwajalein,Ebeye,41.0811,-111.92
-MH,Marshall Islands,Oceania,Micronesia,LAE,Lae,Lae,8.93611111,166.2375
-MH,Marshall Islands,Oceania,Micronesia,LIB,Lib,Lib,8.31305556,167.37777778
-MH,Marshall Islands,Oceania,Micronesia,LIK,Likiep,Likiep,9.88498,169.14345
-MH,Marshall Islands,Oceania,Micronesia,MAJ,Majuro,Delap-Uliga-Djarrit,7.08333333,171.38333333
-MH,Marshall Islands,Oceania,Micronesia,MAL,Maloelap,Taroa,48,33.41666667
-MH,Marshall Islands,Oceania,Micronesia,MEJ,Mejit,Mejit,10.28333333,170.88333333
-MH,Marshall Islands,Oceania,Micronesia,MIL,Mili,Mili,6.12621667,171.97998056
-MH,Marshall Islands,Oceania,Micronesia,NMK,Namdrik,Namdrik,5.61666667,168.11666667
-MH,Marshall Islands,Oceania,Micronesia,NMU,Namu,Namu,7.98333333,168.17361111
-MH,Marshall Islands,Oceania,Micronesia,L,Ralik,,,
-MH,Marshall Islands,Oceania,Micronesia,T,Ratak,,,
-MH,Marshall Islands,Oceania,Micronesia,RON,Rongelap,Rongelap,11.31666667,166.78333333
-MH,Marshall Islands,Oceania,Micronesia,UJA,Ujae,Ujae,9.05,165.65
-MH,Marshall Islands,Oceania,Micronesia,UTI,Utrik,Utrik,11.26730556,169.78426111
-MH,Marshall Islands,Oceania,Micronesia,WTH,Wotho,Wotho,10.1,165.96666667
-MH,Marshall Islands,Oceania,Micronesia,WTJ,Wotje,Wotje,9.43333333,170.01666667
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,ALL,Ailinglaplap,municipality,municipio,Ailinglaplap,7.5,168.73333333
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,ALK,Ailuk,municipality,municipio,Ailuk,10.31666667,169.93333333
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,ARN,Arno,municipality,municipio,Arno,7.08333333,171.7
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,AUR,Aur,municipality,municipio,Aur,8.2,171.1
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,KIL,Bikini & Kili,municipality,municipio,Bikini,11.6,165.4
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,KIL,Bikini & Kili,municipality,municipio,Kili,5.61666667,169.11666667
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,EBO,Ebon,municipality,municipio,Ebon,4.63333333,168.71666667
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,ENI,Enewetak & Ujelang,municipality,municipio,Enewetak,11.5,162.33333333
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,ENI,Enewetak & Ujelang,municipality,municipio,Ujelang,9.82222222,160.9
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,JAB,Jabat,municipality,municipio,Jabat,7.75,168.96666667
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,JAL,Jaluit,municipality,municipio,Jabor,6,169.56666667
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,KWA,Kwajalein,municipality,municipio,Ebeye,41.0811,-111.92
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,LAE,Lae,municipality,municipio,Lae,8.93611111,166.2375
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,LIB,Lib,municipality,municipio,Lib,8.31305556,167.37777778
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,LIK,Likiep,municipality,municipio,Likiep,9.88498,169.14345
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,MAJ,Majuro,municipality,municipio,Delap-Uliga-Djarrit,7.08333333,171.38333333
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,MAL,Maloelap,municipality,municipio,Taroa,48,33.41666667
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,MEJ,Mejit,municipality,municipio,Mejit,10.28333333,170.88333333
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,MIL,Mili,municipality,municipio,Mili,6.12621667,171.97998056
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,NMK,Namdrik,municipality,municipio,Namdrik,5.61666667,168.11666667
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,NMU,Namu,municipality,municipio,Namu,7.98333333,168.17361111
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,L,Ralik,chain,archipiélago,,,
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,T,Ratak,chain,archipiélago,,,
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,RON,Rongelap,municipality,municipio,Rongelap,11.31666667,166.78333333
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,UJA,Ujae,municipality,municipio,Ujae,9.05,165.65
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,UTI,Utrik,municipality,municipio,Utrik,11.26730556,169.78426111
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,WTH,Wotho,municipality,municipio,Wotho,10.1,165.96666667
+MH,Marshall Islands,Islas Marshall,Oceania,Oceanía,Micronesia,Micronesia,WTJ,Wotje,municipality,municipio,Wotje,9.43333333,170.01666667

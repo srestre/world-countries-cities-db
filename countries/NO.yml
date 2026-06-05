@@ -12,16 +12,20 @@
   currency_symbol: "ko"
   tld: ".no"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Northern Europe"
+  subregion_es: "Europa del Norte"
   latitude: 62
   longitude: 10
   emoji: "🇳🇴"
   states:
     -
       name: "Agder"
+      native: "Agder"
       code: "42"
       iso3166_2: "NO-42"
       type: "county"
+      type_es: "condado"
       latitude: 58.7194423
       longitude: 8.0349635
       cities:
@@ -127,9 +131,11 @@
           longitude: 7.30497
     -
       name: "Akershus"
+      native: "Akershus"
       code: "32"
       iso3166_2: "NO-32"
       type: "county"
+      type_es: "condado"
       latitude: 60.0312215
       longitude: 11.3174619
       cities:
@@ -327,9 +333,11 @@
           longitude: 10.74807
     -
       name: "Buskerud"
+      native: "Buskerud"
       code: "33"
       iso3166_2: "NO-33"
       type: "county"
+      type_es: "condado"
       latitude: 60.2497876
       longitude: 8.9627868
       cities:
@@ -467,9 +475,11 @@
           longitude: 9.99107
     -
       name: "Finnmark"
+      native: "Finnmark"
       code: "56"
       iso3166_2: "NO-56"
       type: "county"
+      type_es: "condado"
       latitude: 69.9697735
       longitude: 24.7685788
       cities:
@@ -663,9 +673,11 @@
           longitude: 31.10866
     -
       name: "Innlandet"
+      native: "Innlandet"
       code: "34"
       iso3166_2: "NO-34"
       type: "county"
+      type_es: "condado"
       latitude: 63.1047826
       longitude: 7.7351793
       cities:
@@ -967,18 +979,22 @@
           longitude: 9.75134
     -
       name: "Jan Mayen"
+      native: "Jan Mayen"
       code: "22"
       iso3166_2: "NO-22"
       type: "arctic region"
+      type_es: "región ártica"
       latitude: 70.9931471
       longitude: -8.3520659
       cities:
         []
     -
       name: "Møre og Romsdal"
+      native: "Møre og Romsdal"
       code: "15"
       iso3166_2: "NO-15"
       type: "county"
+      type_es: "condado"
       latitude: 62.8452777
       longitude: 7.5181941
       cities:
@@ -1192,9 +1208,11 @@
           longitude: 6.068
     -
       name: "Nordland"
+      native: "Nordland"
       code: "18"
       iso3166_2: "NO-18"
       type: "county"
+      type_es: "condado"
       latitude: 67.2756405
       longitude: 13.8623606
       cities:
@@ -1512,9 +1530,11 @@
           longitude: 12.16734
     -
       name: "Oslo"
+      native: "Oslo"
       code: "03"
       iso3166_2: "NO-03"
       type: "county"
+      type_es: "condado"
       latitude: 59.9138688
       longitude: 10.7522454
       cities:
@@ -1528,9 +1548,11 @@
           longitude: 10.68017
     -
       name: "Østfold"
+      native: "Østfold"
       code: "31"
       iso3166_2: "NO-31"
       type: "county"
+      type_es: "condado"
       latitude: 59.2669302
       longitude: 11.2085719
       cities:
@@ -1648,9 +1670,11 @@
           longitude: 10.86551
     -
       name: "Rogaland"
+      native: "Rogaland"
       code: "11"
       iso3166_2: "NO-11"
       type: "county"
+      type_es: "condado"
       latitude: 58.9363137
       longitude: 5.8058786
       cities:
@@ -1852,18 +1876,22 @@
           longitude: 5.31962
     -
       name: "Svalbard"
+      native: "Svalbard"
       code: "21"
       iso3166_2: "NO-21"
       type: "arctic region"
+      type_es: "región ártica"
       latitude: 78.7198519
       longitude: 20.3493328
       cities:
         []
     -
       name: "Telemark"
+      native: "Telemark"
       code: "40"
       iso3166_2: "NO-40"
       type: "county"
+      type_es: "condado"
       latitude: 59.3962676
       longitude: 8.66266
       cities:
@@ -1977,9 +2005,11 @@
           longitude: 7.98896
     -
       name: "Troms"
+      native: "Troms"
       code: "55"
       iso3166_2: "NO-55"
       type: "county"
+      type_es: "condado"
       latitude: 69.5311071
       longitude: 19.5296839
       cities:
@@ -2057,9 +2087,11 @@
           longitude: 18.95702
     -
       name: "Trøndelag"
+      native: "Trøndelag"
       code: "50"
       iso3166_2: "NO-50"
       type: "county"
+      type_es: "condado"
       latitude: 63.8775924
       longitude: 10.1950505
       cities:
@@ -2333,9 +2365,11 @@
           longitude: 11.24198
     -
       name: "Vestfold"
+      native: "Vestfold"
       code: "39"
       iso3166_2: "NO-39"
       type: "county"
+      type_es: "condado"
       latitude: 59.1954857
       longitude: 10.2662616
       cities:
@@ -2417,9 +2451,11 @@
           longitude: 10.40762
     -
       name: "Vestland"
+      native: "Vestland"
       code: "46"
       iso3166_2: "NO-46"
       type: "county"
+      type_es: "condado"
       latitude: 60.9291011
       longitude: 6.1078869
       cities:

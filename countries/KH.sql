@@ -1,46 +1,46 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(37, 'Cambodia', 'KH', 'KHM', 'Asia', 'South-Eastern Asia', 'Phnom Penh', 'KHR', 13, 105, '🇰🇭');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(37, 'Cambodia', 'Camboya', 'KH', 'KHM', 'Asia', 'Asia', 'South-Eastern Asia', 'Sudeste Asiático', 'Phnom Penh', 'KHR', 13, 105, '🇰🇭');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3984, 'Banteay Meanchey', 37, 'KH', '1', 'province', 13.7989147, 102.8862666),
-(3976, 'Battambang', 37, 'KH', '2', 'province', 13.0998526, 103.1966659),
-(3991, 'Kampong Cham', 37, 'KH', '3', 'province', 12.1174857, 105.2080022),
-(3979, 'Kampong Chhnang', 37, 'KH', '4', 'province', 12.2536026, 104.6658389),
-(3988, 'Kampong Speu', 37, 'KH', '5', 'province', 11.5775368, 104.2714023),
-(5070, 'Kampong Thom', 37, 'KH', '6', 'province', 12.6687923, 104.8879197),
-(3981, 'Kampot', 37, 'KH', '7', 'province', 10.6116906, 104.1827542),
-(3983, 'Kandal', 37, 'KH', '8', 'province', 11.3962625, 105.0207869),
-(3978, 'Kep', 37, 'KH', '23', 'province', 10.4846391, 104.3144082),
-(3982, 'Koh Kong', 37, 'KH', '9', 'province', 11.6813417, 103.0258043),
-(3986, 'Kratie', 37, 'KH', '10', 'province', 12.6783017, 106.0581733),
-(3985, 'Mondulkiri', 37, 'KH', '11', 'province', 12.7396075, 107.0087987),
-(3987, 'Oddar Meanchey', 37, 'KH', '22', 'province', 14.1585631, 103.782796),
-(3980, 'Pailin', 37, 'KH', '24', 'province', 12.8905328, 102.6294604),
-(3994, 'Phnom Penh', 37, 'KH', '12', 'autonomous municipality', 11.568271, 104.9224426),
-(3973, 'Preah Vihear', 37, 'KH', '13', 'province', 13.7462982, 104.97403),
-(3974, 'Prey Veng', 37, 'KH', '14', 'province', 11.3659597, 105.4557277),
-(3977, 'Pursat', 37, 'KH', '15', 'province', 12.4662592, 103.742683),
-(3990, 'Ratanakiri', 37, 'KH', '16', 'province', 13.9312399, 107.0391088),
-(3992, 'Siem Reap', 37, 'KH', '17', 'province', 13.3617562, 103.8590321),
-(3989, 'Sihanoukville', 37, 'KH', '18', 'province', 10.7321989, 103.7595806),
-(3993, 'Stung Treng', 37, 'KH', '19', 'province', 13.5271207, 105.9686727),
-(3972, 'Svay Rieng', 37, 'KH', '20', 'province', 11.091615, 105.8034577),
-(3975, 'Takeo', 37, 'KH', '21', 'province', 10.9358547, 104.7796413),
-(5537, 'Tboung Khmum', 37, 'KH', '25', 'province', 11.98333333, 105.45);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3984, 'Banteay Meanchey', 'បន្ទាយមានជ័យ', 37, 'KH', '1', 'province', 'provincia', 13.7989147, 102.8862666),
+(3976, 'Battambang', 'បាត់ដំបង', 37, 'KH', '2', 'province', 'provincia', 13.0998526, 103.1966659),
+(3991, 'Kampong Cham', 'កំពង់ចាម', 37, 'KH', '3', 'province', 'provincia', 12.1174857, 105.2080022),
+(3979, 'Kampong Chhnang', 'កំពង់ឆ្នាំង', 37, 'KH', '4', 'province', 'provincia', 12.2536026, 104.6658389),
+(3988, 'Kampong Speu', 'ភូមិសែ', 37, 'KH', '5', 'province', 'provincia', 11.5775368, 104.2714023),
+(5070, 'Kampong Thom', 'កំពង់ធំ', 37, 'KH', '6', 'province', 'provincia', 12.6687923, 104.8879197),
+(3981, 'Kampot', 'កំពត', 37, 'KH', '7', 'province', 'provincia', 10.6116906, 104.1827542),
+(3983, 'Kandal', 'បេសបេល', 37, 'KH', '8', 'province', 'provincia', 11.3962625, 105.0207869),
+(3978, 'Kep', 'កែប', 37, 'KH', '23', 'province', 'provincia', 10.4846391, 104.3144082),
+(3982, 'Koh Kong', 'កោះកុង', 37, 'KH', '9', 'province', 'provincia', 11.6813417, 103.0258043),
+(3986, 'Kratie', 'ក្រចេះ', 37, 'KH', '10', 'province', 'provincia', 12.6783017, 106.0581733),
+(3985, 'Mondulkiri', 'មណ្ឌលគីរី', 37, 'KH', '11', 'province', 'provincia', 12.7396075, 107.0087987),
+(3987, 'Oddar Meanchey', 'ឧត្តរមានជ័យ', 37, 'KH', '22', 'province', 'provincia', 14.1585631, 103.782796),
+(3980, 'Pailin', 'លំអី', 37, 'KH', '24', 'province', 'provincia', 12.8905328, 102.6294604),
+(3994, 'Phnom Penh', 'រាជធានី', 37, 'KH', '12', 'autonomous municipality', 'municipio autónomo', 11.568271, 104.9224426),
+(3973, 'Preah Vihear', 'ព្រះវិហារ', 37, 'KH', '13', 'province', 'provincia', 13.7462982, 104.97403),
+(3974, 'Prey Veng', 'បុរស', 37, 'KH', '14', 'province', 'provincia', 11.3659597, 105.4557277),
+(3977, 'Pursat', 'ឱកាស', 37, 'KH', '15', 'province', 'provincia', 12.4662592, 103.742683),
+(3990, 'Ratanakiri', 'រតនគិរី', 37, 'KH', '16', 'province', 'provincia', 13.9312399, 107.0391088),
+(3992, 'Siem Reap', 'សៀមរាប', 37, 'KH', '17', 'province', 'provincia', 13.3617562, 103.8590321),
+(3989, 'Sihanoukville', 'ក្រុងព្រះសីហនុ', 37, 'KH', '18', 'province', 'provincia', 10.7321989, 103.7595806),
+(3993, 'Stung Treng', 'ត្រូវការស្ទឹង', 37, 'KH', '19', 'province', 'provincia', 13.5271207, 105.9686727),
+(3972, 'Svay Rieng', 'ស្វាយរៀង', 37, 'KH', '20', 'province', 'provincia', 11.091615, 105.8034577),
+(3975, 'Takeo', 'តាកែវ', 37, 'KH', '21', 'province', 'provincia', 10.9358547, 104.7796413),
+(5537, 'Tboung Khmum', 'ត្បូងឃ្មុំ', 37, 'KH', '25', 'province', 'provincia', 11.98333333, 105.45);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (64967, 'Mongkol Borei', 3984, 37, 13.45531, 102.99186),

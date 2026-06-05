@@ -1,52 +1,52 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(131, 'Malawi', 'MW', 'MWI', 'Africa', 'Eastern Africa', 'Lilongwe', 'MWK', -13.5, 34, '🇲🇼');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(131, 'Malawi', 'Malawi', 'MW', 'MWI', 'Africa', 'África', 'Eastern Africa', 'África Oriental', 'Lilongwe', 'MWK', -13.5, 34, '🇲🇼');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3096, 'Balaka', 131, 'MW', 'BA', 'district', -15.0347969, 35.0605888),
-(3102, 'Blantyre', 131, 'MW', 'BL', 'district', -15.6843502, 34.9227838),
-(3092, 'Central', 131, 'MW', 'C', 'region', -13.7442725, 33.7056942),
-(3107, 'Chikwawa', 131, 'MW', 'CK', 'district', -16.215382, 34.7228393),
-(3109, 'Chiradzulu', 131, 'MW', 'CR', 'district', -15.75472, 35.2055362),
-(3087, 'Chitipa', 131, 'MW', 'CT', 'district', -9.7037655, 33.2700253),
-(3097, 'Dedza', 131, 'MW', 'DE', 'district', -14.2374479, 34.3196514),
-(3090, 'Dowa', 131, 'MW', 'DO', 'district', -13.5387578, 33.778108),
-(3091, 'Karonga', 131, 'MW', 'KR', 'district', -10.0847469, 33.8661918),
-(3094, 'Kasungu', 131, 'MW', 'KS', 'district', -12.9921789, 33.4724535),
-(3093, 'Likoma', 131, 'MW', 'LK', 'district', -12.0584005, 34.7354031),
-(3101, 'Lilongwe', 131, 'MW', 'LI', 'district', -14.0414105, 33.7353708),
-(3082, 'Machinga', 131, 'MW', 'MH', 'district', -14.9094681, 35.601696),
-(3110, 'Mangochi', 131, 'MW', 'MG', 'district', -14.141111, 35.3267495),
-(3099, 'Mchinji', 131, 'MW', 'MC', 'district', -13.7828897, 33.0204739),
-(3103, 'Mulanje', 131, 'MW', 'MU', 'district', -15.91088, 35.541255),
-(3084, 'Mwanza', 131, 'MW', 'MW', 'district', -15.6136031, 34.5146595),
-(3104, 'Mzimba', 131, 'MW', 'MZ', 'district', -11.8458102, 33.5578319),
-(5347, 'Neno', 131, 'MW', 'NE', 'district', -15.5137183, 34.6832205),
-(3095, 'Nkhata Bay', 131, 'MW', 'NB', 'district', -11.606995, 34.2983907),
-(3100, 'Nkhotakota', 131, 'MW', 'NK', 'district', -12.8321965, 34.0329177),
-(3105, 'Northern', 131, 'MW', 'N', 'region', -11.0491652, 33.7730261),
-(3085, 'Nsanje', 131, 'MW', 'NS', 'district', -16.7199917, 35.1011088),
-(3088, 'Ntcheu', 131, 'MW', 'NU', 'district', -14.8227293, 34.7687178),
-(3111, 'Ntchisi', 131, 'MW', 'NI', 'district', -13.276988, 33.8546272),
-(3108, 'Phalombe', 131, 'MW', 'PH', 'district', -15.6922071, 35.6650523),
-(3089, 'Rumphi', 131, 'MW', 'RU', 'district', -10.7909326, 33.8507118),
-(3086, 'Salima', 131, 'MW', 'SA', 'district', -13.7628984, 34.45237),
-(3106, 'Southern', 131, 'MW', 'S', 'region', -15.3062901, 35.3283174),
-(3098, 'Thyolo', 131, 'MW', 'TH', 'district', -16.1287747, 35.1449132),
-(3083, 'Zomba', 131, 'MW', 'ZO', 'district', -15.3863208, 35.3268273);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3096, 'Balaka', 'Balaka', 131, 'MW', 'BA', 'district', 'distrito', -15.0347969, 35.0605888),
+(3102, 'Blantyre', 'Blantyre', 131, 'MW', 'BL', 'district', 'distrito', -15.6843502, 34.9227838),
+(3092, 'Central', 'Central', 131, 'MW', 'C', 'region', 'región', -13.7442725, 33.7056942),
+(3107, 'Chikwawa', 'Chikwawa', 131, 'MW', 'CK', 'district', 'distrito', -16.215382, 34.7228393),
+(3109, 'Chiradzulu', 'Shael', 131, 'MW', 'CR', 'district', 'distrito', -15.75472, 35.2055362),
+(3087, 'Chitipa', 'Carpea', 131, 'MW', 'CT', 'district', 'distrito', -9.7037655, 33.2700253),
+(3097, 'Dedza', 'DEEE', 131, 'MW', 'DE', 'district', 'distrito', -14.2374479, 34.3196514),
+(3090, 'Dowa', 'Dowo', 131, 'MW', 'DO', 'district', 'distrito', -13.5387578, 33.778108),
+(3091, 'Karonga', 'Accessories', 131, 'MW', 'KR', 'district', 'distrito', -10.0847469, 33.8661918),
+(3094, 'Kasungu', 'Sowning', 131, 'MW', 'KS', 'district', 'distrito', -12.9921789, 33.4724535),
+(3093, 'Likoma', 'Love', 131, 'MW', 'LK', 'district', 'distrito', -12.0584005, 34.7354031),
+(3101, 'Lilongwe', 'Lilongwe', 131, 'MW', 'LI', 'district', 'distrito', -14.0414105, 33.7353708),
+(3082, 'Machinga', 'Machinga', 131, 'MW', 'MH', 'district', 'distrito', -14.9094681, 35.601696),
+(3110, 'Mangochi', 'Mangochi', 131, 'MW', 'MG', 'district', 'distrito', -14.141111, 35.3267495),
+(3099, 'Mchinji', 'Hybpha', 131, 'MW', 'MC', 'district', 'distrito', -13.7828897, 33.0204739),
+(3103, 'Mulanje', 'Poporary', 131, 'MW', 'MU', 'district', 'distrito', -15.91088, 35.541255),
+(3084, 'Mwanza', 'Mwanza', 131, 'MW', 'MW', 'district', 'distrito', -15.6136031, 34.5146595),
+(3104, 'Mzimba', 'Immoral', 131, 'MW', 'MZ', 'district', 'distrito', -11.8458102, 33.5578319),
+(5347, 'Neno', 'The word', 131, 'MW', 'NE', 'district', 'distrito', -15.5137183, 34.6832205),
+(3095, 'Nkhata Bay', 'Correas', 131, 'MW', 'NB', 'district', 'distrito', -11.606995, 34.2983907),
+(3100, 'Nkhotakota', 'Blast', 131, 'MW', 'NK', 'district', 'distrito', -12.8321965, 34.0329177),
+(3105, 'Northern', 'Northern', 131, 'MW', 'N', 'region', 'región', -11.0491652, 33.7730261),
+(3085, 'Nsanje', 'Jealousy', 131, 'MW', 'NS', 'district', 'distrito', -16.7199917, 35.1011088),
+(3088, 'Ntcheu', 'Ntcheu', 131, 'MW', 'NU', 'district', 'distrito', -14.8227293, 34.7687178),
+(3111, 'Ntchisi', 'Nice', 131, 'MW', 'NI', 'district', 'distrito', -13.276988, 33.8546272),
+(3108, 'Phalombe', 'Olf', 131, 'MW', 'PH', 'district', 'distrito', -15.6922071, 35.6650523),
+(3089, 'Rumphi', 'Rumphi', 131, 'MW', 'RU', 'district', 'distrito', -10.7909326, 33.8507118),
+(3086, 'Salima', 'Salima', 131, 'MW', 'SA', 'district', 'distrito', -13.7628984, 34.45237),
+(3106, 'Southern', 'Southern', 131, 'MW', 'S', 'region', 'región', -15.3062901, 35.3283174),
+(3098, 'Thyolo', 'The thin', 131, 'MW', 'TH', 'district', 'distrito', -16.1287747, 35.1449132),
+(3083, 'Zomba', 'Abortion', 131, 'MW', 'ZO', 'district', 'distrito', -15.3863208, 35.3268273);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (67950, 'Chipoka', 3092, 131, -13.99329, 34.51566),

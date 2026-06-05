@@ -1,38 +1,38 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(42, 'Central African Republic', 'CF', 'CAF', 'Africa', 'Middle Africa', 'Bangui', 'XAF', 7, 21, '🇨🇫');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(42, 'Central African Republic', 'República Centroafricana', 'CF', 'CAF', 'Africa', 'África', 'Middle Africa', 'África Central', 'Bangui', 'XAF', 7, 21, '🇨🇫');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1259, 'Bamingui-Bangoran', 42, 'CF', 'BB', 'prefecture', 8.698547, 20.5281149),
-(1262, 'Bangui', 42, 'CF', 'BGF', 'commune', 4.3635118, 18.5835913),
-(1264, 'Basse-Kotto', 42, 'CF', 'BK', 'prefecture', 5.1283201, 21.3883825),
-(1258, 'Haut-Mbomou', 42, 'CF', 'HM', 'prefecture', 6.3497929, 25.6508738),
-(1268, 'Haute-Kotto', 42, 'CF', 'HK', 'prefecture', 7.3625645, 22.9271411),
-(1263, 'Kémo', 42, 'CF', 'KG', 'prefecture', 5.9480074, 19.2158871),
-(1256, 'Lobaye', 42, 'CF', 'LB', 'prefecture', 4.1034548, 17.5653592),
-(1257, 'Mambéré-Kadéï', 42, 'CF', 'HS', 'prefecture', 4.5662762, 15.8671403),
-(1266, 'Mbomou', 42, 'CF', 'MB', 'prefecture', 5.5230899, 23.4445705),
-(1253, 'Nana-Grébizi', 42, 'CF', 'KB', 'economic prefecture', 7.5048007, 19.1923579),
-(1260, 'Nana-Mambéré', 42, 'CF', 'NM', 'prefecture', 5.2231625, 15.3517922),
-(1255, 'Ombella-M''Poko', 42, 'CF', 'MP', 'prefecture', 5.0726761, 18.1717789),
-(1265, 'Ouaka', 42, 'CF', 'UK', 'prefecture', 6.3110548, 20.5447525),
-(1254, 'Ouham', 42, 'CF', 'AC', 'prefecture', 7.1314008, 17.7041361),
-(1267, 'Ouham-Pendé', 42, 'CF', 'OP', 'prefecture', 6.7057282, 16.1443202),
-(1252, 'Sangha-Mbaéré', 42, 'CF', 'SE', 'prefecture', 3.6754895, 16.3246915),
-(1261, 'Vakaga', 42, 'CF', 'VK', 'prefecture', 9.8250502, 22.376363);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1259, 'Bamingui-Bangoran', 'Bamingui-bangoran', 42, 'CF', 'BB', 'prefecture', 'prefectura', 8.698547, 20.5281149),
+(1262, 'Bangui', 'Bangui', 42, 'CF', 'BGF', 'commune', 'comuna', 4.3635118, 18.5835913),
+(1264, 'Basse-Kotto', 'Basse-kotto', 42, 'CF', 'BK', 'prefecture', 'prefectura', 5.1283201, 21.3883825),
+(1258, 'Haut-Mbomou', 'Aujourd''hui-mbomou', 42, 'CF', 'HM', 'prefecture', 'prefectura', 6.3497929, 25.6508738),
+(1268, 'Haute-Kotto', 'Haute-Kotto', 42, 'CF', 'HK', 'prefecture', 'prefectura', 7.3625645, 22.9271411),
+(1263, 'Kémo', 'note', 42, 'CF', 'KG', 'prefecture', 'prefectura', 5.9480074, 19.2158871),
+(1256, 'Lobaye', 'Siffler', 42, 'CF', 'LB', 'prefecture', 'prefectura', 4.1034548, 17.5653592),
+(1257, 'Mambéré-Kadéï', 'Mugely-Kadéï', 42, 'CF', 'HS', 'prefecture', 'prefectura', 4.5662762, 15.8671403),
+(1266, 'Mbomou', 'Mbomou', 42, 'CF', 'MB', 'prefecture', 'prefectura', 5.5230899, 23.4445705),
+(1253, 'Nana-Grébizi', 'Nana-Grébizi', 42, 'CF', 'KB', 'economic prefecture', 'prefectura económica', 7.5048007, 19.1923579),
+(1260, 'Nana-Mambéré', 'Nana-Mambéré', 42, 'CF', 'NM', 'prefecture', 'prefectura', 5.2231625, 15.3517922),
+(1255, 'Ombella-M''Poko', 'Ombela-Mou-M''roko', 42, 'CF', 'MP', 'prefecture', 'prefectura', 5.0726761, 18.1717789),
+(1265, 'Ouaka', 'Ouuaka', 42, 'CF', 'UK', 'prefecture', 'prefectura', 6.3110548, 20.5447525),
+(1254, 'Ouham', 'Ouham', 42, 'CF', 'AC', 'prefecture', 'prefectura', 7.1314008, 17.7041361),
+(1267, 'Ouham-Pendé', 'Ouham-Pendé', 42, 'CF', 'OP', 'prefecture', 'prefectura', 6.7057282, 16.1443202),
+(1252, 'Sangha-Mbaéré', 'Sangha-Mbaéré', 42, 'CF', 'SE', 'prefecture', 'prefectura', 3.6754895, 16.3246915),
+(1261, 'Vakaga', 'Seulement', 42, 'CF', 'VK', 'prefecture', 'prefectura', 9.8250502, 22.376363);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (17296, 'Bamingui', 1259, 42, 7.88897, 20.04875),

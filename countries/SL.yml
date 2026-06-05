@@ -12,16 +12,20 @@
   currency_symbol: "Le"
   tld: ".sl"
   region: "Africa"
+  region_es: "África"
   subregion: "Western Africa"
+  subregion_es: "África Occidental"
   latitude: 8.5
   longitude: -11.5
   emoji: "🇸🇱"
   states:
     -
       name: "Eastern"
+      native: "Eastern"
       code: "E"
       iso3166_2: "SL-E"
       type: "province"
+      type_es: "provincia"
       latitude: 8.2050971
       longitude: -10.8437383
       cities:
@@ -147,9 +151,11 @@
           longitude: -11.17057
     -
       name: "North Western"
+      native: "North Western"
       code: "NW"
       iso3166_2: "SL-NW"
       type: "province"
+      type_es: "provincia"
       latitude: 8.76666667
       longitude: -12.7875
       cities:
@@ -179,9 +185,11 @@
           longitude: -12.38497
     -
       name: "Northern"
+      native: "Northern"
       code: "N"
       iso3166_2: "SL-N"
       type: "province"
+      type_es: "provincia"
       latitude: 9.118454
       longitude: -11.4856448
       cities:
@@ -287,9 +295,11 @@
           longitude: -12.23929
     -
       name: "Southern"
+      native: "Southern"
       code: "S"
       iso3166_2: "SL-S"
       type: "province"
+      type_es: "provincia"
       latitude: 7.7099222
       longitude: -12.0004178
       cities:
@@ -399,9 +409,11 @@
           longitude: -11.30818
     -
       name: "Western"
+      native: "Western"
       code: "W"
       iso3166_2: "SL-W"
       type: "area"
+      type_es: "área"
       latitude: 8.3346033
       longitude: -13.0656016
       cities:

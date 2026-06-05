@@ -12,16 +12,20 @@
   currency_symbol: "Kr."
   tld: ".gl"
   region: "Americas"
+  region_es: "América"
   subregion: "Northern America"
+  subregion_es: "Norteamérica"
   latitude: 72
   longitude: -40
   emoji: "🇬🇱"
   states:
     -
       name: "Avannaata"
+      native: "Avannaata"
       code: "AV"
       iso3166_2: "GL-AV"
       type: "municipality"
+      type_es: "municipio"
       latitude: 76.5049265
       longitude: -56.2911976
       cities:
@@ -43,9 +47,11 @@
           longitude: -52.1497824
     -
       name: "Kujalleq"
+      native: "Kujalleq"
       code: "KU"
       iso3166_2: "GL-KU"
       type: "municipality"
+      type_es: "municipio"
       latitude: 61
       longitude: -45
       cities:
@@ -63,9 +69,11 @@
           longitude: -46.0548163
     -
       name: "Qeqertalik"
+      native: "Qeqertalik"
       code: "QT"
       iso3166_2: "GL-QT"
       type: "municipality"
+      type_es: "municipio"
       latitude: 68.8249553
       longitude: -54.7622472
       cities:
@@ -87,9 +95,11 @@
           longitude: -53.5644006
     -
       name: "Qeqqata"
+      native: "Qeqqata"
       code: "QE"
       iso3166_2: "GL-QE"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66.5
       longitude: -48
       cities:
@@ -103,9 +113,11 @@
           longitude: -53.7456766
     -
       name: "Sermersooq"
+      native: "Sermersooq"
       code: "SM"
       iso3166_2: "GL-SM"
       type: "municipality"
+      type_es: "municipio"
       latitude: 66
       longitude: -40
       cities:

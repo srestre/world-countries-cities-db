@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(74, 'Finland', 'FI', 'FIN', 'Europe', 'Northern Europe', 'Helsinki', 'EUR', 64, 26, '🇫🇮');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(74, 'Finland', 'Finlandia', 'FI', 'FIN', 'Europe', 'Europa', 'Northern Europe', 'Europa del Norte', 'Helsinki', 'EUR', 64, 26, '🇫🇮');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(1511, 'Central Finland', 74, 'FI', '08', 'region', 62.6093658, 25.579461),
-(1494, 'Central Ostrobothnia', 74, 'FI', '07', 'region', 63.6476557, 24.1114113),
-(1507, 'Finland Proper', 74, 'FI', '19', 'region', 60.3036113, 22.4113084),
-(1496, 'Kainuu', 74, 'FI', '05', 'region', 64.5946354, 28.6810524),
-(1512, 'Kymenlaakso', 74, 'FI', '09', 'region', 60.7318529, 27.0828744),
-(1500, 'Lapland', 74, 'FI', '10', 'region', 67.6929104, 26.7282142),
-(1504, 'North Karelia', 74, 'FI', '13', 'region', 62.801052, 30.2127116),
-(1505, 'Northern Ostrobothnia', 74, 'FI', '14', 'region', 64.9521512, 25.6968812),
-(1503, 'Northern Savonia', 74, 'FI', '15', 'region', 62.9370461, 27.4942995),
-(1508, 'Ostrobothnia', 74, 'FI', '12', 'region', 62.9651857, 21.2099367),
-(1502, 'Päijänne Tavastia', 74, 'FI', '16', 'region', 61.1444196, 25.6872502),
-(1506, 'Pirkanmaa', 74, 'FI', '11', 'region', 61.717433, 23.7157115),
-(1501, 'Satakunta', 74, 'FI', '17', 'region', 61.5934279, 21.7824512),
-(1497, 'South Karelia', 74, 'FI', '02', 'region', 61.2667443, 28.4054849),
-(1498, 'Southern Ostrobothnia', 74, 'FI', '03', 'region', 62.9433099, 23.5285267),
-(1495, 'Southern Savonia', 74, 'FI', '04', 'region', 61.6945148, 27.8005015),
-(1493, 'Tavastia Proper', 74, 'FI', '06', 'region', 60.937696, 24.1531919),
-(1510, 'Uusimaa', 74, 'FI', '18', 'region', 60.2246684, 25.1272631);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(1511, 'Central Finland', 'Suomen keskus', 74, 'FI', '08', 'region', 'región', 62.6093658, 25.579461),
+(1494, 'Central Ostrobothnia', 'Keskeinen ostrobothnia', 74, 'FI', '07', 'region', 'región', 63.6476557, 24.1114113),
+(1507, 'Finland Proper', 'Suomi', 74, 'FI', '19', 'region', 'región', 60.3036113, 22.4113084),
+(1496, 'Kainuu', 'Kainuu', 74, 'FI', '05', 'region', 'región', 64.5946354, 28.6810524),
+(1512, 'Kymenlaakso', 'Kymenlaakso', 74, 'FI', '09', 'region', 'región', 60.7318529, 27.0828744),
+(1500, 'Lapland', 'Lapa', 74, 'FI', '10', 'region', 'región', 67.6929104, 26.7282142),
+(1504, 'North Karelia', 'Pohjois -Karelia', 74, 'FI', '13', 'region', 'región', 62.801052, 30.2127116),
+(1505, 'Northern Ostrobothnia', 'Pohjois -Ostrobothnia', 74, 'FI', '14', 'region', 'región', 64.9521512, 25.6968812),
+(1503, 'Northern Savonia', 'Pohjois -Savonia', 74, 'FI', '15', 'region', 'región', 62.9370461, 27.4942995),
+(1508, 'Ostrobothnia', 'Ostrobothnia', 74, 'FI', '12', 'region', 'región', 62.9651857, 21.2099367),
+(1502, 'Päijänne Tavastia', 'Päijänne Tavastia', 74, 'FI', '16', 'region', 'región', 61.1444196, 25.6872502),
+(1506, 'Pirkanmaa', 'Pirkanmaa', 74, 'FI', '11', 'region', 'región', 61.717433, 23.7157115),
+(1501, 'Satakunta', 'Satakunta', 74, 'FI', '17', 'region', 'región', 61.5934279, 21.7824512),
+(1497, 'South Karelia', 'South Karelia', 74, 'FI', '02', 'region', 'región', 61.2667443, 28.4054849),
+(1498, 'Southern Ostrobothnia', 'Etelä -Ostrobothnia', 74, 'FI', '03', 'region', 'región', 62.9433099, 23.5285267),
+(1495, 'Southern Savonia', 'Etelä -Savonia', 74, 'FI', '04', 'region', 'región', 61.6945148, 27.8005015),
+(1493, 'Tavastia Proper', 'Tavastia Proper', 74, 'FI', '06', 'region', 'región', 60.937696, 24.1531919),
+(1510, 'Uusimaa', 'Uusimaa', 74, 'FI', '18', 'region', 'región', 60.2246684, 25.1272631);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (39132, 'Äänekoski', 1511, 74, 62.6, 25.73333),

@@ -1,33 +1,33 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Baie-Mahault,16.2497607,-61.6775072
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Baillif,16.0497331,-61.7570591
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Basse-Terre,15.9991631,-61.749981
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Bouillante,16.1386937,-61.7989897
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Capesterre-Belle-Eau,16.0485402,-61.7021045
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Deshaies,16.3193605,-61.8242578
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Gourbeyre,16.0056595,-61.7302387
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Goyave,16.1231077,-61.6974021
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Lamentin,16.2443132,-61.7519194
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Petit-Bourg,16.1694881,-61.7404331
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Pointe-Noire,16.2270277,-61.8063122
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Saint-Claude,16.0405744,-61.7364873
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Sainte-Rose,16.2937252,-61.7659576
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Terre-de-Bas,15.8554196,-61.653292
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Terre-de-Haut,15.8580376,-61.6096098
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Trois-Rivières,15.9931362,-61.6905296
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Vieux-Fort,15.9607038,-61.7135177
-GP,Guadeloupe,Americas,Caribbean,01,Basse-Terre,Vieux-Habitants,16.0846618,-61.7993923
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Anse-Bertrand,16.4668181,-61.5521768
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Capesterre-de-Marie-Galante,15.9176399,-61.2707786
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Grand-Bourg,15.908538,-61.3340618
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,La Désirade,16.2584545,-61.1490279
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Le Gosier,16.2272625,-61.5573449
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Le Moule,16.3353687,-61.4424293
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Les Abymes,16.2677383,-61.5790727
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Morne-à-l'Eau,16.3211061,-61.6635689
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Petit-Canal,16.392131,-61.5371312
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Pointe-à-Pitre,16.2331304,-61.5623485
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Port-Louis,16.4201282,-61.5703989
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Saint-François,16.2783495,-61.3362498
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Saint-Louis,15.9653589,-61.355625
-GP,Guadeloupe,Americas,Caribbean,02,Pointe-à-Pitre,Sainte-Anne,16.2564613,-61.4720288
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Baie-Mahault,16.2497607,-61.6775072
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Baillif,16.0497331,-61.7570591
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Basse-Terre,15.9991631,-61.749981
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Bouillante,16.1386937,-61.7989897
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Capesterre-Belle-Eau,16.0485402,-61.7021045
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Deshaies,16.3193605,-61.8242578
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Gourbeyre,16.0056595,-61.7302387
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Goyave,16.1231077,-61.6974021
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Lamentin,16.2443132,-61.7519194
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Petit-Bourg,16.1694881,-61.7404331
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Pointe-Noire,16.2270277,-61.8063122
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Saint-Claude,16.0405744,-61.7364873
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Sainte-Rose,16.2937252,-61.7659576
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Terre-de-Bas,15.8554196,-61.653292
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Terre-de-Haut,15.8580376,-61.6096098
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Trois-Rivières,15.9931362,-61.6905296
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Vieux-Fort,15.9607038,-61.7135177
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,01,Basse-Terre,district,distrito,Vieux-Habitants,16.0846618,-61.7993923
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Anse-Bertrand,16.4668181,-61.5521768
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Capesterre-de-Marie-Galante,15.9176399,-61.2707786
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Grand-Bourg,15.908538,-61.3340618
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,La Désirade,16.2584545,-61.1490279
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Le Gosier,16.2272625,-61.5573449
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Le Moule,16.3353687,-61.4424293
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Les Abymes,16.2677383,-61.5790727
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Morne-à-l'Eau,16.3211061,-61.6635689
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Petit-Canal,16.392131,-61.5371312
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Pointe-à-Pitre,16.2331304,-61.5623485
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Port-Louis,16.4201282,-61.5703989
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Saint-François,16.2783495,-61.3362498
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Saint-Louis,15.9653589,-61.355625
+GP,Guadeloupe,Guadalupe,Americas,América,Caribbean,Caribe,02,Pointe-à-Pitre,district,distrito,Sainte-Anne,16.2564613,-61.4720288

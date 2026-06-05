@@ -1,63 +1,63 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(62, 'Dominican Republic', 'DO', 'DOM', 'Americas', 'Caribbean', 'Santo Domingo', 'DOP', 19, -70.66666666, '🇩🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(62, 'Dominican Republic', 'República Dominicana', 'DO', 'DOM', 'Americas', 'América', 'Caribbean', 'Caribe', 'Santo Domingo', 'DOP', 19, -70.66666666, '🇩🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(4114, 'Azua', 62, 'DO', '02', 'province', 18.4552709, -70.7380928),
-(4105, 'Baoruco', 62, 'DO', '03', 'province', 18.5140239, -71.3303393),
-(4090, 'Barahona', 62, 'DO', '04', 'province', 18.2139066, -71.1043759),
-(5540, 'Cibao Nordeste', 62, 'DO', '33', 'region', 19.4, -69.9),
-(5541, 'Cibao Noroeste', 62, 'DO', '34', 'region', 19.6, -71),
-(5542, 'Cibao Norte', 62, 'DO', '35', 'region', 19.5, -70.7),
-(5543, 'Cibao Sur', 62, 'DO', '36', 'region', 19.2, -70.5),
-(4107, 'Dajabón', 62, 'DO', '05', 'province', 19.5499241, -71.7086514),
-(4095, 'Distrito Nacional', 62, 'DO', '01', 'district', 18.4860575, -69.9312117),
-(4113, 'Duarte', 62, 'DO', '06', 'province', 19.2833163, -70.1880055),
-(4086, 'El Seibo', 62, 'DO', '08', 'province', 18.7658496, -69.040668),
-(5544, 'El Valle', 62, 'DO', '37', 'region', 18.8, -71.2),
-(5539, 'Elías Piña', 62, 'DO', '07', 'province', 19.03333, -71.68333),
-(5545, 'Enriquillo', 62, 'DO', '38', 'region', 18.2, -71.3),
-(4102, 'Espaillat', 62, 'DO', '09', 'province', 19.5108126, -70.4918803),
-(4106, 'Hato Mayor', 62, 'DO', '30', 'province', 18.7089524, -69.3256524),
-(4089, 'Hermanas Mirabal', 62, 'DO', '19', 'province', 19.3957699, -70.3840578),
-(5546, 'Higuamo', 62, 'DO', '39', 'region', 18.7, -69.2),
-(4097, 'Independencia', 62, 'DO', '10', 'province', 18.4155861, -71.6357396),
-(4109, 'La Altagracia', 62, 'DO', '11', 'province', 18.5880886, -68.6053104),
-(4087, 'La Romana', 62, 'DO', '12', 'province', 18.4230137, -68.9661104),
-(4116, 'La Vega', 62, 'DO', '13', 'province', 19.2211554, -70.5288753),
-(4094, 'María Trinidad Sánchez', 62, 'DO', '14', 'province', 19.4433304, -69.9990821),
-(4099, 'Monseñor Nouel', 62, 'DO', '28', 'province', 18.9234801, -70.4157265),
-(4115, 'Monte Cristi', 62, 'DO', '15', 'province', 19.7177718, -71.4448113),
-(4111, 'Monte Plata', 62, 'DO', '29', 'province', 18.8080878, -69.7869146),
-(5547, 'Ozama', 62, 'DO', '40', 'region', 18.5, -69.9),
-(4101, 'Pedernales', 62, 'DO', '16', 'province', 18.0907918, -71.5595247),
-(4096, 'Peravia', 62, 'DO', '17', 'province', 18.3309575, -70.3712349),
-(4092, 'Puerto Plata', 62, 'DO', '18', 'province', 19.7225234, -70.7208338),
-(4103, 'Samaná', 62, 'DO', '20', 'province', 19.2058371, -69.3362949),
-(4091, 'San Cristóbal', 62, 'DO', '21', 'province', 18.4180414, -70.1065849),
-(4112, 'San José de Ocoa', 62, 'DO', '31', 'province', 18.543858, -70.5041816),
-(4098, 'San Juan', 62, 'DO', '22', 'province', 18.87967, -71.2862706),
-(4110, 'San Pedro de Macorís', 62, 'DO', '23', 'province', 18.46266, -69.3051234),
-(4088, 'Sánchez Ramírez', 62, 'DO', '24', 'province', 19.0176147, -70.1448351),
-(4108, 'Santiago', 62, 'DO', '25', 'province', 19.336389, -70.9521277),
-(4100, 'Santiago Rodríguez', 62, 'DO', '26', 'province', 19.3690729, -71.3523808),
-(4093, 'Santo Domingo', 62, 'DO', '32', 'province', 18.5638543, -69.8531692),
-(5548, 'Valdesia', 62, 'DO', '41', 'region', 18.4, -70.3),
-(4104, 'Valverde', 62, 'DO', '27', 'province', 19.5955662, -71.0303974),
-(5549, 'Yuma', 62, 'DO', '42', 'region', 18.6, -68.7);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(4114, 'Azua', 'Azua', 62, 'DO', '02', 'province', 'provincia', 18.4552709, -70.7380928),
+(4105, 'Baoruco', 'Baoruco', 62, 'DO', '03', 'province', 'provincia', 18.5140239, -71.3303393),
+(4090, 'Barahona', 'Barahona', 62, 'DO', '04', 'province', 'provincia', 18.2139066, -71.1043759),
+(5540, 'Cibao Nordeste', 'Cibao Nordeste', 62, 'DO', '33', 'region', 'región', 19.4, -69.9),
+(5541, 'Cibao Noroeste', 'Cibao Noroeste', 62, 'DO', '34', 'region', 'región', 19.6, -71),
+(5542, 'Cibao Norte', 'Cibao Norte', 62, 'DO', '35', 'region', 'región', 19.5, -70.7),
+(5543, 'Cibao Sur', 'Cibao Sur', 62, 'DO', '36', 'region', 'región', 19.2, -70.5),
+(4107, 'Dajabón', 'Dajabón', 62, 'DO', '05', 'province', 'provincia', 19.5499241, -71.7086514),
+(4095, 'Distrito Nacional', 'Distrito Nacional', 62, 'DO', '01', 'district', 'distrito', 18.4860575, -69.9312117),
+(4113, 'Duarte', 'Duarte', 62, 'DO', '06', 'province', 'provincia', 19.2833163, -70.1880055),
+(4086, 'El Seibo', 'El Seibo', 62, 'DO', '08', 'province', 'provincia', 18.7658496, -69.040668),
+(5544, 'El Valle', 'El Valle', 62, 'DO', '37', 'region', 'región', 18.8, -71.2),
+(5539, 'Elías Piña', 'Elías Piña', 62, 'DO', '07', 'province', 'provincia', 19.03333, -71.68333),
+(5545, 'Enriquillo', 'Enriquillo', 62, 'DO', '38', 'region', 'región', 18.2, -71.3),
+(4102, 'Espaillat', 'Espaillat', 62, 'DO', '09', 'province', 'provincia', 19.5108126, -70.4918803),
+(4106, 'Hato Mayor', 'Hato Mayor', 62, 'DO', '30', 'province', 'provincia', 18.7089524, -69.3256524),
+(4089, 'Hermanas Mirabal', 'Hermanas Mirabal', 62, 'DO', '19', 'province', 'provincia', 19.3957699, -70.3840578),
+(5546, 'Higuamo', 'Higuamo', 62, 'DO', '39', 'region', 'región', 18.7, -69.2),
+(4097, 'Independencia', 'Independencia', 62, 'DO', '10', 'province', 'provincia', 18.4155861, -71.6357396),
+(4109, 'La Altagracia', 'La Altagracia', 62, 'DO', '11', 'province', 'provincia', 18.5880886, -68.6053104),
+(4087, 'La Romana', 'La Romana', 62, 'DO', '12', 'province', 'provincia', 18.4230137, -68.9661104),
+(4116, 'La Vega', 'La Vega', 62, 'DO', '13', 'province', 'provincia', 19.2211554, -70.5288753),
+(4094, 'María Trinidad Sánchez', 'María Trinidad Sánchez', 62, 'DO', '14', 'province', 'provincia', 19.4433304, -69.9990821),
+(4099, 'Monseñor Nouel', 'Monseñor Nouel', 62, 'DO', '28', 'province', 'provincia', 18.9234801, -70.4157265),
+(4115, 'Monte Cristi', 'Monte Cristi', 62, 'DO', '15', 'province', 'provincia', 19.7177718, -71.4448113),
+(4111, 'Monte Plata', 'Monte Plata', 62, 'DO', '29', 'province', 'provincia', 18.8080878, -69.7869146),
+(5547, 'Ozama', 'Ozama', 62, 'DO', '40', 'region', 'región', 18.5, -69.9),
+(4101, 'Pedernales', 'Pedernales', 62, 'DO', '16', 'province', 'provincia', 18.0907918, -71.5595247),
+(4096, 'Peravia', 'Peravia', 62, 'DO', '17', 'province', 'provincia', 18.3309575, -70.3712349),
+(4092, 'Puerto Plata', 'Puerto Plata', 62, 'DO', '18', 'province', 'provincia', 19.7225234, -70.7208338),
+(4103, 'Samaná', 'Samaná', 62, 'DO', '20', 'province', 'provincia', 19.2058371, -69.3362949),
+(4091, 'San Cristóbal', 'San Cristóbal', 62, 'DO', '21', 'province', 'provincia', 18.4180414, -70.1065849),
+(4112, 'San José de Ocoa', 'San José de Ocoa', 62, 'DO', '31', 'province', 'provincia', 18.543858, -70.5041816),
+(4098, 'San Juan', 'San Juan', 62, 'DO', '22', 'province', 'provincia', 18.87967, -71.2862706),
+(4110, 'San Pedro de Macorís', 'San Pedro de Macorís', 62, 'DO', '23', 'province', 'provincia', 18.46266, -69.3051234),
+(4088, 'Sánchez Ramírez', 'Sánchez Ramírez', 62, 'DO', '24', 'province', 'provincia', 19.0176147, -70.1448351),
+(4108, 'Santiago', 'Santiago', 62, 'DO', '25', 'province', 'provincia', 19.336389, -70.9521277),
+(4100, 'Santiago Rodríguez', 'Santiago Rodríguez', 62, 'DO', '26', 'province', 'provincia', 19.3690729, -71.3523808),
+(4093, 'Santo Domingo', 'Santo Domingo', 62, 'DO', '32', 'province', 'provincia', 18.5638543, -69.8531692),
+(5548, 'Valdesia', 'Valdesia', 62, 'DO', '41', 'region', 'región', 18.4, -70.3),
+(4104, 'Valverde', 'Valverde', 62, 'DO', '27', 'province', 'provincia', 19.5955662, -71.0303974),
+(5549, 'Yuma', 'Yuma', 62, 'DO', '42', 'region', 'región', 18.6, -68.7);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (31024, 'Azua', 4114, 62, 18.45319, -70.7349),

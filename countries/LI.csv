@@ -1,12 +1,12 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-LI,Liechtenstein,Europe,Western Europe,01,Balzers,Balzers,47.06665,9.50251
-LI,Liechtenstein,Europe,Western Europe,02,Eschen,Eschen,47.21071,9.52223
-LI,Liechtenstein,Europe,Western Europe,03,Gamprin,Gamprin,47.22038,9.50935
-LI,Liechtenstein,Europe,Western Europe,04,Mauren,Mauren,47.21805,9.5442
-LI,Liechtenstein,Europe,Western Europe,05,Planken,Planken,47.18516,9.54437
-LI,Liechtenstein,Europe,Western Europe,06,Ruggell,Ruggell,47.23799,9.5254
-LI,Liechtenstein,Europe,Western Europe,07,Schaan,Schaan,47.16498,9.50867
-LI,Liechtenstein,Europe,Western Europe,08,Schellenberg,Schellenberg,47.23123,9.54678
-LI,Liechtenstein,Europe,Western Europe,09,Triesen,Triesen,47.10752,9.52815
-LI,Liechtenstein,Europe,Western Europe,10,Triesenberg,Triesenberg,47.11815,9.54197
-LI,Liechtenstein,Europe,Western Europe,11,Vaduz,Vaduz,47.14151,9.52154
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,01,Balzers,commune,comuna,Balzers,47.06665,9.50251
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,02,Eschen,commune,comuna,Eschen,47.21071,9.52223
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,03,Gamprin,commune,comuna,Gamprin,47.22038,9.50935
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,04,Mauren,commune,comuna,Mauren,47.21805,9.5442
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,05,Planken,commune,comuna,Planken,47.18516,9.54437
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,06,Ruggell,commune,comuna,Ruggell,47.23799,9.5254
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,07,Schaan,commune,comuna,Schaan,47.16498,9.50867
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,08,Schellenberg,commune,comuna,Schellenberg,47.23123,9.54678
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,09,Triesen,commune,comuna,Triesen,47.10752,9.52815
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,10,Triesenberg,commune,comuna,Triesenberg,47.11815,9.54197
+LI,Liechtenstein,Liechtenstein,Europe,Europa,Western Europe,Europa Occidental,11,Vaduz,commune,comuna,Vaduz,47.14151,9.52154

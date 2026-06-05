@@ -1,37 +1,37 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(83, 'Ghana', 'GH', 'GHA', 'Africa', 'Western Africa', 'Accra', 'GHS', 8, -2, '🇬🇭');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(83, 'Ghana', 'Ghana', 'GH', 'GHA', 'Africa', 'África', 'Western Africa', 'África Occidental', 'Accra', 'GHS', 8, -2, '🇬🇭');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(53, 'Ahafo', 83, 'GH', 'AF', 'region', 6.9096645, -2.2330123),
-(48, 'Ashanti', 83, 'GH', 'AH', 'region', 6.8003319, -1.5188142),
-(4959, 'Bono', 83, 'GH', 'BO', 'region', 7.8035236, -1.0876492),
-(4958, 'Bono East', 83, 'GH', 'BE', 'region', 8.2247942, -0.6544711),
-(52, 'Central', 83, 'GH', 'CP', 'region', 5.7244148, -1.3761749),
-(50, 'Eastern', 83, 'GH', 'EP', 'region', 6.446877, -0.3770964),
-(54, 'Greater Accra', 83, 'GH', 'AA', 'region', 5.8101532, 0.0995242),
-(4960, 'North East', 83, 'GH', 'NE', 'region', 10.5279933, -0.3698625),
-(51, 'Northern', 83, 'GH', 'NP', 'region', 9.6600005, -0.3943799),
-(4961, 'Oti', 83, 'GH', 'OT', 'region', 6.1064098, -0.2483786),
-(4962, 'Savannah', 83, 'GH', 'SV', 'region', 9.1400654, -1.7111234),
-(55, 'Upper East', 83, 'GH', 'UE', 'region', 10.7245907, -0.8196591),
-(57, 'Upper West', 83, 'GH', 'UW', 'region', 10.3669525, -2.0921426),
-(56, 'Volta', 83, 'GH', 'TV', 'region', 6.5348624, 0.4556055),
-(49, 'Western', 83, 'GH', 'WP', 'region', 5.4261241, -2.1286574),
-(4963, 'Western North', 83, 'GH', 'WN', 'region', 6.2064665, -2.4855092);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(53, 'Ahafo', 'Ahafo', 83, 'GH', 'AF', 'region', 'región', 6.9096645, -2.2330123),
+(48, 'Ashanti', 'Ashanti', 83, 'GH', 'AH', 'region', 'región', 6.8003319, -1.5188142),
+(4959, 'Bono', 'Bono', 83, 'GH', 'BO', 'region', 'región', 7.8035236, -1.0876492),
+(4958, 'Bono East', 'Bono East', 83, 'GH', 'BE', 'region', 'región', 8.2247942, -0.6544711),
+(52, 'Central', 'Central', 83, 'GH', 'CP', 'region', 'región', 5.7244148, -1.3761749),
+(50, 'Eastern', 'Eastern', 83, 'GH', 'EP', 'region', 'región', 6.446877, -0.3770964),
+(54, 'Greater Accra', 'Greater Accra', 83, 'GH', 'AA', 'region', 'región', 5.8101532, 0.0995242),
+(4960, 'North East', 'North East', 83, 'GH', 'NE', 'region', 'región', 10.5279933, -0.3698625),
+(51, 'Northern', 'Northern', 83, 'GH', 'NP', 'region', 'región', 9.6600005, -0.3943799),
+(4961, 'Oti', 'Completed', 83, 'GH', 'OT', 'region', 'región', 6.1064098, -0.2483786),
+(4962, 'Savannah', 'Savannah', 83, 'GH', 'SV', 'region', 'región', 9.1400654, -1.7111234),
+(55, 'Upper East', 'Upper East', 83, 'GH', 'UE', 'region', 'región', 10.7245907, -0.8196591),
+(57, 'Upper West', 'Upper West', 83, 'GH', 'UW', 'region', 'región', 10.3669525, -2.0921426),
+(56, 'Volta', 'Volta', 83, 'GH', 'TV', 'region', 'región', 6.5348624, 0.4556055),
+(49, 'Western', 'Western', 83, 'GH', 'WP', 'region', 'región', 5.4261241, -2.1286574),
+(4963, 'Western North', 'Western North', 83, 'GH', 'WN', 'region', 'región', 6.2064665, -2.4855092);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (149070, 'Asunafo North', 53, 83, 6.8196891, -2.807705),

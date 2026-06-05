@@ -1,30 +1,30 @@
 CREATE TABLE IF NOT EXISTS countries (
-  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
-  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
-  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+  id INTEGER PRIMARY KEY, name VARCHAR(100), name_es VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), region_es VARCHAR(100), subregion VARCHAR(100), subregion_es VARCHAR(100),
+  capital VARCHAR(100), currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
 );
 CREATE TABLE IF NOT EXISTS states (
-  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
-  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+  id INTEGER PRIMARY KEY, name VARCHAR(255), native VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), type_es VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 CREATE TABLE IF NOT EXISTS cities (
   id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
   latitude DECIMAL(10,8), longitude DECIMAL(11,8)
 );
 
-INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
-(27, 'Bolivia', 'BO', 'BOL', 'Americas', 'South America', 'Sucre', 'BOB', -17, -65, '🇧🇴');
+INSERT INTO countries (id, name, name_es, iso2, iso3, region, region_es, subregion, subregion_es, capital, currency, latitude, longitude, emoji) VALUES
+(27, 'Bolivia', 'Bolivia', 'BO', 'BOL', 'Americas', 'América', 'South America', 'Sudamérica', 'Sucre', 'BOB', -17, -65, '🇧🇴');
 
-INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
-(3375, 'Beni', 27, 'BO', 'B', 'department', -14, -65),
-(3382, 'Chuquisaca', 27, 'BO', 'H', 'department', -20, -64.416667),
-(3381, 'Cochabamba', 27, 'BO', 'C', 'department', -17.3330142, -65.5010931),
-(3380, 'La Paz', 27, 'BO', 'L', 'department', -15, -68.333333),
-(3376, 'Oruro', 27, 'BO', 'O', 'department', -18.666667, -67.666667),
-(3379, 'Pando', 27, 'BO', 'N', 'department', -11.183333, -67.183333),
-(3383, 'Potosí', 27, 'BO', 'P', 'department', -20.666667, -66.666667),
-(3377, 'Santa Cruz', 27, 'BO', 'S', 'department', -17.333333, -61.5),
-(3378, 'Tarija', 27, 'BO', 'T', 'department', -21.583333, -63.833333);
+INSERT INTO states (id, name, native, country_id, country_code, state_code, type, type_es, latitude, longitude) VALUES
+(3375, 'Beni', 'Beni', 27, 'BO', 'B', 'department', 'departamento', -14, -65),
+(3382, 'Chuquisaca', 'Chuquisaca', 27, 'BO', 'H', 'department', 'departamento', -20, -64.416667),
+(3381, 'Cochabamba', 'Cochabamba', 27, 'BO', 'C', 'department', 'departamento', -17.3330142, -65.5010931),
+(3380, 'La Paz', 'La Paz', 27, 'BO', 'L', 'department', 'departamento', -15, -68.333333),
+(3376, 'Oruro', 'Oruro', 27, 'BO', 'O', 'department', 'departamento', -18.666667, -67.666667),
+(3379, 'Pando', 'Pando', 27, 'BO', 'N', 'department', 'departamento', -11.183333, -67.183333),
+(3383, 'Potosí', 'Potosí', 27, 'BO', 'P', 'department', 'departamento', -20.666667, -66.666667),
+(3377, 'Santa Cruz', 'Santa Cruz', 27, 'BO', 'S', 'department', 'departamento', -17.333333, -61.5),
+(3378, 'Tarija', 'Taria', 27, 'BO', 'T', 'department', 'departamento', -21.583333, -63.833333);
 
 INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
 (9867, 'Guayaramerín', 3375, 27, -10.8258, -65.3581),

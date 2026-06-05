@@ -12,25 +12,31 @@
   currency_symbol: "Sh.so."
   tld: ".so"
   region: "Africa"
+  region_es: "África"
   subregion: "Eastern Africa"
+  subregion_es: "África Oriental"
   latitude: 10
   longitude: 49
   emoji: "🇸🇴"
   states:
     -
       name: "Awdal"
+      native: "Awdal"
       code: "AW"
       iso3166_2: "SO-AW"
       type: "region"
+      type_es: "región"
       latitude: 10.6951152
       longitude: 43.4904963
       cities:
         []
     -
       name: "Bakool"
+      native: "Bakool"
       code: "BK"
       iso3166_2: "SO-BK"
       type: "region"
+      type_es: "región"
       latitude: 4.3514387
       longitude: 43.7186102
       cities:
@@ -52,9 +58,11 @@
           longitude: 43.03333
     -
       name: "Banaadir"
+      native: "Banaadir"
       code: "BN"
       iso3166_2: "SO-BN"
       type: "region"
+      type_es: "región"
       latitude: 2.0783351
       longitude: 45.2805421
       cities:
@@ -64,9 +72,11 @@
           longitude: 45.34375
     -
       name: "Bari"
+      native: "Bari"
       code: "BR"
       iso3166_2: "SO-BR"
       type: "region"
+      type_es: "región"
       latitude: 10.1903509
       longitude: 50.1298044
       cities:
@@ -100,9 +110,11 @@
           longitude: 49.87282
     -
       name: "Bay"
+      native: "Gacan biyo badda"
       code: "BY"
       iso3166_2: "SO-BY"
       type: "region"
+      type_es: "región"
       latitude: 2.9999946
       longitude: 43.500177
       cities:
@@ -116,9 +128,11 @@
           longitude: 44.07805
     -
       name: "Galguduud"
+      native: "Galguduud"
       code: "GA"
       iso3166_2: "SO-GA"
       type: "region"
+      type_es: "región"
       latitude: 5.0755014
       longitude: 46.8803363
       cities:
@@ -136,9 +150,11 @@
           longitude: 46.38666
     -
       name: "Gedo"
+      native: "Gedo"
       code: "GE"
       iso3166_2: "SO-GE"
       type: "region"
+      type_es: "región"
       latitude: 3
       longitude: 42
       cities:
@@ -156,9 +172,11 @@
           longitude: 42.54417
     -
       name: "Hiran"
+      native: "Hiraan"
       code: "HI"
       iso3166_2: "SO-HI"
       type: "region"
+      type_es: "región"
       latitude: 4.3616958
       longitude: 45.5333102
       cities:
@@ -176,9 +194,11 @@
           longitude: 45.5996
     -
       name: "Lower Juba"
+      native: "Jubbada Hoose"
       code: "JH"
       iso3166_2: "SO-JH"
       type: "region"
+      type_es: "región"
       latitude: -0.0001019
       longitude: 41.9999624
       cities:
@@ -196,9 +216,11 @@
           longitude: 42.54536
     -
       name: "Lower Shebelle"
+      native: "Hoose Shebelle"
       code: "SH"
       iso3166_2: "SO-SH"
       type: "region"
+      type_es: "región"
       latitude: 1.8427539
       longitude: 44.5937239
       cities:
@@ -220,9 +242,11 @@
           longitude: 44.8938
     -
       name: "Middle Juba"
+      native: "Jubbada Dhexe"
       code: "JD"
       iso3166_2: "SO-JD"
       type: "region"
+      type_es: "región"
       latitude: 1.4325937
       longitude: 42.6559939
       cities:
@@ -240,9 +264,11 @@
           longitude: 42.44067
     -
       name: "Middle Shebelle"
+      native: "Dhexe ee Shebelle"
       code: "SD"
       iso3166_2: "SO-SD"
       type: "region"
+      type_es: "región"
       latitude: 3
       longitude: 46
       cities:
@@ -260,9 +286,11 @@
           longitude: 45.5347
     -
       name: "Mudug"
+      native: "Mudug"
       code: "MU"
       iso3166_2: "SO-MU"
       type: "region"
+      type_es: "región"
       latitude: 6.6507279
       longitude: 48.3009945
       cities:
@@ -280,9 +308,11 @@
           longitude: 47.8575
     -
       name: "Nugal"
+      native: "Nugal"
       code: "NU"
       iso3166_2: "SO-NU"
       type: "region"
+      type_es: "región"
       latitude: 8.16698
       longitude: 48.9978971
       cities:
@@ -296,9 +326,11 @@
           longitude: 48.48284
     -
       name: "Sanaag"
+      native: "Sanaag"
       code: "SA"
       iso3166_2: "SO-SA"
       type: "region"
+      type_es: "región"
       latitude: 10.4386899
       longitude: 47.5924085
       cities:
@@ -312,9 +344,11 @@
           longitude: 48.1967
     -
       name: "Sool"
+      native: "Sool"
       code: "SO"
       iso3166_2: "SO-SO"
       type: "region"
+      type_es: "región"
       latitude: 8.39611111
       longitude: 47.69138889
       cities:
@@ -332,9 +366,11 @@
           longitude: 47.357
     -
       name: "Togdheer"
+      native: "Togdheer"
       code: "TO"
       iso3166_2: "SO-TO"
       type: "region"
+      type_es: "región"
       latitude: 9.3029453
       longitude: 45.4861213
       cities:
@@ -352,9 +388,11 @@
           longitude: 45.06397
     -
       name: "Woqooyi Galbeed"
+      native: "Maroodi Jeex"
       code: "WO"
       iso3166_2: "SO-WO"
       type: "region"
+      type_es: "región"
       latitude: 9.56305556
       longitude: 44.0675
       cities:

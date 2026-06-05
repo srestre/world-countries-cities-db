@@ -12,7 +12,9 @@
   currency_symbol: "$"
   tld: ".aq"
   region: "Polar"
+  region_es: "Regiones polares"
   subregion: null
+  subregion_es: null
   latitude: -74.65
   longitude: 4.48
   emoji: "🇦🇶"

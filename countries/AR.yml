@@ -12,16 +12,20 @@
   currency_symbol: "$"
   tld: ".ar"
   region: "Americas"
+  region_es: "América"
   subregion: "South America"
+  subregion_es: "Sudamérica"
   latitude: -34
   longitude: -64
   emoji: "🇦🇷"
   states:
     -
       name: "Autonomous City of Buenos Aires"
+      native: "Ciudad autónoma de Buenos Aires"
       code: "C"
       iso3166_2: "AR-C"
       type: "city"
+      type_es: "ciudad"
       latitude: -34.6161231
       longitude: -58.4356212
       cities:
@@ -219,9 +223,11 @@
           longitude: -58.5093464
     -
       name: "Buenos Aires"
+      native: "Buenos Aires"
       code: "B"
       iso3166_2: "AR-B"
       type: "province"
+      type_es: "provincia"
       latitude: -37.1498403
       longitude: -60.1319456
       cities:
@@ -767,9 +773,11 @@
           longitude: -59.4218871
     -
       name: "Catamarca"
+      native: "Catamarca"
       code: "K"
       iso3166_2: "AR-K"
       type: "province"
+      type_es: "provincia"
       latitude: -28.4715877
       longitude: -65.7877209
       cities:
@@ -915,9 +923,11 @@
           longitude: -67.56488
     -
       name: "Chaco"
+      native: "Chaco"
       code: "H"
       iso3166_2: "AR-H"
       type: "province"
+      type_es: "provincia"
       latitude: -26.3829647
       longitude: -60.8816092
       cities:
@@ -1219,9 +1229,11 @@
           longitude: -60.41263
     -
       name: "Chubut"
+      native: "Chubut"
       code: "U"
       iso3166_2: "AR-U"
       type: "province"
+      type_es: "provincia"
       latitude: -43.7128356
       longitude: -68.7461817
       cities:
@@ -1375,9 +1387,11 @@
           longitude: -71.46386
     -
       name: "Córdoba"
+      native: "Córdoba"
       code: "X"
       iso3166_2: "AR-X"
       type: "province"
+      type_es: "provincia"
       latitude: -31.4166867
       longitude: -64.1834193
       cities:
@@ -2131,9 +2145,11 @@
           longitude: -62.77078
     -
       name: "Corrientes"
+      native: "Corrientes"
       code: "W"
       iso3166_2: "AR-W"
       type: "province"
+      type_es: "provincia"
       latitude: -27.4818684
       longitude: -58.7955872
       cities:
@@ -2435,9 +2451,11 @@
           longitude: -58.90846
     -
       name: "Entre Ríos"
+      native: "Entre Ríos"
       code: "E"
       iso3166_2: "AR-E"
       type: "province"
+      type_es: "provincia"
       latitude: -31.6252842
       longitude: -59.3539578
       cities:
@@ -2703,9 +2721,11 @@
           longitude: -59.02689
     -
       name: "Formosa"
+      native: "Formosa"
       code: "P"
       iso3166_2: "AR-P"
       type: "province"
+      type_es: "provincia"
       latitude: -26.1852983
       longitude: -58.1744976
       cities:
@@ -2791,9 +2811,11 @@
           longitude: -59.4894
     -
       name: "Jujuy"
+      native: "Jujuy"
       code: "Y"
       iso3166_2: "AR-Y"
       type: "province"
+      type_es: "provincia"
       latitude: -23.3161458
       longitude: -65.7595288
       cities:
@@ -2883,9 +2905,11 @@
           longitude: -64.47194
     -
       name: "La Pampa"
+      native: "La Pampa"
       code: "L"
       iso3166_2: "AR-L"
       type: "province"
+      type_es: "provincia"
       latitude: -37.2314643
       longitude: -65.3972948
       cities:
@@ -3047,9 +3071,11 @@
           longitude: -64.23388
     -
       name: "La Rioja"
+      native: "La Rioja"
       code: "F"
       iso3166_2: "AR-F"
       type: "province"
+      type_es: "provincia"
       latitude: -29.4193793
       longitude: -66.8559932
       cities:
@@ -3095,9 +3121,11 @@
           longitude: -68.20692
     -
       name: "Mendoza"
+      native: "Mendoza"
       code: "M"
       iso3166_2: "AR-M"
       type: "province"
+      type_es: "provincia"
       latitude: -32.8894587
       longitude: -68.8458386
       cities:
@@ -3191,9 +3219,11 @@
           longitude: -68.33007
     -
       name: "Misiones"
+      native: "Misiones"
       code: "N"
       iso3166_2: "AR-N"
       type: "province"
+      type_es: "provincia"
       latitude: -26.737224
       longitude: -54.4315257
       cities:
@@ -3479,9 +3509,11 @@
           longitude: -54.56285
     -
       name: "Neuquén"
+      native: "Neuquén"
       code: "Q"
       iso3166_2: "AR-Q"
       type: "province"
+      type_es: "provincia"
       latitude: -38.9519679
       longitude: -68.0591741
       cities:
@@ -3623,9 +3655,11 @@
           longitude: -70.05442
     -
       name: "Río Negro"
+      native: "Río Negro"
       code: "R"
       iso3166_2: "AR-R"
       type: "province"
+      type_es: "provincia"
       latitude: -39.7296321
       longitude: -65.3418189
       cities:
@@ -3779,9 +3813,11 @@
           longitude: -67.06667
     -
       name: "Salta"
+      native: "Salta"
       code: "A"
       iso3166_2: "AR-A"
       type: "province"
+      type_es: "provincia"
       latitude: -24.7892946
       longitude: -65.4103194
       cities:
@@ -3919,9 +3955,11 @@
           longitude: -63.80131
     -
       name: "San Juan"
+      native: "San Juan"
       code: "J"
       iso3166_2: "AR-J"
       type: "province"
+      type_es: "provincia"
       latitude: -31.5370909
       longitude: -68.5251802
       cities:
@@ -4043,9 +4081,11 @@
           longitude: -68.53838
     -
       name: "San Luis"
+      native: "San Luis"
       code: "D"
       iso3166_2: "AR-D"
       type: "province"
+      type_es: "provincia"
       latitude: -33.2962042
       longitude: -66.3294948
       cities:
@@ -4119,9 +4159,11 @@
           longitude: -65.45783
     -
       name: "Santa Cruz"
+      native: "Santa Cruz"
       code: "Z"
       iso3166_2: "AR-Z"
       type: "province"
+      type_es: "provincia"
       latitude: -48.5693327
       longitude: -70.1606767
       cities:
@@ -4207,9 +4249,11 @@
           longitude: -72.3508
     -
       name: "Santa Fe"
+      native: "Santa Fe"
       code: "S"
       iso3166_2: "AR-S"
       type: "province"
+      type_es: "provincia"
       latitude: -31.6186951
       longitude: -60.7019561
       cities:
@@ -4495,9 +4539,11 @@
           longitude: -61.87597
     -
       name: "Santiago del Estero"
+      native: "Santiago del Estero"
       code: "G"
       iso3166_2: "AR-G"
       type: "province"
+      type_es: "provincia"
       latitude: -27.7833574
       longitude: -64.264167
       cities:
@@ -4623,9 +4669,11 @@
           longitude: -63.69377
     -
       name: "Tierra del Fuego"
+      native: "Tierra del Fuego"
       code: "V"
       iso3166_2: "AR-V"
       type: "province"
+      type_es: "provincia"
       latitude: -54.4071064
       longitude: -67.8974895
       cities:
@@ -4643,9 +4691,11 @@
           longitude: -68.31591
     -
       name: "Tucumán"
+      native: "Tucumán"
       code: "T"
       iso3166_2: "AR-T"
       type: "province"
+      type_es: "provincia"
       latitude: -26.8303703
       longitude: -65.2038133
       cities:

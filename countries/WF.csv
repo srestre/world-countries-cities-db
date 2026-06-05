@@ -1,4 +1,4 @@
-country_iso2,country_name,region,subregion,state_code,state_name,city_name,latitude,longitude
-WF,Wallis and Futuna Islands,Oceania,Polynesia,AL,Alo,Ono,-14.31055556,-178.105
-WF,Wallis and Futuna Islands,Oceania,Polynesia,SG,Sigave,Leava,-14.2961,-178.1585
-WF,Wallis and Futuna Islands,Oceania,Polynesia,UV,Uvea,Mata Utu,-13.28333333,-176.18333333
+country_iso2,country_name,country_name_es,region,region_es,subregion,subregion_es,state_code,state_name,state_type,state_type_es,city_name,latitude,longitude
+WF,Wallis and Futuna Islands,Wallis y Futuna,Oceania,Oceanía,Polynesia,Polinesia,AL,Alo,administrative precinct,distrito administrativo,Ono,-14.31055556,-178.105
+WF,Wallis and Futuna Islands,Wallis y Futuna,Oceania,Oceanía,Polynesia,Polinesia,SG,Sigave,administrative precinct,distrito administrativo,Leava,-14.2961,-178.1585
+WF,Wallis and Futuna Islands,Wallis y Futuna,Oceania,Oceanía,Polynesia,Polinesia,UV,Uvea,administrative precinct,distrito administrativo,Mata Utu,-13.28333333,-176.18333333

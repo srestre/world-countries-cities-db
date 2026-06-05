@@ -12,16 +12,20 @@
   currency_symbol: "₴"
   tld: ".ua"
   region: "Europe"
+  region_es: "Europa"
   subregion: "Eastern Europe"
+  subregion_es: "Europa Oriental"
   latitude: 49
   longitude: 32
   emoji: "🇺🇦"
   states:
     -
       name: "Autonomous Republic of Crimea"
+      native: "Автономна Республіка Криму"
       code: "43"
       iso3166_2: "UA-43"
       type: "republic"
+      type_es: "república"
       latitude: 45.6856952
       longitude: 33.9329411
       cities:
@@ -1435,9 +1439,11 @@
           longitude: 34.64987
     -
       name: "Cherkaska"
+      native: "Черкаска"
       code: "71"
       iso3166_2: "UA-71"
       type: "region"
+      type_es: "región"
       latitude: 48.925097
       longitude: 37.3759832
       cities:
@@ -1579,9 +1585,11 @@
           longitude: 30.96755
     -
       name: "Chernihivska"
+      native: "Chernihivska"
       code: "74"
       iso3166_2: "UA-74"
       type: "region"
+      type_es: "región"
       latitude: 50.4598903
       longitude: 30.6303119
       cities:
@@ -1751,9 +1759,11 @@
           longitude: 32.5949
     -
       name: "Chernivetska"
+      native: "Chernivetska"
       code: "77"
       iso3166_2: "UA-77"
       type: "region"
+      type_es: "región"
       latitude: 49.8372873
       longitude: 24.0007866
       cities:
@@ -1879,9 +1889,11 @@
           longitude: 25.84369
     -
       name: "Dnipropetrovska"
+      native: "Дніпропетровська"
       code: "12"
       iso3166_2: "UA-12"
       type: "region"
+      type_es: "región"
       latitude: 48.662589
       longitude: 34.9501715
       cities:
@@ -2095,9 +2107,11 @@
           longitude: 33.50374
     -
       name: "Donetska"
+      native: "Donetska"
       code: "14"
       iso3166_2: "UA-14"
       type: "region"
+      type_es: "región"
       latitude: 50.4256138
       longitude: 30.4564097
       cities:
@@ -2415,9 +2429,11 @@
           longitude: 38.26444
     -
       name: "Ivano-Frankivska"
+      native: "Ivano-Frankivska"
       code: "26"
       iso3166_2: "UA-26"
       type: "region"
+      type_es: "región"
       latitude: 48.8672217
       longitude: 24.7049
       cities:
@@ -2767,9 +2783,11 @@
           longitude: 24.64857
     -
       name: "Kharkivska"
+      native: "Kharkivska"
       code: "63"
       iso3166_2: "UA-63"
       type: "region"
+      type_es: "región"
       latitude: 49.8299582
       longitude: 36.3788957
       cities:
@@ -3039,9 +3057,11 @@
           longitude: 35.98179
     -
       name: "Khersonska"
+      native: "Херсонська"
       code: "65"
       iso3166_2: "UA-65"
       type: "region"
+      type_es: "región"
       latitude: 46.635417
       longitude: 32.616867
       cities:
@@ -3223,9 +3243,11 @@
           longitude: 32.29892
     -
       name: "Khmelnytska"
+      native: "Кхмельняцька"
       code: "68"
       iso3166_2: "UA-68"
       type: "region"
+      type_es: "región"
       latitude: 50.4633192
       longitude: 30.3831066
       cities:
@@ -3347,9 +3369,11 @@
           longitude: 26.48744
     -
       name: "Kirovohradska"
+      native: "Kirovohradska"
       code: "35"
       iso3166_2: "UA-35"
       type: "region"
+      type_es: "región"
       latitude: 48.1916774
       longitude: 31.6902953
       cities:
@@ -3531,9 +3555,11 @@
           longitude: 32.66472
     -
       name: "Kyiv"
+      native: "Києв"
       code: "30"
       iso3166_2: "UA-30"
       type: "city"
+      type_es: "ciudad"
       latitude: 50.4501
       longitude: 30.5234
       cities:
@@ -3587,9 +3613,11 @@
           longitude: 30.3805
     -
       name: "Kyivska"
+      native: "Київська"
       code: "32"
       iso3166_2: "UA-32"
       type: "region"
+      type_es: "región"
       latitude: 50.178595
       longitude: 30.4924884
       cities:
@@ -3951,9 +3979,11 @@
           longitude: 31.78492
     -
       name: "Luhanska"
+      native: "Luhanska"
       code: "09"
       iso3166_2: "UA-09"
       type: "region"
+      type_es: "región"
       latitude: 48.574041
       longitude: 39.307815
       cities:
@@ -4231,9 +4261,11 @@
           longitude: 38.9375
     -
       name: "Lvivska"
+      native: "Lvivska"
       code: "46"
       iso3166_2: "UA-46"
       type: "region"
+      type_es: "región"
       latitude: 49.6512234
       longitude: 23.8266948
       cities:
@@ -4563,9 +4595,11 @@
           longitude: 24.89436
     -
       name: "Mykolaivska"
+      native: "Mykolaivska"
       code: "48"
       iso3166_2: "UA-48"
       type: "region"
+      type_es: "región"
       latitude: 47.0560618
       longitude: 31.9566614
       cities:
@@ -4679,9 +4713,11 @@
           longitude: 31.18263
     -
       name: "Odeska"
+      native: "Odeska"
       code: "51"
       iso3166_2: "UA-51"
       type: "region"
+      type_es: "región"
       latitude: 46.1147226
       longitude: 29.9567193
       cities:
@@ -4979,9 +5015,11 @@
           longitude: 29.69672
     -
       name: "Poltavska"
+      native: "Poltavska"
       code: "53"
       iso3166_2: "UA-53"
       type: "region"
+      type_es: "región"
       latitude: 49.8607809
       longitude: 33.7498787
       cities:
@@ -5919,9 +5957,11 @@
           longitude: 29.24655
     -
       name: "Rivnenska"
+      native: "Рівненська"
       code: "56"
       iso3166_2: "UA-56"
       type: "region"
+      type_es: "región"
       latitude: 50.5973667
       longitude: 26.2646746
       cities:
@@ -6043,9 +6083,11 @@
           longitude: 26.24111
     -
       name: "Sevastopol"
+      native: "Севастополь"
       code: "40"
       iso3166_2: "UA-40"
       type: "city"
+      type_es: "ciudad"
       latitude: 44.6054434
       longitude: 33.5220842
       cities:
@@ -6119,9 +6161,11 @@
           longitude: 33.70207
     -
       name: "Sumska"
+      native: "Підозра"
       code: "59"
       iso3166_2: "UA-59"
       type: "region"
+      type_es: "región"
       latitude: 50.7696518
       longitude: 34.3289305
       cities:
@@ -6247,9 +6291,11 @@
           longitude: 34.06729
     -
       name: "Ternopilska"
+      native: "Ternopilska"
       code: "61"
       iso3166_2: "UA-61"
       type: "region"
+      type_es: "región"
       latitude: 49.6409289
       longitude: 25.4942724
       cities:
@@ -6383,9 +6429,11 @@
           longitude: 24.93333
     -
       name: "Vinnytska"
+      native: "Вінникка"
       code: "05"
       iso3166_2: "UA-05"
       type: "region"
+      type_es: "región"
       latitude: 50.4195893
       longitude: 30.4480946
       cities:
@@ -6595,9 +6643,11 @@
           longitude: 28.11201
     -
       name: "Volynska"
+      native: "Волонська"
       code: "07"
       iso3166_2: "UA-07"
       type: "region"
+      type_es: "región"
       latitude: 51.5451167
       longitude: 24.6627893
       cities:
@@ -6719,9 +6769,11 @@
           longitude: 24.32364
     -
       name: "Zakarpatska"
+      native: "Закарпака"
       code: "21"
       iso3166_2: "UA-21"
       type: "region"
+      type_es: "región"
       latitude: 48.2953664
       longitude: 23.4466092
       cities:
@@ -7055,9 +7107,11 @@
           longitude: 24.36042
     -
       name: "Zaporizka"
+      native: "Zaporizka"
       code: "23"
       iso3166_2: "UA-23"
       type: "region"
+      type_es: "región"
       latitude: 47.8535586
       longitude: 35.1699877
       cities:
@@ -7283,9 +7337,11 @@
           longitude: 35.19031
     -
       name: "Zhytomyrska"
+      native: "Чжітоміка"
       code: "18"
       iso3166_2: "UA-18"
       type: "region"
+      type_es: "región"
       latitude: 50.4561152
       longitude: 30.3658829
       cities:
