@@ -72,11 +72,19 @@ Every level is an independent file. Pick the smallest one that answers your need
 
 ## Formats per level
 
-| Level | JSON | CSV | SQL | YAML |
-|-------|:----:|:---:|:---:|:----:|
-| countries, regions, subregions, bundles, metadata | yes | yes | yes | yes |
-| flat-cities, large-countries/states | yes | yes | - | - |
-| latam | yes | - | - | - |
+Every level is listed below with the formats it ships. JSON is always present; the richer
+levels also ship CSV, SQL and YAML.
+
+| Level | Path | JSON | CSV | SQL | YAML |
+|-------|------|:----:|:---:|:---:|:----:|
+| Countries | `/countries/<ISO2>` | yes | yes | yes | yes |
+| Regions | `/regions/<slug>` | yes | yes | yes | yes |
+| Subregions | `/subregions/<slug>` | yes | yes | yes | yes |
+| Bundles | `/bundles/<slug>` | yes | yes | yes | yes |
+| Metadata | `/metadata/*` | yes | yes | yes | yes |
+| Flat cities | `/flat-cities/<ISO2>` | yes | yes | - | - |
+| Large countries (per state) | `/large-countries/<ISO2>/states/<slug>` | yes | yes | - | - |
+| LATAM set | `/latam/*` | yes | - | - | - |
 
 ## Data schema reference
 
@@ -239,14 +247,26 @@ const cities = await (await fetch(BASE + '/flat-cities/CO.json')).json();
 
 Switch `name_es` to `name_en` (LATAM) or `name` (worldwide metadata) for English labels.
 
-## Regenerate
+## Scripts (optional, only to regenerate the data)
+
+The data files in this repo are **pre-generated and committed**. To *use* the data you do
+**not** need the scripts at all: just fetch the JSON/CSV/SQL/YAML (via the CDN, a clone, or
+the GitHub API). The scripts exist only to **(re)generate and update** the data and to
+document, reproducibly, how it is derived. There are two because there are two data sources.
+
+| Script | Builds | Reads from | Runtime |
+|--------|--------|-----------|---------|
+| `scripts/build.js` | the whole worldwide dataset: `/countries`, `/regions`, `/subregions`, `/bundles`, `/flat-cities`, `/large-countries`, `/metadata` (all four formats) | the upstream combined world file (~47MB), downloaded once | ~10s |
+| `scripts/build-latam.js` | the richer `/latam` set (20 countries, slug-keyed) | the 20 LATAM country files | ~1s |
+
+Both are plain Node.js (v20+), **zero dependencies**, and re-runnable (each one overwrites
+its own output). Run them only when the upstream data changes or when you change the
+structure (add a bundle, add a large country, adjust a translation):
 
 ```bash
 node --max-old-space-size=4096 scripts/build.js   # worldwide data
 node scripts/build-latam.js                       # LATAM set
 ```
-
-Each script downloads its source and rewrites its files. Re-runnable.
 
 ## Contributing
 
