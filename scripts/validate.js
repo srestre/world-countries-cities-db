@@ -255,6 +255,20 @@ try {
   for (const c of lc) if (!c.name_en || !c.name_es) { fail('latam/countries.json: an entry is missing name_en/name_es'); break; }
 } catch (e) { fail(`latam section unreadable: ${e.message}`); }
 
+// security: iso2 must be path-safe (used as filenames), and city names should not look
+// like spreadsheet formulas in the CSV output.
+if (Array.isArray(meta)) {
+  const badIso = meta.filter((c) => !/^[A-Za-z]{2}$/.test(c.iso2 || '')).map((c) => c.iso2);
+  if (badIso.length) fail(`unsafe iso2 codes used as paths: ${badIso.join(', ')}`);
+}
+let riskyNameFiles = 0;
+for (const f of listJSON('flat-cities')) {
+  let arr;
+  try { arr = readJSON(path.join(ROOT, 'flat-cities', f)); } catch (e) { continue; }
+  if (arr.some((n) => typeof n === 'string' && /^[=+\-@\t\r]/.test(n))) riskyNameFiles++;
+}
+if (riskyNameFiles) warn(`${riskyNameFiles} country file(s) have a city name starting with a formula char (=,+,-,@); the CSV emitter neutralizes it with a leading quote`);
+
 // -------- Report -----------------------------------------------------------
 
 console.log('\n=== validate.js ===');

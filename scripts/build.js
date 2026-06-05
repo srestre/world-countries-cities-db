@@ -307,7 +307,11 @@ function countryMeta(c) {
 
 function csvField(v) {
   if (v === null || v === undefined) return '';
-  const s = String(v);
+  let s = String(v);
+  // CSV formula-injection guard: a spreadsheet (Excel/Sheets) treats a text cell starting
+  // with = + - @ TAB or CR as a formula. Numbers (lat/long) are typeof 'number', so a
+  // negative coordinate is never touched; only risky text values get a leading apostrophe.
+  if (typeof v === 'string' && /^[=+\-@\t\r]/.test(s)) s = "'" + s;
   if (/[",\n\r]/.test(s) || s !== s.trim()) return '"' + s.replace(/"/g, '""') + '"';
   return s;
 }
@@ -488,7 +492,13 @@ async function main() {
   console.log('Downloading dr5hn dataset (~47MB)...');
   const res = await fetch(SRC);
   if (!res.ok) throw new Error('Source download failed: HTTP ' + res.status);
-  const raw = await res.json();
+  const fetched = await res.json();
+  // Path-safety guard: iso2 is used to build filenames. Drop any entry whose iso2 is not
+  // two ASCII letters so a poisoned upstream value cannot escape the output directory.
+  const raw = Array.isArray(fetched) ? fetched.filter((c) => c && /^[A-Za-z]{2}$/.test(c.iso2 || '')) : [];
+  if (Array.isArray(fetched) && raw.length !== fetched.length) {
+    console.warn(`Skipped ${fetched.length - raw.length} entr(ies) with unsafe/invalid iso2.`);
+  }
   console.log('Countries:', raw.length);
 
   const byIso2 = new Map(raw.map((c) => [c.iso2, c]));
@@ -527,7 +537,7 @@ async function main() {
     if (!regionGroups.has(r)) regionGroups.set(r, []);
     regionGroups.get(r).push(c);
   }
-  const regionsIndex = {};
+  const regionsIndex = Object.create(null); // null-proto: keys come from upstream (anti prototype-pollution)
   for (const [region, list] of regionGroups) {
     const s = slug(region);
     regionsIndex[region] = {
@@ -547,7 +557,7 @@ async function main() {
     if (!subGroups.has(sr)) subGroups.set(sr, []);
     subGroups.get(sr).push(c);
   }
-  const subIndex = {};
+  const subIndex = Object.create(null); // null-proto (anti prototype-pollution)
   for (const [subregion, list] of subGroups) {
     const s = slug(subregion);
     subIndex[subregion] = { slug: s, name_es: subregionEs(subregion), region: list[0].region || null, region_es: regionEs(list[0].region), countries: list.length };
@@ -557,7 +567,7 @@ async function main() {
   console.log('subregions/ done:', Object.keys(subIndex).length);
 
   // 4) Curated bundles.
-  const bundlesIndex = {};
+  const bundlesIndex = Object.create(null); // null-proto (anti prototype-pollution)
   for (const [bslug, def] of Object.entries(BUNDLES)) {
     const rawList = def.iso2.map((i) => byIso2.get(i)).filter(Boolean);
     const missing = def.iso2.filter((i) => !byIso2.has(i));
@@ -609,7 +619,7 @@ async function main() {
   writeYAML(path.join(dirs.metadata, 'countries.yml'), meta);
   writeCSV(path.join(dirs.metadata, 'countries.csv'), metaCols, meta);
 
-  const index = {};
+  const index = Object.create(null); // null-proto: keyed by upstream iso2 (anti prototype-pollution)
   for (const c of raw) {
     index[c.iso2] = {
       name: c.name, name_es: spanishName(c), iso3: c.iso3,
@@ -620,11 +630,11 @@ async function main() {
   writeJSON(path.join(dirs.metadata, 'index.json'), index);
 
   // regions.json: region -> subregion -> [iso2]
-  const regTree = {};
+  const regTree = Object.create(null); // null-proto: keys are upstream region/subregion (anti prototype-pollution)
   for (const c of raw) {
     const r = c.region || 'No region';
     const sr = c.subregion || 'No subregion';
-    regTree[r] = regTree[r] || {};
+    regTree[r] = regTree[r] || Object.create(null);
     regTree[r][sr] = regTree[r][sr] || [];
     regTree[r][sr].push(c.iso2);
   }
