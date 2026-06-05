@@ -137,12 +137,7 @@ strings (JSON) or a single `city` column (CSV). JSON is compact, UTF-8, non-ASCI
 
 ## jsDelivr URLs
 
-> This repo is currently **private**, and jsDelivr only serves **public** repositories, so
-> these CDN URLs activate once the repo is made public
-> (`gh repo edit srestre/world-countries-cities-db --visibility public --accept-visibility-change-consequences`).
-> While private, consume the files via clone, the GitHub API, or by self-hosting them.
-
-Pattern:
+Every file is served over the jsDelivr CDN. Pattern:
 
 ```
 https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/<path>
