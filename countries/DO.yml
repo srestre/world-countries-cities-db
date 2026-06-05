@@ -1,0 +1,1194 @@
+-
+  name: "Dominican Republic"
+  name_es: "República Dominicana"
+  native: "República Dominicana"
+  iso2: "DO"
+  iso3: "DOM"
+  numeric_code: "214"
+  phonecode: "1"
+  capital: "Santo Domingo"
+  currency: "DOP"
+  currency_name: "Dominican peso"
+  currency_symbol: "$"
+  tld: ".do"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 19
+  longitude: -70.66666666
+  emoji: "🇩🇴"
+  states:
+    -
+      name: "Azua"
+      code: "02"
+      iso3166_2: "DO-02"
+      type: "province"
+      latitude: 18.4552709
+      longitude: -70.7380928
+      cities:
+        -
+          name: "Azua"
+          latitude: 18.45319
+          longitude: -70.7349
+        -
+          name: "El Guayabal"
+          latitude: 18.7496
+          longitude: -70.8369
+        -
+          name: "Estebanía"
+          latitude: 18.4577
+          longitude: -70.6435
+        -
+          name: "Las Charcas"
+          latitude: 18.45026
+          longitude: -70.61724
+        -
+          name: "Padre Las Casas"
+          latitude: 18.75
+          longitude: -70.88333
+        -
+          name: "Palmar de Ocoa"
+          latitude: 18.29656
+          longitude: -70.58635
+        -
+          name: "Peralta"
+          latitude: 18.58164
+          longitude: -70.77029
+        -
+          name: "Pueblo Viejo"
+          latitude: 18.4
+          longitude: -70.76765
+        -
+          name: "Sabana Yegua"
+          latitude: 18.71667
+          longitude: -71.01667
+        -
+          name: "Tábara Arriba"
+          latitude: 18.56999
+          longitude: -70.87978
+        -
+          name: "Villarpando"
+          latitude: 18.6586
+          longitude: -71.03916
+        -
+          name: "Yayas de Viajama"
+          latitude: 18.6071
+          longitude: -70.92753
+    -
+      name: "Baoruco"
+      code: "03"
+      iso3166_2: "DO-03"
+      type: "province"
+      latitude: 18.5140239
+      longitude: -71.3303393
+      cities:
+        -
+          name: "El Palmar"
+          latitude: 18.41139
+          longitude: -71.24558
+        -
+          name: "Galván"
+          latitude: 18.50228
+          longitude: -71.34271
+        -
+          name: "La Uvilla"
+          latitude: 18.36186
+          longitude: -71.21046
+        -
+          name: "Los Ríos"
+          latitude: 18.52131
+          longitude: -71.59106
+        -
+          name: "Neiba"
+          latitude: 18.48137
+          longitude: -71.41965
+        -
+          name: "Tamayo"
+          latitude: 18.5
+          longitude: -71.16667
+        -
+          name: "Villa Jaragua"
+          latitude: 18.49077
+          longitude: -71.48377
+    -
+      name: "Barahona"
+      code: "04"
+      iso3166_2: "DO-04"
+      type: "province"
+      latitude: 18.2139066
+      longitude: -71.1043759
+      cities:
+        -
+          name: "Cabral"
+          latitude: 18.19991
+          longitude: -71.2466
+        -
+          name: "Cachón"
+          latitude: 18.24833
+          longitude: -71.18912
+        -
+          name: "Canoa"
+          latitude: 18.35499
+          longitude: -71.15851
+        -
+          name: "El Peñón"
+          latitude: 18.29643
+          longitude: -71.1841
+        -
+          name: "Enriquillo"
+          latitude: 17.91667
+          longitude: -71.25
+        -
+          name: "Fundación"
+          latitude: 18.28668
+          longitude: -71.18147
+        -
+          name: "Jaquimeyes"
+          latitude: 18.31173
+          longitude: -71.16145
+        -
+          name: "La Ciénaga"
+          latitude: 18.06858
+          longitude: -71.10651
+        -
+          name: "Las Salinas"
+          latitude: 18.27485
+          longitude: -71.31596
+        -
+          name: "Paraíso"
+          latitude: 18.02652
+          longitude: -71.20889
+        -
+          name: "Pescadería"
+          latitude: 18.26766
+          longitude: -71.16612
+        -
+          name: "Polo"
+          latitude: 18.07873
+          longitude: -71.28723
+        -
+          name: "Santa Cruz de Barahona"
+          latitude: 18.20854
+          longitude: -71.10077
+        -
+          name: "Vicente Noble"
+          latitude: 18.38443
+          longitude: -71.18009
+    -
+      name: "Cibao Nordeste"
+      code: "33"
+      iso3166_2: "DO-33"
+      type: "region"
+      latitude: 19.4
+      longitude: -69.9
+      cities:
+        []
+    -
+      name: "Cibao Noroeste"
+      code: "34"
+      iso3166_2: "DO-34"
+      type: "region"
+      latitude: 19.6
+      longitude: -71
+      cities:
+        []
+    -
+      name: "Cibao Norte"
+      code: "35"
+      iso3166_2: "DO-35"
+      type: "region"
+      latitude: 19.5
+      longitude: -70.7
+      cities:
+        []
+    -
+      name: "Cibao Sur"
+      code: "36"
+      iso3166_2: "DO-36"
+      type: "region"
+      latitude: 19.2
+      longitude: -70.5
+      cities:
+        []
+    -
+      name: "Dajabón"
+      code: "05"
+      iso3166_2: "DO-05"
+      type: "province"
+      latitude: 19.5499241
+      longitude: -71.7086514
+      cities:
+        -
+          name: "Dajabón"
+          latitude: 19.54878
+          longitude: -71.70829
+        -
+          name: "El Pino"
+          latitude: 19.43537
+          longitude: -71.4754
+        -
+          name: "Loma de Cabrera"
+          latitude: 19.41667
+          longitude: -71.58333
+        -
+          name: "Partido"
+          latitude: 19.48403
+          longitude: -71.5473
+        -
+          name: "Restauración"
+          latitude: 19.31532
+          longitude: -71.69239
+    -
+      name: "Distrito Nacional"
+      code: "01"
+      iso3166_2: "DO-01"
+      type: "district"
+      latitude: 18.4860575
+      longitude: -69.9312117
+      cities:
+        -
+          name: "Bella Vista"
+          latitude: 18.45539
+          longitude: -69.9454
+        -
+          name: "Ciudad Nueva"
+          latitude: 18.46707
+          longitude: -69.89339
+        -
+          name: "Cristo Rey"
+          latitude: 18.5016872
+          longitude: -69.9261343
+        -
+          name: "Ensanche Luperón"
+          latitude: 18.5
+          longitude: -69.9
+        -
+          name: "La Agustina"
+          latitude: 18.4920297
+          longitude: -69.93251
+        -
+          name: "La Julia"
+          latitude: 18.46667
+          longitude: -69.93333
+        -
+          name: "San Carlos"
+          latitude: 18.4787324
+          longitude: -69.8949563
+        -
+          name: "Santo Domingo"
+          latitude: 18.47186
+          longitude: -69.89232
+        -
+          name: "Villa Consuelo"
+          latitude: 18.4842583
+          longitude: -69.899887
+        -
+          name: "Villa Francisca"
+          latitude: 18.48278
+          longitude: -69.88914
+    -
+      name: "Duarte"
+      code: "06"
+      iso3166_2: "DO-06"
+      type: "province"
+      latitude: 19.2833163
+      longitude: -70.1880055
+      cities:
+        -
+          name: "Agua Santa del Yuna"
+          latitude: 19.15072
+          longitude: -69.80069
+        -
+          name: "Arenoso"
+          latitude: 19.18732
+          longitude: -69.85917
+        -
+          name: "Castillo"
+          latitude: 19.25
+          longitude: -70
+        -
+          name: "Hostos"
+          latitude: 19.18043
+          longitude: -70.02046
+        -
+          name: "Las Guáranas"
+          latitude: 19.1931
+          longitude: -70.20835
+        -
+          name: "Pimentel"
+          latitude: 19.21667
+          longitude: -70.16667
+        -
+          name: "San Francisco de Macorís"
+          latitude: 19.30099
+          longitude: -70.25259
+        -
+          name: "Villa Riva"
+          latitude: 19.15051
+          longitude: -69.8837
+    -
+      name: "El Seibo"
+      code: "08"
+      iso3166_2: "DO-08"
+      type: "province"
+      latitude: 18.7658496
+      longitude: -69.040668
+      cities:
+        -
+          name: "Miches"
+          latitude: 18.98364
+          longitude: -69.0476
+        -
+          name: "Pedro Sánchez"
+          latitude: 18.86375
+          longitude: -69.10868
+        -
+          name: "Santa Cruz de El Seibo"
+          latitude: 18.76559
+          longitude: -69.03886
+    -
+      name: "El Valle"
+      code: "37"
+      iso3166_2: "DO-37"
+      type: "region"
+      latitude: 18.8
+      longitude: -71.2
+      cities:
+        []
+    -
+      name: "Elías Piña"
+      code: "07"
+      iso3166_2: "DO-07"
+      type: "province"
+      latitude: 19.03333
+      longitude: -71.68333
+      cities:
+        []
+    -
+      name: "Enriquillo"
+      code: "38"
+      iso3166_2: "DO-38"
+      type: "region"
+      latitude: 18.2
+      longitude: -71.3
+      cities:
+        []
+    -
+      name: "Espaillat"
+      code: "09"
+      iso3166_2: "DO-09"
+      type: "province"
+      latitude: 19.5108126
+      longitude: -70.4918803
+      cities:
+        -
+          name: "Cayetano Germosén"
+          latitude: 19.34285
+          longitude: -70.47573
+        -
+          name: "Gaspar Hernández"
+          latitude: 19.62748
+          longitude: -70.27772
+        -
+          name: "Jamao al Norte"
+          latitude: 19.63552
+          longitude: -70.44664
+        -
+          name: "Joba Arriba"
+          latitude: 19.56667
+          longitude: -70.26667
+        -
+          name: "Juan López Abajo"
+          latitude: 19.43333
+          longitude: -70.5
+        -
+          name: "Moca"
+          latitude: 19.5
+          longitude: -70.5
+        -
+          name: "San Víctor Arriba"
+          latitude: 19.47741
+          longitude: -70.53585
+        -
+          name: "Veragua Arriba"
+          latitude: 19.58333
+          longitude: -70.33333
+    -
+      name: "Hato Mayor"
+      code: "30"
+      iso3166_2: "DO-30"
+      type: "province"
+      latitude: 18.7089524
+      longitude: -69.3256524
+      cities:
+        -
+          name: "El Valle"
+          latitude: 18.93333
+          longitude: -69.38333
+        -
+          name: "Guayabo Dulce"
+          latitude: 18.65
+          longitude: -69.28333
+        -
+          name: "Hato Mayor del Rey"
+          latitude: 18.76278
+          longitude: -69.25681
+        -
+          name: "Sabana de la Mar"
+          latitude: 19.03333
+          longitude: -69.41667
+    -
+      name: "Hermanas Mirabal"
+      code: "19"
+      iso3166_2: "DO-19"
+      type: "province"
+      latitude: 19.3957699
+      longitude: -70.3840578
+      cities:
+        -
+          name: "Salcedo"
+          latitude: 19.41667
+          longitude: -70.38333
+        -
+          name: "Salsipuedes"
+          latitude: 19.40552
+          longitude: -70.37985
+        -
+          name: "Tenares"
+          latitude: 19.37439
+          longitude: -70.35087
+        -
+          name: "Villa Tapia"
+          latitude: 19.30084
+          longitude: -70.42199
+    -
+      name: "Higuamo"
+      code: "39"
+      iso3166_2: "DO-39"
+      type: "region"
+      latitude: 18.7
+      longitude: -69.2
+      cities:
+        []
+    -
+      name: "Independencia"
+      code: "10"
+      iso3166_2: "DO-10"
+      type: "province"
+      latitude: 18.4155861
+      longitude: -71.6357396
+      cities:
+        -
+          name: "Cristóbal"
+          latitude: 18.29405
+          longitude: -71.29298
+        -
+          name: "Duvergé"
+          latitude: 18.31634
+          longitude: -71.59451
+        -
+          name: "Guayabal"
+          latitude: 18.5981
+          longitude: -71.64184
+        -
+          name: "Jimaní"
+          latitude: 18.49169
+          longitude: -71.85022
+        -
+          name: "La Descubierta"
+          latitude: 18.57053
+          longitude: -71.72967
+        -
+          name: "Mella"
+          latitude: 18.35871
+          longitude: -71.41716
+        -
+          name: "Postrer Río"
+          latitude: 18.54374
+          longitude: -71.63561
+    -
+      name: "La Altagracia"
+      code: "11"
+      iso3166_2: "DO-11"
+      type: "province"
+      latitude: 18.5880886
+      longitude: -68.6053104
+      cities:
+        -
+          name: "Boca de Yuma"
+          latitude: 18.37825
+          longitude: -68.609
+        -
+          name: "Higüey"
+          latitude: 18.7
+          longitude: -68.66667
+        -
+          name: "Otra Banda"
+          latitude: 18.65017
+          longitude: -68.66281
+        -
+          name: "Punta Cana"
+          latitude: 18.58182
+          longitude: -68.40431
+        -
+          name: "Salvaleón de Higüey"
+          latitude: 18.61501
+          longitude: -68.70798
+        -
+          name: "San Rafael del Yuma"
+          latitude: 18.42993
+          longitude: -68.6739
+    -
+      name: "La Romana"
+      code: "12"
+      iso3166_2: "DO-12"
+      type: "province"
+      latitude: 18.4230137
+      longitude: -68.9661104
+      cities:
+        -
+          name: "Guaymate"
+          latitude: 18.58793
+          longitude: -68.97867
+        -
+          name: "La Romana"
+          latitude: 18.42733
+          longitude: -68.97285
+    -
+      name: "La Vega"
+      code: "13"
+      iso3166_2: "DO-13"
+      type: "province"
+      latitude: 19.2211554
+      longitude: -70.5288753
+      cities:
+        -
+          name: "Concepción de La Vega"
+          latitude: 19.22207
+          longitude: -70.52956
+        -
+          name: "Constanza"
+          latitude: 18.90919
+          longitude: -70.74499
+        -
+          name: "Jarabacoa"
+          latitude: 19.11683
+          longitude: -70.63595
+        -
+          name: "Jima Abajo"
+          latitude: 19.13292
+          longitude: -70.37607
+        -
+          name: "Rincón"
+          latitude: 19.11938
+          longitude: -70.40632
+        -
+          name: "Río Verde Arriba"
+          latitude: 19.31583
+          longitude: -70.56643
+        -
+          name: "Tireo Arriba"
+          latitude: 18.93537
+          longitude: -70.6885
+    -
+      name: "María Trinidad Sánchez"
+      code: "14"
+      iso3166_2: "DO-14"
+      type: "province"
+      latitude: 19.4433304
+      longitude: -69.9990821
+      cities:
+        -
+          name: "Arroyo Salado"
+          latitude: 19.5
+          longitude: -69.9
+        -
+          name: "Cabrera"
+          latitude: 19.6426
+          longitude: -69.90489
+        -
+          name: "El Factor"
+          latitude: 19.31834
+          longitude: -69.88827
+        -
+          name: "La Entrada"
+          latitude: 19.55367
+          longitude: -69.90762
+        -
+          name: "Nagua"
+          latitude: 19.3832
+          longitude: -69.8474
+        -
+          name: "Río San Juan"
+          latitude: 19.55022
+          longitude: -70.07703
+    -
+      name: "Monseñor Nouel"
+      code: "28"
+      iso3166_2: "DO-28"
+      type: "province"
+      latitude: 18.9234801
+      longitude: -70.4157265
+      cities:
+        -
+          name: "Bonao"
+          latitude: 18.91667
+          longitude: -70.46667
+        -
+          name: "Juan Adrián"
+          latitude: 18.76365
+          longitude: -70.33732
+        -
+          name: "Maimón"
+          latitude: 18.88333
+          longitude: -70.3
+        -
+          name: "Piedra Blanca"
+          latitude: 18.84431
+          longitude: -70.31688
+        -
+          name: "Sabana del Puerto"
+          latitude: 19.06667
+          longitude: -70.41667
+    -
+      name: "Monte Cristi"
+      code: "15"
+      iso3166_2: "DO-15"
+      type: "province"
+      latitude: 19.7177718
+      longitude: -71.4448113
+      cities:
+        -
+          name: "Cana Chapetón"
+          latitude: 19.60703
+          longitude: -71.25734
+        -
+          name: "Castañuelas"
+          latitude: 19.71387
+          longitude: -71.49876
+        -
+          name: "Guayubín"
+          latitude: 19.61667
+          longitude: -71.33333
+        -
+          name: "Hatillo Palma"
+          latitude: 19.66256
+          longitude: -71.19406
+        -
+          name: "Las Matas de Santa Cruz"
+          latitude: 19.67119
+          longitude: -71.50471
+        -
+          name: "Monte Cristi"
+          latitude: 19.83333
+          longitude: -71.61667
+        -
+          name: "Pepillo Salcedo"
+          latitude: 19.66667
+          longitude: -71.66667
+        -
+          name: "San Fernando de Monte Cristi"
+          latitude: 19.84826
+          longitude: -71.64597
+        -
+          name: "Villa Elisa"
+          latitude: 19.6856
+          longitude: -71.27007
+        -
+          name: "Villa Vásquez"
+          latitude: 19.80791
+          longitude: -71.44
+    -
+      name: "Monte Plata"
+      code: "29"
+      iso3166_2: "DO-29"
+      type: "province"
+      latitude: 18.8080878
+      longitude: -69.7869146
+      cities:
+        -
+          name: "Bayaguana"
+          latitude: 18.78333
+          longitude: -69.6
+        -
+          name: "Don Juan"
+          latitude: 18.82774
+          longitude: -69.94629
+        -
+          name: "Esperalvillo"
+          latitude: 18.81509
+          longitude: -70.03557
+        -
+          name: "Gonzalo"
+          latitude: 18.95147
+          longitude: -69.75114
+        -
+          name: "Los Botados"
+          latitude: 18.73226
+          longitude: -69.99536
+        -
+          name: "Majagual"
+          latitude: 19.04134
+          longitude: -69.83616
+        -
+          name: "Monte Plata"
+          latitude: 18.807
+          longitude: -69.78399
+        -
+          name: "Sabana Grande de Boyá"
+          latitude: 18.94498
+          longitude: -69.79331
+        -
+          name: "Yamasá"
+          latitude: 18.77315
+          longitude: -70.02583
+    -
+      name: "Ozama"
+      code: "40"
+      iso3166_2: "DO-40"
+      type: "region"
+      latitude: 18.5
+      longitude: -69.9
+      cities:
+        []
+    -
+      name: "Pedernales"
+      code: "16"
+      iso3166_2: "DO-16"
+      type: "province"
+      latitude: 18.0907918
+      longitude: -71.5595247
+      cities:
+        -
+          name: "Juancho"
+          latitude: 17.85782
+          longitude: -71.29311
+        -
+          name: "Oviedo"
+          latitude: 17.80136
+          longitude: -71.401
+        -
+          name: "Pedernales"
+          latitude: 18.08333
+          longitude: -71.6
+    -
+      name: "Peravia"
+      code: "17"
+      iso3166_2: "DO-17"
+      type: "province"
+      latitude: 18.3309575
+      longitude: -70.3712349
+      cities:
+        -
+          name: "Baní"
+          latitude: 18.27964
+          longitude: -70.33185
+        -
+          name: "Matanzas"
+          latitude: 18.24297
+          longitude: -70.41768
+        -
+          name: "Nizao"
+          latitude: 18.24697
+          longitude: -70.21053
+        -
+          name: "Paya"
+          latitude: 18.26196
+          longitude: -70.2956
+        -
+          name: "Pizarrete"
+          latitude: 18.29935
+          longitude: -70.22648
+        -
+          name: "Sabana Buey"
+          latitude: 18.27351
+          longitude: -70.52352
+    -
+      name: "Puerto Plata"
+      code: "18"
+      iso3166_2: "DO-18"
+      type: "province"
+      latitude: 19.7225234
+      longitude: -70.7208338
+      cities:
+        -
+          name: "Altamira"
+          latitude: 19.7
+          longitude: -70.83333
+        -
+          name: "Cabarete"
+          latitude: 19.74982
+          longitude: -70.40829
+        -
+          name: "Estero Hondo"
+          latitude: 19.82712
+          longitude: -71.17411
+        -
+          name: "Guananico"
+          latitude: 19.72693
+          longitude: -70.92294
+        -
+          name: "Imbert"
+          latitude: 19.75371
+          longitude: -70.82906
+        -
+          name: "Los Hidalgos"
+          latitude: 19.73333
+          longitude: -71.03333
+        -
+          name: "Luperón"
+          latitude: 19.89131
+          longitude: -70.96204
+        -
+          name: "Monte Llano"
+          latitude: 19.7346
+          longitude: -70.59915
+        -
+          name: "Puerto Plata"
+          latitude: 19.75119
+          longitude: -70.70251
+        -
+          name: "Río Grande"
+          latitude: 19.66667
+          longitude: -70.76667
+        -
+          name: "Sosúa"
+          latitude: 19.7522
+          longitude: -70.51995
+        -
+          name: "Villa Isabela"
+          latitude: 19.81564
+          longitude: -71.06056
+    -
+      name: "Samaná"
+      code: "20"
+      iso3166_2: "DO-20"
+      type: "province"
+      latitude: 19.2058371
+      longitude: -69.3362949
+      cities:
+        -
+          name: "Las Terrenas"
+          latitude: 19.31102
+          longitude: -69.5428
+        -
+          name: "Samaná"
+          latitude: 19.20561
+          longitude: -69.33685
+        -
+          name: "Sánchez"
+          latitude: 19.2281
+          longitude: -69.6137
+    -
+      name: "San Cristóbal"
+      code: "21"
+      iso3166_2: "DO-21"
+      type: "province"
+      latitude: 18.4180414
+      longitude: -70.1065849
+      cities:
+        -
+          name: "Bajos de Haina"
+          latitude: 18.41667
+          longitude: -70.03333
+        -
+          name: "Cambita Garabitos"
+          latitude: 18.5
+          longitude: -70.23333
+        -
+          name: "El Cacao"
+          latitude: 18.52719
+          longitude: -70.29585
+        -
+          name: "El Carril"
+          latitude: 18.44905
+          longitude: -70.02785
+        -
+          name: "Sabana Grande de Palenque"
+          latitude: 18.26256
+          longitude: -70.14821
+        -
+          name: "San Cristóbal"
+          latitude: 18.41667
+          longitude: -70.13333
+        -
+          name: "San Gregorio de Nigua"
+          latitude: 18.38333
+          longitude: -70.08333
+        -
+          name: "Villa Altagracia"
+          latitude: 18.63333
+          longitude: -70.25
+        -
+          name: "Yaguate"
+          latitude: 18.33333
+          longitude: -70.18333
+    -
+      name: "San José de Ocoa"
+      code: "31"
+      iso3166_2: "DO-31"
+      type: "province"
+      latitude: 18.543858
+      longitude: -70.5041816
+      cities:
+        -
+          name: "San José de Ocoa"
+          latitude: 18.54661
+          longitude: -70.50631
+    -
+      name: "San Juan"
+      code: "22"
+      iso3166_2: "DO-22"
+      type: "province"
+      latitude: 18.87967
+      longitude: -71.2862706
+      cities:
+        -
+          name: "Bohechío"
+          latitude: 18.77515
+          longitude: -70.98889
+        -
+          name: "Cercado Abajo"
+          latitude: 18.72681
+          longitude: -71.51742
+        -
+          name: "El Cercado"
+          latitude: 18.7
+          longitude: -71.46667
+        -
+          name: "Juan de Herrera"
+          latitude: 18.87402
+          longitude: -71.2383
+        -
+          name: "Las Matas de Farfán"
+          latitude: 18.91667
+          longitude: -71.5
+        -
+          name: "Matayaya"
+          latitude: 18.89036
+          longitude: -71.59459
+        -
+          name: "Pedro Corto"
+          latitude: 18.84856
+          longitude: -71.41041
+        -
+          name: "San Juan de la Maguana"
+          latitude: 18.80588
+          longitude: -71.22991
+        -
+          name: "Vallejuelo"
+          latitude: 18.65354
+          longitude: -71.33431
+    -
+      name: "San Pedro de Macorís"
+      code: "23"
+      iso3166_2: "DO-23"
+      type: "province"
+      latitude: 18.46266
+      longitude: -69.3051234
+      cities:
+        -
+          name: "El Puerto"
+          latitude: 18.78333
+          longitude: -69.46667
+        -
+          name: "Los Llanos"
+          latitude: 18.62035
+          longitude: -69.49581
+        -
+          name: "Quisqueya"
+          latitude: 18.55542
+          longitude: -69.40814
+        -
+          name: "Ramón Santana"
+          latitude: 18.54224
+          longitude: -69.17979
+        -
+          name: "San Pedro de Macorís"
+          latitude: 18.4539
+          longitude: -69.30864
+    -
+      name: "Sánchez Ramírez"
+      code: "24"
+      iso3166_2: "DO-24"
+      type: "province"
+      latitude: 19.0176147
+      longitude: -70.1448351
+      cities:
+        -
+          name: "Cevicos"
+          latitude: 19.00449
+          longitude: -69.97896
+        -
+          name: "Cotuí"
+          latitude: 19.05272
+          longitude: -70.14939
+        -
+          name: "Fantino"
+          latitude: 19.11667
+          longitude: -70.3
+    -
+      name: "Santiago"
+      code: "25"
+      iso3166_2: "DO-25"
+      type: "province"
+      latitude: 19.336389
+      longitude: -70.9521277
+      cities:
+        -
+          name: "Baitoa"
+          latitude: 19.32512
+          longitude: -70.70357
+        -
+          name: "Bisonó"
+          latitude: 19.58333
+          longitude: -70.86667
+        -
+          name: "Juncalito Abajo"
+          latitude: 19.2199
+          longitude: -70.81905
+        -
+          name: "La Canela"
+          latitude: 19.47341
+          longitude: -70.81629
+        -
+          name: "Licey al Medio"
+          latitude: 19.45
+          longitude: -70.6
+        -
+          name: "Palmar Arriba"
+          latitude: 19.53957
+          longitude: -70.73826
+        -
+          name: "Pedro García"
+          latitude: 19.59202
+          longitude: -70.65256
+        -
+          name: "Sabana Iglesia"
+          latitude: 19.32114
+          longitude: -70.75992
+        -
+          name: "San José de Las Matas"
+          latitude: 19.33915
+          longitude: -70.93819
+        -
+          name: "Santiago de los Caballeros"
+          latitude: 19.4517
+          longitude: -70.69703
+        -
+          name: "Santo Tomás de Jánico"
+          latitude: 19.23528
+          longitude: -70.79515
+        -
+          name: "Tamboril"
+          latitude: 19.48538
+          longitude: -70.61104
+        -
+          name: "Villa Bisonó"
+          latitude: 19.56378
+          longitude: -70.87582
+        -
+          name: "Villa González"
+          latitude: 19.54057
+          longitude: -70.78853
+    -
+      name: "Santiago Rodríguez"
+      code: "26"
+      iso3166_2: "DO-26"
+      type: "province"
+      latitude: 19.3690729
+      longitude: -71.3523808
+      cities:
+        -
+          name: "Monción"
+          latitude: 19.46667
+          longitude: -71.16667
+        -
+          name: "Sabaneta"
+          latitude: 19.47793
+          longitude: -71.34125
+        -
+          name: "San Ignacio de Sabaneta"
+          latitude: 19.38333
+          longitude: -71.35
+    -
+      name: "Santo Domingo"
+      code: "32"
+      iso3166_2: "DO-32"
+      type: "province"
+      latitude: 18.5638543
+      longitude: -69.8531692
+      cities:
+        -
+          name: "Boca Chica"
+          latitude: 18.45
+          longitude: -69.6
+        -
+          name: "Santo Domingo Este"
+          latitude: 18.48847
+          longitude: -69.85707
+        -
+          name: "Santo Domingo Oeste"
+          latitude: 18.5
+          longitude: -70
+    -
+      name: "Valdesia"
+      code: "41"
+      iso3166_2: "DO-41"
+      type: "region"
+      latitude: 18.4
+      longitude: -70.3
+      cities:
+        []
+    -
+      name: "Valverde"
+      code: "27"
+      iso3166_2: "DO-27"
+      type: "province"
+      latitude: 19.5955662
+      longitude: -71.0303974
+      cities:
+        -
+          name: "Amina"
+          latitude: 19.54813
+          longitude: -70.99599
+        -
+          name: "Esperanza"
+          latitude: 19.62379
+          longitude: -70.97141
+        -
+          name: "Guatapanal"
+          latitude: 19.50705
+          longitude: -70.91713
+        -
+          name: "Jaibón"
+          latitude: 19.61169
+          longitude: -71.14847
+        -
+          name: "Jicomé"
+          latitude: 19.64955
+          longitude: -70.94927
+        -
+          name: "La Caya"
+          latitude: 19.69981
+          longitude: -71.12084
+        -
+          name: "Laguna Salada"
+          latitude: 19.7
+          longitude: -71.13333
+        -
+          name: "Maizal"
+          latitude: 19.63655
+          longitude: -71.02734
+        -
+          name: "Mao"
+          latitude: 19.55186
+          longitude: -71.07813
+    -
+      name: "Yuma"
+      code: "42"
+      iso3166_2: "DO-42"
+      type: "region"
+      latitude: 18.6
+      longitude: -68.7
+      cities:
+        []

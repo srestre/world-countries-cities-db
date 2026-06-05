@@ -1,0 +1,895 @@
+-
+  name: "Cuba"
+  name_es: "Cuba"
+  native: "Cuba"
+  iso2: "CU"
+  iso3: "CUB"
+  numeric_code: "192"
+  phonecode: "53"
+  capital: "Havana"
+  currency: "CUP"
+  currency_name: "Cuban peso"
+  currency_symbol: "$"
+  tld: ".cu"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 21.5
+  longitude: -80
+  emoji: "🇨🇺"
+  states:
+    -
+      name: "Artemisa"
+      code: "15"
+      iso3166_2: "CU-15"
+      type: "province"
+      latitude: 22.8272763
+      longitude: -82.9259245
+      cities:
+        -
+          name: "Alquízar"
+          latitude: 22.80517
+          longitude: -82.58392
+        -
+          name: "Artemisa"
+          latitude: 22.81667
+          longitude: -82.75944
+        -
+          name: "Bahía Honda"
+          latitude: 22.90332
+          longitude: -83.15994
+        -
+          name: "Bauta"
+          latitude: 22.98226
+          longitude: -82.54719
+        -
+          name: "Cabañas"
+          latitude: 22.97944
+          longitude: -82.92214
+        -
+          name: "Candelaria"
+          latitude: 22.74057
+          longitude: -82.95912
+        -
+          name: "Guanajay"
+          latitude: 22.92639
+          longitude: -82.6875
+        -
+          name: "Güira de Melena"
+          latitude: 22.79613
+          longitude: -82.50667
+        -
+          name: "Mariel"
+          latitude: 22.98931
+          longitude: -82.75376
+        -
+          name: "Municipio de Artemisa"
+          latitude: 22.77383
+          longitude: -82.80419
+        -
+          name: "Municipio de Bauta"
+          latitude: 22.96957
+          longitude: -82.49997
+        -
+          name: "Municipio de Guanajay"
+          latitude: 22.89215
+          longitude: -82.70873
+        -
+          name: "Municipio de Mariel"
+          latitude: 22.96515
+          longitude: -82.80324
+        -
+          name: "Municipio de San Cristóbal"
+          latitude: 22.71446
+          longitude: -83.04561
+        -
+          name: "San Antonio de los Baños"
+          latitude: 22.89018
+          longitude: -82.50099
+        -
+          name: "San Cristobal"
+          latitude: 22.71658
+          longitude: -83.05647
+        -
+          name: "Soroa"
+          latitude: 22.8
+          longitude: -83.01667
+    -
+      name: "Camagüey"
+      code: "09"
+      iso3166_2: "CU-09"
+      type: "province"
+      latitude: 21.3108932
+      longitude: -77.9428695
+      cities:
+        -
+          name: "Camagüey"
+          latitude: 21.38083
+          longitude: -77.91694
+        -
+          name: "El Caney"
+          latitude: 21.3
+          longitude: -78.48333
+        -
+          name: "Esmeralda"
+          latitude: 21.85139
+          longitude: -78.11725
+        -
+          name: "Florida"
+          latitude: 21.52536
+          longitude: -78.22579
+        -
+          name: "Guáimaro"
+          latitude: 21.05222
+          longitude: -77.3499
+        -
+          name: "Jimaguayú"
+          latitude: 21.24224
+          longitude: -77.82625
+        -
+          name: "Minas"
+          latitude: 21.48802
+          longitude: -77.61033
+        -
+          name: "Municipio de Florida"
+          latitude: 21.46582
+          longitude: -78.34848
+        -
+          name: "Municipio de Nuevitas"
+          latitude: 21.55
+          longitude: -77.26667
+        -
+          name: "Nuevitas"
+          latitude: 21.54585
+          longitude: -77.26504
+        -
+          name: "Santa Cruz del Sur"
+          latitude: 20.71633
+          longitude: -77.99816
+        -
+          name: "Sibanicú"
+          latitude: 21.23631
+          longitude: -77.52561
+        -
+          name: "Vertientes"
+          latitude: 21.25817
+          longitude: -78.14979
+    -
+      name: "Ciego de Ávila"
+      code: "08"
+      iso3166_2: "CU-08"
+      type: "province"
+      latitude: 21.8420472
+      longitude: -78.7599682
+      cities:
+        -
+          name: "Baraguá"
+          latitude: 21.68216
+          longitude: -78.62567
+        -
+          name: "Chambas"
+          latitude: 22.19534
+          longitude: -78.9123
+        -
+          name: "Ciego de Ávila"
+          latitude: 21.84
+          longitude: -78.76194
+        -
+          name: "Ciro Redondo"
+          latitude: 22.01921
+          longitude: -78.70365
+        -
+          name: "Florencia"
+          latitude: 22.1461
+          longitude: -78.97328
+        -
+          name: "Morón"
+          latitude: 22.10774
+          longitude: -78.62667
+        -
+          name: "Municipio de Ciego de Ávila"
+          latitude: 21.85
+          longitude: -78.76667
+        -
+          name: "Municipio de Morón"
+          latitude: 22.2998
+          longitude: -78.56875
+        -
+          name: "Primero de Enero"
+          latitude: 21.94501
+          longitude: -78.4313
+        -
+          name: "Venezuela"
+          latitude: 21.73748
+          longitude: -78.79336
+    -
+      name: "Cienfuegos"
+      code: "06"
+      iso3166_2: "CU-06"
+      type: "province"
+      latitude: 22.1459864
+      longitude: -80.4530775
+      cities:
+        -
+          name: "Abreus"
+          latitude: 22.27797
+          longitude: -80.56931
+        -
+          name: "Aguada de Pasajeros"
+          latitude: 22.3852
+          longitude: -80.84792
+        -
+          name: "Cienfuegos"
+          latitude: 22.14957
+          longitude: -80.44662
+        -
+          name: "Cruces"
+          latitude: 22.34203
+          longitude: -80.27021
+        -
+          name: "Cumanayagua"
+          latitude: 22.15247
+          longitude: -80.20354
+        -
+          name: "Lajas"
+          latitude: 22.41479
+          longitude: -80.2931
+        -
+          name: "Municipio de Abreus"
+          latitude: 22.19229
+          longitude: -80.71465
+        -
+          name: "Municipio de Cienfuegos"
+          latitude: 22.15
+          longitude: -80.45
+        -
+          name: "Palmira"
+          latitude: 22.24126
+          longitude: -80.3911
+        -
+          name: "Rodas"
+          latitude: 22.34184
+          longitude: -80.55596
+    -
+      name: "Granma"
+      code: "12"
+      iso3166_2: "CU-12"
+      type: "province"
+      latitude: 20.1947889
+      longitude: -77.2936265
+      cities:
+        -
+          name: "Bartolomé Masó"
+          latitude: 20.16635
+          longitude: -76.94291
+        -
+          name: "Bayamo"
+          latitude: 20.37417
+          longitude: -76.64361
+        -
+          name: "Campechuela"
+          latitude: 20.23329
+          longitude: -77.2799
+        -
+          name: "Cauto Cristo"
+          latitude: 20.55709
+          longitude: -76.4727
+        -
+          name: "Guisa"
+          latitude: 20.25494
+          longitude: -76.5393
+        -
+          name: "Jiguaní"
+          latitude: 20.36785
+          longitude: -76.42741
+        -
+          name: "Manzanillo"
+          latitude: 20.34173
+          longitude: -77.12126
+        -
+          name: "Media Luna"
+          latitude: 20.14298
+          longitude: -77.43532
+        -
+          name: "Municipio de Bayamo"
+          latitude: 20.42511
+          longitude: -76.68614
+        -
+          name: "Municipio de Manzanillo"
+          latitude: 20.24732
+          longitude: -77.10273
+        -
+          name: "Municipio de Niquero"
+          latitude: 19.93912
+          longitude: -77.57085
+        -
+          name: "Niquero"
+          latitude: 20.04698
+          longitude: -77.58089
+        -
+          name: "Río Cauto"
+          latitude: 20.55971
+          longitude: -76.91673
+        -
+          name: "Yara"
+          latitude: 20.27465
+          longitude: -76.95132
+    -
+      name: "Guantánamo"
+      code: "14"
+      iso3166_2: "CU-14"
+      type: "province"
+      latitude: 20.2106063
+      longitude: -74.6938395
+      cities:
+        -
+          name: "Baracoa"
+          latitude: 20.34711
+          longitude: -74.49624
+        -
+          name: "Guantánamo"
+          latitude: 20.14444
+          longitude: -75.20917
+        -
+          name: "Maisí"
+          latitude: 20.24673
+          longitude: -74.15181
+        -
+          name: "Municipio de Guantánamo"
+          latitude: 20.26723
+          longitude: -75.15546
+        -
+          name: "Río Guayabal de Yateras"
+          latitude: 20.36667
+          longitude: -75.01667
+        -
+          name: "San Antonio del Sur"
+          latitude: 20.05564
+          longitude: -74.8075
+    -
+      name: "Havana"
+      code: "03"
+      iso3166_2: "CU-03"
+      type: "province"
+      latitude: 23.135305
+      longitude: -82.3589631
+      cities:
+        -
+          name: "Alamar"
+          latitude: 23.15794
+          longitude: -82.27837
+        -
+          name: "Arroyo Naranjo"
+          latitude: 23.03677
+          longitude: -82.36937
+        -
+          name: "Boyeros"
+          latitude: 23.0072
+          longitude: -82.4017
+        -
+          name: "Centro Habana"
+          latitude: 23.13833
+          longitude: -82.36417
+        -
+          name: "Cerro"
+          latitude: 23.10861
+          longitude: -82.37778
+        -
+          name: "Diez de Octubre"
+          latitude: 23.0881
+          longitude: -82.3597
+        -
+          name: "Guanabacoa"
+          latitude: 23.1236
+          longitude: -82.30082
+        -
+          name: "Habana del Este"
+          latitude: 23.15917
+          longitude: -82.33056
+        -
+          name: "Havana"
+          latitude: 23.13302
+          longitude: -82.38304
+        -
+          name: "La Habana Vieja"
+          latitude: 23.13028
+          longitude: -82.35306
+        -
+          name: "Regla"
+          latitude: 23.125
+          longitude: -82.33194
+        -
+          name: "San Miguel del Padrón"
+          latitude: 23.06639
+          longitude: -82.29472
+        -
+          name: "Santiago de las Vegas"
+          latitude: 22.97
+          longitude: -82.38694
+    -
+      name: "Holguín"
+      code: "11"
+      iso3166_2: "CU-11"
+      type: "province"
+      latitude: 20.9115576
+      longitude: -75.7891978
+      cities:
+        -
+          name: "Banes"
+          latitude: 20.96116
+          longitude: -75.722
+        -
+          name: "Cacocum"
+          latitude: 20.73775
+          longitude: -76.32574
+        -
+          name: "Cueto"
+          latitude: 20.64855
+          longitude: -75.92967
+        -
+          name: "Gibara"
+          latitude: 21.10988
+          longitude: -76.13145
+        -
+          name: "Holguín"
+          latitude: 20.88722
+          longitude: -76.26306
+        -
+          name: "Jobabo"
+          latitude: 20.96917
+          longitude: -76.29944
+        -
+          name: "Moa"
+          latitude: 20.65776
+          longitude: -74.95075
+        -
+          name: "Municipio de Banes"
+          latitude: 20.98008
+          longitude: -75.74933
+        -
+          name: "Municipio de Holguín"
+          latitude: 20.91192
+          longitude: -76.27057
+        -
+          name: "Sagua de Tánamo"
+          latitude: 20.58269
+          longitude: -75.24116
+        -
+          name: "San Germán"
+          latitude: 20.60009
+          longitude: -76.13364
+    -
+      name: "Isla de la Juventud"
+      code: "99"
+      iso3166_2: "CU-99"
+      type: "special municipality"
+      latitude: 21.6910976
+      longitude: -82.8155856
+      cities:
+        -
+          name: "Nueva Gerona"
+          latitude: 21.88667
+          longitude: -82.80556
+    -
+      name: "Las Tunas"
+      code: "10"
+      iso3166_2: "CU-10"
+      type: "province"
+      latitude: 21.0887045
+      longitude: -76.8121648
+      cities:
+        -
+          name: "Amancio"
+          latitude: 20.81914
+          longitude: -77.57958
+        -
+          name: "Colombia"
+          latitude: 20.98812
+          longitude: -77.42598
+        -
+          name: "Jesús Menéndez"
+          latitude: 21.16139
+          longitude: -76.47919
+        -
+          name: "Jobabo"
+          latitude: 20.90748
+          longitude: -77.28194
+        -
+          name: "Las Tunas"
+          latitude: 20.96167
+          longitude: -76.95111
+        -
+          name: "Manatí"
+          latitude: 21.3107
+          longitude: -76.93403
+        -
+          name: "Puerto Padre"
+          latitude: 21.19517
+          longitude: -76.60358
+    -
+      name: "Matanzas"
+      code: "04"
+      iso3166_2: "CU-04"
+      type: "province"
+      latitude: 22.4545999
+      longitude: -81.4961585
+      cities:
+        -
+          name: "Alacranes"
+          latitude: 22.76719
+          longitude: -81.56803
+        -
+          name: "Bolondrón"
+          latitude: 22.76307
+          longitude: -81.4478
+        -
+          name: "Calimete"
+          latitude: 22.5342
+          longitude: -80.91105
+        -
+          name: "Cárdenas"
+          latitude: 23.03661
+          longitude: -81.20596
+        -
+          name: "Colón"
+          latitude: 22.72064
+          longitude: -80.90492
+        -
+          name: "Jagüey Grande"
+          latitude: 22.52694
+          longitude: -81.12861
+        -
+          name: "Jovellanos"
+          latitude: 22.80375
+          longitude: -81.19127
+        -
+          name: "Limonar"
+          latitude: 22.95035
+          longitude: -81.41059
+        -
+          name: "Los Arabos"
+          latitude: 22.72969
+          longitude: -80.72081
+        -
+          name: "Manguito"
+          latitude: 22.58733
+          longitude: -80.91451
+        -
+          name: "Martí"
+          latitude: 22.94714
+          longitude: -80.91902
+        -
+          name: "Matanzas"
+          latitude: 23.04111
+          longitude: -81.5775
+        -
+          name: "Municipio de Cárdenas"
+          latitude: 22.98978
+          longitude: -81.2352
+        -
+          name: "Municipio de Matanzas"
+          latitude: 23.05
+          longitude: -81.58333
+        -
+          name: "Pedro Betancourt"
+          latitude: 22.72709
+          longitude: -81.28963
+        -
+          name: "Perico"
+          latitude: 22.76987
+          longitude: -81.0183
+        -
+          name: "Unión de Reyes"
+          latitude: 22.79505
+          longitude: -81.53617
+        -
+          name: "Varadero"
+          latitude: 23.15678
+          longitude: -81.24441
+    -
+      name: "Mayabeque"
+      code: "16"
+      iso3166_2: "CU-16"
+      type: "province"
+      latitude: 22.8254157
+      longitude: -82.0701062
+      cities:
+        -
+          name: "Batabanó"
+          latitude: 22.71794
+          longitude: -82.28965
+        -
+          name: "Bejucal"
+          latitude: 22.92861
+          longitude: -82.38861
+        -
+          name: "Güines"
+          latitude: 22.83727
+          longitude: -82.02641
+        -
+          name: "Jamaica"
+          latitude: 22.97559
+          longitude: -82.16852
+        -
+          name: "Jaruco"
+          latitude: 23.04419
+          longitude: -82.00919
+        -
+          name: "La Salud"
+          latitude: 22.87199
+          longitude: -82.42328
+        -
+          name: "Madruga"
+          latitude: 22.91
+          longitude: -81.85639
+        -
+          name: "Municipio de Güines"
+          latitude: 22.78712
+          longitude: -82.01602
+        -
+          name: "Municipio de Melena del Sur"
+          latitude: 22.78821
+          longitude: -82.15113
+        -
+          name: "Quivicán"
+          latitude: 22.82313
+          longitude: -82.35558
+        -
+          name: "San José de las Lajas"
+          latitude: 22.96139
+          longitude: -82.15111
+        -
+          name: "San Nicolás de Bari"
+          latitude: 22.78444
+          longitude: -81.91333
+        -
+          name: "Santa Cruz del Norte"
+          latitude: 23.15424
+          longitude: -81.92556
+    -
+      name: "Pinar del Río"
+      code: "01"
+      iso3166_2: "CU-01"
+      type: "province"
+      latitude: 22.312447
+      longitude: -83.9389386
+      cities:
+        -
+          name: "Consolación del Sur"
+          latitude: 22.50419
+          longitude: -83.51442
+        -
+          name: "Guane"
+          latitude: 22.20179
+          longitude: -84.08484
+        -
+          name: "Los Palacios"
+          latitude: 22.58882
+          longitude: -83.24671
+        -
+          name: "Mantua"
+          latitude: 22.29058
+          longitude: -84.28599
+        -
+          name: "Minas de Matahambre"
+          latitude: 22.58691
+          longitude: -83.94551
+        -
+          name: "Municipio de Consolación del Sur"
+          latitude: 22.44095
+          longitude: -83.41985
+        -
+          name: "Municipio de Guane"
+          latitude: 22.24591
+          longitude: -84.0366
+        -
+          name: "Municipio de La Palma"
+          latitude: 22.75
+          longitude: -83.55
+        -
+          name: "Municipio de Los Palacios"
+          latitude: 22.58333
+          longitude: -83.25
+        -
+          name: "Pinar del Río"
+          latitude: 22.41667
+          longitude: -83.69667
+        -
+          name: "Puerto Esperanza"
+          latitude: 22.77041
+          longitude: -83.73138
+        -
+          name: "San Diego de Los Baños"
+          latitude: 22.64667
+          longitude: -83.36972
+        -
+          name: "San Luis"
+          latitude: 22.27898
+          longitude: -83.75956
+        -
+          name: "Viñales"
+          latitude: 22.61892
+          longitude: -83.70694
+    -
+      name: "Sancti Spíritus"
+      code: "07"
+      iso3166_2: "CU-07"
+      type: "province"
+      latitude: 21.9275667
+      longitude: -79.443211
+      cities:
+        -
+          name: "Cabaiguán"
+          latitude: 22.07874
+          longitude: -79.49726
+        -
+          name: "Condado"
+          latitude: 21.8767
+          longitude: -79.84014
+        -
+          name: "Fomento"
+          latitude: 22.10475
+          longitude: -79.72141
+        -
+          name: "Guayos"
+          latitude: 22.04956
+          longitude: -79.46106
+        -
+          name: "Jatibonico"
+          latitude: 21.94333
+          longitude: -79.16906
+        -
+          name: "La Sierpe"
+          latitude: 21.77241
+          longitude: -79.26832
+        -
+          name: "Municipio de Cabaiguán"
+          latitude: 22.08333
+          longitude: -79.5
+        -
+          name: "Municipio de Jatibonico"
+          latitude: 21.93333
+          longitude: -79.16667
+        -
+          name: "Municipio de Sancti Spíritus"
+          latitude: 21.82176
+          longitude: -79.51036
+        -
+          name: "Municipio de Trinidad"
+          latitude: 21.83195
+          longitude: -79.88362
+        -
+          name: "Sancti Spíritus"
+          latitude: 21.92972
+          longitude: -79.4425
+        -
+          name: "Topes de Collantes"
+          latitude: 21.91524
+          longitude: -80.01929
+        -
+          name: "Trinidad"
+          latitude: 21.80224
+          longitude: -79.98467
+        -
+          name: "Yaguajay"
+          latitude: 22.32691
+          longitude: -79.23567
+        -
+          name: "Zaza del Medio"
+          latitude: 21.99712
+          longitude: -79.36678
+    -
+      name: "Santiago de Cuba"
+      code: "13"
+      iso3166_2: "CU-13"
+      type: "province"
+      latitude: 20.1209475
+      longitude: -75.924009
+      cities:
+        -
+          name: "Contramaestre"
+          latitude: 20.29879
+          longitude: -76.24511
+        -
+          name: "El Cobre"
+          latitude: 20.0485
+          longitude: -75.94579
+        -
+          name: "Municipio de Palma Soriano"
+          latitude: 20.20897
+          longitude: -76.05776
+        -
+          name: "Municipio de Santiago de Cuba"
+          latitude: 20.00617
+          longitude: -75.70816
+        -
+          name: "Palma Soriano"
+          latitude: 20.2113
+          longitude: -75.99362
+        -
+          name: "San Luis"
+          latitude: 20.18809
+          longitude: -75.85031
+        -
+          name: "Santiago de Cuba"
+          latitude: 20.02083
+          longitude: -75.82667
+    -
+      name: "Villa Clara"
+      code: "05"
+      iso3166_2: "CU-05"
+      type: "province"
+      latitude: 22.7036119
+      longitude: -79.6944968
+      cities:
+        -
+          name: "Caibarién"
+          latitude: 22.51996
+          longitude: -79.46599
+        -
+          name: "Calabazar de Sagua"
+          latitude: 22.64515
+          longitude: -79.8951
+        -
+          name: "Camajuaní"
+          latitude: 22.48333
+          longitude: -79.75
+        -
+          name: "Cifuentes"
+          latitude: 22.6493
+          longitude: -80.04935
+        -
+          name: "Corralillo"
+          latitude: 22.98212
+          longitude: -80.58556
+        -
+          name: "Encrucijada"
+          latitude: 22.61802
+          longitude: -79.86603
+        -
+          name: "Esperanza"
+          latitude: 22.4468
+          longitude: -80.09711
+        -
+          name: "Isabela de Sagua"
+          latitude: 22.93924
+          longitude: -80.01185
+        -
+          name: "Manicaragua"
+          latitude: 22.15021
+          longitude: -79.97867
+        -
+          name: "Municipio de Placetas"
+          latitude: 22.22248
+          longitude: -79.74268
+        -
+          name: "Municipio de Santa Clara"
+          latitude: 22.4
+          longitude: -79.96667
+        -
+          name: "Placetas"
+          latitude: 22.31184
+          longitude: -79.6544
+        -
+          name: "Quemado de Güines"
+          latitude: 22.78816
+          longitude: -80.25226
+        -
+          name: "Rancho Veloz"
+          latitude: 22.88042
+          longitude: -80.39098
+        -
+          name: "Ranchuelo"
+          latitude: 22.37266
+          longitude: -80.15046
+        -
+          name: "Sagua la Grande"
+          latitude: 22.80667
+          longitude: -80.07556
+        -
+          name: "Santa Clara"
+          latitude: 22.40694
+          longitude: -79.96472
+        -
+          name: "Santo Domingo"
+          latitude: 22.58677
+          longitude: -80.24261

@@ -1,0 +1,667 @@
+-
+  name: "Ecuador"
+  name_es: "Ecuador"
+  native: "Ecuador"
+  iso2: "EC"
+  iso3: "ECU"
+  numeric_code: "218"
+  phonecode: "593"
+  capital: "Quito"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".ec"
+  region: "Americas"
+  subregion: "South America"
+  latitude: -2
+  longitude: -77.5
+  emoji: "🇪🇨"
+  states:
+    -
+      name: "Azuay"
+      code: "A"
+      iso3166_2: "EC-A"
+      type: "province"
+      latitude: -3.0524451
+      longitude: -79.2395135
+      cities:
+        -
+          name: "Cantón San Fernando"
+          latitude: -3.13349
+          longitude: -79.26893
+        -
+          name: "Cuenca"
+          latitude: -2.90055
+          longitude: -79.00453
+        -
+          name: "Gualaceo"
+          latitude: -2.89264
+          longitude: -78.77814
+        -
+          name: "La Unión"
+          latitude: -2.85
+          longitude: -78.78333
+        -
+          name: "Llacao"
+          latitude: -2.86667
+          longitude: -78.88333
+        -
+          name: "Nulti"
+          latitude: -2.91667
+          longitude: -78.85
+    -
+      name: "Bolívar"
+      code: "B"
+      iso3166_2: "EC-B"
+      type: "province"
+      latitude: -1.5392733
+      longitude: -79.0816505
+      cities:
+        -
+          name: "Guaranda"
+          latitude: -1.59263
+          longitude: -79.00098
+        -
+          name: "San Miguel"
+          latitude: -1.70884
+          longitude: -79.04311
+    -
+      name: "Cañar"
+      code: "F"
+      iso3166_2: "EC-F"
+      type: "province"
+      latitude: -2.574484
+      longitude: -78.9804678
+      cities:
+        -
+          name: "Azogues"
+          latitude: -2.73969
+          longitude: -78.8486
+        -
+          name: "Cañar"
+          latitude: -2.56062
+          longitude: -78.9394
+        -
+          name: "La Troncal"
+          latitude: -2.42355
+          longitude: -79.33977
+    -
+      name: "Carchi"
+      code: "C"
+      iso3166_2: "EC-C"
+      type: "province"
+      latitude: 0.8375163
+      longitude: -78.2075154
+      cities:
+        -
+          name: "El Ángel"
+          latitude: 0.62279
+          longitude: -77.94003
+        -
+          name: "San Gabriel"
+          latitude: 0.59318
+          longitude: -77.83078
+        -
+          name: "Tulcán"
+          latitude: 0.81187
+          longitude: -77.71727
+    -
+      name: "Chimborazo"
+      code: "H"
+      iso3166_2: "EC-H"
+      type: "province"
+      latitude: -1.4680988
+      longitude: -78.8155589
+      cities:
+        -
+          name: "Alausí"
+          latitude: -2.20329
+          longitude: -78.84714
+        -
+          name: "Guano"
+          latitude: -1.60789
+          longitude: -78.63105
+        -
+          name: "Riobamba"
+          latitude: -1.67098
+          longitude: -78.64712
+    -
+      name: "Cotopaxi"
+      code: "X"
+      iso3166_2: "EC-X"
+      type: "province"
+      latitude: -0.8268521
+      longitude: -78.8937757
+      cities:
+        -
+          name: "La Maná"
+          latitude: -0.94094
+          longitude: -79.22506
+        -
+          name: "Latacunga"
+          latitude: -0.93521
+          longitude: -78.61554
+        -
+          name: "Pujilí"
+          latitude: -0.95759
+          longitude: -78.69636
+        -
+          name: "San Miguel de Salcedo"
+          latitude: -1.04547
+          longitude: -78.59063
+        -
+          name: "Saquisilí"
+          latitude: -0.8399
+          longitude: -78.667
+    -
+      name: "El Oro"
+      code: "O"
+      iso3166_2: "EC-O"
+      type: "province"
+      latitude: -3.5311093
+      longitude: -79.8333234
+      cities:
+        -
+          name: "Huaquillas"
+          latitude: -3.47523
+          longitude: -80.23084
+        -
+          name: "Machala"
+          latitude: -3.25861
+          longitude: -79.96053
+        -
+          name: "Pasaje"
+          latitude: -3.32561
+          longitude: -79.80697
+        -
+          name: "Piñas"
+          latitude: -3.68107
+          longitude: -79.68083
+        -
+          name: "Portovelo"
+          latitude: -3.72145
+          longitude: -79.62187
+        -
+          name: "Puerto Bolívar"
+          latitude: -3.26649
+          longitude: -79.99749
+        -
+          name: "Santa Rosa"
+          latitude: -3.44882
+          longitude: -79.95952
+        -
+          name: "Zaruma"
+          latitude: -3.69132
+          longitude: -79.61174
+    -
+      name: "Esmeraldas"
+      code: "E"
+      iso3166_2: "EC-E"
+      type: "province"
+      latitude: 0.9681789
+      longitude: -79.6517202
+      cities:
+        -
+          name: "Esmeraldas"
+          latitude: 0.9592
+          longitude: -79.65397
+        -
+          name: "Muisne"
+          latitude: 0.61129
+          longitude: -80.01863
+        -
+          name: "Pampanal de Bolívar"
+          latitude: 1.35251
+          longitude: -78.8936
+        -
+          name: "Rio Verde"
+          latitude: 1.06235
+          longitude: -79.39939
+        -
+          name: "Rosa Zarate"
+          latitude: 0.32779
+          longitude: -79.47407
+        -
+          name: "San Lorenzo de Esmeraldas"
+          latitude: 1.28626
+          longitude: -78.83514
+        -
+          name: "Valdez"
+          latitude: 1.24917
+          longitude: -78.98306
+    -
+      name: "Galápagos"
+      code: "W"
+      iso3166_2: "EC-W"
+      type: "province"
+      latitude: -0.0606899
+      longitude: -90.673898
+      cities:
+        -
+          name: "Puerto Ayora"
+          latitude: -0.74018
+          longitude: -90.3138
+        -
+          name: "Puerto Baquerizo Moreno"
+          latitude: -0.90172
+          longitude: -89.61021
+        -
+          name: "Puerto Villamil"
+          latitude: -0.95542
+          longitude: -90.96654
+    -
+      name: "Guayas"
+      code: "G"
+      iso3166_2: "EC-G"
+      type: "province"
+      latitude: -2
+      longitude: -80
+      cities:
+        -
+          name: "Alfredo Baquerizo Moreno"
+          latitude: -1.91667
+          longitude: -79.51667
+        -
+          name: "Baláo"
+          latitude: -2.911
+          longitude: -79.81441
+        -
+          name: "Balzar"
+          latitude: -1.36501
+          longitude: -79.90494
+        -
+          name: "Colimes"
+          latitude: -1.54553
+          longitude: -80.01165
+        -
+          name: "Coronel Marcelino Maridueña"
+          latitude: -2.20924
+          longitude: -79.43248
+        -
+          name: "El Triunfo"
+          latitude: -1.93333
+          longitude: -79.96667
+        -
+          name: "Eloy Alfaro"
+          latitude: -2.17579
+          longitude: -79.85519
+        -
+          name: "Guayaquil"
+          latitude: -2.19616
+          longitude: -79.88621
+        -
+          name: "Lomas de Sargentillo"
+          latitude: -1.88333
+          longitude: -80.08333
+        -
+          name: "Milagro"
+          latitude: -2.13404
+          longitude: -79.59415
+        -
+          name: "Naranjal"
+          latitude: -2.67364
+          longitude: -79.6183
+        -
+          name: "Naranjito"
+          latitude: -2.16671
+          longitude: -79.4654
+        -
+          name: "Palestina"
+          latitude: -1.93709
+          longitude: -79.71396
+        -
+          name: "Pedro Carbo"
+          latitude: -1.81563
+          longitude: -80.23309
+        -
+          name: "Playas"
+          latitude: -2.63199
+          longitude: -80.38808
+        -
+          name: "Samborondón"
+          latitude: -1.96276
+          longitude: -79.72402
+        -
+          name: "Santa Lucía"
+          latitude: -2.18333
+          longitude: -80
+        -
+          name: "Velasco Ibarra"
+          latitude: -1.04376
+          longitude: -79.63837
+        -
+          name: "Yaguachi Nuevo"
+          latitude: -2.0968
+          longitude: -79.69485
+    -
+      name: "Imbabura"
+      code: "I"
+      iso3166_2: "EC-I"
+      type: "province"
+      latitude: 0.2542902
+      longitude: -78.1803913
+      cities:
+        -
+          name: "Atuntaqui"
+          latitude: 0.33247
+          longitude: -78.21371
+        -
+          name: "Cotacachi"
+          latitude: 0.30107
+          longitude: -78.26428
+        -
+          name: "Ibarra"
+          latitude: 0.35171
+          longitude: -78.12233
+        -
+          name: "Otavalo"
+          latitude: 0.23457
+          longitude: -78.26248
+        -
+          name: "Pimampiro"
+          latitude: 0.39116
+          longitude: -77.94068
+    -
+      name: "Loja"
+      code: "L"
+      iso3166_2: "EC-L"
+      type: "province"
+      latitude: -3.99313
+      longitude: -79.20422
+      cities:
+        -
+          name: "Loja"
+          latitude: -3.99313
+          longitude: -79.20422
+    -
+      name: "Los Ríos"
+      code: "R"
+      iso3166_2: "EC-R"
+      type: "province"
+      latitude: -1.4941273
+      longitude: -79.5542485
+      cities:
+        -
+          name: "Babahoyo"
+          latitude: -1.80217
+          longitude: -79.53443
+        -
+          name: "Catarama"
+          latitude: -1.57504
+          longitude: -79.45998
+        -
+          name: "Montalvo"
+          latitude: -1.79008
+          longitude: -79.28759
+        -
+          name: "Palenque"
+          latitude: -1.43795
+          longitude: -79.75647
+        -
+          name: "Quevedo"
+          latitude: -1.02863
+          longitude: -79.46352
+        -
+          name: "Ventanas"
+          latitude: -1.44158
+          longitude: -79.45943
+        -
+          name: "Vinces"
+          latitude: -1.55611
+          longitude: -79.75191
+    -
+      name: "Manabí"
+      code: "M"
+      iso3166_2: "EC-M"
+      type: "province"
+      latitude: -0.7588025
+      longitude: -80.0612131
+      cities:
+        -
+          name: "Bahía de Caráquez"
+          latitude: -0.59792
+          longitude: -80.42367
+        -
+          name: "Calceta"
+          latitude: -0.84582
+          longitude: -80.16389
+        -
+          name: "Cantón Portoviejo"
+          latitude: -1.05
+          longitude: -80.45
+        -
+          name: "Chone"
+          latitude: -0.69819
+          longitude: -80.09361
+        -
+          name: "Jipijapa"
+          latitude: -1.34872
+          longitude: -80.57875
+        -
+          name: "Junín"
+          latitude: -0.92777
+          longitude: -80.20583
+        -
+          name: "Manta"
+          latitude: -0.96212
+          longitude: -80.71271
+        -
+          name: "Montecristi"
+          latitude: -1.04576
+          longitude: -80.65889
+        -
+          name: "Paján"
+          latitude: -1.55238
+          longitude: -80.42958
+        -
+          name: "Pedernales"
+          latitude: 0.07167
+          longitude: -80.0525
+        -
+          name: "Portoviejo"
+          latitude: -1.05458
+          longitude: -80.45445
+        -
+          name: "Rocafuerte"
+          latitude: -0.9236
+          longitude: -80.44946
+        -
+          name: "San Vicente"
+          latitude: -0.60435
+          longitude: -80.40267
+        -
+          name: "Santa Ana"
+          latitude: -1.20726
+          longitude: -80.37132
+        -
+          name: "Sucre"
+          latitude: -1.27974
+          longitude: -80.41885
+        -
+          name: "Tosagua"
+          latitude: -0.78679
+          longitude: -80.23473
+    -
+      name: "Morona-Santiago"
+      code: "S"
+      iso3166_2: "EC-S"
+      type: "province"
+      latitude: -2.6232969
+      longitude: -78.0048106
+      cities:
+        -
+          name: "Gualaquiza"
+          latitude: -3.40359
+          longitude: -78.58166
+        -
+          name: "Macas"
+          latitude: -2.30868
+          longitude: -78.11135
+        -
+          name: "Palora"
+          latitude: -1.70131
+          longitude: -77.96516
+        -
+          name: "Sucúa"
+          latitude: -2.45866
+          longitude: -78.17171
+    -
+      name: "Napo"
+      code: "N"
+      iso3166_2: "EC-N"
+      type: "province"
+      latitude: -0.6081965
+      longitude: -77.9520341
+      cities:
+        -
+          name: "Archidona"
+          latitude: -0.9095
+          longitude: -77.80772
+        -
+          name: "Tena"
+          latitude: -0.9938
+          longitude: -77.81286
+    -
+      name: "Orellana"
+      code: "D"
+      iso3166_2: "EC-D"
+      type: "province"
+      latitude: -0.78618
+      longitude: -76.4803184
+      cities:
+        -
+          name: "Boca Suno"
+          latitude: -0.69832
+          longitude: -77.14083
+        -
+          name: "Francisco de Orellana Canton"
+          latitude: -0.46667
+          longitude: -76.96667
+        -
+          name: "Loreto Canton"
+          latitude: -0.69487
+          longitude: -77.30255
+        -
+          name: "Puerto Francisco de Orellana"
+          latitude: -0.46645
+          longitude: -76.98719
+    -
+      name: "Pastaza"
+      code: "Y"
+      iso3166_2: "EC-Y"
+      type: "province"
+      latitude: -1.916667
+      longitude: -77
+      cities:
+        -
+          name: "Puyo"
+          latitude: -1.48369
+          longitude: -78.00257
+    -
+      name: "Pichincha"
+      code: "P"
+      iso3166_2: "EC-P"
+      type: "province"
+      latitude: -0.0584893
+      longitude: -78.3284371
+      cities:
+        -
+          name: "Cayambe"
+          latitude: 0.04084
+          longitude: -78.14524
+        -
+          name: "Machachi"
+          latitude: -0.51011
+          longitude: -78.56712
+        -
+          name: "Quito"
+          latitude: -0.22985
+          longitude: -78.52495
+        -
+          name: "Sangolquí"
+          latitude: -0.33405
+          longitude: -78.45217
+    -
+      name: "Santa Elena"
+      code: "SE"
+      iso3166_2: "EC-SE"
+      type: "province"
+      latitude: -2.2267105
+      longitude: -80.859499
+      cities:
+        -
+          name: "La Libertad"
+          latitude: -2.233
+          longitude: -80.91039
+        -
+          name: "Salinas"
+          latitude: -2.21452
+          longitude: -80.95151
+        -
+          name: "Santa Elena"
+          latitude: -2.22622
+          longitude: -80.85873
+    -
+      name: "Santo Domingo de los Tsáchilas"
+      code: "SD"
+      iso3166_2: "EC-SD"
+      type: "province"
+      latitude: -0.2546212
+      longitude: -79.1686724
+      cities:
+        -
+          name: "Santo Domingo de los Colorados"
+          latitude: -0.25305
+          longitude: -79.17536
+    -
+      name: "Sucumbíos"
+      code: "U"
+      iso3166_2: "EC-U"
+      type: "province"
+      latitude: -0.039138
+      longitude: -76.5119678
+      cities:
+        -
+          name: "Nueva Loja"
+          latitude: 0.086
+          longitude: -76.89528
+    -
+      name: "Tungurahua"
+      code: "T"
+      iso3166_2: "EC-T"
+      type: "province"
+      latitude: -1.2765895
+      longitude: -78.4754667
+      cities:
+        -
+          name: "Ambato"
+          latitude: -1.24908
+          longitude: -78.61675
+        -
+          name: "Baños"
+          latitude: -1.39699
+          longitude: -78.42289
+        -
+          name: "Pelileo"
+          latitude: -1.3299
+          longitude: -78.54341
+        -
+          name: "Píllaro"
+          latitude: -1.17414
+          longitude: -78.54676
+    -
+      name: "Zamora Chinchipe"
+      code: "Z"
+      iso3166_2: "EC-Z"
+      type: "province"
+      latitude: -4.0620183
+      longitude: -78.7751588
+      cities:
+        -
+          name: "Yantzaza"
+          latitude: -3.83261
+          longitude: -78.76076
+        -
+          name: "Zamora"
+          latitude: -4.06685
+          longitude: -78.95488

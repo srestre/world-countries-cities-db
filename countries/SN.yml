@@ -1,0 +1,423 @@
+-
+  name: "Senegal"
+  name_es: "Senegal"
+  native: "Sénégal"
+  iso2: "SN"
+  iso3: "SEN"
+  numeric_code: "686"
+  phonecode: "221"
+  capital: "Dakar"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".sn"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 14
+  longitude: -14
+  emoji: "🇸🇳"
+  states:
+    -
+      name: "Dakar"
+      code: "DK"
+      iso3166_2: "SN-DK"
+      type: "region"
+      latitude: 14.693425
+      longitude: -17.447938
+      cities:
+        -
+          name: "Dakar"
+          latitude: 14.6937
+          longitude: -17.44406
+        -
+          name: "Dakar Department"
+          latitude: 14.71403
+          longitude: -17.45534
+        -
+          name: "Guédiawaye Department"
+          latitude: 14.7761
+          longitude: -17.3956
+        -
+          name: "Mermoz Boabab"
+          latitude: 14.70649
+          longitude: -17.47581
+        -
+          name: "N’diareme limamoulaye"
+          latitude: 14.78148
+          longitude: -17.3841
+        -
+          name: "Pikine"
+          latitude: 14.76457
+          longitude: -17.39071
+        -
+          name: "Pikine Department"
+          latitude: 14.76515
+          longitude: -17.35198
+        -
+          name: "Rufisque Department"
+          latitude: 14.74339
+          longitude: -17.19841
+    -
+      name: "Diourbel Region"
+      code: "DB"
+      iso3166_2: "SN-DB"
+      type: "region"
+      latitude: 14.7844539
+      longitude: -16.0316451
+      cities:
+        -
+          name: "Mbacké"
+          latitude: 14.80828
+          longitude: -15.86454
+        -
+          name: "Mbaké"
+          latitude: 14.79032
+          longitude: -15.90803
+        -
+          name: "Tiébo"
+          latitude: 14.63333
+          longitude: -16.23333
+        -
+          name: "Touba"
+          latitude: 14.85
+          longitude: -15.88333
+    -
+      name: "Fatick"
+      code: "FK"
+      iso3166_2: "SN-FK"
+      type: "region"
+      latitude: 14.3390167
+      longitude: -16.4111425
+      cities:
+        -
+          name: "Diofior"
+          latitude: 14.18333
+          longitude: -16.66667
+        -
+          name: "Fatick Department"
+          latitude: 14.25909
+          longitude: -16.49884
+        -
+          name: "Foundiougne"
+          latitude: 14.13333
+          longitude: -16.46667
+        -
+          name: "Guinguinéo"
+          latitude: 14.26667
+          longitude: -15.95
+        -
+          name: "Passi"
+          latitude: 13.98333
+          longitude: -16.26667
+        -
+          name: "Pourham"
+          latitude: 14.35
+          longitude: -16.41667
+        -
+          name: "Sokone"
+          latitude: 13.88333
+          longitude: -16.36667
+    -
+      name: "Kaffrine"
+      code: "KA"
+      iso3166_2: "SN-KA"
+      type: "region"
+      latitude: 14.105202
+      longitude: -15.5415755
+      cities:
+        -
+          name: "Kaffrine"
+          latitude: 14.10594
+          longitude: -15.5508
+        -
+          name: "Koungheul"
+          latitude: 13.98333
+          longitude: -14.8
+    -
+      name: "Kaolack"
+      code: "KL"
+      iso3166_2: "SN-KL"
+      type: "region"
+      latitude: 14.138815
+      longitude: -16.076391
+      cities:
+        -
+          name: "Gandiaye"
+          latitude: 14.23333
+          longitude: -16.26667
+        -
+          name: "Kaolack"
+          latitude: 14.15197
+          longitude: -16.07259
+        -
+          name: "Ndofane"
+          latitude: 13.91667
+          longitude: -15.93333
+        -
+          name: "Nioro du Rip"
+          latitude: 13.75
+          longitude: -15.8
+    -
+      name: "Kédougou"
+      code: "KE"
+      iso3166_2: "SN-KE"
+      type: "region"
+      latitude: 12.5570752
+      longitude: -12.1855655
+      cities:
+        -
+          name: "Département de Salémata"
+          latitude: 12.59971
+          longitude: -12.77619
+        -
+          name: "Kédougou"
+          latitude: 12.55561
+          longitude: -12.18076
+        -
+          name: "Kédougou Department"
+          latitude: 12.81716
+          longitude: -12.17834
+        -
+          name: "Saraya"
+          latitude: 13.0015
+          longitude: -11.79627
+    -
+      name: "Kolda"
+      code: "KD"
+      iso3166_2: "SN-KD"
+      type: "region"
+      latitude: 12.8921154
+      longitude: -14.9400971
+      cities:
+        -
+          name: "Kolda"
+          latitude: 12.8939
+          longitude: -14.94125
+        -
+          name: "Kolda Department"
+          latitude: 12.883
+          longitude: -14.95
+        -
+          name: "Marsassoum"
+          latitude: 12.8275
+          longitude: -15.98056
+        -
+          name: "Vélingara"
+          latitude: 13.15
+          longitude: -14.11667
+    -
+      name: "Louga"
+      code: "LG"
+      iso3166_2: "SN-LG"
+      type: "region"
+      latitude: 15.6141768
+      longitude: -16.22868
+      cities:
+        -
+          name: "Dara"
+          latitude: 15.34844
+          longitude: -15.47993
+        -
+          name: "Guéoul"
+          latitude: 15.48333
+          longitude: -16.35
+        -
+          name: "Linguere Department"
+          latitude: 15.359
+          longitude: -15.158
+        -
+          name: "Louga"
+          latitude: 15.61867
+          longitude: -16.22436
+        -
+          name: "Ndibène Dahra"
+          latitude: 15.3338
+          longitude: -15.4766
+    -
+      name: "Matam"
+      code: "MT"
+      iso3166_2: "SN-MT"
+      type: "region"
+      latitude: 15.6600225
+      longitude: -13.2576906
+      cities:
+        -
+          name: "Diawara"
+          latitude: 15.02196
+          longitude: -12.54374
+        -
+          name: "Kanel"
+          latitude: 15.4916
+          longitude: -13.17627
+        -
+          name: "Matam"
+          latitude: 15.65587
+          longitude: -13.25544
+        -
+          name: "Matam Department"
+          latitude: 15.73191
+          longitude: -13.63393
+        -
+          name: "Ouro Sogui"
+          latitude: 15.60588
+          longitude: -13.3223
+        -
+          name: "Ranérou"
+          latitude: 15.3
+          longitude: -13.96667
+        -
+          name: "Sémé"
+          latitude: 15.19422
+          longitude: -12.94482
+        -
+          name: "Waoundé"
+          latitude: 15.26367
+          longitude: -12.86821
+    -
+      name: "Saint-Louis"
+      code: "SL"
+      iso3166_2: "SN-SL"
+      type: "region"
+      latitude: 16.0280445
+      longitude: -16.5048686
+      cities:
+        -
+          name: "Goléré"
+          latitude: 16.25575
+          longitude: -14.10165
+        -
+          name: "Ndioum"
+          latitude: 16.51293
+          longitude: -14.64706
+        -
+          name: "Polel Diaoubé"
+          latitude: 15.26667
+          longitude: -13
+        -
+          name: "Richard-Toll"
+          latitude: 16.4625
+          longitude: -15.70083
+        -
+          name: "Rosso"
+          latitude: 16.42028
+          longitude: -15.79834
+        -
+          name: "Saint-Louis"
+          latitude: 16.01793
+          longitude: -16.48962
+    -
+      name: "Sédhiou"
+      code: "SE"
+      iso3166_2: "SN-SE"
+      type: "region"
+      latitude: 12.704604
+      longitude: -15.5562304
+      cities:
+        -
+          name: "Goudomp Department"
+          latitude: 12.57778
+          longitude: -15.87222
+        -
+          name: "Sédhiou"
+          latitude: 12.70806
+          longitude: -15.55694
+    -
+      name: "Tambacounda Region"
+      code: "TC"
+      iso3166_2: "SN-TC"
+      type: "region"
+      latitude: 13.8686324
+      longitude: -13.3190328
+      cities:
+        -
+          name: "Tambacounda"
+          latitude: 13.77073
+          longitude: -13.66734
+        -
+          name: "Tambacounda Department"
+          latitude: 13.605
+          longitude: -13.647
+    -
+      name: "Thiès Region"
+      code: "TH"
+      iso3166_2: "SN-TH"
+      type: "region"
+      latitude: 14.7538661
+      longitude: -16.8637823
+      cities:
+        -
+          name: "Joal-Fadiout"
+          latitude: 14.16667
+          longitude: -16.83333
+        -
+          name: "Kayar"
+          latitude: 14.91893
+          longitude: -17.11978
+        -
+          name: "Khombole"
+          latitude: 14.76667
+          longitude: -16.7
+        -
+          name: "Mbour"
+          latitude: 14.40569
+          longitude: -16.85559
+        -
+          name: "Mékhé"
+          latitude: 15.1097
+          longitude: -16.6218
+        -
+          name: "Nguékhokh"
+          latitude: 14.51255
+          longitude: -17.00447
+        -
+          name: "Pout"
+          latitude: 14.77099
+          longitude: -17.06107
+        -
+          name: "Thiès"
+          latitude: 14.73004
+          longitude: -16.86974
+        -
+          name: "Thiès Nones"
+          latitude: 14.78333
+          longitude: -16.96667
+        -
+          name: "Tiadiaye"
+          latitude: 14.41667
+          longitude: -16.7
+        -
+          name: "Tivaouane"
+          latitude: 15.08519
+          longitude: -16.71058
+        -
+          name: "Warang"
+          latitude: 14.37349
+          longitude: -16.94366
+    -
+      name: "Ziguinchor"
+      code: "ZG"
+      iso3166_2: "SN-ZG"
+      type: "region"
+      latitude: 12.5641479
+      longitude: -16.2639825
+      cities:
+        -
+          name: "Adéane"
+          latitude: 12.63
+          longitude: -16.01694
+        -
+          name: "Bignona"
+          latitude: 12.81028
+          longitude: -16.22639
+        -
+          name: "Oussouye"
+          latitude: 12.485
+          longitude: -16.54694
+        -
+          name: "Tionk Essil"
+          latitude: 12.78556
+          longitude: -16.52167
+        -
+          name: "Ziguinchor"
+          latitude: 12.56801
+          longitude: -16.27326

@@ -1,0 +1,274 @@
+-
+  name: "Hong Kong S.A.R."
+  name_es: "Hong Kong"
+  native: "香港"
+  iso2: "HK"
+  iso3: "HKG"
+  numeric_code: "344"
+  phonecode: "852"
+  capital: "Hong Kong"
+  currency: "HKD"
+  currency_name: "Hong Kong dollar"
+  currency_symbol: "$"
+  tld: ".hk"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  latitude: 22.25
+  longitude: 114.16666666
+  emoji: "🇭🇰"
+  states:
+    -
+      name: "Central and Western"
+      code: "HCW"
+      iso3166_2: "HK-HCW"
+      type: "district"
+      latitude: 22.28666
+      longitude: 114.15497
+      cities:
+        -
+          name: "Admiralty"
+          latitude: 22.278
+          longitude: 114.164
+        -
+          name: "Central"
+          latitude: 22.281
+          longitude: 114.159
+    -
+      name: "Eastern"
+      code: "HEA"
+      iso3166_2: "HK-HEA"
+      type: "district"
+      latitude: 22.28411
+      longitude: 114.22414
+      cities:
+        []
+    -
+      name: "Islands"
+      code: "NIS"
+      iso3166_2: "HK-NIS"
+      type: "district"
+      latitude: 22.26114
+      longitude: 113.94608
+      cities:
+        -
+          name: "Tai O"
+          latitude: 22.247
+          longitude: 113.869
+    -
+      name: "Kowloon City"
+      code: "KKC"
+      iso3166_2: "HK-KKC"
+      type: "district"
+      latitude: 22.3282
+      longitude: 114.19155
+      cities:
+        -
+          name: "Kowloon Tong"
+          latitude: 22.337
+          longitude: 114.179
+    -
+      name: "Kwai Tsing"
+      code: "NKT"
+      iso3166_2: "HK-NKT"
+      type: "district"
+      latitude: 22.3634303
+      longitude: 114.1229825
+      cities:
+        []
+    -
+      name: "Kwun Tong"
+      code: "KKT"
+      iso3166_2: "HK-KKT"
+      type: "district"
+      latitude: 22.31326
+      longitude: 114.22581
+      cities:
+        -
+          name: "Kwun Tong"
+          latitude: 22.31
+          longitude: 114.225
+        -
+          name: "Lam Tin"
+          latitude: 22.307
+          longitude: 114.235
+    -
+      name: "North"
+      code: "NNO"
+      iso3166_2: "HK-NNO"
+      type: "district"
+      latitude: 22.49471
+      longitude: 114.13812
+      cities:
+        -
+          name: "Sheung Shui"
+          latitude: 22.501
+          longitude: 114.123
+    -
+      name: "Sai Kung"
+      code: "NSK"
+      iso3166_2: "HK-NSK"
+      type: "district"
+      latitude: 21.6730519
+      longitude: 108.3954313
+      cities:
+        -
+          name: "Sai Kung"
+          latitude: 22.384
+          longitude: 114.273
+        -
+          name: "Tseung Kwan O"
+          latitude: 22.319
+          longitude: 114.263
+    -
+      name: "Sha Tin"
+      code: "NST"
+      iso3166_2: "HK-NST"
+      type: "district"
+      latitude: 22.38715
+      longitude: 114.19534
+      cities:
+        -
+          name: "Ma On Shan"
+          latitude: 22.422
+          longitude: 114.23
+        -
+          name: "Sha Tin"
+          latitude: 22.383
+          longitude: 114.188
+        -
+          name: "Sha Tin Wai"
+          latitude: 22.38
+          longitude: 114.191
+    -
+      name: "Sham Shui Po"
+      code: "KSS"
+      iso3166_2: "HK-KSS"
+      type: "district"
+      latitude: 22.2357383
+      longitude: 114.1698162
+      cities:
+        -
+          name: "Cheung Sha Wan"
+          latitude: 22.336
+          longitude: 114.151
+        -
+          name: "Lai Chi Kok"
+          latitude: 22.337
+          longitude: 114.146
+    -
+      name: "Southern"
+      code: "HSO"
+      iso3166_2: "HK-HSO"
+      type: "district"
+      latitude: 22.24725
+      longitude: 114.15884
+      cities:
+        -
+          name: "Aberdeen"
+          latitude: 22.247
+          longitude: 114.152
+        -
+          name: "Stanley"
+          latitude: 22.22
+          longitude: 114.214
+        -
+          name: "Stanley Peninsula"
+          latitude: 22.21
+          longitude: 114.217
+    -
+      name: "Tai Po"
+      code: "NTP"
+      iso3166_2: "HK-NTP"
+      type: "district"
+      latitude: 22.45085
+      longitude: 114.16422
+      cities:
+        -
+          name: "Tai Mei Tuk"
+          latitude: 22.457
+          longitude: 114.184
+        -
+          name: "Tai Po"
+          latitude: 22.449
+          longitude: 114.16
+    -
+      name: "Tsuen Wan"
+      code: "NTW"
+      iso3166_2: "HK-NTW"
+      type: "district"
+      latitude: 22.36281
+      longitude: 114.12907
+      cities:
+        -
+          name: "Tsuen Wan"
+          latitude: 22.371
+          longitude: 114.114
+        -
+          name: "Tuen Mun"
+          latitude: 22.395
+          longitude: 113.973
+    -
+      name: "Tuen Mun"
+      code: "NTM"
+      iso3166_2: "HK-NTM"
+      type: "district"
+      latitude: 22.39163
+      longitude: 113.9770885
+      cities:
+        []
+    -
+      name: "Wan Chai"
+      code: "HWC"
+      iso3166_2: "HK-HWC"
+      type: "district"
+      latitude: 22.264499
+      longitude: 114.1898216
+      cities:
+        -
+          name: "Causeway Bay"
+          latitude: 22.28
+          longitude: 114.185
+        -
+          name: "Wan Chai"
+          latitude: 22.278
+          longitude: 114.182
+    -
+      name: "Wong Tai Sin"
+      code: "KWT"
+      iso3166_2: "HK-KWT"
+      type: "district"
+      latitude: 22.33353
+      longitude: 114.19686
+      cities:
+        -
+          name: "Wong Tai Sin"
+          latitude: 22.341
+          longitude: 114.193
+    -
+      name: "Yau Tsim Mong"
+      code: "KYT"
+      iso3166_2: "HK-KYT"
+      type: "district"
+      latitude: 22.32138
+      longitude: 114.1726
+      cities:
+        -
+          name: "Mong Kok"
+          latitude: 22.319
+          longitude: 114.169
+        -
+          name: "Tsim Sha Tsui"
+          latitude: 22.298
+          longitude: 114.172
+    -
+      name: "Yuen Long"
+      code: "NYL"
+      iso3166_2: "HK-NYL"
+      type: "district"
+      latitude: 22.4487051
+      longitude: 114.0958704
+      cities:
+        -
+          name: "Yuen Long"
+          latitude: 22.444
+          longitude: 114.027

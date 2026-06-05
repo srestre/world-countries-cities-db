@@ -1,0 +1,31 @@
+-
+  name: "Saint-Martin (French part)"
+  name_es: "Saint Martin"
+  native: "Saint-Martin"
+  iso2: "MF"
+  iso3: "MAF"
+  numeric_code: "663"
+  phonecode: "590"
+  capital: "Marigot"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".mf"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 18.08333333
+  longitude: -63.95
+  emoji: "🇲🇫"
+  states:
+    -
+      name: "Saint-Martin"
+      code: "01"
+      iso3166_2: "FR-MF"
+      type: "overseas collectivity"
+      latitude: 18.0731
+      longitude: -63.0822
+      cities:
+        -
+          name: "Marigot"
+          latitude: 18.0731
+          longitude: -63.0822

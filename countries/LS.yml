@@ -1,0 +1,147 @@
+-
+  name: "Lesotho"
+  name_es: "Lesotho"
+  native: "Lesotho"
+  iso2: "LS"
+  iso3: "LSO"
+  numeric_code: "426"
+  phonecode: "266"
+  capital: "Maseru"
+  currency: "LSL"
+  currency_name: "Lesotho loti"
+  currency_symbol: "L"
+  tld: ".ls"
+  region: "Africa"
+  subregion: "Southern Africa"
+  latitude: -29.5
+  longitude: 28.5
+  emoji: "🇱🇸"
+  states:
+    -
+      name: "Berea"
+      code: "D"
+      iso3166_2: "LS-D"
+      type: "district"
+      latitude: -29.1963971
+      longitude: 27.9175581
+      cities:
+        -
+          name: "Teyateyaneng"
+          latitude: -29.14719
+          longitude: 27.74895
+    -
+      name: "Butha-Buthe"
+      code: "B"
+      iso3166_2: "LS-B"
+      type: "district"
+      latitude: -28.7653754
+      longitude: 28.2468148
+      cities:
+        -
+          name: "Butha-Buthe"
+          latitude: -28.76659
+          longitude: 28.24937
+    -
+      name: "Leribe"
+      code: "C"
+      iso3166_2: "LS-C"
+      type: "district"
+      latitude: -28.866891
+      longitude: 28.0579408
+      cities:
+        -
+          name: "Leribe"
+          latitude: -28.87185
+          longitude: 28.04501
+        -
+          name: "Maputsoe"
+          latitude: -28.8866
+          longitude: 27.89915
+    -
+      name: "Mafeteng"
+      code: "E"
+      iso3166_2: "LS-E"
+      type: "district"
+      latitude: -29.7893049
+      longitude: 27.4423193
+      cities:
+        -
+          name: "Mafeteng"
+          latitude: -29.82299
+          longitude: 27.23744
+    -
+      name: "Maseru"
+      code: "A"
+      iso3166_2: "LS-A"
+      type: "district"
+      latitude: -29.5816942
+      longitude: 27.8243208
+      cities:
+        -
+          name: "Maseru"
+          latitude: -29.31667
+          longitude: 27.48333
+        -
+          name: "Nako"
+          latitude: -29.61667
+          longitude: 27.76667
+    -
+      name: "Mohale's Hoek"
+      code: "F"
+      iso3166_2: "LS-F"
+      type: "district"
+      latitude: -30.1516305
+      longitude: 27.4770113
+      cities:
+        -
+          name: "Mohale’s Hoek"
+          latitude: -30.15137
+          longitude: 27.47691
+    -
+      name: "Mokhotlong"
+      code: "J"
+      iso3166_2: "LS-J"
+      type: "district"
+      latitude: -29.2190697
+      longitude: 29.0351369
+      cities:
+        -
+          name: "Mokhotlong"
+          latitude: -29.28939
+          longitude: 29.06751
+    -
+      name: "Qacha's Nek"
+      code: "H"
+      iso3166_2: "LS-H"
+      type: "district"
+      latitude: -30.1114565
+      longitude: 28.678979
+      cities:
+        -
+          name: "Qacha’s Nek"
+          latitude: -30.11537
+          longitude: 28.68936
+    -
+      name: "Quthing"
+      code: "G"
+      iso3166_2: "LS-G"
+      type: "district"
+      latitude: -30.4015687
+      longitude: 27.7080133
+      cities:
+        -
+          name: "Quthing"
+          latitude: -30.40001
+          longitude: 27.70027
+    -
+      name: "Thaba-Tseka"
+      code: "K"
+      iso3166_2: "LS-K"
+      type: "district"
+      latitude: -29.5151832
+      longitude: 28.6036179
+      cities:
+        -
+          name: "Thaba-Tseka"
+          latitude: -29.52204
+          longitude: 28.6084

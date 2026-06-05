@@ -1,0 +1,2343 @@
+-
+  name: "Honduras"
+  name_es: "Honduras"
+  native: "Honduras"
+  iso2: "HN"
+  iso3: "HND"
+  numeric_code: "340"
+  phonecode: "504"
+  capital: "Tegucigalpa"
+  currency: "HNL"
+  currency_name: "Honduran lempira"
+  currency_symbol: "L"
+  tld: ".hn"
+  region: "Americas"
+  subregion: "Central America"
+  latitude: 15
+  longitude: -86.5
+  emoji: "🇭🇳"
+  states:
+    -
+      name: "Atlántida"
+      code: "AT"
+      iso3166_2: "HN-AT"
+      type: "department"
+      latitude: 15.8172492
+      longitude: -87.1146935
+      cities:
+        -
+          name: "Arizona"
+          latitude: 15.63333
+          longitude: -87.31667
+        -
+          name: "Atenas de San Cristóbal"
+          latitude: 15.68333
+          longitude: -87.31667
+        -
+          name: "Corozal"
+          latitude: 15.8
+          longitude: -86.71667
+        -
+          name: "El Pino"
+          latitude: 15.7
+          longitude: -86.93333
+        -
+          name: "El Porvenir"
+          latitude: 15.75
+          longitude: -86.93333
+        -
+          name: "El Triunfo de la Cruz"
+          latitude: 15.76667
+          longitude: -87.43333
+        -
+          name: "Esparta"
+          latitude: 15.66291
+          longitude: -87.25622
+        -
+          name: "Jutiapa"
+          latitude: 15.69586
+          longitude: -86.50414
+        -
+          name: "La Ceiba"
+          latitude: 15.75971
+          longitude: -86.78221
+        -
+          name: "La Masica"
+          latitude: 15.59865
+          longitude: -87.135
+        -
+          name: "La Unión"
+          latitude: 15.71667
+          longitude: -87
+        -
+          name: "Mezapa"
+          latitude: 15.58333
+          longitude: -87.65
+        -
+          name: "Nueva Armenia"
+          latitude: 15.79556
+          longitude: -86.49845
+        -
+          name: "Sambo Creek"
+          latitude: 15.81667
+          longitude: -86.68333
+        -
+          name: "San Antonio"
+          latitude: 15.6
+          longitude: -87.15
+        -
+          name: "San Francisco"
+          latitude: 15.65246
+          longitude: -87.01736
+        -
+          name: "San Juan Pueblo"
+          latitude: 15.58333
+          longitude: -87.23333
+        -
+          name: "Santa Ana"
+          latitude: 15.65
+          longitude: -87.06667
+        -
+          name: "Tela"
+          latitude: 15.77425
+          longitude: -87.46731
+        -
+          name: "Tornabé"
+          latitude: 15.75
+          longitude: -87.55
+    -
+      name: "Bay Islands"
+      code: "IB"
+      iso3166_2: "HN-IB"
+      type: "department"
+      latitude: 16.3217674
+      longitude: -86.1786833
+      cities:
+        -
+          name: "Coxen Hole"
+          latitude: 16.31759
+          longitude: -86.53793
+        -
+          name: "French Harbor"
+          latitude: 16.35
+          longitude: -86.43333
+        -
+          name: "Guanaja"
+          latitude: 16.44795
+          longitude: -85.89431
+        -
+          name: "José Santos Guardiola"
+          latitude: 16.41765
+          longitude: -86.30631
+        -
+          name: "Roatán"
+          latitude: 16.34098
+          longitude: -86.53763
+        -
+          name: "Sandy Bay"
+          latitude: 16.32923
+          longitude: -86.56446
+        -
+          name: "Savannah Bight"
+          latitude: 16.45
+          longitude: -85.85
+        -
+          name: "Utila"
+          latitude: 16.10026
+          longitude: -86.9307
+    -
+      name: "Choluteca"
+      code: "CH"
+      iso3166_2: "HN-CH"
+      type: "department"
+      latitude: 13.3014081
+      longitude: -87.1842323
+      cities:
+        -
+          name: "Apacilagua"
+          latitude: 13.45821
+          longitude: -87.01122
+        -
+          name: "Choluteca"
+          latitude: 13.28261
+          longitude: -87.20119
+        -
+          name: "Ciudad Choluteca"
+          latitude: 13.30028
+          longitude: -87.19083
+        -
+          name: "Concepción de María"
+          latitude: 13.22363
+          longitude: -86.96244
+        -
+          name: "Corpus"
+          latitude: 13.28889
+          longitude: -87.03472
+        -
+          name: "Duyure"
+          latitude: 13.63333
+          longitude: -86.81667
+        -
+          name: "El Corpus"
+          latitude: 13.30464
+          longitude: -87.0097
+        -
+          name: "El Obraje"
+          latitude: 13.15417
+          longitude: -87.13083
+        -
+          name: "El Puente"
+          latitude: 13.28333
+          longitude: -87.11667
+        -
+          name: "El Triunfo"
+          latitude: 13.08024
+          longitude: -87.0178
+        -
+          name: "Los Llanitos"
+          latitude: 13.28694
+          longitude: -87.33444
+        -
+          name: "Marcovia"
+          latitude: 13.28806
+          longitude: -87.30972
+        -
+          name: "Monjarás"
+          latitude: 13.20056
+          longitude: -87.37417
+        -
+          name: "Morolica"
+          latitude: 13.568
+          longitude: -86.88821
+        -
+          name: "Namasigüe"
+          latitude: 13.20472
+          longitude: -87.13889
+        -
+          name: "Orocuina"
+          latitude: 13.48167
+          longitude: -87.105
+        -
+          name: "Pespire"
+          latitude: 13.59222
+          longitude: -87.36167
+        -
+          name: "San Antonio de Flores"
+          latitude: 13.64152
+          longitude: -87.34075
+        -
+          name: "San Isidro"
+          latitude: 13.64454
+          longitude: -87.26093
+        -
+          name: "San Jerónimo"
+          latitude: 13.17667
+          longitude: -87.13639
+        -
+          name: "San José"
+          latitude: 13.71415
+          longitude: -87.42256
+        -
+          name: "San José de Las Conchas"
+          latitude: 13.32528
+          longitude: -87.39556
+        -
+          name: "San Marcos de Colón"
+          latitude: 13.41512
+          longitude: -86.82095
+        -
+          name: "Santa Ana de Yusguare"
+          latitude: 13.30056
+          longitude: -87.11389
+        -
+          name: "Santa Cruz"
+          latitude: 13.25806
+          longitude: -87.34833
+    -
+      name: "Colón"
+      code: "CL"
+      iso3166_2: "HN-CL"
+      type: "department"
+      latitude: 15.7149552
+      longitude: -85.7023584
+      cities:
+        -
+          name: "Balfate"
+          latitude: 15.75709
+          longitude: -86.29048
+        -
+          name: "Bonito Oriental"
+          latitude: 15.74641
+          longitude: -85.7361
+        -
+          name: "Corocito"
+          latitude: 15.75
+          longitude: -85.78333
+        -
+          name: "Cusuna"
+          latitude: 15.85
+          longitude: -85.23333
+        -
+          name: "Elíxir"
+          latitude: 15.48333
+          longitude: -86.3
+        -
+          name: "Francia"
+          latitude: 15.85
+          longitude: -85.58333
+        -
+          name: "Iriona"
+          latitude: 15.59079
+          longitude: -85.20549
+        -
+          name: "Jericó"
+          latitude: 15.95
+          longitude: -85.96667
+        -
+          name: "La Brea"
+          latitude: 15.8
+          longitude: -85.96667
+        -
+          name: "La Esperanza"
+          latitude: 15.63333
+          longitude: -85.76667
+        -
+          name: "Limón"
+          latitude: 15.79664
+          longitude: -85.50805
+        -
+          name: "Municipio de Sabá"
+          latitude: 15.48654
+          longitude: -86.16322
+        -
+          name: "Prieta"
+          latitude: 15.5806
+          longitude: -86.13664
+        -
+          name: "Puerto Castilla"
+          latitude: 16.01667
+          longitude: -85.96667
+        -
+          name: "Punta Piedra"
+          latitude: 15.9
+          longitude: -85.28333
+        -
+          name: "Quebrada de Arena"
+          latitude: 15.76667
+          longitude: -85.91667
+        -
+          name: "Río Esteban"
+          latitude: 15.83333
+          longitude: -86.3
+        -
+          name: "Sabá"
+          latitude: 15.46667
+          longitude: -86.25
+        -
+          name: "Salamá"
+          latitude: 15.75
+          longitude: -85.96667
+        -
+          name: "Santa Fe"
+          latitude: 15.85424
+          longitude: -86.11083
+        -
+          name: "Santa Rosa de Aguán"
+          latitude: 15.95
+          longitude: -85.71667
+        -
+          name: "Sonaguera"
+          latitude: 15.64
+          longitude: -86.26
+        -
+          name: "Taujica"
+          latitude: 15.7
+          longitude: -85.91667
+        -
+          name: "Tocoa"
+          latitude: 15.68333
+          longitude: -86
+        -
+          name: "Trujillo"
+          latitude: 15.91667
+          longitude: -85.95417
+        -
+          name: "Zamora"
+          latitude: 15.63333
+          longitude: -86.06667
+    -
+      name: "Comayagua"
+      code: "CM"
+      iso3166_2: "HN-CM"
+      type: "department"
+      latitude: 14.5525837
+      longitude: -87.6903154
+      cities:
+        -
+          name: "Aguas del Padre"
+          latitude: 14.56667
+          longitude: -87.88333
+        -
+          name: "Ajuterique"
+          latitude: 14.38333
+          longitude: -87.7
+        -
+          name: "Cerro Blanco"
+          latitude: 14.66667
+          longitude: -87.78333
+        -
+          name: "Comayagua"
+          latitude: 14.48412
+          longitude: -87.6006
+        -
+          name: "Concepción de Guasistagua"
+          latitude: 14.6
+          longitude: -87.65
+        -
+          name: "El Agua Dulcita"
+          latitude: 14.7
+          longitude: -87.75
+        -
+          name: "El Porvenir"
+          latitude: 14.58333
+          longitude: -87.88333
+        -
+          name: "El Rancho"
+          latitude: 14.68333
+          longitude: -87.5
+        -
+          name: "El Rincón"
+          latitude: 14.58333
+          longitude: -87.93333
+        -
+          name: "El Rosario"
+          latitude: 14.575
+          longitude: -87.74306
+        -
+          name: "El Sauce"
+          latitude: 14.5285
+          longitude: -87.66571
+        -
+          name: "El Socorro"
+          latitude: 14.63333
+          longitude: -87.91667
+        -
+          name: "Esquías"
+          latitude: 14.73333
+          longitude: -87.36667
+        -
+          name: "Flores"
+          latitude: 14.28333
+          longitude: -87.56667
+        -
+          name: "Humuya"
+          latitude: 14.25
+          longitude: -87.66667
+        -
+          name: "Jamalteca"
+          latitude: 14.7
+          longitude: -87.58333
+        -
+          name: "La Libertad"
+          latitude: 14.88
+          longitude: -87.55
+        -
+          name: "La Trinidad"
+          latitude: 14.7
+          longitude: -87.66286
+        -
+          name: "Lamaní"
+          latitude: 14.2
+          longitude: -87.61667
+        -
+          name: "Las Lajas"
+          latitude: 14.9
+          longitude: -87.58333
+        -
+          name: "Lejamaní"
+          latitude: 14.36667
+          longitude: -87.7
+        -
+          name: "Meámbar"
+          latitude: 14.82047
+          longitude: -87.78424
+        -
+          name: "Minas de Oro"
+          latitude: 14.8
+          longitude: -87.35
+        -
+          name: "Ojos de Agua"
+          latitude: 14.79498
+          longitude: -87.6501
+        -
+          name: "Potrerillos"
+          latitude: 14.55
+          longitude: -87.86667
+        -
+          name: "Río Bonito"
+          latitude: 14.76667
+          longitude: -87.88333
+        -
+          name: "San Antonio de la Cuesta"
+          latitude: 14.63333
+          longitude: -87.6
+        -
+          name: "San Jerónimo"
+          latitude: 14.64043
+          longitude: -87.56768
+        -
+          name: "San José de Comayagua"
+          latitude: 14.73333
+          longitude: -88.03333
+        -
+          name: "San José del Potrero"
+          latitude: 14.86203
+          longitude: -87.29049
+        -
+          name: "San Luis"
+          latitude: 14.75
+          longitude: -87.41667
+        -
+          name: "San Sebastián"
+          latitude: 14.23687
+          longitude: -87.63215
+        -
+          name: "Siguatepeque"
+          latitude: 14.6
+          longitude: -87.83333
+        -
+          name: "Taulabé"
+          latitude: 14.67145
+          longitude: -87.98693
+        -
+          name: "Valle de Ángeles"
+          latitude: 14.5
+          longitude: -87.63333
+        -
+          name: "Villa de San Antonio"
+          latitude: 14.31667
+          longitude: -87.61667
+    -
+      name: "Copán"
+      code: "CP"
+      iso3166_2: "HN-CP"
+      type: "department"
+      latitude: 14.8958685
+      longitude: -88.9255812
+      cities:
+        -
+          name: "Agua Caliente"
+          latitude: 14.88333
+          longitude: -88.81667
+        -
+          name: "Buenos Aires"
+          latitude: 15.03333
+          longitude: -88.96667
+        -
+          name: "Cabañas"
+          latitude: 14.76
+          longitude: -89.06
+        -
+          name: "Chalmeca"
+          latitude: 15.1
+          longitude: -88.68333
+        -
+          name: "Concepción"
+          latitude: 14.88077
+          longitude: -88.87919
+        -
+          name: "Concepción de la Barranca"
+          latitude: 15.16667
+          longitude: -88.71667
+        -
+          name: "Copán"
+          latitude: 14.83333
+          longitude: -89.15
+        -
+          name: "Copán Ruinas"
+          latitude: 14.92
+          longitude: -89.15
+        -
+          name: "Corquín"
+          latitude: 14.56667
+          longitude: -88.86667
+        -
+          name: "Cucuyagua"
+          latitude: 14.65
+          longitude: -88.86667
+        -
+          name: "Dolores"
+          latitude: 14.86667
+          longitude: -88.83333
+        -
+          name: "Dulce Nombre"
+          latitude: 14.85552
+          longitude: -88.83856
+        -
+          name: "El Corpus"
+          latitude: 14.7
+          longitude: -88.91667
+        -
+          name: "El Ocotón"
+          latitude: 15.03333
+          longitude: -88.88333
+        -
+          name: "El Paraíso"
+          latitude: 15.04217
+          longitude: -88.98045
+        -
+          name: "Florida"
+          latitude: 15.03333
+          longitude: -88.83333
+        -
+          name: "La Entrada"
+          latitude: 15.05
+          longitude: -88.73333
+        -
+          name: "La Jigua"
+          latitude: 15.1
+          longitude: -88.76
+        -
+          name: "La Playona"
+          latitude: 15.11667
+          longitude: -88.98333
+        -
+          name: "La Unión"
+          latitude: 14.6935
+          longitude: -88.94734
+        -
+          name: "La Zumbadora"
+          latitude: 15.01667
+          longitude: -88.9
+        -
+          name: "Los Tangos"
+          latitude: 15.15
+          longitude: -88.68333
+        -
+          name: "Nueva Arcadia"
+          latitude: 15.08
+          longitude: -88.69
+        -
+          name: "Ojos de Agua"
+          latitude: 14.7
+          longitude: -88.81667
+        -
+          name: "Pueblo Nuevo"
+          latitude: 15
+          longitude: -88.75
+        -
+          name: "Quezailica"
+          latitude: 14.88333
+          longitude: -88.73333
+        -
+          name: "San Agustín"
+          latitude: 14.81973
+          longitude: -88.93027
+        -
+          name: "San Antonio"
+          latitude: 15.04
+          longitude: -88.88
+        -
+          name: "San Jerónimo"
+          latitude: 14.96207
+          longitude: -88.9027
+        -
+          name: "San Joaquín"
+          latitude: 15.05
+          longitude: -88.9
+        -
+          name: "San José"
+          latitude: 14.91184
+          longitude: -88.71667
+        -
+          name: "San José de Copán"
+          latitude: 14.9
+          longitude: -88.71667
+        -
+          name: "San Juan de Opoa"
+          latitude: 14.78333
+          longitude: -88.7
+        -
+          name: "San Juan de Planes"
+          latitude: 14.93333
+          longitude: -88.78333
+        -
+          name: "San Nicolás"
+          latitude: 14.98
+          longitude: -88.73
+        -
+          name: "San Pedro de Copán"
+          latitude: 14.61667
+          longitude: -88.8
+        -
+          name: "Santa Rita"
+          latitude: 14.88
+          longitude: -89.01
+        -
+          name: "Santa Rita Copan"
+          latitude: 14.86748
+          longitude: -89.1
+        -
+          name: "Santa Rosa de Copán"
+          latitude: 14.76667
+          longitude: -88.77917
+        -
+          name: "Trinidad de Copán"
+          latitude: 14.95
+          longitude: -88.75
+        -
+          name: "Veracruz"
+          latitude: 14.88343
+          longitude: -88.7857
+    -
+      name: "Cortés"
+      code: "CR"
+      iso3166_2: "HN-CR"
+      type: "department"
+      latitude: 15.4784073
+      longitude: -88.0343858
+      cities:
+        -
+          name: "Agua Azul"
+          latitude: 14.91667
+          longitude: -87.96667
+        -
+          name: "Agua Azul Rancho"
+          latitude: 14.9
+          longitude: -87.95
+        -
+          name: "Armenta"
+          latitude: 15.5
+          longitude: -88.05
+        -
+          name: "Baja Mar"
+          latitude: 15.88851
+          longitude: -87.85547
+        -
+          name: "Baracoa"
+          latitude: 15.76667
+          longitude: -87.85
+        -
+          name: "Bejuco"
+          latitude: 15.13333
+          longitude: -87.93333
+        -
+          name: "Cañaveral"
+          latitude: 14.98333
+          longitude: -88.01667
+        -
+          name: "Casa Quemada"
+          latitude: 15.11667
+          longitude: -88.08333
+        -
+          name: "Chivana"
+          latitude: 15.75
+          longitude: -87.98333
+        -
+          name: "Choloma"
+          latitude: 15.64
+          longitude: -87.92
+        -
+          name: "Chotepe"
+          latitude: 15.41667
+          longitude: -87.98333
+        -
+          name: "Cofradía"
+          latitude: 15.4
+          longitude: -88.15
+        -
+          name: "Cuyamel"
+          latitude: 15.66667
+          longitude: -88.2
+        -
+          name: "El Llano"
+          latitude: 15.15
+          longitude: -87.88333
+        -
+          name: "El Marañón"
+          latitude: 15.4
+          longitude: -88.05
+        -
+          name: "El Milagro"
+          latitude: 15.4
+          longitude: -87.96667
+        -
+          name: "El Olivar"
+          latitude: 15.08333
+          longitude: -87.88333
+        -
+          name: "El Perico"
+          latitude: 15.08333
+          longitude: -88.1
+        -
+          name: "El Plan"
+          latitude: 15.28333
+          longitude: -87.96667
+        -
+          name: "El Porvenir"
+          latitude: 15.83333
+          longitude: -87.93333
+        -
+          name: "El Rancho"
+          latitude: 15.55441
+          longitude: -88.0234321
+        -
+          name: "El Tigre"
+          latitude: 14.93333
+          longitude: -87.98333
+        -
+          name: "El Zapotal del Norte"
+          latitude: 15.51667
+          longitude: -88.05
+        -
+          name: "La Guama"
+          latitude: 14.88333
+          longitude: -87.93333
+        -
+          name: "La Huesa"
+          latitude: 15.58333
+          longitude: -87.88333
+        -
+          name: "La Jutosa"
+          latitude: 15.63333
+          longitude: -88
+        -
+          name: "La Lima"
+          latitude: 15.43333
+          longitude: -87.91667
+        -
+          name: "La Sabana"
+          latitude: 15.36667
+          longitude: -87.93333
+        -
+          name: "Los Caminos"
+          latitude: 14.95
+          longitude: -87.96667
+        -
+          name: "Los Naranjos"
+          latitude: 14.9
+          longitude: -88.05
+        -
+          name: "Monterrey"
+          latitude: 15.5891283
+          longitude: -87.8816161
+        -
+          name: "Nuevo Chamelecón"
+          latitude: 15.38333
+          longitude: -88.01667
+        -
+          name: "Omoa"
+          latitude: 15.76667
+          longitude: -88.03333
+        -
+          name: "Oropéndolas"
+          latitude: 15.01667
+          longitude: -87.93333
+        -
+          name: "Peña Blanca"
+          latitude: 15.53333
+          longitude: -88.05
+        -
+          name: "Pimienta"
+          latitude: 15.265
+          longitude: -87.96667
+        -
+          name: "Pimienta Vieja"
+          latitude: 15.23333
+          longitude: -87.96667
+        -
+          name: "Potrerillos"
+          latitude: 15.21
+          longitude: -87.95
+        -
+          name: "Pueblo Nuevo"
+          latitude: 15.28333
+          longitude: -88.01667
+        -
+          name: "Puerto Alto"
+          latitude: 15.7
+          longitude: -87.86667
+        -
+          name: "Puerto Cortés"
+          latitude: 15.79
+          longitude: -87.849
+        -
+          name: "Puerto Cortez"
+          latitude: 15.82562
+          longitude: -87.92968
+        -
+          name: "Quebrada Seca"
+          latitude: 15.6597933
+          longitude: -87.9499981
+        -
+          name: "Río Blanquito"
+          latitude: 15.73333
+          longitude: -87.9
+        -
+          name: "Río Chiquito"
+          latitude: 15.63333
+          longitude: -88.25
+        -
+          name: "Río Lindo"
+          latitude: 15.03333
+          longitude: -87.98333
+        -
+          name: "San Antonio de Cortés"
+          latitude: 15.11667
+          longitude: -88.03333
+        -
+          name: "San Buenaventura"
+          latitude: 15.01667
+          longitude: -88
+        -
+          name: "San Francisco de Yojoa"
+          latitude: 15.01667
+          longitude: -87.96667
+        -
+          name: "San José del Boquerón"
+          latitude: 15.48333
+          longitude: -87.86667
+        -
+          name: "San Manuel"
+          latitude: 15.37279
+          longitude: -87.90167
+        -
+          name: "San Pedro Sula"
+          latitude: 15.50417
+          longitude: -88.025
+        -
+          name: "Santa Cruz de Yojoa"
+          latitude: 14.98333
+          longitude: -87.9
+        -
+          name: "Santa Elena"
+          latitude: 15.38333
+          longitude: -88.13333
+        -
+          name: "Travesía"
+          latitude: 15.86667
+          longitude: -87.9
+        -
+          name: "Villanueva"
+          latitude: 15.31667
+          longitude: -88
+    -
+      name: "El Paraíso"
+      code: "EP"
+      iso3166_2: "HN-EP"
+      type: "department"
+      latitude: 13.9619941
+      longitude: -86.5627921
+      cities:
+        -
+          name: "Alauca"
+          latitude: 13.8402
+          longitude: -86.69526
+        -
+          name: "Araulí"
+          latitude: 13.95
+          longitude: -86.55
+        -
+          name: "Cuyalí"
+          latitude: 13.88333
+          longitude: -86.55
+        -
+          name: "Danlí"
+          latitude: 14.03333
+          longitude: -86.58333
+        -
+          name: "El Benque"
+          latitude: 14.03333
+          longitude: -86.46667
+        -
+          name: "El Chichicaste"
+          latitude: 14.06667
+          longitude: -86.3
+        -
+          name: "El Obraje"
+          latitude: 14
+          longitude: -86.43333
+        -
+          name: "El Paraíso"
+          latitude: 13.85381
+          longitude: -86.53094
+        -
+          name: "Güinope"
+          latitude: 13.88333
+          longitude: -86.93333
+        -
+          name: "Jacaleapa"
+          latitude: 14.01667
+          longitude: -86.66667
+        -
+          name: "Jutiapa"
+          latitude: 13.98333
+          longitude: -86.4
+        -
+          name: "Las Ánimas"
+          latitude: 14.25
+          longitude: -86.56667
+        -
+          name: "Las Trojes"
+          latitude: 14.06667
+          longitude: -85.98333
+        -
+          name: "Liure"
+          latitude: 13.53583
+          longitude: -87.09194
+        -
+          name: "Morocelí"
+          latitude: 14.11667
+          longitude: -86.86667
+        -
+          name: "Municipio de Texiguat"
+          latitude: 13.66372
+          longitude: -87.03479
+        -
+          name: "Ojo de Agua"
+          latitude: 14.01667
+          longitude: -86.35
+        -
+          name: "Oropolí"
+          latitude: 13.81667
+          longitude: -86.81667
+        -
+          name: "Potrerillos"
+          latitude: 14.04478
+          longitude: -86.76201
+        -
+          name: "Quebrada Larga"
+          latitude: 14.1
+          longitude: -86.36667
+        -
+          name: "San Antonio de Flores"
+          latitude: 13.71089
+          longitude: -86.84226
+        -
+          name: "San Diego"
+          latitude: 14.05
+          longitude: -86.46667
+        -
+          name: "San Lucas"
+          latitude: 13.74586
+          longitude: -86.95163
+        -
+          name: "San Matías"
+          latitude: 13.95966
+          longitude: -86.64032
+        -
+          name: "Santa Cruz"
+          latitude: 13.86667
+          longitude: -86.63333
+        -
+          name: "Soledad"
+          latitude: 13.58333
+          longitude: -87.11667
+        -
+          name: "Teupasenti"
+          latitude: 14.21667
+          longitude: -86.7
+        -
+          name: "Texíguat"
+          latitude: 13.64972
+          longitude: -87.0225
+        -
+          name: "Trojes"
+          latitude: 14.05966
+          longitude: -86.00166
+        -
+          name: "Vado Ancho"
+          latitude: 13.64355
+          longitude: -86.95546
+        -
+          name: "Yauyupe"
+          latitude: 13.74867
+          longitude: -87.0761
+        -
+          name: "Yuscarán"
+          latitude: 13.95708
+          longitude: -86.8317
+    -
+      name: "Francisco Morazán"
+      code: "FM"
+      iso3166_2: "HN-FM"
+      type: "department"
+      latitude: 14.3430478
+      longitude: -87.1141957
+      cities:
+        -
+          name: "Agalteca"
+          latitude: 14.45
+          longitude: -87.26667
+        -
+          name: "Alubarén"
+          latitude: 13.78226
+          longitude: -87.4699
+        -
+          name: "Cedros"
+          latitude: 14.50464
+          longitude: -87.2168
+        -
+          name: "Cerro Grande"
+          latitude: 13.81667
+          longitude: -87.25
+        -
+          name: "Cofradía"
+          latitude: 14.21667
+          longitude: -87.18333
+        -
+          name: "Curarén"
+          latitude: 13.83
+          longitude: -87.57
+        -
+          name: "Distrito Central"
+          latitude: 14.14975
+          longitude: -87.24806
+        -
+          name: "El Chimbo"
+          latitude: 14.13333
+          longitude: -87.11667
+        -
+          name: "El Escanito"
+          latitude: 14.66667
+          longitude: -87.1
+        -
+          name: "El Escaño de Tepale"
+          latitude: 14.75
+          longitude: -87.06667
+        -
+          name: "El Guante"
+          latitude: 14.55
+          longitude: -87.1
+        -
+          name: "El Guantillo"
+          latitude: 14.6
+          longitude: -87.3
+        -
+          name: "El Guapinol"
+          latitude: 13.76667
+          longitude: -87.46667
+        -
+          name: "El Lolo"
+          latitude: 14.11667
+          longitude: -87.26667
+        -
+          name: "El Pedernal"
+          latitude: 14.7
+          longitude: -87.11667
+        -
+          name: "El Porvenir"
+          latitude: 14.72009
+          longitude: -87.21039
+        -
+          name: "El Suyatal"
+          latitude: 14.51667
+          longitude: -87.21667
+        -
+          name: "El Tablón"
+          latitude: 14.03333
+          longitude: -87.16667
+        -
+          name: "El Terrero"
+          latitude: 14.06667
+          longitude: -87.06667
+        -
+          name: "Guaimaca"
+          latitude: 14.53333
+          longitude: -86.81667
+        -
+          name: "La Ermita"
+          latitude: 14.46667
+          longitude: -87.06667
+        -
+          name: "La Libertad"
+          latitude: 13.70662
+          longitude: -87.50421
+        -
+          name: "La Venta"
+          latitude: 13.73113
+          longitude: -87.32874
+        -
+          name: "Lepaterique"
+          latitude: 14.0559
+          longitude: -87.47908
+        -
+          name: "Maraita"
+          latitude: 13.87197
+          longitude: -87.05633
+        -
+          name: "Marale"
+          latitude: 14.94113
+          longitude: -87.09892
+        -
+          name: "Mata de Plátano"
+          latitude: 14.6
+          longitude: -87.28333
+        -
+          name: "Mateo"
+          latitude: 14.08333
+          longitude: -87.31667
+        -
+          name: "Nueva Armenia"
+          latitude: 13.75
+          longitude: -87.15307
+        -
+          name: "Ojojona"
+          latitude: 13.93389
+          longitude: -87.29583
+        -
+          name: "Orica"
+          latitude: 14.80645
+          longitude: -86.9576
+        -
+          name: "Quebradas"
+          latitude: 14.5
+          longitude: -87.35
+        -
+          name: "Reitoca"
+          latitude: 13.82583
+          longitude: -87.46528
+        -
+          name: "Río Abajo"
+          latitude: 14.16667
+          longitude: -87.21667
+        -
+          name: "Sabanagrande"
+          latitude: 13.80778
+          longitude: -87.25917
+        -
+          name: "San Antonio de Oriente"
+          latitude: 14.03859
+          longitude: -86.98951
+        -
+          name: "San Buenaventura"
+          latitude: 13.891
+          longitude: -87.18554
+        -
+          name: "San Ignacio"
+          latitude: 14.73795
+          longitude: -87.04759
+        -
+          name: "San Juan de Flores"
+          latitude: 14.26667
+          longitude: -87.03333
+        -
+          name: "San Miguelito"
+          latitude: 13.74572
+          longitude: -87.49233
+        -
+          name: "Santa Ana"
+          latitude: 13.94
+          longitude: -87.21
+        -
+          name: "Santa Lucía"
+          latitude: 14.12595
+          longitude: -87.09175
+        -
+          name: "Talanga"
+          latitude: 14.41393
+          longitude: -87.06941
+        -
+          name: "Támara"
+          latitude: 14.15
+          longitude: -87.33333
+        -
+          name: "Tatumbla"
+          latitude: 13.98467
+          longitude: -87.06977
+        -
+          name: "Tegucigalpa"
+          latitude: 14.0818
+          longitude: -87.20681
+        -
+          name: "Valle de Ángeles"
+          latitude: 14.15
+          longitude: -87.03333
+        -
+          name: "Vallecillo"
+          latitude: 14.51313
+          longitude: -87.40242
+        -
+          name: "Villa de San Francisco"
+          latitude: 14.16667
+          longitude: -86.96667
+        -
+          name: "Villa Nueva"
+          latitude: 14.03333
+          longitude: -87.13333
+        -
+          name: "Yaguacire"
+          latitude: 14.01667
+          longitude: -87.21667
+        -
+          name: "Zambrano"
+          latitude: 14.26667
+          longitude: -87.4
+    -
+      name: "Gracias a Dios"
+      code: "GD"
+      iso3166_2: "HN-GD"
+      type: "department"
+      latitude: 15.4333305
+      longitude: -84.148687
+      cities:
+        -
+          name: "Ahuas"
+          latitude: 15.46923
+          longitude: -84.34479
+        -
+          name: "Auas"
+          latitude: 15.48333
+          longitude: -84.33333
+        -
+          name: "Auka"
+          latitude: 14.94087
+          longitude: -83.83229
+        -
+          name: "Barra Patuca"
+          latitude: 15.8
+          longitude: -84.28333
+        -
+          name: "Brus Laguna"
+          latitude: 15.75
+          longitude: -84.48333
+        -
+          name: "Iralaya"
+          latitude: 15
+          longitude: -83.23333
+        -
+          name: "Juan Francisco Bulnes"
+          latitude: 15.91676
+          longitude: -84.9099
+        -
+          name: "Paptalaya"
+          latitude: 15.5
+          longitude: -84.31667
+        -
+          name: "Puerto Lempira"
+          latitude: 15.26667
+          longitude: -83.77222
+        -
+          name: "Villeda Morales"
+          latitude: 15.08472
+          longitude: -83.35361
+        -
+          name: "Wampusirpi"
+          latitude: 15.18333
+          longitude: -84.61667
+        -
+          name: "Wawina"
+          latitude: 15.41667
+          longitude: -84.43333
+    -
+      name: "Intibucá"
+      code: "IN"
+      iso3166_2: "HN-IN"
+      type: "department"
+      latitude: 14.3121375
+      longitude: -88.1780847
+      cities:
+        -
+          name: "Camasca"
+          latitude: 14
+          longitude: -88.38333
+        -
+          name: "Colomoncagua"
+          latitude: 13.97245
+          longitude: -88.27673
+        -
+          name: "Concepción"
+          latitude: 14.04725
+          longitude: -88.31942
+        -
+          name: "Dolores"
+          latitude: 14.26188
+          longitude: -88.35787
+        -
+          name: "Intibucá"
+          latitude: 14.43
+          longitude: -88.17
+        -
+          name: "Jesús de Otoro"
+          latitude: 14.48333
+          longitude: -87.98333
+        -
+          name: "Jiquinlaca"
+          latitude: 14
+          longitude: -88.35
+        -
+          name: "La Esperanza"
+          latitude: 14.31111
+          longitude: -88.18056
+        -
+          name: "Magdalena"
+          latitude: 13.92452
+          longitude: -88.36675
+        -
+          name: "Masaguara"
+          latitude: 14.40428
+          longitude: -87.98247
+        -
+          name: "San Antonio"
+          latitude: 13.95043
+          longitude: -88.46493
+        -
+          name: "San Francisco de Opalaca"
+          latitude: 14.58441
+          longitude: -88.30253
+        -
+          name: "San Isidro"
+          latitude: 14.56763
+          longitude: -88.11743
+        -
+          name: "San Juan"
+          latitude: 14.42127
+          longitude: -88.41953
+        -
+          name: "San Marcos de la Sierra"
+          latitude: 14.13236
+          longitude: -88.2469
+        -
+          name: "San Miguelito"
+          latitude: 14.34875
+          longitude: -88.33983
+        -
+          name: "Santa Lucía"
+          latitude: 13.90812
+          longitude: -88.41566
+        -
+          name: "Yamaranguila"
+          latitude: 14.26826
+          longitude: -88.24652
+    -
+      name: "La Paz"
+      code: "LP"
+      iso3166_2: "HN-LP"
+      type: "department"
+      latitude: 14.1284089
+      longitude: -87.9615276
+      cities:
+        -
+          name: "Aguanqueterique"
+          latitude: 13.98606
+          longitude: -87.64622
+        -
+          name: "Cabañas"
+          latitude: 13.99419
+          longitude: -88.02864
+        -
+          name: "Cane"
+          latitude: 14.28333
+          longitude: -87.66667
+        -
+          name: "Chinacla"
+          latitude: 14.18289
+          longitude: -87.95395
+        -
+          name: "Guajiquiro"
+          latitude: 14.06982
+          longitude: -87.77451
+        -
+          name: "La Paz"
+          latitude: 14.31944
+          longitude: -87.67917
+        -
+          name: "Lauterique"
+          latitude: 13.86425
+          longitude: -87.65792
+        -
+          name: "Los Planes"
+          latitude: 14.05
+          longitude: -88.01667
+        -
+          name: "Marcala"
+          latitude: 14.14845
+          longitude: -88.02405
+        -
+          name: "Mercedes de Oriente"
+          latitude: 13.90937
+          longitude: -87.77795
+        -
+          name: "Opatoro"
+          latitude: 14.02451
+          longitude: -87.87982
+        -
+          name: "San Antonio del Norte"
+          latitude: 13.88
+          longitude: -87.72
+        -
+          name: "San José"
+          latitude: 14.22642
+          longitude: -87.96238
+        -
+          name: "San Juan"
+          latitude: 13.95428
+          longitude: -87.72948
+        -
+          name: "San Pedro de Tutule"
+          latitude: 14.25
+          longitude: -87.85
+        -
+          name: "Santa Ana"
+          latitude: 14.00011
+          longitude: -87.94107
+        -
+          name: "Santa Elena"
+          latitude: 14.07149
+          longitude: -88.15445
+        -
+          name: "Santa María"
+          latitude: 14.26904
+          longitude: -87.91164
+        -
+          name: "Santiago Puringla"
+          latitude: 14.35
+          longitude: -87.9
+        -
+          name: "Tepanguare"
+          latitude: 14.33333
+          longitude: -87.75
+        -
+          name: "Yarula"
+          latitude: 14.1
+          longitude: -88.08
+        -
+          name: "Yarumela"
+          latitude: 14.33333
+          longitude: -87.63333
+    -
+      name: "Lempira"
+      code: "LE"
+      iso3166_2: "HN-LE"
+      type: "department"
+      latitude: 14.4556602
+      longitude: -88.6188558
+      cities:
+        -
+          name: "Belén"
+          latitude: 14.50834
+          longitude: -88.42819
+        -
+          name: "Candelaria"
+          latitude: 14.06072
+          longitude: -88.55913
+        -
+          name: "Cololaca"
+          latitude: 14.31189
+          longitude: -88.8772
+        -
+          name: "El Achiotal"
+          latitude: 14.08333
+          longitude: -88.75
+        -
+          name: "Erandique"
+          latitude: 14.23333
+          longitude: -88.46667
+        -
+          name: "Gracias"
+          latitude: 14.59028
+          longitude: -88.58194
+        -
+          name: "Gualcince"
+          latitude: 14.12869
+          longitude: -88.56812
+        -
+          name: "Guarita"
+          latitude: 14.20784
+          longitude: -88.85161
+        -
+          name: "La Campa"
+          latitude: 14.4728
+          longitude: -88.5609
+        -
+          name: "La Iguala"
+          latitude: 14.66441
+          longitude: -88.4636
+        -
+          name: "La Libertad"
+          latitude: 14.8
+          longitude: -88.58333
+        -
+          name: "La Unión"
+          latitude: 14.81667
+          longitude: -88.4
+        -
+          name: "La Virtud"
+          latitude: 14.07156
+          longitude: -88.68584
+        -
+          name: "Las Flores"
+          latitude: 14.6793
+          longitude: -88.6504
+        -
+          name: "Las Tejeras"
+          latitude: 14.8
+          longitude: -88.6
+        -
+          name: "Lepaera"
+          latitude: 14.78333
+          longitude: -88.58333
+        -
+          name: "Mapulaca"
+          latitude: 14.04293
+          longitude: -88.6244
+        -
+          name: "Piraera"
+          latitude: 14.06261
+          longitude: -88.46319
+        -
+          name: "San Andrés"
+          latitude: 14.21968
+          longitude: -88.54981
+        -
+          name: "San Francisco"
+          latitude: 14.12435
+          longitude: -88.37189
+        -
+          name: "San Juan Guarita"
+          latitude: 14.15492
+          longitude: -88.77477
+        -
+          name: "San Manuel Colohete"
+          latitude: 14.44435
+          longitude: -88.6705
+        -
+          name: "San Marcos de Caiquin"
+          latitude: 14.41614
+          longitude: -88.60126
+        -
+          name: "San Rafael"
+          latitude: 14.73333
+          longitude: -88.41667
+        -
+          name: "San Sebastián"
+          latitude: 14.34594
+          longitude: -88.73487
+        -
+          name: "Santa Cruz"
+          latitude: 14.34427
+          longitude: -88.52684
+        -
+          name: "Talgua"
+          latitude: 14.6811
+          longitude: -88.728
+        -
+          name: "Tambla"
+          latitude: 14.21276
+          longitude: -88.76768
+        -
+          name: "Taragual"
+          latitude: 14.75
+          longitude: -88.48333
+        -
+          name: "Tomalá"
+          latitude: 14.2433
+          longitude: -88.7314
+        -
+          name: "Valladolid"
+          latitude: 14.1471
+          longitude: -88.7084
+        -
+          name: "Virginia"
+          latitude: 14.00522
+          longitude: -88.56193
+    -
+      name: "Ocotepeque"
+      code: "OC"
+      iso3166_2: "HN-OC"
+      type: "department"
+      latitude: 14.4759433
+      longitude: -89.0365633
+      cities:
+        -
+          name: "Antigua Ocotepeque"
+          latitude: 14.4
+          longitude: -89.2
+        -
+          name: "Belén Gualcho"
+          latitude: 14.48333
+          longitude: -88.8
+        -
+          name: "Concepción"
+          latitude: 14.52383
+          longitude: -89.19371
+        -
+          name: "Dolores Merendón"
+          latitude: 14.55095
+          longitude: -89.12493
+        -
+          name: "El Tránsito"
+          latitude: 14.38333
+          longitude: -88.91667
+        -
+          name: "Fraternidad"
+          latitude: 14.58087
+          longitude: -89.0774
+        -
+          name: "La Encarnación"
+          latitude: 14.66667
+          longitude: -89.04742
+        -
+          name: "La Labor"
+          latitude: 14.48333
+          longitude: -89
+        -
+          name: "Lucerna"
+          latitude: 14.55
+          longitude: -88.93333
+        -
+          name: "Mercedes"
+          latitude: 14.31667
+          longitude: -88.98333
+        -
+          name: "Nueva Ocotepeque"
+          latitude: 14.43333
+          longitude: -89.18333
+        -
+          name: "San Fernando"
+          latitude: 14.68793
+          longitude: -89.10153
+        -
+          name: "San Francisco de Cones"
+          latitude: 14.51667
+          longitude: -88.9
+        -
+          name: "San Francisco del Valle"
+          latitude: 14.43333
+          longitude: -88.95
+        -
+          name: "San Jorge"
+          latitude: 14.63697
+          longitude: -89.1186
+        -
+          name: "San Marcos"
+          latitude: 14.38
+          longitude: -88.92
+        -
+          name: "Santa Fe"
+          latitude: 14.50038
+          longitude: -89.2732
+        -
+          name: "Santa Lucía"
+          latitude: 14.41667
+          longitude: -89.2
+        -
+          name: "Sensenti"
+          latitude: 14.48333
+          longitude: -88.93333
+        -
+          name: "Sinuapa"
+          latitude: 14.45
+          longitude: -89.18333
+        -
+          name: "Yaruchel"
+          latitude: 14.53333
+          longitude: -88.81667
+    -
+      name: "Olancho"
+      code: "OL"
+      iso3166_2: "HN-OL"
+      type: "department"
+      latitude: 14.8211028
+      longitude: -85.9549881
+      cities:
+        -
+          name: "Arimís"
+          latitude: 14.78333
+          longitude: -86
+        -
+          name: "Campamento"
+          latitude: 14.55
+          longitude: -86.65
+        -
+          name: "Catacamas"
+          latitude: 14.60384
+          longitude: -85.54261
+        -
+          name: "Concordia"
+          latitude: 14.61667
+          longitude: -86.65
+        -
+          name: "Dulce Nombre de Culmí"
+          latitude: 15.1
+          longitude: -85.53333
+        -
+          name: "El Guayabito"
+          latitude: 14.83333
+          longitude: -86.03333
+        -
+          name: "El Rosario"
+          latitude: 14.8872
+          longitude: -86.68764
+        -
+          name: "El Rusio"
+          latitude: 14.46667
+          longitude: -86.36667
+        -
+          name: "Esquipulas del Norte"
+          latitude: 15.27763
+          longitude: -86.5576
+        -
+          name: "Gualaco"
+          latitude: 15.02521
+          longitude: -86.07076
+        -
+          name: "Guarizama"
+          latitude: 14.91667
+          longitude: -86.33333
+        -
+          name: "Guata"
+          latitude: 15.15133
+          longitude: -86.37624
+        -
+          name: "Guayape"
+          latitude: 14.71667
+          longitude: -86.83333
+        -
+          name: "Jano"
+          latitude: 15.07902
+          longitude: -86.51521
+        -
+          name: "Juticalpa"
+          latitude: 14.66667
+          longitude: -86.21944
+        -
+          name: "Jutiquile"
+          latitude: 14.71667
+          longitude: -86.08333
+        -
+          name: "La Concepción"
+          latitude: 14.7
+          longitude: -86.23333
+        -
+          name: "La Estancia"
+          latitude: 15.05
+          longitude: -86.35
+        -
+          name: "La Guata"
+          latitude: 15.08333
+          longitude: -86.38333
+        -
+          name: "La Unión"
+          latitude: 15.09759
+          longitude: -86.6891
+        -
+          name: "Laguna Seca"
+          latitude: 14.7
+          longitude: -86.1
+        -
+          name: "Mangulile"
+          latitude: 15.06667
+          longitude: -86.8
+        -
+          name: "Manto"
+          latitude: 14.91667
+          longitude: -86.38333
+        -
+          name: "Municipio de San Francisco de La Paz"
+          latitude: 14.84183
+          longitude: -86.11819
+        -
+          name: "Patuca"
+          latitude: 14.36
+          longitude: -85.97
+        -
+          name: "Punuare"
+          latitude: 14.73333
+          longitude: -85.96667
+        -
+          name: "Salamá"
+          latitude: 14.81052
+          longitude: -86.61996
+        -
+          name: "San Esteban"
+          latitude: 15.29467
+          longitude: -85.69487
+        -
+          name: "San Francisco de Becerra"
+          latitude: 14.63333
+          longitude: -86.1
+        -
+          name: "San Francisco de la Paz"
+          latitude: 14.9
+          longitude: -86.2
+        -
+          name: "San José de Río Tinto"
+          latitude: 14.93333
+          longitude: -85.7
+        -
+          name: "San Nicolás"
+          latitude: 14.55
+          longitude: -86.25
+        -
+          name: "Santa María del Real"
+          latitude: 14.76667
+          longitude: -85.95
+        -
+          name: "Silca"
+          latitude: 14.76205
+          longitude: -86.51521
+        -
+          name: "Yocón"
+          latitude: 14.95
+          longitude: -86.82
+        -
+          name: "Zopilotepe"
+          latitude: 14.6
+          longitude: -86.26667
+    -
+      name: "Santa Bárbara"
+      code: "SB"
+      iso3166_2: "HN-SB"
+      type: "department"
+      latitude: 15.0960558
+      longitude: -88.3673692
+      cities:
+        -
+          name: "Agualote"
+          latitude: 15.33528
+          longitude: -88.55306
+        -
+          name: "Arada"
+          latitude: 14.85
+          longitude: -88.3
+        -
+          name: "Atima"
+          latitude: 14.93333
+          longitude: -88.48333
+        -
+          name: "Azacualpa"
+          latitude: 14.71667
+          longitude: -88.1
+        -
+          name: "Berlín"
+          latitude: 14.83333
+          longitude: -88.5
+        -
+          name: "Callejones"
+          latitude: 15.16667
+          longitude: -88.65
+        -
+          name: "Camalote"
+          latitude: 15.33333
+          longitude: -88.33333
+        -
+          name: "Casa Quemada"
+          latitude: 15.26667
+          longitude: -88.55
+        -
+          name: "Ceguaca"
+          latitude: 14.8
+          longitude: -88.2
+        -
+          name: "Chinda"
+          latitude: 15.11667
+          longitude: -88.2
+        -
+          name: "Concepción del Norte"
+          latitude: 15.20227
+          longitude: -88.13728
+        -
+          name: "Concepción del Sur"
+          latitude: 14.81263
+          longitude: -88.15316
+        -
+          name: "Correderos"
+          latitude: 15.41667
+          longitude: -88.45
+        -
+          name: "El Ciruelo"
+          latitude: 15.3
+          longitude: -88.5
+        -
+          name: "El Corozal"
+          latitude: 15.06667
+          longitude: -88.61667
+        -
+          name: "El Mochito"
+          latitude: 14.86667
+          longitude: -88.08333
+        -
+          name: "El Níspero"
+          latitude: 14.75957
+          longitude: -88.34438
+        -
+          name: "Guacamaya"
+          latitude: 15.01667
+          longitude: -88.15
+        -
+          name: "Gualala"
+          latitude: 14.98
+          longitude: -88.17
+        -
+          name: "Gualjoco"
+          latitude: 14.95
+          longitude: -88.23333
+        -
+          name: "Ilama"
+          latitude: 15.06667
+          longitude: -88.21667
+        -
+          name: "Joconal"
+          latitude: 15.35444
+          longitude: -88.63556
+        -
+          name: "La Flecha"
+          latitude: 15.28333
+          longitude: -88.48333
+        -
+          name: "Laguna Verde"
+          latitude: 15.2
+          longitude: -88.16667
+        -
+          name: "Las Vegas"
+          latitude: 14.86636
+          longitude: -88.07233
+        -
+          name: "Las Vegas Santa Barbara"
+          latitude: 14.87649
+          longitude: -88.07473
+        -
+          name: "Loma Alta"
+          latitude: 15.39667
+          longitude: -88.55972
+        -
+          name: "Macuelizo"
+          latitude: 15.26
+          longitude: -88.66
+        -
+          name: "Naco"
+          latitude: 15.38333
+          longitude: -88.18333
+        -
+          name: "Naranjito"
+          latitude: 14.95
+          longitude: -88.68333
+        -
+          name: "Nueva Frontera"
+          latitude: 15.21
+          longitude: -88.56
+        -
+          name: "Nueva Jalapa"
+          latitude: 14.91667
+          longitude: -88.33333
+        -
+          name: "Nuevo Celilac"
+          latitude: 14.97554
+          longitude: -88.36726
+        -
+          name: "Petoa"
+          latitude: 15.26667
+          longitude: -88.28333
+        -
+          name: "Pinalejo"
+          latitude: 15.38333
+          longitude: -88.4
+        -
+          name: "Protección"
+          latitude: 15.03333
+          longitude: -88.65
+        -
+          name: "Quimistán"
+          latitude: 15.35
+          longitude: -88.4
+        -
+          name: "San Francisco de Ojuera"
+          latitude: 14.67
+          longitude: -88.21
+        -
+          name: "San José de Colinas"
+          latitude: 15.03333
+          longitude: -88.3
+        -
+          name: "San José de Tarros"
+          latitude: 15.3
+          longitude: -88.7
+        -
+          name: "San Luis"
+          latitude: 15.08333
+          longitude: -88.38333
+        -
+          name: "San Luis de Planes"
+          latitude: 14.98333
+          longitude: -88.13333
+        -
+          name: "San Marcos"
+          latitude: 15.3
+          longitude: -88.41667
+        -
+          name: "San Nicolás"
+          latitude: 14.91913
+          longitude: -88.3791
+        -
+          name: "San Pedro Zacapa"
+          latitude: 14.75
+          longitude: -88.11667
+        -
+          name: "San Vicente Centenario"
+          latitude: 14.88333
+          longitude: -88.28333
+        -
+          name: "Santa Bárbara"
+          latitude: 14.91944
+          longitude: -88.23611
+        -
+          name: "Santa Rita"
+          latitude: 14.76015
+          longitude: -88.26782
+        -
+          name: "Sula"
+          latitude: 15.25
+          longitude: -88.56667
+        -
+          name: "Tras Cerros"
+          latitude: 15.3
+          longitude: -88.66667
+        -
+          name: "Trinidad"
+          latitude: 15.13333
+          longitude: -88.23333
+    -
+      name: "Valle"
+      code: "VA"
+      iso3166_2: "HN-VA"
+      type: "department"
+      latitude: 13.5110996
+      longitude: -87.5472925
+      cities:
+        -
+          name: "Agua Fría"
+          latitude: 13.46889
+          longitude: -87.55111
+        -
+          name: "Alianza"
+          latitude: 13.44815
+          longitude: -87.68643
+        -
+          name: "Amapala"
+          latitude: 13.29222
+          longitude: -87.65389
+        -
+          name: "Aramecina"
+          latitude: 13.74222
+          longitude: -87.71028
+        -
+          name: "Caridad"
+          latitude: 13.81562
+          longitude: -87.68121
+        -
+          name: "El Cubolero"
+          latitude: 13.46667
+          longitude: -87.66667
+        -
+          name: "El Tular"
+          latitude: 13.46639
+          longitude: -87.51528
+        -
+          name: "Goascorán"
+          latitude: 13.58333
+          longitude: -87.61667
+        -
+          name: "Jícaro Galán"
+          latitude: 13.53167
+          longitude: -87.43889
+        -
+          name: "La Alianza"
+          latitude: 13.51222
+          longitude: -87.72444
+        -
+          name: "La Criba"
+          latitude: 13.45361
+          longitude: -87.41333
+        -
+          name: "Langue"
+          latitude: 13.62083
+          longitude: -87.6525
+        -
+          name: "Nacaome"
+          latitude: 13.52209
+          longitude: -87.52477
+        -
+          name: "San Francisco de Coray"
+          latitude: 13.66139
+          longitude: -87.53278
+        -
+          name: "San Lorenzo"
+          latitude: 13.45149
+          longitude: -87.40743
+    -
+      name: "Yoro"
+      code: "YO"
+      iso3166_2: "HN-YO"
+      type: "department"
+      latitude: 15.2994474
+      longitude: -87.2916981
+      cities:
+        -
+          name: "Agua Blanca Sur"
+          latitude: 15.25
+          longitude: -87.88333
+        -
+          name: "Arenal"
+          latitude: 15.35
+          longitude: -86.83333
+        -
+          name: "Armenia"
+          latitude: 15.46667
+          longitude: -86.36667
+        -
+          name: "Ayapa"
+          latitude: 15.11174
+          longitude: -87.17557
+        -
+          name: "Bálsamo Oriental"
+          latitude: 15.48333
+          longitude: -86.33333
+        -
+          name: "Carbajales"
+          latitude: 15.51667
+          longitude: -86.35
+        -
+          name: "Coyoles Central"
+          latitude: 15.4
+          longitude: -86.66667
+        -
+          name: "El Bálsamo"
+          latitude: 15.06667
+          longitude: -87.46667
+        -
+          name: "El Juncal"
+          latitude: 15.45
+          longitude: -86.43333
+        -
+          name: "El Negrito"
+          latitude: 15.31667
+          longitude: -87.7
+        -
+          name: "El Ocote"
+          latitude: 15.41667
+          longitude: -86.56667
+        -
+          name: "El Progreso"
+          latitude: 15.42762
+          longitude: -87.77396
+        -
+          name: "Guaimitas"
+          latitude: 15.5
+          longitude: -87.71667
+        -
+          name: "Jocón"
+          latitude: 15.28333
+          longitude: -86.96667
+        -
+          name: "La Estancia"
+          latitude: 15.28333
+          longitude: -87.55
+        -
+          name: "La Guacamaya"
+          latitude: 15.25
+          longitude: -87.8
+        -
+          name: "La Mina"
+          latitude: 15.31667
+          longitude: -87.83333
+        -
+          name: "La Rosa"
+          latitude: 15.35
+          longitude: -87.06667
+        -
+          name: "La Sarrosa"
+          latitude: 15.23333
+          longitude: -87.83333
+        -
+          name: "La Trinidad"
+          latitude: 15.1
+          longitude: -87.2
+        -
+          name: "Las Vegas"
+          latitude: 15.01667
+          longitude: -87.45
+        -
+          name: "Lomitas"
+          latitude: 15.1
+          longitude: -87.21667
+        -
+          name: "Mojimán"
+          latitude: 15.26667
+          longitude: -87.6
+        -
+          name: "Morazán"
+          latitude: 15.31667
+          longitude: -87.6
+        -
+          name: "Nombre de Jesús"
+          latitude: 15.35
+          longitude: -86.68333
+        -
+          name: "Nueva Esperanza"
+          latitude: 15.2625391
+          longitude: -87.5957212
+        -
+          name: "Ocote Paulino"
+          latitude: 15.41667
+          longitude: -87.6
+        -
+          name: "Olanchito"
+          latitude: 15.48131
+          longitude: -86.57415
+        -
+          name: "Paujiles"
+          latitude: 15.1
+          longitude: -87.35
+        -
+          name: "Punta Ocote"
+          latitude: 15.2
+          longitude: -87.28333
+        -
+          name: "San Antonio"
+          latitude: 15.33333
+          longitude: -87.15
+        -
+          name: "San José"
+          latitude: 15.31667
+          longitude: -87.16667
+        -
+          name: "Santa Rita"
+          latitude: 15.18
+          longitude: -87.81
+        -
+          name: "Subirana"
+          latitude: 15.2
+          longitude: -87.45
+        -
+          name: "Sulaco"
+          latitude: 14.91667
+          longitude: -87.26667
+        -
+          name: "Teguajinal"
+          latitude: 15.36667
+          longitude: -86.6
+        -
+          name: "Tepusteca"
+          latitude: 15.41667
+          longitude: -86.31667
+        -
+          name: "Toyós"
+          latitude: 15.55
+          longitude: -87.65
+        -
+          name: "Trojas"
+          latitude: 15.35
+          longitude: -86.7
+        -
+          name: "Victoria"
+          latitude: 15.10012
+          longitude: -87.5302
+        -
+          name: "Yorito"
+          latitude: 15.06667
+          longitude: -87.28333
+        -
+          name: "Yoro"
+          latitude: 15.1375
+          longitude: -87.12778

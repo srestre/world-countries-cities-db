@@ -1,0 +1,691 @@
+-
+  name: "Luxembourg"
+  name_es: "Luxemburgo"
+  native: "Luxembourg"
+  iso2: "LU"
+  iso3: "LUX"
+  numeric_code: "442"
+  phonecode: "352"
+  capital: "Luxembourg"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".lu"
+  region: "Europe"
+  subregion: "Western Europe"
+  latitude: 49.75
+  longitude: 6.16666666
+  emoji: "🇱🇺"
+  states:
+    -
+      name: "Capellen"
+      code: "CA"
+      iso3166_2: "LU-CA"
+      type: "canton"
+      latitude: 49.6424353
+      longitude: 5.9805893
+      cities:
+        -
+          name: "Bascharage"
+          latitude: 49.56727
+          longitude: 5.9073
+        -
+          name: "Bridel"
+          latitude: 49.65579
+          longitude: 6.07999
+        -
+          name: "Capellen"
+          latitude: 49.645
+          longitude: 5.99083
+        -
+          name: "Clemency"
+          latitude: 49.59667
+          longitude: 5.87583
+        -
+          name: "Dippach"
+          latitude: 49.58701
+          longitude: 5.9833
+        -
+          name: "Eischen"
+          latitude: 49.68556
+          longitude: 5.87861
+        -
+          name: "Garnich"
+          latitude: 49.61667
+          longitude: 5.9525
+        -
+          name: "Hautcharage"
+          latitude: 49.57499
+          longitude: 5.9097
+        -
+          name: "Hobscheid"
+          latitude: 49.68861
+          longitude: 5.91472
+        -
+          name: "Käerjeng"
+          latitude: 49.58311
+          longitude: 5.89892
+        -
+          name: "Kehlen"
+          latitude: 49.66833
+          longitude: 6.03583
+        -
+          name: "Koerich"
+          latitude: 49.67
+          longitude: 5.95
+        -
+          name: "Kopstal"
+          latitude: 49.66444
+          longitude: 6.07306
+        -
+          name: "Mamer"
+          latitude: 49.6275
+          longitude: 6.02333
+        -
+          name: "Schouweiler"
+          latitude: 49.5825
+          longitude: 5.95639
+        -
+          name: "Septfontaines"
+          latitude: 49.70111
+          longitude: 5.96722
+        -
+          name: "Steinfort"
+          latitude: 49.66139
+          longitude: 5.91917
+    -
+      name: "Clervaux"
+      code: "CL"
+      iso3166_2: "LU-CL"
+      type: "canton"
+      latitude: 50.0546313
+      longitude: 6.0285875
+      cities:
+        -
+          name: "Clervaux"
+          latitude: 50.05472
+          longitude: 6.03139
+        -
+          name: "Hosingen"
+          latitude: 50.01218
+          longitude: 6.09089
+        -
+          name: "Parc Hosingen"
+          latitude: 49.99744
+          longitude: 6.09067
+        -
+          name: "Troisvierges"
+          latitude: 50.12111
+          longitude: 6.00028
+        -
+          name: "Weiswampach"
+          latitude: 50.13722
+          longitude: 6.075
+        -
+          name: "Wincrange"
+          latitude: 50.05333
+          longitude: 5.91917
+    -
+      name: "Diekirch"
+      code: "DI"
+      iso3166_2: "LU-DI"
+      type: "canton"
+      latitude: 49.8671784
+      longitude: 6.1595633
+      cities:
+        -
+          name: "Bettendorf"
+          latitude: 49.87667
+          longitude: 6.21806
+        -
+          name: "Bourscheid"
+          latitude: 49.90862
+          longitude: 6.0675
+        -
+          name: "Commune de la Vallée de l’Ernz"
+          latitude: 49.82149
+          longitude: 6.21746
+        -
+          name: "Diekirch"
+          latitude: 49.86778
+          longitude: 6.15583
+        -
+          name: "Erpeldange"
+          latitude: 49.86472
+          longitude: 6.11472
+        -
+          name: "Ettelbruck"
+          latitude: 49.8475
+          longitude: 6.10417
+        -
+          name: "Feulen"
+          latitude: 49.85
+          longitude: 6.01667
+        -
+          name: "Medernach"
+          latitude: 49.80955
+          longitude: 6.21521
+        -
+          name: "Mertzig"
+          latitude: 49.83389
+          longitude: 6.0075
+        -
+          name: "Niederfeulen"
+          latitude: 49.85556
+          longitude: 6.04722
+        -
+          name: "Reisdorf"
+          latitude: 49.86861
+          longitude: 6.26778
+        -
+          name: "Schieren"
+          latitude: 49.83056
+          longitude: 6.09861
+        -
+          name: "Warken"
+          latitude: 49.85918
+          longitude: 6.08415
+    -
+      name: "Echternach"
+      code: "EC"
+      iso3166_2: "LU-EC"
+      type: "canton"
+      latitude: 49.8114133
+      longitude: 6.4175635
+      cities:
+        -
+          name: "Beaufort"
+          latitude: 49.83583
+          longitude: 6.29167
+        -
+          name: "Bech"
+          latitude: 49.7526
+          longitude: 6.36379
+        -
+          name: "Berdorf"
+          latitude: 49.82051
+          longitude: 6.34945
+        -
+          name: "Consdorf"
+          latitude: 49.78018
+          longitude: 6.3395
+        -
+          name: "Echternach"
+          latitude: 49.81212
+          longitude: 6.41846
+        -
+          name: "Mompach"
+          latitude: 49.74611
+          longitude: 6.465
+        -
+          name: "Rosport"
+          latitude: 49.8047
+          longitude: 6.50532
+        -
+          name: "Waldbillig"
+          latitude: 49.79636
+          longitude: 6.28431
+    -
+      name: "Esch-sur-Alzette"
+      code: "ES"
+      iso3166_2: "LU-ES"
+      type: "canton"
+      latitude: 49.5008805
+      longitude: 5.9860925
+      cities:
+        -
+          name: "Aspelt"
+          latitude: 49.52278
+          longitude: 6.22472
+        -
+          name: "Belvaux"
+          latitude: 49.51014
+          longitude: 5.92414
+        -
+          name: "Bergem"
+          latitude: 49.525
+          longitude: 6.04222
+        -
+          name: "Bettembourg"
+          latitude: 49.51861
+          longitude: 6.10278
+        -
+          name: "Crauthem"
+          latitude: 49.53556
+          longitude: 6.14694
+        -
+          name: "Differdange"
+          latitude: 49.52417
+          longitude: 5.89139
+        -
+          name: "Dudelange"
+          latitude: 49.48056
+          longitude: 6.0875
+        -
+          name: "Esch-sur-Alzette"
+          latitude: 49.49583
+          longitude: 5.98056
+        -
+          name: "Frisange"
+          latitude: 49.51616
+          longitude: 6.18858
+        -
+          name: "Kayl"
+          latitude: 49.48917
+          longitude: 6.03972
+        -
+          name: "Lamadelaine"
+          latitude: 49.54639
+          longitude: 5.85639
+        -
+          name: "Leudelange"
+          latitude: 49.56833
+          longitude: 6.06528
+        -
+          name: "Mondercange"
+          latitude: 49.53306
+          longitude: 5.98833
+        -
+          name: "Niedercorn"
+          latitude: 49.53611
+          longitude: 5.89306
+        -
+          name: "Obercorn"
+          latitude: 49.51361
+          longitude: 5.89611
+        -
+          name: "Pétange"
+          latitude: 49.55833
+          longitude: 5.88056
+        -
+          name: "Pontpierre"
+          latitude: 49.53639
+          longitude: 6.02944
+        -
+          name: "Reckange-sur-Mess"
+          latitude: 49.5625
+          longitude: 6.00889
+        -
+          name: "Rodange"
+          latitude: 49.54639
+          longitude: 5.84083
+        -
+          name: "Roeser"
+          latitude: 49.53721
+          longitude: 6.14629
+        -
+          name: "Rumelange"
+          latitude: 49.45964
+          longitude: 6.03089
+        -
+          name: "Sanem"
+          latitude: 49.54806
+          longitude: 5.92889
+        -
+          name: "Schifflange"
+          latitude: 49.50639
+          longitude: 6.01278
+        -
+          name: "Soleuvre"
+          latitude: 49.52148
+          longitude: 5.93781
+        -
+          name: "Tétange"
+          latitude: 49.47583
+          longitude: 6.04222
+    -
+      name: "Grevenmacher"
+      code: "G"
+      iso3166_2: "LU-G"
+      type: "canton"
+      latitude: 49.680851
+      longitude: 6.4407524
+      cities:
+        -
+          name: "Betzdorf"
+          latitude: 49.68333
+          longitude: 6.35
+        -
+          name: "Biwer"
+          latitude: 49.70605
+          longitude: 6.37201
+        -
+          name: "Flaxweiler"
+          latitude: 49.66602
+          longitude: 6.34321
+        -
+          name: "Gonderange"
+          latitude: 49.69537
+          longitude: 6.24577
+        -
+          name: "Grevenmacher"
+          latitude: 49.67751
+          longitude: 6.44022
+        -
+          name: "Junglinster"
+          latitude: 49.70722
+          longitude: 6.25306
+        -
+          name: "Manternach"
+          latitude: 49.70278
+          longitude: 6.42639
+        -
+          name: "Mertert"
+          latitude: 49.70261
+          longitude: 6.47966
+        -
+          name: "Wasserbillig"
+          latitude: 49.71534
+          longitude: 6.49861
+        -
+          name: "Wormeldange"
+          latitude: 49.61114
+          longitude: 6.40546
+    -
+      name: "Luxembourg "
+      code: "L"
+      iso3166_2: "LU-L"
+      type: "canton"
+      latitude: 49.6112768
+      longitude: 6.129799
+      cities:
+        -
+          name: "Alzingen"
+          latitude: 49.565
+          longitude: 6.16361
+        -
+          name: "Béreldange"
+          latitude: 49.65507
+          longitude: 6.11874
+        -
+          name: "Bertrange"
+          latitude: 49.61111
+          longitude: 6.05
+        -
+          name: "Contern"
+          latitude: 49.58194
+          longitude: 6.22667
+        -
+          name: "Fentange"
+          latitude: 49.56278
+          longitude: 6.15389
+        -
+          name: "Heisdorf"
+          latitude: 49.67207
+          longitude: 6.14202
+        -
+          name: "Helmsange"
+          latitude: 49.65278
+          longitude: 6.14139
+        -
+          name: "Hesperange"
+          latitude: 49.56806
+          longitude: 6.15139
+        -
+          name: "Itzig"
+          latitude: 49.58769
+          longitude: 6.17065
+        -
+          name: "Kirchberg"
+          latitude: 49.62389
+          longitude: 6.14944
+        -
+          name: "Luxembourg"
+          latitude: 49.61167
+          longitude: 6.13
+        -
+          name: "Moutfort"
+          latitude: 49.58528
+          longitude: 6.25556
+        -
+          name: "Müllendorf"
+          latitude: 49.68028
+          longitude: 6.13
+        -
+          name: "Niederanven"
+          latitude: 49.65196
+          longitude: 6.26199
+        -
+          name: "Olm"
+          latitude: 49.65722
+          longitude: 6.00028
+        -
+          name: "Sandweiler"
+          latitude: 49.61471
+          longitude: 6.22221
+        -
+          name: "Schrassig"
+          latitude: 49.61014
+          longitude: 6.25903
+        -
+          name: "Schuttrange"
+          latitude: 49.62056
+          longitude: 6.26861
+        -
+          name: "Steinsel"
+          latitude: 49.67694
+          longitude: 6.12389
+        -
+          name: "Strassen"
+          latitude: 49.62056
+          longitude: 6.07333
+        -
+          name: "Walferdange"
+          latitude: 49.66321
+          longitude: 6.13224
+        -
+          name: "Weiler-la-Tour"
+          latitude: 49.54083
+          longitude: 6.20083
+    -
+      name: "Mersch"
+      code: "ME"
+      iso3166_2: "LU-ME"
+      type: "canton"
+      latitude: 49.7506746
+      longitude: 6.1066591
+      cities:
+        -
+          name: "Bissen"
+          latitude: 49.78733
+          longitude: 6.0654
+        -
+          name: "Boevange-sur-Attert"
+          latitude: 49.77256
+          longitude: 6.01532
+        -
+          name: "Colmar"
+          latitude: 49.81028
+          longitude: 6.09722
+        -
+          name: "Fischbach"
+          latitude: 49.746
+          longitude: 6.18702
+        -
+          name: "Heffingen"
+          latitude: 49.76907
+          longitude: 6.24049
+        -
+          name: "Larochette"
+          latitude: 49.78362
+          longitude: 6.21891
+        -
+          name: "Lintgen"
+          latitude: 49.72243
+          longitude: 6.13016
+        -
+          name: "Lorentzweiler"
+          latitude: 49.70131
+          longitude: 6.14234
+        -
+          name: "Mersch"
+          latitude: 49.74889
+          longitude: 6.10611
+        -
+          name: "Nommern"
+          latitude: 49.78694
+          longitude: 6.17472
+        -
+          name: "Rollingen"
+          latitude: 49.74167
+          longitude: 6.11444
+        -
+          name: "Tuntange"
+          latitude: 49.71778
+          longitude: 6.01028
+    -
+      name: "Redange"
+      code: "RD"
+      iso3166_2: "LU-RD"
+      type: "canton"
+      latitude: 49.76455
+      longitude: 5.88948
+      cities:
+        -
+          name: "Beckerich"
+          latitude: 49.73056
+          longitude: 5.88722
+        -
+          name: "Bettborn"
+          latitude: 49.79528
+          longitude: 5.94111
+        -
+          name: "Commune de Préizerdaul"
+          latitude: 49.80114
+          longitude: 5.93299
+        -
+          name: "Ell"
+          latitude: 49.76389
+          longitude: 5.85722
+        -
+          name: "Grosbous"
+          latitude: 49.82778
+          longitude: 5.96722
+        -
+          name: "Rambrouch"
+          latitude: 49.83083
+          longitude: 5.845
+        -
+          name: "Redange-sur-Attert"
+          latitude: 49.76437
+          longitude: 5.88997
+        -
+          name: "Saeul"
+          latitude: 49.72722
+          longitude: 5.98639
+        -
+          name: "Useldange"
+          latitude: 49.76972
+          longitude: 5.98222
+        -
+          name: "Vichten"
+          latitude: 49.80306
+          longitude: 6
+        -
+          name: "Wahl"
+          latitude: 49.83667
+          longitude: 5.90639
+    -
+      name: "Remich"
+      code: "RM"
+      iso3166_2: "LU-RM"
+      type: "canton"
+      latitude: 49.545017
+      longitude: 6.3674222
+      cities:
+        -
+          name: "Bous"
+          latitude: 49.55389
+          longitude: 6.32917
+        -
+          name: "Dalheim"
+          latitude: 49.54083
+          longitude: 6.25972
+        -
+          name: "Lenningen"
+          latitude: 49.59861
+          longitude: 6.36806
+        -
+          name: "Mondorf-les-Bains"
+          latitude: 49.505
+          longitude: 6.28111
+        -
+          name: "Remich"
+          latitude: 49.545
+          longitude: 6.36694
+        -
+          name: "Schengen"
+          latitude: 49.47
+          longitude: 6.362
+        -
+          name: "Stadtbredimus"
+          latitude: 49.56278
+          longitude: 6.36444
+        -
+          name: "Waldbredimus"
+          latitude: 49.55676
+          longitude: 6.28789
+    -
+      name: "Vianden"
+      code: "VD"
+      iso3166_2: "LU-VD"
+      type: "canton"
+      latitude: 49.9341924
+      longitude: 6.2019917
+      cities:
+        -
+          name: "Putscheid"
+          latitude: 49.96083
+          longitude: 6.14306
+        -
+          name: "Tandel"
+          latitude: 49.8975
+          longitude: 6.18333
+        -
+          name: "Vianden"
+          latitude: 49.935
+          longitude: 6.20889
+    -
+      name: "Wiltz"
+      code: "WI"
+      iso3166_2: "LU-WI"
+      type: "canton"
+      latitude: 49.96622
+      longitude: 5.9324306
+      cities:
+        -
+          name: "Bavigne"
+          latitude: 49.92194
+          longitude: 5.84944
+        -
+          name: "Boulaide"
+          latitude: 49.88778
+          longitude: 5.81639
+        -
+          name: "Esch-sur-Sûre"
+          latitude: 49.91139
+          longitude: 5.93639
+        -
+          name: "Goesdorf"
+          latitude: 49.92131
+          longitude: 5.96601
+        -
+          name: "Kiischpelt"
+          latitude: 49.97835
+          longitude: 6.0076
+        -
+          name: "Lac de la Haute-Sûre"
+          latitude: 49.91667
+          longitude: 5.83333
+        -
+          name: "Wiltz"
+          latitude: 49.96547
+          longitude: 5.9339
+        -
+          name: "Wilwerwiltz"
+          latitude: 49.98889
+          longitude: 5.99917
+        -
+          name: "Winseler"
+          latitude: 49.96778
+          longitude: 5.89028

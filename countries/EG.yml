@@ -1,0 +1,887 @@
+-
+  name: "Egypt"
+  name_es: "Egipto"
+  native: "مصر‎"
+  iso2: "EG"
+  iso3: "EGY"
+  numeric_code: "818"
+  phonecode: "20"
+  capital: "Cairo"
+  currency: "EGP"
+  currency_name: "Egyptian pound"
+  currency_symbol: "ج.م"
+  tld: ".eg"
+  region: "Africa"
+  subregion: "Northern Africa"
+  latitude: 27
+  longitude: 30
+  emoji: "🇪🇬"
+  states:
+    -
+      name: "Alexandria"
+      code: "ALX"
+      iso3166_2: "EG-ALX"
+      type: "governorate"
+      latitude: 30.9432983
+      longitude: 29.765645
+      cities:
+        -
+          name: "Abu Qir"
+          latitude: 31.31666667
+          longitude: 30.06666667
+        -
+          name: "Agami"
+          latitude: 31.0959
+          longitude: 29.7604
+        -
+          name: "Alexandria"
+          latitude: 31.20176
+          longitude: 29.91582
+        -
+          name: "Ar-Raml"
+          latitude: 31.24821
+          longitude: 29.97368
+        -
+          name: "Borg El Arab"
+          latitude: 30.91666667
+          longitude: 29.53333333
+        -
+          name: "Montaza"
+          latitude: 31.2827
+          longitude: 30.0219
+        -
+          name: "New Borg El Arab"
+          latitude: 30.88525
+          longitude: 29.57721
+        -
+          name: "Sidi Bishr"
+          latitude: 31.2521
+          longitude: 29.9945
+    -
+      name: "Aswan"
+      code: "ASN"
+      iso3166_2: "EG-ASN"
+      type: "governorate"
+      latitude: 23.6675287
+      longitude: 32.6916477
+      cities:
+        -
+          name: "Abu Simbel"
+          latitude: 22.3457
+          longitude: 31.61624
+        -
+          name: "Aswan"
+          latitude: 24.09082
+          longitude: 32.89942
+        -
+          name: "Idfū"
+          latitude: 24.97916
+          longitude: 32.87722
+        -
+          name: "Kawm Umbū"
+          latitude: 24.47669
+          longitude: 32.94626
+    -
+      name: "Asyut"
+      code: "AST"
+      iso3166_2: "EG-AST"
+      type: "governorate"
+      latitude: 27.2065132
+      longitude: 31.5500282
+      cities:
+        -
+          name: "Abnūb"
+          latitude: 27.2696
+          longitude: 31.15105
+        -
+          name: "Abū Tīj"
+          latitude: 27.04411
+          longitude: 31.31897
+        -
+          name: "Al Badārī"
+          latitude: 26.99257
+          longitude: 31.41554
+        -
+          name: "Al Qūşīyah"
+          latitude: 27.4402
+          longitude: 30.81841
+        -
+          name: "Asyūţ"
+          latitude: 27.18096
+          longitude: 31.18368
+        -
+          name: "Dayrūţ"
+          latitude: 27.55602
+          longitude: 30.80764
+        -
+          name: "Manfalūţ"
+          latitude: 27.3104
+          longitude: 30.97004
+    -
+      name: "Beheira"
+      code: "BH"
+      iso3166_2: "EG-BH"
+      type: "governorate"
+      latitude: 30.7915206
+      longitude: 30.3465488
+      cities:
+        -
+          name: "Abū al Maţāmīr"
+          latitude: 30.91018
+          longitude: 30.17438
+        -
+          name: "Ad Dilinjāt"
+          latitude: 30.82796
+          longitude: 30.53552
+        -
+          name: "Damanhūr"
+          latitude: 31.03408
+          longitude: 30.46823
+        -
+          name: "Ḩawsh ‘Īsá"
+          latitude: 30.9128
+          longitude: 30.29019
+        -
+          name: "Idkū"
+          latitude: 31.3073
+          longitude: 30.2981
+        -
+          name: "Kafr ad Dawwār"
+          latitude: 31.13379
+          longitude: 30.12969
+        -
+          name: "Kawm Ḩamādah"
+          latitude: 30.76128
+          longitude: 30.69972
+        -
+          name: "Rosetta"
+          latitude: 31.39951
+          longitude: 30.41718
+    -
+      name: "Beni Suef"
+      code: "BNS"
+      iso3166_2: "EG-BNS"
+      type: "governorate"
+      latitude: 29.0729812
+      longitude: 31.0982562
+      cities:
+        -
+          name: "Al Fashn"
+          latitude: 28.82431
+          longitude: 30.89948
+        -
+          name: "Banī Suwayf"
+          latitude: 29.07441
+          longitude: 31.09785
+        -
+          name: "Būsh"
+          latitude: 29.14816
+          longitude: 31.12733
+        -
+          name: "Sumusţā as Sulţānī"
+          latitude: 28.91667
+          longitude: 30.85
+    -
+      name: "Cairo"
+      code: "C"
+      iso3166_2: "EG-C"
+      type: "governorate"
+      latitude: 30.0332516
+      longitude: 31.5621651
+      cities:
+        -
+          name: "Badr"
+          latitude: 30.136
+          longitude: 31.715
+        -
+          name: "Bulaq"
+          latitude: 30.053
+          longitude: 31.23
+        -
+          name: "Cairo"
+          latitude: 30.06263
+          longitude: 31.24967
+        -
+          name: "Cairo Downtown"
+          latitude: 30.0475
+          longitude: 31.2383
+        -
+          name: "El Mataria"
+          latitude: 30.1295
+          longitude: 31.2889
+        -
+          name: "Fustat"
+          latitude: 30
+          longitude: 31.23333333
+        -
+          name: "Hadayek El Kobba"
+          latitude: 30.0967
+          longitude: 31.3103
+        -
+          name: "Heliopolis"
+          latitude: 30.13333333
+          longitude: 31.3
+        -
+          name: "Helwan"
+          latitude: 29.84194444
+          longitude: 31.33416667
+        -
+          name: "Maadi"
+          latitude: 29.9667
+          longitude: 31.25
+        -
+          name: "Musturud"
+          latitude: 30.13881944
+          longitude: 31.29241111
+        -
+          name: "Nasr City"
+          latitude: 30.05
+          longitude: 31.36667
+        -
+          name: "New Administrative Capital of Egypt"
+          latitude: 30.0275
+          longitude: 31.765
+        -
+          name: "New Cairo"
+          latitude: 30.03
+          longitude: 31.47
+        -
+          name: "Rehab"
+          latitude: 30.05
+          longitude: 31.3667
+        -
+          name: "Shubra"
+          latitude: 30.0725
+          longitude: 31.2408
+        -
+          name: "Tura"
+          latitude: 29.939279
+          longitude: 31.290007
+        -
+          name: "Zamalek"
+          latitude: 30.06194444
+          longitude: 31.22055556
+    -
+      name: "Dakahlia"
+      code: "DK"
+      iso3166_2: "EG-DK"
+      type: "governorate"
+      latitude: 31.1380046
+      longitude: 31.8882499
+      cities:
+        -
+          name: "‘Izbat al Burj"
+          latitude: 31.5084
+          longitude: 31.84106
+        -
+          name: "Ajā"
+          latitude: 30.94162
+          longitude: 31.29039
+        -
+          name: "Al Jammālīyah"
+          latitude: 31.18065
+          longitude: 31.86497
+        -
+          name: "Al Manşūrah"
+          latitude: 31.03637
+          longitude: 31.38069
+        -
+          name: "Al Manzalah"
+          latitude: 31.15823
+          longitude: 31.936
+        -
+          name: "Al Maţarīyah"
+          latitude: 31.18287
+          longitude: 32.03108
+        -
+          name: "Bilqās"
+          latitude: 31.21452
+          longitude: 31.35798
+        -
+          name: "Dikirnis"
+          latitude: 31.08898
+          longitude: 31.59478
+        -
+          name: "Minyat an Naşr"
+          latitude: 31.12624
+          longitude: 31.64313
+        -
+          name: "Shirbīn"
+          latitude: 31.19688
+          longitude: 31.5243
+        -
+          name: "Ţalkhā"
+          latitude: 31.0539
+          longitude: 31.37787
+    -
+      name: "Damietta"
+      code: "DT"
+      iso3166_2: "EG-DT"
+      type: "governorate"
+      latitude: 31.4113331
+      longitude: 31.7557072
+      cities:
+        -
+          name: "Az Zarqā"
+          latitude: 31.20864
+          longitude: 31.63528
+        -
+          name: "Damietta"
+          latitude: 31.41648
+          longitude: 31.81332
+        -
+          name: "Fāraskūr"
+          latitude: 31.32977
+          longitude: 31.71507
+    -
+      name: "Faiyum"
+      code: "FYM"
+      iso3166_2: "EG-FYM"
+      type: "governorate"
+      latitude: 29.3084021
+      longitude: 30.8428497
+      cities:
+        -
+          name: "Al Fayyūm"
+          latitude: 29.30995
+          longitude: 30.8418
+        -
+          name: "Al Wāsiţah"
+          latitude: 29.33778
+          longitude: 31.20556
+        -
+          name: "Ibshawāy"
+          latitude: 29.35896
+          longitude: 30.68061
+        -
+          name: "Iţsā"
+          latitude: 29.2376
+          longitude: 30.78944
+        -
+          name: "Ţāmiyah"
+          latitude: 29.47639
+          longitude: 30.96119
+    -
+      name: "Gharbia"
+      code: "GH"
+      iso3166_2: "EG-GH"
+      type: "governorate"
+      latitude: 30.8391947
+      longitude: 31.0016072
+      cities:
+        -
+          name: "Al Maḩallah al Kubrá"
+          latitude: 30.97063
+          longitude: 31.1669
+        -
+          name: "Basyūn"
+          latitude: 30.93976
+          longitude: 30.81338
+        -
+          name: "Kafr az Zayyāt"
+          latitude: 30.8248
+          longitude: 30.81805
+        -
+          name: "Quţūr"
+          latitude: 30.97225
+          longitude: 30.95614
+        -
+          name: "Samannūd"
+          latitude: 30.9616
+          longitude: 31.24069
+        -
+          name: "Tanda"
+          latitude: 30.78847
+          longitude: 31.00192
+        -
+          name: "Zefta"
+          latitude: 30.7142
+          longitude: 31.24425
+    -
+      name: "Giza"
+      code: "GZ"
+      iso3166_2: "EG-GZ"
+      type: "governorate"
+      latitude: 29.0540357
+      longitude: 29.4190807
+      cities:
+        -
+          name: "Al ‘Ayyāţ"
+          latitude: 29.61972
+          longitude: 31.2575
+        -
+          name: "Al Bawīţī"
+          latitude: 28.34919
+          longitude: 28.86591
+        -
+          name: "Al Ḩawāmidīyah"
+          latitude: 29.9
+          longitude: 31.25
+        -
+          name: "Aş Şaff"
+          latitude: 29.56472
+          longitude: 31.28111
+        -
+          name: "Awsīm"
+          latitude: 30.12303
+          longitude: 31.13571
+        -
+          name: "Giza"
+          latitude: 30.00808
+          longitude: 31.21093
+        -
+          name: "Madīnat Sittah Uktūbar"
+          latitude: 29.81667
+          longitude: 31.05
+    -
+      name: "Ismailia"
+      code: "IS"
+      iso3166_2: "EG-IS"
+      type: "governorate"
+      latitude: 30.6043775
+      longitude: 32.2770825
+      cities:
+        -
+          name: "Ismailia"
+          latitude: 30.60427
+          longitude: 32.27225
+    -
+      name: "Kafr El-Sheikh"
+      code: "KFS"
+      iso3166_2: "EG-KFS"
+      type: "governorate"
+      latitude: 31.3814765
+      longitude: 30.8513566
+      cities:
+        -
+          name: "Al Ḩāmūl"
+          latitude: 31.31146
+          longitude: 31.14766
+        -
+          name: "Disūq"
+          latitude: 31.13259
+          longitude: 30.64784
+        -
+          name: "Fuwwah"
+          latitude: 31.20365
+          longitude: 30.54908
+        -
+          name: "Kafr ash Shaykh"
+          latitude: 31.11174
+          longitude: 30.93991
+        -
+          name: "Markaz Disūq"
+          latitude: 31.1459
+          longitude: 30.71609
+        -
+          name: "Munshāt ‘Alī Āghā"
+          latitude: 31.15791
+          longitude: 30.70177
+        -
+          name: "Sīdī Sālim"
+          latitude: 31.27133
+          longitude: 30.78617
+    -
+      name: "Luxor"
+      code: "LX"
+      iso3166_2: "EG-LX"
+      type: "governorate"
+      latitude: 25.702096
+      longitude: 32.647186
+      cities:
+        -
+          name: "Luxor"
+          latitude: 25.69893
+          longitude: 32.6421
+        -
+          name: "Markaz al Uqşur"
+          latitude: 25.62986
+          longitude: 32.59017
+    -
+      name: "Matrouh"
+      code: "MT"
+      iso3166_2: "EG-MT"
+      type: "governorate"
+      latitude: 29.7876385
+      longitude: 27.427041
+      cities:
+        -
+          name: "Al ‘Alamayn"
+          latitude: 30.83007
+          longitude: 28.95502
+        -
+          name: "Mersa Matruh"
+          latitude: 31.3529
+          longitude: 27.23725
+        -
+          name: "Siwa Oasis"
+          latitude: 29.2032
+          longitude: 25.51965
+    -
+      name: "Minya"
+      code: "MN"
+      iso3166_2: "EG-MN"
+      type: "governorate"
+      latitude: 28.0893325
+      longitude: 30.7570623
+      cities:
+        -
+          name: "Abū Qurqāş"
+          latitude: 27.9312
+          longitude: 30.83841
+        -
+          name: "Al Minyā"
+          latitude: 28.10988
+          longitude: 30.7503
+        -
+          name: "Banī Mazār"
+          latitude: 28.5036
+          longitude: 30.8004
+        -
+          name: "Dayr Mawās"
+          latitude: 27.64176
+          longitude: 30.84662
+        -
+          name: "Mallawī"
+          latitude: 27.7314
+          longitude: 30.84165
+        -
+          name: "Maţāy"
+          latitude: 28.41899
+          longitude: 30.77924
+        -
+          name: "Samālūţ"
+          latitude: 28.31214
+          longitude: 30.71007
+    -
+      name: "Monufia"
+      code: "MNF"
+      iso3166_2: "EG-MNF"
+      type: "governorate"
+      latitude: 30.4370098
+      longitude: 30.7466852
+      cities:
+        -
+          name: "Al Bājūr"
+          latitude: 30.43046
+          longitude: 31.03679
+        -
+          name: "Ash Shuhadā’"
+          latitude: 30.59683
+          longitude: 30.89931
+        -
+          name: "Ashmūn"
+          latitude: 30.29735
+          longitude: 30.97641
+        -
+          name: "Munūf"
+          latitude: 30.46597
+          longitude: 30.93199
+        -
+          name: "Quwaysinā"
+          latitude: 30.56482
+          longitude: 31.15777
+        -
+          name: "Shibīn al Kawm"
+          latitude: 30.55258
+          longitude: 31.00904
+        -
+          name: "Talā"
+          latitude: 30.6798
+          longitude: 30.94364
+    -
+      name: "New Valley"
+      code: "WAD"
+      iso3166_2: "EG-WAD"
+      type: "governorate"
+      latitude: 24.8766665
+      longitude: 28.7757345
+      cities:
+        -
+          name: "Al Khārijah"
+          latitude: 25.45141
+          longitude: 30.54635
+        -
+          name: "Qaşr al Farāfirah"
+          latitude: 27.0568
+          longitude: 27.96979
+    -
+      name: "North Sinai"
+      code: "SIN"
+      iso3166_2: "EG-SIN"
+      type: "governorate"
+      latitude: 30.5042803
+      longitude: 33.591006
+      cities:
+        -
+          name: "Arish"
+          latitude: 31.13159
+          longitude: 33.79844
+    -
+      name: "Port Said"
+      code: "PTS"
+      iso3166_2: "EG-PTS"
+      type: "governorate"
+      latitude: 31.1821275
+      longitude: 32.372582
+      cities:
+        -
+          name: "Port Said"
+          latitude: 31.25654
+          longitude: 32.28411
+    -
+      name: "Qalyubia"
+      code: "KB"
+      iso3166_2: "EG-KB"
+      type: "governorate"
+      latitude: 30.3292368
+      longitude: 31.2168466
+      cities:
+        -
+          name: "Al Khānkah"
+          latitude: 30.21035
+          longitude: 31.36812
+        -
+          name: "Al Qanāţir al Khayrīyah"
+          latitude: 30.19327
+          longitude: 31.13703
+        -
+          name: "Banhā"
+          latitude: 30.45977
+          longitude: 31.1842
+        -
+          name: "Obour City"
+          latitude: 30.205
+          longitude: 31.4575
+        -
+          name: "Qalyūb"
+          latitude: 30.17922
+          longitude: 31.2056
+        -
+          name: "Shibīn al Qanāṭir"
+          latitude: 30.31269
+          longitude: 31.32018
+        -
+          name: "Toukh"
+          latitude: 30.35487
+          longitude: 31.20105
+    -
+      name: "Qena"
+      code: "KN"
+      iso3166_2: "EG-KN"
+      type: "governorate"
+      latitude: 26.1593097
+      longitude: 32.7162855
+      cities:
+        -
+          name: "Dishnā"
+          latitude: 26.12467
+          longitude: 32.47598
+        -
+          name: "Farshūţ"
+          latitude: 26.05494
+          longitude: 32.16329
+        -
+          name: "Isnā"
+          latitude: 25.29336
+          longitude: 32.55402
+        -
+          name: "Kousa"
+          latitude: 25.91407
+          longitude: 32.76362
+        -
+          name: "Naja' Ḥammādī"
+          latitude: 26.04949
+          longitude: 32.24142
+        -
+          name: "Qinā"
+          latitude: 26.16418
+          longitude: 32.72671
+    -
+      name: "Red Sea"
+      code: "BA"
+      iso3166_2: "EG-BA"
+      type: "governorate"
+      latitude: 25.5867279
+      longitude: 34.1694641
+      cities:
+        -
+          name: "Al Quşayr"
+          latitude: 26.10426
+          longitude: 34.27793
+        -
+          name: "El Gouna"
+          latitude: 27.39417
+          longitude: 33.67825
+        -
+          name: "Hurghada"
+          latitude: 27.25738
+          longitude: 33.81291
+        -
+          name: "Makadi Bay"
+          latitude: 26.99123
+          longitude: 33.89952
+        -
+          name: "Marsa Alam"
+          latitude: 25.06305
+          longitude: 34.89005
+        -
+          name: "Ras Gharib"
+          latitude: 28.35831
+          longitude: 33.07829
+        -
+          name: "Safaga"
+          latitude: 26.74906
+          longitude: 33.93891
+    -
+      name: "Sharqia"
+      code: "SHR"
+      iso3166_2: "EG-SHR"
+      type: "governorate"
+      latitude: 30.6332775
+      longitude: 31.7893739
+      cities:
+        -
+          name: "10th of Ramadan"
+          latitude: 30.2993939
+          longitude: 31.6141789
+        -
+          name: "Al Qurein"
+          latitude: 26.2930066
+          longitude: 31.8495035
+        -
+          name: "Awlad Saqr"
+          latitude: 30.9309623
+          longitude: 31.6913238
+        -
+          name: "Bilbeis"
+          latitude: 30.4167692
+          longitude: 31.5543048
+        -
+          name: "Diyarb Negm"
+          latitude: 30.7480082
+          longitude: 31.3889308
+        -
+          name: "El Husseiniya"
+          latitude: 31.1393396
+          longitude: 32.1494967
+        -
+          name: "Faqous"
+          latitude: 30.7229174
+          longitude: 31.7613658
+        -
+          name: "Hihya"
+          latitude: 30.6551621
+          longitude: 31.5067157
+        -
+          name: "Kafr Saqr"
+          latitude: 30.7795514
+          longitude: 31.6177412
+        -
+          name: "Markaz Abū Ḩammād"
+          latitude: 30.5360443
+          longitude: 31.6597023
+        -
+          name: "Mashtoul El Souk"
+          latitude: 30.3557011
+          longitude: 31.3627853
+        -
+          name: "Minya El Qamh"
+          latitude: 30.5003745
+          longitude: 31.2376685
+        -
+          name: "New Salhia"
+          latitude: 30.6286879
+          longitude: 31.9209906
+        -
+          name: "Zagazig"
+          latitude: 30.5845623
+          longitude: 31.3474779
+    -
+      name: "Sohag"
+      code: "SHG"
+      iso3166_2: "EG-SHG"
+      type: "governorate"
+      latitude: 26.7624628
+      longitude: 32.0909936
+      cities:
+        -
+          name: "Akhmīm"
+          latitude: 26.56217
+          longitude: 31.74503
+        -
+          name: "Al Balyanā"
+          latitude: 26.23568
+          longitude: 32.00347
+        -
+          name: "Al Manshāh"
+          latitude: 26.47686
+          longitude: 31.8035
+        -
+          name: "Jirjā"
+          latitude: 26.33826
+          longitude: 31.89161
+        -
+          name: "Juhaynah"
+          latitude: 26.67319
+          longitude: 31.4976
+        -
+          name: "Markaz Jirjā"
+          latitude: 26.30683
+          longitude: 31.84574
+        -
+          name: "Markaz Sūhāj"
+          latitude: 26.53948
+          longitude: 31.67524
+        -
+          name: "Sohag"
+          latitude: 26.55695
+          longitude: 31.69478
+        -
+          name: "Ţahţā"
+          latitude: 26.7693
+          longitude: 31.50214
+    -
+      name: "South Sinai"
+      code: "JS"
+      iso3166_2: "EG-JS"
+      type: "governorate"
+      latitude: 28.6449564
+      longitude: 33.8711313
+      cities:
+        -
+          name: "Dahab"
+          latitude: 28.48208
+          longitude: 34.49505
+        -
+          name: "El-Tor"
+          latitude: 28.24168
+          longitude: 33.6222
+        -
+          name: "Nuwaybi‘a"
+          latitude: 29.04681
+          longitude: 34.6634
+        -
+          name: "Saint Catherine"
+          latitude: 28.56191
+          longitude: 33.94934
+        -
+          name: "Sharm el-Sheikh"
+          latitude: 27.91582
+          longitude: 34.32995
+    -
+      name: "Suez"
+      code: "SUZ"
+      iso3166_2: "EG-SUZ"
+      type: "governorate"
+      latitude: 29.4165427
+      longitude: 32.1490967
+      cities:
+        -
+          name: "Ain Sukhna"
+          latitude: 29.60018
+          longitude: 32.31671
+        -
+          name: "Suez"
+          latitude: 29.97371
+          longitude: 32.52627

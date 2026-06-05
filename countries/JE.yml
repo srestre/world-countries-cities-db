@@ -1,0 +1,319 @@
+-
+  name: "Jersey"
+  name_es: "Jersey"
+  native: "Jersey"
+  iso2: "JE"
+  iso3: "JEY"
+  numeric_code: "832"
+  phonecode: "44"
+  capital: "Saint Helier"
+  currency: "GBP"
+  currency_name: "British pound"
+  currency_symbol: "£"
+  tld: ".je"
+  region: "Europe"
+  subregion: "Northern Europe"
+  latitude: 49.25
+  longitude: -2.16666666
+  emoji: "🇯🇪"
+  states:
+    -
+      name: "Grouville"
+      code: "01"
+      iso3166_2: "JE-01"
+      type: "parish"
+      latitude: 49.18404
+      longitude: -2.0516828
+      cities:
+        -
+          name: "Vingtaine de la Rocque"
+          latitude: 49.1704888
+          longitude: -2.0338914
+        -
+          name: "Vingtaine de la Rue"
+          latitude: 49.1866123
+          longitude: -2.0531613
+        -
+          name: "Vingtaine de Longueville"
+          latitude: 49.1900183
+          longitude: -2.049178
+        -
+          name: "Vingtaine des Marais"
+          latitude: 49.185563
+          longitude: -2.050422
+    -
+      name: "St Brelade"
+      code: "02"
+      iso3166_2: "JE-02"
+      type: "parish"
+      latitude: 49.1851255
+      longitude: -2.2010341
+      cities:
+        -
+          name: "Vingtaine de la Moye"
+          latitude: 49.1844548
+          longitude: -2.2395047
+        -
+          name: "Vingtaine de Noirmont"
+          latitude: 49.1726985
+          longitude: -2.2255051
+        -
+          name: "Vingtaine des Quennevais"
+          latitude: 49.1970432
+          longitude: -2.2161808
+        -
+          name: "Vingtaine du Coin"
+          latitude: 49.1875396
+          longitude: -2.1847371
+    -
+      name: "St Clement"
+      code: "03"
+      iso3166_2: "JE-03"
+      type: "parish"
+      latitude: 49.1736373
+      longitude: -2.0562124
+      cities:
+        -
+          name: "Grande Vingtaine"
+          latitude: 49.1720713
+          longitude: -2.0619937
+        -
+          name: "Vingtaine de Samarès"
+          latitude: 49.1649758
+          longitude: -2.0988029
+        -
+          name: "Vingtaine du Rocquier"
+          latitude: 49.172505
+          longitude: -2.0654384
+    -
+      name: "St Helier"
+      code: "04"
+      iso3166_2: "JE-04"
+      type: "parish"
+      latitude: 49.1856637
+      longitude: -2.1102277
+      cities:
+        -
+          name: "Vingtaine de Bas du Mont au Prêtre"
+          latitude: 49.1993959
+          longitude: -2.1196408
+        -
+          name: "Vingtaine de Haut du Mont au Prêtre"
+          latitude: 49.2024251
+          longitude: -2.0991923
+        -
+          name: "Vingtaine de la Ville"
+          latitude: 49.1788332
+          longitude: -2.1035759
+        -
+          name: "Vingtaine du Mont à l'Abbé"
+          latitude: 49.2003633
+          longitude: -2.1338439
+        -
+          name: "Vingtaine du Mont Cochon"
+          latitude: 49.1997537
+          longitude: -2.1475755
+        -
+          name: "Vingtaine du Rouge Bouillon"
+          latitude: 49.192912
+          longitude: -2.109353
+    -
+      name: "St John"
+      code: "05"
+      iso3166_2: "JE-05"
+      type: "parish"
+      latitude: 49.2465535
+      longitude: -2.1349726
+      cities:
+        -
+          name: "Vingtaine de Hérupe"
+          latitude: 49.2333012
+          longitude: -2.1235708
+        -
+          name: "Vingtaine du Douet"
+          latitude: 49.2345962
+          longitude: -2.1722771
+        -
+          name: "Vingtaine du Nord"
+          latitude: 49.2393878
+          longitude: -2.1206972
+    -
+      name: "St Lawrence"
+      code: "06"
+      iso3166_2: "JE-06"
+      type: "parish"
+      latitude: 49.2149124
+      longitude: -2.1416892
+      cities:
+        -
+          name: "Vingtaine Bas de la Vallée"
+          latitude: 49.1958468
+          longitude: -2.1566922
+        -
+          name: "Vingtaine du Coin Hatain"
+          latitude: 49.2207436
+          longitude: -2.1269749
+        -
+          name: "Vingtaine du Coin Motier"
+          latitude: 49.2249017
+          longitude: -2.139654
+        -
+          name: "Vingtaine du Coin Tourgis Nord"
+          latitude: 49.2292499
+          longitude: -2.1509257
+        -
+          name: "Vingtaine du Coin Tourgis Sud"
+          latitude: 49.2105946
+          longitude: -2.1526433
+    -
+      name: "St Martin"
+      code: "07"
+      iso3166_2: "JE-07"
+      type: "parish"
+      latitude: 49.2177274
+      longitude: -2.0516314
+      cities:
+        -
+          name: "Vingtaine de Faldouet"
+          latitude: 49.2032204
+          longitude: -2.0526972
+        -
+          name: "Vingtaine de la Quéruée"
+          latitude: 49.214991
+          longitude: -2.0560363
+        -
+          name: "Vingtaine de Rozel"
+          latitude: 49.235695
+          longitude: -2.0504847
+        -
+          name: "Vingtaine du Fief de la Reine"
+          latitude: 49.2184277
+          longitude: -2.0351879
+    -
+      name: "St Mary"
+      code: "08"
+      iso3166_2: "JE-08"
+      type: "parish"
+      latitude: 49.2364029
+      longitude: -2.1716245
+      cities:
+        -
+          name: "Vingtaine du Nord"
+          latitude: 49.2442639
+          longitude: -2.1808226
+        -
+          name: "Vingtaine du Sud"
+          latitude: 49.2340425
+          longitude: -2.1673084
+    -
+      name: "St Ouen"
+      code: "09"
+      iso3166_2: "JE-09"
+      type: "parish"
+      latitude: 49.2335087
+      longitude: -2.2020406
+      cities:
+        -
+          name: "Cueillette de Grantez"
+          latitude: 49.2312397
+          longitude: -2.2233903
+        -
+          name: "Cueillette de Léoville"
+          latitude: 49.2380324
+          longitude: -2.2263487
+        -
+          name: "Cueillette de Millais"
+          latitude: 49.2408537
+          longitude: -2.2433042
+        -
+          name: "Cueillette de Vinchelez"
+          latitude: 49.244478
+          longitude: -2.2390543
+        -
+          name: "Grande Cueillette"
+          latitude: 49.22331
+          longitude: -2.2160988
+        -
+          name: "Petite Cueillette"
+          latitude: 49.2245677
+          longitude: -2.1965655
+    -
+      name: "St Peter"
+      code: "10"
+      iso3166_2: "JE-10"
+      type: "parish"
+      latitude: 49.2128288
+      longitude: -2.18372
+      cities:
+        -
+          name: "Grande Vingtaine"
+          latitude: 49.210655
+          longitude: -2.1960636
+        -
+          name: "Vingtaine des Augerez"
+          latitude: 49.2077679
+          longitude: -2.1862978
+        -
+          name: "Vingtaine du Coin Varin"
+          latitude: 49.2145195
+          longitude: -2.1872255
+        -
+          name: "Vingtaine du Douet"
+          latitude: 49.2098807
+          longitude: -2.1845342
+    -
+      name: "St Saviour"
+      code: "11"
+      iso3166_2: "JE-11"
+      type: "parish"
+      latitude: 49.1948946
+      longitude: -2.0903183
+      cities:
+        -
+          name: "Vingtaine de la Grande Longueville"
+          latitude: 49.1878671
+          longitude: -2.0750215
+        -
+          name: "Vingtaine de la Petite Longueville"
+          latitude: 49.1809034
+          longitude: -2.0812162
+        -
+          name: "Vingtaine de Maufant"
+          latitude: 49.2082296
+          longitude: -2.100606
+        -
+          name: "Vingtaine de Sous la Hougue"
+          latitude: 49.2137711
+          longitude: -2.1357662
+        -
+          name: "Vingtaine des Pigneaux"
+          latitude: 49.202627
+          longitude: -2.0708067
+    -
+      name: "Trinity"
+      code: "12"
+      iso3166_2: "JE-12"
+      type: "parish"
+      latitude: 49.234492
+      longitude: -2.0929268
+      cities:
+        -
+          name: "Vingtaine de la Croiserie"
+          latitude: 49.2164693
+          longitude: -2.0916441
+        -
+          name: "Vingtaine de la Ville-à-l'Évêque"
+          latitude: 49.2317648
+          longitude: -2.1223684
+        -
+          name: "Vingtaine de Rozel"
+          latitude: 49.2384287
+          longitude: -2.0670406
+        -
+          name: "Vingtaine des Augrès"
+          latitude: 49.2285729
+          longitude: -2.0823505
+        -
+          name: "Vingtaine du Rondin"
+          latitude: 49.2370624
+          longitude: -2.0875331

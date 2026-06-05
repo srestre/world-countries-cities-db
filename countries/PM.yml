@@ -1,0 +1,35 @@
+-
+  name: "Saint Pierre and Miquelon"
+  name_es: "San Pedro y Miquelón"
+  native: "Saint-Pierre-et-Miquelon"
+  iso2: "PM"
+  iso3: "SPM"
+  numeric_code: "666"
+  phonecode: "508"
+  capital: "Saint-Pierre"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".pm"
+  region: "Americas"
+  subregion: "Northern America"
+  latitude: 46.83333333
+  longitude: -56.33333333
+  emoji: "🇵🇲"
+  states:
+    -
+      name: "Saint-Pierre and Miquelon"
+      code: "01"
+      iso3166_2: "FR-PM"
+      type: "overseas collectivity"
+      latitude: 46.83333333
+      longitude: -56.33333333
+      cities:
+        -
+          name: "Miquelon-Langlade"
+          latitude: 47.09722222
+          longitude: -56.38138889
+        -
+          name: "Saint-Pierre"
+          latitude: 46.77833333
+          longitude: -56.1775

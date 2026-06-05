@@ -1,0 +1,1798 @@
+-
+  name: "Serbia"
+  name_es: "Serbia"
+  native: "Србија"
+  iso2: "RS"
+  iso3: "SRB"
+  numeric_code: "688"
+  phonecode: "381"
+  capital: "Belgrade"
+  currency: "RSD"
+  currency_name: "Serbian dinar"
+  currency_symbol: "din"
+  tld: ".rs"
+  region: "Europe"
+  subregion: "Southern Europe"
+  latitude: 44
+  longitude: 21
+  emoji: "🇷🇸"
+  states:
+    -
+      name: "Belgrade"
+      code: "00"
+      iso3166_2: "RS-00"
+      type: "city"
+      latitude: 44.8178131
+      longitude: 20.4568974
+      cities:
+        -
+          name: "Barič"
+          latitude: 44.6507
+          longitude: 20.25941
+        -
+          name: "Bečmen"
+          latitude: 44.77983
+          longitude: 20.20577
+        -
+          name: "Dobanovci"
+          latitude: 44.82631
+          longitude: 20.22487
+        -
+          name: "Lazarevac"
+          latitude: 44.38534
+          longitude: 20.2557
+        -
+          name: "Mala Moštanica"
+          latitude: 44.63834
+          longitude: 20.306
+        -
+          name: "Obrenovac"
+          latitude: 44.65486
+          longitude: 20.20017
+        -
+          name: "Ostružnica"
+          latitude: 44.72769
+          longitude: 20.31845
+        -
+          name: "Ovča"
+          latitude: 44.88349
+          longitude: 20.53336
+        -
+          name: "Rušanj"
+          latitude: 44.68477
+          longitude: 20.44993
+        -
+          name: "Sremčica"
+          latitude: 44.67653
+          longitude: 20.39232
+        -
+          name: "Stepojevac"
+          latitude: 44.51278
+          longitude: 20.295
+        -
+          name: "Stubline"
+          latitude: 44.57476
+          longitude: 20.13477
+        -
+          name: "Surčin"
+          latitude: 44.79306
+          longitude: 20.28028
+        -
+          name: "Tabanović"
+          latitude: 44.82018
+          longitude: 19.64128
+        -
+          name: "Ugrinovci"
+          latitude: 44.87635
+          longitude: 20.18763
+        -
+          name: "Umka"
+          latitude: 44.67806
+          longitude: 20.30472
+        -
+          name: "Velika Moštanica"
+          latitude: 44.66486
+          longitude: 20.35395
+        -
+          name: "Vranić"
+          latitude: 44.60237
+          longitude: 20.32872
+        -
+          name: "Zemun"
+          latitude: 44.8458
+          longitude: 20.40116
+        -
+          name: "Zvečka"
+          latitude: 44.64025
+          longitude: 20.16432
+    -
+      name: "Bor"
+      code: "14"
+      iso3166_2: "RS-14"
+      type: "district"
+      latitude: 44.0698918
+      longitude: 22.0985086
+      cities:
+        -
+          name: "Bor"
+          latitude: 44.36667
+          longitude: 22.25
+        -
+          name: "Donji Milanovac"
+          latitude: 44.46593
+          longitude: 22.1517
+        -
+          name: "Kladovo"
+          latitude: 44.6043989
+          longitude: 22.5081942
+        -
+          name: "Majdanpek"
+          latitude: 44.4252547
+          longitude: 21.8092733
+        -
+          name: "Negotin"
+          latitude: 44.2181618
+          longitude: 22.4516206
+    -
+      name: "Braničevo"
+      code: "11"
+      iso3166_2: "RS-11"
+      type: "district"
+      latitude: 44.6982246
+      longitude: 21.5446775
+      cities:
+        -
+          name: "Golubac"
+          latitude: 44.6355216
+          longitude: 21.5952559
+        -
+          name: "Klenje"
+          latitude: 44.80794
+          longitude: 19.43508
+        -
+          name: "Kučevo"
+          latitude: 44.4893875
+          longitude: 21.6349977
+        -
+          name: "Malo Crniće"
+          latitude: 44.5401398
+          longitude: 21.1980262
+        -
+          name: "Petrovac na Mlavi"
+          latitude: 44.3539737
+          longitude: 21.2805067
+        -
+          name: "Požarevac"
+          latitude: 44.62133
+          longitude: 21.18782
+        -
+          name: "Radenka"
+          latitude: 44.58345
+          longitude: 21.76469
+        -
+          name: "Ševica"
+          latitude: 44.50883
+          longitude: 21.72296
+        -
+          name: "Veliko Gradište"
+          latitude: 44.7519641
+          longitude: 21.4628213
+        -
+          name: "Žabari"
+          latitude: 44.3852213
+          longitude: 21.0449872
+        -
+          name: "Žagubica"
+          latitude: 44.1554445
+          longitude: 21.6931799
+    -
+      name: "Central Banat"
+      code: "02"
+      iso3166_2: "RS-02"
+      type: "district"
+      latitude: 45.4358778
+      longitude: 20.5108293
+      cities:
+        -
+          name: "Aradac"
+          latitude: 45.38346
+          longitude: 20.30137
+        -
+          name: "Banatski Despotovac"
+          latitude: 45.36606
+          longitude: 20.66407
+        -
+          name: "Banatski Dvor"
+          latitude: 45.51866
+          longitude: 20.51146
+        -
+          name: "Banatsko Karađorđevo"
+          latitude: 45.58693
+          longitude: 20.56421
+        -
+          name: "Belo Blato"
+          latitude: 45.27278
+          longitude: 20.375
+        -
+          name: "Bočar"
+          latitude: 45.76994
+          longitude: 20.2839
+        -
+          name: "Boka"
+          latitude: 45.3554
+          longitude: 20.82987
+        -
+          name: "Botoš"
+          latitude: 45.30837
+          longitude: 20.63514
+        -
+          name: "Čenta"
+          latitude: 45.10814
+          longitude: 20.38947
+        -
+          name: "Čestereg"
+          latitude: 45.56361
+          longitude: 20.53194
+        -
+          name: "Ečka"
+          latitude: 45.32328
+          longitude: 20.44294
+        -
+          name: "Elemir"
+          latitude: 45.44263
+          longitude: 20.30003
+        -
+          name: "Farkaždin"
+          latitude: 45.19172
+          longitude: 20.47239
+        -
+          name: "Hetin"
+          latitude: 45.66202
+          longitude: 20.79138
+        -
+          name: "Jarkovac"
+          latitude: 45.26985
+          longitude: 20.76078
+        -
+          name: "Jaša Tomić"
+          latitude: 45.44725
+          longitude: 20.85546
+        -
+          name: "Klek"
+          latitude: 45.42254
+          longitude: 20.48049
+        -
+          name: "Knićanin"
+          latitude: 45.18675
+          longitude: 20.319
+        -
+          name: "Konak"
+          latitude: 45.31575
+          longitude: 20.91468
+        -
+          name: "Krajišnik"
+          latitude: 45.45283
+          longitude: 20.72976
+        -
+          name: "Kumane"
+          latitude: 45.53946
+          longitude: 20.22902
+        -
+          name: "Lazarevo"
+          latitude: 45.38893
+          longitude: 20.53999
+        -
+          name: "Lukićevo"
+          latitude: 45.33815
+          longitude: 20.49895
+        -
+          name: "Međa"
+          latitude: 45.53815
+          longitude: 20.80677
+        -
+          name: "Melenci"
+          latitude: 45.5168
+          longitude: 20.31961
+        -
+          name: "Mihajlovo"
+          latitude: 45.47085
+          longitude: 20.41508
+        -
+          name: "Neuzina"
+          latitude: 45.3446
+          longitude: 20.71418
+        -
+          name: "Nova Crnja"
+          latitude: 45.6871254
+          longitude: 20.5100528
+        -
+          name: "Novi Bečej"
+          latitude: 45.5943515
+          longitude: 20.1885258
+        -
+          name: "Novi Itebej"
+          latitude: 45.55918
+          longitude: 20.7003
+        -
+          name: "Novo Miloševo"
+          latitude: 45.71916
+          longitude: 20.30364
+        -
+          name: "Orlovat"
+          latitude: 45.24171
+          longitude: 20.58089
+        -
+          name: "Perlez"
+          latitude: 45.20813
+          longitude: 20.38197
+        -
+          name: "Radojevo"
+          latitude: 45.74617
+          longitude: 20.78917
+        -
+          name: "Ravni Topolovac"
+          latitude: 45.46082
+          longitude: 20.56939
+        -
+          name: "Sečanj"
+          latitude: 45.32387
+          longitude: 20.6723321
+        -
+          name: "Srpska Crnja"
+          latitude: 45.72538
+          longitude: 20.69008
+        -
+          name: "Srpski Itebej"
+          latitude: 45.56715
+          longitude: 20.7135
+        -
+          name: "Stajićevo"
+          latitude: 45.29489
+          longitude: 20.45845
+        -
+          name: "Sutjeska"
+          latitude: 45.38312
+          longitude: 20.6962
+        -
+          name: "Taraš"
+          latitude: 45.46737
+          longitude: 20.19867
+        -
+          name: "Toba"
+          latitude: 45.68943
+          longitude: 20.55714
+        -
+          name: "Tomaševac"
+          latitude: 45.26855
+          longitude: 20.62272
+        -
+          name: "Torak"
+          latitude: 45.50928
+          longitude: 20.609
+        -
+          name: "Torda"
+          latitude: 45.58423
+          longitude: 20.459
+        -
+          name: "Vojvoda Stepa"
+          latitude: 45.68537
+          longitude: 20.65536
+        -
+          name: "Žitište"
+          latitude: 45.5415019
+          longitude: 20.2931049
+        -
+          name: "Zrenjanin"
+          latitude: 45.38361
+          longitude: 20.38194
+    -
+      name: "Jablanica"
+      code: "23"
+      iso3166_2: "RS-23"
+      type: "district"
+      latitude: 43.4529825
+      longitude: 21.2688387
+      cities:
+        -
+          name: "Bojnik"
+          latitude: 43.0396233
+          longitude: 21.502293
+        -
+          name: "Crna Trava"
+          latitude: 42.8122649
+          longitude: 22.2688572
+        -
+          name: "Kamenica"
+          latitude: 44.343
+          longitude: 19.72333
+        -
+          name: "Lebane"
+          latitude: 42.9231294
+          longitude: 21.7158936
+        -
+          name: "Leskovac"
+          latitude: 42.99806
+          longitude: 21.94611
+        -
+          name: "Medveđa"
+          latitude: 42.8327856
+          longitude: 21.533889
+        -
+          name: "Vlasotince"
+          latitude: 42.9664898
+          longitude: 22.0939966
+    -
+      name: "Kolubara"
+      code: "09"
+      iso3166_2: "RS-09"
+      type: "district"
+      latitude: 44.358907
+      longitude: 20.1421297
+      cities:
+        -
+          name: "Gornja Bukovica"
+          latitude: 44.33987
+          longitude: 19.81368
+        -
+          name: "Joševa"
+          latitude: 44.58772
+          longitude: 19.40967
+        -
+          name: "Lajkovac"
+          latitude: 44.3680995
+          longitude: 20.1411036
+        -
+          name: "Ljig"
+          latitude: 44.2228104
+          longitude: 20.2138996
+        -
+          name: "Mionica"
+          latitude: 44.2559528
+          longitude: 20.0596617
+        -
+          name: "Osečina"
+          latitude: 44.3720267
+          longitude: 19.5792674
+        -
+          name: "Ub"
+          latitude: 44.4559411
+          longitude: 20.0448988
+        -
+          name: "Valjevo"
+          latitude: 44.27513
+          longitude: 19.89821
+    -
+      name: "Kosovo"
+      code: "25"
+      iso3166_2: "RS-25"
+      type: "district"
+      latitude: 42.66333333
+      longitude: 21.16222222
+      cities:
+        []
+    -
+      name: "Kosovo-Metohija"
+      code: "KM"
+      iso3166_2: "RS-KM"
+      type: "province"
+      latitude: 42.66666667
+      longitude: 21.16666667
+      cities:
+        []
+    -
+      name: "Kosovo-Pomoravlje"
+      code: "29"
+      iso3166_2: "RS-29"
+      type: "district"
+      latitude: 42.5333
+      longitude: 21.5667
+      cities:
+        []
+    -
+      name: "Kosovska Mitrovica"
+      code: "28"
+      iso3166_2: "RS-28"
+      type: "district"
+      latitude: 42.88333333
+      longitude: 20.86666667
+      cities:
+        []
+    -
+      name: "Mačva"
+      code: "08"
+      iso3166_2: "RS-08"
+      type: "district"
+      latitude: 44.5203374
+      longitude: 19.5034197
+      cities:
+        -
+          name: "Badovinci"
+          latitude: 44.78534
+          longitude: 19.37146
+        -
+          name: "Banovo Polje"
+          latitude: 44.9104
+          longitude: 19.44916
+        -
+          name: "Belotić"
+          latitude: 44.81782
+          longitude: 19.54801
+        -
+          name: "Bogatić"
+          latitude: 44.8499741
+          longitude: 19.4013499
+        -
+          name: "Bogosavac"
+          latitude: 44.71799
+          longitude: 19.59533
+        -
+          name: "Brdarica"
+          latitude: 44.55376
+          longitude: 19.7715
+        -
+          name: "Bukor"
+          latitude: 44.49523
+          longitude: 19.57116
+        -
+          name: "Čokešina"
+          latitude: 44.65319
+          longitude: 19.39016
+        -
+          name: "Crna Bara"
+          latitude: 44.87374
+          longitude: 19.3948
+        -
+          name: "Dobrić"
+          latitude: 44.70224
+          longitude: 19.57931
+        -
+          name: "Donji Dobrić"
+          latitude: 44.61183
+          longitude: 19.33109
+        -
+          name: "Draginje"
+          latitude: 44.53302
+          longitude: 19.7625
+        -
+          name: "Glušci"
+          latitude: 44.89021
+          longitude: 19.54913
+        -
+          name: "Jadranska Lešnica"
+          latitude: 44.5973
+          longitude: 19.35209
+        -
+          name: "Jelenča"
+          latitude: 44.727
+          longitude: 19.735
+        -
+          name: "Jevremovac"
+          latitude: 44.72172
+          longitude: 19.66364
+        -
+          name: "Koceljeva"
+          latitude: 44.4629934
+          longitude: 19.7868054
+        -
+          name: "Kozjak"
+          latitude: 45.18264
+          longitude: 20.86381
+        -
+          name: "Krupanj"
+          latitude: 44.36556
+          longitude: 19.36194
+        -
+          name: "Lešnica"
+          latitude: 44.6525
+          longitude: 19.31
+        -
+          name: "Lipnički Šor"
+          latitude: 44.58058
+          longitude: 19.26572
+        -
+          name: "Lipolist"
+          latitude: 44.69783
+          longitude: 19.50101
+        -
+          name: "Ljubovija"
+          latitude: 44.18944
+          longitude: 19.37667
+        -
+          name: "Mačva"
+          latitude: 44.61472
+          longitude: 19.47222
+        -
+          name: "Majur"
+          latitude: 44.77105
+          longitude: 19.65512
+        -
+          name: "Mali Zvornik"
+          latitude: 44.37344
+          longitude: 19.10651
+        -
+          name: "Metković"
+          latitude: 44.85617
+          longitude: 19.54654
+        -
+          name: "Novo Selo"
+          latitude: 44.67041
+          longitude: 19.34495
+        -
+          name: "Petkovica"
+          latitude: 44.66627
+          longitude: 19.43923
+        -
+          name: "Pocerski Pričinović"
+          latitude: 44.72222
+          longitude: 19.70722
+        -
+          name: "Ribari"
+          latitude: 44.70961
+          longitude: 19.42472
+        -
+          name: "Rumska"
+          latitude: 44.57261
+          longitude: 19.58988
+        -
+          name: "Šabac"
+          latitude: 44.74667
+          longitude: 19.69
+        -
+          name: "Salaš Crnobarski"
+          latitude: 44.82843
+          longitude: 19.39437
+        -
+          name: "Ševarice"
+          latitude: 44.86704
+          longitude: 19.66006
+        -
+          name: "Sinošević"
+          latitude: 44.61503
+          longitude: 19.63601
+        -
+          name: "Štitar"
+          latitude: 44.79415
+          longitude: 19.59529
+        -
+          name: "Tršić"
+          latitude: 44.49502
+          longitude: 19.2649
+        -
+          name: "Uzveće"
+          latitude: 44.87861
+          longitude: 19.60356
+        -
+          name: "Vladimirci"
+          latitude: 44.61472
+          longitude: 19.78528
+        -
+          name: "Zminjak"
+          latitude: 44.75711
+          longitude: 19.4707
+    -
+      name: "Moravica"
+      code: "17"
+      iso3166_2: "RS-17"
+      type: "district"
+      latitude: 42.3872682
+      longitude: 21.7218213
+      cities:
+        -
+          name: "Čačak"
+          latitude: 43.89139
+          longitude: 20.34972
+        -
+          name: "Gornji Milanovac"
+          latitude: 44.02603
+          longitude: 20.46152
+        -
+          name: "Ivanjica"
+          latitude: 43.583665
+          longitude: 20.2155694
+        -
+          name: "Lučani"
+          latitude: 43.8585493
+          longitude: 20.1166175
+        -
+          name: "Prislonica"
+          latitude: 43.95223
+          longitude: 20.43521
+    -
+      name: "Nišava"
+      code: "20"
+      iso3166_2: "RS-20"
+      type: "district"
+      latitude: 43.2178129
+      longitude: 22.4795786
+      cities:
+        -
+          name: "Aleksandrovo"
+          latitude: 45.63755
+          longitude: 20.59288
+        -
+          name: "Aleksinac"
+          latitude: 43.5525548
+          longitude: 21.6311332
+        -
+          name: "Doljevac"
+          latitude: 43.2226265
+          longitude: 21.7628833
+        -
+          name: "Gadžin Han"
+          latitude: 43.2305349
+          longitude: 22.0131253
+        -
+          name: "Merošina"
+          latitude: 43.3015801
+          longitude: 21.5299305
+        -
+          name: "Niš"
+          latitude: 43.32472
+          longitude: 21.90333
+        -
+          name: "Ražanj"
+          latitude: 43.7092473
+          longitude: 21.4113126
+        -
+          name: "Svrljig"
+          latitude: 43.4693758
+          longitude: 21.8047277
+    -
+      name: "North Bačka"
+      code: "01"
+      iso3166_2: "RS-01"
+      type: "district"
+      latitude: 45.9011831
+      longitude: 19.5834192
+      cities:
+        -
+          name: "Bačka Topola"
+          latitude: 45.81516
+          longitude: 19.6318
+        -
+          name: "Krivaja"
+          latitude: 44.55021
+          longitude: 19.59153
+        -
+          name: "Mali Iđoš"
+          latitude: 45.7140624
+          longitude: 19.5867858
+        -
+          name: "Subotica"
+          latitude: 46.1
+          longitude: 19.66667
+    -
+      name: "North Banat"
+      code: "03"
+      iso3166_2: "RS-03"
+      type: "district"
+      latitude: 45.8887418
+      longitude: 20.1902354
+      cities:
+        -
+          name: "Ada"
+          latitude: 45.7860409
+          longitude: 19.8478856
+        -
+          name: "Adorjan"
+          latitude: 46.00333
+          longitude: 20.04007
+        -
+          name: "Banatska Topola"
+          latitude: 45.67248
+          longitude: 20.4653
+        -
+          name: "Banatsko Veliko Selo"
+          latitude: 45.81961
+          longitude: 20.60772
+        -
+          name: "Bašaid"
+          latitude: 45.64102
+          longitude: 20.41434
+        -
+          name: "Čoka"
+          latitude: 45.9425
+          longitude: 20.14333
+        -
+          name: "Gornji Breg"
+          latitude: 45.91995
+          longitude: 20.01766
+        -
+          name: "Jazovo"
+          latitude: 45.89876
+          longitude: 20.2213
+        -
+          name: "Kanjiža"
+          latitude: 46.06667
+          longitude: 20.05
+        -
+          name: "Kikinda"
+          latitude: 45.82972
+          longitude: 20.46528
+        -
+          name: "Mokrin"
+          latitude: 45.93362
+          longitude: 20.41215
+        -
+          name: "Mol"
+          latitude: 45.76457
+          longitude: 20.13286
+        -
+          name: "Nakovo"
+          latitude: 45.87503
+          longitude: 20.56709
+        -
+          name: "Novi Kneževac"
+          latitude: 46.05
+          longitude: 20.1
+        -
+          name: "Novi Kozarci"
+          latitude: 45.78241
+          longitude: 20.62289
+        -
+          name: "Ostojićevo"
+          latitude: 45.88863
+          longitude: 20.16642
+        -
+          name: "Padej"
+          latitude: 45.82756
+          longitude: 20.16279
+        -
+          name: "Rusko Selo"
+          latitude: 45.76291
+          longitude: 20.57117
+        -
+          name: "Sajan"
+          latitude: 45.84227
+          longitude: 20.27815
+        -
+          name: "Sanad"
+          latitude: 45.97596
+          longitude: 20.10816
+        -
+          name: "Senta"
+          latitude: 45.9275
+          longitude: 20.07722
+        -
+          name: "Tiszahegyes"
+          latitude: 45.82648
+          longitude: 20.31791
+    -
+      name: "Pčinja"
+      code: "24"
+      iso3166_2: "RS-24"
+      type: "district"
+      latitude: 42.3850389
+      longitude: 22.0103627
+      cities:
+        -
+          name: "Biljača"
+          latitude: 42.35518
+          longitude: 21.74781
+        -
+          name: "Bosilegrad"
+          latitude: 42.5023374
+          longitude: 22.4194044
+        -
+          name: "Bujanovac"
+          latitude: 42.4567548
+          longitude: 21.7472647
+        -
+          name: "Miratovac"
+          latitude: 42.25846
+          longitude: 21.66456
+        -
+          name: "Preševo"
+          latitude: 42.3158134
+          longitude: 21.5714486
+        -
+          name: "Radovnica"
+          latitude: 42.43364
+          longitude: 22.22861
+        -
+          name: "Rajince"
+          latitude: 42.3787
+          longitude: 21.69591
+        -
+          name: "Samoljica"
+          latitude: 42.38445
+          longitude: 21.73708
+        -
+          name: "Surdulica"
+          latitude: 42.6900819
+          longitude: 22.1559905
+        -
+          name: "Trgovište"
+          latitude: 42.3565985
+          longitude: 22.0235102
+        -
+          name: "Vladičin Han"
+          latitude: 42.7073832
+          longitude: 22.0441392
+        -
+          name: "Vranje"
+          latitude: 42.55139
+          longitude: 21.90028
+        -
+          name: "Žujince"
+          latitude: 42.31568
+          longitude: 21.70212
+    -
+      name: "Peć"
+      code: "26"
+      iso3166_2: "RS-26"
+      type: "district"
+      latitude: 42.66
+      longitude: 20.288
+      cities:
+        []
+    -
+      name: "Pirot"
+      code: "22"
+      iso3166_2: "RS-22"
+      type: "district"
+      latitude: 43.1547342
+      longitude: 22.5865039
+      cities:
+        -
+          name: "Babušnica"
+          latitude: 43.0657334
+          longitude: 22.3871969
+        -
+          name: "Bela Palanka"
+          latitude: 43.2142107
+          longitude: 22.2989844
+        -
+          name: "Dimitrovgrad"
+          latitude: 43.0214083
+          longitude: 22.7395098
+        -
+          name: "Pirot"
+          latitude: 43.17528
+          longitude: 22.59278
+        -
+          name: "Sumulicë"
+          latitude: 42.38682
+          longitude: 21.734
+    -
+      name: "Podunavlje"
+      code: "10"
+      iso3166_2: "RS-10"
+      type: "district"
+      latitude: 44.7281091
+      longitude: 20.8092213
+      cities:
+        -
+          name: "Lugavčina"
+          latitude: 44.52314
+          longitude: 21.07083
+        -
+          name: "Smederevo"
+          latitude: 44.66436
+          longitude: 20.92763
+        -
+          name: "Smederevska Palanka"
+          latitude: 44.36548
+          longitude: 20.95885
+        -
+          name: "Velika Plana"
+          latitude: 44.3257876
+          longitude: 20.9703228
+    -
+      name: "Pomoravlje"
+      code: "13"
+      iso3166_2: "RS-13"
+      type: "district"
+      latitude: 44.0221107
+      longitude: 21.4408567
+      cities:
+        -
+          name: "Ćuprija"
+          latitude: 43.9275
+          longitude: 21.37
+        -
+          name: "Despotovac"
+          latitude: 44.0947262
+          longitude: 21.3991349
+        -
+          name: "Drenovac"
+          latitude: 44.86649
+          longitude: 19.70943
+        -
+          name: "Dublje"
+          latitude: 44.80117
+          longitude: 19.50902
+        -
+          name: "Duboka"
+          latitude: 44.52223
+          longitude: 21.7603
+        -
+          name: "Grabovac"
+          latitude: 44.60049
+          longitude: 20.08539
+        -
+          name: "Jagodina"
+          latitude: 43.97713
+          longitude: 21.26121
+        -
+          name: "Paraćin"
+          latitude: 43.86083
+          longitude: 21.40778
+        -
+          name: "Rekovac"
+          latitude: 43.8657725
+          longitude: 21.0287754
+        -
+          name: "Svilajnac"
+          latitude: 44.2452632
+          longitude: 21.1580364
+    -
+      name: "Prizren"
+      code: "27"
+      iso3166_2: "RS-27"
+      type: "district"
+      latitude: 42.21277778
+      longitude: 20.73916667
+      cities:
+        []
+    -
+      name: "Rasina"
+      code: "19"
+      iso3166_2: "RS-19"
+      type: "district"
+      latitude: 43.4109278
+      longitude: 21.159705
+      cities:
+        -
+          name: "Aleksandrovac"
+          latitude: 43.4598942
+          longitude: 21.0308789
+        -
+          name: "Brus"
+          latitude: 43.383762
+          longitude: 21.0065673
+        -
+          name: "Ćićevac"
+          latitude: 43.71882
+          longitude: 21.44085
+        -
+          name: "Kruševac"
+          latitude: 43.58
+          longitude: 21.33389
+        -
+          name: "Trstenik"
+          latitude: 43.61694
+          longitude: 21.0025
+        -
+          name: "Varvarin"
+          latitude: 43.7230694
+          longitude: 21.3409852
+    -
+      name: "Raška"
+      code: "18"
+      iso3166_2: "RS-18"
+      type: "district"
+      latitude: 43.2869592
+      longitude: 20.6141348
+      cities:
+        -
+          name: "Jarebice"
+          latitude: 44.53995
+          longitude: 19.42418
+        -
+          name: "Kraljevo"
+          latitude: 43.72583
+          longitude: 20.68944
+        -
+          name: "Novi Pazar"
+          latitude: 43.13667
+          longitude: 20.51222
+        -
+          name: "Raška"
+          latitude: 43.26694
+          longitude: 20.65278
+        -
+          name: "Tutin"
+          latitude: 42.99028
+          longitude: 20.33139
+        -
+          name: "Vrnjačka Banja"
+          latitude: 43.62725
+          longitude: 20.89634
+    -
+      name: "South Bačka"
+      code: "06"
+      iso3166_2: "RS-06"
+      type: "district"
+      latitude: 45.4491396
+      longitude: 19.7680303
+      cities:
+        -
+          name: "Bač"
+          latitude: 45.3561915
+          longitude: 19.1420863
+        -
+          name: "Bačka Palanka"
+          latitude: 45.24966
+          longitude: 19.39664
+        -
+          name: "Bački Petrovac"
+          latitude: 45.36056
+          longitude: 19.59167
+        -
+          name: "Bačko Gradište"
+          latitude: 45.53271
+          longitude: 20.03082
+        -
+          name: "Bačko Petrovo Selo"
+          latitude: 45.70681
+          longitude: 20.07928
+        -
+          name: "Bečej"
+          latitude: 45.61632
+          longitude: 20.03331
+        -
+          name: "Beočin"
+          latitude: 45.1942063
+          longitude: 19.6812551
+        -
+          name: "Čelarevo"
+          latitude: 45.26999
+          longitude: 19.52484
+        -
+          name: "Čurug"
+          latitude: 45.47221
+          longitude: 20.06861
+        -
+          name: "Despotovo"
+          latitude: 45.45983
+          longitude: 19.52653
+        -
+          name: "Ðurđevo"
+          latitude: 45.32591
+          longitude: 20.06532
+        -
+          name: "Gardinovci"
+          latitude: 45.20359
+          longitude: 20.13558
+        -
+          name: "Gložan"
+          latitude: 45.27954
+          longitude: 19.56838
+        -
+          name: "Kisač"
+          latitude: 45.35421
+          longitude: 19.72975
+        -
+          name: "Kovilj"
+          latitude: 45.23422
+          longitude: 20.02327
+        -
+          name: "Kulpin"
+          latitude: 45.4024
+          longitude: 19.58814
+        -
+          name: "Lok"
+          latitude: 45.21583
+          longitude: 20.21222
+        -
+          name: "Maglić"
+          latitude: 45.36248
+          longitude: 19.53211
+        -
+          name: "Mošorin"
+          latitude: 45.30196
+          longitude: 20.16919
+        -
+          name: "Novi Sad"
+          latitude: 45.25167
+          longitude: 19.83694
+        -
+          name: "Obrovac"
+          latitude: 45.32106
+          longitude: 19.35048
+        -
+          name: "Petrovaradin"
+          latitude: 45.24667
+          longitude: 19.87944
+        -
+          name: "Ravno Selo"
+          latitude: 45.44967
+          longitude: 19.62097
+        -
+          name: "Rumenka"
+          latitude: 45.294
+          longitude: 19.74306
+        -
+          name: "Šajkaš"
+          latitude: 45.27315
+          longitude: 20.09051
+        -
+          name: "Srbobran"
+          latitude: 45.5951513
+          longitude: 19.7183106
+        -
+          name: "Sremski Karlovci"
+          latitude: 45.20285
+          longitude: 19.93373
+        -
+          name: "Stepanovićevo"
+          latitude: 45.41369
+          longitude: 19.7
+        -
+          name: "Temerin"
+          latitude: 45.4281743
+          longitude: 19.8137948
+        -
+          name: "Titel"
+          latitude: 45.20611
+          longitude: 20.29444
+        -
+          name: "Turija"
+          latitude: 44.52273
+          longitude: 21.63945
+        -
+          name: "Veternik"
+          latitude: 45.25446
+          longitude: 19.7588
+        -
+          name: "Vilovo"
+          latitude: 45.24859
+          longitude: 20.15521
+        -
+          name: "Vrbas"
+          latitude: 45.57139
+          longitude: 19.64083
+        -
+          name: "Žabalj"
+          latitude: 45.37222
+          longitude: 20.06389
+        -
+          name: "Zmajevo"
+          latitude: 45.45408
+          longitude: 19.6905
+    -
+      name: "South Banat"
+      code: "04"
+      iso3166_2: "RS-04"
+      type: "district"
+      latitude: 44.9947432
+      longitude: 20.9388489
+      cities:
+        -
+          name: "Alibunar"
+          latitude: 45.08083
+          longitude: 20.96583
+        -
+          name: "Banatski Karlovac"
+          latitude: 45.04987
+          longitude: 21.018
+        -
+          name: "Baranda"
+          latitude: 45.08459
+          longitude: 20.44264
+        -
+          name: "Barice"
+          latitude: 45.18189
+          longitude: 21.08279
+        -
+          name: "Bela Crkva"
+          latitude: 44.8975
+          longitude: 21.41722
+        -
+          name: "Crepaja"
+          latitude: 45.00984
+          longitude: 20.63702
+        -
+          name: "Debeljača"
+          latitude: 45.0707
+          longitude: 20.60153
+        -
+          name: "Dobrica"
+          latitude: 45.21339
+          longitude: 20.84995
+        -
+          name: "Gudurica"
+          latitude: 45.16816
+          longitude: 21.44264
+        -
+          name: "Hajdučica"
+          latitude: 45.2501
+          longitude: 20.96016
+        -
+          name: "Idvor"
+          latitude: 45.18895
+          longitude: 20.51442
+        -
+          name: "Ilandža"
+          latitude: 45.16897
+          longitude: 20.92008
+        -
+          name: "Izbište"
+          latitude: 45.02253
+          longitude: 21.18388
+        -
+          name: "Janošik"
+          latitude: 45.17141
+          longitude: 21.00658
+        -
+          name: "Jermenovci"
+          latitude: 45.18635
+          longitude: 21.0455
+        -
+          name: "Kovačica"
+          latitude: 45.11167
+          longitude: 20.62139
+        -
+          name: "Kovin"
+          latitude: 44.7475
+          longitude: 20.97611
+        -
+          name: "Kuštilj"
+          latitude: 45.03487
+          longitude: 21.37989
+        -
+          name: "Lokve"
+          latitude: 45.15198
+          longitude: 21.03073
+        -
+          name: "Margita"
+          latitude: 45.21598
+          longitude: 21.17527
+        -
+          name: "Nikolinci"
+          latitude: 45.05245
+          longitude: 21.06695
+        -
+          name: "Opovo"
+          latitude: 45.05222
+          longitude: 20.43028
+        -
+          name: "Padina"
+          latitude: 45.11988
+          longitude: 20.7286
+        -
+          name: "Pančevo"
+          latitude: 44.87177
+          longitude: 20.64167
+        -
+          name: "Pavliš"
+          latitude: 45.10569
+          longitude: 21.23952
+        -
+          name: "Plandište"
+          latitude: 45.22722
+          longitude: 21.12167
+        -
+          name: "Sakule"
+          latitude: 45.14667
+          longitude: 20.48619
+        -
+          name: "Samoš"
+          latitude: 45.20255
+          longitude: 20.77392
+        -
+          name: "Sefkerin"
+          latitude: 45.00501
+          longitude: 20.48256
+        -
+          name: "Seleuš"
+          latitude: 45.1277
+          longitude: 20.91461
+        -
+          name: "Stari Lec"
+          latitude: 45.28401
+          longitude: 20.96433
+        -
+          name: "Uljma"
+          latitude: 45.04213
+          longitude: 21.15393
+        -
+          name: "Uzdin"
+          latitude: 45.20512
+          longitude: 20.62342
+        -
+          name: "Velika Greda"
+          latitude: 45.24376
+          longitude: 21.03498
+        -
+          name: "Veliki Gaj"
+          latitude: 45.28849
+          longitude: 21.17057
+        -
+          name: "Veliko Središte"
+          latitude: 45.17919
+          longitude: 21.40353
+        -
+          name: "Vladimirovac"
+          latitude: 45.03122
+          longitude: 20.86566
+        -
+          name: "Vlajkovac"
+          latitude: 45.07207
+          longitude: 21.19945
+        -
+          name: "Vršac"
+          latitude: 45.11667
+          longitude: 21.30361
+    -
+      name: "Srem"
+      code: "07"
+      iso3166_2: "RS-07"
+      type: "district"
+      latitude: 44.9187838
+      longitude: 19.9702308
+      cities:
+        -
+          name: "Belegiš"
+          latitude: 45.0192
+          longitude: 20.33323
+        -
+          name: "Beška"
+          latitude: 45.13092
+          longitude: 20.06698
+        -
+          name: "Bosut"
+          latitude: 44.92977
+          longitude: 19.36086
+        -
+          name: "Buđanovci"
+          latitude: 44.89388
+          longitude: 19.86344
+        -
+          name: "Čortanovci"
+          latitude: 45.1546
+          longitude: 20.01851
+        -
+          name: "Golubinci"
+          latitude: 44.98533
+          longitude: 20.06339
+        -
+          name: "Grabovci"
+          latitude: 44.76496
+          longitude: 19.84489
+        -
+          name: "Hrtkovci"
+          latitude: 44.88155
+          longitude: 19.76374
+        -
+          name: "Inđija"
+          latitude: 45.04816
+          longitude: 20.08165
+        -
+          name: "Irig"
+          latitude: 45.0523
+          longitude: 19.84448
+        -
+          name: "Jarak"
+          latitude: 44.91843
+          longitude: 19.75477
+        -
+          name: "Klenak"
+          latitude: 44.78846
+          longitude: 19.71004
+        -
+          name: "Krčedin"
+          latitude: 45.13871
+          longitude: 20.13308
+        -
+          name: "Ljukovo"
+          latitude: 45.02604
+          longitude: 20.02737
+        -
+          name: "Mačvanska Mitrovica"
+          latitude: 44.96739
+          longitude: 19.59314
+        -
+          name: "Nikinci"
+          latitude: 44.85017
+          longitude: 19.82321
+        -
+          name: "Nova Pazova"
+          latitude: 44.94366
+          longitude: 20.21931
+        -
+          name: "Novi Banovci"
+          latitude: 44.95691
+          longitude: 20.28076
+        -
+          name: "Novi Karlovci"
+          latitude: 45.07636
+          longitude: 20.17948
+        -
+          name: "Novi Slankamen"
+          latitude: 45.12554
+          longitude: 20.23914
+        -
+          name: "Pećinci"
+          latitude: 44.90889
+          longitude: 19.96639
+        -
+          name: "Platičevo"
+          latitude: 44.82213
+          longitude: 19.79487
+        -
+          name: "Putinci"
+          latitude: 44.99259
+          longitude: 19.97102
+        -
+          name: "Radenković"
+          latitude: 44.92191
+          longitude: 19.49543
+        -
+          name: "Ravnje"
+          latitude: 44.94326
+          longitude: 19.4228
+        -
+          name: "Ruma"
+          latitude: 45.00806
+          longitude: 19.82222
+        -
+          name: "Salaš Noćajski"
+          latitude: 44.94722
+          longitude: 19.58611
+        -
+          name: "Šašinci"
+          latitude: 44.96514
+          longitude: 19.74151
+        -
+          name: "Šid"
+          latitude: 45.1496922
+          longitude: 19.1284499
+        -
+          name: "Šimanovci"
+          latitude: 44.87393
+          longitude: 20.09175
+        -
+          name: "Sremska Mitrovica"
+          latitude: 44.97639
+          longitude: 19.61222
+        -
+          name: "Stara Pazova"
+          latitude: 44.985
+          longitude: 20.16083
+        -
+          name: "Stari Banovci"
+          latitude: 44.9842
+          longitude: 20.28382
+        -
+          name: "Surduk"
+          latitude: 45.07118
+          longitude: 20.3251
+        -
+          name: "Višnjićevo"
+          latitude: 44.96731
+          longitude: 19.28993
+        -
+          name: "Vojka"
+          latitude: 44.93713
+          longitude: 20.15236
+        -
+          name: "Vrdnik"
+          latitude: 45.12174
+          longitude: 19.79227
+    -
+      name: "Šumadija"
+      code: "12"
+      iso3166_2: "RS-12"
+      type: "district"
+      latitude: 44.6178028
+      longitude: 20.2771884
+      cities:
+        -
+          name: "Aranđelovac"
+          latitude: 44.30694
+          longitude: 20.56
+        -
+          name: "Batočina"
+          latitude: 44.1546572
+          longitude: 21.024913
+        -
+          name: "Knić"
+          latitude: 43.9275574
+          longitude: 20.6790583
+        -
+          name: "Kragujevac"
+          latitude: 44.01667
+          longitude: 20.91667
+        -
+          name: "Lapovo"
+          latitude: 44.18424
+          longitude: 21.09727
+        -
+          name: "Rača"
+          latitude: 44.2334494
+          longitude: 20.960745
+        -
+          name: "Sokolovo Brdo"
+          latitude: 43.13694
+          longitude: 19.80556
+        -
+          name: "Topola"
+          latitude: 44.2520489
+          longitude: 20.6686305
+    -
+      name: "Toplica"
+      code: "21"
+      iso3166_2: "RS-21"
+      type: "district"
+      latitude: 43.2165528
+      longitude: 21.4043682
+      cities:
+        -
+          name: "Blace"
+          latitude: 43.2987419
+          longitude: 21.2484485
+        -
+          name: "Ðurići"
+          latitude: 43.82533
+          longitude: 19.41233
+        -
+          name: "Kupinovo"
+          latitude: 44.70708
+          longitude: 20.04959
+        -
+          name: "Kuršumlija"
+          latitude: 43.1378428
+          longitude: 21.2430921
+        -
+          name: "Prokuplje"
+          latitude: 43.23417
+          longitude: 21.58806
+        -
+          name: "Žitorađa"
+          latitude: 43.1849275
+          longitude: 21.6164132
+    -
+      name: "Vojvodina"
+      code: "VO"
+      iso3166_2: "RS-VO"
+      type: "province"
+      latitude: 45.4102776
+      longitude: 19.9762992
+      cities:
+        []
+    -
+      name: "West Bačka"
+      code: "05"
+      iso3166_2: "RS-05"
+      type: "district"
+      latitude: 45.7355385
+      longitude: 19.1897364
+      cities:
+        -
+          name: "Apatin"
+          latitude: 45.6726
+          longitude: 18.978
+        -
+          name: "Bački Breg"
+          latitude: 45.92034
+          longitude: 18.92944
+        -
+          name: "Bogojevo"
+          latitude: 45.53015
+          longitude: 19.13022
+        -
+          name: "Doroslovo"
+          latitude: 45.60699
+          longitude: 19.18868
+        -
+          name: "Gakovo"
+          latitude: 45.90078
+          longitude: 19.06138
+        -
+          name: "Kolut"
+          latitude: 45.89292
+          longitude: 18.9276
+        -
+          name: "Kula"
+          latitude: 45.6070631
+          longitude: 19.4605664
+        -
+          name: "Kupusina"
+          latitude: 45.73759
+          longitude: 19.01082
+        -
+          name: "Odžaci"
+          latitude: 45.5020656
+          longitude: 19.2048714
+        -
+          name: "Prigrevica"
+          latitude: 45.67636
+          longitude: 19.08809
+        -
+          name: "Riđica"
+          latitude: 45.99088
+          longitude: 19.10635
+        -
+          name: "Sombor"
+          latitude: 45.77417
+          longitude: 19.11222
+        -
+          name: "Sonta"
+          latitude: 45.59427
+          longitude: 19.09719
+        -
+          name: "Stanišić"
+          latitude: 45.93895
+          longitude: 19.16709
+    -
+      name: "Zaječar"
+      code: "15"
+      iso3166_2: "RS-15"
+      type: "district"
+      latitude: 43.9015048
+      longitude: 22.2738011
+      cities:
+        -
+          name: "Boljevac"
+          latitude: 43.8311432
+          longitude: 21.9215862
+        -
+          name: "Boljevci"
+          latitude: 44.72355
+          longitude: 20.22348
+        -
+          name: "Knjazevac"
+          latitude: 43.56634
+          longitude: 22.25701
+        -
+          name: "Sokobanja"
+          latitude: 43.6343146
+          longitude: 21.8244259
+        -
+          name: "Zaječar"
+          latitude: 43.69917
+          longitude: 21.98778
+    -
+      name: "Zlatibor"
+      code: "16"
+      iso3166_2: "RS-16"
+      type: "district"
+      latitude: 43.6531807
+      longitude: 19.6405865
+      cities:
+        -
+          name: "Arilje"
+          latitude: 43.75306
+          longitude: 20.09556
+        -
+          name: "Bajina Bašta"
+          latitude: 43.97083
+          longitude: 19.5675
+        -
+          name: "Čajetina"
+          latitude: 43.74977
+          longitude: 19.71273
+        -
+          name: "Kosjerić"
+          latitude: 43.9999215
+          longitude: 19.8915676
+        -
+          name: "Nova Varoš"
+          latitude: 43.4656811
+          longitude: 19.7673647
+        -
+          name: "Osječenik"
+          latitude: 43.14528
+          longitude: 19.85889
+        -
+          name: "Požega"
+          latitude: 43.8403358
+          longitude: 19.996919
+        -
+          name: "Priboj"
+          latitude: 43.58306
+          longitude: 19.52519
+        -
+          name: "Prijepolje"
+          latitude: 43.38996
+          longitude: 19.6487
+        -
+          name: "Sjenica"
+          latitude: 43.27306
+          longitude: 19.99944
+        -
+          name: "Užice"
+          latitude: 43.85861
+          longitude: 19.84878

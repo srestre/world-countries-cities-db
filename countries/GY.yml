@@ -1,0 +1,155 @@
+-
+  name: "Guyana"
+  name_es: "Guyana"
+  native: "Guyana"
+  iso2: "GY"
+  iso3: "GUY"
+  numeric_code: "328"
+  phonecode: "592"
+  capital: "Georgetown"
+  currency: "GYD"
+  currency_name: "Guyanese dollar"
+  currency_symbol: "$"
+  tld: ".gy"
+  region: "Americas"
+  subregion: "South America"
+  latitude: 5
+  longitude: -59
+  emoji: "🇬🇾"
+  states:
+    -
+      name: "Barima-Waini"
+      code: "BA"
+      iso3166_2: "GY-BA"
+      type: "region"
+      latitude: 7.7559147
+      longitude: -59.7179022
+      cities:
+        -
+          name: "Mabaruma"
+          latitude: 8.2
+          longitude: -59.78333
+    -
+      name: "Cuyuni-Mazaruni"
+      code: "CU"
+      iso3166_2: "GY-CU"
+      type: "region"
+      latitude: 6.188854
+      longitude: -59.849737
+      cities:
+        -
+          name: "Bartica"
+          latitude: 6.40799
+          longitude: -58.62192
+    -
+      name: "Demerara-Mahaica"
+      code: "DE"
+      iso3166_2: "GY-DE"
+      type: "region"
+      latitude: 6.4547883
+      longitude: -58.1280676
+      cities:
+        -
+          name: "Georgetown"
+          latitude: 6.80448
+          longitude: -58.15527
+        -
+          name: "Mahaica Village"
+          latitude: 6.68405
+          longitude: -57.92181
+    -
+      name: "East Berbice-Corentyne"
+      code: "EB"
+      iso3166_2: "GY-EB"
+      type: "region"
+      latitude: 3.8972611
+      longitude: -58.1383925
+      cities:
+        -
+          name: "New Amsterdam"
+          latitude: 6.24793
+          longitude: -57.5171
+        -
+          name: "Skeldon"
+          latitude: 5.88333
+          longitude: -57.13333
+    -
+      name: "Essequibo Islands-West Demerara"
+      code: "ES"
+      iso3166_2: "GY-ES"
+      type: "region"
+      latitude: 6.8777848
+      longitude: -58.3114218
+      cities:
+        -
+          name: "Parika"
+          latitude: 6.83712
+          longitude: -58.42941
+        -
+          name: "Vreed-en-Hoop"
+          latitude: 6.80927
+          longitude: -58.19798
+    -
+      name: "Mahaica-Berbice"
+      code: "MA"
+      iso3166_2: "GY-MA"
+      type: "region"
+      latitude: 6.2766898
+      longitude: -57.82391
+      cities:
+        -
+          name: "Mahaicony Village"
+          latitude: 6.57633
+          longitude: -57.80486
+        -
+          name: "Rosignol"
+          latitude: 6.27095
+          longitude: -57.53697
+    -
+      name: "Pomeroon-Supenaam"
+      code: "PM"
+      iso3166_2: "GY-PM"
+      type: "region"
+      latitude: 7.2049548
+      longitude: -58.8295641
+      cities:
+        -
+          name: "Anna Regina"
+          latitude: 7.26439
+          longitude: -58.50769
+    -
+      name: "Potaro-Siparuni"
+      code: "PT"
+      iso3166_2: "GY-PT"
+      type: "region"
+      latitude: 4.8622287
+      longitude: -59.4193612
+      cities:
+        -
+          name: "Mahdia"
+          latitude: 5.26667
+          longitude: -59.15
+    -
+      name: "Upper Demerara-Berbice"
+      code: "UD"
+      iso3166_2: "GY-UD"
+      type: "region"
+      latitude: 5.5612677
+      longitude: -58.154152
+      cities:
+        -
+          name: "Linden"
+          latitude: 6.00809
+          longitude: -58.30714
+    -
+      name: "Upper Takutu-Upper Essequibo"
+      code: "UT"
+      iso3166_2: "GY-UT"
+      type: "region"
+      latitude: 2.8449628
+      longitude: -58.9784823
+      cities:
+        -
+          name: "Lethem"
+          latitude: 3.38333
+          longitude: -59.8

@@ -1,0 +1,203 @@
+-
+  name: "Gabon"
+  name_es: "Gabón"
+  native: "Gabon"
+  iso2: "GA"
+  iso3: "GAB"
+  numeric_code: "266"
+  phonecode: "241"
+  capital: "Libreville"
+  currency: "XAF"
+  currency_name: "Central African CFA franc"
+  currency_symbol: "FCFA"
+  tld: ".ga"
+  region: "Africa"
+  subregion: "Middle Africa"
+  latitude: -1
+  longitude: 11.75
+  emoji: "🇬🇦"
+  states:
+    -
+      name: "Estuaire"
+      code: "1"
+      iso3166_2: "GA-1"
+      type: "province"
+      latitude: 0.4302639
+      longitude: 9.4655189
+      cities:
+        -
+          name: "Cocobeach"
+          latitude: 1.00019
+          longitude: 9.58229
+        -
+          name: "Libreville"
+          latitude: 0.39241
+          longitude: 9.45356
+        -
+          name: "Ntoum"
+          latitude: 0.39051
+          longitude: 9.76096
+    -
+      name: "Haut-Ogooué"
+      code: "2"
+      iso3166_2: "GA-2"
+      type: "province"
+      latitude: -1.231544
+      longitude: 13.8309713
+      cities:
+        -
+          name: "Franceville"
+          latitude: -1.63333
+          longitude: 13.58357
+        -
+          name: "Lékoni"
+          latitude: -1.58431
+          longitude: 14.25905
+        -
+          name: "Moanda"
+          latitude: -1.56652
+          longitude: 13.1987
+        -
+          name: "Mounana"
+          latitude: -1.4085
+          longitude: 13.15857
+        -
+          name: "Okondja"
+          latitude: -0.65487
+          longitude: 13.67533
+    -
+      name: "Moyen-Ogooué"
+      code: "3"
+      iso3166_2: "GA-3"
+      type: "province"
+      latitude: -0.5003495
+      longitude: 10.4991063
+      cities:
+        -
+          name: "Lambaréné"
+          latitude: -0.7001
+          longitude: 10.24055
+        -
+          name: "Ndjolé"
+          latitude: -0.17827
+          longitude: 10.76488
+    -
+      name: "Ngounié"
+      code: "4"
+      iso3166_2: "GA-4"
+      type: "province"
+      latitude: -1.5910727
+      longitude: 10.978503
+      cities:
+        -
+          name: "Fougamou"
+          latitude: -1.21544
+          longitude: 10.58378
+        -
+          name: "Mbigou"
+          latitude: -1.90046
+          longitude: 11.906
+        -
+          name: "Mimongo"
+          latitude: -1.61952
+          longitude: 11.60675
+        -
+          name: "Mouila"
+          latitude: -1.86846
+          longitude: 11.05594
+        -
+          name: "Ndendé"
+          latitude: -2.40077
+          longitude: 11.35813
+    -
+      name: "Nyanga"
+      code: "5"
+      iso3166_2: "GA-5"
+      type: "province"
+      latitude: -3.0080415
+      longitude: 10.9964746
+      cities:
+        -
+          name: "Mayumba"
+          latitude: -3.43198
+          longitude: 10.6554
+        -
+          name: "Tchibanga"
+          latitude: -2.93323
+          longitude: 10.98178
+    -
+      name: "Ogooué-Ivindo"
+      code: "6"
+      iso3166_2: "GA-6"
+      type: "province"
+      latitude: 0.60082
+      longitude: 12.6887911
+      cities:
+        -
+          name: "Booué"
+          latitude: -0.09207
+          longitude: 11.93846
+        -
+          name: "Makokou"
+          latitude: 0.57381
+          longitude: 12.86419
+        -
+          name: "Zadie"
+          latitude: 0.92582
+          longitude: 13.90813
+    -
+      name: "Ogooué-Lolo"
+      code: "7"
+      iso3166_2: "GA-7"
+      type: "province"
+      latitude: -1.0002904
+      longitude: 12.4952424
+      cities:
+        -
+          name: "Koulamoutou"
+          latitude: -1.13667
+          longitude: 12.46399
+        -
+          name: "Lastoursville"
+          latitude: -0.81742
+          longitude: 12.70818
+    -
+      name: "Ogooué-Maritime"
+      code: "8"
+      iso3166_2: "GA-8"
+      type: "province"
+      latitude: -1.4958157
+      longitude: 9.5060896
+      cities:
+        -
+          name: "Gamba"
+          latitude: -2.65
+          longitude: 10
+        -
+          name: "Omboué"
+          latitude: -1.57464
+          longitude: 9.26184
+        -
+          name: "Port-Gentil"
+          latitude: -0.71933
+          longitude: 8.78151
+    -
+      name: "Woleu-Ntem"
+      code: "9"
+      iso3166_2: "GA-9"
+      type: "province"
+      latitude: 1.2950125
+      longitude: 11.8218827
+      cities:
+        -
+          name: "Bitam"
+          latitude: 2.07597
+          longitude: 11.50065
+        -
+          name: "Mitzic"
+          latitude: 0.78205
+          longitude: 11.54904
+        -
+          name: "Oyem"
+          latitude: 1.5995
+          longitude: 11.57933

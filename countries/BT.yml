@@ -1,0 +1,407 @@
+-
+  name: "Bhutan"
+  name_es: "Bután"
+  native: "ʼbrug-yul"
+  iso2: "BT"
+  iso3: "BTN"
+  numeric_code: "064"
+  phonecode: "975"
+  capital: "Thimphu"
+  currency: "BTN"
+  currency_name: "Bhutanese ngultrum"
+  currency_symbol: "Nu."
+  tld: ".bt"
+  region: "Asia"
+  subregion: "Southern Asia"
+  latitude: 27.5
+  longitude: 90.5
+  emoji: "🇧🇹"
+  states:
+    -
+      name: "Bumthang "
+      code: "33"
+      iso3166_2: "BT-33"
+      type: "district"
+      latitude: 27.7079132
+      longitude: 90.7697435
+      cities:
+        -
+          name: "Jakar"
+          latitude: 27.54918
+          longitude: 90.7525
+        -
+          name: "Tang Valley"
+          latitude: 27.5025242
+          longitude: 90.7449544
+    -
+      name: "Chukha "
+      code: "12"
+      iso3166_2: "BT-12"
+      type: "district"
+      latitude: 27.0575803
+      longitude: 89.5638178
+      cities:
+        -
+          name: "Chapchha"
+          latitude: 27.2
+          longitude: 89.55
+        -
+          name: "Daphu"
+          latitude: 26.9667
+          longitude: 89.3833
+        -
+          name: "Khitokha"
+          latitude: 26.9
+          longitude: 89.6167
+        -
+          name: "Lobnig"
+          latitude: 27.15
+          longitude: 89.55
+        -
+          name: "Pachu"
+          latitude: 26.9
+          longitude: 89.35
+        -
+          name: "Phuntsholing"
+          latitude: 26.85164
+          longitude: 89.38837
+    -
+      name: "Dagana "
+      code: "22"
+      iso3166_2: "BT-22"
+      type: "district"
+      latitude: 27.0746653
+      longitude: 89.8786685
+      cities:
+        -
+          name: "Daga"
+          latitude: 27.07529
+          longitude: 89.87688
+        -
+          name: "Sibsu"
+          latitude: 27
+          longitude: 88.9
+        -
+          name: "Thumgaon"
+          latitude: 26.9833
+          longitude: 89.9667
+    -
+      name: "Gasa "
+      code: "GA"
+      iso3166_2: "BT-GA"
+      type: "district"
+      latitude: 27.9190875
+      longitude: 89.7875318
+      cities:
+        -
+          name: "Gasa"
+          latitude: 27.90372
+          longitude: 89.72689
+    -
+      name: "Haa "
+      code: "13"
+      iso3166_2: "BT-13"
+      type: "district"
+      latitude: 27.3596658
+      longitude: 89.2357556
+      cities:
+        -
+          name: "Ha"
+          latitude: 27.38747
+          longitude: 89.28074
+        -
+          name: "Naktsang"
+          latitude: 27.3833
+          longitude: 89.2667
+        -
+          name: "Sangkari"
+          latitude: 27.3
+          longitude: 89.3167
+    -
+      name: "Lhuntse "
+      code: "44"
+      iso3166_2: "BT-44"
+      type: "district"
+      latitude: 27.7287448
+      longitude: 91.1363624
+      cities:
+        -
+          name: "Lhuentse"
+          latitude: 27.66787
+          longitude: 91.18393
+    -
+      name: "Mongar "
+      code: "42"
+      iso3166_2: "BT-42"
+      type: "district"
+      latitude: 27.2763005
+      longitude: 91.237536
+      cities:
+        -
+          name: "Kengkhar"
+          latitude: 27.1
+          longitude: 91.25
+        -
+          name: "Mongar"
+          latitude: 27.27471
+          longitude: 91.23963
+        -
+          name: "Thebong"
+          latitude: 27.2667
+          longitude: 91.2667
+    -
+      name: "Paro "
+      code: "11"
+      iso3166_2: "BT-11"
+      type: "district"
+      latitude: 27.4285949
+      longitude: 89.4166516
+      cities:
+        -
+          name: "Paro"
+          latitude: 27.4305
+          longitude: 89.41334
+        -
+          name: "Suchha"
+          latitude: 27.2333
+          longitude: 89.45
+        -
+          name: "Tshalunang"
+          latitude: 27.4333
+          longitude: 89.65
+    -
+      name: "Pemagatshel "
+      code: "43"
+      iso3166_2: "BT-43"
+      type: "district"
+      latitude: 27.0030415
+      longitude: 91.3677054
+      cities:
+        -
+          name: "Nganglam"
+          latitude: 26.841811
+          longitude: 91.2424849
+        -
+          name: "Pemagatshel"
+          latitude: 27.03795
+          longitude: 91.40305
+    -
+      name: "Punakha "
+      code: "23"
+      iso3166_2: "BT-23"
+      type: "district"
+      latitude: 27.5842857
+      longitude: 89.8593094
+      cities:
+        -
+          name: "Pajo"
+          latitude: 27.53333
+          longitude: 89.88333
+        -
+          name: "Punākha"
+          latitude: 27.59137
+          longitude: 89.87743
+    -
+      name: "Samdrup Jongkhar "
+      code: "45"
+      iso3166_2: "BT-45"
+      type: "district"
+      latitude: 26.8035682
+      longitude: 91.5039207
+      cities:
+        -
+          name: "Samdrup Jongkhar"
+          latitude: 26.80069
+          longitude: 91.50519
+    -
+      name: "Samtse "
+      code: "14"
+      iso3166_2: "BT-14"
+      type: "district"
+      latitude: 27.0352532
+      longitude: 89.0147344
+      cities:
+        -
+          name: "Denchukha"
+          latitude: 27.0167
+          longitude: 89.25
+        -
+          name: "Dorokha"
+          latitude: 27.0167
+          longitude: 89.2167
+        -
+          name: "Samtse"
+          latitude: 26.89903
+          longitude: 89.09951
+        -
+          name: "Tendu"
+          latitude: 27.1333
+          longitude: 88.8833
+    -
+      name: "Sarpang "
+      code: "31"
+      iso3166_2: "BT-31"
+      type: "district"
+      latitude: 26.9863897
+      longitude: 90.3800673
+      cities:
+        -
+          name: "Bhurgaon"
+          latitude: 26.9
+          longitude: 90.4333
+        -
+          name: "Galechugaon"
+          latitude: 27
+          longitude: 90.5333
+        -
+          name: "Geylegphug"
+          latitude: 26.8706
+          longitude: 90.4856
+        -
+          name: "Sarpang"
+          latitude: 26.86395
+          longitude: 90.26745
+    -
+      name: "Thimphu "
+      code: "15"
+      iso3166_2: "BT-15"
+      type: "district"
+      latitude: 27.4712216
+      longitude: 89.6339041
+      cities:
+        -
+          name: "Thimphu"
+          latitude: 27.46609
+          longitude: 89.64191
+    -
+      name: "Trashi Yangtse\t"
+      code: "TY"
+      iso3166_2: "BT-TY"
+      type: "district"
+      latitude: 27.717585
+      longitude: 91.1981102
+      cities:
+        -
+          name: "Shali"
+          latitude: 27.4833
+          longitude: 91.5667
+        -
+          name: "Trashi Yangtse"
+          latitude: 27.5833
+          longitude: 91.4667
+        -
+          name: "Yalang"
+          latitude: 27.4333
+          longitude: 91.6333
+    -
+      name: "Trashigang "
+      code: "41"
+      iso3166_2: "BT-41"
+      type: "district"
+      latitude: 27.2843778
+      longitude: 91.5742509
+      cities:
+        -
+          name: "Balfai"
+          latitude: 27.2167032
+          longitude: 91.4794003
+        -
+          name: "Ghunkarah"
+          latitude: 27.4
+          longitude: 91.5667
+        -
+          name: "Ngalangkang"
+          latitude: 27.4528233
+          longitude: 91.5647771
+        -
+          name: "Rungzyung"
+          latitude: 27.35
+          longitude: 91.6667
+        -
+          name: "Sassi"
+          latitude: 27.1333
+          longitude: 91.4333
+        -
+          name: "Thrimshing"
+          latitude: 27.1333
+          longitude: 91.6167
+        -
+          name: "Trashigang"
+          latitude: 27.3331
+          longitude: 91.55424
+        -
+          name: "Wamrong"
+          latitude: 27.1378453
+          longitude: 91.5604447
+    -
+      name: "Trongsa "
+      code: "32"
+      iso3166_2: "BT-32"
+      type: "district"
+      latitude: 27.5002269
+      longitude: 90.5080634
+      cities:
+        -
+          name: "Trongsa"
+          latitude: 27.4994
+          longitude: 90.5047
+    -
+      name: "Tsirang "
+      code: "21"
+      iso3166_2: "BT-21"
+      type: "district"
+      latitude: 27.0072232
+      longitude: 90.1326289
+      cities:
+        -
+          name: "Beteni"
+          latitude: 27.0333
+          longitude: 90.2333
+        -
+          name: "Dagapela"
+          latitude: 26.9333
+          longitude: 89.95
+        -
+          name: "Damphu"
+          latitude: 27.0167
+          longitude: 90.1
+        -
+          name: "Tsirang"
+          latitude: 27.0219
+          longitude: 90.12291
+    -
+      name: "Wangdue Phodrang "
+      code: "24"
+      iso3166_2: "BT-24"
+      type: "district"
+      latitude: 27.544634
+      longitude: 89.955581
+      cities:
+        -
+          name: "Manikyangsa"
+          latitude: 27.5333
+          longitude: 90.1
+        -
+          name: "Ritang"
+          latitude: 27.55
+          longitude: 90.1667
+        -
+          name: "Wangdue Phodrang"
+          latitude: 27.4833
+          longitude: 89.9
+    -
+      name: "Zhemgang "
+      code: "34"
+      iso3166_2: "BT-34"
+      type: "district"
+      latitude: 27.0821148
+      longitude: 90.8408984
+      cities:
+        -
+          name: "Panbang"
+          latitude: 26.86667
+          longitude: 90.98333
+        -
+          name: "Zhemgang"
+          latitude: 27.21689
+          longitude: 90.65793

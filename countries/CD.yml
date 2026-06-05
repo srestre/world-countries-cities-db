@@ -1,0 +1,496 @@
+-
+  name: "Democratic Republic of the Congo"
+  name_es: "Congo (Rep. Dem.)"
+  native: "République démocratique du Congo"
+  iso2: "CD"
+  iso3: "COD"
+  numeric_code: "180"
+  phonecode: "243"
+  capital: "Kinshasa"
+  currency: "CDF"
+  currency_name: "Congolese Franc"
+  currency_symbol: "FC"
+  tld: ".cd"
+  region: "Africa"
+  subregion: "Middle Africa"
+  latitude: 0
+  longitude: 25
+  emoji: "🇨🇩"
+  states:
+    -
+      name: "Bas-Uélé"
+      code: "BU"
+      iso3166_2: "CD-BU"
+      type: "province"
+      latitude: 3.6644488
+      longitude: 25.2137871
+      cities:
+        -
+          name: "Aketi"
+          latitude: 2.73877
+          longitude: 23.78326
+        -
+          name: "Bondo"
+          latitude: 3.81461
+          longitude: 23.68665
+        -
+          name: "Buta"
+          latitude: 2.78582
+          longitude: 24.72997
+    -
+      name: "Équateur"
+      code: "EQ"
+      iso3166_2: "CD-EQ"
+      type: "province"
+      latitude: 0.6060154
+      longitude: 18.7800729
+      cities:
+        -
+          name: "Gemena"
+          latitude: 3.25651
+          longitude: 19.77234
+        -
+          name: "Lisala"
+          latitude: 2.15127
+          longitude: 21.51672
+        -
+          name: "Lukolela"
+          latitude: -1.06046
+          longitude: 17.1821
+        -
+          name: "Mbandaka"
+          latitude: 0.04865
+          longitude: 18.26034
+    -
+      name: "Haut-Katanga"
+      code: "HK"
+      iso3166_2: "CD-HK"
+      type: "province"
+      latitude: -10.519718
+      longitude: 27.8432804
+      cities:
+        -
+          name: "Likasi"
+          latitude: -10.98303
+          longitude: 26.7384
+        -
+          name: "Lubumbashi"
+          latitude: -11.66089
+          longitude: 27.47938
+    -
+      name: "Haut-Lomami"
+      code: "HL"
+      iso3166_2: "CD-HL"
+      type: "province"
+      latitude: -8.1495036
+      longitude: 25.5557963
+      cities:
+        -
+          name: "Bukama"
+          latitude: -9.20443
+          longitude: 25.85475
+        -
+          name: "Kamina"
+          latitude: -8.73508
+          longitude: 24.99798
+    -
+      name: "Haut-Uélé"
+      code: "HU"
+      iso3166_2: "CD-HU"
+      type: "province"
+      latitude: 3.3398499
+      longitude: 28.789274
+      cities:
+        -
+          name: "Isiro"
+          latitude: 2.77391
+          longitude: 27.61603
+        -
+          name: "Wamba"
+          latitude: 2.14838
+          longitude: 27.99466
+        -
+          name: "Watsa"
+          latitude: 3.03716
+          longitude: 29.53551
+    -
+      name: "Ituri"
+      code: "IT"
+      iso3166_2: "CD-IT"
+      type: "province"
+      latitude: 1.8330623
+      longitude: 29.4980774
+      cities:
+        -
+          name: "Bunia"
+          latitude: 1.55941
+          longitude: 30.25224
+    -
+      name: "Kasaï"
+      code: "KS"
+      iso3166_2: "CD-KS"
+      type: "province"
+      latitude: -4.8740862
+      longitude: 21.1234899
+      cities:
+        -
+          name: "Ilebo"
+          latitude: -4.33111
+          longitude: 20.58638
+        -
+          name: "Luebo"
+          latitude: -5.35218
+          longitude: 21.42192
+        -
+          name: "Mweka"
+          latitude: -4.85187
+          longitude: 21.5595
+        -
+          name: "Tshikapa"
+          latitude: -6.41621
+          longitude: 20.79995
+    -
+      name: "Kasaï Central"
+      code: "KC"
+      iso3166_2: "CD-KC"
+      type: "province"
+      latitude: -5.9046896
+      longitude: 21.4334417
+      cities:
+        []
+    -
+      name: "Kasaï Oriental"
+      code: "KE"
+      iso3166_2: "CD-KE"
+      type: "province"
+      latitude: -6.1258942
+      longitude: 23.5998111
+      cities:
+        -
+          name: "Gandajika"
+          latitude: -6.74504
+          longitude: 23.95328
+        -
+          name: "Kabinda"
+          latitude: -6.13791
+          longitude: 24.48179
+        -
+          name: "Mbuji-Mayi"
+          latitude: -6.13603
+          longitude: 23.58979
+    -
+      name: "Kinshasa"
+      code: "KN"
+      iso3166_2: "CD-KN"
+      type: "city"
+      latitude: -4.32171
+      longitude: 15.3122511
+      cities:
+        -
+          name: "Kinshasa"
+          latitude: -4.32758
+          longitude: 15.31357
+    -
+      name: "Kongo Central"
+      code: "BC"
+      iso3166_2: "CD-BC"
+      type: "province"
+      latitude: -5.1778483
+      longitude: 14.3909935
+      cities:
+        -
+          name: "Boma"
+          latitude: -5.85098
+          longitude: 13.05364
+        -
+          name: "Kasangulu"
+          latitude: -4.5833
+          longitude: 15.16554
+        -
+          name: "Matadi"
+          latitude: -5.83861
+          longitude: 13.46306
+        -
+          name: "Mbanza-Ngungu"
+          latitude: -5.25837
+          longitude: 14.85838
+        -
+          name: "Moanda"
+          latitude: -5.92753
+          longitude: 12.37148
+        -
+          name: "Tshela"
+          latitude: -4.99707
+          longitude: 12.9484
+    -
+      name: "Kwango"
+      code: "KG"
+      iso3166_2: "CD-KG"
+      type: "province"
+      latitude: -6.1822381
+      longitude: 17.7711691
+      cities:
+        -
+          name: "Kasongo-Lunda"
+          latitude: -6.47833
+          longitude: 16.81735
+    -
+      name: "Kwilu"
+      code: "KL"
+      iso3166_2: "CD-KL"
+      type: "province"
+      latitude: -4.8108497
+      longitude: 18.805534
+      cities:
+        -
+          name: "Bandundu"
+          latitude: -3.31687
+          longitude: 17.38063
+        -
+          name: "Bulungu"
+          latitude: -4.54437
+          longitude: 18.60364
+        -
+          name: "Kikwit"
+          latitude: -5.04098
+          longitude: 18.81619
+        -
+          name: "Mangai"
+          latitude: -4.02328
+          longitude: 19.53385
+    -
+      name: "Lomami"
+      code: "LO"
+      iso3166_2: "CD-LO"
+      type: "province"
+      latitude: -6.128664
+      longitude: 24.4577962
+      cities:
+        -
+          name: "Lubao"
+          latitude: -5.38771
+          longitude: 25.74885
+        -
+          name: "Mwene-Ditu"
+          latitude: -7.00906
+          longitude: 23.45278
+    -
+      name: "Lualaba"
+      code: "LU"
+      iso3166_2: "CD-LU"
+      type: "province"
+      latitude: -10.7027809
+      longitude: 25.4657979
+      cities:
+        -
+          name: "Kasaji"
+          latitude: -10.38342
+          longitude: 23.44987
+        -
+          name: "Kolwezi"
+          latitude: -10.716667
+          longitude: 25.466667
+    -
+      name: "Mai-Ndombe"
+      code: "MN"
+      iso3166_2: "CD-MN"
+      type: "province"
+      latitude: -2.5406945
+      longitude: 18.6065732
+      cities:
+        -
+          name: "Bolobo"
+          latitude: -2.158
+          longitude: 16.23249
+        -
+          name: "Inongo"
+          latitude: -1.9275
+          longitude: 18.2881
+        -
+          name: "Mushie"
+          latitude: -3.01728
+          longitude: 16.92238
+        -
+          name: "Nioki"
+          latitude: -2.72037
+          longitude: 17.69001
+    -
+      name: "Maniema"
+      code: "MA"
+      iso3166_2: "CD-MA"
+      type: "province"
+      latitude: -2.9612778
+      longitude: 25.9634848
+      cities:
+        -
+          name: "Kampene"
+          latitude: -3.59678
+          longitude: 26.66715
+        -
+          name: "Kasongo"
+          latitude: -4.42741
+          longitude: 26.66656
+        -
+          name: "Kindu"
+          latitude: -2.94373
+          longitude: 25.92237
+    -
+      name: "Mongala"
+      code: "MO"
+      iso3166_2: "CD-MO"
+      type: "province"
+      latitude: 2.15406
+      longitude: 21.4861221
+      cities:
+        -
+          name: "Bumba"
+          latitude: 2.18771
+          longitude: 22.46827
+    -
+      name: "Nord-Kivu"
+      code: "NK"
+      iso3166_2: "CD-NK"
+      type: "province"
+      latitude: -0.5645647
+      longitude: 28.7061945
+      cities:
+        -
+          name: "Beni"
+          latitude: 0.49113
+          longitude: 29.47306
+        -
+          name: "Butembo"
+          latitude: 0.14164
+          longitude: 29.29117
+        -
+          name: "Goma"
+          latitude: -1.67409
+          longitude: 29.22845
+        -
+          name: "Sake"
+          latitude: -1.57386
+          longitude: 29.04339
+    -
+      name: "Nord-Ubangi"
+      code: "NU"
+      iso3166_2: "CD-NU"
+      type: "province"
+      latitude: 4.0175656
+      longitude: 21.3779242
+      cities:
+        -
+          name: "Bosobolo"
+          latitude: 4.1898
+          longitude: 19.8833
+        -
+          name: "Businga"
+          latitude: 3.33863
+          longitude: 20.88577
+        -
+          name: "Gbadolite"
+          latitude: 4.279
+          longitude: 21.00284
+    -
+      name: "Sankuru"
+      code: "SA"
+      iso3166_2: "CD-SA"
+      type: "province"
+      latitude: -3.5074885
+      longitude: 23.5845039
+      cities:
+        -
+          name: "Lodja"
+          latitude: -3.52105
+          longitude: 23.6005
+        -
+          name: "Lusambo"
+          latitude: -4.97503
+          longitude: 23.44391
+    -
+      name: "Sud-Kivu"
+      code: "SK"
+      iso3166_2: "CD-SK"
+      type: "province"
+      latitude: -3.2968958
+      longitude: 28.1674008
+      cities:
+        -
+          name: "Bukavu"
+          latitude: -2.49077
+          longitude: 28.84281
+        -
+          name: "Kabare"
+          latitude: -2.49682
+          longitude: 28.79081
+        -
+          name: "Uvira"
+          latitude: -3.39534
+          longitude: 29.13779
+    -
+      name: "Sud-Ubangi"
+      code: "SU"
+      iso3166_2: "CD-SU"
+      type: "province"
+      latitude: 3.3283335
+      longitude: 19.4627581
+      cities:
+        -
+          name: "Bongandanga"
+          latitude: 1.50695
+          longitude: 21.0726
+        -
+          name: "Libenge"
+          latitude: 3.65332
+          longitude: 18.63566
+    -
+      name: "Tanganyika"
+      code: "TA"
+      iso3166_2: "CD-TA"
+      type: "province"
+      latitude: -6.7105797
+      longitude: 27.9879861
+      cities:
+        -
+          name: "Kabalo"
+          latitude: -6.05255
+          longitude: 26.9143
+        -
+          name: "Kalemie"
+          latitude: -5.94749
+          longitude: 29.19471
+        -
+          name: "Kongolo"
+          latitude: -5.38532
+          longitude: 27.00029
+    -
+      name: "Tshopo"
+      code: "TO"
+      iso3166_2: "CD-TO"
+      type: "province"
+      latitude: 0.4991493
+      longitude: 25.1651226
+      cities:
+        -
+          name: "Basoko"
+          latitude: 1.23909
+          longitude: 23.61598
+        -
+          name: "Kisangani"
+          latitude: 0.51528
+          longitude: 25.19099
+        -
+          name: "Yangambi"
+          latitude: 0.76755
+          longitude: 24.43973
+    -
+      name: "Tshuapa"
+      code: "TU"
+      iso3166_2: "CD-TU"
+      type: "province"
+      latitude: -0.5875933
+      longitude: 22.1544364
+      cities:
+        -
+          name: "Boende"
+          latitude: -0.28163
+          longitude: 20.88053

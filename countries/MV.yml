@@ -1,0 +1,275 @@
+-
+  name: "Maldives"
+  name_es: "Maldivas"
+  native: "Maldives"
+  iso2: "MV"
+  iso3: "MDV"
+  numeric_code: "462"
+  phonecode: "960"
+  capital: "Male"
+  currency: "MVR"
+  currency_name: "Maldivian rufiyaa"
+  currency_symbol: "Rf"
+  tld: ".mv"
+  region: "Asia"
+  subregion: "Southern Asia"
+  latitude: 3.25
+  longitude: 73
+  emoji: "🇲🇻"
+  states:
+    -
+      name: "Addu"
+      code: "01"
+      iso3166_2: "MV-01"
+      type: "city"
+      latitude: -0.6414935
+      longitude: 73.1629978
+      cities:
+        -
+          name: "Hithadhoo"
+          latitude: -0.6
+          longitude: 73.08333
+        -
+          name: "Meedhoo"
+          latitude: -0.58333
+          longitude: 73.23333
+    -
+      name: "Alif Alif"
+      code: "02"
+      iso3166_2: "MV-02"
+      type: "administrative atoll"
+      latitude: 4.4389236
+      longitude: 72.8716854
+      cities:
+        []
+    -
+      name: "Alif Dhaal"
+      code: "00"
+      iso3166_2: "MV-00"
+      type: "administrative atoll"
+      latitude: 3.6123026
+      longitude: 72.855663
+      cities:
+        -
+          name: "Mahibadhoo"
+          latitude: 3.75713
+          longitude: 72.96893
+    -
+      name: "Baa"
+      code: "20"
+      iso3166_2: "MV-20"
+      type: "administrative atoll"
+      latitude: 5.13333333
+      longitude: 72.95
+      cities:
+        []
+    -
+      name: "Dhaalu"
+      code: "17"
+      iso3166_2: "MV-17"
+      type: "administrative atoll"
+      latitude: 2.8473454
+      longitude: 72.9029526
+      cities:
+        -
+          name: "Kudahuvadhoo"
+          latitude: 2.67075
+          longitude: 72.89437
+    -
+      name: "Faafu"
+      code: "14"
+      iso3166_2: "MV-14"
+      type: "administrative atoll"
+      latitude: 3.1314909
+      longitude: 72.8843567
+      cities:
+        []
+    -
+      name: "Gaafu Alif"
+      code: "27"
+      iso3166_2: "MV-27"
+      type: "administrative atoll"
+      latitude: 0.9829527
+      longitude: 73.2780939
+      cities:
+        -
+          name: "Viligili"
+          latitude: 0.75906
+          longitude: 73.43296
+    -
+      name: "Gaafu Dhaalu"
+      code: "28"
+      iso3166_2: "MV-28"
+      type: "administrative atoll"
+      latitude: 0.3041783
+      longitude: 73.2124746
+      cities:
+        -
+          name: "Thinadhoo"
+          latitude: 0.5306
+          longitude: 72.99969
+    -
+      name: "Gnaviyani"
+      code: "29"
+      iso3166_2: "MV-29"
+      type: "administrative atoll"
+      latitude: -0.2053264
+      longitude: 73.2569868
+      cities:
+        -
+          name: "Fuvahmulah"
+          latitude: -0.29878
+          longitude: 73.42403
+    -
+      name: "Haa Alif"
+      code: "07"
+      iso3166_2: "MV-07"
+      type: "administrative atoll"
+      latitude: 7.0607296
+      longitude: 72.9896628
+      cities:
+        -
+          name: "Dhidhdhoo"
+          latitude: 6.88744
+          longitude: 73.11402
+    -
+      name: "Haa Dhaalu"
+      code: "23"
+      iso3166_2: "MV-23"
+      type: "administrative atoll"
+      latitude: 6.449901
+      longitude: 72.6264899
+      cities:
+        -
+          name: "Kulhudhuffushi"
+          latitude: 6.62207
+          longitude: 73.06998
+    -
+      name: "Kaafu"
+      code: "26"
+      iso3166_2: "MV-26"
+      type: "administrative atoll"
+      latitude: 4.354299
+      longitude: 73.5760032
+      cities:
+        -
+          name: "Guraidhoo"
+          latitude: 3.90045
+          longitude: 73.46623
+        -
+          name: "Hulhumale"
+          latitude: 4.21169
+          longitude: 73.54008
+        -
+          name: "Maafushi"
+          latitude: 3.94231
+          longitude: 73.4907
+        -
+          name: "Male"
+          latitude: 4.17521
+          longitude: 73.50916
+    -
+      name: "Laamu"
+      code: "05"
+      iso3166_2: "MV-05"
+      type: "administrative atoll"
+      latitude: 1.8899418
+      longitude: 73.3140027
+      cities:
+        -
+          name: "Fonadhoo"
+          latitude: 1.83243
+          longitude: 73.50257
+    -
+      name: "Lhaviyani"
+      code: "03"
+      iso3166_2: "MV-03"
+      type: "administrative atoll"
+      latitude: 5.3992544
+      longitude: 73.5273924
+      cities:
+        -
+          name: "Naifaru"
+          latitude: 5.44438
+          longitude: 73.36571
+    -
+      name: "Malé"
+      code: "MLE"
+      iso3166_2: "MV-MLE"
+      type: "administrative atoll"
+      latitude: 4.1779879
+      longitude: 73.5107387
+      cities:
+        []
+    -
+      name: "Meemu"
+      code: "12"
+      iso3166_2: "MV-12"
+      type: "administrative atoll"
+      latitude: 2.7878094
+      longitude: 73.5342987
+      cities:
+        -
+          name: "Muli"
+          latitude: 2.91667
+          longitude: 73.56667
+    -
+      name: "Noonu"
+      code: "25"
+      iso3166_2: "MV-25"
+      type: "administrative atoll"
+      latitude: 5.786755
+      longitude: 73.4184336
+      cities:
+        -
+          name: "Manadhoo"
+          latitude: 5.76687
+          longitude: 73.4136
+    -
+      name: "Raa"
+      code: "13"
+      iso3166_2: "MV-13"
+      type: "administrative atoll"
+      latitude: 5.6609485
+      longitude: 72.7681645
+      cities:
+        -
+          name: "Ugoofaaru"
+          latitude: 5.66812
+          longitude: 73.03017
+    -
+      name: "Shaviyani"
+      code: "24"
+      iso3166_2: "MV-24"
+      type: "administrative atoll"
+      latitude: 6.3322997
+      longitude: 73.2324635
+      cities:
+        -
+          name: "Funadhoo"
+          latitude: 6.15091
+          longitude: 73.29013
+    -
+      name: "Thaa"
+      code: "08"
+      iso3166_2: "MV-08"
+      type: "administrative atoll"
+      latitude: 2.1461655
+      longitude: 73.0288245
+      cities:
+        -
+          name: "Veymandoo"
+          latitude: 2.18772
+          longitude: 73.09556
+    -
+      name: "Vaavu"
+      code: "04"
+      iso3166_2: "MV-04"
+      type: "administrative atoll"
+      latitude: 3.6152492
+      longitude: 73.5869986
+      cities:
+        -
+          name: "Felidhoo"
+          latitude: 3.47182
+          longitude: 73.54699

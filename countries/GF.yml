@@ -1,0 +1,115 @@
+-
+  name: "French Guiana"
+  name_es: "Guayana Francesa"
+  native: "Guyane française"
+  iso2: "GF"
+  iso3: "GUF"
+  numeric_code: "254"
+  phonecode: "594"
+  capital: "Cayenne"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".gf"
+  region: "Americas"
+  subregion: "South America"
+  latitude: 4
+  longitude: -53
+  emoji: "🇬🇫"
+  states:
+    -
+      name: "Guyane"
+      code: "01"
+      iso3166_2: "FR-973"
+      type: "overseas region"
+      latitude: 4
+      longitude: -53
+      cities:
+        -
+          name: "Apatou"
+          latitude: 5.15666667
+          longitude: -54.34305556
+        -
+          name: "Awala-Yalimapo"
+          latitude: 5.73611111
+          longitude: -53.90805556
+        -
+          name: "Camopi"
+          latitude: 3.16694444
+          longitude: -52.33111111
+        -
+          name: "Cayenne"
+          latitude: 4.93861111
+          longitude: -52.335
+        -
+          name: "Grand-Santi"
+          latitude: 4.27333333
+          longitude: -54.38166667
+        -
+          name: "Iracoubo"
+          latitude: 5.48
+          longitude: -53.20555556
+        -
+          name: "Kourou"
+          latitude: 5.15833333
+          longitude: -52.64277778
+        -
+          name: "Macouria"
+          latitude: 5.01361111
+          longitude: -52.47388889
+        -
+          name: "Mana"
+          latitude: 5.66722222
+          longitude: -53.77694444
+        -
+          name: "Maripasoula"
+          latitude: 3.64111111
+          longitude: -54.02777778
+        -
+          name: "Matoury"
+          latitude: 4.85055556
+          longitude: -52.33111111
+        -
+          name: "Montsinéry-Tonnegrande"
+          latitude: 4.89277778
+          longitude: -52.49277778
+        -
+          name: "Ouanary"
+          latitude: 4.20916667
+          longitude: -51.67166667
+        -
+          name: "Papaichton"
+          latitude: 3.80972222
+          longitude: -54.14888889
+        -
+          name: "Régina"
+          latitude: 4.31361111
+          longitude: -52.12916667
+        -
+          name: "Remire-Montjoly"
+          latitude: 4.905
+          longitude: -52.27638889
+        -
+          name: "Roura"
+          latitude: 4.72833333
+          longitude: -52.32416667
+        -
+          name: "Saint-Élie"
+          latitude: 4.82555556
+          longitude: -53.28805556
+        -
+          name: "Saint-Georges"
+          latitude: 3.88944444
+          longitude: -51.80111111
+        -
+          name: "Saint-Laurent-du-Maroni"
+          latitude: 5.50388889
+          longitude: -54.02888889
+        -
+          name: "Saül"
+          latitude: 3.62277778
+          longitude: -53.20833333
+        -
+          name: "Sinnamary"
+          latitude: 5.3775
+          longitude: -52.95861111

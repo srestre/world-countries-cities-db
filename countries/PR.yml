@@ -1,0 +1,955 @@
+-
+  name: "Puerto Rico"
+  name_es: "Puerto Rico"
+  native: "Puerto Rico"
+  iso2: "PR"
+  iso3: "PRI"
+  numeric_code: "630"
+  phonecode: "1"
+  capital: "San Juan"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".pr"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 18.25
+  longitude: -66.5
+  emoji: "🇵🇷"
+  states:
+    -
+      name: "Adjuntas"
+      code: "001"
+      iso3166_2: "PR-001"
+      type: "municipality"
+      latitude: 18.1634848
+      longitude: -66.723158
+      cities:
+        -
+          name: "Adjuntas"
+          latitude: 18.1634848
+          longitude: -66.723158
+    -
+      name: "Aguada"
+      code: "003"
+      iso3166_2: "PR-003"
+      type: "municipality"
+      latitude: 18.3801579
+      longitude: -67.188704
+      cities:
+        -
+          name: "Aguada"
+          latitude: 18.3801579
+          longitude: -67.188704
+    -
+      name: "Aguadilla"
+      code: "005"
+      iso3166_2: "PR-005"
+      type: "municipality"
+      latitude: 18.4496551
+      longitude: -67.1184764
+      cities:
+        -
+          name: "Aguadilla"
+          latitude: 18.4274454
+          longitude: -67.1540698
+    -
+      name: "Aguas Buenas"
+      code: "007"
+      iso3166_2: "PR-007"
+      type: "municipality"
+      latitude: 18.2568989
+      longitude: -66.1029442
+      cities:
+        -
+          name: "Aguas Buenas"
+          latitude: 18.2568989
+          longitude: -66.1029442
+    -
+      name: "Aibonito"
+      code: "009"
+      iso3166_2: "PR-009"
+      type: "municipality"
+      latitude: 18.1281472
+      longitude: -66.2692441
+      cities:
+        -
+          name: "Aibonito"
+          latitude: 18.1399594
+          longitude: -66.2660016
+    -
+      name: "Añasco"
+      code: "011"
+      iso3166_2: "PR-011"
+      type: "municipality"
+      latitude: 18.2854476
+      longitude: -67.1402935
+      cities:
+        -
+          name: "Añasco"
+          latitude: 18.2854476
+          longitude: -67.1402935
+    -
+      name: "Arecibo"
+      code: "AR"
+      iso3166_2: "PR-AR"
+      type: "region"
+      latitude: 18.47055556
+      longitude: -66.72083333
+      cities:
+        -
+          name: "Arecibo"
+          latitude: 18.4705137
+          longitude: -66.7218472
+    -
+      name: "Arroyo"
+      code: "015"
+      iso3166_2: "PR-015"
+      type: "municipality"
+      latitude: 17.9961993
+      longitude: -66.0531683
+      cities:
+        -
+          name: "Arroyo"
+          latitude: 17.996422
+          longitude: -66.0924879
+    -
+      name: "Barceloneta"
+      code: "017"
+      iso3166_2: "PR-017"
+      type: "municipality"
+      latitude: 18.4546639
+      longitude: -66.5386877
+      cities:
+        -
+          name: "Barceloneta"
+          latitude: 41.3801061
+          longitude: 2.1896957
+    -
+      name: "Barranquitas"
+      code: "019"
+      iso3166_2: "PR-019"
+      type: "municipality"
+      latitude: 18.1866242
+      longitude: -66.3062802
+      cities:
+        -
+          name: "Barranquitas"
+          latitude: 18.1866242
+          longitude: -66.3062802
+    -
+      name: "Bayamon"
+      code: "BY"
+      iso3166_2: "PR-BY"
+      type: "region"
+      latitude: 18.3449582
+      longitude: -66.168374
+      cities:
+        -
+          name: "Bayamón"
+          latitude: 18.389396
+          longitude: -66.1653224
+    -
+      name: "Cabo Rojo"
+      code: "023"
+      iso3166_2: "PR-023"
+      type: "municipality"
+      latitude: 18.0866265
+      longitude: -67.1457347
+      cities:
+        -
+          name: "Cabo Rojo"
+          latitude: 18.0866265
+          longitude: -67.1457347
+    -
+      name: "Caguas"
+      code: "CG"
+      iso3166_2: "PR-CG"
+      type: "region"
+      latitude: 18.23333333
+      longitude: -66.03333333
+      cities:
+        -
+          name: "Caguas"
+          latitude: 18.2387995
+          longitude: -66.035249
+    -
+      name: "Camuy"
+      code: "027"
+      iso3166_2: "PR-027"
+      type: "municipality"
+      latitude: 18.483833
+      longitude: -66.8448994
+      cities:
+        -
+          name: "Camuy"
+          latitude: 18.483833
+          longitude: -66.8448994
+    -
+      name: "Canóvanas"
+      code: "029"
+      iso3166_2: "PR-029"
+      type: "municipality"
+      latitude: 18.3748748
+      longitude: -65.8997533
+      cities:
+        -
+          name: "Canóvanas"
+          latitude: 18.3748748
+          longitude: -65.8997533
+    -
+      name: "Carolina"
+      code: "CL"
+      iso3166_2: "PR-CL"
+      type: "region"
+      latitude: 18.3808516
+      longitude: -65.9570244
+      cities:
+        -
+          name: "Carolina"
+          latitude: 18.3680877
+          longitude: -66.0424734
+    -
+      name: "Cataño"
+      code: "033"
+      iso3166_2: "PR-033"
+      type: "municipality"
+      latitude: 18.4465355
+      longitude: -66.1355775
+      cities:
+        -
+          name: "Cataño"
+          latitude: 18.4465355
+          longitude: -66.1355775
+    -
+      name: "Cayey"
+      code: "035"
+      iso3166_2: "PR-035"
+      type: "municipality"
+      latitude: 18.1119051
+      longitude: -66.166
+      cities:
+        -
+          name: "Cayey"
+          latitude: 18.1119051
+          longitude: -66.166
+    -
+      name: "Ceiba"
+      code: "037"
+      iso3166_2: "PR-037"
+      type: "municipality"
+      latitude: 18.1877139
+      longitude: -65.894484
+      cities:
+        -
+          name: "Ceiba"
+          latitude: 18.2475177
+          longitude: -65.9084953
+    -
+      name: "Ciales"
+      code: "039"
+      iso3166_2: "PR-039"
+      type: "municipality"
+      latitude: 18.3360622
+      longitude: -66.4687823
+      cities:
+        -
+          name: "Ciales"
+          latitude: 18.3360622
+          longitude: -66.4687823
+    -
+      name: "Cidra"
+      code: "041"
+      iso3166_2: "PR-041"
+      type: "municipality"
+      latitude: 18.1757914
+      longitude: -66.1612779
+      cities:
+        -
+          name: "Cidra"
+          latitude: 18.1757914
+          longitude: -66.1612779
+    -
+      name: "Coamo"
+      code: "043"
+      iso3166_2: "PR-043"
+      type: "municipality"
+      latitude: 18.0799616
+      longitude: -66.3579473
+      cities:
+        -
+          name: "Coamo"
+          latitude: 18.0799616
+          longitude: -66.3579473
+    -
+      name: "Comerío"
+      code: "045"
+      iso3166_2: "PR-045"
+      type: "municipality"
+      latitude: 18.2192001
+      longitude: -66.2256022
+      cities:
+        -
+          name: "Comerío"
+          latitude: 18.2192001
+          longitude: -66.2256022
+    -
+      name: "Corozal"
+      code: "047"
+      iso3166_2: "PR-047"
+      type: "municipality"
+      latitude: 18.3043878
+      longitude: -66.3289186
+      cities:
+        -
+          name: "Corozal"
+          latitude: 18.4030802
+          longitude: -88.3967536
+    -
+      name: "Culebra"
+      code: "049"
+      iso3166_2: "PR-049"
+      type: "municipality"
+      latitude: 18.3136776
+      longitude: -65.2826226
+      cities:
+        -
+          name: "Culebra"
+          latitude: 18.310394
+          longitude: -65.3030705
+    -
+      name: "Dorado"
+      code: "051"
+      iso3166_2: "PR-051"
+      type: "municipality"
+      latitude: 18.4594766
+      longitude: -66.2618846
+      cities:
+        -
+          name: "Dorado"
+          latitude: 43.1480556
+          longitude: -77.5772222
+    -
+      name: "Fajardo"
+      code: "053"
+      iso3166_2: "PR-053"
+      type: "municipality"
+      latitude: 18.3252148
+      longitude: -65.6539356
+      cities:
+        -
+          name: "Fajardo"
+          latitude: 18.3252148
+          longitude: -65.6539356
+    -
+      name: "Florida"
+      code: "054"
+      iso3166_2: "PR-054"
+      type: "municipality"
+      latitude: 18.3629772
+      longitude: -66.5669961
+      cities:
+        -
+          name: "Florida"
+          latitude: 27.6648274
+          longitude: -81.5157535
+    -
+      name: "Guánica"
+      code: "055"
+      iso3166_2: "PR-055"
+      type: "municipality"
+      latitude: 17.9725145
+      longitude: -66.9086264
+      cities:
+        -
+          name: "Guánica"
+          latitude: 17.9725145
+          longitude: -66.9086264
+    -
+      name: "Guayama"
+      code: "057"
+      iso3166_2: "PR-057"
+      type: "municipality"
+      latitude: 17.9841328
+      longitude: -66.1137767
+      cities:
+        -
+          name: "Guayama"
+          latitude: 17.9841328
+          longitude: -66.1137767
+    -
+      name: "Guayanilla"
+      code: "059"
+      iso3166_2: "PR-059"
+      type: "municipality"
+      latitude: 18.0191314
+      longitude: -66.791842
+      cities:
+        -
+          name: "Guayanilla"
+          latitude: 18.0191314
+          longitude: -66.791842
+    -
+      name: "Guaynabo"
+      code: "GN"
+      iso3166_2: "PR-GN"
+      type: "region"
+      latitude: 18.3591596
+      longitude: -66.1156802
+      cities:
+        -
+          name: "Guaynabo"
+          latitude: 18.3612954
+          longitude: -66.1102957
+    -
+      name: "Gurabo"
+      code: "063"
+      iso3166_2: "PR-063"
+      type: "municipality"
+      latitude: 18.2543987
+      longitude: -65.9729421
+      cities:
+        -
+          name: "Gurabo"
+          latitude: 18.2543987
+          longitude: -65.9729421
+    -
+      name: "Hatillo"
+      code: "065"
+      iso3166_2: "PR-065"
+      type: "municipality"
+      latitude: 18.4071589
+      longitude: -66.7959287
+      cities:
+        -
+          name: "Hatillo"
+          latitude: 18.4284642
+          longitude: -66.7875321
+    -
+      name: "Hormigueros"
+      code: "067"
+      iso3166_2: "PR-067"
+      type: "municipality"
+      latitude: 18.1334638
+      longitude: -67.1128123
+      cities:
+        -
+          name: "Hormigueros"
+          latitude: 18.1334638
+          longitude: -67.1128123
+    -
+      name: "Humacao"
+      code: "069"
+      iso3166_2: "PR-069"
+      type: "municipality"
+      latitude: 18.1515736
+      longitude: -65.8248529
+      cities:
+        -
+          name: "Humacao"
+          latitude: 18.1515736
+          longitude: -65.8248529
+    -
+      name: "Isabela"
+      code: "071"
+      iso3166_2: "PR-071"
+      type: "municipality"
+      latitude: 18.5007536
+      longitude: -67.0237422
+      cities:
+        -
+          name: "Isabela"
+          latitude: 16.9753758
+          longitude: 121.8107079
+    -
+      name: "Jayuya"
+      code: "073"
+      iso3166_2: "PR-073"
+      type: "municipality"
+      latitude: 18.2185674
+      longitude: -66.5915617
+      cities:
+        -
+          name: "Jayuya"
+          latitude: 18.2185674
+          longitude: -66.5915617
+    -
+      name: "Juana Díaz"
+      code: "075"
+      iso3166_2: "PR-075"
+      type: "municipality"
+      latitude: 18.0534372
+      longitude: -66.5075079
+      cities:
+        -
+          name: "Juana Díaz"
+          latitude: 18.0534372
+          longitude: -66.5075079
+    -
+      name: "Juncos"
+      code: "077"
+      iso3166_2: "PR-077"
+      type: "municipality"
+      latitude: 18.2274558
+      longitude: -65.920997
+      cities:
+        -
+          name: "Juncos"
+          latitude: 18.2274558
+          longitude: -65.920997
+    -
+      name: "Lajas"
+      code: "079"
+      iso3166_2: "PR-079"
+      type: "municipality"
+      latitude: 18.049962
+      longitude: -67.0593449
+      cities:
+        -
+          name: "Lajas"
+          latitude: 18.049962
+          longitude: -67.0593449
+    -
+      name: "Lares"
+      code: "081"
+      iso3166_2: "PR-081"
+      type: "municipality"
+      latitude: 18.2948683
+      longitude: -66.8776045
+      cities:
+        -
+          name: "Lares"
+          latitude: 34.0250802
+          longitude: -118.4594593
+    -
+      name: "Las Marías"
+      code: "083"
+      iso3166_2: "PR-083"
+      type: "municipality"
+      latitude: 18.2522446
+      longitude: -66.9918133
+      cities:
+        -
+          name: "Las Marías"
+          latitude: 35.8382238
+          longitude: -78.6103566
+    -
+      name: "Las Piedras"
+      code: "085"
+      iso3166_2: "PR-085"
+      type: "municipality"
+      latitude: 18.1824445
+      longitude: -65.8646741
+      cities:
+        -
+          name: "Las Piedras"
+          latitude: 18.1855753
+          longitude: -65.8736245
+    -
+      name: "Loíza"
+      code: "087"
+      iso3166_2: "PR-087"
+      type: "municipality"
+      latitude: 18.4329904
+      longitude: -65.87836
+      cities:
+        -
+          name: "Loíza"
+          latitude: 18.4329904
+          longitude: -65.87836
+    -
+      name: "Luquillo"
+      code: "089"
+      iso3166_2: "PR-089"
+      type: "municipality"
+      latitude: 18.3724507
+      longitude: -65.7165511
+      cities:
+        -
+          name: "Luquillo"
+          latitude: 18.3724507
+          longitude: -65.7165511
+    -
+      name: "Manatí"
+      code: "091"
+      iso3166_2: "PR-091"
+      type: "municipality"
+      latitude: 18.4182467
+      longitude: -66.49178
+      cities:
+        -
+          name: "Manatí"
+          latitude: 18.4181215
+          longitude: -66.5262783
+    -
+      name: "Maricao"
+      code: "093"
+      iso3166_2: "PR-093"
+      type: "municipality"
+      latitude: 18.1807902
+      longitude: -66.9799001
+      cities:
+        -
+          name: "Maricao"
+          latitude: 18.1807902
+          longitude: -66.9799001
+    -
+      name: "Maunabo"
+      code: "095"
+      iso3166_2: "PR-095"
+      type: "municipality"
+      latitude: 18.0071885
+      longitude: -65.8993289
+      cities:
+        -
+          name: "Maunabo"
+          latitude: 18.0071885
+          longitude: -65.8993289
+    -
+      name: "Mayagüez"
+      code: "MG"
+      iso3166_2: "PR-MG"
+      type: "region"
+      latitude: 18.20111111
+      longitude: -67.13972222
+      cities:
+        -
+          name: "Mayagüez"
+          latitude: 18.2013452
+          longitude: -67.1451549
+    -
+      name: "Moca"
+      code: "099"
+      iso3166_2: "PR-099"
+      type: "municipality"
+      latitude: 18.3947512
+      longitude: -67.113679
+      cities:
+        -
+          name: "Moca"
+          latitude: 18.3967929
+          longitude: -67.1479035
+    -
+      name: "Morovis"
+      code: "101"
+      iso3166_2: "PR-101"
+      type: "municipality"
+      latitude: 18.325785
+      longitude: -66.4065592
+      cities:
+        -
+          name: "Morovis"
+          latitude: 18.325785
+          longitude: -66.4065592
+    -
+      name: "Naguabo"
+      code: "103"
+      iso3166_2: "PR-103"
+      type: "municipality"
+      latitude: 18.2116247
+      longitude: -65.7348841
+      cities:
+        -
+          name: "Naguabo"
+          latitude: 18.2116247
+          longitude: -65.7348841
+    -
+      name: "Naranjito"
+      code: "105"
+      iso3166_2: "PR-105"
+      type: "municipality"
+      latitude: 18.3007861
+      longitude: -66.2448904
+      cities:
+        -
+          name: "Naranjito"
+          latitude: 18.3007861
+          longitude: -66.2448904
+    -
+      name: "Orocovis"
+      code: "107"
+      iso3166_2: "PR-107"
+      type: "municipality"
+      latitude: 18.2269224
+      longitude: -66.3911686
+      cities:
+        -
+          name: "Orocovis"
+          latitude: 18.2269224
+          longitude: -66.3911686
+    -
+      name: "Patillas"
+      code: "109"
+      iso3166_2: "PR-109"
+      type: "municipality"
+      latitude: 18.0037381
+      longitude: -66.0134059
+      cities:
+        -
+          name: "Patillas"
+          latitude: 18.0037381
+          longitude: -66.0134059
+    -
+      name: "Peñuelas"
+      code: "111"
+      iso3166_2: "PR-111"
+      type: "municipality"
+      latitude: 18.0633577
+      longitude: -66.7273896
+      cities:
+        -
+          name: "Peñuelas"
+          latitude: 18.0633577
+          longitude: -66.7273896
+    -
+      name: "Ponce"
+      code: "PO"
+      iso3166_2: "PR-PO"
+      type: "region"
+      latitude: 18.011564
+      longitude: -66.613958
+      cities:
+        -
+          name: "Ponce"
+          latitude: 18.0110768
+          longitude: -66.6140616
+    -
+      name: "Quebradillas"
+      code: "115"
+      iso3166_2: "PR-115"
+      type: "municipality"
+      latitude: 18.473833
+      longitude: -66.938512
+      cities:
+        -
+          name: "Quebradillas"
+          latitude: 18.473833
+          longitude: -66.938512
+    -
+      name: "Rincón"
+      code: "117"
+      iso3166_2: "PR-117"
+      type: "municipality"
+      latitude: 18.3362074
+      longitude: -67.2321202
+      cities:
+        -
+          name: "Rincón"
+          latitude: 18.3401514
+          longitude: -67.2499459
+    -
+      name: "Río Grande"
+      code: "119"
+      iso3166_2: "PR-119"
+      type: "municipality"
+      latitude: 18.3606321
+      longitude: -67.2368723
+      cities:
+        -
+          name: "Río Grande"
+          latitude: 28.81063826
+          longitude: -101.8353878
+    -
+      name: "Sabana Grande"
+      code: "121"
+      iso3166_2: "PR-121"
+      type: "municipality"
+      latitude: 18.0777392
+      longitude: -66.9604549
+      cities:
+        -
+          name: "Sabana Grande"
+          latitude: 18.0777392
+          longitude: -66.9604549
+    -
+      name: "Salinas"
+      code: "123"
+      iso3166_2: "PR-123"
+      type: "municipality"
+      latitude: 17.9769779
+      longitude: -66.2980187
+      cities:
+        -
+          name: "Salinas"
+          latitude: 36.6777372
+          longitude: -121.6555013
+    -
+      name: "San Germán"
+      code: "125"
+      iso3166_2: "PR-125"
+      type: "municipality"
+      latitude: 18.0807082
+      longitude: -67.0411096
+      cities:
+        -
+          name: "San Germán"
+          latitude: 18.0807082
+          longitude: -67.0411096
+    -
+      name: "San Juan"
+      code: "SJ"
+      iso3166_2: "PR-SJ"
+      type: "region"
+      latitude: 18.384239
+      longitude: -66.05344
+      cities:
+        -
+          name: "San Juan"
+          latitude: 18.463203
+          longitude: -66.1147571
+    -
+      name: "San Lorenzo"
+      code: "129"
+      iso3166_2: "PR-129"
+      type: "municipality"
+      latitude: 18.1904303
+      longitude: -65.9611794
+      cities:
+        -
+          name: "San Lorenzo"
+          latitude: 18.1886912
+          longitude: -65.9765862
+    -
+      name: "San Sebastián"
+      code: "131"
+      iso3166_2: "PR-131"
+      type: "municipality"
+      latitude: 18.32346
+      longitude: -66.972837
+      cities:
+        -
+          name: "San Sebastián"
+          latitude: 43.318334
+          longitude: -1.9812313
+    -
+      name: "Santa Isabel"
+      code: "133"
+      iso3166_2: "PR-133"
+      type: "municipality"
+      latitude: 17.9660775
+      longitude: -66.404892
+      cities:
+        -
+          name: "Santa Isabel"
+          latitude: 17.9660775
+          longitude: -66.404892
+    -
+      name: "Toa Alta"
+      code: "135"
+      iso3166_2: "PR-135"
+      type: "municipality"
+      latitude: 18.3882823
+      longitude: -66.2482237
+      cities:
+        -
+          name: "Toa Alta"
+          latitude: 18.3882823
+          longitude: -66.2482237
+    -
+      name: "Toa Baja"
+      code: "TB"
+      iso3166_2: "PR-TB"
+      type: "region"
+      latitude: 18.443889
+      longitude: -66.259722
+      cities:
+        -
+          name: "Toa Baja"
+          latitude: 18.4444709
+          longitude: -66.2543293
+    -
+      name: "Trujillo Alto"
+      code: "TA"
+      iso3166_2: "PR-TA"
+      type: "region"
+      latitude: 18.3542408
+      longitude: -66.007377
+      cities:
+        -
+          name: "Trujillo Alto"
+          latitude: 18.3546719
+          longitude: -66.0073876
+    -
+      name: "Utuado"
+      code: "141"
+      iso3166_2: "PR-141"
+      type: "municipality"
+      latitude: 18.2655095
+      longitude: -66.7004519
+      cities:
+        -
+          name: "Utuado"
+          latitude: 18.2655095
+          longitude: -66.7004519
+    -
+      name: "Vega Alta"
+      code: "143"
+      iso3166_2: "PR-143"
+      type: "municipality"
+      latitude: 18.4121703
+      longitude: -66.3312805
+      cities:
+        -
+          name: "Vega Alta"
+          latitude: 18.4121703
+          longitude: -66.3312805
+    -
+      name: "Vega Baja"
+      code: "145"
+      iso3166_2: "PR-145"
+      type: "municipality"
+      latitude: 18.4445314
+      longitude: -66.387587
+      cities:
+        -
+          name: "Vega Baja"
+          latitude: 18.4461459
+          longitude: -66.4041967
+    -
+      name: "Vieques"
+      code: "147"
+      iso3166_2: "PR-147"
+      type: "municipality"
+      latitude: 18.1215622
+      longitude: -65.457464
+      cities:
+        -
+          name: "Vieques"
+          latitude: 18.1262854
+          longitude: -65.4400985
+    -
+      name: "Villalba"
+      code: "149"
+      iso3166_2: "PR-149"
+      type: "municipality"
+      latitude: 18.1217554
+      longitude: -66.4985787
+      cities:
+        -
+          name: "Villalba"
+          latitude: 18.1217554
+          longitude: -66.4985787
+    -
+      name: "Yabucoa"
+      code: "151"
+      iso3166_2: "PR-151"
+      type: "municipality"
+      latitude: 18.0505201
+      longitude: -65.8793288
+      cities:
+        -
+          name: "Yabucoa"
+          latitude: 18.0505201
+          longitude: -65.8793288
+    -
+      name: "Yauco"
+      code: "153"
+      iso3166_2: "PR-153"
+      type: "municipality"
+      latitude: 18.034964
+      longitude: -66.8498983
+      cities:
+        -
+          name: "Yauco"
+          latitude: 18.034964
+          longitude: -66.8498983

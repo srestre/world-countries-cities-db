@@ -1,0 +1,259 @@
+-
+  name: "Benin"
+  name_es: "Benín"
+  native: "Bénin"
+  iso2: "BJ"
+  iso3: "BEN"
+  numeric_code: "204"
+  phonecode: "229"
+  capital: "Porto-Novo"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".bj"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 9.5
+  longitude: 2.25
+  emoji: "🇧🇯"
+  states:
+    -
+      name: "Alibori"
+      code: "AL"
+      iso3166_2: "BJ-AL"
+      type: "department"
+      latitude: 11.4649482
+      longitude: 2.7938798
+      cities:
+        -
+          name: "Banikoara"
+          latitude: 11.29845
+          longitude: 2.43856
+        -
+          name: "Kandi"
+          latitude: 11.13417
+          longitude: 2.93861
+        -
+          name: "Malanville"
+          latitude: 11.86819
+          longitude: 3.38327
+    -
+      name: "Atakora"
+      code: "AK"
+      iso3166_2: "BJ-AK"
+      type: "department"
+      latitude: 10.7160515
+      longitude: 1.5331527
+      cities:
+        -
+          name: "Guilmaro"
+          latitude: 10.56583
+          longitude: 1.72444
+        -
+          name: "Natitingou"
+          latitude: 10.30416
+          longitude: 1.37962
+        -
+          name: "Tanguieta"
+          latitude: 11.03621
+          longitude: 1.41757
+    -
+      name: "Atlantique"
+      code: "AQ"
+      iso3166_2: "BJ-AQ"
+      type: "department"
+      latitude: 6.540829
+      longitude: 2.223095
+      cities:
+        -
+          name: "Abomey-Calavi"
+          latitude: 6.44852
+          longitude: 2.35566
+        -
+          name: "Allada"
+          latitude: 6.66547
+          longitude: 2.15138
+        -
+          name: "Hévié"
+          latitude: 6.41667
+          longitude: 2.25
+        -
+          name: "Hinvi"
+          latitude: 6.76667
+          longitude: 2.16667
+        -
+          name: "Ouidah"
+          latitude: 6.36307
+          longitude: 2.08506
+    -
+      name: "Borgou"
+      code: "BO"
+      iso3166_2: "BJ-BO"
+      type: "department"
+      latitude: 9.7097453
+      longitude: 2.7422648
+      cities:
+        -
+          name: "Bembèrèkè"
+          latitude: 10.22827
+          longitude: 2.66335
+        -
+          name: "Bétérou"
+          latitude: 9.19916
+          longitude: 2.25855
+        -
+          name: "Nikki"
+          latitude: 9.94009
+          longitude: 3.21075
+        -
+          name: "Parakou"
+          latitude: 9.33716
+          longitude: 2.63031
+        -
+          name: "Tchaourou"
+          latitude: 8.88649
+          longitude: 2.59753
+    -
+      name: "Collines"
+      code: "CO"
+      iso3166_2: "BJ-CO"
+      type: "department"
+      latitude: 8.1085479
+      longitude: 2.1853101
+      cities:
+        -
+          name: "Comé"
+          latitude: 6.40764
+          longitude: 1.88198
+        -
+          name: "Dassa-Zoumé"
+          latitude: 7.75
+          longitude: 2.18333
+        -
+          name: "Savalou"
+          latitude: 7.92807
+          longitude: 1.97558
+        -
+          name: "Savé"
+          latitude: 8.03424
+          longitude: 2.4866
+    -
+      name: "Donga"
+      code: "DO"
+      iso3166_2: "BJ-DO"
+      type: "department"
+      latitude: 9.2679806
+      longitude: 1.7170684
+      cities:
+        -
+          name: "Bassila"
+          latitude: 9.00814
+          longitude: 1.6654
+        -
+          name: "Commune of Djougou"
+          latitude: 9.643
+          longitude: 1.896
+        -
+          name: "Djougou"
+          latitude: 9.70853
+          longitude: 1.66598
+    -
+      name: "Kouffo"
+      code: "KO"
+      iso3166_2: "BJ-KO"
+      type: "department"
+      latitude: 7.1312662
+      longitude: 1.7567394
+      cities:
+        -
+          name: "Djakotomey"
+          latitude: 6.9
+          longitude: 1.71667
+        -
+          name: "Dogbo"
+          latitude: 6.79911
+          longitude: 1.78073
+    -
+      name: "Littoral"
+      code: "LI"
+      iso3166_2: "BJ-LI"
+      type: "department"
+      latitude: 6.3663195
+      longitude: 2.4170608
+      cities:
+        -
+          name: "Cotonou"
+          latitude: 6.36536
+          longitude: 2.41833
+    -
+      name: "Mono"
+      code: "MO"
+      iso3166_2: "BJ-MO"
+      type: "department"
+      latitude: 6.457624
+      longitude: 1.867408
+      cities:
+        -
+          name: "Commune of Athieme"
+          latitude: 6.56924
+          longitude: 1.70259
+        -
+          name: "Lokossa"
+          latitude: 6.63869
+          longitude: 1.71674
+    -
+      name: "Ouémé"
+      code: "OU"
+      iso3166_2: "BJ-OU"
+      type: "department"
+      latitude: 6.6013531
+      longitude: 2.550566
+      cities:
+        -
+          name: "Porto-Novo"
+          latitude: 6.49646
+          longitude: 2.60359
+    -
+      name: "Plateau"
+      code: "PL"
+      iso3166_2: "BJ-PL"
+      type: "department"
+      latitude: 7.1002602
+      longitude: 2.6409144
+      cities:
+        -
+          name: "Kétou"
+          latitude: 7.36332
+          longitude: 2.59978
+        -
+          name: "Pobé"
+          latitude: 6.98008
+          longitude: 2.6649
+        -
+          name: "Sakété"
+          latitude: 6.73618
+          longitude: 2.65866
+    -
+      name: "Zou"
+      code: "ZO"
+      iso3166_2: "BJ-ZO"
+      type: "department"
+      latitude: 7.2834335
+      longitude: 2.1227604
+      cities:
+        -
+          name: "Abomey"
+          latitude: 7.18286
+          longitude: 1.99119
+        -
+          name: "Bohicon"
+          latitude: 7.17826
+          longitude: 2.0667
+        -
+          name: "Commune of Agbangnizoun"
+          latitude: 7.076
+          longitude: 1.961
+        -
+          name: "Cové"
+          latitude: 7.22097
+          longitude: 2.34017

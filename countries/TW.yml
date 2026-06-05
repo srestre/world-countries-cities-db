@@ -1,0 +1,357 @@
+-
+  name: "Taiwan"
+  name_es: "Taiwán"
+  native: "臺灣"
+  iso2: "TW"
+  iso3: "TWN"
+  numeric_code: "158"
+  phonecode: "886"
+  capital: "Taipei"
+  currency: "TWD"
+  currency_name: "New Taiwan dollar"
+  currency_symbol: "$"
+  tld: ".tw"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  latitude: 23.5
+  longitude: 121
+  emoji: "🇹🇼"
+  states:
+    -
+      name: "Changhua"
+      code: "CHA"
+      iso3166_2: "TW-CHA"
+      type: "county"
+      latitude: 24.0755667
+      longitude: 120.5444667
+      cities:
+        -
+          name: "Changhua"
+          latitude: 23.95361
+          longitude: 120.49083
+        -
+          name: "Yuanlin"
+          latitude: 23.95671
+          longitude: 120.57608
+    -
+      name: "Chiayi"
+      code: "CYI"
+      iso3166_2: "TW-CYI"
+      type: "city"
+      latitude: 23.4591664
+      longitude: 120.2930004
+      cities:
+        -
+          name: "Chiayi"
+          latitude: 23.47722
+          longitude: 120.44527
+        -
+          name: "Pizitou"
+          latitude: 23.48556
+          longitude: 120.44472
+    -
+      name: "Chiayi County"
+      code: "CYQ"
+      iso3166_2: "TW-CYQ"
+      type: "county"
+      latitude: 23.49620556
+      longitude: 120.641875
+      cities:
+        -
+          name: "Budai"
+          latitude: 23.36
+          longitude: 120.17
+        -
+          name: "Chiayi"
+          latitude: 23.46333
+          longitude: 120.58166
+        -
+          name: "Dalin"
+          latitude: 23.59888889
+          longitude: 120.47
+        -
+          name: "Minxiong"
+          latitude: 23.550399
+          longitude: 120.445696
+    -
+      name: "Hsinchu"
+      code: "HSZ"
+      iso3166_2: "TW-HSZ"
+      type: "city"
+      latitude: 24.8138287
+      longitude: 120.9674798
+      cities:
+        -
+          name: "Hsinchu"
+          latitude: 24.67416
+          longitude: 121.16111
+    -
+      name: "Hsinchu County"
+      code: "HSQ"
+      iso3166_2: "TW-HSQ"
+      type: "county"
+      latitude: 24.83333333
+      longitude: 121.01472222
+      cities:
+        -
+          name: "Hsinchu"
+          latitude: 24.80361
+          longitude: 120.96861
+        -
+          name: "Hukou"
+          latitude: 24.9
+          longitude: 121.05
+        -
+          name: "Zhubei"
+          latitude: 24.83333333
+          longitude: 121.01194444
+    -
+      name: "Hualien"
+      code: "HUA"
+      iso3166_2: "TW-HUA"
+      type: "county"
+      latitude: 23.9871589
+      longitude: 121.6015714
+      cities:
+        -
+          name: "Hualien"
+          latitude: 23.78166
+          longitude: 121.39333
+    -
+      name: "Kaohsiung"
+      code: "KHH"
+      iso3166_2: "TW-KHH"
+      type: "special municipality"
+      latitude: 22.6203348
+      longitude: 120.3120375
+      cities:
+        -
+          name: "Kaohsiung"
+          latitude: 22.61626
+          longitude: 120.31333
+    -
+      name: "Keelung"
+      code: "KEE"
+      iso3166_2: "TW-KEE"
+      type: "city"
+      latitude: 25.1317232
+      longitude: 121.744652
+      cities:
+        []
+    -
+      name: "Kinmen"
+      code: "KIN"
+      iso3166_2: "TW-KIN"
+      type: "county"
+      latitude: 24.4367638
+      longitude: 118.3186435
+      cities:
+        -
+          name: "Jincheng"
+          latitude: 24.43415
+          longitude: 118.31712
+        -
+          name: "Kinmen"
+          latitude: 24.45333
+          longitude: 118.38861
+    -
+      name: "Lienchiang"
+      code: "LIE"
+      iso3166_2: "TW-LIE"
+      type: "county"
+      latitude: 26.1577951
+      longitude: 119.9519756
+      cities:
+        -
+          name: "Lienchiang"
+          latitude: 26.37004
+          longitude: 120.49545
+        -
+          name: "Nangan"
+          latitude: 26.15039
+          longitude: 119.93284
+    -
+      name: "Miaoli"
+      code: "MIA"
+      iso3166_2: "TW-MIA"
+      type: "county"
+      latitude: 24.560159
+      longitude: 120.8214265
+      cities:
+        -
+          name: "Miaoli"
+          latitude: 24.48972
+          longitude: 120.90638
+    -
+      name: "Nantou"
+      code: "NAN"
+      iso3166_2: "TW-NAN"
+      type: "county"
+      latitude: 23.90235
+      longitude: 120.6909167
+      cities:
+        -
+          name: "Lugu"
+          latitude: 23.74639
+          longitude: 120.7525
+        -
+          name: "Nantou"
+          latitude: 23.83419
+          longitude: 120.92704
+        -
+          name: "Puli"
+          latitude: 23.96639
+          longitude: 120.96952
+        -
+          name: "Zhongxing New Village"
+          latitude: 23.95908
+          longitude: 120.68516
+    -
+      name: "New Taipei"
+      code: "NWT"
+      iso3166_2: "TW-NWT"
+      type: "special municipality"
+      latitude: 25.011997
+      longitude: 121.4656619
+      cities:
+        []
+    -
+      name: "Penghu"
+      code: "PEN"
+      iso3166_2: "TW-PEN"
+      type: "county"
+      latitude: 23.569694
+      longitude: 119.5664543
+      cities:
+        -
+          name: "Magong"
+          latitude: 23.5654
+          longitude: 119.58627
+        -
+          name: "Penghu"
+          latitude: 23.57111
+          longitude: 119.61138
+    -
+      name: "Pingtung"
+      code: "PIF"
+      iso3166_2: "TW-PIF"
+      type: "county"
+      latitude: 22.6628468
+      longitude: 120.4915677
+      cities:
+        -
+          name: "Donggang"
+          latitude: 22.46515
+          longitude: 120.44927
+        -
+          name: "Hengchun"
+          latitude: 22.00417
+          longitude: 120.74389
+        -
+          name: "Pingtung"
+          latitude: 22.49555
+          longitude: 120.61444
+    -
+      name: "Taichung"
+      code: "TXG"
+      iso3166_2: "TW-TXG"
+      type: "special municipality"
+      latitude: 24.163162
+      longitude: 120.6478282
+      cities:
+        -
+          name: "Taichung"
+          latitude: 24.1469
+          longitude: 120.6839
+    -
+      name: "Tainan"
+      code: "TNN"
+      iso3166_2: "TW-TNN"
+      type: "special municipality"
+      latitude: 22.9912348
+      longitude: 120.184982
+      cities:
+        -
+          name: "Tainan"
+          latitude: 22.99083
+          longitude: 120.21333
+        -
+          name: "Yujing"
+          latitude: 23.12493
+          longitude: 120.46138
+    -
+      name: "Taipei"
+      code: "TPE"
+      iso3166_2: "TW-TPE"
+      type: "special municipality"
+      latitude: 25.0329694
+      longitude: 121.5654177
+      cities:
+        -
+          name: "Banqiao"
+          latitude: 25.01427
+          longitude: 121.46719
+        -
+          name: "Jiufen"
+          latitude: 25.10957
+          longitude: 121.84424
+        -
+          name: "Taipei"
+          latitude: 25.04776
+          longitude: 121.53185
+    -
+      name: "Taitung"
+      code: "TTT"
+      iso3166_2: "TW-TTT"
+      type: "county"
+      latitude: 22.7560447
+      longitude: 121.1456538
+      cities:
+        -
+          name: "Taitung"
+          latitude: 22.88361
+          longitude: 121.04833
+    -
+      name: "Taoyuan"
+      code: "TAO"
+      iso3166_2: "TW-TAO"
+      type: "special municipality"
+      latitude: 24.9936281
+      longitude: 121.3009798
+      cities:
+        -
+          name: "Daxi"
+          latitude: 24.88373
+          longitude: 121.29043
+        -
+          name: "Taoyuan"
+          latitude: 24.895
+          longitude: 121.24611
+    -
+      name: "Yilan"
+      code: "ILA"
+      iso3166_2: "TW-ILA"
+      type: "county"
+      latitude: 24.7302791
+      longitude: 121.7631149
+      cities:
+        -
+          name: "Yilan"
+          latitude: 24.5425
+          longitude: 121.63361
+    -
+      name: "Yunlin"
+      code: "YUN"
+      iso3166_2: "TW-YUN"
+      type: "county"
+      latitude: 23.6990775
+      longitude: 120.5245511
+      cities:
+        -
+          name: "Douliu"
+          latitude: 23.70944
+          longitude: 120.54333
+        -
+          name: "Yunlin"
+          latitude: 23.70701
+          longitude: 120.38481

@@ -1,0 +1,31 @@
+-
+  name: "Saint-Barthelemy"
+  name_es: "San Bartolomé"
+  native: "Saint-Barthélemy"
+  iso2: "BL"
+  iso3: "BLM"
+  numeric_code: "652"
+  phonecode: "590"
+  capital: "Gustavia"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".bl"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 18.5
+  longitude: -63.41666666
+  emoji: "🇧🇱"
+  states:
+    -
+      name: "Saint-Barthélemy"
+      code: "01"
+      iso3166_2: "FR-BL"
+      type: "overseas collectivity"
+      latitude: 17.9
+      longitude: -62.83333333
+      cities:
+        -
+          name: "Gustavia"
+          latitude: 17.89790833
+          longitude: -62.85055556

@@ -1,0 +1,5363 @@
+-
+  name: "Portugal"
+  name_es: "Portugal"
+  native: "Portugal"
+  iso2: "PT"
+  iso3: "PRT"
+  numeric_code: "620"
+  phonecode: "351"
+  capital: "Lisbon"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".pt"
+  region: "Europe"
+  subregion: "Southern Europe"
+  latitude: 39.5
+  longitude: -8
+  emoji: "🇵🇹"
+  states:
+    -
+      name: "Açores"
+      code: "20"
+      iso3166_2: "PT-20"
+      type: "autonomous region"
+      latitude: 37.8085564
+      longitude: -25.4731374
+      cities:
+        -
+          name: "Água de Pau"
+          latitude: 37.72142
+          longitude: -25.5117
+        -
+          name: "Angra do Heroísmo"
+          latitude: 38.65483
+          longitude: -27.21734
+        -
+          name: "Angústias"
+          latitude: 38.52547
+          longitude: -28.63132
+        -
+          name: "Arrifes"
+          latitude: 37.76667
+          longitude: -25.7
+        -
+          name: "Biscoitos"
+          latitude: 38.78333
+          longitude: -27.25
+        -
+          name: "Cabouco"
+          latitude: 37.76667
+          longitude: -25.56667
+        -
+          name: "Cais do Pico"
+          latitude: 38.52531
+          longitude: -28.32074
+        -
+          name: "Calheta"
+          latitude: 38.60186
+          longitude: -28.01792
+        -
+          name: "Calheta de São Jorge"
+          latitude: 38.59767
+          longitude: -27.91459
+        -
+          name: "Castelo Branco"
+          latitude: 38.52198
+          longitude: -28.71365
+        -
+          name: "Corvo"
+          latitude: 39.69771
+          longitude: -31.1055
+        -
+          name: "Fajã de Baixo"
+          latitude: 37.760434
+          longitude: -25.6446772
+        -
+          name: "Fenais da Ajuda"
+          latitude: 37.85128
+          longitude: -25.32406
+        -
+          name: "Fenais da Luz"
+          latitude: 37.8249
+          longitude: -25.64229
+        -
+          name: "Feteira"
+          latitude: 38.65429
+          longitude: -27.14995
+        -
+          name: "Fonte Bastardo"
+          latitude: 38.69201
+          longitude: -27.07942
+        -
+          name: "Furnas"
+          latitude: 37.77567
+          longitude: -25.31035
+        -
+          name: "Horta"
+          latitude: 38.53737
+          longitude: -28.62615
+        -
+          name: "Lagoa"
+          latitude: 37.74486
+          longitude: -25.57184
+        -
+          name: "Lajes"
+          latitude: 38.76352
+          longitude: -27.10336
+        -
+          name: "Lajes das Flores"
+          latitude: 39.41619
+          longitude: -31.21725
+        -
+          name: "Lajes do Pico"
+          latitude: 38.42797
+          longitude: -28.17402
+        -
+          name: "Madalena"
+          latitude: 38.53642
+          longitude: -28.5266
+        -
+          name: "Maia"
+          latitude: 37.83247
+          longitude: -25.38976
+        -
+          name: "Mosteiros"
+          latitude: 37.89017
+          longitude: -25.81999
+        -
+          name: "Nordeste"
+          latitude: 37.82721
+          longitude: -25.22863
+        -
+          name: "Ponta Delgada"
+          latitude: 37.7423
+          longitude: -25.67093
+        -
+          name: "Ponta Garça"
+          latitude: 37.71667
+          longitude: -25.36667
+        -
+          name: "Porto Judeu"
+          latitude: 38.64814
+          longitude: -27.11944
+        -
+          name: "Porto Martins"
+          latitude: 38.68146
+          longitude: -27.05835
+        -
+          name: "Povoação"
+          latitude: 37.76471
+          longitude: -25.24487
+        -
+          name: "Praia da Vitória"
+          latitude: 38.73333
+          longitude: -27.06667
+        -
+          name: "Rabo de Peixe"
+          latitude: 37.81022
+          longitude: -25.58263
+        -
+          name: "Relva"
+          latitude: 37.75271
+          longitude: -25.71848
+        -
+          name: "Ribeira Grande"
+          latitude: 38.51667
+          longitude: -28.7
+        -
+          name: "Ribeira Seca"
+          latitude: 37.81667
+          longitude: -25.53333
+        -
+          name: "Ribeirinha"
+          latitude: 38.66203
+          longitude: -27.18093
+        -
+          name: "Rosto de Cão"
+          latitude: 37.7660756
+          longitude: -25.6228724
+        -
+          name: "Santa Bárbara"
+          latitude: 38.69608
+          longitude: -27.33907
+        -
+          name: "Santa Cruz da Graciosa"
+          latitude: 39.04946
+          longitude: -28.00432
+        -
+          name: "Santa Cruz das Flores"
+          latitude: 39.46984
+          longitude: -31.18514
+        -
+          name: "São Bartolomeu"
+          latitude: 38.67491
+          longitude: -27.29349
+        -
+          name: "São Mateus"
+          latitude: 38.6563
+          longitude: -27.26935
+        -
+          name: "São Roque"
+          latitude: 37.75418
+          longitude: -25.64127
+        -
+          name: "São Roque do Pico"
+          latitude: 38.51631
+          longitude: -28.30752
+        -
+          name: "São Sebastião"
+          latitude: 38.66584
+          longitude: -27.08976
+        -
+          name: "São Vicente"
+          latitude: 37.81829
+          longitude: -25.66583
+        -
+          name: "Senhora do Rosário"
+          latitude: 37.83333
+          longitude: -25.15
+        -
+          name: "Velas"
+          latitude: 38.67995
+          longitude: -28.15155
+        -
+          name: "Vila do Porto"
+          latitude: 36.97454
+          longitude: -25.09967
+        -
+          name: "Vila Franca do Campo"
+          latitude: 37.71667
+          longitude: -25.43333
+    -
+      name: "Aveiro"
+      code: "01"
+      iso3166_2: "PT-01"
+      type: "district"
+      latitude: 40.6791504
+      longitude: -8.5217166
+      cities:
+        -
+          name: "Aguada de Cima"
+          latitude: 40.52291
+          longitude: -8.427
+        -
+          name: "Águeda"
+          latitude: 40.5772
+          longitude: -8.44442
+        -
+          name: "Albergaria-a-Velha"
+          latitude: 40.68706
+          longitude: -8.50399
+        -
+          name: "Anadia"
+          latitude: 40.43841
+          longitude: -8.43352
+        -
+          name: "Aradas"
+          latitude: 40.62084
+          longitude: -8.64195
+        -
+          name: "Arcos"
+          latitude: 40.44779
+          longitude: -8.44171
+        -
+          name: "Argoncilhe"
+          latitude: 41.02541
+          longitude: -8.53885
+        -
+          name: "Arouca"
+          latitude: 40.92658
+          longitude: -8.27251
+        -
+          name: "Arrifana"
+          latitude: 40.91565
+          longitude: -8.49657
+        -
+          name: "Avanca"
+          latitude: 40.80771
+          longitude: -8.5722
+        -
+          name: "Aveiro"
+          latitude: 40.64427
+          longitude: -8.64554
+        -
+          name: "Beduido"
+          latitude: 40.76427
+          longitude: -8.5611
+        -
+          name: "Branca"
+          latitude: 40.76653
+          longitude: -8.48262
+        -
+          name: "Castelo de Paiva"
+          latitude: 41.03353
+          longitude: -8.29822
+        -
+          name: "Cortegaça"
+          latitude: 40.94883
+          longitude: -8.6213
+        -
+          name: "Cucujães"
+          latitude: 40.87413
+          longitude: -8.50687
+        -
+          name: "Eixo"
+          latitude: 40.62758
+          longitude: -8.56922
+        -
+          name: "Esgueira"
+          latitude: 40.64899
+          longitude: -8.62943
+        -
+          name: "Esmoriz"
+          latitude: 40.95773
+          longitude: -8.62753
+        -
+          name: "Espargo"
+          latitude: 40.92462
+          longitude: -8.57495
+        -
+          name: "Espinho"
+          latitude: 41.00763
+          longitude: -8.64125
+        -
+          name: "Estarreja"
+          latitude: 40.75463
+          longitude: -8.57917
+        -
+          name: "Feira"
+          latitude: 40.92535
+          longitude: -8.54277
+        -
+          name: "Fiães"
+          latitude: 40.99446
+          longitude: -8.52537
+        -
+          name: "Gafanha da Encarnação"
+          latitude: 40.61806
+          longitude: -8.73303
+        -
+          name: "Gafanha da Nazaré"
+          latitude: 40.63621
+          longitude: -8.71338
+        -
+          name: "Ílhavo"
+          latitude: 40.60188
+          longitude: -8.67021
+        -
+          name: "Lamas"
+          latitude: 40.98597
+          longitude: -8.56923
+        -
+          name: "Lobão"
+          latitude: 40.98664
+          longitude: -8.48566
+        -
+          name: "Lourosa"
+          latitude: 40.9842
+          longitude: -8.55142
+        -
+          name: "Luso"
+          latitude: 40.38429
+          longitude: -8.37845
+        -
+          name: "Macieira de Cambra"
+          latitude: 40.85939
+          longitude: -8.37338
+        -
+          name: "Mealhada"
+          latitude: 40.36273
+          longitude: -8.44781
+        -
+          name: "Milheirós de Poiares"
+          latitude: 40.92163
+          longitude: -8.46788
+        -
+          name: "Mosteirô"
+          latitude: 40.89843
+          longitude: -8.53196
+        -
+          name: "Murtosa"
+          latitude: 40.74301
+          longitude: -8.64023
+        -
+          name: "Nogueira da Regedoura"
+          latitude: 41.0053
+          longitude: -8.59195
+        -
+          name: "Oiã"
+          latitude: 40.54264
+          longitude: -8.53856
+        -
+          name: "Oliveira de Azemeis"
+          latitude: 40.84101
+          longitude: -8.47555
+        -
+          name: "Oliveira do Bairro"
+          latitude: 40.50977
+          longitude: -8.56374
+        -
+          name: "Oliveirinha"
+          latitude: 40.60715
+          longitude: -8.59198
+        -
+          name: "Ovar"
+          latitude: 40.85862
+          longitude: -8.62513
+        -
+          name: "Paços de Brandão"
+          latitude: 40.97541
+          longitude: -8.5835
+        -
+          name: "Pampilhosa do Botão"
+          latitude: 40.3358
+          longitude: -8.42738
+        -
+          name: "Pardilhó"
+          latitude: 40.79925
+          longitude: -8.62598
+        -
+          name: "Rio Meão"
+          latitude: 40.95775
+          longitude: -8.57818
+        -
+          name: "Salreu"
+          latitude: 40.73971
+          longitude: -8.5572
+        -
+          name: "Sanfins"
+          latitude: 40.92979
+          longitude: -8.52563
+        -
+          name: "Sangalhos"
+          latitude: 40.48678
+          longitude: -8.46968
+        -
+          name: "Santa Maria da Feira"
+          latitude: 40.96043
+          longitude: -8.51545
+        -
+          name: "São João"
+          latitude: 40.86802
+          longitude: -8.60672
+        -
+          name: "São João da Madeira"
+          latitude: 40.9007
+          longitude: -8.4902
+        -
+          name: "São João de Ver"
+          latitude: 40.95527
+          longitude: -8.55117
+        -
+          name: "São Roque"
+          latitude: 40.87216
+          longitude: -8.47149
+        -
+          name: "Sever do Vouga"
+          latitude: 40.73156
+          longitude: -8.35493
+        -
+          name: "Silvalde"
+          latitude: 40.99205
+          longitude: -8.62567
+        -
+          name: "Souto"
+          latitude: 40.98496
+          longitude: -8.62185
+        -
+          name: "Vagos"
+          latitude: 40.49943
+          longitude: -8.6783
+        -
+          name: "Vale de Cambra"
+          latitude: 40.845
+          longitude: -8.36022
+        -
+          name: "Válega"
+          latitude: 40.83629
+          longitude: -8.58061
+        -
+          name: "Valongo"
+          latitude: 40.61667
+          longitude: -8.45
+        -
+          name: "Vila Chã"
+          latitude: 40.86667
+          longitude: -8.46667
+    -
+      name: "Beja"
+      code: "02"
+      iso3166_2: "PT-02"
+      type: "district"
+      latitude: 38.0154479
+      longitude: -7.8650368
+      cities:
+        -
+          name: "Aldeia Nova de São Bento"
+          latitude: 37.92603
+          longitude: -7.40804
+        -
+          name: "Aljustrel"
+          latitude: 37.87759
+          longitude: -8.16516
+        -
+          name: "Almodôvar"
+          latitude: 37.4959
+          longitude: -8.09372
+        -
+          name: "Almograve"
+          latitude: 37.65665
+          longitude: -8.79214
+        -
+          name: "Alvito"
+          latitude: 38.24653
+          longitude: -8.05038
+        -
+          name: "Barrancos"
+          latitude: 38.13446
+          longitude: -6.97604
+        -
+          name: "Beja"
+          latitude: 38.01506
+          longitude: -7.86323
+        -
+          name: "Beringel"
+          latitude: 38.05656
+          longitude: -7.98427
+        -
+          name: "Boavista dos Pinheiros"
+          latitude: 37.58058
+          longitude: -8.66441
+        -
+          name: "Cabeça Gorda"
+          latitude: 37.92401
+          longitude: -7.7929
+        -
+          name: "Castro Verde"
+          latitude: 37.69828
+          longitude: -8.08581
+        -
+          name: "Cuba"
+          latitude: 38.21972
+          longitude: -7.92114
+        -
+          name: "Ferreira do Alentejo"
+          latitude: 38.05
+          longitude: -8.03333
+        -
+          name: "Mértola"
+          latitude: 37.65918
+          longitude: -7.66434
+        -
+          name: "Minas de São Domingos"
+          latitude: 37.67322
+          longitude: -7.49765
+        -
+          name: "Moura"
+          latitude: 38.1401
+          longitude: -7.44856
+        -
+          name: "Neves"
+          latitude: 38.0227
+          longitude: -7.81344
+        -
+          name: "Odemira"
+          latitude: 37.59798
+          longitude: -8.63972
+        -
+          name: "Ourique"
+          latitude: 37.69156
+          longitude: -8.31031
+        -
+          name: "Penedo Gordo"
+          latitude: 37.98477
+          longitude: -7.91651
+        -
+          name: "Salvada"
+          latitude: 37.93771
+          longitude: -7.77448
+        -
+          name: "São Luis"
+          latitude: 37.71556
+          longitude: -8.66472
+        -
+          name: "São Teotónio"
+          latitude: 37.51282
+          longitude: -8.70708
+        -
+          name: "Serpa"
+          latitude: 37.95201
+          longitude: -7.47534
+        -
+          name: "Vidigueira"
+          latitude: 38.18448
+          longitude: -7.74469
+        -
+          name: "Vila Nova de Milfontes"
+          latitude: 37.72377
+          longitude: -8.78278
+        -
+          name: "Zambujeira do Mar"
+          latitude: 37.52799
+          longitude: -8.78483
+    -
+      name: "Braga"
+      code: "03"
+      iso3166_2: "PT-03"
+      type: "district"
+      latitude: 41.550388
+      longitude: -8.4261301
+      cities:
+        -
+          name: "Adaúfe"
+          latitude: 41.58732
+          longitude: -8.39817
+        -
+          name: "Amares"
+          latitude: 41.64718
+          longitude: -8.35558
+        -
+          name: "Apúlia"
+          latitude: 41.48512
+          longitude: -8.76413
+        -
+          name: "Apúlia e Fão"
+          latitude: 41.51194
+          longitude: -8.77288
+        -
+          name: "Arcos"
+          latitude: 41.52185
+          longitude: -8.42151
+        -
+          name: "Arões"
+          latitude: 41.45553
+          longitude: -8.21419
+        -
+          name: "Aveleda"
+          latitude: 41.52113
+          longitude: -8.46682
+        -
+          name: "Barcelos"
+          latitude: 41.53174
+          longitude: -8.61843
+        -
+          name: "Barqueiros"
+          latitude: 41.49111
+          longitude: -8.73192
+        -
+          name: "Braga"
+          latitude: 41.55032
+          longitude: -8.42005
+        -
+          name: "Brito"
+          latitude: 41.45821
+          longitude: -8.36103
+        -
+          name: "Cabeceiras de Basto"
+          latitude: 41.52079
+          longitude: -7.97198
+        -
+          name: "Caldas das Taipas"
+          latitude: 41.48465
+          longitude: -8.3485
+        -
+          name: "Caldas de Vizela"
+          latitude: 41.38212
+          longitude: -8.3089
+        -
+          name: "Caldelas"
+          latitude: 41.67101
+          longitude: -8.38148
+        -
+          name: "Calendário"
+          latitude: 41.40361
+          longitude: -8.52967
+        -
+          name: "Candoso"
+          latitude: 41.42768
+          longitude: -8.32166
+        -
+          name: "Celorico de Basto"
+          latitude: 41.40278
+          longitude: -8.03346
+        -
+          name: "Chavão"
+          latitude: 41.45235
+          longitude: -8.60194
+        -
+          name: "Cristelo"
+          latitude: 41.47964
+          longitude: -8.69785
+        -
+          name: "Esporões"
+          latitude: 41.51006
+          longitude: -8.41729
+        -
+          name: "Esposende"
+          latitude: 41.5361
+          longitude: -8.78201
+        -
+          name: "Fafe"
+          latitude: 41.46837
+          longitude: -8.15863
+        -
+          name: "Faria"
+          latitude: 41.48298
+          longitude: -8.67152
+        -
+          name: "Ferreiros"
+          latitude: 41.35
+          longitude: -8.55
+        -
+          name: "Fradelos"
+          latitude: 41.36846
+          longitude: -8.59887
+        -
+          name: "Frossos"
+          latitude: 41.5659
+          longitude: -8.45134
+        -
+          name: "Galegos"
+          latitude: 41.56268
+          longitude: -8.57204
+        -
+          name: "Gandra"
+          latitude: 41.52185
+          longitude: -8.76185
+        -
+          name: "Gondizalves"
+          latitude: 41.54158
+          longitude: -8.4557
+        -
+          name: "Gueral"
+          latitude: 41.45859
+          longitude: -8.62946
+        -
+          name: "Guimarães"
+          latitude: 41.44384
+          longitude: -8.28918
+        -
+          name: "Guisande"
+          latitude: 41.48264
+          longitude: -8.44564
+        -
+          name: "Joane"
+          latitude: 41.43906
+          longitude: -8.40846
+        -
+          name: "Lago"
+          latitude: 41.62148
+          longitude: -8.41258
+        -
+          name: "Lordelo"
+          latitude: 41.37411
+          longitude: -8.38016
+        -
+          name: "Macieira de Rates"
+          latitude: 41.44092
+          longitude: -8.63426
+        -
+          name: "Marinhas"
+          latitude: 41.55906
+          longitude: -8.78297
+        -
+          name: "Mariz"
+          latitude: 41.52823
+          longitude: -8.67081
+        -
+          name: "Merelim"
+          latitude: 41.58568
+          longitude: -8.46555
+        -
+          name: "Moreira de Conegos"
+          latitude: 41.3868
+          longitude: -8.3394
+        -
+          name: "Negreiros"
+          latitude: 41.43552
+          longitude: -8.61398
+        -
+          name: "Oliveira"
+          latitude: 41.47819
+          longitude: -8.46965
+        -
+          name: "Perelhal"
+          latitude: 41.53075
+          longitude: -8.68982
+        -
+          name: "Ponte"
+          latitude: 41.47057
+          longitude: -8.3299
+        -
+          name: "Póvoa de Lanhoso"
+          latitude: 41.57599
+          longitude: -8.27008
+        -
+          name: "Prado"
+          latitude: 41.60246
+          longitude: -8.46297
+        -
+          name: "Real"
+          latitude: 41.55841
+          longitude: -8.4433
+        -
+          name: "Refojos de Basto"
+          latitude: 41.51318
+          longitude: -7.99517
+        -
+          name: "Rendufe"
+          latitude: 41.62898
+          longitude: -8.40858
+        -
+          name: "Riba de Ave"
+          latitude: 41.39648
+          longitude: -8.38685
+        -
+          name: "Ribeirão"
+          latitude: 41.36081
+          longitude: -8.56774
+        -
+          name: "Ronfe"
+          latitude: 41.44146
+          longitude: -8.38412
+        -
+          name: "Sande"
+          latitude: 41.7019
+          longitude: -8.39246
+        -
+          name: "Selho"
+          latitude: 41.41938
+          longitude: -8.34599
+        -
+          name: "Semelhe"
+          latitude: 41.55437
+          longitude: -8.46281
+        -
+          name: "Serzedelo"
+          latitude: 41.40128
+          longitude: -8.36888
+        -
+          name: "Serzedo"
+          latitude: 41.40502
+          longitude: -8.22926
+        -
+          name: "Tebosa"
+          latitude: 41.48253
+          longitude: -8.48399
+        -
+          name: "Terras de Bouro"
+          latitude: 41.73914
+          longitude: -8.19109
+        -
+          name: "Urgeses"
+          latitude: 41.4272
+          longitude: -8.29796
+        -
+          name: "Várzea"
+          latitude: 41.51512
+          longitude: -8.584
+        -
+          name: "Vieira do Minho"
+          latitude: 41.63557
+          longitude: -8.13244
+        -
+          name: "Vila Cova"
+          latitude: 41.55107
+          longitude: -8.71645
+        -
+          name: "Vila Frescainha"
+          latitude: 41.53846
+          longitude: -8.63971
+        -
+          name: "Vila Nova de Famalicão"
+          latitude: 41.40797
+          longitude: -8.51978
+        -
+          name: "Vila Seca"
+          latitude: 41.50031
+          longitude: -8.68525
+        -
+          name: "Vila Verde"
+          latitude: 41.64869
+          longitude: -8.43628
+        -
+          name: "Vilaça"
+          latitude: 41.51787
+          longitude: -8.48357
+        -
+          name: "Vilar de Figos"
+          latitude: 41.47555
+          longitude: -8.65382
+        -
+          name: "Vizela"
+          latitude: 41.37529
+          longitude: -8.2931
+    -
+      name: "Bragança"
+      code: "04"
+      iso3166_2: "PT-04"
+      type: "district"
+      latitude: 41.8061652
+      longitude: -6.7567427
+      cities:
+        -
+          name: "Alfândega da Fé"
+          latitude: 41.34315
+          longitude: -6.96112
+        -
+          name: "Belver"
+          latitude: 41.24696
+          longitude: -7.27594
+        -
+          name: "Bragança"
+          latitude: 41.75608
+          longitude: -6.75535
+        -
+          name: "Carrazeda de Anciães"
+          latitude: 41.24247
+          longitude: -7.30721
+        -
+          name: "Carrazeda de Ansiães"
+          latitude: 41.23424
+          longitude: -7.31129
+        -
+          name: "Freixo de Espada à Cinta"
+          latitude: 41.09033
+          longitude: -6.80648
+        -
+          name: "Macedo de Cavaleiros"
+          latitude: 41.55132
+          longitude: -6.93355
+        -
+          name: "Miranda do Douro"
+          latitude: 41.49692
+          longitude: -6.27308
+        -
+          name: "Mirandela"
+          latitude: 41.50098
+          longitude: -7.19185
+        -
+          name: "Mogadouro"
+          latitude: 41.34034
+          longitude: -6.71187
+        -
+          name: "Samil"
+          latitude: 41.77632
+          longitude: -6.75698
+        -
+          name: "Sendim"
+          latitude: 41.38739
+          longitude: -6.42625
+        -
+          name: "Torre de Moncorvo"
+          latitude: 41.17454
+          longitude: -7.05364
+        -
+          name: "Vila Flor"
+          latitude: 41.31429
+          longitude: -7.15071
+        -
+          name: "Vimioso"
+          latitude: 41.57287
+          longitude: -6.52087
+        -
+          name: "Vinhais"
+          latitude: 41.83509
+          longitude: -7.00501
+    -
+      name: "Castelo Branco"
+      code: "05"
+      iso3166_2: "PT-05"
+      type: "district"
+      latitude: 39.8266322
+      longitude: -7.4919318
+      cities:
+        -
+          name: "Aldeia de Joanes"
+          latitude: 40.13905
+          longitude: -7.51694
+        -
+          name: "Belmonte"
+          latitude: 40.36181
+          longitude: -7.35157
+        -
+          name: "Castelo Branco"
+          latitude: 39.82219
+          longitude: -7.49087
+        -
+          name: "Covilhã"
+          latitude: 40.28106
+          longitude: -7.50504
+        -
+          name: "Fundão"
+          latitude: 40.12412
+          longitude: -7.49542
+        -
+          name: "Idanha-A-Nova"
+          latitude: 39.92957
+          longitude: -7.2369
+        -
+          name: "Oleiros"
+          latitude: 39.94948
+          longitude: -7.88592
+        -
+          name: "Penamacor"
+          latitude: 40.15495
+          longitude: -7.17149
+        -
+          name: "Proença-a-Nova"
+          latitude: 39.757
+          longitude: -7.92595
+        -
+          name: "Sertã"
+          latitude: 39.80205
+          longitude: -8.09589
+        -
+          name: "Teixoso"
+          latitude: 40.31448
+          longitude: -7.45759
+        -
+          name: "Vila de Rei"
+          latitude: 39.70685
+          longitude: -8.12836
+        -
+          name: "Vila Velha de Ródão"
+          latitude: 39.68709
+          longitude: -7.65987
+    -
+      name: "Coimbra"
+      code: "06"
+      iso3166_2: "PT-06"
+      type: "district"
+      latitude: 40.2111931
+      longitude: -8.4294632
+      cities:
+        -
+          name: "Alfarelos"
+          latitude: 40.15057
+          longitude: -8.65326
+        -
+          name: "Alhadas"
+          latitude: 40.18607
+          longitude: -8.79057
+        -
+          name: "Ançã"
+          latitude: 40.27161
+          longitude: -8.5209
+        -
+          name: "Arazede"
+          latitude: 40.28627
+          longitude: -8.64999
+        -
+          name: "Arganil"
+          latitude: 40.21826
+          longitude: -8.05403
+        -
+          name: "Assafarge"
+          latitude: 40.15895
+          longitude: -8.43167
+        -
+          name: "Buarcos"
+          latitude: 40.16604
+          longitude: -8.8768
+        -
+          name: "Cantanhede"
+          latitude: 40.36354
+          longitude: -8.60549
+        -
+          name: "Carapinheira"
+          latitude: 40.2062
+          longitude: -8.6481
+        -
+          name: "Coimbra"
+          latitude: 40.20564
+          longitude: -8.41955
+        -
+          name: "Condeixa-a-Nova"
+          latitude: 40.10639
+          longitude: -8.49632
+        -
+          name: "Figueira da Foz"
+          latitude: 40.15085
+          longitude: -8.86179
+        -
+          name: "Góis"
+          latitude: 40.12535
+          longitude: -8.0834
+        -
+          name: "Lavos"
+          latitude: 40.09363
+          longitude: -8.82826
+        -
+          name: "Lorvão"
+          latitude: 40.25938
+          longitude: -8.31683
+        -
+          name: "Lousã"
+          latitude: 40.11673
+          longitude: -8.24921
+        -
+          name: "Mira"
+          latitude: 40.44559
+          longitude: -8.73849
+        -
+          name: "Miranda do Corvo"
+          latitude: 40.09318
+          longitude: -8.33261
+        -
+          name: "Montemor-o-Velho"
+          latitude: 40.19385
+          longitude: -8.66696
+        -
+          name: "Oliveira do Hospital"
+          latitude: 40.35522
+          longitude: -7.86481
+        -
+          name: "Oliveira do Mondego"
+          latitude: 40.32305
+          longitude: -8.22367
+        -
+          name: "Pampilhosa da Serra"
+          latitude: 40.0462
+          longitude: -7.95182
+        -
+          name: "Penacova"
+          latitude: 40.26884
+          longitude: -8.28237
+        -
+          name: "Penela"
+          latitude: 40.03333
+          longitude: -8.38333
+        -
+          name: "Poiares"
+          latitude: 40.21026
+          longitude: -8.25746
+        -
+          name: "Santa Clara"
+          latitude: 40.19985
+          longitude: -8.44018
+        -
+          name: "Santo António dos Olivais"
+          latitude: 40.21805
+          longitude: -8.40523
+        -
+          name: "São Pedro de Alva"
+          latitude: 40.30044
+          longitude: -8.16623
+        -
+          name: "Soure"
+          latitude: 40.05989
+          longitude: -8.62605
+        -
+          name: "Tábua"
+          latitude: 40.36207
+          longitude: -8.02936
+        -
+          name: "Tavarede"
+          latitude: 40.16692
+          longitude: -8.84568
+        -
+          name: "Tocha"
+          latitude: 40.31308
+          longitude: -8.75339
+        -
+          name: "Travanca"
+          latitude: 40.32357
+          longitude: -8.18687
+        -
+          name: "Vila Nova de Poiares"
+          latitude: 40.22129
+          longitude: -8.24105
+    -
+      name: "Évora"
+      code: "07"
+      iso3166_2: "PT-07"
+      type: "district"
+      latitude: 38.5744468
+      longitude: -7.9076553
+      cities:
+        -
+          name: "Alandroal"
+          latitude: 38.62924
+          longitude: -7.36599
+        -
+          name: "Arraiolos"
+          latitude: 38.76774
+          longitude: -7.95831
+        -
+          name: "Borba"
+          latitude: 38.80553
+          longitude: -7.45465
+        -
+          name: "Estremoz"
+          latitude: 38.84996
+          longitude: -7.60117
+        -
+          name: "Évora"
+          latitude: 38.56667
+          longitude: -7.9
+        -
+          name: "Montemor-o-Novo"
+          latitude: 38.67103
+          longitude: -8.29956
+        -
+          name: "Mora"
+          latitude: 38.92174
+          longitude: -8.09972
+        -
+          name: "Mourão"
+          latitude: 38.29778
+          longitude: -7.2223
+        -
+          name: "Portel"
+          latitude: 38.29385
+          longitude: -7.72762
+        -
+          name: "Redondo"
+          latitude: 38.5801
+          longitude: -7.59659
+        -
+          name: "Reguengos de Monsaraz"
+          latitude: 38.42529
+          longitude: -7.53494
+        -
+          name: "Vendas Novas"
+          latitude: 38.63975
+          longitude: -8.54702
+        -
+          name: "Viana do Alentejo"
+          latitude: 38.33645
+          longitude: -8.00011
+        -
+          name: "Vila Viçosa"
+          latitude: 38.7879
+          longitude: -7.41852
+    -
+      name: "Faro"
+      code: "08"
+      iso3166_2: "PT-08"
+      type: "district"
+      latitude: 37.0193548
+      longitude: -7.9304397
+      cities:
+        -
+          name: "Albufeira"
+          latitude: 37.08819
+          longitude: -8.2503
+        -
+          name: "Alcantarilha"
+          latitude: 37.13044
+          longitude: -8.34623
+        -
+          name: "Alcoutim"
+          latitude: 37.424
+          longitude: -7.65456
+        -
+          name: "Algoz"
+          latitude: 37.16301
+          longitude: -8.30359
+        -
+          name: "Aljezur"
+          latitude: 37.31745
+          longitude: -8.80147
+        -
+          name: "Almancil"
+          latitude: 37.08686
+          longitude: -8.03074
+        -
+          name: "Altura"
+          latitude: 37.1756
+          longitude: -7.50064
+        -
+          name: "Alvor"
+          latitude: 37.12994
+          longitude: -8.59174
+        -
+          name: "Armação de Pêra"
+          latitude: 37.10256
+          longitude: -8.35695
+        -
+          name: "Bensafrim"
+          latitude: 37.15583
+          longitude: -8.7352
+        -
+          name: "Boliqueime"
+          latitude: 37.13718
+          longitude: -8.1582
+        -
+          name: "Cabanas de Tavira"
+          latitude: 37.13521
+          longitude: -7.60048
+        -
+          name: "Carvoeiro"
+          latitude: 37.09736
+          longitude: -8.46846
+        -
+          name: "Castro Marim"
+          latitude: 37.25865
+          longitude: -7.50732
+        -
+          name: "Conceição"
+          latitude: 37.14789
+          longitude: -7.60426
+        -
+          name: "Estói"
+          latitude: 37.09503
+          longitude: -7.89445
+        -
+          name: "Estômbar"
+          latitude: 37.14629
+          longitude: -8.48505
+        -
+          name: "Faro"
+          latitude: 37.01869
+          longitude: -7.92716
+        -
+          name: "Ferragudo"
+          latitude: 37.12474
+          longitude: -8.51915
+        -
+          name: "Ferreiras"
+          latitude: 37.12926
+          longitude: -8.23759
+        -
+          name: "Fuzeta"
+          latitude: 37.05429
+          longitude: -7.74699
+        -
+          name: "Guia"
+          latitude: 37.12959
+          longitude: -8.29963
+        -
+          name: "Lagoa"
+          latitude: 37.10505
+          longitude: -8.45974
+        -
+          name: "Lagos"
+          latitude: 37.10202
+          longitude: -8.67422
+        -
+          name: "Laranjeiro"
+          latitude: 37.06799
+          longitude: -7.8078
+        -
+          name: "Loulé"
+          latitude: 37.14399
+          longitude: -8.02345
+        -
+          name: "Luz"
+          latitude: 37.09216
+          longitude: -7.70433
+        -
+          name: "Manta Rota"
+          latitude: 37.16849
+          longitude: -7.51804
+        -
+          name: "Marmelete"
+          latitude: 37.31014
+          longitude: -8.66813
+        -
+          name: "Mexilhoeira Grande"
+          latitude: 37.15858
+          longitude: -8.61487
+        -
+          name: "Moncarapacho"
+          latitude: 37.0836
+          longitude: -7.78763
+        -
+          name: "Monchique"
+          latitude: 37.31664
+          longitude: -8.5834
+        -
+          name: "Monte Gordo"
+          latitude: 37.18192
+          longitude: -7.45225
+        -
+          name: "Olhão"
+          latitude: 37.04509
+          longitude: -7.81032
+        -
+          name: "Olhos de Água"
+          latitude: 37.09024
+          longitude: -8.19168
+        -
+          name: "Paderne"
+          latitude: 37.17935
+          longitude: -8.2015
+        -
+          name: "Parchal"
+          latitude: 37.13827
+          longitude: -8.51703
+        -
+          name: "Pêra"
+          latitude: 37.12296
+          longitude: -8.34115
+        -
+          name: "Porches"
+          latitude: 37.12665
+          longitude: -8.40162
+        -
+          name: "Portimão"
+          latitude: 37.17544
+          longitude: -8.5842
+        -
+          name: "Quarteira"
+          latitude: 37.06946
+          longitude: -8.10064
+        -
+          name: "Sagres"
+          latitude: 37.00864
+          longitude: -8.94311
+        -
+          name: "Santa Bárbara de Nexe"
+          latitude: 37.10619
+          longitude: -7.96648
+        -
+          name: "Santa Luzia"
+          latitude: 37.10224
+          longitude: -7.66202
+        -
+          name: "São Bartolomeu de Messines"
+          latitude: 37.25648
+          longitude: -8.28672
+        -
+          name: "São Brás de Alportel"
+          latitude: 37.19564
+          longitude: -7.87546
+        -
+          name: "São Marcos da Serra"
+          latitude: 37.361
+          longitude: -8.37764
+        -
+          name: "Senhora da Luz"
+          latitude: 37.08771
+          longitude: -8.72649
+        -
+          name: "Silves"
+          latitude: 37.20343
+          longitude: -8.33472
+        -
+          name: "Tavira"
+          latitude: 37.12734
+          longitude: -7.64861
+        -
+          name: "Tunes"
+          latitude: 37.16592
+          longitude: -8.25919
+        -
+          name: "Vila do Bispo"
+          latitude: 37.08317
+          longitude: -8.91144
+        -
+          name: "Vila Nova De Cacela"
+          latitude: 37.17391
+          longitude: -7.53169
+        -
+          name: "Vila Real de Santo António"
+          latitude: 37.19232
+          longitude: -7.42538
+        -
+          name: "Vilamoura"
+          latitude: 37.08728
+          longitude: -8.11701
+    -
+      name: "Guarda"
+      code: "09"
+      iso3166_2: "PT-09"
+      type: "district"
+      latitude: 40.5385972
+      longitude: -7.2675772
+      cities:
+        -
+          name: "Açores"
+          latitude: 40.645
+          longitude: -7.30527778
+        -
+          name: "Adão"
+          latitude: 40.45916667
+          longitude: -7.165
+        -
+          name: "Agualva"
+          latitude: 38.77004444
+          longitude: -9.29881111
+        -
+          name: "Águas Belas"
+          latitude: 40.37472222
+          longitude: -7.16694444
+        -
+          name: "Aguiar da Beira"
+          latitude: 40.81726
+          longitude: -7.54431
+        -
+          name: "Ajuda"
+          latitude: 38.7075
+          longitude: -9.19833333
+        -
+          name: "Albardo"
+          latitude: 40.51145
+          longitude: -7.13028
+        -
+          name: "Alcabideche"
+          latitude: 38.73361111
+          longitude: -9.40916667
+        -
+          name: "Alcains"
+          latitude: 39.91540278
+          longitude: -7.46107778
+        -
+          name: "Alcântara"
+          latitude: 38.70638889
+          longitude: -9.17416667
+        -
+          name: "Alcoentre"
+          latitude: 39.20861111
+          longitude: -8.95944444
+        -
+          name: "Aldeia da Ponte"
+          latitude: 40.41348889
+          longitude: -6.86908333
+        -
+          name: "Aldeia da Ribeira"
+          latitude: 40.45666667
+          longitude: -6.89777778
+        -
+          name: "Aldeia de Santo António"
+          latitude: 40.34305556
+          longitude: -7.13638889
+        -
+          name: "Aldeia do Bispo"
+          latitude: 40.32333333
+          longitude: -6.84805556
+        -
+          name: "Aldeia Galega da Merceana"
+          latitude: 39.08222222
+          longitude: -9.11194444
+        -
+          name: "Aldeia Gavinha"
+          latitude: 39.08444444
+          longitude: -9.09638889
+        -
+          name: "Aldeia Nova Miranda do Douro"
+          latitude: 40.72584
+          longitude: -7.42384
+        -
+          name: "Aldeia Velha"
+          latitude: 40.34333333
+          longitude: -6.8675
+        -
+          name: "Aldeia Viçosa"
+          latitude: 40.57888889
+          longitude: -7.31777778
+        -
+          name: "Aldeias"
+          latitude: 40.46861111
+          longitude: -7.59805556
+        -
+          name: "Alenquer"
+          latitude: 39.05
+          longitude: -9.01666667
+        -
+          name: "Alfaiates"
+          latitude: 40.39111111
+          longitude: -6.91333333
+        -
+          name: "Alfornelos"
+          latitude: 38.76333333
+          longitude: -9.20638889
+        -
+          name: "Algés"
+          latitude: 38.69949722
+          longitude: -9.22927222
+        -
+          name: "Algodres"
+          latitude: 40.9525
+          longitude: -7.05472222
+        -
+          name: "Alguber"
+          latitude: 39.27583333
+          longitude: -9.01888889
+        -
+          name: "Algueirão–Mem Martins"
+          latitude: 38.79411389
+          longitude: -9.34510833
+        -
+          name: "Almargem"
+          latitude: 38.84472222
+          longitude: -9.27305556
+        -
+          name: "Almargem do Bispo"
+          latitude: 38.8475
+          longitude: -9.27138889
+        -
+          name: "Almeida"
+          latitude: 40.7307
+          longitude: -6.90594
+        -
+          name: "Almendra"
+          latitude: 40.99284444
+          longitude: -7.05756944
+        -
+          name: "Almofala"
+          latitude: 40.86027778
+          longitude: -6.84861111
+        -
+          name: "Alto do Pina"
+          latitude: 38.74027778
+          longitude: -9.12805556
+        -
+          name: "Alvalade"
+          latitude: 38.74694444
+          longitude: -9.13611111
+        -
+          name: "Alvendre"
+          latitude: 40.585
+          longitude: -7.25833333
+        -
+          name: "Alverca da Beira"
+          latitude: 40.70055556
+          longitude: -7.2175
+        -
+          name: "Alverca do Ribatejo"
+          latitude: 38.89866111
+          longitude: -9.03947778
+        -
+          name: "Alvoco da Serra"
+          latitude: 40.29555556
+          longitude: -7.67027778
+        -
+          name: "Amadora"
+          latitude: 38.75
+          longitude: -9.23333333
+        -
+          name: "Ameixoeira"
+          latitude: 38.78777778
+          longitude: -9.1525
+        -
+          name: "Amoreira"
+          latitude: 40.58805556
+          longitude: -7.01555556
+        -
+          name: "Anjos"
+          latitude: 38.72388889
+          longitude: -9.13638889
+        -
+          name: "Apelação"
+          latitude: 38.815
+          longitude: -9.13249
+        -
+          name: "Arcozelo"
+          latitude: 40.54055556
+          longitude: -7.62722222
+        -
+          name: "Arranhó"
+          latitude: 38.95371667
+          longitude: -9.13497778
+        -
+          name: "Arrifana"
+          latitude: 40.56972222
+          longitude: -7.21027778
+        -
+          name: "Atalaia"
+          latitude: 40.66
+          longitude: -7.03305556
+        -
+          name: "Aveiras de Baixo"
+          latitude: 39.11138889
+          longitude: -8.86916667
+        -
+          name: "Aveiras de Cima"
+          latitude: 39.13769444
+          longitude: -8.89995556
+        -
+          name: "Avelãs da Ribeira"
+          latitude: 40.67773
+          longitude: -7.21492
+        -
+          name: "Aveloso"
+          latitude: 40.93111111
+          longitude: -7.31666667
+        -
+          name: "Azambuja"
+          latitude: 39.06666667
+          longitude: -8.86666667
+        -
+          name: "Azambuja (town)"
+          latitude: 39.07027778
+          longitude: -8.86833333
+        -
+          name: "Azenhas do Mar"
+          latitude: 38.84055556
+          longitude: -9.46
+        -
+          name: "Azevo"
+          latitude: 40.85166667
+          longitude: -7.13138889
+        -
+          name: "Azueira"
+          latitude: 39.00653
+          longitude: -9.27475
+        -
+          name: "Baraçal"
+          latitude: 40.39357
+          longitude: -7.08522
+        -
+          name: "Barcarena"
+          latitude: 38.7325
+          longitude: -9.28
+        -
+          name: "Barreira"
+          latitude: 40.91111111
+          longitude: -7.18638889
+        -
+          name: "Beato"
+          latitude: 38.73472222
+          longitude: -9.10583333
+        -
+          name: "Belas"
+          latitude: 38.76666667
+          longitude: -9.26666667
+        -
+          name: "Bendada"
+          latitude: 40.37083333
+          longitude: -7.25472222
+        -
+          name: "Benespera"
+          latitude: 40.44027778
+          longitude: -7.27638889
+        -
+          name: "Benfica"
+          latitude: 38.75111111
+          longitude: -9.20222222
+        -
+          name: "Bismula"
+          latitude: 40.44694444
+          longitude: -6.96444444
+        -
+          name: "Bobadela"
+          latitude: 38.80663
+          longitude: -9.09731
+        -
+          name: "Bouça Cova"
+          latitude: 40.70464
+          longitude: -7.2383
+        -
+          name: "Brandoa"
+          latitude: 38.76611111
+          longitude: -9.21444444
+        -
+          name: "Bucelas"
+          latitude: 38.9
+          longitude: -9.11666667
+        -
+          name: "Buraca"
+          latitude: 38.74222222
+          longitude: -9.20944444
+        -
+          name: "Cabanas de Torres"
+          latitude: 39.15631
+          longitude: -9.06328
+        -
+          name: "Cabeça"
+          latitude: 40.31916667
+          longitude: -7.73527778
+        -
+          name: "Cacem"
+          latitude: 38.77042
+          longitude: -9.30809
+        -
+          name: "Cachoeiras"
+          latitude: 38.98583333
+          longitude: -9.01638889
+        -
+          name: "Cadafais"
+          latitude: 39.00444444
+          longitude: -9.00416667
+        -
+          name: "Cadafaz"
+          latitude: 40.58472222
+          longitude: -7.36194444
+        -
+          name: "Cadaval"
+          latitude: 38.158597
+          longitude: -6.9698438
+        -
+          name: "Calhandriz"
+          latitude: 38.925
+          longitude: -9.06777778
+        -
+          name: "Campelos"
+          latitude: 39.2
+          longitude: -9.23333333
+        -
+          name: "Campo Grande"
+          latitude: 38.75694444
+          longitude: -9.15361111
+        -
+          name: "Campolide"
+          latitude: 38.72638889
+          longitude: -9.16333333
+        -
+          name: "Caneças"
+          latitude: 38.81666667
+          longitude: -9.23333333
+        -
+          name: "Carapito"
+          latitude: 40.76759
+          longitude: -7.45447
+        -
+          name: "Carcavelos"
+          latitude: 38.6922
+          longitude: -9.33327
+        -
+          name: "Cardosas"
+          latitude: 38.97722222
+          longitude: -9.04083333
+        -
+          name: "Carmões"
+          latitude: 39.05777778
+          longitude: -9.13416667
+        -
+          name: "Carnaxide"
+          latitude: 38.72666667
+          longitude: -9.24166667
+        -
+          name: "Carnicães"
+          latitude: 40.73333333
+          longitude: -7.31833333
+        -
+          name: "Carnide"
+          latitude: 38.76083333
+          longitude: -9.18361111
+        -
+          name: "Carnota"
+          latitude: 39.03361111
+          longitude: -9.07166667
+        -
+          name: "Carragozela"
+          latitude: 40.40572
+          longitude: -7.76077
+        -
+          name: "Carrapichana"
+          latitude: 40.56194444
+          longitude: -7.48694444
+        -
+          name: "Carregado"
+          latitude: 39.02334
+          longitude: -8.9645
+        -
+          name: "Carvalhal"
+          latitude: 40.88361111
+          longitude: -7.28361111
+        -
+          name: "Carvoeira"
+          latitude: 39.08055556
+          longitude: -9.16222222
+        -
+          name: "Casal de Cambra"
+          latitude: 38.80236
+          longitude: -9.23188
+        -
+          name: "Casal de Cinza"
+          latitude: 40.54416667
+          longitude: -7.16416667
+        -
+          name: "Casal Vasco"
+          latitude: 40.63792
+          longitude: -7.55538
+        -
+          name: "Casas do Soeiro"
+          latitude: 40.61888889
+          longitude: -7.40638889
+        -
+          name: "Castanheira"
+          latitude: 40.57472222
+          longitude: -7.07944444
+        -
+          name: "Castanheira do Ribatejo"
+          latitude: 38.98333333
+          longitude: -8.96666667
+        -
+          name: "Casteição"
+          latitude: 40.88083333
+          longitude: -7.32583333
+        -
+          name: "Casteleiro"
+          latitude: 40.30222222
+          longitude: -7.23166667
+        -
+          name: "Castelo (Lisbon)"
+          latitude: 38.71361111
+          longitude: -9.13333333
+        -
+          name: "Castelo Bom"
+          latitude: 40.62027778
+          longitude: -6.90055556
+        -
+          name: "Castelo Melhor"
+          latitude: 41.0275
+          longitude: -7.065
+        -
+          name: "Castelo Rodrigo"
+          latitude: 40.87555556
+          longitude: -6.96388889
+        -
+          name: "Cativelos"
+          latitude: 40.53083333
+          longitude: -7.68194444
+        -
+          name: "Cavadoude"
+          latitude: 40.58472222
+          longitude: -7.28666667
+        -
+          name: "Caxias"
+          latitude: 38.7
+          longitude: -9.28333333
+        -
+          name: "Cedovim"
+          latitude: 41.03333333
+          longitude: -7.31666667
+        -
+          name: "Celorico da Beira"
+          latitude: 40.63333333
+          longitude: -7.4
+        -
+          name: "Cercal"
+          latitude: 39.23388889
+          longitude: -8.99833333
+        -
+          name: "Cerdeira"
+          latitude: 40.51416667
+          longitude: -7.04666667
+        -
+          name: "Cerejo"
+          latitude: 40.72944444
+          longitude: -7.22361111
+        -
+          name: "Charneca"
+          latitude: 38.78527778
+          longitude: -9.145
+        -
+          name: "Chãs"
+          latitude: 40.98972222
+          longitude: -7.17027778
+        -
+          name: "Cheleiros"
+          latitude: 38.88972222
+          longitude: -9.32888889
+        -
+          name: "Codesseiro"
+          latitude: 40.65111111
+          longitude: -7.205
+        -
+          name: "Cogula"
+          latitude: 40.81277778
+          longitude: -7.26138889
+        -
+          name: "Colares"
+          latitude: 38.80206
+          longitude: -9.46305
+        -
+          name: "Coração de Jesus"
+          latitude: 38.72416667
+          longitude: -9.145
+        -
+          name: "Coriscada"
+          latitude: 40.86197
+          longitude: -7.20372
+        -
+          name: "Cortiçada"
+          latitude: 40.765
+          longitude: -7.54222222
+        -
+          name: "Cortiçô"
+          latitude: 40.66305556
+          longitude: -7.49472222
+        -
+          name: "Cortiçô da Serra"
+          latitude: 40.60124
+          longitude: -7.43426
+        -
+          name: "Coruche"
+          latitude: 40.79361111
+          longitude: -7.54083333
+        -
+          name: "Corujeira"
+          latitude: 40.50609
+          longitude: -7.32803
+        -
+          name: "Cótimos"
+          latitude: 40.8275
+          longitude: -7.23972222
+        -
+          name: "Cruz Quebrada - Dafundo"
+          latitude: 38.70611111
+          longitude: -9.25055556
+        -
+          name: "Custoias"
+          latitude: 41.10527778
+          longitude: -7.32083333
+        -
+          name: "Damaia"
+          latitude: 38.74527778
+          longitude: -9.21833333
+        -
+          name: "Dois Portos"
+          latitude: 39.0384
+          longitude: -9.18556
+        -
+          name: "Dornelas"
+          latitude: 40.73105
+          longitude: -7.55894
+        -
+          name: "Eirado"
+          latitude: 40.77333333
+          longitude: -7.49
+        -
+          name: "Encarnação"
+          latitude: 39.03333333
+          longitude: -9.36805556
+        -
+          name: "Enxara do Bispo"
+          latitude: 38.99194444
+          longitude: -9.24083333
+        -
+          name: "Ericeira"
+          latitude: 38.96277778
+          longitude: -9.41527778
+        -
+          name: "Ervas Tenras"
+          latitude: 40.74055556
+          longitude: -7.18611111
+        -
+          name: "Ervedosa"
+          latitude: 40.84694444
+          longitude: -7.17611111
+        -
+          name: "Escalhão"
+          latitude: 40.94944444
+          longitude: -6.92611111
+        -
+          name: "Faia"
+          latitude: 40.56055556
+          longitude: -7.31027778
+        -
+          name: "Falagueira"
+          latitude: 38.75903
+          longitude: -9.21988
+        -
+          name: "Famalicão"
+          latitude: 40.44361111
+          longitude: -7.37722222
+        -
+          name: "Famões"
+          latitude: 38.78333333
+          longitude: -9.21666667
+        -
+          name: "Fanhões"
+          latitude: 38.88111111
+          longitude: -9.1525
+        -
+          name: "Fernão Joanes"
+          latitude: 40.48694444
+          longitude: -7.35527778
+        -
+          name: "Fiães"
+          latitude: 40.73305556
+          longitude: -7.37305556
+        -
+          name: "Figueira de Castelo Rodrigo"
+          latitude: 40.9
+          longitude: -6.96666667
+        -
+          name: "Figueira do Guincho"
+          latitude: 38.75
+          longitude: -9.46666667
+        -
+          name: "Figueiró da Granja"
+          latitude: 40.62805556
+          longitude: -7.49916667
+        -
+          name: "Figueiró da Serra"
+          latitude: 40.54055556
+          longitude: -7.48888889
+        -
+          name: "Figueiros"
+          latitude: 39.27946
+          longitude: -9.05083
+        -
+          name: "Fóios"
+          latitude: 40.28666667
+          longitude: -6.8925
+        -
+          name: "Folgosinho"
+          latitude: 40.50944444
+          longitude: -7.51388889
+        -
+          name: "Folhadosa"
+          latitude: 40.37944444
+          longitude: -7.78472222
+        -
+          name: "Fontanelas"
+          latitude: 38.85
+          longitude: -9.43333333
+        -
+          name: "Fonte Longa"
+          latitude: 41.01305556
+          longitude: -7.23361111
+        -
+          name: "Forninhos"
+          latitude: 40.70472222
+          longitude: -7.55416667
+        -
+          name: "Forno Telheiro"
+          latitude: 40.67333333
+          longitude: -7.39777778
+        -
+          name: "Fornos de Algodres"
+          latitude: 40.61666667
+          longitude: -7.53333333
+        -
+          name: "Forte da Casa"
+          latitude: 38.87391
+          longitude: -9.05216
+        -
+          name: "Freches"
+          latitude: 40.73166667
+          longitude: -7.34638889
+        -
+          name: "Freineda"
+          latitude: 40.58305556
+          longitude: -6.89111111
+        -
+          name: "Freiria"
+          latitude: 39.02739
+          longitude: -9.31995
+        -
+          name: "Freixeda do Torrão"
+          latitude: 40.89027778
+          longitude: -7.03222222
+        -
+          name: "Freixedas"
+          latitude: 40.69194444
+          longitude: -7.16305556
+        -
+          name: "Freixo"
+          latitude: 40.61861111
+          longitude: -7.01027778
+        -
+          name: "Freixo de Numão"
+          latitude: 41.06666667
+          longitude: -7.21666667
+        -
+          name: "Frielas"
+          latitude: 38.82583333
+          longitude: -9.14444444
+        -
+          name: "Gagos"
+          latitude: 40.58388889
+          longitude: -7.11472222
+        -
+          name: "Girabolhos"
+          latitude: 40.50944444
+          longitude: -7.73666667
+        -
+          name: "Gonçalo"
+          latitude: 40.41666667
+          longitude: -7.35
+        -
+          name: "Gonçalo Bocas"
+          latitude: 40.57666667
+          longitude: -7.1775
+        -
+          name: "Gouveia"
+          latitude: 40.5
+          longitude: -7.6
+        -
+          name: "Graça"
+          latitude: 38.71722222
+          longitude: -9.13083333
+        -
+          name: "Gradil"
+          latitude: 38.98222222
+          longitude: -9.28083333
+        -
+          name: "Gradiz"
+          latitude: 40.85944444
+          longitude: -7.52861111
+        -
+          name: "Granja"
+          latitude: 40.75201
+          longitude: -7.20428
+        -
+          name: "Guarda"
+          latitude: 40.53638889
+          longitude: -7.26833333
+        -
+          name: "Guilheiro"
+          latitude: 40.89805556
+          longitude: -7.40972222
+        -
+          name: "Horta"
+          latitude: 41.06777778
+          longitude: -7.31055556
+        -
+          name: "Igreja Nova"
+          latitude: 38.91694444
+          longitude: -9.31944444
+        -
+          name: "Infias"
+          latitude: 40.63
+          longitude: -7.53944444
+        -
+          name: "Jarmelo São Miguel"
+          latitude: 40.6004
+          longitude: -7.14915
+        -
+          name: "Jarmelo São Pedro"
+          latitude: 40.59447
+          longitude: -7.13016
+        -
+          name: "João Antão"
+          latitude: 40.46443
+          longitude: -7.2394
+        -
+          name: "Junça"
+          latitude: 40.68138889
+          longitude: -6.88555556
+        -
+          name: "Juncais"
+          latitude: 40.60944444
+          longitude: -7.5075
+        -
+          name: "Lagarinhos"
+          latitude: 40.48583333
+          longitude: -7.66944444
+        -
+          name: "Lajeosa"
+          latitude: 40.34353
+          longitude: -6.81621
+        -
+          name: "Lajeosa do Mondego"
+          latitude: 40.6275
+          longitude: -7.3375
+        -
+          name: "Lajes"
+          latitude: 40.48361111
+          longitude: -7.71638889
+        -
+          name: "Lamas"
+          latitude: 39.21114
+          longitude: -9.06151
+        -
+          name: "Lamegal"
+          latitude: 40.665
+          longitude: -7.07972222
+        -
+          name: "Lameiras"
+          latitude: 40.71138889
+          longitude: -7.10444444
+        -
+          name: "Lapa"
+          latitude: 38.71189
+          longitude: -9.16007
+        -
+          name: "Lapa Dos Dinheiros"
+          latitude: 40.37888889
+          longitude: -7.70944444
+        -
+          name: "Leomil"
+          latitude: 40.63527778
+          longitude: -6.96416667
+        -
+          name: "Linhares (Celorico da Beira)"
+          latitude: 40.54083333
+          longitude: -7.46111111
+        -
+          name: "Longroiva"
+          latitude: 40.98103
+          longitude: -7.20334
+        -
+          name: "Loriga"
+          latitude: 40.31666667
+          longitude: -7.68333333
+        -
+          name: "Loures"
+          latitude: 38.83333333
+          longitude: -9.16666667
+        -
+          name: "Lourinhã"
+          latitude: 39.25
+          longitude: -9.31666667
+        -
+          name: "Lousa"
+          latitude: 38.89171
+          longitude: -9.20972
+        -
+          name: "Lumiar"
+          latitude: 38.76527778
+          longitude: -9.15861111
+        -
+          name: "Maçainhas"
+          latitude: 40.53666667
+          longitude: -7.3025
+        -
+          name: "Maçal do Chão"
+          latitude: 40.69171
+          longitude: -7.29178
+        -
+          name: "Maceira"
+          latitude: 40.68555556
+          longitude: -7.47166667
+        -
+          name: "Maçussa"
+          latitude: 39.19472222
+          longitude: -8.86722222
+        -
+          name: "Madalena"
+          latitude: 38.71
+          longitude: -9.13472222
+        -
+          name: "Mafra"
+          latitude: 38.93333333
+          longitude: -9.33333333
+        -
+          name: "Malcata"
+          latitude: 40.2999
+          longitude: -7.06147
+        -
+          name: "Malhada Sorda"
+          latitude: 40.53638889
+          longitude: -6.91444444
+        -
+          name: "Malpartida"
+          latitude: 40.76
+          longitude: -6.86666667
+        -
+          name: "Malveira"
+          latitude: 38.93059
+          longitude: -9.26165
+        -
+          name: "Mangualde da Serra"
+          latitude: 40.46638889
+          longitude: -7.62166667
+        -
+          name: "Manigoto"
+          latitude: 40.70833333
+          longitude: -7.07583333
+        -
+          name: "Manique do Intendente"
+          latitude: 39.22111111
+          longitude: -8.89361111
+        -
+          name: "Manteigas"
+          latitude: 40.4
+          longitude: -7.53333333
+        -
+          name: "Manteigas (São Pedro)"
+          latitude: 40.36611111
+          longitude: -7.54611111
+        -
+          name: "Marialva"
+          latitude: 40.91
+          longitude: -7.23166667
+        -
+          name: "Marmeleiro"
+          latitude: 40.46861111
+          longitude: -7.11416667
+        -
+          name: "Marteleira"
+          latitude: 39.21305556
+          longitude: -9.28333333
+        -
+          name: "Mártires"
+          latitude: 38.70861111
+          longitude: -9.14166667
+        -
+          name: "Marvila"
+          latitude: 38.74527778
+          longitude: -9.10416667
+        -
+          name: "Massamá"
+          latitude: 38.75564
+          longitude: -9.28427
+        -
+          name: "Mata de Lobos"
+          latitude: 40.91691
+          longitude: -6.88804
+        -
+          name: "Matacães"
+          latitude: 39.09277778
+          longitude: -9.21222222
+        -
+          name: "Matança"
+          latitude: 40.67888889
+          longitude: -7.52888889
+        -
+          name: "Maxial"
+          latitude: 39.14301
+          longitude: -9.16898
+        -
+          name: "Meca"
+          latitude: 39.08972222
+          longitude: -9.02555556
+        -
+          name: "Mêda"
+          latitude: 40.96666667
+          longitude: -7.26666667
+        -
+          name: "Meios"
+          latitude: 40.49361111
+          longitude: -7.35916667
+        -
+          name: "Melo"
+          latitude: 40.51944444
+          longitude: -7.53361111
+        -
+          name: "Mercês"
+          latitude: 38.71611111
+          longitude: -9.14888889
+        -
+          name: "Mesquitela"
+          latitude: 40.58805556
+          longitude: -7.48944444
+        -
+          name: "Milharado"
+          latitude: 38.94722222
+          longitude: -9.19916667
+        -
+          name: "Mina"
+          latitude: 38.76166667
+          longitude: -9.23611111
+        -
+          name: "Minhocal"
+          latitude: 40.68944444
+          longitude: -7.34666667
+        -
+          name: "Mira-Sintra"
+          latitude: 38.78417
+          longitude: -9.30148
+        -
+          name: "Miragaia"
+          latitude: 39.23583333
+          longitude: -9.265
+        -
+          name: "Miuzela"
+          latitude: 40.51055556
+          longitude: -7.005
+        -
+          name: "Mizarela"
+          latitude: 40.55746
+          longitude: -7.34107
+        -
+          name: "Moimenta da Serra"
+          latitude: 40.47359
+          longitude: -7.63839
+        -
+          name: "Moimentinha"
+          latitude: 40.74555556
+          longitude: -7.22777778
+        -
+          name: "Moita"
+          latitude: 40.3
+          longitude: -7.1975
+        -
+          name: "Moledo"
+          latitude: 39.28388889
+          longitude: -9.25722222
+        -
+          name: "Monte Abraão"
+          latitude: 38.7584
+          longitude: -9.26527
+        -
+          name: "Monte Redondo"
+          latitude: 39.115
+          longitude: -9.20444444
+        -
+          name: "Montelavar"
+          latitude: 38.86968
+          longitude: -9.31581
+        -
+          name: "Moreira de Rei"
+          latitude: 40.83915
+          longitude: -7.32316
+        -
+          name: "Mós"
+          latitude: 41.11306
+          longitude: -7.19717
+        -
+          name: "Murça"
+          latitude: 41.10055556
+          longitude: -7.23138889
+        -
+          name: "Muxagata"
+          latitude: 41.03611111
+          longitude: -7.15
+        -
+          name: "Nabais"
+          latitude: 40.52
+          longitude: -7.55555556
+        -
+          name: "Nave"
+          latitude: 40.39821
+          longitude: -6.9603
+        -
+          name: "Nave de Haver"
+          latitude: 40.52166667
+          longitude: -6.83416667
+        -
+          name: "Nespereira"
+          latitude: 40.51722222
+          longitude: -7.60972222
+        -
+          name: "Nossa Senhora de Fátima"
+          latitude: 38.73916667
+          longitude: -9.15083333
+        -
+          name: "Numão"
+          latitude: 41.0975
+          longitude: -7.29111111
+        -
+          name: "Odivelas"
+          latitude: 38.8
+          longitude: -9.18333333
+        -
+          name: "Odivelas Municipality"
+          latitude: 38.79705
+          longitude: -9.19108
+        -
+          name: "Oeiras"
+          latitude: 38.69704444
+          longitude: -9.30165278
+        -
+          name: "Oeiras e São Julião da Barra"
+          latitude: 38.69722222
+          longitude: -9.30833333
+        -
+          name: "Olhalvo"
+          latitude: 39.09861111
+          longitude: -9.06388889
+        -
+          name: "Olival de Basto"
+          latitude: 38.79083333
+          longitude: -9.16722222
+        -
+          name: "Olival do Basto"
+          latitude: 38.79083333
+          longitude: -9.16611111
+        -
+          name: "Ota"
+          latitude: 39.11
+          longitude: -8.98972222
+        -
+          name: "Outeiro da Cabeça"
+          latitude: 39.19222222
+          longitude: -9.18222222
+        -
+          name: "Outeiro de Gatos"
+          latitude: 40.95222222
+          longitude: -7.30222222
+        -
+          name: "Paço de Arcos"
+          latitude: 38.695
+          longitude: -9.29361111
+        -
+          name: "Paços da Serra"
+          latitude: 40.45972222
+          longitude: -7.65055556
+        -
+          name: "Painho"
+          latitude: 39.30222222
+          longitude: -9.04944444
+        -
+          name: "Pala"
+          latitude: 40.76305556
+          longitude: -7.15111111
+        -
+          name: "Palhais"
+          latitude: 40.81666667
+          longitude: -7.43
+        -
+          name: "Panoias de Cima"
+          latitude: 40.49777778
+          longitude: -7.23277778
+        -
+          name: "Parada"
+          latitude: 40.53972222
+          longitude: -7.03777778
+        -
+          name: "Paranhos"
+          latitude: 40.48635
+          longitude: -7.79454
+        -
+          name: "Parede"
+          latitude: 38.69328
+          longitude: -9.35695
+        -
+          name: "Pega"
+          latitude: 40.42861111
+          longitude: -7.14444444
+        -
+          name: "Pena"
+          latitude: 38.72138889
+          longitude: -9.14
+        -
+          name: "Pena Lobo"
+          latitude: 40.39277778
+          longitude: -7.20388889
+        -
+          name: "Pena Verde"
+          latitude: 40.72833333
+          longitude: -7.50527778
+        -
+          name: "Penha de Águia"
+          latitude: 40.86636
+          longitude: -7.06814
+        -
+          name: "Penha de França"
+          latitude: 38.73
+          longitude: -9.13166667
+        -
+          name: "Pêra do Moço"
+          latitude: 40.61305556
+          longitude: -7.20972222
+        -
+          name: "Peral"
+          latitude: 39.26166667
+          longitude: -9.07444444
+        -
+          name: "Pereiro"
+          latitude: 40.735
+          longitude: -7.01305556
+        -
+          name: "Pereiro de Palhacana"
+          latitude: 39.04277778
+          longitude: -9.10888889
+        -
+          name: "Pêro Moniz"
+          latitude: 39.22138889
+          longitude: -9.12361111
+        -
+          name: "Pero Pinheiro"
+          latitude: 38.8399
+          longitude: -9.32066
+        -
+          name: "Peva"
+          latitude: 40.66472222
+          longitude: -6.99083333
+        -
+          name: "Pinhanços"
+          latitude: 40.46638889
+          longitude: -7.68305556
+        -
+          name: "Pinheiro"
+          latitude: 40.80083333
+          longitude: -7.59833333
+        -
+          name: "Pinhel"
+          latitude: 40.78333333
+          longitude: -7.06666667
+        -
+          name: "Pínzio"
+          latitude: 40.6025
+          longitude: -7.06527778
+        -
+          name: "Poço do Canto"
+          latitude: 40.99944444
+          longitude: -7.26833333
+        -
+          name: "Pomares"
+          latitude: 40.64305556
+          longitude: -7.13805556
+        -
+          name: "Ponte do Rol"
+          latitude: 39.09277778
+          longitude: -9.31916667
+        -
+          name: "Pontinha"
+          latitude: 38.777
+          longitude: -9.20377
+        -
+          name: "Portela"
+          latitude: 38.78277778
+          longitude: -9.11111111
+        -
+          name: "Porto da Carne"
+          latitude: 40.60527778
+          longitude: -7.29222222
+        -
+          name: "Porto Salvo"
+          latitude: 38.71722222
+          longitude: -9.29916667
+        -
+          name: "Pousada"
+          latitude: 40.54722222
+          longitude: -7.12611111
+        -
+          name: "Pousafoles do Bispo"
+          latitude: 40.41222222
+          longitude: -7.17916667
+        -
+          name: "Póvoa de Santa Iria"
+          latitude: 38.86111111
+          longitude: -9.06444444
+        -
+          name: "Póvoa de Santo Adrião"
+          latitude: 38.80016
+          longitude: -9.16395
+        -
+          name: "Póvoa do Concelho"
+          latitude: 40.75972222
+          longitude: -7.26638889
+        -
+          name: "Prados"
+          latitude: 40.56138889
+          longitude: -7.37666667
+        -
+          name: "Prazeres"
+          latitude: 38.70888889
+          longitude: -9.16888889
+        -
+          name: "Prior Velho"
+          latitude: 38.79194444
+          longitude: -9.12083333
+        -
+          name: "Prova"
+          latitude: 40.9125
+          longitude: -7.34194444
+        -
+          name: "Quadrazais"
+          latitude: 40.32472222
+          longitude: -6.99833333
+        -
+          name: "Queijas"
+          latitude: 38.72236
+          longitude: -9.26593
+        -
+          name: "Queiriz"
+          latitude: 40.73596
+          longitude: -7.44999
+        -
+          name: "Quintã de Pêro Martins"
+          latitude: 40.88194444
+          longitude: -7.08305556
+        -
+          name: "Quintas de São Bartolomeu"
+          latitude: 40.37138889
+          longitude: -7.09861111
+        -
+          name: "Rabaçal"
+          latitude: 40.8625
+          longitude: -7.24941
+        -
+          name: "Ramada"
+          latitude: 38.80361111
+          longitude: -9.19111111
+        -
+          name: "Ramalhal"
+          latitude: 39.14472222
+          longitude: -9.23222222
+        -
+          name: "Ramela"
+          latitude: 40.47777778
+          longitude: -7.25888889
+        -
+          name: "Ranhados"
+          latitude: 40.99527778
+          longitude: -7.32944444
+        -
+          name: "Rapa"
+          latitude: 40.58416667
+          longitude: -7.34555556
+        -
+          name: "Rapoula do Côa"
+          latitude: 40.42111111
+          longitude: -7.0475
+        -
+          name: "Ratoeira"
+          latitude: 40.64027778
+          longitude: -7.35361111
+        -
+          name: "Reboleira"
+          latitude: 38.75083333
+          longitude: -9.23027778
+        -
+          name: "Reboleiro"
+          latitude: 40.8325
+          longitude: -7.41888889
+        -
+          name: "Rebolosa"
+          latitude: 40.42361111
+          longitude: -6.91111111
+        -
+          name: "Reguengo Grande"
+          latitude: 39.28722222
+          longitude: -9.21472222
+        -
+          name: "Reigada"
+          latitude: 40.80444444
+          longitude: -6.94805556
+        -
+          name: "Rendo"
+          latitude: 40.37972222
+          longitude: -7.04444444
+        -
+          name: "Ribafria"
+          latitude: 39.06194444
+          longitude: -9.09472222
+        -
+          name: "Ribamar"
+          latitude: 39.2025
+          longitude: -9.3325
+        -
+          name: "Ribamondego"
+          latitude: 40.56805556
+          longitude: -7.58138889
+        -
+          name: "Ribeira Dos Carinhos"
+          latitude: 40.62138889
+          longitude: -7.14222222
+        -
+          name: "Rio de Mel"
+          latitude: 40.80777778
+          longitude: -7.39361111
+        -
+          name: "Rio de Mouro"
+          latitude: 38.76889
+          longitude: -9.33273
+        -
+          name: "Rio Torto"
+          latitude: 40.50916667
+          longitude: -7.65694444
+        -
+          name: "Rochoso"
+          latitude: 40.51638889
+          longitude: -7.09333333
+        -
+          name: "Runa"
+          latitude: 39.06527778
+          longitude: -9.20888889
+        -
+          name: "Ruvina"
+          latitude: 40.415
+          longitude: -7.01055556
+        -
+          name: "Sabugal"
+          latitude: 40.35
+          longitude: -7.08333333
+        -
+          name: "Sabugueiro"
+          latitude: 40.40194444
+          longitude: -7.63972222
+        -
+          name: "Sacavém"
+          latitude: 38.79442
+          longitude: -9.10533
+        -
+          name: "Sacramento"
+          latitude: 38.71222222
+          longitude: -9.14
+        -
+          name: "Safurdão"
+          latitude: 40.63694444
+          longitude: -7.06888889
+        -
+          name: "Salgueirais"
+          latitude: 40.57445
+          longitude: -7.42247
+        -
+          name: "Sameice"
+          latitude: 40.43444444
+          longitude: -7.77611111
+        -
+          name: "Sameiro"
+          latitude: 40.40916667
+          longitude: -7.49
+        -
+          name: "Sandomil"
+          latitude: 40.35805556
+          longitude: -7.78277778
+        -
+          name: "Santa Bárbara"
+          latitude: 39.21
+          longitude: -9.31388889
+        -
+          name: "Santa Catarina"
+          latitude: 38.71138889
+          longitude: -9.14805556
+        -
+          name: "Santa Comba"
+          latitude: 40.45055556
+          longitude: -7.71472222
+        -
+          name: "Santa Engrácia"
+          latitude: 38.71916667
+          longitude: -9.11972222
+        -
+          name: "Santa Eufémia"
+          latitude: 40.79833333
+          longitude: -7.18083333
+        -
+          name: "Santa Eulália"
+          latitude: 40.41439
+          longitude: -7.78717
+        -
+          name: "Santa Iria da Azóia"
+          latitude: 38.84629
+          longitude: -9.08748
+        -
+          name: "Santa Iria de Azoia"
+          latitude: 38.84638889
+          longitude: -9.08805556
+        -
+          name: "Santa Isabel"
+          latitude: 38.71861111
+          longitude: -9.15833333
+        -
+          name: "Santa Justa"
+          latitude: 38.71555556
+          longitude: -9.13638889
+        -
+          name: "Santa Maria"
+          latitude: 40.42388889
+          longitude: -7.52138889
+        -
+          name: "Santa Maria de Belém"
+          latitude: 38.69911
+          longitude: -9.20867
+        -
+          name: "Santa Maria do Castelo e São Miguel"
+          latitude: 39.10864
+          longitude: -9.23907
+        -
+          name: "Santa Maria dos Olivais"
+          latitude: 38.76989
+          longitude: -9.12073
+        -
+          name: "Santa Maria e São Miguel"
+          latitude: 38.80083333
+          longitude: -9.37944444
+        -
+          name: "Santa Marinha"
+          latitude: 40.45027778
+          longitude: -7.66333333
+        -
+          name: "Santana da Azinha"
+          latitude: 40.47361111
+          longitude: -7.20916667
+        -
+          name: "Santiago"
+          latitude: 40.42388889
+          longitude: -7.72916667
+        -
+          name: "Santiago dos Velhos"
+          latitude: 38.94166667
+          longitude: -9.10361111
+        -
+          name: "Santo Antão do Tojal"
+          latitude: 38.85361111
+          longitude: -9.14305556
+        -
+          name: "Santo António dos Cavaleiros"
+          latitude: 38.81166667
+          longitude: -9.16111111
+        -
+          name: "Santo Condestável"
+          latitude: 38.71527778
+          longitude: -9.16694444
+        -
+          name: "Santo Estêvão"
+          latitude: 39.04222222
+          longitude: -9.01583333
+        -
+          name: "Santo Estêvão das Galés"
+          latitude: 38.89008
+          longitude: -9.25066
+        -
+          name: "Santo Isidoro"
+          latitude: 38.99361111
+          longitude: -9.39861111
+        -
+          name: "Santo Quintino"
+          latitude: 39.00611111
+          longitude: -9.14972222
+        -
+          name: "Santos-o-Velho"
+          latitude: 38.70694444
+          longitude: -9.15638889
+        -
+          name: "São Bartolomeu"
+          latitude: 40.3718846
+          longitude: -7.0992084
+        -
+          name: "São Bartolomeu dos Galegos"
+          latitude: 39.27583333
+          longitude: -9.27944444
+        -
+          name: "São Brás"
+          latitude: 38.7675
+          longitude: -9.23305556
+        -
+          name: "São Cristóvão e São Lourenço"
+          latitude: 38.71277778
+          longitude: -9.13555556
+        -
+          name: "São Domingos de Benfica"
+          latitude: 38.74361111
+          longitude: -9.17
+        -
+          name: "São Domingos de Rana"
+          latitude: 38.70123
+          longitude: -9.3276
+        -
+          name: "São Francisco Xavier"
+          latitude: 38.70722222
+          longitude: -9.21722222
+        -
+          name: "São João"
+          latitude: 38.72888889
+          longitude: -9.12277778
+        -
+          name: "São João da Talha"
+          latitude: 38.82583333
+          longitude: -9.09222222
+        -
+          name: "São João das Lampas"
+          latitude: 38.87
+          longitude: -9.42111111
+        -
+          name: "São João de Brito"
+          latitude: 38.755
+          longitude: -9.13777778
+        -
+          name: "São João de Deus"
+          latitude: 38.74027778
+          longitude: -9.13777778
+        -
+          name: "São João Dos Montes"
+          latitude: 38.95166
+          longitude: -9.05449
+        -
+          name: "São Jorge de Arroios"
+          latitude: 38.72888889
+          longitude: -9.13888889
+        -
+          name: "São José"
+          latitude: 38.71805556
+          longitude: -9.1425
+        -
+          name: "São Julião"
+          latitude: 40.48757
+          longitude: -7.59498
+        -
+          name: "São Julião do Tojal"
+          latitude: 38.85805556
+          longitude: -9.13555556
+        -
+          name: "São Mamede"
+          latitude: 38.72023
+          longitude: -9.15298
+        -
+          name: "São Marcos"
+          latitude: 38.75624
+          longitude: -9.29731
+        -
+          name: "São Martinho"
+          latitude: 40.44305556
+          longitude: -7.67194444
+        -
+          name: "São Miguel"
+          latitude: 38.71111111
+          longitude: -9.12944444
+        -
+          name: "São Miguel da Guarda"
+          latitude: 40.55555556
+          longitude: -7.24611111
+        -
+          name: "São Miguel de Alcainça"
+          latitude: 38.92111111
+          longitude: -9.29583333
+        -
+          name: "São Nicolau"
+          latitude: 38.7075
+          longitude: -9.13666667
+        -
+          name: "São Paio"
+          latitude: 40.51527778
+          longitude: -7.58222222
+        -
+          name: "São Paulo"
+          latitude: 38.7076
+          longitude: -9.14707
+        -
+          name: "São Pedro"
+          latitude: 40.63222222
+          longitude: -7.38138889
+        -
+          name: "São Pedro da Cadeira"
+          latitude: 39.06972222
+          longitude: -9.37166667
+        -
+          name: "São Pedro de Penaferrim"
+          latitude: 38.76947
+          longitude: -9.38963
+        -
+          name: "São Pedro de Rio Seco"
+          latitude: 40.66194444
+          longitude: -6.83916667
+        -
+          name: "São Romão"
+          latitude: 40.40194444
+          longitude: -7.71694444
+        -
+          name: "São Sebastião da Pedreira"
+          latitude: 38.73083333
+          longitude: -9.14916667
+        -
+          name: "São Vicente"
+          latitude: 40.53979
+          longitude: -7.23536
+        -
+          name: "São Vicente de Fora"
+          latitude: 38.71583333
+          longitude: -9.12416667
+        -
+          name: "Sapataria"
+          latitude: 38.97188
+          longitude: -9.20195
+        -
+          name: "Sazes da Beira"
+          latitude: 40.34888889
+          longitude: -7.73527778
+        -
+          name: "Sé"
+          latitude: 40.53861111
+          longitude: -7.26916667
+        -
+          name: "Sebadelhe"
+          latitude: 41.05222222
+          longitude: -7.26972222
+        -
+          name: "Sebadelhe da Serra"
+          latitude: 40.87111111
+          longitude: -7.39833333
+        -
+          name: "Seia"
+          latitude: 40.42027778
+          longitude: -7.70333333
+        -
+          name: "Seixas"
+          latitude: 41.11196
+          longitude: -7.25251
+        -
+          name: "Seixo do Côa"
+          latitude: 40.46305556
+          longitude: -7.02666667
+        -
+          name: "Sequeira"
+          latitude: 40.55361111
+          longitude: -7.22583333
+        -
+          name: "Sequeiros"
+          latitude: 40.83714
+          longitude: -7.49803
+        -
+          name: "Silveira"
+          latitude: 39.11111111
+          longitude: -9.36416667
+        -
+          name: "Sobral da Abelheira"
+          latitude: 38.99833333
+          longitude: -9.32916667
+        -
+          name: "Sobral da Serra"
+          latitude: 40.61916667
+          longitude: -7.27972222
+        -
+          name: "Sobral de Monte Agraço"
+          latitude: 39.01666667
+          longitude: -9.15
+        -
+          name: "Sobral Pichorro"
+          latitude: 40.69073
+          longitude: -7.45598
+        -
+          name: "Sobralinho"
+          latitude: 38.9175
+          longitude: -9.02611111
+        -
+          name: "Socorro"
+          latitude: 38.71666667
+          longitude: -9.13444444
+        -
+          name: "Sortelha"
+          latitude: 40.33138889
+          longitude: -7.21138889
+        -
+          name: "Souro Pires"
+          latitude: 40.745
+          longitude: -7.12472222
+        -
+          name: "Souto"
+          latitude: 40.35666667
+          longitude: -6.95833333
+        -
+          name: "Souto de Aguiar da Beira"
+          latitude: 40.81075
+          longitude: -7.49244
+        -
+          name: "Souto Maior"
+          latitude: 40.79686
+          longitude: -7.3141
+        -
+          name: "Tamanhos"
+          latitude: 40.76166667
+          longitude: -7.31555556
+        -
+          name: "Teixeira"
+          latitude: 40.25333333
+          longitude: -7.74166667
+        -
+          name: "Terrenho"
+          latitude: 40.86611111
+          longitude: -7.35416667
+        -
+          name: "Terrugem"
+          latitude: 38.85111111
+          longitude: -9.37472222
+        -
+          name: "Torre do Terrenho"
+          latitude: 40.88888889
+          longitude: -7.35944444
+        -
+          name: "Torres"
+          latitude: 40.74833333
+          longitude: -7.31916667
+        -
+          name: "Torres Vedras"
+          latitude: 39.08333333
+          longitude: -9.26666667
+        -
+          name: "Torrozelo"
+          latitude: 40.38611111
+          longitude: -7.76027778
+        -
+          name: "Touça"
+          latitude: 41.04722222
+          longitude: -7.23388889
+        -
+          name: "Tourais"
+          latitude: 40.47138889
+          longitude: -7.75083333
+        -
+          name: "Trancoso"
+          latitude: 40.7833
+          longitude: -7.35
+        -
+          name: "Travancinha"
+          latitude: 40.42234
+          longitude: -7.82175
+        -
+          name: "Triana"
+          latitude: 39.06988
+          longitude: -8.9866
+        -
+          name: "Trinta"
+          latitude: 40.50444444
+          longitude: -7.35527778
+        -
+          name: "Turcifal"
+          latitude: 39.03578
+          longitude: -9.26017
+        -
+          name: "Unhos"
+          latitude: 38.82583333
+          longitude: -9.12138889
+        -
+          name: "Valbom"
+          latitude: 40.78055556
+          longitude: -7.12888889
+        -
+          name: "Valdujo"
+          latitude: 40.845
+          longitude: -7.26694444
+        -
+          name: "Vale da Mula"
+          latitude: 40.70361111
+          longitude: -6.82361111
+        -
+          name: "Vale de Amoreira"
+          latitude: 40.41416667
+          longitude: -7.44138889
+        -
+          name: "Vale de Azares"
+          latitude: 40.60492
+          longitude: -7.36421
+        -
+          name: "Vale de Espinho"
+          latitude: 40.29694444
+          longitude: -6.95055556
+        -
+          name: "Vale de Estrela"
+          latitude: 40.49944444
+          longitude: -7.30777778
+        -
+          name: "Vale do Paraíso"
+          latitude: 39.11555556
+          longitude: -8.88583333
+        -
+          name: "Vale do Seixo"
+          latitude: 40.79291
+          longitude: -7.27266
+        -
+          name: "Vale Flor"
+          latitude: 40.91277778
+          longitude: -7.28222222
+        -
+          name: "Valezim"
+          latitude: 40.35889
+          longitude: -7.70831
+        -
+          name: "Valhelhas"
+          latitude: 40.40722222
+          longitude: -7.40305556
+        -
+          name: "Valverde"
+          latitude: 40.78416667
+          longitude: -7.52194444
+        -
+          name: "Várzea de Meruge"
+          latitude: 40.39527778
+          longitude: -7.78361111
+        -
+          name: "Vascoveiro"
+          latitude: 40.73416667
+          longitude: -7.06972222
+        -
+          name: "Vela"
+          latitude: 40.43585
+          longitude: -7.30369
+        -
+          name: "Velosa"
+          latitude: 40.6525
+          longitude: -7.29
+        -
+          name: "Venda do Pinheiro"
+          latitude: 38.92527778
+          longitude: -9.23222222
+        -
+          name: "Venda Nova"
+          latitude: 38.75422
+          longitude: -9.21452
+        -
+          name: "Venteira"
+          latitude: 38.75944444
+          longitude: -9.24111111
+        -
+          name: "Ventosa"
+          latitude: 39.12694444
+          longitude: -9.08416667
+        -
+          name: "Vermelha"
+          latitude: 39.27277778
+          longitude: -9.10555556
+        -
+          name: "Vermiosa"
+          latitude: 40.82722222
+          longitude: -6.8775
+        -
+          name: "Vialonga"
+          latitude: 38.87094
+          longitude: -9.06823
+        -
+          name: "Vide"
+          latitude: 40.29444444
+          longitude: -7.78416667
+        -
+          name: "Vide Entre Vinhas"
+          latitude: 40.59722222
+          longitude: -7.40416667
+        -
+          name: "Videmonte"
+          latitude: 40.51388889
+          longitude: -7.39
+        -
+          name: "Vila Boa"
+          latitude: 40.38305556
+          longitude: -7.00388889
+        -
+          name: "Vila Boa do Mondego"
+          latitude: 40.62694444
+          longitude: -7.43777778
+        -
+          name: "Vila Cortês da Serra"
+          latitude: 40.55083333
+          longitude: -7.52944444
+        -
+          name: "Vila Cortês do Mondego"
+          latitude: 40.60593
+          longitude: -7.31236
+        -
+          name: "Vila Cova à Coelheira"
+          latitude: 40.38333333
+          longitude: -7.73416667
+        -
+          name: "Vila do Touro"
+          latitude: 40.41638889
+          longitude: -7.10555556
+        -
+          name: "Vila Fernando"
+          latitude: 40.49472222
+          longitude: -7.15444444
+        -
+          name: "Vila Franca da Serra"
+          latitude: 40.58722222
+          longitude: -7.53944444
+        -
+          name: "Vila Franca das Naves"
+          latitude: 40.72392
+          longitude: -7.26206
+        -
+          name: "Vila Franca de Xira"
+          latitude: 38.95
+          longitude: -8.98333333
+        -
+          name: "Vila Franca do Deão"
+          latitude: 40.65277778
+          longitude: -7.24222222
+        -
+          name: "Vila Franca do Rosário"
+          latitude: 38.97472222
+          longitude: -9.25611111
+        -
+          name: "Vila Garcia"
+          latitude: 40.79414
+          longitude: -7.23318
+        -
+          name: "Vila Nova da Rainha"
+          latitude: 39.03722222
+          longitude: -8.93361111
+        -
+          name: "Vila Nova de Foz Côa"
+          latitude: 41.08333333
+          longitude: -7.13333333
+        -
+          name: "Vila Nova de São Pedro"
+          latitude: 39.2198
+          longitude: -8.84037
+        -
+          name: "Vila Nova de Tazem"
+          latitude: 40.5025
+          longitude: -7.70305556
+        -
+          name: "Vila Ruiva"
+          latitude: 40.56944444
+          longitude: -7.51416667
+        -
+          name: "Vila Soeiro do Chão"
+          latitude: 40.61036
+          longitude: -7.48202
+        -
+          name: "Vila Verde"
+          latitude: 40.4574545
+          longitude: -7.7882888
+        -
+          name: "Vila Verde dos Francos"
+          latitude: 39.15444444
+          longitude: -9.11333333
+        -
+          name: "Vilar"
+          latitude: 39.18671
+          longitude: -9.10687
+        -
+          name: "Vilar de Amargo"
+          latitude: 40.94636
+          longitude: -7.00157
+        -
+          name: "Vilar Formoso"
+          latitude: 40.61382
+          longitude: -6.83493
+        -
+          name: "Vilar Maior"
+          latitude: 40.48473
+          longitude: -6.91999
+        -
+          name: "Vilar Torpim"
+          latitude: 40.82555556
+          longitude: -6.95194444
+        -
+          name: "Vilares"
+          latitude: 40.72062
+          longitude: -7.28348
+        -
+          name: "Vimeiro"
+          latitude: 39.17777778
+          longitude: -9.31777778
+        -
+          name: "Vinhó"
+          latitude: 40.49583333
+          longitude: -7.62694444
+    -
+      name: "Leiria"
+      code: "10"
+      iso3166_2: "PT-10"
+      type: "district"
+      latitude: 39.7437902
+      longitude: -8.8071119
+      cities:
+        -
+          name: "A dos Francos"
+          latitude: 39.32272
+          longitude: -9.04743
+        -
+          name: "Alcobaça"
+          latitude: 39.55223
+          longitude: -8.97749
+        -
+          name: "Alfeizerão"
+          latitude: 39.49971
+          longitude: -9.10341
+        -
+          name: "Aljubarrota"
+          latitude: 39.56715
+          longitude: -8.92925
+        -
+          name: "Alvaiázere"
+          latitude: 39.81951
+          longitude: -8.38858
+        -
+          name: "Alvorninha"
+          latitude: 39.38224
+          longitude: -9.03674
+        -
+          name: "Amor"
+          latitude: 39.80404
+          longitude: -8.85984
+        -
+          name: "Ansião"
+          latitude: 39.93424
+          longitude: -8.42045
+        -
+          name: "Atouguia da Baleia"
+          latitude: 39.33814
+          longitude: -9.3263
+        -
+          name: "Batalha"
+          latitude: 39.66025
+          longitude: -8.82475
+        -
+          name: "Benedita"
+          latitude: 39.4247
+          longitude: -8.96996
+        -
+          name: "Bombarral"
+          latitude: 39.26723
+          longitude: -9.15795
+        -
+          name: "Caldas da Rainha"
+          latitude: 39.40326
+          longitude: -9.13839
+        -
+          name: "Caranguejeira"
+          latitude: 39.74619
+          longitude: -8.7074
+        -
+          name: "Castanheira de Pêra"
+          latitude: 40.00717
+          longitude: -8.21048
+        -
+          name: "Cela"
+          latitude: 39.54075
+          longitude: -9.03449
+        -
+          name: "Famalicão"
+          latitude: 39.53642
+          longitude: -9.08308
+        -
+          name: "Ferrel"
+          latitude: 39.36398
+          longitude: -9.31541
+        -
+          name: "Figueiró Dos Vinhos"
+          latitude: 39.90617
+          longitude: -8.27753
+        -
+          name: "Foz do Arelho"
+          latitude: 39.43672
+          longitude: -9.21374
+        -
+          name: "Leiria"
+          latitude: 39.74362
+          longitude: -8.80705
+        -
+          name: "Louriçal"
+          latitude: 40.0039
+          longitude: -8.73736
+        -
+          name: "Maceira"
+          latitude: 39.68853
+          longitude: -8.89423
+        -
+          name: "Marinha Grande"
+          latitude: 39.77681
+          longitude: -8.95005
+        -
+          name: "Mira"
+          latitude: 39.54315
+          longitude: -8.71505
+        -
+          name: "Monte Real"
+          latitude: 39.8521
+          longitude: -8.86349
+        -
+          name: "Monte Redondo"
+          latitude: 39.8993
+          longitude: -8.83171
+        -
+          name: "Nadadouro"
+          latitude: 39.41927
+          longitude: -9.19091
+        -
+          name: "Nazaré"
+          latitude: 39.59965
+          longitude: -9.07162
+        -
+          name: "Óbidos"
+          latitude: 39.35854
+          longitude: -9.17603
+        -
+          name: "Pataias"
+          latitude: 39.66978
+          longitude: -8.9958
+        -
+          name: "Pedrógão Grande"
+          latitude: 39.92682
+          longitude: -8.20093
+        -
+          name: "Peniche"
+          latitude: 39.3558
+          longitude: -9.38112
+        -
+          name: "Pombal"
+          latitude: 39.90735
+          longitude: -8.66949
+        -
+          name: "Porto de Mós"
+          latitude: 39.60191
+          longitude: -8.81839
+        -
+          name: "Salir de Matos"
+          latitude: 39.43186
+          longitude: -9.09479
+        -
+          name: "Santa Catarina da Serra"
+          latitude: 39.6796
+          longitude: -8.68679
+        -
+          name: "São Martinho do Porto"
+          latitude: 39.51444
+          longitude: -9.13111
+        -
+          name: "Serra de El-Rei"
+          latitude: 39.33291
+          longitude: -9.26843
+        -
+          name: "Souto da Carpalhosa"
+          latitude: 39.84867
+          longitude: -8.83506
+        -
+          name: "Turquel"
+          latitude: 39.46411
+          longitude: -8.97743
+        -
+          name: "Valado de Frades"
+          latitude: 39.58432
+          longitude: -9.0229
+        -
+          name: "Vestiaria"
+          latitude: 39.55271
+          longitude: -8.9979
+        -
+          name: "Vidais"
+          latitude: 39.36886
+          longitude: -9.04916
+        -
+          name: "Vieira de Leiria"
+          latitude: 39.86945
+          longitude: -8.93238
+    -
+      name: "Lisbon"
+      code: "11"
+      iso3166_2: "PT-11"
+      type: "district"
+      latitude: 38.7077507
+      longitude: -9.1365919
+      cities:
+        -
+          name: "A dos Cunhados"
+          latitude: 39.15237
+          longitude: -9.2972
+        -
+          name: "Abrigada"
+          latitude: 39.14416
+          longitude: -9.01853
+        -
+          name: "Alcabideche"
+          latitude: 38.73366
+          longitude: -9.40928
+        -
+          name: "Alcoentre"
+          latitude: 39.20857
+          longitude: -8.95953
+        -
+          name: "Alenquer"
+          latitude: 39.05315
+          longitude: -9.00928
+        -
+          name: "Alfragide"
+          latitude: 38.7318267
+          longitude: -9.2156966
+        -
+          name: "Algés"
+          latitude: 38.70245
+          longitude: -9.22936
+        -
+          name: "Algueirão"
+          latitude: 38.8023512
+          longitude: -9.3418438
+        -
+          name: "Alhandra"
+          latitude: 38.9239304
+          longitude: -9.0113901
+        -
+          name: "Almargem"
+          latitude: 38.84485
+          longitude: -9.27315
+        -
+          name: "Alvalade"
+          latitude: 38.75328
+          longitude: -9.14397
+        -
+          name: "Amadora"
+          latitude: 38.75382
+          longitude: -9.23083
+        -
+          name: "Apelação"
+          latitude: 38.81387
+          longitude: -9.13225
+        -
+          name: "Arranhó"
+          latitude: 38.95378
+          longitude: -9.13465
+        -
+          name: "Arruda dos Vinhos"
+          latitude: 38.98303
+          longitude: -9.07763
+        -
+          name: "Aveiras de Cima"
+          latitude: 39.13796
+          longitude: -8.89932
+        -
+          name: "Azambuja"
+          latitude: 39.07029
+          longitude: -8.86822
+        -
+          name: "Barcarena"
+          latitude: 38.73245
+          longitude: -9.28
+        -
+          name: "Beato António"
+          latitude: 38.73327
+          longitude: -9.10335
+        -
+          name: "Belas"
+          latitude: 38.7767
+          longitude: -9.26353
+        -
+          name: "Benfica"
+          latitude: 38.75087
+          longitude: -9.20282
+        -
+          name: "Bobadela"
+          latitude: 38.80774
+          longitude: -9.09925
+        -
+          name: "Bucelas"
+          latitude: 38.90193
+          longitude: -9.11885
+        -
+          name: "Cabanas de Torres"
+          latitude: 39.15581
+          longitude: -9.06588
+        -
+          name: "Cacém"
+          latitude: 38.76698
+          longitude: -9.29793
+        -
+          name: "Cadafais"
+          latitude: 39.00461
+          longitude: -9.00419
+        -
+          name: "Cadaval"
+          latitude: 39.242859
+          longitude: -9.1026628
+        -
+          name: "Camarate"
+          latitude: 38.7979738
+          longitude: -9.1377976
+        -
+          name: "Campelos"
+          latitude: 39.19678
+          longitude: -9.23519
+        -
+          name: "Caneças"
+          latitude: 38.81321
+          longitude: -9.22679
+        -
+          name: "Carcavelos"
+          latitude: 38.69105
+          longitude: -9.32215
+        -
+          name: "Carnaxide"
+          latitude: 38.72706
+          longitude: -9.24671
+        -
+          name: "Carregado"
+          latitude: 39.02362
+          longitude: -8.97692
+        -
+          name: "Cascais"
+          latitude: 38.6968919
+          longitude: -9.4204495
+        -
+          name: "Castanheira do Ribatejo"
+          latitude: 38.99298
+          longitude: -8.97346
+        -
+          name: "Caxias"
+          latitude: 38.70314
+          longitude: -9.27666
+        -
+          name: "Charneca"
+          latitude: 38.78351
+          longitude: -9.14348
+        -
+          name: "Colares"
+          latitude: 38.79921
+          longitude: -9.44691
+        -
+          name: "Ericeira"
+          latitude: 38.96275
+          longitude: -9.41563
+        -
+          name: "Estoril"
+          latitude: 38.7095707
+          longitude: -9.3901368
+        -
+          name: "Famões"
+          latitude: 38.78804
+          longitude: -9.21033
+        -
+          name: "Fontanelas"
+          latitude: 38.84806
+          longitude: -9.43942
+        -
+          name: "Linda-a-Velha"
+          latitude: 38.7114041
+          longitude: -9.2408213
+        -
+          name: "Lisbon"
+          latitude: 38.72635
+          longitude: -9.14843
+        -
+          name: "Loures"
+          latitude: 38.83091
+          longitude: -9.16845
+        -
+          name: "Lourinhã"
+          latitude: 39.24745
+          longitude: -9.31194
+        -
+          name: "Mafra"
+          latitude: 38.94107
+          longitude: -9.32636
+        -
+          name: "Malveira"
+          latitude: 38.93213
+          longitude: -9.25779
+        -
+          name: "Massamá"
+          latitude: 38.75279
+          longitude: -9.2811
+        -
+          name: "Meca"
+          latitude: 39.08178
+          longitude: -9.03459
+        -
+          name: "Mem Martins"
+          latitude: 38.793577
+          longitude: -9.34399
+        -
+          name: "Milharado"
+          latitude: 38.94732
+          longitude: -9.19914
+        -
+          name: "Moita dos Ferreiros"
+          latitude: 39.2482312
+          longitude: -9.2235577
+        -
+          name: "Monte Estoril"
+          latitude: 38.7036008
+          longitude: -9.406441
+        -
+          name: "Moscavide e Portela"
+          latitude: 38.78273
+          longitude: -9.1109563
+        -
+          name: "Odivelas"
+          latitude: 38.79269
+          longitude: -9.1838
+        -
+          name: "Oeiras"
+          latitude: 38.71371
+          longitude: -9.26832
+        -
+          name: "Olivais"
+          latitude: 38.76994
+          longitude: -9.10674
+        -
+          name: "Olival do Basto"
+          latitude: 38.79079
+          longitude: -9.16621
+        -
+          name: "Ota"
+          latitude: 39.11199
+          longitude: -8.99105
+        -
+          name: "Paço de Arcos"
+          latitude: 38.69569
+          longitude: -9.29143
+        -
+          name: "Parede"
+          latitude: 38.69282
+          longitude: -9.35412
+        -
+          name: "Pero Pinheiro"
+          latitude: 38.85783
+          longitude: -9.32352
+        -
+          name: "Pontinha"
+          latitude: 38.76771
+          longitude: -9.19935
+        -
+          name: "Porto Salvo"
+          latitude: 38.72293
+          longitude: -9.30473
+        -
+          name: "Póvoa de Santa Iria"
+          latitude: 38.86101
+          longitude: -9.06453
+        -
+          name: "Póvoa de Santo Adrião"
+          latitude: 38.8
+          longitude: -9.16667
+        -
+          name: "Prior Velho"
+          latitude: 38.79174
+          longitude: -9.12119
+        -
+          name: "Queijas"
+          latitude: 38.71925
+          longitude: -9.26255
+        -
+          name: "Queluz"
+          latitude: 38.7565837
+          longitude: -9.2545225
+        -
+          name: "Ramada"
+          latitude: 38.80368
+          longitude: -9.1877
+        -
+          name: "Rio de Mouro"
+          latitude: 38.76613
+          longitude: -9.32804
+        -
+          name: "Sacavém"
+          latitude: 38.79202
+          longitude: -9.10801
+        -
+          name: "Santa Iria da Azóia"
+          latitude: 38.8411
+          longitude: -9.09908
+        -
+          name: "Santo Antão do Tojal"
+          latitude: 38.85151
+          longitude: -9.13975
+        -
+          name: "Santo Isidoro"
+          latitude: 38.99593
+          longitude: -9.3994
+        -
+          name: "Santos-o-Velho"
+          latitude: 38.7069
+          longitude: -9.15611
+        -
+          name: "São Bartolomeu"
+          latitude: 39.2909037
+          longitude: -9.2795868
+        -
+          name: "São Domingos de Rana"
+          latitude: 38.70194
+          longitude: -9.34083
+        -
+          name: "São João da Talha"
+          latitude: 38.82378
+          longitude: -9.09719
+        -
+          name: "São João das Lampas"
+          latitude: 38.87376
+          longitude: -9.39842
+        -
+          name: "São João dos Montes"
+          latitude: 38.93944
+          longitude: -9.01892
+        -
+          name: "São Pedro da Cadeira"
+          latitude: 39.06983
+          longitude: -9.37174
+        -
+          name: "Silveira"
+          latitude: 39.1112
+          longitude: -9.3643
+        -
+          name: "Sintra"
+          latitude: 38.8355446
+          longitude: -9.3522371
+        -
+          name: "Sobral de Monte Agraço"
+          latitude: 39.01958
+          longitude: -9.15081
+        -
+          name: "Sobralinho"
+          latitude: 38.91703
+          longitude: -9.02656
+        -
+          name: "Terrugem"
+          latitude: 38.70647
+          longitude: -9.28693
+        -
+          name: "Torres Vedras"
+          latitude: 39.09109
+          longitude: -9.2586
+        -
+          name: "Unhos"
+          latitude: 38.81958
+          longitude: -9.12007
+        -
+          name: "Venda do Pinheiro"
+          latitude: 38.92365
+          longitude: -9.23178
+        -
+          name: "Ventosa"
+          latitude: 39.12696
+          longitude: -9.08423
+        -
+          name: "Vialonga"
+          latitude: 38.87206
+          longitude: -9.07805
+        -
+          name: "Vila Franca de Xira"
+          latitude: 38.92137
+          longitude: -9.0322
+        -
+          name: "Vila Verde"
+          latitude: 38.835186
+          longitude: -9.369058
+        -
+          name: "Vimeiro"
+          latitude: 39.17768
+          longitude: -9.31702
+    -
+      name: "Madeira"
+      code: "30"
+      iso3166_2: "PT-30"
+      type: "autonomous region"
+      latitude: 32.7517501
+      longitude: -16.9817487
+      cities:
+        -
+          name: "Água de Pena"
+          latitude: 32.70143
+          longitude: -16.77874
+        -
+          name: "Arco da Calheta"
+          latitude: 32.71502
+          longitude: -17.14974
+        -
+          name: "Boaventura"
+          latitude: 32.81846
+          longitude: -16.97268
+        -
+          name: "Calheta"
+          latitude: 32.71667
+          longitude: -17.18333
+        -
+          name: "Camacha"
+          latitude: 32.67919
+          longitude: -16.84462
+        -
+          name: "Câmara de Lobos"
+          latitude: 32.65043
+          longitude: -16.97718
+        -
+          name: "Campanário"
+          latitude: 32.66578
+          longitude: -17.03576
+        -
+          name: "Canhas"
+          latitude: 32.69465
+          longitude: -17.09867
+        -
+          name: "Caniçal"
+          latitude: 32.73834
+          longitude: -16.73836
+        -
+          name: "Caniço"
+          latitude: 32.65078
+          longitude: -16.83749
+        -
+          name: "Curral das Freiras"
+          latitude: 32.72029
+          longitude: -16.96993
+        -
+          name: "Estreito da Calheta"
+          latitude: 32.73704
+          longitude: -17.18674
+        -
+          name: "Faial"
+          latitude: 32.78333
+          longitude: -16.85
+        -
+          name: "Fajã da Ovelha"
+          latitude: 32.77457
+          longitude: -17.23412
+        -
+          name: "Funchal"
+          latitude: 32.66568
+          longitude: -16.92547
+        -
+          name: "Machico"
+          latitude: 32.7162
+          longitude: -16.76758
+        -
+          name: "Nossa Senhora do Monte"
+          latitude: 32.66667
+          longitude: -16.9
+        -
+          name: "Ponta do Sol"
+          latitude: 32.6798
+          longitude: -17.1
+        -
+          name: "Porto da Cruz"
+          latitude: 32.76667
+          longitude: -16.83333
+        -
+          name: "Porto Moniz"
+          latitude: 32.86681
+          longitude: -17.16667
+        -
+          name: "Porto Santo"
+          latitude: 33.07145
+          longitude: -16.34304
+        -
+          name: "Ribeira Brava"
+          latitude: 32.67483
+          longitude: -17.06288
+        -
+          name: "Santa Cruz"
+          latitude: 32.68806
+          longitude: -16.79388
+        -
+          name: "Santana"
+          latitude: 32.8
+          longitude: -16.88333
+        -
+          name: "São Jorge"
+          latitude: 32.81667
+          longitude: -16.9
+        -
+          name: "São Martinho"
+          latitude: 32.6448
+          longitude: -16.93843
+        -
+          name: "São Roque"
+          latitude: 32.66667
+          longitude: -16.91667
+        -
+          name: "São Vicente"
+          latitude: 32.79673
+          longitude: -17.04323
+    -
+      name: "Portalegre"
+      code: "12"
+      iso3166_2: "PT-12"
+      type: "district"
+      latitude: 39.2967086
+      longitude: -7.4284755
+      cities:
+        -
+          name: "Alter do Chão"
+          latitude: 39.23098
+          longitude: -7.7443
+        -
+          name: "Arronches"
+          latitude: 39.12242
+          longitude: -7.28619
+        -
+          name: "Atalaia"
+          latitude: 39.45551
+          longitude: -7.87295
+        -
+          name: "Avis"
+          latitude: 39.06448
+          longitude: -7.8956
+        -
+          name: "Campo Maior"
+          latitude: 39.02935
+          longitude: -7.06479
+        -
+          name: "Castelo de Vide"
+          latitude: 39.41624
+          longitude: -7.4568
+        -
+          name: "Crato"
+          latitude: 39.28657
+          longitude: -7.64408
+        -
+          name: "Elvas"
+          latitude: 38.8815
+          longitude: -7.16282
+        -
+          name: "Fronteira"
+          latitude: 39.07179
+          longitude: -7.61052
+        -
+          name: "Gavião"
+          latitude: 39.44462
+          longitude: -7.89532
+        -
+          name: "Marvão"
+          latitude: 39.39377
+          longitude: -7.37663
+        -
+          name: "Monforte"
+          latitude: 39.0496
+          longitude: -7.44428
+        -
+          name: "Montargil"
+          latitude: 39.07771
+          longitude: -8.17044
+        -
+          name: "Nisa"
+          latitude: 39.51828
+          longitude: -7.67496
+        -
+          name: "Ponte de Sor"
+          latitude: 39.21441
+          longitude: -8.0542
+        -
+          name: "Portalegre"
+          latitude: 39.2974
+          longitude: -7.41538
+        -
+          name: "Santo André"
+          latitude: 39.05532
+          longitude: -8.24414
+        -
+          name: "Sousel"
+          latitude: 38.96685
+          longitude: -7.71788
+        -
+          name: "Vale da Amoreira"
+          latitude: 39.06969
+          longitude: -7.69849
+    -
+      name: "Porto"
+      code: "13"
+      iso3166_2: "PT-13"
+      type: "district"
+      latitude: 41.1476629
+      longitude: -8.6078973
+      cities:
+        -
+          name: "Água Longa"
+          latitude: 41.24972
+          longitude: -8.49285
+        -
+          name: "Águas Santas"
+          latitude: 41.21017
+          longitude: -8.57599
+        -
+          name: "Aguçadoura"
+          latitude: 41.43116
+          longitude: -8.77844
+        -
+          name: "Alfena"
+          latitude: 41.23671
+          longitude: -8.52454
+        -
+          name: "Alpendurada"
+          latitude: 41.08944
+          longitude: -8.24643
+        -
+          name: "Amarante"
+          latitude: 41.27271
+          longitude: -8.08245
+        -
+          name: "Amorim"
+          latitude: 41.40503
+          longitude: -8.75046
+        -
+          name: "Anta"
+          latitude: 41.26634
+          longitude: -8.62844
+        -
+          name: "Arcozelo"
+          latitude: 41.06187
+          longitude: -8.63192
+        -
+          name: "Argivai"
+          latitude: 41.37744
+          longitude: -8.72987
+        -
+          name: "Árvore"
+          latitude: 41.33922
+          longitude: -8.71806
+        -
+          name: "Aver-o-Mar"
+          latitude: 41.40607
+          longitude: -8.77958
+        -
+          name: "Aves"
+          latitude: 41.37034
+          longitude: -8.4101
+        -
+          name: "Avintes"
+          latitude: 41.10711
+          longitude: -8.55131
+        -
+          name: "Azenha"
+          latitude: 41.07651
+          longitude: -8.62468
+        -
+          name: "Baguim do Monte"
+          latitude: 41.19203
+          longitude: -8.54118
+        -
+          name: "Baião"
+          latitude: 41.16384
+          longitude: -8.03581
+        -
+          name: "Balazar"
+          latitude: 41.40435
+          longitude: -8.62386
+        -
+          name: "Baltar"
+          latitude: 41.19272
+          longitude: -8.38768
+        -
+          name: "Barrosas"
+          latitude: 41.35534
+          longitude: -8.29943
+        -
+          name: "Beiriz de Baixo"
+          latitude: 41.39727
+          longitude: -8.72385
+        -
+          name: "Bougado"
+          latitude: 41.33979
+          longitude: -8.5518
+        -
+          name: "Campo"
+          latitude: 41.18516
+          longitude: -8.46493
+        -
+          name: "Canelas"
+          latitude: 41.08333
+          longitude: -8.6
+        -
+          name: "Canidelo"
+          latitude: 41.12314
+          longitude: -8.64654
+        -
+          name: "Carvalhosa"
+          latitude: 41.30057
+          longitude: -8.3608
+        -
+          name: "Castelões de Cepeda"
+          latitude: 41.20265
+          longitude: -8.33516
+        -
+          name: "Ermesinde"
+          latitude: 41.21653
+          longitude: -8.55318
+        -
+          name: "Estela"
+          latitude: 41.44944
+          longitude: -8.75166
+        -
+          name: "Fânzeres"
+          latitude: 41.16754
+          longitude: -8.52981
+        -
+          name: "Felgueiras"
+          latitude: 41.34774
+          longitude: -8.20808
+        -
+          name: "Ferreira"
+          latitude: 41.26718
+          longitude: -8.34434
+        -
+          name: "Figueiró"
+          latitude: 41.29922
+          longitude: -8.16779
+        -
+          name: "Foz do Douro"
+          latitude: 41.15119
+          longitude: -8.67125
+        -
+          name: "Foz do Sousa"
+          latitude: 41.09668
+          longitude: -8.50184
+        -
+          name: "Frazão"
+          latitude: 41.25866
+          longitude: -8.40014
+        -
+          name: "Freamunde"
+          latitude: 41.28835
+          longitude: -8.33533
+        -
+          name: "Gandra"
+          latitude: 41.20116
+          longitude: -8.43376
+        -
+          name: "Gemunde"
+          latitude: 41.26766
+          longitude: -8.64515
+        -
+          name: "Gondomar"
+          latitude: 41.12015
+          longitude: -8.49595
+        -
+          name: "Grijó"
+          latitude: 41.02836
+          longitude: -8.58017
+        -
+          name: "Guifões"
+          latitude: 41.19748
+          longitude: -8.66899
+        -
+          name: "Gulpilhares"
+          latitude: 41.08292
+          longitude: -8.62679
+        -
+          name: "Jovim"
+          latitude: 41.11102
+          longitude: -8.51903
+        -
+          name: "Lavra"
+          latitude: 41.25935
+          longitude: -8.71849
+        -
+          name: "Leça da Palmeira"
+          latitude: 41.191
+          longitude: -8.70027
+        -
+          name: "Leça do Bailio"
+          latitude: 41.21201
+          longitude: -8.63422
+        -
+          name: "Lordelo"
+          latitude: 41.23451
+          longitude: -8.40297
+        -
+          name: "Lousada"
+          latitude: 41.28355
+          longitude: -8.27437
+        -
+          name: "Lustosa"
+          latitude: 41.34081
+          longitude: -8.31715
+        -
+          name: "Madalena"
+          latitude: 41.21616
+          longitude: -8.33451
+        -
+          name: "Maia"
+          latitude: 41.24254
+          longitude: -8.60257
+        -
+          name: "Marco de Canaveses"
+          latitude: 41.15545
+          longitude: -8.16954
+        -
+          name: "Marco de Canavezes"
+          latitude: 41.18389
+          longitude: -8.14864
+        -
+          name: "Margaride"
+          latitude: 41.36478
+          longitude: -8.19999
+        -
+          name: "Matosinhos"
+          latitude: 41.18207
+          longitude: -8.68908
+        -
+          name: "Meinedo"
+          latitude: 41.24827
+          longitude: -8.25807
+        -
+          name: "Melres"
+          latitude: 41.06989
+          longitude: -8.40091
+        -
+          name: "Milheirós"
+          latitude: 41.21478
+          longitude: -8.58837
+        -
+          name: "Mindelo"
+          latitude: 41.31527
+          longitude: -8.72124
+        -
+          name: "Moreira"
+          latitude: 41.056
+          longitude: -8.38939
+        -
+          name: "Negrelos"
+          latitude: 41.34946
+          longitude: -8.40145
+        -
+          name: "Nogueira"
+          latitude: 41.24246
+          longitude: -8.58685
+        -
+          name: "Olival"
+          latitude: 41.05024
+          longitude: -8.54416
+        -
+          name: "Oliveira do Douro"
+          latitude: 41.12466
+          longitude: -8.58463
+        -
+          name: "Paços de Ferreira"
+          latitude: 41.28964
+          longitude: -8.37584
+        -
+          name: "Paredes"
+          latitude: 41.20501
+          longitude: -8.37506
+        -
+          name: "Pedroso"
+          latitude: 41.41103
+          longitude: -8.74897
+        -
+          name: "Pedrouços"
+          latitude: 41.1888
+          longitude: -8.58624
+        -
+          name: "Penafiel"
+          latitude: 41.20931
+          longitude: -8.26996
+        -
+          name: "Perafita"
+          latitude: 41.18252
+          longitude: -8.2545
+        -
+          name: "Perozinho"
+          latitude: 41.06513
+          longitude: -8.58531
+        -
+          name: "Porto"
+          latitude: 41.14961
+          longitude: -8.61099
+        -
+          name: "Póvoa de Varzim"
+          latitude: 41.38344
+          longitude: -8.76364
+        -
+          name: "Rebordões"
+          latitude: 41.35509
+          longitude: -8.42355
+        -
+          name: "Rebordosa"
+          latitude: 41.22405
+          longitude: -8.40669
+        -
+          name: "Recarei"
+          latitude: 41.15356
+          longitude: -8.41178
+        -
+          name: "Rio Mau"
+          latitude: 41.40422
+          longitude: -8.67994
+        -
+          name: "Rio Tinto"
+          latitude: 41.17872
+          longitude: -8.55953
+        -
+          name: "Sandim"
+          latitude: 41.03508
+          longitude: -8.507
+        -
+          name: "Santa Cruz do Bispo"
+          latitude: 41.21462
+          longitude: -8.67406
+        -
+          name: "Santo Izidoro"
+          latitude: 41.21083
+          longitude: -8.14224
+        -
+          name: "Santo Tirso"
+          latitude: 41.33014
+          longitude: -8.43827
+        -
+          name: "São Félix da Marinha"
+          latitude: 41.03555
+          longitude: -8.62259
+        -
+          name: "São Mamede de Infesta"
+          latitude: 41.19183
+          longitude: -8.61105
+        -
+          name: "São Miguel do Couto"
+          latitude: 41.33167
+          longitude: -8.46185
+        -
+          name: "São Pedro da Cova"
+          latitude: 41.14331
+          longitude: -8.50033
+        -
+          name: "São Romão do Coronado"
+          latitude: 41.28544
+          longitude: -8.5632
+        -
+          name: "Senhora da Hora"
+          latitude: 41.18641
+          longitude: -8.65172
+        -
+          name: "Sermonde"
+          latitude: 41.04712
+          longitude: -8.58449
+        -
+          name: "Seroa"
+          latitude: 41.26511
+          longitude: -8.42892
+        -
+          name: "Serzedo"
+          latitude: 41.05105
+          longitude: -8.61605
+        -
+          name: "Sobrado"
+          latitude: 41.21041
+          longitude: -8.45488
+        -
+          name: "Telões"
+          latitude: 41.31054
+          longitude: -8.11101
+        -
+          name: "Trofa"
+          latitude: 41.30646
+          longitude: -8.5764
+        -
+          name: "Vairão"
+          latitude: 41.3329
+          longitude: -8.66657
+        -
+          name: "Valadares"
+          latitude: 41.14737
+          longitude: -7.9812
+        -
+          name: "Valbom"
+          latitude: 41.12921
+          longitude: -8.56199
+        -
+          name: "Valongo"
+          latitude: 41.20797
+          longitude: -8.50086
+        -
+          name: "Vila do Conde"
+          latitude: 41.35326
+          longitude: -8.74516
+        -
+          name: "Vila Meã"
+          latitude: 41.25116
+          longitude: -8.18397
+        -
+          name: "Vila Nova da Telha"
+          latitude: 41.0717
+          longitude: -8.64146
+        -
+          name: "Vila Nova de Gaia"
+          latitude: 41.12401
+          longitude: -8.61241
+        -
+          name: "Vilar de Andorinho"
+          latitude: 41.10574
+          longitude: -8.58622
+        -
+          name: "Vilar do Paraíso"
+          latitude: 41.08974
+          longitude: -8.6211
+        -
+          name: "Vilarinho"
+          latitude: 41.35955
+          longitude: -8.33123
+        -
+          name: "Vizela"
+          latitude: 41.38242
+          longitude: -8.24887
+    -
+      name: "Santarém"
+      code: "14"
+      iso3166_2: "PT-14"
+      type: "district"
+      latitude: 39.2366687
+      longitude: -8.6859944
+      cities:
+        -
+          name: "Abrantes"
+          latitude: 39.46667
+          longitude: -8.2
+        -
+          name: "Alcanede"
+          latitude: 39.41501
+          longitude: -8.82189
+        -
+          name: "Alcanena"
+          latitude: 39.459
+          longitude: -8.66892
+        -
+          name: "Alcanhões"
+          latitude: 39.29603
+          longitude: -8.65847
+        -
+          name: "Alferrarede"
+          latitude: 39.48333
+          longitude: -8.16667
+        -
+          name: "Almeirim"
+          latitude: 39.20837
+          longitude: -8.62635
+        -
+          name: "Alpiarça"
+          latitude: 39.25712
+          longitude: -8.58187
+        -
+          name: "Amiães de Baixo"
+          latitude: 39.44296
+          longitude: -8.73358
+        -
+          name: "Azinhaga"
+          latitude: 39.34877
+          longitude: -8.53005
+        -
+          name: "Bemfica"
+          latitude: 39.14325
+          longitude: -8.68717
+        -
+          name: "Benavente"
+          latitude: 38.908
+          longitude: -8.76898
+        -
+          name: "Cartaxo"
+          latitude: 39.15377
+          longitude: -8.81373
+        -
+          name: "Chamusca"
+          latitude: 39.299
+          longitude: -8.39933
+        -
+          name: "Constância"
+          latitude: 39.45718
+          longitude: -8.30368
+        -
+          name: "Coruche"
+          latitude: 38.9595
+          longitude: -8.52745
+        -
+          name: "Entroncamento"
+          latitude: 39.46667
+          longitude: -8.46667
+        -
+          name: "Fátima"
+          latitude: 39.62071
+          longitude: -8.65237
+        -
+          name: "Fazendas de Almeirim"
+          latitude: 39.17553
+          longitude: -8.56927
+        -
+          name: "Ferreira do Zêzere"
+          latitude: 39.72303
+          longitude: -8.31661
+        -
+          name: "Golegã"
+          latitude: 39.38683
+          longitude: -8.50591
+        -
+          name: "Mação"
+          latitude: 39.59331
+          longitude: -7.99772
+        -
+          name: "Madalena"
+          latitude: 39.57133
+          longitude: -8.44635
+        -
+          name: "Marinhais"
+          latitude: 39.0473
+          longitude: -8.70236
+        -
+          name: "Minde"
+          latitude: 39.51631
+          longitude: -8.68799
+        -
+          name: "Monsanto"
+          latitude: 39.46203
+          longitude: -8.7118
+        -
+          name: "Montalvinho"
+          latitude: 39.4842754
+          longitude: -8.3058376
+        -
+          name: "Montalvo"
+          latitude: 39.4848636
+          longitude: -8.3000463
+        -
+          name: "Ourém"
+          latitude: 39.66179
+          longitude: -8.57895
+        -
+          name: "Paialvo"
+          latitude: 39.56399
+          longitude: -8.46835
+        -
+          name: "Pego"
+          latitude: 39.46146
+          longitude: -8.14955
+        -
+          name: "Pinheiro Grande"
+          latitude: 39.39212
+          longitude: -8.4341
+        -
+          name: "Poceirão"
+          latitude: 38.83095
+          longitude: -8.79365
+        -
+          name: "Pontével"
+          latitude: 39.14945
+          longitude: -8.8388
+        -
+          name: "Praia do Ribatejo"
+          latitude: 39.46667
+          longitude: -8.35
+        -
+          name: "Riachos"
+          latitude: 39.44472
+          longitude: -8.5142
+        -
+          name: "Rio Maior"
+          latitude: 39.34288
+          longitude: -8.93806
+        -
+          name: "Salvaterra de Magos"
+          latitude: 39.04482
+          longitude: -8.68903
+        -
+          name: "Samora Correia"
+          latitude: 38.93709
+          longitude: -8.87178
+        -
+          name: "Santa Margarida da Coutada"
+          latitude: 39.45
+          longitude: -8.31667
+        -
+          name: "Santarém"
+          latitude: 39.23333
+          longitude: -8.68333
+        -
+          name: "São Miguel de Rio Torto"
+          latitude: 39.43333
+          longitude: -8.21667
+        -
+          name: "São Vicente do Paul"
+          latitude: 39.34946
+          longitude: -8.62221
+        -
+          name: "Sardoal"
+          latitude: 39.55643
+          longitude: -8.14323
+        -
+          name: "Tomar"
+          latitude: 39.60199
+          longitude: -8.40924
+        -
+          name: "Torres Novas"
+          latitude: 39.4916
+          longitude: -8.54796
+        -
+          name: "Tramagal"
+          latitude: 39.45
+          longitude: -8.25
+        -
+          name: "Vale de Figueira"
+          latitude: 39.30569
+          longitude: -8.62876
+        -
+          name: "Vale de Santarém"
+          latitude: 39.19052
+          longitude: -8.72735
+        -
+          name: "Vila Chã de Ourique"
+          latitude: 39.17219
+          longitude: -8.76658
+        -
+          name: "Vila Nova da Barquinha"
+          latitude: 39.46081
+          longitude: -8.43588
+    -
+      name: "Setúbal"
+      code: "15"
+      iso3166_2: "PT-15"
+      type: "district"
+      latitude: 38.5240933
+      longitude: -8.8925876
+      cities:
+        -
+          name: "Alcácer do Sal"
+          latitude: 38.37326
+          longitude: -8.51444
+        -
+          name: "Alcochete"
+          latitude: 38.73827
+          longitude: -8.97936
+        -
+          name: "Aldeia de Paio Pires"
+          latitude: 38.61667
+          longitude: -9.08333
+        -
+          name: "Alhos Vedros"
+          latitude: 38.65486
+          longitude: -9.02368
+        -
+          name: "Almada"
+          latitude: 38.67902
+          longitude: -9.1569
+        -
+          name: "Amora"
+          latitude: 38.62961
+          longitude: -9.11557
+        -
+          name: "Arrentela"
+          latitude: 38.625
+          longitude: -9.10151
+        -
+          name: "Azeitão"
+          latitude: 38.51919
+          longitude: -9.0139
+        -
+          name: "Barreiro"
+          latitude: 38.66314
+          longitude: -9.0724
+        -
+          name: "Cacilhas"
+          latitude: 38.68638
+          longitude: -9.14938
+        -
+          name: "Caparica"
+          latitude: 38.66179
+          longitude: -9.20032
+        -
+          name: "Cercal"
+          latitude: 37.80129
+          longitude: -8.674
+        -
+          name: "Charneca de Caparica"
+          latitude: 38.62032
+          longitude: -9.19426
+        -
+          name: "Comporta"
+          latitude: 38.38059
+          longitude: -8.78608
+        -
+          name: "Corroios"
+          latitude: 38.64004
+          longitude: -9.1508
+        -
+          name: "Costa de Caparica"
+          latitude: 38.64458
+          longitude: -9.23556
+        -
+          name: "Grândola"
+          latitude: 38.18999
+          longitude: -8.61197
+        -
+          name: "Laranjeira"
+          latitude: 38.65599
+          longitude: -9.15376
+        -
+          name: "Lavradio"
+          latitude: 38.66808
+          longitude: -9.05204
+        -
+          name: "Moita"
+          latitude: 38.65854
+          longitude: -9.0104
+        -
+          name: "Montijo"
+          latitude: 38.7299
+          longitude: -8.69364
+        -
+          name: "Palmela"
+          latitude: 38.56902
+          longitude: -8.90126
+        -
+          name: "Piedade"
+          latitude: 38.67005
+          longitude: -9.15852
+        -
+          name: "Pinhal Novo"
+          latitude: 38.63106
+          longitude: -8.91376
+        -
+          name: "Porto Covo"
+          latitude: 37.85256
+          longitude: -8.79018
+        -
+          name: "Pragal"
+          latitude: 38.67459
+          longitude: -9.16981
+        -
+          name: "Quinta do Anjo"
+          latitude: 38.56753
+          longitude: -8.94228
+        -
+          name: "Quinta Do Conde"
+          latitude: 38.56528
+          longitude: -9.04316
+        -
+          name: "Rosairinho"
+          latitude: 38.67734
+          longitude: -9.00836
+        -
+          name: "Samouco"
+          latitude: 38.72035
+          longitude: -9.00471
+        -
+          name: "Santiago do Cacém"
+          latitude: 38.02502
+          longitude: -8.67577
+        -
+          name: "Santo André"
+          latitude: 38.06078
+          longitude: -8.7822
+        -
+          name: "Santo António da Charneca"
+          latitude: 38.62561
+          longitude: -9.03043
+        -
+          name: "Sarilhos Pequenos"
+          latitude: 38.68176
+          longitude: -8.98231
+        -
+          name: "Seixal"
+          latitude: 38.61173
+          longitude: -9.10371
+        -
+          name: "Sesimbra"
+          latitude: 38.49486
+          longitude: -9.12011
+        -
+          name: "Setúbal"
+          latitude: 38.5244
+          longitude: -8.8882
+        -
+          name: "Sines"
+          latitude: 37.95622
+          longitude: -8.86979
+        -
+          name: "Sobreda"
+          latitude: 38.64961
+          longitude: -9.18977
+        -
+          name: "Trafaria"
+          latitude: 38.67222
+          longitude: -9.23268
+    -
+      name: "Viana do Castelo"
+      code: "16"
+      iso3166_2: "PT-16"
+      type: "district"
+      latitude: 41.6918046
+      longitude: -8.834451
+      cities:
+        -
+          name: "Arcos de Valdevez"
+          latitude: 41.84668
+          longitude: -8.41905
+        -
+          name: "Caminha"
+          latitude: 41.84647
+          longitude: -8.80133
+        -
+          name: "Melgaço"
+          latitude: 42.08067
+          longitude: -8.24844
+        -
+          name: "Monção"
+          latitude: 42.07892
+          longitude: -8.48076
+        -
+          name: "Paredes de Coura"
+          latitude: 41.90995
+          longitude: -8.57034
+        -
+          name: "Ponte da Barca"
+          latitude: 41.80669
+          longitude: -8.31014
+        -
+          name: "Ponte de Lima"
+          latitude: 41.74682
+          longitude: -8.57637
+        -
+          name: "Valença"
+          latitude: 42.02821
+          longitude: -8.63388
+        -
+          name: "Viana do Castelo"
+          latitude: 41.69371
+          longitude: -8.83456
+    -
+      name: "Vila Real"
+      code: "17"
+      iso3166_2: "PT-17"
+      type: "district"
+      latitude: 41.3003527
+      longitude: -7.7457274
+      cities:
+        -
+          name: "Alijó"
+          latitude: 41.28447
+          longitude: -7.48545
+        -
+          name: "Boticas"
+          latitude: 41.68939
+          longitude: -7.66914
+        -
+          name: "Chaves"
+          latitude: 41.73961
+          longitude: -7.4503
+        -
+          name: "Favaios"
+          latitude: 41.26876
+          longitude: -7.50465
+        -
+          name: "Godim"
+          latitude: 41.17104
+          longitude: -7.80303
+        -
+          name: "Mesão Frio"
+          latitude: 41.1619
+          longitude: -7.87284
+        -
+          name: "Mondim de Basto"
+          latitude: 41.41347
+          longitude: -7.95479
+        -
+          name: "Montalegre"
+          latitude: 41.8318
+          longitude: -7.78999
+        -
+          name: "Murça"
+          latitude: 41.41825
+          longitude: -7.45121
+        -
+          name: "Peso da Régua"
+          latitude: 41.19157
+          longitude: -7.83668
+        -
+          name: "Ribeira de Pena"
+          latitude: 41.51021
+          longitude: -7.79673
+        -
+          name: "Sabrosa"
+          latitude: 41.26702
+          longitude: -7.57601
+        -
+          name: "Santa Cruz"
+          latitude: 41.76007
+          longitude: -7.46834
+        -
+          name: "Santa Marta de Penaguião"
+          latitude: 41.20991
+          longitude: -7.78386
+        -
+          name: "Sobreira"
+          latitude: 41.52371
+          longitude: -7.80234
+        -
+          name: "Valpaços"
+          latitude: 41.62082
+          longitude: -7.33607
+        -
+          name: "Vila Pouca de Aguiar"
+          latitude: 41.52079
+          longitude: -7.63671
+        -
+          name: "Vila Real"
+          latitude: 41.30021
+          longitude: -7.73985
+        -
+          name: "Vilela"
+          latitude: 41.22511
+          longitude: -7.60338
+    -
+      name: "Viseu"
+      code: "18"
+      iso3166_2: "PT-18"
+      type: "district"
+      latitude: 40.6588424
+      longitude: -7.914756
+      cities:
+        -
+          name: "Abraveses"
+          latitude: 40.68137
+          longitude: -7.92102
+        -
+          name: "Armamar"
+          latitude: 41.09718
+          longitude: -7.68553
+        -
+          name: "Cabanas de Viriato"
+          latitude: 40.47662
+          longitude: -7.97445
+        -
+          name: "Campo"
+          latitude: 40.71086
+          longitude: -7.91445
+        -
+          name: "Campo de Besteiros"
+          latitude: 40.55655
+          longitude: -8.13432
+        -
+          name: "Canas de Senhorim"
+          latitude: 40.50012
+          longitude: -7.89874
+        -
+          name: "Carregal do Sal"
+          latitude: 40.45007
+          longitude: -7.99819
+        -
+          name: "Castro Daire"
+          latitude: 40.92279
+          longitude: -7.93878
+        -
+          name: "Cinfães"
+          latitude: 41.03986
+          longitude: -8.11218
+        -
+          name: "Ervedosa do Douro"
+          latitude: 41.16626
+          longitude: -7.47305
+        -
+          name: "Lamego"
+          latitude: 41.10229
+          longitude: -7.81025
+        -
+          name: "Mangualde"
+          latitude: 40.60425
+          longitude: -7.76115
+        -
+          name: "Moimenta da Beira"
+          latitude: 40.97134
+          longitude: -7.62959
+        -
+          name: "Mortágua"
+          latitude: 40.39434
+          longitude: -8.25811
+        -
+          name: "Nelas"
+          latitude: 40.53216
+          longitude: -7.85152
+        -
+          name: "Oliveira de Frades"
+          latitude: 40.73357
+          longitude: -8.17481
+        -
+          name: "Penalva do Castelo"
+          latitude: 40.66791
+          longitude: -7.66015
+        -
+          name: "Penedono"
+          latitude: 40.98875
+          longitude: -7.39386
+        -
+          name: "Resende"
+          latitude: 41.07688
+          longitude: -7.95123
+        -
+          name: "Rio de Loba"
+          latitude: 40.66596
+          longitude: -7.87781
+        -
+          name: "Santa Comba Dão"
+          latitude: 40.40442
+          longitude: -8.1138
+        -
+          name: "São João da Pesqueira"
+          latitude: 41.14805
+          longitude: -7.40489
+        -
+          name: "São João de Areias"
+          latitude: 40.38722
+          longitude: -8.06783
+        -
+          name: "São Pedro do Sul"
+          latitude: 40.80073
+          longitude: -8.09023
+        -
+          name: "Sátão"
+          latitude: 40.76246
+          longitude: -7.676
+        -
+          name: "Sernancelhe"
+          latitude: 40.92097
+          longitude: -7.51226
+        -
+          name: "Tabuaço"
+          latitude: 41.09555
+          longitude: -7.56735
+        -
+          name: "Tarouca"
+          latitude: 41.02651
+          longitude: -7.74998
+        -
+          name: "Tondela"
+          latitude: 40.54052
+          longitude: -8.1004
+        -
+          name: "Treixedo"
+          latitude: 40.43246
+          longitude: -8.09428
+        -
+          name: "Vila Nova de Paiva"
+          latitude: 40.8659
+          longitude: -7.76127
+        -
+          name: "Viseu"
+          latitude: 40.6745
+          longitude: -7.91721
+        -
+          name: "Vouzela"
+          latitude: 40.68944
+          longitude: -8.1136

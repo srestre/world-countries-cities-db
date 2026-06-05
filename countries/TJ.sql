@@ -1,0 +1,96 @@
+CREATE TABLE IF NOT EXISTS countries (
+  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
+  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+);
+CREATE TABLE IF NOT EXISTS states (
+  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+);
+CREATE TABLE IF NOT EXISTS cities (
+  id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
+  latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+);
+
+INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
+(217, 'Tajikistan', 'TJ', 'TJK', 'Asia', 'Central Asia', 'Dushanbe', 'TJS', 39, 71, '🇹🇯');
+
+INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
+(5706, 'Dushanbe', 217, 'TJ', 'DU', 'capital territory', 38.53666667, 68.78),
+(3399, 'Gorno-Badakhshan', 217, 'TJ', 'GB', 'autonomous region', 38.3492457, 72.9988168),
+(3398, 'Khatlon', 217, 'TJ', 'KT', 'region', 37.8804734, 69.2636923),
+(3397, 'Nohiyahoi Tobei Jumhurí ', 217, 'TJ', 'RA', 'districts under republic administration', 39.0857902, 70.2408325),
+(3400, 'Sughd ', 217, 'TJ', 'SU', 'region', 39.3548602, 68.8268012);
+
+INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
+(160121, 'Dushanbe', 5706, 217, 38.53666667, 68.78),
+(106776, 'Ishqoshim', 3399, 217, 36.72484, 71.61331),
+(106781, 'Khorugh', 3399, 217, 37.48974, 71.55304),
+(106790, 'Murghob', 3399, 217, 38.17023, 73.96674),
+(106796, 'Nohiyai Shughnon', 3399, 217, 37.70004, 72.16748),
+(106760, 'Abdurahmoni Jomí', 3398, 217, 37.94636, 68.80878),
+(106763, 'Boshchorbogh', 3398, 217, 37.52027, 68.12825),
+(106765, 'Bŭstonqal’a', 3398, 217, 37.84783, 68.83125),
+(106767, 'Chubek', 3398, 217, 37.61453, 69.70525),
+(106768, 'Danghara', 3398, 217, 38.09578, 69.33998),
+(106770, 'Dŭstí', 3398, 217, 37.34812, 68.66398),
+(106771, 'Farkhor', 3398, 217, 37.49219, 69.40356),
+(106773, 'Gharavŭtí', 3398, 217, 37.56703, 68.44668),
+(106778, 'Jilikŭl', 3398, 217, 37.49167, 68.53106),
+(106784, 'Kirov', 3398, 217, 37.81908, 68.85905),
+(106785, 'Kolkhozobod', 3398, 217, 37.58823, 68.65886),
+(106788, 'Kŭlob', 3398, 217, 37.91459, 69.78454),
+(106789, 'Moskovskiy', 3398, 217, 37.60931, 68.58094),
+(106791, 'Mŭ’minobod', 3398, 217, 38.10714, 70.03213),
+(106793, 'Nohiyai Kolkhozobod', 3398, 217, 37.57277, 68.81528),
+(106795, 'Nohiyai Panj', 3398, 217, 37.31611, 69.16679),
+(106797, 'Nohiyai Vakhsh', 3398, 217, 37.75602, 68.94138),
+(106798, 'Norak', 3398, 217, 38.38917, 69.32272),
+(106803, 'Orzu', 3398, 217, 37.5582, 68.81952),
+(106806, 'Panj', 3398, 217, 37.23634, 69.09911),
+(106810, 'Qŭrghonteppa', 3398, 217, 37.83399, 68.78186),
+(106814, 'Shahritus', 3398, 217, 37.26206, 68.13849),
+(106817, 'Sovet', 3398, 217, 38.0467, 69.58822),
+(106820, 'Tartiki', 3398, 217, 37.58221, 68.13347),
+(106824, 'Vakhsh', 3398, 217, 37.71485, 68.83456),
+(106828, 'Vose’', 3398, 217, 37.80396, 69.64417),
+(106829, 'Yovon', 3398, 217, 38.31408, 69.03784),
+(106769, 'Darband', 3397, 217, 38.86776, 69.96642),
+(106774, 'Hisor', 3397, 217, 38.52504, 68.55124),
+(106779, 'Karakenja', 3397, 217, 39.23585, 71.52412),
+(106780, 'Khodzha-Maston', 3397, 217, 38.74457, 68.62702),
+(106800, 'Novobod', 3397, 217, 39.01084, 70.15082),
+(106801, 'Obigarm', 3397, 217, 38.71731, 69.70885),
+(106811, 'Rasht', 3397, 217, 39.02871, 70.37446),
+(106812, 'Roghun', 3397, 217, 38.69331, 69.73692),
+(106813, 'Shahrinav', 3397, 217, 38.57085, 68.33498),
+(106819, 'Tagob', 3397, 217, 38.83827, 68.89847),
+(106821, 'Tursunzoda', 3397, 217, 38.51271, 68.23163),
+(106822, 'Vahdat', 3397, 217, 38.55632, 69.01354),
+(106823, 'Vahdat District', 3397, 217, 38.83333, 69.33333),
+(106825, 'Varzob', 3397, 217, 38.77369, 68.81776),
+(106826, 'Varzob District', 3397, 217, 38.75, 68.75),
+(106761, 'Adrasmon', 3400, 217, 40.64928, 69.98472),
+(106762, 'Ayní', 3400, 217, 39.39406, 68.53766),
+(106764, 'Bŭston', 3400, 217, 40.52286, 69.33307),
+(106766, 'Chkalov', 3400, 217, 40.23417, 69.69481),
+(106772, 'Ghafurov', 3400, 217, 40.21571, 69.72867),
+(106775, 'Isfara', 3400, 217, 40.12649, 70.62526),
+(106777, 'Istaravshan', 3400, 217, 39.9142, 69.00328),
+(106782, 'Khŭjand', 3400, 217, 40.28256, 69.62216),
+(106783, 'Kim', 3400, 217, 40.20798, 70.46882),
+(106786, 'Konibodom', 3400, 217, 40.29414, 70.43122),
+(106787, 'Konsoy', 3400, 217, 40.49155, 69.70245),
+(106792, 'Neftobod', 3400, 217, 40.21524, 70.57193),
+(106794, 'Nohiyai Konibodom', 3400, 217, 40.26877, 70.33057),
+(106799, 'Nov', 3400, 217, 40.1522, 69.37076),
+(106802, 'Oltintopkan', 3400, 217, 40.65425, 69.59811),
+(106804, 'Pakhtakoron', 3400, 217, 40.15709, 68.74659),
+(106805, 'Palos', 3400, 217, 40.31628, 69.73743),
+(106807, 'Panjakent', 3400, 217, 39.49524, 67.60931),
+(106808, 'Proletar', 3400, 217, 40.16713, 69.50163),
+(106809, 'Quruqsoy', 3400, 217, 40.57648, 69.37962),
+(106815, 'Shaydon', 3400, 217, 40.66992, 70.3502),
+(106816, 'Shŭrob', 3400, 217, 40.04605, 70.54117),
+(106818, 'Taboshar', 3400, 217, 40.57017, 69.64175),
+(106827, 'Vorukh', 3400, 217, 39.85125, 70.58012);

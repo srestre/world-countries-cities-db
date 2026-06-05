@@ -1,0 +1,20 @@
+-
+  name: "Svalbard and Jan Mayen Islands"
+  name_es: "Islas Svalbard y Jan Mayen"
+  native: "Svalbard og Jan Mayen"
+  iso2: "SJ"
+  iso3: "SJM"
+  numeric_code: "744"
+  phonecode: "47"
+  capital: "Longyearbyen"
+  currency: "NOK"
+  currency_name: "Norwegian krone"
+  currency_symbol: "ko"
+  tld: ".sj"
+  region: "Europe"
+  subregion: "Northern Europe"
+  latitude: 78
+  longitude: 20
+  emoji: "🇸🇯"
+  states:
+    []

@@ -1,0 +1,531 @@
+-
+  name: "El Salvador"
+  name_es: "El Salvador"
+  native: "El Salvador"
+  iso2: "SV"
+  iso3: "SLV"
+  numeric_code: "222"
+  phonecode: "503"
+  capital: "San Salvador"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".sv"
+  region: "Americas"
+  subregion: "Central America"
+  latitude: 13.83333333
+  longitude: -88.91666666
+  emoji: "🇸🇻"
+  states:
+    -
+      name: "Ahuachapán"
+      code: "AH"
+      iso3166_2: "SV-AH"
+      type: "department"
+      latitude: 13.8634993
+      longitude: -89.9273861
+      cities:
+        -
+          name: "Ahuachapán"
+          latitude: 13.92139
+          longitude: -89.845
+        -
+          name: "Atiquizaya"
+          latitude: 13.97694
+          longitude: -89.7525
+        -
+          name: "Concepción de Ataco"
+          latitude: 13.87028
+          longitude: -89.84861
+        -
+          name: "Guaymango"
+          latitude: 13.75028
+          longitude: -89.84222
+        -
+          name: "Jujutla"
+          latitude: 13.78694
+          longitude: -89.85722
+        -
+          name: "San Francisco Menéndez"
+          latitude: 13.84306
+          longitude: -90.01583
+        -
+          name: "Tacuba"
+          latitude: 13.90111
+          longitude: -89.92972
+    -
+      name: "Cabañas"
+      code: "CA"
+      iso3166_2: "SV-CA"
+      type: "department"
+      latitude: 13.8832914
+      longitude: -88.7383096
+      cities:
+        -
+          name: "Sensuntepeque"
+          latitude: 13.86667
+          longitude: -88.63333
+        -
+          name: "Victoria"
+          latitude: 13.95
+          longitude: -88.63333
+    -
+      name: "Chalatenango"
+      code: "CH"
+      iso3166_2: "SV-CH"
+      type: "department"
+      latitude: 14.1765311
+      longitude: -89.0932963
+      cities:
+        -
+          name: "Chalatenango"
+          latitude: 14.03333
+          longitude: -88.93333
+        -
+          name: "Nueva Concepción"
+          latitude: 14.13333
+          longitude: -89.3
+    -
+      name: "Cuscatlán"
+      code: "CU"
+      iso3166_2: "SV-CU"
+      type: "department"
+      latitude: 13.8586903
+      longitude: -89.0632592
+      cities:
+        -
+          name: "Cojutepeque"
+          latitude: 13.71667
+          longitude: -88.93333
+        -
+          name: "San Martín"
+          latitude: 13.78333
+          longitude: -88.91667
+        -
+          name: "Suchitoto"
+          latitude: 13.93806
+          longitude: -89.02778
+        -
+          name: "Tecoluca"
+          latitude: 13.78917
+          longitude: -89.00528
+        -
+          name: "Tenancingo"
+          latitude: 13.83333
+          longitude: -88.98333
+    -
+      name: "La Libertad"
+      code: "LI"
+      iso3166_2: "SV-LI"
+      type: "department"
+      latitude: 13.7449622
+      longitude: -89.3610819
+      cities:
+        -
+          name: "Antiguo Cuscatlán"
+          latitude: 13.66492
+          longitude: -89.25319
+        -
+          name: "Ciudad Arce"
+          latitude: 13.84028
+          longitude: -89.44722
+        -
+          name: "La Libertad"
+          latitude: 13.48833
+          longitude: -89.32222
+        -
+          name: "Nuevo Cuscatlán"
+          latitude: 13.64861
+          longitude: -89.26528
+        -
+          name: "Quezaltepeque"
+          latitude: 13.83124
+          longitude: -89.27221
+        -
+          name: "San Juan Opico"
+          latitude: 13.87611
+          longitude: -89.35972
+        -
+          name: "San Pablo Tacachico"
+          latitude: 13.97556
+          longitude: -89.34
+        -
+          name: "Santa Tecla"
+          latitude: 13.67694
+          longitude: -89.27972
+        -
+          name: "Zaragoza"
+          latitude: 13.58944
+          longitude: -89.28889
+    -
+      name: "La Paz"
+      code: "PA"
+      iso3166_2: "SV-PA"
+      type: "department"
+      latitude: 13.4669766
+      longitude: -88.9850622
+      cities:
+        -
+          name: "El Rosario"
+          latitude: 13.49778
+          longitude: -89.02972
+        -
+          name: "Olocuilta"
+          latitude: 13.56972
+          longitude: -89.11722
+        -
+          name: "San Pedro Masahuat"
+          latitude: 13.54361
+          longitude: -89.03861
+        -
+          name: "Santiago Nonualco"
+          latitude: 13.51667
+          longitude: -88.95
+        -
+          name: "Zacatecoluca"
+          latitude: 13.5
+          longitude: -88.86667
+    -
+      name: "La Unión "
+      code: "UN"
+      iso3166_2: "SV-UN"
+      type: "department"
+      latitude: 13.5326318
+      longitude: -87.902582
+      cities:
+        -
+          name: "Anamorós"
+          latitude: 13.74056
+          longitude: -87.87361
+        -
+          name: "Conchagua"
+          latitude: 13.30778
+          longitude: -87.86472
+        -
+          name: "Intipucá"
+          latitude: 13.19694
+          longitude: -88.05444
+        -
+          name: "La Unión"
+          latitude: 13.33694
+          longitude: -87.84389
+        -
+          name: "Nueva Esparta"
+          latitude: 13.78361
+          longitude: -87.83861
+        -
+          name: "Pasaquina"
+          latitude: 13.58444
+          longitude: -87.84111
+        -
+          name: "San Alejo"
+          latitude: 13.43139
+          longitude: -87.96306
+        -
+          name: "Santa Rosa de Lima"
+          latitude: 13.62472
+          longitude: -87.89361
+    -
+      name: "Morazán"
+      code: "MO"
+      iso3166_2: "SV-MO"
+      type: "department"
+      latitude: 13.7726176
+      longitude: -88.0951973
+      cities:
+        -
+          name: "Cacaopera"
+          latitude: 13.76667
+          longitude: -88.08333
+        -
+          name: "Corinto"
+          latitude: 13.81083
+          longitude: -87.97139
+        -
+          name: "Guatajiagua"
+          latitude: 13.66667
+          longitude: -88.2
+        -
+          name: "Jocoro"
+          latitude: 13.61667
+          longitude: -88.01667
+        -
+          name: "San Francisco"
+          latitude: 13.7
+          longitude: -88.1
+        -
+          name: "Sociedad"
+          latitude: 13.7
+          longitude: -88.01667
+    -
+      name: "San Miguel"
+      code: "SM"
+      iso3166_2: "SV-SM"
+      type: "department"
+      latitude: 13.4320224
+      longitude: -88.271737
+      cities:
+        -
+          name: "Chapeltique"
+          latitude: 13.63333
+          longitude: -88.26667
+        -
+          name: "Chinameca"
+          latitude: 13.5
+          longitude: -88.35
+        -
+          name: "Chirilagua"
+          latitude: 13.22028
+          longitude: -88.13861
+        -
+          name: "Ciudad Barrios"
+          latitude: 13.76667
+          longitude: -88.26667
+        -
+          name: "El Tránsito"
+          latitude: 13.35
+          longitude: -88.35
+        -
+          name: "Lolotique"
+          latitude: 13.55
+          longitude: -88.35
+        -
+          name: "Moncagua"
+          latitude: 13.53333
+          longitude: -88.25
+        -
+          name: "Nueva Guadalupe"
+          latitude: 13.53333
+          longitude: -88.35
+        -
+          name: "San Miguel"
+          latitude: 13.48333
+          longitude: -88.18333
+        -
+          name: "San Rafael Oriente"
+          latitude: 13.38333
+          longitude: -88.35
+        -
+          name: "Sesori"
+          latitude: 13.71667
+          longitude: -88.36667
+    -
+      name: "San Salvador"
+      code: "SS"
+      iso3166_2: "SV-SS"
+      type: "department"
+      latitude: 13.735588
+      longitude: -89.2005546
+      cities:
+        -
+          name: "Aguilares"
+          latitude: 13.95722
+          longitude: -89.18972
+        -
+          name: "Apopa"
+          latitude: 13.80722
+          longitude: -89.17917
+        -
+          name: "Ayutuxtepeque"
+          latitude: 13.74556
+          longitude: -89.20639
+        -
+          name: "Cuscatancingo"
+          latitude: 13.73611
+          longitude: -89.18139
+        -
+          name: "Delgado"
+          latitude: 13.72417
+          longitude: -89.17028
+        -
+          name: "El Paisnal"
+          latitude: 13.97361
+          longitude: -89.21861
+        -
+          name: "Guazapa"
+          latitude: 13.87694
+          longitude: -89.17306
+        -
+          name: "Ilopango"
+          latitude: 13.70167
+          longitude: -89.10944
+        -
+          name: "Mejicanos"
+          latitude: 13.74028
+          longitude: -89.21306
+        -
+          name: "Panchimalco"
+          latitude: 13.61278
+          longitude: -89.18
+        -
+          name: "Rosario de Mora"
+          latitude: 13.57528
+          longitude: -89.20889
+        -
+          name: "San Marcos"
+          latitude: 13.65889
+          longitude: -89.18306
+        -
+          name: "San Salvador"
+          latitude: 13.68935
+          longitude: -89.18718
+        -
+          name: "Santo Tomás"
+          latitude: 13.64083
+          longitude: -89.13333
+        -
+          name: "Soyapango"
+          latitude: 13.71024
+          longitude: -89.13989
+        -
+          name: "Tonacatepeque"
+          latitude: 13.78111
+          longitude: -89.11861
+    -
+      name: "San Vicente"
+      code: "SV"
+      iso3166_2: "SV-SV"
+      type: "department"
+      latitude: 13.5274935
+      longitude: -88.7396986
+      cities:
+        -
+          name: "Apastepeque"
+          latitude: 13.66667
+          longitude: -88.78333
+        -
+          name: "San Sebastián"
+          latitude: 13.73333
+          longitude: -88.83333
+        -
+          name: "San Vicente"
+          latitude: 13.63333
+          longitude: -88.8
+    -
+      name: "Santa Ana"
+      code: "SA"
+      iso3166_2: "SV-SA"
+      type: "department"
+      latitude: 14.1145585
+      longitude: -89.5678141
+      cities:
+        -
+          name: "Candelaria de La Frontera"
+          latitude: 14.11667
+          longitude: -89.65
+        -
+          name: "Chalchuapa"
+          latitude: 13.98667
+          longitude: -89.68111
+        -
+          name: "Coatepeque"
+          latitude: 13.92861
+          longitude: -89.50417
+        -
+          name: "El Congo"
+          latitude: 13.90889
+          longitude: -89.49583
+        -
+          name: "Metapán"
+          latitude: 14.33333
+          longitude: -89.45
+        -
+          name: "Santa Ana"
+          latitude: 13.99417
+          longitude: -89.55972
+        -
+          name: "Texistepeque"
+          latitude: 14.13333
+          longitude: -89.5
+    -
+      name: "Sonsonate"
+      code: "SO"
+      iso3166_2: "SV-SO"
+      type: "department"
+      latitude: 13.7115105
+      longitude: -89.6605842
+      cities:
+        -
+          name: "Acajutla"
+          latitude: 13.59278
+          longitude: -89.8275
+        -
+          name: "Armenia"
+          latitude: 13.74361
+          longitude: -89.49889
+        -
+          name: "Izalco"
+          latitude: 13.74472
+          longitude: -89.67306
+        -
+          name: "Juayúa"
+          latitude: 13.84139
+          longitude: -89.74556
+        -
+          name: "Nahuizalco"
+          latitude: 13.7775
+          longitude: -89.73667
+        -
+          name: "San Antonio del Monte"
+          latitude: 13.71639
+          longitude: -89.73833
+        -
+          name: "Sonsonate"
+          latitude: 13.71889
+          longitude: -89.72417
+        -
+          name: "Sonzacate"
+          latitude: 13.73417
+          longitude: -89.71472
+    -
+      name: "Usulután"
+      code: "US"
+      iso3166_2: "SV-US"
+      type: "department"
+      latitude: 13.4324702
+      longitude: -88.5398358
+      cities:
+        -
+          name: "Berlín"
+          latitude: 13.5
+          longitude: -88.53333
+        -
+          name: "Concepción Batres"
+          latitude: 13.35
+          longitude: -88.36667
+        -
+          name: "Jiquilisco"
+          latitude: 13.31667
+          longitude: -88.58333
+        -
+          name: "Jucuapa"
+          latitude: 13.51667
+          longitude: -88.38333
+        -
+          name: "Jucuarán"
+          latitude: 13.25389
+          longitude: -88.24778
+        -
+          name: "Ozatlán"
+          latitude: 13.38333
+          longitude: -88.5
+        -
+          name: "Puerto El Triunfo"
+          latitude: 13.28333
+          longitude: -88.55
+        -
+          name: "San Agustín"
+          latitude: 13.43333
+          longitude: -88.6
+        -
+          name: "Santa Elena"
+          latitude: 13.38333
+          longitude: -88.41667
+        -
+          name: "Santiago de María"
+          latitude: 13.48333
+          longitude: -88.46667
+        -
+          name: "Usulután"
+          latitude: 13.35
+          longitude: -88.45

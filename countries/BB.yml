@@ -1,0 +1,139 @@
+-
+  name: "Barbados"
+  name_es: "Barbados"
+  native: "Barbados"
+  iso2: "BB"
+  iso3: "BRB"
+  numeric_code: "052"
+  phonecode: "1"
+  capital: "Bridgetown"
+  currency: "BBD"
+  currency_name: "Barbadian dollar"
+  currency_symbol: "Bds$"
+  tld: ".bb"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 13.16666666
+  longitude: -59.53333333
+  emoji: "🇧🇧"
+  states:
+    -
+      name: "Christ Church"
+      code: "01"
+      iso3166_2: "BB-01"
+      type: "parish"
+      latitude: 13.082618
+      longitude: -59.5374451
+      cities:
+        -
+          name: "Oistins"
+          latitude: 13.07067
+          longitude: -59.54637
+    -
+      name: "Saint Andrew"
+      code: "02"
+      iso3166_2: "BB-02"
+      type: "parish"
+      latitude: 13.2432904
+      longitude: -59.57317
+      cities:
+        -
+          name: "Greenland"
+          latitude: 13.25808
+          longitude: -59.57763
+    -
+      name: "Saint George"
+      code: "03"
+      iso3166_2: "BB-03"
+      type: "parish"
+      latitude: 13.1384022
+      longitude: -59.5443721
+      cities:
+        []
+    -
+      name: "Saint James"
+      code: "04"
+      iso3166_2: "BB-04"
+      type: "parish"
+      latitude: 13.1863793
+      longitude: -59.625192
+      cities:
+        -
+          name: "Holetown"
+          latitude: 13.18672
+          longitude: -59.63808
+    -
+      name: "Saint John"
+      code: "05"
+      iso3166_2: "BB-05"
+      type: "parish"
+      latitude: 13.1899463
+      longitude: -59.5592151
+      cities:
+        []
+    -
+      name: "Saint Joseph"
+      code: "06"
+      iso3166_2: "BB-06"
+      type: "parish"
+      latitude: 13.1899463
+      longitude: -59.5592151
+      cities:
+        -
+          name: "Bathsheba"
+          latitude: 13.21133
+          longitude: -59.52596
+    -
+      name: "Saint Lucy"
+      code: "07"
+      iso3166_2: "BB-07"
+      type: "parish"
+      latitude: 13.3024068
+      longitude: -59.6129445
+      cities:
+        []
+    -
+      name: "Saint Michael"
+      code: "08"
+      iso3166_2: "BB-08"
+      type: "parish"
+      latitude: 13.1182985
+      longitude: -59.6015783
+      cities:
+        -
+          name: "Bridgetown"
+          latitude: 13.10732
+          longitude: -59.62021
+    -
+      name: "Saint Peter"
+      code: "09"
+      iso3166_2: "BB-09"
+      type: "parish"
+      latitude: 13.2619779
+      longitude: -59.6207444
+      cities:
+        -
+          name: "Speightstown"
+          latitude: 13.25072
+          longitude: -59.64396
+    -
+      name: "Saint Philip"
+      code: "10"
+      iso3166_2: "BB-10"
+      type: "parish"
+      latitude: 13.129539
+      longitude: -59.4674102
+      cities:
+        -
+          name: "Crane"
+          latitude: 13.10487
+          longitude: -59.44861
+    -
+      name: "Saint Thomas"
+      code: "11"
+      iso3166_2: "BB-11"
+      type: "parish"
+      latitude: 13.177202
+      longitude: -59.5853833
+      cities:
+        []

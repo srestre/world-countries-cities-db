@@ -1,0 +1,123 @@
+-
+  name: "Virgin Islands (US)"
+  name_es: "Islas Vírgenes de los Estados Unidos"
+  native: "United States Virgin Islands"
+  iso2: "VI"
+  iso3: "VIR"
+  numeric_code: "850"
+  phonecode: "1"
+  capital: "Charlotte Amalie"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".vi"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 18.34
+  longitude: -64.93
+  emoji: "🇻🇮"
+  states:
+    -
+      name: "Saint Croix"
+      code: "SC"
+      iso3166_2: "VI-SC"
+      type: "district"
+      latitude: 17.729124
+      longitude: -64.7589156
+      cities:
+        -
+          name: "Christiansted"
+          latitude: 17.7440364
+          longitude: -64.7106086
+        -
+          name: "East End"
+          latitude: 17.7523882
+          longitude: -64.670301
+        -
+          name: "Frederiksted"
+          latitude: 17.7124691
+          longitude: -64.8867192
+        -
+          name: "Good Hope"
+          latitude: 17.7223442
+          longitude: -64.7172494
+        -
+          name: "Northcentral"
+          latitude: 17.7501145
+          longitude: -64.8238491
+        -
+          name: "Northwest"
+          latitude: 17.7382782
+          longitude: -64.8906347
+        -
+          name: "Sion Farm"
+          latitude: 17.7543276
+          longitude: -64.7794611
+        -
+          name: "Southcentral"
+          latitude: 17.7064917
+          longitude: -64.8144865
+        -
+          name: "Southwest"
+          latitude: 17.6917787
+          longitude: -64.9355939
+    -
+      name: "Saint John"
+      code: "SJ"
+      iso3166_2: "VI-SJ"
+      type: "district"
+      latitude: 18.3356013
+      longitude: -64.7550406
+      cities:
+        -
+          name: "Central"
+          latitude: 18.3356838
+          longitude: -64.7947078
+        -
+          name: "Coral Bay"
+          latitude: 18.3480089
+          longitude: -64.7219682
+        -
+          name: "Cruz Bay"
+          latitude: 18.3182037
+          longitude: -64.8024211
+        -
+          name: "East End"
+          latitude: 18.3403647
+          longitude: -64.6806266
+    -
+      name: "Saint Thomas"
+      code: "ST"
+      iso3166_2: "VI-ST"
+      type: "district"
+      latitude: 18.3429081
+      longitude: -64.9188997
+      cities:
+        -
+          name: "Charlotte Amalie"
+          latitude: 18.3412761
+          longitude: -64.9483869
+        -
+          name: "East End"
+          latitude: 18.3290162
+          longitude: -64.8704731
+        -
+          name: "Northside"
+          latitude: 18.3738081
+          longitude: -64.9558909
+        -
+          name: "Southside"
+          latitude: 18.3052912
+          longitude: -64.9172445
+        -
+          name: "Tutu"
+          latitude: 18.3388427
+          longitude: -64.8953072
+        -
+          name: "Water Island"
+          latitude: 18.3208653
+          longitude: -64.9693263
+        -
+          name: "West End"
+          latitude: 18.3724367
+          longitude: -65.0649013

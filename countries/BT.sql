@@ -1,0 +1,97 @@
+CREATE TABLE IF NOT EXISTS countries (
+  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
+  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+);
+CREATE TABLE IF NOT EXISTS states (
+  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+);
+CREATE TABLE IF NOT EXISTS cities (
+  id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
+  latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+);
+
+INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
+(26, 'Bhutan', 'BT', 'BTN', 'Asia', 'Southern Asia', 'Thimphu', 'BTN', 27.5, 90.5, '🇧🇹');
+
+INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
+(240, 'Bumthang ', 26, 'BT', '33', 'district', 27.7079132, 90.7697435),
+(239, 'Chukha ', 26, 'BT', '12', 'district', 27.0575803, 89.5638178),
+(238, 'Dagana ', 26, 'BT', '22', 'district', 27.0746653, 89.8786685),
+(229, 'Gasa ', 26, 'BT', 'GA', 'district', 27.9190875, 89.7875318),
+(232, 'Haa ', 26, 'BT', '13', 'district', 27.3596658, 89.2357556),
+(234, 'Lhuntse ', 26, 'BT', '44', 'district', 27.7287448, 91.1363624),
+(242, 'Mongar ', 26, 'BT', '42', 'district', 27.2763005, 91.237536),
+(237, 'Paro ', 26, 'BT', '11', 'district', 27.4285949, 89.4166516),
+(244, 'Pemagatshel ', 26, 'BT', '43', 'district', 27.0030415, 91.3677054),
+(235, 'Punakha ', 26, 'BT', '23', 'district', 27.5842857, 89.8593094),
+(243, 'Samdrup Jongkhar ', 26, 'BT', '45', 'district', 26.8035682, 91.5039207),
+(246, 'Samtse ', 26, 'BT', '14', 'district', 27.0352532, 89.0147344),
+(247, 'Sarpang ', 26, 'BT', '31', 'district', 26.9863897, 90.3800673),
+(241, 'Thimphu ', 26, 'BT', '15', 'district', 27.4712216, 89.6339041),
+(5242, 'Trashi Yangtse	', 26, 'BT', 'TY', 'district', 27.717585, 91.1981102),
+(236, 'Trashigang ', 26, 'BT', '41', 'district', 27.2843778, 91.5742509),
+(245, 'Trongsa ', 26, 'BT', '32', 'district', 27.5002269, 90.5080634),
+(230, 'Tsirang ', 26, 'BT', '21', 'district', 27.0072232, 90.1326289),
+(231, 'Wangdue Phodrang ', 26, 'BT', '24', 'district', 27.544634, 89.955581),
+(233, 'Zhemgang ', 26, 'BT', '34', 'district', 27.0821148, 90.8408984);
+
+INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
+(15709, 'Jakar', 240, 26, 27.54918, 90.7525),
+(153824, 'Tang Valley', 240, 26, 27.5025242, 90.7449544),
+(153825, 'Chapchha', 239, 26, 27.2, 89.55),
+(15706, 'Daphu', 239, 26, 26.9667, 89.3833),
+(153827, 'Khitokha', 239, 26, 26.9, 89.6167),
+(153826, 'Lobnig', 239, 26, 27.15, 89.55),
+(15726, 'Pachu', 239, 26, 26.9, 89.35),
+(15716, 'Phuntsholing', 239, 26, 26.85164, 89.38837),
+(15705, 'Daga', 238, 26, 27.07529, 89.87688),
+(15728, 'Sibsu', 238, 26, 27, 88.9),
+(153828, 'Thumgaon', 238, 26, 26.9833, 89.9667),
+(15707, 'Gasa', 229, 26, 27.90372, 89.72689),
+(15708, 'Ha', 232, 26, 27.38747, 89.28074),
+(153829, 'Naktsang', 232, 26, 27.3833, 89.2667),
+(153830, 'Sangkari', 232, 26, 27.3, 89.3167),
+(15710, 'Lhuentse', 234, 26, 27.66787, 91.18393),
+(153832, 'Kengkhar', 242, 26, 27.1, 91.25),
+(15711, 'Mongar', 242, 26, 27.27471, 91.23963),
+(153831, 'Thebong', 242, 26, 27.2667, 91.2667),
+(15714, 'Paro', 237, 26, 27.4305, 89.41334),
+(153834, 'Suchha', 237, 26, 27.2333, 89.45),
+(153833, 'Tshalunang', 237, 26, 27.4333, 89.65),
+(153835, 'Nganglam', 244, 26, 26.841811, 91.2424849),
+(15715, 'Pemagatshel', 244, 26, 27.03795, 91.40305),
+(15712, 'Pajo', 235, 26, 27.53333, 89.88333),
+(15717, 'Punākha', 235, 26, 27.59137, 89.87743),
+(15718, 'Samdrup Jongkhar', 243, 26, 26.80069, 91.50519),
+(153838, 'Denchukha', 246, 26, 27.0167, 89.25),
+(153837, 'Dorokha', 246, 26, 27.0167, 89.2167),
+(15719, 'Samtse', 246, 26, 26.89903, 89.09951),
+(153836, 'Tendu', 246, 26, 27.1333, 88.8833),
+(153841, 'Bhurgaon', 247, 26, 26.9, 90.4333),
+(153840, 'Galechugaon', 247, 26, 27, 90.5333),
+(153839, 'Geylegphug', 247, 26, 26.8706, 90.4856),
+(15720, 'Sarpang', 247, 26, 26.86395, 90.26745),
+(15722, 'Thimphu', 241, 26, 27.46609, 89.64191),
+(153842, 'Shali', 5242, 26, 27.4833, 91.5667),
+(153843, 'Trashi Yangtse', 5242, 26, 27.5833, 91.4667),
+(153844, 'Yalang', 5242, 26, 27.4333, 91.6333),
+(153850, 'Balfai', 236, 26, 27.2167032, 91.4794003),
+(153846, 'Ghunkarah', 236, 26, 27.4, 91.5667),
+(153845, 'Ngalangkang', 236, 26, 27.4528233, 91.5647771),
+(153847, 'Rungzyung', 236, 26, 27.35, 91.6667),
+(153851, 'Sassi', 236, 26, 27.1333, 91.4333),
+(153849, 'Thrimshing', 236, 26, 27.1333, 91.6167),
+(15724, 'Trashigang', 236, 26, 27.3331, 91.55424),
+(153848, 'Wamrong', 236, 26, 27.1378453, 91.5604447),
+(153852, 'Trongsa', 245, 26, 27.4994, 90.5047),
+(153854, 'Beteni', 230, 26, 27.0333, 90.2333),
+(153853, 'Dagapela', 230, 26, 26.9333, 89.95),
+(15725, 'Damphu', 230, 26, 27.0167, 90.1),
+(15727, 'Tsirang', 230, 26, 27.0219, 90.12291),
+(153856, 'Manikyangsa', 231, 26, 27.5333, 90.1),
+(153855, 'Ritang', 231, 26, 27.55, 90.1667),
+(15723, 'Wangdue Phodrang', 231, 26, 27.4833, 89.9),
+(15713, 'Panbang', 233, 26, 26.86667, 90.98333),
+(15721, 'Zhemgang', 233, 26, 27.21689, 90.65793);

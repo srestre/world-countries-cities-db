@@ -1,0 +1,2259 @@
+-
+  name: "Bulgaria"
+  name_es: "Bulgaria"
+  native: "България"
+  iso2: "BG"
+  iso3: "BGR"
+  numeric_code: "100"
+  phonecode: "359"
+  capital: "Sofia"
+  currency: "BGN"
+  currency_name: "Bulgarian lev"
+  currency_symbol: "Лв."
+  tld: ".bg"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  latitude: 43
+  longitude: 25
+  emoji: "🇧🇬"
+  states:
+    -
+      name: "Blagoevgrad"
+      code: "01"
+      iso3166_2: "BG-01"
+      type: "district"
+      latitude: 42.0111077
+      longitude: 23.0906457
+      cities:
+        -
+          name: "Bansko"
+          latitude: 41.8383
+          longitude: 23.48851
+        -
+          name: "Belitsa"
+          latitude: 41.95694
+          longitude: 23.5725
+        -
+          name: "Blagoevgrad"
+          latitude: 42.01667
+          longitude: 23.1
+        -
+          name: "Garmen"
+          latitude: 41.6
+          longitude: 23.81667
+        -
+          name: "Gotse Delchev"
+          latitude: 41.56667
+          longitude: 23.73333
+        -
+          name: "Hadzhidimovo"
+          latitude: 41.52222
+          longitude: 23.86861
+        -
+          name: "Kolarovo"
+          latitude: 41.36385
+          longitude: 23.10669
+        -
+          name: "Kresna"
+          latitude: 41.73333
+          longitude: 23.15
+        -
+          name: "Obshtina Bansko"
+          latitude: 41.8
+          longitude: 23.6
+        -
+          name: "Obshtina Belitsa"
+          latitude: 42.01667
+          longitude: 23.58333
+        -
+          name: "Obshtina Blagoevgrad"
+          latitude: 42.01667
+          longitude: 23.16667
+        -
+          name: "Obshtina Garmen"
+          latitude: 41.7
+          longitude: 23.85
+        -
+          name: "Obshtina Gotse Delchev"
+          latitude: 41.63333
+          longitude: 23.68333
+        -
+          name: "Obshtina Kresna"
+          latitude: 41.76667
+          longitude: 23.23333
+        -
+          name: "Obshtina Petrich"
+          latitude: 41.45
+          longitude: 23.16667
+        -
+          name: "Obshtina Razlog"
+          latitude: 41.95
+          longitude: 23.46667
+        -
+          name: "Obshtina Sandanski"
+          latitude: 41.56667
+          longitude: 23.45
+        -
+          name: "Obshtina Satovcha"
+          latitude: 41.59848
+          longitude: 24.00781
+        -
+          name: "Obshtina Simitli"
+          latitude: 41.88333
+          longitude: 23.16667
+        -
+          name: "Obshtina Strumyani"
+          latitude: 41.63333
+          longitude: 23.2
+        -
+          name: "Obshtina Yakoruda"
+          latitude: 42.08333
+          longitude: 23.7
+        -
+          name: "Petrich"
+          latitude: 41.39846
+          longitude: 23.20702
+        -
+          name: "Razlog"
+          latitude: 41.8863
+          longitude: 23.46714
+        -
+          name: "Sandanski"
+          latitude: 41.56667
+          longitude: 23.28333
+        -
+          name: "Satovcha"
+          latitude: 41.61667
+          longitude: 23.98333
+        -
+          name: "Simitli"
+          latitude: 41.88333
+          longitude: 23.11667
+        -
+          name: "Stara Kresna"
+          latitude: 41.8
+          longitude: 23.18333
+        -
+          name: "Strumyani"
+          latitude: 41.6384659
+          longitude: 23.2021914
+        -
+          name: "Yakoruda"
+          latitude: 42.02528
+          longitude: 23.68417
+    -
+      name: "Burgas"
+      code: "02"
+      iso3166_2: "BG-02"
+      type: "district"
+      latitude: 42.4936616
+      longitude: 27.4721276
+      cities:
+        -
+          name: "Aheloy"
+          latitude: 42.64987
+          longitude: 27.64838
+        -
+          name: "Ahtopol"
+          latitude: 42.09768
+          longitude: 27.93961
+        -
+          name: "Aytos"
+          latitude: 42.7018865
+          longitude: 27.2520386
+        -
+          name: "Bata"
+          latitude: 42.73802
+          longitude: 27.49643
+        -
+          name: "Burgas"
+          latitude: 42.50606
+          longitude: 27.46781
+        -
+          name: "Chernomorets"
+          latitude: 42.44408
+          longitude: 27.63902
+        -
+          name: "Kameno"
+          latitude: 42.57084
+          longitude: 27.29875
+        -
+          name: "Karnobat"
+          latitude: 42.6498554
+          longitude: 26.9823125
+        -
+          name: "Kiten"
+          latitude: 42.23424
+          longitude: 27.7749
+        -
+          name: "Malko Tarnovo"
+          latitude: 41.97958
+          longitude: 27.52477
+        -
+          name: "Nesebar"
+          latitude: 42.65921
+          longitude: 27.73602
+        -
+          name: "Obshtina Aytos"
+          latitude: 42.7
+          longitude: 27.25
+        -
+          name: "Obshtina Burgas"
+          latitude: 42.5
+          longitude: 27.46667
+        -
+          name: "Obshtina Kameno"
+          latitude: 42.51667
+          longitude: 27.18333
+        -
+          name: "Obshtina Karnobat"
+          latitude: 42.65
+          longitude: 26.98333
+        -
+          name: "Obshtina Malko Tarnovo"
+          latitude: 42.08333
+          longitude: 27.53333
+        -
+          name: "Obshtina Nesebar"
+          latitude: 42.78333
+          longitude: 27.73333
+        -
+          name: "Obshtina Pomorie"
+          latitude: 42.73333
+          longitude: 27.55
+        -
+          name: "Obshtina Primorsko"
+          latitude: 42.25
+          longitude: 27.63333
+        -
+          name: "Obshtina Sozopol"
+          latitude: 42.31123
+          longitude: 27.51733
+        -
+          name: "Obshtina Sungurlare"
+          latitude: 42.83333
+          longitude: 26.83333
+        -
+          name: "Obzor"
+          latitude: 42.81998
+          longitude: 27.88007
+        -
+          name: "Pomorie"
+          latitude: 42.56326
+          longitude: 27.62986
+        -
+          name: "Primorsko"
+          latitude: 42.26791
+          longitude: 27.75611
+        -
+          name: "Ravda"
+          latitude: 42.64185
+          longitude: 27.67713
+        -
+          name: "Ruen"
+          latitude: 42.8
+          longitude: 27.28333
+        -
+          name: "Sarafovo"
+          latitude: 42.56079
+          longitude: 27.52195
+        -
+          name: "Sozopol"
+          latitude: 42.41801
+          longitude: 27.6956
+        -
+          name: "Sredets"
+          latitude: 42.34747
+          longitude: 27.17898
+        -
+          name: "Sungurlare"
+          latitude: 42.76667
+          longitude: 26.78333
+        -
+          name: "Sveti Vlas"
+          latitude: 42.7136
+          longitude: 27.75867
+        -
+          name: "Tsarevo"
+          latitude: 42.16955
+          longitude: 27.84541
+    -
+      name: "Dobrich"
+      code: "08"
+      iso3166_2: "BG-08"
+      type: "district"
+      latitude: 43.572786
+      longitude: 27.8272802
+      cities:
+        -
+          name: "Balchik"
+          latitude: 43.42166
+          longitude: 28.15848
+        -
+          name: "Dobrich"
+          latitude: 43.56667
+          longitude: 27.83333
+        -
+          name: "General Toshevo"
+          latitude: 43.70123
+          longitude: 28.03787
+        -
+          name: "Kavarna"
+          latitude: 43.43601
+          longitude: 28.33953
+        -
+          name: "Krushari"
+          latitude: 43.81675
+          longitude: 27.75552
+        -
+          name: "Obshtina Balchik"
+          latitude: 43.5
+          longitude: 28.13333
+        -
+          name: "Obshtina Dobrich"
+          latitude: 43.57763
+          longitude: 27.80628
+        -
+          name: "Obshtina Dobrich-Selska"
+          latitude: 43.63333
+          longitude: 27.73333
+        -
+          name: "Obshtina General Toshevo"
+          latitude: 43.73333
+          longitude: 28.08333
+        -
+          name: "Obshtina Kavarna"
+          latitude: 43.5
+          longitude: 28.38333
+        -
+          name: "Obshtina Krushari"
+          latitude: 43.88333
+          longitude: 27.75
+        -
+          name: "Obshtina Shabla"
+          latitude: 43.61667
+          longitude: 28.51667
+        -
+          name: "Obshtina Tervel"
+          latitude: 43.75
+          longitude: 27.4
+        -
+          name: "Shabla"
+          latitude: 43.53983
+          longitude: 28.53429
+        -
+          name: "Tervel"
+          latitude: 43.74789
+          longitude: 27.40911
+    -
+      name: "Gabrovo"
+      code: "07"
+      iso3166_2: "BG-07"
+      type: "district"
+      latitude: 42.86847
+      longitude: 25.316889
+      cities:
+        -
+          name: "Dryanovo"
+          latitude: 42.97897
+          longitude: 25.4785
+        -
+          name: "Gabrovo"
+          latitude: 42.87472
+          longitude: 25.33417
+        -
+          name: "Obshtina Dryanovo"
+          latitude: 43
+          longitude: 25.46667
+        -
+          name: "Obshtina Gabrovo"
+          latitude: 42.9
+          longitude: 25.3
+        -
+          name: "Obshtina Sevlievo"
+          latitude: 43.01667
+          longitude: 25.1
+        -
+          name: "Obshtina Tryavna"
+          latitude: 42.85
+          longitude: 25.55
+        -
+          name: "Sevlievo"
+          latitude: 43.02583
+          longitude: 25.11361
+        -
+          name: "Tryavna"
+          latitude: 42.86667
+          longitude: 25.5
+    -
+      name: "Haskovo"
+      code: "26"
+      iso3166_2: "BG-26"
+      type: "district"
+      latitude: 41.9344178
+      longitude: 25.5554672
+      cities:
+        -
+          name: "Dimitrovgrad"
+          latitude: 42.0582493
+          longitude: 25.5916466
+        -
+          name: "Harmanli"
+          latitude: 41.93333
+          longitude: 25.9
+        -
+          name: "Haskovo"
+          latitude: 41.93415
+          longitude: 25.55557
+        -
+          name: "Ivaylovgrad"
+          latitude: 41.52672
+          longitude: 26.1249
+        -
+          name: "Lyubimets"
+          latitude: 41.83333
+          longitude: 26.08333
+        -
+          name: "Madzharovo"
+          latitude: 41.63461
+          longitude: 25.86439
+        -
+          name: "Mineralni Bani"
+          latitude: 41.91667
+          longitude: 25.35
+        -
+          name: "Obshtina Dimitrovgrad"
+          latitude: 42.05
+          longitude: 25.6
+        -
+          name: "Obshtina Harmanli"
+          latitude: 41.93333
+          longitude: 25.98333
+        -
+          name: "Obshtina Haskovo"
+          latitude: 41.88333
+          longitude: 25.61667
+        -
+          name: "Obshtina Ivaylovgrad"
+          latitude: 41.48333
+          longitude: 26
+        -
+          name: "Obshtina Madzharovo"
+          latitude: 41.68333
+          longitude: 25.9
+        -
+          name: "Obshtina Mineralni Bani"
+          latitude: 41.9
+          longitude: 25.33333
+        -
+          name: "Obshtina Stambolovo"
+          latitude: 41.73333
+          longitude: 25.7
+        -
+          name: "Obshtina Svilengrad"
+          latitude: 41.86667
+          longitude: 26.31667
+        -
+          name: "Obshtina Topolovgrad"
+          latitude: 42.08333
+          longitude: 26.33333
+        -
+          name: "Simeonovgrad"
+          latitude: 42.03333
+          longitude: 25.83333
+        -
+          name: "Svilengrad"
+          latitude: 41.76667
+          longitude: 26.2
+        -
+          name: "Topolovgrad"
+          latitude: 42.0847397
+          longitude: 26.3320703
+    -
+      name: "Kardzhali"
+      code: "09"
+      iso3166_2: "BG-09"
+      type: "district"
+      latitude: 41.643746
+      longitude: 25.3722156
+      cities:
+        -
+          name: "Ardino"
+          latitude: 41.58333
+          longitude: 25.13333
+        -
+          name: "Dzhebel"
+          latitude: 41.49566
+          longitude: 25.30363
+        -
+          name: "Kardzhali"
+          latitude: 41.65
+          longitude: 25.36667
+        -
+          name: "Kirkovo"
+          latitude: 41.32715
+          longitude: 25.36379
+        -
+          name: "Krumovgrad"
+          latitude: 41.47127
+          longitude: 25.65485
+        -
+          name: "Obshtina Ardino"
+          latitude: 41.6
+          longitude: 25.15
+        -
+          name: "Obshtina Chernoochene"
+          latitude: 41.78333
+          longitude: 25.25
+        -
+          name: "Obshtina Dzhebel"
+          latitude: 41.5
+          longitude: 25.26667
+        -
+          name: "Obshtina Kardzhali"
+          latitude: 41.68333
+          longitude: 25.43333
+        -
+          name: "Obshtina Kirkovo"
+          latitude: 41.35816
+          longitude: 25.33731
+        -
+          name: "Obshtina Momchilgrad"
+          latitude: 41.53333
+          longitude: 25.5
+    -
+      name: "Kyustendil"
+      code: "10"
+      iso3166_2: "BG-10"
+      type: "district"
+      latitude: 42.2868799
+      longitude: 22.6939635
+      cities:
+        -
+          name: "Boboshevo"
+          latitude: 42.15296
+          longitude: 23.00146
+        -
+          name: "Bobov Dol"
+          latitude: 42.36256
+          longitude: 23.00324
+        -
+          name: "Dupnitsa"
+          latitude: 42.26667
+          longitude: 23.11667
+        -
+          name: "Kocherinovo"
+          latitude: 42.08439
+          longitude: 23.0571
+        -
+          name: "Kyustendil"
+          latitude: 42.28389
+          longitude: 22.69111
+        -
+          name: "Nevestino"
+          latitude: 42.25551
+          longitude: 22.85175
+        -
+          name: "Obshtina Boboshevo"
+          latitude: 42.18333
+          longitude: 23.02731
+        -
+          name: "Obshtina Bobov Dol"
+          latitude: 42.31667
+          longitude: 22.98333
+        -
+          name: "Obshtina Dupnitsa"
+          latitude: 42.28333
+          longitude: 23.15
+        -
+          name: "Obshtina Kocherinovo"
+          latitude: 42.09909
+          longitude: 23.02942
+        -
+          name: "Obshtina Kyustendil"
+          latitude: 42.28333
+          longitude: 22.68333
+        -
+          name: "Obshtina Nevestino"
+          latitude: 42.16667
+          longitude: 22.83333
+        -
+          name: "Obshtina Rila"
+          latitude: 42.15
+          longitude: 23.31667
+        -
+          name: "Obshtina Sapareva Banya"
+          latitude: 42.28333
+          longitude: 23.31667
+        -
+          name: "Obshtina Treklyano"
+          latitude: 42.55
+          longitude: 22.6
+        -
+          name: "Rila"
+          latitude: 42.13333
+          longitude: 23.13333
+        -
+          name: "Sapareva Banya"
+          latitude: 42.28333
+          longitude: 23.26667
+    -
+      name: "Lovech"
+      code: "11"
+      iso3166_2: "BG-11"
+      type: "district"
+      latitude: 43.1367798
+      longitude: 24.7139335
+      cities:
+        -
+          name: "Apriltsi"
+          latitude: 42.84142
+          longitude: 24.91759
+        -
+          name: "Letnitsa"
+          latitude: 43.31167
+          longitude: 25.07333
+        -
+          name: "Lovech"
+          latitude: 43.13333
+          longitude: 24.71667
+        -
+          name: "Lukovit"
+          latitude: 43.2
+          longitude: 24.16667
+        -
+          name: "Obshtina Lovech"
+          latitude: 43.16667
+          longitude: 24.8
+        -
+          name: "Obshtina Teteven"
+          latitude: 42.91667
+          longitude: 24.26667
+        -
+          name: "Obshtina Ugarchin"
+          latitude: 43.1
+          longitude: 24.41667
+        -
+          name: "Teteven"
+          latitude: 42.9178262
+          longitude: 24.2651138
+        -
+          name: "Troyan"
+          latitude: 42.89427
+          longitude: 24.71589
+        -
+          name: "Ugarchin"
+          latitude: 43.0960171
+          longitude: 24.4209919
+        -
+          name: "Yablanitsa"
+          latitude: 43.03139
+          longitude: 24.11278
+    -
+      name: "Montana"
+      code: "12"
+      iso3166_2: "BG-12"
+      type: "district"
+      latitude: 43.4085148
+      longitude: 23.2257589
+      cities:
+        -
+          name: "Berkovitsa"
+          latitude: 43.23581
+          longitude: 23.12738
+        -
+          name: "Boychinovtsi"
+          latitude: 43.47222
+          longitude: 23.33583
+        -
+          name: "Brusartsi"
+          latitude: 43.66075
+          longitude: 23.06732
+        -
+          name: "Chiprovtsi"
+          latitude: 43.38417
+          longitude: 22.88083
+        -
+          name: "Lom"
+          latitude: 43.82106
+          longitude: 23.23677
+        -
+          name: "Medkovets"
+          latitude: 43.62403
+          longitude: 23.16876
+        -
+          name: "Montana"
+          latitude: 43.4125
+          longitude: 23.225
+        -
+          name: "Obshtina Boychinovtsi"
+          latitude: 43.53333
+          longitude: 23.43333
+        -
+          name: "Obshtina Chiprovtsi"
+          latitude: 43.41667
+          longitude: 22.9
+        -
+          name: "Obshtina Georgi Damyanovo"
+          latitude: 43.35
+          longitude: 23
+        -
+          name: "Obshtina Lom"
+          latitude: 43.81667
+          longitude: 23.23333
+        -
+          name: "Obshtina Montana"
+          latitude: 43.46667
+          longitude: 23.2
+        -
+          name: "Obshtina Valchedram"
+          latitude: 43.71667
+          longitude: 23.51667
+        -
+          name: "Obshtina Varshets"
+          latitude: 43.21667
+          longitude: 23.33333
+        -
+          name: "Obshtina Yakimovo"
+          latitude: 43.63333
+          longitude: 23.33333
+        -
+          name: "Valchedram"
+          latitude: 43.69281
+          longitude: 23.44518
+        -
+          name: "Varshets"
+          latitude: 43.19356
+          longitude: 23.2868
+        -
+          name: "Yakimovo"
+          latitude: 43.63472
+          longitude: 23.3535
+    -
+      name: "Pazardzhik"
+      code: "13"
+      iso3166_2: "BG-13"
+      type: "district"
+      latitude: 42.1927567
+      longitude: 24.3336226
+      cities:
+        -
+          name: "Batak"
+          latitude: 41.94225
+          longitude: 24.21843
+        -
+          name: "Belovo"
+          latitude: 42.21239
+          longitude: 24.02081
+        -
+          name: "Bratsigovo"
+          latitude: 42.01667
+          longitude: 24.36667
+        -
+          name: "Lesichovo"
+          latitude: 42.35626
+          longitude: 24.1119
+        -
+          name: "Obshtina Batak"
+          latitude: 41.86667
+          longitude: 24.21667
+        -
+          name: "Obshtina Belovo"
+          latitude: 42.2
+          longitude: 23.93333
+        -
+          name: "Obshtina Bratsigovo"
+          latitude: 42
+          longitude: 24.4
+        -
+          name: "Obshtina Lesichovo"
+          latitude: 42.36667
+          longitude: 24.15
+        -
+          name: "Obshtina Panagyurishte"
+          latitude: 42.5
+          longitude: 24.16667
+        -
+          name: "Obshtina Pazardzhik"
+          latitude: 42.2
+          longitude: 24.33333
+        -
+          name: "Obshtina Peshtera"
+          latitude: 42.03333
+          longitude: 24.3
+        -
+          name: "Obshtina Rakitovo"
+          latitude: 41.99965
+          longitude: 24.10877
+        -
+          name: "Obshtina Septemvri"
+          latitude: 42.26667
+          longitude: 24.13333
+        -
+          name: "Obshtina Strelcha"
+          latitude: 42.46667
+          longitude: 24.36667
+        -
+          name: "Obshtina Velingrad"
+          latitude: 41.96667
+          longitude: 23.93333
+        -
+          name: "Panagyurishte"
+          latitude: 42.49518
+          longitude: 24.19021
+        -
+          name: "Pazardzhik"
+          latitude: 42.1884549
+          longitude: 24.3318993
+        -
+          name: "Peshtera"
+          latitude: 42.03372
+          longitude: 24.29995
+        -
+          name: "Rakitovo"
+          latitude: 41.99012
+          longitude: 24.0873
+        -
+          name: "Sarnitsa"
+          latitude: 41.73835
+          longitude: 24.02435
+        -
+          name: "Sarnitsa Obshtina"
+          latitude: 41.73333
+          longitude: 24.03333
+        -
+          name: "Septemvri"
+          latitude: 42.21138
+          longitude: 24.12946
+        -
+          name: "Strelcha"
+          latitude: 42.5
+          longitude: 24.31667
+        -
+          name: "Velingrad"
+          latitude: 42.02754
+          longitude: 23.99155
+    -
+      name: "Pernik"
+      code: "14"
+      iso3166_2: "BG-14"
+      type: "district"
+      latitude: 42.605199
+      longitude: 23.0377916
+      cities:
+        -
+          name: "Batanovtsi"
+          latitude: 42.59692
+          longitude: 22.95634
+        -
+          name: "Breznik"
+          latitude: 42.74085
+          longitude: 22.90723
+        -
+          name: "Obshtina Kovachevtsi"
+          latitude: 42.55
+          longitude: 22.83333
+        -
+          name: "Obshtina Pernik"
+          latitude: 42.61667
+          longitude: 23.08333
+        -
+          name: "Obshtina Radomir"
+          latitude: 42.46667
+          longitude: 23.01667
+        -
+          name: "Obshtina Zemen"
+          latitude: 42.55067
+          longitude: 22.7144
+        -
+          name: "Pernik"
+          latitude: 42.6
+          longitude: 23.03333
+        -
+          name: "Radomir"
+          latitude: 42.54565
+          longitude: 22.96553
+        -
+          name: "Tran"
+          latitude: 42.83528
+          longitude: 22.65167
+        -
+          name: "Zemen"
+          latitude: 42.47889
+          longitude: 22.74917
+    -
+      name: "Pleven"
+      code: "15"
+      iso3166_2: "BG-15"
+      type: "district"
+      latitude: 43.409022
+      longitude: 24.6180123
+      cities:
+        -
+          name: "Belene"
+          latitude: 43.64594
+          longitude: 25.12627
+        -
+          name: "Cherven Bryag"
+          latitude: 43.26667
+          longitude: 24.1
+        -
+          name: "Dolna Mitropolia"
+          latitude: 43.46667
+          longitude: 24.53333
+        -
+          name: "Dolni Dabnik"
+          latitude: 43.4
+          longitude: 24.43333
+        -
+          name: "Gulyantsi"
+          latitude: 43.64109
+          longitude: 24.69368
+        -
+          name: "Iskar"
+          latitude: 43.45
+          longitude: 24.26667
+        -
+          name: "Knezha"
+          latitude: 43.5
+          longitude: 24.08333
+        -
+          name: "Koynare"
+          latitude: 43.35
+          longitude: 24.13333
+        -
+          name: "Levski"
+          latitude: 43.36667
+          longitude: 25.13333
+        -
+          name: "Nikopol"
+          latitude: 43.70528
+          longitude: 24.89521
+        -
+          name: "Obshtina Belene"
+          latitude: 43.63333
+          longitude: 25.13333
+        -
+          name: "Obshtina Cherven Bryag"
+          latitude: 43.33333
+          longitude: 24.13333
+        -
+          name: "Obshtina Dolna Mitropolia"
+          latitude: 43.58333
+          longitude: 24.41667
+        -
+          name: "Obshtina Dolni Dabnik"
+          latitude: 43.36667
+          longitude: 24.41667
+        -
+          name: "Obshtina Gulyantsi"
+          latitude: 43.68333
+          longitude: 24.65
+        -
+          name: "Obshtina Iskar"
+          latitude: 43.5
+          longitude: 24.28333
+        -
+          name: "Obshtina Knezha"
+          latitude: 43.5
+          longitude: 24.11667
+        -
+          name: "Obshtina Levski"
+          latitude: 43.43333
+          longitude: 25.1
+        -
+          name: "Obshtina Nikopol"
+          latitude: 43.6
+          longitude: 24.93333
+        -
+          name: "Obshtina Pleven"
+          latitude: 43.4
+          longitude: 24.7
+        -
+          name: "Obshtina Pordim"
+          latitude: 43.38333
+          longitude: 24.9
+        -
+          name: "Pleven"
+          latitude: 43.41667
+          longitude: 24.61667
+        -
+          name: "Pordim"
+          latitude: 43.38333
+          longitude: 24.85
+        -
+          name: "Slavyanovo"
+          latitude: 43.46667
+          longitude: 24.86667
+    -
+      name: "Plovdiv"
+      code: "16"
+      iso3166_2: "BG-16"
+      type: "district"
+      latitude: 42.1354079
+      longitude: 24.7452904
+      cities:
+        -
+          name: "Asenovgrad"
+          latitude: 42.01667
+          longitude: 24.86667
+        -
+          name: "Brezovo"
+          latitude: 42.35
+          longitude: 25.08333
+        -
+          name: "Hisarya"
+          latitude: 42.5
+          longitude: 24.7
+        -
+          name: "Kalofer"
+          latitude: 42.61667
+          longitude: 24.98333
+        -
+          name: "Kaloyanovo"
+          latitude: 42.35
+          longitude: 24.73333
+        -
+          name: "Karlovo"
+          latitude: 42.63333
+          longitude: 24.8
+        -
+          name: "Klisura"
+          latitude: 42.7
+          longitude: 24.45
+        -
+          name: "Krichim"
+          latitude: 42.05
+          longitude: 24.46667
+        -
+          name: "Laki"
+          latitude: 41.85
+          longitude: 24.81667
+        -
+          name: "Obshtina Asenovgrad"
+          latitude: 41.95
+          longitude: 24.96667
+        -
+          name: "Obshtina Hisarya"
+          latitude: 42.5
+          longitude: 24.6
+        -
+          name: "Obshtina Kaloyanovo"
+          latitude: 42.38333
+          longitude: 24.81667
+        -
+          name: "Obshtina Karlovo"
+          latitude: 42.68333
+          longitude: 24.66667
+        -
+          name: "Obshtina Krichim"
+          latitude: 42.00439
+          longitude: 24.47235
+        -
+          name: "Obshtina Kuklen"
+          latitude: 42.03725
+          longitude: 24.77949
+        -
+          name: "Obshtina Laki"
+          latitude: 41.81667
+          longitude: 24.85
+        -
+          name: "Obshtina Maritsa"
+          latitude: 42.23333
+          longitude: 24.8
+        -
+          name: "Obshtina Parvomay"
+          latitude: 42.03333
+          longitude: 25.2
+        -
+          name: "Obshtina Perushtitsa"
+          latitude: 42.06667
+          longitude: 24.55
+        -
+          name: "Obshtina Plovdiv"
+          latitude: 42.15
+          longitude: 24.75
+        -
+          name: "Obshtina Rakovski"
+          latitude: 42.26667
+          longitude: 24.98333
+        -
+          name: "Obshtina Rodopi"
+          latitude: 42.03333
+          longitude: 24.68333
+        -
+          name: "Obshtina Sadovo"
+          latitude: 42.13333
+          longitude: 25
+        -
+          name: "Obshtina Saedinenie"
+          latitude: 42.31667
+          longitude: 24.58333
+        -
+          name: "Obshtina Sopot"
+          latitude: 42.65214
+          longitude: 24.7431
+        -
+          name: "Obshtina Stamboliyski"
+          latitude: 42.11667
+          longitude: 24.51667
+        -
+          name: "Parvomay"
+          latitude: 42.1
+          longitude: 25.21667
+        -
+          name: "Perushtitsa"
+          latitude: 42.05
+          longitude: 24.55
+        -
+          name: "Plovdiv"
+          latitude: 42.1418541
+          longitude: 24.7499297
+        -
+          name: "Rakovski"
+          latitude: 42.27408
+          longitude: 24.94083
+        -
+          name: "Sadovo"
+          latitude: 42.13178
+          longitude: 24.93999
+        -
+          name: "Saedinenie"
+          latitude: 42.26667
+          longitude: 24.55
+        -
+          name: "Stamboliyski"
+          latitude: 42.13333
+          longitude: 24.53333
+        -
+          name: "Topolovo"
+          latitude: 41.9
+          longitude: 25
+    -
+      name: "Razgrad"
+      code: "17"
+      iso3166_2: "BG-17"
+      type: "district"
+      latitude: 43.5271705
+      longitude: 26.5241228
+      cities:
+        -
+          name: "Isperih"
+          latitude: 43.7168724
+          longitude: 26.8301419
+        -
+          name: "Kubrat"
+          latitude: 43.79658
+          longitude: 26.50063
+        -
+          name: "Loznitsa"
+          latitude: 43.36667
+          longitude: 26.6
+        -
+          name: "Medovene"
+          latitude: 43.76667
+          longitude: 26.51667
+        -
+          name: "Obshtina Isperih"
+          latitude: 43.71667
+          longitude: 26.83333
+        -
+          name: "Obshtina Kubrat"
+          latitude: 43.86667
+          longitude: 26.48333
+        -
+          name: "Obshtina Loznitsa"
+          latitude: 43.41667
+          longitude: 26.58333
+        -
+          name: "Obshtina Razgrad"
+          latitude: 43.53333
+          longitude: 26.51667
+        -
+          name: "Obshtina Samuil"
+          latitude: 43.6
+          longitude: 26.8
+        -
+          name: "Obshtina Tsar Kaloyan"
+          latitude: 43.6
+          longitude: 26.21667
+        -
+          name: "Obshtina Zavet"
+          latitude: 43.76667
+          longitude: 26.68333
+        -
+          name: "Razgrad"
+          latitude: 43.5258211
+          longitude: 26.5230603
+        -
+          name: "Samuil"
+          latitude: 43.51667
+          longitude: 26.75
+        -
+          name: "Tsar Kaloyan"
+          latitude: 43.61667
+          longitude: 26.25
+        -
+          name: "Zavet"
+          latitude: 43.76036
+          longitude: 26.68063
+    -
+      name: "Ruse"
+      code: "18"
+      iso3166_2: "BG-18"
+      type: "district"
+      latitude: 43.8355964
+      longitude: 25.9656144
+      cities:
+        -
+          name: "Borovo"
+          latitude: 43.50086
+          longitude: 25.80992
+        -
+          name: "Dve Mogili"
+          latitude: 43.59258
+          longitude: 25.87486
+        -
+          name: "Ivanovo"
+          latitude: 43.68568
+          longitude: 25.95565
+        -
+          name: "Obshtina Borovo"
+          latitude: 43.6
+          longitude: 25.8
+        -
+          name: "Obshtina Byala"
+          latitude: 43.41667
+          longitude: 25.83333
+        -
+          name: "Obshtina Dve Mogili"
+          latitude: 43.51667
+          longitude: 25.96667
+        -
+          name: "Obshtina Ivanovo"
+          latitude: 43.7
+          longitude: 25.98333
+        -
+          name: "Obshtina Ruse"
+          latitude: 43.85
+          longitude: 26.08333
+        -
+          name: "Obshtina Slivo Pole"
+          latitude: 43.96667
+          longitude: 26.3
+        -
+          name: "Obshtina Tsenovo"
+          latitude: 43.58333
+          longitude: 25.61667
+        -
+          name: "Obshtina Vetovo"
+          latitude: 43.71667
+          longitude: 26.33333
+        -
+          name: "Ruse"
+          latitude: 43.84872
+          longitude: 25.9534
+        -
+          name: "Senovo"
+          latitude: 43.65
+          longitude: 26.36667
+        -
+          name: "Slivo Pole"
+          latitude: 43.94248
+          longitude: 26.20464
+        -
+          name: "Tsenovo"
+          latitude: 43.53588
+          longitude: 25.65764
+        -
+          name: "Vetovo"
+          latitude: 43.7
+          longitude: 26.26667
+    -
+      name: "Shumen"
+      code: "27"
+      iso3166_2: "BG-27"
+      type: "district"
+      latitude: 43.2712398
+      longitude: 26.9361286
+      cities:
+        -
+          name: "Shumen"
+          latitude: 43.283333
+          longitude: 26.933333
+    -
+      name: "Silistra"
+      code: "19"
+      iso3166_2: "BG-19"
+      type: "district"
+      latitude: 44.1147101
+      longitude: 27.2671454
+      cities:
+        -
+          name: "Alfatar"
+          latitude: 43.94525
+          longitude: 27.28751
+        -
+          name: "Dulovo"
+          latitude: 43.81667
+          longitude: 27.15
+        -
+          name: "Glavinitsa"
+          latitude: 43.91667
+          longitude: 26.83333
+        -
+          name: "Kaynardzha"
+          latitude: 43.99278
+          longitude: 27.50713
+        -
+          name: "Obshtina Alfatar"
+          latitude: 43.9
+          longitude: 27.33333
+        -
+          name: "Obshtina Dulovo"
+          latitude: 43.81667
+          longitude: 27.08333
+        -
+          name: "Obshtina Glavinitsa"
+          latitude: 43.95
+          longitude: 26.85
+        -
+          name: "Obshtina Kaynardzha"
+          latitude: 43.95
+          longitude: 27.53333
+        -
+          name: "Obshtina Silistra"
+          latitude: 44.03333
+          longitude: 27.2
+        -
+          name: "Obshtina Sitovo"
+          latitude: 44.01667
+          longitude: 27
+        -
+          name: "Obshtina Tutrakan"
+          latitude: 44
+          longitude: 26.6
+        -
+          name: "Silistra"
+          latitude: 44.1171
+          longitude: 27.26056
+        -
+          name: "Sitovo"
+          latitude: 44.0273
+          longitude: 27.01982
+        -
+          name: "Tutrakan"
+          latitude: 44.04906
+          longitude: 26.61206
+    -
+      name: "Sliven"
+      code: "20"
+      iso3166_2: "BG-20"
+      type: "district"
+      latitude: 42.6816702
+      longitude: 26.3228569
+      cities:
+        -
+          name: "Kermen"
+          latitude: 42.5
+          longitude: 26.25
+        -
+          name: "Kotel"
+          latitude: 42.8873776
+          longitude: 26.4491598
+        -
+          name: "Nova Zagora"
+          latitude: 42.48333
+          longitude: 26.01667
+        -
+          name: "Obshtina Kotel"
+          latitude: 42.88333
+          longitude: 26.45
+        -
+          name: "Obshtina Nova Zagora"
+          latitude: 42.45
+          longitude: 26.05
+        -
+          name: "Obshtina Sliven"
+          latitude: 42.66667
+          longitude: 26.31667
+        -
+          name: "Obshtina Tvarditsa"
+          latitude: 42.73333
+          longitude: 26
+        -
+          name: "Sliven"
+          latitude: 42.68583
+          longitude: 26.32917
+        -
+          name: "Tvarditsa"
+          latitude: 42.7
+          longitude: 25.9
+    -
+      name: "Smolyan"
+      code: "21"
+      iso3166_2: "BG-21"
+      type: "district"
+      latitude: 41.5774148
+      longitude: 24.7010871
+      cities:
+        -
+          name: "Banite"
+          latitude: 41.61667
+          longitude: 25.01667
+        -
+          name: "Borino"
+          latitude: 41.68408
+          longitude: 24.293
+        -
+          name: "Chepelare"
+          latitude: 41.73333
+          longitude: 24.68333
+        -
+          name: "Devin"
+          latitude: 41.74327
+          longitude: 24.40003
+        -
+          name: "Dospat"
+          latitude: 41.64462
+          longitude: 24.15857
+        -
+          name: "Gyovren"
+          latitude: 41.66326
+          longitude: 24.37557
+        -
+          name: "Madan"
+          latitude: 41.49869
+          longitude: 24.93973
+        -
+          name: "Nedelino"
+          latitude: 41.45602
+          longitude: 25.08008
+        -
+          name: "Obshtina Banite"
+          latitude: 41.7
+          longitude: 25
+        -
+          name: "Obshtina Borino"
+          latitude: 41.64834
+          longitude: 24.31694
+        -
+          name: "Obshtina Chepelare"
+          latitude: 41.8
+          longitude: 24.68333
+        -
+          name: "Obshtina Devin"
+          latitude: 41.74346
+          longitude: 24.40192
+        -
+          name: "Obshtina Dospat"
+          latitude: 41.63228
+          longitude: 24.18765
+        -
+          name: "Obshtina Madan"
+          latitude: 41.53333
+          longitude: 24.96667
+        -
+          name: "Obshtina Nedelino"
+          latitude: 41.46894
+          longitude: 25.09481
+        -
+          name: "Obshtina Rudozem"
+          latitude: 41.45439
+          longitude: 24.8369
+        -
+          name: "Obshtina Smolyan"
+          latitude: 41.57516
+          longitude: 24.71302
+        -
+          name: "Obshtina Zlatograd"
+          latitude: 41.40028
+          longitude: 25.04591
+        -
+          name: "Rudozem"
+          latitude: 41.48751
+          longitude: 24.84945
+        -
+          name: "Smolyan"
+          latitude: 41.57439
+          longitude: 24.71204
+        -
+          name: "Zlatograd"
+          latitude: 41.3795
+          longitude: 25.09605
+    -
+      name: "Sofia"
+      code: "23"
+      iso3166_2: "BG-23"
+      type: "district"
+      latitude: 42.64191
+      longitude: 23.9735632
+      cities:
+        -
+          name: "Anton"
+          latitude: 42.75
+          longitude: 24.28333
+        -
+          name: "Botevgrad"
+          latitude: 42.9
+          longitude: 23.78333
+        -
+          name: "Bozhurishte"
+          latitude: 42.75
+          longitude: 23.2
+        -
+          name: "Chavdar"
+          latitude: 42.65
+          longitude: 24.05
+        -
+          name: "Chelopech"
+          latitude: 42.7
+          longitude: 24.08333
+        -
+          name: "Dolna Banya"
+          latitude: 42.3108246
+          longitude: 23.7645019
+        -
+          name: "Dragoman"
+          latitude: 42.92191
+          longitude: 22.93109
+        -
+          name: "Elin Pelin"
+          latitude: 42.6691132
+          longitude: 23.6021426
+        -
+          name: "Etropole"
+          latitude: 42.83333
+          longitude: 24
+        -
+          name: "Godech"
+          latitude: 43.01682
+          longitude: 23.04852
+        -
+          name: "Gorna Malina"
+          latitude: 42.68333
+          longitude: 23.7
+        -
+          name: "Ihtiman"
+          latitude: 42.43333
+          longitude: 23.81667
+        -
+          name: "Koprivshtitsa"
+          latitude: 42.63333
+          longitude: 24.35
+        -
+          name: "Kostinbrod"
+          latitude: 42.81667
+          longitude: 23.21667
+        -
+          name: "Lakatnik"
+          latitude: 43.05
+          longitude: 23.4
+        -
+          name: "Mirkovo"
+          latitude: 42.7
+          longitude: 23.98333
+        -
+          name: "Obshtina Anton"
+          latitude: 42.76667
+          longitude: 24.3
+        -
+          name: "Obshtina Botevgrad"
+          latitude: 42.95
+          longitude: 23.75
+        -
+          name: "Obshtina Bozhurishte"
+          latitude: 42.78333
+          longitude: 23.11667
+        -
+          name: "Obshtina Chavdar"
+          latitude: 42.61667
+          longitude: 24.08333
+        -
+          name: "Obshtina Chelopech"
+          latitude: 42.71667
+          longitude: 24.06667
+        -
+          name: "Obshtina Dolna Banya"
+          latitude: 42.3113902
+          longitude: 23.7656809
+        -
+          name: "Obshtina Dragoman"
+          latitude: 42.93333
+          longitude: 22.93333
+        -
+          name: "Obshtina Elin Pelin"
+          latitude: 42.66667
+          longitude: 23.6
+        -
+          name: "Obshtina Etropole"
+          latitude: 42.85
+          longitude: 24.03333
+        -
+          name: "Obshtina Gorna Malina"
+          latitude: 42.71667
+          longitude: 23.8
+        -
+          name: "Obshtina Koprivshtitsa"
+          latitude: 42.61667
+          longitude: 24.38333
+        -
+          name: "Obshtina Kostenets"
+          latitude: 42.3
+          longitude: 23.86667
+        -
+          name: "Obshtina Kostinbrod"
+          latitude: 42.88333
+          longitude: 23.2
+        -
+          name: "Obshtina Mirkovo"
+          latitude: 42.66667
+          longitude: 23.96667
+        -
+          name: "Obshtina Pirdop"
+          latitude: 42.7
+          longitude: 24.23333
+        -
+          name: "Obshtina Pravets"
+          latitude: 42.96667
+          longitude: 23.98333
+        -
+          name: "Obshtina Samokov"
+          latitude: 42.33333
+          longitude: 23.55
+        -
+          name: "Obshtina Slivnitsa"
+          latitude: 42.85
+          longitude: 22.98333
+        -
+          name: "Obshtina Svoge"
+          latitude: 43
+          longitude: 23.4
+        -
+          name: "Obshtina Zlatitsa"
+          latitude: 42.7
+          longitude: 24.13333
+        -
+          name: "Pirdop"
+          latitude: 42.7
+          longitude: 24.18333
+        -
+          name: "Pravets"
+          latitude: 42.88333
+          longitude: 23.91667
+        -
+          name: "Samokov"
+          latitude: 42.337
+          longitude: 23.5528
+        -
+          name: "Slivnitsa"
+          latitude: 42.85182
+          longitude: 23.03792
+        -
+          name: "Svoge"
+          latitude: 42.96667
+          longitude: 23.35
+        -
+          name: "Zlatitsa"
+          latitude: 42.71667
+          longitude: 24.13333
+    -
+      name: "Sofia City"
+      code: "22"
+      iso3166_2: "BG-22"
+      type: "district"
+      latitude: 42.654318
+      longitude: 23.3331572
+      cities:
+        -
+          name: "Buhovo"
+          latitude: 42.76667
+          longitude: 23.56667
+        -
+          name: "Sofia"
+          latitude: 42.69751
+          longitude: 23.32415
+        -
+          name: "Stolichna Obshtina"
+          latitude: 42.68647
+          longitude: 23.30561
+    -
+      name: "Stara Zagora"
+      code: "24"
+      iso3166_2: "BG-24"
+      type: "district"
+      latitude: 42.4257709
+      longitude: 25.6344855
+      cities:
+        -
+          name: "Asen"
+          latitude: 42.65
+          longitude: 25.2
+        -
+          name: "Chirpan"
+          latitude: 42.2
+          longitude: 25.33333
+        -
+          name: "Gŭlŭbovo"
+          latitude: 42.13333
+          longitude: 25.85
+        -
+          name: "Gurkovo"
+          latitude: 42.66667
+          longitude: 25.8
+        -
+          name: "Kazanlak"
+          latitude: 42.61667
+          longitude: 25.4
+        -
+          name: "Maglizh"
+          latitude: 42.6
+          longitude: 25.55
+        -
+          name: "Nikolaevo"
+          latitude: 42.63333
+          longitude: 25.8
+        -
+          name: "Obshtina Bratya Daskalovi"
+          latitude: 42.3
+          longitude: 25.21667
+        -
+          name: "Obshtina Chirpan"
+          latitude: 42.23333
+          longitude: 25.38333
+        -
+          name: "Obshtina Galabovo"
+          latitude: 42.15
+          longitude: 25.96667
+        -
+          name: "Obshtina Gurkovo"
+          latitude: 42.71667
+          longitude: 25.8
+        -
+          name: "Obshtina Kazanlŭk"
+          latitude: 42.61943
+          longitude: 25.39885
+        -
+          name: "Obshtina Maglizh"
+          latitude: 42.63333
+          longitude: 25.61667
+        -
+          name: "Obshtina Nikolaevo"
+          latitude: 42.6
+          longitude: 25.78333
+        -
+          name: "Obshtina Opan"
+          latitude: 42.21667
+          longitude: 25.7
+        -
+          name: "Obshtina Pavel Banya"
+          latitude: 42.63333
+          longitude: 25.13333
+        -
+          name: "Obshtina Radnevo"
+          latitude: 42.3
+          longitude: 25.93333
+        -
+          name: "Obshtina Stara Zagora"
+          latitude: 42.41667
+          longitude: 25.63333
+        -
+          name: "Pavel Banya"
+          latitude: 42.6
+          longitude: 25.2
+        -
+          name: "Radnevo"
+          latitude: 42.2890477
+          longitude: 25.9338724
+        -
+          name: "Shipka"
+          latitude: 42.71667
+          longitude: 25.33333
+        -
+          name: "Stara Zagora"
+          latitude: 42.43278
+          longitude: 25.64194
+    -
+      name: "Targovishte"
+      code: "25"
+      iso3166_2: "BG-25"
+      type: "district"
+      latitude: 43.2462349
+      longitude: 26.5691251
+      cities:
+        -
+          name: "Antonovo"
+          latitude: 43.15
+          longitude: 26.16667
+        -
+          name: "Obshtina Antonovo"
+          latitude: 43.11667
+          longitude: 26.2
+        -
+          name: "Obshtina Omurtag"
+          latitude: 43.08333
+          longitude: 26.48333
+        -
+          name: "Obshtina Opaka"
+          latitude: 43.46667
+          longitude: 26.15
+        -
+          name: "Obshtina Popovo"
+          latitude: 43.35
+          longitude: 26.23333
+        -
+          name: "Obshtina Targovishte"
+          latitude: 43.25
+          longitude: 26.56667
+        -
+          name: "Omurtag"
+          latitude: 43.1
+          longitude: 26.41667
+        -
+          name: "Opaka"
+          latitude: 43.45
+          longitude: 26.16667
+        -
+          name: "Popovo"
+          latitude: 43.3481473
+          longitude: 26.2271967
+        -
+          name: "Targovishte"
+          latitude: 43.2512
+          longitude: 26.57215
+    -
+      name: "Varna"
+      code: "03"
+      iso3166_2: "BG-03"
+      type: "district"
+      latitude: 43.2046477
+      longitude: 27.9105488
+      cities:
+        -
+          name: "Aksakovo"
+          latitude: 43.25615
+          longitude: 27.82105
+        -
+          name: "Asparuhovo"
+          latitude: 43.18067
+          longitude: 27.88823
+        -
+          name: "Balgarevo"
+          latitude: 43.40296
+          longitude: 28.41189
+        -
+          name: "Beloslav"
+          latitude: 43.1896
+          longitude: 27.70429
+        -
+          name: "Byala"
+          latitude: 42.87426
+          longitude: 27.88865
+        -
+          name: "Dalgopol"
+          latitude: 43.0526157
+          longitude: 27.3460079
+        -
+          name: "Devnya"
+          latitude: 43.22222
+          longitude: 27.56944
+        -
+          name: "Dolni Chiflik"
+          latitude: 42.99296
+          longitude: 27.71596
+        -
+          name: "Kiten"
+          latitude: 43.08333
+          longitude: 27.31667
+        -
+          name: "Obshtina Aksakovo"
+          latitude: 43.31667
+          longitude: 27.85
+        -
+          name: "Obshtina Avren"
+          latitude: 43.1
+          longitude: 27.71667
+        -
+          name: "Obshtina Beloslav"
+          latitude: 43.2
+          longitude: 27.73333
+        -
+          name: "Obshtina Byala"
+          latitude: 42.88333
+          longitude: 27.81667
+        -
+          name: "Obshtina Dalgopol"
+          latitude: 43.05
+          longitude: 27.35
+        -
+          name: "Obshtina Devnya"
+          latitude: 43.22056
+          longitude: 27.60052
+        -
+          name: "Obshtina Dolni Chiflik"
+          latitude: 42.96667
+          longitude: 27.68333
+        -
+          name: "Obshtina Provadia"
+          latitude: 43.18333
+          longitude: 27.4
+        -
+          name: "Obshtina Suvorovo"
+          latitude: 43.33333
+          longitude: 27.65
+        -
+          name: "Obshtina Valchidol"
+          latitude: 43.45
+          longitude: 27.5
+        -
+          name: "Obshtina Varna"
+          latitude: 43.21667
+          longitude: 27.91667
+        -
+          name: "Obshtina Vetrino"
+          latitude: 43.31667
+          longitude: 27.43333
+        -
+          name: "Provadia"
+          latitude: 43.18333
+          longitude: 27.43333
+        -
+          name: "Suvorovo"
+          latitude: 43.33058
+          longitude: 27.59908
+        -
+          name: "Valchidol"
+          latitude: 43.4
+          longitude: 27.55
+        -
+          name: "Varna"
+          latitude: 43.2073873
+          longitude: 27.9166653
+        -
+          name: "Vetrino"
+          latitude: 43.3410065
+          longitude: 27.3861108
+        -
+          name: "Zlatni Pyasatsi"
+          latitude: 43.285
+          longitude: 28.0418
+    -
+      name: "Veliko Tarnovo"
+      code: "04"
+      iso3166_2: "BG-04"
+      type: "district"
+      latitude: 43.0820584
+      longitude: 25.6321312
+      cities:
+        -
+          name: "Byala Cherkva"
+          latitude: 43.2
+          longitude: 25.3
+        -
+          name: "Debelets"
+          latitude: 43.03333
+          longitude: 25.61667
+        -
+          name: "Elena"
+          latitude: 42.93333
+          longitude: 25.88333
+        -
+          name: "Gorna Oryahovitsa"
+          latitude: 43.12778
+          longitude: 25.70167
+        -
+          name: "Kilifarevo"
+          latitude: 42.98333
+          longitude: 25.63333
+        -
+          name: "Lyaskovets"
+          latitude: 43.11111
+          longitude: 25.72833
+        -
+          name: "Obshtina Elena"
+          latitude: 42.91667
+          longitude: 25.95
+        -
+          name: "Obshtina Gorna Oryahovitsa"
+          latitude: 43.21667
+          longitude: 25.75
+        -
+          name: "Obshtina Lyaskovets"
+          latitude: 43.13333
+          longitude: 25.85
+        -
+          name: "Obshtina Pavlikeni"
+          latitude: 43.28333
+          longitude: 25.35
+        -
+          name: "Obshtina Polski Trambesh"
+          latitude: 43.35
+          longitude: 25.58333
+        -
+          name: "Obshtina Strazhitsa"
+          latitude: 43.26667
+          longitude: 25.98333
+        -
+          name: "Obshtina Suhindol"
+          latitude: 43.16667
+          longitude: 25.2
+        -
+          name: "Obshtina Svishtov"
+          latitude: 43.53333
+          longitude: 25.35
+        -
+          name: "Obshtina Veliko Tŭrnovo"
+          latitude: 43.08241
+          longitude: 25.63202
+        -
+          name: "Obshtina Zlataritsa"
+          latitude: 43.06667
+          longitude: 25.98333
+        -
+          name: "Parvomaytsi"
+          latitude: 43.15
+          longitude: 25.65
+        -
+          name: "Pavlikeni"
+          latitude: 43.24278
+          longitude: 25.32194
+        -
+          name: "Polski Trambesh"
+          latitude: 43.37233
+          longitude: 25.63525
+        -
+          name: "Strazhitsa"
+          latitude: 43.23333
+          longitude: 25.96667
+        -
+          name: "Suhindol"
+          latitude: 43.19167
+          longitude: 25.18111
+        -
+          name: "Svishtov"
+          latitude: 43.61875
+          longitude: 25.35033
+        -
+          name: "Veliko Tŭrnovo"
+          latitude: 43.08124
+          longitude: 25.62904
+        -
+          name: "Zlataritsa"
+          latitude: 43.05
+          longitude: 25.9
+    -
+      name: "Vidin"
+      code: "05"
+      iso3166_2: "BG-05"
+      type: "district"
+      latitude: 43.9857242
+      longitude: 22.8772194
+      cities:
+        -
+          name: "Belogradchik"
+          latitude: 43.62722
+          longitude: 22.68361
+        -
+          name: "Boynitsa"
+          latitude: 43.9565
+          longitude: 22.53255
+        -
+          name: "Bregovo"
+          latitude: 44.15167
+          longitude: 22.6425
+        -
+          name: "Chuprene"
+          latitude: 43.51806
+          longitude: 22.66611
+        -
+          name: "Dimovo"
+          latitude: 43.74167
+          longitude: 22.72694
+        -
+          name: "Drenovets"
+          latitude: 43.69134
+          longitude: 22.97365
+        -
+          name: "Dunavtsi"
+          latitude: 43.92111
+          longitude: 22.82111
+        -
+          name: "Gramada"
+          latitude: 43.83738
+          longitude: 22.65279
+        -
+          name: "Kula"
+          latitude: 43.88833
+          longitude: 22.52139
+        -
+          name: "Makresh"
+          latitude: 43.76794
+          longitude: 22.66406
+        -
+          name: "Novo Selo"
+          latitude: 44.16214
+          longitude: 22.78376
+        -
+          name: "Obshtina Belogradchik"
+          latitude: 43.65
+          longitude: 22.6
+        -
+          name: "Obshtina Boynitsa"
+          latitude: 44
+          longitude: 22.55
+        -
+          name: "Obshtina Dimovo"
+          latitude: 43.75
+          longitude: 22.81667
+        -
+          name: "Obshtina Gramada"
+          latitude: 43.83333
+          longitude: 22.65
+        -
+          name: "Obshtina Kula"
+          latitude: 43.9
+          longitude: 22.56667
+        -
+          name: "Obshtina Ruzhintsi"
+          latitude: 43.65
+          longitude: 22.9
+        -
+          name: "Obshtina Vidin"
+          latitude: 44
+          longitude: 22.83333
+        -
+          name: "Ruzhintsi"
+          latitude: 43.62179
+          longitude: 22.83286
+        -
+          name: "Vidin"
+          latitude: 43.99159
+          longitude: 22.88236
+    -
+      name: "Vratsa"
+      code: "06"
+      iso3166_2: "BG-06"
+      type: "district"
+      latitude: 43.2101806
+      longitude: 23.552921
+      cities:
+        -
+          name: "Borovan"
+          latitude: 43.446358
+          longitude: 23.7354316
+        -
+          name: "Byala Slatina"
+          latitude: 43.46667
+          longitude: 23.93333
+        -
+          name: "Hayredin"
+          latitude: 43.60193
+          longitude: 23.66135
+        -
+          name: "Kozloduy"
+          latitude: 43.77864
+          longitude: 23.72058
+        -
+          name: "Krivodol"
+          latitude: 43.37444
+          longitude: 23.48444
+        -
+          name: "Mezdra"
+          latitude: 43.15
+          longitude: 23.7
+        -
+          name: "Mizia"
+          latitude: 43.68623
+          longitude: 23.85371
+        -
+          name: "Obshtina Borovan"
+          latitude: 43.43333
+          longitude: 23.75
+        -
+          name: "Obshtina Hayredin"
+          latitude: 43.58333
+          longitude: 23.66667
+        -
+          name: "Obshtina Kozloduy"
+          latitude: 43.71667
+          longitude: 23.73333
+        -
+          name: "Obshtina Krivodol"
+          latitude: 43.38333
+          longitude: 23.48333
+        -
+          name: "Obshtina Mezdra"
+          latitude: 43.13333
+          longitude: 23.73333
+        -
+          name: "Obshtina Mizia"
+          latitude: 43.63333
+          longitude: 23.85
+        -
+          name: "Obshtina Oryahovo"
+          latitude: 43.69038
+          longitude: 23.98643
+        -
+          name: "Obshtina Roman"
+          latitude: 43.15
+          longitude: 23.91667
+        -
+          name: "Obshtina Vratsa"
+          latitude: 43.28333
+          longitude: 23.6
+        -
+          name: "Oryahovo"
+          latitude: 43.73618
+          longitude: 23.96052
+        -
+          name: "Roman"
+          latitude: 43.1463767
+          longitude: 23.9254908
+        -
+          name: "Vratsa"
+          latitude: 43.21
+          longitude: 23.5625
+    -
+      name: "Yambol"
+      code: "28"
+      iso3166_2: "BG-28"
+      type: "district"
+      latitude: 42.4841494
+      longitude: 26.5035296
+      cities:
+        -
+          name: "Bolyarovo"
+          latitude: 42.14962
+          longitude: 26.81116
+        -
+          name: "Elhovo"
+          latitude: 42.16667
+          longitude: 26.56667
+        -
+          name: "Obshtina Bolyarovo"
+          latitude: 42.15
+          longitude: 26.85
+        -
+          name: "Obshtina Elhovo"
+          latitude: 42.11667
+          longitude: 26.61667
+        -
+          name: "Obshtina Straldzha"
+          latitude: 42.48333
+          longitude: 26.78333
+        -
+          name: "Obshtina Tundzha"
+          latitude: 42.35
+          longitude: 26.45
+        -
+          name: "Obshtina Yambol"
+          latitude: 42.48333
+          longitude: 26.5
+        -
+          name: "Straldzha"
+          latitude: 42.6
+          longitude: 26.68333
+        -
+          name: "Yambol"
+          latitude: 42.483935
+          longitude: 26.5105553

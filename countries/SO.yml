@@ -1,0 +1,368 @@
+-
+  name: "Somalia"
+  name_es: "Somalia"
+  native: "Soomaaliya"
+  iso2: "SO"
+  iso3: "SOM"
+  numeric_code: "706"
+  phonecode: "252"
+  capital: "Mogadishu"
+  currency: "SOS"
+  currency_name: "Somali shilling"
+  currency_symbol: "Sh.so."
+  tld: ".so"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  latitude: 10
+  longitude: 49
+  emoji: "🇸🇴"
+  states:
+    -
+      name: "Awdal"
+      code: "AW"
+      iso3166_2: "SO-AW"
+      type: "region"
+      latitude: 10.6951152
+      longitude: 43.4904963
+      cities:
+        []
+    -
+      name: "Bakool"
+      code: "BK"
+      iso3166_2: "SO-BK"
+      type: "region"
+      latitude: 4.3514387
+      longitude: 43.7186102
+      cities:
+        -
+          name: "Tayeeglow"
+          latitude: 4.01897
+          longitude: 44.51111
+        -
+          name: "Waajid"
+          latitude: 3.80958
+          longitude: 43.24627
+        -
+          name: "Xuddur"
+          latitude: 4.12129
+          longitude: 43.88945
+        -
+          name: "Yeed"
+          latitude: 4.55
+          longitude: 43.03333
+    -
+      name: "Banaadir"
+      code: "BN"
+      iso3166_2: "SO-BN"
+      type: "region"
+      latitude: 2.0783351
+      longitude: 45.2805421
+      cities:
+        -
+          name: "Mogadishu"
+          latitude: 2.03711
+          longitude: 45.34375
+    -
+      name: "Bari"
+      code: "BR"
+      iso3166_2: "SO-BR"
+      type: "region"
+      latitude: 10.1903509
+      longitude: 50.1298044
+      cities:
+        -
+          name: "Bandarbeyla"
+          latitude: 9.4942
+          longitude: 50.8122
+        -
+          name: "Bargaal"
+          latitude: 11.28636
+          longitude: 51.0773
+        -
+          name: "Bereeda"
+          latitude: 11.87037
+          longitude: 51.05795
+        -
+          name: "Bosaso"
+          latitude: 11.28421
+          longitude: 49.18158
+        -
+          name: "Caluula"
+          latitude: 11.96611
+          longitude: 50.75694
+        -
+          name: "Iskushuban"
+          latitude: 10.2837
+          longitude: 50.23
+        -
+          name: "Qandala"
+          latitude: 11.47197
+          longitude: 49.87282
+    -
+      name: "Bay"
+      code: "BY"
+      iso3166_2: "SO-BY"
+      type: "region"
+      latitude: 2.9999946
+      longitude: 43.500177
+      cities:
+        -
+          name: "Baidoa"
+          latitude: 3.11383
+          longitude: 43.6498
+        -
+          name: "Buurhakaba"
+          latitude: 2.80257
+          longitude: 44.07805
+    -
+      name: "Galguduud"
+      code: "GA"
+      iso3166_2: "SO-GA"
+      type: "region"
+      latitude: 5.0755014
+      longitude: 46.8803363
+      cities:
+        -
+          name: "Ceelbuur"
+          latitude: 4.68501
+          longitude: 46.6176
+        -
+          name: "Ceeldheer"
+          latitude: 3.84878
+          longitude: 47.18064
+        -
+          name: "Dhuusamarreeb"
+          latitude: 5.53597
+          longitude: 46.38666
+    -
+      name: "Gedo"
+      code: "GE"
+      iso3166_2: "SO-GE"
+      type: "region"
+      latitude: 3
+      longitude: 42
+      cities:
+        -
+          name: "Baardheere"
+          latitude: 2.34464
+          longitude: 42.27644
+        -
+          name: "Garbahaarrey"
+          latitude: 3.32892
+          longitude: 42.22091
+        -
+          name: "Luuq"
+          latitude: 3.80315
+          longitude: 42.54417
+    -
+      name: "Hiran"
+      code: "HI"
+      iso3166_2: "SO-HI"
+      type: "region"
+      latitude: 4.3616958
+      longitude: 45.5333102
+      cities:
+        -
+          name: "Beledweyne"
+          latitude: 4.73583
+          longitude: 45.20361
+        -
+          name: "Buulobarde"
+          latitude: 3.85375
+          longitude: 45.56744
+        -
+          name: "Jalalaqsi"
+          latitude: 3.3766
+          longitude: 45.5996
+    -
+      name: "Lower Juba"
+      code: "JH"
+      iso3166_2: "SO-JH"
+      type: "region"
+      latitude: -0.0001019
+      longitude: 41.9999624
+      cities:
+        -
+          name: "Buur Gaabo"
+          latitude: -1.21917
+          longitude: 41.83725
+        -
+          name: "Jamaame"
+          latitude: 0.06968
+          longitude: 42.74497
+        -
+          name: "Kismayo"
+          latitude: -0.35817
+          longitude: 42.54536
+    -
+      name: "Lower Shebelle"
+      code: "SH"
+      iso3166_2: "SO-SH"
+      type: "region"
+      latitude: 1.8427539
+      longitude: 44.5937239
+      cities:
+        -
+          name: "Afgooye"
+          latitude: 2.1381
+          longitude: 45.1212
+        -
+          name: "Marka"
+          latitude: 1.71594
+          longitude: 44.77166
+        -
+          name: "Qoryooley"
+          latitude: 1.78784
+          longitude: 44.52999
+        -
+          name: "Wanlaweyn"
+          latitude: 2.6185
+          longitude: 44.8938
+    -
+      name: "Middle Juba"
+      code: "JD"
+      iso3166_2: "SO-JD"
+      type: "region"
+      latitude: 1.4325937
+      longitude: 42.6559939
+      cities:
+        -
+          name: "Dujuuma"
+          latitude: 1.25311
+          longitude: 42.57377
+        -
+          name: "Jilib"
+          latitude: 0.48829
+          longitude: 42.78535
+        -
+          name: "Saacow"
+          latitude: 1.62794
+          longitude: 42.44067
+    -
+      name: "Middle Shebelle"
+      code: "SD"
+      iso3166_2: "SO-SD"
+      type: "region"
+      latitude: 3
+      longitude: 46
+      cities:
+        -
+          name: "Cadale"
+          latitude: 2.7603
+          longitude: 46.3222
+        -
+          name: "Jawhar"
+          latitude: 2.78087
+          longitude: 45.50048
+        -
+          name: "Mahaddayweyne"
+          latitude: 2.9726
+          longitude: 45.5347
+    -
+      name: "Mudug"
+      code: "MU"
+      iso3166_2: "SO-MU"
+      type: "region"
+      latitude: 6.6507279
+      longitude: 48.3009945
+      cities:
+        -
+          name: "Gaalkacyo"
+          latitude: 6.76972
+          longitude: 47.43083
+        -
+          name: "Hobyo"
+          latitude: 5.3505
+          longitude: 48.5268
+        -
+          name: "Xarardheere"
+          latitude: 4.6544
+          longitude: 47.8575
+    -
+      name: "Nugal"
+      code: "NU"
+      iso3166_2: "SO-NU"
+      type: "region"
+      latitude: 8.16698
+      longitude: 48.9978971
+      cities:
+        -
+          name: "Eyl"
+          latitude: 7.9803
+          longitude: 49.8164
+        -
+          name: "Garoowe"
+          latitude: 8.40207
+          longitude: 48.48284
+    -
+      name: "Sanaag"
+      code: "SA"
+      iso3166_2: "SO-SA"
+      type: "region"
+      latitude: 10.4386899
+      longitude: 47.5924085
+      cities:
+        -
+          name: "Ceerigaabo"
+          latitude: 10.61616
+          longitude: 47.36795
+        -
+          name: "Las Khorey"
+          latitude: 11.1595
+          longitude: 48.1967
+    -
+      name: "Sool"
+      code: "SO"
+      iso3166_2: "SO-SO"
+      type: "region"
+      latitude: 8.39611111
+      longitude: 47.69138889
+      cities:
+        -
+          name: "Aynaba"
+          latitude: 8.95
+          longitude: 46.41666667
+        -
+          name: "Hudun"
+          latitude: 9.15416667
+          longitude: 47.47694444
+        -
+          name: "Las Anod"
+          latitude: 8.476
+          longitude: 47.357
+    -
+      name: "Togdheer"
+      code: "TO"
+      iso3166_2: "SO-TO"
+      type: "region"
+      latitude: 9.3029453
+      longitude: 45.4861213
+      cities:
+        -
+          name: "Burao"
+          latitude: 9.52213
+          longitude: 45.53363
+        -
+          name: "Ceek"
+          latitude: 8.99907
+          longitude: 45.35824
+        -
+          name: "Oodweyne"
+          latitude: 9.4092
+          longitude: 45.06397
+    -
+      name: "Woqooyi Galbeed"
+      code: "WO"
+      iso3166_2: "SO-WO"
+      type: "region"
+      latitude: 9.56305556
+      longitude: 44.0675
+      cities:
+        -
+          name: "Gabiley"
+          latitude: 9.7
+          longitude: 43.62361111
+        -
+          name: "Hargeisa"
+          latitude: 9.56305556
+          longitude: 44.0675

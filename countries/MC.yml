@@ -1,0 +1,223 @@
+-
+  name: "Monaco"
+  name_es: "Mónaco"
+  native: "Monaco"
+  iso2: "MC"
+  iso3: "MCO"
+  numeric_code: "492"
+  phonecode: "377"
+  capital: "Monaco"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".mc"
+  region: "Europe"
+  subregion: "Western Europe"
+  latitude: 43.73333333
+  longitude: 7.4
+  emoji: "🇲🇨"
+  states:
+    -
+      name: "Fontvieille"
+      code: "FO"
+      iso3166_2: "MC-FO"
+      type: "quarter"
+      latitude: 43.72944444
+      longitude: 7.415
+      cities:
+        -
+          name: "Fontvieille"
+          latitude: 43.72944444
+          longitude: 7.415
+    -
+      name: "Jardin Exotique"
+      code: "JE"
+      iso3166_2: "MC-JE"
+      type: "quarter"
+      latitude: 43.73138889
+      longitude: 7.41388889
+      cities:
+        -
+          name: "Jardin Exotique"
+          latitude: 43.73138889
+          longitude: 7.41388889
+    -
+      name: "La Colle"
+      code: "CL"
+      iso3166_2: "MC-CL"
+      type: "quarter"
+      latitude: 43.7327465
+      longitude: 7.4137276
+      cities:
+        -
+          name: "La Colle"
+          latitude: 43.7327465
+          longitude: 7.4137276
+    -
+      name: "La Condamine"
+      code: "CO"
+      iso3166_2: "MC-CO"
+      type: "quarter"
+      latitude: 43.7350665
+      longitude: 7.419906
+      cities:
+        -
+          name: "La Condamine"
+          latitude: 43.7350665
+          longitude: 7.419906
+    -
+      name: "La Gare"
+      code: "GA"
+      iso3166_2: "MC-GA"
+      type: "quarter"
+      latitude: 43.7319
+      longitude: 7.4168
+      cities:
+        -
+          name: "La Gare"
+          latitude: 43.7319
+          longitude: 7.4168
+    -
+      name: "La Source"
+      code: "SO"
+      iso3166_2: "MC-SO"
+      type: "quarter"
+      latitude: 43.7365
+      longitude: 7.4195
+      cities:
+        -
+          name: "La Source"
+          latitude: 43.7365
+          longitude: 7.4195
+    -
+      name: "Larvotto"
+      code: "LA"
+      iso3166_2: "MC-LA"
+      type: "quarter"
+      latitude: 43.74666667
+      longitude: 7.43333333
+      cities:
+        -
+          name: "Larvotto"
+          latitude: 43.74666667
+          longitude: 7.43333333
+    -
+      name: "Malbousquet"
+      code: "MA"
+      iso3166_2: "MC-MA"
+      type: "quarter"
+      latitude: 43.7345
+      longitude: 7.4215
+      cities:
+        -
+          name: "Malbousquet"
+          latitude: 43.7345
+          longitude: 7.4215
+    -
+      name: "Monaco-Ville"
+      code: "MO"
+      iso3166_2: "MC-MO"
+      type: "quarter"
+      latitude: 43.7311
+      longitude: 7.42
+      cities:
+        -
+          name: "Monaco-Ville"
+          latitude: 43.7311
+          longitude: 7.42
+    -
+      name: "Moneghetti"
+      code: "MG"
+      iso3166_2: "MC-MG"
+      type: "quarter"
+      latitude: 43.7364927
+      longitude: 7.4153383
+      cities:
+        -
+          name: "Moneghetti"
+          latitude: 43.7364927
+          longitude: 7.4153383
+    -
+      name: "Monte-Carlo"
+      code: "MC"
+      iso3166_2: "MC-MC"
+      type: "quarter"
+      latitude: 43.73972222
+      longitude: 7.42722222
+      cities:
+        -
+          name: "Monte-Carlo"
+          latitude: 43.73972222
+          longitude: 7.42722222
+    -
+      name: "Moulins"
+      code: "MU"
+      iso3166_2: "MC-MU"
+      type: "quarter"
+      latitude: 43.7389
+      longitude: 7.4185
+      cities:
+        -
+          name: "Moulins"
+          latitude: 43.7389
+          longitude: 7.4185
+    -
+      name: "Port-Hercule"
+      code: "PH"
+      iso3166_2: "MC-PH"
+      type: "quarter"
+      latitude: 43.7347
+      longitude: 7.4253
+      cities:
+        -
+          name: "Port-Hercule"
+          latitude: 43.7347
+          longitude: 7.4253
+    -
+      name: "Saint-Roman"
+      code: "SR"
+      iso3166_2: "MC-SR"
+      type: "quarter"
+      latitude: 43.7453
+      longitude: 7.4318
+      cities:
+        -
+          name: "Saint-Roman"
+          latitude: 43.7453
+          longitude: 7.4318
+    -
+      name: "Sainte-Dévote"
+      code: "SD"
+      iso3166_2: "MC-SD"
+      type: "quarter"
+      latitude: 43.7372
+      longitude: 7.4208
+      cities:
+        -
+          name: "Sainte-Dévote"
+          latitude: 43.7372
+          longitude: 7.4208
+    -
+      name: "Spélugues"
+      code: "SP"
+      iso3166_2: "MC-SP"
+      type: "quarter"
+      latitude: 43.7392
+      longitude: 7.4251
+      cities:
+        -
+          name: "Spélugues"
+          latitude: 43.7392
+          longitude: 7.4251
+    -
+      name: "Vallon de la Rousse"
+      code: "VR"
+      iso3166_2: "MC-VR"
+      type: "quarter"
+      latitude: 43.7401
+      longitude: 7.4175
+      cities:
+        -
+          name: "Vallon de la Rousse"
+          latitude: 43.7401
+          longitude: 7.4175

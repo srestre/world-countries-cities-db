@@ -1,0 +1,372 @@
+-
+  name: "The Bahamas"
+  name_es: "Bahamas"
+  native: "Bahamas"
+  iso2: "BS"
+  iso3: "BHS"
+  numeric_code: "044"
+  phonecode: "1"
+  capital: "Nassau"
+  currency: "BSD"
+  currency_name: "Bahamian dollar"
+  currency_symbol: "B$"
+  tld: ".bs"
+  region: "Americas"
+  subregion: "Caribbean"
+  latitude: 24.25
+  longitude: -76
+  emoji: "🇧🇸"
+  states:
+    -
+      name: "Acklins"
+      code: "AK"
+      iso3166_2: "BS-AK"
+      type: "district"
+      latitude: 22.4145
+      longitude: -74.0606831
+      cities:
+        []
+    -
+      name: "Berry Islands"
+      code: "BY"
+      iso3166_2: "BS-BY"
+      type: "district"
+      latitude: 25.5905
+      longitude: -77.7261006
+      cities:
+        []
+    -
+      name: "Bimini"
+      code: "BI"
+      iso3166_2: "BS-BI"
+      type: "district"
+      latitude: 25.7032538
+      longitude: -79.2733449
+      cities:
+        -
+          name: "Alice Town"
+          latitude: 25.728
+          longitude: -79.29721
+    -
+      name: "Black Point"
+      code: "BP"
+      iso3166_2: "BS-BP"
+      type: "district"
+      latitude: 24.0962598
+      longitude: -76.4022591
+      cities:
+        []
+    -
+      name: "Cat Island"
+      code: "CI"
+      iso3166_2: "BS-CI"
+      type: "district"
+      latitude: 24.3385
+      longitude: -75.6149932
+      cities:
+        -
+          name: "Arthur’s Town"
+          latitude: 24.6224
+          longitude: -75.67151
+    -
+      name: "Central Abaco"
+      code: "CO"
+      iso3166_2: "BS-CO"
+      type: "district"
+      latitude: 26.5255105
+      longitude: -77.2838118
+      cities:
+        -
+          name: "Marsh Harbour"
+          latitude: 26.54124
+          longitude: -77.0636
+    -
+      name: "Central Andros"
+      code: "CS"
+      iso3166_2: "BS-CS"
+      type: "district"
+      latitude: 24.4343749
+      longitude: -77.7934077
+      cities:
+        []
+    -
+      name: "Central Eleuthera"
+      code: "CE"
+      iso3166_2: "BS-CE"
+      type: "district"
+      latitude: 25.239
+      longitude: -76.3291621
+      cities:
+        []
+    -
+      name: "Crooked Island"
+      code: "CK"
+      iso3166_2: "BS-CK"
+      type: "district"
+      latitude: 22.7486959
+      longitude: -74.2386163
+      cities:
+        -
+          name: "Colonel Hill"
+          latitude: 22.7545
+          longitude: -74.20415
+    -
+      name: "East Grand Bahama"
+      code: "EG"
+      iso3166_2: "BS-EG"
+      type: "district"
+      latitude: 26.6772229
+      longitude: -78.0134521
+      cities:
+        -
+          name: "High Rock"
+          latitude: 26.60999
+          longitude: -78.27863
+    -
+      name: "Exuma"
+      code: "EX"
+      iso3166_2: "BS-EX"
+      type: "district"
+      latitude: 23.9685
+      longitude: -76.1799049
+      cities:
+        -
+          name: "George Town"
+          latitude: 23.51616
+          longitude: -75.78665
+    -
+      name: "Freeport"
+      code: "FP"
+      iso3166_2: "BS-FP"
+      type: "district"
+      latitude: 26.535681
+      longitude: -78.6953623
+      cities:
+        -
+          name: "Freeport"
+          latitude: 26.53333
+          longitude: -78.7
+        -
+          name: "Lucaya"
+          latitude: 26.53333
+          longitude: -78.66667
+    -
+      name: "Grand Cay"
+      code: "GC"
+      iso3166_2: "BS-GC"
+      type: "district"
+      latitude: 27.2287191
+      longitude: -78.3324366
+      cities:
+        []
+    -
+      name: "Harbour Island"
+      code: "HI"
+      iso3166_2: "BS-HI"
+      type: "district"
+      latitude: 25.50011
+      longitude: -76.6340511
+      cities:
+        -
+          name: "Dunmore Town"
+          latitude: 25.50216
+          longitude: -76.63633
+    -
+      name: "Hope Town"
+      code: "HT"
+      iso3166_2: "BS-HT"
+      type: "district"
+      latitude: 26.5407116
+      longitude: -76.9594379
+      cities:
+        []
+    -
+      name: "Inagua"
+      code: "IN"
+      iso3166_2: "BS-IN"
+      type: "district"
+      latitude: 21.2325
+      longitude: -73.3096213
+      cities:
+        -
+          name: "Matthew Town"
+          latitude: 20.94982
+          longitude: -73.67346
+    -
+      name: "Long Island"
+      code: "LI"
+      iso3166_2: "BS-LI"
+      type: "district"
+      latitude: 23.303
+      longitude: -75.1058782
+      cities:
+        -
+          name: "Clarence Town"
+          latitude: 23.1
+          longitude: -74.98333
+    -
+      name: "Mangrove Cay"
+      code: "MC"
+      iso3166_2: "BS-MC"
+      type: "district"
+      latitude: 24.2188205
+      longitude: -77.7176145
+      cities:
+        []
+    -
+      name: "Mayaguana"
+      code: "MG"
+      iso3166_2: "BS-MG"
+      type: "district"
+      latitude: 22.3698426
+      longitude: -72.8876816
+      cities:
+        -
+          name: "Abraham’s Bay"
+          latitude: 22.36667
+          longitude: -72.96667
+    -
+      name: "Moore's Island"
+      code: "MI"
+      iso3166_2: "BS-MI"
+      type: "district"
+      latitude: 25.866667
+      longitude: -77.966667
+      cities:
+        []
+    -
+      name: "New Providence"
+      code: "NP"
+      iso3166_2: "BS-NP"
+      type: "island"
+      latitude: 25.1943588
+      longitude: -77.2953297
+      cities:
+        -
+          name: "Nassau"
+          latitude: 25.06666667
+          longitude: -77.33333333
+    -
+      name: "North Abaco"
+      code: "NO"
+      iso3166_2: "BS-NO"
+      type: "district"
+      latitude: 26.9383943
+      longitude: -77.6838221
+      cities:
+        -
+          name: "Cooper’s Town"
+          latitude: 26.87137
+          longitude: -77.51131
+    -
+      name: "North Andros"
+      code: "NS"
+      iso3166_2: "BS-NS"
+      type: "district"
+      latitude: 24.8875
+      longitude: -78.0811619
+      cities:
+        -
+          name: "Andros Town"
+          latitude: 24.70502
+          longitude: -77.76912
+        -
+          name: "San Andros"
+          latitude: 25.06667
+          longitude: -78.05
+    -
+      name: "North Eleuthera"
+      code: "NE"
+      iso3166_2: "BS-NE"
+      type: "district"
+      latitude: 25.3776694
+      longitude: -76.7842655
+      cities:
+        []
+    -
+      name: "Ragged Island"
+      code: "RI"
+      iso3166_2: "BS-RI"
+      type: "district"
+      latitude: 22.4765594
+      longitude: -75.8020934
+      cities:
+        -
+          name: "Duncan Town"
+          latitude: 22.19083
+          longitude: -75.72583
+    -
+      name: "Rum Cay"
+      code: "RC"
+      iso3166_2: "BS-RC"
+      type: "district"
+      latitude: 23.8263065
+      longitude: -74.9326829
+      cities:
+        -
+          name: "Port Nelson"
+          latitude: 23.64967
+          longitude: -74.84157
+    -
+      name: "San Salvador Island"
+      code: "SS"
+      iso3166_2: "BS-SS"
+      type: "district"
+      latitude: 24.0343816
+      longitude: -74.4851373
+      cities:
+        -
+          name: "Cockburn Town"
+          latitude: 24.05179
+          longitude: -74.53138
+    -
+      name: "South Abaco"
+      code: "SO"
+      iso3166_2: "BS-SO"
+      type: "district"
+      latitude: 26.004
+      longitude: -77.3567072
+      cities:
+        []
+    -
+      name: "South Andros"
+      code: "SA"
+      iso3166_2: "BS-SA"
+      type: "district"
+      latitude: 23.8985
+      longitude: -77.4565404
+      cities:
+        []
+    -
+      name: "South Eleuthera"
+      code: "SE"
+      iso3166_2: "BS-SE"
+      type: "district"
+      latitude: 24.7310794
+      longitude: -76.2926928
+      cities:
+        []
+    -
+      name: "Spanish Wells"
+      code: "SW"
+      iso3166_2: "BS-SW"
+      type: "district"
+      latitude: 25.5402336
+      longitude: -76.9606233
+      cities:
+        -
+          name: "Spanish Wells"
+          latitude: 25.54717
+          longitude: -76.76405
+    -
+      name: "West Grand Bahama"
+      code: "WG"
+      iso3166_2: "BS-WG"
+      type: "district"
+      latitude: 26.744
+      longitude: -78.8788685
+      cities:
+        -
+          name: "West End"
+          latitude: 26.68711
+          longitude: -78.97702

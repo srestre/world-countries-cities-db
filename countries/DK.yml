@@ -1,0 +1,1779 @@
+-
+  name: "Denmark"
+  name_es: "Dinamarca"
+  native: "Danmark"
+  iso2: "DK"
+  iso3: "DNK"
+  numeric_code: "208"
+  phonecode: "45"
+  capital: "Copenhagen"
+  currency: "DKK"
+  currency_name: "Danish krone"
+  currency_symbol: "Kr."
+  tld: ".dk"
+  region: "Europe"
+  subregion: "Northern Europe"
+  latitude: 56
+  longitude: 10
+  emoji: "🇩🇰"
+  states:
+    -
+      name: "Central Denmark"
+      code: "82"
+      iso3166_2: "DK-82"
+      type: "region"
+      latitude: 56.2356483
+      longitude: 9.234625
+      cities:
+        -
+          name: "Aarhus"
+          latitude: 56.15674
+          longitude: 10.21076
+        -
+          name: "Aarhus Kommune"
+          latitude: 56.16317
+          longitude: 10.16897
+        -
+          name: "Allingåbro"
+          latitude: 56.46432
+          longitude: 10.31957
+        -
+          name: "Assentoft"
+          latitude: 56.4421
+          longitude: 10.1517
+        -
+          name: "Auning"
+          latitude: 56.43079
+          longitude: 10.37818
+        -
+          name: "Avlum"
+          latitude: 56.26539
+          longitude: 8.79256
+        -
+          name: "Beder"
+          latitude: 56.06025
+          longitude: 10.21179
+        -
+          name: "Bjerringbro"
+          latitude: 56.37797
+          longitude: 9.66065
+        -
+          name: "Bording Kirkeby"
+          latitude: 56.16871
+          longitude: 9.24384
+        -
+          name: "Brande"
+          latitude: 55.94316
+          longitude: 9.12798
+        -
+          name: "Brædstrup"
+          latitude: 55.97153
+          longitude: 9.61129
+        -
+          name: "Ebeltoft"
+          latitude: 56.19442
+          longitude: 10.6821
+        -
+          name: "Favrskov Kommune"
+          latitude: 56.31667
+          longitude: 9.94
+        -
+          name: "Framlev"
+          latitude: 56.15664
+          longitude: 10.01318
+        -
+          name: "Galten"
+          latitude: 56.15902
+          longitude: 9.91691
+        -
+          name: "Gjellerup"
+          latitude: 56.14616
+          longitude: 9.05467
+        -
+          name: "Grenaa"
+          latitude: 56.41578
+          longitude: 10.87825
+        -
+          name: "Hadsten"
+          latitude: 56.32819
+          longitude: 10.04931
+        -
+          name: "Hammel"
+          latitude: 56.25762
+          longitude: 9.86316
+        -
+          name: "Hammerum"
+          latitude: 56.13361
+          longitude: 9.06121
+        -
+          name: "Harboøre"
+          latitude: 56.61752
+          longitude: 8.18069
+        -
+          name: "Hedensted"
+          latitude: 55.77043
+          longitude: 9.7011
+        -
+          name: "Hedensted Kommune"
+          latitude: 55.7968
+          longitude: 9.744
+        -
+          name: "Herning"
+          latitude: 56.13615
+          longitude: 8.97662
+        -
+          name: "Herning Kommune"
+          latitude: 56.14997
+          longitude: 8.89712
+        -
+          name: "Hinnerup"
+          latitude: 56.26608
+          longitude: 10.06299
+        -
+          name: "Hjortshøj"
+          latitude: 56.24811
+          longitude: 10.26533
+        -
+          name: "Holstebro"
+          latitude: 56.36009
+          longitude: 8.61607
+        -
+          name: "Holstebro Kommune"
+          latitude: 56.35916
+          longitude: 8.59631
+        -
+          name: "Hornslet"
+          latitude: 56.3155
+          longitude: 10.32041
+        -
+          name: "Hornsyld"
+          latitude: 55.75621
+          longitude: 9.85643
+        -
+          name: "Horsens"
+          latitude: 55.86066
+          longitude: 9.85034
+        -
+          name: "Horsens Kommune"
+          latitude: 55.9274
+          longitude: 9.77377
+        -
+          name: "Hørning"
+          latitude: 56.08701
+          longitude: 10.03716
+        -
+          name: "Hvide Sande"
+          latitude: 55.99866
+          longitude: 8.12605
+        -
+          name: "Ikast"
+          latitude: 56.13883
+          longitude: 9.15768
+        -
+          name: "Ikast-Brande Kommune"
+          latitude: 55.98333
+          longitude: 9.21667
+        -
+          name: "Juelsminde"
+          latitude: 55.70876
+          longitude: 10.01668
+        -
+          name: "Karup"
+          latitude: 56.30673
+          longitude: 9.16835
+        -
+          name: "Kibæk"
+          latitude: 56.0317
+          longitude: 8.85697
+        -
+          name: "Kjellerup"
+          latitude: 56.28581
+          longitude: 9.43528
+        -
+          name: "Kolt"
+          latitude: 56.10845
+          longitude: 10.06986
+        -
+          name: "Langå"
+          latitude: 56.39026
+          longitude: 9.89486
+        -
+          name: "Lemvig"
+          latitude: 56.54856
+          longitude: 8.31019
+        -
+          name: "Lemvig Kommune"
+          latitude: 56.49136
+          longitude: 8.29927
+        -
+          name: "Lind"
+          latitude: 56.106
+          longitude: 8.97915
+        -
+          name: "Løgten"
+          latitude: 56.27459
+          longitude: 10.31181
+        -
+          name: "Lystrup"
+          latitude: 56.2375
+          longitude: 10.23778
+        -
+          name: "Malling"
+          latitude: 56.03632
+          longitude: 10.19632
+        -
+          name: "Mårslet"
+          latitude: 56.0669
+          longitude: 10.16112
+        -
+          name: "Norddjurs Kommune"
+          latitude: 56.44124
+          longitude: 10.7666
+        -
+          name: "Odder"
+          latitude: 55.97313
+          longitude: 10.153
+        -
+          name: "Odder Kommune"
+          latitude: 55.92967
+          longitude: 10.15304
+        -
+          name: "Randers"
+          latitude: 56.4607
+          longitude: 10.03639
+        -
+          name: "Randers Kommune"
+          latitude: 56.51561
+          longitude: 10.06901
+        -
+          name: "Ringkøbing"
+          latitude: 56.09006
+          longitude: 8.24402
+        -
+          name: "Ringkøbing-Skjern Kommune"
+          latitude: 56.01
+          longitude: 8.39667
+        -
+          name: "Rønde"
+          latitude: 56.30145
+          longitude: 10.47505
+        -
+          name: "Ry"
+          latitude: 56.09038
+          longitude: 9.76505
+        -
+          name: "Ryomgård"
+          latitude: 56.3843
+          longitude: 10.50295
+        -
+          name: "Sabro"
+          latitude: 56.21333
+          longitude: 10.03441
+        -
+          name: "Samsø Kommune"
+          latitude: 55.85245
+          longitude: 10.60045
+        -
+          name: "Silkeborg"
+          latitude: 56.1697
+          longitude: 9.54508
+        -
+          name: "Silkeborg Kommune"
+          latitude: 56.17495
+          longitude: 9.54666
+        -
+          name: "Skanderborg"
+          latitude: 56.03434
+          longitude: 9.93177
+        -
+          name: "Skanderborg Kommune"
+          latitude: 56.07956
+          longitude: 9.89868
+        -
+          name: "Skive"
+          latitude: 56.56699
+          longitude: 9.02707
+        -
+          name: "Skive Kommune"
+          latitude: 56.64478
+          longitude: 8.9766
+        -
+          name: "Skjern"
+          latitude: 55.95
+          longitude: 8.5
+        -
+          name: "Skovby"
+          latitude: 56.15672
+          longitude: 9.94523
+        -
+          name: "Snejbjerg"
+          latitude: 56.13291
+          longitude: 8.90353
+        -
+          name: "Solbjerg"
+          latitude: 56.04271
+          longitude: 10.08631
+        -
+          name: "Søften"
+          latitude: 56.23801
+          longitude: 10.0851
+        -
+          name: "Spentrup"
+          latitude: 56.53703
+          longitude: 10.03792
+        -
+          name: "Stavtrup"
+          latitude: 56.13124
+          longitude: 10.11987
+        -
+          name: "Stilling"
+          latitude: 56.06224
+          longitude: 9.98822
+        -
+          name: "Stoholm"
+          latitude: 56.48454
+          longitude: 9.14617
+        -
+          name: "Struer"
+          latitude: 56.49205
+          longitude: 8.59397
+        -
+          name: "Struer Kommune"
+          latitude: 56.46667
+          longitude: 8.58333
+        -
+          name: "Sunds"
+          latitude: 56.20743
+          longitude: 9.01386
+        -
+          name: "Svejbæk"
+          latitude: 56.13255
+          longitude: 9.63289
+        -
+          name: "Syddjurs Kommune"
+          latitude: 56.3125
+          longitude: 10.52083
+        -
+          name: "Tarm"
+          latitude: 55.90861
+          longitude: 8.53041
+        -
+          name: "Thyborøn"
+          latitude: 56.69846
+          longitude: 8.21238
+        -
+          name: "Tørring"
+          latitude: 55.85
+          longitude: 9.48333
+        -
+          name: "Tranbjerg"
+          latitude: 56.09519
+          longitude: 10.13605
+        -
+          name: "Trige"
+          latitude: 56.25291
+          longitude: 10.1484
+        -
+          name: "Ulfborg"
+          latitude: 56.26725
+          longitude: 8.32167
+        -
+          name: "Ulstrup"
+          latitude: 56.38994
+          longitude: 9.79354
+        -
+          name: "Viborg"
+          latitude: 56.45319
+          longitude: 9.40201
+        -
+          name: "Viborg Kommune"
+          latitude: 56.45
+          longitude: 9.36667
+        -
+          name: "Videbæk"
+          latitude: 56.0876
+          longitude: 8.62852
+        -
+          name: "Vildbjerg"
+          latitude: 56.2
+          longitude: 8.76667
+        -
+          name: "Vinderup"
+          latitude: 56.48176
+          longitude: 8.77991
+        -
+          name: "Virklund"
+          latitude: 56.13218
+          longitude: 9.55582
+    -
+      name: "Denmark"
+      code: "84"
+      iso3166_2: "DK-84"
+      type: "region"
+      latitude: 55.670249
+      longitude: 10.3333283
+      cities:
+        -
+          name: "Åkirkeby"
+          latitude: 55.0708
+          longitude: 14.91978
+        -
+          name: "Albertslund"
+          latitude: 55.65691
+          longitude: 12.36381
+        -
+          name: "Albertslund Kommune"
+          latitude: 55.68022
+          longitude: 12.34797
+        -
+          name: "Allerød Kommune"
+          latitude: 55.85856
+          longitude: 12.32558
+        -
+          name: "Ballerup"
+          latitude: 55.73165
+          longitude: 12.36328
+        -
+          name: "Ballerup Kommune"
+          latitude: 55.73248
+          longitude: 12.35793
+        -
+          name: "Birkerød"
+          latitude: 55.84759
+          longitude: 12.42791
+        -
+          name: "Blovstrød"
+          latitude: 55.87038
+          longitude: 12.3864
+        -
+          name: "Bornholm Kommune"
+          latitude: 55.12386
+          longitude: 14.91115
+        -
+          name: "Brøndby Kommune"
+          latitude: 55.6429
+          longitude: 12.41101
+        -
+          name: "Charlottenlund"
+          latitude: 55.75238
+          longitude: 12.5745
+        -
+          name: "Christianshavn"
+          latitude: 55.67383
+          longitude: 12.59541
+        -
+          name: "Christiansø"
+          latitude: 55.31982
+          longitude: 15.18783
+        -
+          name: "Copenhagen"
+          latitude: 43.893439
+          longitude: -75.673828
+        -
+          name: "Dragør"
+          latitude: 55.5928
+          longitude: 12.67221
+        -
+          name: "Dragør Kommune"
+          latitude: 55.58233
+          longitude: 12.62756
+        -
+          name: "Egedal Kommune"
+          latitude: 55.75556
+          longitude: 12.22778
+        -
+          name: "Espergærde"
+          latitude: 55.99464
+          longitude: 12.54733
+        -
+          name: "Farum"
+          latitude: 55.80858
+          longitude: 12.36066
+        -
+          name: "Fløng"
+          latitude: 55.66212
+          longitude: 12.18698
+        -
+          name: "Fredensborg"
+          latitude: 55.97558
+          longitude: 12.40314
+        -
+          name: "Fredensborg Kommune"
+          latitude: 55.95
+          longitude: 12.45
+        -
+          name: "Frederiksberg"
+          latitude: 55.67938
+          longitude: 12.53463
+        -
+          name: "Frederiksberg Kommune"
+          latitude: 55.67856
+          longitude: 12.52216
+        -
+          name: "Frederikssund"
+          latitude: 55.83956
+          longitude: 12.06896
+        -
+          name: "Frederikssund Kommune"
+          latitude: 55.80957
+          longitude: 12.04038
+        -
+          name: "Frederiksværk"
+          latitude: 55.97073
+          longitude: 12.0225
+        -
+          name: "Furesø Kommune"
+          latitude: 55.78333
+          longitude: 12.34167
+        -
+          name: "Ganløse"
+          latitude: 55.79124
+          longitude: 12.26421
+        -
+          name: "Gentofte Kommune"
+          latitude: 55.75
+          longitude: 12.55
+        -
+          name: "Gilleleje"
+          latitude: 56.12196
+          longitude: 12.31056
+        -
+          name: "Gladsaxe"
+          latitude: 55.76667
+          longitude: 12.43333
+        -
+          name: "Glostrup"
+          latitude: 55.6666
+          longitude: 12.40377
+        -
+          name: "Glostrup Kommune"
+          latitude: 55.68188
+          longitude: 12.41018
+        -
+          name: "Græsted"
+          latitude: 56.06558
+          longitude: 12.28512
+        -
+          name: "Gribskov Kommune"
+          latitude: 56.05833
+          longitude: 12.24167
+        -
+          name: "Halsnæs Kommune"
+          latitude: 55.96765
+          longitude: 11.94214
+        -
+          name: "Hedehusene"
+          latitude: 55.6480127
+          longitude: 12.1968926
+        -
+          name: "Hellebæk"
+          latitude: 56.06823
+          longitude: 12.55782
+        -
+          name: "Helsinge"
+          latitude: 56.02283
+          longitude: 12.19752
+        -
+          name: "Helsingør"
+          latitude: 56.03606
+          longitude: 12.6136
+        -
+          name: "Helsingør Kommune"
+          latitude: 56.05
+          longitude: 12.5
+        -
+          name: "Herlev Kommune"
+          latitude: 55.73317
+          longitude: 12.43106
+        -
+          name: "Hillerød"
+          latitude: 55.92791
+          longitude: 12.30081
+        -
+          name: "Hillerød Kommune"
+          latitude: 55.92319
+          longitude: 12.23794
+        -
+          name: "Hornbæk"
+          latitude: 56.09027
+          longitude: 12.45693
+        -
+          name: "Høje-Taastrup Kommune"
+          latitude: 55.65643
+          longitude: 12.24854
+        -
+          name: "Hørsholm"
+          latitude: 55.88098
+          longitude: 12.50111
+        -
+          name: "Hørsholm Kommune"
+          latitude: 55.88759
+          longitude: 12.48566
+        -
+          name: "Humlebæk"
+          latitude: 55.9618
+          longitude: 12.5341
+        -
+          name: "Hundested"
+          latitude: 55.96397
+          longitude: 11.85044
+        -
+          name: "Hvidovre"
+          latitude: 55.65719
+          longitude: 12.47364
+        -
+          name: "Hvidovre Kommune"
+          latitude: 55.63166
+          longitude: 12.46615
+        -
+          name: "Ishøj"
+          latitude: 55.61543
+          longitude: 12.35182
+        -
+          name: "Ishøj Kommune"
+          latitude: 55.62299
+          longitude: 12.30567
+        -
+          name: "Jægerspris"
+          latitude: 55.85248
+          longitude: 11.98565
+        -
+          name: "Kokkedal"
+          latitude: 55.91179
+          longitude: 12.49952
+        -
+          name: "Kongens Lyngby"
+          latitude: 55.77044
+          longitude: 12.50378
+        -
+          name: "København"
+          latitude: 55.6711
+          longitude: 12.56529
+        -
+          name: "Lillerød"
+          latitude: 55.87496
+          longitude: 12.34579
+        -
+          name: "Liseleje"
+          latitude: 56.01295
+          longitude: 11.96544
+        -
+          name: "Lyngby-Tårbæk Kommune"
+          latitude: 55.78456
+          longitude: 12.50508
+        -
+          name: "Lynge"
+          latitude: 55.83941
+          longitude: 12.27725
+        -
+          name: "Måløv"
+          latitude: 55.75528
+          longitude: 12.32327
+        -
+          name: "Nexø"
+          latitude: 55.06067
+          longitude: 15.13058
+        -
+          name: "Nivå"
+          latitude: 55.93405
+          longitude: 12.50485
+        -
+          name: "Nødebo"
+          latitude: 55.97877
+          longitude: 12.34685
+        -
+          name: "Ølstykke"
+          latitude: 55.79567
+          longitude: 12.15509
+        -
+          name: "Rødovre"
+          latitude: 55.68062
+          longitude: 12.45373
+        -
+          name: "Rødovre Kommune"
+          latitude: 55.68852
+          longitude: 12.44834
+        -
+          name: "Rønne"
+          latitude: 55.10091
+          longitude: 14.70664
+        -
+          name: "Rudersdal Kommune"
+          latitude: 55.825
+          longitude: 12.49167
+        -
+          name: "Skævinge"
+          latitude: 55.90785
+          longitude: 12.15036
+        -
+          name: "Skibby"
+          latitude: 55.75122
+          longitude: 11.96083
+        -
+          name: "Slangerup"
+          latitude: 55.85
+          longitude: 12.18333
+        -
+          name: "Smørumnedre"
+          latitude: 55.74232
+          longitude: 12.30276
+        -
+          name: "Stavnsholt"
+          latitude: 55.81479
+          longitude: 12.40545
+        -
+          name: "Stenløse"
+          latitude: 55.76828
+          longitude: 12.19723
+        -
+          name: "Taastrup"
+          latitude: 55.65006
+          longitude: 12.3016
+        -
+          name: "Tårnby"
+          latitude: 55.6303
+          longitude: 12.60035
+        -
+          name: "Tårnby Kommune"
+          latitude: 55.60391
+          longitude: 12.59599
+        -
+          name: "Trørød"
+          latitude: 55.83946
+          longitude: 12.54432
+        -
+          name: "Vallensbæk Kommune"
+          latitude: 55.63128
+          longitude: 12.37369
+        -
+          name: "Vallensbæk Strand"
+          latitude: 55.62199
+          longitude: 12.38511
+        -
+          name: "Vanløse"
+          latitude: 55.68361
+          longitude: 12.48713
+        -
+          name: "Værløse"
+          latitude: 55.78251
+          longitude: 12.36856
+        -
+          name: "Veksø"
+          latitude: 55.75473
+          longitude: 12.23837
+    -
+      name: "North Denmark"
+      code: "81"
+      iso3166_2: "DK-81"
+      type: "region"
+      latitude: 56.8152793
+      longitude: 9.7273308
+      cities:
+        -
+          name: "Aalborg"
+          latitude: 57.048
+          longitude: 9.9187
+        -
+          name: "Aars"
+          latitude: 56.80399
+          longitude: 9.51441
+        -
+          name: "Åbybro"
+          latitude: 57.16249
+          longitude: 9.72996
+        -
+          name: "Ålborg Kommune"
+          latitude: 57
+          longitude: 9.95
+        -
+          name: "Ålestrup"
+          latitude: 56.6947
+          longitude: 9.49336
+        -
+          name: "Arden"
+          latitude: 56.76899
+          longitude: 9.86184
+        -
+          name: "Brovst"
+          latitude: 57.0975
+          longitude: 9.52264
+        -
+          name: "Brønderslev"
+          latitude: 57.27021
+          longitude: 9.94102
+        -
+          name: "Brønderslev Kommune"
+          latitude: 57.23506
+          longitude: 10.10061
+        -
+          name: "Dronninglund"
+          latitude: 57.16035
+          longitude: 10.29287
+        -
+          name: "Farsø"
+          latitude: 56.77276
+          longitude: 9.33925
+        -
+          name: "Fjerritslev"
+          latitude: 57.08822
+          longitude: 9.26622
+        -
+          name: "Frederikshavn"
+          latitude: 57.44073
+          longitude: 10.53661
+        -
+          name: "Frederikshavn Kommune"
+          latitude: 57.43347
+          longitude: 10.42507
+        -
+          name: "Frejlev"
+          latitude: 57.00623
+          longitude: 9.81711
+        -
+          name: "Gistrup"
+          latitude: 56.9943
+          longitude: 9.99085
+        -
+          name: "Hadsund"
+          latitude: 56.71482
+          longitude: 10.11682
+        -
+          name: "Hals"
+          latitude: 56.99609
+          longitude: 10.30807
+        -
+          name: "Hanstholm"
+          latitude: 57.11667
+          longitude: 8.61667
+        -
+          name: "Hirtshals"
+          latitude: 57.58812
+          longitude: 9.95922
+        -
+          name: "Hjallerup"
+          latitude: 57.16466
+          longitude: 10.14571
+        -
+          name: "Hjørring"
+          latitude: 57.46417
+          longitude: 9.98229
+        -
+          name: "Hjørring Kommune"
+          latitude: 57.45682
+          longitude: 10.05859
+        -
+          name: "Hobro"
+          latitude: 56.64306
+          longitude: 9.79029
+        -
+          name: "Hurup"
+          latitude: 56.74944
+          longitude: 8.41953
+        -
+          name: "Jammerbugt Kommune"
+          latitude: 57.14583
+          longitude: 9.5625
+        -
+          name: "Kås"
+          latitude: 57.19774
+          longitude: 9.67173
+        -
+          name: "Klarup"
+          latitude: 57.01194
+          longitude: 10.05617
+        -
+          name: "Læso Kommune"
+          latitude: 57.26774
+          longitude: 11.02265
+        -
+          name: "Løgstør"
+          latitude: 56.96245
+          longitude: 9.2583
+        -
+          name: "Løkken"
+          latitude: 57.37047
+          longitude: 9.71466
+        -
+          name: "Mariager"
+          latitude: 56.64985
+          longitude: 9.97515
+        -
+          name: "Mariagerfjord Kommune"
+          latitude: 56.69722
+          longitude: 9.84722
+        -
+          name: "Morsø Kommune"
+          latitude: 56.79622
+          longitude: 8.73272
+        -
+          name: "Nibe"
+          latitude: 56.9815
+          longitude: 9.63917
+        -
+          name: "Nørresundby"
+          latitude: 57.05877
+          longitude: 9.92284
+        -
+          name: "Nykøbing Mors"
+          latitude: 56.79334
+          longitude: 8.85282
+        -
+          name: "Pandrup"
+          latitude: 57.22147
+          longitude: 9.67569
+        -
+          name: "Rebild Kommune"
+          latitude: 56.80556
+          longitude: 9.77778
+        -
+          name: "Sæby"
+          latitude: 57.33188
+          longitude: 10.52251
+        -
+          name: "Sindal"
+          latitude: 57.47117
+          longitude: 10.20312
+        -
+          name: "Skagen"
+          latitude: 57.72093
+          longitude: 10.58394
+        -
+          name: "Skørping"
+          latitude: 56.83626
+          longitude: 9.89255
+        -
+          name: "Storvorde"
+          latitude: 57.00392
+          longitude: 10.10125
+        -
+          name: "Støvring"
+          latitude: 56.88536
+          longitude: 9.83839
+        -
+          name: "Strandby"
+          latitude: 57.4915
+          longitude: 10.49609
+        -
+          name: "Svenstrup"
+          latitude: 56.9723
+          longitude: 9.84806
+        -
+          name: "Tårs"
+          latitude: 57.38333
+          longitude: 10.11667
+        -
+          name: "Thisted"
+          latitude: 56.95523
+          longitude: 8.69491
+        -
+          name: "Thisted Kommune"
+          latitude: 57.00397
+          longitude: 8.61834
+        -
+          name: "Vadum"
+          latitude: 57.1179
+          longitude: 9.857
+        -
+          name: "Vestbjerg"
+          latitude: 57.13166
+          longitude: 9.95942
+        -
+          name: "Vester Hassing"
+          latitude: 57.06767
+          longitude: 10.12558
+        -
+          name: "Vesthimmerland Kommune"
+          latitude: 56.8
+          longitude: 9.37083
+        -
+          name: "Vodskov"
+          latitude: 57.10854
+          longitude: 10.02215
+        -
+          name: "Vrå"
+          latitude: 57.3537
+          longitude: 9.94176
+    -
+      name: "Southern Denmark"
+      code: "83"
+      iso3166_2: "DK-83"
+      type: "region"
+      latitude: 55.3784263
+      longitude: 9.1318064
+      cities:
+        -
+          name: "Aabenraa"
+          latitude: 55.04434
+          longitude: 9.41741
+        -
+          name: "Aabenraa Kommune"
+          latitude: 54.9898
+          longitude: 9.31282
+        -
+          name: "Årslev"
+          latitude: 55.30353
+          longitude: 10.46428
+        -
+          name: "Årup"
+          latitude: 55.37315
+          longitude: 10.04131
+        -
+          name: "Assens"
+          latitude: 55.27023
+          longitude: 9.90081
+        -
+          name: "Assens Kommune"
+          latitude: 55.29958
+          longitude: 10.07952
+        -
+          name: "Augustenborg"
+          latitude: 54.95201
+          longitude: 9.87216
+        -
+          name: "Ærø Kommune"
+          latitude: 54.85833
+          longitude: 10.43333
+        -
+          name: "Ærøskøbing"
+          latitude: 54.88803
+          longitude: 10.41117
+        -
+          name: "Bellinge"
+          latitude: 55.33535
+          longitude: 10.32045
+        -
+          name: "Billund"
+          latitude: 55.73349
+          longitude: 9.10785
+        -
+          name: "Billund Kommune"
+          latitude: 55.73079
+          longitude: 8.96844
+        -
+          name: "Bogense"
+          latitude: 55.56691
+          longitude: 10.08863
+        -
+          name: "Børkop"
+          latitude: 55.64195
+          longitude: 9.64958
+        -
+          name: "Bramming"
+          latitude: 55.46946
+          longitude: 8.70007
+        -
+          name: "Brejning"
+          latitude: 55.66594
+          longitude: 9.67217
+        -
+          name: "Brenderup"
+          latitude: 55.48407
+          longitude: 9.97908
+        -
+          name: "Broager"
+          latitude: 54.8894
+          longitude: 9.67465
+        -
+          name: "Brørup"
+          latitude: 55.48194
+          longitude: 9.01756
+        -
+          name: "Bullerup"
+          latitude: 55.42686
+          longitude: 10.47137
+        -
+          name: "Christiansfeld"
+          latitude: 55.35817
+          longitude: 9.48701
+        -
+          name: "Dybbøl"
+          latitude: 54.91079
+          longitude: 9.73601
+        -
+          name: "Egtved"
+          latitude: 55.61613
+          longitude: 9.30763
+        -
+          name: "Ejby"
+          latitude: 55.4301
+          longitude: 9.92973
+        -
+          name: "Esbjerg"
+          latitude: 55.47028
+          longitude: 8.45187
+        -
+          name: "Esbjerg Kommune"
+          latitude: 55.46893
+          longitude: 8.46222
+        -
+          name: "Faaborg"
+          latitude: 55.0951
+          longitude: 10.24226
+        -
+          name: "Faaborg-Midtfyn Kommune"
+          latitude: 55.22667
+          longitude: 10.40667
+        -
+          name: "Fanø Kommune"
+          latitude: 55.41667
+          longitude: 8.41667
+        -
+          name: "Fredericia"
+          latitude: 55.56568
+          longitude: 9.75257
+        -
+          name: "Fredericia Kommune"
+          latitude: 55.57271
+          longitude: 9.69489
+        -
+          name: "Give"
+          latitude: 55.84523
+          longitude: 9.23769
+        -
+          name: "Glamsbjerg"
+          latitude: 55.27237
+          longitude: 10.10483
+        -
+          name: "Gram"
+          latitude: 55.28948
+          longitude: 9.04913
+        -
+          name: "Gråsten"
+          latitude: 54.91918
+          longitude: 9.59523
+        -
+          name: "Grindsted"
+          latitude: 55.75726
+          longitude: 8.9275
+        -
+          name: "Guderup"
+          latitude: 54.98978
+          longitude: 9.87174
+        -
+          name: "Haderslev"
+          latitude: 55.24943
+          longitude: 9.48771
+        -
+          name: "Haderslev Kommune"
+          latitude: 55.24441
+          longitude: 9.32261
+        -
+          name: "Hårby"
+          latitude: 55.22357
+          longitude: 10.12268
+        -
+          name: "Holsted"
+          latitude: 55.51086
+          longitude: 8.91872
+        -
+          name: "Højby"
+          latitude: 55.33177
+          longitude: 10.43725
+        -
+          name: "Høruphav"
+          latitude: 54.91017
+          longitude: 9.89872
+        -
+          name: "Jelling"
+          latitude: 55.75588
+          longitude: 9.4258
+        -
+          name: "Kerteminde"
+          latitude: 55.44903
+          longitude: 10.65769
+        -
+          name: "Kerteminde Kommune"
+          latitude: 55.45498
+          longitude: 10.6222
+        -
+          name: "Kolding"
+          latitude: 55.4904
+          longitude: 9.47216
+        -
+          name: "Kolding Kommune"
+          latitude: 55.45006
+          longitude: 9.45807
+        -
+          name: "Kruså"
+          latitude: 54.85097
+          longitude: 9.40129
+        -
+          name: "Langeland Kommune"
+          latitude: 54.9
+          longitude: 10.77222
+        -
+          name: "Langeskov"
+          latitude: 55.35655
+          longitude: 10.58447
+        -
+          name: "Løgumkloster"
+          latitude: 55.05941
+          longitude: 8.95508
+        -
+          name: "Løjt Kirkeby"
+          latitude: 55.08959
+          longitude: 9.46084
+        -
+          name: "Lunderskov"
+          latitude: 55.48375
+          longitude: 9.29917
+        -
+          name: "Marstal"
+          latitude: 54.85621
+          longitude: 10.51726
+        -
+          name: "Middelfart"
+          latitude: 55.50591
+          longitude: 9.73054
+        -
+          name: "Middelfart Kommune"
+          latitude: 55.45782
+          longitude: 9.881
+        -
+          name: "Munkebo"
+          latitude: 55.45553
+          longitude: 10.55433
+        -
+          name: "Neder Holluf"
+          latitude: 55.36451
+          longitude: 10.44824
+        -
+          name: "Nordborg"
+          latitude: 55.05732
+          longitude: 9.7408
+        -
+          name: "Nordby"
+          latitude: 55.44603
+          longitude: 8.39786
+        -
+          name: "Nordfyns Kommune"
+          latitude: 55.52222
+          longitude: 10.22222
+        -
+          name: "Nørre Åby"
+          latitude: 55.46107
+          longitude: 9.8794
+        -
+          name: "Nyborg"
+          latitude: 55.31274
+          longitude: 10.78964
+        -
+          name: "Nyborg Kommune"
+          latitude: 55.29473
+          longitude: 10.7031
+        -
+          name: "Odense"
+          latitude: 55.39594
+          longitude: 10.38831
+        -
+          name: "Odense Kommune"
+          latitude: 55.3957
+          longitude: 10.37761
+        -
+          name: "Oksbøl"
+          latitude: 55.6268
+          longitude: 8.28757
+        -
+          name: "Otterup"
+          latitude: 55.51527
+          longitude: 10.39756
+        -
+          name: "Ølgod"
+          latitude: 55.80682
+          longitude: 8.62859
+        -
+          name: "Padborg"
+          latitude: 54.82657
+          longitude: 9.36247
+        -
+          name: "Ribe"
+          latitude: 55.33051
+          longitude: 8.76966
+        -
+          name: "Ringe"
+          latitude: 55.23828
+          longitude: 10.4786
+        -
+          name: "Rødding"
+          latitude: 55.36569
+          longitude: 9.06316
+        -
+          name: "Rødekro"
+          latitude: 55.07076
+          longitude: 9.33531
+        -
+          name: "Rudkøbing"
+          latitude: 54.93639
+          longitude: 10.71019
+        -
+          name: "Seden"
+          latitude: 55.42648
+          longitude: 10.44265
+        -
+          name: "Skaerbaek"
+          latitude: 55.15735
+          longitude: 8.76901
+        -
+          name: "Snoghøj"
+          latitude: 55.52253
+          longitude: 9.72125
+        -
+          name: "Sønder Bjert"
+          latitude: 55.45272
+          longitude: 9.56741
+        -
+          name: "Sønderborg"
+          latitude: 54.90896
+          longitude: 9.78917
+        -
+          name: "Sønderborg Kommune"
+          latitude: 54.91667
+          longitude: 9.8
+        -
+          name: "Søndersø"
+          latitude: 55.48526
+          longitude: 10.2554
+        -
+          name: "Starup"
+          latitude: 55.24097
+          longitude: 9.53503
+        -
+          name: "Stige"
+          latitude: 55.43941
+          longitude: 10.4094
+        -
+          name: "Strib"
+          latitude: 55.54021
+          longitude: 9.76748
+        -
+          name: "Svendborg"
+          latitude: 55.05982
+          longitude: 10.60677
+        -
+          name: "Svendborg Kommune"
+          latitude: 55.0841
+          longitude: 10.61391
+        -
+          name: "Taulov"
+          latitude: 55.54582
+          longitude: 9.61553
+        -
+          name: "Thurø By"
+          latitude: 55.0474
+          longitude: 10.66385
+        -
+          name: "Tinglev"
+          latitude: 54.93788
+          longitude: 9.25547
+        -
+          name: "Tjæreborg"
+          latitude: 55.46457
+          longitude: 8.57968
+        -
+          name: "Toftlund"
+          latitude: 55.18858
+          longitude: 9.06925
+        -
+          name: "Tommerup"
+          latitude: 55.31952
+          longitude: 10.20659
+        -
+          name: "Tommerup Stationsby"
+          latitude: 55.34535
+          longitude: 10.17594
+        -
+          name: "Tønder"
+          latitude: 54.93306
+          longitude: 8.86674
+        -
+          name: "Tønder Kommune"
+          latitude: 55.07304
+          longitude: 8.87214
+        -
+          name: "Ullerslev"
+          latitude: 55.36172
+          longitude: 10.6519
+        -
+          name: "Vamdrup"
+          latitude: 55.42764
+          longitude: 9.28435
+        -
+          name: "Varde"
+          latitude: 55.62112
+          longitude: 8.48069
+        -
+          name: "Varde Kommune"
+          latitude: 55.61667
+          longitude: 8.5
+        -
+          name: "Vejen"
+          latitude: 55.48117
+          longitude: 9.13795
+        -
+          name: "Vejen Kommune"
+          latitude: 55.46312
+          longitude: 9.05004
+        -
+          name: "Vejle"
+          latitude: 55.70927
+          longitude: 9.5357
+        -
+          name: "Vejle Kommune"
+          latitude: 55.74874
+          longitude: 9.40421
+        -
+          name: "Vester-Skerninge"
+          latitude: 55.07322
+          longitude: 10.45536
+        -
+          name: "Vindeby"
+          latitude: 55.04489
+          longitude: 10.61309
+        -
+          name: "Vissenbjerg"
+          latitude: 55.38482
+          longitude: 10.13784
+        -
+          name: "Vojens"
+          latitude: 55.24639
+          longitude: 9.30603
+    -
+      name: "Zealand"
+      code: "85"
+      iso3166_2: "DK-85"
+      type: "region"
+      latitude: 55.5455979
+      longitude: 11.6973741
+      cities:
+        -
+          name: "Asnæs"
+          latitude: 55.81229
+          longitude: 11.50129
+        -
+          name: "Bjæverskov"
+          latitude: 55.45756
+          longitude: 12.03651
+        -
+          name: "Borup"
+          latitude: 55.49472
+          longitude: 11.97584
+        -
+          name: "Dianalund"
+          latitude: 55.53133
+          longitude: 11.4925
+        -
+          name: "Ejby"
+          latitude: 55.4858
+          longitude: 12.08171
+        -
+          name: "Faxe"
+          latitude: 55.25561
+          longitude: 12.11926
+        -
+          name: "Faxe Kommune"
+          latitude: 55.29444
+          longitude: 12.06111
+        -
+          name: "Faxe Ladeplads"
+          latitude: 55.21981
+          longitude: 12.17013
+        -
+          name: "Fensmark"
+          latitude: 55.27919
+          longitude: 11.80382
+        -
+          name: "Forlev"
+          latitude: 55.37445
+          longitude: 11.25966
+        -
+          name: "Frederiksberg"
+          latitude: 55.41618
+          longitude: 11.56934
+        -
+          name: "Fuglebjerg"
+          latitude: 55.30604
+          longitude: 11.54766
+        -
+          name: "Gørlev"
+          latitude: 55.53926
+          longitude: 11.22708
+        -
+          name: "Greve"
+          latitude: 55.58333
+          longitude: 12.3
+        -
+          name: "Greve Kommune"
+          latitude: 55.5877
+          longitude: 12.2506
+        -
+          name: "Guldborgsund Kommune"
+          latitude: 54.76944
+          longitude: 11.83611
+        -
+          name: "Gundsømagle"
+          latitude: 55.73565
+          longitude: 12.15158
+        -
+          name: "Hårlev"
+          latitude: 55.34936
+          longitude: 12.23382
+        -
+          name: "Haslev"
+          latitude: 55.32346
+          longitude: 11.96389
+        -
+          name: "Havdrup"
+          latitude: 55.54481
+          longitude: 12.12392
+        -
+          name: "Holbæk"
+          latitude: 55.7175
+          longitude: 11.71279
+        -
+          name: "Holbæk Kommune"
+          latitude: 55.65919
+          longitude: 11.62049
+        -
+          name: "Holeby"
+          latitude: 54.71148
+          longitude: 11.46416
+        -
+          name: "Høng"
+          latitude: 55.50736
+          longitude: 11.28873
+        -
+          name: "Hørve"
+          latitude: 55.75292
+          longitude: 11.45298
+        -
+          name: "Jyderup"
+          latitude: 55.66399
+          longitude: 11.42029
+        -
+          name: "Jyllinge"
+          latitude: 55.75295
+          longitude: 12.10315
+        -
+          name: "Kalundborg"
+          latitude: 55.67954
+          longitude: 11.08864
+        -
+          name: "Kalundborg Kommune"
+          latitude: 55.63545
+          longitude: 11.19993
+        -
+          name: "Kirke Hvalsø"
+          latitude: 55.5917
+          longitude: 11.86253
+        -
+          name: "Korsør"
+          latitude: 55.32993
+          longitude: 11.13857
+        -
+          name: "Køge"
+          latitude: 55.45802
+          longitude: 12.18214
+        -
+          name: "Køge Kommune"
+          latitude: 55.45668
+          longitude: 12.07332
+        -
+          name: "Lejre"
+          latitude: 55.60461
+          longitude: 11.97477
+        -
+          name: "Lejre Kommune"
+          latitude: 55.63375
+          longitude: 11.92234
+        -
+          name: "Lolland Kommune"
+          latitude: 54.80238
+          longitude: 11.29524
+        -
+          name: "Maribo"
+          latitude: 54.77662
+          longitude: 11.50017
+        -
+          name: "Nakskov"
+          latitude: 54.83038
+          longitude: 11.13567
+        -
+          name: "Næstved"
+          latitude: 55.22992
+          longitude: 11.76092
+        -
+          name: "Næstved Kommune"
+          latitude: 55.25855
+          longitude: 11.74615
+        -
+          name: "Neder Vindinge"
+          latitude: 55.03211
+          longitude: 11.88356
+        -
+          name: "Nørre Alslev"
+          latitude: 54.89784
+          longitude: 11.88414
+        -
+          name: "Nykøbing Falster"
+          latitude: 54.76906
+          longitude: 11.87425
+        -
+          name: "Nykøbing Sjælland"
+          latitude: 55.92491
+          longitude: 11.67109
+        -
+          name: "Nyråd"
+          latitude: 55.00511
+          longitude: 11.9606
+        -
+          name: "Odsherred Kommune"
+          latitude: 55.88333
+          longitude: 11.59444
+        -
+          name: "Osted"
+          latitude: 55.56228
+          longitude: 11.95786
+        -
+          name: "Ørslev"
+          latitude: 55.04356
+          longitude: 11.96792
+        -
+          name: "Præstø"
+          latitude: 55.12374
+          longitude: 12.04477
+        -
+          name: "Ringsted"
+          latitude: 55.4426
+          longitude: 11.79011
+        -
+          name: "Ringsted Kommune"
+          latitude: 55.44721
+          longitude: 11.8172
+        -
+          name: "Roskilde"
+          latitude: 55.64152
+          longitude: 12.08035
+        -
+          name: "Roskilde Kommune"
+          latitude: 55.65
+          longitude: 12.1
+        -
+          name: "Rødby"
+          latitude: 54.69495
+          longitude: 11.38885
+        -
+          name: "Rødbyhavn"
+          latitude: 54.65944
+          longitude: 11.35504
+        -
+          name: "Rødvig"
+          latitude: 55.2554
+          longitude: 12.37936
+        -
+          name: "Rønnede"
+          latitude: 55.2571
+          longitude: 12.02125
+        -
+          name: "Sakskøbing"
+          latitude: 54.7997
+          longitude: 11.62599
+        -
+          name: "Skælskør"
+          latitude: 55.25058
+          longitude: 11.29352
+        -
+          name: "Slagelse"
+          latitude: 55.40276
+          longitude: 11.35459
+        -
+          name: "Slagelse Kommune"
+          latitude: 55.34546
+          longitude: 11.3339
+        -
+          name: "Solrød"
+          latitude: 55.53628
+          longitude: 12.1827
+        -
+          name: "Solrød Kommune"
+          latitude: 55.53553
+          longitude: 12.17337
+        -
+          name: "Solrød Strand"
+          latitude: 55.53285
+          longitude: 12.22227
+        -
+          name: "Sorø"
+          latitude: 55.43184
+          longitude: 11.55547
+        -
+          name: "Sorø Kommune"
+          latitude: 55.48268
+          longitude: 11.55693
+        -
+          name: "Stege"
+          latitude: 54.98704
+          longitude: 12.28461
+        -
+          name: "Stenlille"
+          latitude: 55.53888
+          longitude: 11.5912
+        -
+          name: "Stevns Kommune"
+          latitude: 55.33373
+          longitude: 12.30692
+        -
+          name: "Store Heddinge"
+          latitude: 55.30965
+          longitude: 12.38885
+        -
+          name: "Strøby Egede"
+          latitude: 55.41382
+          longitude: 12.24502
+        -
+          name: "Stubbekøbing"
+          latitude: 54.88875
+          longitude: 12.04102
+        -
+          name: "Sundby"
+          latitude: 54.76711
+          longitude: 11.84979
+        -
+          name: "Svebølle"
+          latitude: 55.65183
+          longitude: 11.28658
+        -
+          name: "Svinninge"
+          latitude: 55.72111
+          longitude: 11.46547
+        -
+          name: "Svogerslev"
+          latitude: 55.63423
+          longitude: 12.01465
+        -
+          name: "Tølløse"
+          latitude: 55.6125
+          longitude: 11.77034
+        -
+          name: "Tune"
+          latitude: 55.59287
+          longitude: 12.16968
+        -
+          name: "Viby"
+          latitude: 55.54872
+          longitude: 12.02391
+        -
+          name: "Vindinge"
+          latitude: 55.62298
+          longitude: 12.1387
+        -
+          name: "Vipperød"
+          latitude: 55.66768
+          longitude: 11.73967
+        -
+          name: "Vordingborg"
+          latitude: 55.00801
+          longitude: 11.91057
+        -
+          name: "Vordingborg Kommune"
+          latitude: 55.01383
+          longitude: 12.10008

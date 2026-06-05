@@ -1,0 +1,1665 @@
+-
+  name: "Algeria"
+  name_es: "Argelia"
+  native: "الجزائر"
+  iso2: "DZ"
+  iso3: "DZA"
+  numeric_code: "012"
+  phonecode: "213"
+  capital: "Algiers"
+  currency: "DZD"
+  currency_name: "Algerian dinar"
+  currency_symbol: "دج"
+  tld: ".dz"
+  region: "Africa"
+  subregion: "Northern Africa"
+  latitude: 28
+  longitude: 3
+  emoji: "🇩🇿"
+  states:
+    -
+      name: "Adrar"
+      code: "01"
+      iso3166_2: "DZ-01"
+      type: "province"
+      latitude: 26.4888155
+      longitude: -1.3582442
+      cities:
+        -
+          name: "Adrar"
+          latitude: 27.87429
+          longitude: -0.29388
+        -
+          name: "Aoulef"
+          latitude: 26.96667
+          longitude: 1.08333
+        -
+          name: "Reggane"
+          latitude: 26.71576
+          longitude: 0.1714
+        -
+          name: "Timimoun"
+          latitude: 29.26388
+          longitude: 0.23098
+    -
+      name: "Aïn Defla"
+      code: "44"
+      iso3166_2: "DZ-44"
+      type: "province"
+      latitude: 36.2657178
+      longitude: 1.9701347
+      cities:
+        -
+          name: "Aïn Defla"
+          latitude: 36.26405
+          longitude: 1.9679
+        -
+          name: "El Abadia"
+          latitude: 36.26951
+          longitude: 1.68609
+        -
+          name: "El Attaf"
+          latitude: 36.22393
+          longitude: 1.67187
+        -
+          name: "Khemis Miliana"
+          latitude: 36.26104
+          longitude: 2.22015
+        -
+          name: "Theniet el Had"
+          latitude: 35.87111
+          longitude: 2.02806
+    -
+      name: "Aïn Témouchent"
+      code: "46"
+      iso3166_2: "DZ-46"
+      type: "province"
+      latitude: 35.2992698
+      longitude: -1.1392792
+      cities:
+        -
+          name: "Aïn Temouchent"
+          latitude: 35.29749
+          longitude: -1.14037
+        -
+          name: "Beni Saf"
+          latitude: 35.30099
+          longitude: -1.38226
+        -
+          name: "El Amria"
+          latitude: 35.52439
+          longitude: -1.01577
+        -
+          name: "El Malah"
+          latitude: 35.39137
+          longitude: -1.09238
+        -
+          name: "Hammam Bou Hadjar"
+          latitude: 35.37889
+          longitude: -0.96778
+    -
+      name: "Algiers"
+      code: "16"
+      iso3166_2: "DZ-16"
+      type: "province"
+      latitude: 36.7000509
+      longitude: 3.0291266
+      cities:
+        -
+          name: "Aïn Taya"
+          latitude: 36.79333
+          longitude: 3.28694
+        -
+          name: "Algiers"
+          latitude: 36.73225
+          longitude: 3.08746
+        -
+          name: "Bab Ezzouar"
+          latitude: 36.72615
+          longitude: 3.18291
+        -
+          name: "Birkhadem"
+          latitude: 36.71499
+          longitude: 3.05002
+        -
+          name: "Bordj el Kiffan"
+          latitude: 36.74871
+          longitude: 3.19249
+        -
+          name: "Dar el Beïda"
+          latitude: 36.71333
+          longitude: 3.2125
+        -
+          name: "Rouiba"
+          latitude: 36.73829
+          longitude: 3.28079
+    -
+      name: "Annaba"
+      code: "23"
+      iso3166_2: "DZ-23"
+      type: "province"
+      latitude: 36.8438448
+      longitude: 7.5981738
+      cities:
+        -
+          name: "Annaba"
+          latitude: 36.9
+          longitude: 7.76667
+        -
+          name: "Berrahal"
+          latitude: 36.83528
+          longitude: 7.45333
+        -
+          name: "Drean"
+          latitude: 36.68482
+          longitude: 7.75111
+        -
+          name: "El Hadjar"
+          latitude: 36.80377
+          longitude: 7.73684
+    -
+      name: "Batna"
+      code: "05"
+      iso3166_2: "DZ-05"
+      type: "province"
+      latitude: 35.5492346
+      longitude: 6.1160382
+      cities:
+        -
+          name: "Aïn Touta"
+          latitude: 35.37675
+          longitude: 5.90001
+        -
+          name: "Arris"
+          latitude: 35.25881
+          longitude: 6.34706
+        -
+          name: "Barika"
+          latitude: 35.38901
+          longitude: 5.36584
+        -
+          name: "Batna"
+          latitude: 35.55597
+          longitude: 6.17414
+        -
+          name: "Boumagueur"
+          latitude: 35.5052
+          longitude: 5.5525
+        -
+          name: "Merouana"
+          latitude: 35.63106
+          longitude: 5.91186
+        -
+          name: "Râs el Aïoun"
+          latitude: 35.67384
+          longitude: 5.6453
+        -
+          name: "Tazoult-Lambese"
+          latitude: 35.48171
+          longitude: 6.26074
+    -
+      name: "Béchar"
+      code: "08"
+      iso3166_2: "DZ-08"
+      type: "province"
+      latitude: 31.6238098
+      longitude: -2.2162443
+      cities:
+        -
+          name: "Béchar"
+          latitude: 31.61667
+          longitude: -2.21667
+    -
+      name: "Béjaïa"
+      code: "06"
+      iso3166_2: "DZ-06"
+      type: "province"
+      latitude: 36.7515258
+      longitude: 5.0556837
+      cities:
+        -
+          name: "Akbou"
+          latitude: 36.4575
+          longitude: 4.53494
+        -
+          name: "Amizour"
+          latitude: 36.64022
+          longitude: 4.90131
+        -
+          name: "Barbacha"
+          latitude: 36.56667
+          longitude: 4.96667
+        -
+          name: "Bejaïa"
+          latitude: 36.75587
+          longitude: 5.08433
+        -
+          name: "el hed"
+          latitude: 36.65
+          longitude: 4.77361
+        -
+          name: "El Kseur"
+          latitude: 36.67942
+          longitude: 4.8555
+        -
+          name: "Feraoun"
+          latitude: 36.56041
+          longitude: 4.85454
+        -
+          name: "Seddouk"
+          latitude: 36.54722
+          longitude: 4.68611
+    -
+      name: "Béni Abbès"
+      code: "53"
+      iso3166_2: "DZ-53"
+      type: "province"
+      latitude: 30.108921
+      longitude: -2.4622548
+      cities:
+        []
+    -
+      name: "Biskra"
+      code: "07"
+      iso3166_2: "DZ-07"
+      type: "province"
+      latitude: 34.8449437
+      longitude: 5.7248567
+      cities:
+        -
+          name: "Biskra"
+          latitude: 34.85038
+          longitude: 5.72805
+        -
+          name: "Oumache"
+          latitude: 34.69292
+          longitude: 5.68092
+        -
+          name: "Sidi Khaled"
+          latitude: 34.387
+          longitude: 4.98785
+        -
+          name: "Sidi Okba"
+          latitude: 34.74512
+          longitude: 5.89833
+        -
+          name: "Tolga"
+          latitude: 34.72224
+          longitude: 5.37845
+        -
+          name: "Zeribet el Oued"
+          latitude: 34.68284
+          longitude: 6.51109
+    -
+      name: "Blida"
+      code: "09"
+      iso3166_2: "DZ-09"
+      type: "province"
+      latitude: 36.5012595
+      longitude: 2.9517666
+      cities:
+        -
+          name: "Beni Mered"
+          latitude: 36.52389
+          longitude: 2.86131
+        -
+          name: "Blida"
+          latitude: 36.47004
+          longitude: 2.8277
+        -
+          name: "Boû Arfa"
+          latitude: 36.46298
+          longitude: 2.81464
+        -
+          name: "Boufarik"
+          latitude: 36.57413
+          longitude: 2.91214
+        -
+          name: "Bougara"
+          latitude: 36.54178
+          longitude: 3.081
+        -
+          name: "Bouinan"
+          latitude: 36.53167
+          longitude: 2.99194
+        -
+          name: "Chebli"
+          latitude: 36.57722
+          longitude: 3.00917
+        -
+          name: "Chiffa"
+          latitude: 36.46293
+          longitude: 2.73873
+        -
+          name: "Larbaâ"
+          latitude: 36.56471
+          longitude: 3.15434
+        -
+          name: "Meftah"
+          latitude: 36.6204
+          longitude: 3.22248
+        -
+          name: "Sidi Moussa"
+          latitude: 36.60637
+          longitude: 3.08783
+        -
+          name: "Souma"
+          latitude: 36.51833
+          longitude: 2.90528
+    -
+      name: "Bordj Baji Mokhtar"
+      code: "52"
+      iso3166_2: "DZ-52"
+      type: "province"
+      latitude: 22.6261461
+      longitude: 0.1275817
+      cities:
+        []
+    -
+      name: "Bordj Bou Arréridj"
+      code: "34"
+      iso3166_2: "DZ-34"
+      type: "province"
+      latitude: 36.0739925
+      longitude: 4.7630271
+      cities:
+        -
+          name: "Bordj Bou Arreridj"
+          latitude: 36.07321
+          longitude: 4.76108
+        -
+          name: "Bordj Ghdir"
+          latitude: 35.90111
+          longitude: 4.89806
+        -
+          name: "Bordj Zemoura"
+          latitude: 36.27462
+          longitude: 4.85668
+        -
+          name: "El Achir"
+          latitude: 36.06386
+          longitude: 4.62744
+        -
+          name: "Mansourah"
+          latitude: 36.08725
+          longitude: 4.45192
+        -
+          name: "Melouza"
+          latitude: 35.97999
+          longitude: 4.18665
+        -
+          name: "Râs el Oued"
+          latitude: 35.9441
+          longitude: 5.03107
+    -
+      name: "Bouïra"
+      code: "10"
+      iso3166_2: "DZ-10"
+      type: "province"
+      latitude: 36.3691846
+      longitude: 3.9006194
+      cities:
+        -
+          name: "Aïn Bessem"
+          latitude: 36.29333
+          longitude: 3.67319
+        -
+          name: "Bouïra"
+          latitude: 36.37489
+          longitude: 3.902
+        -
+          name: "Chorfa"
+          latitude: 36.36505
+          longitude: 4.32636
+        -
+          name: "Draa el Mizan"
+          latitude: 36.53628
+          longitude: 3.8334
+        -
+          name: "Lakhdaria"
+          latitude: 36.56463
+          longitude: 3.5933
+        -
+          name: "Sour el Ghozlane"
+          latitude: 36.14766
+          longitude: 3.69123
+    -
+      name: "Boumerdès"
+      code: "35"
+      iso3166_2: "DZ-35"
+      type: "province"
+      latitude: 36.7358032
+      longitude: 3.6163046
+      cities:
+        -
+          name: "Arbatache"
+          latitude: 36.63773
+          longitude: 3.37127
+        -
+          name: "Beni Amrane"
+          latitude: 36.66774
+          longitude: 3.59115
+        -
+          name: "Boudouaou"
+          latitude: 36.72735
+          longitude: 3.40995
+        -
+          name: "Boumerdas"
+          latitude: 36.76639
+          longitude: 3.47717
+        -
+          name: "Chabet el Ameur"
+          latitude: 36.63709
+          longitude: 3.69474
+        -
+          name: "Dellys"
+          latitude: 36.91716
+          longitude: 3.91311
+        -
+          name: "Khemis el Khechna"
+          latitude: 36.64997
+          longitude: 3.3308
+        -
+          name: "Makouda"
+          latitude: 36.78567
+          longitude: 4.06273
+        -
+          name: "Naciria"
+          latitude: 36.74625
+          longitude: 3.83163
+        -
+          name: "Ouled Moussa"
+          latitude: 36.68394
+          longitude: 3.36661
+        -
+          name: "Reghaïa"
+          latitude: 36.73587
+          longitude: 3.34018
+        -
+          name: "Tadmaït"
+          latitude: 36.74413
+          longitude: 3.90045
+        -
+          name: "Thenia"
+          latitude: 36.72544
+          longitude: 3.55665
+        -
+          name: "Tizi Gheniff"
+          latitude: 36.58839
+          longitude: 3.77445
+    -
+      name: "Chlef"
+      code: "02"
+      iso3166_2: "DZ-02"
+      type: "province"
+      latitude: 36.164592
+      longitude: 1.331499
+      cities:
+        -
+          name: "Abou el Hassan"
+          latitude: 36.41657
+          longitude: 1.19616
+        -
+          name: "Boukadir"
+          latitude: 36.06629
+          longitude: 1.12602
+        -
+          name: "Chlef"
+          latitude: 36.16525
+          longitude: 1.33452
+        -
+          name: "Ech Chettia"
+          latitude: 36.19591
+          longitude: 1.25537
+        -
+          name: "Oued Fodda"
+          latitude: 36.18503
+          longitude: 1.53299
+        -
+          name: "Oued Sly"
+          latitude: 36.10124
+          longitude: 1.19949
+        -
+          name: "Sidi Akkacha"
+          latitude: 36.46472
+          longitude: 1.30258
+    -
+      name: "Constantine"
+      code: "25"
+      iso3166_2: "DZ-25"
+      type: "province"
+      latitude: 36.3584165
+      longitude: 6.6671674
+      cities:
+        -
+          name: "’Aïn Abid"
+          latitude: 36.23194
+          longitude: 6.94333
+        -
+          name: "Aïn Smara"
+          latitude: 36.2674
+          longitude: 6.50135
+        -
+          name: "Constantine"
+          latitude: 36.365
+          longitude: 6.61472
+        -
+          name: "Didouche Mourad"
+          latitude: 36.4525
+          longitude: 6.63639
+        -
+          name: "El Khroub"
+          latitude: 36.26333
+          longitude: 6.69361
+        -
+          name: "Hamma Bouziane"
+          latitude: 36.41205
+          longitude: 6.59603
+    -
+      name: "Djanet"
+      code: "56"
+      iso3166_2: "DZ-56"
+      type: "province"
+      latitude: 24.071521
+      longitude: 9.6155847
+      cities:
+        []
+    -
+      name: "Djelfa"
+      code: "17"
+      iso3166_2: "DZ-17"
+      type: "province"
+      latitude: 34.6703956
+      longitude: 3.2503761
+      cities:
+        -
+          name: "’Aïn el Bell"
+          latitude: 34.34381
+          longitude: 3.22475
+        -
+          name: "Aïn Oussera"
+          latitude: 35.45139
+          longitude: 2.90583
+        -
+          name: "Birine"
+          latitude: 35.635
+          longitude: 3.225
+        -
+          name: "Charef"
+          latitude: 34.62098
+          longitude: 2.79503
+        -
+          name: "Dar Chioukh"
+          latitude: 34.89638
+          longitude: 3.48543
+        -
+          name: "Djelfa"
+          latitude: 34.67279
+          longitude: 3.263
+        -
+          name: "El Idrissia"
+          latitude: 34.44542
+          longitude: 2.52749
+        -
+          name: "Messaad"
+          latitude: 34.15429
+          longitude: 3.50309
+    -
+      name: "El Bayadh"
+      code: "32"
+      iso3166_2: "DZ-32"
+      type: "province"
+      latitude: 32.570303
+      longitude: 1.1259581
+      cities:
+        -
+          name: "Brezina"
+          latitude: 33.09892
+          longitude: 1.26082
+        -
+          name: "El Abiodh Sidi Cheikh"
+          latitude: 32.893
+          longitude: 0.54839
+        -
+          name: "El Bayadh"
+          latitude: 33.68318
+          longitude: 1.01927
+    -
+      name: "El M'ghair"
+      code: "49"
+      iso3166_2: "DZ-49"
+      type: "province"
+      latitude: 33.95807
+      longitude: 5.7011262
+      cities:
+        []
+    -
+      name: "El Menia"
+      code: "50"
+      iso3166_2: "DZ-50"
+      type: "province"
+      latitude: 30.7071885
+      longitude: 3.0480625
+      cities:
+        []
+    -
+      name: "El Oued"
+      code: "39"
+      iso3166_2: "DZ-39"
+      type: "province"
+      latitude: 33.3611531
+      longitude: 6.8606693
+      cities:
+        -
+          name: "Debila"
+          latitude: 33.51667
+          longitude: 6.95
+        -
+          name: "El Oued"
+          latitude: 33.35608
+          longitude: 6.86319
+        -
+          name: "Reguiba"
+          latitude: 33.56391
+          longitude: 6.70326
+        -
+          name: "Robbah"
+          latitude: 33.27967
+          longitude: 6.90984
+    -
+      name: "El Tarf"
+      code: "36"
+      iso3166_2: "DZ-36"
+      type: "province"
+      latitude: 36.7667186
+      longitude: 8.3169418
+      cities:
+        -
+          name: "Ben Mehidi"
+          latitude: 36.76967
+          longitude: 7.90641
+        -
+          name: "Besbes"
+          latitude: 36.70222
+          longitude: 7.84722
+        -
+          name: "El Kala"
+          latitude: 36.89556
+          longitude: 8.44333
+        -
+          name: "El Tarf"
+          latitude: 36.7672
+          longitude: 8.31377
+    -
+      name: "Ghardaïa"
+      code: "47"
+      iso3166_2: "DZ-47"
+      type: "province"
+      latitude: 32.485855
+      longitude: 3.677104
+      cities:
+        -
+          name: "Berriane"
+          latitude: 32.82648
+          longitude: 3.76689
+        -
+          name: "Ghardaïa"
+          latitude: 32.49094
+          longitude: 3.67347
+        -
+          name: "Metlili Chaamba"
+          latitude: 32.26667
+          longitude: 3.63333
+    -
+      name: "Guelma"
+      code: "24"
+      iso3166_2: "DZ-24"
+      type: "province"
+      latitude: 36.4627444
+      longitude: 7.4330833
+      cities:
+        -
+          name: "Boumahra Ahmed"
+          latitude: 36.45833
+          longitude: 7.51389
+        -
+          name: "Guelma"
+          latitude: 36.46214
+          longitude: 7.42608
+        -
+          name: "Héliopolis"
+          latitude: 36.50361
+          longitude: 7.44278
+    -
+      name: "Illizi"
+      code: "33"
+      iso3166_2: "DZ-33"
+      type: "province"
+      latitude: 26.504191
+      longitude: 8.479926
+      cities:
+        -
+          name: "Illizi"
+          latitude: 26.48333
+          longitude: 8.46667
+    -
+      name: "In Guezzam"
+      code: "58"
+      iso3166_2: "DZ-58"
+      type: "province"
+      latitude: 20.42753
+      longitude: 4.676631
+      cities:
+        []
+    -
+      name: "In Salah"
+      code: "57"
+      iso3166_2: "DZ-57"
+      type: "province"
+      latitude: 27.1950331
+      longitude: 2.4826132
+      cities:
+        []
+    -
+      name: "Jijel"
+      code: "18"
+      iso3166_2: "DZ-18"
+      type: "province"
+      latitude: 36.7292188
+      longitude: 5.9607776
+      cities:
+        -
+          name: "Jijel"
+          latitude: 36.82055
+          longitude: 5.76671
+    -
+      name: "Khenchela"
+      code: "40"
+      iso3166_2: "DZ-40"
+      type: "province"
+      latitude: 35.4269404
+      longitude: 7.1460155
+      cities:
+        -
+          name: "Khenchela"
+          latitude: 35.43583
+          longitude: 7.14333
+    -
+      name: "Laghouat"
+      code: "03"
+      iso3166_2: "DZ-03"
+      type: "province"
+      latitude: 33.8063451
+      longitude: 2.8802635
+      cities:
+        -
+          name: "Aflou"
+          latitude: 34.11279
+          longitude: 2.10228
+        -
+          name: "Laghouat"
+          latitude: 33.8
+          longitude: 2.86514
+    -
+      name: "M'Sila"
+      code: "28"
+      iso3166_2: "DZ-28"
+      type: "province"
+      latitude: 35.7087553
+      longitude: 4.5371552
+      cities:
+        -
+          name: "‘Aïn el Hadjel"
+          latitude: 35.67003
+          longitude: 3.88153
+        -
+          name: "’Aïn el Melh"
+          latitude: 34.84146
+          longitude: 4.16383
+        -
+          name: "M’Sila"
+          latitude: 35.70583
+          longitude: 4.54194
+        -
+          name: "Sidi Aïssa"
+          latitude: 35.88548
+          longitude: 3.77236
+    -
+      name: "Mascara"
+      code: "29"
+      iso3166_2: "DZ-29"
+      type: "province"
+      latitude: 35.394081
+      longitude: 0.1379568
+      cities:
+        -
+          name: "Bou Hanifia el Hamamat"
+          latitude: 35.31473
+          longitude: -0.05037
+        -
+          name: "Mascara"
+          latitude: 35.39664
+          longitude: 0.14027
+        -
+          name: "Oued el Abtal"
+          latitude: 35.45595
+          longitude: 0.68778
+        -
+          name: "Sig"
+          latitude: 35.52832
+          longitude: -0.19369
+    -
+      name: "Médéa"
+      code: "26"
+      iso3166_2: "DZ-26"
+      type: "province"
+      latitude: 36.2637078
+      longitude: 2.7587857
+      cities:
+        -
+          name: "’Aïn Boucif"
+          latitude: 35.89123
+          longitude: 3.1585
+        -
+          name: "Berrouaghia"
+          latitude: 36.13516
+          longitude: 2.91085
+        -
+          name: "Ksar el Boukhari"
+          latitude: 35.88889
+          longitude: 2.74905
+        -
+          name: "Médéa"
+          latitude: 36.26417
+          longitude: 2.75393
+    -
+      name: "Mila"
+      code: "43"
+      iso3166_2: "DZ-43"
+      type: "province"
+      latitude: 36.2502135
+      longitude: 6.1652163
+      cities:
+        -
+          name: "Chelghoum el Aïd"
+          latitude: 36.16286
+          longitude: 6.16651
+        -
+          name: "Mila"
+          latitude: 36.45028
+          longitude: 6.26444
+        -
+          name: "Rouached"
+          latitude: 36.45774
+          longitude: 6.04267
+        -
+          name: "Sidi Mérouane"
+          latitude: 36.52056
+          longitude: 6.26111
+        -
+          name: "Telerghma"
+          latitude: 36.11653
+          longitude: 6.35434
+    -
+      name: "Mostaganem"
+      code: "27"
+      iso3166_2: "DZ-27"
+      type: "province"
+      latitude: 36.0026915
+      longitude: 0.3686867
+      cities:
+        -
+          name: "Mostaganem"
+          latitude: 35.93115
+          longitude: 0.08918
+    -
+      name: "Naama"
+      code: "45"
+      iso3166_2: "DZ-45"
+      type: "province"
+      latitude: 33.2667317
+      longitude: -0.3128659
+      cities:
+        -
+          name: "Aïn Sefra"
+          latitude: 32.75
+          longitude: -0.58333
+        -
+          name: "Naama"
+          latitude: 33.26667
+          longitude: -0.31667
+    -
+      name: "Oran"
+      code: "31"
+      iso3166_2: "DZ-31"
+      type: "province"
+      latitude: 35.6215861
+      longitude: -0.7016143
+      cities:
+        -
+          name: "’Aïn el Turk"
+          latitude: 35.74381
+          longitude: -0.7693
+        -
+          name: "Aïn el Bya"
+          latitude: 35.80389
+          longitude: -0.30178
+        -
+          name: "Bir el Djir"
+          latitude: 35.72
+          longitude: -0.545
+        -
+          name: "Bou Tlelis"
+          latitude: 35.57272
+          longitude: -0.8996
+        -
+          name: "Es Senia"
+          latitude: 35.64779
+          longitude: -0.62397
+        -
+          name: "Mers el Kebir"
+          latitude: 35.7279
+          longitude: -0.7081
+        -
+          name: "Oran"
+          latitude: 35.69906
+          longitude: -0.63588
+        -
+          name: "Sidi ech Chahmi"
+          latitude: 35.65903
+          longitude: -0.52168
+    -
+      name: "Ouargla"
+      code: "30"
+      iso3166_2: "DZ-30"
+      type: "province"
+      latitude: 31.9444998
+      longitude: 5.3217813
+      cities:
+        -
+          name: "Djamaa"
+          latitude: 33.53388
+          longitude: 5.99306
+        -
+          name: "El Hadjira"
+          latitude: 32.61336
+          longitude: 5.51259
+        -
+          name: "Hassi Messaoud"
+          latitude: 31.68041
+          longitude: 6.07286
+        -
+          name: "Megarine"
+          latitude: 33.19195
+          longitude: 6.08695
+        -
+          name: "Ouargla"
+          latitude: 31.94932
+          longitude: 5.32502
+        -
+          name: "Rouissat"
+          latitude: 31.92427
+          longitude: 5.35018
+        -
+          name: "Sidi Amrane"
+          latitude: 33.49885
+          longitude: 6.00803
+        -
+          name: "Tebesbest"
+          latitude: 33.11667
+          longitude: 6.08333
+        -
+          name: "Touggourt"
+          latitude: 33.10527
+          longitude: 6.05796
+    -
+      name: "Ouled Djellal"
+      code: "51"
+      iso3166_2: "DZ-51"
+      type: "province"
+      latitude: 34.4254103
+      longitude: 5.0644342
+      cities:
+        []
+    -
+      name: "Oum El Bouaghi"
+      code: "04"
+      iso3166_2: "DZ-04"
+      type: "province"
+      latitude: 35.8688789
+      longitude: 7.1108266
+      cities:
+        -
+          name: "Aïn Beïda"
+          latitude: 35.79639
+          longitude: 7.39278
+        -
+          name: "Aïn Fakroun"
+          latitude: 35.97108
+          longitude: 6.87374
+        -
+          name: "Aïn Kercha"
+          latitude: 35.92472
+          longitude: 6.69528
+        -
+          name: "El Aouinet"
+          latitude: 35.86691
+          longitude: 7.88673
+        -
+          name: "Meskiana"
+          latitude: 35.63058
+          longitude: 7.66606
+        -
+          name: "Oum el Bouaghi"
+          latitude: 35.87541
+          longitude: 7.11353
+    -
+      name: "Relizane"
+      code: "48"
+      iso3166_2: "DZ-48"
+      type: "province"
+      latitude: 35.7381193
+      longitude: 0.5547673
+      cities:
+        -
+          name: "’Aïn Merane"
+          latitude: 36.16277
+          longitude: 0.97037
+        -
+          name: "Ammi Moussa"
+          latitude: 35.86781
+          longitude: 1.11143
+        -
+          name: "Djidiouia"
+          latitude: 35.92989
+          longitude: 0.82871
+        -
+          name: "Mazouna"
+          latitude: 36.12232
+          longitude: 0.89865
+        -
+          name: "Oued Rhiou"
+          latitude: 35.96124
+          longitude: 0.91896
+        -
+          name: "Relizane"
+          latitude: 35.73734
+          longitude: 0.55599
+        -
+          name: "Smala"
+          latitude: 35.71652
+          longitude: 0.75437
+        -
+          name: "Zemoura"
+          latitude: 35.72251
+          longitude: 0.75509
+    -
+      name: "Saïda"
+      code: "20"
+      iso3166_2: "DZ-20"
+      type: "province"
+      latitude: 34.8302067
+      longitude: 0.1502692
+      cities:
+        -
+          name: "’Aïn el Hadjar"
+          latitude: 34.75846
+          longitude: 0.14528
+        -
+          name: "Saïda"
+          latitude: 34.83033
+          longitude: 0.15171
+    -
+      name: "Sétif"
+      code: "19"
+      iso3166_2: "DZ-19"
+      type: "province"
+      latitude: 36.1893494
+      longitude: 5.4046876
+      cities:
+        -
+          name: "Aïn Arnat"
+          latitude: 36.18683
+          longitude: 5.31347
+        -
+          name: "Babor - Ville"
+          latitude: 36.48994
+          longitude: 5.5393
+        -
+          name: "Bougaa"
+          latitude: 36.33293
+          longitude: 5.08843
+        -
+          name: "El Eulma"
+          latitude: 36.15281
+          longitude: 5.69016
+        -
+          name: "Salah Bey"
+          latitude: 35.85451
+          longitude: 5.29053
+        -
+          name: "Sétif"
+          latitude: 36.19112
+          longitude: 5.41373
+    -
+      name: "Sidi Bel Abbès"
+      code: "22"
+      iso3166_2: "DZ-22"
+      type: "province"
+      latitude: 34.682268
+      longitude: -0.4357555
+      cities:
+        -
+          name: "Aïn El Berd"
+          latitude: 35.35
+          longitude: -0.51667
+        -
+          name: "Balidat Ameur"
+          latitude: 32.951389
+          longitude: 5.980556
+        -
+          name: "Belarbi"
+          latitude: 35.1514948
+          longitude: -0.4567909
+        -
+          name: "Ben Badis Sid Bel Abbés"
+          latitude: 34.95277778
+          longitude: -0.91444444
+        -
+          name: "Djamaa"
+          latitude: 33.5313787
+          longitude: 5.9909821
+        -
+          name: "El Bour"
+          latitude: 32.16305556
+          longitude: 5.34527778
+        -
+          name: "El Hadjira"
+          latitude: 32.61666667
+          longitude: 5.51666667
+        -
+          name: "Haoud El Hamra"
+          latitude: 31.88944444
+          longitude: 5.97305556
+        -
+          name: "Hassi Messaoud"
+          latitude: 31.7
+          longitude: 6.06666667
+        -
+          name: "Lamtar"
+          latitude: 35.070627
+          longitude: -0.79814
+        -
+          name: "Marhoum"
+          latitude: 34.4460042
+          longitude: -0.1950244
+        -
+          name: "Megarine"
+          latitude: 33.1926232
+          longitude: 6.0934639
+        -
+          name: "Merine"
+          latitude: 34.7807472
+          longitude: -0.4510403
+        -
+          name: "Mezaourou"
+          latitude: 34.8173267
+          longitude: -0.6233189
+        -
+          name: "Moggar"
+          latitude: 33.26722222
+          longitude: 6.06777778
+        -
+          name: "Moulay Slissen"
+          latitude: 34.81666667
+          longitude: -0.76666667
+        -
+          name: "N'Goussa"
+          latitude: 32.1408797
+          longitude: 5.3082848
+        -
+          name: "Ouargla"
+          latitude: 31.95
+          longitude: 5.31666667
+        -
+          name: "Rouissat"
+          latitude: 31.936576
+          longitude: 5.3354073
+        -
+          name: "Sfissef"
+          latitude: 35.2344028
+          longitude: -0.2434158
+        -
+          name: "Sidi Ali Boussidi"
+          latitude: 35.1
+          longitude: -0.83333333
+        -
+          name: "Sidi Amrane"
+          latitude: 33.5
+          longitude: 6.01666667
+        -
+          name: "Sidi Bel Abbès"
+          latitude: 35.2
+          longitude: -0.63333333
+        -
+          name: "Sidi Brahim"
+          latitude: 35.260556
+          longitude: -0.5675
+        -
+          name: "Sidi Hamadouche"
+          latitude: 35.29916667
+          longitude: -0.54888889
+        -
+          name: "Sidi Slimane"
+          latitude: 33.28861111
+          longitude: 6.09472222
+        -
+          name: "Sidi Yacoub"
+          latitude: 35.13333333
+          longitude: -0.78333333
+        -
+          name: "Sidi Yahia"
+          latitude: 33.52166667
+          longitude: 5.94555556
+        -
+          name: "Tabia Sid Bel Abbés"
+          latitude: 35.0178366
+          longitude: -0.7338524
+        -
+          name: "Taibet"
+          latitude: 33.0839189
+          longitude: 6.3999653
+        -
+          name: "Tamellaht"
+          latitude: 33.0119
+          longitude: 6.00972
+        -
+          name: "Tamerna Djedida"
+          latitude: 33.4464
+          longitude: 5.95639
+        -
+          name: "Tebesbest"
+          latitude: 33.1200129
+          longitude: 6.0800743
+        -
+          name: "Teghalimet"
+          latitude: 34.882833
+          longitude: -0.5600023
+        -
+          name: "Telagh"
+          latitude: 34.7849064
+          longitude: -0.5731773
+        -
+          name: "Tenezara"
+          latitude: 34.9634117
+          longitude: -0.6144619
+        -
+          name: "Tenira"
+          latitude: 35.0196642
+          longitude: -0.5320644
+        -
+          name: "Tessala"
+          latitude: 35.243
+          longitude: -0.773163
+        -
+          name: "Touggourt"
+          latitude: 33.1
+          longitude: 6.06666667
+        -
+          name: "Zerouala"
+          latitude: 35.2423245
+          longitude: -0.5221939
+    -
+      name: "Skikda"
+      code: "21"
+      iso3166_2: "DZ-21"
+      type: "province"
+      latitude: 36.7545115
+      longitude: 6.8856255
+      cities:
+        -
+          name: "Azzaba"
+          latitude: 36.73944
+          longitude: 7.10528
+        -
+          name: "Karkira"
+          latitude: 36.92917
+          longitude: 6.58556
+        -
+          name: "Skikda"
+          latitude: 36.87617
+          longitude: 6.90921
+        -
+          name: "Tamalous"
+          latitude: 36.83763
+          longitude: 6.64018
+    -
+      name: "Souk Ahras"
+      code: "41"
+      iso3166_2: "DZ-41"
+      type: "province"
+      latitude: 36.282865
+      longitude: 7.9537896
+      cities:
+        -
+          name: "Sedrata"
+          latitude: 36.12868
+          longitude: 7.53376
+        -
+          name: "Souk Ahras"
+          latitude: 36.28639
+          longitude: 7.95111
+    -
+      name: "Tamanghasset"
+      code: "11"
+      iso3166_2: "DZ-11"
+      type: "province"
+      latitude: 22.7859372
+      longitude: 5.5291395
+      cities:
+        -
+          name: "I-n-Salah"
+          latitude: 27.19351
+          longitude: 2.46069
+        -
+          name: "Tamanrasset"
+          latitude: 22.785
+          longitude: 5.52278
+    -
+      name: "Tébessa"
+      code: "12"
+      iso3166_2: "DZ-12"
+      type: "province"
+      latitude: 35.124945
+      longitude: 7.9011735
+      cities:
+        -
+          name: "Bir el Ater"
+          latitude: 34.74488
+          longitude: 8.06024
+        -
+          name: "Cheria"
+          latitude: 35.27306
+          longitude: 7.75194
+        -
+          name: "Hammamet"
+          latitude: 35.44862
+          longitude: 7.95184
+        -
+          name: "Tébessa"
+          latitude: 35.40417
+          longitude: 8.12417
+    -
+      name: "Tiaret"
+      code: "14"
+      iso3166_2: "DZ-14"
+      type: "province"
+      latitude: 35.3708689
+      longitude: 1.3217852
+      cities:
+        -
+          name: "’Aïn Deheb"
+          latitude: 34.84218
+          longitude: 1.54697
+        -
+          name: "Djebilet Rosfa"
+          latitude: 34.86375
+          longitude: 0.83496
+        -
+          name: "Frenda"
+          latitude: 35.06544
+          longitude: 1.04945
+        -
+          name: "Ksar Chellala"
+          latitude: 35.21222
+          longitude: 2.31889
+        -
+          name: "Mehdia daira de meghila"
+          latitude: 35.43058
+          longitude: 1.75714
+        -
+          name: "Sougueur"
+          latitude: 35.18568
+          longitude: 1.49612
+        -
+          name: "Tiaret"
+          latitude: 35.37103
+          longitude: 1.31699
+    -
+      name: "Timimoun"
+      code: "54"
+      iso3166_2: "DZ-54"
+      type: "province"
+      latitude: 30.0244725
+      longitude: 0.8485979
+      cities:
+        []
+    -
+      name: "Tindouf"
+      code: "37"
+      iso3166_2: "DZ-37"
+      type: "province"
+      latitude: 27.543907
+      longitude: -6.2400411
+      cities:
+        -
+          name: "Tindouf"
+          latitude: 27.67111
+          longitude: -8.14743
+    -
+      name: "Tipasa"
+      code: "42"
+      iso3166_2: "DZ-42"
+      type: "province"
+      latitude: 36.527157
+      longitude: 2.1672012
+      cities:
+        -
+          name: "’Aïn Benian"
+          latitude: 36.80277
+          longitude: 2.92185
+        -
+          name: "Baraki"
+          latitude: 36.66655
+          longitude: 3.09606
+        -
+          name: "Bou Ismaïl"
+          latitude: 36.64262
+          longitude: 2.69007
+        -
+          name: "Cheraga"
+          latitude: 36.76775
+          longitude: 2.95924
+        -
+          name: "Douera"
+          latitude: 36.67
+          longitude: 2.94444
+        -
+          name: "El Affroun"
+          latitude: 36.4701
+          longitude: 2.62528
+        -
+          name: "Hadjout"
+          latitude: 36.51257
+          longitude: 2.41382
+        -
+          name: "Kolea"
+          latitude: 36.63888
+          longitude: 2.76845
+        -
+          name: "Mouzaïa"
+          latitude: 36.46695
+          longitude: 2.68991
+        -
+          name: "Oued el Alleug"
+          latitude: 36.55528
+          longitude: 2.79028
+        -
+          name: "Saoula"
+          latitude: 36.70456
+          longitude: 3.02462
+        -
+          name: "Tipasa"
+          latitude: 36.58972
+          longitude: 2.4475
+        -
+          name: "Zeralda"
+          latitude: 36.71169
+          longitude: 2.84244
+    -
+      name: "Tissemsilt"
+      code: "38"
+      iso3166_2: "DZ-38"
+      type: "province"
+      latitude: 35.6053781
+      longitude: 1.813098
+      cities:
+        -
+          name: "Lardjem"
+          latitude: 35.74922
+          longitude: 1.54778
+        -
+          name: "Tissemsilt"
+          latitude: 35.60722
+          longitude: 1.81081
+    -
+      name: "Tizi Ouzou"
+      code: "15"
+      iso3166_2: "DZ-15"
+      type: "province"
+      latitude: 36.6816175
+      longitude: 4.237186
+      cities:
+        -
+          name: "’Aïn el Hammam"
+          latitude: 36.56471
+          longitude: 4.30619
+        -
+          name: "Arhribs"
+          latitude: 36.79361
+          longitude: 4.31158
+        -
+          name: "Azazga"
+          latitude: 36.74472
+          longitude: 4.37222
+        -
+          name: "Beni Douala"
+          latitude: 36.61954
+          longitude: 4.08282
+        -
+          name: "Boghni"
+          latitude: 36.54222
+          longitude: 3.95306
+        -
+          name: "Boudjima"
+          latitude: 36.80218
+          longitude: 4.15187
+        -
+          name: "Chemini"
+          latitude: 36.6
+          longitude: 4.61667
+        -
+          name: "Draa Ben Khedda"
+          latitude: 36.73436
+          longitude: 3.96223
+        -
+          name: "Freha"
+          latitude: 36.75234
+          longitude: 4.3155
+        -
+          name: "Ighram"
+          latitude: 36.46295
+          longitude: 4.50532
+        -
+          name: "L’Arbaa Naït Irathen"
+          latitude: 36.63112
+          longitude: 4.19864
+        -
+          name: "Mekla"
+          latitude: 36.68178
+          longitude: 4.26378
+        -
+          name: "Timizart"
+          latitude: 36.8
+          longitude: 4.26667
+        -
+          name: "Tirmitine"
+          latitude: 36.65393
+          longitude: 3.98143
+        -
+          name: "Tizi Ouzou"
+          latitude: 36.71182
+          longitude: 4.04591
+        -
+          name: "Tizi Rached"
+          latitude: 36.67176
+          longitude: 4.19176
+        -
+          name: "Tizi-n-Tleta"
+          latitude: 36.54569
+          longitude: 4.05712
+    -
+      name: "Tlemcen"
+      code: "13"
+      iso3166_2: "DZ-13"
+      type: "province"
+      latitude: 34.667468
+      longitude: -1.2978132
+      cities:
+        -
+          name: "Beni Mester"
+          latitude: 34.87045
+          longitude: -1.42319
+        -
+          name: "Bensekrane"
+          latitude: 35.07465
+          longitude: -1.22431
+        -
+          name: "Chetouane"
+          latitude: 34.92129
+          longitude: -1.29512
+        -
+          name: "Hennaya"
+          latitude: 34.95139
+          longitude: -1.36806
+        -
+          name: "Mansoûra"
+          latitude: 34.86158
+          longitude: -1.33935
+        -
+          name: "Nedroma"
+          latitude: 35.01361
+          longitude: -1.74799
+        -
+          name: "Ouled Mimoun"
+          latitude: 34.90472
+          longitude: -1.03394
+        -
+          name: "Remchi"
+          latitude: 35.06196
+          longitude: -1.43362
+        -
+          name: "Sebdou"
+          latitude: 34.63703
+          longitude: -1.33143
+        -
+          name: "Sidi Abdelli"
+          latitude: 35.06937
+          longitude: -1.13706
+        -
+          name: "Sidi Senoussi سيدي سنوسي"
+          latitude: 34.99691
+          longitude: -1.09449
+        -
+          name: "Tlemcen"
+          latitude: 34.87833
+          longitude: -1.315
+    -
+      name: "Touggourt"
+      code: "55"
+      iso3166_2: "DZ-55"
+      type: "province"
+      latitude: 33.1048574
+      longitude: 6.0667276
+      cities:
+        []

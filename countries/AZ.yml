@@ -1,0 +1,1371 @@
+-
+  name: "Azerbaijan"
+  name_es: "Azerbaiyán"
+  native: "Azərbaycan"
+  iso2: "AZ"
+  iso3: "AZE"
+  numeric_code: "031"
+  phonecode: "994"
+  capital: "Baku"
+  currency: "AZN"
+  currency_name: "Azerbaijani manat"
+  currency_symbol: "m"
+  tld: ".az"
+  region: "Asia"
+  subregion: "Western Asia"
+  latitude: 40.5
+  longitude: 47.5
+  emoji: "🇦🇿"
+  states:
+    -
+      name: "Absheron"
+      code: "ABS"
+      iso3166_2: "AZ-ABS"
+      type: "district"
+      latitude: 40.3361899
+      longitude: 49.2093
+      cities:
+        -
+          name: "Ceyranbatan"
+          latitude: 40.54194
+          longitude: 49.66073
+        -
+          name: "Digah"
+          latitude: 40.49257
+          longitude: 49.87477
+        -
+          name: "Gyuzdek"
+          latitude: 40.37444
+          longitude: 49.68194
+        -
+          name: "Khirdalan"
+          latitude: 40.44808
+          longitude: 49.75502
+        -
+          name: "Qobu"
+          latitude: 40.40472
+          longitude: 49.71306
+        -
+          name: "Saray"
+          latitude: 40.53299
+          longitude: 49.71681
+    -
+      name: "Agdam"
+      code: "AGM"
+      iso3166_2: "AZ-AGM"
+      type: "district"
+      latitude: 39.9928215
+      longitude: 46.9324013
+      cities:
+        -
+          name: "Ağdam"
+          latitude: 39.99096
+          longitude: 46.92736
+    -
+      name: "Agdash"
+      code: "AGS"
+      iso3166_2: "AZ-AGS"
+      type: "district"
+      latitude: 40.1672967
+      longitude: 46.0857252
+      cities:
+        -
+          name: "Ağdaş"
+          latitude: 40.64699
+          longitude: 47.4738
+    -
+      name: "Aghjabadi"
+      code: "AGC"
+      iso3166_2: "AZ-AGC"
+      type: "district"
+      latitude: 40.050544
+      longitude: 47.4607462
+      cities:
+        -
+          name: "Agdzhabedy"
+          latitude: 40.05015
+          longitude: 47.45937
+        -
+          name: "Avşar"
+          latitude: 39.97389
+          longitude: 47.42389
+    -
+      name: "Agstafa"
+      code: "AGA"
+      iso3166_2: "AZ-AGA"
+      type: "district"
+      latitude: 41.1980651
+      longitude: 45.5280953
+      cities:
+        -
+          name: "Aghstafa"
+          latitude: 41.11889
+          longitude: 45.45389
+        -
+          name: "Saloğlu"
+          latitude: 41.27524
+          longitude: 45.35293
+        -
+          name: "Vurğun"
+          latitude: 41.09524
+          longitude: 45.47111
+    -
+      name: "Agsu"
+      code: "AGU"
+      iso3166_2: "AZ-AGU"
+      type: "district"
+      latitude: 40.5583
+      longitude: 48.352971
+      cities:
+        -
+          name: "Aghsu"
+          latitude: 40.57028
+          longitude: 48.40087
+    -
+      name: "Astara"
+      code: "AST"
+      iso3166_2: "AZ-AST"
+      type: "district"
+      latitude: 38.5155977
+      longitude: 48.8283223
+      cities:
+        -
+          name: "Astara"
+          latitude: 38.45598
+          longitude: 48.87498
+        -
+          name: "Kizhaba"
+          latitude: 38.53461
+          longitude: 48.80546
+    -
+      name: "Babek"
+      code: "BAB"
+      iso3166_2: "AZ-BAB"
+      type: "district"
+      latitude: 39.1507613
+      longitude: 45.4485368
+      cities:
+        []
+    -
+      name: "Baku"
+      code: "BA"
+      iso3166_2: "AZ-BA"
+      type: "municipality"
+      latitude: 40.3755885
+      longitude: 49.8328009
+      cities:
+        -
+          name: "Amirdzhan"
+          latitude: 40.42639
+          longitude: 49.98361
+        -
+          name: "Badamdar"
+          latitude: 40.34024
+          longitude: 49.8045
+        -
+          name: "Bakıxanov"
+          latitude: 40.41894
+          longitude: 49.96693
+        -
+          name: "Baku"
+          latitude: 40.37767
+          longitude: 49.89201
+        -
+          name: "Balakhani"
+          latitude: 40.46344
+          longitude: 49.91893
+        -
+          name: "Bilajari"
+          latitude: 40.4444
+          longitude: 49.80566
+        -
+          name: "Bilajer"
+          latitude: 40.56441
+          longitude: 50.04002
+        -
+          name: "Binagadi"
+          latitude: 40.46602
+          longitude: 49.82783
+        -
+          name: "Biny Selo"
+          latitude: 40.45076
+          longitude: 50.08686
+        -
+          name: "Buzovna"
+          latitude: 40.51903
+          longitude: 50.11438
+        -
+          name: "Hövsan"
+          latitude: 40.37444
+          longitude: 50.08528
+        -
+          name: "Khodzhi-Gasan"
+          latitude: 40.41293
+          longitude: 49.76904
+        -
+          name: "Korgöz"
+          latitude: 40.30446
+          longitude: 49.6236
+        -
+          name: "Lökbatan"
+          latitude: 40.3256
+          longitude: 49.73376
+        -
+          name: "Mardakan"
+          latitude: 40.49182
+          longitude: 50.14292
+        -
+          name: "Maştağa"
+          latitude: 40.52983
+          longitude: 50.00616
+        -
+          name: "Nardaran"
+          latitude: 40.55611
+          longitude: 50.00556
+        -
+          name: "Nizami Rayonu"
+          latitude: 40.4097
+          longitude: 49.91926
+        -
+          name: "Pirallahı"
+          latitude: 40.47013
+          longitude: 50.32476
+        -
+          name: "Puta"
+          latitude: 40.29667
+          longitude: 49.66028
+        -
+          name: "Qala"
+          latitude: 40.44256
+          longitude: 50.16759
+        -
+          name: "Qaraçuxur"
+          latitude: 40.39667
+          longitude: 49.97361
+        -
+          name: "Qobustan"
+          latitude: 40.08238
+          longitude: 49.41205
+        -
+          name: "Ramana"
+          latitude: 40.44222
+          longitude: 49.98056
+        -
+          name: "Sabunçu"
+          latitude: 40.4425
+          longitude: 49.94806
+        -
+          name: "Sanqaçal"
+          latitude: 40.16991
+          longitude: 49.46394
+        -
+          name: "Türkan"
+          latitude: 40.3646
+          longitude: 50.22075
+        -
+          name: "Yeni Suraxanı"
+          latitude: 40.43026
+          longitude: 50.03598
+        -
+          name: "Zabrat"
+          latitude: 40.47746
+          longitude: 49.94174
+        -
+          name: "Zyrya"
+          latitude: 40.36613
+          longitude: 50.29198
+    -
+      name: "Balakan"
+      code: "BAL"
+      iso3166_2: "AZ-BAL"
+      type: "district"
+      latitude: 41.7319369
+      longitude: 46.4001881
+      cities:
+        -
+          name: "Belokany"
+          latitude: 41.72626
+          longitude: 46.40478
+        -
+          name: "Qabaqçöl"
+          latitude: 41.75259
+          longitude: 46.27052
+    -
+      name: "Barda"
+      code: "BAR"
+      iso3166_2: "AZ-BAR"
+      type: "district"
+      latitude: 40.3812457
+      longitude: 47.1246287
+      cities:
+        -
+          name: "Barda"
+          latitude: 40.37577
+          longitude: 47.12619
+        -
+          name: "Samuxlu"
+          latitude: 40.50833
+          longitude: 47.16917
+    -
+      name: "Beylagan"
+      code: "BEY"
+      iso3166_2: "AZ-BEY"
+      type: "district"
+      latitude: 39.7723073
+      longitude: 47.6154166
+      cities:
+        -
+          name: "Beylagan"
+          latitude: 39.77556
+          longitude: 47.61861
+        -
+          name: "Birinci Aşıqlı"
+          latitude: 39.81917
+          longitude: 47.67944
+        -
+          name: "Dünyamalılar"
+          latitude: 39.77278
+          longitude: 47.75889
+        -
+          name: "Orjonikidze"
+          latitude: 39.63571
+          longitude: 47.71199
+        -
+          name: "Yuxarı Aran"
+          latitude: 39.73361
+          longitude: 47.655
+    -
+      name: "Bilasuvar"
+      code: "BIL"
+      iso3166_2: "AZ-BIL"
+      type: "district"
+      latitude: 39.4598833
+      longitude: 48.5509813
+      cities:
+        -
+          name: "Pushkino"
+          latitude: 39.45833
+          longitude: 48.545
+    -
+      name: "Dashkasan"
+      code: "DAS"
+      iso3166_2: "AZ-DAS"
+      type: "district"
+      latitude: 40.475196
+      longitude: 46.0150705
+      cities:
+        -
+          name: "Verkhniy Dashkesan"
+          latitude: 40.49357
+          longitude: 46.07175
+        -
+          name: "Yukhary-Dashkesan"
+          latitude: 40.52393
+          longitude: 46.08186
+    -
+      name: "Fizuli"
+      code: "FUZ"
+      iso3166_2: "AZ-FUZ"
+      type: "district"
+      latitude: 39.5835675
+      longitude: 47.3806998
+      cities:
+        -
+          name: "Fizuli"
+          latitude: 39.60094
+          longitude: 47.14529
+        -
+          name: "Horadiz"
+          latitude: 39.45015
+          longitude: 47.33496
+    -
+      name: "Ganja"
+      code: "GA"
+      iso3166_2: "AZ-GA"
+      type: "municipality"
+      latitude: 40.6798083
+      longitude: 46.3597178
+      cities:
+        -
+          name: "Ganja"
+          latitude: 40.68278
+          longitude: 46.36056
+    -
+      name: "Gədəbəy"
+      code: "GAD"
+      iso3166_2: "AZ-GAD"
+      type: "district"
+      latitude: 40.5699639
+      longitude: 45.8106883
+      cities:
+        -
+          name: "Arıqdam"
+          latitude: 40.59313
+          longitude: 45.799
+        -
+          name: "Arıqıran"
+          latitude: 40.53971
+          longitude: 45.61414
+        -
+          name: "Böyük Qaramurad"
+          latitude: 40.57626
+          longitude: 45.63727
+        -
+          name: "Kyadabek"
+          latitude: 40.57055
+          longitude: 45.81229
+        -
+          name: "Novosaratovka"
+          latitude: 40.59811
+          longitude: 45.60079
+    -
+      name: "Gobustan"
+      code: "QOB"
+      iso3166_2: "AZ-QOB"
+      type: "district"
+      latitude: 40.5326044
+      longitude: 48.9941676
+      cities:
+        -
+          name: "Qobustan"
+          latitude: 40.5336
+          longitude: 48.92819
+    -
+      name: "Goranboy"
+      code: "GOR"
+      iso3166_2: "AZ-GOR"
+      type: "district"
+      latitude: 40.6035723
+      longitude: 46.7073906
+      cities:
+        -
+          name: "Goranboy"
+          latitude: 40.61028
+          longitude: 46.78972
+        -
+          name: "Qızılhacılı"
+          latitude: 40.57362
+          longitude: 46.849
+    -
+      name: "Goychay"
+      code: "GOY"
+      iso3166_2: "AZ-GOY"
+      type: "district"
+      latitude: 40.6494415
+      longitude: 47.7412208
+      cities:
+        -
+          name: "Geoktschai"
+          latitude: 40.65055
+          longitude: 47.74219
+    -
+      name: "Goygol"
+      code: "GYG"
+      iso3166_2: "AZ-GYG"
+      type: "district"
+      latitude: 40.588004
+      longitude: 46.321095
+      cities:
+        -
+          name: "Yelenendorf"
+          latitude: 40.58584
+          longitude: 46.3189
+    -
+      name: "Hajigabul"
+      code: "HAC"
+      iso3166_2: "AZ-HAC"
+      type: "district"
+      latitude: 40.0286557
+      longitude: 48.9350797
+      cities:
+        -
+          name: "Hacıqabul"
+          latitude: 40.03874
+          longitude: 48.94286
+        -
+          name: "Mughan"
+          latitude: 40.09902
+          longitude: 48.81886
+    -
+      name: "Imishli"
+      code: "IMI"
+      iso3166_2: "AZ-IMI"
+      type: "district"
+      latitude: 39.8694686
+      longitude: 48.0665218
+      cities:
+        -
+          name: "Imishli"
+          latitude: 39.87095
+          longitude: 48.05995
+    -
+      name: "Ismailli"
+      code: "ISM"
+      iso3166_2: "AZ-ISM"
+      type: "district"
+      latitude: 40.788056
+      longitude: 48.1485653
+      cities:
+        -
+          name: "Basqal"
+          latitude: 40.7552
+          longitude: 48.39104
+        -
+          name: "İsmayıllı"
+          latitude: 40.78485
+          longitude: 48.15141
+    -
+      name: "Jabrayil"
+      code: "CAB"
+      iso3166_2: "AZ-CAB"
+      type: "district"
+      latitude: 39.3188061
+      longitude: 46.9785547
+      cities:
+        -
+          name: "Jebrail"
+          latitude: 39.39917
+          longitude: 47.02835
+    -
+      name: "Jalilabad"
+      code: "CAL"
+      iso3166_2: "AZ-CAL"
+      type: "district"
+      latitude: 39.2051632
+      longitude: 48.5100604
+      cities:
+        -
+          name: "Jalilabad"
+          latitude: 39.20963
+          longitude: 48.49186
+        -
+          name: "Prishibinskoye"
+          latitude: 39.11998
+          longitude: 48.59383
+    -
+      name: "Julfa"
+      code: "CUL"
+      iso3166_2: "AZ-CUL"
+      type: "district"
+      latitude: 39.141142
+      longitude: 45.6949712
+      cities:
+        []
+    -
+      name: "Kalbajar"
+      code: "KAL"
+      iso3166_2: "AZ-KAL"
+      type: "district"
+      latitude: 40.1024329
+      longitude: 46.0364872
+      cities:
+        -
+          name: "Kerbakhiar"
+          latitude: 40.10984
+          longitude: 46.04446
+        -
+          name: "Vank"
+          latitude: 40.05275
+          longitude: 46.54419
+    -
+      name: "Kangarli"
+      code: "KAN"
+      iso3166_2: "AZ-KAN"
+      type: "district"
+      latitude: 39.3632216
+      longitude: 45.2098308
+      cities:
+        []
+    -
+      name: "Khachmaz"
+      code: "XAC"
+      iso3166_2: "AZ-XAC"
+      type: "district"
+      latitude: 41.4591168
+      longitude: 48.8020626
+      cities:
+        -
+          name: "Xaçmaz"
+          latitude: 41.46426
+          longitude: 48.80565
+        -
+          name: "Xudat"
+          latitude: 41.63052
+          longitude: 48.68161
+    -
+      name: "Khankendi"
+      code: "XA"
+      iso3166_2: "AZ-XA"
+      type: "municipality"
+      latitude: 39.8266
+      longitude: 46.7556
+      cities:
+        -
+          name: "Khankendi"
+          latitude: 39.8266
+          longitude: 46.7556
+    -
+      name: "Khizi"
+      code: "XIZ"
+      iso3166_2: "AZ-XIZ"
+      type: "district"
+      latitude: 40.9109489
+      longitude: 49.0729264
+      cities:
+        -
+          name: "Altıağac"
+          latitude: 40.85785
+          longitude: 48.9354
+        -
+          name: "Khyzy"
+          latitude: 40.90847
+          longitude: 49.07481
+        -
+          name: "Kilyazi"
+          latitude: 40.87392
+          longitude: 49.34376
+        -
+          name: "Şuraabad"
+          latitude: 40.8199
+          longitude: 49.46774
+    -
+      name: "Khojali"
+      code: "XCI"
+      iso3166_2: "AZ-XCI"
+      type: "district"
+      latitude: 38.7584727
+      longitude: 48.8564302
+      cities:
+        -
+          name: "Askyaran"
+          latitude: 39.9391
+          longitude: 46.83161
+        -
+          name: "Xocalı"
+          latitude: 39.91297
+          longitude: 46.79028
+    -
+      name: "Kurdamir"
+      code: "KUR"
+      iso3166_2: "AZ-KUR"
+      type: "district"
+      latitude: 40.3455247
+      longitude: 48.1488951
+      cities:
+        -
+          name: "Kyurdarmir"
+          latitude: 40.34257
+          longitude: 48.15649
+    -
+      name: "Lachin"
+      code: "LAC"
+      iso3166_2: "AZ-LAC"
+      type: "district"
+      latitude: 39.6383414
+      longitude: 46.5460853
+      cities:
+        -
+          name: "Laçın"
+          latitude: 39.59881
+          longitude: 46.55045
+    -
+      name: "Lankaran"
+      code: "LAN"
+      iso3166_2: "AZ-LAN"
+      type: "municipality"
+      latitude: 38.7618973
+      longitude: 48.8437784
+      cities:
+        []
+    -
+      name: "Lankaran"
+      code: "LA"
+      iso3166_2: "AZ-LA"
+      type: "district"
+      latitude: 38.7618973
+      longitude: 48.8437784
+      cities:
+        -
+          name: "Haftoni"
+          latitude: 38.76325
+          longitude: 48.76223
+        -
+          name: "Lankaran"
+          latitude: 38.75428
+          longitude: 48.85062
+    -
+      name: "Lerik"
+      code: "LER"
+      iso3166_2: "AZ-LER"
+      type: "district"
+      latitude: 38.7736192
+      longitude: 48.4151483
+      cities:
+        -
+          name: "Lerik"
+          latitude: 38.77388
+          longitude: 48.41497
+    -
+      name: "Martuni"
+      code: "XVD"
+      iso3166_2: "AZ-XVD"
+      type: "district"
+      latitude: 39.8184389
+      longitude: 46.7480867
+      cities:
+        -
+          name: "Hadrut"
+          latitude: 39.52003
+          longitude: 47.0319
+        -
+          name: "Novyy Karanlug"
+          latitude: 39.79496
+          longitude: 47.1117
+        -
+          name: "Qırmızı Bazar"
+          latitude: 39.67669
+          longitude: 46.95123
+    -
+      name: "Masally"
+      code: "MAS"
+      iso3166_2: "AZ-MAS"
+      type: "district"
+      latitude: 39.0322111
+      longitude: 48.6721093
+      cities:
+        -
+          name: "Boradigah"
+          latitude: 38.93013
+          longitude: 48.7092
+        -
+          name: "Masally"
+          latitude: 39.03532
+          longitude: 48.6654
+    -
+      name: "Mingachevir"
+      code: "MI"
+      iso3166_2: "AZ-MI"
+      type: "municipality"
+      latitude: 40.7702563
+      longitude: 47.0496015
+      cities:
+        -
+          name: "Mingelchaur"
+          latitude: 40.76395
+          longitude: 47.05953
+    -
+      name: "Naftalan"
+      code: "NA"
+      iso3166_2: "AZ-NA"
+      type: "municipality"
+      latitude: 40.5061
+      longitude: 46.8244
+      cities:
+        -
+          name: "Naftalan"
+          latitude: 40.5061
+          longitude: 46.8244
+    -
+      name: "Nakhchivan"
+      code: "NV"
+      iso3166_2: "AZ-NV"
+      type: "municipality"
+      latitude: 39.2089
+      longitude: 45.4122
+      cities:
+        -
+          name: "Nakhchivan"
+          latitude: 39.20889
+          longitude: 45.41222
+    -
+      name: "Nakhchivan"
+      code: "NX"
+      iso3166_2: "AZ-NX"
+      type: "autonomous republic"
+      latitude: 39.217497
+      longitude: 45.4069671
+      cities:
+        -
+          name: "Cahri"
+          latitude: 39.34837
+          longitude: 45.41557
+        -
+          name: "Çalxanqala"
+          latitude: 39.44167
+          longitude: 45.28333
+        -
+          name: "Culfa"
+          latitude: 38.95397
+          longitude: 45.62961
+        -
+          name: "Deste"
+          latitude: 38.88375
+          longitude: 45.90963
+        -
+          name: "Heydarabad"
+          latitude: 39.72286
+          longitude: 44.84846
+        -
+          name: "Julfa Rayon"
+          latitude: 39.16667
+          longitude: 45.66667
+        -
+          name: "Oğlanqala"
+          latitude: 39.58694
+          longitude: 45.04611
+        -
+          name: "Ordubad"
+          latitude: 38.90961
+          longitude: 46.02274
+        -
+          name: "Ordubad Rayon"
+          latitude: 39.08333
+          longitude: 45.91667
+        -
+          name: "Qıvraq"
+          latitude: 39.39939
+          longitude: 45.11513
+        -
+          name: "Şahbuz"
+          latitude: 39.40722
+          longitude: 45.57389
+        -
+          name: "Sedarak"
+          latitude: 39.71427
+          longitude: 44.88455
+        -
+          name: "Shahbuz Rayon"
+          latitude: 39.41667
+          longitude: 45.58333
+        -
+          name: "Sharur City"
+          latitude: 39.55298
+          longitude: 44.97993
+        -
+          name: "Sumbatan-diza"
+          latitude: 38.94804
+          longitude: 45.82572
+        -
+          name: "Tazakend"
+          latitude: 39.15459
+          longitude: 45.44282
+        -
+          name: "Yaycı"
+          latitude: 38.94052
+          longitude: 45.73244
+    -
+      name: "Neftchala"
+      code: "NEF"
+      iso3166_2: "AZ-NEF"
+      type: "district"
+      latitude: 39.3790532
+      longitude: 49.248607
+      cities:
+        -
+          name: "Neftçala"
+          latitude: 39.3768
+          longitude: 49.247
+        -
+          name: "Severo-Vostotchnyi Bank"
+          latitude: 39.41117
+          longitude: 49.24792
+        -
+          name: "Sovetabad"
+          latitude: 39.33667
+          longitude: 49.21414
+        -
+          name: "Xıllı"
+          latitude: 39.43012
+          longitude: 49.10166
+    -
+      name: "Oghuz"
+      code: "OGU"
+      iso3166_2: "AZ-OGU"
+      type: "district"
+      latitude: 41.0727924
+      longitude: 47.4650672
+      cities:
+        -
+          name: "Oğuz"
+          latitude: 41.07128
+          longitude: 47.46528
+    -
+      name: "Ordubad"
+      code: "ORD"
+      iso3166_2: "AZ-ORD"
+      type: "district"
+      latitude: 38.9021622
+      longitude: 46.0237625
+      cities:
+        []
+    -
+      name: "Qabala"
+      code: "QAB"
+      iso3166_2: "AZ-QAB"
+      type: "district"
+      latitude: 40.9436064
+      longitude: 47.8213377
+      cities:
+        -
+          name: "Qutqashen"
+          latitude: 40.98247
+          longitude: 47.84909
+    -
+      name: "Qakh"
+      code: "QAX"
+      iso3166_2: "AZ-QAX"
+      type: "district"
+      latitude: 41.4185515
+      longitude: 46.9192097
+      cities:
+        -
+          name: "Çinarlı"
+          latitude: 41.46965
+          longitude: 46.91582
+        -
+          name: "Qax"
+          latitude: 41.41826
+          longitude: 46.92043
+        -
+          name: "Qax İngiloy"
+          latitude: 41.42412
+          longitude: 46.93859
+        -
+          name: "Qaxbaş"
+          latitude: 41.43254
+          longitude: 46.9646
+    -
+      name: "Qazakh"
+      code: "QAZ"
+      iso3166_2: "AZ-QAZ"
+      type: "district"
+      latitude: 41.1707366
+      longitude: 45.2528833
+      cities:
+        -
+          name: "Qazax"
+          latitude: 41.09246
+          longitude: 45.36561
+    -
+      name: "Quba"
+      code: "QBA"
+      iso3166_2: "AZ-QBA"
+      type: "district"
+      latitude: 41.1880893
+      longitude: 48.3721452
+      cities:
+        -
+          name: "Hacıhüseynli"
+          latitude: 41.45639
+          longitude: 48.64889
+        -
+          name: "Quba"
+          latitude: 41.36108
+          longitude: 48.51341
+    -
+      name: "Qubadli"
+      code: "QBI"
+      iso3166_2: "AZ-QBI"
+      type: "district"
+      latitude: 39.3335958
+      longitude: 46.63354
+      cities:
+        -
+          name: "Qubadlı"
+          latitude: 39.34441
+          longitude: 46.58183
+    -
+      name: "Qusar"
+      code: "QUS"
+      iso3166_2: "AZ-QUS"
+      type: "district"
+      latitude: 41.4266886
+      longitude: 48.4345577
+      cities:
+        -
+          name: "Qusar"
+          latitude: 41.4275
+          longitude: 48.4302
+        -
+          name: "Samur"
+          latitude: 41.63671
+          longitude: 48.43028
+    -
+      name: "Saatly"
+      code: "SAT"
+      iso3166_2: "AZ-SAT"
+      type: "district"
+      latitude: 39.9376009
+      longitude: 48.3689097
+      cities:
+        -
+          name: "Əhmədbəyli"
+          latitude: 39.88074
+          longitude: 48.39158
+        -
+          name: "Saatlı"
+          latitude: 39.93214
+          longitude: 48.36892
+    -
+      name: "Sabirabad"
+      code: "SAB"
+      iso3166_2: "AZ-SAB"
+      type: "district"
+      latitude: 40.008006
+      longitude: 48.475032
+      cities:
+        -
+          name: "Sabirabad"
+          latitude: 40.00869
+          longitude: 48.47701
+    -
+      name: "Sadarak"
+      code: "SAD"
+      iso3166_2: "AZ-SAD"
+      type: "district"
+      latitude: 39.6727407
+      longitude: 44.9138739
+      cities:
+        []
+    -
+      name: "Salyan"
+      code: "SAL"
+      iso3166_2: "AZ-SAL"
+      type: "district"
+      latitude: 39.6524101
+      longitude: 49.1084381
+      cities:
+        -
+          name: "Qaraçala"
+          latitude: 39.81614
+          longitude: 48.93792
+        -
+          name: "Salyan"
+          latitude: 39.59621
+          longitude: 48.98479
+    -
+      name: "Samukh"
+      code: "SMX"
+      iso3166_2: "AZ-SMX"
+      type: "district"
+      latitude: 40.7604631
+      longitude: 46.4063181
+      cities:
+        -
+          name: "Qarayeri"
+          latitude: 40.78674
+          longitude: 46.31365
+        -
+          name: "Qırmızı Samux"
+          latitude: 40.93972
+          longitude: 46.37889
+        -
+          name: "Samux"
+          latitude: 40.76485
+          longitude: 46.40868
+    -
+      name: "Shabran"
+      code: "SBN"
+      iso3166_2: "AZ-SBN"
+      type: "district"
+      latitude: 41.1776161
+      longitude: 48.8767058
+      cities:
+        -
+          name: "Divichibazar"
+          latitude: 41.20117
+          longitude: 48.98712
+    -
+      name: "Shahbuz"
+      code: "SAH"
+      iso3166_2: "AZ-SAH"
+      type: "district"
+      latitude: 39.4385817
+      longitude: 45.6071333
+      cities:
+        []
+    -
+      name: "Shaki"
+      code: "SA"
+      iso3166_2: "AZ-SA"
+      type: "municipality"
+      latitude: 41.2033609
+      longitude: 47.1802623
+      cities:
+        -
+          name: "Sheki"
+          latitude: 41.19194
+          longitude: 47.17056
+    -
+      name: "Shaki"
+      code: "SAK"
+      iso3166_2: "AZ-SAK"
+      type: "district"
+      latitude: 41.2033609
+      longitude: 47.1802623
+      cities:
+        -
+          name: "Baş Göynük"
+          latitude: 41.32582
+          longitude: 47.11357
+    -
+      name: "Shamakhi"
+      code: "SMI"
+      iso3166_2: "AZ-SMI"
+      type: "district"
+      latitude: 40.6318731
+      longitude: 48.6363801
+      cities:
+        -
+          name: "Shamakhi"
+          latitude: 40.63141
+          longitude: 48.64137
+    -
+      name: "Shamkir"
+      code: "SKR"
+      iso3166_2: "AZ-SKR"
+      type: "district"
+      latitude: 40.8357964
+      longitude: 46.0246224
+      cities:
+        -
+          name: "Dolyar"
+          latitude: 40.86278
+          longitude: 46.03493
+        -
+          name: "Dzagam"
+          latitude: 40.9033
+          longitude: 45.88564
+        -
+          name: "Qasım İsmayılov"
+          latitude: 40.81243
+          longitude: 46.25938
+        -
+          name: "Shamkhor"
+          latitude: 40.82975
+          longitude: 46.0178
+    -
+      name: "Sharur"
+      code: "SAR"
+      iso3166_2: "AZ-SAR"
+      type: "district"
+      latitude: 39.5536332
+      longitude: 44.984568
+      cities:
+        []
+    -
+      name: "Shirvan"
+      code: "SR"
+      iso3166_2: "AZ-SR"
+      type: "municipality"
+      latitude: 39.9296573
+      longitude: 48.9342657
+      cities:
+        -
+          name: "Şirvan"
+          latitude: 39.93778
+          longitude: 48.929
+    -
+      name: "Shusha"
+      code: "SUS"
+      iso3166_2: "AZ-SUS"
+      type: "district"
+      latitude: 39.7632567
+      longitude: 46.7511501
+      cities:
+        -
+          name: "Shushi"
+          latitude: 39.76006
+          longitude: 46.74989
+    -
+      name: "Siazan"
+      code: "SIY"
+      iso3166_2: "AZ-SIY"
+      type: "district"
+      latitude: 41.0783833
+      longitude: 49.1118477
+      cities:
+        -
+          name: "Gilgilçay"
+          latitude: 41.13932
+          longitude: 49.09038
+        -
+          name: "Kyzyl-Burun"
+          latitude: 41.07811
+          longitude: 49.11564
+    -
+      name: "Sumqayit"
+      code: "SM"
+      iso3166_2: "AZ-SM"
+      type: "municipality"
+      latitude: 40.5961585
+      longitude: 49.6696668
+      cities:
+        -
+          name: "Corat"
+          latitude: 40.57176
+          longitude: 49.70509
+        -
+          name: "Hacı Zeynalabdin"
+          latitude: 40.62333
+          longitude: 49.55861
+        -
+          name: "Sumqayıt"
+          latitude: 40.58972
+          longitude: 49.66861
+    -
+      name: "Tartar"
+      code: "TAR"
+      iso3166_2: "AZ-TAR"
+      type: "district"
+      latitude: 40.3443875
+      longitude: 46.9376519
+      cities:
+        -
+          name: "Martakert"
+          latitude: 40.21127
+          longitude: 46.82135
+        -
+          name: "Terter"
+          latitude: 40.34201
+          longitude: 46.93161
+    -
+      name: "Tovuz"
+      code: "TOV"
+      iso3166_2: "AZ-TOV"
+      type: "district"
+      latitude: 40.9954523
+      longitude: 45.6165907
+      cities:
+        -
+          name: "Çatax"
+          latitude: 40.72622
+          longitude: 45.55919
+        -
+          name: "Çobansığnaq"
+          latitude: 40.75244
+          longitude: 45.70645
+        -
+          name: "Dondar Quşçu"
+          latitude: 40.9539
+          longitude: 45.61942
+        -
+          name: "Qaraxanlı"
+          latitude: 41.04358
+          longitude: 45.65527
+        -
+          name: "Tovuz"
+          latitude: 40.99249
+          longitude: 45.62838
+        -
+          name: "Yanıqlı"
+          latitude: 40.8432
+          longitude: 45.6803
+    -
+      name: "Ujar"
+      code: "UCA"
+      iso3166_2: "AZ-UCA"
+      type: "district"
+      latitude: 40.5185386
+      longitude: 47.6487809
+      cities:
+        -
+          name: "Ujar"
+          latitude: 40.51902
+          longitude: 47.65423
+    -
+      name: "Yardymli"
+      code: "YAR"
+      iso3166_2: "AZ-YAR"
+      type: "district"
+      latitude: 38.9028993
+      longitude: 48.2132983
+      cities:
+        -
+          name: "Yardımlı"
+          latitude: 38.90771
+          longitude: 48.24052
+    -
+      name: "Yevlakh"
+      code: "YEV"
+      iso3166_2: "AZ-YEV"
+      type: "district"
+      latitude: 40.6115136
+      longitude: 47.1466686
+      cities:
+        -
+          name: "Aran"
+          latitude: 40.62528
+          longitude: 46.97556
+        -
+          name: "Qaramanlı"
+          latitude: 40.48135
+          longitude: 46.99339
+    -
+      name: "Yevlakh"
+      code: "YE"
+      iso3166_2: "AZ-YE"
+      type: "municipality"
+      latitude: 40.6115136
+      longitude: 47.1466686
+      cities:
+        -
+          name: "Yevlakh"
+          latitude: 40.61832
+          longitude: 47.15014
+    -
+      name: "Zangilan"
+      code: "ZAN"
+      iso3166_2: "AZ-ZAN"
+      type: "district"
+      latitude: 39.0856899
+      longitude: 46.6524728
+      cities:
+        -
+          name: "Mincivan"
+          latitude: 39.03023
+          longitude: 46.72329
+        -
+          name: "Zangilan"
+          latitude: 39.08371
+          longitude: 46.65988
+    -
+      name: "Zaqatala"
+      code: "ZAQ"
+      iso3166_2: "AZ-ZAQ"
+      type: "district"
+      latitude: 41.6180321
+      longitude: 46.7595126
+      cities:
+        -
+          name: "Aliabad"
+          latitude: 41.4829
+          longitude: 46.63483
+        -
+          name: "Faldarlı"
+          latitude: 41.46868
+          longitude: 46.51579
+        -
+          name: "Mamrux"
+          latitude: 41.54243
+          longitude: 46.767
+        -
+          name: "Qandax"
+          latitude: 41.47546
+          longitude: 46.54128
+        -
+          name: "Zaqatala"
+          latitude: 41.6316
+          longitude: 46.64479
+    -
+      name: "Zardab"
+      code: "ZAR"
+      iso3166_2: "AZ-ZAR"
+      type: "district"
+      latitude: 40.2148114
+      longitude: 47.714944
+      cities:
+        -
+          name: "Zardob"
+          latitude: 40.2184
+          longitude: 47.71214

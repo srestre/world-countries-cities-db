@@ -1,0 +1,687 @@
+-
+  name: "Albania"
+  name_es: "Albania"
+  native: "Shqipëria"
+  iso2: "AL"
+  iso3: "ALB"
+  numeric_code: "008"
+  phonecode: "355"
+  capital: "Tirana"
+  currency: "ALL"
+  currency_name: "Albanian lek"
+  currency_symbol: "Lek"
+  tld: ".al"
+  region: "Europe"
+  subregion: "Southern Europe"
+  latitude: 41
+  longitude: 20
+  emoji: "🇦🇱"
+  states:
+    -
+      name: "Berat"
+      code: "01"
+      iso3166_2: "AL-01"
+      type: "county"
+      latitude: 40.7018636
+      longitude: 19.9580758
+      cities:
+        -
+          name: "Banaj"
+          latitude: 40.82492
+          longitude: 19.84074
+        -
+          name: "Bashkia Berat"
+          latitude: 40.69997
+          longitude: 19.94983
+        -
+          name: "Bashkia Kuçovë"
+          latitude: 40.82489
+          longitude: 19.9535
+        -
+          name: "Bashkia Poliçan"
+          latitude: 40.58608
+          longitude: 20.04535
+        -
+          name: "Bashkia Skrapar"
+          latitude: 40.56036
+          longitude: 20.25477
+        -
+          name: "Berat"
+          latitude: 40.70583
+          longitude: 19.95222
+        -
+          name: "Çorovodë"
+          latitude: 40.50417
+          longitude: 20.22722
+        -
+          name: "Kuçovë"
+          latitude: 40.80028
+          longitude: 19.91667
+        -
+          name: "Poliçan"
+          latitude: 40.61222
+          longitude: 20.09806
+        -
+          name: "Rrethi i Beratit"
+          latitude: 40.66667
+          longitude: 20
+        -
+          name: "Rrethi i Kuçovës"
+          latitude: 40.83333
+          longitude: 19.91667
+        -
+          name: "Rrethi i Skraparit"
+          latitude: 40.55
+          longitude: 20.26667
+        -
+          name: "Skrapar"
+          latitude: 40.5407139
+          longitude: 20.101884
+        -
+          name: "Ura Vajgurore"
+          latitude: 40.76889
+          longitude: 19.87778
+    -
+      name: "Dibër"
+      code: "09"
+      iso3166_2: "AL-09"
+      type: "county"
+      latitude: 41.622192
+      longitude: 20.180816
+      cities:
+        -
+          name: "Bashkia Bulqizë"
+          latitude: 41.47152
+          longitude: 20.33192
+        -
+          name: "Bashkia Klos"
+          latitude: 41.50826
+          longitude: 20.07107
+        -
+          name: "Bashkia Mat"
+          latitude: 41.63317
+          longitude: 20.01228
+        -
+          name: "Bulqizë"
+          latitude: 41.49167
+          longitude: 20.22194
+        -
+          name: "Burrel"
+          latitude: 41.61028
+          longitude: 20.00889
+        -
+          name: "Dibër"
+          latitude: 41.7309909
+          longitude: 20.1890858
+        -
+          name: "Klos"
+          latitude: 41.50694
+          longitude: 20.08667
+        -
+          name: "Mat"
+          latitude: 41.6364812
+          longitude: 19.840556
+        -
+          name: "Peshkopi"
+          latitude: 41.685
+          longitude: 20.42889
+        -
+          name: "Rrethi i Bulqizës"
+          latitude: 41.5
+          longitude: 20.33333
+        -
+          name: "Rrethi i Dibrës"
+          latitude: 41.75
+          longitude: 20.33333
+        -
+          name: "Rrethi i Matit"
+          latitude: 41.58333
+          longitude: 20.08333
+        -
+          name: "Ulëz"
+          latitude: 41.68278
+          longitude: 19.89333
+    -
+      name: "Durrës"
+      code: "02"
+      iso3166_2: "AL-02"
+      type: "county"
+      latitude: 41.4279863
+      longitude: 19.5373372
+      cities:
+        -
+          name: "Bashkia Durrës"
+          latitude: 41.42743
+          longitude: 19.4869
+        -
+          name: "Bashkia Krujë"
+          latitude: 41.50091
+          longitude: 19.72571
+        -
+          name: "Bashkia Shijak"
+          latitude: 41.33558
+          longitude: 19.58977
+        -
+          name: "Durrës"
+          latitude: 41.3313929
+          longitude: 19.4251579
+        -
+          name: "Durrës District"
+          latitude: 41.3166
+          longitude: 19.45
+        -
+          name: "Fushë-Krujë"
+          latitude: 41.47833
+          longitude: 19.71778
+        -
+          name: "Krujë"
+          latitude: 41.50917
+          longitude: 19.79278
+        -
+          name: "Rrethi i Krujës"
+          latitude: 41.55
+          longitude: 19.75
+        -
+          name: "Shijak"
+          latitude: 41.34556
+          longitude: 19.56722
+        -
+          name: "Sukth"
+          latitude: 41.38056
+          longitude: 19.53778
+    -
+      name: "Elbasan"
+      code: "03"
+      iso3166_2: "AL-03"
+      type: "county"
+      latitude: 41.0510829
+      longitude: 20.1398526
+      cities:
+        -
+          name: "Gramsh"
+          latitude: 40.8661446
+          longitude: 20.1763701
+        -
+          name: "Librazhd"
+          latitude: 41.1832398
+          longitude: 20.3036248
+        -
+          name: "Peqin"
+          latitude: 41.0464103
+          longitude: 19.7405004
+    -
+      name: "Fier"
+      code: "04"
+      iso3166_2: "AL-04"
+      type: "county"
+      latitude: 40.9191392
+      longitude: 19.6639309
+      cities:
+        -
+          name: "Ballsh"
+          latitude: 40.59889
+          longitude: 19.73472
+        -
+          name: "Bashkia Divjakë"
+          latitude: 40.95716
+          longitude: 19.52364
+        -
+          name: "Bashkia Fier"
+          latitude: 40.72937
+          longitude: 19.4869
+        -
+          name: "Bashkia Mallakastër"
+          latitude: 40.55669
+          longitude: 19.77347
+        -
+          name: "Bashkia Patos"
+          latitude: 40.67793
+          longitude: 19.65591
+        -
+          name: "Divjakë"
+          latitude: 40.99667
+          longitude: 19.52944
+        -
+          name: "Fier"
+          latitude: 40.72389
+          longitude: 19.55611
+        -
+          name: "Fier-Çifçi"
+          latitude: 40.71667
+          longitude: 19.56667
+        -
+          name: "Lushnjë"
+          latitude: 40.94194
+          longitude: 19.705
+        -
+          name: "Mallakastër"
+          latitude: 40.5433544
+          longitude: 19.6248073
+        -
+          name: "Patos"
+          latitude: 40.68333
+          longitude: 19.61944
+        -
+          name: "Patos Fshat"
+          latitude: 40.64278
+          longitude: 19.65083
+        -
+          name: "Roskovec"
+          latitude: 40.7375
+          longitude: 19.70222
+        -
+          name: "Rrethi i Mallakastrës"
+          latitude: 40.55
+          longitude: 19.78333
+    -
+      name: "Gjirokastër"
+      code: "05"
+      iso3166_2: "AL-05"
+      type: "county"
+      latitude: 40.0770871
+      longitude: 20.1393359
+      cities:
+        -
+          name: "Bashkia Kelcyrë"
+          latitude: 40.36196
+          longitude: 20.16476
+        -
+          name: "Bashkia Libohovë"
+          latitude: 40.10754
+          longitude: 20.25753
+        -
+          name: "Bashkia Memaliaj"
+          latitude: 40.41524
+          longitude: 19.96911
+        -
+          name: "Bashkia Përmet"
+          latitude: 40.23246
+          longitude: 20.41091
+        -
+          name: "Bashkia Tepelenë"
+          latitude: 40.26736
+          longitude: 19.97003
+        -
+          name: "Dropull"
+          latitude: 39.98584
+          longitude: 20.30529
+        -
+          name: "Gjinkar"
+          latitude: 40.19944
+          longitude: 20.40611
+        -
+          name: "Gjirokastër"
+          latitude: 40.07583
+          longitude: 20.13889
+        -
+          name: "Këlcyrë"
+          latitude: 40.31306
+          longitude: 20.18944
+        -
+          name: "Lazarat"
+          latitude: 40.04667
+          longitude: 20.1475
+        -
+          name: "Libohovë"
+          latitude: 40.03111
+          longitude: 20.26306
+        -
+          name: "Memaliaj"
+          latitude: 40.35167
+          longitude: 19.98028
+        -
+          name: "Përmet"
+          latitude: 40.23361
+          longitude: 20.35167
+        -
+          name: "Tepelenë"
+          latitude: 40.29583
+          longitude: 20.01917
+    -
+      name: "Korçë"
+      code: "06"
+      iso3166_2: "AL-06"
+      type: "county"
+      latitude: 40.5858753
+      longitude: 20.7361315
+      cities:
+        -
+          name: "Bashkia Devoll"
+          latitude: 40.60078
+          longitude: 20.93814
+        -
+          name: "Bashkia Kolonjë"
+          latitude: 40.3142
+          longitude: 20.61482
+        -
+          name: "Bashkia Maliq"
+          latitude: 40.75508
+          longitude: 20.60748
+        -
+          name: "Bilisht"
+          latitude: 40.6275
+          longitude: 20.99
+        -
+          name: "Devoll"
+          latitude: 40.589983
+          longitude: 20.7481313
+        -
+          name: "Ersekë"
+          latitude: 40.33778
+          longitude: 20.67889
+        -
+          name: "Kolonjë"
+          latitude: 40.2830545
+          longitude: 20.4564726
+        -
+          name: "Korçë"
+          latitude: 40.61861
+          longitude: 20.78083
+        -
+          name: "Leskovik"
+          latitude: 40.15139
+          longitude: 20.59722
+        -
+          name: "Libonik"
+          latitude: 40.70444
+          longitude: 20.70861
+        -
+          name: "Maliq"
+          latitude: 40.70583
+          longitude: 20.69972
+        -
+          name: "Mborje"
+          latitude: 40.60333
+          longitude: 20.80306
+        -
+          name: "Pogradec"
+          latitude: 40.9025
+          longitude: 20.6525
+        -
+          name: "Pustec"
+          latitude: 40.83591
+          longitude: 20.89405
+        -
+          name: "Rrethi i Devollit"
+          latitude: 40.58333
+          longitude: 20.91667
+        -
+          name: "Rrethi i Kolonjës"
+          latitude: 40.25
+          longitude: 20.66667
+        -
+          name: "Velçan"
+          latitude: 40.95472
+          longitude: 20.46222
+        -
+          name: "Voskopojë"
+          latitude: 40.63306
+          longitude: 20.58889
+    -
+      name: "Kukës"
+      code: "07"
+      iso3166_2: "AL-07"
+      type: "county"
+      latitude: 42.1885664
+      longitude: 20.3769633
+      cities:
+        -
+          name: "Bajram Curri"
+          latitude: 42.35734
+          longitude: 20.07679
+        -
+          name: "Krumë"
+          latitude: 42.19694
+          longitude: 20.41333
+        -
+          name: "Kukës"
+          latitude: 42.07694
+          longitude: 20.42194
+        -
+          name: "Rrethi i Hasit"
+          latitude: 42.16667
+          longitude: 20.33333
+        -
+          name: "Rrethi i Kukësit"
+          latitude: 42
+          longitude: 20.33333
+        -
+          name: "Tropojë"
+          latitude: 42.37624
+          longitude: 19.7453929
+    -
+      name: "Lezhë"
+      code: "08"
+      iso3166_2: "AL-08"
+      type: "county"
+      latitude: 41.7813759
+      longitude: 19.8067916
+      cities:
+        -
+          name: "Bashkia Kurbin"
+          latitude: 41.62215
+          longitude: 19.70734
+        -
+          name: "Bashkia Lezhë"
+          latitude: 41.8132
+          longitude: 19.64121
+        -
+          name: "Bashkia Mirditë"
+          latitude: 41.80953
+          longitude: 19.99024
+        -
+          name: "Kurbin"
+          latitude: 41.6389189
+          longitude: 19.6933363
+        -
+          name: "Kurbnesh"
+          latitude: 41.77972
+          longitude: 20.08361
+        -
+          name: "Laç"
+          latitude: 41.63556
+          longitude: 19.71306
+        -
+          name: "Lezhë"
+          latitude: 41.78361
+          longitude: 19.64361
+        -
+          name: "Mamurras"
+          latitude: 41.5775
+          longitude: 19.69222
+        -
+          name: "Milot"
+          latitude: 41.68389
+          longitude: 19.71556
+        -
+          name: "Mirditë"
+          latitude: 41.860728
+          longitude: 19.6675722
+        -
+          name: "Rrëshen"
+          latitude: 41.7675
+          longitude: 19.87556
+        -
+          name: "Rrethi i Kurbinit"
+          latitude: 41.63333
+          longitude: 19.71667
+        -
+          name: "Rubik"
+          latitude: 41.77444
+          longitude: 19.78611
+        -
+          name: "Shëngjin"
+          latitude: 41.81361
+          longitude: 19.59389
+    -
+      name: "Shkodër"
+      code: "10"
+      iso3166_2: "AL-10"
+      type: "county"
+      latitude: 42.2507677
+      longitude: 19.5959723
+      cities:
+        -
+          name: "Bashkia Malësi e Madhe"
+          latitude: 42.36798
+          longitude: 19.58977
+        -
+          name: "Bashkia Pukë"
+          latitude: 42.02997
+          longitude: 19.92778
+        -
+          name: "Bashkia Vau i Dejës"
+          latitude: 42.04834
+          longitude: 19.69999
+        -
+          name: "Fushë-Arrëz"
+          latitude: 42.06222
+          longitude: 20.01667
+        -
+          name: "Koplik"
+          latitude: 42.21361
+          longitude: 19.43639
+        -
+          name: "Malësi e Madhe"
+          latitude: 42.3901631
+          longitude: 19.1991842
+        -
+          name: "Pukë"
+          latitude: 42.04444
+          longitude: 19.89972
+        -
+          name: "Rrethi i Malësia e Madhe"
+          latitude: 42.33333
+          longitude: 19.58333
+        -
+          name: "Rrethi i Shkodrës"
+          latitude: 42.06917
+          longitude: 19.53506
+        -
+          name: "Shkodër"
+          latitude: 42.06828
+          longitude: 19.51258
+        -
+          name: "Vau i Dejës"
+          latitude: 42.01
+          longitude: 19.62472
+        -
+          name: "Vukatanë"
+          latitude: 42.02806
+          longitude: 19.54778
+    -
+      name: "Tirana"
+      code: "11"
+      iso3166_2: "AL-11"
+      type: "county"
+      latitude: 41.2584478
+      longitude: 19.8302656
+      cities:
+        -
+          name: "Bashkia Kavajë"
+          latitude: 41.18127
+          longitude: 19.55579
+        -
+          name: "Bashkia Vorë"
+          latitude: 41.39804
+          longitude: 19.67703
+        -
+          name: "Kamëz"
+          latitude: 41.38167
+          longitude: 19.76028
+        -
+          name: "Kavajë"
+          latitude: 41.18556
+          longitude: 19.55694
+        -
+          name: "Krrabë"
+          latitude: 41.21556
+          longitude: 19.97139
+        -
+          name: "Rrethi i Kavajës"
+          latitude: 41.16667
+          longitude: 19.58333
+        -
+          name: "Rrethi i Tiranës"
+          latitude: 41.33333
+          longitude: 19.91667
+        -
+          name: "Rrogozhinë"
+          latitude: 41.07639
+          longitude: 19.66528
+        -
+          name: "Sinaballaj"
+          latitude: 41.06889
+          longitude: 19.69944
+        -
+          name: "Tirana"
+          latitude: 41.3275
+          longitude: 19.81889
+        -
+          name: "Vorë"
+          latitude: 41.39083
+          longitude: 19.655
+    -
+      name: "Vlorë"
+      code: "12"
+      iso3166_2: "AL-12"
+      type: "county"
+      latitude: 40.150096
+      longitude: 19.8067916
+      cities:
+        -
+          name: "Bashkia Himarë"
+          latitude: 40.11581
+          longitude: 19.81389
+        -
+          name: "Bashkia Konispol"
+          latitude: 39.70064
+          longitude: 20.13353
+        -
+          name: "Bashkia Selenicë"
+          latitude: 40.39503
+          longitude: 19.65958
+        -
+          name: "Bashkia Vlorë"
+          latitude: 40.4134
+          longitude: 19.49792
+        -
+          name: "Delvinë"
+          latitude: 39.95111
+          longitude: 20.09778
+        -
+          name: "Finiq"
+          latitude: 39.84393
+          longitude: 20.16659
+        -
+          name: "Himarë"
+          latitude: 40.10167
+          longitude: 19.74472
+        -
+          name: "Konispol"
+          latitude: 39.65889
+          longitude: 20.18139
+        -
+          name: "Ksamil"
+          latitude: 39.76889
+          longitude: 19.99972
+        -
+          name: "Orikum"
+          latitude: 40.32528
+          longitude: 19.47139
+        -
+          name: "Rrethi i Delvinës"
+          latitude: 39.91667
+          longitude: 20.08333
+        -
+          name: "Sarandë"
+          latitude: 39.87534
+          longitude: 20.00477
+        -
+          name: "Selenicë"
+          latitude: 40.53056
+          longitude: 19.63583
+        -
+          name: "Vlorë"
+          latitude: 40.4686
+          longitude: 19.48318

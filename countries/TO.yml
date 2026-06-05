@@ -1,0 +1,91 @@
+-
+  name: "Tonga"
+  name_es: "Tonga"
+  native: "Tonga"
+  iso2: "TO"
+  iso3: "TON"
+  numeric_code: "776"
+  phonecode: "676"
+  capital: "Nuku'alofa"
+  currency: "TOP"
+  currency_name: "Tongan paʻanga"
+  currency_symbol: "$"
+  tld: ".to"
+  region: "Oceania"
+  subregion: "Polynesia"
+  latitude: -20
+  longitude: -175
+  emoji: "🇹🇴"
+  states:
+    -
+      name: "Haʻapai"
+      code: "02"
+      iso3166_2: "TO-02"
+      type: "division"
+      latitude: -20.0587404
+      longitude: -174.6229919
+      cities:
+        -
+          name: "Pangai"
+          latitude: -19.81468
+          longitude: -174.35423
+    -
+      name: "ʻEua"
+      code: "01"
+      iso3166_2: "TO-01"
+      type: "division"
+      latitude: -21.3705828
+      longitude: -174.9388843
+      cities:
+        -
+          name: "‘Ohonua"
+          latitude: -21.33333
+          longitude: -174.95
+    -
+      name: "Niuas"
+      code: "03"
+      iso3166_2: "TO-03"
+      type: "division"
+      latitude: -15.9594
+      longitude: -173.783
+      cities:
+        -
+          name: "Hihifo"
+          latitude: -15.9544
+          longitude: -173.79616
+    -
+      name: "Tongatapu"
+      code: "04"
+      iso3166_2: "TO-04"
+      type: "division"
+      latitude: -21.1678253
+      longitude: -175.2738691
+      cities:
+        -
+          name: "Haveluloto"
+          latitude: -21.15216
+          longitude: -175.21333
+        -
+          name: "Kolonga"
+          latitude: -21.13333
+          longitude: -175.06667
+        -
+          name: "Nuku‘alofa"
+          latitude: -21.13938
+          longitude: -175.2018
+        -
+          name: "Vaini"
+          latitude: -21.19292
+          longitude: -175.17678
+    -
+      name: "Vavaʻu"
+      code: "05"
+      iso3166_2: "TO-05"
+      type: "division"
+      latitude: -18.6231468
+      longitude: -174.002138
+      cities:
+        -
+          name: "Neiafu"
+          latitude: -18.6506
+          longitude: -173.98404

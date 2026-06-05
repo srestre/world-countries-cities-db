@@ -1,0 +1,4443 @@
+-
+  name: "Canada"
+  name_es: "Canadá"
+  native: "Canada"
+  iso2: "CA"
+  iso3: "CAN"
+  numeric_code: "124"
+  phonecode: "1"
+  capital: "Ottawa"
+  currency: "CAD"
+  currency_name: "Canadian dollar"
+  currency_symbol: "$"
+  tld: ".ca"
+  region: "Americas"
+  subregion: "Northern America"
+  latitude: 60
+  longitude: -95
+  emoji: "🇨🇦"
+  states:
+    -
+      name: "Alberta"
+      code: "AB"
+      iso3166_2: "CA-AB"
+      type: "province"
+      latitude: 55.001251
+      longitude: -115.002136
+      cities:
+        -
+          name: "Airdrie"
+          latitude: 51.30011
+          longitude: -114.03528
+        -
+          name: "Athabasca"
+          latitude: 54.71687
+          longitude: -113.28537
+        -
+          name: "Banff"
+          latitude: 51.17622
+          longitude: -115.56982
+        -
+          name: "Barrhead"
+          latitude: 54.13345
+          longitude: -114.40211
+        -
+          name: "Bassano"
+          latitude: 50.78342
+          longitude: -112.46854
+        -
+          name: "Beaumont"
+          latitude: 53.35013
+          longitude: -113.41871
+        -
+          name: "Beaverlodge"
+          latitude: 55.21664
+          longitude: -119.43605
+        -
+          name: "Black Diamond"
+          latitude: 50.70011
+          longitude: -114.2353
+        -
+          name: "Blackfalds"
+          latitude: 52.38342
+          longitude: -113.7853
+        -
+          name: "Bon Accord"
+          latitude: 53.83345
+          longitude: -113.41872
+        -
+          name: "Bonnyville"
+          latitude: 54.26684
+          longitude: -110.73505
+        -
+          name: "Bow Island"
+          latitude: 49.86676
+          longitude: -111.36843
+        -
+          name: "Brooks"
+          latitude: 50.58341
+          longitude: -111.88509
+        -
+          name: "Calgary"
+          latitude: 51.05011
+          longitude: -114.08529
+        -
+          name: "Calmar"
+          latitude: 53.26683
+          longitude: -113.81874
+        -
+          name: "Camrose"
+          latitude: 53.01684
+          longitude: -112.83525
+        -
+          name: "Canmore"
+          latitude: 51.08335
+          longitude: -115.35206
+        -
+          name: "Cardston"
+          latitude: 49.19998
+          longitude: -113.3019
+        -
+          name: "Carstairs"
+          latitude: 51.56681
+          longitude: -114.102
+        -
+          name: "Chestermere"
+          latitude: 51.03341
+          longitude: -113.81867
+        -
+          name: "Claresholm"
+          latitude: 50.03332
+          longitude: -113.58524
+        -
+          name: "Coaldale"
+          latitude: 49.7167
+          longitude: -112.61854
+        -
+          name: "Coalhurst"
+          latitude: 49.7464
+          longitude: -112.93246
+        -
+          name: "Cochrane"
+          latitude: 51.18341
+          longitude: -114.46871
+        -
+          name: "Cold Lake"
+          latitude: 54.46525
+          longitude: -110.18154
+        -
+          name: "Crossfield"
+          latitude: 51.43341
+          longitude: -114.03528
+        -
+          name: "Devon"
+          latitude: 53.36683
+          longitude: -113.73533
+        -
+          name: "Diamond Valley"
+          latitude: 50.672
+          longitude: -114.233
+        -
+          name: "Didsbury"
+          latitude: 51.66681
+          longitude: -114.13529
+        -
+          name: "Drayton Valley"
+          latitude: 53.21682
+          longitude: -114.98544
+        -
+          name: "Edmonton"
+          latitude: 53.55014
+          longitude: -113.46871
+        -
+          name: "Edson"
+          latitude: 53.58345
+          longitude: -116.43559
+        -
+          name: "Elk Point"
+          latitude: 53.90017
+          longitude: -110.9017
+        -
+          name: "Fairview"
+          latitude: 56.06675
+          longitude: -118.38606
+        -
+          name: "Falher"
+          latitude: 55.73339
+          longitude: -117.20262
+        -
+          name: "Fort Macleod"
+          latitude: 49.71671
+          longitude: -113.41857
+        -
+          name: "Fort McMurray"
+          latitude: 56.72676
+          longitude: -111.38103
+        -
+          name: "Fort Saskatchewan"
+          latitude: 53.71684
+          longitude: -113.2187
+        -
+          name: "Fox Creek"
+          latitude: 54.40007
+          longitude: -116.80238
+        -
+          name: "Gibbons"
+          latitude: 53.83345
+          longitude: -113.33531
+        -
+          name: "Grand Centre"
+          latitude: 54.41628
+          longitude: -110.21304
+        -
+          name: "Grande Cache"
+          latitude: 53.88335
+          longitude: -119.13585
+        -
+          name: "Grande Prairie"
+          latitude: 55.16667
+          longitude: -118.80271
+        -
+          name: "Grimshaw"
+          latitude: 56.18339
+          longitude: -117.6027
+        -
+          name: "Hanna"
+          latitude: 51.63343
+          longitude: -111.90181
+        -
+          name: "Heritage Pointe"
+          latitude: 50.84213
+          longitude: -114.00493
+        -
+          name: "High Level"
+          latitude: 58.51688
+          longitude: -117.13605
+        -
+          name: "High Prairie"
+          latitude: 55.4334
+          longitude: -116.4858
+        -
+          name: "High River"
+          latitude: 50.58341
+          longitude: -113.86867
+        -
+          name: "Hinton"
+          latitude: 53.40009
+          longitude: -117.58567
+        -
+          name: "Irricana"
+          latitude: 51.32372
+          longitude: -113.60475
+        -
+          name: "Jasper Park Lodge"
+          latitude: 52.88633
+          longitude: -118.05625
+        -
+          name: "Killam"
+          latitude: 52.78344
+          longitude: -111.85175
+        -
+          name: "Lac La Biche"
+          latitude: 54.7669
+          longitude: -111.96861
+        -
+          name: "Lacombe"
+          latitude: 52.46681
+          longitude: -113.7353
+        -
+          name: "Lamont"
+          latitude: 53.76686
+          longitude: -112.80195
+        -
+          name: "Larkspur"
+          latitude: 53.47942
+          longitude: -113.38142
+        -
+          name: "Laurel"
+          latitude: 53.44667
+          longitude: -113.38197
+        -
+          name: "Leduc"
+          latitude: 53.26682
+          longitude: -113.55201
+        -
+          name: "Lethbridge"
+          latitude: 49.69999
+          longitude: -112.81856
+        -
+          name: "Lloydminster"
+          latitude: 53.27237
+          longitude: -110.02256
+        -
+          name: "Magrath"
+          latitude: 49.41668
+          longitude: -112.86856
+        -
+          name: "Manning"
+          latitude: 56.91683
+          longitude: -117.61945
+        -
+          name: "Mannville"
+          latitude: 53.33764
+          longitude: -111.1775
+        -
+          name: "Maple Ridge"
+          latitude: 53.50172
+          longitude: -113.36274
+        -
+          name: "Mayerthorpe"
+          latitude: 53.95015
+          longitude: -115.13547
+        -
+          name: "Medicine Hat"
+          latitude: 50.03928
+          longitude: -110.67661
+        -
+          name: "Mill Woods Town Centre"
+          latitude: 53.45639
+          longitude: -113.42751
+        -
+          name: "Millet"
+          latitude: 53.10013
+          longitude: -113.4687
+        -
+          name: "Morinville"
+          latitude: 53.80014
+          longitude: -113.65203
+        -
+          name: "Nanton"
+          latitude: 50.35008
+          longitude: -113.76866
+        -
+          name: "Okotoks"
+          latitude: 50.72885
+          longitude: -113.98281
+        -
+          name: "Olds"
+          latitude: 51.78341
+          longitude: -114.10199
+        -
+          name: "Peace River"
+          latitude: 56.23715
+          longitude: -117.29176
+        -
+          name: "Penhold"
+          latitude: 52.13342
+          longitude: -113.8687
+        -
+          name: "Picture Butte"
+          latitude: 49.8833
+          longitude: -112.78516
+        -
+          name: "Pincher Creek"
+          latitude: 49.48328
+          longitude: -113.95195
+        -
+          name: "Ponoka"
+          latitude: 52.6768
+          longitude: -113.58147
+        -
+          name: "Provost"
+          latitude: 52.35014
+          longitude: -110.26828
+        -
+          name: "Raymond"
+          latitude: 49.44998
+          longitude: -112.65185
+        -
+          name: "Red Deer"
+          latitude: 52.26682
+          longitude: -113.802
+        -
+          name: "Rideau Park"
+          latitude: 53.47899
+          longitude: -113.5047
+        -
+          name: "Rimbey"
+          latitude: 52.6334
+          longitude: -114.23532
+        -
+          name: "Rocky Mountain House"
+          latitude: 52.36683
+          longitude: -114.9188
+        -
+          name: "Sexsmith"
+          latitude: 55.34998
+          longitude: -118.78602
+        -
+          name: "Sherwood Park"
+          latitude: 53.51684
+          longitude: -113.3187
+        -
+          name: "Silver Berry"
+          latitude: 53.45787
+          longitude: -113.3817
+        -
+          name: "Slave Lake"
+          latitude: 55.28344
+          longitude: -114.76896
+        -
+          name: "Smoky Lake"
+          latitude: 54.11687
+          longitude: -112.46863
+        -
+          name: "Spirit River"
+          latitude: 55.78327
+          longitude: -118.83607
+        -
+          name: "Springbrook"
+          latitude: 52.1792
+          longitude: -113.87981
+        -
+          name: "Spruce Grove"
+          latitude: 53.53344
+          longitude: -113.91874
+        -
+          name: "St. Albert"
+          latitude: 53.63344
+          longitude: -113.63533
+        -
+          name: "Stettler"
+          latitude: 52.31683
+          longitude: -112.71861
+        -
+          name: "Stony Plain"
+          latitude: 53.53343
+          longitude: -114.00205
+        -
+          name: "Strathmore"
+          latitude: 51.05011
+          longitude: -113.38523
+        -
+          name: "Sundre"
+          latitude: 51.8001
+          longitude: -114.63532
+        -
+          name: "Swan Hills"
+          latitude: 54.71681
+          longitude: -115.40226
+        -
+          name: "Sylvan Lake"
+          latitude: 52.311
+          longitude: -114.08375
+        -
+          name: "Taber"
+          latitude: 49.78703
+          longitude: -112.14603
+        -
+          name: "Tamarack"
+          latitude: 53.46441
+          longitude: -113.36235
+        -
+          name: "Three Hills"
+          latitude: 51.70012
+          longitude: -113.26863
+        -
+          name: "Tofield"
+          latitude: 53.36684
+          longitude: -112.66862
+        -
+          name: "Two Hills"
+          latitude: 53.71686
+          longitude: -111.75181
+        -
+          name: "Valleyview"
+          latitude: 55.06673
+          longitude: -117.28585
+        -
+          name: "Vegreville"
+          latitude: 53.50015
+          longitude: -112.05182
+        -
+          name: "Vermilion"
+          latitude: 53.35409
+          longitude: -110.85849
+        -
+          name: "Viking"
+          latitude: 53.10014
+          longitude: -111.76844
+        -
+          name: "Vulcan"
+          latitude: 50.40008
+          longitude: -113.25189
+        -
+          name: "Wainwright"
+          latitude: 52.83482
+          longitude: -110.85342
+        -
+          name: "Wembley"
+          latitude: 55.14995
+          longitude: -119.13602
+        -
+          name: "Westlake"
+          latitude: 55.22228
+          longitude: -118.80415
+        -
+          name: "Westlock"
+          latitude: 54.15016
+          longitude: -113.86876
+        -
+          name: "Wetaskiwin"
+          latitude: 52.96683
+          longitude: -113.36869
+        -
+          name: "Whitecourt"
+          latitude: 54.15015
+          longitude: -115.68548
+        -
+          name: "Wild Rose"
+          latitude: 53.4708
+          longitude: -113.38119
+    -
+      name: "British Columbia"
+      code: "BC"
+      iso3166_2: "CA-BC"
+      type: "province"
+      latitude: 55.001251
+      longitude: -125.002441
+      cities:
+        -
+          name: "Abbotsford"
+          latitude: 49.05798
+          longitude: -122.25257
+        -
+          name: "Agassiz"
+          latitude: 49.23298
+          longitude: -121.76926
+        -
+          name: "Aldergrove"
+          latitude: 49.05801
+          longitude: -122.47087
+        -
+          name: "Aldergrove East"
+          latitude: 49.05593
+          longitude: -122.42299
+        -
+          name: "Anmore"
+          latitude: 49.31637
+          longitude: -122.85263
+        -
+          name: "Arbutus Ridge"
+          latitude: 49.24966
+          longitude: -123.16934
+        -
+          name: "Armstrong"
+          latitude: 50.44979
+          longitude: -119.20235
+        -
+          name: "Ashcroft"
+          latitude: 50.72372
+          longitude: -121.28207
+        -
+          name: "Barrière"
+          latitude: 51.18308
+          longitude: -120.1192
+        -
+          name: "Bowen Island"
+          latitude: 49.3847
+          longitude: -123.33622
+        -
+          name: "Burnaby"
+          latitude: 49.26636
+          longitude: -122.95263
+        -
+          name: "Burns Lake"
+          latitude: 54.22972
+          longitude: -125.76084
+        -
+          name: "Cache Creek"
+          latitude: 50.81011
+          longitude: -121.3246
+        -
+          name: "Campbell River"
+          latitude: 50.01634
+          longitude: -125.24459
+        -
+          name: "Castlegar"
+          latitude: 49.32317
+          longitude: -117.65831
+        -
+          name: "Cedar"
+          latitude: 49.11633
+          longitude: -123.8527
+        -
+          name: "Central Coast Regional"
+          latitude: 52.16638
+          longitude: -127.00323
+        -
+          name: "Chase"
+          latitude: 50.8165
+          longitude: -119.68571
+        -
+          name: "Chemainus"
+          latitude: 48.91633
+          longitude: -123.71937
+        -
+          name: "Chetwynd"
+          latitude: 55.69988
+          longitude: -121.63627
+        -
+          name: "Chilliwack"
+          latitude: 49.16638
+          longitude: -121.95257
+        -
+          name: "Colwood"
+          latitude: 48.43293
+          longitude: -123.48591
+        -
+          name: "Coombs"
+          latitude: 49.29963
+          longitude: -124.41946
+        -
+          name: "Coquitlam"
+          latitude: 49.2846
+          longitude: -122.78217
+        -
+          name: "Courtenay"
+          latitude: 49.68657
+          longitude: -124.9936
+        -
+          name: "Cowichan Bay"
+          latitude: 48.73366
+          longitude: -123.61739
+        -
+          name: "Cranbrook"
+          latitude: 49.49991
+          longitude: -115.76879
+        -
+          name: "Creston"
+          latitude: 49.09987
+          longitude: -116.50211
+        -
+          name: "Cumberland"
+          latitude: 49.61634
+          longitude: -125.03613
+        -
+          name: "Dawson Creek"
+          latitude: 55.75984
+          longitude: -120.2403
+        -
+          name: "Delta"
+          latitude: 49.14399
+          longitude: -122.9068
+        -
+          name: "Denman Island"
+          latitude: 49.53294
+          longitude: -124.8195
+        -
+          name: "Denman Island Trust Area"
+          latitude: 49.55189
+          longitude: -124.79881
+        -
+          name: "Duck Lake"
+          latitude: 50.0088
+          longitude: -119.39672
+        -
+          name: "Duncan"
+          latitude: 48.78293
+          longitude: -123.70266
+        -
+          name: "East Wellington"
+          latitude: 49.17385
+          longitude: -124.01745
+        -
+          name: "Elkford"
+          latitude: 50.05007
+          longitude: -114.8854
+        -
+          name: "Ellison"
+          latitude: 49.93307
+          longitude: -119.36907
+        -
+          name: "Enderby"
+          latitude: 50.5498
+          longitude: -119.15234
+        -
+          name: "Fairwinds"
+          latitude: 49.27588
+          longitude: -124.12782
+        -
+          name: "Fernie"
+          latitude: 49.49996
+          longitude: -115.06871
+        -
+          name: "Fort Nelson"
+          latitude: 58.80533
+          longitude: -122.7002
+        -
+          name: "Fort St. John"
+          latitude: 56.24988
+          longitude: -120.85292
+        -
+          name: "Fraser Valley Regional"
+          latitude: 49.58299
+          longitude: -121.83587
+        -
+          name: "French Creek"
+          latitude: 49.34123
+          longitude: -124.35541
+        -
+          name: "Fruitvale"
+          latitude: 49.11654
+          longitude: -117.55222
+        -
+          name: "Gibsons"
+          latitude: 49.39539
+          longitude: -123.50555
+        -
+          name: "Golden"
+          latitude: 51.29995
+          longitude: -116.9689
+        -
+          name: "Grand Forks"
+          latitude: 49.03309
+          longitude: -118.4356
+        -
+          name: "Hanceville"
+          latitude: 51.91922
+          longitude: -123.04458
+        -
+          name: "Hope"
+          latitude: 49.38299
+          longitude: -121.44144
+        -
+          name: "Hornby Island"
+          latitude: 49.53448
+          longitude: -124.66923
+        -
+          name: "Houston"
+          latitude: 54.39976
+          longitude: -126.67008
+        -
+          name: "Invermere"
+          latitude: 50.51666
+          longitude: -116.03538
+        -
+          name: "Kamloops"
+          latitude: 50.66648
+          longitude: -120.3192
+        -
+          name: "Kelowna"
+          latitude: 49.88307
+          longitude: -119.48568
+        -
+          name: "Kimberley"
+          latitude: 49.67071
+          longitude: -115.9776
+        -
+          name: "Kitimat"
+          latitude: 54.05244
+          longitude: -128.65342
+        -
+          name: "Ladner"
+          latitude: 49.08938
+          longitude: -123.08241
+        -
+          name: "Ladysmith"
+          latitude: 48.99016
+          longitude: -123.81699
+        -
+          name: "Lake Cowichan"
+          latitude: 48.82495
+          longitude: -124.05461
+        -
+          name: "Langford"
+          latitude: 48.44963
+          longitude: -123.50261
+        -
+          name: "Langley"
+          latitude: 49.10107
+          longitude: -122.65883
+        -
+          name: "Lillooet"
+          latitude: 50.6856
+          longitude: -121.942
+        -
+          name: "Lions Bay"
+          latitude: 49.45218
+          longitude: -123.2376
+        -
+          name: "Logan Lake"
+          latitude: 50.49976
+          longitude: -120.80253
+        -
+          name: "Lumby"
+          latitude: 50.24979
+          longitude: -118.96904
+        -
+          name: "Mackenzie"
+          latitude: 55.33637
+          longitude: -123.09374
+        -
+          name: "Maple Ridge"
+          latitude: 49.21939
+          longitude: -122.60193
+        -
+          name: "Merritt"
+          latitude: 50.11225
+          longitude: -120.7942
+        -
+          name: "Metchosin"
+          latitude: 48.38293
+          longitude: -123.53591
+        -
+          name: "Metro Vancouver Regional"
+          latitude: 49.33296
+          longitude: -123.00264
+        -
+          name: "Mission"
+          latitude: 49.13298
+          longitude: -122.30258
+        -
+          name: "Nakusp"
+          latitude: 50.24987
+          longitude: -117.80226
+        -
+          name: "Nanaimo"
+          latitude: 49.16638
+          longitude: -123.94003
+        -
+          name: "Nelson"
+          latitude: 49.49985
+          longitude: -117.28553
+        -
+          name: "New Westminster"
+          latitude: 49.20678
+          longitude: -122.91092
+        -
+          name: "North Cowichan"
+          latitude: 48.84133
+          longitude: -123.68596
+        -
+          name: "North Oyster/Yellow Point"
+          latitude: 49.04807
+          longitude: -123.83395
+        -
+          name: "North Saanich"
+          latitude: 48.66634
+          longitude: -123.41933
+        -
+          name: "North Vancouver"
+          latitude: 49.31636
+          longitude: -123.06934
+        -
+          name: "Oak Bay"
+          latitude: 48.44964
+          longitude: -123.3026
+        -
+          name: "Okanagan"
+          latitude: 50.36386
+          longitude: -119.34997
+        -
+          name: "Okanagan Falls"
+          latitude: 49.35
+          longitude: -119.56667
+        -
+          name: "Oliver"
+          latitude: 49.18306
+          longitude: -119.5524
+        -
+          name: "Osoyoos"
+          latitude: 49.03306
+          longitude: -119.45237
+        -
+          name: "Parksville"
+          latitude: 49.31947
+          longitude: -124.31575
+        -
+          name: "Peace River Regional"
+          latitude: 56.6665
+          longitude: -122.75302
+        -
+          name: "Peachland"
+          latitude: 49.76647
+          longitude: -119.73568
+        -
+          name: "Pemberton"
+          latitude: 50.31641
+          longitude: -122.80273
+        -
+          name: "Penticton"
+          latitude: 49.48062
+          longitude: -119.58584
+        -
+          name: "Pitt Meadows"
+          latitude: 49.22119
+          longitude: -122.68965
+        -
+          name: "Port Alberni"
+          latitude: 49.24133
+          longitude: -124.8028
+        -
+          name: "Port Coquitlam"
+          latitude: 49.26637
+          longitude: -122.76932
+        -
+          name: "Port McNeill"
+          latitude: 50.58716
+          longitude: -127.08053
+        -
+          name: "Port Moody"
+          latitude: 49.28124
+          longitude: -122.82457
+        -
+          name: "Powell River"
+          latitude: 49.83278
+          longitude: -124.52368
+        -
+          name: "Prince George"
+          latitude: 53.9166
+          longitude: -122.75301
+        -
+          name: "Prince Rupert"
+          latitude: 54.31507
+          longitude: -130.32098
+        -
+          name: "Princeton"
+          latitude: 49.45802
+          longitude: -120.51076
+        -
+          name: "Puntledge"
+          latitude: 49.66168
+          longitude: -125.05686
+        -
+          name: "Quesnel"
+          latitude: 52.97842
+          longitude: -122.4931
+        -
+          name: "Regional District of Alberni-Clayoquot"
+          latitude: 49.24962
+          longitude: -125.33615
+        -
+          name: "Regional District of Central Okanagan"
+          latitude: 49.99978
+          longitude: -119.41908
+        -
+          name: "Revelstoke"
+          latitude: 50.99712
+          longitude: -118.1953
+        -
+          name: "Richmond"
+          latitude: 49.17003
+          longitude: -123.13683
+        -
+          name: "Rossland"
+          latitude: 49.08313
+          longitude: -117.80224
+        -
+          name: "Royston"
+          latitude: 49.64703
+          longitude: -124.9467
+        -
+          name: "Salmo"
+          latitude: 49.19986
+          longitude: -117.2689
+        -
+          name: "Salmon Arm"
+          latitude: 50.6998
+          longitude: -119.30237
+        -
+          name: "Salt Spring Island"
+          latitude: 48.81852
+          longitude: -123.49061
+        -
+          name: "Saltair"
+          latitude: 48.94963
+          longitude: -123.76939
+        -
+          name: "Sechelt"
+          latitude: 49.47512
+          longitude: -123.75903
+        -
+          name: "Sicamous"
+          latitude: 50.83312
+          longitude: -118.98565
+        -
+          name: "Six Mile"
+          latitude: 48.45767
+          longitude: -123.46088
+        -
+          name: "Smithers"
+          latitude: 54.78036
+          longitude: -127.17428
+        -
+          name: "Sooke"
+          latitude: 48.37463
+          longitude: -123.72762
+        -
+          name: "South Pender Harbour"
+          latitude: 49.62202
+          longitude: -124.02484
+        -
+          name: "Sparwood"
+          latitude: 49.73332
+          longitude: -114.88532
+        -
+          name: "Summerland"
+          latitude: 49.59977
+          longitude: -119.66911
+        -
+          name: "Surrey"
+          latitude: 49.10635
+          longitude: -122.82509
+        -
+          name: "Terrace"
+          latitude: 54.51634
+          longitude: -128.60345
+        -
+          name: "Tofino"
+          latitude: 49.15314
+          longitude: -125.90744
+        -
+          name: "Trail"
+          latitude: 49.09983
+          longitude: -117.70223
+        -
+          name: "Tsawwassen"
+          latitude: 49.01667
+          longitude: -123.08333
+        -
+          name: "Tumbler Ridge"
+          latitude: 55.13027
+          longitude: -120.99415
+        -
+          name: "Ucluelet"
+          latitude: 48.94153
+          longitude: -125.54635
+        -
+          name: "Vancouver"
+          latitude: 49.24966
+          longitude: -123.11934
+        -
+          name: "Vanderhoof"
+          latitude: 54.01657
+          longitude: -124.01982
+        -
+          name: "Vernon"
+          latitude: 50.26729
+          longitude: -119.27337
+        -
+          name: "Victoria"
+          latitude: 48.4359
+          longitude: -123.35155
+        -
+          name: "Walnut Grove"
+          latitude: 49.16473
+          longitude: -122.64042
+        -
+          name: "Welcome Beach"
+          latitude: 49.47959
+          longitude: -123.89239
+        -
+          name: "West End"
+          latitude: 49.28333
+          longitude: -123.13333
+        -
+          name: "West Kelowna"
+          latitude: 49.8625
+          longitude: -119.58333
+        -
+          name: "West Vancouver"
+          latitude: 49.36672
+          longitude: -123.16652
+        -
+          name: "Whistler"
+          latitude: 50.11817
+          longitude: -122.95396
+        -
+          name: "White Rock"
+          latitude: 49.01636
+          longitude: -122.8026
+        -
+          name: "Williams Lake"
+          latitude: 52.14153
+          longitude: -122.14451
+    -
+      name: "Manitoba"
+      code: "MB"
+      iso3166_2: "CA-MB"
+      type: "province"
+      latitude: 55.001251
+      longitude: -97.001038
+      cities:
+        -
+          name: "Altona"
+          latitude: 49.10469
+          longitude: -97.55961
+        -
+          name: "Beausejour"
+          latitude: 50.0622
+          longitude: -96.51669
+        -
+          name: "Boissevain"
+          latitude: 49.23062
+          longitude: -100.05586
+        -
+          name: "Brandon"
+          latitude: 49.84692
+          longitude: -99.95306
+        -
+          name: "Carberry"
+          latitude: 49.86893
+          longitude: -99.36021
+        -
+          name: "Carman"
+          latitude: 49.4992
+          longitude: -98.00156
+        -
+          name: "Cross Lake 19A"
+          latitude: 54.65135
+          longitude: -97.76848
+        -
+          name: "Dauphin"
+          latitude: 51.14941
+          longitude: -100.05023
+        -
+          name: "De Salaberry"
+          latitude: 49.39999
+          longitude: -97.00894
+        -
+          name: "Deloraine"
+          latitude: 49.19082
+          longitude: -100.49477
+        -
+          name: "Flin Flon"
+          latitude: 54.76703
+          longitude: -101.87433
+        -
+          name: "Gimli"
+          latitude: 50.63362
+          longitude: -96.99066
+        -
+          name: "Grunthal"
+          latitude: 49.40668
+          longitude: -96.85873
+        -
+          name: "Headingley"
+          latitude: 49.8753
+          longitude: -97.40896
+        -
+          name: "Ile des Chênes"
+          latitude: 49.7106
+          longitude: -96.98893
+        -
+          name: "Killarney"
+          latitude: 49.18332
+          longitude: -99.66364
+        -
+          name: "La Broquerie"
+          latitude: 49.51688
+          longitude: -96.50029
+        -
+          name: "Lac du Bonnet"
+          latitude: 50.2536
+          longitude: -96.06116
+        -
+          name: "Landmark"
+          latitude: 49.67169
+          longitude: -96.82232
+        -
+          name: "Lorette"
+          latitude: 49.73919
+          longitude: -96.87232
+        -
+          name: "Melita"
+          latitude: 49.26811
+          longitude: -100.99669
+        -
+          name: "Minnedosa"
+          latitude: 50.24532
+          longitude: -99.84364
+        -
+          name: "Moose Lake"
+          latitude: 49.20559
+          longitude: -95.30629
+        -
+          name: "Morden"
+          latitude: 49.1919
+          longitude: -98.10136
+        -
+          name: "Morris"
+          latitude: 49.35499
+          longitude: -97.36567
+        -
+          name: "Neepawa"
+          latitude: 50.22892
+          longitude: -99.46642
+        -
+          name: "Niverville"
+          latitude: 49.60559
+          longitude: -97.04234
+        -
+          name: "Portage la Prairie"
+          latitude: 49.97282
+          longitude: -98.29263
+        -
+          name: "Rivers"
+          latitude: 50.03081
+          longitude: -100.24029
+        -
+          name: "Roblin"
+          latitude: 51.22999
+          longitude: -101.3565
+        -
+          name: "Selkirk"
+          latitude: 50.1436
+          longitude: -96.88452
+        -
+          name: "Shilo"
+          latitude: 49.80509
+          longitude: -99.63175
+        -
+          name: "Souris"
+          latitude: 49.6172
+          longitude: -100.2612
+        -
+          name: "St. Adolphe"
+          latitude: 49.6744
+          longitude: -97.11124
+        -
+          name: "Steinbach"
+          latitude: 49.52579
+          longitude: -96.68451
+        -
+          name: "Stonewall"
+          latitude: 50.13441
+          longitude: -97.32676
+        -
+          name: "Swan River"
+          latitude: 52.1058
+          longitude: -101.26759
+        -
+          name: "The Pas"
+          latitude: 53.82509
+          longitude: -101.25413
+        -
+          name: "Thompson"
+          latitude: 55.7435
+          longitude: -97.85579
+        -
+          name: "Virden"
+          latitude: 49.8508
+          longitude: -100.93262
+        -
+          name: "West St. Paul"
+          latitude: 49.9994
+          longitude: -97.16284
+        -
+          name: "Winkler"
+          latitude: 49.1817
+          longitude: -97.94104
+        -
+          name: "Winnipeg"
+          latitude: 49.8844
+          longitude: -97.14704
+    -
+      name: "New Brunswick"
+      code: "NB"
+      iso3166_2: "CA-NB"
+      type: "province"
+      latitude: 46.500283
+      longitude: -66.750183
+      cities:
+        -
+          name: "Baie Ste. Anne"
+          latitude: 47.05231
+          longitude: -64.95355
+        -
+          name: "Bathurst"
+          latitude: 47.61814
+          longitude: -65.65112
+        -
+          name: "Bouctouche"
+          latitude: 46.46844
+          longitude: -64.73905
+        -
+          name: "Campbellton"
+          latitude: 48.00751
+          longitude: -66.67272
+        -
+          name: "Dieppe"
+          latitude: 46.07844
+          longitude: -64.68735
+        -
+          name: "Edmundston"
+          latitude: 47.3737
+          longitude: -68.32512
+        -
+          name: "Florenceville-Bristol"
+          latitude: 46.44353
+          longitude: -67.61536
+        -
+          name: "Fredericton"
+          latitude: 45.94541
+          longitude: -66.66558
+        -
+          name: "Fundy Bay"
+          latitude: 44.741
+          longitude: -66.76041
+        -
+          name: "Grande-Digue"
+          latitude: 46.30014
+          longitude: -64.56546
+        -
+          name: "Greater Lakeburn"
+          latitude: 46.07651
+          longitude: -64.66818
+        -
+          name: "Hampton"
+          latitude: 45.52876
+          longitude: -65.85354
+        -
+          name: "Harrison Brook"
+          latitude: 47.21304
+          longitude: -67.92847
+        -
+          name: "Keswick Ridge"
+          latitude: 46.00011
+          longitude: -66.88218
+        -
+          name: "Lincoln"
+          latitude: 45.90012
+          longitude: -66.58218
+        -
+          name: "Lutes Mountain"
+          latitude: 46.13544
+          longitude: -64.90504
+        -
+          name: "McEwen"
+          latitude: 46.1452
+          longitude: -64.78615
+        -
+          name: "Miramichi"
+          latitude: 47.02895
+          longitude: -65.50186
+        -
+          name: "Moncton"
+          latitude: 46.09454
+          longitude: -64.7965
+        -
+          name: "Nackawic"
+          latitude: 45.99666
+          longitude: -67.24028
+        -
+          name: "New Maryland"
+          latitude: 45.87932
+          longitude: -66.66828
+        -
+          name: "Noonan"
+          latitude: 45.96682
+          longitude: -66.53218
+        -
+          name: "Oromocto"
+          latitude: 45.83512
+          longitude: -66.47917
+        -
+          name: "Richibucto"
+          latitude: 46.68073
+          longitude: -64.88044
+        -
+          name: "Sackville"
+          latitude: 45.91875
+          longitude: -64.38455
+        -
+          name: "Saint Andrews"
+          latitude: 45.0737
+          longitude: -67.05312
+        -
+          name: "Saint John"
+          latitude: 45.27271
+          longitude: -66.06766
+        -
+          name: "Saint-Antoine"
+          latitude: 46.36294
+          longitude: -64.74985
+        -
+          name: "Saint-Léonard"
+          latitude: 47.16317
+          longitude: -67.9246
+        -
+          name: "Salisbury"
+          latitude: 46.03905
+          longitude: -65.04628
+        -
+          name: "Shediac"
+          latitude: 46.21981
+          longitude: -64.54107
+        -
+          name: "Shediac Bridge-Shediac River"
+          latitude: 46.26886
+          longitude: -64.60047
+        -
+          name: "Shippagan"
+          latitude: 47.74424
+          longitude: -64.70804
+        -
+          name: "Starlight Village"
+          latitude: 45.88308
+          longitude: -66.76905
+        -
+          name: "Sussex"
+          latitude: 45.72266
+          longitude: -65.50663
+        -
+          name: "Tracadie-Sheila"
+          latitude: 47.51444
+          longitude: -64.91806
+        -
+          name: "Wells"
+          latitude: 45.39274
+          longitude: -65.92313
+    -
+      name: "Newfoundland and Labrador"
+      code: "NL"
+      iso3166_2: "CA-NL"
+      type: "province"
+      latitude: 53.8217327
+      longitude: -61.2295532
+      cities:
+        -
+          name: "Bay Roberts"
+          latitude: 47.59989
+          longitude: -53.26478
+        -
+          name: "Bay St. George South"
+          latitude: 48.22781
+          longitude: -58.84162
+        -
+          name: "Bonavista"
+          latitude: 48.64989
+          longitude: -53.11474
+        -
+          name: "Botwood"
+          latitude: 49.14994
+          longitude: -55.34819
+        -
+          name: "Burgeo"
+          latitude: 47.61668
+          longitude: -57.61516
+        -
+          name: "Carbonear"
+          latitude: 47.73319
+          longitude: -53.21478
+        -
+          name: "Catalina"
+          latitude: 48.51659
+          longitude: -53.08135
+        -
+          name: "Channel-Port aux Basques"
+          latitude: 47.57286
+          longitude: -59.13808
+        -
+          name: "Clarenville-Shoal Harbour"
+          latitude: 48.1805
+          longitude: -53.96982
+        -
+          name: "Conception Bay South"
+          latitude: 47.49989
+          longitude: -52.99806
+        -
+          name: "Corner Brook"
+          latitude: 48.95001
+          longitude: -57.95202
+        -
+          name: "Deer Lake"
+          latitude: 49.16671
+          longitude: -57.43163
+        -
+          name: "Fogo Island"
+          latitude: 49.71649
+          longitude: -54.16981
+        -
+          name: "Gambo"
+          latitude: 48.7832
+          longitude: -54.21482
+        -
+          name: "Goulds"
+          latitude: 47.45532
+          longitude: -52.77552
+        -
+          name: "Grand Bank"
+          latitude: 47.09995
+          longitude: -55.76504
+        -
+          name: "Grand Falls-Windsor"
+          latitude: 48.93324
+          longitude: -55.66492
+        -
+          name: "Happy Valley-Goose Bay"
+          latitude: 53.3038
+          longitude: -60.32576
+        -
+          name: "Harbour Breton"
+          latitude: 47.48325
+          longitude: -55.79833
+        -
+          name: "Labrador City"
+          latitude: 52.94626
+          longitude: -66.91137
+        -
+          name: "Lewisporte"
+          latitude: 49.24993
+          longitude: -55.04816
+        -
+          name: "Marystown"
+          latitude: 47.16663
+          longitude: -55.14829
+        -
+          name: "Mount Pearl"
+          latitude: 47.51659
+          longitude: -52.78135
+        -
+          name: "Pasadena"
+          latitude: 49.01671
+          longitude: -57.59837
+        -
+          name: "Springdale"
+          latitude: 49.49995
+          longitude: -56.06492
+        -
+          name: "St. Anthony"
+          latitude: 51.37039
+          longitude: -55.59743
+        -
+          name: "St. John's"
+          latitude: 47.56494
+          longitude: -52.70931
+        -
+          name: "Stephenville"
+          latitude: 48.55001
+          longitude: -58.5818
+        -
+          name: "Stephenville Crossing"
+          latitude: 48.50001
+          longitude: -58.4318
+        -
+          name: "Torbay"
+          latitude: 47.66659
+          longitude: -52.73135
+        -
+          name: "Upper Island Cove"
+          latitude: 47.64989
+          longitude: -53.21478
+        -
+          name: "Wabana"
+          latitude: 47.63319
+          longitude: -52.94806
+    -
+      name: "Northwest Territories"
+      code: "NT"
+      iso3166_2: "CA-NT"
+      type: "territory"
+      latitude: 65.0000004
+      longitude: -118
+      cities:
+        -
+          name: "Behchokǫ̀"
+          latitude: 62.8025
+          longitude: -116.04639
+        -
+          name: "Fort McPherson"
+          latitude: 67.43863
+          longitude: -134.88543
+        -
+          name: "Fort Smith"
+          latitude: 60.00439
+          longitude: -111.88871
+        -
+          name: "Hay River"
+          latitude: 60.81555
+          longitude: -115.79993
+        -
+          name: "Inuvik"
+          latitude: 68.34986
+          longitude: -133.72181
+        -
+          name: "Norman Wells"
+          latitude: 65.28201
+          longitude: -126.8329
+        -
+          name: "Yellowknife"
+          latitude: 62.45411
+          longitude: -114.37248
+    -
+      name: "Nova Scotia"
+      code: "NS"
+      iso3166_2: "CA-NS"
+      type: "province"
+      latitude: 45.1960403
+      longitude: -63.1653789
+      cities:
+        -
+          name: "Amherst"
+          latitude: 45.83345
+          longitude: -64.19874
+        -
+          name: "Annapolis"
+          latitude: 44.58345
+          longitude: -65.16551
+        -
+          name: "Antigonish"
+          latitude: 45.61685
+          longitude: -61.99858
+        -
+          name: "Berwick"
+          latitude: 45.05015
+          longitude: -64.73208
+        -
+          name: "Bridgewater"
+          latitude: 44.37856
+          longitude: -64.51882
+        -
+          name: "Cape Breton"
+          latitude: 46.00014
+          longitude: -60.31516
+        -
+          name: "Chester"
+          latitude: 44.54225
+          longitude: -64.23891
+        -
+          name: "Colchester"
+          latitude: 45.33345
+          longitude: -63.24868
+        -
+          name: "Cole Harbour"
+          latitude: 44.67244
+          longitude: -63.47506
+        -
+          name: "Cow Bay"
+          latitude: 44.63141
+          longitude: -63.43218
+        -
+          name: "Dartmouth"
+          latitude: 44.67134
+          longitude: -63.57719
+        -
+          name: "Digby"
+          latitude: 44.62188
+          longitude: -65.7586
+        -
+          name: "Digby County"
+          latitude: 44.36685
+          longitude: -65.69884
+        -
+          name: "English Corner"
+          latitude: 44.73345
+          longitude: -63.78201
+        -
+          name: "Eskasoni 3"
+          latitude: 45.94522
+          longitude: -60.61617
+        -
+          name: "Fall River"
+          latitude: 44.81685
+          longitude: -63.6154
+        -
+          name: "Glace Bay"
+          latitude: 46.19695
+          longitude: -59.95698
+        -
+          name: "Greenwood"
+          latitude: 44.97413
+          longitude: -64.93169
+        -
+          name: "Halifax"
+          latitude: 44.64533
+          longitude: -63.57239
+        -
+          name: "Hantsport"
+          latitude: 45.06685
+          longitude: -64.16544
+        -
+          name: "Hayes Subdivision"
+          latitude: 45.05519
+          longitude: -64.58795
+        -
+          name: "Kentville"
+          latitude: 45.0771
+          longitude: -64.49605
+        -
+          name: "Lake Echo"
+          latitude: 44.73345
+          longitude: -63.38198
+        -
+          name: "Lantz"
+          latitude: 44.98345
+          longitude: -63.48199
+        -
+          name: "Lower Sackville"
+          latitude: 44.77599
+          longitude: -63.67865
+        -
+          name: "Lunenburg"
+          latitude: 44.37847
+          longitude: -64.31658
+        -
+          name: "Middleton"
+          latitude: 44.94284
+          longitude: -65.07022
+        -
+          name: "New Glasgow"
+          latitude: 45.58344
+          longitude: -62.64863
+        -
+          name: "Oxford"
+          latitude: 45.73345
+          longitude: -63.86542
+        -
+          name: "Parrsboro"
+          latitude: 45.40567
+          longitude: -64.32585
+        -
+          name: "Pictou"
+          latitude: 45.67875
+          longitude: -62.70936
+        -
+          name: "Pictou County"
+          latitude: 45.50015
+          longitude: -62.58193
+        -
+          name: "Port Hawkesbury"
+          latitude: 45.61685
+          longitude: -61.34853
+        -
+          name: "Port Williams"
+          latitude: 45.10015
+          longitude: -64.41546
+        -
+          name: "Princeville"
+          latitude: 45.76684
+          longitude: -61.29853
+        -
+          name: "Shelburne"
+          latitude: 43.76325
+          longitude: -65.32355
+        -
+          name: "Springhill"
+          latitude: 45.65015
+          longitude: -64.04873
+        -
+          name: "Sydney"
+          latitude: 46.1351
+          longitude: -60.1831
+        -
+          name: "Sydney Mines"
+          latitude: 46.23669
+          longitude: -60.21767
+        -
+          name: "Truro"
+          latitude: 45.36685
+          longitude: -63.26538
+        -
+          name: "Windsor"
+          latitude: 44.98345
+          longitude: -64.13204
+        -
+          name: "Wolfville"
+          latitude: 45.08345
+          longitude: -64.36546
+        -
+          name: "Yarmouth"
+          latitude: 43.83345
+          longitude: -66.11557
+    -
+      name: "Nunavut"
+      code: "NU"
+      iso3166_2: "CA-NU"
+      type: "territory"
+      latitude: 65.0377727
+      longitude: -92.5540791
+      cities:
+        -
+          name: "Clyde River"
+          latitude: 70.47233
+          longitude: -68.58987
+        -
+          name: "Gjoa Haven"
+          latitude: 68.62602
+          longitude: -95.87836
+        -
+          name: "Iqaluit"
+          latitude: 63.74697
+          longitude: -68.51727
+        -
+          name: "Kugluktuk"
+          latitude: 67.82743
+          longitude: -115.09649
+        -
+          name: "Pangnirtung"
+          latitude: 66.14642
+          longitude: -65.69996
+        -
+          name: "Rankin Inlet"
+          latitude: 62.80906
+          longitude: -92.08534
+    -
+      name: "Ontario"
+      code: "ON"
+      iso3166_2: "CA-ON"
+      type: "province"
+      latitude: 50.000678
+      longitude: -86.000977
+      cities:
+        -
+          name: "Ajax"
+          latitude: 43.85012
+          longitude: -79.03288
+        -
+          name: "Algoma"
+          latitude: 47.88364
+          longitude: -84.42406
+        -
+          name: "Alliston"
+          latitude: 44.15011
+          longitude: -79.86635
+        -
+          name: "Amherstburg"
+          latitude: 42.10009
+          longitude: -83.09985
+        -
+          name: "Amigo Beach"
+          latitude: 44.70011
+          longitude: -79.39963
+        -
+          name: "Ancaster"
+          latitude: 43.21806
+          longitude: -79.98716
+        -
+          name: "Angus"
+          latitude: 44.31681
+          longitude: -79.88295
+        -
+          name: "Arnprior"
+          latitude: 45.43341
+          longitude: -76.34939
+        -
+          name: "Atikokan"
+          latitude: 48.75667
+          longitude: -91.62409
+        -
+          name: "Attawapiskat"
+          latitude: 52.92774
+          longitude: -82.41669
+        -
+          name: "Aurora"
+          latitude: 43.99973
+          longitude: -79.467545
+        -
+          name: "Aylmer"
+          latitude: 42.76679
+          longitude: -80.98302
+        -
+          name: "Azilda"
+          latitude: 46.55008
+          longitude: -81.09975
+        -
+          name: "Ballantrae"
+          latitude: 44.03342
+          longitude: -79.2996
+        -
+          name: "Bancroft"
+          latitude: 45.05752
+          longitude: -77.85702
+        -
+          name: "Barrie"
+          latitude: 44.40011
+          longitude: -79.66634
+        -
+          name: "Bath"
+          latitude: 44.18342
+          longitude: -76.78273
+        -
+          name: "Belleville"
+          latitude: 44.16682
+          longitude: -77.38277
+        -
+          name: "Bells Corners"
+          latitude: 45.31588
+          longitude: -75.83012
+        -
+          name: "Belmont"
+          latitude: 42.88339
+          longitude: -81.08303
+        -
+          name: "Binbrook"
+          latitude: 43.12135
+          longitude: -79.81104
+        -
+          name: "Bluewater"
+          latitude: 43.46679
+          longitude: -81.59977
+        -
+          name: "Bourget"
+          latitude: 45.4334
+          longitude: -75.1493
+        -
+          name: "Bracebridge"
+          latitude: 45.03341
+          longitude: -79.31633
+        -
+          name: "Brampton"
+          latitude: 43.68341
+          longitude: -79.76633
+        -
+          name: "Brant"
+          latitude: 43.1334
+          longitude: -80.34967
+        -
+          name: "Brantford"
+          latitude: 43.1334
+          longitude: -80.26636
+        -
+          name: "Brockville"
+          latitude: 44.59132
+          longitude: -75.68705
+        -
+          name: "Brussels"
+          latitude: 43.73339
+          longitude: -81.24975
+        -
+          name: "Burford"
+          latitude: 43.10292
+          longitude: -80.42869
+        -
+          name: "Burlington"
+          latitude: 43.38621
+          longitude: -79.83713
+        -
+          name: "Cambridge"
+          latitude: 43.3601
+          longitude: -80.31269
+        -
+          name: "Camlachie"
+          latitude: 43.03596
+          longitude: -82.1616
+        -
+          name: "Capreol"
+          latitude: 46.70626
+          longitude: -80.92109
+        -
+          name: "Carleton Place"
+          latitude: 45.13341
+          longitude: -76.14938
+        -
+          name: "Casselman"
+          latitude: 45.3168
+          longitude: -75.0826
+        -
+          name: "Chatham"
+          latitude: 42.41224
+          longitude: -82.18494
+        -
+          name: "Chatham-Kent"
+          latitude: 42.40009
+          longitude: -82.1831
+        -
+          name: "Clarence-Rockland"
+          latitude: 45.5501
+          longitude: -75.29101
+        -
+          name: "Cobourg"
+          latitude: 43.95977
+          longitude: -78.16515
+        -
+          name: "Cochrane"
+          latitude: 50.00022
+          longitude: -82.99979
+        -
+          name: "Collingwood"
+          latitude: 44.4834
+          longitude: -80.21638
+        -
+          name: "Concord"
+          latitude: 43.80011
+          longitude: -79.48291
+        -
+          name: "Constance Bay"
+          latitude: 45.50011
+          longitude: -76.08267
+        -
+          name: "Cookstown"
+          latitude: 44.18341
+          longitude: -79.69964
+        -
+          name: "Cornwall"
+          latitude: 45.01809
+          longitude: -74.72815
+        -
+          name: "Corunna"
+          latitude: 42.88338
+          longitude: -82.43313
+        -
+          name: "Deep River"
+          latitude: 46.10012
+          longitude: -77.49949
+        -
+          name: "Delaware"
+          latitude: 42.91679
+          longitude: -81.41646
+        -
+          name: "Deseronto"
+          latitude: 44.20012
+          longitude: -77.04944
+        -
+          name: "Dorchester"
+          latitude: 42.98339
+          longitude: -81.06643
+        -
+          name: "Dowling"
+          latitude: 46.59111
+          longitude: -81.33917
+        -
+          name: "Dryden"
+          latitude: 49.78334
+          longitude: -92.75032
+        -
+          name: "Durham"
+          latitude: 44.20012
+          longitude: -78.99957
+        -
+          name: "Ear Falls"
+          latitude: 50.63955
+          longitude: -93.23526
+        -
+          name: "East Gwillimbury"
+          latitude: 44.10087
+          longitude: -79.43785
+        -
+          name: "East York"
+          latitude: 43.69053
+          longitude: -79.32794
+        -
+          name: "Elliot Lake"
+          latitude: 46.38336
+          longitude: -82.63315
+        -
+          name: "Elmvale"
+          latitude: 44.5834
+          longitude: -79.86636
+        -
+          name: "Englehart"
+          latitude: 47.81686
+          longitude: -79.8664
+        -
+          name: "Espanola"
+          latitude: 46.25837
+          longitude: -81.76649
+        -
+          name: "Essex"
+          latitude: 42.17509
+          longitude: -82.82483
+        -
+          name: "Etobicoke"
+          latitude: 43.65421
+          longitude: -79.56711
+        -
+          name: "Exeter"
+          latitude: 43.3435863
+          longitude: -81.4972602
+        -
+          name: "Fort Erie"
+          latitude: 42.90012
+          longitude: -78.93286
+        -
+          name: "Fort Frances"
+          latitude: 48.61667
+          longitude: -93.4003
+        -
+          name: "Gananoque"
+          latitude: 44.33342
+          longitude: -76.16607
+        -
+          name: "Glencoe"
+          latitude: 42.75009
+          longitude: -81.71648
+        -
+          name: "Goderich"
+          latitude: 43.74171
+          longitude: -81.71339
+        -
+          name: "Golden"
+          latitude: 51.05917
+          longitude: -93.73568
+        -
+          name: "Gravenhurst"
+          latitude: 44.91681
+          longitude: -79.36633
+        -
+          name: "Greater Napanee"
+          latitude: 44.2473883
+          longitude: -76.9505543
+        -
+          name: "Greater Sudbury"
+          latitude: 46.49
+          longitude: -80.99001
+        -
+          name: "Greenstone"
+          latitude: 49.73343
+          longitude: -87.16668
+        -
+          name: "Guelph"
+          latitude: 43.54594
+          longitude: -80.25599
+        -
+          name: "Haldimand"
+          latitude: 42.98341
+          longitude: -79.86633
+        -
+          name: "Haliburton Village"
+          latitude: 45.05154
+          longitude: -78.52245
+        -
+          name: "Halton"
+          latitude: 43.50011
+          longitude: -79.88294
+        -
+          name: "Hamilton"
+          latitude: 43.25011
+          longitude: -79.84963
+        -
+          name: "Hanover"
+          latitude: 44.15009
+          longitude: -81.03303
+        -
+          name: "Harriston"
+          latitude: 43.90009
+          longitude: -80.88302
+        -
+          name: "Hawkesbury"
+          latitude: 45.60009
+          longitude: -74.61595
+        -
+          name: "Hearst"
+          latitude: 49.68351
+          longitude: -83.66654
+        -
+          name: "Hornepayne"
+          latitude: 49.21451
+          longitude: -84.77617
+        -
+          name: "Huntsville"
+          latitude: 45.33341
+          longitude: -79.21632
+        -
+          name: "Huron East"
+          latitude: 43.61679
+          longitude: -81.29975
+        -
+          name: "Ingersoll"
+          latitude: 43.03339
+          longitude: -80.88302
+        -
+          name: "Innisfil"
+          latitude: 44.30011
+          longitude: -79.64964
+        -
+          name: "Iroquois Falls"
+          latitude: 48.76688
+          longitude: -80.68307
+        -
+          name: "Jarvis"
+          latitude: 42.88341
+          longitude: -80.09965
+        -
+          name: "Kanata"
+          latitude: 45.3001
+          longitude: -75.91606
+        -
+          name: "Kapuskasing"
+          latitude: 49.41694
+          longitude: -82.43308
+        -
+          name: "Kawartha Lakes"
+          latitude: 44.58342
+          longitude: -78.83288
+        -
+          name: "Kenora"
+          latitude: 49.76741
+          longitude: -94.48985
+        -
+          name: "Keswick"
+          latitude: 44.25011
+          longitude: -79.46632
+        -
+          name: "Kincardine"
+          latitude: 44.18339
+          longitude: -81.63307
+        -
+          name: "King"
+          latitude: 43.96514
+          longitude: -79.59011
+        -
+          name: "Kingston"
+          latitude: 44.22976
+          longitude: -76.48098
+        -
+          name: "Kirkland Lake"
+          latitude: 48.14461
+          longitude: -80.03767
+        -
+          name: "Kitchener"
+          latitude: 43.42537
+          longitude: -80.5112
+        -
+          name: "L'Orignal"
+          latitude: 45.6198
+          longitude: -74.6915
+        -
+          name: "Lakefield"
+          latitude: 44.43342
+          longitude: -78.26623
+        -
+          name: "Lambton Shores"
+          latitude: 43.16678
+          longitude: -81.93309
+        -
+          name: "Lappe"
+          latitude: 48.5668
+          longitude: -89.35013
+        -
+          name: "Leamington"
+          latitude: 42.05009
+          longitude: -82.59981
+        -
+          name: "Limoges"
+          latitude: 45.3334
+          longitude: -75.24931
+        -
+          name: "Lindsay"
+          latitude: 44.35012
+          longitude: -78.73286
+        -
+          name: "Listowel"
+          latitude: 43.7334
+          longitude: -80.94973
+        -
+          name: "Little Current"
+          latitude: 45.97927
+          longitude: -81.9248
+        -
+          name: "Lively"
+          latitude: 46.43338
+          longitude: -81.14975
+        -
+          name: "London"
+          latitude: 42.98339
+          longitude: -81.23304
+        -
+          name: "Lucan"
+          latitude: 43.18339
+          longitude: -81.39976
+        -
+          name: "Madoc"
+          latitude: 44.50842
+          longitude: -77.47448
+        -
+          name: "Manitoulin"
+          latitude: 45.75007
+          longitude: -82.49985
+        -
+          name: "Manitouwadge"
+          latitude: 49.12152
+          longitude: -85.8403
+        -
+          name: "Marathon"
+          latitude: 48.7501
+          longitude: -86.43322
+        -
+          name: "Markdale"
+          latitude: 44.3168
+          longitude: -80.64971
+        -
+          name: "Markham"
+          latitude: 43.86682
+          longitude: -79.2663
+        -
+          name: "Mattawa"
+          latitude: 46.31681
+          longitude: -78.69957
+        -
+          name: "Meaford"
+          latitude: 44.60725
+          longitude: -80.61081
+        -
+          name: "Metcalfe"
+          latitude: 45.2334
+          longitude: -75.46603
+        -
+          name: "Midland"
+          latitude: 44.7501
+          longitude: -79.88296
+        -
+          name: "Mildmay"
+          latitude: 44.05009
+          longitude: -81.11644
+        -
+          name: "Millbrook"
+          latitude: 44.15012
+          longitude: -78.44954
+        -
+          name: "Milton"
+          latitude: 43.51681
+          longitude: -79.88294
+        -
+          name: "Mississauga"
+          latitude: 43.5789
+          longitude: -79.6583
+        -
+          name: "Mississauga Beach"
+          latitude: 43.26682
+          longitude: -79.08287
+        -
+          name: "Moose Factory"
+          latitude: 51.26689
+          longitude: -80.61624
+        -
+          name: "Moosonee"
+          latitude: 51.27931
+          longitude: -80.6345
+        -
+          name: "Morrisburg"
+          latitude: 44.9001
+          longitude: -75.18261
+        -
+          name: "Mount Albert"
+          latitude: 44.13341
+          longitude: -79.3163
+        -
+          name: "Mount Brydges"
+          latitude: 42.90009
+          longitude: -81.48306
+        -
+          name: "Napanee Downtown"
+          latitude: 44.24832
+          longitude: -76.95069
+        -
+          name: "Neebing"
+          latitude: 48.1668
+          longitude: -89.41683
+        -
+          name: "Nepean"
+          latitude: 45.35215
+          longitude: -75.73975
+        -
+          name: "New Hamburg"
+          latitude: 43.38339
+          longitude: -80.6997
+        -
+          name: "Newmarket"
+          latitude: 44.05011
+          longitude: -79.46631
+        -
+          name: "Niagara Falls"
+          latitude: 43.10012
+          longitude: -79.06627
+        -
+          name: "Nipissing"
+          latitude: 46.0001
+          longitude: -78.99959
+        -
+          name: "Norfolk County"
+          latitude: 42.8334
+          longitude: -80.38297
+        -
+          name: "North Bay"
+          latitude: 46.3168
+          longitude: -79.46633
+        -
+          name: "North Perth"
+          latitude: 43.7251
+          longitude: -80.96723
+        -
+          name: "North York"
+          latitude: 43.76681
+          longitude: -79.4163
+        -
+          name: "Norwood"
+          latitude: 44.38342
+          longitude: -77.98281
+        -
+          name: "Oakville"
+          latitude: 43.45011
+          longitude: -79.68292
+        -
+          name: "Omemee"
+          latitude: 44.29897
+          longitude: -78.55989
+        -
+          name: "Orangeville"
+          latitude: 43.9168
+          longitude: -80.09967
+        -
+          name: "Orillia"
+          latitude: 44.60868
+          longitude: -79.42068
+        -
+          name: "Osgoode"
+          latitude: 45.14887
+          longitude: -75.59778
+        -
+          name: "Oshawa"
+          latitude: 43.90012
+          longitude: -78.84957
+        -
+          name: "Ottawa"
+          latitude: 45.41117
+          longitude: -75.69812
+        -
+          name: "Owen Sound"
+          latitude: 44.56717
+          longitude: -80.94349
+        -
+          name: "Paisley"
+          latitude: 44.30641
+          longitude: -81.27265
+        -
+          name: "Paris"
+          latitude: 43.2
+          longitude: -80.38333
+        -
+          name: "Parkhill"
+          latitude: 43.15993
+          longitude: -81.68464
+        -
+          name: "Parry Sound"
+          latitude: 45.34732
+          longitude: -80.03527
+        -
+          name: "Parry Sound District"
+          latitude: 45.75011
+          longitude: -79.83297
+        -
+          name: "Peel"
+          latitude: 43.75011
+          longitude: -79.78293
+        -
+          name: "Pembroke"
+          latitude: 45.81681
+          longitude: -77.11616
+        -
+          name: "Perth"
+          latitude: 44.90011
+          longitude: -76.24939
+        -
+          name: "Petawawa"
+          latitude: 45.89452
+          longitude: -77.28007
+        -
+          name: "Peterborough"
+          latitude: 44.30012
+          longitude: -78.31623
+        -
+          name: "Petrolia"
+          latitude: 42.86678
+          longitude: -82.14981
+        -
+          name: "Pickering"
+          latitude: 43.90012
+          longitude: -79.13289
+        -
+          name: "Picton"
+          latitude: 44.00012
+          longitude: -77.13275
+        -
+          name: "Plantagenet"
+          latitude: 45.5326
+          longitude: -74.99369
+        -
+          name: "Plattsville"
+          latitude: 43.3001
+          longitude: -80.61639
+        -
+          name: "Port Colborne"
+          latitude: 42.90012
+          longitude: -79.23288
+        -
+          name: "Port Hope"
+          latitude: 44.01682
+          longitude: -78.39953
+        -
+          name: "Port Rowan"
+          latitude: 42.6168
+          longitude: -80.46638
+        -
+          name: "Port Stanley"
+          latitude: 42.66679
+          longitude: -81.21644
+        -
+          name: "Powassan"
+          latitude: 46.0334
+          longitude: -79.34961
+        -
+          name: "Prescott"
+          latitude: 44.71681
+          longitude: -75.51604
+        -
+          name: "Prince Edward"
+          latitude: 44.00012
+          longitude: -77.24946
+        -
+          name: "Queenswood Heights"
+          latitude: 45.47083
+          longitude: -75.50556
+        -
+          name: "Quinte West"
+          latitude: 44.18342
+          longitude: -77.56618
+        -
+          name: "Rainy River"
+          latitude: 48.49981
+          longitude: -92.50031
+        -
+          name: "Rayside-Balfour"
+          latitude: 46.60873
+          longitude: -81.20763
+        -
+          name: "Red Lake"
+          latitude: 51.01678
+          longitude: -93.82736
+        -
+          name: "Regional Municipality of Waterloo"
+          latitude: 43.5001
+          longitude: -80.49969
+        -
+          name: "Renfrew"
+          latitude: 45.46681
+          longitude: -76.68272
+        -
+          name: "Richmond"
+          latitude: 45.1834
+          longitude: -75.83266
+        -
+          name: "Richmond Hill"
+          latitude: 43.87111
+          longitude: -79.43725
+        -
+          name: "Ridgetown"
+          latitude: 42.43339
+          longitude: -81.89978
+        -
+          name: "Rockwood"
+          latitude: 43.61899
+          longitude: -80.14441
+        -
+          name: "Russell"
+          latitude: 45.2501
+          longitude: -75.36602
+        -
+          name: "Sarnia"
+          latitude: 42.97866
+          longitude: -82.40407
+        -
+          name: "Sault Ste. Marie"
+          latitude: 46.51677
+          longitude: -84.33325
+        -
+          name: "Scarborough"
+          latitude: 43.77223
+          longitude: -79.25666
+        -
+          name: "Seaforth"
+          latitude: 43.55009
+          longitude: -81.39976
+        -
+          name: "Shelburne"
+          latitude: 44.0787
+          longitude: -80.20408
+        -
+          name: "Simcoe"
+          latitude: 42.8334
+          longitude: -80.29967
+        -
+          name: "Sioux Lookout"
+          latitude: 50.06676
+          longitude: -91.98358
+        -
+          name: "Skatepark"
+          latitude: 44.25122
+          longitude: -76.94424
+        -
+          name: "Smiths Falls"
+          latitude: 44.90452
+          longitude: -76.02333
+        -
+          name: "South Huron"
+          latitude: 43.31679
+          longitude: -81.51647
+        -
+          name: "South River"
+          latitude: 45.8334
+          longitude: -79.38293
+        -
+          name: "St. Catharines"
+          latitude: 43.17126
+          longitude: -79.24267
+        -
+          name: "St. George"
+          latitude: 43.24495
+          longitude: -80.25144
+        -
+          name: "St. Thomas"
+          latitude: 42.77361
+          longitude: -81.18038
+        -
+          name: "Stirling"
+          latitude: 44.30012
+          longitude: -77.54948
+        -
+          name: "Stoney Point"
+          latitude: 44.26681
+          longitude: -79.53292
+        -
+          name: "Stratford"
+          latitude: 43.36679
+          longitude: -80.94972
+        -
+          name: "Sudbury"
+          latitude: 47.16679
+          longitude: -81.9998
+        -
+          name: "Tavistock"
+          latitude: 43.31679
+          longitude: -80.83302
+        -
+          name: "Temiskaming Shores"
+          latitude: 47.49376
+          longitude: -79.71529
+        -
+          name: "Thessalon"
+          latitude: 46.25006
+          longitude: -83.5666
+        -
+          name: "Thornhill"
+          latitude: 43.8170848
+          longitude: -79.4501194
+        -
+          name: "Thorold"
+          latitude: 43.11682
+          longitude: -79.19958
+        -
+          name: "Thunder Bay"
+          latitude: 48.38202
+          longitude: -89.25018
+        -
+          name: "Thunder Bay District"
+          latitude: 49.50011
+          longitude: -88.50004
+        -
+          name: "Timiskaming"
+          latitude: 47.75016
+          longitude: -80.33303
+        -
+          name: "Timmins"
+          latitude: 48.46686
+          longitude: -81.33312
+        -
+          name: "Tobermory"
+          latitude: 45.25007
+          longitude: -81.66647
+        -
+          name: "Toronto"
+          latitude: 43.70011
+          longitude: -79.4163
+        -
+          name: "Toronto county"
+          latitude: 43.69655
+          longitude: -79.42909
+        -
+          name: "Tottenham"
+          latitude: 44.02437
+          longitude: -79.80553
+        -
+          name: "Tweed"
+          latitude: 44.47512
+          longitude: -77.31616
+        -
+          name: "Uxbridge"
+          latitude: 44.10012
+          longitude: -79.11628
+        -
+          name: "Valley East"
+          latitude: 46.66773
+          longitude: -81.00028
+        -
+          name: "Vanier"
+          latitude: 45.4399
+          longitude: -75.66498
+        -
+          name: "Vaughan"
+          latitude: 43.8361
+          longitude: -79.49827
+        -
+          name: "Vineland"
+          latitude: 43.15012
+          longitude: -79.3996
+        -
+          name: "Virgil"
+          latitude: 43.21682
+          longitude: -79.13288
+        -
+          name: "Walpole Island"
+          latitude: 42.6152
+          longitude: -82.51398
+        -
+          name: "Wasaga Beach"
+          latitude: 44.5168
+          longitude: -80.01637
+        -
+          name: "Waterford"
+          latitude: 42.9334
+          longitude: -80.28296
+        -
+          name: "Waterloo"
+          latitude: 43.4668
+          longitude: -80.51639
+        -
+          name: "Watford"
+          latitude: 42.95008
+          longitude: -81.88309
+        -
+          name: "Wawa"
+          latitude: 47.98877
+          longitude: -84.77411
+        -
+          name: "Welland"
+          latitude: 42.98342
+          longitude: -79.24958
+        -
+          name: "Wellesley"
+          latitude: 43.47691
+          longitude: -80.76209
+        -
+          name: "Wendover"
+          latitude: 45.57275
+          longitude: -75.12757
+        -
+          name: "West Lorne"
+          latitude: 42.60009
+          longitude: -81.59976
+        -
+          name: "Willowdale"
+          latitude: 43.76672
+          longitude: -79.39909
+        -
+          name: "Winchester"
+          latitude: 45.0834
+          longitude: -75.34933
+        -
+          name: "Windsor"
+          latitude: 42.30008
+          longitude: -83.01654
+        -
+          name: "Wingham"
+          latitude: 43.88793
+          longitude: -81.31145
+        -
+          name: "Woodstock"
+          latitude: 43.13339
+          longitude: -80.7497
+        -
+          name: "York"
+          latitude: 44.0007518
+          longitude: -79.4372217
+    -
+      name: "Prince Edward Island"
+      code: "PE"
+      iso3166_2: "CA-PE"
+      type: "province"
+      latitude: 46.5036807
+      longitude: -63.595411
+      cities:
+        -
+          name: "Alberton"
+          latitude: 46.81685
+          longitude: -64.06542
+        -
+          name: "Belfast"
+          latitude: 46.08341
+          longitude: -62.88197
+        -
+          name: "Charlottetown"
+          latitude: 46.23899
+          longitude: -63.13414
+        -
+          name: "Cornwall"
+          latitude: 46.22652
+          longitude: -63.21809
+        -
+          name: "Fallingbrook"
+          latitude: 45.47558
+          longitude: -75.48401
+        -
+          name: "Kensington"
+          latitude: 46.43343
+          longitude: -63.64871
+        -
+          name: "Montague"
+          latitude: 46.16681
+          longitude: -62.64866
+        -
+          name: "Souris"
+          latitude: 46.3501
+          longitude: -62.24862
+        -
+          name: "Summerside"
+          latitude: 46.39593
+          longitude: -63.78762
+    -
+      name: "Quebec"
+      code: "QC"
+      iso3166_2: "CA-QC"
+      type: "province"
+      latitude: 52.4760892
+      longitude: -71.8258668
+      cities:
+        -
+          name: "Abitibi-Témiscamingue"
+          latitude: 48.10018
+          longitude: -77.7828
+        -
+          name: "Acton Vale"
+          latitude: 45.65007
+          longitude: -72.56582
+        -
+          name: "Adstock"
+          latitude: 46.05007
+          longitude: -71.08235
+        -
+          name: "Albanel"
+          latitude: 48.88324
+          longitude: -72.44867
+        -
+          name: "Alma"
+          latitude: 48.55009
+          longitude: -71.6491
+        -
+          name: "Amos"
+          latitude: 48.56688
+          longitude: -78.11624
+        -
+          name: "Amqui"
+          latitude: 48.46382
+          longitude: -67.43134
+        -
+          name: "Ange-Gardien"
+          latitude: 45.35008
+          longitude: -72.93244
+        -
+          name: "Asbestos"
+          latitude: 45.76678
+          longitude: -71.9324
+        -
+          name: "Baie-Comeau"
+          latitude: 49.21679
+          longitude: -68.14894
+        -
+          name: "Baie-D'Urfé"
+          latitude: 45.41397
+          longitude: -73.91586
+        -
+          name: "Baie-Saint-Paul"
+          latitude: 47.44109
+          longitude: -70.49858
+        -
+          name: "Barraute"
+          latitude: 48.43349
+          longitude: -77.63279
+        -
+          name: "Bas-Saint-Laurent"
+          latitude: 48.0503
+          longitude: -68.02266
+        -
+          name: "Beaconsfield"
+          latitude: 45.43341
+          longitude: -73.86586
+        -
+          name: "Beauceville"
+          latitude: 46.21785
+          longitude: -70.77873
+        -
+          name: "Beauharnois"
+          latitude: 45.31341
+          longitude: -73.8725
+        -
+          name: "Beaupré"
+          latitude: 47.04428
+          longitude: -70.89529
+        -
+          name: "Bécancour"
+          latitude: 46.34106
+          longitude: -72.43224
+        -
+          name: "Bedford"
+          latitude: 45.11678
+          longitude: -72.98244
+        -
+          name: "Beloeil"
+          latitude: 45.56839
+          longitude: -73.20568
+        -
+          name: "Berthierville"
+          latitude: 46.08336
+          longitude: -73.18245
+        -
+          name: "Blainville"
+          latitude: 45.66678
+          longitude: -73.88249
+        -
+          name: "Bois-des-Filion"
+          latitude: 45.66678
+          longitude: -73.74918
+        -
+          name: "Boisbriand"
+          latitude: 45.61678
+          longitude: -73.83249
+        -
+          name: "Bonaventure"
+          latitude: 48.04573
+          longitude: -65.49259
+        -
+          name: "Boucherville"
+          latitude: 45.59104
+          longitude: -73.43605
+        -
+          name: "Breakeyville"
+          latitude: 46.68037
+          longitude: -71.22327
+        -
+          name: "Bromont"
+          latitude: 45.31678
+          longitude: -72.64912
+        -
+          name: "Brossard"
+          latitude: 45.45008
+          longitude: -73.46583
+        -
+          name: "Brownsburg-Chatham"
+          latitude: 45.68342
+          longitude: -74.4159
+        -
+          name: "Buckingham"
+          latitude: 45.58563
+          longitude: -75.4208
+        -
+          name: "Cabano"
+          latitude: 47.68065
+          longitude: -68.8781
+        -
+          name: "Cacouna"
+          latitude: 47.91657
+          longitude: -69.50054
+        -
+          name: "Candiac"
+          latitude: 45.38338
+          longitude: -73.51587
+        -
+          name: "Cantley"
+          latitude: 45.5668
+          longitude: -75.78265
+        -
+          name: "Cap-Chat"
+          latitude: 49.10009
+          longitude: -66.68212
+        -
+          name: "Cap-Santé"
+          latitude: 46.67159
+          longitude: -71.78812
+        -
+          name: "Capitale-Nationale"
+          latitude: 47.376
+          longitude: -71.12337
+        -
+          name: "Carignan"
+          latitude: 45.45008
+          longitude: -73.29916
+        -
+          name: "Carleton"
+          latitude: 48.09838
+          longitude: -66.10036
+        -
+          name: "Carleton-sur-Mer"
+          latitude: 48.10749
+          longitude: -66.128
+        -
+          name: "Centre-du-Québec"
+          latitude: 46.01985
+          longitude: -71.98242
+        -
+          name: "Chambly"
+          latitude: 45.45008
+          longitude: -73.28246
+        -
+          name: "Chambord"
+          latitude: 48.43339
+          longitude: -72.06583
+        -
+          name: "Chandler"
+          latitude: 48.34935
+          longitude: -64.67926
+        -
+          name: "Chapais"
+          latitude: 49.78344
+          longitude: -74.84919
+        -
+          name: "Charlemagne"
+          latitude: 45.71678
+          longitude: -73.48247
+        -
+          name: "Château-Richer"
+          latitude: 46.96031
+          longitude: -71.03219
+        -
+          name: "Châteauguay"
+          latitude: 45.38338
+          longitude: -73.74919
+        -
+          name: "Chaudière-Appalaches"
+          latitude: 46.555
+          longitude: -70.8308
+        -
+          name: "Chertsey"
+          latitude: 46.07109
+          longitude: -73.89095
+        -
+          name: "Chibougamau"
+          latitude: 49.91684
+          longitude: -74.36586
+        -
+          name: "Chute-aux-Outardes"
+          latitude: 49.11679
+          longitude: -68.39896
+        -
+          name: "Coaticook"
+          latitude: 45.13339
+          longitude: -71.79907
+        -
+          name: "Contrecoeur"
+          latitude: 45.85008
+          longitude: -73.23245
+        -
+          name: "Cookshire"
+          latitude: 45.41536
+          longitude: -71.62962
+        -
+          name: "Cookshire-Eaton"
+          latitude: 45.41675
+          longitude: -71.6324
+        -
+          name: "Côte-Nord"
+          latitude: 50.86683
+          longitude: -65.81541
+        -
+          name: "Côte-Saint-Luc"
+          latitude: 45.46536
+          longitude: -73.66585
+        -
+          name: "Coteau-du-Lac"
+          latitude: 45.30008
+          longitude: -74.18253
+        -
+          name: "Cowansville"
+          latitude: 45.20008
+          longitude: -72.74913
+        -
+          name: "Crabtree"
+          latitude: 45.96677
+          longitude: -73.46586
+        -
+          name: "Danville"
+          latitude: 45.78337
+          longitude: -72.0158
+        -
+          name: "Daveluyville"
+          latitude: 46.20006
+          longitude: -72.13239
+        -
+          name: "Delson"
+          latitude: 45.36678
+          longitude: -73.54917
+        -
+          name: "Deux-Montagnes"
+          latitude: 45.53455
+          longitude: -73.90168
+        -
+          name: "Disraeli"
+          latitude: 45.90007
+          longitude: -71.34907
+        -
+          name: "Dolbeau-Mistassini"
+          latitude: 48.8786
+          longitude: -72.23142
+        -
+          name: "Dollard-Des Ormeaux"
+          latitude: 45.49452
+          longitude: -73.82419
+        -
+          name: "Donnacona"
+          latitude: 46.68042
+          longitude: -71.7239
+        -
+          name: "Dorval"
+          latitude: 45.4473
+          longitude: -73.75335
+        -
+          name: "Drummondville"
+          latitude: 45.88336
+          longitude: -72.48241
+        -
+          name: "Dunham"
+          latitude: 45.13338
+          longitude: -72.79913
+        -
+          name: "East Angus"
+          latitude: 45.48338
+          longitude: -71.66577
+        -
+          name: "East Broughton"
+          latitude: 46.21358
+          longitude: -71.07674
+        -
+          name: "Farnham"
+          latitude: 45.28338
+          longitude: -72.98244
+        -
+          name: "Ferme-Neuve"
+          latitude: 46.70011
+          longitude: -75.44929
+        -
+          name: "Fermont"
+          latitude: 52.78345
+          longitude: -67.08204
+        -
+          name: "Forestville"
+          latitude: 48.73808
+          longitude: -69.08478
+        -
+          name: "Fort-Coulonge"
+          latitude: 45.85011
+          longitude: -76.73272
+        -
+          name: "Fossambault-sur-le-Lac"
+          latitude: 46.87662
+          longitude: -71.61541
+        -
+          name: "Franklin"
+          latitude: 45.03338
+          longitude: -73.91591
+        -
+          name: "Gaspé"
+          latitude: 48.83341
+          longitude: -64.48194
+        -
+          name: "Gaspésie-Îles-de-la-Madeleine"
+          latitude: 48.87555
+          longitude: -65.4071
+        -
+          name: "Gatineau"
+          latitude: 45.47723
+          longitude: -75.70164
+        -
+          name: "Godefroy"
+          latitude: 51.75012
+          longitude: -68.08213
+        -
+          name: "Granby"
+          latitude: 45.40008
+          longitude: -72.73243
+        -
+          name: "Hampstead"
+          latitude: 45.48064
+          longitude: -73.66307
+        -
+          name: "Hauterive"
+          latitude: 49.19572
+          longitude: -68.25813
+        -
+          name: "Havre-Saint-Pierre"
+          latitude: 50.24342
+          longitude: -63.60264
+        -
+          name: "Hérouxville"
+          latitude: 46.66617
+          longitude: -72.62512
+        -
+          name: "Hudson"
+          latitude: 45.45008
+          longitude: -74.14922
+        -
+          name: "Huntingdon"
+          latitude: 45.08339
+          longitude: -74.16593
+        -
+          name: "Joliette"
+          latitude: 46.0164
+          longitude: -73.4236
+        -
+          name: "Jonquière"
+          latitude: 48.41648
+          longitude: -71.24884
+        -
+          name: "Kingsey Falls"
+          latitude: 45.85007
+          longitude: -72.0658
+        -
+          name: "Kirkland"
+          latitude: 45.45008
+          longitude: -73.86586
+        -
+          name: "L'Ancienne-Lorette"
+          latitude: 46.79392
+          longitude: -71.35191
+        -
+          name: "L'Ange-Gardien"
+          latitude: 46.91976
+          longitude: -71.08253
+        -
+          name: "L'Ascension-de-Notre-Seigneur"
+          latitude: 48.68339
+          longitude: -71.6658
+        -
+          name: "L'Assomption"
+          latitude: 45.82318
+          longitude: -73.4294
+        -
+          name: "L'Épiphanie"
+          latitude: 45.85008
+          longitude: -73.48246
+        -
+          name: "L'Île-Perrot"
+          latitude: 45.38338
+          longitude: -73.9492
+        -
+          name: "La Conception"
+          latitude: 46.15009
+          longitude: -74.69925
+        -
+          name: "La Haute-Saint-Charles"
+          latitude: 46.89028
+          longitude: -71.37222
+        -
+          name: "La Malbaie"
+          latitude: 47.654
+          longitude: -70.15268
+        -
+          name: "La Minerve"
+          latitude: 46.25009
+          longitude: -74.93257
+        -
+          name: "La Pocatière"
+          latitude: 47.36733
+          longitude: -70.03484
+        -
+          name: "La Prairie"
+          latitude: 45.41678
+          longitude: -73.49917
+        -
+          name: "La Sarre"
+          latitude: 48.80019
+          longitude: -79.19964
+        -
+          name: "La Tuque"
+          latitude: 47.43337
+          longitude: -72.7824
+        -
+          name: "Labelle"
+          latitude: 46.28339
+          longitude: -74.73255
+        -
+          name: "Lac-Alouette"
+          latitude: 45.81698
+          longitude: -73.9592
+        -
+          name: "Lac-Brome"
+          latitude: 45.21678
+          longitude: -72.51581
+        -
+          name: "Lac-Connelly"
+          latitude: 45.89788
+          longitude: -73.9723
+        -
+          name: "Lac-Lapierre"
+          latitude: 45.89837
+          longitude: -73.77308
+        -
+          name: "Lac-Mégantic"
+          latitude: 45.58338
+          longitude: -70.88234
+        -
+          name: "Lac-Simon"
+          latitude: 46.15699
+          longitude: -74.74129
+        -
+          name: "Lachute"
+          latitude: 45.65008
+          longitude: -74.33253
+        -
+          name: "Lacolle"
+          latitude: 45.08338
+          longitude: -73.36585
+        -
+          name: "Lanoraie"
+          latitude: 45.96677
+          longitude: -73.21585
+        -
+          name: "Laval"
+          latitude: 45.56995
+          longitude: -73.692
+        -
+          name: "Lavaltrie"
+          latitude: 45.88338
+          longitude: -73.28245
+        -
+          name: "Le Bic"
+          latitude: 48.37549
+          longitude: -68.69415
+        -
+          name: "le Plateau"
+          latitude: 45.43514
+          longitude: -75.7803
+        -
+          name: "Lebel-sur-Quévillon"
+          latitude: 49.05018
+          longitude: -76.98273
+        -
+          name: "Leblanc"
+          latitude: 48.26683
+          longitude: -74.34914
+        -
+          name: "Les Cèdres"
+          latitude: 45.30008
+          longitude: -74.04922
+        -
+          name: "Les Coteaux"
+          latitude: 45.28338
+          longitude: -74.23254
+        -
+          name: "Les Escoumins"
+          latitude: 48.35191
+          longitude: -69.40724
+        -
+          name: "Lévis"
+          latitude: 46.80326
+          longitude: -71.17793
+        -
+          name: "Linière"
+          latitude: 46.00007
+          longitude: -70.41572
+        -
+          name: "Longueuil"
+          latitude: 45.53121
+          longitude: -73.51806
+        -
+          name: "Lorraine"
+          latitude: 45.68338
+          longitude: -73.78249
+        -
+          name: "Louiseville"
+          latitude: 46.25594
+          longitude: -72.94145
+        -
+          name: "Luceville"
+          latitude: 48.54498
+          longitude: -68.39658
+        -
+          name: "Macamic"
+          latitude: 48.75018
+          longitude: -78.99962
+        -
+          name: "Magog"
+          latitude: 45.26678
+          longitude: -72.14909
+        -
+          name: "Malartic"
+          latitude: 48.13348
+          longitude: -78.13283
+        -
+          name: "Maliotenam"
+          latitude: 50.21119
+          longitude: -66.18164
+        -
+          name: "Manawan"
+          latitude: 47.22029
+          longitude: -74.38606
+        -
+          name: "Mandeville"
+          latitude: 46.36677
+          longitude: -73.34915
+        -
+          name: "Maniwaki"
+          latitude: 46.38341
+          longitude: -75.96605
+        -
+          name: "Maria"
+          latitude: 48.1749
+          longitude: -65.98595
+        -
+          name: "Marieville"
+          latitude: 45.43338
+          longitude: -73.16585
+        -
+          name: "Mascouche"
+          latitude: 45.74965
+          longitude: -73.59956
+        -
+          name: "Maskinongé"
+          latitude: 46.2286
+          longitude: -73.01917
+        -
+          name: "Matagami"
+          latitude: 49.75018
+          longitude: -77.63277
+        -
+          name: "Matane"
+          latitude: 48.82857
+          longitude: -67.52197
+        -
+          name: "Mauricie"
+          latitude: 47.55009
+          longitude: -73.41583
+        -
+          name: "Melocheville"
+          latitude: 45.31726
+          longitude: -73.9371
+        -
+          name: "Mercier"
+          latitude: 45.31678
+          longitude: -73.74919
+        -
+          name: "Métabetchouan"
+          latitude: 48.36679
+          longitude: -72.01583
+        -
+          name: "Metabetchouan-Lac-a-la-Croix"
+          latitude: 48.41
+          longitude: -71.78
+        -
+          name: "Mirabel"
+          latitude: 45.65008
+          longitude: -74.08251
+        -
+          name: "Mistissini"
+          latitude: 50.41667
+          longitude: -73.88333
+        -
+          name: "Mont-Joli"
+          latitude: 48.58388
+          longitude: -68.19214
+        -
+          name: "Mont-Laurier"
+          latitude: 46.55011
+          longitude: -75.4993
+        -
+          name: "Mont-Royal"
+          latitude: 45.51675
+          longitude: -73.64918
+        -
+          name: "Mont-Saint-Grégoire"
+          latitude: 45.33338
+          longitude: -73.16585
+        -
+          name: "Mont-Saint-Hilaire"
+          latitude: 45.56515
+          longitude: -73.1868
+        -
+          name: "Mont-Tremblant"
+          latitude: 46.21274
+          longitude: -74.58438
+        -
+          name: "Montmagny"
+          latitude: 46.98043
+          longitude: -70.55493
+        -
+          name: "Montréal"
+          latitude: 45.50008
+          longitude: -73.68248
+        -
+          name: "Montréal-Est"
+          latitude: 45.63202
+          longitude: -73.5075
+        -
+          name: "Montréal-Ouest"
+          latitude: 45.45286
+          longitude: -73.64918
+        -
+          name: "Morin-Heights"
+          latitude: 45.90009
+          longitude: -74.24922
+        -
+          name: "Napierville"
+          latitude: 45.18648
+          longitude: -73.40468
+        -
+          name: "Neuville"
+          latitude: 46.69823
+          longitude: -71.58275
+        -
+          name: "New Carlisle"
+          latitude: 48.00956
+          longitude: -65.33621
+        -
+          name: "New-Richmond"
+          latitude: 48.16059
+          longitude: -65.85823
+        -
+          name: "Nicolet"
+          latitude: 46.21676
+          longitude: -72.61582
+        -
+          name: "Nord-du-Québec"
+          latitude: 51.962
+          longitude: -74.8961
+        -
+          name: "Normandin"
+          latitude: 48.83328
+          longitude: -72.53209
+        -
+          name: "Notre-Dame-de-Grâce"
+          latitude: 45.47675
+          longitude: -73.61432
+        -
+          name: "Notre-Dame-de-l'Île-Perrot"
+          latitude: 45.36678
+          longitude: -73.9325
+        -
+          name: "Notre-Dame-des-Prairies"
+          latitude: 46.05007
+          longitude: -73.43245
+        -
+          name: "Notre-Dame-du-Lac"
+          latitude: 46.75012
+          longitude: -79.04961
+        -
+          name: "Notre-Dame-du-Mont-Carmel"
+          latitude: 46.0168
+          longitude: -75.08259
+        -
+          name: "Oka"
+          latitude: 45.46489
+          longitude: -74.08892
+        -
+          name: "Ormstown"
+          latitude: 45.13338
+          longitude: -73.99922
+        -
+          name: "Otterburn Park"
+          latitude: 45.53338
+          longitude: -73.21585
+        -
+          name: "Outaouais"
+          latitude: 46.26681
+          longitude: -76.31606
+        -
+          name: "Papineauville"
+          latitude: 45.6168
+          longitude: -75.01599
+        -
+          name: "Parc-Boutin"
+          latitude: 45.29209
+          longitude: -73.26154
+        -
+          name: "Piedmont"
+          latitude: 45.90008
+          longitude: -74.13251
+        -
+          name: "Pierreville"
+          latitude: 46.07034
+          longitude: -72.81125
+        -
+          name: "Pincourt"
+          latitude: 45.38338
+          longitude: -73.9825
+        -
+          name: "Plessisville"
+          latitude: 46.21856
+          longitude: -71.76201
+        -
+          name: "Pohénégamook"
+          latitude: 47.46315
+          longitude: -69.22666
+        -
+          name: "Pointe-Calumet"
+          latitude: 45.50008
+          longitude: -73.9659
+        -
+          name: "Pointe-Claire"
+          latitude: 45.44868
+          longitude: -73.81669
+        -
+          name: "Pointe-du-Lac"
+          latitude: 48.50009
+          longitude: -71.78241
+        -
+          name: "Pont Rouge"
+          latitude: 48.88332
+          longitude: -72.08247
+        -
+          name: "Port-Cartier"
+          latitude: 50.03339
+          longitude: -66.86545
+        -
+          name: "Portneuf"
+          latitude: 46.69058
+          longitude: -71.89011
+        -
+          name: "Prévost"
+          latitude: 45.86678
+          longitude: -74.08251
+        -
+          name: "Princeville"
+          latitude: 46.17163
+          longitude: -71.87462
+        -
+          name: "Québec"
+          latitude: 46.81228
+          longitude: -71.21454
+        -
+          name: "Rawdon"
+          latitude: 46.05007
+          longitude: -73.71587
+        -
+          name: "Repentigny"
+          latitude: 45.74222
+          longitude: -73.45008
+        -
+          name: "Richelieu"
+          latitude: 45.44336
+          longitude: -73.24602
+        -
+          name: "Richmond"
+          latitude: 45.66677
+          longitude: -72.1491
+        -
+          name: "Rigaud"
+          latitude: 45.47927
+          longitude: -74.30238
+        -
+          name: "Rimouski"
+          latitude: 48.44879
+          longitude: -68.52396
+        -
+          name: "Rivière-du-Loup"
+          latitude: 47.82699
+          longitude: -69.54243
+        -
+          name: "Rivière-Rouge"
+          latitude: 46.41679
+          longitude: -74.86596
+        -
+          name: "Roberval"
+          latitude: 48.5168
+          longitude: -72.23244
+        -
+          name: "Rock Forest"
+          latitude: 45.35699
+          longitude: -71.99676
+        -
+          name: "Rosemère"
+          latitude: 45.63338
+          longitude: -73.79919
+        -
+          name: "Rougemont"
+          latitude: 45.43338
+          longitude: -73.04914
+        -
+          name: "Rouyn-Noranda"
+          latitude: 48.23656
+          longitude: -79.02311
+        -
+          name: "Sacré-Coeur"
+          latitude: 48.2297
+          longitude: -69.80061
+        -
+          name: "Saguenay"
+          latitude: 48.41675
+          longitude: -71.06573
+        -
+          name: "Saint-Adolphe-d'Howard"
+          latitude: 45.96679
+          longitude: -74.33253
+        -
+          name: "Saint-Alexandre"
+          latitude: 45.5001
+          longitude: -75.74935
+        -
+          name: "Saint-Amable"
+          latitude: 45.65008
+          longitude: -73.29916
+        -
+          name: "Saint-Ambroise"
+          latitude: 48.55009
+          longitude: -71.33238
+        -
+          name: "Saint-André-Avellin"
+          latitude: 45.7168
+          longitude: -75.06599
+        -
+          name: "Saint-Anselme"
+          latitude: 46.62922
+          longitude: -70.9734
+        -
+          name: "Saint-Antoine-de-Tilly"
+          latitude: 46.66346
+          longitude: -71.57335
+        -
+          name: "Saint-Augustin"
+          latitude: 51.22602
+          longitude: -58.65017
+        -
+          name: "Saint-Augustin-de-Desmaures"
+          latitude: 46.74064
+          longitude: -71.45131
+        -
+          name: "Saint-Barnabé-Sud"
+          latitude: 45.72977
+          longitude: -72.92244
+        -
+          name: "Saint-Basile-le-Grand"
+          latitude: 45.53338
+          longitude: -73.28246
+        -
+          name: "Saint-Boniface"
+          latitude: 46.50011
+          longitude: -75.98264
+        -
+          name: "Saint-Bruno"
+          latitude: 48.46679
+          longitude: -71.6491
+        -
+          name: "Saint-Bruno-de-Guigues"
+          latitude: 47.46685
+          longitude: -79.43296
+        -
+          name: "Saint-Bruno-de-Montarville"
+          latitude: 45.53341
+          longitude: -73.34916
+        -
+          name: "Saint-Canut"
+          latitude: 45.71502
+          longitude: -74.08376
+        -
+          name: "Saint-Césaire"
+          latitude: 45.41678
+          longitude: -72.99914
+        -
+          name: "Saint-Charles"
+          latitude: 45.70288
+          longitude: -73.55417
+        -
+          name: "Saint-Côme-Linière"
+          latitude: 46.06677
+          longitude: -70.51573
+        -
+          name: "Saint-Constant"
+          latitude: 45.36678
+          longitude: -73.56588
+        -
+          name: "Saint-Cyrille-de-Wendover"
+          latitude: 45.93336
+          longitude: -72.43241
+        -
+          name: "Saint-Damase"
+          latitude: 45.53341
+          longitude: -72.99914
+        -
+          name: "Saint-Denis-sur-Richelieu"
+          latitude: 45.78338
+          longitude: -73.14915
+        -
+          name: "Saint-Donat-de-Montcalm"
+          latitude: 46.31868
+          longitude: -74.22171
+        -
+          name: "Saint-Édouard"
+          latitude: 45.23338
+          longitude: -73.51588
+        -
+          name: "Saint-Elzéar"
+          latitude: 45.60338
+          longitude: -73.72698
+        -
+          name: "Saint-Éphrem-de-Beauce"
+          latitude: 46.06677
+          longitude: -70.94905
+        -
+          name: "Saint-Eustache"
+          latitude: 45.565
+          longitude: -73.90554
+        -
+          name: "Saint-Félicien"
+          latitude: 48.65007
+          longitude: -72.44906
+        -
+          name: "Saint-Félix-de-Valois"
+          latitude: 46.16977
+          longitude: -73.42525
+        -
+          name: "Saint-Gabriel"
+          latitude: 46.30007
+          longitude: -73.38245
+        -
+          name: "Saint-Gédéon"
+          latitude: 48.50009
+          longitude: -71.76581
+        -
+          name: "Saint-Georges"
+          latitude: 46.11353
+          longitude: -70.66526
+        -
+          name: "Saint-Germain-de-Grantham"
+          latitude: 45.83337
+          longitude: -72.56582
+        -
+          name: "Saint-Henri"
+          latitude: 46.69314
+          longitude: -71.06927
+        -
+          name: "Saint-Hippolyte"
+          latitude: 45.93338
+          longitude: -74.0159
+        -
+          name: "Saint-Honoré"
+          latitude: 48.53338
+          longitude: -71.08236
+        -
+          name: "Saint-Hyacinthe"
+          latitude: 45.63076
+          longitude: -72.95699
+        -
+          name: "Saint-Isidore"
+          latitude: 47.43345
+          longitude: -79.29965
+        -
+          name: "Saint-Jacques-le-Mineur"
+          latitude: 45.28338
+          longitude: -73.41587
+        -
+          name: "Saint-Jean-Baptiste"
+          latitude: 45.3806
+          longitude: -74.0121
+        -
+          name: "Saint-Jean-sur-Richelieu"
+          latitude: 45.30713
+          longitude: -73.26259
+        -
+          name: "Saint-Jérôme"
+          latitude: 45.78036
+          longitude: -74.00365
+        -
+          name: "Saint-Joseph"
+          latitude: 45.95817
+          longitude: -73.22025
+        -
+          name: "Saint-Joseph-de-Beauce"
+          latitude: 46.3
+          longitude: -70.86667
+        -
+          name: "Saint-Joseph-de-Coleraine"
+          latitude: 45.96677
+          longitude: -71.36577
+        -
+          name: "Saint-Joseph-du-Lac"
+          latitude: 45.53338
+          longitude: -73.9992
+        -
+          name: "Saint-Lambert-de-Lauzon"
+          latitude: 46.58624
+          longitude: -71.20892
+        -
+          name: "Saint-Laurent"
+          latitude: 45.50008
+          longitude: -73.66585
+        -
+          name: "Saint-Lazare"
+          latitude: 45.40008
+          longitude: -74.13256
+        -
+          name: "Saint-Léonard"
+          latitude: 45.58773
+          longitude: -73.59501
+        -
+          name: "Saint-Léonard-d'Aston"
+          latitude: 46.10006
+          longitude: -72.3658
+        -
+          name: "Saint-Liboire"
+          latitude: 45.65068
+          longitude: -72.76348
+        -
+          name: "Saint-Lin-Laurentides"
+          latitude: 45.85008
+          longitude: -73.76588
+        -
+          name: "Saint-Marc-des-Carrières"
+          latitude: 46.68335
+          longitude: -72.0491
+        -
+          name: "Saint-Mathieu"
+          latitude: 45.31678
+          longitude: -73.51587
+        -
+          name: "Saint-Michel"
+          latitude: 45.56758
+          longitude: -73.62168
+        -
+          name: "Saint-Michel-des-Saints"
+          latitude: 46.67702
+          longitude: -73.91881
+        -
+          name: "Saint-Nazaire"
+          latitude: 48.58944
+          longitude: -71.55247
+        -
+          name: "Saint-Norbert"
+          latitude: 46.16949
+          longitude: -73.31494
+        -
+          name: "Saint-Pacôme"
+          latitude: 47.40457
+          longitude: -69.95025
+        -
+          name: "Saint-Pascal"
+          latitude: 47.51813
+          longitude: -69.80301
+        -
+          name: "Saint-Philippe-de-La Prairie"
+          latitude: 45.35723
+          longitude: -73.47706
+        -
+          name: "Saint-Pie"
+          latitude: 45.50277
+          longitude: -72.9089
+        -
+          name: "Saint-Pierre-les-Becquets"
+          latitude: 46.50005
+          longitude: -72.1991
+        -
+          name: "Saint-Prime"
+          latitude: 48.58339
+          longitude: -72.33244
+        -
+          name: "Saint-Raphaël"
+          latitude: 46.25011
+          longitude: -76.01605
+        -
+          name: "Saint-Raymond"
+          latitude: 45.46698
+          longitude: -73.60948
+        -
+          name: "Saint-Rémi"
+          latitude: 45.26678
+          longitude: -73.61588
+        -
+          name: "Saint-Rémi-de-Tingwick"
+          latitude: 45.86677
+          longitude: -71.81581
+        -
+          name: "Saint-Sauveur"
+          latitude: 45.88686
+          longitude: -74.17943
+        -
+          name: "Saint-Sauveur-des-Monts"
+          latitude: 45.90008
+          longitude: -74.16591
+        -
+          name: "Saint-Siméon"
+          latitude: 47.84431
+          longitude: -69.87837
+        -
+          name: "Saint-Thomas"
+          latitude: 46.01677
+          longitude: -73.34915
+        -
+          name: "Saint-Tite"
+          latitude: 46.73336
+          longitude: -72.56581
+        -
+          name: "Saint-Victor"
+          latitude: 45.61118
+          longitude: -73.51527
+        -
+          name: "Saint-Zotique"
+          latitude: 45.25009
+          longitude: -74.24924
+        -
+          name: "Sainte Catherine de la Jacques Cartier"
+          latitude: 46.85244
+          longitude: -71.62056
+        -
+          name: "Sainte-Adèle"
+          latitude: 45.95008
+          longitude: -74.13251
+        -
+          name: "Sainte-Agathe-des-Monts"
+          latitude: 46.05009
+          longitude: -74.28252
+        -
+          name: "Sainte-Anne-de-Bellevue"
+          latitude: 45.40618
+          longitude: -73.9456
+        -
+          name: "Sainte-Anne-des-Monts"
+          latitude: 49.12402
+          longitude: -66.49243
+        -
+          name: "Sainte-Anne-des-Plaines"
+          latitude: 45.76468
+          longitude: -73.81156
+        -
+          name: "Sainte-Béatrix"
+          latitude: 46.20007
+          longitude: -73.61587
+        -
+          name: "Sainte-Catherine"
+          latitude: 45.40008
+          longitude: -73.58248
+        -
+          name: "Sainte-Croix"
+          latitude: 45.13368
+          longitude: -72.80083
+        -
+          name: "Sainte-Élisabeth"
+          latitude: 46.09502
+          longitude: -73.35176
+        -
+          name: "Sainte-Julie"
+          latitude: 45.58338
+          longitude: -73.33246
+        -
+          name: "Sainte-Julienne"
+          latitude: 45.96677
+          longitude: -73.71587
+        -
+          name: "Sainte-Madeleine"
+          latitude: 45.60008
+          longitude: -73.09914
+        -
+          name: "Sainte-Marie"
+          latitude: 46.43401
+          longitude: -71.01168
+        -
+          name: "Sainte-Marthe-sur-le-Lac"
+          latitude: 45.53338
+          longitude: -73.9325
+        -
+          name: "Sainte-Martine"
+          latitude: 45.25008
+          longitude: -73.79919
+        -
+          name: "Sainte-Sophie"
+          latitude: 45.81678
+          longitude: -73.89919
+        -
+          name: "Sainte-Thècle"
+          latitude: 46.81676
+          longitude: -72.49911
+        -
+          name: "Sainte-Thérèse"
+          latitude: 45.63922
+          longitude: -73.82757
+        -
+          name: "Salaberry-de-Valleyfield"
+          latitude: 45.25008
+          longitude: -74.13253
+        -
+          name: "Salluit"
+          latitude: 62.20411
+          longitude: -75.64344
+        -
+          name: "Senneterre"
+          latitude: 48.39302
+          longitude: -77.23951
+        -
+          name: "Sept-Îles"
+          latitude: 50.20011
+          longitude: -66.38208
+        -
+          name: "Shannon"
+          latitude: 46.88026
+          longitude: -71.51464
+        -
+          name: "Shawinigan"
+          latitude: 46.56675
+          longitude: -72.74913
+        -
+          name: "Shawville"
+          latitude: 45.60011
+          longitude: -76.4827
+        -
+          name: "Sherbrooke"
+          latitude: 45.40008
+          longitude: -71.89908
+        -
+          name: "Sorel-Tracy"
+          latitude: 46.04178
+          longitude: -73.11358
+        -
+          name: "St-Jean-Port-Joli"
+          latitude: 47.21418
+          longitude: -70.26969
+        -
+          name: "Sutton"
+          latitude: 45.10008
+          longitude: -72.61582
+        -
+          name: "Témiscaming"
+          latitude: 46.72122
+          longitude: -79.09712
+        -
+          name: "Terrasse-des-Pins"
+          latitude: 45.86449
+          longitude: -74.06627
+        -
+          name: "Terrebonne"
+          latitude: 45.70004
+          longitude: -73.64732
+        -
+          name: "Thetford-Mines"
+          latitude: 46.09371
+          longitude: -71.30539
+        -
+          name: "Thurso"
+          latitude: 45.6001
+          longitude: -75.24931
+        -
+          name: "Trois-Rivières"
+          latitude: 46.34515
+          longitude: -72.5477
+        -
+          name: "Val-d'Or"
+          latitude: 48.0974
+          longitude: -77.79737
+        -
+          name: "Val-David"
+          latitude: 46.03338
+          longitude: -74.21592
+        -
+          name: "Val-des-Monts"
+          latitude: 45.6501
+          longitude: -75.66604
+        -
+          name: "Val-Morin"
+          latitude: 46.00008
+          longitude: -74.18251
+        -
+          name: "Valcourt"
+          latitude: 45.50008
+          longitude: -72.31581
+        -
+          name: "Vallée-Jonction"
+          latitude: 46.37441
+          longitude: -70.91881
+        -
+          name: "Varennes"
+          latitude: 45.68338
+          longitude: -73.43246
+        -
+          name: "Vaudreuil-Dorion"
+          latitude: 45.40008
+          longitude: -74.03251
+        -
+          name: "Venise-en-Québec"
+          latitude: 45.08338
+          longitude: -73.13245
+        -
+          name: "Verchères"
+          latitude: 45.78338
+          longitude: -73.34916
+        -
+          name: "Victoriaville"
+          latitude: 46.05007
+          longitude: -71.96579
+        -
+          name: "Ville-Marie"
+          latitude: 47.33345
+          longitude: -79.43297
+        -
+          name: "Wakefield"
+          latitude: 45.6668
+          longitude: -75.83265
+        -
+          name: "Warwick"
+          latitude: 45.95007
+          longitude: -71.9824
+        -
+          name: "Waskaganish"
+          latitude: 51.48333
+          longitude: -78.75
+        -
+          name: "Waswanipi"
+          latitude: 49.73346
+          longitude: -76.16604
+        -
+          name: "Waterloo"
+          latitude: 45.35008
+          longitude: -72.51582
+        -
+          name: "Weedon Centre"
+          latitude: 45.70802
+          longitude: -71.45986
+        -
+          name: "Westmount"
+          latitude: 45.48341
+          longitude: -73.59918
+        -
+          name: "Weymontachie"
+          latitude: 47.8994
+          longitude: -73.7772
+        -
+          name: "Windsor"
+          latitude: 45.56678
+          longitude: -71.99909
+        -
+          name: "Yamachiche"
+          latitude: 46.26676
+          longitude: -72.83243
+    -
+      name: "Saskatchewan"
+      code: "SK"
+      iso3166_2: "CA-SK"
+      type: "province"
+      latitude: 55.5321257
+      longitude: -106.141224
+      cities:
+        -
+          name: "Assiniboia"
+          latitude: 49.63336
+          longitude: -105.98446
+        -
+          name: "Biggar"
+          latitude: 52.0668
+          longitude: -108.00135
+        -
+          name: "Canora"
+          latitude: 51.63328
+          longitude: -102.43425
+        -
+          name: "Carlyle"
+          latitude: 49.63334
+          longitude: -102.26765
+        -
+          name: "Dalmeny"
+          latitude: 52.33339
+          longitude: -106.76792
+        -
+          name: "Esterhazy"
+          latitude: 50.65001
+          longitude: -102.08426
+        -
+          name: "Estevan"
+          latitude: 49.13337
+          longitude: -102.98422
+        -
+          name: "Foam Lake"
+          latitude: 51.65001
+          longitude: -103.53431
+        -
+          name: "Gravelbourg"
+          latitude: 49.88336
+          longitude: -106.55122
+        -
+          name: "Hudson Bay"
+          latitude: 52.85003
+          longitude: -102.38425
+        -
+          name: "Humboldt"
+          latitude: 52.20005
+          longitude: -105.1255
+        -
+          name: "Indian Head"
+          latitude: 50.53336
+          longitude: -103.66775
+        -
+          name: "Kamsack"
+          latitude: 51.56668
+          longitude: -101.90093
+        -
+          name: "Kerrobert"
+          latitude: 51.91682
+          longitude: -109.13479
+        -
+          name: "Kindersley"
+          latitude: 51.46681
+          longitude: -109.16818
+        -
+          name: "La Ronge"
+          latitude: 55.10013
+          longitude: -105.28422
+        -
+          name: "Langenburg"
+          latitude: 50.84999
+          longitude: -101.71763
+        -
+          name: "Langham"
+          latitude: 52.3668
+          longitude: -106.96793
+        -
+          name: "Lanigan"
+          latitude: 51.85006
+          longitude: -105.03443
+        -
+          name: "Lumsden"
+          latitude: 50.65009
+          longitude: -104.86783
+        -
+          name: "Macklin"
+          latitude: 52.33344
+          longitude: -109.93484
+        -
+          name: "Maple Creek"
+          latitude: 49.91678
+          longitude: -109.48481
+        -
+          name: "Martensville"
+          latitude: 52.28339
+          longitude: -106.66792
+        -
+          name: "Meadow Lake"
+          latitude: 54.13348
+          longitude: -108.43471
+        -
+          name: "Melfort"
+          latitude: 52.86673
+          longitude: -104.61768
+        -
+          name: "Melville"
+          latitude: 50.91671
+          longitude: -102.80099
+        -
+          name: "Moose Jaw"
+          latitude: 50.40005
+          longitude: -105.53445
+        -
+          name: "Moosomin"
+          latitude: 50.13332
+          longitude: -101.66766
+        -
+          name: "Nipawin"
+          latitude: 53.36678
+          longitude: -104.00092
+        -
+          name: "North Battleford"
+          latitude: 52.77972
+          longitude: -108.2967
+        -
+          name: "Outlook"
+          latitude: 51.50008
+          longitude: -107.05128
+        -
+          name: "Oxbow"
+          latitude: 49.23335
+          longitude: -102.1676
+        -
+          name: "Pelican Narrows"
+          latitude: 55.16685
+          longitude: -102.9341
+        -
+          name: "Pilot Butte"
+          latitude: 50.46678
+          longitude: -104.41778
+        -
+          name: "Preeceville"
+          latitude: 51.94998
+          longitude: -102.66766
+        -
+          name: "Prince Albert"
+          latitude: 53.20008
+          longitude: -105.76772
+        -
+          name: "Regina"
+          latitude: 50.45008
+          longitude: -104.6178
+        -
+          name: "Regina Beach"
+          latitude: 50.78338
+          longitude: -105.00112
+        -
+          name: "Rosetown"
+          latitude: 51.5501
+          longitude: -108.00136
+        -
+          name: "Rosthern"
+          latitude: 52.66679
+          longitude: -106.33446
+        -
+          name: "Saskatoon"
+          latitude: 52.13238
+          longitude: -106.66892
+        -
+          name: "Shaunavon"
+          latitude: 49.65005
+          longitude: -108.4181
+        -
+          name: "Shellbrook"
+          latitude: 53.21679
+          longitude: -106.40109
+        -
+          name: "Swift Current"
+          latitude: 50.28337
+          longitude: -107.80135
+        -
+          name: "Tisdale"
+          latitude: 52.85002
+          longitude: -104.05096
+        -
+          name: "Unity"
+          latitude: 52.45014
+          longitude: -109.16816
+        -
+          name: "Wadena"
+          latitude: 51.94999
+          longitude: -103.80102
+        -
+          name: "Warman"
+          latitude: 52.31679
+          longitude: -106.56791
+        -
+          name: "Watrous"
+          latitude: 51.66677
+          longitude: -105.46788
+        -
+          name: "Weyburn"
+          latitude: 49.66675
+          longitude: -103.85109
+        -
+          name: "White City"
+          latitude: 50.43338
+          longitude: -104.36778
+        -
+          name: "Wilkie"
+          latitude: 52.41683
+          longitude: -108.70142
+        -
+          name: "Wynyard"
+          latitude: 51.76674
+          longitude: -104.18436
+        -
+          name: "Yorkton"
+          latitude: 51.2167
+          longitude: -102.46766
+    -
+      name: "Yukon"
+      code: "YT"
+      iso3166_2: "CA-YT"
+      type: "territory"
+      latitude: 63.000147
+      longitude: -136.002502
+      cities:
+        -
+          name: "Dawson City"
+          latitude: 64.06013
+          longitude: -139.43328
+        -
+          name: "Haines Junction"
+          latitude: 60.75216
+          longitude: -137.51082
+        -
+          name: "Watson Lake"
+          latitude: 60.06349
+          longitude: -128.70893
+        -
+          name: "Whitehorse"
+          latitude: 60.71611
+          longitude: -135.05375

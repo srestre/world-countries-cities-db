@@ -1,0 +1,6255 @@
+-
+  name: "Switzerland"
+  name_es: "Suiza"
+  native: "Schweiz"
+  iso2: "CH"
+  iso3: "CHE"
+  numeric_code: "756"
+  phonecode: "41"
+  capital: "Bern"
+  currency: "CHF"
+  currency_name: "Swiss franc"
+  currency_symbol: "CHf"
+  tld: ".ch"
+  region: "Europe"
+  subregion: "Western Europe"
+  latitude: 47
+  longitude: 8
+  emoji: "🇨🇭"
+  states:
+    -
+      name: "Aargau"
+      code: "AG"
+      iso3166_2: "CH-AG"
+      type: "canton"
+      latitude: 47.412396
+      longitude: 8.1948321
+      cities:
+        -
+          name: "Aarau"
+          latitude: 47.39254
+          longitude: 8.04422
+        -
+          name: "Aarburg"
+          latitude: 47.32067
+          longitude: 7.89986
+        -
+          name: "Aristau"
+          latitude: 47.28692
+          longitude: 8.36356
+        -
+          name: "Auw"
+          latitude: 47.21082
+          longitude: 8.36583
+        -
+          name: "Bad Zurzach"
+          latitude: 47.58764
+          longitude: 8.29365
+        -
+          name: "Baden"
+          latitude: 47.47333
+          longitude: 8.30592
+        -
+          name: "Berikon"
+          latitude: 47.35155
+          longitude: 8.37232
+        -
+          name: "Besenbüren"
+          latitude: 47.31439
+          longitude: 8.34586
+        -
+          name: "Bezirk Aarau"
+          latitude: 47.37706
+          longitude: 8.05235
+        -
+          name: "Bezirk Baden"
+          latitude: 47.4566
+          longitude: 8.30059
+        -
+          name: "Bezirk Bremgarten"
+          latitude: 47.34927
+          longitude: 8.33343
+        -
+          name: "Bezirk Brugg"
+          latitude: 47.47776
+          longitude: 8.17798
+        -
+          name: "Bezirk Kulm"
+          latitude: 47.28757
+          longitude: 8.13302
+        -
+          name: "Bezirk Laufenburg"
+          latitude: 47.51844
+          longitude: 8.03878
+        -
+          name: "Bezirk Lenzburg"
+          latitude: 47.37184
+          longitude: 8.1891
+        -
+          name: "Bezirk Muri"
+          latitude: 47.25233
+          longitude: 8.35362
+        -
+          name: "Bezirk Rheinfelden"
+          latitude: 47.54048
+          longitude: 7.83331
+        -
+          name: "Bezirk Zofingen"
+          latitude: 47.28864
+          longitude: 7.95697
+        -
+          name: "Bezirk Zurzach"
+          latitude: 47.56182
+          longitude: 8.2802
+        -
+          name: "Birmenstorf"
+          latitude: 47.46152
+          longitude: 8.24816
+        -
+          name: "Birr"
+          latitude: 47.43432
+          longitude: 8.20891
+        -
+          name: "Boniswil"
+          latitude: 47.31725
+          longitude: 8.18963
+        -
+          name: "Bremgarten"
+          latitude: 47.35109
+          longitude: 8.34214
+        -
+          name: "Brittnau"
+          latitude: 47.25954
+          longitude: 7.94689
+        -
+          name: "Brugg"
+          latitude: 47.48096
+          longitude: 8.20869
+        -
+          name: "Buchs"
+          latitude: 47.39358
+          longitude: 8.08233
+        -
+          name: "Buttwil"
+          latitude: 47.26828
+          longitude: 8.31064
+        -
+          name: "Densbüren"
+          latitude: 47.4526
+          longitude: 8.0533
+        -
+          name: "Dottikon"
+          latitude: 47.38437
+          longitude: 8.23981
+        -
+          name: "Dürrenäsch"
+          latitude: 47.32094
+          longitude: 8.15874
+        -
+          name: "Egliswil"
+          latitude: 47.34922
+          longitude: 8.18553
+        -
+          name: "Ehrendingen"
+          latitude: 47.5025
+          longitude: 8.34729
+        -
+          name: "Eiken"
+          latitude: 47.53361
+          longitude: 7.98801
+        -
+          name: "Endingen"
+          latitude: 47.53742
+          longitude: 8.29036
+        -
+          name: "Frick"
+          latitude: 47.51169
+          longitude: 8.02471
+        -
+          name: "Gebenstorf"
+          latitude: 47.48136
+          longitude: 8.23949
+        -
+          name: "Gipf-Oberfrick"
+          latitude: 47.49875
+          longitude: 8.00497
+        -
+          name: "Gontenschwil"
+          latitude: 47.27166
+          longitude: 8.14396
+        -
+          name: "Gränichen"
+          latitude: 47.3593
+          longitude: 8.10243
+        -
+          name: "Hägglingen"
+          latitude: 47.38851
+          longitude: 8.25285
+        -
+          name: "Hausen"
+          latitude: 47.46396
+          longitude: 8.20988
+        -
+          name: "Jonen"
+          latitude: 47.2975
+          longitude: 8.39282
+        -
+          name: "Kaiseraugst"
+          latitude: 47.53966
+          longitude: 7.72605
+        -
+          name: "Kaisten"
+          latitude: 47.5416
+          longitude: 8.04337
+        -
+          name: "Killwangen"
+          latitude: 47.43223
+          longitude: 8.35097
+        -
+          name: "Klingnau"
+          latitude: 47.58361
+          longitude: 8.2488
+        -
+          name: "Koblenz"
+          latitude: 47.60972
+          longitude: 8.2375
+        -
+          name: "Kölliken"
+          latitude: 47.33337
+          longitude: 8.02237
+        -
+          name: "Künten"
+          latitude: 47.38887
+          longitude: 8.33045
+        -
+          name: "Küttigen"
+          latitude: 47.41484
+          longitude: 8.04979
+        -
+          name: "Laufenburg"
+          latitude: 47.55985
+          longitude: 8.06225
+        -
+          name: "Lauffohr (Brugg)"
+          latitude: 47.50154
+          longitude: 8.23122
+        -
+          name: "Leibstadt"
+          latitude: 47.5879
+          longitude: 8.17611
+        -
+          name: "Lenzburg"
+          latitude: 47.38853
+          longitude: 8.17503
+        -
+          name: "Magden"
+          latitude: 47.52868
+          longitude: 7.81128
+        -
+          name: "Meisterschwanden"
+          latitude: 47.29489
+          longitude: 8.22867
+        -
+          name: "Mellingen"
+          latitude: 47.41903
+          longitude: 8.27331
+        -
+          name: "Menziken"
+          latitude: 47.23965
+          longitude: 8.18996
+        -
+          name: "Merenschwand"
+          latitude: 47.25944
+          longitude: 8.37633
+        -
+          name: "Möhlin"
+          latitude: 47.55915
+          longitude: 7.84329
+        -
+          name: "Muhen"
+          latitude: 47.33578
+          longitude: 8.05536
+        -
+          name: "Mumpf"
+          latitude: 47.54563
+          longitude: 7.92123
+        -
+          name: "Murgenthal"
+          latitude: 47.27145
+          longitude: 7.83935
+        -
+          name: "Muri"
+          latitude: 47.27428
+          longitude: 8.33854
+        -
+          name: "Neuenhof"
+          latitude: 47.44985
+          longitude: 8.32682
+        -
+          name: "Niederlenz"
+          latitude: 47.40079
+          longitude: 8.1764
+        -
+          name: "Niederrohrdorf"
+          latitude: 47.42409
+          longitude: 8.30404
+        -
+          name: "Oberentfelden"
+          latitude: 47.35639
+          longitude: 8.04594
+        -
+          name: "Oberlunkhofen"
+          latitude: 47.31244
+          longitude: 8.39242
+        -
+          name: "Oberrohrdorf"
+          latitude: 47.41833
+          longitude: 8.31983
+        -
+          name: "Oberrüti"
+          latitude: 47.16673
+          longitude: 8.39441
+        -
+          name: "Obersiggenthal"
+          latitude: 47.4875
+          longitude: 8.29652
+        -
+          name: "Oftringen"
+          latitude: 47.31382
+          longitude: 7.92533
+        -
+          name: "Othmarsingen"
+          latitude: 47.40125
+          longitude: 8.21383
+        -
+          name: "Reinach"
+          latitude: 47.25732
+          longitude: 8.18091
+        -
+          name: "Rheinfelden"
+          latitude: 47.55437
+          longitude: 7.79403
+        -
+          name: "Rothrist"
+          latitude: 47.30508
+          longitude: 7.89196
+        -
+          name: "Rudolfstetten"
+          latitude: 47.37101
+          longitude: 8.38083
+        -
+          name: "Rupperswil"
+          latitude: 47.40131
+          longitude: 8.12877
+        -
+          name: "Safenwil"
+          latitude: 47.32163
+          longitude: 7.98254
+        -
+          name: "Sarmenstorf"
+          latitude: 47.31109
+          longitude: 8.2495
+        -
+          name: "Schafisheim"
+          latitude: 47.37664
+          longitude: 8.14263
+        -
+          name: "Schinznach Bad"
+          latitude: 47.44992
+          longitude: 8.16833
+        -
+          name: "Schinznach Dorf"
+          latitude: 47.4465
+          longitude: 8.14089
+        -
+          name: "Schöftland"
+          latitude: 47.3059
+          longitude: 8.05119
+        -
+          name: "Schwaderloch"
+          latitude: 47.58541
+          longitude: 8.14455
+        -
+          name: "Seengen"
+          latitude: 47.32503
+          longitude: 8.20724
+        -
+          name: "Seon"
+          latitude: 47.34848
+          longitude: 8.16072
+        -
+          name: "Sins"
+          latitude: 47.19296
+          longitude: 8.39384
+        -
+          name: "Spreitenbach"
+          latitude: 47.42285
+          longitude: 8.36792
+        -
+          name: "Staffelbach"
+          latitude: 47.28395
+          longitude: 8.04208
+        -
+          name: "Staufen"
+          latitude: 47.38197
+          longitude: 8.16681
+        -
+          name: "Stein"
+          latitude: 47.54403
+          longitude: 7.95256
+        -
+          name: "Strengelbach"
+          latitude: 47.27917
+          longitude: 7.92895
+        -
+          name: "Suhr"
+          latitude: 47.37172
+          longitude: 8.07967
+        -
+          name: "Sulz"
+          latitude: 47.53602
+          longitude: 8.09628
+        -
+          name: "Tegerfelden"
+          latitude: 47.55809
+          longitude: 8.28914
+        -
+          name: "Teufenthal"
+          latitude: 47.32896
+          longitude: 8.11777
+        -
+          name: "Turgi"
+          latitude: 47.49201
+          longitude: 8.25412
+        -
+          name: "Uerkheim"
+          latitude: 47.30353
+          longitude: 8.0232
+        -
+          name: "Unterkulm"
+          latitude: 47.30998
+          longitude: 8.11371
+        -
+          name: "Unterlunkhofen"
+          latitude: 47.3212
+          longitude: 8.38102
+        -
+          name: "Untersiggenthal"
+          latitude: 47.50213
+          longitude: 8.25554
+        -
+          name: "Veltheim"
+          latitude: 47.43796
+          longitude: 8.14722
+        -
+          name: "Villigen"
+          latitude: 47.52682
+          longitude: 8.21486
+        -
+          name: "Villmergen"
+          latitude: 47.35009
+          longitude: 8.24762
+        -
+          name: "Villnachern"
+          latitude: 47.47098
+          longitude: 8.15975
+        -
+          name: "Vordemwald"
+          latitude: 47.27585
+          longitude: 7.90114
+        -
+          name: "Waltenschwil"
+          latitude: 47.33339
+          longitude: 8.29791
+        -
+          name: "Wegenstetten"
+          latitude: 47.49797
+          longitude: 7.93141
+        -
+          name: "Wettingen"
+          latitude: 47.47049
+          longitude: 8.31636
+        -
+          name: "Windisch"
+          latitude: 47.47899
+          longitude: 8.21842
+        -
+          name: "Wittnau"
+          latitude: 47.48139
+          longitude: 7.97577
+        -
+          name: "Wohlen"
+          latitude: 47.35066
+          longitude: 8.27517
+        -
+          name: "Wölflinswil"
+          latitude: 47.4607
+          longitude: 7.99835
+        -
+          name: "Würenlingen"
+          latitude: 47.53356
+          longitude: 8.25666
+        -
+          name: "Würenlos"
+          latitude: 47.44205
+          longitude: 8.36261
+        -
+          name: "Zofingen"
+          latitude: 47.28779
+          longitude: 7.94586
+    -
+      name: "Appenzell Ausserrhoden"
+      code: "AR"
+      iso3166_2: "CH-AR"
+      type: "canton"
+      latitude: 47.3960076
+      longitude: 9.3705839
+      cities:
+        -
+          name: "Bezirk Hinterland"
+          latitude: 47.3647
+          longitude: 9.2735
+        -
+          name: "Bezirk Mittelland"
+          latitude: 47.377
+          longitude: 9.43469
+        -
+          name: "Bezirk Vorderland"
+          latitude: 47.44167
+          longitude: 9.53869
+        -
+          name: "Bühler"
+          latitude: 47.37348
+          longitude: 9.42507
+        -
+          name: "Gais"
+          latitude: 47.3615
+          longitude: 9.45356
+        -
+          name: "Heiden"
+          latitude: 47.44255
+          longitude: 9.53293
+        -
+          name: "Herisau"
+          latitude: 47.38615
+          longitude: 9.27916
+        -
+          name: "Rehetobel"
+          latitude: 47.42611
+          longitude: 9.483
+        -
+          name: "Schwellbrunn"
+          latitude: 47.35255
+          longitude: 9.24894
+        -
+          name: "Speicher"
+          latitude: 47.4109
+          longitude: 9.44335
+        -
+          name: "Teufen"
+          latitude: 47.3908
+          longitude: 9.38644
+        -
+          name: "Trogen"
+          latitude: 47.40782
+          longitude: 9.46498
+        -
+          name: "Urnäsch"
+          latitude: 47.31669
+          longitude: 9.2795
+        -
+          name: "Waldstatt"
+          latitude: 47.35627
+          longitude: 9.28345
+        -
+          name: "Walzenhausen"
+          latitude: 47.44867
+          longitude: 9.60495
+    -
+      name: "Appenzell Innerrhoden"
+      code: "AI"
+      iso3166_2: "CH-AI"
+      type: "canton"
+      latitude: 47.3007262
+      longitude: 9.3991527
+      cities:
+        -
+          name: "Appenzell"
+          latitude: 47.33103
+          longitude: 9.40996
+        -
+          name: "Gonten"
+          latitude: 47.32725
+          longitude: 9.34705
+        -
+          name: "Haslen"
+          latitude: 47.36931
+          longitude: 9.36752
+        -
+          name: "Oberegg"
+          latitude: 47.42531
+          longitude: 9.55134
+    -
+      name: "Basel-Land"
+      code: "BL"
+      iso3166_2: "CH-BL"
+      type: "canton"
+      latitude: 47.5092938
+      longitude: 7.6588333
+      cities:
+        -
+          name: "Aesch"
+          latitude: 47.47104
+          longitude: 7.5973
+        -
+          name: "Allschwil"
+          latitude: 47.55074
+          longitude: 7.53599
+        -
+          name: "Arisdorf"
+          latitude: 47.51323
+          longitude: 7.76515
+        -
+          name: "Arlesheim"
+          latitude: 47.49412
+          longitude: 7.61979
+        -
+          name: "Bezirk Arlesheim"
+          latitude: 47.51668
+          longitude: 7.58733
+        -
+          name: "Bezirk Laufen"
+          latitude: 47.42324
+          longitude: 7.4875
+        -
+          name: "Bezirk Liestal"
+          latitude: 47.48124
+          longitude: 7.72714
+        -
+          name: "Bezirk Sissach"
+          latitude: 47.44237
+          longitude: 7.84871
+        -
+          name: "Bezirk Waldenburg"
+          latitude: 47.39367
+          longitude: 7.74137
+        -
+          name: "Binningen"
+          latitude: 47.54021
+          longitude: 7.56932
+        -
+          name: "Birsfelden"
+          latitude: 47.5529
+          longitude: 7.62322
+        -
+          name: "Bottmingen"
+          latitude: 47.52343
+          longitude: 7.57211
+        -
+          name: "Brislach"
+          latitude: 47.41763
+          longitude: 7.5434
+        -
+          name: "Bubendorf"
+          latitude: 47.44586
+          longitude: 7.73759
+        -
+          name: "Buus"
+          latitude: 47.50635
+          longitude: 7.86414
+        -
+          name: "Diegten"
+          latitude: 47.4138
+          longitude: 7.81085
+        -
+          name: "Ettingen"
+          latitude: 47.48225
+          longitude: 7.54654
+        -
+          name: "Frenkendorf"
+          latitude: 47.50686
+          longitude: 7.71648
+        -
+          name: "Füllinsdorf"
+          latitude: 47.50688
+          longitude: 7.73129
+        -
+          name: "Gelterkinden"
+          latitude: 47.46497
+          longitude: 7.85174
+        -
+          name: "Grellingen"
+          latitude: 47.44231
+          longitude: 7.58906
+        -
+          name: "Hölstein"
+          latitude: 47.4229
+          longitude: 7.77041
+        -
+          name: "Itingen"
+          latitude: 47.46651
+          longitude: 7.78502
+        -
+          name: "Langenbruck"
+          latitude: 47.34917
+          longitude: 7.76802
+        -
+          name: "Läufelfingen"
+          latitude: 47.39457
+          longitude: 7.85578
+        -
+          name: "Laufen"
+          latitude: 47.42193
+          longitude: 7.49946
+        -
+          name: "Lausen"
+          latitude: 47.47139
+          longitude: 7.7603
+        -
+          name: "Liesberg"
+          latitude: 47.40398
+          longitude: 7.42787
+        -
+          name: "Liestal"
+          latitude: 47.48455
+          longitude: 7.73446
+        -
+          name: "Münchenstein"
+          latitude: 47.51848
+          longitude: 7.60966
+        -
+          name: "Muttenz"
+          latitude: 47.52271
+          longitude: 7.64511
+        -
+          name: "Oberdorf"
+          latitude: 47.39353
+          longitude: 7.75169
+        -
+          name: "Oberwil"
+          latitude: 47.51407
+          longitude: 7.55786
+        -
+          name: "Ormalingen"
+          latitude: 47.46936
+          longitude: 7.87248
+        -
+          name: "Pfeffingen"
+          latitude: 47.45984
+          longitude: 7.58975
+        -
+          name: "Pratteln"
+          latitude: 47.52071
+          longitude: 7.69356
+        -
+          name: "Reigoldswil"
+          latitude: 47.39824
+          longitude: 7.68718
+        -
+          name: "Röschenz"
+          latitude: 47.42366
+          longitude: 7.48024
+        -
+          name: "Schönenbuch"
+          latitude: 47.53853
+          longitude: 7.50572
+        -
+          name: "Seltisberg"
+          latitude: 47.46249
+          longitude: 7.72039
+        -
+          name: "Sissach"
+          latitude: 47.46408
+          longitude: 7.80888
+        -
+          name: "Therwil"
+          latitude: 47.49941
+          longitude: 7.55669
+        -
+          name: "Wahlen"
+          latitude: 47.40226
+          longitude: 7.51511
+        -
+          name: "Waldenburg"
+          latitude: 47.38333
+          longitude: 7.75
+        -
+          name: "Zunzgen"
+          latitude: 47.44925
+          longitude: 7.80789
+        -
+          name: "Zwingen"
+          latitude: 47.43825
+          longitude: 7.53027
+    -
+      name: "Basel-Stadt"
+      code: "BS"
+      iso3166_2: "CH-BS"
+      type: "canton"
+      latitude: 47.5579097
+      longitude: 7.5927728
+      cities:
+        -
+          name: "Basel"
+          latitude: 47.554722
+          longitude: 7.590556
+        -
+          name: "Bettingen"
+          latitude: 47.571389
+          longitude: 7.664167
+        -
+          name: "Riehen"
+          latitude: 47.583333
+          longitude: 7.633333
+    -
+      name: "Bern"
+      code: "BE"
+      iso3166_2: "CH-BE"
+      type: "canton"
+      latitude: 46.8382351
+      longitude: 7.6004502
+      cities:
+        -
+          name: "Aarberg"
+          latitude: 47.04439
+          longitude: 7.27578
+        -
+          name: "Aarwangen"
+          latitude: 47.23845
+          longitude: 7.76854
+        -
+          name: "Adelboden"
+          latitude: 46.49142
+          longitude: 7.56031
+        -
+          name: "Aeschi b. Spiez"
+          latitude: 46.65848
+          longitude: 7.6965
+        -
+          name: "Arch"
+          latitude: 47.16533
+          longitude: 7.43139
+        -
+          name: "Attiswil"
+          latitude: 47.24673
+          longitude: 7.61353
+        -
+          name: "Bäriswil"
+          latitude: 47.01947
+          longitude: 7.52709
+        -
+          name: "Bätterkinden"
+          latitude: 47.13164
+          longitude: 7.53817
+        -
+          name: "Beatenberg"
+          latitude: 46.69896
+          longitude: 7.79428
+        -
+          name: "Bellmund"
+          latitude: 47.10852
+          longitude: 7.24608
+        -
+          name: "Belp"
+          latitude: 46.89129
+          longitude: 7.49825
+        -
+          name: "Bern"
+          latitude: 46.94809
+          longitude: 7.44744
+        -
+          name: "Bern-Mittelland"
+          latitude: 46.92526
+          longitude: 7.49024
+        -
+          name: "Bévilard"
+          latitude: 47.23711
+          longitude: 7.28325
+        -
+          name: "Biel/Bienne"
+          latitude: 47.13713
+          longitude: 7.24608
+        -
+          name: "Biel/Bienne District"
+          latitude: 47.12725
+          longitude: 7.26174
+        -
+          name: "Biglen"
+          latitude: 46.92629
+          longitude: 7.62508
+        -
+          name: "Blumenstein"
+          latitude: 46.7421
+          longitude: 7.52136
+        -
+          name: "Bolligen"
+          latitude: 46.9751
+          longitude: 7.49697
+        -
+          name: "Boltigen"
+          latitude: 46.62847
+          longitude: 7.39054
+        -
+          name: "Bönigen"
+          latitude: 46.68736
+          longitude: 7.8935
+        -
+          name: "Bowil"
+          latitude: 46.89304
+          longitude: 7.69757
+        -
+          name: "Brienz"
+          latitude: 46.7545
+          longitude: 8.03847
+        -
+          name: "Brügg"
+          latitude: 47.1237
+          longitude: 7.27887
+        -
+          name: "Buchholterberg"
+          latitude: 46.81351
+          longitude: 7.67463
+        -
+          name: "Burgdorf"
+          latitude: 47.05901
+          longitude: 7.62786
+        -
+          name: "Burgistein"
+          latitude: 46.78464
+          longitude: 7.49988
+        -
+          name: "Corgémont"
+          latitude: 47.19457
+          longitude: 7.14517
+        -
+          name: "Court"
+          latitude: 47.23956
+          longitude: 7.33655
+        -
+          name: "Courtelary"
+          latitude: 47.17822
+          longitude: 7.07236
+        -
+          name: "Därligen"
+          latitude: 46.66175
+          longitude: 7.80808
+        -
+          name: "Diemtigen"
+          latitude: 46.64928
+          longitude: 7.56477
+        -
+          name: "Dürrenroth"
+          latitude: 47.08953
+          longitude: 7.7917
+        -
+          name: "Eggiwil"
+          latitude: 46.87575
+          longitude: 7.79567
+        -
+          name: "Emmental"
+          latitude: 47.04425
+          longitude: 7.66176
+        -
+          name: "Eriswil"
+          latitude: 47.07816
+          longitude: 7.85149
+        -
+          name: "Erlach"
+          latitude: 47.0422
+          longitude: 7.09728
+        -
+          name: "Erlenbach im Simmental"
+          latitude: 46.66021
+          longitude: 7.55445
+        -
+          name: "Ersigen"
+          latitude: 47.09368
+          longitude: 7.59507
+        -
+          name: "Evilard"
+          latitude: 47.15046
+          longitude: 7.23895
+        -
+          name: "Ferenbalm"
+          latitude: 46.9488
+          longitude: 7.21124
+        -
+          name: "Fraubrunnen"
+          latitude: 47.0862
+          longitude: 7.52727
+        -
+          name: "Frauenkappelen"
+          latitude: 46.95425
+          longitude: 7.33835
+        -
+          name: "Frutigen"
+          latitude: 46.58723
+          longitude: 7.64945
+        -
+          name: "Frutigen-Niedersimmental"
+          latitude: 46.60236
+          longitude: 7.62292
+        -
+          name: "Grindelwald"
+          latitude: 46.62396
+          longitude: 8.03601
+        -
+          name: "Grossaffoltern"
+          latitude: 47.06534
+          longitude: 7.35689
+        -
+          name: "Gstaad"
+          latitude: 46.47215
+          longitude: 7.28685
+        -
+          name: "Guggisberg"
+          latitude: 46.76756
+          longitude: 7.32946
+        -
+          name: "Heimberg"
+          latitude: 46.79482
+          longitude: 7.60433
+        -
+          name: "Heimiswil"
+          latitude: 47.06755
+          longitude: 7.66665
+        -
+          name: "Hermiswil"
+          latitude: 46.83125
+          longitude: 7.47775
+        -
+          name: "Herzogenbuchsee"
+          latitude: 47.18795
+          longitude: 7.7062
+        -
+          name: "Hilterfingen"
+          latitude: 46.73521
+          longitude: 7.66185
+        -
+          name: "Hindelbank"
+          latitude: 47.0427
+          longitude: 7.54143
+        -
+          name: "Huttwil"
+          latitude: 47.11502
+          longitude: 7.86209
+        -
+          name: "Ins"
+          latitude: 47.00584
+          longitude: 7.10609
+        -
+          name: "Interlaken"
+          latitude: 46.68387
+          longitude: 7.86638
+        -
+          name: "Interlaken-Oberhasli"
+          latitude: 46.68931
+          longitude: 7.98869
+        -
+          name: "Jegenstorf"
+          latitude: 47.04802
+          longitude: 7.50787
+        -
+          name: "Jura bernois"
+          latitude: 47.21892
+          longitude: 7.21981
+        -
+          name: "Kallnach"
+          latitude: 47.02032
+          longitude: 7.23545
+        -
+          name: "Kandersteg"
+          latitude: 46.49467
+          longitude: 7.67326
+        -
+          name: "Kappelen"
+          latitude: 47.06015
+          longitude: 7.2686
+        -
+          name: "Kehrsatz"
+          latitude: 46.91035
+          longitude: 7.47096
+        -
+          name: "Kirchberg"
+          latitude: 47.08538
+          longitude: 7.58288
+        -
+          name: "Kirchlindach"
+          latitude: 46.99965
+          longitude: 7.41735
+        -
+          name: "Köniz"
+          latitude: 46.92436
+          longitude: 7.41457
+        -
+          name: "Konolfingen"
+          latitude: 46.87909
+          longitude: 7.62013
+        -
+          name: "Koppigen"
+          latitude: 47.13125
+          longitude: 7.60525
+        -
+          name: "Krauchthal"
+          latitude: 47.00964
+          longitude: 7.5664
+        -
+          name: "La Neuveville"
+          latitude: 47.06592
+          longitude: 7.09717
+        -
+          name: "Langenthal"
+          latitude: 47.21526
+          longitude: 7.79607
+        -
+          name: "Langnau"
+          latitude: 46.93936
+          longitude: 7.78738
+        -
+          name: "Laupen"
+          latitude: 46.90214
+          longitude: 7.23973
+        -
+          name: "Lauperswil"
+          latitude: 46.96564
+          longitude: 7.74214
+        -
+          name: "Lauterbrunnen"
+          latitude: 46.59307
+          longitude: 7.90938
+        -
+          name: "Lengnau"
+          latitude: 47.18155
+          longitude: 7.36814
+        -
+          name: "Lenk"
+          latitude: 46.45826
+          longitude: 7.44298
+        -
+          name: "Leuzigen"
+          latitude: 47.17458
+          longitude: 7.45775
+        -
+          name: "Liebefeld"
+          latitude: 46.9333579
+          longitude: 7.3960684
+        -
+          name: "Linden"
+          latitude: 46.8469
+          longitude: 7.67831
+        -
+          name: "Lotzwil"
+          latitude: 47.19135
+          longitude: 7.79102
+        -
+          name: "Lützelflüh"
+          latitude: 47.00757
+          longitude: 7.69165
+        -
+          name: "Lyss"
+          latitude: 47.0741
+          longitude: 7.30655
+        -
+          name: "Lyssach"
+          latitude: 47.06445
+          longitude: 7.58228
+        -
+          name: "Madiswil"
+          latitude: 47.16463
+          longitude: 7.79858
+        -
+          name: "Malleray"
+          latitude: 47.23839
+          longitude: 7.27286
+        -
+          name: "Matten"
+          latitude: 46.67833
+          longitude: 7.86889
+        -
+          name: "Meinisberg"
+          latitude: 47.15965
+          longitude: 7.34801
+        -
+          name: "Meiringen"
+          latitude: 46.72709
+          longitude: 8.1872
+        -
+          name: "Melchnau"
+          latitude: 47.18213
+          longitude: 7.85128
+        -
+          name: "Moutier"
+          latitude: 47.27818
+          longitude: 7.36951
+        -
+          name: "Mühleberg"
+          latitude: 46.95466
+          longitude: 7.26102
+        -
+          name: "Mühlethurnen"
+          latitude: 46.81345
+          longitude: 7.50881
+        -
+          name: "Münchenbuchsee"
+          latitude: 47.02175
+          longitude: 7.45036
+        -
+          name: "Münchenwiler"
+          latitude: 46.91334
+          longitude: 7.12556
+        -
+          name: "Münsingen"
+          latitude: 46.87298
+          longitude: 7.561
+        -
+          name: "Müntschemier"
+          latitude: 46.99548
+          longitude: 7.14626
+        -
+          name: "Muri"
+          latitude: 46.93122
+          longitude: 7.48658
+        -
+          name: "Nidau"
+          latitude: 47.12545
+          longitude: 7.24033
+        -
+          name: "Niederbipp"
+          latitude: 47.27175
+          longitude: 7.69583
+        -
+          name: "Oberaargau"
+          latitude: 47.19202
+          longitude: 7.74553
+        -
+          name: "Oberbipp"
+          latitude: 47.2607
+          longitude: 7.66359
+        -
+          name: "Oberburg"
+          latitude: 47.03665
+          longitude: 7.62745
+        -
+          name: "Oberdiessbach"
+          latitude: 46.84117
+          longitude: 7.6173
+        -
+          name: "Obersimmental-Saanen"
+          latitude: 46.47932
+          longitude: 7.35803
+        -
+          name: "Orpund"
+          latitude: 47.13891
+          longitude: 7.30775
+        -
+          name: "Orvin"
+          latitude: 47.16068
+          longitude: 7.21368
+        -
+          name: "Péry"
+          latitude: 47.19398
+          longitude: 7.24913
+        -
+          name: "Pieterlen"
+          latitude: 47.17501
+          longitude: 7.33791
+        -
+          name: "Radelfingen"
+          latitude: 47.02146
+          longitude: 7.27178
+        -
+          name: "Reconvilier"
+          latitude: 47.23431
+          longitude: 7.22239
+        -
+          name: "Riggisberg"
+          latitude: 46.81028
+          longitude: 7.48014
+        -
+          name: "Ringgenberg"
+          latitude: 46.70114
+          longitude: 7.89445
+        -
+          name: "Roggwil"
+          latitude: 47.24119
+          longitude: 7.82141
+        -
+          name: "Rohrbach"
+          latitude: 47.13521
+          longitude: 7.81334
+        -
+          name: "Rubigen"
+          latitude: 46.89868
+          longitude: 7.5446
+        -
+          name: "Rüderswil"
+          latitude: 46.98374
+          longitude: 7.72167
+        -
+          name: "Rüeggisberg"
+          latitude: 46.82216
+          longitude: 7.4389
+        -
+          name: "Rüschegg"
+          latitude: 46.77977
+          longitude: 7.39167
+        -
+          name: "Saanen"
+          latitude: 46.48945
+          longitude: 7.26003
+        -
+          name: "Saint-Imier"
+          latitude: 47.15284
+          longitude: 6.99692
+        -
+          name: "Sankt Stephan"
+          latitude: 46.50827
+          longitude: 7.39559
+        -
+          name: "Schüpfen"
+          latitude: 47.03661
+          longitude: 7.37723
+        -
+          name: "Seeberg"
+          latitude: 47.15585
+          longitude: 7.66567
+        -
+          name: "Seedorf"
+          latitude: 47.03445
+          longitude: 7.31249
+        -
+          name: "Seeland"
+          latitude: 47.06635
+          longitude: 7.26333
+        -
+          name: "Seftigen"
+          latitude: 46.78765
+          longitude: 7.53937
+        -
+          name: "Signau"
+          latitude: 46.91944
+          longitude: 7.72418
+        -
+          name: "Sigriswil"
+          latitude: 46.71656
+          longitude: 7.71335
+        -
+          name: "Spiez"
+          latitude: 46.68473
+          longitude: 7.69111
+        -
+          name: "Steffisburg"
+          latitude: 46.77807
+          longitude: 7.63249
+        -
+          name: "Stettlen"
+          latitude: 46.95835
+          longitude: 7.52508
+        -
+          name: "Sumiswald"
+          latitude: 47.02747
+          longitude: 7.74526
+        -
+          name: "Täuffelen"
+          latitude: 47.0663
+          longitude: 7.19883
+        -
+          name: "Tavannes"
+          latitude: 47.22079
+          longitude: 7.19759
+        -
+          name: "Thierachern"
+          latitude: 46.75319
+          longitude: 7.57442
+        -
+          name: "Thun"
+          latitude: 46.75118
+          longitude: 7.62166
+        -
+          name: "Thun District"
+          latitude: 46.7629
+          longitude: 7.62503
+        -
+          name: "Toffen"
+          latitude: 46.86031
+          longitude: 7.49216
+        -
+          name: "Trachselwald"
+          latitude: 47.01699
+          longitude: 7.73639
+        -
+          name: "Tramelan"
+          latitude: 47.22298
+          longitude: 7.10287
+        -
+          name: "Trub"
+          latitude: 46.94168
+          longitude: 7.87996
+        -
+          name: "Trubschachen"
+          latitude: 46.92228
+          longitude: 7.8452
+        -
+          name: "Uetendorf"
+          latitude: 46.77392
+          longitude: 7.57251
+        -
+          name: "Unterseen"
+          latitude: 46.6853
+          longitude: 7.84722
+        -
+          name: "Urtenen"
+          latitude: 47.02667
+          longitude: 7.50081
+        -
+          name: "Uttigen"
+          latitude: 46.79435
+          longitude: 7.57789
+        -
+          name: "Utzenstorf"
+          latitude: 47.13248
+          longitude: 7.55355
+        -
+          name: "Vechigen"
+          latitude: 46.94616
+          longitude: 7.56065
+        -
+          name: "Walkringen"
+          latitude: 46.94856
+          longitude: 7.6204
+        -
+          name: "Wangen an der Aare"
+          latitude: 47.23208
+          longitude: 7.65253
+        -
+          name: "Wattenwil"
+          latitude: 46.76973
+          longitude: 7.50835
+        -
+          name: "Wichtrach"
+          latitude: 46.8501
+          longitude: 7.57748
+        -
+          name: "Wiedlisbach"
+          latitude: 47.25194
+          longitude: 7.6461
+        -
+          name: "Wilderswil"
+          latitude: 46.66369
+          longitude: 7.86175
+        -
+          name: "Wimmis"
+          latitude: 46.67587
+          longitude: 7.63972
+        -
+          name: "Wohlen"
+          latitude: 46.97118
+          longitude: 7.35685
+        -
+          name: "Worb"
+          latitude: 46.92984
+          longitude: 7.56306
+        -
+          name: "Worben"
+          latitude: 47.10279
+          longitude: 7.29518
+        -
+          name: "Wynau"
+          latitude: 47.2557
+          longitude: 7.81626
+        -
+          name: "Wynigen"
+          latitude: 47.10586
+          longitude: 7.66681
+        -
+          name: "Wyssachen"
+          latitude: 47.07851
+          longitude: 7.82922
+        -
+          name: "Zäziwil"
+          latitude: 46.90196
+          longitude: 7.66185
+        -
+          name: "Zollikofen"
+          latitude: 46.99905
+          longitude: 7.45809
+        -
+          name: "Zweisimmen"
+          latitude: 46.55539
+          longitude: 7.37302
+    -
+      name: "Fribourg"
+      code: "FR"
+      iso3166_2: "CH-FR"
+      type: "canton"
+      latitude: 46.6789116
+      longitude: 7.1027113
+      cities:
+        -
+          name: "Alterswil"
+          latitude: 46.79587
+          longitude: 7.25877
+        -
+          name: "Attalens"
+          latitude: 46.50555
+          longitude: 6.85039
+        -
+          name: "Avry-sur-Matran"
+          latitude: 46.78753
+          longitude: 7.06735
+        -
+          name: "Bas-Vully"
+          latitude: 46.96194
+          longitude: 7.11251
+        -
+          name: "Belfaux"
+          latitude: 46.82171
+          longitude: 7.10674
+        -
+          name: "Bösingen"
+          latitude: 46.89229
+          longitude: 7.2277
+        -
+          name: "Broc"
+          latitude: 46.60513
+          longitude: 7.09891
+        -
+          name: "Broye"
+          latitude: 46.82212
+          longitude: 6.90249
+        -
+          name: "Bulle"
+          latitude: 46.61797
+          longitude: 7.0569
+        -
+          name: "Charmey"
+          latitude: 46.61957
+          longitude: 7.16486
+        -
+          name: "Châtel-Saint-Denis"
+          latitude: 46.52691
+          longitude: 6.90083
+        -
+          name: "Corminboeuf"
+          latitude: 46.81029
+          longitude: 7.10535
+        -
+          name: "Courgevaux"
+          latitude: 46.90648
+          longitude: 7.11215
+        -
+          name: "Cugy"
+          latitude: 46.81479
+          longitude: 6.88888
+        -
+          name: "Domdidier"
+          latitude: 46.86716
+          longitude: 7.01337
+        -
+          name: "Düdingen"
+          latitude: 46.84916
+          longitude: 7.1915
+        -
+          name: "Ecublens"
+          latitude: 46.60735
+          longitude: 6.80895
+        -
+          name: "Ependes"
+          latitude: 46.75368
+          longitude: 7.14609
+        -
+          name: "Estavayer-le-Lac"
+          latitude: 46.84876
+          longitude: 6.8465
+        -
+          name: "Flamatt"
+          latitude: 46.88994
+          longitude: 7.32204
+        -
+          name: "Fribourg"
+          latitude: 46.80237
+          longitude: 7.15128
+        -
+          name: "Giffers"
+          latitude: 46.7623
+          longitude: 7.20845
+        -
+          name: "Givisiez"
+          latitude: 46.81201
+          longitude: 7.12639
+        -
+          name: "Glâne"
+          latitude: 46.66667
+          longitude: 6.91667
+        -
+          name: "Grolley"
+          latitude: 46.8336
+          longitude: 7.07116
+        -
+          name: "Gruyère"
+          latitude: 46.60753
+          longitude: 7.10741
+        -
+          name: "Gruyères"
+          latitude: 46.58338
+          longitude: 7.08207
+        -
+          name: "Heitenried"
+          latitude: 46.82762
+          longitude: 7.29944
+        -
+          name: "Kerzers"
+          latitude: 46.97586
+          longitude: 7.1957
+        -
+          name: "La Roche"
+          latitude: 46.6962
+          longitude: 7.13721
+        -
+          name: "La Tour-de-Trême"
+          latitude: 46.61061
+          longitude: 7.06496
+        -
+          name: "Lake"
+          latitude: 46.91016
+          longitude: 7.14088
+        -
+          name: "Marly"
+          latitude: 46.77611
+          longitude: 7.16459
+        -
+          name: "Marsens"
+          latitude: 46.65644
+          longitude: 7.05948
+        -
+          name: "Mézières"
+          latitude: 46.67958
+          longitude: 6.9263
+        -
+          name: "Murten/Morat"
+          latitude: 46.92827
+          longitude: 7.11715
+        -
+          name: "Oberschrot"
+          latitude: 46.74126
+          longitude: 7.28149
+        -
+          name: "Plaffeien"
+          latitude: 46.74198
+          longitude: 7.28666
+        -
+          name: "Praroman"
+          latitude: 46.75145
+          longitude: 7.17778
+        -
+          name: "Rechthalten"
+          latitude: 46.76766
+          longitude: 7.24028
+        -
+          name: "Riaz"
+          latitude: 46.64224
+          longitude: 7.06183
+        -
+          name: "Romont"
+          latitude: 46.69652
+          longitude: 6.91898
+        -
+          name: "Rue"
+          latitude: 46.61916
+          longitude: 6.82225
+        -
+          name: "Sâles"
+          latitude: 46.63473
+          longitude: 6.97336
+        -
+          name: "Sankt Antoni"
+          latitude: 46.82207
+          longitude: 7.26091
+        -
+          name: "Sarine"
+          latitude: 46.78435
+          longitude: 7.09993
+        -
+          name: "Schmitten"
+          latitude: 46.8575
+          longitude: 7.25031
+        -
+          name: "Sense"
+          latitude: 46.80132
+          longitude: 7.26028
+        -
+          name: "Tafers"
+          latitude: 46.81483
+          longitude: 7.21852
+        -
+          name: "Treyvaux"
+          latitude: 46.72796
+          longitude: 7.13769
+        -
+          name: "Ueberstorf"
+          latitude: 46.86587
+          longitude: 7.30998
+        -
+          name: "Veveyse"
+          latitude: 46.55083
+          longitude: 6.91085
+        -
+          name: "Villars-sur-Glâne"
+          latitude: 46.79054
+          longitude: 7.11717
+        -
+          name: "Villaz-Saint-Pierre"
+          latitude: 46.72074
+          longitude: 6.95638
+        -
+          name: "Vuadens"
+          latitude: 46.61545
+          longitude: 7.01732
+    -
+      name: "Geneva"
+      code: "GE"
+      iso3166_2: "CH-GE"
+      type: "canton"
+      latitude: 46.2256509
+      longitude: 6.1439209
+      cities:
+        -
+          name: "Aire-la-Ville"
+          latitude: 46.19057
+          longitude: 6.04287
+        -
+          name: "Anières"
+          latitude: 46.27673
+          longitude: 6.22204
+        -
+          name: "Bellevue"
+          latitude: 46.25739
+          longitude: 6.15475
+        -
+          name: "Bernex"
+          latitude: 46.1765
+          longitude: 6.07544
+        -
+          name: "Carouge"
+          latitude: 46.18096
+          longitude: 6.13921
+        -
+          name: "Chancy"
+          latitude: 46.15003
+          longitude: 5.97153
+        -
+          name: "Chêne-Bougeries"
+          latitude: 46.19843
+          longitude: 6.18642
+        -
+          name: "Chêne-Bourg"
+          latitude: 46.19534
+          longitude: 6.19406
+        -
+          name: "Confignon"
+          latitude: 46.17341
+          longitude: 6.08437
+        -
+          name: "Corsier"
+          latitude: 46.26297
+          longitude: 6.22461
+        -
+          name: "Dardagny"
+          latitude: 46.19564
+          longitude: 5.99497
+        -
+          name: "Geneva"
+          latitude: 46.20222
+          longitude: 6.14569
+        -
+          name: "Jussy"
+          latitude: 46.2359
+          longitude: 6.26701
+        -
+          name: "Lancy"
+          latitude: 46.18981
+          longitude: 6.11441
+        -
+          name: "Le Grand-Saconnex"
+          latitude: 46.23188
+          longitude: 6.12091
+        -
+          name: "Les Avanchets"
+          latitude: 46.22168
+          longitude: 6.10814
+        -
+          name: "Meinier"
+          latitude: 46.24706
+          longitude: 6.23423
+        -
+          name: "Meyrin"
+          latitude: 46.23424
+          longitude: 6.08025
+        -
+          name: "Onex"
+          latitude: 46.18396
+          longitude: 6.10237
+        -
+          name: "Plan-les-Ouates"
+          latitude: 46.16789
+          longitude: 6.11664
+        -
+          name: "Puplinge"
+          latitude: 46.21043
+          longitude: 6.23114
+        -
+          name: "Satigny"
+          latitude: 46.21462
+          longitude: 6.03553
+        -
+          name: "Thônex"
+          latitude: 46.18815
+          longitude: 6.19904
+        -
+          name: "Troinex"
+          latitude: 46.16313
+          longitude: 6.14745
+        -
+          name: "Vandœuvres"
+          latitude: 46.22179
+          longitude: 6.20285
+        -
+          name: "Vernier"
+          latitude: 46.21702
+          longitude: 6.08497
+        -
+          name: "Versoix"
+          latitude: 46.28382
+          longitude: 6.16214
+        -
+          name: "Veyrier"
+          latitude: 46.16699
+          longitude: 6.18436
+    -
+      name: "Glarus"
+      code: "GL"
+      iso3166_2: "CH-GL"
+      type: "canton"
+      latitude: 47.0411232
+      longitude: 9.0679
+      cities:
+        -
+          name: "Bilten"
+          latitude: 47.14995
+          longitude: 9.02551
+        -
+          name: "Ennenda"
+          latitude: 47.03363
+          longitude: 9.07888
+        -
+          name: "Glarus"
+          latitude: 47.04057
+          longitude: 9.06804
+        -
+          name: "Linthal"
+          latitude: 46.92127
+          longitude: 8.99799
+        -
+          name: "Luchsingen"
+          latitude: 46.9664
+          longitude: 9.03715
+        -
+          name: "Mollis"
+          latitude: 47.08878
+          longitude: 9.07242
+        -
+          name: "Näfels"
+          latitude: 47.09775
+          longitude: 9.06361
+        -
+          name: "Netstal"
+          latitude: 47.06337
+          longitude: 9.05734
+        -
+          name: "Niederurnen"
+          latitude: 47.12598
+          longitude: 9.05428
+        -
+          name: "Oberurnen"
+          latitude: 47.11412
+          longitude: 9.05866
+        -
+          name: "Schwanden"
+          latitude: 46.99541
+          longitude: 9.0701
+    -
+      name: "Graubünden"
+      code: "GR"
+      iso3166_2: "CH-GR"
+      type: "canton"
+      latitude: 46.6960615
+      longitude: 9.6027351
+      cities:
+        -
+          name: "Arosa"
+          latitude: 46.77793
+          longitude: 9.67621
+        -
+          name: "Arvigo"
+          latitude: 46.30211
+          longitude: 9.113
+        -
+          name: "Bonaduz"
+          latitude: 46.81103
+          longitude: 9.39821
+        -
+          name: "Breíl"
+          latitude: 46.76986
+          longitude: 9.06036
+        -
+          name: "Brusio"
+          latitude: 46.25953
+          longitude: 10.12385
+        -
+          name: "Buseno"
+          latitude: 46.27381
+          longitude: 9.10735
+        -
+          name: "Cauco"
+          latitude: 46.33541
+          longitude: 9.12129
+        -
+          name: "Cazis"
+          latitude: 46.7194
+          longitude: 9.43271
+        -
+          name: "Celerina"
+          latitude: 46.51217
+          longitude: 9.85794
+        -
+          name: "Chur"
+          latitude: 46.84986
+          longitude: 9.53287
+        -
+          name: "Churwalden"
+          latitude: 46.78143
+          longitude: 9.54377
+        -
+          name: "Davos"
+          latitude: 46.80429
+          longitude: 9.83723
+        -
+          name: "Disentis"
+          latitude: 46.70341
+          longitude: 8.8509
+        -
+          name: "Domat"
+          latitude: 46.83483
+          longitude: 9.45075
+        -
+          name: "Felsberg"
+          latitude: 46.84566
+          longitude: 9.47588
+        -
+          name: "Flims"
+          latitude: 46.83705
+          longitude: 9.28458
+        -
+          name: "Grüsch"
+          latitude: 46.97965
+          longitude: 9.64639
+        -
+          name: "Hinterrhein"
+          latitude: 46.53333
+          longitude: 9.2
+        -
+          name: "Igis"
+          latitude: 46.94531
+          longitude: 9.57218
+        -
+          name: "Ilanz"
+          latitude: 46.77413
+          longitude: 9.20461
+        -
+          name: "Jenaz"
+          latitude: 46.92892
+          longitude: 9.71275
+        -
+          name: "Klosters Serneus"
+          latitude: 46.88918
+          longitude: 9.83826
+        -
+          name: "La Punt Chamues-ch"
+          latitude: 46.57887
+          longitude: 9.92015
+        -
+          name: "Laax"
+          latitude: 46.80452
+          longitude: 9.25787
+        -
+          name: "Landquart"
+          latitude: 46.95
+          longitude: 9.56667
+        -
+          name: "Lenzerheide"
+          latitude: 46.72215
+          longitude: 9.55905
+        -
+          name: "Luzein"
+          latitude: 46.91957
+          longitude: 9.7608
+        -
+          name: "Maienfeld"
+          latitude: 47.00472
+          longitude: 9.53115
+        -
+          name: "Malans"
+          latitude: 46.98096
+          longitude: 9.57527
+        -
+          name: "Mesocco"
+          latitude: 46.3939
+          longitude: 9.23333
+        -
+          name: "Pontresina"
+          latitude: 46.4955
+          longitude: 9.90126
+        -
+          name: "Poschiavo"
+          latitude: 46.32441
+          longitude: 10.05823
+        -
+          name: "Region Albula"
+          latitude: 46.60255
+          longitude: 9.6515
+        -
+          name: "Region Bernina"
+          latitude: 46.33488
+          longitude: 10.07349
+        -
+          name: "Region Engiadina Bassa / Val Müstair"
+          latitude: 46.75212
+          longitude: 10.26032
+        -
+          name: "Region Imboden"
+          latitude: 46.84876
+          longitude: 9.36225
+        -
+          name: "Region Landquart"
+          latitude: 46.96403
+          longitude: 9.56365
+        -
+          name: "Region Maloja"
+          latitude: 46.47448
+          longitude: 9.83138
+        -
+          name: "Region Moesa"
+          latitude: 46.352
+          longitude: 9.1787
+        -
+          name: "Region Plessur"
+          latitude: 46.81819
+          longitude: 9.62542
+        -
+          name: "Region Prättigau / Davos"
+          latitude: 46.86727
+          longitude: 9.82014
+        -
+          name: "Region Surselva"
+          latitude: 46.69564
+          longitude: 9.04834
+        -
+          name: "Region Viamala"
+          latitude: 46.58762
+          longitude: 9.40035
+        -
+          name: "Rhäzüns"
+          latitude: 46.79891
+          longitude: 9.39764
+        -
+          name: "Samedan"
+          latitude: 46.53399
+          longitude: 9.87276
+        -
+          name: "Scharans"
+          latitude: 46.71814
+          longitude: 9.45903
+        -
+          name: "Schiers"
+          latitude: 46.96973
+          longitude: 9.6872
+        -
+          name: "Scuol"
+          latitude: 46.79671
+          longitude: 10.29804
+        -
+          name: "Silvaplana"
+          latitude: 46.4581
+          longitude: 9.79514
+        -
+          name: "St. Moritz"
+          latitude: 46.49937
+          longitude: 9.84327
+        -
+          name: "Tamins"
+          latitude: 46.82964
+          longitude: 9.40648
+        -
+          name: "Thusis"
+          latitude: 46.69724
+          longitude: 9.43938
+        -
+          name: "Tiefencastel"
+          latitude: 46.66014
+          longitude: 9.57883
+        -
+          name: "Trimmis"
+          latitude: 46.90075
+          longitude: 9.5612
+        -
+          name: "Trun"
+          latitude: 46.74292
+          longitude: 8.98716
+        -
+          name: "Untervaz"
+          latitude: 46.9275
+          longitude: 9.53422
+        -
+          name: "Vals Platz"
+          latitude: 46.61647
+          longitude: 9.18025
+        -
+          name: "Zernez"
+          latitude: 46.69862
+          longitude: 10.09268
+        -
+          name: "Zizers"
+          latitude: 46.93575
+          longitude: 9.56491
+        -
+          name: "Zuoz"
+          latitude: 46.60206
+          longitude: 9.95965
+    -
+      name: "Jura"
+      code: "JU"
+      iso3166_2: "CH-JU"
+      type: "canton"
+      latitude: 47.3566699
+      longitude: 7.1598893
+      cities:
+        -
+          name: "Alle"
+          latitude: 47.42542
+          longitude: 7.13018
+        -
+          name: "Bassecourt"
+          latitude: 47.33808
+          longitude: 7.24373
+        -
+          name: "Boncourt"
+          latitude: 47.49493
+          longitude: 7.01297
+        -
+          name: "Courfaivre"
+          latitude: 47.33461
+          longitude: 7.28186
+        -
+          name: "Courgenay"
+          latitude: 47.40483
+          longitude: 7.12522
+        -
+          name: "Courrendlin"
+          latitude: 47.33853
+          longitude: 7.37243
+        -
+          name: "Courroux"
+          latitude: 47.36069
+          longitude: 7.37371
+        -
+          name: "Courtételle"
+          latitude: 47.34074
+          longitude: 7.31827
+        -
+          name: "Delémont"
+          latitude: 47.36493
+          longitude: 7.34453
+        -
+          name: "Delémont District"
+          latitude: 47.35434
+          longitude: 7.33053
+        -
+          name: "Fontenais"
+          latitude: 47.40292
+          longitude: 7.08108
+        -
+          name: "Franches-Montagnes"
+          latitude: 47.24935
+          longitude: 7.04562
+        -
+          name: "Glovelier"
+          latitude: 47.33534
+          longitude: 7.20556
+        -
+          name: "Le Noirmont"
+          latitude: 47.22464
+          longitude: 6.95784
+        -
+          name: "Les Bois"
+          latitude: 47.17715
+          longitude: 6.90498
+        -
+          name: "Les Breuleux"
+          latitude: 47.21099
+          longitude: 7.00792
+        -
+          name: "Porrentruy"
+          latitude: 47.41728
+          longitude: 7.07573
+        -
+          name: "Porrentruy District"
+          latitude: 47.41475
+          longitude: 7.07638
+        -
+          name: "Saignelégier"
+          latitude: 47.25619
+          longitude: 6.99648
+        -
+          name: "Vicques"
+          latitude: 47.35
+          longitude: 7.41342
+    -
+      name: "Lucerne"
+      code: "LU"
+      iso3166_2: "CH-LU"
+      type: "canton"
+      latitude: 47.0908207
+      longitude: 8.1719611
+      cities:
+        -
+          name: "Adligenswil"
+          latitude: 47.06521
+          longitude: 8.36124
+        -
+          name: "Altishofen"
+          latitude: 47.19916
+          longitude: 7.96964
+        -
+          name: "Ballwil"
+          latitude: 47.15371
+          longitude: 8.32233
+        -
+          name: "Beromünster"
+          latitude: 47.20612
+          longitude: 8.19265
+        -
+          name: "Buchrain"
+          latitude: 47.09625
+          longitude: 8.34729
+        -
+          name: "Büron"
+          latitude: 47.21192
+          longitude: 8.0942
+        -
+          name: "Buttisholz"
+          latitude: 47.11442
+          longitude: 8.09425
+        -
+          name: "Dagmersellen"
+          latitude: 47.21405
+          longitude: 7.98519
+        -
+          name: "Ebikon"
+          latitude: 47.07937
+          longitude: 8.34041
+        -
+          name: "Eich"
+          latitude: 47.15116
+          longitude: 8.16695
+        -
+          name: "Emmen"
+          latitude: 47.07819
+          longitude: 8.27331
+        -
+          name: "Entlebuch"
+          latitude: 46.99559
+          longitude: 8.06354
+        -
+          name: "Entlebuch District"
+          latitude: 46.9259
+          longitude: 8.01427
+        -
+          name: "Escholzmatt"
+          latitude: 46.9135
+          longitude: 7.93426
+        -
+          name: "Ettiswil"
+          latitude: 47.15031
+          longitude: 8.01759
+        -
+          name: "Flühli"
+          latitude: 46.88391
+          longitude: 8.01558
+        -
+          name: "Geuensee"
+          latitude: 47.1997
+          longitude: 8.10689
+        -
+          name: "Grosswangen"
+          latitude: 47.1331
+          longitude: 8.05041
+        -
+          name: "Gunzwil"
+          latitude: 47.21072
+          longitude: 8.17932
+        -
+          name: "Hasle"
+          latitude: 46.97787
+          longitude: 8.05326
+        -
+          name: "Hildisrieden"
+          latitude: 47.15068
+          longitude: 8.22582
+        -
+          name: "Hitzkirch"
+          latitude: 47.22403
+          longitude: 8.26425
+        -
+          name: "Hochdorf"
+          latitude: 47.16841
+          longitude: 8.29179
+        -
+          name: "Hochdorf District"
+          latitude: 47.17062
+          longitude: 8.28702
+        -
+          name: "Hohenrain"
+          latitude: 47.18083
+          longitude: 8.31802
+        -
+          name: "Horw"
+          latitude: 47.01692
+          longitude: 8.30956
+        -
+          name: "Inwil"
+          latitude: 47.1253
+          longitude: 8.34885
+        -
+          name: "Knutwil"
+          latitude: 47.19953
+          longitude: 8.07315
+        -
+          name: "Kriens"
+          latitude: 47.0311
+          longitude: 8.28547
+        -
+          name: "Littau"
+          latitude: 47.05
+          longitude: 8.26274
+        -
+          name: "Lucerne-Land"
+          latitude: 47.04046
+          longitude: 8.29271
+        -
+          name: "Lucerne-Stadt"
+          latitude: 47.05334
+          longitude: 8.31063
+        -
+          name: "Luthern"
+          latitude: 47.05753
+          longitude: 7.91692
+        -
+          name: "Luzern"
+          latitude: 47.05048
+          longitude: 8.30635
+        -
+          name: "Malters"
+          latitude: 47.03628
+          longitude: 8.18193
+        -
+          name: "Mauensee"
+          latitude: 47.16703
+          longitude: 8.06793
+        -
+          name: "Meggen"
+          latitude: 47.04691
+          longitude: 8.37467
+        -
+          name: "Meierskappel"
+          latitude: 47.1247
+          longitude: 8.44274
+        -
+          name: "Menznau"
+          latitude: 47.08364
+          longitude: 8.03971
+        -
+          name: "Nebikon"
+          latitude: 47.19185
+          longitude: 7.97769
+        -
+          name: "Neudorf"
+          latitude: 47.17699
+          longitude: 8.20911
+        -
+          name: "Neuenkirch"
+          latitude: 47.09989
+          longitude: 8.20416
+        -
+          name: "Nottwil"
+          latitude: 47.13469
+          longitude: 8.13774
+        -
+          name: "Oberkirch"
+          latitude: 47.15642
+          longitude: 8.11567
+        -
+          name: "Pfaffnau"
+          latitude: 47.22772
+          longitude: 7.89719
+        -
+          name: "Reiden"
+          latitude: 47.24719
+          longitude: 7.97135
+        -
+          name: "Römerswil"
+          latitude: 47.16881
+          longitude: 8.24528
+        -
+          name: "Root"
+          latitude: 47.11458
+          longitude: 8.39021
+        -
+          name: "Ruswil"
+          latitude: 47.08425
+          longitude: 8.12645
+        -
+          name: "Schenkon"
+          latitude: 47.17765
+          longitude: 8.13204
+        -
+          name: "Schötz"
+          latitude: 47.16896
+          longitude: 7.9887
+        -
+          name: "Schüpfheim"
+          latitude: 46.95161
+          longitude: 8.01723
+        -
+          name: "Schwarzenberg"
+          latitude: 47.01705
+          longitude: 8.17261
+        -
+          name: "Sempach"
+          latitude: 47.13577
+          longitude: 8.19149
+        -
+          name: "Sursee"
+          latitude: 47.17088
+          longitude: 8.11113
+        -
+          name: "Sursee District"
+          latitude: 47.15591
+          longitude: 8.13704
+        -
+          name: "Triengen"
+          latitude: 47.23573
+          longitude: 8.07652
+        -
+          name: "Udligenswil"
+          latitude: 47.09005
+          longitude: 8.40335
+        -
+          name: "Vitznau"
+          latitude: 47.01014
+          longitude: 8.4842
+        -
+          name: "Wauwil"
+          latitude: 47.18457
+          longitude: 8.021
+        -
+          name: "Weggis"
+          latitude: 47.03208
+          longitude: 8.43219
+        -
+          name: "Werthenstein"
+          latitude: 47.05578
+          longitude: 8.10182
+        -
+          name: "Wikon"
+          latitude: 47.26339
+          longitude: 7.96801
+        -
+          name: "Willisau"
+          latitude: 47.12183
+          longitude: 7.99418
+        -
+          name: "Willisau District"
+          latitude: 47.14097
+          longitude: 7.95933
+        -
+          name: "Wolhusen"
+          latitude: 47.05983
+          longitude: 8.07389
+        -
+          name: "Zell"
+          latitude: 47.13673
+          longitude: 7.92495
+    -
+      name: "Neuchâtel"
+      code: "NE"
+      iso3166_2: "CH-NE"
+      type: "canton"
+      latitude: 46.9899874
+      longitude: 6.9292732
+      cities:
+        -
+          name: "Auvernier"
+          latitude: 46.97545
+          longitude: 6.87903
+        -
+          name: "Bevaix"
+          latitude: 46.92958
+          longitude: 6.8147
+        -
+          name: "Boudry"
+          latitude: 46.94991
+          longitude: 6.83757
+        -
+          name: "Boudry District"
+          latitude: 46.94594
+          longitude: 6.82842
+        -
+          name: "Cernier"
+          latitude: 47.05878
+          longitude: 6.9004
+        -
+          name: "Chézard-Saint-Martin"
+          latitude: 47.06629
+          longitude: 6.93332
+        -
+          name: "Cornaux"
+          latitude: 47.0396
+          longitude: 7.01872
+        -
+          name: "Cortaillod"
+          latitude: 46.94306
+          longitude: 6.8444
+        -
+          name: "Couvet"
+          latitude: 46.92525
+          longitude: 6.6327
+        -
+          name: "Dombresson"
+          latitude: 47.07192
+          longitude: 6.9592
+        -
+          name: "Fleurier"
+          latitude: 46.90224
+          longitude: 6.58253
+        -
+          name: "Fontainemelon"
+          latitude: 47.05495
+          longitude: 6.8868
+        -
+          name: "Gorgier"
+          latitude: 46.90143
+          longitude: 6.77985
+        -
+          name: "Grand-Savagnier"
+          latitude: 47.05101
+          longitude: 6.95489
+        -
+          name: "La Chaux-de-Fonds"
+          latitude: 47.09993
+          longitude: 6.82586
+        -
+          name: "La Chaux-de-Fonds District"
+          latitude: 47.12159
+          longitude: 6.84064
+        -
+          name: "Le Landeron"
+          latitude: 47.05702
+          longitude: 7.07052
+        -
+          name: "Le Locle"
+          latitude: 47.05619
+          longitude: 6.74913
+        -
+          name: "Le Locle District"
+          latitude: 47.01927
+          longitude: 6.69635
+        -
+          name: "Les Brenets"
+          latitude: 47.06774
+          longitude: 6.70478
+        -
+          name: "Les Geneveys-sur-Coffrane"
+          latitude: 47.01528
+          longitude: 6.8513
+        -
+          name: "Les Ponts-de-Martel"
+          latitude: 46.99735
+          longitude: 6.73059
+        -
+          name: "Marin-Epagnier"
+          latitude: 47.01017
+          longitude: 6.99941
+        -
+          name: "Neuchâtel"
+          latitude: 46.99179
+          longitude: 6.931
+        -
+          name: "Neuchâtel District"
+          latitude: 47.01799
+          longitude: 6.99337
+        -
+          name: "Peseux"
+          latitude: 46.98704
+          longitude: 6.88903
+        -
+          name: "Saint-Aubin-Sauges"
+          latitude: 46.89419
+          longitude: 6.77251
+        -
+          name: "Saint-Blaise"
+          latitude: 47.01511
+          longitude: 6.98832
+        -
+          name: "Travers"
+          latitude: 46.94018
+          longitude: 6.67595
+        -
+          name: "Val-de-Ruz"
+          latitude: 47.04008
+          longitude: 6.90829
+        -
+          name: "Val-de-Travers"
+          latitude: 46.90357
+          longitude: 6.5631
+    -
+      name: "Nidwalden"
+      code: "NW"
+      iso3166_2: "CH-NW"
+      type: "canton"
+      latitude: 46.942756
+      longitude: 8.4119773
+      cities:
+        -
+          name: "Beckenried"
+          latitude: 46.96653
+          longitude: 8.47575
+        -
+          name: "Buochs"
+          latitude: 46.97398
+          longitude: 8.42279
+        -
+          name: "Dallenwil"
+          latitude: 46.9242
+          longitude: 8.38785
+        -
+          name: "Emmetten"
+          latitude: 46.95658
+          longitude: 8.51467
+        -
+          name: "Ennetbürgen"
+          latitude: 46.98423
+          longitude: 8.41003
+        -
+          name: "Hergiswil"
+          latitude: 46.98429
+          longitude: 8.30944
+        -
+          name: "Stans"
+          latitude: 46.95805
+          longitude: 8.36609
+        -
+          name: "Stansstad"
+          latitude: 46.9768
+          longitude: 8.33553
+        -
+          name: "Wolfenschiessen"
+          latitude: 46.90322
+          longitude: 8.39423
+    -
+      name: "Obwalden"
+      code: "OW"
+      iso3166_2: "CH-OW"
+      type: "canton"
+      latitude: 46.8613857
+      longitude: 8.2067825
+      cities:
+        -
+          name: "Alpnach"
+          latitude: 46.94227
+          longitude: 8.2718
+        -
+          name: "Engelberg"
+          latitude: 46.82107
+          longitude: 8.40133
+        -
+          name: "Giswil"
+          latitude: 46.83333
+          longitude: 8.18065
+        -
+          name: "Kerns"
+          latitude: 46.90121
+          longitude: 8.27514
+        -
+          name: "Lungern"
+          latitude: 46.78578
+          longitude: 8.15984
+        -
+          name: "Sachseln"
+          latitude: 46.86718
+          longitude: 8.23344
+        -
+          name: "Sarnen"
+          latitude: 46.89611
+          longitude: 8.24531
+    -
+      name: "Schaffhausen"
+      code: "SH"
+      iso3166_2: "CH-SH"
+      type: "canton"
+      latitude: 47.6960491
+      longitude: 8.634513
+      cities:
+        -
+          name: "Beringen"
+          latitude: 47.69763
+          longitude: 8.57431
+        -
+          name: "Bezirk Oberklettgau"
+          latitude: 47.69893
+          longitude: 8.51774
+        -
+          name: "Bezirk Reiat"
+          latitude: 47.74752
+          longitude: 8.70821
+        -
+          name: "Bezirk Schaffhausen"
+          latitude: 47.6944
+          longitude: 8.63525
+        -
+          name: "Bezirk Schleitheim"
+          latitude: 47.75
+          longitude: 8.51111
+        -
+          name: "Bezirk Stein"
+          latitude: 47.66429
+          longitude: 8.84683
+        -
+          name: "Bezirk Unterklettgau"
+          latitude: 47.68
+          longitude: 8.46333
+        -
+          name: "Hallau"
+          latitude: 47.69648
+          longitude: 8.45827
+        -
+          name: "Löhningen"
+          latitude: 47.70121
+          longitude: 8.55236
+        -
+          name: "Neuhausen"
+          latitude: 47.68579
+          longitude: 8.61474
+        -
+          name: "Neunkirch"
+          latitude: 47.69012
+          longitude: 8.49981
+        -
+          name: "Ramsen"
+          latitude: 47.70797
+          longitude: 8.80949
+        -
+          name: "Schaffhausen"
+          latitude: 47.69732
+          longitude: 8.63493
+        -
+          name: "Schleitheim"
+          latitude: 47.74818
+          longitude: 8.48213
+        -
+          name: "Stein am Rhein"
+          latitude: 47.65933
+          longitude: 8.85964
+        -
+          name: "Stetten"
+          latitude: 47.74025
+          longitude: 8.66298
+        -
+          name: "Thayngen"
+          latitude: 47.74717
+          longitude: 8.70724
+        -
+          name: "Wilchingen"
+          latitude: 47.66745
+          longitude: 8.46774
+    -
+      name: "Schwyz"
+      code: "SZ"
+      iso3166_2: "CH-SZ"
+      type: "canton"
+      latitude: 47.0207138
+      longitude: 8.6529884
+      cities:
+        -
+          name: "Altendorf"
+          latitude: 47.18994
+          longitude: 8.83823
+        -
+          name: "Arth"
+          latitude: 47.06337
+          longitude: 8.52349
+        -
+          name: "Bäch"
+          latitude: 47.20388
+          longitude: 8.73224
+        -
+          name: "Bezirk Einsiedeln"
+          latitude: 47.10792
+          longitude: 8.7601
+        -
+          name: "Bezirk Gersau"
+          latitude: 47.008
+          longitude: 8.51678
+        -
+          name: "Bezirk Höfe"
+          latitude: 47.19043
+          longitude: 8.7396
+        -
+          name: "Bezirk Küssnacht"
+          latitude: 47.08611
+          longitude: 8.44444
+        -
+          name: "Bezirk March"
+          latitude: 47.16128
+          longitude: 8.91103
+        -
+          name: "Bezirk Schwyz"
+          latitude: 47.02814
+          longitude: 8.63619
+        -
+          name: "Einsiedeln"
+          latitude: 47.12849
+          longitude: 8.74735
+        -
+          name: "Feusisberg"
+          latitude: 47.18707
+          longitude: 8.74724
+        -
+          name: "Freienbach"
+          latitude: 47.20534
+          longitude: 8.75842
+        -
+          name: "Gersau"
+          latitude: 46.99419
+          longitude: 8.525
+        -
+          name: "Goldau"
+          latitude: 47.04761
+          longitude: 8.54616
+        -
+          name: "Ibach"
+          latitude: 47.01105
+          longitude: 8.64538
+        -
+          name: "Ingenbohl"
+          latitude: 46.9988
+          longitude: 8.61529
+        -
+          name: "Küssnacht"
+          latitude: 47.08557
+          longitude: 8.44206
+        -
+          name: "Lachen"
+          latitude: 47.19224
+          longitude: 8.85324
+        -
+          name: "Muotathal"
+          latitude: 46.97676
+          longitude: 8.76499
+        -
+          name: "Pfäffikon"
+          latitude: 47.20109
+          longitude: 8.77816
+        -
+          name: "Reichenburg"
+          latitude: 47.17097
+          longitude: 8.97704
+        -
+          name: "Rothenthurm"
+          latitude: 47.1042
+          longitude: 8.67585
+        -
+          name: "Sattel"
+          latitude: 47.08246
+          longitude: 8.63565
+        -
+          name: "Schindellegi"
+          latitude: 47.1746
+          longitude: 8.71345
+        -
+          name: "Schübelbach"
+          latitude: 47.17326
+          longitude: 8.92811
+        -
+          name: "Schwyz"
+          latitude: 47.02076
+          longitude: 8.65414
+        -
+          name: "Siebnen"
+          latitude: 47.17449
+          longitude: 8.89781
+        -
+          name: "Steinen"
+          latitude: 47.04975
+          longitude: 8.61214
+        -
+          name: "Tuggen"
+          latitude: 47.20291
+          longitude: 8.94896
+        -
+          name: "Unteriberg"
+          latitude: 47.06258
+          longitude: 8.8052
+        -
+          name: "Vorderthal"
+          latitude: 47.12172
+          longitude: 8.90225
+        -
+          name: "Wollerau"
+          latitude: 47.19478
+          longitude: 8.71903
+    -
+      name: "Solothurn"
+      code: "SO"
+      iso3166_2: "CH-SO"
+      type: "canton"
+      latitude: 47.31874
+      longitude: 7.6698284
+      cities:
+        -
+          name: "Balsthal"
+          latitude: 47.31613
+          longitude: 7.69318
+        -
+          name: "Bettlach"
+          latitude: 47.20062
+          longitude: 7.42405
+        -
+          name: "Bezirk Bucheggberg"
+          latitude: 47.13205
+          longitude: 7.47885
+        -
+          name: "Bezirk Dorneck"
+          latitude: 47.48032
+          longitude: 7.61816
+        -
+          name: "Bezirk Gäu"
+          latitude: 47.29606
+          longitude: 7.77503
+        -
+          name: "Bezirk Gösgen"
+          latitude: 47.37758
+          longitude: 7.9203
+        -
+          name: "Bezirk Lebern"
+          latitude: 47.21798
+          longitude: 7.48053
+        -
+          name: "Bezirk Olten"
+          latitude: 47.34426
+          longitude: 7.90755
+        -
+          name: "Bezirk Solothurn"
+          latitude: 47.20818
+          longitude: 7.53084
+        -
+          name: "Bezirk Thal"
+          latitude: 47.31095
+          longitude: 7.63592
+        -
+          name: "Bezirk Thierstein"
+          latitude: 47.38333
+          longitude: 7.55
+        -
+          name: "Bezirk Wasseramt"
+          latitude: 47.18911
+          longitude: 7.59157
+        -
+          name: "Biberist"
+          latitude: 47.18009
+          longitude: 7.56246
+        -
+          name: "Breitenbach"
+          latitude: 47.40668
+          longitude: 7.54554
+        -
+          name: "Büsserach"
+          latitude: 47.39415
+          longitude: 7.54117
+        -
+          name: "Deitingen"
+          latitude: 47.21515
+          longitude: 7.6188
+        -
+          name: "Derendingen"
+          latitude: 47.1985
+          longitude: 7.58844
+        -
+          name: "Dornach"
+          latitude: 47.48038
+          longitude: 7.61644
+        -
+          name: "Egerkingen"
+          latitude: 47.31957
+          longitude: 7.78424
+        -
+          name: "Erlinsbach"
+          latitude: 47.39753
+          longitude: 8.00797
+        -
+          name: "Fulenbach"
+          latitude: 47.27103
+          longitude: 7.83136
+        -
+          name: "Gerlafingen"
+          latitude: 47.17087
+          longitude: 7.57249
+        -
+          name: "Grenchen"
+          latitude: 47.1921
+          longitude: 7.39586
+        -
+          name: "Gunzgen"
+          latitude: 47.31375
+          longitude: 7.83102
+        -
+          name: "Hägendorf"
+          latitude: 47.33497
+          longitude: 7.84133
+        -
+          name: "Himmelried"
+          latitude: 47.42136
+          longitude: 7.59985
+        -
+          name: "Hochwald"
+          latitude: 47.45389
+          longitude: 7.64459
+        -
+          name: "Kleinlützel"
+          latitude: 47.42518
+          longitude: 7.41607
+        -
+          name: "Kriegstetten"
+          latitude: 47.17449
+          longitude: 7.59799
+        -
+          name: "Langendorf"
+          latitude: 47.21974
+          longitude: 7.51469
+        -
+          name: "Laupersdorf"
+          latitude: 47.3126
+          longitude: 7.65465
+        -
+          name: "Lostorf"
+          latitude: 47.38372
+          longitude: 7.94655
+        -
+          name: "Luterbach"
+          latitude: 47.21426
+          longitude: 7.58463
+        -
+          name: "Matzendorf"
+          latitude: 47.30374
+          longitude: 7.6282
+        -
+          name: "Messen"
+          latitude: 47.09155
+          longitude: 7.44528
+        -
+          name: "Niedergösgen"
+          latitude: 47.37157
+          longitude: 7.98837
+        -
+          name: "Nunningen"
+          latitude: 47.3941
+          longitude: 7.61951
+        -
+          name: "Oberbuchsiten"
+          latitude: 47.31334
+          longitude: 7.76836
+        -
+          name: "Obergösgen"
+          latitude: 47.36538
+          longitude: 7.95173
+        -
+          name: "Oensingen"
+          latitude: 47.28764
+          longitude: 7.71612
+        -
+          name: "Olten"
+          latitude: 47.34999
+          longitude: 7.90329
+        -
+          name: "Riedholz"
+          latitude: 47.23158
+          longitude: 7.56829
+        -
+          name: "Rodersdorf"
+          latitude: 47.48082
+          longitude: 7.45767
+        -
+          name: "Rohr"
+          latitude: 47.41029
+          longitude: 7.95333
+        -
+          name: "Schönenwerd"
+          latitude: 47.3691
+          longitude: 8.00167
+        -
+          name: "Selzach"
+          latitude: 47.20531
+          longitude: 7.45521
+        -
+          name: "Solothurn"
+          latitude: 47.20791
+          longitude: 7.53714
+        -
+          name: "Subingen"
+          latitude: 47.19852
+          longitude: 7.61949
+        -
+          name: "Trimbach"
+          latitude: 47.36561
+          longitude: 7.8868
+        -
+          name: "Wangen"
+          latitude: 47.34365
+          longitude: 7.86982
+        -
+          name: "Welschenrohr"
+          latitude: 47.28052
+          longitude: 7.52664
+        -
+          name: "Wolfwil"
+          latitude: 47.26871
+          longitude: 7.79652
+        -
+          name: "Zuchwil"
+          latitude: 47.20173
+          longitude: 7.56649
+    -
+      name: "St. Gallen"
+      code: "SG"
+      iso3166_2: "CH-SG"
+      type: "canton"
+      latitude: 47.1561047
+      longitude: 9.338323
+      cities:
+        -
+          name: "Altstätten"
+          latitude: 47.37766
+          longitude: 9.54746
+        -
+          name: "Amden"
+          latitude: 47.14888
+          longitude: 9.14233
+        -
+          name: "Andwil"
+          latitude: 47.43855
+          longitude: 9.27436
+        -
+          name: "Au"
+          latitude: 47.43093
+          longitude: 9.63448
+        -
+          name: "Bad Ragaz"
+          latitude: 47.00601
+          longitude: 9.50266
+        -
+          name: "Balgach"
+          latitude: 47.40556
+          longitude: 9.60702
+        -
+          name: "Benken"
+          latitude: 47.19942
+          longitude: 9.00735
+        -
+          name: "Bronschhofen"
+          latitude: 47.47835
+          longitude: 9.03454
+        -
+          name: "Buchs"
+          latitude: 47.16743
+          longitude: 9.47794
+        -
+          name: "Bütschwil"
+          latitude: 47.36022
+          longitude: 9.07213
+        -
+          name: "Degersheim"
+          latitude: 47.37429
+          longitude: 9.20019
+        -
+          name: "Diepoldsau"
+          latitude: 47.386
+          longitude: 9.65558
+        -
+          name: "Ebnat-Kappel"
+          latitude: 47.26195
+          longitude: 9.12473
+        -
+          name: "Eggersriet"
+          latitude: 47.44202
+          longitude: 9.46901
+        -
+          name: "Eichberg"
+          latitude: 47.34374
+          longitude: 9.5314
+        -
+          name: "Eschenbach"
+          latitude: 47.23981
+          longitude: 8.92156
+        -
+          name: "Flawil"
+          latitude: 47.41301
+          longitude: 9.18324
+        -
+          name: "Flums"
+          latitude: 47.09058
+          longitude: 9.34301
+        -
+          name: "Gams"
+          latitude: 47.20429
+          longitude: 9.44172
+        -
+          name: "Ganterschwil"
+          latitude: 47.38103
+          longitude: 9.09239
+        -
+          name: "Goldach"
+          latitude: 47.47401
+          longitude: 9.46711
+        -
+          name: "Goldingen"
+          latitude: 47.26477
+          longitude: 8.96167
+        -
+          name: "Gommiswald"
+          latitude: 47.23128
+          longitude: 9.02355
+        -
+          name: "Gossau"
+          latitude: 47.41551
+          longitude: 9.25482
+        -
+          name: "Grabs"
+          latitude: 47.18248
+          longitude: 9.44395
+        -
+          name: "Haag (Rheintal)"
+          latitude: 47.20989
+          longitude: 9.48931
+        -
+          name: "Häggenschwil"
+          latitude: 47.49462
+          longitude: 9.34487
+        -
+          name: "Horn"
+          latitude: 47.49425
+          longitude: 9.46246
+        -
+          name: "Jona"
+          latitude: 47.22983
+          longitude: 8.83884
+        -
+          name: "Jonschwil"
+          latitude: 47.42402
+          longitude: 9.08689
+        -
+          name: "Kaltbrunn"
+          latitude: 47.21367
+          longitude: 9.0259
+        -
+          name: "Kirchberg"
+          latitude: 47.41159
+          longitude: 9.0402
+        -
+          name: "Krummenau"
+          latitude: 47.24755
+          longitude: 9.17064
+        -
+          name: "Lichtensteig"
+          latitude: 47.32381
+          longitude: 9.08758
+        -
+          name: "Lütisburg"
+          latitude: 47.39451
+          longitude: 9.08312
+        -
+          name: "Mogelsberg"
+          latitude: 47.36222
+          longitude: 9.13541
+        -
+          name: "Mörschwil"
+          latitude: 47.47097
+          longitude: 9.42278
+        -
+          name: "Mosnang"
+          latitude: 47.36252
+          longitude: 9.04296
+        -
+          name: "Muolen"
+          latitude: 47.52102
+          longitude: 9.32484
+        -
+          name: "Niederbüren"
+          latitude: 47.46547
+          longitude: 9.20568
+        -
+          name: "Niederhelfenschwil"
+          latitude: 47.47487
+          longitude: 9.18543
+        -
+          name: "Oberhelfenschwil"
+          latitude: 47.35673
+          longitude: 9.11076
+        -
+          name: "Oberriet"
+          latitude: 47.32088
+          longitude: 9.56808
+        -
+          name: "Oberuzwil"
+          latitude: 47.43076
+          longitude: 9.12724
+        -
+          name: "Quarten"
+          latitude: 47.107
+          longitude: 9.24199
+        -
+          name: "Rapperswil"
+          latitude: 47.22557
+          longitude: 8.82228
+        -
+          name: "Rebstein"
+          latitude: 47.39812
+          longitude: 9.58503
+        -
+          name: "Rheineck"
+          latitude: 47.4663
+          longitude: 9.59028
+        -
+          name: "Rorschach"
+          latitude: 47.478
+          longitude: 9.4903
+        -
+          name: "Rüthi"
+          latitude: 47.2948
+          longitude: 9.53857
+        -
+          name: "Sankt Gallen"
+          latitude: 47.42391
+          longitude: 9.37477
+        -
+          name: "Sankt Gallenkappel"
+          latitude: 47.24368
+          longitude: 8.96438
+        -
+          name: "Sankt Margrethen"
+          latitude: 47.45253
+          longitude: 9.63741
+        -
+          name: "Sankt Peterzell"
+          latitude: 47.31782
+          longitude: 9.17599
+        -
+          name: "Sargans"
+          latitude: 47.04896
+          longitude: 9.44103
+        -
+          name: "Schänis"
+          latitude: 47.15995
+          longitude: 9.04549
+        -
+          name: "Schmerikon"
+          latitude: 47.22538
+          longitude: 8.94836
+        -
+          name: "Sennwald"
+          latitude: 47.26063
+          longitude: 9.50268
+        -
+          name: "Sevelen"
+          latitude: 47.12213
+          longitude: 9.48601
+        -
+          name: "Thal"
+          latitude: 47.46677
+          longitude: 9.56643
+        -
+          name: "Uznach"
+          latitude: 47.22421
+          longitude: 8.98263
+        -
+          name: "Uzwil"
+          latitude: 47.43653
+          longitude: 9.13422
+        -
+          name: "Wahlkreis Rheintal"
+          latitude: 47.37769
+          longitude: 9.57903
+        -
+          name: "Wahlkreis Rorschach"
+          latitude: 47.46647
+          longitude: 9.44246
+        -
+          name: "Wahlkreis Sarganserland"
+          latitude: 47.05
+          longitude: 9.43333
+        -
+          name: "Wahlkreis See-Gaster"
+          latitude: 47.22459
+          longitude: 9.0168
+        -
+          name: "Wahlkreis St. Gallen"
+          latitude: 47.46342
+          longitude: 9.39052
+        -
+          name: "Wahlkreis Toggenburg"
+          latitude: 47.29453
+          longitude: 9.17283
+        -
+          name: "Wahlkreis Werdenberg"
+          latitude: 47.17743
+          longitude: 9.46299
+        -
+          name: "Wahlkreis Wil"
+          latitude: 47.42591
+          longitude: 9.12451
+        -
+          name: "Waldkirch"
+          latitude: 47.46859
+          longitude: 9.28665
+        -
+          name: "Walenstadt"
+          latitude: 47.12411
+          longitude: 9.31194
+        -
+          name: "Wattwil"
+          latitude: 47.29955
+          longitude: 9.08657
+        -
+          name: "Weesen"
+          latitude: 47.13447
+          longitude: 9.09644
+        -
+          name: "Wil"
+          latitude: 47.46152
+          longitude: 9.04552
+        -
+          name: "Wildhaus"
+          latitude: 47.20583
+          longitude: 9.35402
+        -
+          name: "Wittenbach"
+          latitude: 47.46108
+          longitude: 9.38601
+        -
+          name: "Zuzwil"
+          latitude: 47.47452
+          longitude: 9.11196
+    -
+      name: "Thurgau"
+      code: "TG"
+      iso3166_2: "CH-TG"
+      type: "canton"
+      latitude: 47.5859649
+      longitude: 9.1428769
+      cities:
+        -
+          name: "Aadorf"
+          latitude: 47.49204
+          longitude: 8.90099
+        -
+          name: "Affeltrangen"
+          latitude: 47.52581
+          longitude: 9.03307
+        -
+          name: "Altnau"
+          latitude: 47.61052
+          longitude: 9.2616
+        -
+          name: "Amriswil"
+          latitude: 47.54699
+          longitude: 9.29586
+        -
+          name: "Arbon"
+          latitude: 47.51667
+          longitude: 9.43333
+        -
+          name: "Arbon District"
+          latitude: 47.54867
+          longitude: 9.35159
+        -
+          name: "Berg"
+          latitude: 47.57879
+          longitude: 9.16635
+        -
+          name: "Bottighofen"
+          latitude: 47.63643
+          longitude: 9.20882
+        -
+          name: "Bürglen"
+          latitude: 47.54921
+          longitude: 9.1495
+        -
+          name: "Diessenhofen"
+          latitude: 47.68908
+          longitude: 8.74958
+        -
+          name: "Egnach"
+          latitude: 47.54268
+          longitude: 9.38048
+        -
+          name: "Erlen"
+          latitude: 47.54814
+          longitude: 9.23415
+        -
+          name: "Ermatingen"
+          latitude: 47.67057
+          longitude: 9.08573
+        -
+          name: "Eschenz"
+          latitude: 47.64793
+          longitude: 8.87472
+        -
+          name: "Eschlikon"
+          latitude: 47.46361
+          longitude: 8.96381
+        -
+          name: "Fischingen"
+          latitude: 47.41422
+          longitude: 8.96862
+        -
+          name: "Frauenfeld"
+          latitude: 47.55776
+          longitude: 8.89893
+        -
+          name: "Frauenfeld District"
+          latitude: 47.61115
+          longitude: 8.89444
+        -
+          name: "Gachnang"
+          latitude: 47.53935
+          longitude: 8.85311
+        -
+          name: "Gottlieben"
+          latitude: 47.6638
+          longitude: 9.13371
+        -
+          name: "Güttingen"
+          latitude: 47.60349
+          longitude: 9.28742
+        -
+          name: "Homburg"
+          latitude: 47.63469
+          longitude: 9.00756
+        -
+          name: "Hüttwilen"
+          latitude: 47.60674
+          longitude: 8.87343
+        -
+          name: "Kreuzlingen"
+          latitude: 47.65051
+          longitude: 9.17504
+        -
+          name: "Kreuzlingen District"
+          latitude: 47.63046
+          longitude: 9.16458
+        -
+          name: "Langrickenbach"
+          latitude: 47.59353
+          longitude: 9.24727
+        -
+          name: "Märstetten-Dorf"
+          latitude: 47.59252
+          longitude: 9.06851
+        -
+          name: "Matzingen"
+          latitude: 47.51957
+          longitude: 8.93365
+        -
+          name: "Müllheim"
+          latitude: 47.60195
+          longitude: 9.00357
+        -
+          name: "Münchwilen"
+          latitude: 47.47719
+          longitude: 8.99677
+        -
+          name: "Münchwilen District"
+          latitude: 47.47324
+          longitude: 8.98812
+        -
+          name: "Münsterlingen"
+          latitude: 47.63197
+          longitude: 9.23271
+        -
+          name: "Pfyn"
+          latitude: 47.59693
+          longitude: 8.9542
+        -
+          name: "Rickenbach bei Wil"
+          latitude: 47.44856
+          longitude: 9.04902
+        -
+          name: "Roggwil"
+          latitude: 47.49981
+          longitude: 9.3958
+        -
+          name: "Romanshorn"
+          latitude: 47.56586
+          longitude: 9.37869
+        -
+          name: "Salmsach"
+          latitude: 47.55433
+          longitude: 9.37229
+        -
+          name: "Sirnach"
+          latitude: 47.46222
+          longitude: 8.99763
+        -
+          name: "Steckborn"
+          latitude: 47.66667
+          longitude: 8.98333
+        -
+          name: "Stettfurt"
+          latitude: 47.52588
+          longitude: 8.95317
+        -
+          name: "Sulgen"
+          latitude: 47.53967
+          longitude: 9.18585
+        -
+          name: "Tägerwilen"
+          latitude: 47.65698
+          longitude: 9.13999
+        -
+          name: "Thundorf"
+          latitude: 47.54594
+          longitude: 8.96358
+        -
+          name: "Uttwil"
+          latitude: 47.5844
+          longitude: 9.34101
+        -
+          name: "Wagenhausen"
+          latitude: 47.66003
+          longitude: 8.84782
+        -
+          name: "Wängi"
+          latitude: 47.49654
+          longitude: 8.95325
+        -
+          name: "Weinfelden"
+          latitude: 47.56667
+          longitude: 9.1
+        -
+          name: "Weinfelden District"
+          latitude: 47.54237
+          longitude: 9.15713
+        -
+          name: "Wigoltingen"
+          latitude: 47.5977
+          longitude: 9.03141
+    -
+      name: "Ticino"
+      code: "TI"
+      iso3166_2: "CH-TI"
+      type: "canton"
+      latitude: 46.3351913
+      longitude: 8.7525902
+      cities:
+        -
+          name: "Acquarossa"
+          latitude: 46.45473
+          longitude: 8.94261
+        -
+          name: "Agno"
+          latitude: 45.99863
+          longitude: 8.9003
+        -
+          name: "Airolo"
+          latitude: 46.52855
+          longitude: 8.61189
+        -
+          name: "Arzo"
+          latitude: 45.87606
+          longitude: 8.94103
+        -
+          name: "Ascona"
+          latitude: 46.15451
+          longitude: 8.77327
+        -
+          name: "Balerna"
+          latitude: 45.84638
+          longitude: 9.00724
+        -
+          name: "Bellinzona"
+          latitude: 46.19278
+          longitude: 9.01703
+        -
+          name: "Bellinzona District"
+          latitude: 46.18858
+          longitude: 9.00254
+        -
+          name: "Biasca"
+          latitude: 46.35972
+          longitude: 8.96965
+        -
+          name: "Bioggio"
+          latitude: 46.01357
+          longitude: 8.91103
+        -
+          name: "Blenio"
+          latitude: 46.47613
+          longitude: 8.94609
+        -
+          name: "Bodio"
+          latitude: 46.37808
+          longitude: 8.90991
+        -
+          name: "Brissago"
+          latitude: 46.12013
+          longitude: 8.71181
+        -
+          name: "Cadempino"
+          latitude: 46.03672
+          longitude: 8.93403
+        -
+          name: "Cadenazzo"
+          latitude: 46.15172
+          longitude: 8.94719
+        -
+          name: "Cadro"
+          latitude: 46.04595
+          longitude: 8.98725
+        -
+          name: "Camorino"
+          latitude: 46.16483
+          longitude: 9.00547
+        -
+          name: "Canobbio"
+          latitude: 46.03592
+          longitude: 8.96605
+        -
+          name: "Caslano"
+          latitude: 45.97364
+          longitude: 8.87739
+        -
+          name: "Castel San Pietro"
+          latitude: 45.86211
+          longitude: 9.00843
+        -
+          name: "Cevio"
+          latitude: 46.31479
+          longitude: 8.60332
+        -
+          name: "Chiasso"
+          latitude: 45.83203
+          longitude: 9.03119
+        -
+          name: "Claro"
+          latitude: 46.25763
+          longitude: 9.02252
+        -
+          name: "Comano"
+          latitude: 46.03635
+          longitude: 8.95526
+        -
+          name: "Cugnasco"
+          latitude: 46.17473
+          longitude: 8.91684
+        -
+          name: "Faido"
+          latitude: 46.477
+          longitude: 8.80125
+        -
+          name: "Giubiasco"
+          latitude: 46.17246
+          longitude: 9.00793
+        -
+          name: "Gordola"
+          latitude: 46.18256
+          longitude: 8.86657
+        -
+          name: "Gravesano"
+          latitude: 46.04208
+          longitude: 8.91832
+        -
+          name: "Lavertezzo"
+          latitude: 46.25893
+          longitude: 8.83756
+        -
+          name: "Leventina"
+          latitude: 46.46912
+          longitude: 8.75539
+        -
+          name: "Ligornetto"
+          latitude: 45.86161
+          longitude: 8.95166
+        -
+          name: "Locarno"
+          latitude: 46.17086
+          longitude: 8.79953
+        -
+          name: "Locarno District"
+          latitude: 46.18033
+          longitude: 8.75991
+        -
+          name: "Lodrino"
+          latitude: 46.30016
+          longitude: 8.97986
+        -
+          name: "Losone"
+          latitude: 46.16866
+          longitude: 8.75928
+        -
+          name: "Lugano"
+          latitude: 46.01008
+          longitude: 8.96004
+        -
+          name: "Lugano District"
+          latitude: 46.02322
+          longitude: 8.93802
+        -
+          name: "Lumino"
+          latitude: 46.2302
+          longitude: 9.0642
+        -
+          name: "Magadino"
+          latitude: 46.14892
+          longitude: 8.8561
+        -
+          name: "Malvaglia"
+          latitude: 46.40588
+          longitude: 8.9819
+        -
+          name: "Massagno"
+          latitude: 46.01257
+          longitude: 8.94354
+        -
+          name: "Melano"
+          latitude: 45.92202
+          longitude: 8.98435
+        -
+          name: "Melide"
+          latitude: 45.95455
+          longitude: 8.94725
+        -
+          name: "Mendrisio"
+          latitude: 45.87019
+          longitude: 8.9816
+        -
+          name: "Mendrisio District"
+          latitude: 45.86592
+          longitude: 8.99931
+        -
+          name: "Minusio"
+          latitude: 46.17769
+          longitude: 8.81473
+        -
+          name: "Montagnola"
+          latitude: 45.98323
+          longitude: 8.91786
+        -
+          name: "Monte Carasso"
+          latitude: 46.18649
+          longitude: 8.99892
+        -
+          name: "Morbio Inferiore"
+          latitude: 45.84915
+          longitude: 9.01907
+        -
+          name: "Muralto"
+          latitude: 46.17323
+          longitude: 8.80219
+        -
+          name: "Novazzano"
+          latitude: 45.84073
+          longitude: 8.98236
+        -
+          name: "Pregassona"
+          latitude: 46.02021
+          longitude: 8.97429
+        -
+          name: "Pura"
+          latitude: 45.98647
+          longitude: 8.86877
+        -
+          name: "Riva San Vitale"
+          latitude: 45.90123
+          longitude: 8.97167
+        -
+          name: "Riviera"
+          latitude: 46.30926
+          longitude: 8.98148
+        -
+          name: "Sementina"
+          latitude: 46.18363
+          longitude: 8.99162
+        -
+          name: "Sorengo"
+          latitude: 45.99766
+          longitude: 8.93783
+        -
+          name: "Stabio"
+          latitude: 45.84846
+          longitude: 8.93642
+        -
+          name: "Tesserete"
+          latitude: 46.06813
+          longitude: 8.96501
+        -
+          name: "Vallemaggia"
+          latitude: 46.35483
+          longitude: 8.6054
+        -
+          name: "Verscio"
+          latitude: 46.18482
+          longitude: 8.73224
+        -
+          name: "Viganello"
+          latitude: 46.01342
+          longitude: 8.96879
+    -
+      name: "Uri"
+      code: "UR"
+      iso3166_2: "CH-UR"
+      type: "canton"
+      latitude: 46.7864413
+      longitude: 8.6420159
+      cities:
+        -
+          name: "Altdorf"
+          latitude: 46.88042
+          longitude: 8.64441
+        -
+          name: "Andermatt"
+          latitude: 46.63565
+          longitude: 8.59388
+        -
+          name: "Attinghausen"
+          latitude: 46.86255
+          longitude: 8.63036
+        -
+          name: "Bauen"
+          latitude: 46.93559
+          longitude: 8.57836
+        -
+          name: "Bürglen"
+          latitude: 46.87565
+          longitude: 8.66539
+        -
+          name: "Erstfeld"
+          latitude: 46.81885
+          longitude: 8.65052
+        -
+          name: "Flüelen"
+          latitude: 46.90478
+          longitude: 8.62396
+        -
+          name: "Schattdorf"
+          latitude: 46.8655
+          longitude: 8.65465
+        -
+          name: "Seedorf"
+          latitude: 46.88199
+          longitude: 8.61611
+        -
+          name: "Silenen"
+          latitude: 46.7891
+          longitude: 8.67325
+    -
+      name: "Valais"
+      code: "VS"
+      iso3166_2: "CH-VS"
+      type: "canton"
+      latitude: 46.2303063
+      longitude: 7.6605757
+      cities:
+        -
+          name: "Ardon"
+          latitude: 46.20951
+          longitude: 7.26012
+        -
+          name: "Ayent"
+          latitude: 46.28249
+          longitude: 7.41028
+        -
+          name: "Bagnes"
+          latitude: 46.08333
+          longitude: 7.21667
+        -
+          name: "Baltschieder"
+          latitude: 46.30888
+          longitude: 7.8657
+        -
+          name: "Basse-Nendaz"
+          latitude: 46.18993
+          longitude: 7.31209
+        -
+          name: "Brig"
+          latitude: 46.31667
+          longitude: 7.98333
+        -
+          name: "Brig District"
+          latitude: 46.28255
+          longitude: 8.01185
+        -
+          name: "Chalais"
+          latitude: 46.26758
+          longitude: 7.51145
+        -
+          name: "Chamoson"
+          latitude: 46.20275
+          longitude: 7.22319
+        -
+          name: "Champéry"
+          latitude: 46.17543
+          longitude: 6.86903
+        -
+          name: "Charrat"
+          latitude: 46.1249
+          longitude: 7.13138
+        -
+          name: "Chermignon-d’en Haut"
+          latitude: 46.28844
+          longitude: 7.47487
+        -
+          name: "Chippis"
+          latitude: 46.2802
+          longitude: 7.53962
+        -
+          name: "Collombey-Muraz"
+          latitude: 46.27385
+          longitude: 6.94789
+        -
+          name: "Conthey"
+          latitude: 46.2237
+          longitude: 7.30283
+        -
+          name: "Conthey District"
+          latitude: 46.20485
+          longitude: 7.27857
+        -
+          name: "Entremont"
+          latitude: 46.02099
+          longitude: 7.2126
+        -
+          name: "Evionnaz"
+          latitude: 46.18096
+          longitude: 7.02232
+        -
+          name: "Evolène"
+          latitude: 46.11422
+          longitude: 7.49407
+        -
+          name: "Fiesch"
+          latitude: 46.39981
+          longitude: 8.13533
+        -
+          name: "Fully"
+          latitude: 46.13851
+          longitude: 7.11468
+        -
+          name: "Gampel"
+          latitude: 46.31599
+          longitude: 7.7421
+        -
+          name: "Goms"
+          latitude: 46.46161
+          longitude: 8.2219
+        -
+          name: "Grächen"
+          latitude: 46.19529
+          longitude: 7.83745
+        -
+          name: "Grimisuat"
+          latitude: 46.25938
+          longitude: 7.38408
+        -
+          name: "Grône"
+          latitude: 46.25288
+          longitude: 7.45947
+        -
+          name: "Hérémence"
+          latitude: 46.18032
+          longitude: 7.40477
+        -
+          name: "Hérens"
+          latitude: 46.19407
+          longitude: 7.42391
+        -
+          name: "Lens"
+          latitude: 46.28298
+          longitude: 7.44976
+        -
+          name: "Leuk"
+          latitude: 46.31736
+          longitude: 7.63412
+        -
+          name: "Leuk District"
+          latitude: 46.31439
+          longitude: 7.67291
+        -
+          name: "Leukerbad"
+          latitude: 46.37943
+          longitude: 7.62687
+        -
+          name: "Leytron"
+          latitude: 46.1866
+          longitude: 7.2078
+        -
+          name: "Martigny"
+          latitude: 46.12386
+          longitude: 7.10354
+        -
+          name: "Martigny-Combe"
+          latitude: 46.07817
+          longitude: 7.05099
+        -
+          name: "Martigny-Ville"
+          latitude: 46.10276
+          longitude: 7.07245
+        -
+          name: "Montana"
+          latitude: 46.31338
+          longitude: 7.48839
+        -
+          name: "Monthey"
+          latitude: 46.25451
+          longitude: 6.95406
+        -
+          name: "Monthey District"
+          latitude: 46.27043
+          longitude: 6.90274
+        -
+          name: "Naters"
+          latitude: 46.32536
+          longitude: 7.98912
+        -
+          name: "Orsières"
+          latitude: 46.02903
+          longitude: 7.14437
+        -
+          name: "Randogne"
+          latitude: 46.30952
+          longitude: 7.50058
+        -
+          name: "Raron"
+          latitude: 46.31196
+          longitude: 7.80029
+        -
+          name: "Raron District"
+          latitude: 46.3
+          longitude: 7.8
+        -
+          name: "Riddes"
+          latitude: 46.17276
+          longitude: 7.2236
+        -
+          name: "Saas-Fee"
+          latitude: 46.10805
+          longitude: 7.92741
+        -
+          name: "Saas-Grund"
+          latitude: 46.12281
+          longitude: 7.93651
+        -
+          name: "Saillon"
+          latitude: 46.17035
+          longitude: 7.18771
+        -
+          name: "Saint-Léonard"
+          latitude: 46.25152
+          longitude: 7.41714
+        -
+          name: "Saint-Maurice"
+          latitude: 46.21826
+          longitude: 7.0032
+        -
+          name: "Saint-Maurice District"
+          latitude: 46.15384
+          longitude: 6.99823
+        -
+          name: "Salgesch"
+          latitude: 46.31155
+          longitude: 7.5712
+        -
+          name: "Salvan"
+          latitude: 46.1189
+          longitude: 7.02078
+        -
+          name: "Sankt Niklaus"
+          latitude: 46.17717
+          longitude: 7.80349
+        -
+          name: "Savièse"
+          latitude: 46.25115
+          longitude: 7.34558
+        -
+          name: "Saxon"
+          latitude: 46.14937
+          longitude: 7.17514
+        -
+          name: "Sierre"
+          latitude: 46.29192
+          longitude: 7.53559
+        -
+          name: "Sierre District"
+          latitude: 46.27052
+          longitude: 7.5157
+        -
+          name: "Sion"
+          latitude: 46.23343
+          longitude: 7.34939
+        -
+          name: "Sitten"
+          latitude: 46.22739
+          longitude: 7.35559
+        -
+          name: "Stalden"
+          latitude: 46.23341
+          longitude: 7.87273
+        -
+          name: "Tanay"
+          latitude: 46.34503
+          longitude: 6.83041
+        -
+          name: "Troistorrents"
+          latitude: 46.2289
+          longitude: 6.91589
+        -
+          name: "Turtmann"
+          latitude: 46.30028
+          longitude: 7.702
+        -
+          name: "Varen"
+          latitude: 46.3186
+          longitude: 7.60743
+        -
+          name: "Verbier"
+          latitude: 46.1002
+          longitude: 7.22651
+        -
+          name: "Vernayaz"
+          latitude: 46.13667
+          longitude: 7.03906
+        -
+          name: "Vétroz"
+          latitude: 46.22171
+          longitude: 7.27858
+        -
+          name: "Vex"
+          latitude: 46.21239
+          longitude: 7.39826
+        -
+          name: "Vionnaz"
+          latitude: 46.31101
+          longitude: 6.90062
+        -
+          name: "Visp"
+          latitude: 46.2937
+          longitude: 7.88149
+        -
+          name: "Visp District"
+          latitude: 46.17612
+          longitude: 7.85609
+        -
+          name: "Visperterminen"
+          latitude: 46.25899
+          longitude: 7.90192
+        -
+          name: "Vouvry"
+          latitude: 46.33746
+          longitude: 6.8895
+        -
+          name: "Zermatt"
+          latitude: 46.01998
+          longitude: 7.74863
+    -
+      name: "Vaud"
+      code: "VD"
+      iso3166_2: "CH-VD"
+      type: "canton"
+      latitude: 46.6356963
+      longitude: 6.5320717
+      cities:
+        -
+          name: "Aigle"
+          latitude: 46.3181
+          longitude: 6.96457
+        -
+          name: "Aigle District"
+          latitude: 46.30577
+          longitude: 7.02974
+        -
+          name: "Apples"
+          latitude: 46.55237
+          longitude: 6.42889
+        -
+          name: "Arzier"
+          latitude: 46.45962
+          longitude: 6.20813
+        -
+          name: "Aubonne"
+          latitude: 46.49514
+          longitude: 6.39155
+        -
+          name: "Avenches"
+          latitude: 46.88004
+          longitude: 7.04071
+        -
+          name: "Ballens"
+          latitude: 46.55485
+          longitude: 6.3731
+        -
+          name: "Bavois"
+          latitude: 46.68403
+          longitude: 6.5671
+        -
+          name: "Begnins"
+          latitude: 46.44152
+          longitude: 6.24762
+        -
+          name: "Belmont-sur-Lausanne"
+          latitude: 46.51891
+          longitude: 6.67636
+        -
+          name: "Berolle"
+          latitude: 46.55798
+          longitude: 6.33551
+        -
+          name: "Bex"
+          latitude: 46.24965
+          longitude: 7.0098
+        -
+          name: "Bière"
+          latitude: 46.53761
+          longitude: 6.33362
+        -
+          name: "Blécherette"
+          latitude: 46.53932
+          longitude: 6.62227
+        -
+          name: "Blonay"
+          latitude: 46.46778
+          longitude: 6.89615
+        -
+          name: "Bottens"
+          latitude: 46.61596
+          longitude: 6.66149
+        -
+          name: "Broye-Vully"
+          latitude: 46.78082
+          longitude: 6.90161
+        -
+          name: "Bussigny"
+          latitude: 46.5511
+          longitude: 6.55597
+        -
+          name: "Caux"
+          latitude: 46.43241
+          longitude: 6.93855
+        -
+          name: "Chardonne"
+          latitude: 46.47676
+          longitude: 6.8268
+        -
+          name: "Château-d'Oex"
+          latitude: 46.47455
+          longitude: 7.13155
+        -
+          name: "Chavannes"
+          latitude: 46.53005
+          longitude: 6.57068
+        -
+          name: "Chavannes-le-Veyron"
+          latitude: 46.607
+          longitude: 6.45086
+        -
+          name: "Chavornay"
+          latitude: 46.70244
+          longitude: 6.5694
+        -
+          name: "Cheseaux"
+          latitude: 46.58624
+          longitude: 6.60587
+        -
+          name: "Chevilly"
+          latitude: 46.64272
+          longitude: 6.47661
+        -
+          name: "Chexbres"
+          latitude: 46.48208
+          longitude: 6.77805
+        -
+          name: "Colombier"
+          latitude: 46.55709
+          longitude: 6.47284
+        -
+          name: "Coppet"
+          latitude: 46.31682
+          longitude: 6.19114
+        -
+          name: "Cossonay"
+          latitude: 46.61443
+          longitude: 6.50631
+        -
+          name: "Crissier"
+          latitude: 46.54586
+          longitude: 6.57567
+        -
+          name: "Cuarnens"
+          latitude: 46.62545
+          longitude: 6.43713
+        -
+          name: "Cully"
+          latitude: 46.48892
+          longitude: 6.72945
+        -
+          name: "Echallens"
+          latitude: 46.6413
+          longitude: 6.63317
+        -
+          name: "Ecublens"
+          latitude: 46.52899
+          longitude: 6.56261
+        -
+          name: "Epalinges"
+          latitude: 46.54896
+          longitude: 6.66831
+        -
+          name: "Ferreyres"
+          latitude: 46.65804
+          longitude: 6.4852
+        -
+          name: "Founex"
+          latitude: 46.33277
+          longitude: 6.19243
+        -
+          name: "Froideville"
+          latitude: 46.60123
+          longitude: 6.68085
+        -
+          name: "Genolier"
+          latitude: 46.43537
+          longitude: 6.21809
+        -
+          name: "Gimel"
+          latitude: 46.50945
+          longitude: 6.30736
+        -
+          name: "Gland"
+          latitude: 46.42082
+          longitude: 6.2701
+        -
+          name: "Grancy"
+          latitude: 46.59214
+          longitude: 6.46391
+        -
+          name: "Grandson"
+          latitude: 46.80946
+          longitude: 6.646
+        -
+          name: "Gros-de-Vaud"
+          latitude: 46.6518
+          longitude: 6.65728
+        -
+          name: "Gryon"
+          latitude: 46.27377
+          longitude: 7.05975
+        -
+          name: "Jongny"
+          latitude: 46.47883
+          longitude: 6.84114
+        -
+          name: "Jura-Nord vaudois"
+          latitude: 46.72981
+          longitude: 6.45429
+        -
+          name: "La Sarraz"
+          latitude: 46.65863
+          longitude: 6.51077
+        -
+          name: "La Tour-de-Peilz"
+          latitude: 46.45312
+          longitude: 6.85856
+        -
+          name: "Lausanne"
+          latitude: 46.516
+          longitude: 6.63282
+        -
+          name: "Lausanne District"
+          latitude: 46.52131
+          longitude: 6.63334
+        -
+          name: "Lavaux-Oron"
+          latitude: 46.53618
+          longitude: 6.77086
+        -
+          name: "Le Chenit"
+          latitude: 46.60688
+          longitude: 6.23062
+        -
+          name: "Le Mont-sur-Lausanne"
+          latitude: 46.55815
+          longitude: 6.63145
+        -
+          name: "Le Vaud"
+          latitude: 46.47753
+          longitude: 6.23603
+        -
+          name: "Leysin"
+          latitude: 46.34183
+          longitude: 7.01151
+        -
+          name: "Lucens"
+          latitude: 46.70854
+          longitude: 6.83931
+        -
+          name: "Lutry"
+          latitude: 46.50241
+          longitude: 6.68647
+        -
+          name: "Mauraz"
+          latitude: 46.60558
+          longitude: 6.42074
+        -
+          name: "Mollens"
+          latitude: 46.5776
+          longitude: 6.3632
+        -
+          name: "Montagny"
+          latitude: 46.79289
+          longitude: 6.61222
+        -
+          name: "Montreux"
+          latitude: 46.43301
+          longitude: 6.91143
+        -
+          name: "Morges"
+          latitude: 46.51127
+          longitude: 6.49854
+        -
+          name: "Morges District"
+          latitude: 46.53578
+          longitude: 6.48662
+        -
+          name: "Moudon"
+          latitude: 46.66758
+          longitude: 6.79781
+        -
+          name: "Nyon"
+          latitude: 46.38318
+          longitude: 6.23955
+        -
+          name: "Nyon District"
+          latitude: 46.42004
+          longitude: 6.22177
+        -
+          name: "Ollon"
+          latitude: 46.29524
+          longitude: 6.99314
+        -
+          name: "Orbe"
+          latitude: 46.72504
+          longitude: 6.53069
+        -
+          name: "Oron-la-Ville"
+          latitude: 46.57094
+          longitude: 6.82557
+        -
+          name: "Ouest Lausannois"
+          latitude: 46.54589
+          longitude: 6.56995
+        -
+          name: "Pailly"
+          latitude: 46.70123
+          longitude: 6.6754
+        -
+          name: "Palézieux"
+          latitude: 46.54191
+          longitude: 6.83989
+        -
+          name: "Pampigny"
+          latitude: 46.58093
+          longitude: 6.42941
+        -
+          name: "Paudex"
+          latitude: 46.50548
+          longitude: 6.66819
+        -
+          name: "Payerne"
+          latitude: 46.82192
+          longitude: 6.93817
+        -
+          name: "Penthalaz"
+          latitude: 46.61077
+          longitude: 6.52519
+        -
+          name: "Penthéréaz"
+          latitude: 46.68171
+          longitude: 6.6039
+        -
+          name: "Perroy"
+          latitude: 46.4669
+          longitude: 6.35349
+        -
+          name: "Pompaples"
+          latitude: 46.66699
+          longitude: 6.50966
+        -
+          name: "Prangins"
+          latitude: 46.39518
+          longitude: 6.2496
+        -
+          name: "Préverenges"
+          latitude: 46.51854
+          longitude: 6.52682
+        -
+          name: "Prilly"
+          latitude: 46.53698
+          longitude: 6.60456
+        -
+          name: "Puidoux"
+          latitude: 46.50093
+          longitude: 6.78249
+        -
+          name: "Pully"
+          latitude: 46.51027
+          longitude: 6.66183
+        -
+          name: "Renens"
+          latitude: 46.53989
+          longitude: 6.5881
+        -
+          name: "Riviera-Pays-d'Enhaut"
+          latitude: 46.46459
+          longitude: 6.88499
+        -
+          name: "Rolle"
+          latitude: 46.4582
+          longitude: 6.33499
+        -
+          name: "Romanel-sur-Lausanne"
+          latitude: 46.56403
+          longitude: 6.60538
+        -
+          name: "Saint-Cergue"
+          latitude: 46.4459
+          longitude: 6.15737
+        -
+          name: "Saint-Livres"
+          latitude: 46.50794
+          longitude: 6.38753
+        -
+          name: "Saint-Prex"
+          latitude: 46.47963
+          longitude: 6.45992
+        -
+          name: "Sainte-Croix"
+          latitude: 46.82203
+          longitude: 6.50283
+        -
+          name: "Saubraz"
+          latitude: 46.51606
+          longitude: 6.33018
+        -
+          name: "Savigny"
+          latitude: 46.53844
+          longitude: 6.73222
+        -
+          name: "Sottens"
+          latitude: 46.65521
+          longitude: 6.74197
+        -
+          name: "Trélex"
+          latitude: 46.41538
+          longitude: 6.20813
+        -
+          name: "Vallorbe"
+          latitude: 46.71256
+          longitude: 6.37894
+        -
+          name: "Vevey"
+          latitude: 46.46299
+          longitude: 6.84345
+        -
+          name: "Villars-sur-Ollon"
+          latitude: 46.29832
+          longitude: 7.05631
+        -
+          name: "Villeneuve"
+          latitude: 46.39869
+          longitude: 6.92654
+        -
+          name: "Vuarrens"
+          latitude: 46.68578
+          longitude: 6.64793
+        -
+          name: "Yverdon-les-Bains"
+          latitude: 46.77852
+          longitude: 6.64115
+        -
+          name: "Yvonand"
+          latitude: 46.80034
+          longitude: 6.74249
+    -
+      name: "Zug"
+      code: "ZG"
+      iso3166_2: "CH-ZG"
+      type: "canton"
+      latitude: 47.1661505
+      longitude: 8.5154749
+      cities:
+        -
+          name: "Baar"
+          latitude: 47.19625
+          longitude: 8.52954
+        -
+          name: "Cham"
+          latitude: 47.18213
+          longitude: 8.46358
+        -
+          name: "Hünenberg"
+          latitude: 47.17536
+          longitude: 8.42497
+        -
+          name: "Menzingen"
+          latitude: 47.17764
+          longitude: 8.59215
+        -
+          name: "Rotkreuz"
+          latitude: 47.14283
+          longitude: 8.4314
+        -
+          name: "Steinhausen"
+          latitude: 47.1951
+          longitude: 8.48581
+        -
+          name: "Unterägeri"
+          latitude: 47.13645
+          longitude: 8.5853
+        -
+          name: "Walchwil"
+          latitude: 47.10169
+          longitude: 8.51693
+        -
+          name: "Zug"
+          latitude: 47.17242
+          longitude: 8.51745
+    -
+      name: "Zürich"
+      code: "ZH"
+      iso3166_2: "CH-ZH"
+      type: "canton"
+      latitude: 47.4133024
+      longitude: 8.656394
+      cities:
+        -
+          name: "Adliswil"
+          latitude: 47.30997
+          longitude: 8.52462
+        -
+          name: "Adliswil / Adliswil (Stadtkern)"
+          latitude: 47.31128
+          longitude: 8.52675
+        -
+          name: "Adliswil / Hündli-Zopf"
+          latitude: 47.31637
+          longitude: 8.51888
+        -
+          name: "Adliswil / Oberleimbach"
+          latitude: 47.3202
+          longitude: 8.51508
+        -
+          name: "Adliswil / Sonnenberg"
+          latitude: 47.30958
+          longitude: 8.52055
+        -
+          name: "Adliswil / Sood"
+          latitude: 47.3187
+          longitude: 8.52425
+        -
+          name: "Adliswil / Tal"
+          latitude: 47.31142
+          longitude: 8.53446
+        -
+          name: "Aesch"
+          latitude: 47.3297
+          longitude: 8.6541
+        -
+          name: "Affoltern / Hasenbüel"
+          latitude: 47.27324
+          longitude: 8.45218
+        -
+          name: "Affoltern / Oberdorf"
+          latitude: 47.27852
+          longitude: 8.45651
+        -
+          name: "Affoltern / Sonnenberg"
+          latitude: 47.28055
+          longitude: 8.46008
+        -
+          name: "Affoltern / Unterdorf"
+          latitude: 47.28277
+          longitude: 8.45409
+        -
+          name: "Affoltern am Albis"
+          latitude: 47.27743
+          longitude: 8.45128
+        -
+          name: "Andelfingen"
+          latitude: 47.59447
+          longitude: 8.67826
+        -
+          name: "Au"
+          latitude: 47.24185
+          longitude: 8.64406
+        -
+          name: "Au / Mittel-Dorf"
+          latitude: 47.24303
+          longitude: 8.64591
+        -
+          name: "Au / Unter-Dorf"
+          latitude: 47.2473
+          longitude: 8.6327
+        -
+          name: "Bachenbülach"
+          latitude: 47.50317
+          longitude: 8.54556
+        -
+          name: "Bäretswil"
+          latitude: 47.33709
+          longitude: 8.85645
+        -
+          name: "Bassersdorf"
+          latitude: 47.44342
+          longitude: 8.62851
+        -
+          name: "Bauma"
+          latitude: 47.36745
+          longitude: 8.87905
+        -
+          name: "Benglen"
+          latitude: 47.36077
+          longitude: 8.63687
+        -
+          name: "Bezirk Affoltern"
+          latitude: 47.27311
+          longitude: 8.47444
+        -
+          name: "Bezirk Andelfingen"
+          latitude: 47.61328
+          longitude: 8.68124
+        -
+          name: "Bezirk Bülach"
+          latitude: 47.49706
+          longitude: 8.56764
+        -
+          name: "Bezirk Dielsdorf"
+          latitude: 47.47181
+          longitude: 8.45631
+        -
+          name: "Bezirk Dietikon"
+          latitude: 47.38804
+          longitude: 8.4426
+        -
+          name: "Bezirk Hinwil"
+          latitude: 47.29646
+          longitude: 8.83431
+        -
+          name: "Bezirk Horgen"
+          latitude: 47.25767
+          longitude: 8.59702
+        -
+          name: "Bezirk Meilen"
+          latitude: 47.2792
+          longitude: 8.66259
+        -
+          name: "Bezirk Pfäffikon"
+          latitude: 47.40905
+          longitude: 8.77208
+        -
+          name: "Bezirk Uster"
+          latitude: 47.34952
+          longitude: 8.71353
+        -
+          name: "Bezirk Winterthur"
+          latitude: 47.50781
+          longitude: 8.769
+        -
+          name: "Bezirk Zürich"
+          latitude: 47.3711
+          longitude: 8.54323
+        -
+          name: "Binz"
+          latitude: 47.35635
+          longitude: 8.62657
+        -
+          name: "Binzikon"
+          latitude: 47.27632
+          longitude: 8.75851
+        -
+          name: "Birchwil"
+          latitude: 47.45431
+          longitude: 8.63477
+        -
+          name: "Birmensdorf"
+          latitude: 47.35515
+          longitude: 8.44256
+        -
+          name: "Bonstetten"
+          latitude: 47.31505
+          longitude: 8.46836
+        -
+          name: "Brütten"
+          latitude: 47.47318
+          longitude: 8.67569
+        -
+          name: "Brüttisellen"
+          latitude: 47.42173
+          longitude: 8.63263
+        -
+          name: "Bubikon"
+          latitude: 47.26698
+          longitude: 8.8179
+        -
+          name: "Bülach"
+          latitude: 47.52197
+          longitude: 8.54049
+        -
+          name: "Bülach / Gstückt"
+          latitude: 47.52337
+          longitude: 8.54879
+        -
+          name: "Bülach / Seematt"
+          latitude: 47.51716
+          longitude: 8.54651
+        -
+          name: "Bülach / Soligänter"
+          latitude: 47.52632
+          longitude: 8.54106
+        -
+          name: "Dachsen"
+          latitude: 47.66515
+          longitude: 8.6179
+        -
+          name: "Dällikon / Dällikon (Dorf)"
+          latitude: 47.43983
+          longitude: 8.43813
+        -
+          name: "Dänikon"
+          latitude: 47.44674
+          longitude: 8.40648
+        -
+          name: "Dielsdorf"
+          latitude: 47.48146
+          longitude: 8.4585
+        -
+          name: "Dietikon"
+          latitude: 47.40165
+          longitude: 8.40015
+        -
+          name: "Dietikon / Almend"
+          latitude: 47.40477
+          longitude: 8.39168
+        -
+          name: "Dietikon / Guggenbühl"
+          latitude: 47.40009
+          longitude: 8.40818
+        -
+          name: "Dietikon / Hofacker"
+          latitude: 47.39718
+          longitude: 8.41609
+        -
+          name: "Dietikon / Kreuzacker"
+          latitude: 47.39919
+          longitude: 8.40146
+        -
+          name: "Dietikon / Oberdorf"
+          latitude: 47.40065
+          longitude: 8.39416
+        -
+          name: "Dietikon / Schönenwerd"
+          latitude: 47.39706
+          longitude: 8.42576
+        -
+          name: "Dietikon / Vorstadt"
+          latitude: 47.40819
+          longitude: 8.39719
+        -
+          name: "Dietlikon / Dietlikon (Dorf)"
+          latitude: 47.41827
+          longitude: 8.6188
+        -
+          name: "Dietlikon / Eichwiesen"
+          latitude: 47.4191
+          longitude: 8.62078
+        -
+          name: "Dorf"
+          latitude: 47.239
+          longitude: 8.73567
+        -
+          name: "Dübendorf"
+          latitude: 47.39724
+          longitude: 8.61872
+        -
+          name: "Dübendorf / Kunklerstrasse"
+          latitude: 47.40109
+          longitude: 8.62724
+        -
+          name: "Dübendorf / Sonnenberg"
+          latitude: 47.39469
+          longitude: 8.63162
+        -
+          name: "Dübendorf / Vogelquartier"
+          latitude: 47.39502
+          longitude: 8.61184
+        -
+          name: "Dübendorf / Wasserfurren"
+          latitude: 47.39352
+          longitude: 8.6085
+        -
+          name: "Dürnten"
+          latitude: 47.27856
+          longitude: 8.84156
+        -
+          name: "Ebmatingen"
+          latitude: 47.34987
+          longitude: 8.64013
+        -
+          name: "Effretikon"
+          latitude: 47.42575
+          longitude: 8.69094
+        -
+          name: "Effretikon / Rappenhalde-Bannhalde"
+          latitude: 47.42388
+          longitude: 8.69653
+        -
+          name: "Effretikon / Rikon"
+          latitude: 47.43099
+          longitude: 8.68624
+        -
+          name: "Effretikon / Watt"
+          latitude: 47.42797
+          longitude: 8.69822
+        -
+          name: "Egg"
+          latitude: 47.29976
+          longitude: 8.69032
+        -
+          name: "Elgg"
+          latitude: 47.49715
+          longitude: 8.86523
+        -
+          name: "Elgg / Städtchen und Umgebung"
+          latitude: 47.49265
+          longitude: 8.8668
+        -
+          name: "Elsau-Räterschen"
+          latitude: 47.50238
+          longitude: 8.79874
+        -
+          name: "Elsau-Räterschen / Räterschen"
+          latitude: 47.49927
+          longitude: 8.796
+        -
+          name: "Embrach"
+          latitude: 47.50561
+          longitude: 8.59406
+        -
+          name: "Embrach / Embrach (Dorfkern)"
+          latitude: 47.504
+          longitude: 8.59477
+        -
+          name: "Embrach / Kellersacker"
+          latitude: 47.51455
+          longitude: 8.59146
+        -
+          name: "Erlenbach"
+          latitude: 47.30298
+          longitude: 8.59743
+        -
+          name: "Erlenbach / links des Dorfbachs oberhalb Bahnlinie"
+          latitude: 47.2995
+          longitude: 8.60188
+        -
+          name: "Erlenbach / rechts des Dorfbachs oberhalb Bahnlinie"
+          latitude: 47.30658
+          longitude: 8.60271
+        -
+          name: "Esslingen"
+          latitude: 47.28325
+          longitude: 8.71038
+        -
+          name: "Fällanden"
+          latitude: 47.37169
+          longitude: 8.63869
+        -
+          name: "Fehraltorf"
+          latitude: 47.38775
+          longitude: 8.75149
+        -
+          name: "Feldmeilen"
+          latitude: 47.27873
+          longitude: 8.62165
+        -
+          name: "Feuerthalen"
+          latitude: 47.69054
+          longitude: 8.64357
+        -
+          name: "Flurlingen"
+          latitude: 47.6839
+          longitude: 8.62995
+        -
+          name: "Freienstein"
+          latitude: 47.53307
+          longitude: 8.58455
+        -
+          name: "Gattikon"
+          latitude: 47.28439
+          longitude: 8.5483
+        -
+          name: "Geroldswil"
+          latitude: 47.42213
+          longitude: 8.41085
+        -
+          name: "Glattbrugg"
+          latitude: 47.4313
+          longitude: 8.56272
+        -
+          name: "Glattbrugg / Rohr/Platten-Balsberg"
+          latitude: 47.43721
+          longitude: 8.56642
+        -
+          name: "Glattbrugg / Wydacker/Bettacker/Lättenwiesen"
+          latitude: 47.42908
+          longitude: 8.56657
+        -
+          name: "Glattfelden"
+          latitude: 47.55871
+          longitude: 8.50167
+        -
+          name: "Gockhausen"
+          latitude: 47.38098
+          longitude: 8.59978
+        -
+          name: "Gossau"
+          latitude: 47.3051
+          longitude: 8.75831
+        -
+          name: "Greifensee"
+          latitude: 47.36717
+          longitude: 8.68115
+        -
+          name: "Greifensee / Müllerwis / Seilerwis"
+          latitude: 47.37042
+          longitude: 8.68151
+        -
+          name: "Greifensee / Pfisterhölzli"
+          latitude: 47.3643
+          longitude: 8.68979
+        -
+          name: "Grossacker/Opfikon"
+          latitude: 47.42696
+          longitude: 8.57886
+        -
+          name: "Grüt"
+          latitude: 47.31151
+          longitude: 8.78339
+        -
+          name: "Gutenswil"
+          latitude: 47.38387
+          longitude: 8.71763
+        -
+          name: "Hadlikon"
+          latitude: 47.2875
+          longitude: 8.85719
+        -
+          name: "Hausen am Albis / Hausen (Dorf)"
+          latitude: 47.24496
+          longitude: 8.53299
+        -
+          name: "Hedingen"
+          latitude: 47.29794
+          longitude: 8.44833
+        -
+          name: "Hegnau"
+          latitude: 47.39227
+          longitude: 8.66988
+        -
+          name: "Hegnau / Dammboden-Grindel"
+          latitude: 47.38713
+          longitude: 8.66657
+        -
+          name: "Hegnau / Sunnebüel-Eich"
+          latitude: 47.39246
+          longitude: 8.6791
+        -
+          name: "Henggart"
+          latitude: 47.56272
+          longitude: 8.68215
+        -
+          name: "Herrliberg"
+          latitude: 47.29064
+          longitude: 8.61464
+        -
+          name: "Hettlingen"
+          latitude: 47.5461
+          longitude: 8.70532
+        -
+          name: "Hinteregg"
+          latitude: 47.30736
+          longitude: 8.68339
+        -
+          name: "Hinwil"
+          latitude: 47.29426
+          longitude: 8.84393
+        -
+          name: "Hittnau / Hittnau (Dorf)"
+          latitude: 47.36334
+          longitude: 8.82418
+        -
+          name: "Hochfelden"
+          latitude: 47.52262
+          longitude: 8.51564
+        -
+          name: "Hofstetten"
+          latitude: 47.47778
+          longitude: 8.50646
+        -
+          name: "Hombrechtikon"
+          latitude: 47.25298
+          longitude: 8.77212
+        -
+          name: "Horgen"
+          latitude: 47.25983
+          longitude: 8.59778
+        -
+          name: "Horgen / Allmend"
+          latitude: 47.24729
+          longitude: 8.6066
+        -
+          name: "Horgen / Horgen (Dorfkern)"
+          latitude: 47.25604
+          longitude: 8.60159
+        -
+          name: "Horgen / Oberdorf"
+          latitude: 47.25837
+          longitude: 8.59013
+        -
+          name: "Horgen / Scheller-Stockerstrasse"
+          latitude: 47.26584
+          longitude: 8.5876
+        -
+          name: "Höri"
+          latitude: 47.50799
+          longitude: 8.51203
+        -
+          name: "Illnau"
+          latitude: 47.4113
+          longitude: 8.72125
+        -
+          name: "Illnau / Unter-Illnau"
+          latitude: 47.40787
+          longitude: 8.72607
+        -
+          name: "Kilchberg"
+          latitude: 47.32438
+          longitude: 8.54548
+        -
+          name: "Kilchberg / Bächler-Stocken"
+          latitude: 47.32728
+          longitude: 8.53957
+        -
+          name: "Kilchberg / Kilchberg (Dorfkern)"
+          latitude: 47.32012
+          longitude: 8.54306
+        -
+          name: "Kindhausen / Kindhausen (Dorf)"
+          latitude: 47.40644
+          longitude: 8.68296
+        -
+          name: "Kleinandelfingen"
+          latitude: 47.60058
+          longitude: 8.68362
+        -
+          name: "Kloten"
+          latitude: 47.45152
+          longitude: 8.58491
+        -
+          name: "Kloten / Balsberg"
+          latitude: 47.44233
+          longitude: 8.57496
+        -
+          name: "Kloten / Freienberg (Chanzler-Chlini Chaseren)"
+          latitude: 47.46584
+          longitude: 8.58145
+        -
+          name: "Kloten / Geissberg"
+          latitude: 47.45424
+          longitude: 8.59066
+        -
+          name: "Kloten / Holberg"
+          latitude: 47.44642
+          longitude: 8.57661
+        -
+          name: "Kloten / Horainli"
+          latitude: 47.45399
+          longitude: 8.58306
+        -
+          name: "Kloten / Hostrass"
+          latitude: 47.45255
+          longitude: 8.59464
+        -
+          name: "Kloten / Kloten (Zentrum)"
+          latitude: 47.45134
+          longitude: 8.58683
+        -
+          name: "Kloten / Rütlen"
+          latitude: 47.44726
+          longitude: 8.58808
+        -
+          name: "Kloten / Spitz"
+          latitude: 47.44455
+          longitude: 8.58724
+        -
+          name: "Knonau"
+          latitude: 47.2235
+          longitude: 8.46197
+        -
+          name: "Kollbrunn"
+          latitude: 47.45793
+          longitude: 8.78295
+        -
+          name: "Kollbrunn / Kollbrunn (Dorfkern)"
+          latitude: 47.45748
+          longitude: 8.77413
+        -
+          name: "Küsnacht"
+          latitude: 47.31805
+          longitude: 8.58401
+        -
+          name: "Küsnacht / Dorf"
+          latitude: 47.31783
+          longitude: 8.58303
+        -
+          name: "Küsnacht / Goldbach"
+          latitude: 47.32729
+          longitude: 8.58077
+        -
+          name: "Küsnacht / Heslibach"
+          latitude: 47.31307
+          longitude: 8.58849
+        -
+          name: "Küsnacht / Itschnach"
+          latitude: 47.32714
+          longitude: 8.60068
+        -
+          name: "Küsnacht / Schiedhalden"
+          latitude: 47.32112
+          longitude: 8.58881
+        -
+          name: "Langnau / Langnau (Dorf)"
+          latitude: 47.28643
+          longitude: 8.53627
+        -
+          name: "Langnau / Vitaquartier"
+          latitude: 47.29377
+          longitude: 8.53758
+        -
+          name: "Langnau am Albis"
+          latitude: 47.28885
+          longitude: 8.5411
+        -
+          name: "Männedorf"
+          latitude: 47.25686
+          longitude: 8.69893
+        -
+          name: "Männedorf / Ausserfeld"
+          latitude: 47.24636
+          longitude: 8.70608
+        -
+          name: "Männedorf / Dorfkern"
+          latitude: 47.25612
+          longitude: 8.69161
+        -
+          name: "Marthalen"
+          latitude: 47.62913
+          longitude: 8.65326
+        -
+          name: "Mattenbach (Kreis 7)"
+          latitude: 47.48705
+          longitude: 8.74681
+        -
+          name: "Mattenbach (Kreis 7) / Deutweg"
+          latitude: 47.49419
+          longitude: 8.73948
+        -
+          name: "Mattenbach (Kreis 7) / Endliker"
+          latitude: 47.48821
+          longitude: 8.74938
+        -
+          name: "Mattenbach (Kreis 7) / Gutschick"
+          latitude: 47.49104
+          longitude: 8.75258
+        -
+          name: "Meilen"
+          latitude: 47.27232
+          longitude: 8.64617
+        -
+          name: "Mettmenstetten"
+          latitude: 47.24529
+          longitude: 8.46347
+        -
+          name: "Mönchaltorf"
+          latitude: 47.30958
+          longitude: 8.72029
+        -
+          name: "Mönchaltorf / Dorf"
+          latitude: 47.30401
+          longitude: 8.72211
+        -
+          name: "Mühlehalde"
+          latitude: 47.28306
+          longitude: 8.53386
+        -
+          name: "Nänikon"
+          latitude: 47.36975
+          longitude: 8.68894
+        -
+          name: "Nänikon / Nänikon (Dorfkern)"
+          latitude: 47.37099
+          longitude: 8.69254
+        -
+          name: "Neerach"
+          latitude: 47.51096
+          longitude: 8.47099
+        -
+          name: "Neftenbach / Dorf Neftenbach"
+          latitude: 47.52764
+          longitude: 8.6649
+        -
+          name: "Niederglatt"
+          latitude: 47.49066
+          longitude: 8.49987
+        -
+          name: "Niederglatt / Niederglatt (Dorfkern)"
+          latitude: 47.49065
+          longitude: 8.50048
+        -
+          name: "Niederhasli"
+          latitude: 47.48012
+          longitude: 8.48576
+        -
+          name: "Nürensdorf"
+          latitude: 47.44814
+          longitude: 8.64908
+        -
+          name: "Oberengstringen"
+          latitude: 47.40841
+          longitude: 8.46515
+        -
+          name: "Oberengstringen / Rauchacher"
+          latitude: 47.40919
+          longitude: 8.45627
+        -
+          name: "Oberengstringen / Sonnenberg"
+          latitude: 47.41211
+          longitude: 8.46055
+        -
+          name: "Oberengstringen / Zentrum"
+          latitude: 47.40711
+          longitude: 8.46276
+        -
+          name: "Oberglatt"
+          latitude: 47.47576
+          longitude: 8.51896
+        -
+          name: "Oberglatt / Bahnhofquartier"
+          latitude: 47.47143
+          longitude: 8.51289
+        -
+          name: "Oberglatt / Oberglatt (Dorfkern)"
+          latitude: 47.47596
+          longitude: 8.51929
+        -
+          name: "Obermeilen"
+          latitude: 47.26574
+          longitude: 8.65567
+        -
+          name: "Oberrieden"
+          latitude: 47.27444
+          longitude: 8.57838
+        -
+          name: "Oberrieden / Berg"
+          latitude: 47.27628
+          longitude: 8.57257
+        -
+          name: "Oberrieden / Mitte"
+          latitude: 47.27242
+          longitude: 8.58021
+        -
+          name: "Oberwinterthur (Kreis 2)"
+          latitude: 47.51692
+          longitude: 8.76863
+        -
+          name: "Oberwinterthur (Kreis 2) / Guggenbühl"
+          latitude: 47.51339
+          longitude: 8.75998
+        -
+          name: "Oberwinterthur (Kreis 2) / Hegi"
+          latitude: 47.50716
+          longitude: 8.77057
+        -
+          name: "Oberwinterthur (Kreis 2) / Talacker"
+          latitude: 47.50596
+          longitude: 8.7515
+        -
+          name: "Oberwinterthur (Kreis 2) / Zinzikon"
+          latitude: 47.5195
+          longitude: 8.7564
+        -
+          name: "Obfelden"
+          latitude: 47.26413
+          longitude: 8.4215
+        -
+          name: "Obfelden / Oberlunnern"
+          latitude: 47.26197
+          longitude: 8.41588
+        -
+          name: "Obfelden / Toussen"
+          latitude: 47.26574
+          longitude: 8.43013
+        -
+          name: "Oetwil"
+          latitude: 47.27049
+          longitude: 8.72023
+        -
+          name: "Opfikon"
+          latitude: 47.43169
+          longitude: 8.57588
+        -
+          name: "Otelfingen"
+          latitude: 47.46053
+          longitude: 8.39141
+        -
+          name: "Ottenbach"
+          latitude: 47.28228
+          longitude: 8.40432
+        -
+          name: "Pfaffhausen"
+          latitude: 47.36476
+          longitude: 8.62375
+        -
+          name: "Pfäffikon"
+          latitude: 47.36453
+          longitude: 8.79202
+        -
+          name: "Pfäffikon / Irgenhausen"
+          latitude: 47.3624
+          longitude: 8.79265
+        -
+          name: "Pfäffikon / Pfäffikon (Dorfkern)"
+          latitude: 47.36943
+          longitude: 8.78309
+        -
+          name: "Pfungen"
+          latitude: 47.51394
+          longitude: 8.6423
+        -
+          name: "Rafz"
+          latitude: 47.60438
+          longitude: 8.54305
+        -
+          name: "Regensdorf"
+          latitude: 47.4341
+          longitude: 8.46874
+        -
+          name: "Regensdorf / Feldblumen-Riedthofstrasse"
+          latitude: 47.43618
+          longitude: 8.46659
+        -
+          name: "Regensdorf / Hofacher-Geeren"
+          latitude: 47.43525
+          longitude: 8.4624
+        -
+          name: "Regensdorf / Obstgarten"
+          latitude: 47.42772
+          longitude: 8.46566
+        -
+          name: "Richterswil"
+          latitude: 47.20622
+          longitude: 8.69686
+        -
+          name: "Richterswil / Burghalde"
+          latitude: 47.20973
+          longitude: 8.69133
+        -
+          name: "Richterswil / Dorfkern"
+          latitude: 47.20715
+          longitude: 8.70607
+        -
+          name: "Richterswil / Richterswil (Dorfkern)"
+          latitude: 47.20323
+          longitude: 8.70516
+        -
+          name: "Rorbas"
+          latitude: 47.53092
+          longitude: 8.57555
+        -
+          name: "Rümlang"
+          latitude: 47.45041
+          longitude: 8.52993
+        -
+          name: "Rümlang / Rümlang (Dorfkern)"
+          latitude: 47.4494
+          longitude: 8.53255
+        -
+          name: "Rüschlikon"
+          latitude: 47.30688
+          longitude: 8.55135
+        -
+          name: "Russikon"
+          latitude: 47.39669
+          longitude: 8.77515
+        -
+          name: "Rüti"
+          latitude: 47.25603
+          longitude: 8.85552
+        -
+          name: "Rüti / Dorfzentrum Südl. Teil"
+          latitude: 47.25368
+          longitude: 8.85654
+        -
+          name: "Rüti / Oberdorf"
+          latitude: 47.25894
+          longitude: 8.86512
+        -
+          name: "Rüti / Westlicher Dorfteil"
+          latitude: 47.25548
+          longitude: 8.8449
+        -
+          name: "Samstagern"
+          latitude: 47.19167
+          longitude: 8.68196
+        -
+          name: "Schachen"
+          latitude: 47.32419
+          longitude: 8.47251
+        -
+          name: "Schlieren"
+          latitude: 47.39668
+          longitude: 8.44763
+        -
+          name: "Schlieren / Boden"
+          latitude: 47.39721
+          longitude: 8.45734
+        -
+          name: "Schlieren / Engstingerquartier"
+          latitude: 47.40338
+          longitude: 8.44352
+        -
+          name: "Schlieren / Freiestrasse"
+          latitude: 47.39598
+          longitude: 8.44202
+        -
+          name: "Schlieren / Kamp"
+          latitude: 47.39358
+          longitude: 8.44453
+        -
+          name: "Schlieren / Spital"
+          latitude: 47.39489
+          longitude: 8.43027
+        -
+          name: "Schlieren / Zentrum"
+          latitude: 47.39779
+          longitude: 8.4477
+        -
+          name: "Schwerzenbach"
+          latitude: 47.38213
+          longitude: 8.65727
+        -
+          name: "Schwerzenbach / Blatten"
+          latitude: 47.38308
+          longitude: 8.64954
+        -
+          name: "Schwerzenbach / Chimli"
+          latitude: 47.38592
+          longitude: 8.65888
+        -
+          name: "Seen (Kreis 3)"
+          latitude: 47.47646
+          longitude: 8.76996
+        -
+          name: "Seen (Kreis 3) / Büelwiesen"
+          latitude: 47.48446
+          longitude: 8.76517
+        -
+          name: "Seen (Kreis 3) / Ganzenbühl"
+          latitude: 47.481
+          longitude: 8.76249
+        -
+          name: "Seen (Kreis 3) / Oberseen"
+          latitude: 47.48205
+          longitude: 8.77289
+        -
+          name: "Seen (Kreis 3) / Waldegg"
+          latitude: 47.48393
+          longitude: 8.75586
+        -
+          name: "Seen (Kreis 3) / Waser"
+          latitude: 47.48913
+          longitude: 8.76034
+        -
+          name: "Seglingen"
+          latitude: 47.57244
+          longitude: 8.52093
+        -
+          name: "Sellenbüren"
+          latitude: 47.34361
+          longitude: 8.48301
+        -
+          name: "Seuzach / Seuzach (Dorf)"
+          latitude: 47.53545
+          longitude: 8.73728
+        -
+          name: "Seuzach Dorf"
+          latitude: 47.5356
+          longitude: 8.73209
+        -
+          name: "Seuzach Dorf / Breite-Weid"
+          latitude: 47.53345
+          longitude: 8.73415
+        -
+          name: "Sonnhalde"
+          latitude: 47.45329
+          longitude: 8.46091
+        -
+          name: "Stadt Winterthur (Kreis 1)"
+          latitude: 47.49494
+          longitude: 8.71954
+        -
+          name: "Stadt Winterthur (Kreis 1) / Altstadt"
+          latitude: 47.49951
+          longitude: 8.72872
+        -
+          name: "Stadt Winterthur (Kreis 1) / Brühlberg"
+          latitude: 47.49764
+          longitude: 8.71272
+        -
+          name: "Stadt Winterthur (Kreis 1) / Heiligberg"
+          latitude: 47.49409
+          longitude: 8.72334
+        -
+          name: "Stadt Winterthur (Kreis 1) / Lind"
+          latitude: 47.50571
+          longitude: 8.73372
+        -
+          name: "Stadt Winterthur (Kreis 1) / Neuwiesen"
+          latitude: 47.50207
+          longitude: 8.71625
+        -
+          name: "Stadt Winterthur (Kreis 1) / Tössfeld"
+          latitude: 47.4934
+          longitude: 8.71512
+        -
+          name: "Stäfa"
+          latitude: 47.24254
+          longitude: 8.72342
+        -
+          name: "Steinmaur"
+          latitude: 47.4971
+          longitude: 8.45216
+        -
+          name: "Sulz"
+          latitude: 47.53954
+          longitude: 8.78887
+        -
+          name: "Tagelswangen"
+          latitude: 47.4307
+          longitude: 8.67284
+        -
+          name: "Tann"
+          latitude: 47.26898
+          longitude: 8.85024
+        -
+          name: "Tann / Tann (Dorfkern)"
+          latitude: 47.26494
+          longitude: 8.85048
+        -
+          name: "Thalwil"
+          latitude: 47.29175
+          longitude: 8.56351
+        -
+          name: "Thalwil / Berg"
+          latitude: 47.29178
+          longitude: 8.55602
+        -
+          name: "Thalwil / Dorfkern"
+          latitude: 47.29047
+          longitude: 8.56633
+        -
+          name: "Thalwil / Nord"
+          latitude: 47.29748
+          longitude: 8.55634
+        -
+          name: "Thalwil / See"
+          latitude: 47.29409
+          longitude: 8.56929
+        -
+          name: "Thalwil / Süd"
+          latitude: 47.28495
+          longitude: 8.56954
+        -
+          name: "Töss (Kreis 4)"
+          latitude: 47.4789
+          longitude: 8.70215
+        -
+          name: "Töss (Kreis 4) / Eichliacker"
+          latitude: 47.48727
+          longitude: 8.7074
+        -
+          name: "Töss (Kreis 4) / Schlosstal"
+          latitude: 47.49279
+          longitude: 8.70223
+        -
+          name: "Töss (Kreis 4) / Vorder-Dättnau"
+          latitude: 47.48135
+          longitude: 8.69855
+        -
+          name: "Turbenthal"
+          latitude: 47.43633
+          longitude: 8.84629
+        -
+          name: "Uerikon"
+          latitude: 47.23672
+          longitude: 8.7573
+        -
+          name: "Uetikon"
+          latitude: 47.26441
+          longitude: 8.67925
+        -
+          name: "Uetikon / Grossdorf"
+          latitude: 47.26654
+          longitude: 8.67765
+        -
+          name: "Uhwiesen"
+          latitude: 47.67074
+          longitude: 8.63542
+        -
+          name: "Uitikon"
+          latitude: 47.36911
+          longitude: 8.45699
+        -
+          name: "Unterengstringen"
+          latitude: 47.41396
+          longitude: 8.44761
+        -
+          name: "Urdorf"
+          latitude: 47.38507
+          longitude: 8.42581
+        -
+          name: "Urdorf / Bodenfeld"
+          latitude: 47.3892
+          longitude: 8.42265
+        -
+          name: "Urdorf / Moos"
+          latitude: 47.38977
+          longitude: 8.42886
+        -
+          name: "Urdorf / Oberurdorf"
+          latitude: 47.38072
+          longitude: 8.42343
+        -
+          name: "Uster"
+          latitude: 47.34713
+          longitude: 8.72091
+        -
+          name: "Uster / Gschwader"
+          latitude: 47.36016
+          longitude: 8.7139
+        -
+          name: "Uster / Kirch-Uster"
+          latitude: 47.34579
+          longitude: 8.71839
+        -
+          name: "Uster / Nieder-Uster"
+          latitude: 47.34743
+          longitude: 8.70088
+        -
+          name: "Uster / Nossikon"
+          latitude: 47.34088
+          longitude: 8.72555
+        -
+          name: "Uster / Ober-Uster"
+          latitude: 47.34874
+          longitude: 8.73319
+        -
+          name: "Veltheim (Kreis 5)"
+          latitude: 47.51419
+          longitude: 8.717
+        -
+          name: "Veltheim (Kreis 5) / Blumenau"
+          latitude: 47.50618
+          longitude: 8.71563
+        -
+          name: "Veltheim (Kreis 5) / Rosenberg"
+          latitude: 47.51386
+          longitude: 8.71583
+        -
+          name: "Volketswil / Volketswil (Dorf)"
+          latitude: 47.39016
+          longitude: 8.69085
+        -
+          name: "Wädenswil"
+          latitude: 47.22683
+          longitude: 8.6687
+        -
+          name: "Wädenswil / Boller-Giessen"
+          latitude: 47.22115
+          longitude: 8.68385
+        -
+          name: "Wädenswil / Büelen"
+          latitude: 47.23395
+          longitude: 8.66346
+        -
+          name: "Wädenswil / Dorf (Wädenswil)"
+          latitude: 47.22923
+          longitude: 8.6722
+        -
+          name: "Wädenswil / Eichweid"
+          latitude: 47.21847
+          longitude: 8.6744
+        -
+          name: "Wädenswil / Hangenmoos"
+          latitude: 47.23367
+          longitude: 8.65251
+        -
+          name: "Wädenswil / Leihof-Mühlebach"
+          latitude: 47.22364
+          longitude: 8.67149
+        -
+          name: "Wädenswil / Untermosen-Fuhr"
+          latitude: 47.22772
+          longitude: 8.66303
+        -
+          name: "Wald"
+          latitude: 47.27595
+          longitude: 8.91405
+        -
+          name: "Wallisellen"
+          latitude: 47.41499
+          longitude: 8.59672
+        -
+          name: "Wallisellen / Rieden"
+          latitude: 47.41738
+          longitude: 8.60028
+        -
+          name: "Wallisellen / Wallisellen-Ost"
+          latitude: 47.41446
+          longitude: 8.59727
+        -
+          name: "Wallisellen / Wallisellen-West"
+          latitude: 47.41906
+          longitude: 8.58586
+        -
+          name: "Wangen"
+          latitude: 47.41182
+          longitude: 8.64516
+        -
+          name: "Weiningen"
+          latitude: 47.42022
+          longitude: 8.43644
+        -
+          name: "Weisslingen"
+          latitude: 47.43063
+          longitude: 8.76787
+        -
+          name: "Wettswil / Ausser-Dorf"
+          latitude: 47.33197
+          longitude: 8.47732
+        -
+          name: "Wettswil / Wettswil (Dorf)"
+          latitude: 47.34152
+          longitude: 8.47149
+        -
+          name: "Wetzikon"
+          latitude: 47.3264
+          longitude: 8.79779
+        -
+          name: "Wetzikon / Kempten"
+          latitude: 47.33319
+          longitude: 8.80982
+        -
+          name: "Wetzikon / Ober-Wetzikon"
+          latitude: 47.32514
+          longitude: 8.80005
+        -
+          name: "Wetzikon / Robenhausen"
+          latitude: 47.33089
+          longitude: 8.78762
+        -
+          name: "Wetzikon / Unter-Wetzikon"
+          latitude: 47.31637
+          longitude: 8.79369
+        -
+          name: "Wiesendangen / Wiesendangen (Dorf)"
+          latitude: 47.5217
+          longitude: 8.78967
+        -
+          name: "Wila"
+          latitude: 47.41928
+          longitude: 8.84524
+        -
+          name: "Winterthur"
+          latitude: 47.50564
+          longitude: 8.72413
+        -
+          name: "Wolfhausen"
+          latitude: 47.25619
+          longitude: 8.7991
+        -
+          name: "Wülflingen (Kreis 6)"
+          latitude: 47.51036
+          longitude: 8.68333
+        -
+          name: "Wülflingen (Kreis 6) / Härti"
+          latitude: 47.51262
+          longitude: 8.684
+        -
+          name: "Wülflingen (Kreis 6) / Lindenplatz"
+          latitude: 47.51098
+          longitude: 8.6929
+        -
+          name: "Wülflingen (Kreis 6) / Niederfeld"
+          latitude: 47.50904
+          longitude: 8.67968
+        -
+          name: "Wülflingen (Kreis 6) / Oberfeld"
+          latitude: 47.49873
+          longitude: 8.69897
+        -
+          name: "Zollikerberg"
+          latitude: 47.3451
+          longitude: 8.60088
+        -
+          name: "Zollikon"
+          latitude: 47.34019
+          longitude: 8.57407
+        -
+          name: "Zumikon"
+          latitude: 47.33158
+          longitude: 8.62271
+        -
+          name: "Zürich"
+          latitude: 47.36667
+          longitude: 8.55
+        -
+          name: "Zürich (Kreis 1)"
+          latitude: 47.37055
+          longitude: 8.54177
+        -
+          name: "Zürich (Kreis 1) / City"
+          latitude: 47.37269
+          longitude: 8.53576
+        -
+          name: "Zürich (Kreis 1) / Lindenhof"
+          latitude: 47.37188
+          longitude: 8.54036
+        -
+          name: "Zürich (Kreis 1) / Rathaus"
+          latitude: 47.37161
+          longitude: 8.54501
+        -
+          name: "Zürich (Kreis 10)"
+          latitude: 47.40773
+          longitude: 8.5005
+        -
+          name: "Zürich (Kreis 10) / Höngg"
+          latitude: 47.40313
+          longitude: 8.4971
+        -
+          name: "Zürich (Kreis 10) / Rütihof"
+          latitude: 47.41444
+          longitude: 8.47928
+        -
+          name: "Zürich (Kreis 10) / Wipkingen"
+          latitude: 47.39503
+          longitude: 8.52529
+        -
+          name: "Zürich (Kreis 11)"
+          latitude: 47.42326
+          longitude: 8.52166
+        -
+          name: "Zürich (Kreis 11) / Affoltern"
+          latitude: 47.41814
+          longitude: 8.5122
+        -
+          name: "Zürich (Kreis 11) / Oerlikon"
+          latitude: 47.40823
+          longitude: 8.54258
+        -
+          name: "Zürich (Kreis 11) / Schwandenholz"
+          latitude: 47.42476
+          longitude: 8.52125
+        -
+          name: "Zürich (Kreis 11) / Seebach"
+          latitude: 47.42181
+          longitude: 8.54779
+        -
+          name: "Zürich (Kreis 12)"
+          latitude: 47.40372
+          longitude: 8.57608
+        -
+          name: "Zürich (Kreis 12) / Auzelg"
+          latitude: 47.41511
+          longitude: 8.57014
+        -
+          name: "Zürich (Kreis 12) / Hirzenbach"
+          latitude: 47.40187
+          longitude: 8.58633
+        -
+          name: "Zürich (Kreis 12) / Saatlen"
+          latitude: 47.41127
+          longitude: 8.5648
+        -
+          name: "Zürich (Kreis 12) / Schwamendingen-Mitte"
+          latitude: 47.4063
+          longitude: 8.57242
+        -
+          name: "Zürich (Kreis 2)"
+          latitude: 47.33756
+          longitude: 8.5211
+        -
+          name: "Zürich (Kreis 2) / Enge"
+          latitude: 47.3605
+          longitude: 8.53127
+        -
+          name: "Zürich (Kreis 2) / Mittel-Leimbach"
+          latitude: 47.32538
+          longitude: 8.51391
+        -
+          name: "Zürich (Kreis 2) / Unter-Leimbach"
+          latitude: 47.33362
+          longitude: 8.51433
+        -
+          name: "Zürich (Kreis 2) / Wollishofen"
+          latitude: 47.3401
+          longitude: 8.53134
+        -
+          name: "Zürich (Kreis 3)"
+          latitude: 47.35785
+          longitude: 8.50296
+        -
+          name: "Zürich (Kreis 3) / Alt-Wiedikon"
+          latitude: 47.36201
+          longitude: 8.51497
+        -
+          name: "Zürich (Kreis 3) / Friesenberg"
+          latitude: 47.36372
+          longitude: 8.50417
+        -
+          name: "Zürich (Kreis 3) / Sihlfeld"
+          latitude: 47.37382
+          longitude: 8.51164
+        -
+          name: "Zürich (Kreis 4) / Aussersihl"
+          latitude: 47.37752
+          longitude: 8.52127
+        -
+          name: "Zürich (Kreis 4) / Hard"
+          latitude: 47.38311
+          longitude: 8.50942
+        -
+          name: "Zürich (Kreis 4) / Langstrasse"
+          latitude: 47.37767
+          longitude: 8.52854
+        -
+          name: "Zürich (Kreis 4) / Werd"
+          latitude: 47.37178
+          longitude: 8.52584
+        -
+          name: "Zürich (Kreis 5)"
+          latitude: 47.38767
+          longitude: 8.52152
+        -
+          name: "Zürich (Kreis 5) / Escher-Wyss"
+          latitude: 47.39052
+          longitude: 8.51292
+        -
+          name: "Zürich (Kreis 5) / Gewerbeschule"
+          latitude: 47.38481
+          longitude: 8.53011
+        -
+          name: "Zürich (Kreis 6)"
+          latitude: 47.39223
+          longitude: 8.54381
+        -
+          name: "Zürich (Kreis 6) / Oberstrass"
+          latitude: 47.38917
+          longitude: 8.5504
+        -
+          name: "Zürich (Kreis 6) / Unterstrass"
+          latitude: 47.3953
+          longitude: 8.53721
+        -
+          name: "Zürich (Kreis 7)"
+          latitude: 47.37328
+          longitude: 8.58038
+        -
+          name: "Zürich (Kreis 7) / Fluntern"
+          latitude: 47.38013
+          longitude: 8.56133
+        -
+          name: "Zürich (Kreis 7) / Hirslanden"
+          latitude: 47.3624
+          longitude: 8.56755
+        -
+          name: "Zürich (Kreis 7) / Hottingen"
+          latitude: 47.37011
+          longitude: 8.56306
+        -
+          name: "Zürich (Kreis 7) / Witikon"
+          latitude: 47.35751
+          longitude: 8.59105
+        -
+          name: "Zürich (Kreis 8)"
+          latitude: 47.3548
+          longitude: 8.56097
+        -
+          name: "Zürich (Kreis 8) / Mühlebach"
+          latitude: 47.35727
+          longitude: 8.55744
+        -
+          name: "Zürich (Kreis 8) / Seefeld"
+          latitude: 47.35462
+          longitude: 8.55537
+        -
+          name: "Zürich (Kreis 8) / Weinegg"
+          latitude: 47.3525
+          longitude: 8.57011
+        -
+          name: "Zürich (Kreis 9)"
+          latitude: 47.38245
+          longitude: 8.47993
+        -
+          name: "Zürich (Kreis 9) / Albisrieden"
+          latitude: 47.37398
+          longitude: 8.49007
+        -
+          name: "Zürich (Kreis 9) / Altstetten"
+          latitude: 47.38946
+          longitude: 8.48533

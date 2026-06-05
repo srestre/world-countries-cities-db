@@ -1,0 +1,115 @@
+-
+  name: "Andorra"
+  name_es: "Andorra"
+  native: "Andorra"
+  iso2: "AD"
+  iso3: "AND"
+  numeric_code: "020"
+  phonecode: "376"
+  capital: "Andorra la Vella"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".ad"
+  region: "Europe"
+  subregion: "Southern Europe"
+  latitude: 42.5
+  longitude: 1.5
+  emoji: "🇦🇩"
+  states:
+    -
+      name: "Andorra la Vella"
+      code: "07"
+      iso3166_2: "AD-07"
+      type: "parish"
+      latitude: 42.5063174
+      longitude: 1.5218355
+      cities:
+        -
+          name: "Andorra la Vella"
+          latitude: 42.50779
+          longitude: 1.52109
+    -
+      name: "Canillo"
+      code: "02"
+      iso3166_2: "AD-02"
+      type: "parish"
+      latitude: 42.5868092
+      longitude: 1.6574431
+      cities:
+        -
+          name: "Canillo"
+          latitude: 42.5676
+          longitude: 1.59756
+        -
+          name: "El Tarter"
+          latitude: 42.57952
+          longitude: 1.65362
+    -
+      name: "Encamp"
+      code: "03"
+      iso3166_2: "AD-03"
+      type: "parish"
+      latitude: 42.5359764
+      longitude: 1.5836773
+      cities:
+        -
+          name: "Encamp"
+          latitude: 42.53474
+          longitude: 1.58014
+        -
+          name: "Pas de la Casa"
+          latitude: 42.54277
+          longitude: 1.73361
+    -
+      name: "Escaldes-Engordany"
+      code: "08"
+      iso3166_2: "AD-08"
+      type: "parish"
+      latitude: 42.486196
+      longitude: 1.6037711
+      cities:
+        -
+          name: "les Escaldes"
+          latitude: 42.50729
+          longitude: 1.53414
+    -
+      name: "La Massana"
+      code: "04"
+      iso3166_2: "AD-04"
+      type: "parish"
+      latitude: 42.545625
+      longitude: 1.5147392
+      cities:
+        -
+          name: "Arinsal"
+          latitude: 42.57205
+          longitude: 1.48453
+        -
+          name: "la Massana"
+          latitude: 42.54499
+          longitude: 1.51483
+    -
+      name: "Ordino"
+      code: "05"
+      iso3166_2: "AD-05"
+      type: "parish"
+      latitude: 42.5994433
+      longitude: 1.5402327
+      cities:
+        -
+          name: "Ordino"
+          latitude: 42.55623
+          longitude: 1.53319
+    -
+      name: "Sant Julià de Lòria"
+      code: "06"
+      iso3166_2: "AD-06"
+      type: "parish"
+      latitude: 42.4668541
+      longitude: 1.4923277
+      cities:
+        -
+          name: "Sant Julià de Lòria"
+          latitude: 42.46372
+          longitude: 1.49129

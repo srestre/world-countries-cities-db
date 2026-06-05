@@ -1,0 +1,325 @@
+-
+  name: "Cape Verde"
+  name_es: "Cabo Verde"
+  native: "Cabo Verde"
+  iso2: "CV"
+  iso3: "CPV"
+  numeric_code: "132"
+  phonecode: "238"
+  capital: "Praia"
+  currency: "CVE"
+  currency_name: "Cape Verdean escudo"
+  currency_symbol: "$"
+  tld: ".cv"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 16
+  longitude: -24
+  emoji: "🇨🇻"
+  states:
+    -
+      name: "Barlavento Islands"
+      code: "B"
+      iso3166_2: "CV-B"
+      type: "geographical region"
+      latitude: 17.0555285
+      longitude: -25.1723049
+      cities:
+        []
+    -
+      name: "Boa Vista"
+      code: "BV"
+      iso3166_2: "CV-BV"
+      type: "municipality"
+      latitude: 16.099509
+      longitude: -22.8009411
+      cities:
+        -
+          name: "Sal Rei"
+          latitude: 16.17611
+          longitude: -22.91722
+    -
+      name: "Brava"
+      code: "BR"
+      iso3166_2: "CV-BR"
+      type: "municipality"
+      latitude: 14.8519426
+      longitude: -24.7086939
+      cities:
+        -
+          name: "Nova Sintra"
+          latitude: 14.87139
+          longitude: -24.69556
+    -
+      name: "Maio"
+      code: "MA"
+      iso3166_2: "CV-MA"
+      type: "municipality"
+      latitude: 15.2272182
+      longitude: -23.1563014
+      cities:
+        -
+          name: "Vila do Maio"
+          latitude: 15.13823
+          longitude: -23.21158
+    -
+      name: "Mosteiros"
+      code: "MO"
+      iso3166_2: "CV-MO"
+      type: "municipality"
+      latitude: 15.0347257
+      longitude: -24.3277421
+      cities:
+        -
+          name: "Igreja"
+          latitude: 15.03389
+          longitude: -24.325
+    -
+      name: "Paul"
+      code: "PA"
+      iso3166_2: "CV-PA"
+      type: "municipality"
+      latitude: 17.1150295
+      longitude: -25.0201589
+      cities:
+        -
+          name: "Pombas"
+          latitude: 17.15026
+          longitude: -25.02007
+    -
+      name: "Porto Novo"
+      code: "PN"
+      iso3166_2: "CV-PN"
+      type: "municipality"
+      latitude: 17.0193423
+      longitude: -25.0641922
+      cities:
+        -
+          name: "Porto Novo"
+          latitude: 17.01969
+          longitude: -25.06471
+    -
+      name: "Praia"
+      code: "PR"
+      iso3166_2: "CV-PR"
+      type: "municipality"
+      latitude: 14.9481201
+      longitude: -23.5158945
+      cities:
+        -
+          name: "Praia"
+          latitude: 14.93152
+          longitude: -23.51254
+    -
+      name: "Ribeira Brava"
+      code: "RB"
+      iso3166_2: "CV-RB"
+      type: "municipality"
+      latitude: 16.615728
+      longitude: -24.2982543
+      cities:
+        -
+          name: "Ribeira Brava"
+          latitude: 16.61583
+          longitude: -24.29833
+    -
+      name: "Ribeira Grande"
+      code: "RG"
+      iso3166_2: "CV-RG"
+      type: "municipality"
+      latitude: 17.1833547
+      longitude: -25.0643795
+      cities:
+        -
+          name: "Ponta do Sol"
+          latitude: 17.20171
+          longitude: -25.09217
+        -
+          name: "Ribeira Grande"
+          latitude: 17.1825
+          longitude: -25.065
+    -
+      name: "Ribeira Grande de Santiago"
+      code: "RS"
+      iso3166_2: "CV-RS"
+      type: "municipality"
+      latitude: 14.9830298
+      longitude: -23.6561725
+      cities:
+        -
+          name: "Cidade Velha"
+          latitude: 14.91531
+          longitude: -23.60527
+    -
+      name: "Sal"
+      code: "SL"
+      iso3166_2: "CV-SL"
+      type: "municipality"
+      latitude: 16.7204556
+      longitude: -22.9386761
+      cities:
+        -
+          name: "Espargos"
+          latitude: 16.75524
+          longitude: -22.9446
+        -
+          name: "Santa Maria"
+          latitude: 16.59796
+          longitude: -22.90509
+    -
+      name: "Santa Catarina"
+      code: "CA"
+      iso3166_2: "CV-CA"
+      type: "municipality"
+      latitude: 15.0890754
+      longitude: -23.7134304
+      cities:
+        -
+          name: "Assomada"
+          latitude: 15.1
+          longitude: -23.68333
+    -
+      name: "Santa Catarina do Fogo"
+      code: "CF"
+      iso3166_2: "CV-CF"
+      type: "municipality"
+      latitude: 14.9022545
+      longitude: -24.3212579
+      cities:
+        -
+          name: "Cova Figueira"
+          latitude: 14.89054
+          longitude: -24.29343
+    -
+      name: "Santa Cruz"
+      code: "CR"
+      iso3166_2: "CV-CR"
+      type: "municipality"
+      latitude: 15.1323932
+      longitude: -23.5576819
+      cities:
+        -
+          name: "Pedra Badejo"
+          latitude: 15.1375
+          longitude: -23.53083
+        -
+          name: "Santa Cruz"
+          latitude: 15.13333
+          longitude: -23.56667
+    -
+      name: "São Domingos"
+      code: "SD"
+      iso3166_2: "CV-SD"
+      type: "municipality"
+      latitude: 15.0286165
+      longitude: -23.563922
+      cities:
+        -
+          name: "São Domingos"
+          latitude: 15.02438
+          longitude: -23.5625
+    -
+      name: "São Filipe"
+      code: "SF"
+      iso3166_2: "CV-SF"
+      type: "municipality"
+      latitude: 14.8951679
+      longitude: -24.4945636
+      cities:
+        -
+          name: "São Filipe"
+          latitude: 14.8961
+          longitude: -24.49556
+    -
+      name: "São Lourenço dos Órgãos"
+      code: "SO"
+      iso3166_2: "CV-SO"
+      type: "municipality"
+      latitude: 15.0709442
+      longitude: -23.5865131
+      cities:
+        -
+          name: "João Teves"
+          latitude: 15.06694
+          longitude: -23.58917
+    -
+      name: "São Miguel"
+      code: "SM"
+      iso3166_2: "CV-SM"
+      type: "municipality"
+      latitude: 15.1899662
+      longitude: -23.6420486
+      cities:
+        -
+          name: "Calheta"
+          latitude: 15.18613
+          longitude: -23.59228
+    -
+      name: "São Salvador do Mundo"
+      code: "SS"
+      iso3166_2: "CV-SS"
+      type: "municipality"
+      latitude: 15.07
+      longitude: -23.63
+      cities:
+        -
+          name: "Achada Leitão"
+          latitude: 15.08
+          longitude: -23.64
+        -
+          name: "Leitão Grande"
+          latitude: 15.075
+          longitude: -23.645
+        -
+          name: "Picos"
+          latitude: 15.083
+          longitude: -23.632
+        -
+          name: "Picos Acima"
+          latitude: 15.09
+          longitude: -23.63
+    -
+      name: "São Vicente"
+      code: "SV"
+      iso3166_2: "CV-SV"
+      type: "municipality"
+      latitude: 16.8494412
+      longitude: -24.9718792
+      cities:
+        -
+          name: "Mindelo"
+          latitude: 16.89014
+          longitude: -24.98042
+    -
+      name: "Sotavento Islands"
+      code: "S"
+      iso3166_2: "CV-S"
+      type: "geographical region"
+      latitude: 15.1200758
+      longitude: -23.6348181
+      cities:
+        []
+    -
+      name: "Tarrafal"
+      code: "TA"
+      iso3166_2: "CV-TA"
+      type: "municipality"
+      latitude: 15.2760578
+      longitude: -23.7484077
+      cities:
+        -
+          name: "Tarrafal"
+          latitude: 15.27881
+          longitude: -23.75192
+    -
+      name: "Tarrafal de São Nicolau"
+      code: "TS"
+      iso3166_2: "CV-TS"
+      type: "municipality"
+      latitude: 16.5636498
+      longitude: -24.354942
+      cities:
+        -
+          name: "Tarrafal de São Nicolau"
+          latitude: 16.56622
+          longitude: -24.35793

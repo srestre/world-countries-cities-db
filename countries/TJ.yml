@@ -1,0 +1,343 @@
+-
+  name: "Tajikistan"
+  name_es: "Tayikistán"
+  native: "Тоҷикистон"
+  iso2: "TJ"
+  iso3: "TJK"
+  numeric_code: "762"
+  phonecode: "992"
+  capital: "Dushanbe"
+  currency: "TJS"
+  currency_name: "Tajikistani somoni"
+  currency_symbol: "SM"
+  tld: ".tj"
+  region: "Asia"
+  subregion: "Central Asia"
+  latitude: 39
+  longitude: 71
+  emoji: "🇹🇯"
+  states:
+    -
+      name: "Dushanbe"
+      code: "DU"
+      iso3166_2: "TJ-DU"
+      type: "capital territory"
+      latitude: 38.53666667
+      longitude: 68.78
+      cities:
+        -
+          name: "Dushanbe"
+          latitude: 38.53666667
+          longitude: 68.78
+    -
+      name: "Gorno-Badakhshan"
+      code: "GB"
+      iso3166_2: "TJ-GB"
+      type: "autonomous region"
+      latitude: 38.3492457
+      longitude: 72.9988168
+      cities:
+        -
+          name: "Ishqoshim"
+          latitude: 36.72484
+          longitude: 71.61331
+        -
+          name: "Khorugh"
+          latitude: 37.48974
+          longitude: 71.55304
+        -
+          name: "Murghob"
+          latitude: 38.17023
+          longitude: 73.96674
+        -
+          name: "Nohiyai Shughnon"
+          latitude: 37.70004
+          longitude: 72.16748
+    -
+      name: "Khatlon"
+      code: "KT"
+      iso3166_2: "TJ-KT"
+      type: "region"
+      latitude: 37.8804734
+      longitude: 69.2636923
+      cities:
+        -
+          name: "Abdurahmoni Jomí"
+          latitude: 37.94636
+          longitude: 68.80878
+        -
+          name: "Boshchorbogh"
+          latitude: 37.52027
+          longitude: 68.12825
+        -
+          name: "Bŭstonqal’a"
+          latitude: 37.84783
+          longitude: 68.83125
+        -
+          name: "Chubek"
+          latitude: 37.61453
+          longitude: 69.70525
+        -
+          name: "Danghara"
+          latitude: 38.09578
+          longitude: 69.33998
+        -
+          name: "Dŭstí"
+          latitude: 37.34812
+          longitude: 68.66398
+        -
+          name: "Farkhor"
+          latitude: 37.49219
+          longitude: 69.40356
+        -
+          name: "Gharavŭtí"
+          latitude: 37.56703
+          longitude: 68.44668
+        -
+          name: "Jilikŭl"
+          latitude: 37.49167
+          longitude: 68.53106
+        -
+          name: "Kirov"
+          latitude: 37.81908
+          longitude: 68.85905
+        -
+          name: "Kolkhozobod"
+          latitude: 37.58823
+          longitude: 68.65886
+        -
+          name: "Kŭlob"
+          latitude: 37.91459
+          longitude: 69.78454
+        -
+          name: "Moskovskiy"
+          latitude: 37.60931
+          longitude: 68.58094
+        -
+          name: "Mŭ’minobod"
+          latitude: 38.10714
+          longitude: 70.03213
+        -
+          name: "Nohiyai Kolkhozobod"
+          latitude: 37.57277
+          longitude: 68.81528
+        -
+          name: "Nohiyai Panj"
+          latitude: 37.31611
+          longitude: 69.16679
+        -
+          name: "Nohiyai Vakhsh"
+          latitude: 37.75602
+          longitude: 68.94138
+        -
+          name: "Norak"
+          latitude: 38.38917
+          longitude: 69.32272
+        -
+          name: "Orzu"
+          latitude: 37.5582
+          longitude: 68.81952
+        -
+          name: "Panj"
+          latitude: 37.23634
+          longitude: 69.09911
+        -
+          name: "Qŭrghonteppa"
+          latitude: 37.83399
+          longitude: 68.78186
+        -
+          name: "Shahritus"
+          latitude: 37.26206
+          longitude: 68.13849
+        -
+          name: "Sovet"
+          latitude: 38.0467
+          longitude: 69.58822
+        -
+          name: "Tartiki"
+          latitude: 37.58221
+          longitude: 68.13347
+        -
+          name: "Vakhsh"
+          latitude: 37.71485
+          longitude: 68.83456
+        -
+          name: "Vose’"
+          latitude: 37.80396
+          longitude: 69.64417
+        -
+          name: "Yovon"
+          latitude: 38.31408
+          longitude: 69.03784
+    -
+      name: "Nohiyahoi Tobei Jumhurí "
+      code: "RA"
+      iso3166_2: "TJ-RA"
+      type: "districts under republic administration"
+      latitude: 39.0857902
+      longitude: 70.2408325
+      cities:
+        -
+          name: "Darband"
+          latitude: 38.86776
+          longitude: 69.96642
+        -
+          name: "Hisor"
+          latitude: 38.52504
+          longitude: 68.55124
+        -
+          name: "Karakenja"
+          latitude: 39.23585
+          longitude: 71.52412
+        -
+          name: "Khodzha-Maston"
+          latitude: 38.74457
+          longitude: 68.62702
+        -
+          name: "Novobod"
+          latitude: 39.01084
+          longitude: 70.15082
+        -
+          name: "Obigarm"
+          latitude: 38.71731
+          longitude: 69.70885
+        -
+          name: "Rasht"
+          latitude: 39.02871
+          longitude: 70.37446
+        -
+          name: "Roghun"
+          latitude: 38.69331
+          longitude: 69.73692
+        -
+          name: "Shahrinav"
+          latitude: 38.57085
+          longitude: 68.33498
+        -
+          name: "Tagob"
+          latitude: 38.83827
+          longitude: 68.89847
+        -
+          name: "Tursunzoda"
+          latitude: 38.51271
+          longitude: 68.23163
+        -
+          name: "Vahdat"
+          latitude: 38.55632
+          longitude: 69.01354
+        -
+          name: "Vahdat District"
+          latitude: 38.83333
+          longitude: 69.33333
+        -
+          name: "Varzob"
+          latitude: 38.77369
+          longitude: 68.81776
+        -
+          name: "Varzob District"
+          latitude: 38.75
+          longitude: 68.75
+    -
+      name: "Sughd "
+      code: "SU"
+      iso3166_2: "TJ-SU"
+      type: "region"
+      latitude: 39.3548602
+      longitude: 68.8268012
+      cities:
+        -
+          name: "Adrasmon"
+          latitude: 40.64928
+          longitude: 69.98472
+        -
+          name: "Ayní"
+          latitude: 39.39406
+          longitude: 68.53766
+        -
+          name: "Bŭston"
+          latitude: 40.52286
+          longitude: 69.33307
+        -
+          name: "Chkalov"
+          latitude: 40.23417
+          longitude: 69.69481
+        -
+          name: "Ghafurov"
+          latitude: 40.21571
+          longitude: 69.72867
+        -
+          name: "Isfara"
+          latitude: 40.12649
+          longitude: 70.62526
+        -
+          name: "Istaravshan"
+          latitude: 39.9142
+          longitude: 69.00328
+        -
+          name: "Khŭjand"
+          latitude: 40.28256
+          longitude: 69.62216
+        -
+          name: "Kim"
+          latitude: 40.20798
+          longitude: 70.46882
+        -
+          name: "Konibodom"
+          latitude: 40.29414
+          longitude: 70.43122
+        -
+          name: "Konsoy"
+          latitude: 40.49155
+          longitude: 69.70245
+        -
+          name: "Neftobod"
+          latitude: 40.21524
+          longitude: 70.57193
+        -
+          name: "Nohiyai Konibodom"
+          latitude: 40.26877
+          longitude: 70.33057
+        -
+          name: "Nov"
+          latitude: 40.1522
+          longitude: 69.37076
+        -
+          name: "Oltintopkan"
+          latitude: 40.65425
+          longitude: 69.59811
+        -
+          name: "Pakhtakoron"
+          latitude: 40.15709
+          longitude: 68.74659
+        -
+          name: "Palos"
+          latitude: 40.31628
+          longitude: 69.73743
+        -
+          name: "Panjakent"
+          latitude: 39.49524
+          longitude: 67.60931
+        -
+          name: "Proletar"
+          latitude: 40.16713
+          longitude: 69.50163
+        -
+          name: "Quruqsoy"
+          latitude: 40.57648
+          longitude: 69.37962
+        -
+          name: "Shaydon"
+          latitude: 40.66992
+          longitude: 70.3502
+        -
+          name: "Shŭrob"
+          latitude: 40.04605
+          longitude: 70.54117
+        -
+          name: "Taboshar"
+          latitude: 40.57017
+          longitude: 69.64175
+        -
+          name: "Vorukh"
+          latitude: 39.85125
+          longitude: 70.58012

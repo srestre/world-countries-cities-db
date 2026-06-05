@@ -1,0 +1,5250 @@
+-
+  name: "Afghanistan"
+  name_es: "Afganistán"
+  native: "افغانستان"
+  iso2: "AF"
+  iso3: "AFG"
+  numeric_code: "004"
+  phonecode: "93"
+  capital: "Kabul"
+  currency: "AFN"
+  currency_name: "Afghan afghani"
+  currency_symbol: "؋"
+  tld: ".af"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Afghan"
+  population: 43844000
+  gdp: null
+  latitude: 33
+  longitude: 65
+  emoji: "🇦🇫"
+-
+  name: "Aland Islands"
+  name_es: "Alandia"
+  native: "Åland"
+  iso2: "AX"
+  iso3: "ALA"
+  numeric_code: "248"
+  phonecode: "358"
+  capital: "Mariehamn"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".ax"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Aland Island"
+  population: 30654
+  gdp: null
+  latitude: 60.116667
+  longitude: 19.9
+  emoji: "🇦🇽"
+-
+  name: "Albania"
+  name_es: "Albania"
+  native: "Shqipëria"
+  iso2: "AL"
+  iso3: "ALB"
+  numeric_code: "008"
+  phonecode: "355"
+  capital: "Tirana"
+  currency: "ALL"
+  currency_name: "Albanian lek"
+  currency_symbol: "Lek"
+  tld: ".al"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Albanian "
+  population: 2363314
+  gdp: 28372
+  latitude: 41
+  longitude: 20
+  emoji: "🇦🇱"
+-
+  name: "Algeria"
+  name_es: "Argelia"
+  native: "الجزائر"
+  iso2: "DZ"
+  iso3: "DZA"
+  numeric_code: "012"
+  phonecode: "213"
+  capital: "Algiers"
+  currency: "DZD"
+  currency_name: "Algerian dinar"
+  currency_symbol: "دج"
+  tld: ".dz"
+  region: "Africa"
+  subregion: "Northern Africa"
+  nationality: "Algerian"
+  population: 47400000
+  gdp: 268885
+  latitude: 28
+  longitude: 3
+  emoji: "🇩🇿"
+-
+  name: "American Samoa"
+  name_es: "Samoa Americana"
+  native: "American Samoa"
+  iso2: "AS"
+  iso3: "ASM"
+  numeric_code: "016"
+  phonecode: "1"
+  capital: "Pago Pago"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".as"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "American Samoan"
+  population: 49710
+  gdp: null
+  latitude: -14.33333333
+  longitude: -170
+  emoji: "🇦🇸"
+-
+  name: "Andorra"
+  name_es: "Andorra"
+  native: "Andorra"
+  iso2: "AD"
+  iso3: "AND"
+  numeric_code: "020"
+  phonecode: "376"
+  capital: "Andorra la Vella"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".ad"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Andorran"
+  population: 88306
+  gdp: 4035
+  latitude: 42.5
+  longitude: 1.5
+  emoji: "🇦🇩"
+-
+  name: "Angola"
+  name_es: "Angola"
+  native: "Angola"
+  iso2: "AO"
+  iso3: "AGO"
+  numeric_code: "024"
+  phonecode: "244"
+  capital: "Luanda"
+  currency: "AOA"
+  currency_name: "Angolan kwanza"
+  currency_symbol: "Kz"
+  tld: ".ao"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Angolan"
+  population: 36170961
+  gdp: 113343
+  latitude: -12.5
+  longitude: 18.5
+  emoji: "🇦🇴"
+-
+  name: "Anguilla"
+  name_es: "Anguilla"
+  native: "Anguilla"
+  iso2: "AI"
+  iso3: "AIA"
+  numeric_code: "660"
+  phonecode: "1"
+  capital: "The Valley"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".ai"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Anguillan"
+  population: 16010
+  gdp: null
+  latitude: 18.25
+  longitude: -63.16666666
+  emoji: "🇦🇮"
+-
+  name: "Antarctica"
+  name_es: "Antártida"
+  native: "Antarctica"
+  iso2: "AQ"
+  iso3: "ATA"
+  numeric_code: "010"
+  phonecode: "672"
+  capital: null
+  currency: "AAD"
+  currency_name: "Antarctican dollar"
+  currency_symbol: "$"
+  tld: ".aq"
+  region: "Polar"
+  subregion: null
+  nationality: "Antarctic"
+  population: null
+  gdp: null
+  latitude: -74.65
+  longitude: 4.48
+  emoji: "🇦🇶"
+-
+  name: "Antigua and Barbuda"
+  name_es: "Antigua y Barbuda"
+  native: "Antigua and Barbuda"
+  iso2: "AG"
+  iso3: "ATG"
+  numeric_code: "028"
+  phonecode: "1"
+  capital: "St. John's"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".ag"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Antiguan or Barbudan"
+  population: 103603
+  gdp: 2373
+  latitude: 17.05
+  longitude: -61.8
+  emoji: "🇦🇬"
+-
+  name: "Argentina"
+  name_es: "Argentina"
+  native: "Argentina"
+  iso2: "AR"
+  iso3: "ARG"
+  numeric_code: "032"
+  phonecode: "54"
+  capital: "Buenos Aires"
+  currency: "ARS"
+  currency_name: "Argentine peso"
+  currency_symbol: "$"
+  tld: ".ar"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Argentine"
+  population: 46735004
+  gdp: 683533
+  latitude: -34
+  longitude: -64
+  emoji: "🇦🇷"
+-
+  name: "Armenia"
+  name_es: "Armenia"
+  native: "Հայաստան"
+  iso2: "AM"
+  iso3: "ARM"
+  numeric_code: "051"
+  phonecode: "374"
+  capital: "Yerevan"
+  currency: "AMD"
+  currency_name: "Armenian dram"
+  currency_symbol: "֏"
+  tld: ".am"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Armenian"
+  population: 3081100
+  gdp: 26258
+  latitude: 40
+  longitude: 45
+  emoji: "🇦🇲"
+-
+  name: "Aruba"
+  name_es: "Aruba"
+  native: "Aruba"
+  iso2: "AW"
+  iso3: "ABW"
+  numeric_code: "533"
+  phonecode: "297"
+  capital: "Oranjestad"
+  currency: "AWG"
+  currency_name: "Aruban florin"
+  currency_symbol: "ƒ"
+  tld: ".aw"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Aruban"
+  population: 107566
+  gdp: 4100
+  latitude: 12.5
+  longitude: -69.96666666
+  emoji: "🇦🇼"
+-
+  name: "Australia"
+  name_es: "Australia"
+  native: "Australia"
+  iso2: "AU"
+  iso3: "AUS"
+  numeric_code: "036"
+  phonecode: "61"
+  capital: "Canberra"
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".au"
+  region: "Oceania"
+  subregion: "Australia and New Zealand"
+  nationality: "Australian"
+  population: 27400013
+  gdp: 1771681
+  latitude: -27
+  longitude: 133
+  emoji: "🇦🇺"
+-
+  name: "Austria"
+  name_es: "Austria"
+  native: "Österreich"
+  iso2: "AT"
+  iso3: "AUT"
+  numeric_code: "040"
+  phonecode: "43"
+  capital: "Vienna"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".at"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "Austrian"
+  population: 9200931
+  gdp: 534301
+  latitude: 47.33333333
+  longitude: 13.33333333
+  emoji: "🇦🇹"
+-
+  name: "Azerbaijan"
+  name_es: "Azerbaiyán"
+  native: "Azərbaycan"
+  iso2: "AZ"
+  iso3: "AZE"
+  numeric_code: "031"
+  phonecode: "994"
+  capital: "Baku"
+  currency: "AZN"
+  currency_name: "Azerbaijani manat"
+  currency_symbol: "m"
+  tld: ".az"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Azerbaijani, Azeri"
+  population: 10241722
+  gdp: 78870
+  latitude: 40.5
+  longitude: 47.5
+  emoji: "🇦🇿"
+-
+  name: "Bahrain"
+  name_es: "Bahrein"
+  native: "‏البحرين"
+  iso2: "BH"
+  iso3: "BHR"
+  numeric_code: "048"
+  phonecode: "973"
+  capital: "Manama"
+  currency: "BHD"
+  currency_name: "Bahraini dinar"
+  currency_symbol: ".د.ب"
+  tld: ".bh"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Bahraini"
+  population: 1594654
+  gdp: 47829
+  latitude: 26
+  longitude: 50.55
+  emoji: "🇧🇭"
+-
+  name: "Bangladesh"
+  name_es: "Bangladesh"
+  native: "Bangladesh"
+  iso2: "BD"
+  iso3: "BGD"
+  numeric_code: "050"
+  phonecode: "880"
+  capital: "Dhaka"
+  currency: "BDT"
+  currency_name: "Bangladeshi taka"
+  currency_symbol: "৳"
+  tld: ".bd"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Bangladeshi"
+  population: 169828911
+  gdp: 467218
+  latitude: 24
+  longitude: 90
+  emoji: "🇧🇩"
+-
+  name: "Barbados"
+  name_es: "Barbados"
+  native: "Barbados"
+  iso2: "BB"
+  iso3: "BRB"
+  numeric_code: "052"
+  phonecode: "1"
+  capital: "Bridgetown"
+  currency: "BBD"
+  currency_name: "Barbadian dollar"
+  currency_symbol: "Bds$"
+  tld: ".bb"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Barbadian"
+  population: 267800
+  gdp: 7552
+  latitude: 13.16666666
+  longitude: -59.53333333
+  emoji: "🇧🇧"
+-
+  name: "Belarus"
+  name_es: "Bielorrusia"
+  native: "Белару́сь"
+  iso2: "BY"
+  iso3: "BLR"
+  numeric_code: "112"
+  phonecode: "375"
+  capital: "Minsk"
+  currency: "BYN"
+  currency_name: "Belarusian ruble"
+  currency_symbol: "Br"
+  tld: ".by"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Belarusian"
+  population: 9109280
+  gdp: 71561
+  latitude: 53
+  longitude: 28
+  emoji: "🇧🇾"
+-
+  name: "Belgium"
+  name_es: "Bélgica"
+  native: "België"
+  iso2: "BE"
+  iso3: "BEL"
+  numeric_code: "056"
+  phonecode: "32"
+  capital: "Brussels"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".be"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "Belgian"
+  population: 11825551
+  gdp: 684864
+  latitude: 50.83333333
+  longitude: 4
+  emoji: "🇧🇪"
+-
+  name: "Belize"
+  name_es: "Belice"
+  native: "Belize"
+  iso2: "BZ"
+  iso3: "BLZ"
+  numeric_code: "084"
+  phonecode: "501"
+  capital: "Belmopan"
+  currency: "BZD"
+  currency_name: "Belize dollar"
+  currency_symbol: "$"
+  tld: ".bz"
+  region: "Americas"
+  subregion: "Central America"
+  nationality: "Belizean"
+  population: 417634
+  gdp: 3611
+  latitude: 17.25
+  longitude: -88.75
+  emoji: "🇧🇿"
+-
+  name: "Benin"
+  name_es: "Benín"
+  native: "Bénin"
+  iso2: "BJ"
+  iso3: "BEN"
+  numeric_code: "204"
+  phonecode: "229"
+  capital: "Porto-Novo"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".bj"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Beninese, Beninois"
+  population: 13224860
+  gdp: 22236
+  latitude: 9.5
+  longitude: 2.25
+  emoji: "🇧🇯"
+-
+  name: "Bermuda"
+  name_es: "Bermudas"
+  native: "Bermuda"
+  iso2: "BM"
+  iso3: "BMU"
+  numeric_code: "060"
+  phonecode: "1"
+  capital: "Hamilton"
+  currency: "BMD"
+  currency_name: "Bermudian dollar"
+  currency_symbol: "$"
+  tld: ".bm"
+  region: "Americas"
+  subregion: "Northern America"
+  nationality: "Bermudian, Bermudan"
+  population: 64055
+  gdp: null
+  latitude: 32.33333333
+  longitude: -64.75
+  emoji: "🇧🇲"
+-
+  name: "Bhutan"
+  name_es: "Bután"
+  native: "ʼbrug-yul"
+  iso2: "BT"
+  iso3: "BTN"
+  numeric_code: "064"
+  phonecode: "975"
+  capital: "Thimphu"
+  currency: "BTN"
+  currency_name: "Bhutanese ngultrum"
+  currency_symbol: "Nu."
+  tld: ".bt"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Bhutanese"
+  population: 784043
+  gdp: 3422
+  latitude: 27.5
+  longitude: 90.5
+  emoji: "🇧🇹"
+-
+  name: "Bolivia"
+  name_es: "Bolivia"
+  native: "Bolivia"
+  iso2: "BO"
+  iso3: "BOL"
+  numeric_code: "068"
+  phonecode: "591"
+  capital: "Sucre"
+  currency: "BOB"
+  currency_name: "Bolivian boliviano"
+  currency_symbol: "Bs."
+  tld: ".bo"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Bolivian"
+  population: 11312620
+  gdp: 56339
+  latitude: -17
+  longitude: -65
+  emoji: "🇧🇴"
+-
+  name: "Bonaire, Sint Eustatius and Saba"
+  name_es: "Bonaire, Sint Eustatius and Saba"
+  native: "Caribisch Nederland"
+  iso2: "BQ"
+  iso3: "BES"
+  numeric_code: "535"
+  phonecode: "599"
+  capital: "Kralendijk"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".an"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Bonaire"
+  population: 26552
+  gdp: null
+  latitude: 12.15
+  longitude: -68.266667
+  emoji: "🇧🇶"
+-
+  name: "Bosnia and Herzegovina"
+  name_es: "Bosnia y Herzegovina"
+  native: "Bosna i Hercegovina"
+  iso2: "BA"
+  iso3: "BIH"
+  numeric_code: "070"
+  phonecode: "387"
+  capital: "Sarajevo"
+  currency: "BAM"
+  currency_name: "Bosnia and Herzegovina convertible mark"
+  currency_symbol: "KM"
+  tld: ".ba"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Bosnian or Herzegovinian"
+  population: 3422000
+  gdp: 28807
+  latitude: 44
+  longitude: 18
+  emoji: "🇧🇦"
+-
+  name: "Botswana"
+  name_es: "Botswana"
+  native: "Botswana"
+  iso2: "BW"
+  iso3: "BWA"
+  numeric_code: "072"
+  phonecode: "267"
+  capital: "Gaborone"
+  currency: "BWP"
+  currency_name: "Botswana pula"
+  currency_symbol: "P"
+  tld: ".bw"
+  region: "Africa"
+  subregion: "Southern Africa"
+  nationality: "Motswana, Botswanan"
+  population: 2359609
+  gdp: 19400
+  latitude: -22
+  longitude: 24
+  emoji: "🇧🇼"
+-
+  name: "Bouvet Island"
+  name_es: "Isla Bouvet"
+  native: "Bouvetøya"
+  iso2: "BV"
+  iso3: "BVT"
+  numeric_code: "074"
+  phonecode: "0055"
+  capital: null
+  currency: "NOK"
+  currency_name: "Norwegian krone"
+  currency_symbol: "ko"
+  tld: ".bv"
+  region: null
+  subregion: null
+  nationality: "Bouvet Island"
+  population: null
+  gdp: null
+  latitude: -54.43333333
+  longitude: 3.4
+  emoji: "🇧🇻"
+-
+  name: "Brazil"
+  name_es: "Brasil"
+  native: "Brasil"
+  iso2: "BR"
+  iso3: "BRA"
+  numeric_code: "076"
+  phonecode: "55"
+  capital: "Brasilia"
+  currency: "BRL"
+  currency_name: "Brazilian real"
+  currency_symbol: "R$"
+  tld: ".br"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Brazilian"
+  population: 213421037
+  gdp: 2125958
+  latitude: -10
+  longitude: -55
+  emoji: "🇧🇷"
+-
+  name: "British Indian Ocean Territory"
+  name_es: "Territorio Británico del Océano Índico"
+  native: "British Indian Ocean Territory"
+  iso2: "IO"
+  iso3: "IOT"
+  numeric_code: "086"
+  phonecode: "246"
+  capital: "Diego Garcia"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".io"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "BIOT"
+  population: null
+  gdp: null
+  latitude: -6
+  longitude: 71.5
+  emoji: "🇮🇴"
+-
+  name: "Brunei"
+  name_es: "Brunei"
+  native: "Negara Brunei Darussalam"
+  iso2: "BN"
+  iso3: "BRN"
+  numeric_code: "096"
+  phonecode: "673"
+  capital: "Bandar Seri Begawan"
+  currency: "BND"
+  currency_name: "Brunei dollar"
+  currency_symbol: "B$"
+  tld: ".bn"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Bruneian"
+  population: 455500
+  gdp: 16007
+  latitude: 4.5
+  longitude: 114.66666666
+  emoji: "🇧🇳"
+-
+  name: "Bulgaria"
+  name_es: "Bulgaria"
+  native: "България"
+  iso2: "BG"
+  iso3: "BGR"
+  numeric_code: "100"
+  phonecode: "359"
+  capital: "Sofia"
+  currency: "BGN"
+  currency_name: "Bulgarian lev"
+  currency_symbol: "Лв."
+  tld: ".bg"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Bulgarian"
+  population: 6437360
+  gdp: 117007
+  latitude: 43
+  longitude: 25
+  emoji: "🇧🇬"
+-
+  name: "Burkina Faso"
+  name_es: "Burkina Faso"
+  native: "Burkina Faso"
+  iso2: "BF"
+  iso3: "BFA"
+  numeric_code: "854"
+  phonecode: "226"
+  capital: "Ouagadougou"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".bf"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Burkinabe"
+  population: 24070553
+  gdp: 27056
+  latitude: 13
+  longitude: -2
+  emoji: "🇧🇫"
+-
+  name: "Burundi"
+  name_es: "Burundi"
+  native: "Burundi"
+  iso2: "BI"
+  iso3: "BDI"
+  numeric_code: "108"
+  phonecode: "257"
+  capital: "Bujumbura"
+  currency: "BIF"
+  currency_name: "Burundian franc"
+  currency_symbol: "FBu"
+  tld: ".bi"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Burundian"
+  population: 12332788
+  gdp: 6745
+  latitude: -3.5
+  longitude: 30
+  emoji: "🇧🇮"
+-
+  name: "Cambodia"
+  name_es: "Camboya"
+  native: "Kâmpŭchéa"
+  iso2: "KH"
+  iso3: "KHM"
+  numeric_code: "116"
+  phonecode: "855"
+  capital: "Phnom Penh"
+  currency: "KHR"
+  currency_name: "Cambodian riel"
+  currency_symbol: "KHR"
+  tld: ".kh"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Cambodian"
+  population: 17577760
+  gdp: 49799
+  latitude: 13
+  longitude: 105
+  emoji: "🇰🇭"
+-
+  name: "Cameroon"
+  name_es: "Camerún"
+  native: "Cameroon"
+  iso2: "CM"
+  iso3: "CMR"
+  numeric_code: "120"
+  phonecode: "237"
+  capital: "Yaounde"
+  currency: "XAF"
+  currency_name: "Central African CFA franc"
+  currency_symbol: "FCFA"
+  tld: ".cm"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Cameroonian"
+  population: 29442327
+  gdp: 56011
+  latitude: 6
+  longitude: 12
+  emoji: "🇨🇲"
+-
+  name: "Canada"
+  name_es: "Canadá"
+  native: "Canada"
+  iso2: "CA"
+  iso3: "CAN"
+  numeric_code: "124"
+  phonecode: "1"
+  capital: "Ottawa"
+  currency: "CAD"
+  currency_name: "Canadian dollar"
+  currency_symbol: "$"
+  tld: ".ca"
+  region: "Americas"
+  subregion: "Northern America"
+  nationality: "Canadian"
+  population: 41548787
+  gdp: 2225341
+  latitude: 60
+  longitude: -95
+  emoji: "🇨🇦"
+-
+  name: "Cape Verde"
+  name_es: "Cabo Verde"
+  native: "Cabo Verde"
+  iso2: "CV"
+  iso3: "CPV"
+  numeric_code: "132"
+  phonecode: "238"
+  capital: "Praia"
+  currency: "CVE"
+  currency_name: "Cape Verdean escudo"
+  currency_symbol: "$"
+  tld: ".cv"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Verdean"
+  population: 491233
+  gdp: 2786
+  latitude: 16
+  longitude: -24
+  emoji: "🇨🇻"
+-
+  name: "Cayman Islands"
+  name_es: "Islas Caimán"
+  native: "Cayman Islands"
+  iso2: "KY"
+  iso3: "CYM"
+  numeric_code: "136"
+  phonecode: "1"
+  capital: "George Town"
+  currency: "KYD"
+  currency_name: "Cayman Islands dollar"
+  currency_symbol: "$"
+  tld: ".ky"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Caymanian"
+  population: 84738
+  gdp: null
+  latitude: 19.5
+  longitude: -80.5
+  emoji: "🇰🇾"
+-
+  name: "Central African Republic"
+  name_es: "República Centroafricana"
+  native: "Ködörösêse tî Bêafrîka"
+  iso2: "CF"
+  iso3: "CAF"
+  numeric_code: "140"
+  phonecode: "236"
+  capital: "Bangui"
+  currency: "XAF"
+  currency_name: "Central African CFA franc"
+  currency_symbol: "FCFA"
+  tld: ".cf"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Central African"
+  population: 6470307
+  gdp: 2932
+  latitude: 7
+  longitude: 21
+  emoji: "🇨🇫"
+-
+  name: "Chad"
+  name_es: "Chad"
+  native: "Tchad"
+  iso2: "TD"
+  iso3: "TCD"
+  numeric_code: "148"
+  phonecode: "235"
+  capital: "N'Djamena"
+  currency: "XAF"
+  currency_name: "Central African CFA franc"
+  currency_symbol: "FCFA"
+  tld: ".td"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Chadian"
+  population: 19340757
+  gdp: 18792
+  latitude: 15
+  longitude: 19
+  emoji: "🇹🇩"
+-
+  name: "Chile"
+  name_es: "Chile"
+  native: "Chile"
+  iso2: "CL"
+  iso3: "CHL"
+  numeric_code: "152"
+  phonecode: "56"
+  capital: "Santiago"
+  currency: "CLP"
+  currency_name: "Chilean peso"
+  currency_symbol: "$"
+  tld: ".cl"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Chilean"
+  population: 20206953
+  gdp: 343823
+  latitude: -30
+  longitude: -71
+  emoji: "🇨🇱"
+-
+  name: "China"
+  name_es: "China"
+  native: "中国"
+  iso2: "CN"
+  iso3: "CHN"
+  numeric_code: "156"
+  phonecode: "86"
+  capital: "Beijing"
+  currency: "CNY"
+  currency_name: "Chinese yuan"
+  currency_symbol: "¥"
+  tld: ".cn"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "Chinese"
+  population: 1408280000
+  gdp: 19231705
+  latitude: 35
+  longitude: 105
+  emoji: "🇨🇳"
+-
+  name: "Christmas Island"
+  name_es: "Isla de Navidad"
+  native: "Christmas Island"
+  iso2: "CX"
+  iso3: "CXR"
+  numeric_code: "162"
+  phonecode: "61"
+  capital: "Flying Fish Cove"
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".cx"
+  region: "Oceania"
+  subregion: "Australia and New Zealand"
+  nationality: "Christmas Island"
+  population: 1692
+  gdp: null
+  latitude: -10.5
+  longitude: 105.66666666
+  emoji: "🇨🇽"
+-
+  name: "Cocos (Keeling) Islands"
+  name_es: "Islas Cocos o Islas Keeling"
+  native: "Cocos (Keeling) Islands"
+  iso2: "CC"
+  iso3: "CCK"
+  numeric_code: "166"
+  phonecode: "61"
+  capital: "West Island"
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".cc"
+  region: "Oceania"
+  subregion: "Australia and New Zealand"
+  nationality: "Cocos Island"
+  population: 593
+  gdp: null
+  latitude: -12.5
+  longitude: 96.83333333
+  emoji: "🇨🇨"
+-
+  name: "Colombia"
+  name_es: "Colombia"
+  native: "Colombia"
+  iso2: "CO"
+  iso3: "COL"
+  numeric_code: "170"
+  phonecode: "57"
+  capital: "Bogotá"
+  currency: "COP"
+  currency_name: "Colombian peso"
+  currency_symbol: "$"
+  tld: ".co"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Colombian"
+  population: 53057212
+  gdp: 427766
+  latitude: 4
+  longitude: -72
+  emoji: "🇨🇴"
+-
+  name: "Comoros"
+  name_es: "Comoras"
+  native: "Komori"
+  iso2: "KM"
+  iso3: "COM"
+  numeric_code: "174"
+  phonecode: "269"
+  capital: "Moroni"
+  currency: "KMF"
+  currency_name: "Comorian franc"
+  currency_symbol: "CF"
+  tld: ".km"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Comoran, Comorian"
+  population: 870038
+  gdp: 1548
+  latitude: -12.16666666
+  longitude: 44.25
+  emoji: "🇰🇲"
+-
+  name: "Congo"
+  name_es: "Congo"
+  native: "République du Congo"
+  iso2: "CG"
+  iso3: "COG"
+  numeric_code: "178"
+  phonecode: "242"
+  capital: "Brazzaville"
+  currency: "CDF"
+  currency_name: "Congolese Franc"
+  currency_symbol: "FC"
+  tld: ".cg"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Congolese"
+  population: 6142180
+  gdp: 15281
+  latitude: -1
+  longitude: 15
+  emoji: "🇨🇬"
+-
+  name: "Cook Islands"
+  name_es: "Islas Cook"
+  native: "Cook Islands"
+  iso2: "CK"
+  iso3: "COK"
+  numeric_code: "184"
+  phonecode: "682"
+  capital: "Avarua"
+  currency: "NZD"
+  currency_name: "New Zealand dollar"
+  currency_symbol: "$"
+  tld: ".ck"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Cook Island"
+  population: 15040
+  gdp: null
+  latitude: -21.23333333
+  longitude: -159.76666666
+  emoji: "🇨🇰"
+-
+  name: "Costa Rica"
+  name_es: "Costa Rica"
+  native: "Costa Rica"
+  iso2: "CR"
+  iso3: "CRI"
+  numeric_code: "188"
+  phonecode: "506"
+  capital: "San Jose"
+  currency: "CRC"
+  currency_name: "Costa Rican colón"
+  currency_symbol: "₡"
+  tld: ".cr"
+  region: "Americas"
+  subregion: "Central America"
+  nationality: "Costa Rican"
+  population: 5309625
+  gdp: 102591
+  latitude: 10
+  longitude: -84
+  emoji: "🇨🇷"
+-
+  name: "Croatia"
+  name_es: "Croacia"
+  native: "Hrvatska"
+  iso2: "HR"
+  iso3: "HRV"
+  numeric_code: "191"
+  phonecode: "385"
+  capital: "Zagreb"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".hr"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Croatian"
+  population: 3866233
+  gdp: 98951
+  latitude: 45.16666666
+  longitude: 15.5
+  emoji: "🇭🇷"
+-
+  name: "Cuba"
+  name_es: "Cuba"
+  native: "Cuba"
+  iso2: "CU"
+  iso3: "CUB"
+  numeric_code: "192"
+  phonecode: "53"
+  capital: "Havana"
+  currency: "CUP"
+  currency_name: "Cuban peso"
+  currency_symbol: "$"
+  tld: ".cu"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Cuban"
+  population: 9748007
+  gdp: null
+  latitude: 21.5
+  longitude: -80
+  emoji: "🇨🇺"
+-
+  name: "Curaçao"
+  name_es: "Curaçao"
+  native: "Curaçao"
+  iso2: "CW"
+  iso3: "CUW"
+  numeric_code: "531"
+  phonecode: "599"
+  capital: "Willemstad"
+  currency: "ANG"
+  currency_name: "Netherlands Antillean guilder"
+  currency_symbol: "ƒ"
+  tld: ".cw"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Curacaoan"
+  population: 156115
+  gdp: null
+  latitude: 12.116667
+  longitude: -68.933333
+  emoji: "🇨🇼"
+-
+  name: "Cyprus"
+  name_es: "Chipre"
+  native: "Κύπρος"
+  iso2: "CY"
+  iso3: "CYP"
+  numeric_code: "196"
+  phonecode: "357"
+  capital: "Nicosia"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".cy"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Cypriot"
+  population: 966400
+  gdp: 38736
+  latitude: 35
+  longitude: 33
+  emoji: "🇨🇾"
+-
+  name: "Czech Republic"
+  name_es: "República Checa"
+  native: "Česká republika"
+  iso2: "CZ"
+  iso3: "CZE"
+  numeric_code: "203"
+  phonecode: "420"
+  capital: "Prague"
+  currency: "CZK"
+  currency_name: "Czech koruna"
+  currency_symbol: "Kč"
+  tld: ".cz"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Czech"
+  population: 10876875
+  gdp: 360244
+  latitude: 49.75
+  longitude: 15.5
+  emoji: "🇨🇿"
+-
+  name: "Democratic Republic of the Congo"
+  name_es: "Congo (Rep. Dem.)"
+  native: "République démocratique du Congo"
+  iso2: "CD"
+  iso3: "COD"
+  numeric_code: "180"
+  phonecode: "243"
+  capital: "Kinshasa"
+  currency: "CDF"
+  currency_name: "Congolese Franc"
+  currency_symbol: "FC"
+  tld: ".cd"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Congolese"
+  population: 112832000
+  gdp: 79119
+  latitude: 0
+  longitude: 25
+  emoji: "🇨🇩"
+-
+  name: "Denmark"
+  name_es: "Dinamarca"
+  native: "Danmark"
+  iso2: "DK"
+  iso3: "DNK"
+  numeric_code: "208"
+  phonecode: "45"
+  capital: "Copenhagen"
+  currency: "DKK"
+  currency_name: "Danish krone"
+  currency_symbol: "Kr."
+  tld: ".dk"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Danish"
+  population: 6004342
+  gdp: 449940
+  latitude: 56
+  longitude: 10
+  emoji: "🇩🇰"
+-
+  name: "Djibouti"
+  name_es: "Yibuti"
+  native: "Djibouti"
+  iso2: "DJ"
+  iso3: "DJI"
+  numeric_code: "262"
+  phonecode: "253"
+  capital: "Djibouti"
+  currency: "DJF"
+  currency_name: "Djiboutian franc"
+  currency_symbol: "Fdj"
+  tld: ".dj"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Djiboutian"
+  population: 1066809
+  gdp: 4587
+  latitude: 11.5
+  longitude: 43
+  emoji: "🇩🇯"
+-
+  name: "Dominica"
+  name_es: "Dominica"
+  native: "Dominica"
+  iso2: "DM"
+  iso3: "DMA"
+  numeric_code: "212"
+  phonecode: "1"
+  capital: "Roseau"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".dm"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Dominican"
+  population: 67408
+  gdp: 742
+  latitude: 15.41666666
+  longitude: -61.33333333
+  emoji: "🇩🇲"
+-
+  name: "Dominican Republic"
+  name_es: "República Dominicana"
+  native: "República Dominicana"
+  iso2: "DO"
+  iso3: "DOM"
+  numeric_code: "214"
+  phonecode: "1"
+  capital: "Santo Domingo"
+  currency: "DOP"
+  currency_name: "Dominican peso"
+  currency_symbol: "$"
+  tld: ".do"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Dominican"
+  population: 10771504
+  gdp: 127828
+  latitude: 19
+  longitude: -70.66666666
+  emoji: "🇩🇴"
+-
+  name: "Ecuador"
+  name_es: "Ecuador"
+  native: "Ecuador"
+  iso2: "EC"
+  iso3: "ECU"
+  numeric_code: "218"
+  phonecode: "593"
+  capital: "Quito"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".ec"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Ecuadorian"
+  population: 18103660
+  gdp: 125677
+  latitude: -2
+  longitude: -77.5
+  emoji: "🇪🇨"
+-
+  name: "Egypt"
+  name_es: "Egipto"
+  native: "مصر‎"
+  iso2: "EG"
+  iso3: "EGY"
+  numeric_code: "818"
+  phonecode: "20"
+  capital: "Cairo"
+  currency: "EGP"
+  currency_name: "Egyptian pound"
+  currency_symbol: "ج.م"
+  tld: ".eg"
+  region: "Africa"
+  subregion: "Northern Africa"
+  nationality: "Egyptian"
+  population: 107271260
+  gdp: 347342
+  latitude: 27
+  longitude: 30
+  emoji: "🇪🇬"
+-
+  name: "El Salvador"
+  name_es: "El Salvador"
+  native: "El Salvador"
+  iso2: "SV"
+  iso3: "SLV"
+  numeric_code: "222"
+  phonecode: "503"
+  capital: "San Salvador"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".sv"
+  region: "Americas"
+  subregion: "Central America"
+  nationality: "Salvadoran"
+  population: 6029976
+  gdp: 36749
+  latitude: 13.83333333
+  longitude: -88.91666666
+  emoji: "🇸🇻"
+-
+  name: "Equatorial Guinea"
+  name_es: "Guinea Ecuatorial"
+  native: "Guinea Ecuatorial"
+  iso2: "GQ"
+  iso3: "GNQ"
+  numeric_code: "226"
+  phonecode: "240"
+  capital: "Malabo"
+  currency: "XAF"
+  currency_name: "Central African CFA franc"
+  currency_symbol: "FCFA"
+  tld: ".gq"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Equatorial Guinean, Equatoguinean"
+  population: 1668768
+  gdp: 12684
+  latitude: 2
+  longitude: 10
+  emoji: "🇬🇶"
+-
+  name: "Eritrea"
+  name_es: "Eritrea"
+  native: "ኤርትራ"
+  iso2: "ER"
+  iso3: "ERI"
+  numeric_code: "232"
+  phonecode: "291"
+  capital: "Asmara"
+  currency: "ERN"
+  currency_name: "Eritrean nakfa"
+  currency_symbol: "Nfk"
+  tld: ".er"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Eritrean"
+  population: 3607000
+  gdp: null
+  latitude: 15
+  longitude: 39
+  emoji: "🇪🇷"
+-
+  name: "Estonia"
+  name_es: "Estonia"
+  native: "Eesti"
+  iso2: "EE"
+  iso3: "EST"
+  numeric_code: "233"
+  phonecode: "372"
+  capital: "Tallinn"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".ee"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Estonian"
+  population: 1369995
+  gdp: 45004
+  latitude: 59
+  longitude: 26
+  emoji: "🇪🇪"
+-
+  name: "Eswatini"
+  name_es: "Suazilandia"
+  native: "Swaziland"
+  iso2: "SZ"
+  iso3: "SWZ"
+  numeric_code: "748"
+  phonecode: "268"
+  capital: "Mbabane"
+  currency: "SZL"
+  currency_name: "Lilangeni"
+  currency_symbol: "E"
+  tld: ".sz"
+  region: "Africa"
+  subregion: "Southern Africa"
+  nationality: "Swazi"
+  population: 1235549
+  gdp: 5483
+  latitude: -26.5
+  longitude: 31.5
+  emoji: "🇸🇿"
+-
+  name: "Ethiopia"
+  name_es: "Etiopía"
+  native: "ኢትዮጵያ"
+  iso2: "ET"
+  iso3: "ETH"
+  numeric_code: "231"
+  phonecode: "251"
+  capital: "Addis Ababa"
+  currency: "ETB"
+  currency_name: "Ethiopian birr"
+  currency_symbol: "Nkf"
+  tld: ".et"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Ethiopian"
+  population: 111652998
+  gdp: 117457
+  latitude: 8
+  longitude: 38
+  emoji: "🇪🇹"
+-
+  name: "Falkland Islands"
+  name_es: "Islas Malvinas"
+  native: "Falkland Islands"
+  iso2: "FK"
+  iso3: "FLK"
+  numeric_code: "238"
+  phonecode: "500"
+  capital: "Stanley"
+  currency: "FKP"
+  currency_name: "Falkland Islands pound"
+  currency_symbol: "£"
+  tld: ".fk"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Falkland Island"
+  population: 3662
+  gdp: null
+  latitude: -51.75
+  longitude: -59
+  emoji: "🇫🇰"
+-
+  name: "Faroe Islands"
+  name_es: "Islas Faroe"
+  native: "Føroyar"
+  iso2: "FO"
+  iso3: "FRO"
+  numeric_code: "234"
+  phonecode: "298"
+  capital: "Torshavn"
+  currency: "DKK"
+  currency_name: "Danish krone"
+  currency_symbol: "Kr."
+  tld: ".fo"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Faroese"
+  population: 55146
+  gdp: null
+  latitude: 62
+  longitude: -7
+  emoji: "🇫🇴"
+-
+  name: "Fiji Islands"
+  name_es: "Fiyi"
+  native: "Fiji"
+  iso2: "FJ"
+  iso3: "FJI"
+  numeric_code: "242"
+  phonecode: "679"
+  capital: "Suva"
+  currency: "FJD"
+  currency_name: "Fijian dollar"
+  currency_symbol: "FJ$"
+  tld: ".fj"
+  region: "Oceania"
+  subregion: "Melanesia"
+  nationality: "Fijian"
+  population: 900869
+  gdp: 6257
+  latitude: -18
+  longitude: 175
+  emoji: "🇫🇯"
+-
+  name: "Finland"
+  name_es: "Finlandia"
+  native: "Suomi"
+  iso2: "FI"
+  iso3: "FIN"
+  numeric_code: "246"
+  phonecode: "358"
+  capital: "Helsinki"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".fi"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Finnish"
+  population: 5645651
+  gdp: 303945
+  latitude: 64
+  longitude: 26
+  emoji: "🇫🇮"
+-
+  name: "France"
+  name_es: "Francia"
+  native: "France"
+  iso2: "FR"
+  iso3: "FRA"
+  numeric_code: "250"
+  phonecode: "33"
+  capital: "Paris"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".fr"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "French"
+  population: 68688000
+  gdp: 3211292
+  latitude: 46
+  longitude: 2
+  emoji: "🇫🇷"
+-
+  name: "French Guiana"
+  name_es: "Guayana Francesa"
+  native: "Guyane française"
+  iso2: "GF"
+  iso3: "GUF"
+  numeric_code: "254"
+  phonecode: "594"
+  capital: "Cayenne"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".gf"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "French Guianese"
+  population: 292354
+  gdp: null
+  latitude: 4
+  longitude: -53
+  emoji: "🇬🇫"
+-
+  name: "French Polynesia"
+  name_es: "Polinesia Francesa"
+  native: "Polynésie française"
+  iso2: "PF"
+  iso3: "PYF"
+  numeric_code: "258"
+  phonecode: "689"
+  capital: "Papeete"
+  currency: "XPF"
+  currency_name: "CFP franc"
+  currency_symbol: "₣"
+  tld: ".pf"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "French Polynesia"
+  population: 279500
+  gdp: null
+  latitude: -15
+  longitude: -140
+  emoji: "🇵🇫"
+-
+  name: "French Southern Territories"
+  name_es: "Tierras Australes y Antárticas Francesas"
+  native: "Territoire des Terres australes et antarctiques fr"
+  iso2: "TF"
+  iso3: "ATF"
+  numeric_code: "260"
+  phonecode: "262"
+  capital: "Port-aux-Francais"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".tf"
+  region: "Africa"
+  subregion: "Southern Africa"
+  nationality: "French Southern Territories"
+  population: null
+  gdp: null
+  latitude: -49.25
+  longitude: 69.167
+  emoji: "🇹🇫"
+-
+  name: "Gabon"
+  name_es: "Gabón"
+  native: "Gabon"
+  iso2: "GA"
+  iso3: "GAB"
+  numeric_code: "266"
+  phonecode: "241"
+  capital: "Libreville"
+  currency: "XAF"
+  currency_name: "Central African CFA franc"
+  currency_symbol: "FCFA"
+  tld: ".ga"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Gabonese"
+  population: 2469296
+  gdp: 20391
+  latitude: -1
+  longitude: 11.75
+  emoji: "🇬🇦"
+-
+  name: "Georgia"
+  name_es: "Georgia"
+  native: "საქართველო"
+  iso2: "GE"
+  iso3: "GEO"
+  numeric_code: "268"
+  phonecode: "995"
+  capital: "Tbilisi"
+  currency: "GEL"
+  currency_name: "Georgian lari"
+  currency_symbol: "ლ"
+  tld: ".ge"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Georgian"
+  population: 3704500
+  gdp: 35353
+  latitude: 42
+  longitude: 43.5
+  emoji: "🇬🇪"
+-
+  name: "Germany"
+  name_es: "Alemania"
+  native: "Deutschland"
+  iso2: "DE"
+  iso3: "DEU"
+  numeric_code: "276"
+  phonecode: "49"
+  capital: "Berlin"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".de"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "German"
+  population: 83517030
+  gdp: 4744804
+  latitude: 51
+  longitude: 9
+  emoji: "🇩🇪"
+-
+  name: "Ghana"
+  name_es: "Ghana"
+  native: "Ghana"
+  iso2: "GH"
+  iso3: "GHA"
+  numeric_code: "288"
+  phonecode: "233"
+  capital: "Accra"
+  currency: "GHS"
+  currency_name: "Ghanaian cedi"
+  currency_symbol: "GH₵"
+  tld: ".gh"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Ghanaian"
+  population: 33742380
+  gdp: 88332
+  latitude: 8
+  longitude: -2
+  emoji: "🇬🇭"
+-
+  name: "Gibraltar"
+  name_es: "Gibraltar"
+  native: "Gibraltar"
+  iso2: "GI"
+  iso3: "GIB"
+  numeric_code: "292"
+  phonecode: "350"
+  capital: "Gibraltar"
+  currency: "GIP"
+  currency_name: "Gibraltar pound"
+  currency_symbol: "£"
+  tld: ".gi"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Gibraltar"
+  population: 38000
+  gdp: null
+  latitude: 36.13333333
+  longitude: -5.35
+  emoji: "🇬🇮"
+-
+  name: "Greece"
+  name_es: "Grecia"
+  native: "Ελλάδα"
+  iso2: "GR"
+  iso3: "GRC"
+  numeric_code: "300"
+  phonecode: "30"
+  capital: "Athens"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".gr"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Greek, Hellenic"
+  population: 10400720
+  gdp: 267348
+  latitude: 39
+  longitude: 22
+  emoji: "🇬🇷"
+-
+  name: "Greenland"
+  name_es: "Groenlandia"
+  native: "Kalaallit Nunaat"
+  iso2: "GL"
+  iso3: "GRL"
+  numeric_code: "304"
+  phonecode: "299"
+  capital: "Nuuk"
+  currency: "DKK"
+  currency_name: "Danish krone"
+  currency_symbol: "Kr."
+  tld: ".gl"
+  region: "Americas"
+  subregion: "Northern America"
+  nationality: "Greenlandic"
+  population: 56542
+  gdp: null
+  latitude: 72
+  longitude: -40
+  emoji: "🇬🇱"
+-
+  name: "Grenada"
+  name_es: "Grenada"
+  native: "Grenada"
+  iso2: "GD"
+  iso3: "GRD"
+  numeric_code: "308"
+  phonecode: "1"
+  capital: "St. George's"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".gd"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Grenadian"
+  population: 109021
+  gdp: 1464
+  latitude: 12.11666666
+  longitude: -61.66666666
+  emoji: "🇬🇩"
+-
+  name: "Guadeloupe"
+  name_es: "Guadalupe"
+  native: "Guadeloupe"
+  iso2: "GP"
+  iso3: "GLP"
+  numeric_code: "312"
+  phonecode: "590"
+  capital: "Basse-Terre"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".gp"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Guadeloupe"
+  population: 373791
+  gdp: null
+  latitude: 16.25
+  longitude: -61.583333
+  emoji: "🇬🇵"
+-
+  name: "Guam"
+  name_es: "Guam"
+  native: "Guam"
+  iso2: "GU"
+  iso3: "GUM"
+  numeric_code: "316"
+  phonecode: "1"
+  capital: "Hagatna"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".gu"
+  region: "Oceania"
+  subregion: "Micronesia"
+  nationality: "Guamanian, Guambat"
+  population: 153836
+  gdp: null
+  latitude: 13.46666666
+  longitude: 144.78333333
+  emoji: "🇬🇺"
+-
+  name: "Guatemala"
+  name_es: "Guatemala"
+  native: "Guatemala"
+  iso2: "GT"
+  iso3: "GTM"
+  numeric_code: "320"
+  phonecode: "502"
+  capital: "Guatemala City"
+  currency: "GTQ"
+  currency_name: "Guatemalan quetzal"
+  currency_symbol: "Q"
+  tld: ".gt"
+  region: "Americas"
+  subregion: "Central America"
+  nationality: "Guatemalan"
+  population: 18079810
+  gdp: 121177
+  latitude: 15.5
+  longitude: -90.25
+  emoji: "🇬🇹"
+-
+  name: "Guernsey"
+  name_es: "Guernsey"
+  native: "Guernsey"
+  iso2: "GG"
+  iso3: "GGY"
+  numeric_code: "831"
+  phonecode: "44"
+  capital: "St Peter Port"
+  currency: "GBP"
+  currency_name: "British pound"
+  currency_symbol: "£"
+  tld: ".gg"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Channel Island"
+  population: 64781
+  gdp: null
+  latitude: 49.46666666
+  longitude: -2.58333333
+  emoji: "🇬🇬"
+-
+  name: "Guinea"
+  name_es: "Guinea"
+  native: "Guinée"
+  iso2: "GN"
+  iso3: "GIN"
+  numeric_code: "324"
+  phonecode: "224"
+  capital: "Conakry"
+  currency: "GNF"
+  currency_name: "Guinean franc"
+  currency_symbol: "FG"
+  tld: ".gn"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Guinean"
+  population: 14363931
+  gdp: 30094
+  latitude: 11
+  longitude: -10
+  emoji: "🇬🇳"
+-
+  name: "Guinea-Bissau"
+  name_es: "Guinea-Bisáu"
+  native: "Guiné-Bissau"
+  iso2: "GW"
+  iso3: "GNB"
+  numeric_code: "624"
+  phonecode: "245"
+  capital: "Bissau"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".gw"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Bissau-Guinean"
+  population: 1781308
+  gdp: 2274
+  latitude: 12
+  longitude: -15
+  emoji: "🇬🇼"
+-
+  name: "Guyana"
+  name_es: "Guyana"
+  native: "Guyana"
+  iso2: "GY"
+  iso3: "GUY"
+  numeric_code: "328"
+  phonecode: "592"
+  capital: "Georgetown"
+  currency: "GYD"
+  currency_name: "Guyanese dollar"
+  currency_symbol: "$"
+  tld: ".gy"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Guyanese"
+  population: 772975
+  gdp: 25822
+  latitude: 5
+  longitude: -59
+  emoji: "🇬🇾"
+-
+  name: "Haiti"
+  name_es: "Haiti"
+  native: "Haïti"
+  iso2: "HT"
+  iso3: "HTI"
+  numeric_code: "332"
+  phonecode: "509"
+  capital: "Port-au-Prince"
+  currency: "HTG"
+  currency_name: "Haitian gourde"
+  currency_symbol: "G"
+  tld: ".ht"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Haitian"
+  population: 11867032
+  gdp: 33548
+  latitude: 19
+  longitude: -72.41666666
+  emoji: "🇭🇹"
+-
+  name: "Heard Island and McDonald Islands"
+  name_es: "Islas Heard y McDonald"
+  native: "Heard Island and McDonald Islands"
+  iso2: "HM"
+  iso3: "HMD"
+  numeric_code: "334"
+  phonecode: "672"
+  capital: null
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".hm"
+  region: null
+  subregion: null
+  nationality: "Heard Island or McDonald Islands"
+  population: null
+  gdp: null
+  latitude: -53.1
+  longitude: 72.51666666
+  emoji: "🇭🇲"
+-
+  name: "Honduras"
+  name_es: "Honduras"
+  native: "Honduras"
+  iso2: "HN"
+  iso3: "HND"
+  numeric_code: "340"
+  phonecode: "504"
+  capital: "Tegucigalpa"
+  currency: "HNL"
+  currency_name: "Honduran lempira"
+  currency_symbol: "L"
+  tld: ".hn"
+  region: "Americas"
+  subregion: "Central America"
+  nationality: "Honduran"
+  population: 9892632
+  gdp: 38172
+  latitude: 15
+  longitude: -86.5
+  emoji: "🇭🇳"
+-
+  name: "Hong Kong S.A.R."
+  name_es: "Hong Kong"
+  native: "香港"
+  iso2: "HK"
+  iso3: "HKG"
+  numeric_code: "344"
+  phonecode: "852"
+  capital: "Hong Kong"
+  currency: "HKD"
+  currency_name: "Hong Kong dollar"
+  currency_symbol: "$"
+  tld: ".hk"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "Hong Kong, Hong Kongese"
+  population: 7527500
+  gdp: 423999
+  latitude: 22.25
+  longitude: 114.16666666
+  emoji: "🇭🇰"
+-
+  name: "Hungary"
+  name_es: "Hungría"
+  native: "Magyarország"
+  iso2: "HU"
+  iso3: "HUN"
+  numeric_code: "348"
+  phonecode: "36"
+  capital: "Budapest"
+  currency: "HUF"
+  currency_name: "Hungarian forint"
+  currency_symbol: "Ft"
+  tld: ".hu"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Hungarian, Magyar"
+  population: 9539502
+  gdp: 237070
+  latitude: 47
+  longitude: 20
+  emoji: "🇭🇺"
+-
+  name: "Iceland"
+  name_es: "Islandia"
+  native: "Ísland"
+  iso2: "IS"
+  iso3: "ISL"
+  numeric_code: "352"
+  phonecode: "354"
+  capital: "Reykjavik"
+  currency: "ISK"
+  currency_name: "Icelandic króna"
+  currency_symbol: "ko"
+  tld: ".is"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Icelandic"
+  population: 391810
+  gdp: 35309
+  latitude: 65
+  longitude: -18
+  emoji: "🇮🇸"
+-
+  name: "India"
+  name_es: "India"
+  native: "भारत"
+  iso2: "IN"
+  iso3: "IND"
+  numeric_code: "356"
+  phonecode: "91"
+  capital: "New Delhi"
+  currency: "INR"
+  currency_name: "Indian rupee"
+  currency_symbol: "₹"
+  tld: ".in"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Indian"
+  population: 1417492000
+  gdp: 4187017
+  latitude: 20
+  longitude: 77
+  emoji: "🇮🇳"
+-
+  name: "Indonesia"
+  name_es: "Indonesia"
+  native: "Indonesia"
+  iso2: "ID"
+  iso3: "IDN"
+  numeric_code: "360"
+  phonecode: "62"
+  capital: "Jakarta"
+  currency: "IDR"
+  currency_name: "Indonesian rupiah"
+  currency_symbol: "Rp"
+  tld: ".id"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Indonesian"
+  population: 284438782
+  gdp: 1429743
+  latitude: -5
+  longitude: 120
+  emoji: "🇮🇩"
+-
+  name: "Iran"
+  name_es: "Iran"
+  native: "ایران"
+  iso2: "IR"
+  iso3: "IRN"
+  numeric_code: "364"
+  phonecode: "98"
+  capital: "Tehran"
+  currency: "IRR"
+  currency_name: "Iranian rial"
+  currency_symbol: "﷼"
+  tld: ".ir"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Iranian, Persian"
+  population: 85961000
+  gdp: 341013
+  latitude: 32
+  longitude: 53
+  emoji: "🇮🇷"
+-
+  name: "Iraq"
+  name_es: "Irak"
+  native: "العراق"
+  iso2: "IQ"
+  iso3: "IRQ"
+  numeric_code: "368"
+  phonecode: "964"
+  capital: "Baghdad"
+  currency: "IQD"
+  currency_name: "Iraqi dinar"
+  currency_symbol: "د.ع"
+  tld: ".iq"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Iraqi"
+  population: 46118793
+  gdp: 258020
+  latitude: 33
+  longitude: 44
+  emoji: "🇮🇶"
+-
+  name: "Ireland"
+  name_es: "Irlanda"
+  native: "Éire"
+  iso2: "IE"
+  iso3: "IRL"
+  numeric_code: "372"
+  phonecode: "353"
+  capital: "Dublin"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".ie"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Irish"
+  population: 5458600
+  gdp: 598840
+  latitude: 53
+  longitude: -8
+  emoji: "🇮🇪"
+-
+  name: "Israel"
+  name_es: "Israel"
+  native: "יִשְׂרָאֵל"
+  iso2: "IL"
+  iso3: "ISR"
+  numeric_code: "376"
+  phonecode: "972"
+  capital: "Jerusalem"
+  currency: "ILS"
+  currency_name: "Israeli new shekel"
+  currency_symbol: "₪"
+  tld: ".il"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Israeli"
+  population: 10119400
+  gdp: 583361
+  latitude: 31.5
+  longitude: 34.75
+  emoji: "🇮🇱"
+-
+  name: "Italy"
+  name_es: "Italia"
+  native: "Italia"
+  iso2: "IT"
+  iso3: "ITA"
+  numeric_code: "380"
+  phonecode: "39"
+  capital: "Rome"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".it"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Italian"
+  population: 58919230
+  gdp: 2422855
+  latitude: 42.83333333
+  longitude: 12.83333333
+  emoji: "🇮🇹"
+-
+  name: "Ivory Coast"
+  name_es: "Costa de Marfil"
+  native: "Cote D'Ivoire"
+  iso2: "CI"
+  iso3: "CIV"
+  numeric_code: "384"
+  phonecode: "225"
+  capital: "Yamoussoukro"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".ci"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Ivorian"
+  population: 29389150
+  gdp: 94483
+  latitude: 8
+  longitude: -5
+  emoji: "🇨🇮"
+-
+  name: "Jamaica"
+  name_es: "Jamaica"
+  native: "Jamaica"
+  iso2: "JM"
+  iso3: "JAM"
+  numeric_code: "388"
+  phonecode: "1"
+  capital: "Kingston"
+  currency: "JMD"
+  currency_name: "Jamaican dollar"
+  currency_symbol: "J$"
+  tld: ".jm"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Jamaican"
+  population: 2825544
+  gdp: 21411
+  latitude: 18.25
+  longitude: -77.5
+  emoji: "🇯🇲"
+-
+  name: "Japan"
+  name_es: "Japón"
+  native: "日本"
+  iso2: "JP"
+  iso3: "JPN"
+  numeric_code: "392"
+  phonecode: "81"
+  capital: "Tokyo"
+  currency: "JPY"
+  currency_name: "Japanese yen"
+  currency_symbol: "¥"
+  tld: ".jp"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "Japanese"
+  population: 123300000
+  gdp: 4186431
+  latitude: 36
+  longitude: 138
+  emoji: "🇯🇵"
+-
+  name: "Jersey"
+  name_es: "Jersey"
+  native: "Jersey"
+  iso2: "JE"
+  iso3: "JEY"
+  numeric_code: "832"
+  phonecode: "44"
+  capital: "Saint Helier"
+  currency: "GBP"
+  currency_name: "British pound"
+  currency_symbol: "£"
+  tld: ".je"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Channel Island"
+  population: 103267
+  gdp: null
+  latitude: 49.25
+  longitude: -2.16666666
+  emoji: "🇯🇪"
+-
+  name: "Jordan"
+  name_es: "Jordania"
+  native: "الأردن"
+  iso2: "JO"
+  iso3: "JOR"
+  numeric_code: "400"
+  phonecode: "962"
+  capital: "Amman"
+  currency: "JOD"
+  currency_name: "Jordanian dinar"
+  currency_symbol: "ا.د"
+  tld: ".jo"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Jordanian"
+  population: 11734000
+  gdp: 56102
+  latitude: 31
+  longitude: 36
+  emoji: "🇯🇴"
+-
+  name: "Kazakhstan"
+  name_es: "Kazajistán"
+  native: "Қазақстан"
+  iso2: "KZ"
+  iso3: "KAZ"
+  numeric_code: "398"
+  phonecode: "7"
+  capital: "Astana"
+  currency: "KZT"
+  currency_name: "Kazakhstani tenge"
+  currency_symbol: "лв"
+  tld: ".kz"
+  region: "Asia"
+  subregion: "Central Asia"
+  nationality: "Kazakhstani, Kazakh"
+  population: 20407844
+  gdp: 300538
+  latitude: 48
+  longitude: 68
+  emoji: "🇰🇿"
+-
+  name: "Kenya"
+  name_es: "Kenia"
+  native: "Kenya"
+  iso2: "KE"
+  iso3: "KEN"
+  numeric_code: "404"
+  phonecode: "254"
+  capital: "Nairobi"
+  currency: "KES"
+  currency_name: "Kenyan shilling"
+  currency_symbol: "KSh"
+  tld: ".ke"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Kenyan"
+  population: 53330978
+  gdp: 131673
+  latitude: 1
+  longitude: 38
+  emoji: "🇰🇪"
+-
+  name: "Kiribati"
+  name_es: "Kiribati"
+  native: "Kiribati"
+  iso2: "KI"
+  iso3: "KIR"
+  numeric_code: "296"
+  phonecode: "686"
+  capital: "Tarawa"
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".ki"
+  region: "Oceania"
+  subregion: "Micronesia"
+  nationality: "I-Kiribati"
+  population: 120740
+  gdp: 312
+  latitude: 1.41666666
+  longitude: 173
+  emoji: "🇰🇮"
+-
+  name: "Kosovo"
+  name_es: "Kosovo"
+  native: "Republika e Kosovës"
+  iso2: "XK"
+  iso3: "XKX"
+  numeric_code: "926"
+  phonecode: "383"
+  capital: "Pristina"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".xk"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Kosovar, Kosovan"
+  population: 1585566
+  gdp: 11274
+  latitude: 42.5612909
+  longitude: 20.3403035
+  emoji: "🇽🇰"
+-
+  name: "Kuwait"
+  name_es: "Kuwait"
+  native: "الكويت"
+  iso2: "KW"
+  iso3: "KWT"
+  numeric_code: "414"
+  phonecode: "965"
+  capital: "Kuwait City"
+  currency: "KWD"
+  currency_name: "Kuwaiti dinar"
+  currency_symbol: "ك.د"
+  tld: ".kw"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Kuwaiti"
+  population: 4881254
+  gdp: 153101
+  latitude: 29.5
+  longitude: 45.75
+  emoji: "🇰🇼"
+-
+  name: "Kyrgyzstan"
+  name_es: "Kirguizistán"
+  native: "Кыргызстан"
+  iso2: "KG"
+  iso3: "KGZ"
+  numeric_code: "417"
+  phonecode: "996"
+  capital: "Bishkek"
+  currency: "KGS"
+  currency_name: "Kyrgyzstani som"
+  currency_symbol: "лв"
+  tld: ".kg"
+  region: "Asia"
+  subregion: "Central Asia"
+  nationality: "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
+  population: 7281800
+  gdp: 19849
+  latitude: 41
+  longitude: 75
+  emoji: "🇰🇬"
+-
+  name: "Laos"
+  name_es: "Laos"
+  native: "ສປປລາວ"
+  iso2: "LA"
+  iso3: "LAO"
+  numeric_code: "418"
+  phonecode: "856"
+  capital: "Vientiane"
+  currency: "LAK"
+  currency_name: "Lao kip"
+  currency_symbol: "₭"
+  tld: ".la"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Lao, Laotian"
+  population: 7647000
+  gdp: 16322
+  latitude: 18
+  longitude: 105
+  emoji: "🇱🇦"
+-
+  name: "Latvia"
+  name_es: "Letonia"
+  native: "Latvija"
+  iso2: "LV"
+  iso3: "LVA"
+  numeric_code: "428"
+  phonecode: "371"
+  capital: "Riga"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".lv"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Latvian"
+  population: 1830400
+  gdp: 45535
+  latitude: 57
+  longitude: 25
+  emoji: "🇱🇻"
+-
+  name: "Lebanon"
+  name_es: "Líbano"
+  native: "لبنان"
+  iso2: "LB"
+  iso3: "LBN"
+  numeric_code: "422"
+  phonecode: "961"
+  capital: "Beirut"
+  currency: "LBP"
+  currency_name: "Lebanese pound"
+  currency_symbol: "£"
+  tld: ".lb"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Lebanese"
+  population: 5490000
+  gdp: null
+  latitude: 33.83333333
+  longitude: 35.83333333
+  emoji: "🇱🇧"
+-
+  name: "Lesotho"
+  name_es: "Lesotho"
+  native: "Lesotho"
+  iso2: "LS"
+  iso3: "LSO"
+  numeric_code: "426"
+  phonecode: "266"
+  capital: "Maseru"
+  currency: "LSL"
+  currency_name: "Lesotho loti"
+  currency_symbol: "L"
+  tld: ".ls"
+  region: "Africa"
+  subregion: "Southern Africa"
+  nationality: "Basotho"
+  population: 2116427
+  gdp: 2404
+  latitude: -29.5
+  longitude: 28.5
+  emoji: "🇱🇸"
+-
+  name: "Liberia"
+  name_es: "Liberia"
+  native: "Liberia"
+  iso2: "LR"
+  iso3: "LBR"
+  numeric_code: "430"
+  phonecode: "231"
+  capital: "Monrovia"
+  currency: "LRD"
+  currency_name: "Liberian dollar"
+  currency_symbol: "$"
+  tld: ".lr"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Liberian"
+  population: 5248621
+  gdp: 5166
+  latitude: 6.5
+  longitude: -9.5
+  emoji: "🇱🇷"
+-
+  name: "Libya"
+  name_es: "Libia"
+  native: "‏ليبيا"
+  iso2: "LY"
+  iso3: "LBY"
+  numeric_code: "434"
+  phonecode: "218"
+  capital: "Tripolis"
+  currency: "LYD"
+  currency_name: "Libyan dinar"
+  currency_symbol: "د.ل"
+  tld: ".ly"
+  region: "Africa"
+  subregion: "Northern Africa"
+  nationality: "Libyan"
+  population: 7459000
+  gdp: 47484
+  latitude: 25
+  longitude: 17
+  emoji: "🇱🇾"
+-
+  name: "Liechtenstein"
+  name_es: "Liechtenstein"
+  native: "Liechtenstein"
+  iso2: "LI"
+  iso3: "LIE"
+  numeric_code: "438"
+  phonecode: "423"
+  capital: "Vaduz"
+  currency: "CHF"
+  currency_name: "Swiss franc"
+  currency_symbol: "CHf"
+  tld: ".li"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "Liechtenstein"
+  population: 40900
+  gdp: null
+  latitude: 47.26666666
+  longitude: 9.53333333
+  emoji: "🇱🇮"
+-
+  name: "Lithuania"
+  name_es: "Lituania"
+  native: "Lietuva"
+  iso2: "LT"
+  iso3: "LTU"
+  numeric_code: "440"
+  phonecode: "370"
+  capital: "Vilnius"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".lt"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Lithuanian"
+  population: 2894548
+  gdp: 89192
+  latitude: 56
+  longitude: 24
+  emoji: "🇱🇹"
+-
+  name: "Luxembourg"
+  name_es: "Luxemburgo"
+  native: "Luxembourg"
+  iso2: "LU"
+  iso3: "LUX"
+  numeric_code: "442"
+  phonecode: "352"
+  capital: "Luxembourg"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".lu"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "Luxembourg, Luxembourgish"
+  population: 681973
+  gdp: 96613
+  latitude: 49.75
+  longitude: 6.16666666
+  emoji: "🇱🇺"
+-
+  name: "Macau S.A.R."
+  name_es: "Macao"
+  native: "澳門"
+  iso2: "MO"
+  iso3: "MAC"
+  numeric_code: "446"
+  phonecode: "853"
+  capital: "Macao"
+  currency: "MOP"
+  currency_name: "Macanese pataca"
+  currency_symbol: "$"
+  tld: ".mo"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "Macanese, Chinese"
+  population: 685900
+  gdp: 53354
+  latitude: 22.16666666
+  longitude: 113.55
+  emoji: "🇲🇴"
+-
+  name: "Madagascar"
+  name_es: "Madagascar"
+  native: "Madagasikara"
+  iso2: "MG"
+  iso3: "MDG"
+  numeric_code: "450"
+  phonecode: "261"
+  capital: "Antananarivo"
+  currency: "MGA"
+  currency_name: "Malagasy ariary"
+  currency_symbol: "Ar"
+  tld: ".mg"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Malagasy"
+  population: 31727042
+  gdp: 18708
+  latitude: -20
+  longitude: 47
+  emoji: "🇲🇬"
+-
+  name: "Malawi"
+  name_es: "Malawi"
+  native: "Malawi"
+  iso2: "MW"
+  iso3: "MWI"
+  numeric_code: "454"
+  phonecode: "265"
+  capital: "Lilongwe"
+  currency: "MWK"
+  currency_name: "Malawian kwacha"
+  currency_symbol: "MK"
+  tld: ".mw"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Malawian"
+  population: 20734262
+  gdp: 13959
+  latitude: -13.5
+  longitude: 34
+  emoji: "🇲🇼"
+-
+  name: "Malaysia"
+  name_es: "Malasia"
+  native: "Malaysia"
+  iso2: "MY"
+  iso3: "MYS"
+  numeric_code: "458"
+  phonecode: "60"
+  capital: "Kuala Lumpur"
+  currency: "MYR"
+  currency_name: "Malaysian ringgit"
+  currency_symbol: "RM"
+  tld: ".my"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Malaysian"
+  population: 34231700
+  gdp: 444984
+  latitude: 2.5
+  longitude: 112.5
+  emoji: "🇲🇾"
+-
+  name: "Maldives"
+  name_es: "Maldivas"
+  native: "Maldives"
+  iso2: "MV"
+  iso3: "MDV"
+  numeric_code: "462"
+  phonecode: "960"
+  capital: "Male"
+  currency: "MVR"
+  currency_name: "Maldivian rufiyaa"
+  currency_symbol: "Rf"
+  tld: ".mv"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Maldivian"
+  population: 515132
+  gdp: 7480
+  latitude: 3.25
+  longitude: 73
+  emoji: "🇲🇻"
+-
+  name: "Mali"
+  name_es: "Mali"
+  native: "Mali"
+  iso2: "ML"
+  iso3: "MLI"
+  numeric_code: "466"
+  phonecode: "223"
+  capital: "Bamako"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".ml"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Malian, Malinese"
+  population: 22395489
+  gdp: 23208
+  latitude: 17
+  longitude: -4
+  emoji: "🇲🇱"
+-
+  name: "Malta"
+  name_es: "Malta"
+  native: "Malta"
+  iso2: "MT"
+  iso3: "MLT"
+  numeric_code: "470"
+  phonecode: "356"
+  capital: "Valletta"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".mt"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Maltese"
+  population: 574250
+  gdp: 25750
+  latitude: 35.83333333
+  longitude: 14.58333333
+  emoji: "🇲🇹"
+-
+  name: "Man (Isle of)"
+  name_es: "Isla de Man"
+  native: "Isle of Man"
+  iso2: "IM"
+  iso3: "IMN"
+  numeric_code: "833"
+  phonecode: "44"
+  capital: "Douglas, Isle of Man"
+  currency: "GBP"
+  currency_name: "British pound"
+  currency_symbol: "£"
+  tld: ".im"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Manx"
+  population: 84530
+  gdp: null
+  latitude: 54.25
+  longitude: -4.5
+  emoji: "🇮🇲"
+-
+  name: "Marshall Islands"
+  name_es: "Islas Marshall"
+  native: "M̧ajeļ"
+  iso2: "MH"
+  iso3: "MHL"
+  numeric_code: "584"
+  phonecode: "692"
+  capital: "Majuro"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".mh"
+  region: "Oceania"
+  subregion: "Micronesia"
+  nationality: "Marshallese"
+  population: 42418
+  gdp: 297
+  latitude: 9
+  longitude: 168
+  emoji: "🇲🇭"
+-
+  name: "Martinique"
+  name_es: "Martinica"
+  native: "Martinique"
+  iso2: "MQ"
+  iso3: "MTQ"
+  numeric_code: "474"
+  phonecode: "596"
+  capital: "Fort-de-France"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".mq"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Martiniquais, Martinican"
+  population: 339897
+  gdp: null
+  latitude: 14.666667
+  longitude: -61
+  emoji: "🇲🇶"
+-
+  name: "Mauritania"
+  name_es: "Mauritania"
+  native: "موريتانيا"
+  iso2: "MR"
+  iso3: "MRT"
+  numeric_code: "478"
+  phonecode: "222"
+  capital: "Nouakchott"
+  currency: "MRU"
+  currency_name: "Mauritanian ouguiya"
+  currency_symbol: "UM"
+  tld: ".mr"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Mauritanian"
+  population: 4927532
+  gdp: 11470
+  latitude: 20
+  longitude: -12
+  emoji: "🇲🇷"
+-
+  name: "Mauritius"
+  name_es: "Mauricio"
+  native: "Maurice"
+  iso2: "MU"
+  iso3: "MUS"
+  numeric_code: "480"
+  phonecode: "230"
+  capital: "Port Louis"
+  currency: "MUR"
+  currency_name: "Mauritian rupee"
+  currency_symbol: "₨"
+  tld: ".mu"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Mauritian"
+  population: 1243741
+  gdp: 15495
+  latitude: -20.28333333
+  longitude: 57.55
+  emoji: "🇲🇺"
+-
+  name: "Mayotte"
+  name_es: "Mayotte"
+  native: "Mayotte"
+  iso2: "YT"
+  iso3: "MYT"
+  numeric_code: "175"
+  phonecode: "262"
+  capital: "Mamoudzou"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".yt"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Mahoran"
+  population: 337011
+  gdp: null
+  latitude: -12.83333333
+  longitude: 45.16666666
+  emoji: "🇾🇹"
+-
+  name: "Mexico"
+  name_es: "México"
+  native: "México"
+  iso2: "MX"
+  iso3: "MEX"
+  numeric_code: "484"
+  phonecode: "52"
+  capital: "Ciudad de México"
+  currency: "MXN"
+  currency_name: "Mexican peso"
+  currency_symbol: "$"
+  tld: ".mx"
+  region: "Americas"
+  subregion: "Northern America"
+  nationality: "Mexican"
+  population: 130575786
+  gdp: 1692640
+  latitude: 23
+  longitude: -102
+  emoji: "🇲🇽"
+-
+  name: "Micronesia"
+  name_es: "Micronesia"
+  native: "Micronesia"
+  iso2: "FM"
+  iso3: "FSM"
+  numeric_code: "583"
+  phonecode: "691"
+  capital: "Palikir"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".fm"
+  region: "Oceania"
+  subregion: "Micronesia"
+  nationality: "Micronesian"
+  population: 105564
+  gdp: 500
+  latitude: 6.91666666
+  longitude: 158.25
+  emoji: "🇫🇲"
+-
+  name: "Moldova"
+  name_es: "Moldavia"
+  native: "Moldova"
+  iso2: "MD"
+  iso3: "MDA"
+  numeric_code: "498"
+  phonecode: "373"
+  capital: "Chisinau"
+  currency: "MDL"
+  currency_name: "Moldovan leu"
+  currency_symbol: "L"
+  tld: ".md"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Moldovan"
+  population: 2381300
+  gdp: 19462
+  latitude: 47
+  longitude: 29
+  emoji: "🇲🇩"
+-
+  name: "Monaco"
+  name_es: "Mónaco"
+  native: "Monaco"
+  iso2: "MC"
+  iso3: "MCO"
+  numeric_code: "492"
+  phonecode: "377"
+  capital: "Monaco"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".mc"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "Monegasque, Monacan"
+  population: 38423
+  gdp: null
+  latitude: 43.73333333
+  longitude: 7.4
+  emoji: "🇲🇨"
+-
+  name: "Mongolia"
+  name_es: "Mongolia"
+  native: "Монгол улс"
+  iso2: "MN"
+  iso3: "MNG"
+  numeric_code: "496"
+  phonecode: "976"
+  capital: "Ulan Bator"
+  currency: "MNT"
+  currency_name: "Mongolian tögrög"
+  currency_symbol: "₮"
+  tld: ".mn"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "Mongolian"
+  population: 3544835
+  gdp: 25804
+  latitude: 46
+  longitude: 105
+  emoji: "🇲🇳"
+-
+  name: "Montenegro"
+  name_es: "Montenegro"
+  native: "Црна Гора"
+  iso2: "ME"
+  iso3: "MNE"
+  numeric_code: "499"
+  phonecode: "382"
+  capital: "Podgorica"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".me"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Montenegrin"
+  population: 623327
+  gdp: 8562
+  latitude: 42.5
+  longitude: 19.3
+  emoji: "🇲🇪"
+-
+  name: "Montserrat"
+  name_es: "Montserrat"
+  native: "Montserrat"
+  iso2: "MS"
+  iso3: "MSR"
+  numeric_code: "500"
+  phonecode: "1"
+  capital: "Plymouth"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".ms"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Montserratian"
+  population: 4386
+  gdp: null
+  latitude: 16.75
+  longitude: -62.2
+  emoji: "🇲🇸"
+-
+  name: "Morocco"
+  name_es: "Marruecos"
+  native: "المغرب"
+  iso2: "MA"
+  iso3: "MAR"
+  numeric_code: "504"
+  phonecode: "212"
+  capital: "Rabat"
+  currency: "MAD"
+  currency_name: "Moroccan dirham"
+  currency_symbol: "DH"
+  tld: ".ma"
+  region: "Africa"
+  subregion: "Northern Africa"
+  nationality: "Moroccan"
+  population: 36828330
+  gdp: 165835
+  latitude: 32
+  longitude: -5
+  emoji: "🇲🇦"
+-
+  name: "Mozambique"
+  name_es: "Mozambique"
+  native: "Moçambique"
+  iso2: "MZ"
+  iso3: "MOZ"
+  numeric_code: "508"
+  phonecode: "258"
+  capital: "Maputo"
+  currency: "MZN"
+  currency_name: "Mozambican metical"
+  currency_symbol: "MT"
+  tld: ".mz"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Mozambican"
+  population: 34090466
+  gdp: 23771
+  latitude: -18.25
+  longitude: 35
+  emoji: "🇲🇿"
+-
+  name: "Myanmar"
+  name_es: "Myanmar"
+  native: "မြန်မာ"
+  iso2: "MM"
+  iso3: "MMR"
+  numeric_code: "104"
+  phonecode: "95"
+  capital: "Nay Pyi Taw"
+  currency: "MMK"
+  currency_name: "Burmese kyat"
+  currency_symbol: "K"
+  tld: ".mm"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Burmese"
+  population: 51316756
+  gdp: 64944
+  latitude: 22
+  longitude: 98
+  emoji: "🇲🇲"
+-
+  name: "Namibia"
+  name_es: "Namibia"
+  native: "Namibia"
+  iso2: "NA"
+  iso3: "NAM"
+  numeric_code: "516"
+  phonecode: "264"
+  capital: "Windhoek"
+  currency: "NAD"
+  currency_name: "Namibian dollar"
+  currency_symbol: "$"
+  tld: ".na"
+  region: "Africa"
+  subregion: "Southern Africa"
+  nationality: "Namibian"
+  population: 3022401
+  gdp: 14214
+  latitude: -22
+  longitude: 17
+  emoji: "🇳🇦"
+-
+  name: "Nauru"
+  name_es: "Nauru"
+  native: "Nauru"
+  iso2: "NR"
+  iso3: "NRU"
+  numeric_code: "520"
+  phonecode: "674"
+  capital: "Yaren"
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".nr"
+  region: "Oceania"
+  subregion: "Micronesia"
+  nationality: "Nauruan"
+  population: 11680
+  gdp: 169
+  latitude: -0.53333333
+  longitude: 166.91666666
+  emoji: "🇳🇷"
+-
+  name: "Nepal"
+  name_es: "Nepal"
+  native: "नेपाल"
+  iso2: "NP"
+  iso3: "NPL"
+  numeric_code: "524"
+  phonecode: "977"
+  capital: "Kathmandu"
+  currency: "NPR"
+  currency_name: "Nepalese rupee"
+  currency_symbol: "₨"
+  tld: ".np"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Nepali, Nepalese"
+  population: 29911840
+  gdp: 46080
+  latitude: 28
+  longitude: 84
+  emoji: "🇳🇵"
+-
+  name: "Netherlands"
+  name_es: "Países Bajos"
+  native: "Nederland"
+  iso2: "NL"
+  iso3: "NLD"
+  numeric_code: "528"
+  phonecode: "31"
+  capital: "Amsterdam"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".nl"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "Dutch, Netherlandic"
+  population: 18080943
+  gdp: 1272011
+  latitude: 52.5
+  longitude: 5.75
+  emoji: "🇳🇱"
+-
+  name: "New Caledonia"
+  name_es: "Nueva Caledonia"
+  native: "Nouvelle-Calédonie"
+  iso2: "NC"
+  iso3: "NCL"
+  numeric_code: "540"
+  phonecode: "687"
+  capital: "Noumea"
+  currency: "XPF"
+  currency_name: "CFP franc"
+  currency_symbol: "₣"
+  tld: ".nc"
+  region: "Oceania"
+  subregion: "Melanesia"
+  nationality: "New Caledonian"
+  population: 264596
+  gdp: null
+  latitude: -21.5
+  longitude: 165.5
+  emoji: "🇳🇨"
+-
+  name: "New Zealand"
+  name_es: "Nueva Zelanda"
+  native: "New Zealand"
+  iso2: "NZ"
+  iso3: "NZL"
+  numeric_code: "554"
+  phonecode: "64"
+  capital: "Wellington"
+  currency: "NZD"
+  currency_name: "New Zealand dollar"
+  currency_symbol: "$"
+  tld: ".nz"
+  region: "Oceania"
+  subregion: "Australia and New Zealand"
+  nationality: "New Zealand, NZ"
+  population: 5324700
+  gdp: 248666
+  latitude: -41
+  longitude: 174
+  emoji: "🇳🇿"
+-
+  name: "Nicaragua"
+  name_es: "Nicaragua"
+  native: "Nicaragua"
+  iso2: "NI"
+  iso3: "NIC"
+  numeric_code: "558"
+  phonecode: "505"
+  capital: "Managua"
+  currency: "NIO"
+  currency_name: "Nicaraguan córdoba"
+  currency_symbol: "C$"
+  tld: ".ni"
+  region: "Americas"
+  subregion: "Central America"
+  nationality: "Nicaraguan"
+  population: 6803886
+  gdp: 21155
+  latitude: 13
+  longitude: -85
+  emoji: "🇳🇮"
+-
+  name: "Niger"
+  name_es: "Níger"
+  native: "Niger"
+  iso2: "NE"
+  iso3: "NER"
+  numeric_code: "562"
+  phonecode: "227"
+  capital: "Niamey"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".ne"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Nigerien"
+  population: 26312034
+  gdp: 21874
+  latitude: 16
+  longitude: 8
+  emoji: "🇳🇪"
+-
+  name: "Nigeria"
+  name_es: "Nigeria"
+  native: "Nigeria"
+  iso2: "NG"
+  iso3: "NGA"
+  numeric_code: "566"
+  phonecode: "234"
+  capital: "Abuja"
+  currency: "NGN"
+  currency_name: "Nigerian naira"
+  currency_symbol: "₦"
+  tld: ".ng"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Nigerian"
+  population: 223800000
+  gdp: 188271
+  latitude: 10
+  longitude: 8
+  emoji: "🇳🇬"
+-
+  name: "Niue"
+  name_es: "Niue"
+  native: "Niuē"
+  iso2: "NU"
+  iso3: "NIU"
+  numeric_code: "570"
+  phonecode: "683"
+  capital: "Alofi"
+  currency: "NZD"
+  currency_name: "New Zealand dollar"
+  currency_symbol: "$"
+  tld: ".nu"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Niuean"
+  population: 1681
+  gdp: null
+  latitude: -19.03333333
+  longitude: -169.86666666
+  emoji: "🇳🇺"
+-
+  name: "Norfolk Island"
+  name_es: "Isla de Norfolk"
+  native: "Norfolk Island"
+  iso2: "NF"
+  iso3: "NFK"
+  numeric_code: "574"
+  phonecode: "672"
+  capital: "Kingston"
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".nf"
+  region: "Oceania"
+  subregion: "Australia and New Zealand"
+  nationality: "Norfolk Island"
+  population: 2188
+  gdp: null
+  latitude: -29.03333333
+  longitude: 167.95
+  emoji: "🇳🇫"
+-
+  name: "North Korea"
+  name_es: "Corea del Norte"
+  native: "북한"
+  iso2: "KP"
+  iso3: "PRK"
+  numeric_code: "408"
+  phonecode: "850"
+  capital: "Pyongyang"
+  currency: "KPW"
+  currency_name: "North Korean Won"
+  currency_symbol: "₩"
+  tld: ".kp"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "North Korean"
+  population: 25950000
+  gdp: null
+  latitude: 40
+  longitude: 127
+  emoji: "🇰🇵"
+-
+  name: "North Macedonia"
+  name_es: "Macedonia del Norte"
+  native: "Северна Македонија"
+  iso2: "MK"
+  iso3: "MKD"
+  numeric_code: "807"
+  phonecode: "389"
+  capital: "Skopje"
+  currency: "MKD"
+  currency_name: "Denar"
+  currency_symbol: "ден"
+  tld: ".mk"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Macedonian"
+  population: 1826247
+  gdp: 17885
+  latitude: 41.83333333
+  longitude: 22
+  emoji: "🇲🇰"
+-
+  name: "Northern Mariana Islands"
+  name_es: "Islas Marianas del Norte"
+  native: "Northern Mariana Islands"
+  iso2: "MP"
+  iso3: "MNP"
+  numeric_code: "580"
+  phonecode: "1"
+  capital: "Saipan"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".mp"
+  region: "Oceania"
+  subregion: "Micronesia"
+  nationality: "Northern Marianan"
+  population: 47329
+  gdp: null
+  latitude: 15.2
+  longitude: 145.75
+  emoji: "🇲🇵"
+-
+  name: "Norway"
+  name_es: "Noruega"
+  native: "Norge"
+  iso2: "NO"
+  iso3: "NOR"
+  numeric_code: "578"
+  phonecode: "47"
+  capital: "Oslo"
+  currency: "NOK"
+  currency_name: "Norwegian krone"
+  currency_symbol: "ko"
+  tld: ".no"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Norwegian"
+  population: 5606944
+  gdp: 504276
+  latitude: 62
+  longitude: 10
+  emoji: "🇳🇴"
+-
+  name: "Oman"
+  name_es: "Omán"
+  native: "عمان"
+  iso2: "OM"
+  iso3: "OMN"
+  numeric_code: "512"
+  phonecode: "968"
+  capital: "Muscat"
+  currency: "OMR"
+  currency_name: "Omani rial"
+  currency_symbol: ".ع.ر"
+  tld: ".om"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Omani"
+  population: 5306976
+  gdp: 104351
+  latitude: 21
+  longitude: 57
+  emoji: "🇴🇲"
+-
+  name: "Pakistan"
+  name_es: "Pakistán"
+  native: "پاکستان"
+  iso2: "PK"
+  iso3: "PAK"
+  numeric_code: "586"
+  phonecode: "92"
+  capital: "Islamabad"
+  currency: "PKR"
+  currency_name: "Pakistani rupee"
+  currency_symbol: "₨"
+  tld: ".pk"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Pakistani"
+  population: 241499431
+  gdp: null
+  latitude: 30
+  longitude: 70
+  emoji: "🇵🇰"
+-
+  name: "Palau"
+  name_es: "Palau"
+  native: "Palau"
+  iso2: "PW"
+  iso3: "PLW"
+  numeric_code: "585"
+  phonecode: "680"
+  capital: "Melekeok"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".pw"
+  region: "Oceania"
+  subregion: "Micronesia"
+  nationality: "Palauan"
+  population: 16733
+  gdp: 333
+  latitude: 7.5
+  longitude: 134.5
+  emoji: "🇵🇼"
+-
+  name: "Palestinian Territory Occupied"
+  name_es: "Palestina"
+  native: "فلسطين"
+  iso2: "PS"
+  iso3: "PSE"
+  numeric_code: "275"
+  phonecode: "970"
+  capital: "East Jerusalem"
+  currency: "ILS"
+  currency_name: "Israeli new shekel"
+  currency_symbol: "₪"
+  tld: ".ps"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Palestinian"
+  population: 5483450
+  gdp: null
+  latitude: 31.9
+  longitude: 35.2
+  emoji: "🇵🇸"
+-
+  name: "Panama"
+  name_es: "Panamá"
+  native: "Panamá"
+  iso2: "PA"
+  iso3: "PAN"
+  numeric_code: "591"
+  phonecode: "507"
+  capital: "Panama City"
+  currency: "PAB"
+  currency_name: "Panamanian balboa"
+  currency_symbol: "B/."
+  tld: ".pa"
+  region: "Americas"
+  subregion: "Central America"
+  nationality: "Panamanian"
+  population: 4064780
+  gdp: 91675
+  latitude: 9
+  longitude: -80
+  emoji: "🇵🇦"
+-
+  name: "Papua New Guinea"
+  name_es: "Papúa Nueva Guinea"
+  native: "Papua Niugini"
+  iso2: "PG"
+  iso3: "PNG"
+  numeric_code: "598"
+  phonecode: "675"
+  capital: "Port Moresby"
+  currency: "PGK"
+  currency_name: "Papua New Guinean kina"
+  currency_symbol: "K"
+  tld: ".pg"
+  region: "Oceania"
+  subregion: "Melanesia"
+  nationality: "Papua New Guinean, Papuan"
+  population: 11781559
+  gdp: 32835
+  latitude: -6
+  longitude: 147
+  emoji: "🇵🇬"
+-
+  name: "Paraguay"
+  name_es: "Paraguay"
+  native: "Paraguay"
+  iso2: "PY"
+  iso3: "PRY"
+  numeric_code: "600"
+  phonecode: "595"
+  capital: "Asunción"
+  currency: "PYG"
+  currency_name: "Paraguayan guarani"
+  currency_symbol: "₲"
+  tld: ".py"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Paraguayan"
+  population: 6109644
+  gdp: 45465
+  latitude: -23
+  longitude: -58
+  emoji: "🇵🇾"
+-
+  name: "Peru"
+  name_es: "Perú"
+  native: "Perú"
+  iso2: "PE"
+  iso3: "PER"
+  numeric_code: "604"
+  phonecode: "51"
+  capital: "Lima"
+  currency: "PEN"
+  currency_name: "Peruvian sol"
+  currency_symbol: "S/."
+  tld: ".pe"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Peruvian"
+  population: 34350244
+  gdp: 303293
+  latitude: -10
+  longitude: -76
+  emoji: "🇵🇪"
+-
+  name: "Philippines"
+  name_es: "Filipinas"
+  native: "Pilipinas"
+  iso2: "PH"
+  iso3: "PHL"
+  numeric_code: "608"
+  phonecode: "63"
+  capital: "Manila"
+  currency: "PHP"
+  currency_name: "Philippine peso"
+  currency_symbol: "₱"
+  tld: ".ph"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Philippine, Filipino"
+  population: 114123600
+  gdp: 497495
+  latitude: 13
+  longitude: 122
+  emoji: "🇵🇭"
+-
+  name: "Pitcairn Island"
+  name_es: "Islas Pitcairn"
+  native: "Pitcairn Islands"
+  iso2: "PN"
+  iso3: "PCN"
+  numeric_code: "612"
+  phonecode: "870"
+  capital: "Adamstown"
+  currency: "NZD"
+  currency_name: "New Zealand dollar"
+  currency_symbol: "$"
+  tld: ".pn"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Pitcairn Island"
+  population: 35
+  gdp: null
+  latitude: -25.06666666
+  longitude: -130.1
+  emoji: "🇵🇳"
+-
+  name: "Poland"
+  name_es: "Polonia"
+  native: "Polska"
+  iso2: "PL"
+  iso3: "POL"
+  numeric_code: "616"
+  phonecode: "48"
+  capital: "Warsaw"
+  currency: "PLN"
+  currency_name: "Polish złoty"
+  currency_symbol: "zł"
+  tld: ".pl"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Polish"
+  population: 37401000
+  gdp: 979960
+  latitude: 52
+  longitude: 20
+  emoji: "🇵🇱"
+-
+  name: "Portugal"
+  name_es: "Portugal"
+  native: "Portugal"
+  iso2: "PT"
+  iso3: "PRT"
+  numeric_code: "620"
+  phonecode: "351"
+  capital: "Lisbon"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".pt"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Portuguese"
+  population: 10749635
+  gdp: 321440
+  latitude: 39.5
+  longitude: -8
+  emoji: "🇵🇹"
+-
+  name: "Puerto Rico"
+  name_es: "Puerto Rico"
+  native: "Puerto Rico"
+  iso2: "PR"
+  iso3: "PRI"
+  numeric_code: "630"
+  phonecode: "1"
+  capital: "San Juan"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".pr"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Puerto Rican"
+  population: 3203295
+  gdp: 122522
+  latitude: 18.25
+  longitude: -66.5
+  emoji: "🇵🇷"
+-
+  name: "Qatar"
+  name_es: "Catar"
+  native: "قطر"
+  iso2: "QA"
+  iso3: "QAT"
+  numeric_code: "634"
+  phonecode: "974"
+  capital: "Doha"
+  currency: "QAR"
+  currency_name: "Qatari riyal"
+  currency_symbol: "ق.ر"
+  tld: ".qa"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Qatari"
+  population: 3173024
+  gdp: 222776
+  latitude: 25.5
+  longitude: 51.25
+  emoji: "🇶🇦"
+-
+  name: "Reunion"
+  name_es: "Reunión"
+  native: "La Réunion"
+  iso2: "RE"
+  iso3: "REU"
+  numeric_code: "638"
+  phonecode: "262"
+  capital: "Saint-Denis"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".re"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Reunionese, Reunionnais"
+  population: 896175
+  gdp: null
+  latitude: -21.15
+  longitude: 55.5
+  emoji: "🇷🇪"
+-
+  name: "Romania"
+  name_es: "Rumania"
+  native: "România"
+  iso2: "RO"
+  iso3: "ROU"
+  numeric_code: "642"
+  phonecode: "40"
+  capital: "Bucharest"
+  currency: "RON"
+  currency_name: "Romanian leu"
+  currency_symbol: "lei"
+  tld: ".ro"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Romanian"
+  population: 19036031
+  gdp: 403395
+  latitude: 46
+  longitude: 25
+  emoji: "🇷🇴"
+-
+  name: "Russia"
+  name_es: "Rusia"
+  native: "Россия"
+  iso2: "RU"
+  iso3: "RUS"
+  numeric_code: "643"
+  phonecode: "7"
+  capital: "Moscow"
+  currency: "RUB"
+  currency_name: "Russian ruble"
+  currency_symbol: "₽"
+  tld: ".ru"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Russian"
+  population: 146028325
+  gdp: 2076396
+  latitude: 60
+  longitude: 100
+  emoji: "🇷🇺"
+-
+  name: "Rwanda"
+  name_es: "Ruanda"
+  native: "Rwanda"
+  iso2: "RW"
+  iso3: "RWA"
+  numeric_code: "646"
+  phonecode: "250"
+  capital: "Kigali"
+  currency: "RWF"
+  currency_name: "Rwandan franc"
+  currency_symbol: "FRw"
+  tld: ".rw"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Rwandan"
+  population: 14104969
+  gdp: 14771
+  latitude: -2
+  longitude: 30
+  emoji: "🇷🇼"
+-
+  name: "Saint Helena"
+  name_es: "Santa Helena"
+  native: "Saint Helena"
+  iso2: "SH"
+  iso3: "SHN"
+  numeric_code: "654"
+  phonecode: "290"
+  capital: "Jamestown"
+  currency: "SHP"
+  currency_name: "Saint Helena pound"
+  currency_symbol: "£"
+  tld: ".sh"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Saint Helenian"
+  population: 5651
+  gdp: null
+  latitude: -15.95
+  longitude: -5.7
+  emoji: "🇸🇭"
+-
+  name: "Saint Kitts and Nevis"
+  name_es: "San Cristóbal y Nieves"
+  native: "Saint Kitts and Nevis"
+  iso2: "KN"
+  iso3: "KNA"
+  numeric_code: "659"
+  phonecode: "1"
+  capital: "Basseterre"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".kn"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Kittitian or Nevisian"
+  population: 51320
+  gdp: 1129
+  latitude: 17.33333333
+  longitude: -62.75
+  emoji: "🇰🇳"
+-
+  name: "Saint Lucia"
+  name_es: "Santa Lucía"
+  native: "Saint Lucia"
+  iso2: "LC"
+  iso3: "LCA"
+  numeric_code: "662"
+  phonecode: "1"
+  capital: "Castries"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".lc"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Saint Lucian"
+  population: 184100
+  gdp: 2632
+  latitude: 13.88333333
+  longitude: -60.96666666
+  emoji: "🇱🇨"
+-
+  name: "Saint Pierre and Miquelon"
+  name_es: "San Pedro y Miquelón"
+  native: "Saint-Pierre-et-Miquelon"
+  iso2: "PM"
+  iso3: "SPM"
+  numeric_code: "666"
+  phonecode: "508"
+  capital: "Saint-Pierre"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".pm"
+  region: "Americas"
+  subregion: "Northern America"
+  nationality: "Saint-Pierrais or Miquelonnais"
+  population: 5819
+  gdp: null
+  latitude: 46.83333333
+  longitude: -56.33333333
+  emoji: "🇵🇲"
+-
+  name: "Saint Vincent and the Grenadines"
+  name_es: "San Vicente y Granadinas"
+  native: "Saint Vincent and the Grenadines"
+  iso2: "VC"
+  iso3: "VCT"
+  numeric_code: "670"
+  phonecode: "1"
+  capital: "Kingstown"
+  currency: "XCD"
+  currency_name: "Eastern Caribbean dollar"
+  currency_symbol: "$"
+  tld: ".vc"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Saint Vincentian, Vincentian"
+  population: 110872
+  gdp: 1242
+  latitude: 13.25
+  longitude: -61.2
+  emoji: "🇻🇨"
+-
+  name: "Saint-Barthelemy"
+  name_es: "San Bartolomé"
+  native: "Saint-Barthélemy"
+  iso2: "BL"
+  iso3: "BLM"
+  numeric_code: "652"
+  phonecode: "590"
+  capital: "Gustavia"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".bl"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Barthelemois"
+  population: 10562
+  gdp: null
+  latitude: 18.5
+  longitude: -63.41666666
+  emoji: "🇧🇱"
+-
+  name: "Saint-Martin (French part)"
+  name_es: "Saint Martin"
+  native: "Saint-Martin"
+  iso2: "MF"
+  iso3: "MAF"
+  numeric_code: "663"
+  phonecode: "590"
+  capital: "Marigot"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".mf"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Saint-Martinoise"
+  population: 31496
+  gdp: null
+  latitude: 18.08333333
+  longitude: -63.95
+  emoji: "🇲🇫"
+-
+  name: "Samoa"
+  name_es: "Samoa"
+  native: "Samoa"
+  iso2: "WS"
+  iso3: "WSM"
+  numeric_code: "882"
+  phonecode: "685"
+  capital: "Apia"
+  currency: "WST"
+  currency_name: "Samoan tālā"
+  currency_symbol: "SAT"
+  tld: ".ws"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Samoan"
+  population: 205557
+  gdp: 1160
+  latitude: -13.58333333
+  longitude: -172.33333333
+  emoji: "🇼🇸"
+-
+  name: "San Marino"
+  name_es: "San Marino"
+  native: "San Marino"
+  iso2: "SM"
+  iso3: "SMR"
+  numeric_code: "674"
+  phonecode: "378"
+  capital: "San Marino"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".sm"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Sammarinese"
+  population: 34132
+  gdp: 2047
+  latitude: 43.76666666
+  longitude: 12.41666666
+  emoji: "🇸🇲"
+-
+  name: "Sao Tome and Principe"
+  name_es: "Santo Tomé y Príncipe"
+  native: "São Tomé e Príncipe"
+  iso2: "ST"
+  iso3: "STP"
+  numeric_code: "678"
+  phonecode: "239"
+  capital: "Sao Tome"
+  currency: "STN"
+  currency_name: "Dobra"
+  currency_symbol: "Db"
+  tld: ".st"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "Sao Tomean"
+  population: 209607
+  gdp: 864
+  latitude: 1
+  longitude: 7
+  emoji: "🇸🇹"
+-
+  name: "Saudi Arabia"
+  name_es: "Arabia Saudí"
+  native: "المملكة العربية السعودية"
+  iso2: "SA"
+  iso3: "SAU"
+  numeric_code: "682"
+  phonecode: "966"
+  capital: "Riyadh"
+  currency: "SAR"
+  currency_name: "Saudi riyal"
+  currency_symbol: "﷼"
+  tld: ".sa"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Saudi, Saudi Arabian"
+  population: 35300280
+  gdp: 1083749
+  latitude: 25
+  longitude: 45
+  emoji: "🇸🇦"
+-
+  name: "Senegal"
+  name_es: "Senegal"
+  native: "Sénégal"
+  iso2: "SN"
+  iso3: "SEN"
+  numeric_code: "686"
+  phonecode: "221"
+  capital: "Dakar"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".sn"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Senegalese"
+  population: 18593258
+  gdp: 34728
+  latitude: 14
+  longitude: -14
+  emoji: "🇸🇳"
+-
+  name: "Serbia"
+  name_es: "Serbia"
+  native: "Србија"
+  iso2: "RS"
+  iso3: "SRB"
+  numeric_code: "688"
+  phonecode: "381"
+  capital: "Belgrade"
+  currency: "RSD"
+  currency_name: "Serbian dinar"
+  currency_symbol: "din"
+  tld: ".rs"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Serbian"
+  population: 6567783
+  gdp: 92549
+  latitude: 44
+  longitude: 21
+  emoji: "🇷🇸"
+-
+  name: "Seychelles"
+  name_es: "Seychelles"
+  native: "Seychelles"
+  iso2: "SC"
+  iso3: "SYC"
+  numeric_code: "690"
+  phonecode: "248"
+  capital: "Victoria"
+  currency: "SCR"
+  currency_name: "Seychellois rupee"
+  currency_symbol: "SRe"
+  tld: ".sc"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Seychellois"
+  population: 122729
+  gdp: 2198
+  latitude: -4.6574977
+  longitude: 55.4540146
+  emoji: "🇸🇨"
+-
+  name: "Sierra Leone"
+  name_es: "Sierra Leone"
+  native: "Sierra Leone"
+  iso2: "SL"
+  iso3: "SLE"
+  numeric_code: "694"
+  phonecode: "232"
+  capital: "Freetown"
+  currency: "SLL"
+  currency_name: "Sierra Leonean leone"
+  currency_symbol: "Le"
+  tld: ".sl"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Sierra Leonean"
+  population: 9077691
+  gdp: 8386
+  latitude: 8.5
+  longitude: -11.5
+  emoji: "🇸🇱"
+-
+  name: "Singapore"
+  name_es: "Singapur"
+  native: "Singapore"
+  iso2: "SG"
+  iso3: "SGP"
+  numeric_code: "702"
+  phonecode: "65"
+  capital: "Singapur"
+  currency: "SGD"
+  currency_name: "Singapore dollar"
+  currency_symbol: "$"
+  tld: ".sg"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Singaporean"
+  population: 6036900
+  gdp: 564774
+  latitude: 1.36666666
+  longitude: 103.8
+  emoji: "🇸🇬"
+-
+  name: "Sint Maarten (Dutch part)"
+  name_es: "Sint Maarten (Dutch part)"
+  native: "Sint Maarten"
+  iso2: "SX"
+  iso3: "SXM"
+  numeric_code: "534"
+  phonecode: "1721"
+  capital: "Philipsburg"
+  currency: "ANG"
+  currency_name: "Netherlands Antillean guilder"
+  currency_symbol: "ƒ"
+  tld: ".sx"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Sint Maarten"
+  population: 41349
+  gdp: null
+  latitude: 18.033333
+  longitude: -63.05
+  emoji: "🇸🇽"
+-
+  name: "Slovakia"
+  name_es: "República Eslovaca"
+  native: "Slovensko"
+  iso2: "SK"
+  iso3: "SVK"
+  numeric_code: "703"
+  phonecode: "421"
+  capital: "Bratislava"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".sk"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Slovak"
+  population: 5413813
+  gdp: 147031
+  latitude: 48.66666666
+  longitude: 19.5
+  emoji: "🇸🇰"
+-
+  name: "Slovenia"
+  name_es: "Eslovenia"
+  native: "Slovenija"
+  iso2: "SI"
+  iso3: "SVN"
+  numeric_code: "705"
+  phonecode: "386"
+  capital: "Ljubljana"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".si"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Slovenian, Slovene"
+  population: 2130638
+  gdp: 75224
+  latitude: 46.11666666
+  longitude: 14.81666666
+  emoji: "🇸🇮"
+-
+  name: "Solomon Islands"
+  name_es: "Islas Salomón"
+  native: "Solomon Islands"
+  iso2: "SB"
+  iso3: "SLB"
+  numeric_code: "090"
+  phonecode: "677"
+  capital: "Honiara"
+  currency: "SBD"
+  currency_name: "Solomon Islands dollar"
+  currency_symbol: "Si$"
+  tld: ".sb"
+  region: "Oceania"
+  subregion: "Melanesia"
+  nationality: "Solomon Island"
+  population: 750325
+  gdp: 1898
+  latitude: -8
+  longitude: 159
+  emoji: "🇸🇧"
+-
+  name: "Somalia"
+  name_es: "Somalia"
+  native: "Soomaaliya"
+  iso2: "SO"
+  iso3: "SOM"
+  numeric_code: "706"
+  phonecode: "252"
+  capital: "Mogadishu"
+  currency: "SOS"
+  currency_name: "Somali shilling"
+  currency_symbol: "Sh.so."
+  tld: ".so"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Somali, Somalian"
+  population: 19655000
+  gdp: 12994
+  latitude: 10
+  longitude: 49
+  emoji: "🇸🇴"
+-
+  name: "South Africa"
+  name_es: "República de Sudáfrica"
+  native: "South Africa"
+  iso2: "ZA"
+  iso3: "ZAF"
+  numeric_code: "710"
+  phonecode: "27"
+  capital: "Pretoria"
+  currency: "ZAR"
+  currency_name: "South African rand"
+  currency_symbol: "R"
+  tld: ".za"
+  region: "Africa"
+  subregion: "Southern Africa"
+  nationality: "South African"
+  population: 63100945
+  gdp: 410338
+  latitude: -29
+  longitude: 24
+  emoji: "🇿🇦"
+-
+  name: "South Georgia"
+  name_es: "Islas Georgias del Sur y Sandwich del Sur"
+  native: "South Georgia"
+  iso2: "GS"
+  iso3: "SGS"
+  numeric_code: "239"
+  phonecode: "500"
+  capital: "Grytviken"
+  currency: "GBP"
+  currency_name: "British pound"
+  currency_symbol: "£"
+  tld: ".gs"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "South Georgia or South Sandwich Islands"
+  population: null
+  gdp: null
+  latitude: -54.5
+  longitude: -37
+  emoji: "🇬🇸"
+-
+  name: "South Korea"
+  name_es: "Corea del Sur"
+  native: "대한민국"
+  iso2: "KR"
+  iso3: "KOR"
+  numeric_code: "410"
+  phonecode: "82"
+  capital: "Seoul"
+  currency: "KRW"
+  currency_name: "Won"
+  currency_symbol: "₩"
+  tld: ".kr"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "South Korean"
+  population: 51159889
+  gdp: 1790322
+  latitude: 37
+  longitude: 127.5
+  emoji: "🇰🇷"
+-
+  name: "South Sudan"
+  name_es: "Sudán del Sur"
+  native: "South Sudan"
+  iso2: "SS"
+  iso3: "SSD"
+  numeric_code: "728"
+  phonecode: "211"
+  capital: "Juba"
+  currency: "SSP"
+  currency_name: "South Sudanese pound"
+  currency_symbol: "£"
+  tld: ".ss"
+  region: "Africa"
+  subregion: "Middle Africa"
+  nationality: "South Sudanese"
+  population: 15786898
+  gdp: 3998
+  latitude: 7
+  longitude: 30
+  emoji: "🇸🇸"
+-
+  name: "Spain"
+  name_es: "España"
+  native: "España"
+  iso2: "ES"
+  iso3: "ESP"
+  numeric_code: "724"
+  phonecode: "34"
+  capital: "Madrid"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".es"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Spanish"
+  population: 49315949
+  gdp: 1799511
+  latitude: 40
+  longitude: -4
+  emoji: "🇪🇸"
+-
+  name: "Sri Lanka"
+  name_es: "Sri Lanka"
+  native: "śrī laṃkāva"
+  iso2: "LK"
+  iso3: "LKA"
+  numeric_code: "144"
+  phonecode: "94"
+  capital: "Colombo"
+  currency: "LKR"
+  currency_name: "Sri Lankan rupee"
+  currency_symbol: "Rs"
+  tld: ".lk"
+  region: "Asia"
+  subregion: "Southern Asia"
+  nationality: "Sri Lankan"
+  population: 21763170
+  gdp: null
+  latitude: 7
+  longitude: 81
+  emoji: "🇱🇰"
+-
+  name: "Sudan"
+  name_es: "Sudán"
+  native: "السودان"
+  iso2: "SD"
+  iso3: "SDN"
+  numeric_code: "729"
+  phonecode: "249"
+  capital: "Khartoum"
+  currency: "SDG"
+  currency_name: "Sudanese pound"
+  currency_symbol: ".س.ج"
+  tld: ".sd"
+  region: "Africa"
+  subregion: "Northern Africa"
+  nationality: "Sudanese"
+  population: 51662000
+  gdp: 31506
+  latitude: 15
+  longitude: 30
+  emoji: "🇸🇩"
+-
+  name: "Suriname"
+  name_es: "Surinam"
+  native: "Suriname"
+  iso2: "SR"
+  iso3: "SUR"
+  numeric_code: "740"
+  phonecode: "597"
+  capital: "Paramaribo"
+  currency: "SRD"
+  currency_name: "Surinamese dollar"
+  currency_symbol: "$"
+  tld: ".sr"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Surinamese"
+  population: 616500
+  gdp: 4506
+  latitude: 4
+  longitude: -56
+  emoji: "🇸🇷"
+-
+  name: "Svalbard and Jan Mayen Islands"
+  name_es: "Islas Svalbard y Jan Mayen"
+  native: "Svalbard og Jan Mayen"
+  iso2: "SJ"
+  iso3: "SJM"
+  numeric_code: "744"
+  phonecode: "47"
+  capital: "Longyearbyen"
+  currency: "NOK"
+  currency_name: "Norwegian krone"
+  currency_symbol: "ko"
+  tld: ".sj"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Svalbard"
+  population: null
+  gdp: null
+  latitude: 78
+  longitude: 20
+  emoji: "🇸🇯"
+-
+  name: "Sweden"
+  name_es: "Suecia"
+  native: "Sverige"
+  iso2: "SE"
+  iso3: "SWE"
+  numeric_code: "752"
+  phonecode: "46"
+  capital: "Stockholm"
+  currency: "SEK"
+  currency_name: "Swedish krona"
+  currency_symbol: "ko"
+  tld: ".se"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "Swedish"
+  population: 10596652
+  gdp: 620297
+  latitude: 62
+  longitude: 15
+  emoji: "🇸🇪"
+-
+  name: "Switzerland"
+  name_es: "Suiza"
+  native: "Schweiz"
+  iso2: "CH"
+  iso3: "CHE"
+  numeric_code: "756"
+  phonecode: "41"
+  capital: "Bern"
+  currency: "CHF"
+  currency_name: "Swiss franc"
+  currency_symbol: "CHf"
+  tld: ".ch"
+  region: "Europe"
+  subregion: "Western Europe"
+  nationality: "Swiss"
+  population: 9082848
+  gdp: 947125
+  latitude: 47
+  longitude: 8
+  emoji: "🇨🇭"
+-
+  name: "Syria"
+  name_es: "Siria"
+  native: "سوريا"
+  iso2: "SY"
+  iso3: "SYR"
+  numeric_code: "760"
+  phonecode: "963"
+  capital: "Damascus"
+  currency: "SYP"
+  currency_name: "Syrian pound"
+  currency_symbol: "LS"
+  tld: ".sy"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Syrian"
+  population: 25620000
+  gdp: null
+  latitude: 35
+  longitude: 38
+  emoji: "🇸🇾"
+-
+  name: "Taiwan"
+  name_es: "Taiwán"
+  native: "臺灣"
+  iso2: "TW"
+  iso3: "TWN"
+  numeric_code: "158"
+  phonecode: "886"
+  capital: "Taipei"
+  currency: "TWD"
+  currency_name: "New Taiwan dollar"
+  currency_symbol: "$"
+  tld: ".tw"
+  region: "Asia"
+  subregion: "Eastern Asia"
+  nationality: "Chinese, Taiwanese"
+  population: 23337936
+  gdp: 804889
+  latitude: 23.5
+  longitude: 121
+  emoji: "🇹🇼"
+-
+  name: "Tajikistan"
+  name_es: "Tayikistán"
+  native: "Тоҷикистон"
+  iso2: "TJ"
+  iso3: "TJK"
+  numeric_code: "762"
+  phonecode: "992"
+  capital: "Dushanbe"
+  currency: "TJS"
+  currency_name: "Tajikistani somoni"
+  currency_symbol: "SM"
+  tld: ".tj"
+  region: "Asia"
+  subregion: "Central Asia"
+  nationality: "Tajikistani"
+  population: 10499000
+  gdp: 14836
+  latitude: 39
+  longitude: 71
+  emoji: "🇹🇯"
+-
+  name: "Tanzania"
+  name_es: "Tanzania"
+  native: "Tanzania"
+  iso2: "TZ"
+  iso3: "TZA"
+  numeric_code: "834"
+  phonecode: "255"
+  capital: "Dodoma"
+  currency: "TZS"
+  currency_name: "Tanzanian shilling"
+  currency_symbol: "TSh"
+  tld: ".tz"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Tanzanian"
+  population: 68153004
+  gdp: 85977
+  latitude: -6
+  longitude: 35
+  emoji: "🇹🇿"
+-
+  name: "Thailand"
+  name_es: "Tailandia"
+  native: "ประเทศไทย"
+  iso2: "TH"
+  iso3: "THA"
+  numeric_code: "764"
+  phonecode: "66"
+  capital: "Bangkok"
+  currency: "THB"
+  currency_name: "Thai baht"
+  currency_symbol: "฿"
+  tld: ".th"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Thai"
+  population: 65859640
+  gdp: 546224
+  latitude: 15
+  longitude: 100
+  emoji: "🇹🇭"
+-
+  name: "The Bahamas"
+  name_es: "Bahamas"
+  native: "Bahamas"
+  iso2: "BS"
+  iso3: "BHS"
+  numeric_code: "044"
+  phonecode: "1"
+  capital: "Nassau"
+  currency: "BSD"
+  currency_name: "Bahamian dollar"
+  currency_symbol: "B$"
+  tld: ".bs"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Bahamian"
+  population: 398165
+  gdp: null
+  latitude: 24.25
+  longitude: -76
+  emoji: "🇧🇸"
+-
+  name: "The Gambia"
+  name_es: "Gambia"
+  native: "Gambia"
+  iso2: "GM"
+  iso3: "GMB"
+  numeric_code: "270"
+  phonecode: "220"
+  capital: "Banjul"
+  currency: "GMD"
+  currency_name: "Gambian dalasi"
+  currency_symbol: "D"
+  tld: ".gm"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Gambian"
+  population: 2422712
+  gdp: 2771
+  latitude: 13.46666666
+  longitude: -16.56666666
+  emoji: "🇬🇲"
+-
+  name: "Timor-Leste"
+  name_es: "Timor Oriental"
+  native: "Timor-Leste"
+  iso2: "TL"
+  iso3: "TLS"
+  numeric_code: "626"
+  phonecode: "670"
+  capital: "Dili"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".tl"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Timorese"
+  population: 1391221
+  gdp: 2115
+  latitude: -8.83333333
+  longitude: 125.91666666
+  emoji: "🇹🇱"
+-
+  name: "Togo"
+  name_es: "Togo"
+  native: "Togo"
+  iso2: "TG"
+  iso3: "TGO"
+  numeric_code: "768"
+  phonecode: "228"
+  capital: "Lome"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".tg"
+  region: "Africa"
+  subregion: "Western Africa"
+  nationality: "Togolese"
+  population: 8095498
+  gdp: 10023
+  latitude: 8
+  longitude: 1.16666666
+  emoji: "🇹🇬"
+-
+  name: "Tokelau"
+  name_es: "Islas Tokelau"
+  native: "Tokelau"
+  iso2: "TK"
+  iso3: "TKL"
+  numeric_code: "772"
+  phonecode: "690"
+  capital: null
+  currency: "NZD"
+  currency_name: "New Zealand dollar"
+  currency_symbol: "$"
+  tld: ".tk"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Tokelauan"
+  population: 1647
+  gdp: null
+  latitude: -9
+  longitude: -172
+  emoji: "🇹🇰"
+-
+  name: "Tonga"
+  name_es: "Tonga"
+  native: "Tonga"
+  iso2: "TO"
+  iso3: "TON"
+  numeric_code: "776"
+  phonecode: "676"
+  capital: "Nuku'alofa"
+  currency: "TOP"
+  currency_name: "Tongan paʻanga"
+  currency_symbol: "$"
+  tld: ".to"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Tongan"
+  population: 100179
+  gdp: 568
+  latitude: -20
+  longitude: -175
+  emoji: "🇹🇴"
+-
+  name: "Trinidad and Tobago"
+  name_es: "Trinidad y Tobago"
+  native: "Trinidad and Tobago"
+  iso2: "TT"
+  iso3: "TTO"
+  numeric_code: "780"
+  phonecode: "1"
+  capital: "Port of Spain"
+  currency: "TTD"
+  currency_name: "Trinidad and Tobago dollar"
+  currency_symbol: "$"
+  tld: ".tt"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Trinidadian or Tobagonian"
+  population: 1368333
+  gdp: 26467
+  latitude: 11
+  longitude: -61
+  emoji: "🇹🇹"
+-
+  name: "Tunisia"
+  name_es: "Túnez"
+  native: "تونس"
+  iso2: "TN"
+  iso3: "TUN"
+  numeric_code: "788"
+  phonecode: "216"
+  capital: "Tunis"
+  currency: "TND"
+  currency_name: "Tunisian dinar"
+  currency_symbol: "ت.د"
+  tld: ".tn"
+  region: "Africa"
+  subregion: "Northern Africa"
+  nationality: "Tunisian"
+  population: 11972169
+  gdp: 56291
+  latitude: 34
+  longitude: 9
+  emoji: "🇹🇳"
+-
+  name: "Turkey"
+  name_es: "Turquía"
+  native: "Türkiye"
+  iso2: "TR"
+  iso3: "TUR"
+  numeric_code: "792"
+  phonecode: "90"
+  capital: "Ankara"
+  currency: "TRY"
+  currency_name: "Turkish lira"
+  currency_symbol: "₺"
+  tld: ".tr"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Turkish"
+  population: 85664944
+  gdp: 1437406
+  latitude: 39
+  longitude: 35
+  emoji: "🇹🇷"
+-
+  name: "Turkmenistan"
+  name_es: "Turkmenistán"
+  native: "Türkmenistan"
+  iso2: "TM"
+  iso3: "TKM"
+  numeric_code: "795"
+  phonecode: "993"
+  capital: "Ashgabat"
+  currency: "TMT"
+  currency_name: "Turkmenistan manat"
+  currency_symbol: "T"
+  tld: ".tm"
+  region: "Asia"
+  subregion: "Central Asia"
+  nationality: "Turkmen"
+  population: 7057841
+  gdp: 89054
+  latitude: 40
+  longitude: 60
+  emoji: "🇹🇲"
+-
+  name: "Turks and Caicos Islands"
+  name_es: "Islas Turks y Caicos"
+  native: "Turks and Caicos Islands"
+  iso2: "TC"
+  iso3: "TCA"
+  numeric_code: "796"
+  phonecode: "1"
+  capital: "Cockburn Town"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".tc"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "Turks and Caicos Island"
+  population: 50894
+  gdp: null
+  latitude: 21.75
+  longitude: -71.58333333
+  emoji: "🇹🇨"
+-
+  name: "Tuvalu"
+  name_es: "Tuvalu"
+  native: "Tuvalu"
+  iso2: "TV"
+  iso3: "TUV"
+  numeric_code: "798"
+  phonecode: "688"
+  capital: "Funafuti"
+  currency: "AUD"
+  currency_name: "Australian dollar"
+  currency_symbol: "$"
+  tld: ".tv"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Tuvaluan"
+  population: 10643
+  gdp: 65
+  latitude: -8
+  longitude: 178
+  emoji: "🇹🇻"
+-
+  name: "Uganda"
+  name_es: "Uganda"
+  native: "Uganda"
+  iso2: "UG"
+  iso3: "UGA"
+  numeric_code: "800"
+  phonecode: "256"
+  capital: "Kampala"
+  currency: "UGX"
+  currency_name: "Ugandan shilling"
+  currency_symbol: "USh"
+  tld: ".ug"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Ugandan"
+  population: 45905417
+  gdp: 64277
+  latitude: 1
+  longitude: 32
+  emoji: "🇺🇬"
+-
+  name: "Ukraine"
+  name_es: "Ucrania"
+  native: "Україна"
+  iso2: "UA"
+  iso3: "UKR"
+  numeric_code: "804"
+  phonecode: "380"
+  capital: "Kyiv"
+  currency: "UAH"
+  currency_name: "Ukrainian hryvnia"
+  currency_symbol: "₴"
+  tld: ".ua"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  nationality: "Ukrainian"
+  population: 32862000
+  gdp: 205742
+  latitude: 49
+  longitude: 32
+  emoji: "🇺🇦"
+-
+  name: "United Arab Emirates"
+  name_es: "Emiratos Árabes Unidos"
+  native: "دولة الإمارات العربية المتحدة"
+  iso2: "AE"
+  iso3: "ARE"
+  numeric_code: "784"
+  phonecode: "971"
+  capital: "Abu Dhabi"
+  currency: "AED"
+  currency_name: "United Arab Emirates dirham"
+  currency_symbol: "إ.د"
+  tld: ".ae"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Emirati, Emirian, Emiri"
+  population: 10678556
+  gdp: 548598
+  latitude: 24
+  longitude: 54
+  emoji: "🇦🇪"
+-
+  name: "United Kingdom"
+  name_es: "Reino Unido"
+  native: "United Kingdom"
+  iso2: "GB"
+  iso3: "GBR"
+  numeric_code: "826"
+  phonecode: "44"
+  capital: "London"
+  currency: "GBP"
+  currency_name: "British pound"
+  currency_symbol: "£"
+  tld: ".uk"
+  region: "Europe"
+  subregion: "Northern Europe"
+  nationality: "British, UK"
+  population: 68265209
+  gdp: 3839180
+  latitude: 54
+  longitude: -2
+  emoji: "🇬🇧"
+-
+  name: "United States"
+  name_es: "Estados Unidos"
+  native: "United States"
+  iso2: "US"
+  iso3: "USA"
+  numeric_code: "840"
+  phonecode: "1"
+  capital: "Washington"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".us"
+  region: "Americas"
+  subregion: "Northern America"
+  nationality: "American"
+  population: 340110988
+  gdp: 30507217
+  latitude: 38
+  longitude: -97
+  emoji: "🇺🇸"
+-
+  name: "United States Minor Outlying Islands"
+  name_es: "Islas Ultramarinas Menores de Estados Unidos"
+  native: "United States Minor Outlying Islands"
+  iso2: "UM"
+  iso3: "UMI"
+  numeric_code: "581"
+  phonecode: "1"
+  capital: null
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".us"
+  region: "Americas"
+  subregion: "Northern America"
+  nationality: "American"
+  population: null
+  gdp: null
+  latitude: 0
+  longitude: 0
+  emoji: "🇺🇲"
+-
+  name: "Uruguay"
+  name_es: "Uruguay"
+  native: "Uruguay"
+  iso2: "UY"
+  iso3: "URY"
+  numeric_code: "858"
+  phonecode: "598"
+  capital: "Montevideo"
+  currency: "UYU"
+  currency_name: "Uruguayan peso"
+  currency_symbol: "$"
+  tld: ".uy"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Uruguayan"
+  population: 3499451
+  gdp: 79731
+  latitude: -33
+  longitude: -56
+  emoji: "🇺🇾"
+-
+  name: "Uzbekistan"
+  name_es: "Uzbekistán"
+  native: "O‘zbekiston"
+  iso2: "UZ"
+  iso3: "UZB"
+  numeric_code: "860"
+  phonecode: "998"
+  capital: "Tashkent"
+  currency: "UZS"
+  currency_name: "Uzbekistani soʻm"
+  currency_symbol: "лв"
+  tld: ".uz"
+  region: "Asia"
+  subregion: "Central Asia"
+  nationality: "Uzbekistani, Uzbek"
+  population: 37859698
+  gdp: 132484
+  latitude: 41
+  longitude: 64
+  emoji: "🇺🇿"
+-
+  name: "Vanuatu"
+  name_es: "Vanuatu"
+  native: "Vanuatu"
+  iso2: "VU"
+  iso3: "VUT"
+  numeric_code: "548"
+  phonecode: "678"
+  capital: "Port Vila"
+  currency: "VUV"
+  currency_name: "Vanuatu vatu"
+  currency_symbol: "VT"
+  tld: ".vu"
+  region: "Oceania"
+  subregion: "Melanesia"
+  nationality: "Ni-Vanuatu, Vanuatuan"
+  population: 321409
+  gdp: 1267
+  latitude: -16
+  longitude: 167
+  emoji: "🇻🇺"
+-
+  name: "Vatican City State (Holy See)"
+  name_es: "Santa Sede"
+  native: "Vaticano"
+  iso2: "VA"
+  iso3: "VAT"
+  numeric_code: "336"
+  phonecode: "379"
+  capital: "Vatican City"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".va"
+  region: "Europe"
+  subregion: "Southern Europe"
+  nationality: "Vatican"
+  population: 882
+  gdp: null
+  latitude: 41.9
+  longitude: 12.45
+  emoji: "🇻🇦"
+-
+  name: "Venezuela"
+  name_es: "Venezuela"
+  native: "Venezuela"
+  iso2: "VE"
+  iso3: "VEN"
+  numeric_code: "862"
+  phonecode: "58"
+  capital: "Caracas"
+  currency: "VES"
+  currency_name: "Bolívar"
+  currency_symbol: "Bs"
+  tld: ".ve"
+  region: "Americas"
+  subregion: "South America"
+  nationality: "Venezuelan"
+  population: 28517000
+  gdp: 108511
+  latitude: 8
+  longitude: -66
+  emoji: "🇻🇪"
+-
+  name: "Vietnam"
+  name_es: "Vietnam"
+  native: "Việt Nam"
+  iso2: "VN"
+  iso3: "VNM"
+  numeric_code: "704"
+  phonecode: "84"
+  capital: "Hanoi"
+  currency: "VND"
+  currency_name: "Vietnamese đồng"
+  currency_symbol: "₫"
+  tld: ".vn"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  nationality: "Vietnamese"
+  population: 101343800
+  gdp: 490970
+  latitude: 16.16666666
+  longitude: 107.83333333
+  emoji: "🇻🇳"
+-
+  name: "Virgin Islands (British)"
+  name_es: "Islas Vírgenes del Reino Unido"
+  native: "British Virgin Islands"
+  iso2: "VG"
+  iso3: "VGB"
+  numeric_code: "092"
+  phonecode: "1"
+  capital: "Road Town"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".vg"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "British Virgin Island"
+  population: 39471
+  gdp: null
+  latitude: 18.431383
+  longitude: -64.62305
+  emoji: "🇻🇬"
+-
+  name: "Virgin Islands (US)"
+  name_es: "Islas Vírgenes de los Estados Unidos"
+  native: "United States Virgin Islands"
+  iso2: "VI"
+  iso3: "VIR"
+  numeric_code: "850"
+  phonecode: "1"
+  capital: "Charlotte Amalie"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".vi"
+  region: "Americas"
+  subregion: "Caribbean"
+  nationality: "U.S. Virgin Island"
+  population: 87146
+  gdp: null
+  latitude: 18.34
+  longitude: -64.93
+  emoji: "🇻🇮"
+-
+  name: "Wallis and Futuna Islands"
+  name_es: "Wallis y Futuna"
+  native: "Wallis et Futuna"
+  iso2: "WF"
+  iso3: "WLF"
+  numeric_code: "876"
+  phonecode: "681"
+  capital: "Mata Utu"
+  currency: "XPF"
+  currency_name: "CFP franc"
+  currency_symbol: "₣"
+  tld: ".wf"
+  region: "Oceania"
+  subregion: "Polynesia"
+  nationality: "Wallis and Futuna, Wallisian or Futunan"
+  population: 11620
+  gdp: null
+  latitude: -13.3
+  longitude: -176.2
+  emoji: "🇼🇫"
+-
+  name: "Western Sahara"
+  name_es: "Sahara Occidental"
+  native: "الصحراء الغربية"
+  iso2: "EH"
+  iso3: "ESH"
+  numeric_code: "732"
+  phonecode: "212"
+  capital: "El-Aaiun"
+  currency: "MAD"
+  currency_name: "Moroccan dirham"
+  currency_symbol: "DH"
+  tld: ".eh"
+  region: "Africa"
+  subregion: "Northern Africa"
+  nationality: "Sahrawi, Sahrawian, Sahraouian"
+  population: 600904
+  gdp: null
+  latitude: 24.5
+  longitude: -13
+  emoji: "🇪🇭"
+-
+  name: "Yemen"
+  name_es: "Yemen"
+  native: "اليَمَن"
+  iso2: "YE"
+  iso3: "YEM"
+  numeric_code: "887"
+  phonecode: "967"
+  capital: "Sanaa"
+  currency: "YER"
+  currency_name: "Yemeni rial"
+  currency_symbol: "﷼"
+  tld: ".ye"
+  region: "Asia"
+  subregion: "Western Asia"
+  nationality: "Yemeni"
+  population: 32684503
+  gdp: 17401
+  latitude: 15
+  longitude: 48
+  emoji: "🇾🇪"
+-
+  name: "Zambia"
+  name_es: "Zambia"
+  native: "Zambia"
+  iso2: "ZM"
+  iso3: "ZMB"
+  numeric_code: "894"
+  phonecode: "260"
+  capital: "Lusaka"
+  currency: "ZMW"
+  currency_name: "Zambian kwacha"
+  currency_symbol: "ZK"
+  tld: ".zm"
+  region: "Africa"
+  subregion: "Southern Africa"
+  nationality: "Zambian"
+  population: 19693423
+  gdp: 28910
+  latitude: -15
+  longitude: 30
+  emoji: "🇿🇲"
+-
+  name: "Zimbabwe"
+  name_es: "Zimbabue"
+  native: "Zimbabwe"
+  iso2: "ZW"
+  iso3: "ZWE"
+  numeric_code: "716"
+  phonecode: "263"
+  capital: "Harare"
+  currency: "ZWL"
+  currency_name: "Zimbabwe Dollar"
+  currency_symbol: "$"
+  tld: ".zw"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  nationality: "Zimbabwean"
+  population: 17073087
+  gdp: 38172
+  latitude: -20
+  longitude: 30
+  emoji: "🇿🇼"

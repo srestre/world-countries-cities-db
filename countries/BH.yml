@@ -1,0 +1,87 @@
+-
+  name: "Bahrain"
+  name_es: "Bahrein"
+  native: "‏البحرين"
+  iso2: "BH"
+  iso3: "BHR"
+  numeric_code: "048"
+  phonecode: "973"
+  capital: "Manama"
+  currency: "BHD"
+  currency_name: "Bahraini dinar"
+  currency_symbol: ".د.ب"
+  tld: ".bh"
+  region: "Asia"
+  subregion: "Western Asia"
+  latitude: 26
+  longitude: 50.55
+  emoji: "🇧🇭"
+  states:
+    -
+      name: "Capital"
+      code: "13"
+      iso3166_2: "BH-13"
+      type: "governorate"
+      latitude: 26.4243233
+      longitude: 50.4747251
+      cities:
+        -
+          name: "Jidd Ḩafş"
+          latitude: 26.21861
+          longitude: 50.54778
+        -
+          name: "Manama"
+          latitude: 26.22787
+          longitude: 50.58565
+        -
+          name: "Sitrah"
+          latitude: 26.15472
+          longitude: 50.62056
+    -
+      name: "Muharraq"
+      code: "15"
+      iso3166_2: "BH-15"
+      type: "governorate"
+      latitude: 26.2465946
+      longitude: 50.6164127
+      cities:
+        -
+          name: "Al Ḩadd"
+          latitude: 26.24556
+          longitude: 50.65417
+        -
+          name: "Al Muharraq"
+          latitude: 26.25722
+          longitude: 50.61194
+    -
+      name: "Northern"
+      code: "17"
+      iso3166_2: "BH-17"
+      type: "governorate"
+      latitude: 26.2778477
+      longitude: 50.4181123
+      cities:
+        -
+          name: "Madīnat Ḩamad"
+          latitude: 26.11528
+          longitude: 50.50694
+    -
+      name: "Southern"
+      code: "14"
+      iso3166_2: "BH-14"
+      type: "governorate"
+      latitude: 25.8400069
+      longitude: 50.5902693
+      cities:
+        -
+          name: "Ar Rifā‘"
+          latitude: 26.13
+          longitude: 50.555
+        -
+          name: "Dār Kulayb"
+          latitude: 26.06861
+          longitude: 50.50389
+        -
+          name: "Madīnat ‘Īsá"
+          latitude: 26.17361
+          longitude: 50.54778

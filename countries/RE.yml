@@ -1,0 +1,147 @@
+-
+  name: "Reunion"
+  name_es: "Reunión"
+  native: "La Réunion"
+  iso2: "RE"
+  iso3: "REU"
+  numeric_code: "638"
+  phonecode: "262"
+  capital: "Saint-Denis"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".re"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  latitude: -21.15
+  longitude: 55.5
+  emoji: "🇷🇪"
+  states:
+    -
+      name: "Saint-Benoît"
+      code: "01"
+      iso3166_2: "RE-01"
+      type: "district"
+      latitude: -21.0810433
+      longitude: 55.6028127
+      cities:
+        -
+          name: "Bras-Panon"
+          latitude: -21.0315816
+          longitude: 55.5441634
+        -
+          name: "La Plaine-des-Palmistes"
+          latitude: -21.1529507
+          longitude: 55.5618014
+        -
+          name: "Saint-André"
+          latitude: -20.9567727
+          longitude: 55.5548674
+        -
+          name: "Saint-Benoît"
+          latitude: -21.0885946
+          longitude: 55.4664076
+        -
+          name: "Sainte-Rose"
+          latitude: -21.1778289
+          longitude: 55.6593981
+        -
+          name: "Salazie"
+          latitude: -21.0524097
+          longitude: 55.4321337
+    -
+      name: "Saint-Denis"
+      code: "02"
+      iso3166_2: "RE-02"
+      type: "district"
+      latitude: -20.8799889
+      longitude: 55.448137
+      cities:
+        -
+          name: "Saint-Denis"
+          latitude: -20.9645672
+          longitude: 55.418353
+        -
+          name: "Sainte-Marie"
+          latitude: -20.9462842
+          longitude: 55.4409587
+        -
+          name: "Sainte-Suzanne"
+          latitude: -20.9506379
+          longitude: 55.5111475
+    -
+      name: "Saint-Paul"
+      code: "03"
+      iso3166_2: "RE-03"
+      type: "district"
+      latitude: -21.0006099
+      longitude: 55.2771585
+      cities:
+        -
+          name: "La Possession"
+          latitude: -20.9966715
+          longitude: 55.3094196
+        -
+          name: "Le Port"
+          latitude: -20.9459981
+          longitude: 55.2625839
+        -
+          name: "Les Trois-Bassins"
+          latitude: -21.1138065
+          longitude: 55.2553467
+        -
+          name: "Saint-Leu"
+          latitude: -21.1815374
+          longitude: 55.2607553
+        -
+          name: "Saint-Paul"
+          latitude: -21.0365634
+          longitude: 55.1754223
+    -
+      name: "Saint-Pierre"
+      code: "04"
+      iso3166_2: "RE-04"
+      type: "district"
+      latitude: -21.2377437
+      longitude: 55.4899764
+      cities:
+        -
+          name: "Cilaos"
+          latitude: -21.1402675
+          longitude: 55.3731415
+        -
+          name: "Entre-Deux"
+          latitude: -21.2107387
+          longitude: 55.4112594
+        -
+          name: "L'Étang-Salé"
+          latitude: -21.2347408
+          longitude: 55.3163686
+        -
+          name: "Le Tampon"
+          latitude: -21.2250092
+          longitude: 55.4876541
+        -
+          name: "Les Avirons"
+          latitude: -21.2018683
+          longitude: 55.3216609
+        -
+          name: "Petite-Île"
+          latitude: -21.3329678
+          longitude: 55.5294205
+        -
+          name: "Saint-Joseph"
+          latitude: -21.2921186
+          longitude: 55.5616173
+        -
+          name: "Saint-Louis"
+          latitude: -21.2254829
+          longitude: 55.340044
+        -
+          name: "Saint-Philippe"
+          latitude: -21.308375
+          longitude: 55.6611834
+        -
+          name: "Saint-Pierre"
+          latitude: -21.3089303
+          longitude: 55.3395313

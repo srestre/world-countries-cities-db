@@ -1,0 +1,871 @@
+-
+  name: "Tunisia"
+  name_es: "Túnez"
+  native: "تونس"
+  iso2: "TN"
+  iso3: "TUN"
+  numeric_code: "788"
+  phonecode: "216"
+  capital: "Tunis"
+  currency: "TND"
+  currency_name: "Tunisian dinar"
+  currency_symbol: "ت.د"
+  tld: ".tn"
+  region: "Africa"
+  subregion: "Northern Africa"
+  latitude: 34
+  longitude: 9
+  emoji: "🇹🇳"
+  states:
+    -
+      name: "Ariana"
+      code: "12"
+      iso3166_2: "TN-12"
+      type: "governorate"
+      latitude: 36.9685735
+      longitude: 10.1219855
+      cities:
+        -
+          name: "Ariana"
+          latitude: 36.86012
+          longitude: 10.19337
+        -
+          name: "Ettadhamen-Mnihla"
+          latitude: 36.8625
+          longitude: 10.1703
+        -
+          name: "Kalaat el-Andalous"
+          latitude: 36.8811
+          longitude: 10.2622
+        -
+          name: "La Soukra"
+          latitude: 36.8535
+          longitude: 10.2525
+        -
+          name: "Mnihla"
+          latitude: 36.8369
+          longitude: 10.2002
+        -
+          name: "Raoued"
+          latitude: 36.885
+          longitude: 10.2465
+        -
+          name: "Sidi Thabet"
+          latitude: 36.8399
+          longitude: 10.0403
+    -
+      name: "Béja"
+      code: "31"
+      iso3166_2: "TN-31"
+      type: "governorate"
+      latitude: 36.7236755
+      longitude: 9.185382
+      cities:
+        -
+          name: "Amdoun"
+          latitude: 36.7442
+          longitude: 9.0513
+        -
+          name: "Béja"
+          latitude: 36.72564
+          longitude: 9.18169
+        -
+          name: "Goubellat"
+          latitude: 36.5956
+          longitude: 9.2078
+        -
+          name: "Medjez el Bab"
+          latitude: 36.7064
+          longitude: 9.6106
+        -
+          name: "Nefza"
+          latitude: 36.6049
+          longitude: 8.9702
+        -
+          name: "Tabursuq"
+          latitude: 36.45692
+          longitude: 9.24751
+        -
+          name: "Téboursouk"
+          latitude: 36.7104
+          longitude: 9.0008
+        -
+          name: "Testour"
+          latitude: 36.5014
+          longitude: 9.6664
+        -
+          name: "Thibar"
+          latitude: 36.4656
+          longitude: 9.0622
+    -
+      name: "Ben Arous"
+      code: "13"
+      iso3166_2: "TN-13"
+      type: "governorate"
+      latitude: 36.6306483
+      longitude: 10.2100827
+      cities:
+        -
+          name: "Ben Arous"
+          latitude: 36.7531
+          longitude: 10.2294
+        -
+          name: "Hammam Lif"
+          latitude: 36.7203
+          longitude: 10.3261
+        -
+          name: "Mornag"
+          latitude: 36.6616
+          longitude: 10.1463
+        -
+          name: "Mornaguia"
+          latitude: 36.7214
+          longitude: 10.0494
+        -
+          name: "Radès"
+          latitude: 36.76946
+          longitude: 10.27468
+    -
+      name: "Bizerte"
+      code: "23"
+      iso3166_2: "TN-23"
+      type: "governorate"
+      latitude: 37.0354339
+      longitude: 9.6393259
+      cities:
+        -
+          name: "Al Matlīn"
+          latitude: 37.24516
+          longitude: 10.05
+        -
+          name: "Bizerte"
+          latitude: 37.27442
+          longitude: 9.87391
+        -
+          name: "Bizerte Sud"
+          latitude: 37.25528
+          longitude: 9.67915
+        -
+          name: "Douar Tindja"
+          latitude: 37.16667
+          longitude: 9.75
+        -
+          name: "El Alia"
+          latitude: 37.16911
+          longitude: 10.03478
+        -
+          name: "Mateur"
+          latitude: 37.04045
+          longitude: 9.66557
+        -
+          name: "Menzel Abderhaman"
+          latitude: 37.23737
+          longitude: 9.86313
+        -
+          name: "Menzel Bourguiba"
+          latitude: 37.15368
+          longitude: 9.78594
+        -
+          name: "Menzel Jemil"
+          latitude: 37.23618
+          longitude: 9.91448
+        -
+          name: "Rafrāf"
+          latitude: 37.19043
+          longitude: 10.18365
+        -
+          name: "Rhar el Melah"
+          latitude: 37.16939
+          longitude: 10.19064
+        -
+          name: "Sejenane"
+          latitude: 37.05722
+          longitude: 9.23806
+        -
+          name: "Zahānah"
+          latitude: 37.03959
+          longitude: 10.03876
+    -
+      name: "Gabès"
+      code: "81"
+      iso3166_2: "TN-81"
+      type: "governorate"
+      latitude: 33.7765032
+      longitude: 9.793063
+      cities:
+        -
+          name: "Bou Attouche"
+          latitude: 33.89927
+          longitude: 9.78496
+        -
+          name: "El Hamma"
+          latitude: 33.89152
+          longitude: 9.79629
+        -
+          name: "Gabès"
+          latitude: 33.88146
+          longitude: 10.0982
+        -
+          name: "Matmata"
+          latitude: 33.54445
+          longitude: 9.97157
+    -
+      name: "Gafsa"
+      code: "71"
+      iso3166_2: "TN-71"
+      type: "governorate"
+      latitude: 34.4224374
+      longitude: 8.7843862
+      cities:
+        -
+          name: "Ar Rudayyif"
+          latitude: 34.3827
+          longitude: 8.15549
+        -
+          name: "As Sanad"
+          latitude: 34.4628
+          longitude: 9.26404
+        -
+          name: "Gafsa"
+          latitude: 34.425
+          longitude: 8.78417
+        -
+          name: "Metlaoui"
+          latitude: 34.32081
+          longitude: 8.40157
+        -
+          name: "Mu‘tamadīyat ar Rudayyif"
+          latitude: 34.40081
+          longitude: 8.17057
+    -
+      name: "Jendouba"
+      code: "32"
+      iso3166_2: "TN-32"
+      type: "governorate"
+      latitude: 36.6779725
+      longitude: 8.752647
+      cities:
+        -
+          name: "Fernana"
+          latitude: 36.65547
+          longitude: 8.69602
+        -
+          name: "Jendouba"
+          latitude: 36.48519
+          longitude: 8.82325
+        -
+          name: "Oued Meliz"
+          latitude: 36.46813
+          longitude: 8.54951
+        -
+          name: "Tabarka"
+          latitude: 36.95442
+          longitude: 8.75801
+    -
+      name: "Kairouan"
+      code: "41"
+      iso3166_2: "TN-41"
+      type: "governorate"
+      latitude: 35.6711663
+      longitude: 10.1005469
+      cities:
+        -
+          name: "Haffouz"
+          latitude: 35.63235
+          longitude: 9.67624
+        -
+          name: "Kairouan"
+          latitude: 35.6781
+          longitude: 10.09633
+        -
+          name: "Sbikha"
+          latitude: 35.93325
+          longitude: 10.02081
+    -
+      name: "Kasserine"
+      code: "42"
+      iso3166_2: "TN-42"
+      type: "governorate"
+      latitude: 35.1687646
+      longitude: 8.8365654
+      cities:
+        -
+          name: "Kasserine"
+          latitude: 35.16758
+          longitude: 8.83651
+        -
+          name: "Rohia"
+          latitude: 35.65129
+          longitude: 9.05306
+        -
+          name: "Sbiba"
+          latitude: 35.54332
+          longitude: 9.0737
+        -
+          name: "Thala"
+          latitude: 35.57244
+          longitude: 8.67031
+    -
+      name: "Kebili"
+      code: "73"
+      iso3166_2: "TN-73"
+      type: "governorate"
+      latitude: 33.7071551
+      longitude: 8.9714623
+      cities:
+        -
+          name: "Douz"
+          latitude: 33.46632
+          longitude: 9.0203
+        -
+          name: "El Golaa"
+          latitude: 33.48485
+          longitude: 9.00678
+        -
+          name: "Jemna"
+          latitude: 33.57778
+          longitude: 9.01472
+        -
+          name: "Kebili"
+          latitude: 33.70439
+          longitude: 8.96903
+    -
+      name: "Kef"
+      code: "33"
+      iso3166_2: "TN-33"
+      type: "governorate"
+      latitude: 36.0357642
+      longitude: 8.7249381
+      cities:
+        -
+          name: "As Sars"
+          latitude: 36.0764
+          longitude: 9.02117
+        -
+          name: "El Kef"
+          latitude: 36.17424
+          longitude: 8.70486
+        -
+          name: "El Ksour"
+          latitude: 35.89607
+          longitude: 8.88493
+        -
+          name: "Menzel Salem"
+          latitude: 35.85673
+          longitude: 8.47654
+        -
+          name: "Nibbar"
+          latitude: 36.29411
+          longitude: 8.76657
+        -
+          name: "Sakiet Sidi Youssef"
+          latitude: 36.22292
+          longitude: 8.35547
+        -
+          name: "Tajerouine"
+          latitude: 35.89174
+          longitude: 8.55276
+    -
+      name: "Mahdia"
+      code: "53"
+      iso3166_2: "TN-53"
+      type: "governorate"
+      latitude: 35.4877893
+      longitude: 10.9622433
+      cities:
+        -
+          name: "Chebba"
+          latitude: 35.23722
+          longitude: 11.115
+        -
+          name: "Chorbane"
+          latitude: 35.28581
+          longitude: 10.3858
+        -
+          name: "El Jem"
+          latitude: 35.3
+          longitude: 10.71667
+        -
+          name: "Ksour Essaf"
+          latitude: 35.41808
+          longitude: 10.99475
+        -
+          name: "Mahdia"
+          latitude: 35.50472
+          longitude: 11.06222
+        -
+          name: "Melloulèche"
+          latitude: 35.16617
+          longitude: 11.03504
+        -
+          name: "Salakta"
+          latitude: 35.39444
+          longitude: 11.04361
+        -
+          name: "Sidi Alouane"
+          latitude: 35.37505
+          longitude: 10.93899
+        -
+          name: "Zouila"
+          latitude: 35.50056
+          longitude: 11.06056
+    -
+      name: "Manouba"
+      code: "14"
+      iso3166_2: "TN-14"
+      type: "governorate"
+      latitude: 36.7624363
+      longitude: 9.8336191
+      cities:
+        -
+          name: "El Battan"
+          latitude: 36.80368
+          longitude: 9.84424
+        -
+          name: "Manouba"
+          latitude: 36.81006
+          longitude: 10.09557
+        -
+          name: "Mu‘tamadīyat Manūbah"
+          latitude: 36.80907
+          longitude: 10.09467
+        -
+          name: "Oued Lill"
+          latitude: 36.83408
+          longitude: 10.04057
+    -
+      name: "Medenine"
+      code: "82"
+      iso3166_2: "TN-82"
+      type: "governorate"
+      latitude: 33.3434014
+      longitude: 10.4910703
+      cities:
+        -
+          name: "Ben Gardane"
+          latitude: 33.13783
+          longitude: 11.21965
+        -
+          name: "Beni Kheddache"
+          latitude: 33.25279
+          longitude: 10.19883
+        -
+          name: "Erriadh"
+          latitude: 33.82063
+          longitude: 10.85394
+        -
+          name: "Houmt El Souk"
+          latitude: 33.87576
+          longitude: 10.85745
+        -
+          name: "Jerba Midoun"
+          latitude: 33.77918
+          longitude: 10.95215
+        -
+          name: "Medenine"
+          latitude: 33.35495
+          longitude: 10.50548
+        -
+          name: "Midoun"
+          latitude: 33.80813
+          longitude: 10.99228
+        -
+          name: "Zarzis"
+          latitude: 33.50398
+          longitude: 11.11215
+    -
+      name: "Monastir"
+      code: "52"
+      iso3166_2: "TN-52"
+      type: "governorate"
+      latitude: 35.7707582
+      longitude: 10.8280511
+      cities:
+        -
+          name: "Banbalah"
+          latitude: 35.7
+          longitude: 10.8
+        -
+          name: "Bekalta"
+          latitude: 35.61739
+          longitude: 10.99466
+        -
+          name: "Beni Hassane"
+          latitude: 35.5672
+          longitude: 10.80869
+        -
+          name: "Djemmal"
+          latitude: 35.62231
+          longitude: 10.75696
+        -
+          name: "Ksar Hellal"
+          latitude: 35.64773
+          longitude: 10.89046
+        -
+          name: "Ksibet el Mediouni"
+          latitude: 35.68561
+          longitude: 10.84256
+        -
+          name: "Lemta"
+          latitude: 35.66667
+          longitude: 10.88333
+        -
+          name: "Menzel Kamel"
+          latitude: 35.62477
+          longitude: 10.66727
+        -
+          name: "Mesdour"
+          latitude: 35.68206
+          longitude: 10.72746
+        -
+          name: "Monastir"
+          latitude: 35.77799
+          longitude: 10.82617
+        -
+          name: "Ouardenine"
+          latitude: 35.70915
+          longitude: 10.67397
+        -
+          name: "Sahline"
+          latitude: 35.75166
+          longitude: 10.71109
+        -
+          name: "Seïada"
+          latitude: 35.66887
+          longitude: 10.89246
+        -
+          name: "Sidi Ben Nour"
+          latitude: 35.53333
+          longitude: 10.91667
+        -
+          name: "Skanes"
+          latitude: 35.78333
+          longitude: 10.8
+        -
+          name: "Touza"
+          latitude: 35.63544
+          longitude: 10.82732
+    -
+      name: "Nabeul"
+      code: "21"
+      iso3166_2: "TN-21"
+      type: "governorate"
+      latitude: 36.4823676
+      longitude: 10.6707197
+      cities:
+        -
+          name: "Azmour"
+          latitude: 36.9244
+          longitude: 11.0069
+        -
+          name: "Beni Khalled"
+          latitude: 36.65038
+          longitude: 10.59004
+        -
+          name: "Béni Khiar"
+          latitude: 36.46666667
+          longitude: 10.78333333
+        -
+          name: "Bou Argoub"
+          latitude: 36.53853
+          longitude: 10.55093
+        -
+          name: "Dar Chaabane"
+          latitude: 36.47
+          longitude: 10.75
+        -
+          name: "El Haouaria"
+          latitude: 37.05
+          longitude: 11.01111111
+        -
+          name: "El Maâmoura"
+          latitude: 36.46666667
+          longitude: 10.8
+        -
+          name: "El Mida"
+          latitude: 36.73333333
+          longitude: 10.85
+        -
+          name: "El Mrezga"
+          latitude: 36.42163
+          longitude: 10.66411
+        -
+          name: "Grombalia"
+          latitude: 36.61
+          longitude: 10.5
+        -
+          name: "Hammamet"
+          latitude: 36.41666667
+          longitude: 10.6
+        -
+          name: "Kelibia"
+          latitude: 36.8475
+          longitude: 11.09388889
+        -
+          name: "Korba"
+          latitude: 36.56666667
+          longitude: 10.86666667
+        -
+          name: "Korbous"
+          latitude: 36.81638889
+          longitude: 10.56861111
+        -
+          name: "Menzel Bouzelfa"
+          latitude: 36.6817
+          longitude: 10.5847
+        -
+          name: "Menzel Horr"
+          latitude: 36.73333333
+          longitude: 10.95
+        -
+          name: "Menzel Temime"
+          latitude: 36.78333333
+          longitude: 10.98333333
+        -
+          name: "Nabeul"
+          latitude: 36.451389
+          longitude: 10.736111
+        -
+          name: "Soliman"
+          latitude: 36.695126
+          longitude: 10.491257
+        -
+          name: "Takelsa"
+          latitude: 36.79
+          longitude: 10.63
+        -
+          name: "Tazerka"
+          latitude: 36.55
+          longitude: 10.8
+        -
+          name: "Zaouiet Djedidi"
+          latitude: 36.65
+          longitude: 10.6
+        -
+          name: "Zriba"
+          latitude: 36.35585
+          longitude: 10.206034
+    -
+      name: "Sfax"
+      code: "61"
+      iso3166_2: "TN-61"
+      type: "governorate"
+      latitude: 34.7232387
+      longitude: 10.3358474
+      cities:
+        -
+          name: "Agareb"
+          latitude: 34.74406
+          longitude: 10.4611
+        -
+          name: "Bir Ali Ben Khalifa"
+          latitude: 34.73592
+          longitude: 10.0924
+        -
+          name: "Djebeniana"
+          latitude: 35.035
+          longitude: 10.90809
+        -
+          name: "Gremda"
+          latitude: 34.75
+          longitude: 10.78333
+        -
+          name: "Sfax"
+          latitude: 34.74056
+          longitude: 10.76028
+        -
+          name: "Skhira"
+          latitude: 34.2992
+          longitude: 10.06999
+    -
+      name: "Sidi Bouzid"
+      code: "43"
+      iso3166_2: "TN-43"
+      type: "governorate"
+      latitude: 35.0354386
+      longitude: 9.4839392
+      cities:
+        -
+          name: "Bir el Hafey"
+          latitude: 34.93212
+          longitude: 9.19321
+        -
+          name: "Er Regueb"
+          latitude: 34.85932
+          longitude: 9.78654
+        -
+          name: "Jilma"
+          latitude: 35.27311
+          longitude: 9.42385
+        -
+          name: "Mezzouna"
+          latitude: 34.57758
+          longitude: 9.84193
+        -
+          name: "Sidi Bouzid"
+          latitude: 35.03823
+          longitude: 9.48494
+    -
+      name: "Siliana"
+      code: "34"
+      iso3166_2: "TN-34"
+      type: "governorate"
+      latitude: 36.0887208
+      longitude: 9.3645335
+      cities:
+        -
+          name: "Bou Arada"
+          latitude: 36.35251
+          longitude: 9.62175
+        -
+          name: "Gafour"
+          latitude: 36.32045
+          longitude: 9.32424
+        -
+          name: "Kesra"
+          latitude: 35.81363
+          longitude: 9.36434
+        -
+          name: "Le Krib"
+          latitude: 36.32802
+          longitude: 9.13613
+        -
+          name: "Maktar"
+          latitude: 35.85798
+          longitude: 9.20072
+        -
+          name: "Siliana"
+          latitude: 36.08497
+          longitude: 9.37082
+    -
+      name: "Sousse"
+      code: "51"
+      iso3166_2: "TN-51"
+      type: "governorate"
+      latitude: 35.8939852
+      longitude: 10.3977704
+      cities:
+        -
+          name: "Akouda"
+          latitude: 35.8691
+          longitude: 10.5653
+        -
+          name: "Hammam Sousse"
+          latitude: 35.8609
+          longitude: 10.60313
+        -
+          name: "Harqalah"
+          latitude: 36.03027
+          longitude: 10.50904
+        -
+          name: "Msaken"
+          latitude: 35.72917
+          longitude: 10.58082
+        -
+          name: "Port el Kantaoui"
+          latitude: 35.89239
+          longitude: 10.59434
+        -
+          name: "Sidi Bou Ali"
+          latitude: 35.95667
+          longitude: 10.47306
+        -
+          name: "Sidi el Hani"
+          latitude: 35.67139
+          longitude: 10.31583
+        -
+          name: "Sousse"
+          latitude: 35.82539
+          longitude: 10.63699
+    -
+      name: "Tataouine"
+      code: "83"
+      iso3166_2: "TN-83"
+      type: "governorate"
+      latitude: 31.7317009
+      longitude: 9.7702197
+      cities:
+        -
+          name: "Remada"
+          latitude: 32.31662
+          longitude: 10.39551
+        -
+          name: "Tataouine"
+          latitude: 32.92967
+          longitude: 10.45177
+    -
+      name: "Tozeur"
+      code: "72"
+      iso3166_2: "TN-72"
+      type: "governorate"
+      latitude: 33.9844105
+      longitude: 8.0711309
+      cities:
+        -
+          name: "Chebika"
+          latitude: 34.31909
+          longitude: 7.93519
+        -
+          name: "Degache"
+          latitude: 33.97606
+          longitude: 8.2081
+        -
+          name: "Nefta"
+          latitude: 33.87309
+          longitude: 7.87765
+        -
+          name: "Tamaghzah"
+          latitude: 34.38849
+          longitude: 7.94313
+        -
+          name: "Tozeur"
+          latitude: 33.91968
+          longitude: 8.13352
+    -
+      name: "Tunis"
+      code: "11"
+      iso3166_2: "TN-11"
+      type: "governorate"
+      latitude: 36.81791
+      longitude: 10.2127219
+      cities:
+        -
+          name: "Al Marsá"
+          latitude: 36.87818
+          longitude: 10.32466
+        -
+          name: "Carthage"
+          latitude: 36.85961
+          longitude: 10.32978
+        -
+          name: "La Goulette"
+          latitude: 36.81825
+          longitude: 10.3052
+        -
+          name: "La Mohammedia"
+          latitude: 36.67446
+          longitude: 10.15633
+        -
+          name: "Sidi Bou Saïd"
+          latitude: 36.8687
+          longitude: 10.34174
+        -
+          name: "Tunis"
+          latitude: 36.81897
+          longitude: 10.16579
+    -
+      name: "Zaghouan"
+      code: "22"
+      iso3166_2: "TN-22"
+      type: "governorate"
+      latitude: 36.3994751
+      longitude: 10.1446349
+      cities:
+        -
+          name: "El Fahs"
+          latitude: 36.37419
+          longitude: 9.90651
+        -
+          name: "Zaghouan"
+          latitude: 36.40291
+          longitude: 10.14292

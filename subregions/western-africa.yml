@@ -1,0 +1,8426 @@
+-
+  name: "Benin"
+  name_es: "Benín"
+  native: "Bénin"
+  iso2: "BJ"
+  iso3: "BEN"
+  numeric_code: "204"
+  phonecode: "229"
+  capital: "Porto-Novo"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".bj"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 9.5
+  longitude: 2.25
+  emoji: "🇧🇯"
+  states:
+    -
+      name: "Alibori"
+      code: "AL"
+      iso3166_2: "BJ-AL"
+      type: "department"
+      latitude: 11.4649482
+      longitude: 2.7938798
+      cities:
+        -
+          name: "Banikoara"
+          latitude: 11.29845
+          longitude: 2.43856
+        -
+          name: "Kandi"
+          latitude: 11.13417
+          longitude: 2.93861
+        -
+          name: "Malanville"
+          latitude: 11.86819
+          longitude: 3.38327
+    -
+      name: "Atakora"
+      code: "AK"
+      iso3166_2: "BJ-AK"
+      type: "department"
+      latitude: 10.7160515
+      longitude: 1.5331527
+      cities:
+        -
+          name: "Guilmaro"
+          latitude: 10.56583
+          longitude: 1.72444
+        -
+          name: "Natitingou"
+          latitude: 10.30416
+          longitude: 1.37962
+        -
+          name: "Tanguieta"
+          latitude: 11.03621
+          longitude: 1.41757
+    -
+      name: "Atlantique"
+      code: "AQ"
+      iso3166_2: "BJ-AQ"
+      type: "department"
+      latitude: 6.540829
+      longitude: 2.223095
+      cities:
+        -
+          name: "Abomey-Calavi"
+          latitude: 6.44852
+          longitude: 2.35566
+        -
+          name: "Allada"
+          latitude: 6.66547
+          longitude: 2.15138
+        -
+          name: "Hévié"
+          latitude: 6.41667
+          longitude: 2.25
+        -
+          name: "Hinvi"
+          latitude: 6.76667
+          longitude: 2.16667
+        -
+          name: "Ouidah"
+          latitude: 6.36307
+          longitude: 2.08506
+    -
+      name: "Borgou"
+      code: "BO"
+      iso3166_2: "BJ-BO"
+      type: "department"
+      latitude: 9.7097453
+      longitude: 2.7422648
+      cities:
+        -
+          name: "Bembèrèkè"
+          latitude: 10.22827
+          longitude: 2.66335
+        -
+          name: "Bétérou"
+          latitude: 9.19916
+          longitude: 2.25855
+        -
+          name: "Nikki"
+          latitude: 9.94009
+          longitude: 3.21075
+        -
+          name: "Parakou"
+          latitude: 9.33716
+          longitude: 2.63031
+        -
+          name: "Tchaourou"
+          latitude: 8.88649
+          longitude: 2.59753
+    -
+      name: "Collines"
+      code: "CO"
+      iso3166_2: "BJ-CO"
+      type: "department"
+      latitude: 8.1085479
+      longitude: 2.1853101
+      cities:
+        -
+          name: "Comé"
+          latitude: 6.40764
+          longitude: 1.88198
+        -
+          name: "Dassa-Zoumé"
+          latitude: 7.75
+          longitude: 2.18333
+        -
+          name: "Savalou"
+          latitude: 7.92807
+          longitude: 1.97558
+        -
+          name: "Savé"
+          latitude: 8.03424
+          longitude: 2.4866
+    -
+      name: "Donga"
+      code: "DO"
+      iso3166_2: "BJ-DO"
+      type: "department"
+      latitude: 9.2679806
+      longitude: 1.7170684
+      cities:
+        -
+          name: "Bassila"
+          latitude: 9.00814
+          longitude: 1.6654
+        -
+          name: "Commune of Djougou"
+          latitude: 9.643
+          longitude: 1.896
+        -
+          name: "Djougou"
+          latitude: 9.70853
+          longitude: 1.66598
+    -
+      name: "Kouffo"
+      code: "KO"
+      iso3166_2: "BJ-KO"
+      type: "department"
+      latitude: 7.1312662
+      longitude: 1.7567394
+      cities:
+        -
+          name: "Djakotomey"
+          latitude: 6.9
+          longitude: 1.71667
+        -
+          name: "Dogbo"
+          latitude: 6.79911
+          longitude: 1.78073
+    -
+      name: "Littoral"
+      code: "LI"
+      iso3166_2: "BJ-LI"
+      type: "department"
+      latitude: 6.3663195
+      longitude: 2.4170608
+      cities:
+        -
+          name: "Cotonou"
+          latitude: 6.36536
+          longitude: 2.41833
+    -
+      name: "Mono"
+      code: "MO"
+      iso3166_2: "BJ-MO"
+      type: "department"
+      latitude: 6.457624
+      longitude: 1.867408
+      cities:
+        -
+          name: "Commune of Athieme"
+          latitude: 6.56924
+          longitude: 1.70259
+        -
+          name: "Lokossa"
+          latitude: 6.63869
+          longitude: 1.71674
+    -
+      name: "Ouémé"
+      code: "OU"
+      iso3166_2: "BJ-OU"
+      type: "department"
+      latitude: 6.6013531
+      longitude: 2.550566
+      cities:
+        -
+          name: "Porto-Novo"
+          latitude: 6.49646
+          longitude: 2.60359
+    -
+      name: "Plateau"
+      code: "PL"
+      iso3166_2: "BJ-PL"
+      type: "department"
+      latitude: 7.1002602
+      longitude: 2.6409144
+      cities:
+        -
+          name: "Kétou"
+          latitude: 7.36332
+          longitude: 2.59978
+        -
+          name: "Pobé"
+          latitude: 6.98008
+          longitude: 2.6649
+        -
+          name: "Sakété"
+          latitude: 6.73618
+          longitude: 2.65866
+    -
+      name: "Zou"
+      code: "ZO"
+      iso3166_2: "BJ-ZO"
+      type: "department"
+      latitude: 7.2834335
+      longitude: 2.1227604
+      cities:
+        -
+          name: "Abomey"
+          latitude: 7.18286
+          longitude: 1.99119
+        -
+          name: "Bohicon"
+          latitude: 7.17826
+          longitude: 2.0667
+        -
+          name: "Commune of Agbangnizoun"
+          latitude: 7.076
+          longitude: 1.961
+        -
+          name: "Cové"
+          latitude: 7.22097
+          longitude: 2.34017
+-
+  name: "Burkina Faso"
+  name_es: "Burkina Faso"
+  native: "Burkina Faso"
+  iso2: "BF"
+  iso3: "BFA"
+  numeric_code: "854"
+  phonecode: "226"
+  capital: "Ouagadougou"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".bf"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 13
+  longitude: -2
+  emoji: "🇧🇫"
+  states:
+    -
+      name: "Balé"
+      code: "BAL"
+      iso3166_2: "BF-BAL"
+      type: "province"
+      latitude: 11.658145
+      longitude: -3.0541022
+      cities:
+        []
+    -
+      name: "Bam"
+      code: "BAM"
+      iso3166_2: "BF-BAM"
+      type: "province"
+      latitude: 13.468115
+      longitude: -1.5986637
+      cities:
+        []
+    -
+      name: "Banwa"
+      code: "BAN"
+      iso3166_2: "BF-BAN"
+      type: "province"
+      latitude: 12.2265568
+      longitude: -4.1913344
+      cities:
+        []
+    -
+      name: "Bazèga"
+      code: "BAZ"
+      iso3166_2: "BF-BAZ"
+      type: "province"
+      latitude: 11.8922276
+      longitude: -1.4593762
+      cities:
+        []
+    -
+      name: "Boucle du Mouhoun"
+      code: "01"
+      iso3166_2: "BF-01"
+      type: "region"
+      latitude: 12.4777805
+      longitude: -3.5879571
+      cities:
+        -
+          name: "Barani"
+          latitude: 13.1691
+          longitude: -3.8899
+        -
+          name: "Boromo"
+          latitude: 11.74542
+          longitude: -2.93006
+        -
+          name: "Dédougou"
+          latitude: 12.46338
+          longitude: -3.46075
+        -
+          name: "Nouna"
+          latitude: 12.72939
+          longitude: -3.86305
+        -
+          name: "Province de la Kossi"
+          latitude: 12.91667
+          longitude: -3.83333
+        -
+          name: "Province des Balé"
+          latitude: 11.71667
+          longitude: -3.05
+        -
+          name: "Province des Banwa"
+          latitude: 12.16667
+          longitude: -4.16667
+        -
+          name: "Province du Mouhoun"
+          latitude: 12.25
+          longitude: -3.41667
+        -
+          name: "Province du Nayala"
+          latitude: 12.66667
+          longitude: -3
+        -
+          name: "Province du Sourou"
+          latitude: 13.25
+          longitude: -3
+        -
+          name: "Salanso"
+          latitude: 12.17423
+          longitude: -4.08477
+        -
+          name: "Toma"
+          latitude: 12.75844
+          longitude: -2.89879
+        -
+          name: "Tougan"
+          latitude: 13.0725
+          longitude: -3.0694
+    -
+      name: "Bougouriba"
+      code: "BGR"
+      iso3166_2: "BF-BGR"
+      type: "province"
+      latitude: 10.8820933
+      longitude: -3.4306631
+      cities:
+        []
+    -
+      name: "Boulgou"
+      code: "BLG"
+      iso3166_2: "BF-BLG"
+      type: "province"
+      latitude: 11.464625
+      longitude: -0.4089101
+      cities:
+        []
+    -
+      name: "Boulkiemde"
+      code: "BLK"
+      iso3166_2: "BF-BLK"
+      type: "province"
+      latitude: 12.293712
+      longitude: -2.1041312
+      cities:
+        []
+    -
+      name: "Cascades"
+      code: "02"
+      iso3166_2: "BF-02"
+      type: "region"
+      latitude: 10.3071812
+      longitude: -4.4351893
+      cities:
+        -
+          name: "Banfora"
+          latitude: 10.63333
+          longitude: -4.76667
+        -
+          name: "Province de la Comoé"
+          latitude: 10.33333
+          longitude: -4.41667
+        -
+          name: "Province de la Léraba"
+          latitude: 10.66667
+          longitude: -5.2
+        -
+          name: "Sindou"
+          latitude: 10.66667
+          longitude: -5.16667
+    -
+      name: "Centre"
+      code: "03"
+      iso3166_2: "BF-03"
+      type: "region"
+      latitude: 12.36732
+      longitude: -1.5430869
+      cities:
+        -
+          name: "Kadiogo"
+          latitude: 12.33333
+          longitude: -1.5
+        -
+          name: "Ouagadougou"
+          latitude: 12.36566
+          longitude: -1.53388
+    -
+      name: "Centre-Est"
+      code: "04"
+      iso3166_2: "BF-04"
+      type: "region"
+      latitude: 11.734933
+      longitude: -0.2921056
+      cities:
+        -
+          name: "Garango"
+          latitude: 11.8
+          longitude: -0.55056
+        -
+          name: "Koupéla"
+          latitude: 12.17864
+          longitude: -0.35103
+        -
+          name: "Kouritenga"
+          latitude: 12.2
+          longitude: -0.3
+        -
+          name: "Ouargaye"
+          latitude: 11.50202
+          longitude: 0.05886
+        -
+          name: "Province du Boulgou"
+          latitude: 11.5
+          longitude: -0.41667
+        -
+          name: "Province du Koulpélogo"
+          latitude: 11.41667
+          longitude: 0.16667
+        -
+          name: "Tenkodogo"
+          latitude: 11.78
+          longitude: -0.36972
+    -
+      name: "Centre-Nord"
+      code: "05"
+      iso3166_2: "BF-05"
+      type: "region"
+      latitude: 13.23871
+      longitude: -1.0349832
+      cities:
+        -
+          name: "Boulsa"
+          latitude: 12.66664
+          longitude: -0.57469
+        -
+          name: "Kaya"
+          latitude: 13.09167
+          longitude: -1.08444
+        -
+          name: "Kongoussi"
+          latitude: 13.32583
+          longitude: -1.53472
+        -
+          name: "Province du Bam"
+          latitude: 13.46667
+          longitude: -1.58333
+        -
+          name: "Province du Namentenga"
+          latitude: 13.25
+          longitude: -0.5
+        -
+          name: "Province du Sanmatenga"
+          latitude: 13.25
+          longitude: -1.08333
+    -
+      name: "Centre-Ouest"
+      code: "06"
+      iso3166_2: "BF-06"
+      type: "region"
+      latitude: 11.9067933
+      longitude: -2.3044801
+      cities:
+        -
+          name: "Goulouré"
+          latitude: 12.23484
+          longitude: -1.93394
+        -
+          name: "Kokologo"
+          latitude: 12.19392
+          longitude: -1.87687
+        -
+          name: "Koudougou"
+          latitude: 12.25263
+          longitude: -2.36272
+        -
+          name: "Léo"
+          latitude: 11.10033
+          longitude: -2.10654
+        -
+          name: "Pitmoaga"
+          latitude: 12.24564
+          longitude: -1.88148
+        -
+          name: "Province de la Sissili"
+          latitude: 11.33333
+          longitude: -2.25
+        -
+          name: "Province du Boulkiemdé"
+          latitude: 12.33333
+          longitude: -2.16667
+        -
+          name: "Province du Sanguié"
+          latitude: 12.16667
+          longitude: -2.66667
+        -
+          name: "Province du Ziro"
+          latitude: 11.58333
+          longitude: -1.91667
+        -
+          name: "Réo"
+          latitude: 12.31963
+          longitude: -2.47094
+        -
+          name: "Sapouy"
+          latitude: 11.55444
+          longitude: -1.77361
+    -
+      name: "Centre-Sud"
+      code: "07"
+      iso3166_2: "BF-07"
+      type: "region"
+      latitude: 11.5833646
+      longitude: -1.0556301
+      cities:
+        -
+          name: "Bazega"
+          latitude: 11.91667
+          longitude: -1.5
+        -
+          name: "Kombissiri"
+          latitude: 12.06884
+          longitude: -1.33644
+        -
+          name: "Manga"
+          latitude: 11.66361
+          longitude: -1.07306
+        -
+          name: "Nahouri"
+          latitude: 11.25
+          longitude: -1.25
+        -
+          name: "Pô"
+          latitude: 11.16972
+          longitude: -1.145
+        -
+          name: "Zoundweogo"
+          latitude: 11.58333
+          longitude: -1
+    -
+      name: "Comoé"
+      code: "COM"
+      iso3166_2: "BF-COM"
+      type: "province"
+      latitude: 10.2419897
+      longitude: -4.4268875
+      cities:
+        []
+    -
+      name: "Est"
+      code: "08"
+      iso3166_2: "BF-08"
+      type: "region"
+      latitude: 12.2527495
+      longitude: 0.8736106
+      cities:
+        -
+          name: "Bogandé"
+          latitude: 12.9704
+          longitude: -0.14953
+        -
+          name: "Diapaga"
+          latitude: 12.07305
+          longitude: 1.78838
+        -
+          name: "Fada N'gourma"
+          latitude: 12.06157
+          longitude: 0.35843
+        -
+          name: "Gayéri"
+          latitude: 12.64824
+          longitude: 0.49314
+        -
+          name: "Gnagna"
+          latitude: 12.9188
+          longitude: 0.0392
+        -
+          name: "Pama"
+          latitude: 11.24972
+          longitude: 0.7075
+        -
+          name: "Province de la Komandjoari"
+          latitude: 12.66667
+          longitude: 0.66667
+        -
+          name: "Province de la Kompienga"
+          latitude: 11.41667
+          longitude: 0.91667
+        -
+          name: "Province de la Tapoa"
+          latitude: 12
+          longitude: 1.75
+        -
+          name: "Province du Gourma"
+          latitude: 12.08333
+          longitude: 0.5
+    -
+      name: "Ganzourgou"
+      code: "GAN"
+      iso3166_2: "BF-GAN"
+      type: "province"
+      latitude: 12.2899154
+      longitude: -0.8083429
+      cities:
+        []
+    -
+      name: "Gnagna"
+      code: "GNA"
+      iso3166_2: "BF-GNA"
+      type: "province"
+      latitude: 12.9154574
+      longitude: -0.0659562
+      cities:
+        []
+    -
+      name: "Gourma"
+      code: "GOU"
+      iso3166_2: "BF-GOU"
+      type: "province"
+      latitude: 12.2278267
+      longitude: 0.5472078
+      cities:
+        []
+    -
+      name: "Hauts-Bassins"
+      code: "09"
+      iso3166_2: "BF-09"
+      type: "region"
+      latitude: 11.3890275
+      longitude: -4.041365
+      cities:
+        -
+          name: "Bobo-Dioulasso"
+          latitude: 11.17715
+          longitude: -4.2979
+        -
+          name: "Houndé"
+          latitude: 11.5
+          longitude: -3.51667
+        -
+          name: "Province du Houet"
+          latitude: 11.33333
+          longitude: -4.25
+        -
+          name: "Province du Kénédougou"
+          latitude: 11.41667
+          longitude: -5
+        -
+          name: "Province du Tuy"
+          latitude: 11.41667
+          longitude: -3.41667
+    -
+      name: "Houet"
+      code: "HOU"
+      iso3166_2: "BF-HOU"
+      type: "province"
+      latitude: 11.3851056
+      longitude: -4.3273643
+      cities:
+        []
+    -
+      name: "Ioba"
+      code: "IOB"
+      iso3166_2: "BF-IOB"
+      type: "province"
+      latitude: 11.0343187
+      longitude: -2.9627761
+      cities:
+        []
+    -
+      name: "Kadiogo"
+      code: "KAD"
+      iso3166_2: "BF-KAD"
+      type: "province"
+      latitude: 12.36732
+      longitude: -1.5430869
+      cities:
+        []
+    -
+      name: "Kénédougou"
+      code: "KEN"
+      iso3166_2: "BF-KEN"
+      type: "province"
+      latitude: 11.403998
+      longitude: -4.9851028
+      cities:
+        []
+    -
+      name: "Komondjari"
+      code: "KMD"
+      iso3166_2: "BF-KMD"
+      type: "province"
+      latitude: 12.7269113
+      longitude: 0.7047083
+      cities:
+        []
+    -
+      name: "Kompienga"
+      code: "KMP"
+      iso3166_2: "BF-KMP"
+      type: "province"
+      latitude: 11.4487592
+      longitude: 0.9770378
+      cities:
+        []
+    -
+      name: "Kossi"
+      code: "KOS"
+      iso3166_2: "BF-KOS"
+      type: "province"
+      latitude: 12.9593346
+      longitude: -3.8436797
+      cities:
+        []
+    -
+      name: "Koulpélogo"
+      code: "KOP"
+      iso3166_2: "BF-KOP"
+      type: "province"
+      latitude: 11.4153137
+      longitude: 0.149899
+      cities:
+        []
+    -
+      name: "Kouritenga"
+      code: "KOT"
+      iso3166_2: "BF-KOT"
+      type: "province"
+      latitude: 12.185035
+      longitude: -0.244848
+      cities:
+        []
+    -
+      name: "Kourwéogo"
+      code: "KOW"
+      iso3166_2: "BF-KOW"
+      type: "province"
+      latitude: 12.6004222
+      longitude: -1.7598561
+      cities:
+        []
+    -
+      name: "Léraba"
+      code: "LER"
+      iso3166_2: "BF-LER"
+      type: "province"
+      latitude: 10.6520035
+      longitude: -5.2116858
+      cities:
+        []
+    -
+      name: "Loroum"
+      code: "LOR"
+      iso3166_2: "BF-LOR"
+      type: "province"
+      latitude: 13.9463767
+      longitude: -2.10554
+      cities:
+        []
+    -
+      name: "Mouhoun"
+      code: "MOU"
+      iso3166_2: "BF-MOU"
+      type: "province"
+      latitude: 12.2367475
+      longitude: -3.3387562
+      cities:
+        []
+    -
+      name: "Nahouri"
+      code: "NAO"
+      iso3166_2: "BF-NAO"
+      type: "province"
+      latitude: 11.2545114
+      longitude: -1.2699821
+      cities:
+        []
+    -
+      name: "Namentenga"
+      code: "NAM"
+      iso3166_2: "BF-NAM"
+      type: "province"
+      latitude: 13.23672
+      longitude: -0.4819343
+      cities:
+        []
+    -
+      name: "Nayala"
+      code: "NAY"
+      iso3166_2: "BF-NAY"
+      type: "province"
+      latitude: 12.6601866
+      longitude: -2.9891153
+      cities:
+        []
+    -
+      name: "Nord"
+      code: "10"
+      iso3166_2: "BF-10"
+      type: "region"
+      latitude: 13.45911
+      longitude: -2.2496367
+      cities:
+        -
+          name: "Gourcy"
+          latitude: 13.20776
+          longitude: -2.35893
+        -
+          name: "Ouahigouya"
+          latitude: 13.58278
+          longitude: -2.42158
+        -
+          name: "Province du Loroum"
+          latitude: 13.91667
+          longitude: -2.16667
+        -
+          name: "Province du Passoré"
+          latitude: 12.91667
+          longitude: -2.16667
+        -
+          name: "Province du Yatenga"
+          latitude: 13.58333
+          longitude: -2.41667
+        -
+          name: "Province du Zondoma"
+          latitude: 13.18333
+          longitude: -2.36667
+        -
+          name: "Titao"
+          latitude: 13.76667
+          longitude: -2.06667
+        -
+          name: "Yako"
+          latitude: 12.9591
+          longitude: -2.26075
+    -
+      name: "Noumbiel"
+      code: "NOU"
+      iso3166_2: "BF-NOU"
+      type: "province"
+      latitude: 9.7967453
+      longitude: -2.9265543
+      cities:
+        []
+    -
+      name: "Oubritenga"
+      code: "OUB"
+      iso3166_2: "BF-OUB"
+      type: "province"
+      latitude: 12.59701
+      longitude: -1.252231
+      cities:
+        []
+    -
+      name: "Oudalan"
+      code: "OUD"
+      iso3166_2: "BF-OUD"
+      type: "province"
+      latitude: 14.6253063
+      longitude: -0.3333471
+      cities:
+        []
+    -
+      name: "Passoré"
+      code: "PAS"
+      iso3166_2: "BF-PAS"
+      type: "province"
+      latitude: 12.8777
+      longitude: -2.2944905
+      cities:
+        []
+    -
+      name: "Plateau-Central"
+      code: "11"
+      iso3166_2: "BF-11"
+      type: "region"
+      latitude: 12.40414
+      longitude: -0.886416
+      cities:
+        -
+          name: "Boussé"
+          latitude: 12.66121
+          longitude: -1.89515
+        -
+          name: "Oubritenga"
+          latitude: 12.66667
+          longitude: -1.33333
+        -
+          name: "Province du Ganzourgou"
+          latitude: 12.26667
+          longitude: -0.76667
+        -
+          name: "Province du Kourwéogo"
+          latitude: 12.58333
+          longitude: -1.76667
+        -
+          name: "Ziniaré"
+          latitude: 12.58186
+          longitude: -1.2971
+        -
+          name: "Zorgo"
+          latitude: 12.24922
+          longitude: -0.61527
+    -
+      name: "Poni"
+      code: "PON"
+      iso3166_2: "BF-PON"
+      type: "province"
+      latitude: 10.3085943
+      longitude: -3.3016811
+      cities:
+        []
+    -
+      name: "Sahel"
+      code: "12"
+      iso3166_2: "BF-12"
+      type: "region"
+      latitude: 14.0279165
+      longitude: -0.7717776
+      cities:
+        -
+          name: "Djibo"
+          latitude: 14.0994
+          longitude: -1.62554
+        -
+          name: "Dori"
+          latitude: 14.0354
+          longitude: -0.0345
+        -
+          name: "Gorom-Gorom"
+          latitude: 14.4429
+          longitude: -0.23468
+        -
+          name: "Province de l’Oudalan"
+          latitude: 14.66667
+          longitude: -0.33333
+        -
+          name: "Province du Séno"
+          latitude: 13.964
+          longitude: 0.012
+        -
+          name: "Province du Soum"
+          latitude: 14.33333
+          longitude: -1.25
+        -
+          name: "Province du Yagha"
+          latitude: 13.41667
+          longitude: 0.58333
+    -
+      name: "Sanguié"
+      code: "SNG"
+      iso3166_2: "BF-SNG"
+      type: "province"
+      latitude: 12.2101561
+      longitude: -2.6421059
+      cities:
+        []
+    -
+      name: "Sanmatenga"
+      code: "SMT"
+      iso3166_2: "BF-SMT"
+      type: "province"
+      latitude: 13.2405448
+      longitude: -0.9747023
+      cities:
+        []
+    -
+      name: "Séno"
+      code: "SEN"
+      iso3166_2: "BF-SEN"
+      type: "province"
+      latitude: 13.99508
+      longitude: -0.0992076
+      cities:
+        []
+    -
+      name: "Sissili"
+      code: "SIS"
+      iso3166_2: "BF-SIS"
+      type: "province"
+      latitude: 11.4484064
+      longitude: -2.3912085
+      cities:
+        []
+    -
+      name: "Soum"
+      code: "SOM"
+      iso3166_2: "BF-SOM"
+      type: "province"
+      latitude: 14.2861443
+      longitude: -1.3452326
+      cities:
+        []
+    -
+      name: "Sourou"
+      code: "SOR"
+      iso3166_2: "BF-SOR"
+      type: "province"
+      latitude: 13.2311675
+      longitude: -2.962181
+      cities:
+        []
+    -
+      name: "Sud-Ouest"
+      code: "13"
+      iso3166_2: "BF-13"
+      type: "region"
+      latitude: 10.3869208
+      longitude: -3.2831886
+      cities:
+        -
+          name: "Batié"
+          latitude: 9.88333
+          longitude: -2.91667
+        -
+          name: "Dano"
+          latitude: 11.1464
+          longitude: -3.05784
+        -
+          name: "Diébougou"
+          latitude: 10.96209
+          longitude: -3.24967
+        -
+          name: "Province de la Bougouriba"
+          latitude: 10.83333
+          longitude: -3.41667
+        -
+          name: "Province du Ioba"
+          latitude: 11.08333
+          longitude: -3.08333
+        -
+          name: "Province du Noumbièl"
+          latitude: 9.83333
+          longitude: -3
+        -
+          name: "Province du Poni"
+          latitude: 10.25
+          longitude: -3.41667
+    -
+      name: "Tapoa"
+      code: "TAP"
+      iso3166_2: "BF-TAP"
+      type: "province"
+      latitude: 12.1450627
+      longitude: 1.7603025
+      cities:
+        []
+    -
+      name: "Tuy"
+      code: "TUI"
+      iso3166_2: "BF-TUI"
+      type: "province"
+      latitude: 11.4495604
+      longitude: -3.3787653
+      cities:
+        []
+    -
+      name: "Yagha"
+      code: "YAG"
+      iso3166_2: "BF-YAG"
+      type: "province"
+      latitude: 13.4269445
+      longitude: 0.6161497
+      cities:
+        []
+    -
+      name: "Yatenga"
+      code: "YAT"
+      iso3166_2: "BF-YAT"
+      type: "province"
+      latitude: 13.5942938
+      longitude: -2.5249513
+      cities:
+        []
+    -
+      name: "Ziro"
+      code: "ZIR"
+      iso3166_2: "BF-ZIR"
+      type: "province"
+      latitude: 11.675305
+      longitude: -1.9146626
+      cities:
+        []
+    -
+      name: "Zondoma"
+      code: "ZON"
+      iso3166_2: "BF-ZON"
+      type: "province"
+      latitude: 13.1975396
+      longitude: -2.3085276
+      cities:
+        []
+    -
+      name: "Zoundwéogo"
+      code: "ZOU"
+      iso3166_2: "BF-ZOU"
+      type: "province"
+      latitude: 11.5525895
+      longitude: -1.0308938
+      cities:
+        []
+-
+  name: "Cape Verde"
+  name_es: "Cabo Verde"
+  native: "Cabo Verde"
+  iso2: "CV"
+  iso3: "CPV"
+  numeric_code: "132"
+  phonecode: "238"
+  capital: "Praia"
+  currency: "CVE"
+  currency_name: "Cape Verdean escudo"
+  currency_symbol: "$"
+  tld: ".cv"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 16
+  longitude: -24
+  emoji: "🇨🇻"
+  states:
+    -
+      name: "Barlavento Islands"
+      code: "B"
+      iso3166_2: "CV-B"
+      type: "geographical region"
+      latitude: 17.0555285
+      longitude: -25.1723049
+      cities:
+        []
+    -
+      name: "Boa Vista"
+      code: "BV"
+      iso3166_2: "CV-BV"
+      type: "municipality"
+      latitude: 16.099509
+      longitude: -22.8009411
+      cities:
+        -
+          name: "Sal Rei"
+          latitude: 16.17611
+          longitude: -22.91722
+    -
+      name: "Brava"
+      code: "BR"
+      iso3166_2: "CV-BR"
+      type: "municipality"
+      latitude: 14.8519426
+      longitude: -24.7086939
+      cities:
+        -
+          name: "Nova Sintra"
+          latitude: 14.87139
+          longitude: -24.69556
+    -
+      name: "Maio"
+      code: "MA"
+      iso3166_2: "CV-MA"
+      type: "municipality"
+      latitude: 15.2272182
+      longitude: -23.1563014
+      cities:
+        -
+          name: "Vila do Maio"
+          latitude: 15.13823
+          longitude: -23.21158
+    -
+      name: "Mosteiros"
+      code: "MO"
+      iso3166_2: "CV-MO"
+      type: "municipality"
+      latitude: 15.0347257
+      longitude: -24.3277421
+      cities:
+        -
+          name: "Igreja"
+          latitude: 15.03389
+          longitude: -24.325
+    -
+      name: "Paul"
+      code: "PA"
+      iso3166_2: "CV-PA"
+      type: "municipality"
+      latitude: 17.1150295
+      longitude: -25.0201589
+      cities:
+        -
+          name: "Pombas"
+          latitude: 17.15026
+          longitude: -25.02007
+    -
+      name: "Porto Novo"
+      code: "PN"
+      iso3166_2: "CV-PN"
+      type: "municipality"
+      latitude: 17.0193423
+      longitude: -25.0641922
+      cities:
+        -
+          name: "Porto Novo"
+          latitude: 17.01969
+          longitude: -25.06471
+    -
+      name: "Praia"
+      code: "PR"
+      iso3166_2: "CV-PR"
+      type: "municipality"
+      latitude: 14.9481201
+      longitude: -23.5158945
+      cities:
+        -
+          name: "Praia"
+          latitude: 14.93152
+          longitude: -23.51254
+    -
+      name: "Ribeira Brava"
+      code: "RB"
+      iso3166_2: "CV-RB"
+      type: "municipality"
+      latitude: 16.615728
+      longitude: -24.2982543
+      cities:
+        -
+          name: "Ribeira Brava"
+          latitude: 16.61583
+          longitude: -24.29833
+    -
+      name: "Ribeira Grande"
+      code: "RG"
+      iso3166_2: "CV-RG"
+      type: "municipality"
+      latitude: 17.1833547
+      longitude: -25.0643795
+      cities:
+        -
+          name: "Ponta do Sol"
+          latitude: 17.20171
+          longitude: -25.09217
+        -
+          name: "Ribeira Grande"
+          latitude: 17.1825
+          longitude: -25.065
+    -
+      name: "Ribeira Grande de Santiago"
+      code: "RS"
+      iso3166_2: "CV-RS"
+      type: "municipality"
+      latitude: 14.9830298
+      longitude: -23.6561725
+      cities:
+        -
+          name: "Cidade Velha"
+          latitude: 14.91531
+          longitude: -23.60527
+    -
+      name: "Sal"
+      code: "SL"
+      iso3166_2: "CV-SL"
+      type: "municipality"
+      latitude: 16.7204556
+      longitude: -22.9386761
+      cities:
+        -
+          name: "Espargos"
+          latitude: 16.75524
+          longitude: -22.9446
+        -
+          name: "Santa Maria"
+          latitude: 16.59796
+          longitude: -22.90509
+    -
+      name: "Santa Catarina"
+      code: "CA"
+      iso3166_2: "CV-CA"
+      type: "municipality"
+      latitude: 15.0890754
+      longitude: -23.7134304
+      cities:
+        -
+          name: "Assomada"
+          latitude: 15.1
+          longitude: -23.68333
+    -
+      name: "Santa Catarina do Fogo"
+      code: "CF"
+      iso3166_2: "CV-CF"
+      type: "municipality"
+      latitude: 14.9022545
+      longitude: -24.3212579
+      cities:
+        -
+          name: "Cova Figueira"
+          latitude: 14.89054
+          longitude: -24.29343
+    -
+      name: "Santa Cruz"
+      code: "CR"
+      iso3166_2: "CV-CR"
+      type: "municipality"
+      latitude: 15.1323932
+      longitude: -23.5576819
+      cities:
+        -
+          name: "Pedra Badejo"
+          latitude: 15.1375
+          longitude: -23.53083
+        -
+          name: "Santa Cruz"
+          latitude: 15.13333
+          longitude: -23.56667
+    -
+      name: "São Domingos"
+      code: "SD"
+      iso3166_2: "CV-SD"
+      type: "municipality"
+      latitude: 15.0286165
+      longitude: -23.563922
+      cities:
+        -
+          name: "São Domingos"
+          latitude: 15.02438
+          longitude: -23.5625
+    -
+      name: "São Filipe"
+      code: "SF"
+      iso3166_2: "CV-SF"
+      type: "municipality"
+      latitude: 14.8951679
+      longitude: -24.4945636
+      cities:
+        -
+          name: "São Filipe"
+          latitude: 14.8961
+          longitude: -24.49556
+    -
+      name: "São Lourenço dos Órgãos"
+      code: "SO"
+      iso3166_2: "CV-SO"
+      type: "municipality"
+      latitude: 15.0709442
+      longitude: -23.5865131
+      cities:
+        -
+          name: "João Teves"
+          latitude: 15.06694
+          longitude: -23.58917
+    -
+      name: "São Miguel"
+      code: "SM"
+      iso3166_2: "CV-SM"
+      type: "municipality"
+      latitude: 15.1899662
+      longitude: -23.6420486
+      cities:
+        -
+          name: "Calheta"
+          latitude: 15.18613
+          longitude: -23.59228
+    -
+      name: "São Salvador do Mundo"
+      code: "SS"
+      iso3166_2: "CV-SS"
+      type: "municipality"
+      latitude: 15.07
+      longitude: -23.63
+      cities:
+        -
+          name: "Achada Leitão"
+          latitude: 15.08
+          longitude: -23.64
+        -
+          name: "Leitão Grande"
+          latitude: 15.075
+          longitude: -23.645
+        -
+          name: "Picos"
+          latitude: 15.083
+          longitude: -23.632
+        -
+          name: "Picos Acima"
+          latitude: 15.09
+          longitude: -23.63
+    -
+      name: "São Vicente"
+      code: "SV"
+      iso3166_2: "CV-SV"
+      type: "municipality"
+      latitude: 16.8494412
+      longitude: -24.9718792
+      cities:
+        -
+          name: "Mindelo"
+          latitude: 16.89014
+          longitude: -24.98042
+    -
+      name: "Sotavento Islands"
+      code: "S"
+      iso3166_2: "CV-S"
+      type: "geographical region"
+      latitude: 15.1200758
+      longitude: -23.6348181
+      cities:
+        []
+    -
+      name: "Tarrafal"
+      code: "TA"
+      iso3166_2: "CV-TA"
+      type: "municipality"
+      latitude: 15.2760578
+      longitude: -23.7484077
+      cities:
+        -
+          name: "Tarrafal"
+          latitude: 15.27881
+          longitude: -23.75192
+    -
+      name: "Tarrafal de São Nicolau"
+      code: "TS"
+      iso3166_2: "CV-TS"
+      type: "municipality"
+      latitude: 16.5636498
+      longitude: -24.354942
+      cities:
+        -
+          name: "Tarrafal de São Nicolau"
+          latitude: 16.56622
+          longitude: -24.35793
+-
+  name: "Ghana"
+  name_es: "Ghana"
+  native: "Ghana"
+  iso2: "GH"
+  iso3: "GHA"
+  numeric_code: "288"
+  phonecode: "233"
+  capital: "Accra"
+  currency: "GHS"
+  currency_name: "Ghanaian cedi"
+  currency_symbol: "GH₵"
+  tld: ".gh"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 8
+  longitude: -2
+  emoji: "🇬🇭"
+  states:
+    -
+      name: "Ahafo"
+      code: "AF"
+      iso3166_2: "GH-AF"
+      type: "region"
+      latitude: 6.9096645
+      longitude: -2.2330123
+      cities:
+        -
+          name: "Asunafo North"
+          latitude: 6.8196891
+          longitude: -2.807705
+        -
+          name: "Asunafo South"
+          latitude: 6.6821
+          longitude: -2.4399753
+        -
+          name: "Asutifi North"
+          latitude: 6.9477486
+          longitude: -2.7675716
+        -
+          name: "Asutifi South"
+          latitude: 6.9321581
+          longitude: -2.3552189
+        -
+          name: "Tano North"
+          latitude: 7.2260301
+          longitude: -2.3045656
+        -
+          name: "Tano South"
+          latitude: 7.1953793
+          longitude: -2.1258661
+    -
+      name: "Ashanti"
+      code: "AH"
+      iso3166_2: "GH-AH"
+      type: "region"
+      latitude: 6.8003319
+      longitude: -1.5188142
+      cities:
+        -
+          name: "Agogo"
+          latitude: 6.80004
+          longitude: -1.08193
+        -
+          name: "Bekwai"
+          latitude: 6.45195
+          longitude: -1.57866
+        -
+          name: "Ejura"
+          latitude: 7.38558
+          longitude: -1.35617
+        -
+          name: "Konongo"
+          latitude: 6.61667
+          longitude: -1.21667
+        -
+          name: "Kumasi"
+          latitude: 6.68848
+          longitude: -1.62443
+        -
+          name: "Mampong"
+          latitude: 7.06273
+          longitude: -1.4001
+        -
+          name: "Obuase"
+          latitude: 6.20228
+          longitude: -1.66796
+        -
+          name: "Tafo"
+          latitude: 6.73156
+          longitude: -1.6137
+    -
+      name: "Bono"
+      code: "BO"
+      iso3166_2: "GH-BO"
+      type: "region"
+      latitude: 7.8035236
+      longitude: -1.0876492
+      cities:
+        -
+          name: "Banda"
+          latitude: 8.1495671
+          longitude: -2.366395
+        -
+          name: "Berekum East"
+          latitude: 7.4384619
+          longitude: -2.6029578
+        -
+          name: "Berekum West"
+          latitude: 7.4393416
+          longitude: -2.6549705
+        -
+          name: "Dormaa Central"
+          latitude: 7.2775
+          longitude: -2.878333
+        -
+          name: "Dormaa East"
+          latitude: 7.3
+          longitude: -2.7
+        -
+          name: "Dormaa West"
+          latitude: 7.016667
+          longitude: -3.05
+        -
+          name: "Jaman North"
+          latitude: 7.9883234
+          longitude: -2.9685869
+        -
+          name: "Jaman South"
+          latitude: 7.7084375
+          longitude: -3.075017
+        -
+          name: "Sunyani"
+          latitude: 7.3380332
+          longitude: -2.3487146
+        -
+          name: "Sunyani West"
+          latitude: 7.3566052
+          longitude: -2.4461862
+        -
+          name: "Tain"
+          latitude: 8.1811411
+          longitude: -2.8648762
+        -
+          name: "Wenchi"
+          latitude: 7.7405992
+          longitude: -2.1226788
+    -
+      name: "Bono East"
+      code: "BE"
+      iso3166_2: "GH-BE"
+      type: "region"
+      latitude: 8.2247942
+      longitude: -0.6544711
+      cities:
+        -
+          name: "Atebubu-Amantin"
+          latitude: 7.70237
+          longitude: -1.2197943
+        -
+          name: "Kintampo North"
+          latitude: 8.3963579
+          longitude: -1.8200007
+        -
+          name: "Kintampo South"
+          latitude: 7.9897132
+          longitude: -2.0071115
+        -
+          name: "Nkoranza North"
+          latitude: 7.5660331
+          longitude: -1.723652
+        -
+          name: "Nkoranza South"
+          latitude: 7.6240512
+          longitude: -1.7997446
+        -
+          name: "Pru East"
+          latitude: 8.2262
+          longitude: -0.6536
+        -
+          name: "Pru West"
+          latitude: 8.0735993
+          longitude: -1.2905541
+        -
+          name: "Sene East"
+          latitude: 7.783
+          longitude: -0.217
+        -
+          name: "Sene West"
+          latitude: 7.7342
+          longitude: -0.6818
+        -
+          name: "Techiman"
+          latitude: 7.5896856
+          longitude: -1.9512214
+        -
+          name: "Techiman North"
+          latitude: 7.7042802
+          longitude: -2.0814057
+    -
+      name: "Central"
+      code: "CP"
+      iso3166_2: "GH-CP"
+      type: "region"
+      latitude: 5.7244148
+      longitude: -1.3761749
+      cities:
+        -
+          name: "Apam"
+          latitude: 5.28483
+          longitude: -0.73711
+        -
+          name: "Cape Coast"
+          latitude: 5.10535
+          longitude: -1.2466
+        -
+          name: "Dunkwa"
+          latitude: 5.95996
+          longitude: -1.77792
+        -
+          name: "Elmina"
+          latitude: 5.0847
+          longitude: -1.35093
+        -
+          name: "Foso"
+          latitude: 5.70119
+          longitude: -1.28657
+        -
+          name: "Kasoa"
+          latitude: 5.53449
+          longitude: -0.41679
+        -
+          name: "Mumford"
+          latitude: 5.26176
+          longitude: -0.75897
+        -
+          name: "Saltpond"
+          latitude: 5.20913
+          longitude: -1.06058
+        -
+          name: "Swedru"
+          latitude: 5.53711
+          longitude: -0.69984
+        -
+          name: "Winneba"
+          latitude: 5.35113
+          longitude: -0.62313
+    -
+      name: "Eastern"
+      code: "EP"
+      iso3166_2: "GH-EP"
+      type: "region"
+      latitude: 6.446877
+      longitude: -0.3770964
+      cities:
+        -
+          name: "Aburi"
+          latitude: 5.84802
+          longitude: -0.17449
+        -
+          name: "Akim Oda"
+          latitude: 5.92665
+          longitude: -0.98577
+        -
+          name: "Akim Swedru"
+          latitude: 5.8938
+          longitude: -1.01636
+        -
+          name: "Akropong"
+          latitude: 5.97462
+          longitude: -0.08542
+        -
+          name: "Akwatia"
+          latitude: 6.04024
+          longitude: -0.80876
+        -
+          name: "Asamankese"
+          latitude: 5.86006
+          longitude: -0.6635
+        -
+          name: "Begoro"
+          latitude: 6.38706
+          longitude: -0.37738
+        -
+          name: "Kibi"
+          latitude: 6.16494
+          longitude: -0.55376
+        -
+          name: "Koforidua"
+          latitude: 6.09408
+          longitude: -0.25913
+        -
+          name: "Mpraeso"
+          latitude: 6.59321
+          longitude: -0.73462
+        -
+          name: "Nsawam"
+          latitude: 5.80893
+          longitude: -0.35026
+        -
+          name: "Suhum"
+          latitude: 6.04089
+          longitude: -0.45004
+    -
+      name: "Greater Accra"
+      code: "AA"
+      iso3166_2: "GH-AA"
+      type: "region"
+      latitude: 5.8101532
+      longitude: 0.0995242
+      cities:
+        -
+          name: "Accra"
+          latitude: 5.55602
+          longitude: -0.1969
+        -
+          name: "Atsiaman"
+          latitude: 5.69775
+          longitude: -0.32824
+        -
+          name: "Dome"
+          latitude: 5.65003
+          longitude: -0.2361
+        -
+          name: "Gbawe"
+          latitude: 5.57692
+          longitude: -0.31038
+        -
+          name: "Medina Estates"
+          latitude: 5.6658
+          longitude: -0.16307
+        -
+          name: "Nungua"
+          latitude: 5.60105
+          longitude: -0.07713
+        -
+          name: "Tema"
+          latitude: 5.6698
+          longitude: -0.01657
+        -
+          name: "Teshi Old Town"
+          latitude: 5.58365
+          longitude: -0.10722
+    -
+      name: "North East"
+      code: "NE"
+      iso3166_2: "GH-NE"
+      type: "region"
+      latitude: 10.5279933
+      longitude: -0.3698625
+      cities:
+        -
+          name: "Bunkpurugu-Nyakpanduri"
+          latitude: 10.4660917
+          longitude: -0.2271195
+        -
+          name: "Chereponi"
+          latitude: 10.1382772
+          longitude: 0.2824258
+        -
+          name: "East Mamprusi"
+          latitude: 10.4293186
+          longitude: -0.5307885
+        -
+          name: "Mamprugu-Moagduri"
+          latitude: 10.2329
+          longitude: -1.2836
+        -
+          name: "West Mamprusi"
+          latitude: 10.2990606
+          longitude: -1.367501
+        -
+          name: "Yunyoo-Nasuan"
+          latitude: 10.484
+          longitude: -0.009
+    -
+      name: "Northern"
+      code: "NP"
+      iso3166_2: "GH-NP"
+      type: "region"
+      latitude: 9.6600005
+      longitude: -0.3943799
+      cities:
+        -
+          name: "Kpandae"
+          latitude: 8.46885
+          longitude: -0.01127
+        -
+          name: "Salaga"
+          latitude: 8.55083
+          longitude: -0.51875
+        -
+          name: "Savelugu"
+          latitude: 9.62441
+          longitude: -0.8253
+        -
+          name: "Tamale"
+          latitude: 9.40079
+          longitude: -0.8393
+        -
+          name: "Yendi"
+          latitude: 9.44272
+          longitude: -0.00991
+    -
+      name: "Oti"
+      code: "OT"
+      iso3166_2: "GH-OT"
+      type: "region"
+      latitude: 6.1064098
+      longitude: -0.2483786
+      cities:
+        -
+          name: "Biakoye"
+          latitude: 7.1169869
+          longitude: 0.323243
+        -
+          name: "Jasikan"
+          latitude: 7.4094088
+          longitude: 0.443015
+        -
+          name: "Kadjebi"
+          latitude: 7.5263192
+          longitude: 0.4670477
+        -
+          name: "Krachi East"
+          latitude: 7.7719698
+          longitude: -0.0776376
+        -
+          name: "Krachi Nchumuru"
+          latitude: 8.148498
+          longitude: -0.1634988
+        -
+          name: "Krachi West"
+          latitude: 7.9828216
+          longitude: -0.3488627
+        -
+          name: "Nkwanta North"
+          latitude: 8.3518076
+          longitude: 0.1221762
+        -
+          name: "Nkwanta South"
+          latitude: 8.2593134
+          longitude: 0.5018519
+    -
+      name: "Savannah"
+      code: "SV"
+      iso3166_2: "GH-SV"
+      type: "region"
+      latitude: 9.1400654
+      longitude: -1.7111234
+      cities:
+        -
+          name: "Bole"
+          latitude: 9.0299664
+          longitude: -2.506943
+        -
+          name: "Central Gonja"
+          latitude: 8.9278432
+          longitude: -1.9536972
+        -
+          name: "East Gonja"
+          latitude: 8.725684
+          longitude: -1.0713579
+        -
+          name: "North East Gonja"
+          latitude: 9.1174669
+          longitude: -0.5557936
+        -
+          name: "North Gonja"
+          latitude: 9.5413085
+          longitude: -1.3976692
+        -
+          name: "Sawla-Tuna-Kalba"
+          latitude: 9.3911457
+          longitude: -2.7061166
+        -
+          name: "West Gonja"
+          latitude: 9.5751317
+          longitude: -2.2644041
+    -
+      name: "Upper East"
+      code: "UE"
+      iso3166_2: "GH-UE"
+      type: "region"
+      latitude: 10.7245907
+      longitude: -0.8196591
+      cities:
+        -
+          name: "Bawku"
+          latitude: 11.0616
+          longitude: -0.24169
+        -
+          name: "Bolgatanga"
+          latitude: 10.78556
+          longitude: -0.85139
+        -
+          name: "Navrongo"
+          latitude: 10.89557
+          longitude: -1.0921
+    -
+      name: "Upper West"
+      code: "UW"
+      iso3166_2: "GH-UW"
+      type: "region"
+      latitude: 10.3669525
+      longitude: -2.0921426
+      cities:
+        -
+          name: "Wa"
+          latitude: 10.06069
+          longitude: -2.50192
+    -
+      name: "Volta"
+      code: "TV"
+      iso3166_2: "GH-TV"
+      type: "region"
+      latitude: 6.5348624
+      longitude: 0.4556055
+      cities:
+        -
+          name: "Aflao"
+          latitude: 6.11982
+          longitude: 1.19012
+        -
+          name: "Anloga"
+          latitude: 5.79473
+          longitude: 0.89728
+        -
+          name: "Ho"
+          latitude: 6.60084
+          longitude: 0.4713
+        -
+          name: "Hohoe"
+          latitude: 7.15181
+          longitude: 0.47362
+        -
+          name: "Keta"
+          latitude: 5.91793
+          longitude: 0.98789
+        -
+          name: "Kete Krachi"
+          latitude: 7.79391
+          longitude: -0.0498
+        -
+          name: "Kpandu"
+          latitude: 6.99536
+          longitude: 0.29306
+    -
+      name: "Western"
+      code: "WP"
+      iso3166_2: "GH-WP"
+      type: "region"
+      latitude: 5.4261241
+      longitude: -2.1286574
+      cities:
+        -
+          name: "Aboso"
+          latitude: 5.36073
+          longitude: -1.94856
+        -
+          name: "Axim"
+          latitude: 4.86641
+          longitude: -2.24181
+        -
+          name: "Bibiani"
+          latitude: 6.46346
+          longitude: -2.31938
+        -
+          name: "Prestea"
+          latitude: 5.43385
+          longitude: -2.14295
+        -
+          name: "Sekondi-Takoradi"
+          latitude: 4.92678
+          longitude: -1.75773
+        -
+          name: "Shama Junction"
+          latitude: 5.01806
+          longitude: -1.66437
+        -
+          name: "Takoradi"
+          latitude: 4.89816
+          longitude: -1.76029
+        -
+          name: "Tarkwa"
+          latitude: 5.30383
+          longitude: -1.98956
+    -
+      name: "Western North"
+      code: "WN"
+      iso3166_2: "GH-WN"
+      type: "region"
+      latitude: 6.2064665
+      longitude: -2.4855092
+      cities:
+        -
+          name: "Aowin"
+          latitude: 5.8214385
+          longitude: -2.8236043
+        -
+          name: "Bia East"
+          latitude: 6.8161445
+          longitude: -3.0038395
+        -
+          name: "Bia West"
+          latitude: 6.5689417
+          longitude: -3.0662888
+        -
+          name: "Bibiani-Anhwiaso-Bekwai"
+          latitude: 6.3021004
+          longitude: -2.3567507
+        -
+          name: "Bodi"
+          latitude: 6.2224091
+          longitude: -2.7661515
+        -
+          name: "Juaboso"
+          latitude: 6.3333157
+          longitude: -2.8420614
+        -
+          name: "Sefwi-Akontombra"
+          latitude: 6.0428548
+          longitude: -2.8813362
+        -
+          name: "Sefwi-Wiawso"
+          latitude: 6.2196567
+          longitude: -2.5005915
+        -
+          name: "Suaman"
+          latitude: 6.1082416
+          longitude: -3.0086971
+-
+  name: "Guinea"
+  name_es: "Guinea"
+  native: "Guinée"
+  iso2: "GN"
+  iso3: "GIN"
+  numeric_code: "324"
+  phonecode: "224"
+  capital: "Conakry"
+  currency: "GNF"
+  currency_name: "Guinean franc"
+  currency_symbol: "FG"
+  tld: ".gn"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 11
+  longitude: -10
+  emoji: "🇬🇳"
+  states:
+    -
+      name: "Beyla"
+      code: "BE"
+      iso3166_2: "GN-BE"
+      type: "prefecture"
+      latitude: 8.909432
+      longitude: -8.3674755
+      cities:
+        []
+    -
+      name: "Boffa"
+      code: "BF"
+      iso3166_2: "GN-BF"
+      type: "prefecture"
+      latitude: 10.1808254
+      longitude: -14.0391615
+      cities:
+        []
+    -
+      name: "Boké"
+      code: "B"
+      iso3166_2: "GN-B"
+      type: "administrative region"
+      latitude: 11.3406898
+      longitude: -13.9440724
+      cities:
+        -
+          name: "Boffa"
+          latitude: 10.33333
+          longitude: -14.16667
+        -
+          name: "Boké"
+          latitude: 10.93217
+          longitude: -14.29055
+        -
+          name: "Boke Prefecture"
+          latitude: 11.08333
+          longitude: -14.41667
+        -
+          name: "Fria"
+          latitude: 10.41667
+          longitude: -13.58333
+        -
+          name: "Gaoual"
+          latitude: 11.754096
+          longitude: -13.200333
+        -
+          name: "Gaoual Prefecture"
+          latitude: 11.7243435
+          longitude: -13.2477875
+        -
+          name: "Kimbo"
+          latitude: 10.4
+          longitude: -13.55
+        -
+          name: "Koundara"
+          latitude: 12.48333
+          longitude: -13.3
+        -
+          name: "Koundara Prefecture"
+          latitude: 12.41667
+          longitude: -13.16667
+        -
+          name: "Sanguéya"
+          latitude: 10.7
+          longitude: -14.36667
+        -
+          name: "Youkounkoun"
+          latitude: 12.5311
+          longitude: -13.1224
+    -
+      name: "Boké"
+      code: "BK"
+      iso3166_2: "GN-BK"
+      type: "prefecture"
+      latitude: 11.3406898
+      longitude: -13.9440724
+      cities:
+        []
+    -
+      name: "Conakry"
+      code: "C"
+      iso3166_2: "GN-C"
+      type: "governorate"
+      latitude: 9.5170602
+      longitude: -13.6998434
+      cities:
+        -
+          name: "Camayenne"
+          latitude: 9.535
+          longitude: -13.68778
+        -
+          name: "Conakry"
+          latitude: 9.53795
+          longitude: -13.67729
+    -
+      name: "Coyah"
+      code: "CO"
+      iso3166_2: "GN-CO"
+      type: "prefecture"
+      latitude: 9.709041
+      longitude: -13.388956
+      cities:
+        []
+    -
+      name: "Dabola"
+      code: "DB"
+      iso3166_2: "GN-DB"
+      type: "prefecture"
+      latitude: 10.742172
+      longitude: -11.106486
+      cities:
+        []
+    -
+      name: "Dalaba"
+      code: "DL"
+      iso3166_2: "GN-DL"
+      type: "prefecture"
+      latitude: 10.6868176
+      longitude: -12.2490697
+      cities:
+        []
+    -
+      name: "Dinguiraye"
+      code: "DI"
+      iso3166_2: "GN-DI"
+      type: "prefecture"
+      latitude: 11.5325439
+      longitude: -10.6727268
+      cities:
+        []
+    -
+      name: "Dubréka"
+      code: "DU"
+      iso3166_2: "GN-DU"
+      type: "prefecture"
+      latitude: 9.7907348
+      longitude: -13.5147735
+      cities:
+        []
+    -
+      name: "Faranah"
+      code: "F"
+      iso3166_2: "GN-F"
+      type: "administrative region"
+      latitude: 10.3143203
+      longitude: -10.890097
+      cities:
+        []
+    -
+      name: "Faranah"
+      code: "FA"
+      iso3166_2: "GN-FA"
+      type: "prefecture"
+      latitude: 10.042493
+      longitude: -10.740824
+      cities:
+        []
+    -
+      name: "Forécariah"
+      code: "FO"
+      iso3166_2: "GN-FO"
+      type: "prefecture"
+      latitude: 9.4300088
+      longitude: -13.0833859
+      cities:
+        []
+    -
+      name: "Fria"
+      code: "FR"
+      iso3166_2: "GN-FR"
+      type: "prefecture"
+      latitude: 10.3674543
+      longitude: -13.5841871
+      cities:
+        []
+    -
+      name: "Gaoual"
+      code: "GA"
+      iso3166_2: "GN-GA"
+      type: "prefecture"
+      latitude: 11.7243435
+      longitude: -13.2477875
+      cities:
+        []
+    -
+      name: "Guéckédou"
+      code: "GU"
+      iso3166_2: "GN-GU"
+      type: "prefecture"
+      latitude: 8.5649688
+      longitude: -10.1311163
+      cities:
+        []
+    -
+      name: "Kankan"
+      code: "KA"
+      iso3166_2: "GN-KA"
+      type: "prefecture"
+      latitude: 10.3835169
+      longitude: -9.3069354
+      cities:
+        []
+    -
+      name: "Kankan"
+      code: "K"
+      iso3166_2: "GN-K"
+      type: "administrative region"
+      latitude: 10.3835169
+      longitude: -9.3069354
+      cities:
+        -
+          name: "Kankan"
+          latitude: 10.38542
+          longitude: -9.30568
+        -
+          name: "Kankan Prefecture"
+          latitude: 10.271
+          longitude: -9.178
+        -
+          name: "Kérouané"
+          latitude: 9.26667
+          longitude: -9.01667
+        -
+          name: "Kerouane Prefecture"
+          latitude: 9.16667
+          longitude: -9.08333
+        -
+          name: "Kouroussa"
+          latitude: 10.66667
+          longitude: -9.91667
+        -
+          name: "Mandiana"
+          latitude: 10.62577
+          longitude: -8.69413
+        -
+          name: "Mandiana Prefecture"
+          latitude: 10.658
+          longitude: -8.615
+        -
+          name: "Siguiri"
+          latitude: 11.42282
+          longitude: -9.16852
+        -
+          name: "Siguiri Prefecture"
+          latitude: 11.66667
+          longitude: -9.5
+        -
+          name: "Tokonou"
+          latitude: 9.65
+          longitude: -9.78333
+    -
+      name: "Kérouané"
+      code: "KE"
+      iso3166_2: "GN-KE"
+      type: "prefecture"
+      latitude: 9.2705687
+      longitude: -9.0076196
+      cities:
+        []
+    -
+      name: "Kindia"
+      code: "D"
+      iso3166_2: "GN-D"
+      type: "administrative region"
+      latitude: 10.0368
+      longitude: -12.8260215
+      cities:
+        -
+          name: "Coyah"
+          latitude: 9.75
+          longitude: -13.41667
+        -
+          name: "Dubréka"
+          latitude: 9.79111
+          longitude: -13.52333
+        -
+          name: "Forécariah"
+          latitude: 9.43056
+          longitude: -13.08806
+        -
+          name: "Kindia"
+          latitude: 10.08333
+          longitude: -12.8
+        -
+          name: "Préfecture de Dubréka"
+          latitude: 10.25
+          longitude: -13.41667
+        -
+          name: "Préfecture de Forécariah"
+          latitude: 9.43333
+          longitude: -13.1
+        -
+          name: "Télimélé"
+          latitude: 10.9
+          longitude: -13.03333
+        -
+          name: "Telimele Prefecture"
+          latitude: 10.91667
+          longitude: -13.33333
+        -
+          name: "Tondon"
+          latitude: 10.36667
+          longitude: -13.35
+    -
+      name: "Kindia"
+      code: "KD"
+      iso3166_2: "GN-KD"
+      type: "prefecture"
+      latitude: 10.0368
+      longitude: -12.8260215
+      cities:
+        []
+    -
+      name: "Kissidougou"
+      code: "KS"
+      iso3166_2: "GN-KS"
+      type: "prefecture"
+      latitude: 9.192389
+      longitude: -10.098269
+      cities:
+        []
+    -
+      name: "Koubia"
+      code: "KB"
+      iso3166_2: "GN-KB"
+      type: "prefecture"
+      latitude: 11.582354
+      longitude: -11.8920237
+      cities:
+        []
+    -
+      name: "Koundara"
+      code: "KN"
+      iso3166_2: "GN-KN"
+      type: "prefecture"
+      latitude: 12.485154
+      longitude: -13.298509
+      cities:
+        []
+    -
+      name: "Kouroussa"
+      code: "KO"
+      iso3166_2: "GN-KO"
+      type: "prefecture"
+      latitude: 10.6489229
+      longitude: -9.8850586
+      cities:
+        []
+    -
+      name: "Labé"
+      code: "LA"
+      iso3166_2: "GN-LA"
+      type: "prefecture"
+      latitude: 11.3541939
+      longitude: -12.3463875
+      cities:
+        []
+    -
+      name: "Labé"
+      code: "L"
+      iso3166_2: "GN-L"
+      type: "administrative region"
+      latitude: 11.3232042
+      longitude: -12.2891314
+      cities:
+        -
+          name: "Koubia"
+          latitude: 11.58333
+          longitude: -11.83333
+        -
+          name: "Labé"
+          latitude: 11.31823
+          longitude: -12.28332
+        -
+          name: "Labe Prefecture"
+          latitude: 11.366
+          longitude: -12.3
+        -
+          name: "Lélouma"
+          latitude: 11.42383
+          longitude: -12.68183
+        -
+          name: "Lelouma Prefecture"
+          latitude: 11.41667
+          longitude: -12.66667
+        -
+          name: "Mali"
+          latitude: 12.079
+          longitude: -12.2982
+        -
+          name: "Mali Prefecture"
+          latitude: 12.08333
+          longitude: -12.08333
+        -
+          name: "Tougué"
+          latitude: 11.44503
+          longitude: -11.66422
+        -
+          name: "Tougue Prefecture"
+          latitude: 11.46667
+          longitude: -11.6
+    -
+      name: "Lélouma"
+      code: "LE"
+      iso3166_2: "GN-LE"
+      type: "prefecture"
+      latitude: 11.4257233
+      longitude: -12.6828521
+      cities:
+        []
+    -
+      name: "Lola"
+      code: "LO"
+      iso3166_2: "GN-LO"
+      type: "prefecture"
+      latitude: 8.0166961
+      longitude: -8.3078426
+      cities:
+        []
+    -
+      name: "Macenta"
+      code: "MC"
+      iso3166_2: "GN-MC"
+      type: "prefecture"
+      latitude: 8.2948292
+      longitude: -9.2094463
+      cities:
+        []
+    -
+      name: "Mali"
+      code: "ML"
+      iso3166_2: "GN-ML"
+      type: "prefecture"
+      latitude: 12.0420493
+      longitude: -12.2623061
+      cities:
+        []
+    -
+      name: "Mamou"
+      code: "M"
+      iso3166_2: "GN-M"
+      type: "administrative region"
+      latitude: 10.6619269
+      longitude: -12.1139542
+      cities:
+        -
+          name: "Dalaba"
+          latitude: 10.75
+          longitude: -12.3
+        -
+          name: "Mamou"
+          latitude: 10.37546
+          longitude: -12.09148
+        -
+          name: "Mamou Prefecture"
+          latitude: 10.459
+          longitude: -11.815
+        -
+          name: "Pita"
+          latitude: 10.83333
+          longitude: -12.58333
+    -
+      name: "Mamou"
+      code: "MM"
+      iso3166_2: "GN-MM"
+      type: "prefecture"
+      latitude: 10.6619269
+      longitude: -12.1139542
+      cities:
+        []
+    -
+      name: "Mandiana"
+      code: "MD"
+      iso3166_2: "GN-MD"
+      type: "prefecture"
+      latitude: 10.6172827
+      longitude: -8.6985716
+      cities:
+        []
+    -
+      name: "Nzérékoré"
+      code: "N"
+      iso3166_2: "GN-N"
+      type: "administrative region"
+      latitude: 7.8932884
+      longitude: -8.8812922
+      cities:
+        -
+          name: "Beyla"
+          latitude: 8.69011
+          longitude: -8.64869
+        -
+          name: "Beyla Prefecture"
+          latitude: 8.91667
+          longitude: -8.41667
+        -
+          name: "Gueckedou"
+          latitude: 8.56744
+          longitude: -10.1336
+        -
+          name: "Lola"
+          latitude: 7.83333
+          longitude: -8.33333
+        -
+          name: "Macenta"
+          latitude: 8.5
+          longitude: -9.41667
+        -
+          name: "Nzérékoré"
+          latitude: 7.75624
+          longitude: -8.8179
+        -
+          name: "Nzerekore Prefecture"
+          latitude: 7.945
+          longitude: -8.783
+        -
+          name: "Préfecture de Guékédou"
+          latitude: 8.66667
+          longitude: -10.25
+        -
+          name: "Yomou"
+          latitude: 7.5
+          longitude: -9.16667
+    -
+      name: "Nzérékoré"
+      code: "NZ"
+      iso3166_2: "GN-NZ"
+      type: "prefecture"
+      latitude: 7.8932884
+      longitude: -8.8812922
+      cities:
+        []
+    -
+      name: "Pita"
+      code: "PI"
+      iso3166_2: "GN-PI"
+      type: "prefecture"
+      latitude: 10.8994295
+      longitude: -12.636091
+      cities:
+        []
+    -
+      name: "Siguiri"
+      code: "SI"
+      iso3166_2: "GN-SI"
+      type: "prefecture"
+      latitude: 11.4148113
+      longitude: -9.1788304
+      cities:
+        []
+    -
+      name: "Télimélé"
+      code: "TE"
+      iso3166_2: "GN-TE"
+      type: "prefecture"
+      latitude: 10.9089364
+      longitude: -13.0299331
+      cities:
+        []
+    -
+      name: "Tougué"
+      code: "TO"
+      iso3166_2: "GN-TO"
+      type: "prefecture"
+      latitude: 11.4394566
+      longitude: -11.6629484
+      cities:
+        []
+    -
+      name: "Yomou"
+      code: "YO"
+      iso3166_2: "GN-YO"
+      type: "prefecture"
+      latitude: 7.5696279
+      longitude: -9.2591571
+      cities:
+        []
+-
+  name: "Guinea-Bissau"
+  name_es: "Guinea-Bisáu"
+  native: "Guiné-Bissau"
+  iso2: "GW"
+  iso3: "GNB"
+  numeric_code: "624"
+  phonecode: "245"
+  capital: "Bissau"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".gw"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 12
+  longitude: -15
+  emoji: "🇬🇼"
+  states:
+    -
+      name: "Bafatá"
+      code: "BA"
+      iso3166_2: "GW-BA"
+      type: "region"
+      latitude: 12.1735243
+      longitude: -14.652952
+      cities:
+        -
+          name: "Bafatá"
+          latitude: 12.16583
+          longitude: -14.66167
+        -
+          name: "Contuboel Sector"
+          latitude: 12.555
+          longitude: -14.641
+    -
+      name: "Biombo"
+      code: "BM"
+      iso3166_2: "GW-BM"
+      type: "region"
+      latitude: 11.8816758
+      longitude: -15.7784496
+      cities:
+        -
+          name: "Quinhámel"
+          latitude: 11.88694
+          longitude: -15.85556
+    -
+      name: "Bissau"
+      code: "BS"
+      iso3166_2: "GW-BS"
+      type: "autonomous sector"
+      latitude: 11.85
+      longitude: -15.56666667
+      cities:
+        -
+          name: "Bissau"
+          latitude: 11.85
+          longitude: -15.56666667
+    -
+      name: "Bolama"
+      code: "BL"
+      iso3166_2: "GW-BL"
+      type: "region"
+      latitude: 11.2795064
+      longitude: -16.0294425
+      cities:
+        -
+          name: "Bolama"
+          latitude: 11.57694
+          longitude: -15.47611
+        -
+          name: "Bubaque"
+          latitude: 11.28333
+          longitude: -15.83333
+    -
+      name: "Cacheu"
+      code: "CA"
+      iso3166_2: "GW-CA"
+      type: "region"
+      latitude: 12.1954331
+      longitude: -16.0991895
+      cities:
+        -
+          name: "Cacheu"
+          latitude: 12.27444
+          longitude: -16.16528
+        -
+          name: "Canchungo"
+          latitude: 12.06722
+          longitude: -16.03333
+    -
+      name: "Gabú"
+      code: "GA"
+      iso3166_2: "GW-GA"
+      type: "region"
+      latitude: 12.1170351
+      longitude: -14.1762506
+      cities:
+        -
+          name: "Gabú"
+          latitude: 12.28
+          longitude: -14.22222
+    -
+      name: "Leste"
+      code: "L"
+      iso3166_2: "GW-L"
+      type: "province"
+      latitude: 12.17
+      longitude: -14.37
+      cities:
+        []
+    -
+      name: "Norte"
+      code: "N"
+      iso3166_2: "GW-N"
+      type: "province"
+      latitude: 7.8721811
+      longitude: 123.8857747
+      cities:
+        []
+    -
+      name: "Oio"
+      code: "OI"
+      iso3166_2: "GW-OI"
+      type: "region"
+      latitude: 12.2876092
+      longitude: -15.3387658
+      cities:
+        -
+          name: "Bissorã"
+          latitude: 12.22306
+          longitude: -15.4475
+        -
+          name: "Farim"
+          latitude: 12.48389
+          longitude: -15.22167
+        -
+          name: "Mansôa"
+          latitude: 12.07333
+          longitude: -15.31889
+    -
+      name: "Quinara"
+      code: "QU"
+      iso3166_2: "GW-QU"
+      type: "region"
+      latitude: 11.6340114
+      longitude: -15.0952685
+      cities:
+        -
+          name: "Buba"
+          latitude: 11.58889
+          longitude: -14.99583
+    -
+      name: "Sul"
+      code: "S"
+      iso3166_2: "GW-S"
+      type: "province"
+      latitude: 11.4088213
+      longitude: -16.0042494
+      cities:
+        []
+    -
+      name: "Tombali"
+      code: "TO"
+      iso3166_2: "GW-TO"
+      type: "region"
+      latitude: 11.2981082
+      longitude: -15.1170104
+      cities:
+        -
+          name: "Catió"
+          latitude: 11.2825
+          longitude: -15.25472
+        -
+          name: "Quebo"
+          latitude: 11.33333
+          longitude: -14.93333
+-
+  name: "Ivory Coast"
+  name_es: "Costa de Marfil"
+  native: "Cote D'Ivoire"
+  iso2: "CI"
+  iso3: "CIV"
+  numeric_code: "384"
+  phonecode: "225"
+  capital: "Yamoussoukro"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".ci"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 8
+  longitude: -5
+  emoji: "🇨🇮"
+  states:
+    -
+      name: "Abidjan"
+      code: "AB"
+      iso3166_2: "CI-AB"
+      type: "autonomous district"
+      latitude: 5.3599517
+      longitude: -4.0082563
+      cities:
+        -
+          name: "Abidjan"
+          latitude: 5.30966
+          longitude: -4.01266
+        -
+          name: "Abobo"
+          latitude: 5.41613
+          longitude: -4.0159
+        -
+          name: "Anyama"
+          latitude: 5.49462
+          longitude: -4.05183
+        -
+          name: "Bingerville"
+          latitude: 5.35581
+          longitude: -3.88537
+    -
+      name: "Bas-Sassandra"
+      code: "BS"
+      iso3166_2: "CI-BS"
+      type: "district"
+      latitude: 5.2798356
+      longitude: -6.1526985
+      cities:
+        -
+          name: "Gbôklé"
+          latitude: 4.95712
+          longitude: -6.09372
+        -
+          name: "Nawa"
+          latitude: 5.80112
+          longitude: -6.60313
+        -
+          name: "San-Pédro"
+          latitude: 4.76768
+          longitude: -6.65033
+        -
+          name: "Sassandra"
+          latitude: 4.95384
+          longitude: -6.08531
+        -
+          name: "Tabou"
+          latitude: 4.42295
+          longitude: -7.3528
+    -
+      name: "Comoé"
+      code: "CM"
+      iso3166_2: "CI-CM"
+      type: "district"
+      latitude: 6.2219079
+      longitude: -4.6072799
+      cities:
+        -
+          name: "Abengourou"
+          latitude: 6.72972
+          longitude: -3.49639
+        -
+          name: "Aboisso"
+          latitude: 5.46779
+          longitude: -3.20711
+        -
+          name: "Adiaké"
+          latitude: 5.28634
+          longitude: -3.30403
+        -
+          name: "Agnibilékrou"
+          latitude: 7.13113
+          longitude: -3.20415
+        -
+          name: "Ayamé"
+          latitude: 5.6052
+          longitude: -3.15709
+        -
+          name: "Bonoua"
+          latitude: 5.27247
+          longitude: -3.59625
+        -
+          name: "Grand-Bassam"
+          latitude: 5.2118
+          longitude: -3.73884
+        -
+          name: "Indénié-Djuablin"
+          latitude: 6.74434
+          longitude: -3.494
+        -
+          name: "Sud-Comoé"
+          latitude: 5.49961
+          longitude: -3.2408
+    -
+      name: "Denguélé"
+      code: "DN"
+      iso3166_2: "CI-DN"
+      type: "district"
+      latitude: 48.0707763
+      longitude: -68.5609341
+      cities:
+        -
+          name: "Folon"
+          latitude: 9.81241
+          longitude: -7.51894
+        -
+          name: "Kabadougou"
+          latitude: 9.60571
+          longitude: -7.43774
+        -
+          name: "Odienné"
+          latitude: 9.50511
+          longitude: -7.56433
+    -
+      name: "Gôh-Djiboua"
+      code: "GD"
+      iso3166_2: "CI-GD"
+      type: "district"
+      latitude: 5.8711393
+      longitude: -5.5617279
+      cities:
+        -
+          name: "Divo"
+          latitude: 5.83739
+          longitude: -5.35723
+        -
+          name: "Gagnoa"
+          latitude: 6.13193
+          longitude: -5.9506
+        -
+          name: "Gôh"
+          latitude: 6.14459
+          longitude: -5.92644
+        -
+          name: "Guibéroua"
+          latitude: 6.23869
+          longitude: -6.17147
+        -
+          name: "Lakota"
+          latitude: 5.84752
+          longitude: -5.682
+        -
+          name: "Lôh-Djiboua"
+          latitude: 5.82483
+          longitude: -5.47668
+        -
+          name: "Oumé"
+          latitude: 6.38309
+          longitude: -5.41759
+    -
+      name: "Lacs"
+      code: "LC"
+      iso3166_2: "CI-LC"
+      type: "district"
+      latitude: 48.1980169
+      longitude: -80.4564412
+      cities:
+        -
+          name: "Arrah"
+          latitude: 6.67342
+          longitude: -3.96938
+        -
+          name: "Bélier"
+          latitude: 7.02582
+          longitude: -5.06744
+        -
+          name: "Bocanda"
+          latitude: 7.06264
+          longitude: -4.49948
+        -
+          name: "Bongouanou"
+          latitude: 6.65175
+          longitude: -4.20406
+        -
+          name: "Daoukro"
+          latitude: 7.0591
+          longitude: -3.9631
+        -
+          name: "Dimbokro"
+          latitude: 6.64678
+          longitude: -4.70519
+        -
+          name: "Iffou"
+          latitude: 7.11509
+          longitude: -3.95027
+        -
+          name: "Moronou"
+          latitude: 6.6683
+          longitude: -4.13155
+        -
+          name: "N'Zi"
+          latitude: 6.82803
+          longitude: -4.5813
+        -
+          name: "Toumodi"
+          latitude: 6.55799
+          longitude: -5.01769
+        -
+          name: "Yamoussoukro"
+          latitude: 6.82055
+          longitude: -5.27674
+    -
+      name: "Lagunes"
+      code: "LG"
+      iso3166_2: "CI-LG"
+      type: "district"
+      latitude: 5.8827334
+      longitude: -4.2333355
+      cities:
+        -
+          name: "Adzopé"
+          latitude: 6.10694
+          longitude: -3.86194
+        -
+          name: "Affery"
+          latitude: 6.32035
+          longitude: -3.95235
+        -
+          name: "Agboville"
+          latitude: 5.92801
+          longitude: -4.21319
+        -
+          name: "Agnéby-Tiassa"
+          latitude: 5.79488
+          longitude: -4.37187
+        -
+          name: "Akoupé"
+          latitude: 6.38423
+          longitude: -3.88759
+        -
+          name: "Dabou"
+          latitude: 5.32556
+          longitude: -4.37685
+        -
+          name: "Grand-Lahou"
+          latitude: 5.25068
+          longitude: -5.00333
+        -
+          name: "Grands-Ponts"
+          latitude: 5.30487
+          longitude: -4.39247
+        -
+          name: "Tiassalé"
+          latitude: 5.89839
+          longitude: -4.82293
+    -
+      name: "Montagnes"
+      code: "MG"
+      iso3166_2: "CI-MG"
+      type: "district"
+      latitude: 6.8871664
+      longitude: -9.1070644
+      cities:
+        -
+          name: "Bangolo"
+          latitude: 7.01232
+          longitude: -7.48639
+        -
+          name: "Biankouma"
+          latitude: 7.73909
+          longitude: -7.61377
+        -
+          name: "Cavally"
+          latitude: 6.56343
+          longitude: -7.92526
+        -
+          name: "Danané"
+          latitude: 7.25957
+          longitude: -8.15498
+        -
+          name: "Duekoué"
+          latitude: 6.74202
+          longitude: -7.34918
+        -
+          name: "Guémon"
+          latitude: 7.093
+          longitude: -7.17785
+        -
+          name: "Guiglo"
+          latitude: 6.54368
+          longitude: -7.4935
+        -
+          name: "Man"
+          latitude: 7.41251
+          longitude: -7.55383
+        -
+          name: "Tonkpi"
+          latitude: 7.56785
+          longitude: -7.60941
+        -
+          name: "Toulépleu Gueré"
+          latitude: 6.57395
+          longitude: -8.42592
+    -
+      name: "Sassandra-Marahoué"
+      code: "SM"
+      iso3166_2: "CI-SM"
+      type: "district"
+      latitude: 6.8803348
+      longitude: -6.2375947
+      cities:
+        -
+          name: "Bouaflé"
+          latitude: 6.99041
+          longitude: -5.7442
+        -
+          name: "Daloa"
+          latitude: 6.87735
+          longitude: -6.45022
+        -
+          name: "Haut-Sassandra"
+          latitude: 6.66961
+          longitude: -6.50116
+        -
+          name: "Issia"
+          latitude: 6.49224
+          longitude: -6.58558
+        -
+          name: "Marahoué"
+          latitude: 7.03252
+          longitude: -5.80215
+        -
+          name: "Vavoua"
+          latitude: 7.38194
+          longitude: -6.47778
+        -
+          name: "Zuénoula"
+          latitude: 7.43027
+          longitude: -6.05054
+    -
+      name: "Savanes"
+      code: "SV"
+      iso3166_2: "CI-SV"
+      type: "district"
+      latitude: 9.6373527
+      longitude: -6.7007186
+      cities:
+        -
+          name: "Bagoué"
+          latitude: 9.75
+          longitude: -6.5
+        -
+          name: "Boundiali"
+          latitude: 9.52434
+          longitude: -6.48973
+        -
+          name: "Ferkéssédougou"
+          latitude: 9.60055
+          longitude: -5.19611
+        -
+          name: "Kong"
+          latitude: 9.15
+          longitude: -4.61667
+        -
+          name: "Korhogo"
+          latitude: 9.45803
+          longitude: -5.62961
+        -
+          name: "Ouangolodougou"
+          latitude: 9.96667
+          longitude: -5.15
+        -
+          name: "Poro"
+          latitude: 9.36667
+          longitude: -5.5
+        -
+          name: "Sinématiali"
+          latitude: 9.58333
+          longitude: -5.38333
+        -
+          name: "Tchologo"
+          latitude: 9.76667
+          longitude: -5.1
+        -
+          name: "Tengrela"
+          latitude: 10.48333
+          longitude: -6.40833
+    -
+      name: "Vallée du Bandama"
+      code: "VB"
+      iso3166_2: "CI-VB"
+      type: "district"
+      latitude: 8.278978
+      longitude: -4.8935627
+      cities:
+        -
+          name: "Béoumi"
+          latitude: 7.67395
+          longitude: -5.58085
+        -
+          name: "Botro"
+          latitude: 7.85249
+          longitude: -5.31063
+        -
+          name: "Bouaké"
+          latitude: 7.69385
+          longitude: -5.03031
+        -
+          name: "Dabakala"
+          latitude: 8.36321
+          longitude: -4.42863
+        -
+          name: "Gbêkê"
+          latitude: 7.70271
+          longitude: -5.28511
+        -
+          name: "Hambol"
+          latitude: 8.30368
+          longitude: -5.15396
+        -
+          name: "Katiola"
+          latitude: 8.13728
+          longitude: -5.10095
+        -
+          name: "Sakassou"
+          latitude: 7.45462
+          longitude: -5.29263
+    -
+      name: "Woroba"
+      code: "WR"
+      iso3166_2: "CI-WR"
+      type: "district"
+      latitude: 8.2491372
+      longitude: -6.9209135
+      cities:
+        -
+          name: "Bafing"
+          latitude: 8.40611
+          longitude: -7.58048
+        -
+          name: "Béré"
+          latitude: 8.18952
+          longitude: -6.17157
+        -
+          name: "Mankono"
+          latitude: 8.05861
+          longitude: -6.18972
+        -
+          name: "Séguéla"
+          latitude: 7.96111
+          longitude: -6.67306
+        -
+          name: "Touba"
+          latitude: 8.28333
+          longitude: -7.68333
+        -
+          name: "Worodougou"
+          latitude: 8.16482
+          longitude: -6.66595
+    -
+      name: "Yamoussoukro"
+      code: "YM"
+      iso3166_2: "CI-YM"
+      type: "autonomous district"
+      latitude: 6.8276228
+      longitude: -5.2893433
+      cities:
+        []
+    -
+      name: "Zanzan"
+      code: "ZZ"
+      iso3166_2: "CI-ZZ"
+      type: "district"
+      latitude: 8.8207904
+      longitude: -3.4195527
+      cities:
+        -
+          name: "Bondoukou"
+          latitude: 8.0402
+          longitude: -2.80003
+        -
+          name: "Bouna"
+          latitude: 9.26927
+          longitude: -2.9951
+        -
+          name: "Bounkani"
+          latitude: 9.47841
+          longitude: -3.31238
+        -
+          name: "Gontougo"
+          latitude: 7.87132
+          longitude: -3.07068
+        -
+          name: "Sinfra"
+          latitude: 6.62103
+          longitude: -5.91144
+        -
+          name: "Tanda"
+          latitude: 7.80335
+          longitude: -3.16832
+-
+  name: "Liberia"
+  name_es: "Liberia"
+  native: "Liberia"
+  iso2: "LR"
+  iso3: "LBR"
+  numeric_code: "430"
+  phonecode: "231"
+  capital: "Monrovia"
+  currency: "LRD"
+  currency_name: "Liberian dollar"
+  currency_symbol: "$"
+  tld: ".lr"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 6.5
+  longitude: -9.5
+  emoji: "🇱🇷"
+  states:
+    -
+      name: "Bomi"
+      code: "BM"
+      iso3166_2: "LR-BM"
+      type: "county"
+      latitude: 6.7177856
+      longitude: -10.7881766
+      cities:
+        -
+          name: "Tubmanburg"
+          latitude: 6.87064
+          longitude: -10.8211
+    -
+      name: "Bong"
+      code: "BG"
+      iso3166_2: "LR-BG"
+      type: "county"
+      latitude: 6.9622195
+      longitude: -9.7134459
+      cities:
+        -
+          name: "Gbarnga"
+          latitude: 6.99543
+          longitude: -9.47122
+    -
+      name: "Gbarpolu"
+      code: "GP"
+      iso3166_2: "LR-GP"
+      type: "county"
+      latitude: 7.2681564
+      longitude: -10.3814771
+      cities:
+        -
+          name: "Bopolu"
+          latitude: 7.06667
+          longitude: -10.4875
+    -
+      name: "Grand Bassa"
+      code: "GB"
+      iso3166_2: "LR-GB"
+      type: "county"
+      latitude: 6.1640621
+      longitude: -9.895669
+      cities:
+        -
+          name: "Buchanan"
+          latitude: 5.87693
+          longitude: -10.04964
+    -
+      name: "Grand Cape Mount"
+      code: "CM"
+      iso3166_2: "LR-CM"
+      type: "county"
+      latitude: 7.0496206
+      longitude: -11.129843
+      cities:
+        -
+          name: "Robertsport"
+          latitude: 6.75329
+          longitude: -11.3671
+    -
+      name: "Grand Gedeh"
+      code: "GG"
+      iso3166_2: "LR-GG"
+      type: "county"
+      latitude: 5.8161533
+      longitude: -8.0995537
+      cities:
+        -
+          name: "Zwedru"
+          latitude: 6.06846
+          longitude: -8.13559
+    -
+      name: "Grand Kru"
+      code: "GK"
+      iso3166_2: "LR-GK"
+      type: "county"
+      latitude: 4.84932
+      longitude: -8.3308845
+      cities:
+        -
+          name: "Barclayville"
+          latitude: 4.67443
+          longitude: -8.23306
+    -
+      name: "Lofa"
+      code: "LO"
+      iso3166_2: "LR-LO"
+      type: "county"
+      latitude: 7.8824046
+      longitude: -9.9760297
+      cities:
+        -
+          name: "Voinjama"
+          latitude: 8.42194
+          longitude: -9.74778
+    -
+      name: "Margibi"
+      code: "MG"
+      iso3166_2: "LR-MG"
+      type: "county"
+      latitude: 6.6053676
+      longitude: -10.1758429
+      cities:
+        -
+          name: "Kakata"
+          latitude: 6.53104
+          longitude: -10.35368
+    -
+      name: "Maryland"
+      code: "MY"
+      iso3166_2: "LR-MY"
+      type: "county"
+      latitude: 4.6355376
+      longitude: -7.7281669
+      cities:
+        -
+          name: "Harper"
+          latitude: 4.3782
+          longitude: -7.71081
+    -
+      name: "Montserrado"
+      code: "MO"
+      iso3166_2: "LR-MO"
+      type: "county"
+      latitude: 6.4095537
+      longitude: -10.6059403
+      cities:
+        -
+          name: "Bensonville"
+          latitude: 6.44716
+          longitude: -10.61283
+        -
+          name: "Monrovia"
+          latitude: 6.30054
+          longitude: -10.7969
+    -
+      name: "Nimba"
+      code: "NI"
+      iso3166_2: "LR-NI"
+      type: "county"
+      latitude: 6.8088813
+      longitude: -8.7461448
+      cities:
+        -
+          name: "Ganta"
+          latitude: 7.30222
+          longitude: -8.53083
+        -
+          name: "New Yekepa"
+          latitude: 7.57944
+          longitude: -8.53778
+        -
+          name: "Sanniquellie"
+          latitude: 7.36215
+          longitude: -8.71326
+    -
+      name: "River Cess"
+      code: "RI"
+      iso3166_2: "LR-RI"
+      type: "county"
+      latitude: 5.9087331
+      longitude: -9.3938267
+      cities:
+        -
+          name: "Cestos City"
+          latitude: 5.45683
+          longitude: -9.58167
+    -
+      name: "River Gee"
+      code: "RG"
+      iso3166_2: "LR-RG"
+      type: "county"
+      latitude: 5.2653903
+      longitude: -7.8856203
+      cities:
+        -
+          name: "Fish Town"
+          latitude: 5.19739
+          longitude: -7.87579
+    -
+      name: "Sinoe"
+      code: "SI"
+      iso3166_2: "LR-SI"
+      type: "county"
+      latitude: 5.3232693
+      longitude: -8.8435955
+      cities:
+        -
+          name: "Greenville"
+          latitude: 5.01133
+          longitude: -9.0388
+-
+  name: "Mali"
+  name_es: "Mali"
+  native: "Mali"
+  iso2: "ML"
+  iso3: "MLI"
+  numeric_code: "466"
+  phonecode: "223"
+  capital: "Bamako"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".ml"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 17
+  longitude: -4
+  emoji: "🇲🇱"
+  states:
+    -
+      name: "Bamako"
+      code: "BKO"
+      iso3166_2: "ML-BKO"
+      type: "district"
+      latitude: 12.649319
+      longitude: -8.000337
+      cities:
+        -
+          name: "Bamako"
+          latitude: 12.65
+          longitude: -8
+    -
+      name: "Gao"
+      code: "7"
+      iso3166_2: "ML-7"
+      type: "region"
+      latitude: 17.00244
+      longitude: -0.0991154
+      cities:
+        -
+          name: "Ansongo"
+          latitude: 15.6597
+          longitude: 0.5022
+        -
+          name: "Cercle de Bourem"
+          latitude: 17.71192
+          longitude: -0.34284
+        -
+          name: "Gao"
+          latitude: 16.27167
+          longitude: -0.04472
+        -
+          name: "Gao Cercle"
+          latitude: 16.72237
+          longitude: 0.43984
+        -
+          name: "Inékar"
+          latitude: 15.95944
+          longitude: 3.14111
+    -
+      name: "Kayes"
+      code: "1"
+      iso3166_2: "ML-1"
+      type: "region"
+      latitude: 13.8001844
+      longitude: -10.2245548
+      cities:
+        -
+          name: "Bafoulabé"
+          latitude: 13.8065
+          longitude: -10.8321
+        -
+          name: "Kayes"
+          latitude: 14.44693
+          longitude: -11.44448
+        -
+          name: "Kita"
+          latitude: 13.0349
+          longitude: -9.4895
+        -
+          name: "Kokofata"
+          latitude: 12.88333
+          longitude: -9.95
+        -
+          name: "Sagalo"
+          latitude: 12.2
+          longitude: -10.7
+    -
+      name: "Kidal"
+      code: "8"
+      iso3166_2: "ML-8"
+      type: "region"
+      latitude: 18.4408358
+      longitude: 1.4075395
+      cities:
+        -
+          name: "Abeïbara"
+          latitude: 19.11667
+          longitude: 1.75
+        -
+          name: "Cercle d’Abeïbara"
+          latitude: 19.48878
+          longitude: 2.20025
+        -
+          name: "Kidal"
+          latitude: 18.44111
+          longitude: 1.40778
+    -
+      name: "Koulikoro"
+      code: "2"
+      iso3166_2: "ML-2"
+      type: "region"
+      latitude: 13.4820706
+      longitude: -7.6096079
+      cities:
+        -
+          name: "Banamba"
+          latitude: 13.54773
+          longitude: -7.44808
+        -
+          name: "Kangaba"
+          latitude: 11.93333
+          longitude: -8.41667
+        -
+          name: "Kati"
+          latitude: 12.74409
+          longitude: -8.07257
+        -
+          name: "Kolokani"
+          latitude: 13.5728
+          longitude: -8.0339
+        -
+          name: "Koulikoro"
+          latitude: 12.86273
+          longitude: -7.55985
+    -
+      name: "Ménaka"
+      code: "9"
+      iso3166_2: "ML-9"
+      type: "region"
+      latitude: 15.9156421
+      longitude: 2.396174
+      cities:
+        []
+    -
+      name: "Mopti"
+      code: "5"
+      iso3166_2: "ML-5"
+      type: "region"
+      latitude: 14.514489
+      longitude: -3.6464581
+      cities:
+        -
+          name: "Bandiagara"
+          latitude: 14.35005
+          longitude: -3.61038
+        -
+          name: "Djénné"
+          latitude: 13.90608
+          longitude: -4.55332
+        -
+          name: "Douentza"
+          latitude: 15.00155
+          longitude: -2.94978
+        -
+          name: "Douentza Cercle"
+          latitude: 15.06947
+          longitude: -2.40875
+        -
+          name: "Mopti"
+          latitude: 14.4843
+          longitude: -4.18296
+        -
+          name: "Ténenkou"
+          latitude: 14.45722
+          longitude: -4.9169
+    -
+      name: "Ségou"
+      code: "4"
+      iso3166_2: "ML-4"
+      type: "region"
+      latitude: 14.0487607
+      longitude: -6.0047091
+      cities:
+        -
+          name: "Baroueli"
+          latitude: 13.07489
+          longitude: -6.57171
+        -
+          name: "Cercle de San"
+          latitude: 13.17895
+          longitude: -5.01617
+        -
+          name: "Ké-Macina"
+          latitude: 13.9641
+          longitude: -5.35791
+        -
+          name: "Kinmparana"
+          latitude: 12.84217
+          longitude: -4.9245
+        -
+          name: "Markala"
+          latitude: 13.7021
+          longitude: -6.0659
+        -
+          name: "San"
+          latitude: 13.30335
+          longitude: -4.89562
+        -
+          name: "Ségou"
+          latitude: 13.4317
+          longitude: -6.2157
+        -
+          name: "Sokolo"
+          latitude: 14.7328
+          longitude: -6.1219
+    -
+      name: "Sikasso"
+      code: "3"
+      iso3166_2: "ML-3"
+      type: "region"
+      latitude: 11.529684
+      longitude: -6.8663259
+      cities:
+        -
+          name: "Bougouni"
+          latitude: 11.41769
+          longitude: -7.48323
+        -
+          name: "Kolondiéba"
+          latitude: 11.08943
+          longitude: -6.8929
+        -
+          name: "Koutiala"
+          latitude: 12.39173
+          longitude: -5.46421
+        -
+          name: "Koutiala Cercle"
+          latitude: 12.35311
+          longitude: -5.5839
+        -
+          name: "Ntossoni"
+          latitude: 12.5304
+          longitude: -5.77003
+        -
+          name: "Sikasso"
+          latitude: 11.31755
+          longitude: -5.66654
+        -
+          name: "Yorosso"
+          latitude: 12.35811
+          longitude: -4.77688
+    -
+      name: "Taoudénit"
+      code: "10"
+      iso3166_2: "ML-10"
+      type: "region"
+      latitude: 20.8582718
+      longitude: -3.39819
+      cities:
+        []
+    -
+      name: "Tombouctou"
+      code: "6"
+      iso3166_2: "ML-6"
+      type: "region"
+      latitude: 16.7719091
+      longitude: -3.0087272
+      cities:
+        -
+          name: "Araouane"
+          latitude: 18.90476
+          longitude: -3.52649
+        -
+          name: "Cercle de Goundam"
+          latitude: 18.60035
+          longitude: -4.99306
+        -
+          name: "Dire"
+          latitude: 16.28017
+          longitude: -3.31302
+        -
+          name: "Goundam"
+          latitude: 16.41453
+          longitude: -3.67075
+        -
+          name: "Gourma-Rharous Cercle"
+          latitude: 16.07979
+          longitude: -1.76981
+        -
+          name: "Niafunké"
+          latitude: 15.9322
+          longitude: -3.9906
+        -
+          name: "Timbuktu"
+          latitude: 16.77348
+          longitude: -3.00742
+-
+  name: "Mauritania"
+  name_es: "Mauritania"
+  native: "موريتانيا"
+  iso2: "MR"
+  iso3: "MRT"
+  numeric_code: "478"
+  phonecode: "222"
+  capital: "Nouakchott"
+  currency: "MRU"
+  currency_name: "Mauritanian ouguiya"
+  currency_symbol: "UM"
+  tld: ".mr"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 20
+  longitude: -12
+  emoji: "🇲🇷"
+  states:
+    -
+      name: "Adrar"
+      code: "07"
+      iso3166_2: "MR-07"
+      type: "region"
+      latitude: 21.0090623
+      longitude: -10.2207449
+      cities:
+        -
+          name: "Atar"
+          latitude: 20.5177
+          longitude: -13.04857
+        -
+          name: "Azougui"
+          latitude: 20.56764
+          longitude: -13.11191
+        -
+          name: "Chingueṭṭi"
+          latitude: 20.463
+          longitude: -12.362
+        -
+          name: "Ksar el Khali"
+          latitude: 20.93333333
+          longitude: -11.61666667
+    -
+      name: "Assaba"
+      code: "03"
+      iso3166_2: "MR-03"
+      type: "region"
+      latitude: 16.5809185
+      longitude: -11.5363724
+      cities:
+        -
+          name: "Barkéwol"
+          latitude: 16.64039
+          longitude: -12.49849
+        -
+          name: "Kiffa"
+          latitude: 16.62073
+          longitude: -11.40208
+    -
+      name: "Brakna"
+      code: "05"
+      iso3166_2: "MR-05"
+      type: "region"
+      latitude: 17.2475638
+      longitude: -13.4037714
+      cities:
+        -
+          name: "’Elb el Jmel"
+          latitude: 17.0105
+          longitude: -13.97102
+        -
+          name: "Aleg"
+          latitude: 17.05314
+          longitude: -13.91312
+        -
+          name: "Bofal"
+          latitude: 16.41666667
+          longitude: -13.8
+        -
+          name: "Sori Malé"
+          latitude: 16.95416667
+          longitude: -13.37916667
+    -
+      name: "Dakhlet Nouadhibou"
+      code: "08"
+      iso3166_2: "MR-08"
+      type: "region"
+      latitude: 20.8019537
+      longitude: -16.0012708
+      cities:
+        -
+          name: "Cansado"
+          latitude: 20.85333333
+          longitude: -17.0325
+        -
+          name: "Iouik"
+          latitude: 19.84944444
+          longitude: -16.33083333
+        -
+          name: "Nouadhibou"
+          latitude: 20.94188
+          longitude: -17.03842
+    -
+      name: "Gorgol"
+      code: "04"
+      iso3166_2: "MR-04"
+      type: "region"
+      latitude: 16.0062275
+      longitude: -12.8360834
+      cities:
+        -
+          name: "Kaédi"
+          latitude: 16.15027
+          longitude: -13.5037
+    -
+      name: "Guidimaka"
+      code: "10"
+      iso3166_2: "MR-10"
+      type: "region"
+      latitude: 15.3766896
+      longitude: -12.124663
+      cities:
+        -
+          name: "Sélibaby"
+          latitude: 15.15846
+          longitude: -12.1843
+    -
+      name: "Hodh Ech Chargui"
+      code: "01"
+      iso3166_2: "MR-01"
+      type: "region"
+      latitude: 18.1941112
+      longitude: -7.0921652
+      cities:
+        -
+          name: "Diade"
+          latitude: 16.23333333
+          longitude: -7.41666667
+        -
+          name: "Kataouane"
+          latitude: 16.06888889
+          longitude: -6.49888889
+        -
+          name: "Néma"
+          latitude: 16.61702
+          longitude: -7.25649
+        -
+          name: "Timbedra"
+          latitude: 16.24472222
+          longitude: -8.1675
+    -
+      name: "Hodh El Gharbi"
+      code: "02"
+      iso3166_2: "MR-02"
+      type: "region"
+      latitude: 16.5693922
+      longitude: -9.8322366
+      cities:
+        -
+          name: "Aioun"
+          latitude: 16.6614
+          longitude: -9.6149
+        -
+          name: "Ayoun el Atrous"
+          latitude: 16.66666667
+          longitude: -9.61666667
+        -
+          name: "Togba"
+          latitude: 17.4
+          longitude: -10.36666667
+    -
+      name: "Inchiri"
+      code: "12"
+      iso3166_2: "MR-12"
+      type: "region"
+      latitude: 19.9922766
+      longitude: -15.113767
+      cities:
+        -
+          name: "Akjoujt"
+          latitude: 19.74657
+          longitude: -14.38531
+    -
+      name: "Nouakchott-Nord"
+      code: "14"
+      iso3166_2: "MR-14"
+      type: "region"
+      latitude: 18.1024945
+      longitude: -15.9192819
+      cities:
+        -
+          name: "Dar-Naim"
+          latitude: 18.03333333
+          longitude: -15.96666667
+        -
+          name: "Teyarett"
+          latitude: 18.1289572
+          longitude: -15.9377834
+        -
+          name: "Toujouonine"
+          latitude: 18.07169
+          longitude: -15.90311
+    -
+      name: "Nouakchott-Ouest"
+      code: "13"
+      iso3166_2: "MR-13"
+      type: "region"
+      latitude: 18.1127945
+      longitude: -15.9930276
+      cities:
+        -
+          name: "Ksar"
+          latitude: 18.1049033
+          longitude: -15.9644337
+        -
+          name: "Sebkha"
+          latitude: 18.07555556
+          longitude: -16.00194444
+        -
+          name: "Tevragh-Zeina"
+          latitude: 18.11011
+          longitude: -15.99931
+    -
+      name: "Nouakchott-Sud"
+      code: "15"
+      iso3166_2: "MR-15"
+      type: "region"
+      latitude: 18.0033945
+      longitude: -15.965829
+      cities:
+        -
+          name: "Arafat"
+          latitude: 18.04639
+          longitude: -15.97194
+        -
+          name: "Riyad"
+          latitude: 18.0078427
+          longitude: -15.97404
+    -
+      name: "Tagant"
+      code: "09"
+      iso3166_2: "MR-09"
+      type: "region"
+      latitude: 18.5729893
+      longitude: -10.3937926
+      cities:
+        -
+          name: "Moudjeria"
+          latitude: 17.9795514
+          longitude: -13.3979534
+        -
+          name: "Tichit"
+          latitude: 18.4968626
+          longitude: -12.1219935
+        -
+          name: "Tijigja"
+          latitude: 18.5164787
+          longitude: -12.9826476
+    -
+      name: "Tiris Zemmour"
+      code: "11"
+      iso3166_2: "MR-11"
+      type: "region"
+      latitude: 24.1951392
+      longitude: -9.6664199
+      cities:
+        -
+          name: "Ain Ben Tili"
+          latitude: 25.99444444
+          longitude: -9.55333333
+        -
+          name: "Chegga"
+          latitude: 25.37194444
+          longitude: -5.78666667
+        -
+          name: "Fderîck"
+          latitude: 22.67777778
+          longitude: -12.7075
+        -
+          name: "Zouérat"
+          latitude: 22.73444444
+          longitude: -12.4725
+        -
+          name: "Zouerate"
+          latitude: 22.73542
+          longitude: -12.47134
+    -
+      name: "Trarza"
+      code: "06"
+      iso3166_2: "MR-06"
+      type: "region"
+      latitude: 17.922642
+      longitude: -14.8476017
+      cities:
+        -
+          name: "Legat"
+          latitude: 16.75
+          longitude: -14.83333333
+        -
+          name: "Rosso"
+          latitude: 16.51378
+          longitude: -15.80503
+        -
+          name: "Tékane"
+          latitude: 16.60175
+          longitude: -15.34866
+-
+  name: "Niger"
+  name_es: "Níger"
+  native: "Niger"
+  iso2: "NE"
+  iso3: "NER"
+  numeric_code: "562"
+  phonecode: "227"
+  capital: "Niamey"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".ne"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 16
+  longitude: 8
+  emoji: "🇳🇪"
+  states:
+    -
+      name: "Agadez"
+      code: "1"
+      iso3166_2: "NE-1"
+      type: "region"
+      latitude: 19.4211115
+      longitude: 10.6846987
+      cities:
+        -
+          name: "Agadez"
+          latitude: 16.97333
+          longitude: 7.99111
+        -
+          name: "Alaghsas"
+          latitude: 17.0187
+          longitude: 8.0168
+        -
+          name: "Arlit"
+          latitude: 18.83409
+          longitude: 7.43327
+        -
+          name: "Bilma"
+          latitude: 18.68532
+          longitude: 12.91643
+        -
+          name: "Département de Bilma"
+          latitude: 20.5
+          longitude: 13.25
+        -
+          name: "Département de Tchirozérine"
+          latitude: 17.43293
+          longitude: 7.89321
+    -
+      name: "Diffa"
+      code: "2"
+      iso3166_2: "NE-2"
+      type: "region"
+      latitude: 13.4880875
+      longitude: 12.5136266
+      cities:
+        -
+          name: "Département de Diffa"
+          latitude: 13.66667
+          longitude: 12.5
+        -
+          name: "Département de Maïné-Soroa"
+          latitude: 13.31206
+          longitude: 12.08321
+        -
+          name: "Département de Nguigmi"
+          latitude: 14.20753
+          longitude: 13.12177
+        -
+          name: "Diffa"
+          latitude: 13.31536
+          longitude: 12.61135
+        -
+          name: "Maïné Soroa"
+          latitude: 13.21139
+          longitude: 12.0241
+        -
+          name: "Nguigmi"
+          latitude: 14.24953
+          longitude: 13.10921
+    -
+      name: "Dosso"
+      code: "3"
+      iso3166_2: "NE-3"
+      type: "region"
+      latitude: 13.1658009
+      longitude: 3.3068075
+      cities:
+        -
+          name: "Boboye Department"
+          latitude: 13.08167
+          longitude: 2.91083
+        -
+          name: "Département de Dogondoutchi"
+          latitude: 13.5
+          longitude: 4
+        -
+          name: "Département de Dosso"
+          latitude: 12.83333
+          longitude: 3.33333
+        -
+          name: "Département de Gaya"
+          latitude: 11.9597
+          longitude: 3.46045
+        -
+          name: "Département de Loga"
+          latitude: 13.63333
+          longitude: 3.5
+        -
+          name: "Dogondoutchi"
+          latitude: 13.6403
+          longitude: 4.02649
+        -
+          name: "Dosso"
+          latitude: 13.049
+          longitude: 3.1937
+        -
+          name: "Gaya"
+          latitude: 11.88435
+          longitude: 3.44919
+    -
+      name: "Maradi"
+      code: "4"
+      iso3166_2: "NE-4"
+      type: "region"
+      latitude: 14.224
+      longitude: 7.4717877
+      cities:
+        -
+          name: "Aguié"
+          latitude: 13.50601
+          longitude: 7.77863
+        -
+          name: "Dakoro"
+          latitude: 14.51056
+          longitude: 6.765
+        -
+          name: "Département d’Aguié"
+          latitude: 13.46976
+          longitude: 7.74219
+        -
+          name: "Département de Dakoro"
+          latitude: 14.75
+          longitude: 7
+        -
+          name: "Département de Mayahi"
+          latitude: 14.1
+          longitude: 7.6
+        -
+          name: "Département de Tessaoua"
+          latitude: 13.6
+          longitude: 7.9
+        -
+          name: "Guidan Roumdji Department"
+          latitude: 13.6575
+          longitude: 6.69583
+        -
+          name: "Madarounfa"
+          latitude: 13.28253
+          longitude: 7.15495
+        -
+          name: "Maradi"
+          latitude: 13.5
+          longitude: 7.10174
+        -
+          name: "Mayahi"
+          latitude: 13.95532
+          longitude: 7.67122
+        -
+          name: "Tessaoua"
+          latitude: 13.75737
+          longitude: 7.9874
+        -
+          name: "Tibiri"
+          latitude: 13.56271
+          longitude: 7.04848
+    -
+      name: "Niamey"
+      code: "8"
+      iso3166_2: "NE-8"
+      type: "urban community"
+      latitude: 13.51361111
+      longitude: 2.10888889
+      cities:
+        -
+          name: "Niamey"
+          latitude: 13.51361111
+          longitude: 2.10888889
+    -
+      name: "Tahoua"
+      code: "5"
+      iso3166_2: "NE-5"
+      type: "region"
+      latitude: 16.1576745
+      longitude: 5.3282652
+      cities:
+        -
+          name: "Abalak"
+          latitude: 15.41618
+          longitude: 6.16975
+        -
+          name: "Birni N Konni"
+          latitude: 13.79599
+          longitude: 5.25026
+        -
+          name: "Bouza"
+          latitude: 14.42293
+          longitude: 6.04278
+        -
+          name: "Département d' Illéla"
+          latitude: 14.25
+          longitude: 5
+        -
+          name: "Département de Birni Nkonni"
+          latitude: 13.9
+          longitude: 5.25
+        -
+          name: "Département de Bouza"
+          latitude: 14.43333
+          longitude: 6
+        -
+          name: "Département de Keïta"
+          latitude: 14.8
+          longitude: 6
+        -
+          name: "Département de Madaoua"
+          latitude: 13.99988
+          longitude: 6.10012
+        -
+          name: "Département de Tahoua"
+          latitude: 14.8
+          longitude: 4.8
+        -
+          name: "Département de Tchin-Tabaraden"
+          latitude: 15.86694
+          longitude: 5.71042
+        -
+          name: "Illéla"
+          latitude: 14.4605
+          longitude: 5.2437
+        -
+          name: "Keïta"
+          latitude: 14.7551
+          longitude: 5.7749
+        -
+          name: "Madaoua"
+          latitude: 14.073
+          longitude: 5.96
+        -
+          name: "Tahoua"
+          latitude: 14.8888
+          longitude: 5.2692
+        -
+          name: "Tchintabaraden"
+          latitude: 15.8969
+          longitude: 5.7985
+    -
+      name: "Tillabéri"
+      code: "6"
+      iso3166_2: "NE-6"
+      type: "region"
+      latitude: 13.7251068
+      longitude: 1.6961456
+      cities:
+        -
+          name: "Ayorou"
+          latitude: 14.73075
+          longitude: 0.91739
+        -
+          name: "Balleyara"
+          latitude: 13.72848
+          longitude: 2.87503
+        -
+          name: "Département de Filingué"
+          latitude: 14.31645
+          longitude: 3.23611
+        -
+          name: "Département de Ouallam"
+          latitude: 14.63333
+          longitude: 2.25
+        -
+          name: "Département de Say"
+          latitude: 13.03579
+          longitude: 2.22112
+        -
+          name: "Filingué"
+          latitude: 14.3521
+          longitude: 3.3168
+        -
+          name: "Kollo"
+          latitude: 13.3043
+          longitude: 2.339
+        -
+          name: "Kollo Department"
+          latitude: 13.576
+          longitude: 2.452
+        -
+          name: "Ouallam"
+          latitude: 14.31641
+          longitude: 2.08597
+        -
+          name: "Say"
+          latitude: 13.1007
+          longitude: 2.3689
+        -
+          name: "Téra"
+          latitude: 14.00776
+          longitude: 0.75306
+        -
+          name: "Tera Department"
+          latitude: 14.186
+          longitude: 0.843
+        -
+          name: "Tillabéri"
+          latitude: 14.20711
+          longitude: 1.45418
+        -
+          name: "Tillaberi Department"
+          latitude: 14.516
+          longitude: 1.443
+    -
+      name: "Zinder"
+      code: "7"
+      iso3166_2: "NE-7"
+      type: "region"
+      latitude: 15.1787
+      longitude: 9.7074108
+      cities:
+        -
+          name: "Département de Gouré"
+          latitude: 14.01618
+          longitude: 10.14722
+        -
+          name: "Département de Kantché"
+          latitude: 13.4
+          longitude: 8.6
+        -
+          name: "Département de Tânout"
+          latitude: 14.75
+          longitude: 8.33333
+        -
+          name: "Gouré"
+          latitude: 13.9835
+          longitude: 10.27035
+        -
+          name: "Magaria"
+          latitude: 12.99826
+          longitude: 8.90991
+        -
+          name: "Matamey"
+          latitude: 13.42309
+          longitude: 8.47485
+        -
+          name: "Mirriah"
+          latitude: 13.70727
+          longitude: 9.15013
+        -
+          name: "Tanout"
+          latitude: 14.97089
+          longitude: 8.88786
+        -
+          name: "Zinder"
+          latitude: 13.80716
+          longitude: 8.9881
+-
+  name: "Nigeria"
+  name_es: "Nigeria"
+  native: "Nigeria"
+  iso2: "NG"
+  iso3: "NGA"
+  numeric_code: "566"
+  phonecode: "234"
+  capital: "Abuja"
+  currency: "NGN"
+  currency_name: "Nigerian naira"
+  currency_symbol: "₦"
+  tld: ".ng"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 10
+  longitude: 8
+  emoji: "🇳🇬"
+  states:
+    -
+      name: "Abia"
+      code: "AB"
+      iso3166_2: "NG-AB"
+      type: "state"
+      latitude: 5.4540953
+      longitude: 7.5153071
+      cities:
+        -
+          name: "Aba"
+          latitude: 5.10658
+          longitude: 7.36667
+        -
+          name: "Amaigbo"
+          latitude: 5.78917
+          longitude: 7.83829
+        -
+          name: "Arochukwu"
+          latitude: 5.38941
+          longitude: 7.91235
+        -
+          name: "Bende"
+          latitude: 5.55874
+          longitude: 7.63359
+        -
+          name: "Ohafia-Ifigh"
+          latitude: 5.61455
+          longitude: 7.81191
+        -
+          name: "Umuahia"
+          latitude: 5.52491
+          longitude: 7.49461
+    -
+      name: "Abuja Federal Capital Territory"
+      code: "FC"
+      iso3166_2: "NG-FC"
+      type: "capital territory"
+      latitude: 8.8311228
+      longitude: 7.1724673
+      cities:
+        -
+          name: "Abuja"
+          latitude: 9.05785
+          longitude: 7.49508
+        -
+          name: "Asokoro"
+          latitude: 9.0479
+          longitude: 7.5155
+        -
+          name: "Bamburu"
+          latitude: 9.1136
+          longitude: 7.1096
+        -
+          name: "Bwari"
+          latitude: 9.2682352
+          longitude: 7.3543109
+        -
+          name: "Garki"
+          latitude: 9.0319
+          longitude: 7.4828
+        -
+          name: "Gwagwalada"
+          latitude: 8.9508
+          longitude: 7.0767
+        -
+          name: "Gwarinpa"
+          latitude: 9.1099
+          longitude: 7.4042
+        -
+          name: "Jikwoyi"
+          latitude: 8.9913
+          longitude: 7.5563
+        -
+          name: "Karu"
+          latitude: 8.9928
+          longitude: 7.5725
+        -
+          name: "Kubwa"
+          latitude: 9.1538
+          longitude: 7.322
+        -
+          name: "Kuje"
+          latitude: 8.87952
+          longitude: 7.22756
+        -
+          name: "Kurunduma"
+          latitude: 9.0151
+          longitude: 7.5349
+        -
+          name: "Kwali"
+          latitude: 8.88346
+          longitude: 7.01858
+        -
+          name: "Madala"
+          latitude: 9.10444
+          longitude: 7.21333
+        -
+          name: "Maitama"
+          latitude: 9.0882
+          longitude: 7.4934
+        -
+          name: "Wuse"
+          latitude: 9.0747
+          longitude: 7.476
+        -
+          name: "Zuba"
+          latitude: 9.1023
+          longitude: 7.1952
+    -
+      name: "Adamawa"
+      code: "AD"
+      iso3166_2: "NG-AD"
+      type: "state"
+      latitude: 9.5129772
+      longitude: 12.3881887
+      cities:
+        -
+          name: "Ganye"
+          latitude: 8.43497
+          longitude: 12.05107
+        -
+          name: "Gombi"
+          latitude: 10.16756
+          longitude: 12.73684
+        -
+          name: "Holma"
+          latitude: 9.89863
+          longitude: 13.0545
+        -
+          name: "Jimeta"
+          latitude: 9.27949
+          longitude: 12.45819
+        -
+          name: "Madagali"
+          latitude: 10.88942
+          longitude: 13.62832
+        -
+          name: "Mayo-Belwa"
+          latitude: 9.05421
+          longitude: 12.05794
+        -
+          name: "Mubi"
+          latitude: 10.26858
+          longitude: 13.26701
+        -
+          name: "Ngurore"
+          latitude: 9.28871
+          longitude: 12.24026
+        -
+          name: "Numan"
+          latitude: 9.46374
+          longitude: 12.03062
+        -
+          name: "Toungo"
+          latitude: 8.11733
+          longitude: 12.04611
+        -
+          name: "Yola"
+          latitude: 9.20839
+          longitude: 12.48146
+    -
+      name: "Akwa Ibom"
+      code: "AK"
+      iso3166_2: "NG-AK"
+      type: "state"
+      latitude: 4.9906379
+      longitude: 7.7966205
+      cities:
+        -
+          name: "Abak"
+          latitude: 4.9933
+          longitude: 7.7895
+        -
+          name: "Eastern Obolo"
+          latitude: 4.5498
+          longitude: 7.7839
+        -
+          name: "Eket"
+          latitude: 4.64231
+          longitude: 7.92438
+        -
+          name: "Esit Eket"
+          latitude: 4.6355
+          longitude: 7.8993
+        -
+          name: "Essien Udim"
+          latitude: 5.0167
+          longitude: 7.85
+        -
+          name: "Esuk Oron"
+          latitude: 4.80293
+          longitude: 8.25341
+        -
+          name: "Etim Ekpo"
+          latitude: 4.9667
+          longitude: 7.7
+        -
+          name: "Etinan"
+          latitude: 4.9
+          longitude: 7.95
+        -
+          name: "Ibeno"
+          latitude: 4.5333
+          longitude: 8.0667
+        -
+          name: "Ibesikpo Asutan"
+          latitude: 4.9333
+          longitude: 7.9333
+        -
+          name: "Ibiono-Ibom"
+          latitude: 5.1167
+          longitude: 7.9167
+        -
+          name: "Ika"
+          latitude: 4.9167
+          longitude: 7.65
+        -
+          name: "Ikono"
+          latitude: 5.1333
+          longitude: 7.6833
+        -
+          name: "Ikot Abasi"
+          latitude: 4.5667
+          longitude: 7.5667
+        -
+          name: "Ikot Ekpene"
+          latitude: 5.18194
+          longitude: 7.71481
+        -
+          name: "Ini"
+          latitude: 5.2
+          longitude: 7.75
+        -
+          name: "Itu"
+          latitude: 5.20131
+          longitude: 7.98373
+        -
+          name: "Mbo"
+          latitude: 4.4667
+          longitude: 8.0833
+        -
+          name: "Mkpat-Enin"
+          latitude: 5.0333
+          longitude: 7.75
+        -
+          name: "Nsit-Atai"
+          latitude: 5.0667
+          longitude: 7.7333
+        -
+          name: "Nsit-Ibom"
+          latitude: 4.9833
+          longitude: 7.8
+        -
+          name: "Nsit-Ubium"
+          latitude: 4.9333
+          longitude: 7.9833
+        -
+          name: "Obot Akara"
+          latitude: 5.2667
+          longitude: 7.7167
+        -
+          name: "Okobo"
+          latitude: 4.55
+          longitude: 8.1167
+        -
+          name: "Onna"
+          latitude: 4.75
+          longitude: 8
+        -
+          name: "Oron"
+          latitude: 4.8017
+          longitude: 8.2358
+        -
+          name: "Oruk Anam"
+          latitude: 4.9667
+          longitude: 7.55
+        -
+          name: "Udung-Uko"
+          latitude: 4.4333
+          longitude: 7.95
+        -
+          name: "Ukanafun"
+          latitude: 4.9667
+          longitude: 7.8167
+        -
+          name: "Uruan"
+          latitude: 5.0333
+          longitude: 8.0833
+        -
+          name: "Urue-Offong/Oruko"
+          latitude: 4.7167
+          longitude: 8.1833
+        -
+          name: "Uyo"
+          latitude: 5.05127
+          longitude: 7.9335
+    -
+      name: "Anambra"
+      code: "AN"
+      iso3166_2: "NG-AN"
+      type: "state"
+      latitude: 6.2183136
+      longitude: 6.9531842
+      cities:
+        -
+          name: "Agulu"
+          latitude: 6.10045
+          longitude: 7.061
+        -
+          name: "Atani"
+          latitude: 6.01277
+          longitude: 6.74768
+        -
+          name: "Awka"
+          latitude: 6.21269
+          longitude: 7.07199
+        -
+          name: "Enugu-Ukwu"
+          latitude: 6.17146
+          longitude: 7.00525
+        -
+          name: "Igbo-Ukwu"
+          latitude: 6.01798
+          longitude: 7.02027
+        -
+          name: "Ihiala"
+          latitude: 5.85475
+          longitude: 6.85944
+        -
+          name: "Nkpor"
+          latitude: 6.15038
+          longitude: 6.83042
+        -
+          name: "Nnewi"
+          latitude: 6.01962
+          longitude: 6.91729
+        -
+          name: "Onitsha"
+          latitude: 6.14978
+          longitude: 6.78569
+        -
+          name: "Ozubulu"
+          latitude: 5.95753
+          longitude: 6.85305
+        -
+          name: "Uga"
+          latitude: 5.93576
+          longitude: 7.0793
+        -
+          name: "Uruobo-Okija"
+          latitude: 5.90016
+          longitude: 6.84312
+    -
+      name: "Bauchi"
+      code: "BA"
+      iso3166_2: "NG-BA"
+      type: "state"
+      latitude: 10.6228284
+      longitude: 10.0287754
+      cities:
+        -
+          name: "Azare"
+          latitude: 11.67478
+          longitude: 10.19069
+        -
+          name: "Bauchi"
+          latitude: 10.31032
+          longitude: 9.84388
+        -
+          name: "Boi"
+          latitude: 9.56109
+          longitude: 9.50154
+        -
+          name: "Bununu"
+          latitude: 9.88224
+          longitude: 9.68058
+        -
+          name: "Darazo"
+          latitude: 10.9992
+          longitude: 10.41062
+        -
+          name: "Dass"
+          latitude: 10.00065
+          longitude: 9.51596
+        -
+          name: "Dindima"
+          latitude: 10.22629
+          longitude: 10.15132
+        -
+          name: "Disina"
+          latitude: 11.48135
+          longitude: 9.91903
+        -
+          name: "Gabarin"
+          latitude: 11.1093
+          longitude: 10.4441
+        -
+          name: "Gwaram"
+          latitude: 10.23295
+          longitude: 10.28572
+        -
+          name: "Kari"
+          latitude: 11.2471
+          longitude: 10.561
+        -
+          name: "Lame"
+          latitude: 10.44154
+          longitude: 9.23955
+        -
+          name: "Madara"
+          latitude: 11.7798
+          longitude: 10.4479
+        -
+          name: "Misau"
+          latitude: 11.3137
+          longitude: 10.46664
+        -
+          name: "Sade"
+          latitude: 11.3595
+          longitude: 10.6732
+        -
+          name: "Yamrat"
+          latitude: 10.11161
+          longitude: 9.82604
+        -
+          name: "Yanda Bayo"
+          latitude: 11.5071
+          longitude: 10.7459
+        -
+          name: "Yuli"
+          latitude: 9.69707
+          longitude: 10.2735
+        -
+          name: "Zadawa"
+          latitude: 11.4496
+          longitude: 10.3672
+        -
+          name: "Zalanga"
+          latitude: 10.61432
+          longitude: 10.17647
+    -
+      name: "Bayelsa"
+      code: "BY"
+      iso3166_2: "NG-BY"
+      type: "state"
+      latitude: 4.7629786
+      longitude: 6.028898
+      cities:
+        -
+          name: "Amassoma"
+          latitude: 4.97032
+          longitude: 6.10915
+        -
+          name: "Twon-Brass"
+          latitude: 4.31231
+          longitude: 6.24091
+        -
+          name: "Yenagoa"
+          latitude: 4.92675
+          longitude: 6.26764
+    -
+      name: "Benue"
+      code: "BE"
+      iso3166_2: "NG-BE"
+      type: "state"
+      latitude: 7.3505747
+      longitude: 8.7772877
+      cities:
+        -
+          name: "Aliade"
+          latitude: 7.29627
+          longitude: 8.48278
+        -
+          name: "Boju"
+          latitude: 7.35572
+          longitude: 7.89303
+        -
+          name: "Gboko"
+          latitude: 7.3315953
+          longitude: 8.9760068
+        -
+          name: "Igbor"
+          latitude: 7.45123
+          longitude: 8.60805
+        -
+          name: "Makurdi"
+          latitude: 7.73375
+          longitude: 8.52139
+        -
+          name: "Ochobo"
+          latitude: 7.18045
+          longitude: 7.9824
+        -
+          name: "Otukpa"
+          latitude: 7.10168
+          longitude: 7.65945
+        -
+          name: "Takum"
+          latitude: 7.26667
+          longitude: 9.98333
+        -
+          name: "Ugbokpo"
+          latitude: 7.65321
+          longitude: 7.8841
+        -
+          name: "Yandev"
+          latitude: 7.36308
+          longitude: 9.04235
+        -
+          name: "Zaki Biam"
+          latitude: 7.50671
+          longitude: 9.6104
+    -
+      name: "Borno"
+      code: "BO"
+      iso3166_2: "NG-BO"
+      type: "state"
+      latitude: 12.1875392
+      longitude: 13.3080034
+      cities:
+        -
+          name: "Bama"
+          latitude: 11.52134
+          longitude: 13.68952
+        -
+          name: "Benisheikh"
+          latitude: 11.80919
+          longitude: 12.49151
+        -
+          name: "Biu"
+          latitude: 10.61285
+          longitude: 12.19458
+        -
+          name: "Bornu Yassu"
+          latitude: 12.27503
+          longitude: 12.56856
+        -
+          name: "Damasak"
+          latitude: 13.10518
+          longitude: 12.50854
+        -
+          name: "Damboa"
+          latitude: 11.15534
+          longitude: 12.75638
+        -
+          name: "Dikwa"
+          latitude: 12.03609
+          longitude: 13.91815
+        -
+          name: "Gamboru"
+          latitude: 12.37299
+          longitude: 14.2069
+        -
+          name: "Gwoza"
+          latitude: 11.08313
+          longitude: 13.69595
+        -
+          name: "Kukawa"
+          latitude: 12.92475
+          longitude: 13.56617
+        -
+          name: "Magumeri"
+          latitude: 12.11451
+          longitude: 12.8262
+        -
+          name: "Maiduguri"
+          latitude: 11.84692
+          longitude: 13.15712
+        -
+          name: "Marte"
+          latitude: 12.36532
+          longitude: 13.8293
+        -
+          name: "Miringa"
+          latitude: 10.73115
+          longitude: 12.14626
+        -
+          name: "Monguno"
+          latitude: 12.67059
+          longitude: 13.61224
+        -
+          name: "Ngala"
+          latitude: 12.34053
+          longitude: 14.1867
+        -
+          name: "Shaffa"
+          latitude: 10.50673
+          longitude: 12.33315
+        -
+          name: "Shani"
+          latitude: 10.21824
+          longitude: 12.06059
+        -
+          name: "Tokombere"
+          latitude: 11.22135
+          longitude: 13.48783
+        -
+          name: "Uba"
+          latitude: 10.45509
+          longitude: 13.22233
+        -
+          name: "Wuyo"
+          latitude: 10.38522
+          longitude: 11.69678
+        -
+          name: "Yajiwa"
+          latitude: 11.38623
+          longitude: 12.71992
+    -
+      name: "Cross River"
+      code: "CR"
+      iso3166_2: "NG-CR"
+      type: "state"
+      latitude: 5.8671966
+      longitude: 8.5204774
+      cities:
+        -
+          name: "Akankpa"
+          latitude: 5.1264
+          longitude: 8.1898
+        -
+          name: "Calabar"
+          latitude: 4.95893
+          longitude: 8.32695
+        -
+          name: "Gakem"
+          latitude: 6.76963
+          longitude: 8.9912
+        -
+          name: "Ikang"
+          latitude: 4.78978
+          longitude: 8.5316
+        -
+          name: "Ugep"
+          latitude: 5.80865
+          longitude: 8.08098
+    -
+      name: "Delta"
+      code: "DE"
+      iso3166_2: "NG-DE"
+      type: "state"
+      latitude: 5.5273061
+      longitude: 6.1784167
+      cities:
+        -
+          name: "Abraka"
+          latitude: 5.79023
+          longitude: 6.10473
+        -
+          name: "Agbor"
+          latitude: 6.25375
+          longitude: 6.1942
+        -
+          name: "Asaba"
+          latitude: 6.19824
+          longitude: 6.73187
+        -
+          name: "Bomadi"
+          latitude: 5.16073
+          longitude: 5.92375
+        -
+          name: "Burutu"
+          latitude: 5.35328
+          longitude: 5.50826
+        -
+          name: "Kwale"
+          latitude: 5.70773
+          longitude: 6.43402
+        -
+          name: "Obiaruku"
+          latitude: 5.84672
+          longitude: 6.1529
+        -
+          name: "Ogwashi-Uku"
+          latitude: 6.17811
+          longitude: 6.52461
+        -
+          name: "Orerokpe"
+          latitude: 5.63747
+          longitude: 5.89013
+        -
+          name: "Patani"
+          latitude: 5.22885
+          longitude: 6.19139
+        -
+          name: "Sapele"
+          latitude: 5.89405
+          longitude: 5.67666
+        -
+          name: "Ughelli"
+          latitude: 5.48956
+          longitude: 6.00407
+        -
+          name: "Umunede"
+          latitude: 6.26549
+          longitude: 6.30962
+        -
+          name: "Warri"
+          latitude: 5.51737
+          longitude: 5.75006
+    -
+      name: "Ebonyi"
+      code: "EB"
+      iso3166_2: "NG-EB"
+      type: "state"
+      latitude: 6.1996918
+      longitude: 8.0348906
+      cities:
+        -
+          name: "Abakaliki"
+          latitude: 6.32485
+          longitude: 8.11368
+        -
+          name: "Afikpo"
+          latitude: 5.89258
+          longitude: 7.93534
+        -
+          name: "Effium"
+          latitude: 6.63105
+          longitude: 8.05814
+        -
+          name: "Ezza-Ohu"
+          latitude: 6.44094
+          longitude: 8.08432
+        -
+          name: "Isieke"
+          latitude: 6.38186
+          longitude: 8.03736
+    -
+      name: "Edo"
+      code: "ED"
+      iso3166_2: "NG-ED"
+      type: "state"
+      latitude: 6.6076575
+      longitude: 5.9722713
+      cities:
+        -
+          name: "Agenebode"
+          latitude: 7.10512
+          longitude: 6.69381
+        -
+          name: "Auchi"
+          latitude: 7.06756
+          longitude: 6.2636
+        -
+          name: "Benin City"
+          latitude: 6.33815
+          longitude: 5.62575
+        -
+          name: "Ekpoma"
+          latitude: 6.743
+          longitude: 6.14029
+        -
+          name: "Igarra"
+          latitude: 7.29366
+          longitude: 6.10432
+        -
+          name: "Illushi"
+          latitude: 6.67033
+          longitude: 6.62907
+        -
+          name: "Siluko"
+          latitude: 6.53589
+          longitude: 5.16005
+        -
+          name: "Ubiaja"
+          latitude: 6.65581
+          longitude: 6.38494
+        -
+          name: "Uromi"
+          latitude: 6.7
+          longitude: 6.33333
+    -
+      name: "Ekiti"
+      code: "EK"
+      iso3166_2: "NG-EK"
+      type: "state"
+      latitude: 7.736891
+      longitude: 5.2738326
+      cities:
+        -
+          name: "Ado-Ekiti"
+          latitude: 7.62329
+          longitude: 5.22087
+        -
+          name: "Aramoko-Ekiti"
+          latitude: 7.70483
+          longitude: 5.04054
+        -
+          name: "Efon-Alaaye"
+          latitude: 7.65649
+          longitude: 4.92235
+        -
+          name: "Emure-Ekiti"
+          latitude: 7.43636
+          longitude: 5.45925
+        -
+          name: "Ifaki"
+          latitude: 7.78942
+          longitude: 5.24852
+        -
+          name: "Igbara-Odo"
+          latitude: 7.50251
+          longitude: 5.06258
+        -
+          name: "Igede-Ekiti"
+          latitude: 7.6685
+          longitude: 5.12627
+        -
+          name: "Ijero-Ekiti"
+          latitude: 7.81514
+          longitude: 5.06716
+        -
+          name: "Ikere-Ekiti"
+          latitude: 7.49748
+          longitude: 5.23041
+        -
+          name: "Ilawe-Ekiti"
+          latitude: 7.5949427
+          longitude: 5.10340682
+        -
+          name: "Ipoti"
+          latitude: 7.87377
+          longitude: 5.07691
+        -
+          name: "Ise-Ekiti"
+          latitude: 7.46478
+          longitude: 5.42333
+        -
+          name: "Oke Ila"
+          latitude: 7.95
+          longitude: 4.98333
+        -
+          name: "Omuo-Ekiti"
+          latitude: 7.75833
+          longitude: 5.72227
+        -
+          name: "Oye-Ekiti"
+          latitude: 7.79803574
+          longitude: 5.32854717
+    -
+      name: "Enugu"
+      code: "EN"
+      iso3166_2: "NG-EN"
+      type: "state"
+      latitude: 6.5536094
+      longitude: 7.4143061
+      cities:
+        -
+          name: "Adani"
+          latitude: 6.73971
+          longitude: 7.01117
+        -
+          name: "Ake-Eze"
+          latitude: 5.91677
+          longitude: 7.67615
+        -
+          name: "Aku"
+          latitude: 6.70902
+          longitude: 7.31826
+        -
+          name: "Amagunze"
+          latitude: 6.33063
+          longitude: 7.65247
+        -
+          name: "Awgu"
+          latitude: 6.07278
+          longitude: 7.47739
+        -
+          name: "Eha Amufu"
+          latitude: 6.65915
+          longitude: 7.75961
+        -
+          name: "Enugu"
+          latitude: 6.44132
+          longitude: 7.49883
+        -
+          name: "Enugu-Ezike"
+          latitude: 6.9827
+          longitude: 7.45534
+        -
+          name: "Ete"
+          latitude: 7.08956
+          longitude: 7.45341
+        -
+          name: "Ikem"
+          latitude: 6.77993
+          longitude: 7.71484
+        -
+          name: "Mberubu"
+          latitude: 6.1731
+          longitude: 7.63017
+        -
+          name: "Nsukka"
+          latitude: 6.85783
+          longitude: 7.39577
+        -
+          name: "Obolo-Eke (1)"
+          latitude: 6.88333
+          longitude: 7.63333
+        -
+          name: "Opi"
+          latitude: 6.78223
+          longitude: 7.43319
+        -
+          name: "Udi"
+          latitude: 6.31592
+          longitude: 7.42086
+    -
+      name: "Gombe"
+      code: "GO"
+      iso3166_2: "NG-GO"
+      type: "state"
+      latitude: 10.4304018
+      longitude: 11.2065408
+      cities:
+        -
+          name: "Akko"
+          latitude: 10.28899
+          longitude: 10.9732
+        -
+          name: "Bara"
+          latitude: 10.37444
+          longitude: 10.72884
+        -
+          name: "Billiri"
+          latitude: 9.86545
+          longitude: 11.22624
+        -
+          name: "Dadiya"
+          latitude: 9.61667
+          longitude: 11.43333
+        -
+          name: "Deba"
+          latitude: 10.21187
+          longitude: 11.3871
+        -
+          name: "Dukku"
+          latitude: 10.82379
+          longitude: 10.77221
+        -
+          name: "Garko"
+          latitude: 10.17506
+          longitude: 11.16458
+        -
+          name: "Gombe"
+          latitude: 10.28969
+          longitude: 11.16729
+        -
+          name: "Hinna"
+          latitude: 10.30426
+          longitude: 11.49905
+        -
+          name: "Kafarati"
+          latitude: 10.38304
+          longitude: 11.09567
+        -
+          name: "Kaltungo"
+          latitude: 9.81998
+          longitude: 11.30871
+        -
+          name: "Kumo"
+          latitude: 10.04807
+          longitude: 11.21055
+        -
+          name: "Nafada"
+          latitude: 11.09596
+          longitude: 11.33261
+        -
+          name: "Pindiga"
+          latitude: 9.98433
+          longitude: 10.95229
+    -
+      name: "Imo"
+      code: "IM"
+      iso3166_2: "NG-IM"
+      type: "state"
+      latitude: 5.5859456
+      longitude: 7.0669651
+      cities:
+        -
+          name: "Iho"
+          latitude: 5.58225
+          longitude: 7.09896
+        -
+          name: "Oguta"
+          latitude: 5.71044
+          longitude: 6.80936
+        -
+          name: "Okigwe"
+          latitude: 5.82917
+          longitude: 7.35056
+        -
+          name: "Orlu"
+          latitude: 5.79565
+          longitude: 7.03513
+        -
+          name: "Orodo"
+          latitude: 5.61667
+          longitude: 7.03333
+        -
+          name: "Owerri"
+          latitude: 5.48363
+          longitude: 7.03325
+    -
+      name: "Jigawa"
+      code: "JI"
+      iso3166_2: "NG-JI"
+      type: "state"
+      latitude: 12.3252362
+      longitude: 9.5103296
+      cities:
+        -
+          name: "Babura"
+          latitude: 12.77256
+          longitude: 9.01525
+        -
+          name: "Birnin Kudu"
+          latitude: 11.45207
+          longitude: 9.47856
+        -
+          name: "Birniwa"
+          latitude: 12.7907
+          longitude: 10.23614
+        -
+          name: "Dutse"
+          latitude: 11.75618
+          longitude: 9.33896
+        -
+          name: "Gagarawa"
+          latitude: 12.40848
+          longitude: 9.52881
+        -
+          name: "Gumel"
+          latitude: 12.6269
+          longitude: 9.38807
+        -
+          name: "Hadejia"
+          latitude: 12.45347
+          longitude: 10.04115
+        -
+          name: "Kafin Hausa"
+          latitude: 12.23933
+          longitude: 9.91105
+        -
+          name: "Kazaure"
+          latitude: 12.64846
+          longitude: 8.41178
+        -
+          name: "Kiyawa"
+          latitude: 11.78442
+          longitude: 9.6069
+        -
+          name: "Mallammaduri"
+          latitude: 12.56427
+          longitude: 9.95727
+        -
+          name: "Ringim"
+          latitude: 12.15143
+          longitude: 9.16216
+        -
+          name: "Samamiya"
+          latitude: 11.34873
+          longitude: 9.63989
+    -
+      name: "Kaduna"
+      code: "KD"
+      iso3166_2: "NG-KD"
+      type: "state"
+      latitude: 10.3825318
+      longitude: 7.8533226
+      cities:
+        -
+          name: "Anchau"
+          latitude: 10.96245
+          longitude: 8.39233
+        -
+          name: "Burumburum"
+          latitude: 11.39106
+          longitude: 8.72341
+        -
+          name: "Dutsen Wai"
+          latitude: 10.85009
+          longitude: 8.199
+        -
+          name: "Hunkuyi"
+          latitude: 11.2668
+          longitude: 7.64916
+        -
+          name: "Kachia"
+          latitude: 9.87342
+          longitude: 7.95407
+        -
+          name: "Kaduna"
+          latitude: 10.52641
+          longitude: 7.43879
+        -
+          name: "Kafanchan"
+          latitude: 9.58126
+          longitude: 8.2926
+        -
+          name: "Kagoro"
+          latitude: 9.60776
+          longitude: 8.39043
+        -
+          name: "Kajuru"
+          latitude: 10.32281
+          longitude: 7.68462
+        -
+          name: "Kujama"
+          latitude: 10.45767
+          longitude: 7.63808
+        -
+          name: "Lere"
+          latitude: 10.38584
+          longitude: 8.57286
+        -
+          name: "Mando"
+          latitude: 10.71667
+          longitude: 6.56667
+        -
+          name: "Saminaka"
+          latitude: 10.41227
+          longitude: 8.68748
+        -
+          name: "Soba"
+          latitude: 10.98133
+          longitude: 8.05749
+        -
+          name: "Sofo-Birnin-Gwari"
+          latitude: 11.01537
+          longitude: 6.78036
+        -
+          name: "Zaria"
+          latitude: 11.11128
+          longitude: 7.7227
+    -
+      name: "Kano"
+      code: "KN"
+      iso3166_2: "NG-KN"
+      type: "state"
+      latitude: 11.8948389
+      longitude: 8.5364136
+      cities:
+        -
+          name: "Dan Gora"
+          latitude: 11.53485
+          longitude: 8.15224
+        -
+          name: "Gaya"
+          latitude: 11.86064
+          longitude: 9.0027
+        -
+          name: "Kano"
+          latitude: 12.00012
+          longitude: 8.51672
+    -
+      name: "Katsina"
+      code: "KT"
+      iso3166_2: "NG-KT"
+      type: "state"
+      latitude: 12.5630825
+      longitude: 7.6207063
+      cities:
+        -
+          name: "Danja"
+          latitude: 11.3771
+          longitude: 7.56097
+        -
+          name: "Dankama"
+          latitude: 13.29782
+          longitude: 7.79492
+        -
+          name: "Daura"
+          latitude: 13.03299
+          longitude: 8.32351
+        -
+          name: "Dutsin-Ma"
+          latitude: 12.45392
+          longitude: 7.49723
+        -
+          name: "Funtua"
+          latitude: 11.47196
+          longitude: 7.30699
+        -
+          name: "Gora"
+          latitude: 11.91294
+          longitude: 7.66531
+        -
+          name: "Jibia"
+          latitude: 13.09378
+          longitude: 7.22624
+        -
+          name: "Jikamshi"
+          latitude: 12.17328
+          longitude: 7.77424
+        -
+          name: "Kankara"
+          latitude: 11.93114
+          longitude: 7.41115
+        -
+          name: "Katsina"
+          latitude: 12.99082
+          longitude: 7.60177
+        -
+          name: "Mashi"
+          latitude: 12.98044
+          longitude: 7.94703
+        -
+          name: "Ruma"
+          latitude: 12.8626
+          longitude: 7.23469
+        -
+          name: "Runka"
+          latitude: 12.44788
+          longitude: 7.30918
+        -
+          name: "Wagini"
+          latitude: 12.68781
+          longitude: 7.19579
+    -
+      name: "Kebbi"
+      code: "KE"
+      iso3166_2: "NG-KE"
+      type: "state"
+      latitude: 11.4167574
+      longitude: 4.1074545
+      cities:
+        -
+          name: "Argungu"
+          latitude: 12.74482
+          longitude: 4.52514
+        -
+          name: "Bagudo"
+          latitude: 11.40351
+          longitude: 4.22571
+        -
+          name: "Bena"
+          latitude: 11.28444
+          longitude: 5.93472
+        -
+          name: "Bin Yauri"
+          latitude: 10.7823
+          longitude: 4.81135
+        -
+          name: "Birnin Kebbi"
+          latitude: 12.45389
+          longitude: 4.1975
+        -
+          name: "Dabai"
+          latitude: 11.47651
+          longitude: 5.20625
+        -
+          name: "Dakingari"
+          latitude: 11.64809
+          longitude: 4.06177
+        -
+          name: "Gulma"
+          latitude: 12.64231
+          longitude: 4.35545
+        -
+          name: "Gwandu"
+          latitude: 12.50204
+          longitude: 4.64295
+        -
+          name: "Jega"
+          latitude: 12.22336
+          longitude: 4.37971
+        -
+          name: "Kamba"
+          latitude: 11.85172
+          longitude: 3.65478
+        -
+          name: "Kangiwa"
+          latitude: 12.55339
+          longitude: 3.81814
+        -
+          name: "Kende"
+          latitude: 11.51966
+          longitude: 4.2603
+        -
+          name: "Mahuta"
+          latitude: 11.55338
+          longitude: 4.98138
+        -
+          name: "Maiyama"
+          latitude: 12.08225
+          longitude: 4.36907
+        -
+          name: "Shanga"
+          latitude: 11.21374
+          longitude: 4.57941
+        -
+          name: "Wasagu"
+          latitude: 11.3764
+          longitude: 5.79536
+        -
+          name: "Zuru"
+          latitude: 11.43522
+          longitude: 5.23494
+    -
+      name: "Kogi"
+      code: "KO"
+      iso3166_2: "NG-KO"
+      type: "state"
+      latitude: 7.7949602
+      longitude: 6.6868669
+      cities:
+        -
+          name: "Abocho"
+          latitude: 7.5677
+          longitude: 6.9863
+        -
+          name: "Adoru"
+          latitude: 6.97694
+          longitude: 7.16262
+        -
+          name: "Ankpa"
+          latitude: 7.40249
+          longitude: 7.63196
+        -
+          name: "Bugana"
+          latitude: 7.99917
+          longitude: 7.58361
+        -
+          name: "Dekina"
+          latitude: 7.68967
+          longitude: 7.0438
+        -
+          name: "Egbe"
+          latitude: 8.21667
+          longitude: 5.51667
+        -
+          name: "Icheu"
+          latitude: 7.7067
+          longitude: 6.7718
+        -
+          name: "Idah"
+          latitude: 7.11345
+          longitude: 6.73866
+        -
+          name: "Isanlu-Itedoijowa"
+          latitude: 8.27445
+          longitude: 5.83528
+        -
+          name: "Kabba"
+          latitude: 7.82719
+          longitude: 6.07502
+        -
+          name: "Koton-Karfe"
+          latitude: 8.0912
+          longitude: 6.79782
+        -
+          name: "Lokoja"
+          latitude: 7.79688
+          longitude: 6.74048
+        -
+          name: "Ogaminana"
+          latitude: 7.59383
+          longitude: 6.21798
+        -
+          name: "Ogurugu"
+          latitude: 6.78636
+          longitude: 6.95017
+        -
+          name: "Okene"
+          latitude: 7.55122
+          longitude: 6.23589
+    -
+      name: "Kwara"
+      code: "KW"
+      iso3166_2: "NG-KW"
+      type: "state"
+      latitude: 8.8367891
+      longitude: 4.6688487
+      cities:
+        -
+          name: "Ajasse Ipo"
+          latitude: 8.23333
+          longitude: 4.81667
+        -
+          name: "Bode Saadu"
+          latitude: 8.939
+          longitude: 4.78227
+        -
+          name: "Gwasero"
+          latitude: 9.48333
+          longitude: 3.5
+        -
+          name: "Ilorin"
+          latitude: 8.49664
+          longitude: 4.54214
+        -
+          name: "Jebba"
+          latitude: 9.11972
+          longitude: 4.8236
+        -
+          name: "Kaiama"
+          latitude: 9.6053
+          longitude: 3.94101
+        -
+          name: "Lafiagi"
+          latitude: 8.85299
+          longitude: 5.41641
+        -
+          name: "Offa"
+          latitude: 8.14911
+          longitude: 4.72074
+        -
+          name: "Okuta"
+          latitude: 9.21667
+          longitude: 3.18333
+        -
+          name: "Omu-Aran"
+          latitude: 8.13857
+          longitude: 5.1026
+        -
+          name: "Patigi"
+          latitude: 8.72851
+          longitude: 5.75561
+        -
+          name: "Suya"
+          latitude: 9.46667
+          longitude: 3.18333
+        -
+          name: "Yashikera"
+          latitude: 9.76667
+          longitude: 3.4
+    -
+      name: "Lagos"
+      code: "LA"
+      iso3166_2: "NG-LA"
+      type: "state"
+      latitude: 6.4550575
+      longitude: 3.3941795
+      cities:
+        -
+          name: "Abule Egba"
+          latitude: 6.6507441
+          longitude: 3.2655451
+        -
+          name: "Agege"
+          latitude: 6.6152236
+          longitude: 3.300297
+        -
+          name: "Alimosho"
+          latitude: 6.5889
+          longitude: 3.2485
+        -
+          name: "Amuwo-Odofin"
+          latitude: 6.4467434
+          longitude: 3.196826
+        -
+          name: "Apapa"
+          latitude: 6.4488
+          longitude: 3.35901
+        -
+          name: "Badagry"
+          latitude: 6.41502
+          longitude: 2.88132
+        -
+          name: "Bariga"
+          latitude: 6.5393123
+          longitude: 3.3762706
+        -
+          name: "Ebute Ikorodu"
+          latitude: 6.60086
+          longitude: 3.48818
+        -
+          name: "Ebute Metta"
+          latitude: 6.4843759
+          longitude: 3.3759168
+        -
+          name: "Ejirin"
+          latitude: 6.61423
+          longitude: 3.90019
+        -
+          name: "Epe"
+          latitude: 6.58412
+          longitude: 3.98336
+        -
+          name: "Eti-Osa"
+          latitude: 6.468124
+          longitude: 3.3709378
+        -
+          name: "Festac"
+          latitude: 6.4717833
+          longitude: 3.2649387
+        -
+          name: "Ibeju-Lekki"
+          latitude: 6.4576436
+          longitude: 3.623244
+        -
+          name: "Idimu"
+          latitude: 6.5833798
+          longitude: 3.2044278
+        -
+          name: "Ifako-Ijaiye"
+          latitude: 6.6830972
+          longitude: 3.2207917
+        -
+          name: "Igando"
+          latitude: 6.5513239
+          longitude: 3.2218113
+        -
+          name: "Ijora"
+          latitude: 6.4633045
+          longitude: 3.3406241
+        -
+          name: "Ikeja"
+          latitude: 6.59651
+          longitude: 3.34205
+        -
+          name: "Ikorodu"
+          latitude: 6.61526
+          longitude: 3.5069
+        -
+          name: "Ipaja"
+          latitude: 6.609832
+          longitude: 3.2229994
+        -
+          name: "Isheri-Olofin"
+          latitude: 6.5809203
+          longitude: 3.2741728
+        -
+          name: "Lagos"
+          latitude: 6.45407
+          longitude: 3.39467
+        -
+          name: "Lagos Island"
+          latitude: 6.4499982
+          longitude: 3.3999984
+        -
+          name: "Lekki"
+          latitude: 6.5114813
+          longitude: 3.4445381
+        -
+          name: "Makoko"
+          latitude: 6.49611
+          longitude: 3.38778
+        -
+          name: "Mushin"
+          latitude: 6.5356324
+          longitude: 3.3302253
+        -
+          name: "Ogba"
+          latitude: 6.6230624
+          longitude: 3.3341836
+        -
+          name: "Ojo"
+          latitude: 6.4620213
+          longitude: 3.0796915
+        -
+          name: "Ojodu Berger"
+          latitude: 6.6454523
+          longitude: 3.3663973
+        -
+          name: "Ojota"
+          latitude: 6.5851656
+          longitude: 3.3709254
+        -
+          name: "Oshodi-Isolo"
+          latitude: 6.5365483
+          longitude: 3.2755143
+        -
+          name: "Shomolu"
+          latitude: 6.5375955
+          longitude: 3.3650645
+        -
+          name: "Surulere"
+          latitude: 6.4900983
+          longitude: 3.3025143
+        -
+          name: "Victoria Island"
+          latitude: 6.429984
+          longitude: 3.4022449
+        -
+          name: "Yaba"
+          latitude: 6.5059457
+          longitude: 3.3601286
+    -
+      name: "Nasarawa"
+      code: "NA"
+      iso3166_2: "NG-NA"
+      type: "state"
+      latitude: 8.4387868
+      longitude: 8.2382849
+      cities:
+        -
+          name: "Buga"
+          latitude: 8.49056
+          longitude: 7.34139
+        -
+          name: "Doma"
+          latitude: 8.39307
+          longitude: 8.35544
+        -
+          name: "Keffi"
+          latitude: 8.84651
+          longitude: 7.87354
+        -
+          name: "Lafia"
+          latitude: 8.4939
+          longitude: 8.51532
+        -
+          name: "Nasarawa"
+          latitude: 8.53895
+          longitude: 7.70821
+        -
+          name: "Wamba"
+          latitude: 8.94153
+          longitude: 8.60315
+    -
+      name: "Niger"
+      code: "NI"
+      iso3166_2: "NG-NI"
+      type: "state"
+      latitude: 9.9326083
+      longitude: 5.6511088
+      cities:
+        -
+          name: "Auna"
+          latitude: 10.18805
+          longitude: 4.72318
+        -
+          name: "Babana"
+          latitude: 10.42949
+          longitude: 3.81495
+        -
+          name: "Badeggi"
+          latitude: 9.0563
+          longitude: 6.143
+        -
+          name: "Baro"
+          latitude: 8.61565
+          longitude: 6.4185
+        -
+          name: "Bokani"
+          latitude: 9.43333
+          longitude: 5.2
+        -
+          name: "Duku"
+          latitude: 11.2361
+          longitude: 4.90727
+        -
+          name: "Ibeto"
+          latitude: 10.48536
+          longitude: 5.14501
+        -
+          name: "Konkwesso"
+          latitude: 10.84686
+          longitude: 4.09835
+        -
+          name: "Kontagora"
+          latitude: 10.40319
+          longitude: 5.4708
+        -
+          name: "Kusheriki"
+          latitude: 10.53283
+          longitude: 6.44222
+        -
+          name: "Kuta"
+          latitude: 9.86864
+          longitude: 6.71042
+        -
+          name: "Lapai"
+          latitude: 9.04439
+          longitude: 6.57089
+        -
+          name: "Minna"
+          latitude: 9.61524
+          longitude: 6.54776
+        -
+          name: "New Shagunnu"
+          latitude: 10.33957
+          longitude: 4.4688
+        -
+          name: "Suleja"
+          latitude: 9.18059
+          longitude: 7.17939
+        -
+          name: "Tegina"
+          latitude: 10.0706
+          longitude: 6.1906
+        -
+          name: "Ukata"
+          latitude: 10.83122
+          longitude: 5.82494
+        -
+          name: "Wawa"
+          latitude: 9.90222
+          longitude: 4.41917
+        -
+          name: "Zungeru"
+          latitude: 9.80726
+          longitude: 6.15238
+    -
+      name: "Ogun"
+      code: "OG"
+      iso3166_2: "NG-OG"
+      type: "state"
+      latitude: 6.9788582
+      longitude: 3.4389293
+      cities:
+        -
+          name: "Abeokuta"
+          latitude: 7.15571
+          longitude: 3.34509
+        -
+          name: "Ado Odo"
+          latitude: 6.6
+          longitude: 2.93333
+        -
+          name: "Idi Iroko"
+          latitude: 6.63333
+          longitude: 2.73333
+        -
+          name: "Ifo"
+          latitude: 6.81491
+          longitude: 3.19518
+        -
+          name: "Ijebu-Ife"
+          latitude: 6.77837
+          longitude: 4.03386
+        -
+          name: "Ijebu-Igbo"
+          latitude: 6.97198
+          longitude: 3.99938
+        -
+          name: "Ijebu-Ode"
+          latitude: 6.81944
+          longitude: 3.91731
+        -
+          name: "Ilaro"
+          latitude: 6.88901
+          longitude: 3.01416
+        -
+          name: "Imeko"
+          latitude: 7.44888
+          longitude: 2.84289
+        -
+          name: "Iperu"
+          latitude: 6.91002
+          longitude: 3.66557
+        -
+          name: "Isara"
+          latitude: 6.99345
+          longitude: 3.68148
+        -
+          name: "Owode"
+          latitude: 6.94851
+          longitude: 3.50561
+    -
+      name: "Ondo"
+      code: "ON"
+      iso3166_2: "NG-ON"
+      type: "state"
+      latitude: 7.0209686
+      longitude: 5.0567477
+      cities:
+        -
+          name: "Agbabu"
+          latitude: 6.58862
+          longitude: 4.8343
+        -
+          name: "Akure"
+          latitude: 7.25256
+          longitude: 5.19312
+        -
+          name: "Idanre"
+          latitude: 7.1127
+          longitude: 5.1159
+        -
+          name: "Ifon"
+          latitude: 6.92973
+          longitude: 5.77368
+        -
+          name: "Ilare"
+          latitude: 7.35067
+          longitude: 5.11333
+        -
+          name: "Ode"
+          latitude: 7.7899
+          longitude: 5.7117
+        -
+          name: "Ondo"
+          latitude: 7.09316
+          longitude: 4.83528
+        -
+          name: "Ore"
+          latitude: 6.74716
+          longitude: 4.8761
+        -
+          name: "Owo"
+          latitude: 7.1962
+          longitude: 5.58681
+    -
+      name: "Osun"
+      code: "OS"
+      iso3166_2: "NG-OS"
+      type: "state"
+      latitude: 7.5484047
+      longitude: 4.4978307
+      cities:
+        -
+          name: "Apomu"
+          latitude: 7.35156
+          longitude: 4.18335
+        -
+          name: "Ejigbo"
+          latitude: 7.90292
+          longitude: 4.31419
+        -
+          name: "Gbongan"
+          latitude: 7.47734
+          longitude: 4.35351
+        -
+          name: "Ijebu-Jesa"
+          latitude: 7.68287
+          longitude: 4.81769
+        -
+          name: "Ikire"
+          latitude: 7.36983
+          longitude: 4.1863
+        -
+          name: "Ikirun"
+          latitude: 7.91283
+          longitude: 4.66741
+        -
+          name: "Ila Orangun"
+          latitude: 8.01714
+          longitude: 4.90421
+        -
+          name: "Ile-Ife"
+          latitude: 7.4824
+          longitude: 4.56032
+        -
+          name: "Ilesa"
+          latitude: 7.62789
+          longitude: 4.74161
+        -
+          name: "Ilobu"
+          latitude: 7.84036
+          longitude: 4.48557
+        -
+          name: "Inisa"
+          latitude: 7.85
+          longitude: 4.33333
+        -
+          name: "Iwo"
+          latitude: 7.63527
+          longitude: 4.18156
+        -
+          name: "Modakeke"
+          latitude: 7.38299
+          longitude: 4.26031
+        -
+          name: "Oke Mesi"
+          latitude: 7.81667
+          longitude: 4.91667
+        -
+          name: "Olupona"
+          latitude: 7.6
+          longitude: 4.18333
+        -
+          name: "Osogbo"
+          latitude: 7.77104
+          longitude: 4.55698
+        -
+          name: "Otan Ayegbaju"
+          latitude: 7.94783
+          longitude: 4.78836
+        -
+          name: "Oyan"
+          latitude: 8.05
+          longitude: 4.76667
+    -
+      name: "Oyo"
+      code: "OY"
+      iso3166_2: "NG-OY"
+      type: "state"
+      latitude: 8.2151249
+      longitude: 3.5642897
+      cities:
+        -
+          name: "Ago Are"
+          latitude: 8.5
+          longitude: 3.41667
+        -
+          name: "Alapa"
+          latitude: 8.61667
+          longitude: 4.38333
+        -
+          name: "Fiditi"
+          latitude: 7.71361
+          longitude: 3.91722
+        -
+          name: "Ibadan"
+          latitude: 7.37756
+          longitude: 3.90591
+        -
+          name: "Igbeti"
+          latitude: 8.74921
+          longitude: 4.13113
+        -
+          name: "Igbo-Ora"
+          latitude: 7.43383
+          longitude: 3.28788
+        -
+          name: "Igboho"
+          latitude: 8.83784
+          longitude: 3.75628
+        -
+          name: "Kisi"
+          latitude: 9.08297
+          longitude: 3.85196
+        -
+          name: "Lalupon"
+          latitude: 7.46791
+          longitude: 4.06594
+        -
+          name: "Ogbomoso"
+          latitude: 8.13373
+          longitude: 4.24014
+        -
+          name: "Okeho"
+          latitude: 8.03386
+          longitude: 3.34759
+        -
+          name: "Orita Eruwa"
+          latitude: 7.55
+          longitude: 3.43333
+        -
+          name: "Oyo"
+          latitude: 7.85257
+          longitude: 3.93125
+        -
+          name: "Saki"
+          latitude: 8.66762
+          longitude: 3.39393
+    -
+      name: "Plateau"
+      code: "PL"
+      iso3166_2: "NG-PL"
+      type: "state"
+      latitude: 9.0583446
+      longitude: 9.6826289
+      cities:
+        -
+          name: "Amper"
+          latitude: 9.35509
+          longitude: 9.70121
+        -
+          name: "Bukuru"
+          latitude: 9.79399
+          longitude: 8.86397
+        -
+          name: "Dengi"
+          latitude: 9.36872
+          longitude: 9.96223
+        -
+          name: "Jos"
+          latitude: 9.92849
+          longitude: 8.89212
+        -
+          name: "Kwolla"
+          latitude: 8.90361
+          longitude: 9.29086
+        -
+          name: "Langtang"
+          latitude: 9.14164
+          longitude: 9.79101
+        -
+          name: "Pankshin"
+          latitude: 9.32541
+          longitude: 9.4352
+        -
+          name: "Panyam"
+          latitude: 9.40756
+          longitude: 9.21481
+        -
+          name: "Vom"
+          latitude: 9.7291
+          longitude: 8.79138
+        -
+          name: "Yelwa"
+          latitude: 8.83333
+          longitude: 9.63333
+    -
+      name: "Rivers"
+      code: "RI"
+      iso3166_2: "NG-RI"
+      type: "state"
+      latitude: 4.8416028
+      longitude: 6.8604088
+      cities:
+        -
+          name: "Abalama"
+          latitude: 4.76305556
+          longitude: 6.84027778
+        -
+          name: "Abonnema"
+          latitude: 4.7231169
+          longitude: 6.7788461
+        -
+          name: "Ahoada"
+          latitude: 5.08333333
+          longitude: 6.65
+        -
+          name: "Bori"
+          latitude: 4.67277778
+          longitude: 7.37027778
+        -
+          name: "Buguma"
+          latitude: 4.73333333
+          longitude: 6.86666667
+        -
+          name: "Chokocho"
+          latitude: 4.990833
+          longitude: 7.054444
+        -
+          name: "Elele"
+          latitude: 5.10184167
+          longitude: 6.81902222
+        -
+          name: "Obonoma"
+          latitude: 4.71138889
+          longitude: 6.79083333
+        -
+          name: "Omoku"
+          latitude: 5.342
+          longitude: 6.656
+        -
+          name: "Onne"
+          latitude: 4.74444444
+          longitude: 7.03611111
+        -
+          name: "Opobo"
+          latitude: 4.51138889
+          longitude: 7.54
+        -
+          name: "Port Harcourt"
+          latitude: 4.75
+          longitude: 7
+        -
+          name: "Rumuokoro"
+          latitude: 4.86666667
+          longitude: 6.98333333
+    -
+      name: "Sokoto"
+      code: "SO"
+      iso3166_2: "NG-SO"
+      type: "state"
+      latitude: 13.0611195
+      longitude: 5.3152203
+      cities:
+        -
+          name: "Binji"
+          latitude: 13.22294
+          longitude: 4.90888
+        -
+          name: "Dange"
+          latitude: 12.85313
+          longitude: 5.34572
+        -
+          name: "Gandi"
+          latitude: 12.96358
+          longitude: 5.74337
+        -
+          name: "Goronyo"
+          latitude: 13.44226
+          longitude: 5.67234
+        -
+          name: "Gwadabawa"
+          latitude: 13.35819
+          longitude: 5.23812
+        -
+          name: "Illela"
+          latitude: 13.73064
+          longitude: 5.29777
+        -
+          name: "Rabah"
+          latitude: 13.12257
+          longitude: 5.50762
+        -
+          name: "Sokoto"
+          latitude: 13.06269
+          longitude: 5.24322
+        -
+          name: "Tambuwal"
+          latitude: 12.40592
+          longitude: 4.64605
+        -
+          name: "Wurno"
+          latitude: 13.29048
+          longitude: 5.42373
+    -
+      name: "Taraba"
+      code: "TA"
+      iso3166_2: "NG-TA"
+      type: "state"
+      latitude: 8.0141334
+      longitude: 10.7376336
+      cities:
+        -
+          name: "Baissa"
+          latitude: 7.23087
+          longitude: 10.62444
+        -
+          name: "Beli"
+          latitude: 7.85868
+          longitude: 10.97187
+        -
+          name: "Gassol"
+          latitude: 8.53535
+          longitude: 10.44615
+        -
+          name: "Gembu"
+          latitude: 6.72556
+          longitude: 11.25652
+        -
+          name: "Ibi"
+          latitude: 8.18122
+          longitude: 9.74431
+        -
+          name: "Jalingo"
+          latitude: 8.89367
+          longitude: 11.3596
+        -
+          name: "Lau"
+          latitude: 9.20827
+          longitude: 11.27541
+        -
+          name: "Mutum Biyu"
+          latitude: 8.64138
+          longitude: 10.77355
+        -
+          name: "Riti"
+          latitude: 7.90844
+          longitude: 9.61688
+        -
+          name: "Wukari"
+          latitude: 7.87139
+          longitude: 9.77786
+    -
+      name: "Yobe"
+      code: "YO"
+      iso3166_2: "NG-YO"
+      type: "state"
+      latitude: 12.1233242
+      longitude: 11.5065937
+      cities:
+        -
+          name: "Damaturu"
+          latitude: 11.74697
+          longitude: 11.96083
+        -
+          name: "Dankalwa"
+          latitude: 11.74449
+          longitude: 12.18545
+        -
+          name: "Dapchi"
+          latitude: 12.49536
+          longitude: 11.49977
+        -
+          name: "Fika"
+          latitude: 11.377
+          longitude: 11.23746
+        -
+          name: "Gashua"
+          latitude: 12.87398
+          longitude: 11.04057
+        -
+          name: "Geidam"
+          latitude: 12.89439
+          longitude: 11.92649
+        -
+          name: "Goniri"
+          latitude: 11.48451
+          longitude: 12.31264
+        -
+          name: "Gorgoram"
+          latitude: 12.63958
+          longitude: 10.70422
+        -
+          name: "Gujba"
+          latitude: 11.49959
+          longitude: 11.93396
+        -
+          name: "Gwio Kura"
+          latitude: 12.67479
+          longitude: 11.0669
+        -
+          name: "Kumagunnam"
+          latitude: 13.15498
+          longitude: 10.63468
+        -
+          name: "Lajere"
+          latitude: 11.98022
+          longitude: 11.44002
+        -
+          name: "Machina"
+          latitude: 13.13639
+          longitude: 10.04924
+        -
+          name: "Nguru"
+          latitude: 12.87695
+          longitude: 10.45536
+        -
+          name: "Potiskum"
+          latitude: 11.71391
+          longitude: 11.08108
+    -
+      name: "Zamfara"
+      code: "ZA"
+      iso3166_2: "NG-ZA"
+      type: "state"
+      latitude: 12.0078998
+      longitude: 6.4191432
+      cities:
+        -
+          name: "Anka"
+          latitude: 12.11347
+          longitude: 5.92681
+        -
+          name: "Dan Sadau"
+          latitude: 11.29621
+          longitude: 6.4952
+        -
+          name: "Gummi"
+          latitude: 12.14484
+          longitude: 5.11776
+        -
+          name: "Gusau"
+          latitude: 12.17024
+          longitude: 6.66412
+        -
+          name: "Kaura Namoda"
+          latitude: 12.59371
+          longitude: 6.58648
+        -
+          name: "Kwatarkwashi"
+          latitude: 12.14082
+          longitude: 6.82196
+        -
+          name: "Maru"
+          latitude: 12.3336
+          longitude: 6.40372
+        -
+          name: "Moriki"
+          latitude: 12.87405
+          longitude: 6.48754
+        -
+          name: "Sauri"
+          latitude: 11.72655
+          longitude: 6.78374
+        -
+          name: "Tsafe"
+          latitude: 11.95775
+          longitude: 6.92083
+-
+  name: "Saint Helena"
+  name_es: "Santa Helena"
+  native: "Saint Helena"
+  iso2: "SH"
+  iso3: "SHN"
+  numeric_code: "654"
+  phonecode: "290"
+  capital: "Jamestown"
+  currency: "SHP"
+  currency_name: "Saint Helena pound"
+  currency_symbol: "£"
+  tld: ".sh"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: -15.95
+  longitude: -5.7
+  emoji: "🇸🇭"
+  states:
+    -
+      name: "Alarm Forest"
+      code: "01"
+      iso3166_2: "SH-01"
+      type: "district"
+      latitude: -15.9485043
+      longitude: -5.7028194
+      cities:
+        []
+    -
+      name: "Blue Hill"
+      code: "02"
+      iso3166_2: "SH-02"
+      type: "district"
+      latitude: -15.9801303
+      longitude: -5.7489856
+      cities:
+        []
+    -
+      name: "Half Tree Hollow"
+      code: "03"
+      iso3166_2: "SH-03"
+      type: "district"
+      latitude: -15.9346328
+      longitude: -5.7194732
+      cities:
+        []
+    -
+      name: "Jamestown"
+      code: "04"
+      iso3166_2: "SH-04"
+      type: "district"
+      latitude: -15.9288308
+      longitude: -5.7203338
+      cities:
+        []
+    -
+      name: "Levelwood"
+      code: "05"
+      iso3166_2: "SH-05"
+      type: "district"
+      latitude: -15.9743129
+      longitude: -5.6805785
+      cities:
+        []
+    -
+      name: "Longwood"
+      code: "06"
+      iso3166_2: "SH-06"
+      type: "district"
+      latitude: -15.9493288
+      longitude: -5.6858605
+      cities:
+        []
+    -
+      name: "Saint Paul's"
+      code: "08"
+      iso3166_2: "SH-08"
+      type: "district"
+      latitude: -15.9851267
+      longitude: -5.7380986
+      cities:
+        []
+    -
+      name: "Sandy Bay"
+      code: "07"
+      iso3166_2: "SH-07"
+      type: "district"
+      latitude: -16.0060601
+      longitude: -5.7127075
+      cities:
+        []
+-
+  name: "Senegal"
+  name_es: "Senegal"
+  native: "Sénégal"
+  iso2: "SN"
+  iso3: "SEN"
+  numeric_code: "686"
+  phonecode: "221"
+  capital: "Dakar"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".sn"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 14
+  longitude: -14
+  emoji: "🇸🇳"
+  states:
+    -
+      name: "Dakar"
+      code: "DK"
+      iso3166_2: "SN-DK"
+      type: "region"
+      latitude: 14.693425
+      longitude: -17.447938
+      cities:
+        -
+          name: "Dakar"
+          latitude: 14.6937
+          longitude: -17.44406
+        -
+          name: "Dakar Department"
+          latitude: 14.71403
+          longitude: -17.45534
+        -
+          name: "Guédiawaye Department"
+          latitude: 14.7761
+          longitude: -17.3956
+        -
+          name: "Mermoz Boabab"
+          latitude: 14.70649
+          longitude: -17.47581
+        -
+          name: "N’diareme limamoulaye"
+          latitude: 14.78148
+          longitude: -17.3841
+        -
+          name: "Pikine"
+          latitude: 14.76457
+          longitude: -17.39071
+        -
+          name: "Pikine Department"
+          latitude: 14.76515
+          longitude: -17.35198
+        -
+          name: "Rufisque Department"
+          latitude: 14.74339
+          longitude: -17.19841
+    -
+      name: "Diourbel Region"
+      code: "DB"
+      iso3166_2: "SN-DB"
+      type: "region"
+      latitude: 14.7844539
+      longitude: -16.0316451
+      cities:
+        -
+          name: "Mbacké"
+          latitude: 14.80828
+          longitude: -15.86454
+        -
+          name: "Mbaké"
+          latitude: 14.79032
+          longitude: -15.90803
+        -
+          name: "Tiébo"
+          latitude: 14.63333
+          longitude: -16.23333
+        -
+          name: "Touba"
+          latitude: 14.85
+          longitude: -15.88333
+    -
+      name: "Fatick"
+      code: "FK"
+      iso3166_2: "SN-FK"
+      type: "region"
+      latitude: 14.3390167
+      longitude: -16.4111425
+      cities:
+        -
+          name: "Diofior"
+          latitude: 14.18333
+          longitude: -16.66667
+        -
+          name: "Fatick Department"
+          latitude: 14.25909
+          longitude: -16.49884
+        -
+          name: "Foundiougne"
+          latitude: 14.13333
+          longitude: -16.46667
+        -
+          name: "Guinguinéo"
+          latitude: 14.26667
+          longitude: -15.95
+        -
+          name: "Passi"
+          latitude: 13.98333
+          longitude: -16.26667
+        -
+          name: "Pourham"
+          latitude: 14.35
+          longitude: -16.41667
+        -
+          name: "Sokone"
+          latitude: 13.88333
+          longitude: -16.36667
+    -
+      name: "Kaffrine"
+      code: "KA"
+      iso3166_2: "SN-KA"
+      type: "region"
+      latitude: 14.105202
+      longitude: -15.5415755
+      cities:
+        -
+          name: "Kaffrine"
+          latitude: 14.10594
+          longitude: -15.5508
+        -
+          name: "Koungheul"
+          latitude: 13.98333
+          longitude: -14.8
+    -
+      name: "Kaolack"
+      code: "KL"
+      iso3166_2: "SN-KL"
+      type: "region"
+      latitude: 14.138815
+      longitude: -16.076391
+      cities:
+        -
+          name: "Gandiaye"
+          latitude: 14.23333
+          longitude: -16.26667
+        -
+          name: "Kaolack"
+          latitude: 14.15197
+          longitude: -16.07259
+        -
+          name: "Ndofane"
+          latitude: 13.91667
+          longitude: -15.93333
+        -
+          name: "Nioro du Rip"
+          latitude: 13.75
+          longitude: -15.8
+    -
+      name: "Kédougou"
+      code: "KE"
+      iso3166_2: "SN-KE"
+      type: "region"
+      latitude: 12.5570752
+      longitude: -12.1855655
+      cities:
+        -
+          name: "Département de Salémata"
+          latitude: 12.59971
+          longitude: -12.77619
+        -
+          name: "Kédougou"
+          latitude: 12.55561
+          longitude: -12.18076
+        -
+          name: "Kédougou Department"
+          latitude: 12.81716
+          longitude: -12.17834
+        -
+          name: "Saraya"
+          latitude: 13.0015
+          longitude: -11.79627
+    -
+      name: "Kolda"
+      code: "KD"
+      iso3166_2: "SN-KD"
+      type: "region"
+      latitude: 12.8921154
+      longitude: -14.9400971
+      cities:
+        -
+          name: "Kolda"
+          latitude: 12.8939
+          longitude: -14.94125
+        -
+          name: "Kolda Department"
+          latitude: 12.883
+          longitude: -14.95
+        -
+          name: "Marsassoum"
+          latitude: 12.8275
+          longitude: -15.98056
+        -
+          name: "Vélingara"
+          latitude: 13.15
+          longitude: -14.11667
+    -
+      name: "Louga"
+      code: "LG"
+      iso3166_2: "SN-LG"
+      type: "region"
+      latitude: 15.6141768
+      longitude: -16.22868
+      cities:
+        -
+          name: "Dara"
+          latitude: 15.34844
+          longitude: -15.47993
+        -
+          name: "Guéoul"
+          latitude: 15.48333
+          longitude: -16.35
+        -
+          name: "Linguere Department"
+          latitude: 15.359
+          longitude: -15.158
+        -
+          name: "Louga"
+          latitude: 15.61867
+          longitude: -16.22436
+        -
+          name: "Ndibène Dahra"
+          latitude: 15.3338
+          longitude: -15.4766
+    -
+      name: "Matam"
+      code: "MT"
+      iso3166_2: "SN-MT"
+      type: "region"
+      latitude: 15.6600225
+      longitude: -13.2576906
+      cities:
+        -
+          name: "Diawara"
+          latitude: 15.02196
+          longitude: -12.54374
+        -
+          name: "Kanel"
+          latitude: 15.4916
+          longitude: -13.17627
+        -
+          name: "Matam"
+          latitude: 15.65587
+          longitude: -13.25544
+        -
+          name: "Matam Department"
+          latitude: 15.73191
+          longitude: -13.63393
+        -
+          name: "Ouro Sogui"
+          latitude: 15.60588
+          longitude: -13.3223
+        -
+          name: "Ranérou"
+          latitude: 15.3
+          longitude: -13.96667
+        -
+          name: "Sémé"
+          latitude: 15.19422
+          longitude: -12.94482
+        -
+          name: "Waoundé"
+          latitude: 15.26367
+          longitude: -12.86821
+    -
+      name: "Saint-Louis"
+      code: "SL"
+      iso3166_2: "SN-SL"
+      type: "region"
+      latitude: 16.0280445
+      longitude: -16.5048686
+      cities:
+        -
+          name: "Goléré"
+          latitude: 16.25575
+          longitude: -14.10165
+        -
+          name: "Ndioum"
+          latitude: 16.51293
+          longitude: -14.64706
+        -
+          name: "Polel Diaoubé"
+          latitude: 15.26667
+          longitude: -13
+        -
+          name: "Richard-Toll"
+          latitude: 16.4625
+          longitude: -15.70083
+        -
+          name: "Rosso"
+          latitude: 16.42028
+          longitude: -15.79834
+        -
+          name: "Saint-Louis"
+          latitude: 16.01793
+          longitude: -16.48962
+    -
+      name: "Sédhiou"
+      code: "SE"
+      iso3166_2: "SN-SE"
+      type: "region"
+      latitude: 12.704604
+      longitude: -15.5562304
+      cities:
+        -
+          name: "Goudomp Department"
+          latitude: 12.57778
+          longitude: -15.87222
+        -
+          name: "Sédhiou"
+          latitude: 12.70806
+          longitude: -15.55694
+    -
+      name: "Tambacounda Region"
+      code: "TC"
+      iso3166_2: "SN-TC"
+      type: "region"
+      latitude: 13.8686324
+      longitude: -13.3190328
+      cities:
+        -
+          name: "Tambacounda"
+          latitude: 13.77073
+          longitude: -13.66734
+        -
+          name: "Tambacounda Department"
+          latitude: 13.605
+          longitude: -13.647
+    -
+      name: "Thiès Region"
+      code: "TH"
+      iso3166_2: "SN-TH"
+      type: "region"
+      latitude: 14.7538661
+      longitude: -16.8637823
+      cities:
+        -
+          name: "Joal-Fadiout"
+          latitude: 14.16667
+          longitude: -16.83333
+        -
+          name: "Kayar"
+          latitude: 14.91893
+          longitude: -17.11978
+        -
+          name: "Khombole"
+          latitude: 14.76667
+          longitude: -16.7
+        -
+          name: "Mbour"
+          latitude: 14.40569
+          longitude: -16.85559
+        -
+          name: "Mékhé"
+          latitude: 15.1097
+          longitude: -16.6218
+        -
+          name: "Nguékhokh"
+          latitude: 14.51255
+          longitude: -17.00447
+        -
+          name: "Pout"
+          latitude: 14.77099
+          longitude: -17.06107
+        -
+          name: "Thiès"
+          latitude: 14.73004
+          longitude: -16.86974
+        -
+          name: "Thiès Nones"
+          latitude: 14.78333
+          longitude: -16.96667
+        -
+          name: "Tiadiaye"
+          latitude: 14.41667
+          longitude: -16.7
+        -
+          name: "Tivaouane"
+          latitude: 15.08519
+          longitude: -16.71058
+        -
+          name: "Warang"
+          latitude: 14.37349
+          longitude: -16.94366
+    -
+      name: "Ziguinchor"
+      code: "ZG"
+      iso3166_2: "SN-ZG"
+      type: "region"
+      latitude: 12.5641479
+      longitude: -16.2639825
+      cities:
+        -
+          name: "Adéane"
+          latitude: 12.63
+          longitude: -16.01694
+        -
+          name: "Bignona"
+          latitude: 12.81028
+          longitude: -16.22639
+        -
+          name: "Oussouye"
+          latitude: 12.485
+          longitude: -16.54694
+        -
+          name: "Tionk Essil"
+          latitude: 12.78556
+          longitude: -16.52167
+        -
+          name: "Ziguinchor"
+          latitude: 12.56801
+          longitude: -16.27326
+-
+  name: "Sierra Leone"
+  name_es: "Sierra Leone"
+  native: "Sierra Leone"
+  iso2: "SL"
+  iso3: "SLE"
+  numeric_code: "694"
+  phonecode: "232"
+  capital: "Freetown"
+  currency: "SLL"
+  currency_name: "Sierra Leonean leone"
+  currency_symbol: "Le"
+  tld: ".sl"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 8.5
+  longitude: -11.5
+  emoji: "🇸🇱"
+  states:
+    -
+      name: "Eastern"
+      code: "E"
+      iso3166_2: "SL-E"
+      type: "province"
+      latitude: 8.2050971
+      longitude: -10.8437383
+      cities:
+        -
+          name: "Barma"
+          latitude: 8.34959
+          longitude: -11.33059
+        -
+          name: "Blama"
+          latitude: 7.87481
+          longitude: -11.34548
+        -
+          name: "Boajibu"
+          latitude: 8.18763
+          longitude: -11.34026
+        -
+          name: "Buedu"
+          latitude: 8.2796
+          longitude: -10.37135
+        -
+          name: "Bunumbu"
+          latitude: 8.17421
+          longitude: -10.86432
+        -
+          name: "Daru"
+          latitude: 7.98976
+          longitude: -10.84223
+        -
+          name: "Giehun"
+          latitude: 7.88405
+          longitude: -11.04908
+        -
+          name: "Gorahun"
+          latitude: 7.46439
+          longitude: -11.23952
+        -
+          name: "Hangha"
+          latitude: 7.93974
+          longitude: -11.14132
+        -
+          name: "Jojoima"
+          latitude: 7.87815
+          longitude: -10.78976
+        -
+          name: "Kailahun"
+          latitude: 8.2789
+          longitude: -10.573
+        -
+          name: "Kailahun District"
+          latitude: 8.10768
+          longitude: -10.75146
+        -
+          name: "Kayima"
+          latitude: 8.8879
+          longitude: -11.15932
+        -
+          name: "Kenema"
+          latitude: 7.87687
+          longitude: -11.19025
+        -
+          name: "Kenema District"
+          latitude: 7.95171
+          longitude: -11.19004
+        -
+          name: "Koidu"
+          latitude: 8.64387
+          longitude: -10.9714
+        -
+          name: "Kono"
+          latitude: 8.70687
+          longitude: -10.93368
+        -
+          name: "Koyima"
+          latitude: 8.70552
+          longitude: -11.02241
+        -
+          name: "Manowa"
+          latitude: 8.17392
+          longitude: -10.74834
+        -
+          name: "Mobai"
+          latitude: 7.99343
+          longitude: -10.75355
+        -
+          name: "Motema"
+          latitude: 8.61427
+          longitude: -11.01252
+        -
+          name: "Panguma"
+          latitude: 8.18507
+          longitude: -11.1329
+        -
+          name: "Pendembu"
+          latitude: 8.09807
+          longitude: -10.69429
+        -
+          name: "Segbwema"
+          latitude: 7.99471
+          longitude: -10.9502
+        -
+          name: "Simbakoro"
+          latitude: 8.61243
+          longitude: -11.00755
+        -
+          name: "Tefeya"
+          latitude: 8.70395
+          longitude: -11.2126
+        -
+          name: "Tombodu"
+          latitude: 8.13526
+          longitude: -10.6196
+        -
+          name: "Tombu"
+          latitude: 8.53991
+          longitude: -10.73132
+        -
+          name: "Wima"
+          latitude: 8.30052
+          longitude: -11.20455
+        -
+          name: "Yengema"
+          latitude: 8.71441
+          longitude: -11.17057
+    -
+      name: "North Western"
+      code: "NW"
+      iso3166_2: "SL-NW"
+      type: "province"
+      latitude: 8.76666667
+      longitude: -12.7875
+      cities:
+        -
+          name: "Kamakwie"
+          latitude: 9.49689
+          longitude: -12.24061
+        -
+          name: "Kambia"
+          latitude: 9.12504
+          longitude: -12.91816
+        -
+          name: "Lunsar"
+          latitude: 8.68439
+          longitude: -12.53499
+        -
+          name: "Pepel"
+          latitude: 8.58611
+          longitude: -13.05444
+        -
+          name: "Port Loko"
+          latitude: 8.76666667
+          longitude: -12.7875
+        -
+          name: "Rokupr"
+          latitude: 8.67121
+          longitude: -12.38497
+    -
+      name: "Northern"
+      code: "N"
+      iso3166_2: "SL-N"
+      type: "province"
+      latitude: 9.118454
+      longitude: -11.4856448
+      cities:
+        -
+          name: "Alikalia"
+          latitude: 9.15356
+          longitude: -11.38712
+        -
+          name: "Bindi"
+          latitude: 9.91376
+          longitude: -11.44669
+        -
+          name: "Binkolo"
+          latitude: 8.95225
+          longitude: -11.98029
+        -
+          name: "Bombali"
+          latitude: 9.28444
+          longitude: -12.16449
+        -
+          name: "Bumbuna"
+          latitude: 9.04466
+          longitude: -11.74576
+        -
+          name: "Gberia Fotombu"
+          latitude: 9.87852
+          longitude: -11.16548
+        -
+          name: "Kabala"
+          latitude: 9.58893
+          longitude: -11.55256
+        -
+          name: "Kassiri"
+          latitude: 8.93814
+          longitude: -13.11541
+        -
+          name: "Koinadugu"
+          latitude: 9.50991
+          longitude: -11.34601
+        -
+          name: "Konakridee"
+          latitude: 8.69778
+          longitude: -13.23917
+        -
+          name: "Kukuna"
+          latitude: 9.39841
+          longitude: -12.66476
+        -
+          name: "Loma"
+          latitude: 9.75931
+          longitude: -12.03383
+        -
+          name: "Magburaka"
+          latitude: 8.72306
+          longitude: -11.9488
+        -
+          name: "Makali"
+          latitude: 8.62964
+          longitude: -11.66168
+        -
+          name: "Makeni"
+          latitude: 8.88605
+          longitude: -12.04417
+        -
+          name: "Mambolo"
+          latitude: 8.9186
+          longitude: -13.03674
+        -
+          name: "Mange"
+          latitude: 8.92262
+          longitude: -12.85688
+        -
+          name: "Masaka"
+          latitude: 8.66492
+          longitude: -11.8026
+        -
+          name: "Masingbi"
+          latitude: 8.78197
+          longitude: -11.95171
+        -
+          name: "Masoyila"
+          latitude: 8.61119
+          longitude: -13.19101
+        -
+          name: "Sawkta"
+          latitude: 8.6323
+          longitude: -13.2025
+        -
+          name: "Seidu"
+          latitude: 9.01801
+          longitude: -10.59496
+        -
+          name: "Tintafor"
+          latitude: 8.62667
+          longitude: -13.215
+        -
+          name: "Tonkolili"
+          latitude: 8.61885
+          longitude: -11.84173
+        -
+          name: "Yonibana"
+          latitude: 8.44347
+          longitude: -12.23929
+    -
+      name: "Southern"
+      code: "S"
+      iso3166_2: "SL-S"
+      type: "province"
+      latitude: 7.7099222
+      longitude: -12.0004178
+      cities:
+        -
+          name: "Baiima"
+          latitude: 8.10826
+          longitude: -11.84772
+        -
+          name: "Baoma"
+          latitude: 7.99344
+          longitude: -11.71468
+        -
+          name: "Bo"
+          latitude: 7.96472
+          longitude: -11.73833
+        -
+          name: "Bo District"
+          latitude: 7.98877
+          longitude: -11.6734
+        -
+          name: "Bomi"
+          latitude: 7.24611
+          longitude: -11.52583
+        -
+          name: "Bonthe"
+          latitude: 7.52639
+          longitude: -12.505
+        -
+          name: "Bonthe District"
+          latitude: 7.51622
+          longitude: -12.33591
+        -
+          name: "Bumpe"
+          latitude: 7.89209
+          longitude: -11.90541
+        -
+          name: "Foindu"
+          latitude: 7.40906
+          longitude: -11.54328
+        -
+          name: "Gandorhun"
+          latitude: 7.55502
+          longitude: -11.6926
+        -
+          name: "Gbewebu"
+          latitude: 7.55091
+          longitude: -11.6075
+        -
+          name: "Koribundu"
+          latitude: 7.70952
+          longitude: -11.69354
+        -
+          name: "Largo"
+          latitude: 8.27903
+          longitude: -12.1578
+        -
+          name: "Mamboma"
+          latitude: 8.08742
+          longitude: -11.68841
+        -
+          name: "Mogbwemo"
+          latitude: 7.76237
+          longitude: -12.30864
+        -
+          name: "Moyamba"
+          latitude: 8.15898
+          longitude: -12.43168
+        -
+          name: "Moyamba District"
+          latitude: 8.0629
+          longitude: -12.44401
+        -
+          name: "Palima"
+          latitude: 8.11996
+          longitude: -11.50702
+        -
+          name: "Potoru"
+          latitude: 7.50596
+          longitude: -11.47897
+        -
+          name: "Pujehun"
+          latitude: 7.35806
+          longitude: -11.72083
+        -
+          name: "Pujehun District"
+          latitude: 7.31855
+          longitude: -11.5792
+        -
+          name: "Rotifunk"
+          latitude: 8.22591
+          longitude: -12.6776
+        -
+          name: "Serabu"
+          latitude: 7.79311
+          longitude: -12.05294
+        -
+          name: "Sumbuya"
+          latitude: 7.64789
+          longitude: -11.9606
+        -
+          name: "Tongole"
+          latitude: 7.45092
+          longitude: -11.90071
+        -
+          name: "Zimmi"
+          latitude: 7.31356
+          longitude: -11.30818
+    -
+      name: "Western"
+      code: "W"
+      iso3166_2: "SL-W"
+      type: "area"
+      latitude: 8.3346033
+      longitude: -13.0656016
+      cities:
+        -
+          name: "Freetown"
+          latitude: 8.48714
+          longitude: -13.2356
+        -
+          name: "Hastings"
+          latitude: 8.37994
+          longitude: -13.13693
+        -
+          name: "Kent"
+          latitude: 8.33333
+          longitude: -13.06667
+        -
+          name: "Waterloo"
+          latitude: 8.3389
+          longitude: -13.07091
+-
+  name: "The Gambia"
+  name_es: "Gambia"
+  native: "Gambia"
+  iso2: "GM"
+  iso3: "GMB"
+  numeric_code: "270"
+  phonecode: "220"
+  capital: "Banjul"
+  currency: "GMD"
+  currency_name: "Gambian dalasi"
+  currency_symbol: "D"
+  tld: ".gm"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 13.46666666
+  longitude: -16.56666666
+  emoji: "🇬🇲"
+  states:
+    -
+      name: "Banjul"
+      code: "B"
+      iso3166_2: "GM-B"
+      type: "city"
+      latitude: 13.4548761
+      longitude: -16.5790323
+      cities:
+        -
+          name: "Bakau"
+          latitude: 13.47806
+          longitude: -16.68194
+        -
+          name: "Banjul"
+          latitude: 13.45274
+          longitude: -16.57803
+        -
+          name: "Kombo Saint Mary"
+          latitude: 13.44389
+          longitude: -16.64583
+        -
+          name: "Serekunda"
+          latitude: 13.43833
+          longitude: -16.67806
+    -
+      name: "Central River"
+      code: "M"
+      iso3166_2: "GM-M"
+      type: "division"
+      latitude: 13.5750738
+      longitude: -14.7797147
+      cities:
+        -
+          name: "Bansang"
+          latitude: 13.43333
+          longitude: -14.65
+        -
+          name: "Brikama Nding"
+          latitude: 13.53333
+          longitude: -14.93333
+        -
+          name: "Dankunku"
+          latitude: 13.56667
+          longitude: -15.31667
+        -
+          name: "Denton"
+          latitude: 13.5
+          longitude: -14.93333
+        -
+          name: "Fulladu West"
+          latitude: 13.5
+          longitude: -14.75
+        -
+          name: "Galleh Manda"
+          latitude: 13.43333
+          longitude: -14.78333
+        -
+          name: "Georgetown"
+          latitude: 13.54039
+          longitude: -14.76374
+        -
+          name: "Jakhaly"
+          latitude: 13.55
+          longitude: -14.96667
+        -
+          name: "Janjanbureh"
+          latitude: 13.53564
+          longitude: -14.76515
+        -
+          name: "Jarreng"
+          latitude: 13.61667
+          longitude: -15.18333
+        -
+          name: "Karantaba"
+          latitude: 13.66667
+          longitude: -15.03333
+        -
+          name: "Kass Wollof"
+          latitude: 13.78333
+          longitude: -14.93333
+        -
+          name: "Kuntaur"
+          latitude: 13.67085
+          longitude: -14.88977
+        -
+          name: "Kunting"
+          latitude: 13.53333
+          longitude: -14.66667
+        -
+          name: "Lower Saloum"
+          latitude: 13.71667
+          longitude: -15.36667
+        -
+          name: "Niamina East"
+          latitude: 13.63333
+          longitude: -15.08333
+        -
+          name: "Niamina West"
+          latitude: 13.58333
+          longitude: -15.25
+        -
+          name: "Niani"
+          latitude: 13.66667
+          longitude: -14.91667
+        -
+          name: "Nianija"
+          latitude: 13.729
+          longitude: -15.091
+        -
+          name: "Pateh Sam"
+          latitude: 13.61667
+          longitude: -15.06667
+        -
+          name: "Sami"
+          latitude: 13.58333
+          longitude: -15.2
+        -
+          name: "Sami District"
+          latitude: 13.58333
+          longitude: -14.58333
+        -
+          name: "Saruja"
+          latitude: 13.55
+          longitude: -14.91667
+        -
+          name: "Sukuta"
+          latitude: 13.61667
+          longitude: -14.91667
+        -
+          name: "Upper Saloum"
+          latitude: 13.75
+          longitude: -15.2
+        -
+          name: "Wassu"
+          latitude: 13.69094
+          longitude: -14.87884
+    -
+      name: "Lower River"
+      code: "L"
+      iso3166_2: "GM-L"
+      type: "division"
+      latitude: 13.3978304
+      longitude: -15.7263312
+      cities:
+        -
+          name: "Baro Kunda"
+          latitude: 13.48333
+          longitude: -15.26667
+        -
+          name: "Bureng"
+          latitude: 13.41667
+          longitude: -15.28333
+        -
+          name: "Jali"
+          latitude: 13.35
+          longitude: -15.96667
+        -
+          name: "Jarra Central"
+          latitude: 13.41667
+          longitude: -15.41667
+        -
+          name: "Jarra East"
+          latitude: 13.41667
+          longitude: -15.25
+        -
+          name: "Jarra West"
+          latitude: 13.41667
+          longitude: -15.53333
+        -
+          name: "Jenoi"
+          latitude: 13.48333
+          longitude: -15.56667
+        -
+          name: "Jifarong"
+          latitude: 13.3
+          longitude: -15.86667
+        -
+          name: "Kaiaf"
+          latitude: 13.4
+          longitude: -15.61667
+        -
+          name: "Karantaba"
+          latitude: 13.43333
+          longitude: -15.51667
+        -
+          name: "Keneba"
+          latitude: 13.32889
+          longitude: -16.015
+        -
+          name: "Kiang Central"
+          latitude: 13.4
+          longitude: -15.75
+        -
+          name: "Kiang East"
+          latitude: 13.41667
+          longitude: -15.63333
+        -
+          name: "Kiang West"
+          latitude: 13.33333
+          longitude: -16
+        -
+          name: "Mansa Konko"
+          latitude: 13.44325
+          longitude: -15.5357
+        -
+          name: "Nioro"
+          latitude: 13.35
+          longitude: -15.75
+        -
+          name: "Sankwia"
+          latitude: 13.46667
+          longitude: -15.51667
+        -
+          name: "Si Kunda"
+          latitude: 13.43333
+          longitude: -15.56667
+        -
+          name: "Soma"
+          latitude: 13.43333
+          longitude: -15.53333
+        -
+          name: "Sutukung"
+          latitude: 13.46667
+          longitude: -15.26667
+        -
+          name: "Toniataba"
+          latitude: 13.43333
+          longitude: -15.58333
+        -
+          name: "Wellingara Ba"
+          latitude: 13.41667
+          longitude: -15.4
+    -
+      name: "North Bank"
+      code: "N"
+      iso3166_2: "GM-N"
+      type: "division"
+      latitude: 13.4731283
+      longitude: -16.1334359
+      cities:
+        -
+          name: "Bambali"
+          latitude: 13.48333
+          longitude: -15.33333
+        -
+          name: "Barra"
+          latitude: 13.48278
+          longitude: -16.54556
+        -
+          name: "Central Baddibu"
+          latitude: 13.53333
+          longitude: -15.91667
+        -
+          name: "Chilla"
+          latitude: 13.55
+          longitude: -16.28333
+        -
+          name: "Daru Rilwan"
+          latitude: 13.55
+          longitude: -15.98333
+        -
+          name: "Essau"
+          latitude: 13.48389
+          longitude: -16.53472
+        -
+          name: "Farafenni"
+          latitude: 13.56667
+          longitude: -15.6
+        -
+          name: "Gunjur"
+          latitude: 13.52278
+          longitude: -16.02778
+        -
+          name: "Jokadu"
+          latitude: 13.53333
+          longitude: -16.18333
+        -
+          name: "Katchang"
+          latitude: 13.5
+          longitude: -15.75
+        -
+          name: "Kerewan"
+          latitude: 13.4898
+          longitude: -16.08879
+        -
+          name: "Lamin"
+          latitude: 13.35222
+          longitude: -16.43389
+        -
+          name: "Lower Baddibu"
+          latitude: 13.5
+          longitude: -16.05
+        -
+          name: "Lower Niumi"
+          latitude: 13.53333
+          longitude: -16.41667
+        -
+          name: "No Kunda"
+          latitude: 13.56667
+          longitude: -15.83333
+        -
+          name: "Saba"
+          latitude: 13.51639
+          longitude: -16.04917
+        -
+          name: "Sara Kunda"
+          latitude: 13.53333
+          longitude: -15.41667
+        -
+          name: "Upper Baddibu"
+          latitude: 13.55
+          longitude: -15.66667
+        -
+          name: "Upper Niumi"
+          latitude: 13.4
+          longitude: -16.33333
+    -
+      name: "Upper River"
+      code: "U"
+      iso3166_2: "GM-U"
+      type: "division"
+      latitude: 13.4049977
+      longitude: -14.1495576
+      cities:
+        -
+          name: "Bakadagy"
+          latitude: 13.3
+          longitude: -14.38333
+        -
+          name: "Basse Santa Su"
+          latitude: 13.30995
+          longitude: -14.21373
+        -
+          name: "Brifu"
+          latitude: 13.5
+          longitude: -13.93333
+        -
+          name: "Daba Kunda"
+          latitude: 13.31667
+          longitude: -14.3
+        -
+          name: "Demba Kunda"
+          latitude: 13.25
+          longitude: -14.26667
+        -
+          name: "Diabugu"
+          latitude: 13.38333
+          longitude: -14.4
+        -
+          name: "Diabugu Basilla"
+          latitude: 13.33333
+          longitude: -13.95
+        -
+          name: "Fulladu East"
+          latitude: 13.33333
+          longitude: -14.25
+        -
+          name: "Gunjur Kuta"
+          latitude: 13.53333
+          longitude: -14.11667
+        -
+          name: "Kantora"
+          latitude: 13.41667
+          longitude: -13.91667
+        -
+          name: "Koina"
+          latitude: 13.48333
+          longitude: -13.86667
+        -
+          name: "Kumbija"
+          latitude: 13.26667
+          longitude: -14.18333
+        -
+          name: "Nyamanari"
+          latitude: 13.33333
+          longitude: -13.86667
+        -
+          name: "Perai"
+          latitude: 13.38333
+          longitude: -14.03333
+        -
+          name: "Sabi"
+          latitude: 13.23333
+          longitude: -14.2
+        -
+          name: "Sandu"
+          latitude: 13.41667
+          longitude: -14.36667
+        -
+          name: "Sudowol"
+          latitude: 13.36667
+          longitude: -13.96667
+        -
+          name: "Sun Kunda"
+          latitude: 13.38333
+          longitude: -13.85
+        -
+          name: "Sutukoba"
+          latitude: 13.5
+          longitude: -14.01667
+        -
+          name: "Wuli"
+          latitude: 13.5
+          longitude: -14.08333
+    -
+      name: "West Coast"
+      code: "W"
+      iso3166_2: "GM-W"
+      type: "division"
+      latitude: 13.258513
+      longitude: -16.4999051
+      cities:
+        -
+          name: "Abuko"
+          latitude: 13.40417
+          longitude: -16.65583
+        -
+          name: "Brikama"
+          latitude: 13.27136
+          longitude: -16.64944
+        -
+          name: "Foni Bondali"
+          latitude: 13.21667
+          longitude: -15.93333
+        -
+          name: "Foni Brefet"
+          latitude: 13.21667
+          longitude: -16.33333
+        -
+          name: "Foni Jarrol"
+          latitude: 13.23333
+          longitude: -15.83333
+        -
+          name: "Foni Kansala"
+          latitude: 13.21667
+          longitude: -16.05
+        -
+          name: "Gunjur"
+          latitude: 13.20194
+          longitude: -16.73389
+        -
+          name: "Kombo Central"
+          latitude: 13.25
+          longitude: -16.66667
+        -
+          name: "Kombo East"
+          latitude: 13.21667
+          longitude: -16.51667
+        -
+          name: "Kombo North"
+          latitude: 13.36667
+          longitude: -16.66667
+        -
+          name: "Kombo South"
+          latitude: 13.25
+          longitude: -16.75
+        -
+          name: "Somita"
+          latitude: 13.20583
+          longitude: -16.30556
+        -
+          name: "Sukuta"
+          latitude: 13.41033
+          longitude: -16.70815
+-
+  name: "Togo"
+  name_es: "Togo"
+  native: "Togo"
+  iso2: "TG"
+  iso3: "TGO"
+  numeric_code: "768"
+  phonecode: "228"
+  capital: "Lome"
+  currency: "XOF"
+  currency_name: "West African CFA franc"
+  currency_symbol: "CFA"
+  tld: ".tg"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: 8
+  longitude: 1.16666666
+  emoji: "🇹🇬"
+  states:
+    -
+      name: "Centrale"
+      code: "C"
+      iso3166_2: "TG-C"
+      type: "region"
+      latitude: 8.607113
+      longitude: 1.0458554
+      cities:
+        -
+          name: "Sokodé"
+          latitude: 8.98333
+          longitude: 1.13333
+        -
+          name: "Sotouboua"
+          latitude: 8.5634
+          longitude: 0.98399
+        -
+          name: "Tchamba"
+          latitude: 9.03333
+          longitude: 1.41667
+    -
+      name: "Kara"
+      code: "K"
+      iso3166_2: "TG-K"
+      type: "region"
+      latitude: 9.541111
+      longitude: 0.7876018
+      cities:
+        -
+          name: "Bafilo"
+          latitude: 9.35
+          longitude: 1.26667
+        -
+          name: "Bassar"
+          latitude: 9.25025
+          longitude: 0.78213
+        -
+          name: "Kandé"
+          latitude: 9.95778
+          longitude: 1.04472
+        -
+          name: "Kara"
+          latitude: 9.55111
+          longitude: 1.18611
+        -
+          name: "Niamtougou"
+          latitude: 9.76806
+          longitude: 1.10528
+        -
+          name: "Pagouda"
+          latitude: 9.7525
+          longitude: 1.32778
+        -
+          name: "Préfecture de Bassar"
+          latitude: 9.25
+          longitude: 0.75
+    -
+      name: "Maritime"
+      code: "M"
+      iso3166_2: "TG-M"
+      type: "region"
+      latitude: 6.5175177
+      longitude: 1.2045805
+      cities:
+        -
+          name: "Aného"
+          latitude: 6.22798
+          longitude: 1.5919
+        -
+          name: "Lomé"
+          latitude: 6.12874
+          longitude: 1.22154
+        -
+          name: "Tabligbo"
+          latitude: 6.58333
+          longitude: 1.5
+        -
+          name: "Tsévié"
+          latitude: 6.42611
+          longitude: 1.21333
+        -
+          name: "Vogan"
+          latitude: 6.33333
+          longitude: 1.53333
+    -
+      name: "Plateaux"
+      code: "P"
+      iso3166_2: "TG-P"
+      type: "region"
+      latitude: 7.450501
+      longitude: 1.0892702
+      cities:
+        -
+          name: "Amlamé"
+          latitude: 7.46667
+          longitude: 0.9
+        -
+          name: "Atakpamé"
+          latitude: 7.53333
+          longitude: 1.13333
+        -
+          name: "Badou"
+          latitude: 7.58333
+          longitude: 0.6
+        -
+          name: "Kpalimé"
+          latitude: 6.9
+          longitude: 0.63333
+        -
+          name: "Notsé"
+          latitude: 6.95
+          longitude: 1.16667
+    -
+      name: "Savanes"
+      code: "S"
+      iso3166_2: "TG-S"
+      type: "region"
+      latitude: 10.511559
+      longitude: 0.4653751
+      cities:
+        -
+          name: "Dapaong"
+          latitude: 10.86225
+          longitude: 0.20762
+        -
+          name: "Sansanné-Mango"
+          latitude: 10.35917
+          longitude: 0.47083

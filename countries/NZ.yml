@@ -1,0 +1,783 @@
+-
+  name: "New Zealand"
+  name_es: "Nueva Zelanda"
+  native: "New Zealand"
+  iso2: "NZ"
+  iso3: "NZL"
+  numeric_code: "554"
+  phonecode: "64"
+  capital: "Wellington"
+  currency: "NZD"
+  currency_name: "New Zealand dollar"
+  currency_symbol: "$"
+  tld: ".nz"
+  region: "Oceania"
+  subregion: "Australia and New Zealand"
+  latitude: -41
+  longitude: 174
+  emoji: "🇳🇿"
+  states:
+    -
+      name: "Auckland"
+      code: "AUK"
+      iso3166_2: "NZ-AUK"
+      type: "region"
+      latitude: -36.852095
+      longitude: 174.7631803
+      cities:
+        -
+          name: "Auckland"
+          latitude: -36.84853
+          longitude: 174.76349
+        -
+          name: "Mangere"
+          latitude: -36.96807
+          longitude: 174.79875
+        -
+          name: "Manukau City"
+          latitude: -36.99282
+          longitude: 174.87986
+        -
+          name: "Muriwai Beach"
+          latitude: -36.81667
+          longitude: 174.45
+        -
+          name: "Murrays Bay"
+          latitude: -36.72819
+          longitude: 174.75019
+        -
+          name: "North Shore"
+          latitude: -36.8
+          longitude: 174.75
+        -
+          name: "Pakuranga"
+          latitude: -36.88333
+          longitude: 174.91667
+        -
+          name: "Papakura"
+          latitude: -37.06573
+          longitude: 174.94393
+        -
+          name: "Parakai"
+          latitude: -36.65
+          longitude: 174.43333
+        -
+          name: "Pukekohe East"
+          latitude: -37.2
+          longitude: 174.95
+        -
+          name: "Red Hill"
+          latitude: -37.0582
+          longitude: 174.97019
+        -
+          name: "Rosebank"
+          latitude: -36.87495
+          longitude: 174.66991
+        -
+          name: "Rothesay Bay"
+          latitude: -36.72602
+          longitude: 174.74064
+        -
+          name: "Takanini"
+          latitude: -37.0482
+          longitude: 174.90019
+        -
+          name: "Tamaki"
+          latitude: -36.8882
+          longitude: 174.86019
+        -
+          name: "Titirangi"
+          latitude: -36.93754
+          longitude: 174.65584
+        -
+          name: "Waitakere"
+          latitude: -36.91754
+          longitude: 174.65773
+        -
+          name: "Waiuku"
+          latitude: -37.24806
+          longitude: 174.73489
+        -
+          name: "Warkworth"
+          latitude: -36.4
+          longitude: 174.66667
+        -
+          name: "Wellsford"
+          latitude: -36.28333
+          longitude: 174.51667
+        -
+          name: "Wiri"
+          latitude: -36.9982
+          longitude: 174.86019
+    -
+      name: "Bay of Plenty"
+      code: "BOP"
+      iso3166_2: "NZ-BOP"
+      type: "region"
+      latitude: -37.4969185
+      longitude: 176.9228349
+      cities:
+        -
+          name: "Edgecumbe"
+          latitude: -37.98333
+          longitude: 176.83333
+        -
+          name: "Katikati"
+          latitude: -37.55
+          longitude: 175.91667
+        -
+          name: "Kawerau"
+          latitude: -38.1
+          longitude: 176.7
+        -
+          name: "Maketu"
+          latitude: -37.76667
+          longitude: 176.45
+        -
+          name: "Murupara"
+          latitude: -38.46667
+          longitude: 176.7
+        -
+          name: "Opotiki"
+          latitude: -38.00915
+          longitude: 177.28706
+        -
+          name: "Rotorua"
+          latitude: -38.13874
+          longitude: 176.24516
+        -
+          name: "Tauranga"
+          latitude: -37.68611
+          longitude: 176.16667
+        -
+          name: "Waihi Beach"
+          latitude: -37.4
+          longitude: 175.93333
+        -
+          name: "Whakatane"
+          latitude: -37.95855
+          longitude: 176.98545
+    -
+      name: "Canterbury"
+      code: "CAN"
+      iso3166_2: "NZ-CAN"
+      type: "region"
+      latitude: -43.4941762
+      longitude: 171.8098448
+      cities:
+        -
+          name: "Amberley"
+          latitude: -43.15589
+          longitude: 172.72975
+        -
+          name: "Ashburton"
+          latitude: -43.89834
+          longitude: 171.73011
+        -
+          name: "Ashburton District"
+          latitude: -43.9
+          longitude: 171.75
+        -
+          name: "Burnham"
+          latitude: -43.61667
+          longitude: 172.31667
+        -
+          name: "Christchurch"
+          latitude: -43.53333
+          longitude: 172.63333
+        -
+          name: "Darfield"
+          latitude: -43.48333
+          longitude: 172.11667
+        -
+          name: "Geraldine"
+          latitude: -44.09061
+          longitude: 171.24458
+        -
+          name: "Kaiapoi"
+          latitude: -43.37832
+          longitude: 172.64013
+        -
+          name: "Leeston"
+          latitude: -43.76667
+          longitude: 172.3
+        -
+          name: "Lincoln"
+          latitude: -43.65
+          longitude: 172.48333
+        -
+          name: "Mackenzie"
+          latitude: -43.93987
+          longitude: 170.51913
+        -
+          name: "Methven"
+          latitude: -43.63333
+          longitude: 171.65
+        -
+          name: "Oxford"
+          latitude: -43.3
+          longitude: 172.18333
+        -
+          name: "Pleasant Point"
+          latitude: -44.26667
+          longitude: 171.13333
+        -
+          name: "Prebbleton"
+          latitude: -43.58333
+          longitude: 172.51667
+        -
+          name: "Rakaia"
+          latitude: -43.75
+          longitude: 172.01667
+        -
+          name: "Rolleston"
+          latitude: -43.58333
+          longitude: 172.38333
+        -
+          name: "Selwyn"
+          latitude: -43.32226
+          longitude: 171.87064
+        -
+          name: "Timaru"
+          latitude: -44.39672
+          longitude: 171.25364
+        -
+          name: "Timaru District"
+          latitude: -44.4
+          longitude: 171.21667
+        -
+          name: "Tinwald"
+          latitude: -43.91667
+          longitude: 171.71667
+        -
+          name: "Waimakariri"
+          latitude: -43.2075
+          longitude: 172.33286
+        -
+          name: "Woodend"
+          latitude: -43.31667
+          longitude: 172.66667
+    -
+      name: "Chatham Islands"
+      code: "CIT"
+      iso3166_2: "NZ-CIT"
+      type: "special island authority"
+      latitude: -43.917534
+      longitude: -176.18734
+      cities:
+        -
+          name: "Waitangi"
+          latitude: -43.95353
+          longitude: -176.55973
+    -
+      name: "Gisborne"
+      code: "GIS"
+      iso3166_2: "NZ-GIS"
+      type: "region"
+      latitude: -38.1532287
+      longitude: 178.1367524
+      cities:
+        -
+          name: "Gisborne"
+          latitude: -38.65333
+          longitude: 178.00417
+    -
+      name: "Hawke's Bay"
+      code: "HKB"
+      iso3166_2: "NZ-HKB"
+      type: "region"
+      latitude: -39.5256512
+      longitude: 176.7611457
+      cities:
+        -
+          name: "Hastings"
+          latitude: -39.6381
+          longitude: 176.84918
+        -
+          name: "Napier"
+          latitude: -39.4926
+          longitude: 176.91233
+        -
+          name: "Taradale"
+          latitude: -39.53333
+          longitude: 176.85
+        -
+          name: "Wairoa"
+          latitude: -39.03333
+          longitude: 177.36667
+    -
+      name: "Manawatu-Whanganui"
+      code: "MWT"
+      iso3166_2: "NZ-MWT"
+      type: "region"
+      latitude: -39.6407734
+      longitude: 175.5713557
+      cities:
+        -
+          name: "Bulls"
+          latitude: -40.17487
+          longitude: 175.38463
+        -
+          name: "Foxton"
+          latitude: -40.46667
+          longitude: 175.3
+        -
+          name: "Horowhenua"
+          latitude: -40.57733
+          longitude: 175.38071
+        -
+          name: "Levin"
+          latitude: -40.63333
+          longitude: 175.275
+        -
+          name: "Manawatu"
+          latitude: -40.11979
+          longitude: 175.67426
+        -
+          name: "Palmerston North"
+          latitude: -40.35636
+          longitude: 175.61113
+        -
+          name: "Waiouru"
+          latitude: -39.47753
+          longitude: 175.66834
+        -
+          name: "Wanganui"
+          latitude: -39.93333
+          longitude: 175.05
+    -
+      name: "Marlborough"
+      code: "MBH"
+      iso3166_2: "NZ-MBH"
+      type: "region"
+      latitude: -41.4744747
+      longitude: 173.8330263
+      cities:
+        -
+          name: "Blenheim"
+          latitude: -41.51603
+          longitude: 173.9528
+        -
+          name: "Picton"
+          latitude: -41.29067
+          longitude: 174.00801
+    -
+      name: "Nelson"
+      code: "NSN"
+      iso3166_2: "NZ-NSN"
+      type: "region"
+      latitude: -41.2710849
+      longitude: 173.2836756
+      cities:
+        -
+          name: "Nelson"
+          latitude: -41.27078
+          longitude: 173.28404
+    -
+      name: "Northland"
+      code: "NTL"
+      iso3166_2: "NZ-NTL"
+      type: "region"
+      latitude: -35.3755091
+      longitude: 173.9470106
+      cities:
+        -
+          name: "Ahipara"
+          latitude: -35.16667
+          longitude: 173.16667
+        -
+          name: "Dargaville"
+          latitude: -35.93333
+          longitude: 173.88333
+        -
+          name: "Far North"
+          latitude: -35.03359
+          longitude: 173.48841
+        -
+          name: "Kaipara"
+          latitude: -35.99546
+          longitude: 174.04688
+        -
+          name: "Kaitaia"
+          latitude: -35.11485
+          longitude: 173.26366
+        -
+          name: "Kawakawa"
+          latitude: -35.38333
+          longitude: 174.06667
+        -
+          name: "Kerikeri"
+          latitude: -35.22676
+          longitude: 173.94739
+        -
+          name: "Maungatapere"
+          latitude: -35.75
+          longitude: 174.2
+        -
+          name: "Moerewa"
+          latitude: -35.38333
+          longitude: 174.03333
+        -
+          name: "Ngunguru"
+          latitude: -35.61667
+          longitude: 174.5
+        -
+          name: "Paihia"
+          latitude: -35.28067
+          longitude: 174.09103
+        -
+          name: "Ruakaka"
+          latitude: -35.90818
+          longitude: 174.45019
+        -
+          name: "Taipa"
+          latitude: -34.99604
+          longitude: 173.46665
+        -
+          name: "Waimate North"
+          latitude: -35.31667
+          longitude: 173.88333
+        -
+          name: "Whangarei"
+          latitude: -35.73167
+          longitude: 174.32391
+    -
+      name: "Otago"
+      code: "OTA"
+      iso3166_2: "NZ-OTA"
+      type: "region"
+      latitude: -45.3975053
+      longitude: 170.1778918
+      cities:
+        -
+          name: "Arrowtown"
+          latitude: -44.93837
+          longitude: 168.81007
+        -
+          name: "Balclutha"
+          latitude: -46.23389
+          longitude: 169.75
+        -
+          name: "Clutha"
+          latitude: -46.03883
+          longitude: 169.60617
+        -
+          name: "Cromwell"
+          latitude: -45.03837
+          longitude: 169.20008
+        -
+          name: "Dunedin"
+          latitude: -45.87416
+          longitude: 170.50361
+        -
+          name: "Kingston"
+          latitude: -45.33288
+          longitude: 168.71476
+        -
+          name: "Milton"
+          latitude: -46.12083
+          longitude: 169.96944
+        -
+          name: "Oamaru"
+          latitude: -45.09758
+          longitude: 170.97087
+        -
+          name: "Papatowai"
+          latitude: -46.56069
+          longitude: 169.47068
+        -
+          name: "Portobello"
+          latitude: -45.85
+          longitude: 170.65
+        -
+          name: "Queenstown"
+          latitude: -45.03023
+          longitude: 168.66271
+        -
+          name: "Wanaka"
+          latitude: -44.7
+          longitude: 169.15
+    -
+      name: "Southland"
+      code: "STL"
+      iso3166_2: "NZ-STL"
+      type: "region"
+      latitude: -45.9254266
+      longitude: 167.6068483
+      cities:
+        -
+          name: "Bluff"
+          latitude: -46.6
+          longitude: 168.33333
+        -
+          name: "Gore"
+          latitude: -46.10282
+          longitude: 168.94357
+        -
+          name: "Invercargill"
+          latitude: -46.4
+          longitude: 168.35
+        -
+          name: "Riverton"
+          latitude: -46.35
+          longitude: 168.01667
+        -
+          name: "Southland"
+          latitude: -45.77256
+          longitude: 167.85266
+        -
+          name: "Te Anau"
+          latitude: -45.41667
+          longitude: 167.71667
+        -
+          name: "Winton"
+          latitude: -46.15
+          longitude: 168.33333
+    -
+      name: "Taranaki"
+      code: "TKI"
+      iso3166_2: "NZ-TKI"
+      type: "region"
+      latitude: -39.3848064
+      longitude: 174.1973505
+      cities:
+        -
+          name: "Eltham"
+          latitude: -39.42917
+          longitude: 174.3
+        -
+          name: "Hawera"
+          latitude: -39.59167
+          longitude: 174.28333
+        -
+          name: "New Plymouth"
+          latitude: -39.06667
+          longitude: 174.08333
+        -
+          name: "New Plymouth District"
+          latitude: -39.05865
+          longitude: 174.10309
+        -
+          name: "Opunake"
+          latitude: -39.45556
+          longitude: 173.85833
+        -
+          name: "Patea"
+          latitude: -39.75833
+          longitude: 174.48333
+        -
+          name: "South Taranaki"
+          latitude: -39.52156
+          longitude: 174.3716
+        -
+          name: "Stratford"
+          latitude: -39.3221517
+          longitude: 174.2629816
+        -
+          name: "Waitara"
+          latitude: -39.00158
+          longitude: 174.23836
+    -
+      name: "Tasman"
+      code: "TAS"
+      iso3166_2: "NZ-TAS"
+      type: "region"
+      latitude: -41.302221
+      longitude: 172.8945319
+      cities:
+        -
+          name: "Brightwater"
+          latitude: -41.38333
+          longitude: 173.11667
+        -
+          name: "Mapua"
+          latitude: -41.25
+          longitude: 173.1
+        -
+          name: "Motueka"
+          latitude: -41.13333
+          longitude: 173.01667
+        -
+          name: "Richmond"
+          latitude: -41.33333
+          longitude: 173.18333
+        -
+          name: "Takaka"
+          latitude: -40.85
+          longitude: 172.8
+        -
+          name: "Wakefield"
+          latitude: -41.4
+          longitude: 173.05
+    -
+      name: "Waikato"
+      code: "WKO"
+      iso3166_2: "NZ-WKO"
+      type: "region"
+      latitude: -37.7792272
+      longitude: 175.2010324
+      cities:
+        -
+          name: "Cambridge"
+          latitude: -37.87822
+          longitude: 175.4402
+        -
+          name: "Coromandel"
+          latitude: -36.7611
+          longitude: 175.49634
+        -
+          name: "Hamilton"
+          latitude: -37.78333
+          longitude: 175.28333
+        -
+          name: "Matamata"
+          latitude: -37.8106
+          longitude: 175.76237
+        -
+          name: "Ngaruawahia"
+          latitude: -37.66738
+          longitude: 175.15554
+        -
+          name: "Ngatea"
+          latitude: -37.28333
+          longitude: 175.5
+        -
+          name: "Otorohanga"
+          latitude: -38.18333
+          longitude: 175.2
+        -
+          name: "Paeroa"
+          latitude: -37.36667
+          longitude: 175.66667
+        -
+          name: "Raglan"
+          latitude: -37.8
+          longitude: 174.88333
+        -
+          name: "South Waikato"
+          latitude: -38.16797
+          longitude: 175.88624
+        -
+          name: "Tairua"
+          latitude: -37.01667
+          longitude: 175.85
+        -
+          name: "Taupo"
+          latitude: -38.68333
+          longitude: 176.08333
+        -
+          name: "Te Kauwhata"
+          latitude: -37.4
+          longitude: 175.15
+        -
+          name: "Thames"
+          latitude: -37.13832
+          longitude: 175.54011
+        -
+          name: "Tokoroa"
+          latitude: -38.23333
+          longitude: 175.86667
+        -
+          name: "Turangi"
+          latitude: -38.99037
+          longitude: 175.80837
+        -
+          name: "Waihi"
+          latitude: -37.38333
+          longitude: 175.83333
+        -
+          name: "Whangamata"
+          latitude: -37.2
+          longitude: 175.86667
+        -
+          name: "Whitianga"
+          latitude: -36.83333
+          longitude: 175.7
+    -
+      name: "Wellington"
+      code: "WGN"
+      iso3166_2: "NZ-WGN"
+      type: "region"
+      latitude: -41.2235474
+      longitude: 175.4157576
+      cities:
+        -
+          name: "Brooklyn"
+          latitude: -41.30586
+          longitude: 174.76257
+        -
+          name: "Castlepoint"
+          latitude: -40.9
+          longitude: 176.21667
+        -
+          name: "Kapiti Coast"
+          latitude: -40.85682
+          longitude: 175.1469
+        -
+          name: "Kelburn"
+          latitude: -41.28333
+          longitude: 174.76667
+        -
+          name: "Khandallah"
+          latitude: -41.245
+          longitude: 174.79422
+        -
+          name: "Lower Hutt"
+          latitude: -41.21667
+          longitude: 174.91667
+        -
+          name: "Masterton"
+          latitude: -40.95972
+          longitude: 175.6575
+        -
+          name: "Otaki"
+          latitude: -40.75833
+          longitude: 175.15
+        -
+          name: "Paraparaumu"
+          latitude: -40.91667
+          longitude: 175.01667
+        -
+          name: "Petone"
+          latitude: -41.22827
+          longitude: 174.87019
+        -
+          name: "Porirua"
+          latitude: -41.13333
+          longitude: 174.85
+        -
+          name: "South Wairarapa"
+          latitude: -41.26731
+          longitude: 175.38442
+        -
+          name: "Upper Hutt"
+          latitude: -41.13827
+          longitude: 175.0502
+        -
+          name: "Waipawa"
+          latitude: -41.41222
+          longitude: 175.51528
+        -
+          name: "Wellington"
+          latitude: -41.28664
+          longitude: 174.77557
+    -
+      name: "West Coast"
+      code: "WTC"
+      iso3166_2: "NZ-WTC"
+      type: "region"
+      latitude: -42.5638896
+      longitude: 171.452334
+      cities:
+        -
+          name: "Greymouth"
+          latitude: -42.46667
+          longitude: 171.2
+        -
+          name: "Hokitika"
+          latitude: -42.71667
+          longitude: 170.96667
+        -
+          name: "Westport"
+          latitude: -41.75262
+          longitude: 171.6037

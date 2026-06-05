@@ -1,0 +1,311 @@
+-
+  name: "Kosovo"
+  name_es: "Kosovo"
+  native: "Republika e Kosovës"
+  iso2: "XK"
+  iso3: "XKX"
+  numeric_code: "926"
+  phonecode: "383"
+  capital: "Pristina"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".xk"
+  region: "Europe"
+  subregion: "Eastern Europe"
+  latitude: 42.5612909
+  longitude: 20.3403035
+  emoji: "🇽🇰"
+  states:
+    -
+      name: "Ferizaj"
+      code: "XUF"
+      iso3166_2: "XK-XUF"
+      type: "district"
+      latitude: 42.3701844
+      longitude: 21.1483281
+      cities:
+        -
+          name: "Ferizaj"
+          latitude: 42.37056
+          longitude: 21.15528
+        -
+          name: "Hani i Elezit"
+          latitude: 42.15
+          longitude: 21.29667
+        -
+          name: "Kačanik"
+          latitude: 42.23194
+          longitude: 21.25944
+        -
+          name: "Shtime"
+          latitude: 42.43306
+          longitude: 21.03972
+        -
+          name: "Štrpce"
+          latitude: 42.23944
+          longitude: 21.02722
+    -
+      name: "Gjakove"
+      code: "XDG"
+      iso3166_2: "XK-XDG"
+      type: "district"
+      latitude: 42.3798793
+      longitude: 20.4316226
+      cities:
+        -
+          name: "Deçan"
+          latitude: 42.54018
+          longitude: 20.28793
+        -
+          name: "Dranoc"
+          latitude: 42.51556
+          longitude: 20.29222
+        -
+          name: "Gjakovë"
+          latitude: 42.38028
+          longitude: 20.43083
+        -
+          name: "Gllogjan"
+          latitude: 42.50722
+          longitude: 20.36278
+        -
+          name: "Irzniq"
+          latitude: 42.52
+          longitude: 20.34722
+        -
+          name: "Isniq"
+          latitude: 42.5575
+          longitude: 20.30278
+        -
+          name: "Lëbushë"
+          latitude: 42.56306
+          longitude: 20.29083
+        -
+          name: "Lloqan"
+          latitude: 42.52444
+          longitude: 20.28083
+        -
+          name: "Lluka e Eperme"
+          latitude: 42.545
+          longitude: 20.30778
+        -
+          name: "Lumbardhi"
+          latitude: 42.54667
+          longitude: 20.34667
+        -
+          name: "Orahovac"
+          latitude: 42.39944
+          longitude: 20.65472
+        -
+          name: "Papraqan"
+          latitude: 42.55278
+          longitude: 20.33111
+        -
+          name: "Prilep"
+          latitude: 42.5075
+          longitude: 20.31778
+        -
+          name: "Strellc i Epërm"
+          latitude: 42.57843
+          longitude: 20.29398
+        -
+          name: "Strellc i Ulët"
+          latitude: 42.58063
+          longitude: 20.31619
+    -
+      name: "Gjilan"
+      code: "XGJ"
+      iso3166_2: "XK-XGJ"
+      type: "district"
+      latitude: 42.4635206
+      longitude: 21.4694011
+      cities:
+        -
+          name: "Gjilan"
+          latitude: 42.46045
+          longitude: 21.46986
+        -
+          name: "Kamenica"
+          latitude: 42.57806
+          longitude: 21.58028
+        -
+          name: "Klokot"
+          latitude: 42.37139
+          longitude: 21.37444
+        -
+          name: "Partesh"
+          latitude: 42.40194
+          longitude: 21.43361
+        -
+          name: "Pasjane"
+          latitude: 42.40694
+          longitude: 21.49556
+        -
+          name: "Ranilug"
+          latitude: 42.49222
+          longitude: 21.59889
+        -
+          name: "Vitina"
+          latitude: 42.32139
+          longitude: 21.35833
+    -
+      name: "Mitrovica"
+      code: "XKM"
+      iso3166_2: "XK-XKM"
+      type: "district"
+      latitude: 42.8790424
+      longitude: 20.8657862
+      cities:
+        -
+          name: "Leposaviq"
+          latitude: 43.10389
+          longitude: 20.80278
+        -
+          name: "Mitrovicë"
+          latitude: 42.88333
+          longitude: 20.86667
+        -
+          name: "Srbica"
+          latitude: 42.74667
+          longitude: 20.78861
+        -
+          name: "Vushtrri"
+          latitude: 42.82306
+          longitude: 20.9675
+        -
+          name: "Zubin Potok"
+          latitude: 42.91444
+          longitude: 20.68972
+        -
+          name: "Zvečan"
+          latitude: 42.9075
+          longitude: 20.84028
+    -
+      name: "Peja"
+      code: "PEJ"
+      iso3166_2: "XK-PEJ"
+      type: "district"
+      latitude: 42.6593986
+      longitude: 20.2885757
+      cities:
+        -
+          name: "Dubova (Driloni)"
+          latitude: 42.71194
+          longitude: 20.36972
+        -
+          name: "Istok"
+          latitude: 42.78083
+          longitude: 20.4875
+        -
+          name: "Klina"
+          latitude: 42.62167
+          longitude: 20.57778
+        -
+          name: "Kosuriq"
+          latitude: 42.57028
+          longitude: 20.46472
+        -
+          name: "Pejë"
+          latitude: 42.65913
+          longitude: 20.28828
+    -
+      name: "Pristina"
+      code: "XPI"
+      iso3166_2: "XK-XPI"
+      type: "district"
+      latitude: 42.6629138
+      longitude: 21.1655028
+      cities:
+        -
+          name: "Bradash"
+          latitude: 42.94028
+          longitude: 21.13806
+        -
+          name: "Glogovac"
+          latitude: 42.62833
+          longitude: 20.89389
+        -
+          name: "Gračanica"
+          latitude: 42.60111
+          longitude: 21.19583
+        -
+          name: "Kosovo Polje"
+          latitude: 42.66394
+          longitude: 21.09611
+        -
+          name: "Lipljan"
+          latitude: 42.52167
+          longitude: 21.12583
+        -
+          name: "Novo Brdo"
+          latitude: 42.6159
+          longitude: 21.43405
+        -
+          name: "Obiliq"
+          latitude: 42.68694
+          longitude: 21.07028
+        -
+          name: "Podujeva"
+          latitude: 42.91056
+          longitude: 21.19306
+        -
+          name: "Pristina"
+          latitude: 42.67272
+          longitude: 21.16688
+    -
+      name: "Prizren"
+      code: "PRI"
+      iso3166_2: "XK-PRI"
+      type: "district"
+      latitude: 42.2130151
+      longitude: 20.7363339
+      cities:
+        -
+          name: "Budakovo"
+          latitude: 42.355
+          longitude: 20.925
+        -
+          name: "Dragash"
+          latitude: 42.0265
+          longitude: 20.65333
+        -
+          name: "Gjinoc"
+          latitude: 42.31833
+          longitude: 20.81861
+        -
+          name: "Leshan"
+          latitude: 42.32778
+          longitude: 20.78111
+        -
+          name: "Llazicë"
+          latitude: 42.55528
+          longitude: 20.76333
+        -
+          name: "Mališevo"
+          latitude: 42.48222
+          longitude: 20.74583
+        -
+          name: "Mamuša"
+          latitude: 42.33083
+          longitude: 20.72694
+        -
+          name: "Nishor"
+          latitude: 42.42389
+          longitude: 20.80167
+        -
+          name: "Pagaruša"
+          latitude: 42.42
+          longitude: 20.74222
+        -
+          name: "Peqan"
+          latitude: 42.38361
+          longitude: 20.82194
+        -
+          name: "Prizren"
+          latitude: 42.21389
+          longitude: 20.73972
+        -
+          name: "Suva Reka"
+          latitude: 42.35861
+          longitude: 20.825

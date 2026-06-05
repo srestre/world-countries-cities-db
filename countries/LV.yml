@@ -1,0 +1,864 @@
+-
+  name: "Latvia"
+  name_es: "Letonia"
+  native: "Latvija"
+  iso2: "LV"
+  iso3: "LVA"
+  numeric_code: "428"
+  phonecode: "371"
+  capital: "Riga"
+  currency: "EUR"
+  currency_name: "Euro"
+  currency_symbol: "€"
+  tld: ".lv"
+  region: "Europe"
+  subregion: "Northern Europe"
+  latitude: 57
+  longitude: 25
+  emoji: "🇱🇻"
+  states:
+    -
+      name: "Ādaži"
+      code: "011"
+      iso3166_2: "LV-011"
+      type: "municipality"
+      latitude: 57.0874671
+      longitude: 24.3195797
+      cities:
+        -
+          name: "Carnikava"
+          latitude: 57.12935
+          longitude: 24.28423
+    -
+      name: "Aizkraukle"
+      code: "002"
+      iso3166_2: "LV-002"
+      type: "municipality"
+      latitude: 56.6166708
+      longitude: 25.2230643
+      cities:
+        -
+          name: "Aizkraukle"
+          latitude: 56.60477
+          longitude: 25.25534
+        -
+          name: "Jaunjelgava"
+          latitude: 56.61319
+          longitude: 25.08316
+        -
+          name: "Koknese"
+          latitude: 56.65163
+          longitude: 25.43637
+        -
+          name: "Nereta"
+          latitude: 56.20279
+          longitude: 25.30752
+        -
+          name: "Pļaviņas"
+          latitude: 56.6178
+          longitude: 25.72552
+        -
+          name: "Skrīveri"
+          latitude: 56.645
+          longitude: 25.12058
+    -
+      name: "Alūksne"
+      code: "007"
+      iso3166_2: "LV-007"
+      type: "municipality"
+      latitude: 57.4254485
+      longitude: 27.0424968
+      cities:
+        -
+          name: "Alūksne"
+          latitude: 57.42162
+          longitude: 27.04662
+    -
+      name: "Augšdaugava"
+      code: "111"
+      iso3166_2: "LV-111"
+      type: "municipality"
+      latitude: 55.8561323
+      longitude: 27.0458076
+      cities:
+        -
+          name: "Daugavpils"
+          latitude: 55.88333
+          longitude: 26.53333
+        -
+          name: "Ilūkste"
+          latitude: 55.97754
+          longitude: 26.29655
+    -
+      name: "Balvi"
+      code: "015"
+      iso3166_2: "LV-015"
+      type: "municipality"
+      latitude: 57.132624
+      longitude: 27.2646685
+      cities:
+        -
+          name: "Baltinava"
+          latitude: 56.94394
+          longitude: 27.64401
+        -
+          name: "Balvi"
+          latitude: 57.1313
+          longitude: 27.26583
+        -
+          name: "Rugāji"
+          latitude: 57.00325
+          longitude: 27.13371
+        -
+          name: "Viļaka"
+          latitude: 57.18458
+          longitude: 27.6722
+    -
+      name: "Bauska"
+      code: "016"
+      iso3166_2: "LV-016"
+      type: "municipality"
+      latitude: 56.4101868
+      longitude: 24.2000689
+      cities:
+        -
+          name: "Bauska"
+          latitude: 56.40794
+          longitude: 24.19443
+        -
+          name: "Iecava"
+          latitude: 56.59766
+          longitude: 24.20763
+        -
+          name: "Pilsrundāle"
+          latitude: 56.41812
+          longitude: 24.01625
+        -
+          name: "Vecumnieki"
+          latitude: 56.60608
+          longitude: 24.52232
+    -
+      name: "Cēsis"
+      code: "022"
+      iso3166_2: "LV-022"
+      type: "municipality"
+      latitude: 57.3102897
+      longitude: 25.2676125
+      cities:
+        -
+          name: "Cēsis"
+          latitude: 57.31188
+          longitude: 25.27456
+        -
+          name: "Līgatne"
+          latitude: 57.23429
+          longitude: 25.04059
+        -
+          name: "Priekuļi"
+          latitude: 57.315
+          longitude: 25.36147
+        -
+          name: "Stalbe"
+          latitude: 57.37065
+          longitude: 25.03106
+        -
+          name: "Vecpiebalga"
+          latitude: 57.0609
+          longitude: 25.81624
+    -
+      name: "Daugavpils"
+      code: "DGV"
+      iso3166_2: "LV-DGV"
+      type: "state city"
+      latitude: 55.8712267
+      longitude: 26.5159337
+      cities:
+        []
+    -
+      name: "Dienvidkurzemes"
+      code: "112"
+      iso3166_2: "LV-112"
+      type: "municipality"
+      latitude: 56.5224575
+      longitude: 21.4595894
+      cities:
+        -
+          name: "Aizpute"
+          latitude: 56.72108
+          longitude: 21.60156
+        -
+          name: "Grobiņa"
+          latitude: 56.53521
+          longitude: 21.16782
+        -
+          name: "Lieģi"
+          latitude: 56.58173
+          longitude: 21.33399
+        -
+          name: "Nīca"
+          latitude: 56.34601
+          longitude: 21.06401
+        -
+          name: "Pāvilosta"
+          latitude: 56.88791
+          longitude: 21.18593
+        -
+          name: "Priekule"
+          latitude: 56.44679
+          longitude: 21.58968
+        -
+          name: "Rucava"
+          latitude: 56.16314
+          longitude: 21.16156
+        -
+          name: "Vaiņode"
+          latitude: 56.41848
+          longitude: 21.85405
+    -
+      name: "Dobele"
+      code: "026"
+      iso3166_2: "LV-026"
+      type: "municipality"
+      latitude: 56.626305
+      longitude: 23.2809066
+      cities:
+        -
+          name: "Auce"
+          latitude: 56.45981
+          longitude: 22.90169
+        -
+          name: "Dobele"
+          latitude: 56.62372
+          longitude: 23.2751
+        -
+          name: "Tērvete"
+          latitude: 56.47989
+          longitude: 23.38895
+        -
+          name: "Zelmeņi"
+          latitude: 56.45167
+          longitude: 23.35194
+    -
+      name: "Gulbene"
+      code: "033"
+      iso3166_2: "LV-033"
+      type: "municipality"
+      latitude: 57.1759721
+      longitude: 26.7514713
+      cities:
+        -
+          name: "Gulbene"
+          latitude: 57.17767
+          longitude: 26.75291
+    -
+      name: "Jēkabpils"
+      code: "042"
+      iso3166_2: "LV-042"
+      type: "municipality"
+      latitude: 56.4958638
+      longitude: 25.8687747
+      cities:
+        -
+          name: "Aknīste"
+          latitude: 56.16152
+          longitude: 25.74783
+        -
+          name: "Jēkabpils"
+          latitude: 56.49903
+          longitude: 25.85735
+        -
+          name: "Krustpils"
+          latitude: 56.51068
+          longitude: 25.86117
+        -
+          name: "Viesīte"
+          latitude: 56.34751
+          longitude: 25.55514
+    -
+      name: "Jelgava"
+      code: "041"
+      iso3166_2: "LV-041"
+      type: "municipality"
+      latitude: 56.6514394
+      longitude: 23.7339143
+      cities:
+        -
+          name: "Ozolnieki"
+          latitude: 56.68986
+          longitude: 23.7761
+        -
+          name: "Tīreļi"
+          latitude: 56.83991
+          longitude: 23.58902
+    -
+      name: "Jelgava"
+      code: "JEL"
+      iso3166_2: "LV-JEL"
+      type: "state city"
+      latitude: 56.6514394
+      longitude: 23.7339143
+      cities:
+        -
+          name: "Jelgava"
+          latitude: 56.65
+          longitude: 23.71278
+    -
+      name: "Jūrmala"
+      code: "JUR"
+      iso3166_2: "LV-JUR"
+      type: "state city"
+      latitude: 56.9727164
+      longitude: 23.7886979
+      cities:
+        -
+          name: "Jūrmala"
+          latitude: 56.968
+          longitude: 23.77038
+    -
+      name: "Ķekava"
+      code: "052"
+      iso3166_2: "LV-052"
+      type: "municipality"
+      latitude: 56.8258465
+      longitude: 24.2208128
+      cities:
+        -
+          name: "Baldone"
+          latitude: 56.74451
+          longitude: 24.40078
+        -
+          name: "Baloži"
+          latitude: 56.87643
+          longitude: 24.11825
+        -
+          name: "Ķekava"
+          latitude: 56.82662
+          longitude: 24.23
+    -
+      name: "Krāslava"
+      code: "047"
+      iso3166_2: "LV-047"
+      type: "municipality"
+      latitude: 55.895206
+      longitude: 27.1619304
+      cities:
+        -
+          name: "Dagda"
+          latitude: 56.09512
+          longitude: 27.53723
+        -
+          name: "Krāslava"
+          latitude: 55.89514
+          longitude: 27.16799
+    -
+      name: "Kuldīga"
+      code: "050"
+      iso3166_2: "LV-050"
+      type: "municipality"
+      latitude: 56.9687257
+      longitude: 21.9613739
+      cities:
+        -
+          name: "Alsunga"
+          latitude: 56.98194
+          longitude: 21.55938
+        -
+          name: "Kuldīga"
+          latitude: 56.97399
+          longitude: 21.95721
+        -
+          name: "Skrunda"
+          latitude: 56.67749
+          longitude: 22.01649
+    -
+      name: "Liepāja"
+      code: "LPX"
+      iso3166_2: "LV-LPX"
+      type: "state city"
+      latitude: 56.5046678
+      longitude: 21.010806
+      cities:
+        -
+          name: "Karosta"
+          latitude: 56.55128
+          longitude: 21.01287
+        -
+          name: "Liepāja"
+          latitude: 56.50474
+          longitude: 21.01085
+    -
+      name: "Limbaži"
+      code: "054"
+      iso3166_2: "LV-054"
+      type: "municipality"
+      latitude: 57.5146586
+      longitude: 24.7131536
+      cities:
+        -
+          name: "Ainaži"
+          latitude: 57.86348
+          longitude: 24.35853
+        -
+          name: "Aloja"
+          latitude: 57.76723
+          longitude: 24.87743
+        -
+          name: "Limbaži"
+          latitude: 57.51287
+          longitude: 24.71941
+        -
+          name: "Salacgrīva"
+          latitude: 57.75312
+          longitude: 24.35895
+        -
+          name: "Staicele"
+          latitude: 57.83579
+          longitude: 24.74706
+    -
+      name: "Līvāni"
+      code: "056"
+      iso3166_2: "LV-056"
+      type: "municipality"
+      latitude: 56.3550942
+      longitude: 26.172519
+      cities:
+        -
+          name: "Līvāni"
+          latitude: 56.35431
+          longitude: 26.17579
+    -
+      name: "Ludza"
+      code: "058"
+      iso3166_2: "LV-058"
+      type: "municipality"
+      latitude: 56.545959
+      longitude: 27.7143199
+      cities:
+        -
+          name: "Cibla"
+          latitude: 56.5498
+          longitude: 27.8837
+        -
+          name: "Kārsava"
+          latitude: 56.78405
+          longitude: 27.68829
+        -
+          name: "Ludza"
+          latitude: 56.53958
+          longitude: 27.71891
+        -
+          name: "Zilupe"
+          latitude: 56.38616
+          longitude: 28.12165
+    -
+      name: "Madona"
+      code: "059"
+      iso3166_2: "LV-059"
+      type: "municipality"
+      latitude: 56.8517467
+      longitude: 26.2184769
+      cities:
+        -
+          name: "Cesvaine"
+          latitude: 56.96754
+          longitude: 26.30764
+        -
+          name: "Ērgļi"
+          latitude: 56.89752
+          longitude: 25.63668
+        -
+          name: "Lubāna"
+          latitude: 56.90425
+          longitude: 26.71606
+        -
+          name: "Madona"
+          latitude: 56.85329
+          longitude: 26.21698
+    -
+      name: "Mārupe"
+      code: "062"
+      iso3166_2: "LV-062"
+      type: "municipality"
+      latitude: 56.8965717
+      longitude: 24.0460049
+      cities:
+        -
+          name: "Mārupe"
+          latitude: 56.90544
+          longitude: 24.05113
+        -
+          name: "Piņķi"
+          latitude: 56.94189
+          longitude: 23.91365
+    -
+      name: "Ogre"
+      code: "067"
+      iso3166_2: "LV-067"
+      type: "municipality"
+      latitude: 56.8147355
+      longitude: 24.6044555
+      cities:
+        -
+          name: "Ikšķile"
+          latitude: 56.83399
+          longitude: 24.49679
+        -
+          name: "Jumprava"
+          latitude: 56.67613
+          longitude: 24.9721
+        -
+          name: "Ķegums"
+          latitude: 56.7451
+          longitude: 24.72439
+        -
+          name: "Lielvārde"
+          latitude: 56.72066
+          longitude: 24.80743
+        -
+          name: "Ogre"
+          latitude: 56.8162
+          longitude: 24.61401
+    -
+      name: "Olaine"
+      code: "068"
+      iso3166_2: "LV-068"
+      type: "municipality"
+      latitude: 56.7905906
+      longitude: 23.9331981
+      cities:
+        -
+          name: "Olaine"
+          latitude: 56.79472
+          longitude: 23.9358
+    -
+      name: "Preiļi"
+      code: "073"
+      iso3166_2: "LV-073"
+      type: "municipality"
+      latitude: 56.2937366
+      longitude: 26.7266734
+      cities:
+        -
+          name: "Aglona"
+          latitude: 56.13274
+          longitude: 27.00682
+        -
+          name: "Jaunaglona"
+          latitude: 56.16066
+          longitude: 27.00714
+        -
+          name: "Preiļi"
+          latitude: 56.29444
+          longitude: 26.72459
+        -
+          name: "Riebiņi"
+          latitude: 56.3428
+          longitude: 26.79995
+        -
+          name: "Vecvārkava"
+          latitude: 56.19838
+          longitude: 26.50811
+    -
+      name: "Rēzekne"
+      code: "REZ"
+      iso3166_2: "LV-REZ"
+      type: "state city"
+      latitude: 56.506281
+      longitude: 27.3306623
+      cities:
+        -
+          name: "Rēzekne"
+          latitude: 56.51028
+          longitude: 27.34
+    -
+      name: "Rēzekne"
+      code: "077"
+      iso3166_2: "LV-077"
+      type: "municipality"
+      latitude: 56.506281
+      longitude: 27.3306623
+      cities:
+        -
+          name: "Viļāni"
+          latitude: 56.55253
+          longitude: 26.92449
+    -
+      name: "Riga"
+      code: "RIX"
+      iso3166_2: "LV-RIX"
+      type: "state city"
+      latitude: 56.9496487
+      longitude: 24.1051865
+      cities:
+        -
+          name: "Bolderaja"
+          latitude: 57.03132
+          longitude: 24.05571
+        -
+          name: "Daugavgrīva"
+          latitude: 57.04315
+          longitude: 24.03613
+        -
+          name: "Jaunciems"
+          latitude: 57.0391
+          longitude: 24.17413
+        -
+          name: "Mežaparks"
+          latitude: 57.00008
+          longitude: 24.15997
+        -
+          name: "Riga"
+          latitude: 56.946
+          longitude: 24.10589
+    -
+      name: "Ropaži"
+      code: "080"
+      iso3166_2: "LV-080"
+      type: "municipality"
+      latitude: 56.9713771
+      longitude: 24.6307233
+      cities:
+        -
+          name: "Garkalne"
+          latitude: 57.04486
+          longitude: 24.41951
+        -
+          name: "Ropaži"
+          latitude: 56.9747
+          longitude: 24.63295
+        -
+          name: "Ulbroka"
+          latitude: 56.9363
+          longitude: 24.30387
+        -
+          name: "Vangaži"
+          latitude: 57.09358
+          longitude: 24.54468
+    -
+      name: "Salaspils"
+      code: "087"
+      iso3166_2: "LV-087"
+      type: "municipality"
+      latitude: 56.8608152
+      longitude: 24.3497881
+      cities:
+        -
+          name: "Salaspils"
+          latitude: 56.86014
+          longitude: 24.36544
+    -
+      name: "Saldus"
+      code: "088"
+      iso3166_2: "LV-088"
+      type: "municipality"
+      latitude: 56.6665088
+      longitude: 22.4935493
+      cities:
+        -
+          name: "Brocēni"
+          latitude: 56.6789
+          longitude: 22.56945
+        -
+          name: "Saldus"
+          latitude: 56.66363
+          longitude: 22.48807
+    -
+      name: "Saulkrasti"
+      code: "089"
+      iso3166_2: "LV-089"
+      type: "municipality"
+      latitude: 57.2579418
+      longitude: 24.4183146
+      cities:
+        -
+          name: "Saulkrasti"
+          latitude: 57.26224
+          longitude: 24.41471
+    -
+      name: "Sigulda"
+      code: "091"
+      iso3166_2: "LV-091"
+      type: "municipality"
+      latitude: 57.1540561
+      longitude: 24.8567141
+      cities:
+        -
+          name: "Inčukalns"
+          latitude: 57.09867
+          longitude: 24.6863
+        -
+          name: "Mālpils"
+          latitude: 57.0101
+          longitude: 24.95783
+        -
+          name: "Sigulda"
+          latitude: 57.15375
+          longitude: 24.85953
+    -
+      name: "Smiltene"
+      code: "094"
+      iso3166_2: "LV-094"
+      type: "municipality"
+      latitude: 57.4230332
+      longitude: 25.900278
+      cities:
+        -
+          name: "Ape"
+          latitude: 57.53928
+          longitude: 26.69291
+        -
+          name: "Rauna"
+          latitude: 57.33173
+          longitude: 25.60947
+        -
+          name: "Smiltene"
+          latitude: 57.42444
+          longitude: 25.90164
+    -
+      name: "Talsi"
+      code: "097"
+      iso3166_2: "LV-097"
+      type: "municipality"
+      latitude: 57.2451926
+      longitude: 22.5903003
+      cities:
+        -
+          name: "Dundaga"
+          latitude: 57.50498
+          longitude: 22.35041
+        -
+          name: "Roja"
+          latitude: 57.50146
+          longitude: 22.80881
+        -
+          name: "Sabile"
+          latitude: 57.04577
+          longitude: 22.57261
+        -
+          name: "Stende"
+          latitude: 57.14497
+          longitude: 22.53482
+        -
+          name: "Talsi"
+          latitude: 57.24562
+          longitude: 22.58137
+        -
+          name: "Valdemārpils"
+          latitude: 57.37068
+          longitude: 22.59188
+    -
+      name: "Tukums"
+      code: "099"
+      iso3166_2: "LV-099"
+      type: "municipality"
+      latitude: 56.9672868
+      longitude: 23.1524379
+      cities:
+        -
+          name: "Engure"
+          latitude: 57.16061
+          longitude: 23.22527
+        -
+          name: "Jaunpils"
+          latitude: 56.73137
+          longitude: 23.01247
+        -
+          name: "Kandava"
+          latitude: 57.04087
+          longitude: 22.77466
+        -
+          name: "Smārde"
+          latitude: 56.9542
+          longitude: 23.33736
+        -
+          name: "Tukums"
+          latitude: 56.96764
+          longitude: 23.15554
+    -
+      name: "Valka"
+      code: "101"
+      iso3166_2: "LV-101"
+      type: "municipality"
+      latitude: 57.77439
+      longitude: 26.017005
+      cities:
+        -
+          name: "Valka"
+          latitude: 57.7752
+          longitude: 26.01013
+    -
+      name: "Valmiera"
+      code: "113"
+      iso3166_2: "LV-113"
+      type: "municipality"
+      latitude: 57.5384659
+      longitude: 25.4263618
+      cities:
+        -
+          name: "Kocēni"
+          latitude: 57.52057
+          longitude: 25.33821
+        -
+          name: "Mazsalaca"
+          latitude: 57.86329
+          longitude: 25.05475
+        -
+          name: "Mūrmuiža"
+          latitude: 57.47312
+          longitude: 25.49174
+        -
+          name: "Naukšēni"
+          latitude: 57.88349
+          longitude: 25.45609
+        -
+          name: "Rūjiena"
+          latitude: 57.89752
+          longitude: 25.33155
+        -
+          name: "Seda"
+          latitude: 57.65042
+          longitude: 25.75089
+        -
+          name: "Strenči"
+          latitude: 57.62574
+          longitude: 25.68535
+        -
+          name: "Valmiera"
+          latitude: 57.54108
+          longitude: 25.42751
+    -
+      name: "Varakļāni"
+      code: "102"
+      iso3166_2: "LV-102"
+      type: "municipality"
+      latitude: 56.6088743
+      longitude: 26.7539093
+      cities:
+        -
+          name: "Varakļāni"
+          latitude: 56.60826
+          longitude: 26.75377
+    -
+      name: "Ventspils"
+      code: "VEN"
+      iso3166_2: "LV-VEN"
+      type: "state city"
+      latitude: 57.3903918
+      longitude: 21.5635991
+      cities:
+        -
+          name: "Ventspils"
+          latitude: 57.38988
+          longitude: 21.57288
+    -
+      name: "Ventspils"
+      code: "106"
+      iso3166_2: "LV-106"
+      type: "municipality"
+      latitude: 57.3903918
+      longitude: 21.5635991
+      cities:
+        -
+          name: "Piltene"
+          latitude: 57.22426
+          longitude: 21.67439

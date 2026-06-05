@@ -1,0 +1,175 @@
+-
+  name: "Faroe Islands"
+  name_es: "Islas Faroe"
+  native: "Føroyar"
+  iso2: "FO"
+  iso3: "FRO"
+  numeric_code: "234"
+  phonecode: "298"
+  capital: "Torshavn"
+  currency: "DKK"
+  currency_name: "Danish krone"
+  currency_symbol: "Kr."
+  tld: ".fo"
+  region: "Europe"
+  subregion: "Northern Europe"
+  latitude: 62
+  longitude: -7
+  emoji: "🇫🇴"
+  states:
+    -
+      name: "Eysturoy"
+      code: "EY"
+      iso3166_2: "FO-EY"
+      type: "region"
+      latitude: 62.1988704
+      longitude: -6.8178451
+      cities:
+        -
+          name: "Eiði"
+          latitude: 62.2789
+          longitude: -7.0123
+        -
+          name: "Eystur"
+          latitude: 62.1567
+          longitude: -6.8233
+        -
+          name: "Fuglafjørður"
+          latitude: 62.2101
+          longitude: -6.8123
+        -
+          name: "Nes"
+          latitude: 62.0987
+          longitude: -6.7654
+        -
+          name: "Runavík"
+          latitude: 62.1323
+          longitude: -6.789
+        -
+          name: "Sjóvar"
+          latitude: 62.1234
+          longitude: -6.8765
+    -
+      name: "Northern Isles"
+      code: "NO"
+      iso3166_2: "FO-NO"
+      type: "region"
+      latitude: 62.2805689
+      longitude: 6.7017061
+      cities:
+        -
+          name: "Hvannasund"
+          latitude: 62.3456
+          longitude: -6.789
+        -
+          name: "Klaksvík"
+          latitude: 62.221
+          longitude: -6.58
+        -
+          name: "Kunoy"
+          latitude: 62.3456
+          longitude: -6.8901
+    -
+      name: "Sandoy"
+      code: "SA"
+      iso3166_2: "FO-SA"
+      type: "region"
+      latitude: 61.8333877
+      longitude: -6.7239899
+      cities:
+        -
+          name: "Húsavík"
+          latitude: 61.8096495
+          longitude: -6.6794956
+        -
+          name: "Sandur"
+          latitude: 61.8348155
+          longitude: -6.8175826
+        -
+          name: "Skálavík"
+          latitude: 61.8302676
+          longitude: -6.664032
+        -
+          name: "Skopun"
+          latitude: 62.0123
+          longitude: -6.9876
+        -
+          name: "Skúvoy"
+          latitude: 61.7664432
+          longitude: -6.826962
+    -
+      name: "Streymoy"
+      code: "ST"
+      iso3166_2: "FO-ST"
+      type: "region"
+      latitude: 62.1237192
+      longitude: -7.0158828
+      cities:
+        -
+          name: "Kvívík"
+          latitude: 62.1456
+          longitude: -7.2098
+        -
+          name: "Sunda"
+          latitude: 62.1345
+          longitude: -7.0987
+        -
+          name: "Tórshavn"
+          latitude: 62
+          longitude: -7
+        -
+          name: "Vestmanna"
+          latitude: 62.1567
+          longitude: -7.2345
+    -
+      name: "Suðuroy"
+      code: "SU"
+      iso3166_2: "FO-SU"
+      type: "region"
+      latitude: 61.5210651
+      longitude: -6.8141866
+      cities:
+        -
+          name: "Fámjin"
+          latitude: 61.5246866
+          longitude: -6.8792705
+        -
+          name: "Hov"
+          latitude: 61.5069357
+          longitude: -6.7557422
+        -
+          name: "Hvalba"
+          latitude: 61.5987
+          longitude: -6.9876
+        -
+          name: "Porkeri"
+          latitude: 61.5432
+          longitude: -6.9876
+        -
+          name: "Sumba"
+          latitude: 61.4033267
+          longitude: -6.7117361
+        -
+          name: "Tvøroyri"
+          latitude: 61.5623
+          longitude: -6.778
+        -
+          name: "Vágur"
+          latitude: 61.4789
+          longitude: -6.8101
+    -
+      name: "Vágar"
+      code: "VA"
+      iso3166_2: "FO-VA"
+      type: "region"
+      latitude: 62.0898985
+      longitude: -7.2345841
+      cities:
+        -
+          name: "Sørvágur"
+          latitude: 62.0654
+          longitude: -7.3787
+        -
+          name: "Vágar"
+          latitude: 62.0667
+          longitude: -7.1

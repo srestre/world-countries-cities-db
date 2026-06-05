@@ -1,0 +1,1630 @@
+-
+  name: "Uganda"
+  name_es: "Uganda"
+  native: "Uganda"
+  iso2: "UG"
+  iso3: "UGA"
+  numeric_code: "800"
+  phonecode: "256"
+  capital: "Kampala"
+  currency: "UGX"
+  currency_name: "Ugandan shilling"
+  currency_symbol: "USh"
+  tld: ".ug"
+  region: "Africa"
+  subregion: "Eastern Africa"
+  latitude: 1
+  longitude: 32
+  emoji: "🇺🇬"
+  states:
+    -
+      name: "Abim"
+      code: "314"
+      iso3166_2: "UG-314"
+      type: "district"
+      latitude: 2.8047503
+      longitude: 33.750977
+      cities:
+        []
+    -
+      name: "Adjumani"
+      code: "301"
+      iso3166_2: "UG-301"
+      type: "district"
+      latitude: 3.237128
+      longitude: 31.7858246
+      cities:
+        []
+    -
+      name: "Agago"
+      code: "322"
+      iso3166_2: "UG-322"
+      type: "district"
+      latitude: 2.9476598
+      longitude: 33.3861057
+      cities:
+        []
+    -
+      name: "Alebtong"
+      code: "323"
+      iso3166_2: "UG-323"
+      type: "district"
+      latitude: 2.2674065
+      longitude: 33.3200226
+      cities:
+        []
+    -
+      name: "Amolatar"
+      code: "315"
+      iso3166_2: "UG-315"
+      type: "district"
+      latitude: 1.6374596
+      longitude: 32.6328229
+      cities:
+        []
+    -
+      name: "Amudat"
+      code: "324"
+      iso3166_2: "UG-324"
+      type: "district"
+      latitude: 1.8261958
+      longitude: 34.9312698
+      cities:
+        []
+    -
+      name: "Amuria"
+      code: "216"
+      iso3166_2: "UG-216"
+      type: "district"
+      latitude: 1.9819077
+      longitude: 33.6574719
+      cities:
+        []
+    -
+      name: "Amuru"
+      code: "316"
+      iso3166_2: "UG-316"
+      type: "district"
+      latitude: 3.1288655
+      longitude: 32.1024833
+      cities:
+        []
+    -
+      name: "Apac"
+      code: "302"
+      iso3166_2: "UG-302"
+      type: "district"
+      latitude: 1.9337258
+      longitude: 32.5018028
+      cities:
+        []
+    -
+      name: "Arua"
+      code: "303"
+      iso3166_2: "UG-303"
+      type: "district"
+      latitude: 3.0014096
+      longitude: 31.0093527
+      cities:
+        []
+    -
+      name: "Budaka"
+      code: "217"
+      iso3166_2: "UG-217"
+      type: "district"
+      latitude: 1.065819
+      longitude: 34.0208931
+      cities:
+        []
+    -
+      name: "Bududa"
+      code: "218"
+      iso3166_2: "UG-218"
+      type: "district"
+      latitude: 1.0271813
+      longitude: 34.3907845
+      cities:
+        []
+    -
+      name: "Bugiri"
+      code: "201"
+      iso3166_2: "UG-201"
+      type: "district"
+      latitude: 0.520721
+      longitude: 33.7750698
+      cities:
+        []
+    -
+      name: "Bugweri"
+      code: "235"
+      iso3166_2: "UG-235"
+      type: "district"
+      latitude: 0.6242564
+      longitude: 33.6154383
+      cities:
+        []
+    -
+      name: "Buhweju"
+      code: "420"
+      iso3166_2: "UG-420"
+      type: "district"
+      latitude: -0.3203212
+      longitude: 30.3162054
+      cities:
+        []
+    -
+      name: "Buikwe"
+      code: "117"
+      iso3166_2: "UG-117"
+      type: "district"
+      latitude: 0.3405774
+      longitude: 33.0107728
+      cities:
+        []
+    -
+      name: "Bukedea"
+      code: "219"
+      iso3166_2: "UG-219"
+      type: "district"
+      latitude: 1.3707048
+      longitude: 34.1424762
+      cities:
+        []
+    -
+      name: "Bukomansimbi"
+      code: "118"
+      iso3166_2: "UG-118"
+      type: "district"
+      latitude: -0.1268703
+      longitude: 31.6225952
+      cities:
+        []
+    -
+      name: "Bukwo"
+      code: "220"
+      iso3166_2: "UG-220"
+      type: "district"
+      latitude: 1.2549848
+      longitude: 34.6924324
+      cities:
+        []
+    -
+      name: "Bulambuli"
+      code: "225"
+      iso3166_2: "UG-225"
+      type: "district"
+      latitude: 1.3494989
+      longitude: 34.2760949
+      cities:
+        []
+    -
+      name: "Buliisa"
+      code: "416"
+      iso3166_2: "UG-416"
+      type: "district"
+      latitude: 1.9228563
+      longitude: 31.3917565
+      cities:
+        []
+    -
+      name: "Bundibugyo"
+      code: "401"
+      iso3166_2: "UG-401"
+      type: "district"
+      latitude: 0.6605936
+      longitude: 30.0431008
+      cities:
+        []
+    -
+      name: "Bunyangabu"
+      code: "430"
+      iso3166_2: "UG-430"
+      type: "district"
+      latitude: 0.4870918
+      longitude: 30.2051096
+      cities:
+        []
+    -
+      name: "Bushenyi"
+      code: "402"
+      iso3166_2: "UG-402"
+      type: "district"
+      latitude: -0.4818132
+      longitude: 30.1686851
+      cities:
+        []
+    -
+      name: "Busia"
+      code: "202"
+      iso3166_2: "UG-202"
+      type: "district"
+      latitude: 0.3917103
+      longitude: 34.0160135
+      cities:
+        []
+    -
+      name: "Butaleja"
+      code: "221"
+      iso3166_2: "UG-221"
+      type: "district"
+      latitude: 0.8612477
+      longitude: 33.8779637
+      cities:
+        []
+    -
+      name: "Butambala"
+      code: "119"
+      iso3166_2: "UG-119"
+      type: "district"
+      latitude: 0.1642653
+      longitude: 32.1352371
+      cities:
+        []
+    -
+      name: "Butebo"
+      code: "233"
+      iso3166_2: "UG-233"
+      type: "district"
+      latitude: 1.1923861
+      longitude: 33.8904092
+      cities:
+        []
+    -
+      name: "Buvuma"
+      code: "120"
+      iso3166_2: "UG-120"
+      type: "district"
+      latitude: -0.3113927
+      longitude: 33.197806
+      cities:
+        []
+    -
+      name: "Buyende"
+      code: "226"
+      iso3166_2: "UG-226"
+      type: "district"
+      latitude: 1.235238
+      longitude: 33.1703533
+      cities:
+        []
+    -
+      name: "Central"
+      code: "C"
+      iso3166_2: "UG-C"
+      type: "region"
+      latitude: 2.2338712
+      longitude: 32.9042139
+      cities:
+        -
+          name: "Bukomansimbi"
+          latitude: -0.12855
+          longitude: 31.62527
+        -
+          name: "Buvuma"
+          latitude: -0.36744
+          longitude: 33.20071
+        -
+          name: "Bweyogerere"
+          latitude: 0.35773
+          longitude: 32.66332
+        -
+          name: "Byakabanda"
+          latitude: -0.7425
+          longitude: 31.40639
+        -
+          name: "Entebbe"
+          latitude: 0.05621
+          longitude: 32.47949
+        -
+          name: "Gomba"
+          latitude: 0.20017
+          longitude: 31.75023
+        -
+          name: "Kajansi"
+          latitude: 0.21548
+          longitude: 32.53453
+        -
+          name: "Kampala"
+          latitude: 0.31628
+          longitude: 32.58219
+        -
+          name: "Kampala District"
+          latitude: 0.33508
+          longitude: 32.58313
+        -
+          name: "Kanoni"
+          latitude: 0.17722
+          longitude: 31.88111
+        -
+          name: "Kayunga"
+          latitude: 0.7025
+          longitude: 32.88861
+        -
+          name: "Kiboga"
+          latitude: 0.91611
+          longitude: 31.77417
+        -
+          name: "Kireka"
+          latitude: 0.3475
+          longitude: 32.64917
+        -
+          name: "Kyotera"
+          latitude: -0.61556
+          longitude: 31.5175
+        -
+          name: "Lugazi"
+          latitude: 0.36788
+          longitude: 32.9376
+        -
+          name: "Luwero"
+          latitude: 0.84917
+          longitude: 32.47306
+        -
+          name: "Lyantonde"
+          latitude: -0.40306
+          longitude: 31.15722
+        -
+          name: "Masaka"
+          latitude: -0.33379
+          longitude: 31.73409
+        -
+          name: "Mityana"
+          latitude: 0.4175
+          longitude: 32.02278
+        -
+          name: "Mpigi"
+          latitude: 0.225
+          longitude: 32.31361
+        -
+          name: "Mubende"
+          latitude: 0.55849
+          longitude: 31.39489
+        -
+          name: "Mubende District"
+          latitude: 0.5
+          longitude: 31.5
+        -
+          name: "Mukono"
+          latitude: 0.35333
+          longitude: 32.75528
+        -
+          name: "Nakasongola"
+          latitude: 1.30889
+          longitude: 32.45639
+        -
+          name: "Namasuba"
+          latitude: 0.68944
+          longitude: 32.42139
+        -
+          name: "Njeru"
+          latitude: 0.44166
+          longitude: 33.17917
+        -
+          name: "Sembabule"
+          latitude: -0.07722
+          longitude: 31.45667
+        -
+          name: "Wakiso"
+          latitude: 0.40444
+          longitude: 32.45944
+        -
+          name: "Wakiso District"
+          latitude: 0.23763
+          longitude: 32.47836
+        -
+          name: "Wobulenzi"
+          latitude: 0.72833
+          longitude: 32.51222
+    -
+      name: "Dokolo"
+      code: "317"
+      iso3166_2: "UG-317"
+      type: "district"
+      latitude: 1.9100822
+      longitude: 33.0796335
+      cities:
+        []
+    -
+      name: "Eastern"
+      code: "E"
+      iso3166_2: "UG-E"
+      type: "region"
+      latitude: 0.42323
+      longitude: 33.1712651
+      cities:
+        -
+          name: "Bugembe"
+          latitude: 0.48213
+          longitude: 33.24065
+        -
+          name: "Bugiri"
+          latitude: 0.57139
+          longitude: 33.74167
+        -
+          name: "Bukwa"
+          latitude: 1.27115
+          longitude: 34.66778
+        -
+          name: "Bulambuli"
+          latitude: 1.32055
+          longitude: 34.28062
+        -
+          name: "Busembatia"
+          latitude: 0.77725
+          longitude: 33.62364
+        -
+          name: "Busia"
+          latitude: 0.46588
+          longitude: 34.09221
+        -
+          name: "Buwenge"
+          latitude: 0.64996
+          longitude: 33.17128
+        -
+          name: "Iganga"
+          latitude: 0.60917
+          longitude: 33.46861
+        -
+          name: "Jinja"
+          latitude: 0.43902
+          longitude: 33.20317
+        -
+          name: "Kamuli"
+          latitude: 0.94722
+          longitude: 33.11972
+        -
+          name: "Kapchorwa"
+          latitude: 1.40096
+          longitude: 34.45038
+        -
+          name: "Kibuku"
+          latitude: 1.05
+          longitude: 33.80879
+        -
+          name: "Kumi"
+          latitude: 1.46083
+          longitude: 33.93611
+        -
+          name: "Mayuge"
+          latitude: 0.45972
+          longitude: 33.48028
+        -
+          name: "Mbale"
+          latitude: 1.08209
+          longitude: 34.17503
+        -
+          name: "Pallisa"
+          latitude: 1.145
+          longitude: 33.70944
+        -
+          name: "Sironko"
+          latitude: 1.23132
+          longitude: 34.24773
+        -
+          name: "Soroti"
+          latitude: 1.71464
+          longitude: 33.61113
+        -
+          name: "Tororo"
+          latitude: 0.69299
+          longitude: 34.18085
+    -
+      name: "Gomba"
+      code: "121"
+      iso3166_2: "UG-121"
+      type: "district"
+      latitude: 0.2042663
+      longitude: 31.7291772
+      cities:
+        []
+    -
+      name: "Gulu"
+      code: "304"
+      iso3166_2: "UG-304"
+      type: "district"
+      latitude: 2.770239
+      longitude: 32.3044273
+      cities:
+        []
+    -
+      name: "Hoima"
+      code: "403"
+      iso3166_2: "UG-403"
+      type: "district"
+      latitude: 1.5661927
+      longitude: 31.1480968
+      cities:
+        []
+    -
+      name: "Ibanda"
+      code: "417"
+      iso3166_2: "UG-417"
+      type: "district"
+      latitude: -0.0612183
+      longitude: 30.491616
+      cities:
+        []
+    -
+      name: "Iganga"
+      code: "203"
+      iso3166_2: "UG-203"
+      type: "district"
+      latitude: 0.7221911
+      longitude: 33.5016935
+      cities:
+        []
+    -
+      name: "Isingiro"
+      code: "418"
+      iso3166_2: "UG-418"
+      type: "district"
+      latitude: -0.8388695
+      longitude: 30.9356559
+      cities:
+        []
+    -
+      name: "Jinja"
+      code: "204"
+      iso3166_2: "UG-204"
+      type: "district"
+      latitude: 0.5751567
+      longitude: 33.2805299
+      cities:
+        []
+    -
+      name: "Kaabong"
+      code: "318"
+      iso3166_2: "UG-318"
+      type: "district"
+      latitude: 3.6582061
+      longitude: 34.2111234
+      cities:
+        []
+    -
+      name: "Kabale"
+      code: "404"
+      iso3166_2: "UG-404"
+      type: "district"
+      latitude: -1.3359667
+      longitude: 30.036886
+      cities:
+        []
+    -
+      name: "Kabarole"
+      code: "405"
+      iso3166_2: "UG-405"
+      type: "district"
+      latitude: 0.6212492
+      longitude: 30.3525447
+      cities:
+        []
+    -
+      name: "Kaberamaido"
+      code: "213"
+      iso3166_2: "UG-213"
+      type: "district"
+      latitude: 1.6879674
+      longitude: 33.1174888
+      cities:
+        []
+    -
+      name: "Kagadi"
+      code: "427"
+      iso3166_2: "UG-427"
+      type: "district"
+      latitude: 1.0229772
+      longitude: 30.8330891
+      cities:
+        []
+    -
+      name: "Kakumiro"
+      code: "428"
+      iso3166_2: "UG-428"
+      type: "district"
+      latitude: 0.9624932
+      longitude: 31.2903789
+      cities:
+        []
+    -
+      name: "Kalaki"
+      code: "237"
+      iso3166_2: "UG-237"
+      type: "district"
+      latitude: 1.8327164
+      longitude: 33.3540448
+      cities:
+        []
+    -
+      name: "Kalangala"
+      code: "101"
+      iso3166_2: "UG-101"
+      type: "district"
+      latitude: -0.6141908
+      longitude: 32.375565
+      cities:
+        []
+    -
+      name: "Kaliro"
+      code: "222"
+      iso3166_2: "UG-222"
+      type: "district"
+      latitude: 1.0833677
+      longitude: 33.4822171
+      cities:
+        []
+    -
+      name: "Kalungu"
+      code: "122"
+      iso3166_2: "UG-122"
+      type: "district"
+      latitude: -0.0913131
+      longitude: 31.8106465
+      cities:
+        []
+    -
+      name: "Kampala"
+      code: "102"
+      iso3166_2: "UG-102"
+      type: "city"
+      latitude: 0.3177137
+      longitude: 32.5813539
+      cities:
+        []
+    -
+      name: "Kamuli"
+      code: "205"
+      iso3166_2: "UG-205"
+      type: "district"
+      latitude: 0.9422474
+      longitude: 33.1263004
+      cities:
+        []
+    -
+      name: "Kamwenge"
+      code: "413"
+      iso3166_2: "UG-413"
+      type: "district"
+      latitude: 0.3373317
+      longitude: 30.6150555
+      cities:
+        []
+    -
+      name: "Kanungu"
+      code: "414"
+      iso3166_2: "UG-414"
+      type: "district"
+      latitude: -0.7063914
+      longitude: 29.7142907
+      cities:
+        []
+    -
+      name: "Kapchorwa"
+      code: "206"
+      iso3166_2: "UG-206"
+      type: "district"
+      latitude: 1.3350205
+      longitude: 34.3976356
+      cities:
+        []
+    -
+      name: "Kapelebyong"
+      code: "236"
+      iso3166_2: "UG-236"
+      type: "district"
+      latitude: 2.197082
+      longitude: 33.7772633
+      cities:
+        []
+    -
+      name: "Karenga"
+      code: "335"
+      iso3166_2: "UG-335"
+      type: "district"
+      latitude: 3.7095683
+      longitude: 33.7716832
+      cities:
+        []
+    -
+      name: "Kasanda"
+      code: "126"
+      iso3166_2: "UG-126"
+      type: "district"
+      latitude: 0.556667
+      longitude: 31.802222
+      cities:
+        []
+    -
+      name: "Kasese"
+      code: "406"
+      iso3166_2: "UG-406"
+      type: "district"
+      latitude: 0.1310412
+      longitude: 30.0047968
+      cities:
+        []
+    -
+      name: "Katakwi"
+      code: "207"
+      iso3166_2: "UG-207"
+      type: "district"
+      latitude: 1.973103
+      longitude: 34.0641419
+      cities:
+        []
+    -
+      name: "Kayunga"
+      code: "112"
+      iso3166_2: "UG-112"
+      type: "district"
+      latitude: 0.9860182
+      longitude: 32.8535755
+      cities:
+        []
+    -
+      name: "Kazo"
+      code: "433"
+      iso3166_2: "UG-433"
+      type: "district"
+      latitude: 0.0256055
+      longitude: 30.77762
+      cities:
+        []
+    -
+      name: "Kibaale"
+      code: "407"
+      iso3166_2: "UG-407"
+      type: "district"
+      latitude: 0.790833
+      longitude: 31.063333
+      cities:
+        []
+    -
+      name: "Kiboga"
+      code: "103"
+      iso3166_2: "UG-103"
+      type: "district"
+      latitude: 0.9148518
+      longitude: 31.7508958
+      cities:
+        []
+    -
+      name: "Kibuku"
+      code: "227"
+      iso3166_2: "UG-227"
+      type: "district"
+      latitude: 1.0573754
+      longitude: 33.8056152
+      cities:
+        []
+    -
+      name: "Kikuube"
+      code: "432"
+      iso3166_2: "UG-432"
+      type: "district"
+      latitude: 1.3102875
+      longitude: 31.0001724
+      cities:
+        []
+    -
+      name: "Kiruhura"
+      code: "419"
+      iso3166_2: "UG-419"
+      type: "district"
+      latitude: -0.3250908
+      longitude: 30.8734599
+      cities:
+        []
+    -
+      name: "Kiryandongo"
+      code: "421"
+      iso3166_2: "UG-421"
+      type: "district"
+      latitude: 1.9935799
+      longitude: 32.0498179
+      cities:
+        []
+    -
+      name: "Kisoro"
+      code: "408"
+      iso3166_2: "UG-408"
+      type: "district"
+      latitude: -1.1989612
+      longitude: 29.6716975
+      cities:
+        []
+    -
+      name: "Kitagwenda"
+      code: "434"
+      iso3166_2: "UG-434"
+      type: "district"
+      latitude: 0.0136653
+      longitude: 30.3217908
+      cities:
+        []
+    -
+      name: "Kitgum"
+      code: "305"
+      iso3166_2: "UG-305"
+      type: "district"
+      latitude: 3.4438845
+      longitude: 33.4841172
+      cities:
+        []
+    -
+      name: "Koboko"
+      code: "319"
+      iso3166_2: "UG-319"
+      type: "district"
+      latitude: 3.5351114
+      longitude: 30.9848207
+      cities:
+        []
+    -
+      name: "Kole"
+      code: "325"
+      iso3166_2: "UG-325"
+      type: "district"
+      latitude: 2.2988158
+      longitude: 32.7359522
+      cities:
+        []
+    -
+      name: "Kotido"
+      code: "306"
+      iso3166_2: "UG-306"
+      type: "district"
+      latitude: 2.9951839
+      longitude: 34.0342128
+      cities:
+        []
+    -
+      name: "Kumi"
+      code: "208"
+      iso3166_2: "UG-208"
+      type: "district"
+      latitude: 1.4565401
+      longitude: 33.9219127
+      cities:
+        []
+    -
+      name: "Kwania"
+      code: "333"
+      iso3166_2: "UG-333"
+      type: "district"
+      latitude: 1.9005531
+      longitude: 32.7741986
+      cities:
+        []
+    -
+      name: "Kween"
+      code: "228"
+      iso3166_2: "UG-228"
+      type: "district"
+      latitude: 1.3516649
+      longitude: 34.5635807
+      cities:
+        []
+    -
+      name: "Kyankwanzi"
+      code: "123"
+      iso3166_2: "UG-123"
+      type: "district"
+      latitude: 1.093347
+      longitude: 31.6813924
+      cities:
+        []
+    -
+      name: "Kyegegwa"
+      code: "422"
+      iso3166_2: "UG-422"
+      type: "district"
+      latitude: 0.4822132
+      longitude: 31.0002048
+      cities:
+        []
+    -
+      name: "Kyenjojo"
+      code: "415"
+      iso3166_2: "UG-415"
+      type: "district"
+      latitude: 0.6440978
+      longitude: 30.6565118
+      cities:
+        []
+    -
+      name: "Kyotera"
+      code: "125"
+      iso3166_2: "UG-125"
+      type: "district"
+      latitude: -0.7144702
+      longitude: 31.6222137
+      cities:
+        []
+    -
+      name: "Lamwo"
+      code: "326"
+      iso3166_2: "UG-326"
+      type: "district"
+      latitude: 3.5248125
+      longitude: 32.6576273
+      cities:
+        []
+    -
+      name: "Lira"
+      code: "307"
+      iso3166_2: "UG-307"
+      type: "district"
+      latitude: 2.2456918
+      longitude: 32.896244
+      cities:
+        []
+    -
+      name: "Luuka"
+      code: "229"
+      iso3166_2: "UG-229"
+      type: "district"
+      latitude: 0.8199341
+      longitude: 33.3268941
+      cities:
+        []
+    -
+      name: "Luwero"
+      code: "104"
+      iso3166_2: "UG-104"
+      type: "district"
+      latitude: 0.8409356
+      longitude: 32.4935273
+      cities:
+        []
+    -
+      name: "Lwengo"
+      code: "124"
+      iso3166_2: "UG-124"
+      type: "district"
+      latitude: -0.4441181
+      longitude: 31.3990187
+      cities:
+        []
+    -
+      name: "Lyantonde"
+      code: "114"
+      iso3166_2: "UG-114"
+      type: "district"
+      latitude: -0.2595983
+      longitude: 31.1836376
+      cities:
+        []
+    -
+      name: "Madi-Okollo"
+      code: "336"
+      iso3166_2: "UG-336"
+      type: "district"
+      latitude: 2.8674511
+      longitude: 31.2383088
+      cities:
+        []
+    -
+      name: "Manafwa"
+      code: "223"
+      iso3166_2: "UG-223"
+      type: "district"
+      latitude: 0.8813468
+      longitude: 34.2695507
+      cities:
+        []
+    -
+      name: "Maracha"
+      code: "320"
+      iso3166_2: "UG-320"
+      type: "district"
+      latitude: 3.2478417
+      longitude: 30.9279148
+      cities:
+        []
+    -
+      name: "Masaka"
+      code: "105"
+      iso3166_2: "UG-105"
+      type: "district"
+      latitude: -0.483142
+      longitude: 31.8318895
+      cities:
+        []
+    -
+      name: "Masindi"
+      code: "409"
+      iso3166_2: "UG-409"
+      type: "district"
+      latitude: 1.6917534
+      longitude: 31.7737524
+      cities:
+        []
+    -
+      name: "Mayuge"
+      code: "214"
+      iso3166_2: "UG-214"
+      type: "district"
+      latitude: -0.2058293
+      longitude: 33.5894376
+      cities:
+        []
+    -
+      name: "Mbale"
+      code: "209"
+      iso3166_2: "UG-209"
+      type: "district"
+      latitude: 0.9765705
+      longitude: 34.2021869
+      cities:
+        []
+    -
+      name: "Mbarara"
+      code: "410"
+      iso3166_2: "UG-410"
+      type: "district"
+      latitude: -0.6071596
+      longitude: 30.6545022
+      cities:
+        []
+    -
+      name: "Mitooma"
+      code: "423"
+      iso3166_2: "UG-423"
+      type: "district"
+      latitude: -0.6059464
+      longitude: 30.0077345
+      cities:
+        []
+    -
+      name: "Mityana"
+      code: "115"
+      iso3166_2: "UG-115"
+      type: "district"
+      latitude: 0.4560686
+      longitude: 32.0768024
+      cities:
+        []
+    -
+      name: "Moroto"
+      code: "308"
+      iso3166_2: "UG-308"
+      type: "district"
+      latitude: 2.6156454
+      longitude: 34.6399817
+      cities:
+        []
+    -
+      name: "Moyo"
+      code: "309"
+      iso3166_2: "UG-309"
+      type: "district"
+      latitude: 3.6664665
+      longitude: 31.7579511
+      cities:
+        []
+    -
+      name: "Mpigi"
+      code: "106"
+      iso3166_2: "UG-106"
+      type: "district"
+      latitude: 0.1273955
+      longitude: 32.2527517
+      cities:
+        []
+    -
+      name: "Mubende"
+      code: "107"
+      iso3166_2: "UG-107"
+      type: "district"
+      latitude: 0.5154279
+      longitude: 31.4095476
+      cities:
+        []
+    -
+      name: "Mukono"
+      code: "108"
+      iso3166_2: "UG-108"
+      type: "district"
+      latitude: 0.3608991
+      longitude: 32.7446599
+      cities:
+        []
+    -
+      name: "Nabilatuk"
+      code: "334"
+      iso3166_2: "UG-334"
+      type: "district"
+      latitude: 2.0383666
+      longitude: 34.5847125
+      cities:
+        []
+    -
+      name: "Nakapiripirit"
+      code: "311"
+      iso3166_2: "UG-311"
+      type: "district"
+      latitude: 1.8489913
+      longitude: 34.6425478
+      cities:
+        []
+    -
+      name: "Nakaseke"
+      code: "116"
+      iso3166_2: "UG-116"
+      type: "district"
+      latitude: 1.0022373
+      longitude: 32.1758087
+      cities:
+        []
+    -
+      name: "Nakasongola"
+      code: "109"
+      iso3166_2: "UG-109"
+      type: "district"
+      latitude: 1.3204358
+      longitude: 32.4894347
+      cities:
+        []
+    -
+      name: "Namayingo"
+      code: "230"
+      iso3166_2: "UG-230"
+      type: "district"
+      latitude: -0.2478787
+      longitude: 33.8114802
+      cities:
+        []
+    -
+      name: "Namisindwa"
+      code: "234"
+      iso3166_2: "UG-234"
+      type: "district"
+      latitude: 0.8678396
+      longitude: 34.3831407
+      cities:
+        []
+    -
+      name: "Namutumba"
+      code: "224"
+      iso3166_2: "UG-224"
+      type: "district"
+      latitude: 0.8869852
+      longitude: 33.6653494
+      cities:
+        []
+    -
+      name: "Napak"
+      code: "327"
+      iso3166_2: "UG-327"
+      type: "district"
+      latitude: 2.3981727
+      longitude: 34.1718785
+      cities:
+        []
+    -
+      name: "Nebbi"
+      code: "310"
+      iso3166_2: "UG-310"
+      type: "district"
+      latitude: 2.4329406
+      longitude: 31.1619888
+      cities:
+        []
+    -
+      name: "Ngora"
+      code: "231"
+      iso3166_2: "UG-231"
+      type: "district"
+      latitude: 1.4988837
+      longitude: 33.7729298
+      cities:
+        []
+    -
+      name: "Northern"
+      code: "N"
+      iso3166_2: "UG-N"
+      type: "region"
+      latitude: 2.797198
+      longitude: 32.2643949
+      cities:
+        -
+          name: "Adjumani"
+          latitude: 3.37786
+          longitude: 31.7909
+        -
+          name: "Amudat"
+          latitude: 1.95
+          longitude: 34.95
+        -
+          name: "Apac"
+          latitude: 1.97556
+          longitude: 32.53861
+        -
+          name: "Arua"
+          latitude: 3.02013
+          longitude: 30.91105
+        -
+          name: "Gulu"
+          latitude: 2.77457
+          longitude: 32.29899
+        -
+          name: "Kitgum"
+          latitude: 3.27833
+          longitude: 32.88667
+        -
+          name: "Kotido"
+          latitude: 2.98056
+          longitude: 34.13306
+        -
+          name: "Lira"
+          latitude: 2.2499
+          longitude: 32.89985
+        -
+          name: "Moroto"
+          latitude: 2.53453
+          longitude: 34.66659
+        -
+          name: "Moyo"
+          latitude: 3.66088
+          longitude: 31.72474
+        -
+          name: "Nebbi"
+          latitude: 2.47826
+          longitude: 31.08893
+        -
+          name: "Otuke"
+          latitude: 2.48372
+          longitude: 33.34201
+        -
+          name: "Oyam"
+          latitude: 2.38129
+          longitude: 32.50071
+        -
+          name: "Pader"
+          latitude: 3.05
+          longitude: 33.21667
+        -
+          name: "Pader Palwo"
+          latitude: 2.80056
+          longitude: 33.135
+        -
+          name: "Paidha"
+          latitude: 2.41669
+          longitude: 30.98551
+        -
+          name: "Yumbe"
+          latitude: 3.46506
+          longitude: 31.24689
+    -
+      name: "Ntoroko"
+      code: "424"
+      iso3166_2: "UG-424"
+      type: "district"
+      latitude: 0.991574
+      longitude: 30.3849572
+      cities:
+        []
+    -
+      name: "Ntungamo"
+      code: "411"
+      iso3166_2: "UG-411"
+      type: "district"
+      latitude: -0.955093
+      longitude: 30.3023928
+      cities:
+        []
+    -
+      name: "Nwoya"
+      code: "328"
+      iso3166_2: "UG-328"
+      type: "district"
+      latitude: 2.5276248
+      longitude: 31.8700356
+      cities:
+        []
+    -
+      name: "Obongi"
+      code: "337"
+      iso3166_2: "UG-337"
+      type: "district"
+      latitude: 3.3635594
+      longitude: 31.5368264
+      cities:
+        []
+    -
+      name: "Omoro"
+      code: "331"
+      iso3166_2: "UG-331"
+      type: "district"
+      latitude: 2.6443448
+      longitude: 32.4975342
+      cities:
+        []
+    -
+      name: "Otuke"
+      code: "329"
+      iso3166_2: "UG-329"
+      type: "district"
+      latitude: 2.4784334
+      longitude: 33.3933563
+      cities:
+        []
+    -
+      name: "Oyam"
+      code: "321"
+      iso3166_2: "UG-321"
+      type: "district"
+      latitude: 2.3489345
+      longitude: 32.423386
+      cities:
+        []
+    -
+      name: "Pader"
+      code: "312"
+      iso3166_2: "UG-312"
+      type: "district"
+      latitude: 2.8876024
+      longitude: 32.8962856
+      cities:
+        []
+    -
+      name: "Pakwach"
+      code: "332"
+      iso3166_2: "UG-332"
+      type: "district"
+      latitude: 2.4607141
+      longitude: 31.4941738
+      cities:
+        []
+    -
+      name: "Pallisa"
+      code: "210"
+      iso3166_2: "UG-210"
+      type: "district"
+      latitude: 1.2200724
+      longitude: 33.691487
+      cities:
+        []
+    -
+      name: "Rakai"
+      code: "110"
+      iso3166_2: "UG-110"
+      type: "district"
+      latitude: -0.7264163
+      longitude: 31.3400835
+      cities:
+        []
+    -
+      name: "Rubanda"
+      code: "429"
+      iso3166_2: "UG-429"
+      type: "district"
+      latitude: -1.1732021
+      longitude: 29.900338
+      cities:
+        []
+    -
+      name: "Rubirizi"
+      code: "425"
+      iso3166_2: "UG-425"
+      type: "district"
+      latitude: -0.2557913
+      longitude: 29.9365
+      cities:
+        []
+    -
+      name: "Rukiga"
+      code: "431"
+      iso3166_2: "UG-431"
+      type: "district"
+      latitude: -1.1454807
+      longitude: 30.052485
+      cities:
+        []
+    -
+      name: "Rukungiri"
+      code: "412"
+      iso3166_2: "UG-412"
+      type: "district"
+      latitude: -0.697403
+      longitude: 29.8917364
+      cities:
+        []
+    -
+      name: "Rwampara"
+      code: "435"
+      iso3166_2: "UG-435"
+      type: "district"
+      latitude: -0.7350309
+      longitude: 30.4609131
+      cities:
+        []
+    -
+      name: "Sembabule"
+      code: "111"
+      iso3166_2: "UG-111"
+      type: "district"
+      latitude: -0.0536792
+      longitude: 31.4101459
+      cities:
+        []
+    -
+      name: "Serere"
+      code: "232"
+      iso3166_2: "UG-232"
+      type: "district"
+      latitude: 1.4916989
+      longitude: 33.3568368
+      cities:
+        []
+    -
+      name: "Sheema"
+      code: "426"
+      iso3166_2: "UG-426"
+      type: "district"
+      latitude: -0.591872
+      longitude: 30.3740417
+      cities:
+        []
+    -
+      name: "Sironko"
+      code: "215"
+      iso3166_2: "UG-215"
+      type: "district"
+      latitude: 1.1885535
+      longitude: 34.2950674
+      cities:
+        []
+    -
+      name: "Soroti"
+      code: "211"
+      iso3166_2: "UG-211"
+      type: "district"
+      latitude: 1.7879059
+      longitude: 33.5007314
+      cities:
+        []
+    -
+      name: "Tororo"
+      code: "212"
+      iso3166_2: "UG-212"
+      type: "district"
+      latitude: 0.7407421
+      longitude: 34.1026862
+      cities:
+        []
+    -
+      name: "Wakiso"
+      code: "113"
+      iso3166_2: "UG-113"
+      type: "district"
+      latitude: 0.3760928
+      longitude: 32.4561265
+      cities:
+        []
+    -
+      name: "Western"
+      code: "W"
+      iso3166_2: "UG-W"
+      type: "region"
+      latitude: -0.3561521
+      longitude: 31.550256
+      cities:
+        -
+          name: "Bundibugyo"
+          latitude: 0.71117
+          longitude: 30.06469
+        -
+          name: "Bwizibwera"
+          latitude: -0.59167
+          longitude: 30.62861
+        -
+          name: "Fort Portal"
+          latitude: 0.66174
+          longitude: 30.2748
+        -
+          name: "Hoima"
+          latitude: 1.43314
+          longitude: 31.35241
+        -
+          name: "Ibanda"
+          latitude: -0.13398
+          longitude: 30.49616
+        -
+          name: "Ibanda District"
+          latitude: -0.081
+          longitude: 30.556
+        -
+          name: "Kabale"
+          latitude: -1.24857
+          longitude: 29.98993
+        -
+          name: "Kagadi"
+          latitude: 0.93778
+          longitude: 30.80889
+        -
+          name: "Kamwenge"
+          latitude: 0.1866
+          longitude: 30.45393
+        -
+          name: "Kanungu"
+          latitude: -0.9575
+          longitude: 29.78972
+        -
+          name: "Kasese"
+          latitude: 0.18333
+          longitude: 30.08333
+        -
+          name: "Kibale"
+          latitude: 0.8
+          longitude: 31.06667
+        -
+          name: "Kigorobya"
+          latitude: 1.6162
+          longitude: 31.3089
+        -
+          name: "Kilembe"
+          latitude: 0.19835
+          longitude: 30.01302
+        -
+          name: "Kiruhura"
+          latitude: -0.19664
+          longitude: 30.84446
+        -
+          name: "Kisoro"
+          latitude: -1.28538
+          longitude: 29.68497
+        -
+          name: "Kyenjojo"
+          latitude: 0.63278
+          longitude: 30.62139
+        -
+          name: "Margherita"
+          latitude: 0.41861
+          longitude: 29.89111
+        -
+          name: "Masindi"
+          latitude: 1.67444
+          longitude: 31.715
+        -
+          name: "Masindi Port"
+          latitude: 1.69606
+          longitude: 32.08608
+        -
+          name: "Mbarara"
+          latitude: -0.60467
+          longitude: 30.64851
+        -
+          name: "Muhororo"
+          latitude: 0.93806
+          longitude: 30.75944
+        -
+          name: "Ntungamo"
+          latitude: -0.87944
+          longitude: 30.26417
+        -
+          name: "Nyachera"
+          latitude: -0.9
+          longitude: 30.41667
+        -
+          name: "Rukungiri"
+          latitude: -0.84111
+          longitude: 29.94194
+    -
+      name: "Yumbe"
+      code: "313"
+      iso3166_2: "UG-313"
+      type: "district"
+      latitude: 3.4914106
+      longitude: 31.2859149
+      cities:
+        []
+    -
+      name: "Zombo"
+      code: "330"
+      iso3166_2: "UG-330"
+      type: "district"
+      latitude: 2.5251164
+      longitude: 30.8897323
+      cities:
+        []

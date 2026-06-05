@@ -1,0 +1,208 @@
+-
+  name: "Palau"
+  name_es: "Palau"
+  native: "Palau"
+  iso2: "PW"
+  iso3: "PLW"
+  numeric_code: "585"
+  phonecode: "680"
+  capital: "Melekeok"
+  currency: "USD"
+  currency_name: "United States dollar"
+  currency_symbol: "$"
+  tld: ".pw"
+  region: "Oceania"
+  subregion: "Micronesia"
+  latitude: 7.5
+  longitude: 134.5
+  emoji: "🇵🇼"
+  states:
+    -
+      name: "Aimeliik"
+      code: "002"
+      iso3166_2: "PW-002"
+      type: "state"
+      latitude: 7.5651497
+      longitude: 134.1469665
+      cities:
+        -
+          name: "Ngchemiangel"
+          latitude: 7.44613
+          longitude: 134.47678
+    -
+      name: "Airai"
+      code: "004"
+      iso3166_2: "PW-004"
+      type: "state"
+      latitude: 7.3599342
+      longitude: 134.5601154
+      cities:
+        -
+          name: "Ngetkib"
+          latitude: 7.36451
+          longitude: 134.51484
+    -
+      name: "Angaur"
+      code: "010"
+      iso3166_2: "PW-010"
+      type: "state"
+      latitude: 6.909223
+      longitude: 134.1387934
+      cities:
+        -
+          name: "Angaur State"
+          latitude: 6.90601
+          longitude: 134.12997
+    -
+      name: "Hatohobei"
+      code: "050"
+      iso3166_2: "PW-050"
+      type: "state"
+      latitude: 3.0070658
+      longitude: 131.1237781
+      cities:
+        -
+          name: "Tobi Village"
+          latitude: 3.00488
+          longitude: 131.12168
+    -
+      name: "Kayangel"
+      code: "100"
+      iso3166_2: "PW-100"
+      type: "state"
+      latitude: 8.0822491
+      longitude: 134.7189633
+      cities:
+        -
+          name: "Kayangel"
+          latitude: 8.08228
+          longitude: 134.71725
+    -
+      name: "Koror"
+      code: "150"
+      iso3166_2: "PW-150"
+      type: "state"
+      latitude: 7.3337487
+      longitude: 134.4762806
+      cities:
+        -
+          name: "Koror"
+          latitude: 7.33978
+          longitude: 134.47326
+    -
+      name: "Melekeok"
+      code: "212"
+      iso3166_2: "PW-212"
+      type: "state"
+      latitude: 7.4726013
+      longitude: 134.7548743
+      cities:
+        -
+          name: "Melekeok Village"
+          latitude: 7.49567
+          longitude: 134.63671
+    -
+      name: "Ngaraard"
+      code: "214"
+      iso3166_2: "PW-214"
+      type: "state"
+      latitude: 7.6424529
+      longitude: 134.7328064
+      cities:
+        -
+          name: "Ulimang"
+          latitude: 7.62416
+          longitude: 134.64208
+    -
+      name: "Ngarchelong"
+      code: "218"
+      iso3166_2: "PW-218"
+      type: "state"
+      latitude: 7.8467235
+      longitude: 134.4733014
+      cities:
+        -
+          name: "Mengellang"
+          latitude: 7.6957
+          longitude: 134.63054
+    -
+      name: "Ngardmau"
+      code: "222"
+      iso3166_2: "PW-222"
+      type: "state"
+      latitude: 7.726789
+      longitude: 134.2765486
+      cities:
+        -
+          name: "Ngardmau"
+          latitude: 7.60986
+          longitude: 134.5744
+    -
+      name: "Ngatpang"
+      code: "224"
+      iso3166_2: "PW-224"
+      type: "state"
+      latitude: 7.6117591
+      longitude: 134.1799732
+      cities:
+        []
+    -
+      name: "Ngchesar"
+      code: "226"
+      iso3166_2: "PW-226"
+      type: "state"
+      latitude: 7.417716
+      longitude: 134.7114947
+      cities:
+        -
+          name: "Ngchesar Hamlet"
+          latitude: 7.46932
+          longitude: 134.60991
+    -
+      name: "Ngeremlengui"
+      code: "227"
+      iso3166_2: "PW-227"
+      type: "state"
+      latitude: 7.6590207
+      longitude: 134.2120044
+      cities:
+        -
+          name: "Imeong Hamlet"
+          latitude: 7.53134
+          longitude: 134.52713
+    -
+      name: "Ngiwal"
+      code: "228"
+      iso3166_2: "PW-228"
+      type: "state"
+      latitude: 7.5407316
+      longitude: 134.7298202
+      cities:
+        -
+          name: "Ngerkeai"
+          latitude: 7.55456
+          longitude: 134.63612
+    -
+      name: "Peleliu"
+      code: "350"
+      iso3166_2: "PW-350"
+      type: "state"
+      latitude: 7.0113797
+      longitude: 134.246065
+      cities:
+        -
+          name: "Kloulklubed"
+          latitude: 7.04192
+          longitude: 134.25561
+    -
+      name: "Sonsorol"
+      code: "370"
+      iso3166_2: "PW-370"
+      type: "state"
+      latitude: 5.3268119
+      longitude: 132.2239117
+      cities:
+        -
+          name: "Sonsorol Village"
+          latitude: 5.32608
+          longitude: 132.21943

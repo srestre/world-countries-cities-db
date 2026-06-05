@@ -1,0 +1,96 @@
+CREATE TABLE IF NOT EXISTS countries (
+  id INTEGER PRIMARY KEY, name VARCHAR(100), iso2 CHAR(2), iso3 CHAR(3),
+  region VARCHAR(100), subregion VARCHAR(100), capital VARCHAR(100),
+  currency VARCHAR(255), latitude DECIMAL(10,8), longitude DECIMAL(11,8), emoji VARCHAR(16)
+);
+CREATE TABLE IF NOT EXISTS states (
+  id INTEGER PRIMARY KEY, name VARCHAR(255), country_id INTEGER, country_code CHAR(2),
+  state_code VARCHAR(10), type VARCHAR(191), latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+);
+CREATE TABLE IF NOT EXISTS cities (
+  id INTEGER PRIMARY KEY, name VARCHAR(255), state_id INTEGER, country_id INTEGER,
+  latitude DECIMAL(10,8), longitude DECIMAL(11,8)
+);
+
+INSERT INTO countries (id, name, iso2, iso3, region, subregion, capital, currency, latitude, longitude, emoji) VALUES
+(124, 'Libya', 'LY', 'LBY', 'Africa', 'Northern Africa', 'Tripolis', 'LYD', 25, 17, '🇱🇾');
+
+INSERT INTO states (id, name, country_id, country_code, state_code, type, latitude, longitude) VALUES
+(5641, 'Al Butnan', 124, 'LY', 'BU', 'popularate', 30, 24),
+(2964, 'Al Wahat', 124, 'LY', 'WA', 'popularate', 29.1573123, 21.7496392),
+(2981, 'Benghazi', 124, 'LY', 'BA', 'popularate', 32.1194242, 20.0867909),
+(2966, 'Derna', 124, 'LY', 'DR', 'popularate', 32.755613, 22.6377432),
+(2969, 'Ghat', 124, 'LY', 'GT', 'popularate', 24.9640371, 10.1759285),
+(2980, 'Jabal al Akhdar', 124, 'LY', 'JA', 'popularate', 32.4874119, 21.7089729),
+(2974, 'Jabal al Gharbi', 124, 'LY', 'JG', 'popularate', 30.704649, 13.2233859),
+(2979, 'Jafara', 124, 'LY', 'JI', 'popularate', 32.5587916, 13.0707024),
+(2970, 'Jufra', 124, 'LY', 'JU', 'popularate', 28.0055724, 16.7430292),
+(2972, 'Kufra', 124, 'LY', 'KF', 'popularate', 23.3323776, 22.0840331),
+(2968, 'Marj', 124, 'LY', 'MJ', 'popularate', 31.9108728, 21.1477877),
+(2978, 'Misrata', 124, 'LY', 'MI', 'popularate', 32.3745923, 15.0905803),
+(2961, 'Murqub', 124, 'LY', 'MB', 'popularate', 32.4071058, 13.8621903),
+(2967, 'Murzuq', 124, 'LY', 'MQ', 'popularate', 25.9182262, 13.9260001),
+(2976, 'Nalut', 124, 'LY', 'NL', 'popularate', 31.8637865, 10.9827903),
+(2962, 'Nuqat al Khams', 124, 'LY', 'NQ', 'popularate', 32.7177153, 11.9896415),
+(2965, 'Sabha', 124, 'LY', 'SB', 'popularate', 27.0365406, 14.4290236),
+(2977, 'Sirte', 124, 'LY', 'SR', 'popularate', 31.2059625, 16.5836206),
+(2971, 'Tripoli', 124, 'LY', 'TB', 'popularate', 32.7733899, 13.3318732),
+(2973, 'Wadi al Hayaa', 124, 'LY', 'WD', 'popularate', 26.4233369, 12.7183638),
+(2975, 'Wadi al Shatii', 124, 'LY', 'WS', 'popularate', 27.6023172, 12.8637627),
+(2963, 'Zawiya', 124, 'LY', 'ZA', 'popularate', 32.7630282, 12.7364962);
+
+INSERT INTO cities (id, name, state_id, country_id, latitude, longitude) VALUES
+(160044, 'Bardia', 5641, 124, 31.76, 25.075),
+(160045, 'Jaghbub', 5641, 124, 29.7425, 24.51694444),
+(160043, 'Tobruk', 5641, 124, 32.07611111, 23.96138889),
+(66993, 'Ajdabiya', 2964, 124, 30.75545, 20.22625),
+(66997, 'Al Burayqah', 2964, 124, 30.40624, 19.57386),
+(67006, 'Awjilah', 2964, 124, 29.10806, 21.28694),
+(67007, 'Az Zuwaytīnah', 2964, 124, 30.9522, 20.12022),
+(67017, 'Gialo', 2964, 124, 29.03333, 21.55),
+(67020, 'Marādah', 2964, 124, 29.22054, 19.20454),
+(67010, 'Benghazi', 2981, 124, 32.11486, 20.06859),
+(67026, 'Qaryat Sulūq', 2981, 124, 31.66818, 20.25205),
+(67003, 'Al Qubbah', 2966, 124, 32.75684, 22.24106),
+(67012, 'Darnah', 2966, 124, 32.76704, 22.63669),
+(67015, 'Ghat', 2969, 124, 24.96334, 10.18003),
+(66996, 'Al Bayḑā’', 2980, 124, 32.76272, 21.75506),
+(67014, 'Gharyan', 2974, 124, 32.17222, 13.02028),
+(67016, 'Giado', 2974, 124, 31.95506, 12.02901),
+(67022, 'Mizdah', 2974, 124, 31.44934, 12.9853),
+(67036, 'Yafran', 2974, 124, 32.06329, 12.52859),
+(67039, 'Zintan', 2974, 124, 31.93155, 12.25291),
+(67004, 'Al ‘Azīzīyah', 2979, 124, 32.53194, 13.0175),
+(67018, 'Hūn', 2970, 124, 29.12684, 15.94772),
+(67035, 'Waddān', 2970, 124, 29.1614, 16.13904),
+(66999, 'Al Jawf', 2972, 124, 24.1989, 23.29093),
+(67005, 'At Tāj', 2972, 124, 24.20487, 23.2857),
+(66994, 'Al Abyār', 2968, 124, 32.19, 20.59653),
+(67001, 'Al Marj', 2968, 124, 32.49257, 20.82909),
+(67033, 'Tūkrah', 2968, 124, 32.53414, 20.57911),
+(67009, 'Bani Walid', 2978, 124, 31.74554, 13.98354),
+(67023, 'Mişrātah', 2978, 124, 32.37535, 15.09254),
+(67040, 'Zliten', 2978, 124, 32.46739, 14.56874),
+(67000, 'Al Khums', 2961, 124, 32.64861, 14.26191),
+(67021, 'Masallātah', 2961, 124, 32.61667, 14),
+(67031, 'Tarhuna', 2961, 124, 32.43501, 13.6332),
+(67002, 'Al Qaţrūn', 2967, 124, 24.95139, 14.64861),
+(67024, 'Murzuq', 2967, 124, 25.91552, 13.91839),
+(67013, 'Ghadāmis', 2976, 124, 30.13366, 9.50072),
+(67025, 'Nālūt', 2976, 124, 31.86848, 10.9812),
+(66995, 'Al Ajaylat', 2962, 124, 32.75718, 12.37633),
+(67037, 'Zalţan', 2962, 124, 32.94699, 11.86668),
+(67041, 'Zuwārah', 2962, 124, 32.9312, 12.08199),
+(66998, 'Al Jadīd', 2965, 124, 27.05, 14.4),
+(67028, 'Sabhā', 2965, 124, 27.03766, 14.42832),
+(67027, 'Qasr Abu Hadi', 2977, 124, 31.05926, 16.65905),
+(67029, 'Sirte', 2977, 124, 31.20892, 16.58866),
+(67030, 'Tagiura', 2971, 124, 32.88167, 13.35056),
+(67032, 'Tripoli', 2971, 124, 32.88743, 13.18733),
+(67034, 'Ubari', 2973, 124, 26.59034, 12.77511),
+(67011, 'Brak', 2975, 124, 27.54956, 14.27139),
+(67019, 'Idrī', 2975, 124, 27.44707, 13.05173),
+(67008, 'Az Zāwīyah', 2963, 124, 32.7571, 12.72764),
+(67042, 'Şabrātah', 2963, 124, 32.79335, 12.48845),
+(67043, 'Şurmān', 2963, 124, 32.75668, 12.57159),
+(67038, 'Zawiya', 2963, 124, 32.75222, 12.72778);

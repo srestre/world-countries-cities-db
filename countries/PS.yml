@@ -1,0 +1,675 @@
+-
+  name: "Palestinian Territory Occupied"
+  name_es: "Palestina"
+  native: "فلسطين"
+  iso2: "PS"
+  iso3: "PSE"
+  numeric_code: "275"
+  phonecode: "970"
+  capital: "East Jerusalem"
+  currency: "ILS"
+  currency_name: "Israeli new shekel"
+  currency_symbol: "₪"
+  tld: ".ps"
+  region: "Asia"
+  subregion: "Western Asia"
+  latitude: 31.9
+  longitude: 35.2
+  emoji: "🇵🇸"
+  states:
+    -
+      name: "Bethlehem"
+      code: "BTH"
+      iso3166_2: "PS-BTH"
+      type: "governorate"
+      latitude: 31.7053996
+      longitude: 35.1936877
+      cities:
+        -
+          name: "Al-Dawha"
+          latitude: 31.6977399
+          longitude: 35.1459545
+        -
+          name: "al-Khader"
+          latitude: 31.6948454
+          longitude: 35.1501453
+        -
+          name: "al-Ubeidiya"
+          latitude: 31.7238643
+          longitude: 35.2712213
+        -
+          name: "Battir"
+          latitude: 31.7282154
+          longitude: 35.1174323
+        -
+          name: "Beit Fajjar"
+          latitude: 31.6216699
+          longitude: 35.1343033
+        -
+          name: "Beit Jala"
+          latitude: 31.7160334
+          longitude: 35.1665493
+        -
+          name: "Beit Sahour"
+          latitude: 31.6978704
+          longitude: 35.2079303
+        -
+          name: "Bethlehem"
+          latitude: 31.7054165
+          longitude: 35.1818428
+        -
+          name: "Husan"
+          latitude: 31.7084604
+          longitude: 35.1128253
+        -
+          name: "Nahalin"
+          latitude: 31.6856424
+          longitude: 35.0997623
+        -
+          name: "Tuqu'"
+          latitude: 31.6391274
+          longitude: 35.1918903
+        -
+          name: "Za'atara"
+          latitude: 31.6744784
+          longitude: 35.2344913
+    -
+      name: "Deir El Balah"
+      code: "DEB"
+      iso3166_2: "PS-DEB"
+      type: "governorate"
+      latitude: 31.4202897
+      longitude: 34.286164
+      cities:
+        -
+          name: "az-Zawayda"
+          latitude: 31.4297975
+          longitude: 34.3501423
+        -
+          name: "Deir al-Balah"
+          latitude: 31.4171735
+          longitude: 34.3303313
+    -
+      name: "Gaza"
+      code: "GZA"
+      iso3166_2: "PS-GZA"
+      type: "governorate"
+      latitude: 31.4872397
+      longitude: 34.149989
+      cities:
+        -
+          name: "Al-Zahra"
+          latitude: 31.4724675
+          longitude: 34.3778293
+        -
+          name: "Gaza City"
+          latitude: 31.5017295
+          longitude: 34.4462448
+    -
+      name: "Hebron"
+      code: "HBN"
+      iso3166_2: "PS-HBN"
+      type: "governorate"
+      latitude: 31.5326001
+      longitude: 35.0639475
+      cities:
+        -
+          name: "ad-Dhahiriya"
+          latitude: 31.4096725
+          longitude: 34.9549083
+        -
+          name: "as-Samu"
+          latitude: 31.3986445
+          longitude: 35.0446883
+        -
+          name: "Bani Na'im"
+          latitude: 31.5149005
+          longitude: 35.1447403
+        -
+          name: "Beit 'Awwa"
+          latitude: 31.5067524
+          longitude: 34.9295613
+        -
+          name: "Beit Ula"
+          latitude: 31.5984564
+          longitude: 35.0057753
+        -
+          name: "Beit Ummar"
+          latitude: 31.6228464
+          longitude: 35.0815993
+        -
+          name: "Deir Sammit"
+          latitude: 31.5199634
+          longitude: 34.9520713
+        -
+          name: "Dura"
+          latitude: 31.5051274
+          longitude: 35.0069273
+        -
+          name: "Halhul"
+          latitude: 31.5799242
+          longitude: 35.0793045
+        -
+          name: "Hebron"
+          latitude: 31.5326035
+          longitude: 35.0792263
+        -
+          name: "Idhna"
+          latitude: 31.5572864
+          longitude: 34.9586433
+        -
+          name: "Kharas"
+          latitude: 31.6122524
+          longitude: 35.0236513
+        -
+          name: "Nuba"
+          latitude: 31.6138208
+          longitude: 35.005792
+        -
+          name: "Sa'ir"
+          latitude: 31.5824895
+          longitude: 35.1231763
+        -
+          name: "Surif"
+          latitude: 31.6495864
+          longitude: 35.0441123
+        -
+          name: "Taffuh"
+          latitude: 31.5384825
+          longitude: 35.0303733
+        -
+          name: "Tarqumiya"
+          latitude: 31.5773644
+          longitude: 34.9935743
+        -
+          name: "Yatta"
+          latitude: 31.4441845
+          longitude: 35.0695053
+    -
+      name: "Jenin"
+      code: "JEN"
+      iso3166_2: "PS-JEN"
+      type: "governorate"
+      latitude: 32.4263761
+      longitude: 35.0856887
+      cities:
+        -
+          name: "Ajjah"
+          latitude: 32.3600171
+          longitude: 35.1773943
+        -
+          name: "al-Yamun"
+          latitude: 32.4867111
+          longitude: 35.2129923
+        -
+          name: "Arrabah"
+          latitude: 32.4033101
+          longitude: 35.1853143
+        -
+          name: "Burqin"
+          latitude: 32.456169
+          longitude: 35.2410883
+        -
+          name: "Deir Abu Da'if"
+          latitude: 32.4560951
+          longitude: 35.3443223
+        -
+          name: "Jaba"
+          latitude: 32.3250611
+          longitude: 35.1995643
+        -
+          name: "Jenin"
+          latitude: 32.457284
+          longitude: 35.2816144
+        -
+          name: "Kafr Dan"
+          latitude: 32.4780111
+          longitude: 35.2331873
+        -
+          name: "Kafr Rai"
+          latitude: 32.3734521
+          longitude: 35.1349363
+        -
+          name: "Meithalun"
+          latitude: 32.3492441
+          longitude: 35.2508843
+        -
+          name: "Qabatiya"
+          latitude: 32.4096171
+          longitude: 35.2594933
+        -
+          name: "Silat ad-Dhahr"
+          latitude: 32.3175321
+          longitude: 35.1666323
+        -
+          name: "Silat al-Harithiya"
+          latitude: 32.509797
+          longitude: 35.2068473
+        -
+          name: "Ya'bad"
+          latitude: 32.446868
+          longitude: 35.1466743
+        -
+          name: "Zababdeh"
+          latitude: 32.3852361
+          longitude: 35.3028793
+    -
+      name: "Jericho "
+      code: "JRH"
+      iso3166_2: "PS-JRH"
+      type: "governorate"
+      latitude: 31.9676425
+      longitude: 35.1354279
+      cities:
+        -
+          name: "al-Auja"
+          latitude: 31.9480993
+          longitude: 35.4505643
+        -
+          name: "al-Jiftlik"
+          latitude: 32.1414323
+          longitude: 35.4466025
+        -
+          name: "Jericho"
+          latitude: 31.859507
+          longitude: 35.4439082
+    -
+      name: "Jerusalem (Quds)"
+      code: "JEM"
+      iso3166_2: "PS-JEM"
+      type: "governorate"
+      latitude: 31.8020328
+      longitude: 34.9599664
+      cities:
+        -
+          name: "Abu Dis"
+          latitude: 31.7636163
+          longitude: 35.2371223
+        -
+          name: "Ar-Ram"
+          latitude: 31.8492863
+          longitude: 35.2128893
+        -
+          name: "Beit 'Anan"
+          latitude: 31.8510993
+          longitude: 35.0911193
+        -
+          name: "Biddu"
+          latitude: 31.8344582
+          longitude: 35.0744173
+        -
+          name: "Bir Nabala"
+          latitude: 31.8512163
+          longitude: 35.1802353
+        -
+          name: "East Jerusalem"
+          latitude: 31.7965043
+          longitude: 35.0105434
+        -
+          name: "Hizma"
+          latitude: 31.8364954
+          longitude: 35.2426313
+        -
+          name: "Kafr Aqab"
+          latitude: 31.8747227
+          longitude: 35.21724
+        -
+          name: "Qalandiya"
+          latitude: 31.8616313
+          longitude: 35.1873143
+        -
+          name: "Qatanna"
+          latitude: 31.8269573
+          longitude: 35.0896003
+    -
+      name: "Khan Yunis"
+      code: "KYS"
+      iso3166_2: "PS-KYS"
+      type: "governorate"
+      latitude: 31.3298766
+      longitude: 34.2254833
+      cities:
+        -
+          name: "Abasan al-Kabira"
+          latitude: 31.3231605
+          longitude: 34.3234253
+        -
+          name: "Abasan al-Saghira"
+          latitude: 31.3397435
+          longitude: 34.3260333
+        -
+          name: "Al-Qarara"
+          latitude: 31.3713465
+          longitude: 34.3146603
+        -
+          name: "Bani Suheila"
+          latitude: 31.3421385
+          longitude: 34.3046543
+        -
+          name: "Khan Yunis"
+          latitude: 31.3462351
+          longitude: 34.2833989
+        -
+          name: "Khuzaʽa"
+          latitude: 31.3070566
+          longitude: 34.3394473
+    -
+      name: "Nablus"
+      code: "NBS"
+      iso3166_2: "PS-NBS"
+      type: "governorate"
+      latitude: 32.2243755
+      longitude: 35.2064793
+      cities:
+        -
+          name: "Aqraba"
+          latitude: 32.1276202
+          longitude: 35.3221353
+        -
+          name: "Asira ash-Shamaliya"
+          latitude: 32.2518691
+          longitude: 35.2475713
+        -
+          name: "Beit Furik"
+          latitude: 32.1754902
+          longitude: 35.3158843
+        -
+          name: "Beita"
+          latitude: 32.1413742
+          longitude: 35.2657993
+        -
+          name: "Huwara"
+          latitude: 32.1513472
+          longitude: 35.2361993
+        -
+          name: "Jammain"
+          latitude: 32.1321142
+          longitude: 35.1827423
+        -
+          name: "Nablus"
+          latitude: 32.2243755
+          longitude: 35.2064793
+        -
+          name: "Qabalan"
+          latitude: 32.1018542
+          longitude: 35.2671293
+        -
+          name: "Sebastia"
+          latitude: 32.2782751
+          longitude: 35.1780333
+    -
+      name: "North Gaza"
+      code: "NGZ"
+      iso3166_2: "PS-NGZ"
+      type: "governorate"
+      latitude: 31.547506
+      longitude: 34.4281409
+      cities:
+        -
+          name: "Beit Hanoun"
+          latitude: 31.5385174
+          longitude: 34.5161703
+        -
+          name: "Beit Lahia"
+          latitude: 31.5513234
+          longitude: 34.4886223
+        -
+          name: "Izbat Beit Hanoun"
+          latitude: 31.5472895
+          longitude: 34.5019722
+        -
+          name: "Jabalia"
+          latitude: 31.5294305
+          longitude: 34.4591413
+    -
+      name: "Qalqilya"
+      code: "QQA"
+      iso3166_2: "PS-QQA"
+      type: "governorate"
+      latitude: 32.1810323
+      longitude: 34.9936999
+      cities:
+        -
+          name: "Azzun"
+          latitude: 32.1771352
+          longitude: 35.0353573
+        -
+          name: "Hableh"
+          latitude: 32.1638782
+          longitude: 34.9576803
+        -
+          name: "Kafr Thulth"
+          latitude: 32.1528332
+          longitude: 35.0246903
+        -
+          name: "Qalqilya"
+          latitude: 32.1960491
+          longitude: 34.9609133
+    -
+      name: "Rafah"
+      code: "RFH"
+      iso3166_2: "PS-RFH"
+      type: "governorate"
+      latitude: 31.2968899
+      longitude: 34.1116685
+      cities:
+        -
+          name: "Al Qarya as Suwaydiya"
+          latitude: 31.3231655
+          longitude: 34.2015753
+        -
+          name: "Al-Bayuk"
+          latitude: 31.2634786
+          longitude: 34.2609813
+        -
+          name: "Al-Mawasi"
+          latitude: 31.3484496
+          longitude: 34.2355363
+        -
+          name: "Rafah"
+          latitude: 31.2968145
+          longitude: 34.2228823
+        -
+          name: "Shokat as-Sufi"
+          latitude: 31.2509125
+          longitude: 34.2451672
+    -
+      name: "Ramallah"
+      code: "RBH"
+      iso3166_2: "PS-RBH"
+      type: "governorate"
+      latitude: 31.9430145
+      longitude: 34.8645651
+      cities:
+        -
+          name: "Al-Bireh"
+          latitude: 31.9125973
+          longitude: 35.2011173
+        -
+          name: "al-Mazra'a ash-Sharqiya"
+          latitude: 32.0032722
+          longitude: 35.2555323
+        -
+          name: "Bani Zeid al-Sharqiya"
+          latitude: 32.0407432
+          longitude: 35.1532783
+        -
+          name: "Beit Liqya"
+          latitude: 31.8699713
+          longitude: 35.0446023
+        -
+          name: "Beitunia"
+          latitude: 31.8893153
+          longitude: 35.1492133
+        -
+          name: "Bir Zeit"
+          latitude: 31.9753483
+          longitude: 35.1754423
+        -
+          name: "Deir Dibwan"
+          latitude: 31.9112393
+          longitude: 35.2483883
+        -
+          name: "Deir Jarir"
+          latitude: 31.9656463
+          longitude: 35.2731763
+        -
+          name: "Kharbatha al-Misbah"
+          latitude: 31.8853003
+          longitude: 35.0514733
+        -
+          name: "Ni'lin"
+          latitude: 31.9468773
+          longitude: 35.0008613
+        -
+          name: "Ramallah"
+          latitude: 31.9074171
+          longitude: 35.164682
+        -
+          name: "Rawabi"
+          latitude: 32.0102157
+          longitude: 35.1712941
+        -
+          name: "Silwad"
+          latitude: 31.9794242
+          longitude: 35.2412653
+        -
+          name: "Sinjil"
+          latitude: 32.0336413
+          longitude: 35.2433353
+        -
+          name: "Turmus Ayya"
+          latitude: 32.0327602
+          longitude: 35.2677753
+    -
+      name: "Salfit"
+      code: "SLT"
+      iso3166_2: "PS-SLT"
+      type: "governorate"
+      latitude: 32.1112272
+      longitude: 34.9578769
+      cities:
+        -
+          name: "az-Zawiya"
+          latitude: 32.0947052
+          longitude: 35.0186763
+        -
+          name: "Biddya"
+          latitude: 32.1134002
+          longitude: 35.0568653
+        -
+          name: "Bruqin"
+          latitude: 32.0726472
+          longitude: 35.0778063
+        -
+          name: "Deir Ballut"
+          latitude: 32.0650672
+          longitude: 35.0049493
+        -
+          name: "Deir Istiya"
+          latitude: 32.1307962
+          longitude: 35.1195363
+        -
+          name: "Farkha"
+          latitude: 32.0687772
+          longitude: 35.1302763
+        -
+          name: "Haris"
+          latitude: 32.1134492
+          longitude: 35.1231163
+        -
+          name: "Iskaka"
+          latitude: 32.1029552
+          longitude: 35.2039493
+        -
+          name: "Kafr ad-Dik"
+          latitude: 32.0686354
+          longitude: 35.0605081
+        -
+          name: "Kifl Hares"
+          latitude: 32.1169242
+          longitude: 35.1363643
+        -
+          name: "Marda"
+          latitude: 32.1142512
+          longitude: 35.1752513
+        -
+          name: "Mas-ha"
+          latitude: 32.1072982
+          longitude: 35.0303743
+        -
+          name: "Qarawat Bani Hassan"
+          latitude: 32.1285392
+          longitude: 35.0787783
+        -
+          name: "Qira"
+          latitude: 32.1221342
+          longitude: 35.1506323
+        -
+          name: "Rafat"
+          latitude: 32.0787202
+          longitude: 35.0246873
+        -
+          name: "Sarta"
+          latitude: 32.1033692
+          longitude: 35.0712383
+        -
+          name: "Yasuf"
+          latitude: 32.1094052
+          longitude: 35.2191153
+    -
+      name: "Tubas"
+      code: "TBS"
+      iso3166_2: "PS-TBS"
+      type: "governorate"
+      latitude: 32.2938043
+      longitude: 34.851098
+      cities:
+        -
+          name: "Al 'Aqaba"
+          latitude: 32.3525706
+          longitude: 35.3267476
+        -
+          name: "Tammun"
+          latitude: 32.2831551
+          longitude: 35.3651893
+        -
+          name: "Tubas"
+          latitude: 32.3211201
+          longitude: 35.3493533
+    -
+      name: "Tulkarm"
+      code: "TKM"
+      iso3166_2: "PS-TKM"
+      type: "governorate"
+      latitude: 32.3276672
+      longitude: 34.9231108
+      cities:
+        -
+          name: "Anabta"
+          latitude: 32.3072871
+          longitude: 35.0988783
+        -
+          name: "Attil"
+          latitude: 32.3701031
+          longitude: 35.0519383
+        -
+          name: "Bal'a"
+          latitude: 32.3325561
+          longitude: 35.0893533
+        -
+          name: "Baqa ash-Sharqiyya"
+          latitude: 32.4111751
+          longitude: 35.0505933
+        -
+          name: "Beit Lid"
+          latitude: 32.2615821
+          longitude: 35.1096803
+        -
+          name: "Qaffin"
+          latitude: 32.433412
+          longitude: 35.0637003
+        -
+          name: "Tulkarm"
+          latitude: 32.3079648
+          longitude: 35.0080289

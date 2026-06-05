@@ -1,0 +1,163 @@
+-
+  name: "Singapore"
+  name_es: "Singapur"
+  native: "Singapore"
+  iso2: "SG"
+  iso3: "SGP"
+  numeric_code: "702"
+  phonecode: "65"
+  capital: "Singapur"
+  currency: "SGD"
+  currency_name: "Singapore dollar"
+  currency_symbol: "$"
+  tld: ".sg"
+  region: "Asia"
+  subregion: "South-Eastern Asia"
+  latitude: 1.36666666
+  longitude: 103.8
+  emoji: "🇸🇬"
+  states:
+    -
+      name: "Central Singapore"
+      code: "01"
+      iso3166_2: "SG-01"
+      type: "district"
+      latitude: 1.2884
+      longitude: 103.8535
+      cities:
+        -
+          name: "Bukit Timah"
+          latitude: 1.3294
+          longitude: 103.8021
+        -
+          name: "Downtown Core"
+          latitude: 1.278
+          longitude: 103.852
+        -
+          name: "Geylang"
+          latitude: 1.3182
+          longitude: 103.8871
+        -
+          name: "Kallang"
+          latitude: 1.3106
+          longitude: 103.866
+        -
+          name: "Marine Parade"
+          latitude: 1.303
+          longitude: 103.9072
+        -
+          name: "Novena"
+          latitude: 1.3201
+          longitude: 103.8439
+        -
+          name: "Orchard Road"
+          latitude: 1.3036
+          longitude: 103.8318
+        -
+          name: "Outram"
+          latitude: 1.2819
+          longitude: 103.839
+        -
+          name: "Rochor"
+          latitude: 1.3049
+          longitude: 103.852
+        -
+          name: "Singapore"
+          latitude: 1.28967
+          longitude: 103.85007
+        -
+          name: "Tanjong Pagar"
+          latitude: 1.2764
+          longitude: 103.8434
+        -
+          name: "Toa Payoh"
+          latitude: 1.3354
+          longitude: 103.8497
+    -
+      name: "North East"
+      code: "02"
+      iso3166_2: "SG-02"
+      type: "district"
+      latitude: 5.3341186
+      longitude: 100.2761077
+      cities:
+        -
+          name: "Ang Mo Kio"
+          latitude: 1.3698
+          longitude: 103.8461
+        -
+          name: "Hougang"
+          latitude: 1.3736
+          longitude: 103.8867
+        -
+          name: "Punggol"
+          latitude: 1.4051
+          longitude: 103.9023
+        -
+          name: "Sengkang"
+          latitude: 1.3901
+          longitude: 103.8952
+        -
+          name: "Serangoon"
+          latitude: 1.3496
+          longitude: 103.8737
+    -
+      name: "North West"
+      code: "03"
+      iso3166_2: "SG-03"
+      type: "district"
+      latitude: 1.4509382
+      longitude: 103.7849519
+      cities:
+        -
+          name: "Sembawang"
+          latitude: 1.4491
+          longitude: 103.8201
+        -
+          name: "Woodlands"
+          latitude: 1.43801
+          longitude: 103.78877
+        -
+          name: "Yishun"
+          latitude: 1.4293
+          longitude: 103.8355
+    -
+      name: "South East"
+      code: "04"
+      iso3166_2: "SG-04"
+      type: "district"
+      latitude: 1.3352329
+      longitude: 103.9598931
+      cities:
+        -
+          name: "Bedok"
+          latitude: 1.3236
+          longitude: 103.9273
+        -
+          name: "Pasir Ris"
+          latitude: 1.3739
+          longitude: 103.9493
+        -
+          name: "Tampines"
+          latitude: 1.3547
+          longitude: 103.9437
+    -
+      name: "South West"
+      code: "05"
+      iso3166_2: "SG-05"
+      type: "district"
+      latitude: 5.2883389
+      longitude: 100.2815099
+      cities:
+        -
+          name: "Bukit Batok"
+          latitude: 1.3496
+          longitude: 103.7528
+        -
+          name: "Bukit Panjang"
+          latitude: 1.3786
+          longitude: 103.7626
+        -
+          name: "Jurong West"
+          latitude: 1.3396
+          longitude: 103.7073

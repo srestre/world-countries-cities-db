@@ -1,0 +1,91 @@
+-
+  name: "Saint Helena"
+  name_es: "Santa Helena"
+  native: "Saint Helena"
+  iso2: "SH"
+  iso3: "SHN"
+  numeric_code: "654"
+  phonecode: "290"
+  capital: "Jamestown"
+  currency: "SHP"
+  currency_name: "Saint Helena pound"
+  currency_symbol: "£"
+  tld: ".sh"
+  region: "Africa"
+  subregion: "Western Africa"
+  latitude: -15.95
+  longitude: -5.7
+  emoji: "🇸🇭"
+  states:
+    -
+      name: "Alarm Forest"
+      code: "01"
+      iso3166_2: "SH-01"
+      type: "district"
+      latitude: -15.9485043
+      longitude: -5.7028194
+      cities:
+        []
+    -
+      name: "Blue Hill"
+      code: "02"
+      iso3166_2: "SH-02"
+      type: "district"
+      latitude: -15.9801303
+      longitude: -5.7489856
+      cities:
+        []
+    -
+      name: "Half Tree Hollow"
+      code: "03"
+      iso3166_2: "SH-03"
+      type: "district"
+      latitude: -15.9346328
+      longitude: -5.7194732
+      cities:
+        []
+    -
+      name: "Jamestown"
+      code: "04"
+      iso3166_2: "SH-04"
+      type: "district"
+      latitude: -15.9288308
+      longitude: -5.7203338
+      cities:
+        []
+    -
+      name: "Levelwood"
+      code: "05"
+      iso3166_2: "SH-05"
+      type: "district"
+      latitude: -15.9743129
+      longitude: -5.6805785
+      cities:
+        []
+    -
+      name: "Longwood"
+      code: "06"
+      iso3166_2: "SH-06"
+      type: "district"
+      latitude: -15.9493288
+      longitude: -5.6858605
+      cities:
+        []
+    -
+      name: "Saint Paul's"
+      code: "08"
+      iso3166_2: "SH-08"
+      type: "district"
+      latitude: -15.9851267
+      longitude: -5.7380986
+      cities:
+        []
+    -
+      name: "Sandy Bay"
+      code: "07"
+      iso3166_2: "SH-07"
+      type: "district"
+      latitude: -16.0060601
+      longitude: -5.7127075
+      cities:
+        []
