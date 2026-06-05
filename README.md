@@ -68,6 +68,8 @@ Every level is an independent file. Pick the smallest one that answers your need
     latam-cities.json                           consolidated { slug: [cities...] }
 /scripts/build.js                               builds the worldwide data
 /scripts/build-latam.js                         builds the LATAM set
+/scripts/validate.js                            integrity check of the generated output
+/package.json                                   npm scripts: build, build:latam, build:all, validate
 ```
 
 ## Formats per level
@@ -247,33 +249,48 @@ const cities = await (await fetch(BASE + '/flat-cities/CO.json')).json();
 
 Switch `name_es` to `name_en` (LATAM) or `name` (worldwide metadata) for English labels.
 
-## Scripts (optional, only to regenerate the data)
+## Scripts (optional, only to regenerate or validate the data)
 
 The data files in this repo are **pre-generated and committed**. To *use* the data you do
 **not** need the scripts at all: just fetch the JSON/CSV/SQL/YAML (via the CDN, a clone, or
-the GitHub API). The scripts exist only to **(re)generate and update** the data and to
-document, reproducibly, how it is derived. There are two because there are two data sources.
+the GitHub API). The scripts exist only to **(re)generate, update and validate** the data and
+to document, reproducibly, how it is derived. There are two builders (one per data source)
+plus one validator.
 
-| Script | Builds | Reads from | Runtime |
-|--------|--------|-----------|---------|
-| `scripts/build.js` | the whole worldwide dataset: `/countries`, `/regions`, `/subregions`, `/bundles`, `/flat-cities`, `/large-countries`, `/metadata` (all four formats) | the upstream combined world file (~47MB), downloaded once | ~10s |
-| `scripts/build-latam.js` | the richer `/latam` set (20 countries, slug-keyed) | the 20 LATAM country files | ~1s |
+| Script | Purpose | Reads from | Runtime |
+|--------|---------|-----------|---------|
+| `scripts/build.js` | builds the whole worldwide dataset: `/countries`, `/regions`, `/subregions`, `/bundles`, `/flat-cities`, `/large-countries`, `/metadata` (all four formats) | the upstream combined world file (~47MB), downloaded once | ~10s |
+| `scripts/build-latam.js` | builds the richer `/latam` set (20 countries, slug-keyed) | the 20 LATAM country files | ~1s |
+| `scripts/validate.js` | integrity check of the generated output: JSON/CSV/SQL/YAML parse, format consistency, slug collisions, bilingual completeness, file sizes. Exits non-zero on any error | the files already in the repo | ~3s |
 
-Both are plain Node.js (v20+), **zero dependencies**, and re-runnable (each one overwrites
-its own output). Run them only when the upstream data changes or when you change the
-structure (add a bundle, add a large country, adjust a translation):
+All three are plain Node.js (v20+), **zero dependencies**, and re-runnable. Run the builders
+only when the upstream data changes or when you change the structure (add a bundle, add a
+large country, adjust a translation), then run the validator before committing.
+
+Using the `package.json` scripts:
 
 ```bash
-node --max-old-space-size=4096 scripts/build.js   # worldwide data
-node scripts/build-latam.js                       # LATAM set
+npm run build        # worldwide data  (scripts/build.js)
+npm run build:latam  # LATAM set       (scripts/build-latam.js)
+npm run build:all    # both builders
+npm run validate     # integrity check (scripts/validate.js)
+```
+
+Or directly with node:
+
+```bash
+node --max-old-space-size=4096 scripts/build.js
+node scripts/build-latam.js
+node scripts/validate.js
 ```
 
 ## Contributing
 
 The data files are generated. Do not hand-edit them: change `scripts/build.js` or
-`scripts/build-latam.js` and re-run. Good first changes: add or adjust a bundle (the
-`BUNDLES` object), add a large country for per-state drill-down (`LARGE_COUNTRIES`), or
-refine a Spanish translation (`REGION_ES` / `SUBREGION_ES` / `STATE_TYPE_ES`).
+`scripts/build-latam.js` and re-run, then run `npm run validate` before committing. Good
+first changes: add or adjust a bundle (the `BUNDLES` object), add a large country for
+per-state drill-down (`LARGE_COUNTRIES`), or refine a Spanish translation
+(`REGION_ES` / `SUBREGION_ES` / `STATE_TYPE_ES`).
 
 ## Resumen (español)
 
