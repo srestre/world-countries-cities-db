@@ -308,15 +308,6 @@ piezas granulares por país, región, subregión y grupo (bundle) para hacer lla
 por CDN sin descargar todo. Nombres **bilingües inglés/español**. Incluye una sección LATAM
 lista para un **select encadenado país -> ciudad** (con Colombia primero).
 
-## Keywords
-
-World cities database, countries states cities JSON, country state city API, list of
-countries and cities, world cities CSV / SQL, country city dropdown data, GeoNames
-alternative, open data geodata dataset.
-
-Base de datos de países y ciudades, listado de países, base de datos de ciudades del mundo,
-países estados ciudades JSON, lista de países y ciudades, select país ciudad.
-
 ## Sources, license and acknowledgements
 
 ### Sources
