@@ -7,16 +7,16 @@ Granular, **bilingual (EN/ES)** dataset of **countries, states and cities** in
 lightweight CDN calls. A lightweight open-data alternative to heavier sources like
 GeoNames for country / state / city lookups and lists.
 
-[![License](https://img.shields.io/badge/license-MIT_%2B_ODbL-blue?style=flat-square)](#license)
-[![Stars](https://img.shields.io/github/stars/srestre/world-countries-cities-db?style=flat-square)](https://github.com/srestre/world-countries-cities-db/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/srestre/world-countries-cities-db?style=flat-square)](https://github.com/srestre/world-countries-cities-db/commits/main)
-[![jsDelivr hits](https://img.shields.io/jsdelivr/gh/hm/srestre/world-countries-cities-db?style=flat-square)](https://www.jsdelivr.com/package/gh/srestre/world-countries-cities-db)
+[![License](https://img.shields.io/badge/license-MIT_%2B_ODbL-blue?style=for-the-badge)](#license)
+[![Stars](https://img.shields.io/github/stars/srestre/world-countries-cities-db?style=for-the-badge)](https://github.com/srestre/world-countries-cities-db/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/srestre/world-countries-cities-db?style=for-the-badge)](https://github.com/srestre/world-countries-cities-db/commits/main)
+[![jsDelivr hits](https://img.shields.io/jsdelivr/gh/hm/srestre/world-countries-cities-db?style=for-the-badge)](https://www.jsdelivr.com/package/gh/srestre/world-countries-cities-db)
 
-![Countries](https://img.shields.io/badge/countries-250-brightgreen?style=flat-square)
-![States](https://img.shields.io/badge/states-5%2C308-brightgreen?style=flat-square)
-![Cities](https://img.shields.io/badge/cities-156%2C025-brightgreen?style=flat-square)
-![Formats](https://img.shields.io/badge/formats-JSON_CSV_SQL_YAML-orange?style=flat-square)
-![Labels](https://img.shields.io/badge/labels-EN_%2F_ES-blueviolet?style=flat-square)
+![Countries](https://img.shields.io/badge/countries-250-brightgreen?style=for-the-badge)
+![States](https://img.shields.io/badge/states-5%2C308-brightgreen?style=for-the-badge)
+![Cities](https://img.shields.io/badge/cities-156%2C025-brightgreen?style=for-the-badge)
+![Formats](https://img.shields.io/badge/formats-JSON_CSV_SQL_YAML-orange?style=for-the-badge)
+![Labels](https://img.shields.io/badge/labels-EN_%2F_ES-blueviolet?style=for-the-badge)
 
 | Regions | Subregions | Countries | States | Cities | Formats |
 |:-:|:-:|:-:|:-:|:-:|:-:|
