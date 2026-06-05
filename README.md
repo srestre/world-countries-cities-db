@@ -157,6 +157,16 @@ Examples across the different levels:
 
 For production, pin to a commit: replace `@main` with `@<commit-hash>`.
 
+### Versioning and caching
+
+- `@main` serves the latest commit, but jsDelivr caches it (about 12h on the CDN, up to
+  7 days in the browser), so a push is not reflected instantly. Force a refresh with
+  `https://purge.jsdelivr.net/gh/srestre/world-countries-cities-db@main/<path>`.
+- `@<commit-hash>` (and git tags / semver like `@v1.0.0` or `@1`) are immutable and cached
+  permanently. Pin a commit or a tag in production.
+- Files are served with `Access-Control-Allow-Origin: *`, so you can `fetch` them directly
+  from any browser or site.
+
 ## Regions
 
 | Region | slug | name_es | Countries | Cities |
