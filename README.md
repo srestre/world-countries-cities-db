@@ -1,14 +1,14 @@
 # world-countries-cities-db
 
-Worldwide **countries, states and cities database** (JSON, CSV, SQL, YAML) derived from
-[dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database),
-**split into granular pieces** (by country, region, subregion and bundle) so you can request
-only what you need without downloading the full world file (~47MB). A lightweight open-data
+Worldwide **countries, states and cities database** (JSON, CSV, SQL, YAML), **split into
+granular pieces** (by country, region, subregion and bundle) so you can request only what
+you need without downloading the full world file (~47MB). A lightweight open-data
 alternative to heavier sources like GeoNames for country / state / city lookups and lists.
 
-Built to be served over the **jsDelivr CDN** (once the repo is public) and to seed different
-stacks: frontend (chained Country -> City selects), spreadsheets (CSV), databases (SQL) and
-config (YAML).
+- **250 countries, 5308 states, 156025 cities.**
+- Four formats per level: **JSON, CSV, SQL, YAML**.
+- **Bilingual** display labels: English + Spanish (`name` / `name_es`).
+- Served straight from a CDN (jsDelivr) or used as flat files in any stack.
 
 ## Bilingual data (English + Spanish)
 
@@ -26,48 +26,26 @@ Plus `native` (the local name) for countries and states. **City names are proper
 and have a single form** (the same in both languages). Structure, slugs, JSON keys and code
 stay in English; only the human-facing labels are bilingual.
 
-There is also a dedicated **`/latam` section** ready for a chained Country -> City select
-in any form or frontend (slug-keyed, bilingual, Colombia first).
-
-> **Visibility / jsDelivr note:** this repo is **private**. jsDelivr only serves **public**
-> repositories, so jsDelivr CDN URLs do **not** work while it is private. To serve the JSON
-> to a browser (e.g. a Country -> City select) you have to either:
-> 1. make the repo public (`gh repo edit srestre/world-countries-cities-db --visibility public --accept-visibility-change-consequences`) so jsDelivr URLs activate, or
-> 2. host the JSON files you need on your own site/CDN, or
-> 3. proxy GitHub `raw` through your server with a token.
->
-> While private, the data is consumed via clone or the GitHub API.
-
-## Sources and attribution
-
-Two sources, both under the **Open Database License (ODbL) v1.0**, both credited:
-
-- **dr5hn/countries-states-cities-database** (Darshan Gada): the whole world (250 countries)
-  and everything outside `/latam`.
-- **Yerikmiller/Countries-States-Cities-JSON** (a dr5hn derivative): the richer LATAM city
-  lists under `/latam` (more cities than the dr5hn snapshot, e.g. Colombia 1220 vs 1038).
-
-See the "License" and "Acknowledgements" sections below.
-
 ## Why it exists (the problem)
 
-The source `countries+states+cities.json` is **47MB**: impossible to load in a frontend or
-to request whole every time. Here it is split into **~2250 files** across several
-granularity levels, so each call fetches only its slice.
+The full combined world file is **47MB**: impossible to load in a frontend or to request
+whole every time. Here it is split into **~2250 files** across several granularity levels,
+so each call fetches only its slice.
 
 ## Call levels (the point)
 
+Every level is an independent file. Pick the smallest one that answers your need:
+
 | You want... | Request this file |
 |-------------|-------------------|
-| One country | `/countries/CO.json`, `/countries/US.json` |
-| One country's flat city list (for a city dropdown) | `/flat-cities/CO.json` |
+| One country (full hierarchy) | `/countries/CO.json`, `/countries/US.json` |
+| One country's flat city list (for a dropdown) | `/flat-cities/CO.json` |
 | A whole region | `/regions/europe.json`, `/regions/americas.json` |
 | A subregion | `/subregions/south-america.json`, `/subregions/caribbean.json` |
-| A business group (LATAM, North America...) | `/bundles/latam.json`, `/bundles/north-america.json` |
+| A curated business group | `/bundles/latam.json`, `/bundles/north-america.json` |
 | One state of a large country | `/large-countries/US/states/california.json` |
 | Metadata for every country | `/metadata/countries.json` |
-| LATAM country list, ready for a dropdown (richer) | `/latam/countries.json` |
-| LATAM city list for a country (richer) | `/latam/cities/colombia.json` |
+| A richer, ready-to-use LATAM country/city set | `/latam/countries.json`, `/latam/cities/colombia.json` |
 
 ## Structure
 
@@ -81,32 +59,16 @@ granularity levels, so each call fetches only its slice.
 /regions/<slug>.{json,csv,sql,yml}              every country in a region (multi-format)
 /subregions/<slug>.{json,csv,sql,yml}           every country in a subregion (multi-format)
 /bundles/<slug>.{json,csv,sql,yml}              curated groups (multi-format)
-/flat-cities/<ISO2>.{json,csv}                  flat array of city names (dedup + locale sort)
+/flat-cities/<ISO2>.{json,csv}                  flat array of city names per country (dedup + locale sort)
 /large-countries/<ISO2>/states/<slug>.{json,csv}   per-state drill-down (US, BR, MX, IN, CA, AU, RU, CN)
-/latam/                                         ready-to-use LATAM section for dropdowns (Yerikmiller source)
-    countries.json                              20 countries, bilingual, Colombia first, slug + iso2
+/latam/                                         richer, ready-to-use LATAM set for dropdowns (slug-keyed, bilingual, Colombia first)
+    countries.json                              20 countries: { slug, name_en, name_es, iso2, iso3 }
     index.json                                  { slug: { name_en, name_es, iso2, iso3 } }
-    cities/<slug>.json                          flat city array per country (richer than dr5hn)
+    cities/<slug>.json                          flat city array per country
     latam-cities.json                           consolidated { slug: [cities...] }
-/scripts/build.js                               world data (dr5hn)
-/scripts/build-latam.js                         LATAM section (Yerikmiller)
+/scripts/build.js                               builds the worldwide data
+/scripts/build-latam.js                         builds the LATAM set
 ```
-
-### dr5hn vs Yerikmiller for LATAM (both available)
-
-For the 20 LATAM countries you have two interchangeable options in this same repo:
-
-| | Source | Keyed by | Shape | Cities (Colombia) |
-|-|--------|----------|-------|------------------:|
-| `/latam/cities/<slug>.json` | Yerikmiller | slug (`colombia`) | flat names | 1220 |
-| `/flat-cities/<ISO2>.json` | dr5hn | ISO2 (`CO`) | flat names | 1038 |
-| `/bundles/latam.json` | dr5hn | ISO2 | full hierarchy | - |
-
-Use `/latam/...` for the richer dropdown; use the dr5hn paths when you want one single
-source consistent with the rest of the world data.
-
-> Note: the `/latam` files use `name_en` as the English key, while the rest of the repo uses
-> `name`. Both use `name_es` for Spanish.
 
 ## Formats per level
 
@@ -149,7 +111,12 @@ cities(id, name, state_id, country_id, latitude, longitude)
 **YAML** mirrors the JSON hierarchy. **`/flat-cities`** is a plain array of city-name
 strings (JSON) or a single `city` column (CSV). JSON is compact, UTF-8, non-ASCII unescaped.
 
-## jsDelivr URLs (live once the repo is public)
+## jsDelivr URLs
+
+> This repo is currently **private**, and jsDelivr only serves **public** repositories, so
+> these CDN URLs activate once the repo is made public
+> (`gh repo edit srestre/world-countries-cities-db --visibility public --accept-visibility-change-consequences`).
+> While private, consume the files via clone, the GitHub API, or by self-hosting them.
 
 Pattern:
 
@@ -157,15 +124,16 @@ Pattern:
 https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/<path>
 ```
 
-Examples:
+Examples across the different levels:
 
 ```
-.../bundles/latam.json
-.../regions/europe.json
 .../countries/CO.json
 .../flat-cities/MX.json
-.../latam/countries.json
+.../regions/europe.json
+.../subregions/south-america.json
+.../bundles/latam.json
 .../large-countries/US/states/california.json
+.../latam/countries.json
 ```
 
 For production, pin to a commit: replace `@main` with `@<commit-hash>`.
@@ -190,8 +158,9 @@ For production, pin to a commit: replace `@main` with `@<commit-hash>`.
 | Central America | central-america | Centroamérica | 7 |
 | Northern America | northern-america | Norteamérica | 7 |
 
-> Taxonomy note: the source places **Mexico in "Northern America"**, not Central America.
-> That is why the curated **bundles** exist (LATAM is not a region/subregion in the source).
+> Taxonomy note: the upstream source places **Mexico in "Northern America"**, not Central
+> America. That is why the curated **bundles** exist (LATAM is not a region/subregion in the
+> source).
 
 ## Curated bundles
 
@@ -210,31 +179,49 @@ Edit the `BUNDLES` object in `scripts/build.js` to add or change groups.
 ## Totals
 
 - **250** countries, **5308** states, **156025** cities.
-- **~2250** files generated, ~203MB total. Largest single file is under 10MB (well within GitHub limits).
+- **~2250** files, ~203MB total. Largest single file is under 10MB (well within GitHub limits).
 
 ## Note on source noise
 
-The ODbL data can carry some noise (misclassified names, entries that are neighborhoods, or
+The data can carry some noise (misclassified names, entries that are neighborhoods, or
 cities that appear in the wrong country due to upstream errors). It is served as-is; if you
 need a curated list for a country, filter on your application side.
 
-## Usage: chained Country -> City select (via the `/latam` section)
+## Usage examples
 
-Framework-agnostic vanilla JavaScript. Point the two `querySelector` calls at whatever
-`<select>` elements your form/app uses. Works once the repo is public (jsDelivr) or if you
-serve these JSON files yourself. Switch `name_es` to `name_en` for English labels.
+Framework-agnostic vanilla JavaScript. Everything is plain `fetch` over static JSON, so it
+works in any stack.
+
+**Load a whole region, subregion or bundle (one request):**
+
+```js
+const BASE = 'https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main';
+const europe = await (await fetch(BASE + '/regions/europe.json')).json();        // 53 countries
+const latam  = await (await fetch(BASE + '/bundles/latam.json')).json();          // 20 countries
+const sa     = await (await fetch(BASE + '/subregions/south-america.json')).json();
+```
+
+**Chained Country -> City select (worldwide, keyed by ISO2 code):**
+
+```js
+const BASE = 'https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main';
+// 1) country list from metadata (name + name_es), 2) cities from /flat-cities/<ISO2>.json
+const countries = await (await fetch(BASE + '/metadata/countries.json')).json();
+const cities = await (await fetch(BASE + '/flat-cities/CO.json')).json();
+```
+
+**Chained Country -> City select (LATAM, richer list, slug-keyed):**
 
 ```html
 <select id="country"></select>
 <select id="city"></select>
 <script>
 (function () {
-  // Public jsDelivr base (active only when the repo is public):
-  var CDN = 'https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/latam';
+  var BASE = 'https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/latam';
   var selCountry = document.querySelector('#country');
   var selCity = document.querySelector('#city');
   if (!selCountry || !selCity) return;
-  fetch(CDN + '/countries.json').then(function (r) { return r.json(); }).then(function (countries) {
+  fetch(BASE + '/countries.json').then(function (r) { return r.json(); }).then(function (countries) {
     selCountry.innerHTML = '<option value="">Country</option>';
     countries.forEach(function (c) {
       var o = document.createElement('option'); o.value = c.slug; o.textContent = c.name_es; selCountry.appendChild(o);
@@ -242,7 +229,7 @@ serve these JSON files yourself. Switch `name_es` to `name_en` for English label
   });
   selCountry.addEventListener('change', function () {
     var slug = selCountry.value; selCity.innerHTML = '<option value="">City</option>'; if (!slug) return;
-    fetch(CDN + '/cities/' + slug + '.json').then(function (r) { return r.json(); }).then(function (cities) {
+    fetch(BASE + '/cities/' + slug + '.json').then(function (r) { return r.json(); }).then(function (cities) {
       cities.forEach(function (c) { var o = document.createElement('option'); o.value = c; o.textContent = c; selCity.appendChild(o); });
     });
   });
@@ -250,14 +237,13 @@ serve these JSON files yourself. Switch `name_es` to `name_en` for English label
 </script>
 ```
 
-The same pattern works for the worldwide data: use `/flat-cities/<ISO2>.json` keyed by ISO2
-code instead of the `/latam` slug files.
+Switch `name_es` to `name_en` (LATAM) or `name` (worldwide metadata) for English labels.
 
 ## Regenerate
 
 ```bash
-node --max-old-space-size=4096 scripts/build.js   # world data (dr5hn)
-node scripts/build-latam.js                       # LATAM section (Yerikmiller)
+node --max-old-space-size=4096 scripts/build.js   # worldwide data
+node scripts/build-latam.js                       # LATAM set
 ```
 
 Each script downloads its source and rewrites its files. Re-runnable.
@@ -269,36 +255,12 @@ The data files are generated. Do not hand-edit them: change `scripts/build.js` o
 `BUNDLES` object), add a large country for per-state drill-down (`LARGE_COUNTRIES`), or
 refine a Spanish translation (`REGION_ES` / `SUBREGION_ES` / `STATE_TYPE_ES`).
 
-## License
-
-This project is **dual-licensed**:
-
-- **Data** (`/countries`, `/regions`, `/subregions`, `/bundles`, `/flat-cities`,
-  `/large-countries`, `/latam`, `/metadata`): **Open Database License (ODbL) v1.0**, see
-  [`LICENSE`](LICENSE). The data is a derivative of dr5hn and Yerikmiller (both ODbL);
-  attribution to both is required and any adapted database must stay under ODbL.
-- **Code** (`/scripts`): **MIT License**, Copyright (c) 2026 srestre, see
-  [`LICENSE-CODE`](LICENSE-CODE).
-
-## Acknowledgements
-
-Huge thanks to the authors whose open data makes this project possible:
-
-- **Darshan Gada (dr5hn)** for [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database),
-  the comprehensive worldwide dataset that powers everything outside `/latam`.
-- **Yerikmiller** for [Countries-States-Cities-JSON](https://github.com/Yerikmiller/Countries-States-Cities-JSON),
-  the richer LATAM city lists used in `/latam`.
-
-Both datasets are released under the Open Database License (ODbL) v1.0. Thank you for
-keeping this data open and well maintained. This repository would not exist without your work.
-
 ## Resumen (español)
 
 Base de datos mundial de **países, estados y ciudades** (JSON, CSV, SQL, YAML), dividida en
 piezas granulares por país, región, subregión y grupo (bundle) para hacer llamadas ligeras
 por CDN sin descargar todo. Nombres **bilingües inglés/español**. Incluye una sección LATAM
-lista para un **select encadenado país -> ciudad** (con Colombia primero). Datos de dr5hn y
-Yerikmiller bajo licencia ODbL.
+lista para un **select encadenado país -> ciudad** (con Colombia primero).
 
 ## Keywords
 
@@ -308,3 +270,50 @@ alternative, open data geodata dataset.
 
 Base de datos de países y ciudades, listado de países, base de datos de ciudades del mundo,
 países estados ciudades JSON, lista de países y ciudades, select país ciudad.
+
+## Sources, license and acknowledgements
+
+### Sources
+
+This is a derivative database built from two open sources, both under the **Open Database
+License (ODbL) v1.0**:
+
+- **[dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)**
+  (Darshan Gada): the worldwide data (250 countries) and everything outside `/latam`.
+- **[Yerikmiller/Countries-States-Cities-JSON](https://github.com/Yerikmiller/Countries-States-Cities-JSON)**
+  (a dr5hn derivative): the richer LATAM city lists under `/latam`.
+
+For the 20 LATAM countries you therefore have two interchangeable options in this same repo:
+
+| Path | Source | Keyed by | Shape | Cities (Colombia) |
+|------|--------|----------|-------|------------------:|
+| `/latam/cities/<slug>.json` | Yerikmiller | slug (`colombia`) | flat names | 1220 |
+| `/flat-cities/<ISO2>.json` | dr5hn | ISO2 (`CO`) | flat names | 1038 |
+| `/bundles/latam.json` | dr5hn | ISO2 | full hierarchy | - |
+
+Use `/latam/...` for the richer dropdown; use the dr5hn paths when you want a single source
+consistent with the rest of the world data. Note: the `/latam` files use `name_en` for the
+English key, while the rest of the repo uses `name`. Both use `name_es` for Spanish.
+
+### License
+
+This project is **dual-licensed**:
+
+- **Data** (`/countries`, `/regions`, `/subregions`, `/bundles`, `/flat-cities`,
+  `/large-countries`, `/latam`, `/metadata`): **Open Database License (ODbL) v1.0**, see
+  [`LICENSE`](LICENSE). The data is a derivative of the sources above (both ODbL);
+  attribution to both is required and any adapted database must stay under ODbL.
+- **Code** (`/scripts`): **MIT License**, Copyright (c) 2026 srestre, see
+  [`LICENSE-CODE`](LICENSE-CODE).
+
+### Acknowledgements
+
+Huge thanks to the authors whose open data makes this project possible:
+
+- **Darshan Gada (dr5hn)** for [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database),
+  the comprehensive worldwide dataset that powers everything outside `/latam`.
+- **Yerikmiller** for [Countries-States-Cities-JSON](https://github.com/Yerikmiller/Countries-States-Cities-JSON),
+  the richer LATAM city lists used in `/latam`.
+
+Both datasets are released under the Open Database License (ODbL) v1.0. Thank you for keeping
+this data open and well maintained. This repository would not exist without your work.
