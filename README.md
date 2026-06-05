@@ -1,14 +1,28 @@
-# world-countries-cities-db
+<div align="center">
 
-Worldwide **countries, states and cities database** (JSON, CSV, SQL, YAML), **split into
-granular pieces** (by country, region, subregion and bundle) so you can request only what
-you need without downloading the full world file (~47MB). A lightweight open-data
-alternative to heavier sources like GeoNames for country / state / city lookups and lists.
+# World Countries, States & Cities Database
 
-- **250 countries, 5308 states, 156025 cities.**
-- Four formats per level: **JSON, CSV, SQL, YAML**.
-- **Bilingual** display labels: English + Spanish (`name` / `name_es`).
-- Served straight from a CDN (jsDelivr) or used as flat files in any stack.
+Granular, **bilingual (EN/ES)** dataset of **countries, states and cities** in
+**JSON, CSV, SQL and YAML**, split by country, region, subregion and bundle for
+lightweight CDN calls. A lightweight open-data alternative to heavier sources like
+GeoNames for country / state / city lookups and lists.
+
+[![License](https://img.shields.io/badge/license-MIT_%2B_ODbL-blue?style=flat-square)](#license)
+[![Stars](https://img.shields.io/github/stars/srestre/world-countries-cities-db?style=flat-square)](https://github.com/srestre/world-countries-cities-db/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/srestre/world-countries-cities-db?style=flat-square)](https://github.com/srestre/world-countries-cities-db/commits/main)
+[![jsDelivr hits](https://img.shields.io/jsdelivr/gh/hm/srestre/world-countries-cities-db?style=flat-square)](https://www.jsdelivr.com/package/gh/srestre/world-countries-cities-db)
+
+![Countries](https://img.shields.io/badge/countries-250-brightgreen?style=flat-square)
+![States](https://img.shields.io/badge/states-5%2C308-brightgreen?style=flat-square)
+![Cities](https://img.shields.io/badge/cities-156%2C025-brightgreen?style=flat-square)
+![Formats](https://img.shields.io/badge/formats-JSON_CSV_SQL_YAML-orange?style=flat-square)
+![Labels](https://img.shields.io/badge/labels-EN_%2F_ES-blueviolet?style=flat-square)
+
+| Regions | Subregions | Countries | States | Cities | Formats |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 6 | 22 | 250 | 5,308 | 156,025 | 4 |
+
+</div>
 
 ## Bilingual data (English + Spanish)
 
