@@ -11,16 +11,28 @@ config (YAML).
 
 Country display names are provided in **English (`name`) and Spanish (`name_es`)**.
 
-> **Visibility / jsDelivr note:** this repo is **private** for now. jsDelivr only serves
-> **public** repositories, so the CDN URLs below **will start working once the repo is made
-> public**. Until then the data is versioned and consumed via clone or the GitHub API.
+There is also a dedicated **`/latam/` section** that is ready to plug into an Elementor
+chained Country -> City select (slug-keyed, bilingual, Colombia first).
 
-## Source and attribution
+> **Visibility / jsDelivr note:** this repo is **private**. jsDelivr only serves **public**
+> repositories, so jsDelivr CDN URLs do **not** work while it is private. To serve the JSON
+> to a browser (e.g. the Elementor select) you have to either:
+> 1. make the repo public (`gh repo edit srestre/world-countries-cities-db --visibility public --accept-visibility-change-consequences`) so jsDelivr URLs activate, or
+> 2. host the JSON files you need on your own site/CDN, or
+> 3. proxy GitHub `raw` through your server with a token.
+>
+> While private, the data is consumed via clone or the GitHub API.
 
-Data from **dr5hn/countries-states-cities-database** (Darshan Gada) under
-**Open Database License (ODbL) v1.0**. This repo is a derivative (trimmed, regrouped by
-region/subregion/bundle and converted to several formats) and keeps the same license.
-See `LICENSE`.
+## Sources and attribution
+
+Two sources, both under the **Open Database License (ODbL) v1.0**, both credited:
+
+- **dr5hn/countries-states-cities-database** (Darshan Gada): the whole world (250 countries)
+  and everything outside `/latam`.
+- **Yerikmiller/Countries-States-Cities-JSON** (a dr5hn derivative): the richer LATAM city
+  lists under `/latam` (more cities than the dr5hn snapshot, e.g. Colombia 1220 vs 1038).
+
+This repo is a derivative and keeps the same license. See `LICENSE`.
 
 ## Why it exists (the problem)
 
@@ -39,6 +51,8 @@ granularity levels, so each call fetches only its slice.
 | A business group (LATAM, North America...) | `/bundles/latam.json`, `/bundles/north-america.json` |
 | One state of a large country | `/large-countries/US/states/california.json` |
 | Metadata for every country | `/metadata/countries.json` |
+| LATAM country list for Elementor (richer) | `/latam/countries.json` |
+| LATAM city list for a country (richer) | `/latam/cities/colombia.json` |
 
 ## Structure
 
@@ -54,8 +68,27 @@ granularity levels, so each call fetches only its slice.
 /bundles/<slug>.{json,csv,sql,yml}              curated groups (multi-format)
 /flat-cities/<ISO2>.{json,csv}                  flat array of city names (dedup + locale sort)
 /large-countries/<ISO2>/states/<slug>.{json,csv}   per-state drill-down (US, BR, MX, IN, CA, AU, RU, CN)
-/scripts/build.js
+/latam/                                         Elementor-ready LATAM section (Yerikmiller source)
+    countries.json                              20 countries, bilingual, Colombia first, slug + iso2
+    index.json                                  { slug: { name_en, name_es, iso2, iso3 } }
+    cities/<slug>.json                          flat city array per country (richer than dr5hn)
+    latam-cities.json                           consolidated { slug: [cities...] }
+/scripts/build.js                               world data (dr5hn)
+/scripts/build-latam.js                         LATAM section (Yerikmiller)
 ```
+
+### dr5hn vs Yerikmiller for LATAM (both available)
+
+For the 20 LATAM countries you have two interchangeable options in this same repo:
+
+| | Source | Keyed by | Shape | Cities (Colombia) |
+|-|--------|----------|-------|------------------:|
+| `/latam/cities/<slug>.json` | Yerikmiller | slug (`colombia`) | flat names | 1220 |
+| `/flat-cities/<ISO2>.json` | dr5hn | ISO2 (`CO`) | flat names | 1038 |
+| `/bundles/latam.json` | dr5hn | ISO2 | full hierarchy | - |
+
+Use `/latam/...` for the richer Elementor dropdown; use the dr5hn paths when you want one
+single source consistent with the rest of the world data.
 
 ### Formats per level
 
@@ -135,10 +168,40 @@ The ODbL data can carry some noise (misclassified names, entries that are neighb
 cities that appear in the wrong country due to upstream errors). It is served as-is; if you
 need a curated list for a country, filter on your application side.
 
+## Elementor usage (chained Country -> City), via the `/latam` section
+
+Works once the repo is public (jsDelivr) or if you serve these JSON files yourself. Switch
+`name_es` to `name_en` for English labels.
+
+```html
+<script>
+(function () {
+  // Public jsDelivr base (active only when the repo is public):
+  var CDN = 'https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/latam';
+  var selCountry = document.querySelector('select[name="form_fields[country]"]');
+  var selCity = document.querySelector('select[name="form_fields[city]"]');
+  if (!selCountry || !selCity) return;
+  fetch(CDN + '/countries.json').then(function (r) { return r.json(); }).then(function (countries) {
+    selCountry.innerHTML = '<option value="">Pais</option>';
+    countries.forEach(function (c) {
+      var o = document.createElement('option'); o.value = c.slug; o.textContent = c.name_es; selCountry.appendChild(o);
+    });
+  });
+  selCountry.addEventListener('change', function () {
+    var slug = selCountry.value; selCity.innerHTML = '<option value="">Ciudad</option>'; if (!slug) return;
+    fetch(CDN + '/cities/' + slug + '.json').then(function (r) { return r.json(); }).then(function (cities) {
+      cities.forEach(function (c) { var o = document.createElement('option'); o.value = c; o.textContent = c; selCity.appendChild(o); });
+    });
+  });
+})();
+</script>
+```
+
 ## Regenerate
 
 ```bash
-node --max-old-space-size=4096 scripts/build.js
+node --max-old-space-size=4096 scripts/build.js   # world data (dr5hn)
+node scripts/build-latam.js                       # LATAM section (Yerikmiller)
 ```
 
-Downloads the dr5hn dataset once and rewrites every file. Re-runnable.
+Each script downloads its source and rewrites its files. Re-runnable.
