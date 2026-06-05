@@ -10,7 +10,7 @@ GeoNames for country / state / city lookups and lists.
 [![License](https://img.shields.io/badge/license-MIT_%2B_ODbL-blue?style=for-the-badge)](#license)
 [![Stars](https://img.shields.io/github/stars/srestre/world-countries-cities-db?style=for-the-badge)](https://github.com/srestre/world-countries-cities-db/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/srestre/world-countries-cities-db?style=for-the-badge)](https://github.com/srestre/world-countries-cities-db/commits/main)
-[![jsDelivr hits](https://img.shields.io/jsdelivr/gh/hm/srestre/world-countries-cities-db?style=for-the-badge)](https://www.jsdelivr.com/package/gh/srestre/world-countries-cities-db)
+[![CDN](https://img.shields.io/badge/CDN-jsDelivr-e84d3d?style=for-the-badge)](https://www.jsdelivr.com/package/gh/srestre/world-countries-cities-db)
 
 ![Countries](https://img.shields.io/badge/countries-250-brightgreen?style=for-the-badge)
 ![States](https://img.shields.io/badge/states-5%2C308-brightgreen?style=for-the-badge)
@@ -137,7 +137,14 @@ strings (JSON) or a single `city` column (CSV). JSON is compact, UTF-8, non-ASCI
 
 ## jsDelivr URLs
 
-Every file is served over the jsDelivr CDN. Pattern:
+Every file is served over the jsDelivr CDN.
+
+> Note: jsDelivr's website file browser and Statistics page do not list this repo because it
+> is larger than jsDelivr's 50MB package-explorer limit. This does not affect delivery:
+> individual files load normally over `cdn.jsdelivr.net/gh/...`. To browse all files, use the
+> GitHub repository.
+
+Pattern:
 
 ```
 https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/<path>
