@@ -33,12 +33,16 @@ registros con departamento + municipio + código DANE + coordenadas.
    Bajos usan los archivos *_full (códigos completos); GB queda con primera
    parte (GB_full excluido por copyright de Royal Mail).
 2. **Formatos**: por país JSON + CSV (ambos, sin recortes). Los 5 bundles
-   regionales en los 4 formatos (JSON/CSV/SQL/YAML).
+   regionales son manifiestos JSON livianos (NO concatenan datos: la
+   concatenación rompería los límites de GitHub/jsDelivr, sobre todo
+   north-america con CA_full).
 3. **Esquema**: fiel a GeoNames + contexto (country_code, country_name,
    country_name_es, slug). Sin traducir nombres de lugar/departamento (son
    nombres oficiales).
 4. **Bundles**: los 5 regionales ya definidos en build.js (latam,
-   north-america, central-america, south-america, caribbean).
+   north-america, central-america, south-america, caribbean), generados como
+   manifiestos (lista de países miembro + conteos + rutas a sus archivos), no
+   como concatenaciones de datos.
 5. **Tamaño aceptado**: el repo crecerá de ~173 MB a ~1.0-1.2 GB (incluye
    CA_full/NL_full). Aceptado.
 6. **Sin Git LFS** (jsDelivr no sirve archivos LFS).
@@ -53,7 +57,7 @@ registros con departamento + municipio + código DANE + coordenadas.
 /postal-codes/<ISO2>.csv                           por país, CSV
 /postal-codes/<ISO2>/<admin1-slug>.{json,csv}      split por depto/estado SOLO si
                                                    el JSON del país superaría ~15 MB
-/postal-codes/bundles/<slug>.{json,csv,sql,yml}    5 bundles regionales, 4 formatos
+/postal-codes/bundles/<slug>.json                  5 manifiestos regionales (países + conteos + rutas)
 /postal-codes/index.json                           manifiesto de cobertura
 ```
 
@@ -100,10 +104,11 @@ No se modifica `/countries`, `/regions`, `/subregions`, `/bundles`,
    Si el JSON del país superaría ~15 MB, dividir por `admin1` en
    `/postal-codes/<ISO2>/<admin1-slug>.{json,csv}` con guard de colisión de
    slugs (igual que /large-countries en build.js).
-6. Bundles: reutilizar los sets de ISO2 de build.js (latam, north-america,
-   central-america, south-america, caribbean), agregar los registros de sus
-   países miembro y emitir los 4 formatos con los mismos guards
-   (formula-injection en CSV, sqlStr/sqlNum en SQL, null-proto en índices).
+6. Bundles (manifiestos): reutilizar los sets de ISO2 de build.js (latam,
+   north-america, central-america, south-america, caribbean) y, por cada
+   bundle, emitir un JSON liviano con los países miembro, su conteo de CP, si
+   fueron split y las rutas a sus archivos. NO concatena datos (evita los
+   archivos que romperían GitHub/jsDelivr). Índices con null-proto.
 7. Escribir `index.json`: por país {country_code, country_name, records,
    split: bool, files: [...]}, más notas de cobertura parcial por país.
 8. Re-ejecutable e idempotente.
@@ -161,9 +166,9 @@ Sin frameworks (convención del repo). Comprueba:
 ## 4. Implicaciones de tamaño
 
 - Estimación: ~2.8M registros (allCountries ~1.5M + CA_full ~850k + NL_full
-  ~450k). JSON + CSV por país + bundles. Repo total estimado ~1.0-1.2 GB (desde
-  173 MB). Cruza la recomendación de GitHub de <1 GB pero queda muy por debajo
-  del umbral de 5 GB.
+  ~450k). JSON + CSV por país (los bundles son manifiestos, peso despreciable).
+  Repo total estimado ~1.0-1.2 GB (desde 173 MB). Cruza la recomendación de
+  GitHub de <1 GB pero queda muy por debajo del umbral de 5 GB.
 - Límites respetados: archivos <15 MB (GitHub bloquea >100 MB; jsDelivr ~20 MB).
   Repo ~1.0-1.2 GB (GitHub recomienda <1 GB, email amistoso >5 GB).
 - Riesgo principal: crecimiento del historial `.git` por regeneraciones
