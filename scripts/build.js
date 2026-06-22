@@ -32,6 +32,12 @@
 const fs = require('fs');
 const path = require('path');
 
+const {
+  slug, num, ensureDir, writeJSON, csvField, writeCSV,
+  yamlScalar, yamlLines, writeYAML, sqlStr, sqlNum, sqlId, flushInserts,
+} = require('./lib/format.js');
+const { BUNDLES } = require('./lib/groups.js');
+
 const SRC = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/json/countries%2Bstates%2Bcities.json';
 const ROOT = path.resolve(__dirname, '..');
 
@@ -39,18 +45,6 @@ const collator = new Intl.Collator('es', { sensitivity: 'accent' });
 
 // Large countries that get per-state drill-down files.
 const LARGE_COUNTRIES = ['US', 'BR', 'MX', 'IN', 'CA', 'AU', 'RU', 'CN'];
-
-// Curated business bundles (sets of ISO2 codes), with English + Spanish names.
-const BUNDLES = {
-  latam: {
-    name: 'Latin America', name_es: 'América Latina',
-    iso2: ['CO', 'AR', 'BO', 'BR', 'CL', 'CR', 'CU', 'EC', 'SV', 'GT', 'HN', 'MX', 'NI', 'PA', 'PY', 'PE', 'PR', 'DO', 'UY', 'VE'],
-  },
-  'north-america': { name: 'North America', name_es: 'Norteamérica', iso2: ['US', 'CA', 'MX'] },
-  'central-america': { name: 'Central America', name_es: 'Centroamérica', iso2: ['BZ', 'CR', 'SV', 'GT', 'HN', 'NI', 'PA'] },
-  'south-america': { name: 'South America', name_es: 'Sudamérica', iso2: ['AR', 'BO', 'BR', 'CL', 'CO', 'EC', 'GY', 'PY', 'PE', 'SR', 'UY', 'VE'] },
-  caribbean: { name: 'Caribbean', name_es: 'Caribe', iso2: ['CU', 'DO', 'PR', 'HT', 'JM', 'TT', 'BS', 'BB', 'DM', 'GD', 'KN', 'LC', 'VC', 'AG'] },
-};
 
 // Region names in Spanish.
 const REGION_ES = {
@@ -197,28 +191,6 @@ const STATE_TYPE_ES = {
 // Helpers
 // ---------------------------------------------------------------------------
 
-function slug(s) {
-  return String(s == null ? '' : s)
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
-function ensureDir(dir) {
-  fs.mkdirSync(dir, { recursive: true });
-}
-
-function writeJSON(file, obj) {
-  fs.writeFileSync(file, JSON.stringify(obj), 'utf8');
-}
-
-function num(v) {
-  if (v === null || v === undefined || v === '') return null;
-  const n = Number(v);
-  return Number.isFinite(n) ? n : null;
-}
-
 // Spanish country name from the source translations, falling back to English.
 function spanishName(c) {
   let t = c.translations;
@@ -305,23 +277,6 @@ function countryMeta(c) {
 
 // ----- CSV ------------------------------------------------------------------
 
-function csvField(v) {
-  if (v === null || v === undefined) return '';
-  let s = String(v);
-  // CSV formula-injection guard: a spreadsheet (Excel/Sheets) treats a text cell starting
-  // with = + - @ TAB or CR as a formula. Numbers (lat/long) are typeof 'number', so a
-  // negative coordinate is never touched; only risky text values get a leading apostrophe.
-  if (typeof v === 'string' && /^[=+\-@\t\r]/.test(s)) s = "'" + s;
-  if (/[",\n\r]/.test(s) || s !== s.trim()) return '"' + s.replace(/"/g, '""') + '"';
-  return s;
-}
-
-function writeCSV(file, columns, rows) {
-  const out = [columns.join(',')];
-  for (const r of rows) out.push(columns.map((c) => csvField(r[c])).join(','));
-  fs.writeFileSync(file, out.join('\n') + '\n', 'utf8');
-}
-
 // City-level rows for a set of trimmed countries (bilingual columns).
 function cityRows(countries) {
   const rows = [];
@@ -346,51 +301,6 @@ function cityRows(countries) {
 
 const CITY_COLS = ['country_iso2', 'country_name', 'country_name_es', 'region', 'region_es', 'subregion', 'subregion_es', 'state_code', 'state_name', 'state_type', 'state_type_es', 'city_name', 'latitude', 'longitude'];
 
-// ----- YAML (minimal block emitter) ----------------------------------------
-
-function yamlScalar(v) {
-  if (v === null || v === undefined) return 'null';
-  if (typeof v === 'number' || typeof v === 'boolean') return String(v);
-  return JSON.stringify(String(v)); // double-quoted is valid YAML and escapes everything
-}
-
-function yamlLines(value, indent, out) {
-  const pad = '  '.repeat(indent);
-  if (Array.isArray(value)) {
-    if (!value.length) { out.push(pad + '[]'); return; }
-    for (const item of value) {
-      if (item !== null && typeof item === 'object') {
-        out.push(pad + '-');
-        yamlLines(item, indent + 1, out);
-      } else {
-        out.push(pad + '- ' + yamlScalar(item));
-      }
-    }
-    return;
-  }
-  if (value !== null && typeof value === 'object') {
-    const keys = Object.keys(value);
-    if (!keys.length) { out.push(pad + '{}'); return; }
-    for (const k of keys) {
-      const v = value[k];
-      if (v !== null && typeof v === 'object') {
-        out.push(pad + k + ':');
-        yamlLines(v, indent + 1, out);
-      } else {
-        out.push(pad + k + ': ' + yamlScalar(v));
-      }
-    }
-    return;
-  }
-  out.push(pad + yamlScalar(value));
-}
-
-function writeYAML(file, obj) {
-  const out = [];
-  yamlLines(obj, 0, out);
-  fs.writeFileSync(file, out.join('\n') + '\n', 'utf8');
-}
-
 // ----- SQL (scoped CREATE + INSERT, using original ids) --------------------
 
 const SQL_SCHEMA = [
@@ -409,31 +319,6 @@ const SQL_SCHEMA = [
   ');',
   '',
 ].join('\n');
-
-function sqlStr(v) {
-  if (v === null || v === undefined || v === '') return 'NULL';
-  // Double backslashes (MySQL default mode treats \ as an escape) and single quotes.
-  return "'" + String(v).replace(/\\/g, '\\\\').replace(/'/g, "''") + "'";
-}
-
-function sqlNum(v) {
-  const n = num(v);
-  return n === null ? 'NULL' : String(n);
-}
-
-function sqlId(v) {
-  if (v === null || v === undefined || v === '') return 'NULL';
-  const n = Number(v);
-  return Number.isFinite(n) ? String(Math.trunc(n)) : 'NULL';
-}
-
-function flushInserts(table, cols, valuesArr, out) {
-  const CHUNK = 500;
-  for (let i = 0; i < valuesArr.length; i += CHUNK) {
-    const chunk = valuesArr.slice(i, i + CHUNK);
-    out.push(`INSERT INTO ${table} (${cols.join(', ')}) VALUES\n` + chunk.join(',\n') + ';');
-  }
-}
 
 // Takes the RAW country objects (with ids) in scope.
 function writeSQL(file, rawCountries) {
