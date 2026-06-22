@@ -4,15 +4,18 @@
   "description": "Worldwide countries, states and cities database (JSON, CSV, SQL, YAML), split by country/region/subregion/bundle, bilingual EN/ES, plus a ready-to-use LATAM set.",
   "private": true,
   "license": "MIT",
-  "//license": "MIT applies to the code in /scripts (see LICENSE-CODE). The DATA is under ODbL v1.0 (see LICENSE).",
+  "//license": "MIT applies to the code in /scripts (see LICENSE-CODE). Country/state/city DATA is under ODbL v1.0 (see LICENSE). Postal-code DATA is under CC BY 4.0 (see LICENSE-DATA-POSTAL).",
   "engines": {
     "node": ">=20"
   },
   "scripts": {
     "build": "node --max-old-space-size=4096 scripts/build.js",
     "build:latam": "node scripts/build-latam.js",
-    "build:all": "npm run build && npm run build:latam",
-    "validate": "node scripts/validate.js"
+    "build:postal": "node --max-old-space-size=4096 scripts/build-postal.js",
+    "build:all": "npm run build && npm run build:latam && npm run build:postal",
+    "validate": "node scripts/validate.js",
+    "validate:postal": "node scripts/validate-postal.js",
+    "test": "node --test"
   },
   "keywords": [
     "countries",

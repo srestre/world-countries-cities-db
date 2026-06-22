@@ -1,0 +1,19 @@
+Postal code data in /postal-codes is sourced from GeoNames
+(https://www.geonames.org/) and is licensed under the
+Creative Commons Attribution 4.0 License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: "Postal code data (c) GeoNames, CC BY 4.0,
+https://www.geonames.org/".
+
+Coverage notes (from the GeoNames readme):
+- Roughly 121 countries are covered; countries without a postal system or
+  without compatibly licensed data are absent.
+- Partial data: Argentina (first 5 positions), Brazil (major codes only),
+  Chile / China / Ireland / Malta (partial for copyright), Canada / Netherlands
+  / United Kingdom (first part only in the base dump).
+- CA and NL use the fuller CA_full / NL_full dumps. GB_full is intentionally
+  excluded (contains Royal Mail copyrighted data).
+
+This file covers ONLY the postal data. Repository code is MIT (LICENSE-CODE).
+Country / state / city data from dr5hn and Yerikmiller is ODbL (LICENSE).
