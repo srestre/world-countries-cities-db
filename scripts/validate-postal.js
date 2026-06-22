@@ -27,6 +27,18 @@ function walkJSON(dir) {
   return out;
 }
 
+function walkAll(dir) {
+  const out = [];
+  for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, e.name);
+    if (e.isDirectory()) out.push(...walkAll(p));
+    else out.push(p);
+  }
+  return out;
+}
+
+const MAX_FILE = 15 * 1024 * 1024; // 15 MB ceiling (jsDelivr / GitHub safe)
+
 function main() {
   check(fs.existsSync(DIR), 'postal-codes/ exists');
   if (!fs.existsSync(DIR)) { process.exit(1); }
@@ -64,6 +76,12 @@ function main() {
       if (!r.postal_code) { check(false, 'record missing postal_code in ' + f); break; }
       if (!/^[A-Za-z]{2}$/.test(r.country_code || '')) { check(false, 'bad country_code in ' + f); break; }
     }
+  }
+
+  // No file may exceed the size ceiling (jsDelivr / GitHub safe).
+  for (const f of walkAll(DIR)) {
+    const sz = fs.statSync(f).size;
+    if (sz > MAX_FILE) check(false, 'file over 15MB (' + (sz / 1048576).toFixed(1) + 'MB): ' + f);
   }
 
   // Index matches files on disk.
