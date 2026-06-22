@@ -1,0 +1,492 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+MW,Malawi,Malawi,209100,Dedza Township,Central Region,C,Dedza,06,,,-14.2627,34.1856,,dedza-township
+MW,Malawi,Malawi,209101,Tambala,Central Region,C,Dedza,06,,,-14.0333,34.2333,4,tambala
+MW,Malawi,Malawi,209102,Chauma,Central Region,C,Dedza,06,,,-14.2627,34.1856,,chauma
+MW,Malawi,Malawi,209103,Kasumbu,Central Region,C,Dedza,06,,,-14.3,34.35,4,kasumbu
+MW,Malawi,Malawi,209104,Kachindamoto,Central Region,C,Dedza,06,,,-14.3606,34.2637,4,kachindamoto
+MW,Malawi,Malawi,209105,Kamenya Gwaza,Central Region,C,Dedza,06,,,-14.3667,34.45,4,kamenya-gwaza
+MW,Malawi,Malawi,209106,Kaphuka,Central Region,C,Dedza,06,,,-14.15,34.1667,4,kaphuka
+MW,Malawi,Malawi,209107,Chilikumwendo,Central Region,C,Dedza,06,,,-14.2167,33.95,4,chilikumwendo
+MW,Malawi,Malawi,209108,Kachere,Central Region,C,Dedza,06,,,-14.4167,34.1167,4,kachere
+MW,Malawi,Malawi,204100,Dowa BOMA,Central Region,C,Dowa,07,,,-13.601,33.8238,,dowa-boma
+MW,Malawi,Malawi,204101,Chakhaza,Central Region,C,Dowa,07,,,-13.65,33.7333,4,chakhaza
+MW,Malawi,Malawi,204102,Dzoole,Central Region,C,Dowa,07,,,-13.5791,33.6588,4,dzoole
+MW,Malawi,Malawi,204103,Kayembe,Central Region,C,Dowa,07,,,-13.6331,33.6001,4,kayembe
+MW,Malawi,Malawi,204104,Mponela,Central Region,C,Dowa,07,,,-13.5319,33.7401,4,mponela
+MW,Malawi,Malawi,204105,Mponela Township,Central Region,C,Dowa,07,,,-13.601,33.8238,,mponela-township
+MW,Malawi,Malawi,204106,Msakambewa,Central Region,C,Dowa,07,,,-13.5357,33.9178,4,msakambewa
+MW,Malawi,Malawi,204107,Mkukula,Central Region,C,Dowa,07,,,-13.7545,33.8265,4,mkukula
+MW,Malawi,Malawi,204108,Lumbadzi Township,Central Region,C,Dowa,07,,,-13.601,33.8238,,lumbadzi-township
+MW,Malawi,Malawi,204109,Chiwere,Central Region,C,Dowa,07,,,-13.7667,34.1333,4,chiwere
+MW,Malawi,Malawi,201100,Chisikwa,Central Region,C,Kasungu Rural,09,,,-14,33.4833,4,chisikwa
+MW,Malawi,Malawi,201101,Kaluluma,Central Region,C,Kasungu Rural,09,,,-12.5783,33.5196,4,kaluluma
+MW,Malawi,Malawi,201102,Chisinga,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,chisinga
+MW,Malawi,Malawi,201103,Chisemphere,Central Region,C,Kasungu Rural,09,,,-13.2333,33.4667,4,chisemphere
+MW,Malawi,Malawi,201104,Chulu,Central Region,C,Kasungu Rural,09,,,-12.82,33.3086,4,chulu
+MW,Malawi,Malawi,201105,M’nyanja,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,m-nyanja
+MW,Malawi,Malawi,201106,Simlemba,Central Region,C,Kasungu Rural,09,,,-12.7444,33.6745,4,simlemba
+MW,Malawi,Malawi,201107,Mphomwa,Central Region,C,Kasungu Rural,09,,,-12.8075,33.4334,4,mphomwa
+MW,Malawi,Malawi,201108,Kaphaizi,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,kaphaizi
+MW,Malawi,Malawi,201109,Mwase,Central Region,C,Kasungu Rural,09,,,-13.0667,33.4333,4,mwase
+MW,Malawi,Malawi,201110,Kaomba,Central Region,C,Kasungu Rural,09,,,-13.1,33.5,4,kaomba
+MW,Malawi,Malawi,201111,Wimbe,Central Region,C,Kasungu Rural,09,,,-12.9765,33.6837,4,wimbe
+MW,Malawi,Malawi,201112,Kapelula,Central Region,C,Kasungu Rural,09,,,-12.9062,33.8019,4,kapelula
+MW,Malawi,Malawi,201113,Kapichira,Central Region,C,Kasungu Rural,09,,,-12.8833,33.9333,4,kapichira
+MW,Malawi,Malawi,201114,Mdunga,Central Region,C,Kasungu Rural,09,,,-12.9863,33.8332,4,mdunga
+MW,Malawi,Malawi,201115,Chilowamatambe,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,chilowamatambe
+MW,Malawi,Malawi,201116,Chambwe,Central Region,C,Kasungu Rural,09,,,-13.2,33.65,4,chambwe
+MW,Malawi,Malawi,201117,Mangwazu,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,mangwazu
+MW,Malawi,Malawi,201118,Mawawa,Central Region,C,Kasungu Rural,09,,,-13.1,33.3833,4,mawawa
+MW,Malawi,Malawi,201119,Lukwa,Central Region,C,Kasungu Rural,09,,,-13.1,33.45,4,lukwa
+MW,Malawi,Malawi,201120,Njombwa,Central Region,C,Kasungu Rural,09,,,-13.3,33.5167,4,njombwa
+MW,Malawi,Malawi,201121,Kawamba,Central Region,C,Kasungu Rural,09,,,-13.2969,33.341,4,kawamba
+MW,Malawi,Malawi,201122,Nthunduwala,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,nthunduwala
+MW,Malawi,Malawi,201123,Chaima,Central Region,C,Kasungu Rural,09,,,-13.3167,33.4833,4,chaima
+MW,Malawi,Malawi,201124,Chidzuma,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,chidzuma
+MW,Malawi,Malawi,201125,Santhe,Central Region,C,Kasungu Rural,09,,,-13.467,33.3838,4,santhe
+MW,Malawi,Malawi,201126,Kasungu National Park,Central Region,C,Kasungu Rural,09,,,-13,33.4167,,kasungu-national-park
+MW,Malawi,Malawi,201300,Kasungu Central Township,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,kasungu-central-township
+MW,Malawi,Malawi,201301,Chipala,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,chipala
+MW,Malawi,Malawi,201302,Mponda,Central Region,C,Kasungu Municipality,09,,,-13.6333,33.45,4,mponda
+MW,Malawi,Malawi,201303,Bunda,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,bunda
+MW,Malawi,Malawi,201304,Belele,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,belele
+MW,Malawi,Malawi,201305,Chankhanga,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,chankhanga
+MW,Malawi,Malawi,201306,Kasalika,Central Region,C,Kasungu Municipality,09,,,-13.0333,33.5,4,kasalika
+MW,Malawi,Malawi,201307,Kapalankhwazi,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,kapalankhwazi
+MW,Malawi,Malawi,201308,Chitete,Central Region,C,Kasungu Municipality,09,,,-13.4167,33.8333,4,chitete
+MW,Malawi,Malawi,201309,Kamvunguti,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,kamvunguti
+MW,Malawi,Malawi,201310,Chimbuna,Central Region,C,Kasungu Municipality,09,,,-13,33.4167,,chimbuna
+MW,Malawi,Malawi,201311,Gundani,Central Region,C,Kasungu Municipality,09,,,-13.05,33.5,4,gundani
+MW,Malawi,Malawi,206101,Khongoni,Central Region,C,Lilongwe Rural,11,,,-13.8528,33.3737,4,khongoni
+MW,Malawi,Malawi,206102,Kabudula,Central Region,C,Lilongwe Rural,11,,,-13.6667,33.4167,4,kabudula
+MW,Malawi,Malawi,206103,Mtema,Central Region,C,Lilongwe Rural,11,,,-13.8167,33.6667,4,mtema
+MW,Malawi,Malawi,206104,Mbang’ombe,Central Region,C,Lilongwe Rural,11,,,-14.0196,33.6841,,mbang-ombe
+MW,Malawi,Malawi,206105,Chitukula,Central Region,C,Lilongwe Rural,11,,,-13.7819,33.7493,4,chitukula
+MW,Malawi,Malawi,206106,Chimutu,Central Region,C,Lilongwe Rural,11,,,-14.0667,33.8167,4,chimutu
+MW,Malawi,Malawi,206107,Chitekwele,Central Region,C,Lilongwe Rural,11,,,-14.0196,33.6841,,chitekwele
+MW,Malawi,Malawi,206108,Mazengera,Central Region,C,Lilongwe Rural,11,,,-14.0667,33.9667,4,mazengera
+MW,Malawi,Malawi,206109,Kalumbu,Central Region,C,Lilongwe Rural,11,,,-14.1351,33.9471,4,kalumbu
+MW,Malawi,Malawi,206110,Chadza,Central Region,C,Lilongwe Rural,11,,,-14.157,33.8429,4,chadza
+MW,Malawi,Malawi,206111,Kalumba,Central Region,C,Lilongwe Rural,11,,,-14.0833,33.8167,4,kalumba
+MW,Malawi,Malawi,206112,Tsabango,Central Region,C,Lilongwe Rural,11,,,-14.0196,33.6841,,tsabango
+MW,Malawi,Malawi,206113,Njewa,Central Region,C,Lilongwe Rural,11,,,-13.9833,33.7167,4,njewa
+MW,Malawi,Malawi,206114,Malili,Central Region,C,Lilongwe Rural,11,,,-14.0784,33.6959,4,malili
+MW,Malawi,Malawi,206115,Kalolo,Central Region,C,Lilongwe Rural,11,,,-14,33.3833,4,kalolo
+MW,Malawi,Malawi,206116,Masumbankhunda,Central Region,C,Lilongwe Rural,11,,,-14.0196,33.6841,,masumbankhunda
+MW,Malawi,Malawi,206117,Chiseka,Central Region,C,Lilongwe Rural,11,,,-14.0196,33.6841,,chiseka
+MW,Malawi,Malawi,206118,Masula,Central Region,C,Lilongwe Rural,11,,,-14.1597,33.6943,4,masula
+MW,Malawi,Malawi,207201,Area 1,Central Region,C,Lilongwe Urban,11,,,-14.0012,33.7727,4,area-1
+MW,Malawi,Malawi,207202,Area 2,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-2
+MW,Malawi,Malawi,207203,Area 3,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-3
+MW,Malawi,Malawi,207204,Area 4,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-4
+MW,Malawi,Malawi,207205,Area 5,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-5
+MW,Malawi,Malawi,207206,Area 6,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-6
+MW,Malawi,Malawi,207207,Area 7,Central Region,C,Lilongwe Urban,11,,,-13.987,33.798,4,area-7
+MW,Malawi,Malawi,207208,Area 8,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-8
+MW,Malawi,Malawi,207209,Area 9,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-9
+MW,Malawi,Malawi,207210,Area 10,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-10
+MW,Malawi,Malawi,207211,Area 11,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-11
+MW,Malawi,Malawi,207212,Area 12,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-12
+MW,Malawi,Malawi,207213,Area 13,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-13
+MW,Malawi,Malawi,207214,Area 14,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-14
+MW,Malawi,Malawi,207215,Area 15,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-15
+MW,Malawi,Malawi,207216,Area 16,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-16
+MW,Malawi,Malawi,207217,Area 17,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-17
+MW,Malawi,Malawi,207218,Area 18,Central Region,C,Lilongwe Urban,11,,,-13.9417,33.766,4,area-18
+MW,Malawi,Malawi,207219,Area 19,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-19
+MW,Malawi,Malawi,207220,Area 20,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-20
+MW,Malawi,Malawi,207221,Area 21,Central Region,C,Lilongwe Urban,11,,,-13.9937,33.8112,4,area-21
+MW,Malawi,Malawi,207222,Area 22,Central Region,C,Lilongwe Urban,11,,,-14.0116,33.7991,4,area-22
+MW,Malawi,Malawi,207223,Area 23,Central Region,C,Lilongwe Urban,11,,,-14.0168,33.7941,4,area-23
+MW,Malawi,Malawi,207224,Area 24,Central Region,C,Lilongwe Urban,11,,,-14.026,33.7956,4,area-24
+MW,Malawi,Malawi,207225,Area 25,Central Region,C,Lilongwe Urban,11,,,-13.8795,33.7242,4,area-25
+MW,Malawi,Malawi,207226,Area 26,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-26
+MW,Malawi,Malawi,207227,Area 27,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-27
+MW,Malawi,Malawi,207228,Area 28,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-28
+MW,Malawi,Malawi,207229,Area 29,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-29
+MW,Malawi,Malawi,207230,Area 30,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-30
+MW,Malawi,Malawi,207231,Area 31,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-31
+MW,Malawi,Malawi,207232,Area 32,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-32
+MW,Malawi,Malawi,207233,Area 33,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-33
+MW,Malawi,Malawi,207234,Area 34,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-34
+MW,Malawi,Malawi,207235,Area 35,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-35
+MW,Malawi,Malawi,207236,Area 36,Central Region,C,Lilongwe Urban,11,,,-14.0226,33.7847,4,area-36
+MW,Malawi,Malawi,207237,Area 37,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-37
+MW,Malawi,Malawi,207238,Area 38,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-38
+MW,Malawi,Malawi,207239,Area 39,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-39
+MW,Malawi,Malawi,207240,Area 40,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-40
+MW,Malawi,Malawi,207241,Area 41,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-41
+MW,Malawi,Malawi,207242,Area 42,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-42
+MW,Malawi,Malawi,207243,Area 43,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-43
+MW,Malawi,Malawi,207244,Area 44,Central Region,C,Lilongwe Urban,11,,,-13.9607,33.8526,4,area-44
+MW,Malawi,Malawi,207245,Area 45,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-45
+MW,Malawi,Malawi,207246,Area 46,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-46
+MW,Malawi,Malawi,207247,Area 47,Central Region,C,Lilongwe Urban,11,,,-13.9581,33.7548,4,area-47
+MW,Malawi,Malawi,207248,Area 48,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-48
+MW,Malawi,Malawi,207249,Area 49,Central Region,C,Lilongwe Urban,11,,,-13.9209,33.7467,4,area-49
+MW,Malawi,Malawi,207250,Area 50,Central Region,C,Lilongwe Urban,11,,,-13.9096,33.7701,4,area-50
+MW,Malawi,Malawi,207251,Area 51,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-51
+MW,Malawi,Malawi,207252,Area 52,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-52
+MW,Malawi,Malawi,207253,Area 53,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-53
+MW,Malawi,Malawi,207254,Area 54,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-54
+MW,Malawi,Malawi,207255,Area 55,Central Region,C,Lilongwe Urban,11,,,-13.8343,33.7631,4,area-55
+MW,Malawi,Malawi,207256,Area 56,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-56
+MW,Malawi,Malawi,207257,Area 57,Central Region,C,Lilongwe Urban,11,,,-14.0106,33.7022,4,area-57
+MW,Malawi,Malawi,207258,Area 58,Central Region,C,Lilongwe Urban,11,,,-14.0196,33.6841,,area-58
+MW,Malawi,Malawi,205100,Mchinji BOMA,Central Region,C,Mchinji,13,,,-13.7623,33.08,,mchinji-boma
+MW,Malawi,Malawi,205101,Gumba,Central Region,C,Mchinji,13,,,-13.424,33.1102,4,gumba
+MW,Malawi,Malawi,205102,Mkanda,Central Region,C,Mchinji,13,,,-13.5147,32.9597,4,mkanda
+MW,Malawi,Malawi,205103,Dambe,Central Region,C,Mchinji,13,,,-13.7623,33.08,,dambe
+MW,Malawi,Malawi,205104,Pitala,Central Region,C,Mchinji,13,,,-13.7623,33.08,,pitala
+MW,Malawi,Malawi,205105,Kazyozyo,Central Region,C,Mchinji,13,,,-13.5676,32.8613,4,kazyozyo
+MW,Malawi,Malawi,205106,Kapunula,Central Region,C,Mchinji,13,,,-13.5874,32.7819,4,kapunula
+MW,Malawi,Malawi,205107,Kapondo,Central Region,C,Mchinji,13,,,-13.7623,33.08,,kapondo
+MW,Malawi,Malawi,205108,Mduwa,Central Region,C,Mchinji,13,,,-13.7211,33.0853,4,mduwa
+MW,Malawi,Malawi,205109,Nyoka,Central Region,C,Mchinji,13,,,-13.7004,32.9056,4,nyoka
+MW,Malawi,Malawi,205110,Mlonyeni,Central Region,C,Mchinji,13,,,-13.8582,33.026,4,mlonyeni
+MW,Malawi,Malawi,205111,Zulu,Central Region,C,Mchinji,13,,,-13.8147,32.9688,4,zulu
+MW,Malawi,Malawi,205112,Simphasi,Central Region,C,Mchinji,13,,,-13.7623,33.08,,simphasi
+MW,Malawi,Malawi,205113,Mavwere,Central Region,C,Mchinji,13,,,-13.7623,33.08,,mavwere
+MW,Malawi,Malawi,210100,Ntcheu BOMA,Central Region,C,Ntcheu,16,,,-14.75,34.75,,ntcheu-boma
+MW,Malawi,Malawi,210101,Masasa,Central Region,C,Ntcheu,16,,,-14.4359,34.4332,4,masasa
+MW,Malawi,Malawi,210102,Chakhumbira,Central Region,C,Ntcheu,16,,,-14.5667,34.7,4,chakhumbira
+MW,Malawi,Malawi,210103,Goodson Ganya,Central Region,C,Ntcheu,16,,,-14.75,34.75,,goodson-ganya
+MW,Malawi,Malawi,210104,Njolomole,Central Region,C,Ntcheu,16,,,-14.6493,34.5579,4,njolomole
+MW,Malawi,Malawi,210105,Kwataine,Central Region,C,Ntcheu,16,,,-14.8333,34.6833,4,kwataine
+MW,Malawi,Malawi,210106,Makwangwala,Central Region,C,Ntcheu,16,,,-14.8,34.7667,4,makwangwala
+MW,Malawi,Malawi,210107,Mkutumula,Central Region,C,Ntcheu,16,,,-14.846,34.8927,4,mkutumula
+MW,Malawi,Malawi,210108,Champiti,Central Region,C,Ntcheu,16,,,-14.75,34.75,,champiti
+MW,Malawi,Malawi,210109,Mpando,Central Region,C,Ntcheu,16,,,-13.4333,33.85,4,mpando
+MW,Malawi,Malawi,210110,Phambala,Central Region,C,Ntcheu,16,,,-14.1167,33.9667,4,phambala
+MW,Malawi,Malawi,210111,Tsikulamowa,Central Region,C,Ntcheu,16,,,-14.75,34.75,,tsikulamowa
+MW,Malawi,Malawi,202100,Nkhotakota BOMA,Central Region,C,Nkhota Kota,18,,,-12.8042,34.083,,nkhotakota-boma
+MW,Malawi,Malawi,202101,Kafuzila,Central Region,C,Nkhota Kota,18,,,-12.3,34.0333,4,kafuzila
+MW,Malawi,Malawi,202102,Kanyenda,Central Region,C,Nkhota Kota,18,,,-12.4676,34.0893,4,kanyenda
+MW,Malawi,Malawi,202103,Dwangwa Township,Central Region,C,Nkhota Kota,18,,,-12.8042,34.083,,dwangwa-township
+MW,Malawi,Malawi,202104,Mphonde,Central Region,C,Nkhota Kota,18,,,-12.8011,34.2245,4,mphonde
+MW,Malawi,Malawi,202105,Malenga Chanzi,Central Region,C,Nkhota Kota,18,,,-12.8042,34.083,,malenga-chanzi
+MW,Malawi,Malawi,202106,Kalimanjira,Central Region,C,Nkhota Kota,18,,,-12.8042,34.083,4,kalimanjira
+MW,Malawi,Malawi,202107,Mwadzama,Central Region,C,Nkhota Kota,18,,,-13.4116,34.2848,4,mwadzama
+MW,Malawi,Malawi,202108,Mwansambo,Central Region,C,Nkhota Kota,18,,,-13.3093,34.1178,4,mwansambo
+MW,Malawi,Malawi,202109,Nkhotakota Game Reserve,Central Region,C,Nkhota Kota,18,,,-12.8042,34.083,,nkhotakota-game-reserve
+MW,Malawi,Malawi,203100,Ntchisi BOMA,Central Region,C,Ntchisi,20,,,-13.5277,33.9149,4,ntchisi-boma
+MW,Malawi,Malawi,203101,Chilooko,Central Region,C,Ntchisi,20,,,-13.2957,33.908,,chilooko
+MW,Malawi,Malawi,203102,Nthondo,Central Region,C,Ntchisi,20,,,-13.25,34.0167,4,nthondo
+MW,Malawi,Malawi,203103,Malenga,Central Region,C,Ntchisi,20,,,-13.3337,33.8904,4,malenga
+MW,Malawi,Malawi,203104,Kasakula,Central Region,C,Ntchisi,20,,,-13.35,34.0833,4,kasakula
+MW,Malawi,Malawi,203105,Kalumo,Central Region,C,Ntchisi,20,,,-13.2957,33.908,,kalumo
+MW,Malawi,Malawi,203106,Vuso Jere,Central Region,C,Ntchisi,20,,,-13.2957,33.908,,vuso-jere
+MW,Malawi,Malawi,203107,Chikho,Central Region,C,Ntchisi,20,,,-13.3839,34.0834,4,chikho
+MW,Malawi,Malawi,208100,Salima Township,Central Region,C,Salima,22,,,-13.7196,34.4018,,salima-township
+MW,Malawi,Malawi,208101,Msosa,Central Region,C,Salima,22,,,-13.7196,34.4018,,msosa
+MW,Malawi,Malawi,208102,Khombedza,Central Region,C,Salima,22,,,-13.7196,34.4018,,khombedza
+MW,Malawi,Malawi,208103,Mwanza,Central Region,C,Salima,22,,,-13.6,33.4667,4,mwanza
+MW,Malawi,Malawi,208104,Kuluunda,Central Region,C,Salima,22,,,-13.7196,34.4018,,kuluunda
+MW,Malawi,Malawi,208105,Karonga,Central Region,C,Salima,22,,,-13.7707,34.4405,4,karonga
+MW,Malawi,Malawi,208106,Maganga,Central Region,C,Salima,22,,,-13.875,34.5778,4,maganga
+MW,Malawi,Malawi,208107,Kambwiri,Central Region,C,Salima,22,,,-13.7955,34.4081,4,kambwiri
+MW,Malawi,Malawi,208108,Pemba,Central Region,C,Salima,22,,,-13.8199,34.5126,4,pemba
+MW,Malawi,Malawi,208109,Ndindi,Central Region,C,Salima,22,,,-13.9725,34.5132,4,ndindi
+MW,Malawi,Malawi,208110,Chipoka Township,Central Region,C,Salima,22,,,-13.7196,34.4018,,chipoka-township
+MW,Malawi,Malawi,208111,Kambalame,Central Region,C,Salima,22,,,-13.7196,34.4018,,kambalame
+MW,Malawi,Malawi,101100,Chitipa BOMA,Northern Region,N,Chitipa,04,,,-9.9273,33.4254,,chitipa-boma
+MW,Malawi,Malawi,101101,Kameme,Northern Region,N,Chitipa,04,,,-9.5667,33.0833,4,kameme
+MW,Malawi,Malawi,101102,Bulambya Songwe,Northern Region,N,Chitipa,04,,,-9.9273,33.4254,,bulambya-songwe
+MW,Malawi,Malawi,101103,Mwabulambya,Northern Region,N,Chitipa,04,,,-9.9273,33.4254,,mwabulambya
+MW,Malawi,Malawi,101104,Mwenemisuku,Northern Region,N,Chitipa,04,,,-9.9273,33.4254,,mwenemisuku
+MW,Malawi,Malawi,101105,Lwangwa,Northern Region,N,Chitipa,04,,,-9.9273,33.4254,,lwangwa
+MW,Malawi,Malawi,101106,Mwenewenya,Northern Region,N,Chitipa,04,,,-10.1121,33.5742,4,mwenewenya
+MW,Malawi,Malawi,101107,Nthengatenga,Northern Region,N,Chitipa,04,,,-9.9273,33.4254,,nthengatenga
+MW,Malawi,Malawi,101108,Nthalire,Northern Region,N,Chitipa,04,,,-10.3349,33.6257,4,nthalire
+MW,Malawi,Malawi,101109,Wavikaza,Northern Region,N,Chitipa,04,,,-9.9273,33.4254,,wavikaza
+MW,Malawi,Malawi,102100,Karonga,Northern Region,N,Karonga,08,,,-9.9333,33.9333,4,karonga
+MW,Malawi,Malawi,102101,Songwe,Northern Region,N,Karonga,08,,,-10.1115,33.8815,,songwe
+MW,Malawi,Malawi,102102,Mwakaboko,Northern Region,N,Karonga,08,,,-10.1115,33.8815,,mwakaboko
+MW,Malawi,Malawi,102103,Kilupula,Northern Region,N,Karonga,08,,,-10.1115,33.8815,,kilupula
+MW,Malawi,Malawi,102104,Kyungu,Northern Region,N,Karonga,08,,,-10.1115,33.8815,,kyungu
+MW,Malawi,Malawi,102105,Mwirang’ombe,Northern Region,N,Karonga,08,,,-10.1115,33.8815,,mwirang-ombe
+MW,Malawi,Malawi,102106,Wasambo,Northern Region,N,Karonga,08,,,-10.1115,33.8815,,wasambo
+MW,Malawi,Malawi,104100,Mzimba BOMA,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,mzimba-boma
+MW,Malawi,Malawi,104101,Jaravikuba Munthali,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,jaravikuba-munthali
+MW,Malawi,Malawi,104102,Mtwalo,Northern Region,N,Mzimba,15,,,-11.3833,33.75,4,mtwalo
+MW,Malawi,Malawi,104103,Ekwendeni Township,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,ekwendeni-township
+MW,Malawi,Malawi,104104,Mpherembe,Northern Region,N,Mzimba,15,,,-11.2833,33.6,4,mpherembe
+MW,Malawi,Malawi,104105,Chindi,Northern Region,N,Mzimba,15,,,-11.45,33.4167,4,chindi
+MW,Malawi,Malawi,104106,Kampingo Sibande,Northern Region,N,Mzimba,15,,,-11.4833,33.8,4,kampingo-sibande
+MW,Malawi,Malawi,104107,M’mbelwa,Northern Region,N,Mzimba,15,,,-11.6264,33.6159,4,m-mbelwa
+MW,Malawi,Malawi,104108,Mzukuzuku,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,mzukuzuku
+MW,Malawi,Malawi,104109,Mzikubola,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,mzikubola
+MW,Malawi,Malawi,104110,Levi Jere,Northern Region,N,Mzimba,15,,,-12.351,33.5664,4,levi-jere
+MW,Malawi,Malawi,104111,Jenda Township,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,jenda-township
+MW,Malawi,Malawi,104112,Mabulabo,Northern Region,N,Mzimba,15,,,-12.5954,33.6011,4,mabulabo
+MW,Malawi,Malawi,104113,Khosolo Gwaza Jere,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,khosolo-gwaza-jere
+MW,Malawi,Malawi,104114,Vwaza Marsh Reserve,Northern Region,N,Mzimba,15,,,-11.8543,33.6078,,vwaza-marsh-reserve
+MW,Malawi,Malawi,105200,Mzuzu CBD,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,mzuzu-cbd
+MW,Malawi,Malawi,105201,Khorongo,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,khorongo
+MW,Malawi,Malawi,105202,Lupaso,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,lupaso
+MW,Malawi,Malawi,105203,Luwinga,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,luwinga
+MW,Malawi,Malawi,105204,Mchengautuwa,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,mchengautuwa
+MW,Malawi,Malawi,105205,Chibanja,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,chibanja
+MW,Malawi,Malawi,105206,Katoto,Northern Region,N,Mzuzu,15,,,-11.4592,34.0096,4,katoto
+MW,Malawi,Malawi,105207,Zolozolo,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,zolozolo
+MW,Malawi,Malawi,105208,Hilltop,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,hilltop
+MW,Malawi,Malawi,105209,Chiputula,Northern Region,N,Mzuzu,15,,,-11.4415,34.0165,4,chiputula
+MW,Malawi,Malawi,105210,Mzilawaingwe,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,mzilawaingwe
+MW,Malawi,Malawi,105211,Katawa,Northern Region,N,Mzuzu,15,,,-10.9333,34.0167,4,katawa
+MW,Malawi,Malawi,105212,Chasefu,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,chasefu
+MW,Malawi,Malawi,105213,Lunyangwa,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,lunyangwa
+MW,Malawi,Malawi,105214,Kaningína,Northern Region,N,Mzuzu,15,,,-11.4656,34.0207,4,kaningina
+MW,Malawi,Malawi,105215,Masasa,Northern Region,N,Mzuzu,15,,,-12.0167,34.6167,4,masasa
+MW,Malawi,Malawi,105216,Msongwe,Northern Region,N,Mzuzu,15,,,-11.8543,33.6078,,msongwe
+MW,Malawi,Malawi,106100,Nkhata Bay BOMA,Northern Region,N,Nkhata Bay,17,,,-11.653,34.0532,,nkhata-bay-boma
+MW,Malawi,Malawi,106101,Mkondowe,Northern Region,N,Nkhata Bay,17,,,-11.0417,34.2127,4,mkondowe
+MW,Malawi,Malawi,106102,Boghoyo,Northern Region,N,Nkhata Bay,17,,,-11.1023,34.2252,4,boghoyo
+MW,Malawi,Malawi,106103,M’bwana,Northern Region,N,Nkhata Bay,17,,,-11.653,34.0532,,m-bwana
+MW,Malawi,Malawi,106104,Nyaluwanga,Northern Region,N,Nkhata Bay,17,,,-11.653,34.0532,,nyaluwanga
+MW,Malawi,Malawi,106105,Timbiri,Northern Region,N,Nkhata Bay,17,,,-11.5428,34.192,4,timbiri
+MW,Malawi,Malawi,106106,Mkumbira,Northern Region,N,Nkhata Bay,17,,,-11.653,34.0532,,mkumbira
+MW,Malawi,Malawi,106107,Mankhambira,Northern Region,N,Nkhata Bay,17,,,-11.7206,34.2958,4,mankhambira
+MW,Malawi,Malawi,106108,Fukamalaza,Northern Region,N,Nkhata Bay,17,,,-11.75,34.2333,4,fukamalaza
+MW,Malawi,Malawi,106109,Malanda,Northern Region,N,Nkhata Bay,17,,,-11.8667,34.1667,4,malanda
+MW,Malawi,Malawi,106110,Kabunduli,Northern Region,N,Nkhata Bay,17,,,-11.7333,34.0667,4,kabunduli
+MW,Malawi,Malawi,106111,Malenga Mzoma,Northern Region,N,Nkhata Bay,17,,,-11.9323,34.1334,4,malenga-mzoma
+MW,Malawi,Malawi,106112,Fukamapiri,Northern Region,N,Nkhata Bay,17,,,-11.952,34.1163,4,fukamapiri
+MW,Malawi,Malawi,106113,Zilakoma,Northern Region,N,Nkhata Bay,17,,,-12.0905,34.0557,4,zilakoma
+MW,Malawi,Malawi,103100,Rumphi BOMA,Northern Region,N,Rumphi,21,,,-11.0186,33.8575,4,rumphi-boma
+MW,Malawi,Malawi,103101,Mwalweni,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,mwalweni
+MW,Malawi,Malawi,103102,Kachulu,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,kachulu
+MW,Malawi,Malawi,103103,Njikula,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,njikula
+MW,Malawi,Malawi,103104,Mwamlowe,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,mwamlowe
+MW,Malawi,Malawi,103105,Chapinduka,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,chapinduka
+MW,Malawi,Malawi,103106,Mwankhunikira,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,mwankhunikira
+MW,Malawi,Malawi,103107,Mwahenga,Northern Region,N,Rumphi,21,,,-10.9167,33.9833,4,mwahenga
+MW,Malawi,Malawi,103108,Chisovya,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,chisovya
+MW,Malawi,Malawi,103109,Chikulamayembe,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,chikulamayembe
+MW,Malawi,Malawi,103110,Katumbi,Northern Region,N,Rumphi,21,,,-10.8125,33.5227,4,katumbi
+MW,Malawi,Malawi,103111,Zolekere,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,zolekere
+MW,Malawi,Malawi,103112,Nyika National Park,Northern Region,N,Rumphi,21,,,-10.8029,33.8052,,nyika-national-park
+MW,Malawi,Malawi,107100,Likoma BOMA,Northern Region,N,Likoma,27,,,-12.0607,34.7361,,likoma-boma
+MW,Malawi,Malawi,107101,Mkumpha,Northern Region,N,Likoma,27,,,-12.0607,34.7361,,mkumpha
+MW,Malawi,Malawi,315100,Chikwawa BOMA,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,chikwawa-boma
+MW,Malawi,Malawi,315101,Chapananga,Southern Region,S,Chikwawa,02,,,-16.0528,34.7777,4,chapananga
+MW,Malawi,Malawi,315102,Kasisi,Southern Region,S,Chikwawa,02,,,-15.9577,34.7718,4,kasisi
+MW,Malawi,Malawi,315103,Mlilima,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,mlilima
+MW,Malawi,Malawi,315104,Katunga,Southern Region,S,Chikwawa,02,,,-16.073,34.8196,4,katunga
+MW,Malawi,Malawi,315105,Maseya,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,maseya
+MW,Malawi,Malawi,315106,Ndakwela,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,ndakwela
+MW,Malawi,Malawi,315107,Lundu,Southern Region,S,Chikwawa,02,,,-15.9841,34.4487,4,lundu
+MW,Malawi,Malawi,315108,Nchalo Township,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,nchalo-township
+MW,Malawi,Malawi,315109,Makhwira,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,makhwira
+MW,Malawi,Malawi,315110,Ngabu,Southern Region,S,Chikwawa,02,,,-16.4943,34.9115,4,ngabu
+MW,Malawi,Malawi,315111,Ngabu Township,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,ngabu-township
+MW,Malawi,Malawi,315112,Ngowe,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,ngowe
+MW,Malawi,Malawi,315113,Masache,Southern Region,S,Chikwawa,02,,,-16.5667,34.95,4,masache
+MW,Malawi,Malawi,315114,Lengwe National Park,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,lengwe-national-park
+MW,Malawi,Malawi,315115,Majete Game Reserve,Southern Region,S,Chikwawa,02,,,-16.1667,34.75,,majete-game-reserve
+MW,Malawi,Malawi,306100,Chiradzulu BOMA,Southern Region,S,Chiradzulu,03,,,-15.6746,35.1407,4,chiradzulu-boma
+MW,Malawi,Malawi,306101,Chitera,Southern Region,S,Chiradzulu,03,,,-15.7527,35.2158,,chitera
+MW,Malawi,Malawi,306102,Mpama,Southern Region,S,Chiradzulu,03,,,-14.6077,35.469,4,mpama
+MW,Malawi,Malawi,306103,Nchema,Southern Region,S,Chiradzulu,03,,,-15.7527,35.2158,,nchema
+MW,Malawi,Malawi,306104,Sandaraki,Southern Region,S,Chiradzulu,03,,,-15.7527,35.2158,,sandaraki
+MW,Malawi,Malawi,306105,Kadewere,Southern Region,S,Chiradzulu,03,,,-15.5,35.3833,4,kadewere
+MW,Malawi,Malawi,306106,Onga,Southern Region,S,Chiradzulu,03,,,-15.35,35.3833,4,onga
+MW,Malawi,Malawi,306107,Likoswe,Southern Region,S,Chiradzulu,03,,,-15.7527,35.2158,,likoswe
+MW,Malawi,Malawi,306108,Mpunga,Southern Region,S,Chiradzulu,03,,,-14.8,35.5833,4,mpunga
+MW,Malawi,Malawi,306109,Nkalo,Southern Region,S,Chiradzulu,03,,,-15.7527,35.2158,,nkalo
+MW,Malawi,Malawi,309300,Luchenza Township,Southern Region,S,Luchenza Municipality,05,,,-16.1058,35.1506,,luchenza-township
+MW,Malawi,Malawi,310100,Thyolo BOMA,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,thyolo-boma
+MW,Malawi,Malawi,310101,Bvumbwe,Southern Region,S,Thyolo,05,,,-15.9167,35.0667,4,bvumbwe
+MW,Malawi,Malawi,310102,Thomas,Southern Region,S,Thyolo,05,,,-16.0833,34.55,4,thomas
+MW,Malawi,Malawi,310103,Mphuka,Southern Region,S,Thyolo,05,,,-16.2333,34.6833,4,mphuka
+MW,Malawi,Malawi,310104,Boyidi,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,boyidi
+MW,Malawi,Malawi,310105,Chimaliro,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,chimaliro
+MW,Malawi,Malawi,310106,Ngolongoliwa,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,ngolongoliwa
+MW,Malawi,Malawi,310107,Nanseta,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,nanseta
+MW,Malawi,Malawi,310108,Ndalama,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,ndalama
+MW,Malawi,Malawi,310109,Nchilamwela,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,nchilamwela
+MW,Malawi,Malawi,310110,Kapichi,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,4,kapichi
+MW,Malawi,Malawi,310111,Kwethemule,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,kwethemule
+MW,Malawi,Malawi,310112,Changata,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,changata
+MW,Malawi,Malawi,310113,Mbawela,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,mbawela
+MW,Malawi,Malawi,310114,Nsabwe,Southern Region,S,Thyolo,05,,,-16.3333,35.2167,4,nsabwe
+MW,Malawi,Malawi,310115,Thukuta,Southern Region,S,Thyolo,05,,,-16.1058,35.1506,,thukuta
+MW,Malawi,Malawi,301100,Lulanga,Southern Region,S,Mangochi Rural,12,,,-14.7833,35.6833,4,lulanga
+MW,Malawi,Malawi,301101,Makanjila,Southern Region,S,Mangochi Rural,12,,,-13.7088,35.0448,4,makanjila
+MW,Malawi,Malawi,301102,Namabvi,Southern Region,S,Mangochi Rural,12,,,-14.393,35.3466,,namabvi
+MW,Malawi,Malawi,301103,Katuli,Southern Region,S,Mangochi Rural,12,,,-14.393,35.3466,,katuli
+MW,Malawi,Malawi,301104,Chowe,Southern Region,S,Mangochi Rural,12,,,-14.393,35.3466,,chowe
+MW,Malawi,Malawi,301105,Jalasi,Southern Region,S,Mangochi Rural,12,,,-14.3635,35.4454,4,jalasi
+MW,Malawi,Malawi,301106,Mbwana Nyambi,Southern Region,S,Mangochi Rural,12,,,-14.393,35.3466,,mbwana-nyambi
+MW,Malawi,Malawi,301107,Chiunda,Southern Region,S,Mangochi Rural,12,,,-14.7595,35.3817,4,chiunda
+MW,Malawi,Malawi,301108,Nankumba,Southern Region,S,Mangochi Rural,12,,,-14.3645,34.8227,4,nankumba
+MW,Malawi,Malawi,301109,Monkey Bay Township,Southern Region,S,Mangochi Rural,12,,,-14.393,35.3466,,monkey-bay-township
+MW,Malawi,Malawi,301110,Mponda,Southern Region,S,Mangochi Rural,12,,,-14.4781,35.2645,4,mponda
+MW,Malawi,Malawi,301111,Ntonda,Southern Region,S,Mangochi Rural,12,,,-14.5239,35.3744,4,ntonda
+MW,Malawi,Malawi,301112,Chilipa,Southern Region,S,Mangochi Rural,12,,,-14.698,34.9779,4,chilipa
+MW,Malawi,Malawi,301113,Chimwala,Southern Region,S,Mangochi Rural,12,,,-14.6386,35.1833,4,chimwala
+MW,Malawi,Malawi,301114,Lake Malawi National Park,Southern Region,S,Mangochi Rural,12,,,-14.393,35.3466,,lake-malawi-national-park
+MW,Malawi,Malawi,301400,Mangochi Central Township,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,mangochi-central-township
+MW,Malawi,Malawi,301401,Koche,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,koche
+MW,Malawi,Malawi,301402,Thundu,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,thundu
+MW,Malawi,Malawi,301403,Chigawe,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,chigawe
+MW,Malawi,Malawi,301404,Mikomwa,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,mikomwa
+MW,Malawi,Malawi,301405,Nkanamwano,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,nkanamwano
+MW,Malawi,Malawi,301406,Kalungu,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,kalungu
+MW,Malawi,Malawi,301407,Msukamwere,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,msukamwere
+MW,Malawi,Malawi,301408,Mtumbwasi,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,mtumbwasi
+MW,Malawi,Malawi,301409,Mwasa,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,mwasa
+MW,Malawi,Malawi,301410,Ndege,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,ndege
+MW,Malawi,Malawi,301411,Chikole,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,chikole
+MW,Malawi,Malawi,301412,Msikisi,Southern Region,S,Mangochi Town,12,,,-14.393,35.3466,,msikisi
+MW,Malawi,Malawi,316100,Nsanje BOMA,Southern Region,S,Nsanje,19,,,-16.75,35.1667,,nsanje-boma
+MW,Malawi,Malawi,316101,Mlolo,Southern Region,S,Nsanje,19,,,-16.75,35.1667,4,mlolo
+MW,Malawi,Malawi,316102,Mbenje,Southern Region,S,Nsanje,19,,,-16.9804,35.2135,4,mbenje
+MW,Malawi,Malawi,316103,Bangula Township,Southern Region,S,Nsanje,19,,,-16.75,35.1667,,bangula-township
+MW,Malawi,Malawi,316104,Tengani,Southern Region,S,Nsanje,19,,,-16.7333,35.2667,4,tengani
+MW,Malawi,Malawi,316105,Malemia,Southern Region,S,Nsanje,19,,,-16.45,34.8833,4,malemia
+MW,Malawi,Malawi,316106,Ngabu,Southern Region,S,Nsanje,19,,,-16.9654,35.2166,4,ngabu
+MW,Malawi,Malawi,316107,Makoko,Southern Region,S,Nsanje,19,,,-17.0022,35.1912,4,makoko
+MW,Malawi,Malawi,316108,Chimombo,Southern Region,S,Nsanje,19,,,-17.0167,35.2333,4,chimombo
+MW,Malawi,Malawi,316109,Nyachikadza,Southern Region,S,Nsanje,19,,,-17.1167,35.3,4,nyachikadza
+MW,Malawi,Malawi,316110,Ndamera,Southern Region,S,Nsanje,19,,,-17.0958,35.219,4,ndamera
+MW,Malawi,Malawi,316111,Mwabvi Game Reserve,Southern Region,S,Nsanje,19,,,-16.75,35.1667,,mwabvi-game-reserve
+MW,Malawi,Malawi,304101,Nkapita,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,nkapita
+MW,Malawi,Malawi,304102,Malemia,Southern Region,S,Zomba Rural,23,,,-15.2667,35.3667,4,malemia
+MW,Malawi,Malawi,304103,Kuntumanji,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,kuntumanji
+MW,Malawi,Malawi,304104,Mkumbira,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,mkumbira
+MW,Malawi,Malawi,304105,Nkagula,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,nkagula
+MW,Malawi,Malawi,304106,Mlumbe,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,mlumbe
+MW,Malawi,Malawi,304107,Ntholowa,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,ntholowa
+MW,Malawi,Malawi,304108,Chikowi,Southern Region,S,Zomba Rural,23,,,-15.4167,35.3,4,chikowi
+MW,Malawi,Malawi,304109,Mwambo,Southern Region,S,Zomba Rural,23,,,-15.4356,35.5144,4,mwambo
+MW,Malawi,Malawi,304110,Ngwelero,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,ngwelero
+MW,Malawi,Malawi,304111,Mbiza,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,mbiza
+MW,Malawi,Malawi,304112,Zomba Mountain Reserve,Southern Region,S,Zomba Rural,23,,,-15.4301,35.4183,,zomba-mountain-reserve
+MW,Malawi,Malawi,305200,Zomba CBD,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,zomba-cbd
+MW,Malawi,Malawi,305201,Ndola,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,ndola
+MW,Malawi,Malawi,305202,Zakazaka,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,zakazaka
+MW,Malawi,Malawi,305203,St Mary,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,st-mary
+MW,Malawi,Malawi,305204,Nandolo,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,nandolo
+MW,Malawi,Malawi,305205,Chirunga,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,chirunga
+MW,Malawi,Malawi,305206,Masongola,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,masongola
+MW,Malawi,Malawi,305207,Mangasanja,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,mangasanja
+MW,Malawi,Malawi,305208,Mulunguzi,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,mulunguzi
+MW,Malawi,Malawi,305209,Old Naisi,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,old-naisi
+MW,Malawi,Malawi,305210,Malonje,Southern Region,S,Zomba Urban,23,,,-15.3667,35.35,4,malonje
+MW,Malawi,Malawi,305211,Chinamwali,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,chinamwali
+MW,Malawi,Malawi,305212,Matawale,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,matawale
+MW,Malawi,Malawi,305213,Thom Allan,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,thom-allan
+MW,Malawi,Malawi,305214,Mpunga,Southern Region,S,Zomba Urban,23,,,-14.8,35.5833,4,mpunga
+MW,Malawi,Malawi,305215,Sadzi,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,sadzi
+MW,Malawi,Malawi,305216,Mponda Bwino,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,mponda-bwino
+MW,Malawi,Malawi,305217,Three Miles,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,three-miles
+MW,Malawi,Malawi,305218,Mtiya,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,mtiya
+MW,Malawi,Malawi,305219,Cobbe,Southern Region,S,Zomba Urban,23,,,-15.4301,35.4183,,cobbe
+MW,Malawi,Malawi,311101,Chigaru,Southern Region,S,Blantyre Rural,24,,,-15.3626,34.9397,4,chigaru
+MW,Malawi,Malawi,311102,Lundu,Southern Region,S,Blantyre Rural,24,,,-15.3833,34.9833,4,lundu
+MW,Malawi,Malawi,311103,Kunthembwe,Southern Region,S,Blantyre Rural,24,,,-15.6473,34.9396,,kunthembwe
+MW,Malawi,Malawi,311104,Kuntaja,Southern Region,S,Blantyre Rural,24,,,-15.513,34.4933,4,kuntaja
+MW,Malawi,Malawi,311105,Chileka,Southern Region,S,Blantyre Rural,24,,,-15.6679,34.9376,4,chileka
+MW,Malawi,Malawi,311106,Kapeni,Southern Region,S,Blantyre Rural,24,,,-15.785,35.0085,4,kapeni
+MW,Malawi,Malawi,311107,Lunzu Township,Southern Region,S,Blantyre Rural,24,,,-15.6473,34.9396,,lunzu-township
+MW,Malawi,Malawi,311108,Makata,Southern Region,S,Blantyre Rural,24,,,-15.7872,35.0305,4,makata
+MW,Malawi,Malawi,311109,Machinjiri,Southern Region,S,Blantyre Rural,24,,,-15.2325,35.4146,4,machinjiri
+MW,Malawi,Malawi,311110,Somba,Southern Region,S,Blantyre Rural,24,,,-15.8667,34.9667,4,somba
+MW,Malawi,Malawi,311111,Mpemba,Southern Region,S,Blantyre Rural,24,,,-15.8833,34.95,4,mpemba
+MW,Malawi,Malawi,312200,Blantyre CBD,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,blantyre-cbd
+MW,Malawi,Malawi,312201,Mapanga,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,mapanga
+MW,Malawi,Malawi,312202,Kachere,Southern Region,S,Blantyre Urban,24,,,-15.8074,35.0233,4,kachere
+MW,Malawi,Malawi,312203,Maone,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,maone
+MW,Malawi,Malawi,312204,Nkolokoti,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,nkolokoti
+MW,Malawi,Malawi,312205,Ndirande,Southern Region,S,Blantyre Urban,24,,,-15.7697,35.0416,4,ndirande
+MW,Malawi,Malawi,312206,South Lunzu,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,south-lunzu
+MW,Malawi,Malawi,312207,Kameza,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,kameza
+MW,Malawi,Malawi,312208,Chirimba,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,chirimba
+MW,Malawi,Malawi,312209,Chemusa,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,chemusa
+MW,Malawi,Malawi,312210,Mbayani,Southern Region,S,Blantyre Urban,24,,,-15.7717,35.003,4,mbayani
+MW,Malawi,Malawi,312211,Nyambadwe,Southern Region,S,Blantyre Urban,24,,,-15.7737,35.022,4,nyambadwe
+MW,Malawi,Malawi,312212,Chilomoni,Southern Region,S,Blantyre Urban,24,,,-15.7793,34.9824,4,chilomoni
+MW,Malawi,Malawi,312213,Namiwawa,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,namiwawa
+MW,Malawi,Malawi,312214,Sunnyside,Southern Region,S,Blantyre Urban,24,,,-15.7973,34.9955,4,sunnyside
+MW,Malawi,Malawi,312215,Nancholi,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,nancholi
+MW,Malawi,Malawi,312216,Zingwangwa,Southern Region,S,Blantyre Urban,24,,,-15.8186,35.0154,4,zingwangwa
+MW,Malawi,Malawi,312217,Chilobwe,Southern Region,S,Blantyre Urban,24,,,-15.8301,35.0069,4,chilobwe
+MW,Malawi,Malawi,312218,Chimwankhunda,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,chimwankhunda
+MW,Malawi,Malawi,312219,Manja,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,manja
+MW,Malawi,Malawi,312220,Nkolokosa,Southern Region,S,Blantyre Urban,24,,,-15.8143,35.0031,4,nkolokosa
+MW,Malawi,Malawi,312221,Chitawira,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,chitawira
+MW,Malawi,Malawi,312222,Naperi,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,4,naperi
+MW,Malawi,Malawi,312223,Mount Pleasant,Southern Region,S,Blantyre Urban,24,,,-15.7984,35.0149,4,mount-pleasant
+MW,Malawi,Malawi,312224,Mandala,Southern Region,S,Blantyre Urban,24,,,-15.7937,35.0059,4,mandala
+MW,Malawi,Malawi,312225,Chichiri,Southern Region,S,Blantyre Urban,24,,,-15.8025,35.0475,4,chichiri
+MW,Malawi,Malawi,312226,Chinyonga,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,chinyonga
+MW,Malawi,Malawi,312227,Kanjedza,Southern Region,S,Blantyre Urban,24,,,-15.8175,35.0474,4,kanjedza
+MW,Malawi,Malawi,312228,Mudi,Southern Region,S,Blantyre Urban,24,,,-15.8012,35.0727,4,mudi
+MW,Malawi,Malawi,312229,Limbe,Southern Region,S,Blantyre Urban,24,,,-15.809,35.0602,4,limbe
+MW,Malawi,Malawi,312230,Mpingwe,Southern Region,S,Blantyre Urban,24,,,-15.8106,35.0713,4,mpingwe
+MW,Malawi,Malawi,312231,Bangwe,Southern Region,S,Blantyre Urban,24,,,-15.8226,35.1006,4,bangwe
+MW,Malawi,Malawi,312232,Namiyango,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,namiyango
+MW,Malawi,Malawi,312233,BCA,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,bca
+MW,Malawi,Malawi,312234,Misesa,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,misesa
+MW,Malawi,Malawi,312235,Chiwembe,Southern Region,S,Blantyre Urban,24,,,-15.8344,35.0509,4,chiwembe
+MW,Malawi,Malawi,312236,Angelogothere,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,angelogothere
+MW,Malawi,Malawi,312237,Che Somba,Southern Region,S,Blantyre Urban,24,,,-15.6473,34.9396,,che-somba
+MW,Malawi,Malawi,312238,Chigumula,Southern Region,S,Blantyre Urban,24,,,-15.916,35.0554,4,chigumula
+MW,Malawi,Malawi,314100,Mwanza BOMA,Southern Region,S,Mwanza,25,,,-15.6334,34.5168,,mwanza-boma
+MW,Malawi,Malawi,314101,Kanduku,Southern Region,S,Mwanza,25,,,-15.5617,34.5026,4,kanduku
+MW,Malawi,Malawi,314102,Nthache,Southern Region,S,Mwanza,25,,,-15.6334,34.5168,,nthache
+MW,Malawi,Malawi,314103,Govati,Southern Region,S,Mwanza,25,,,-15.6334,34.5168,,govati
+MW,Malawi,Malawi,302100,Balaka,Southern Region,S,Balaka,26,,,-14.9793,34.9557,4,balaka
+MW,Malawi,Malawi,302101,Kachenga,Southern Region,S,Balaka,26,,,-15.0484,35.0591,,kachenga
+MW,Malawi,Malawi,302102,Kalembo,Southern Region,S,Balaka,26,,,-14.8446,35.1692,4,kalembo
+MW,Malawi,Malawi,302103,Amidu,Southern Region,S,Balaka,26,,,-15.0484,35.0591,,amidu
+MW,Malawi,Malawi,302104,Toleza,Southern Region,S,Balaka,26,,,-14.9319,35.0084,4,toleza
+MW,Malawi,Malawi,302105,Matola,Southern Region,S,Balaka,26,,,-14.9473,34.965,4,matola
+MW,Malawi,Malawi,302106,Sawali,Southern Region,S,Balaka,26,,,-15.0484,35.0591,,sawali
+MW,Malawi,Malawi,302107,Msamala,Southern Region,S,Balaka,26,,,-15.0484,35.0591,,msamala
+MW,Malawi,Malawi,302108,Chanthunya,Southern Region,S,Balaka,26,,,-15.0484,35.0591,,chanthunya
+MW,Malawi,Malawi,302109,Phalula,Southern Region,S,Balaka,26,,,-15.2244,34.8903,4,phalula
+MW,Malawi,Malawi,302110,Nkaya,Southern Region,S,Balaka,26,,,-15.1282,35.0298,4,nkaya
+MW,Malawi,Malawi,303100,Machinja BOMA,Southern Region,S,Machinga,28,,,-14.9458,35.5737,,machinja-boma
+MW,Malawi,Malawi,303101,Liwonde Township,Southern Region,S,Machinga,28,,,-14.9458,35.5737,,liwonde-township
+MW,Malawi,Malawi,303102,Nyambi,Southern Region,S,Machinga,28,,,-14.6597,35.6276,4,nyambi
+MW,Malawi,Malawi,303103,Chesale,Southern Region,S,Machinga,28,,,-14.9458,35.5737,,chesale
+MW,Malawi,Malawi,303104,Ngokwe,Southern Region,S,Machinga,28,,,-14.75,35.6167,4,ngokwe
+MW,Malawi,Malawi,303105,Chikweo,Southern Region,S,Machinga,28,,,-14.7648,35.6691,4,chikweo
+MW,Malawi,Malawi,303106,Nchinguza,Southern Region,S,Machinga,28,,,-14.9458,35.5737,,nchinguza
+MW,Malawi,Malawi,303107,Kapoloma,Southern Region,S,Machinga,28,,,-14.7333,35.5667,4,kapoloma
+MW,Malawi,Malawi,303108,Nkoola,Southern Region,S,Machinga,28,,,-14.9458,35.5737,,nkoola
+MW,Malawi,Malawi,303109,Chiwalo,Southern Region,S,Machinga,28,,,-14.7333,35.5333,4,chiwalo
+MW,Malawi,Malawi,303110,Liwonde,Southern Region,S,Machinga,28,,,-15.0667,35.2254,4,liwonde
+MW,Malawi,Malawi,303111,Kawinga,Southern Region,S,Machinga,28,,,-14.85,35.55,4,kawinga
+MW,Malawi,Malawi,303112,Mlomba,Southern Region,S,Machinga,28,,,-15.0379,35.4639,4,mlomba
+MW,Malawi,Malawi,303113,Nsanama,Southern Region,S,Machinga,28,,,-14.9667,35.5167,4,nsanama
+MW,Malawi,Malawi,303114,Mposa,Southern Region,S,Machinga,28,,,-15.1667,35.5167,4,mposa
+MW,Malawi,Malawi,303115,Chamba,Southern Region,S,Machinga,28,,,-14.7775,35.3963,4,chamba
+MW,Malawi,Malawi,303116,Sitola,Southern Region,S,Machinga,28,,,-14.9458,35.5737,,sitola
+MW,Malawi,Malawi,303117,Mkula,Southern Region,S,Machinga,28,,,-15.1723,35.3115,4,mkula
+MW,Malawi,Malawi,303118,Liwonde National Park,Southern Region,S,Machinga,28,,,-14.9458,35.5737,,liwonde-national-park
+MW,Malawi,Malawi,308100,Mulanje BOMA,Southern Region,S,Mulanje,29,,,-16.0316,35.5,4,mulanje-boma
+MW,Malawi,Malawi,308101,Juma,Southern Region,S,Mulanje,29,,,-14.6167,35.6,4,juma
+MW,Malawi,Malawi,308102,Nkanda,Southern Region,S,Mulanje,29,,,-15.9344,35.4999,,nkanda
+MW,Malawi,Malawi,308103,Nthiramanja,Southern Region,S,Mulanje,29,,,-15.9344,35.4999,,nthiramanja
+MW,Malawi,Malawi,308104,Chikumbu,Southern Region,S,Mulanje,29,,,-15.4667,35.35,4,chikumbu
+MW,Malawi,Malawi,308105,Tombondiya,Southern Region,S,Mulanje,29,,,-15.9344,35.4999,,tombondiya
+MW,Malawi,Malawi,308106,Mabuka,Southern Region,S,Mulanje,29,,,-15.9344,35.4999,,mabuka
+MW,Malawi,Malawi,308107,Sunganinzeru,Southern Region,S,Mulanje,29,,,-15.9344,35.4999,,sunganinzeru
+MW,Malawi,Malawi,308108,Laston Njema,Southern Region,S,Mulanje,29,,,-15.9344,35.4999,,laston-njema
+MW,Malawi,Malawi,308109,Mulanje Mountain Reserve,Southern Region,S,Mulanje,29,,,-15.9344,35.4999,,mulanje-mountain-reserve
+MW,Malawi,Malawi,307100,Phalombe BOMA,Southern Region,S,Phalombe,30,,,-15.6667,35.6667,,phalombe-boma
+MW,Malawi,Malawi,307101,Migowi Township,Southern Region,S,Phalombe,30,,,-15.6667,35.6667,,migowi-township
+MW,Malawi,Malawi,307102,Chiwalo,Southern Region,S,Phalombe,30,,,-14.7333,35.5333,4,chiwalo
+MW,Malawi,Malawi,307103,Jenala,Southern Region,S,Phalombe,30,,,-15.6667,35.6667,,jenala
+MW,Malawi,Malawi,307104,Mkhumba,Southern Region,S,Phalombe,30,,,-15.6667,35.6667,,mkhumba
+MW,Malawi,Malawi,307105,Kaduya,Southern Region,S,Phalombe,30,,,-15.6667,35.6667,,kaduya
+MW,Malawi,Malawi,307106,Nazombe,Southern Region,S,Phalombe,30,,,-15.6667,35.6667,,nazombe
+MW,Malawi,Malawi,307107,Nkhulambe,Southern Region,S,Phalombe,30,,,-15.6667,35.6667,,nkhulambe
+MW,Malawi,Malawi,313100,Neno BOMA,Southern Region,S,Neno,31,,,-15.4505,34.7003,,neno-boma
+MW,Malawi,Malawi,313101,Dambe,Southern Region,S,Neno,31,,,-15.3819,34.5709,4,dambe
+MW,Malawi,Malawi,313102,Chekucheku,Southern Region,S,Neno,31,,,-15.4505,34.7003,,chekucheku
+MW,Malawi,Malawi,313103,Symon Likongwe,Southern Region,S,Neno,31,,,-15.4505,34.7003,,symon-likongwe
+MW,Malawi,Malawi,313104,Zalewa Township,Southern Region,S,Neno,31,,,-15.4505,34.7003,,zalewa-township
+MW,Malawi,Malawi,313105,Mlauli,Southern Region,S,Neno,31,,,-15.4761,34.6363,4,mlauli

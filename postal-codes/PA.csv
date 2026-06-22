@@ -1,0 +1,730 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+PA,Panama,Panamá,01001,Bocas Del Toro (Cabecera),Bocas Del Toro,01,Bocas Del Toro,0101,,,9.2973,-82.3254,1,bocas-del-toro-cabecera
+PA,Panama,Panamá,01002,Bastimentos,Bocas Del Toro,01,Bocas Del Toro,0101,,,9.3486,-82.2109,4,bastimentos
+PA,Panama,Panamá,01003,Punta Laurel,Bocas Del Toro,01,Bocas Del Toro,0101,,,9.1412,-82.127,4,punta-laurel
+PA,Panama,Panamá,01004,Cauchero,Bocas Del Toro,01,Bocas Del Toro,0101,,,9.2973,-82.3254,1,cauchero
+PA,Panama,Panamá,01005,Tierra Oscura,Bocas Del Toro,01,Bocas Del Toro,0101,,,9.2014,-82.2759,4,tierra-oscura
+PA,Panama,Panamá,01006,Changuinola (Cabec),Bocas Del Toro,01,Changuinola,0102,,,9.2973,-82.3254,1,changuinola-cabec
+PA,Panama,Panamá,01007,Almirante,Bocas Del Toro,01,Changuinola,0102,,,9.3009,-82.4018,4,almirante
+PA,Panama,Panamá,01008,Guabito,Bocas Del Toro,01,Changuinola,0102,,,9.4944,-82.6115,4,guabito
+PA,Panama,Panamá,01009,El Teribe,Bocas Del Toro,01,Changuinola,0102,,,9.2973,-82.3254,1,el-teribe
+PA,Panama,Panamá,01010,Valle Del Risco,Bocas Del Toro,01,Changuinola,0102,,,9.1841,-82.3876,1,valle-del-risco
+PA,Panama,Panamá,01011,El Empalme,Bocas Del Toro,01,Changuinola,0102,,,9.4147,-82.5224,4,el-empalme
+PA,Panama,Panamá,01012,Las Tablas,Bocas Del Toro,01,Changuinola,0102,,,9.5441,-82.7408,4,las-tablas
+PA,Panama,Panamá,01013,Chiriqui Grande (Cabec),Bocas Del Toro,01,Chiriqui Grande,0103,,,9.1841,-82.3876,1,chiriqui-grande-cabec
+PA,Panama,Panamá,01014,Punta Robalo,Bocas Del Toro,01,Chiriqui Grande,0103,,,9.0379,-82.2477,4,punta-robalo
+PA,Panama,Panamá,01015,Miramar,Bocas Del Toro,01,Chiriqui Grande,0103,,,8.9975,-82.2434,4,miramar
+PA,Panama,Panamá,01016,Punta Peða,Bocas Del Toro,01,Chiriqui Grande,0103,,,9.1841,-82.3876,1,punta-pe-a
+PA,Panama,Panamá,01017,Rambala,Bocas Del Toro,01,Chiriqui Grande,0103,,,8.9262,-82.1838,4,rambala
+PA,Panama,Panamá,04029,Alanje (Cabec),Chiriqui,02,Alanje,0401,,,8.5829,-82.683,1,alanje-cabec
+PA,Panama,Panamá,04030,Divala,Chiriqui,02,Alanje,0401,,,8.4129,-82.7137,4,divala
+PA,Panama,Panamá,04031,Guarumal,Chiriqui,02,Alanje,0401,,,8.3479,-82.5298,4,guarumal
+PA,Panama,Panamá,04032,Palo Grande,Chiriqui,02,Alanje,0401,,,8.3516,-82.6064,4,palo-grande
+PA,Panama,Panamá,04033,Querevalo,Chiriqui,02,Alanje,0401,,,8.3724,-82.5199,4,querevalo
+PA,Panama,Panamá,04034,Santo Tomas,Chiriqui,02,Alanje,0401,,,8.397,-82.6477,4,santo-tomas
+PA,Panama,Panamá,04035,Canta Gallo,Chiriqui,02,Alanje,0401,,,8.3604,-82.6318,4,canta-gallo
+PA,Panama,Panamá,04036,Nuevo Mexico,Chiriqui,02,Alanje,0401,,,8.4272,-82.5972,1,nuevo-mexico
+PA,Panama,Panamá,04011,Puerto Armuelles (Cabec),Chiriqui,02,Baru,0402,,,8.4553,-82.7396,1,puerto-armuelles-cabec
+PA,Panama,Panamá,04012,Limones,Chiriqui,02,Baru,0402,,,8.1009,-82.8659,4,limones
+PA,Panama,Panamá,04013,Progreso,Chiriqui,02,Baru,0402,,,8.4467,-82.8386,4,progreso
+PA,Panama,Panamá,04014,Baco,Chiriqui,02,Baru,0402,,,8.3595,-82.7498,4,baco
+PA,Panama,Panamá,04015,Rodolfo Aguilar,Chiriqui,02,Baru,0402,,,8.4553,-82.7396,1,rodolfo-aguilar
+PA,Panama,Panamá,04037,Boqueron (Cabec),Chiriqui,02,Boqueron,0403,,,8.4272,-82.5972,1,boqueron-cabec
+PA,Panama,Panamá,04038,Bagala,Chiriqui,02,Boqueron,0403,,,8.4671,-82.5269,4,bagala
+PA,Panama,Panamá,04039,Cordillera,Chiriqui,02,Boqueron,0403,,,8.7085,-82.6012,4,cordillera
+PA,Panama,Panamá,04040,Guabal,Chiriqui,02,Boqueron,0403,,,8.5747,-82.5373,4,guabal
+PA,Panama,Panamá,04041,Guayabal,Chiriqui,02,Boqueron,0403,,,8.6179,-82.5791,4,guayabal
+PA,Panama,Panamá,04042,Paraiso,Chiriqui,02,Boqueron,0403,,,8.6627,-82.5908,4,paraiso
+PA,Panama,Panamá,04043,Pedregal,Chiriqui,02,Boqueron,0403,,,8.6435,-82.6501,1,pedregal
+PA,Panama,Panamá,04044,Tijeras,Chiriqui,02,Boqueron,0403,,,8.4693,-82.5484,4,tijeras
+PA,Panama,Panamá,04053,Bajo Boquete (Cabec),Chiriqui,02,Boquete,0404,,,8.7303,-82.5604,1,bajo-boquete-cabec
+PA,Panama,Panamá,04054,Caldera,Chiriqui,02,Boquete,0404,,,8.6542,-82.3799,4,caldera
+PA,Panama,Panamá,04055,Palmira,Chiriqui,02,Boquete,0404,,,8.734,-82.4589,4,palmira
+PA,Panama,Panamá,04056,Alto Boquete,Chiriqui,02,Boquete,0404,,,8.7362,-82.4333,4,alto-boquete
+PA,Panama,Panamá,04057,Jaramillo,Chiriqui,02,Boquete,0404,,,8.7707,-82.4232,4,jaramillo
+PA,Panama,Panamá,04058,Los Naranjos,Chiriqui,02,Boquete,0404,,,8.7942,-82.4456,4,los-naranjos
+PA,Panama,Panamá,04016,La Concepcion (Cabec),Chiriqui,02,Bugaba,0405,,,8.4553,-82.7396,1,la-concepcion-cabec
+PA,Panama,Panamá,04017,Aserrio De Gariche,Chiriqui,02,Bugaba,0405,,,8.4864,-82.7893,4,aserrio-de-gariche
+PA,Panama,Panamá,04018,Bugaba,Chiriqui,02,Bugaba,0405,,,8.4861,-82.6202,4,bugaba
+PA,Panama,Panamá,04019,Cerro Punta,Chiriqui,02,Bugaba,0405,,,8.8522,-82.5736,4,cerro-punta
+PA,Panama,Panamá,04020,Gomez,Chiriqui,02,Bugaba,0405,,,8.5649,-82.7402,4,gomez
+PA,Panama,Panamá,04021,La Estrella,Chiriqui,02,Bugaba,0405,,,8.5181,-82.6704,4,la-estrella
+PA,Panama,Panamá,04022,San Andres,Chiriqui,02,Bugaba,0405,,,8.6022,-82.7245,4,san-andres
+PA,Panama,Panamá,04023,Santa Marta,Chiriqui,02,Bugaba,0405,,,8.5229,-82.7011,4,santa-marta
+PA,Panama,Panamá,04024,Santa Rosa,Chiriqui,02,Bugaba,0405,,,8.6031,-82.6846,4,santa-rosa
+PA,Panama,Panamá,04025,Santo Domingo,Chiriqui,02,Bugaba,0405,,,8.5104,-82.7136,4,santo-domingo
+PA,Panama,Panamá,04026,Sortova,Chiriqui,02,Bugaba,0405,,,8.5511,-82.6509,4,sortova
+PA,Panama,Panamá,04027,Volcan,Chiriqui,02,Bugaba,0405,,,8.7805,-82.639,4,volcan
+PA,Panama,Panamá,04028,El Bongo,Chiriqui,02,Bugaba,0405,,,8.5926,-82.6226,4,el-bongo
+PA,Panama,Panamá,04001,David (Cabec),Chiriqui,02,David,0406,,,8.4443,-82.4131,1,david-cabec
+PA,Panama,Panamá,04002,Bijagual,Chiriqui,02,David,0406,,,8.5149,-82.3336,4,bijagual
+PA,Panama,Panamá,04003,Cochea,Chiriqui,02,David,0406,,,8.4443,-82.4131,1,cochea
+PA,Panama,Panamá,04004,Chiriqui,Chiriqui,02,David,0406,,,8.3971,-82.3216,4,chiriqui
+PA,Panama,Panamá,04005,Guaca,Chiriqui,02,David,0406,,,8.4443,-82.4131,1,guaca
+PA,Panama,Panamá,04006,Las Lomas,Chiriqui,02,David,0406,,,8.429,-82.389,4,las-lomas
+PA,Panama,Panamá,04007,Pedregal,Chiriqui,02,David,0406,,,8.377,-82.4295,4,pedregal
+PA,Panama,Panamá,04008,San Carlos,Chiriqui,02,David,0406,,,8.5205,-82.5047,4,san-carlos
+PA,Panama,Panamá,04009,San Pablo Nuevo,Chiriqui,02,David,0406,,,8.4277,-82.5001,4,san-pablo-nuevo
+PA,Panama,Panamá,04010,San Pablo Viejo,Chiriqui,02,David,0406,,,8.4553,-82.7396,1,san-pablo-viejo
+PA,Panama,Panamá,04059,Dolega (Cabec),Chiriqui,02,Dolega,0407,,,8.7303,-82.5604,1,dolega-cabec
+PA,Panama,Panamá,04060,Dos Rios,Chiriqui,02,Dolega,0407,,,8.5517,-82.3981,4,dos-rios
+PA,Panama,Panamá,04061,Los Anastacios,Chiriqui,02,Dolega,0407,,,8.5303,-82.423,4,los-anastacios
+PA,Panama,Panamá,04062,Potrerillos,Chiriqui,02,Dolega,0407,,,8.6452,-82.4857,4,potrerillos
+PA,Panama,Panamá,04063,Potrerillos Abajo,Chiriqui,02,Dolega,0407,,,8.6452,-82.4857,4,potrerillos-abajo
+PA,Panama,Panamá,04064,Rovira,Chiriqui,02,Dolega,0407,,,8.5649,-82.4117,1,rovira
+PA,Panama,Panamá,04065,Tinajas,Chiriqui,02,Dolega,0407,,,8.5592,-82.4622,4,tinajas
+PA,Panama,Panamá,04066,Los Algarrobos,Chiriqui,02,Dolega,0407,,,8.4967,-82.4242,4,los-algarrobos
+PA,Panama,Panamá,04067,Gualaca (Cabec),Chiriqui,02,Gualaca,0408,,,8.5649,-82.4117,1,gualaca-cabec
+PA,Panama,Panamá,04068,Hornito,Chiriqui,02,Gualaca,0408,,,8.5649,-82.4117,1,hornito
+PA,Panama,Panamá,04069,Los Angeles,Chiriqui,02,Gualaca,0408,,,8.5257,-82.2029,4,los-angeles
+PA,Panama,Panamá,04070,Paja De Sombrero,Chiriqui,02,Gualaca,0408,,,8.6861,-82.3215,4,paja-de-sombrero
+PA,Panama,Panamá,04071,Rincon,Chiriqui,02,Gualaca,0408,,,8.466,-82.281,4,rincon
+PA,Panama,Panamá,04072,Remedios (Cabec),Chiriqui,02,Remedios,0409,,,8.3312,-82.0175,1,remedios-cabec
+PA,Panama,Panamá,04073,El Nancito,Chiriqui,02,Remedios,0409,,,8.2412,-81.7321,4,el-nancito
+PA,Panama,Panamá,04074,El Porvenir,Chiriqui,02,Remedios,0409,,,8.232,-81.8335,4,el-porvenir
+PA,Panama,Panamá,04075,El Puerto,Chiriqui,02,Remedios,0409,,,8.2152,-81.81,4,el-puerto
+PA,Panama,Panamá,04076,Santa Lucia,Chiriqui,02,Remedios,0409,,,8.232,-81.8261,4,santa-lucia
+PA,Panama,Panamá,04045,Rio Sereno (Cabec),Chiriqui,02,Renacimiento,0410,,,8.6435,-82.6501,1,rio-sereno-cabec
+PA,Panama,Panamá,04046,Breðon,Chiriqui,02,Renacimiento,0410,,,8.6435,-82.6501,1,bre-on
+PA,Panama,Panamá,04047,Caðas Gordas,Chiriqui,02,Renacimiento,0410,,,8.6435,-82.6501,1,ca-as-gordas
+PA,Panama,Panamá,04048,Monte Lirio,Chiriqui,02,Renacimiento,0410,,,8.7933,-82.8245,4,monte-lirio
+PA,Panama,Panamá,04049,Plaza De Caisan,Chiriqui,02,Renacimiento,0410,,,8.7435,-82.8207,4,plaza-de-caisan
+PA,Panama,Panamá,04050,Santa Cruz,Chiriqui,02,Renacimiento,0410,,,8.6463,-82.7605,4,santa-cruz
+PA,Panama,Panamá,04051,Santa Clara,Chiriqui,02,Renacimiento,0410,,,8.8348,-82.7819,4,santa-clara
+PA,Panama,Panamá,04052,Dominical,Chiriqui,02,Renacimiento,0410,,,8.6719,-82.7999,4,dominical
+PA,Panama,Panamá,04091,Las Lajas (Cabec),Chiriqui,02,San Felix,0411,,,8.2599,-81.8523,1,las-lajas-cabec
+PA,Panama,Panamá,04092,Juay,Chiriqui,02,San Felix,0411,,,8.2869,-81.9476,4,juay
+PA,Panama,Panamá,04093,San Felix,Chiriqui,02,San Felix,0411,,,8.2933,-81.8692,4,san-felix
+PA,Panama,Panamá,04094,Lajas Adentro,Chiriqui,02,San Felix,0411,,,8.2493,-81.8797,4,lajas-adentro
+PA,Panama,Panamá,04095,Santa Cruz,Chiriqui,02,San Felix,0411,,,8.2353,-81.9127,4,santa-cruz
+PA,Panama,Panamá,04077,Horconcitos (Cabec),Chiriqui,02,San Lorenzo,0412,,,8.3312,-82.0175,1,horconcitos-cabec
+PA,Panama,Panamá,04078,Boca Chica,Chiriqui,02,San Lorenzo,0412,,,8.2204,-82.2185,4,boca-chica
+PA,Panama,Panamá,04079,Boca Del Monte,Chiriqui,02,San Lorenzo,0412,,,8.3564,-82.1169,4,boca-del-monte
+PA,Panama,Panamá,04080,San Juan,Chiriqui,02,San Lorenzo,0412,,,8.2796,-81.9954,4,san-juan
+PA,Panama,Panamá,04081,San Lorenzo,Chiriqui,02,San Lorenzo,0412,,,8.3094,-82.1026,4,san-lorenzo
+PA,Panama,Panamá,04082,Tole(Cabec),Chiriqui,02,Tole,0413,,,8.2348,-81.8391,1,tole-cabec
+PA,Panama,Panamá,04083,Cerro Viejo,Chiriqui,02,Tole,0413,,,8.254,-81.5752,4,cerro-viejo
+PA,Panama,Panamá,04084,Lasjas De Tole,Chiriqui,02,Tole,0413,,,8.2348,-81.8391,1,lasjas-de-tole
+PA,Panama,Panamá,04085,Potrero De Caða,Chiriqui,02,Tole,0413,,,8.2348,-81.8391,1,potrero-de-ca-a
+PA,Panama,Panamá,04086,Quebrada De Piedra,Chiriqui,02,Tole,0413,,,8.096,-81.6831,4,quebrada-de-piedra
+PA,Panama,Panamá,04087,Cbella Vista,Chiriqui,02,Tole,0413,,,8.2348,-81.8391,1,cbella-vista
+PA,Panama,Panamá,04088,El Cristo,Chiriqui,02,Tole,0413,,,8.2348,-81.8391,1,el-cristo
+PA,Panama,Panamá,04089,Justo Fidel Palacios,Chiriqui,02,Tole,0413,,,8.2348,-81.8391,1,justo-fidel-palacios
+PA,Panama,Panamá,04090,Veladero,Chiriqui,02,Tole,0413,,,8.2346,-81.6525,4,veladero
+PA,Panama,Panamá,02038,Aguadulce (Cabec),Cocle,03,Aguadulce,0201,,,8.4341,-80.6585,1,aguadulce-cabec
+PA,Panama,Panamá,02039,El Cristo,Cocle,03,Aguadulce,0201,,,8.2535,-80.6203,4,el-cristo
+PA,Panama,Panamá,02040,El Roble,Cocle,03,Aguadulce,0201,,,8.1688,-80.6602,4,el-roble
+PA,Panama,Panamá,02041,Pocri,Cocle,03,Aguadulce,0201,,,8.2564,-80.5463,4,pocri
+PA,Panama,Panamá,02042,Barrios Unidos,Cocle,03,Aguadulce,0201,,,8.2326,-80.5433,4,barrios-unidos
+PA,Panama,Panamá,02001,Anton (Cabec),Cocle,03,Anton,0202,,,8.5204,-80.1915,1,anton-cabec
+PA,Panama,Panamá,02002,Cabuya,Cocle,03,Anton,0202,,,8.547,-80.1676,4,cabuya
+PA,Panama,Panamá,02003,El Chiru,Cocle,03,Anton,0202,,,8.5706,-80.1497,4,el-chiru
+PA,Panama,Panamá,02004,El Retiro,Cocle,03,Anton,0202,,,8.4772,-80.1573,4,el-retiro
+PA,Panama,Panamá,02005,El Valle,Cocle,03,Anton,0202,,,8.5204,-80.1915,1,el-valle
+PA,Panama,Panamá,02006,Juan Diaz,Cocle,03,Anton,0202,,,8.4607,-80.2853,4,juan-diaz
+PA,Panama,Panamá,02007,Rio Hato,Cocle,03,Anton,0202,,,8.5397,-80.1643,4,rio-hato
+PA,Panama,Panamá,02008,San Juan De Dios,Cocle,03,Anton,0202,,,8.5512,-80.2262,4,san-juan-de-dios
+PA,Panama,Panamá,02009,Santa Rita,Cocle,03,Anton,0202,,,8.4961,-80.1904,4,santa-rita
+PA,Panama,Panamá,02010,Caballero,Cocle,03,Anton,0202,,,8.5451,-80.1972,4,caballero
+PA,Panama,Panamá,02043,El Valle,Cocle,03,Anton,0202,,,8.2193,-80.5833,1,el-valle
+PA,Panama,Panamá,02021,La Pintada (Cabec),Cocle,03,La Pintada,0203,,,8.5796,-80.5169,1,la-pintada-cabec
+PA,Panama,Panamá,02022,El Harino,Cocle,03,La Pintada,0203,,,8.6141,-80.5582,4,el-harino
+PA,Panama,Panamá,02023,El Potrero,Cocle,03,La Pintada,0203,,,8.522,-80.5209,4,el-potrero
+PA,Panama,Panamá,02024,Llano Grande,Cocle,03,La Pintada,0203,,,8.6347,-80.4399,4,llano-grande
+PA,Panama,Panamá,02025,Piedras Gordas,Cocle,03,La Pintada,0203,,,8.6389,-80.5114,4,piedras-gordas
+PA,Panama,Panamá,02026,Las Lomas,Cocle,03,La Pintada,0203,,,8.6052,-80.6294,4,las-lomas
+PA,Panama,Panamá,02027,Nata (Cabec),Cocle,03,Nata,0204,,,8.5796,-80.5169,1,nata-cabec
+PA,Panama,Panamá,02028,Capellania,Cocle,03,Nata,0204,,,8.3022,-80.5533,4,capellania
+PA,Panama,Panamá,02029,El Caðo,Cocle,03,Nata,0204,,,8.5796,-80.5169,1,el-ca-o
+PA,Panama,Panamá,02030,Guzman,Cocle,03,Nata,0204,,,8.5226,-80.5855,4,guzman
+PA,Panama,Panamá,02031,Las Huacas,Cocle,03,Nata,0204,,,8.467,-80.7509,4,las-huacas
+PA,Panama,Panamá,02032,Toza,Cocle,03,Nata,0204,,,8.3452,-80.6411,4,toza
+PA,Panama,Panamá,02033,Ola (Cabec),Cocle,03,Ola,0205,,,8.4341,-80.6585,1,ola-cabec
+PA,Panama,Panamá,02034,El Cope,Cocle,03,Ola,0205,,,8.4393,-80.6801,4,el-cope
+PA,Panama,Panamá,02035,El Palmar,Cocle,03,Ola,0205,,,8.5769,-80.673,4,el-palmar
+PA,Panama,Panamá,02036,El Picacho,Cocle,03,Ola,0205,,,8.4341,-80.6585,1,el-picacho
+PA,Panama,Panamá,02037,La Pava,Cocle,03,Ola,0205,,,8.4341,-80.6585,1,la-pava
+PA,Panama,Panamá,02011,Penonome (Cabec),Cocle,03,Penonome,0206,,,8.5783,-80.3153,1,penonome-cabec
+PA,Panama,Panamá,02012,Caðaberal,Cocle,03,Penonome,0206,,,8.5783,-80.3153,1,ca-aberal
+PA,Panama,Panamá,02013,Cocle,Cocle,03,Penonome,0206,,,8.4651,-80.4155,4,cocle
+PA,Panama,Panamá,02014,Chiriqui Arriba,Cocle,03,Penonome,0206,,,8.5783,-80.3153,1,chiriqui-arriba
+PA,Panama,Panamá,02015,El Coco,Cocle,03,Penonome,0206,,,8.396,-80.3545,4,el-coco
+PA,Panama,Panamá,02016,Pajonal,Cocle,03,Penonome,0206,,,8.5928,-80.256,4,pajonal
+PA,Panama,Panamá,02017,Rio Grande,Cocle,03,Penonome,0206,,,8.4319,-80.487,4,rio-grande
+PA,Panama,Panamá,02018,Rio Indio,Cocle,03,Penonome,0206,,,8.9668,-80.1756,4,rio-indio
+PA,Panama,Panamá,02019,Toabre,Cocle,03,Penonome,0206,,,8.6507,-80.3212,4,toabre
+PA,Panama,Panamá,02020,Tulu,Cocle,03,Penonome,0206,,,8.7399,-80.4052,4,tulu
+PA,Panama,Panamá,03001,Barrio Norte,Colon,04,Colon,0301,,,9.3626,-79.8999,4,barrio-norte
+PA,Panama,Panamá,03002,Barrio Sur,Colon,04,Colon,0301,,,9.353,-79.8949,4,barrio-sur
+PA,Panama,Panamá,03003,Buena Vista,Colon,04,Colon,0301,,,9.2739,-79.6958,4,buena-vista
+PA,Panama,Panamá,03004,Cativa,Colon,04,Colon,0301,,,9.3622,-79.8323,4,cativa
+PA,Panama,Panamá,03005,Ciricito,Colon,04,Colon,0301,,,9.2956,-79.8533,1,ciricito
+PA,Panama,Panamá,03006,Cristobal,Colon,04,Colon,0301,,,9.3522,-79.9044,4,cristobal
+PA,Panama,Panamá,03007,Escobal,Colon,04,Colon,0301,,,9.1476,-79.9638,4,escobal
+PA,Panama,Panamá,03008,Limon,Colon,04,Colon,0301,,,9.25,-79.82,4,limon
+PA,Panama,Panamá,03009,Nueva Providencia,Colon,04,Colon,0301,,,9.2633,-79.8156,4,nueva-providencia
+PA,Panama,Panamá,03010,Puerto Pilon,Colon,04,Colon,0301,,,9.3632,-79.7933,4,puerto-pilon
+PA,Panama,Panamá,03011,Sabanitas,Colon,04,Colon,0301,,,9.3452,-79.8054,4,sabanitas
+PA,Panama,Panamá,03012,Salamanca,Colon,04,Colon,0301,,,9.3363,-79.603,4,salamanca
+PA,Panama,Panamá,03013,San Juan,Colon,04,Colon,0301,,,9.2328,-79.9047,1,san-juan
+PA,Panama,Panamá,03014,Santa Rosa,Colon,04,Colon,0301,,,9.1849,-79.6544,4,santa-rosa
+PA,Panama,Panamá,03041,Colon,Colon,04,Colon,0301,,,9.3545,-79.9001,4,colon
+PA,Panama,Panamá,03042,Bahia La Mina,Colon,04,Colon,0301,,,9.5222,-79.6159,1,bahia-la-mina
+PA,Panama,Panamá,03046,El Espinar,Colon,04,Colon,0301,,,9.5222,-79.6159,1,el-espinar
+PA,Panama,Panamá,03047,Manzanillo,Colon,04,Colon,0301,,,9.2567,-79.795,4,manzanillo
+PA,Panama,Panamá,03049,Porto Belo,Colon,04,Colon,0301,,,9.5222,-79.6159,1,porto-belo
+PA,Panama,Panamá,03050,Zona Libre,Colon,04,Colon,0301,,,9.3668,-79.7696,1,zona-libre
+PA,Panama,Panamá,03015,Nuevo Chagres (Cabec),Colon,04,Chagres,0302,,,9.2328,-79.9047,1,nuevo-chagres-cabec
+PA,Panama,Panamá,03016,Achiote,Colon,04,Chagres,0302,,,9.2224,-80.0189,4,achiote
+PA,Panama,Panamá,03017,El Guabo,Colon,04,Chagres,0302,,,9.085,-80.0843,4,el-guabo
+PA,Panama,Panamá,03018,La Encantada,Colon,04,Chagres,0302,,,9.097,-80.1931,4,la-encantada
+PA,Panama,Panamá,03019,Palmas Bellas,Colon,04,Chagres,0302,,,9.2284,-80.085,4,palmas-bellas
+PA,Panama,Panamá,03020,Piða,Colon,04,Chagres,0302,,,9.2509,-80.1528,1,pi-a
+PA,Panama,Panamá,03021,Salud,Colon,04,Chagres,0302,,,9.2067,-80.132,4,salud
+PA,Panama,Panamá,03022,Miguel De La Borda (Cabec),Colon,04,Donoso,0303,,,9.2509,-80.1528,1,miguel-de-la-borda-cabec
+PA,Panama,Panamá,03023,Cocle Del Norte,Colon,04,Donoso,0303,,,9.0754,-80.5718,4,cocle-del-norte
+PA,Panama,Panamá,03024,El Guasimo,Colon,04,Donoso,0303,,,9.2509,-80.1528,1,el-guasimo
+PA,Panama,Panamá,03025,Gobea,Colon,04,Donoso,0303,,,9.1679,-80.2538,4,gobea
+PA,Panama,Panamá,03026,Rio Indio,Colon,04,Donoso,0303,,,9.1927,-80.1907,4,rio-indio
+PA,Panama,Panamá,03027,San Jose Del General,Colon,04,Donoso,0303,,,9.2509,-80.1528,1,san-jose-del-general
+PA,Panama,Panamá,03028,Portobelo (Cabec),Colon,04,Portobelo,0304,,,9.2509,-80.1528,1,portobelo-cabec
+PA,Panama,Panamá,03029,Cacique,Colon,04,Portobelo,0304,,,9.6118,-79.6158,4,cacique
+PA,Panama,Panamá,03030,Garrote,Colon,04,Portobelo,0304,,,9.6054,-79.5856,4,garrote
+PA,Panama,Panamá,03031,Isla Grande,Colon,04,Portobelo,0304,,,9.6296,-79.5648,4,isla-grande
+PA,Panama,Panamá,03032,Maria Chiquita,Colon,04,Portobelo,0304,,,9.4429,-79.753,4,maria-chiquita
+PA,Panama,Panamá,03033,Palenque (Cabec),Colon,04,Santa Isabel,0305,,,9.5618,-79.4135,1,palenque-cabec
+PA,Panama,Panamá,03034,Cuango,Colon,04,Santa Isabel,0305,,,9.5687,-79.3106,4,cuango
+PA,Panama,Panamá,03035,Miramar,Colon,04,Santa Isabel,0305,,,9.5754,-79.3357,4,miramar
+PA,Panama,Panamá,03036,Nombre De Dios,Colon,04,Santa Isabel,0305,,,9.5815,-79.4685,4,nombre-de-dios
+PA,Panama,Panamá,03037,Palmira,Colon,04,Santa Isabel,0305,,,9.5469,-79.2154,4,palmira
+PA,Panama,Panamá,03038,Playa Chiquita,Colon,04,Santa Isabel,0305,,,9.5662,-79.2918,4,playa-chiquita
+PA,Panama,Panamá,03039,Santa Isabel,Colon,04,Santa Isabel,0305,,,9.5392,-79.1957,4,santa-isabel
+PA,Panama,Panamá,03040,Viento Frio,Colon,04,Santa Isabel,0305,,,9.5826,-79.4069,4,viento-frio
+PA,Panama,Panamá,05001,Chitre (Cabec),Herrera,06,Chitre,0601,,,7.8668,-80.5142,1,chitre-cabec
+PA,Panama,Panamá,05002,La Arena,Herrera,06,Chitre,0601,,,7.9694,-80.4615,4,la-arena
+PA,Panama,Panamá,05003,Monagrillo,Herrera,06,Chitre,0601,,,7.9826,-80.433,4,monagrillo
+PA,Panama,Panamá,05004,San Uan Bautista,Herrera,06,Chitre,0601,,,7.8668,-80.5142,1,san-uan-bautista
+PA,Panama,Panamá,05005,Llano Bonito,Herrera,06,Chitre,0601,,,7.974,-80.4209,4,llano-bonito
+PA,Panama,Panamá,05030,Las Minas (Cabec),Herrera,06,Las Minas,0602,,,7.8062,-80.8087,1,las-minas-cabec
+PA,Panama,Panamá,05031,Chepo,Herrera,06,Las Minas,0602,,,7.75,-80.8,4,chepo
+PA,Panama,Panamá,05032,Chumical,Herrera,06,Las Minas,0602,,,7.8464,-80.7366,4,chumical
+PA,Panama,Panamá,05033,El Toro,Herrera,06,Las Minas,0602,,,7.7534,-80.8692,4,el-toro
+PA,Panama,Panamá,05034,Leones,Herrera,06,Las Minas,0602,,,7.8062,-80.8087,1,leones
+PA,Panama,Panamá,05035,Quebrada Del Rosario,Herrera,06,Las Minas,0602,,,7.7176,-80.7389,4,quebrada-del-rosario
+PA,Panama,Panamá,05036,El Ciprian,Herrera,06,Las Minas,0602,,,7.8062,-80.8087,1,el-ciprian
+PA,Panama,Panamá,05050,Chepo,Herrera,06,Las Minas,0602,,,7.75,-80.8,4,chepo
+PA,Panama,Panamá,05006,Los Pozos (Cabec),Herrera,06,Los Pozos,0603,,,7.8668,-80.5142,1,los-pozos-cabec
+PA,Panama,Panamá,05007,Capuri,Herrera,06,Los Pozos,0603,,,7.8668,-80.5142,1,capuri
+PA,Panama,Panamá,05008,El Calabacito,Herrera,06,Los Pozos,0603,,,7.7205,-80.5972,4,el-calabacito
+PA,Panama,Panamá,05009,El Cedro,Herrera,06,Los Pozos,0603,,,7.6874,-80.6582,4,el-cedro
+PA,Panama,Panamá,05010,La Arena,Herrera,06,Los Pozos,0603,,,7.7513,-80.5921,4,la-arena
+PA,Panama,Panamá,05011,La Pitaloza,Herrera,06,Los Pozos,0603,,,7.8904,-80.6122,1,la-pitaloza
+PA,Panama,Panamá,05012,Los Cerritos,Herrera,06,Los Pozos,0603,,,7.7995,-80.6064,4,los-cerritos
+PA,Panama,Panamá,05013,Los Cerros De Paja,Herrera,06,Los Pozos,0603,,,7.7206,-80.6708,4,los-cerros-de-paja
+PA,Panama,Panamá,05014,Las Llanas,Herrera,06,Los Pozos,0603,,,7.8904,-80.6122,1,las-llanas
+PA,Panama,Panamá,05037,Ocu (Cabec),Herrera,06,Ocu,0604,,,7.8062,-80.8087,1,ocu-cabec
+PA,Panama,Panamá,05038,Cerro Largo,Herrera,06,Ocu,0604,,,7.839,-80.8308,4,cerro-largo
+PA,Panama,Panamá,05039,Los Llanos,Herrera,06,Ocu,0604,,,7.9308,-80.8768,4,los-llanos
+PA,Panama,Panamá,05040,Llano Grande,Herrera,06,Ocu,0604,,,7.9744,-80.7093,4,llano-grande
+PA,Panama,Panamá,05041,Peðas Chatas,Herrera,06,Ocu,0604,,,8.0371,-80.7232,1,pe-as-chatas
+PA,Panama,Panamá,05042,El Tijera,Herrera,06,Ocu,0604,,,8.0371,-80.7232,1,el-tijera
+PA,Panama,Panamá,05043,Menchaca,Herrera,06,Ocu,0604,,,7.8704,-80.7592,4,menchaca
+PA,Panama,Panamá,05015,Parita (Cabec),Herrera,06,Parita,0605,,,7.8904,-80.6122,1,parita-cabec
+PA,Panama,Panamá,05016,Cabuya,Herrera,06,Parita,0605,,,8.031,-80.6311,4,cabuya
+PA,Panama,Panamá,05017,Los Castillos,Herrera,06,Parita,0605,,,7.9874,-80.6193,4,los-castillos
+PA,Panama,Panamá,05018,Llana De La Cruz,Herrera,06,Parita,0605,,,7.8904,-80.6122,1,llana-de-la-cruz
+PA,Panama,Panamá,05019,Paris,Herrera,06,Parita,0605,,,8.0527,-80.5538,4,paris
+PA,Panama,Panamá,05020,Portobelillo,Herrera,06,Parita,0605,,,8.0175,-80.5978,4,portobelillo
+PA,Panama,Panamá,05021,Potuga,Herrera,06,Parita,0605,,,8.0659,-80.6209,4,potuga
+PA,Panama,Panamá,05022,Pese (Cabec),Herrera,06,Pese,0606,,,7.9391,-80.5971,1,pese-cabec
+PA,Panama,Panamá,05023,Las Cabras,Herrera,06,Pese,0606,,,7.877,-80.5481,4,las-cabras
+PA,Panama,Panamá,05024,El Pajaro,Herrera,06,Pese,0606,,,7.9474,-80.5741,4,el-pajaro
+PA,Panama,Panamá,05025,El Barrero,Herrera,06,Pese,0606,,,7.9335,-80.5204,4,el-barrero
+PA,Panama,Panamá,05026,El Pedregoso,Herrera,06,Pese,0606,,,7.9396,-80.6376,4,el-pedregoso
+PA,Panama,Panamá,05027,El Ciruelo,Herrera,06,Pese,0606,,,7.89,-80.675,4,el-ciruelo
+PA,Panama,Panamá,05028,Sabanagrande,Herrera,06,Pese,0606,,,7.9391,-80.5971,1,sabanagrande
+PA,Panama,Panamá,05029,Rincon Hondo,Herrera,06,Pese,0606,,,7.8421,-80.603,4,rincon-hondo
+PA,Panama,Panamá,05044,Santa Maria (Cabec),Herrera,06,Santa Maria,0607,,,8.0371,-80.7232,1,santa-maria-cabec
+PA,Panama,Panamá,05045,Chupampa,Herrera,06,Santa Maria,0607,,,8.0771,-80.7783,4,chupampa
+PA,Panama,Panamá,05046,El Rincon,Herrera,06,Santa Maria,0607,,,8.1196,-80.6151,4,el-rincon
+PA,Panama,Panamá,05047,El Limon,Herrera,06,Santa Maria,0607,,,8.0589,-80.7721,4,el-limon
+PA,Panama,Panamá,05048,Los Canelos,Herrera,06,Santa Maria,0607,,,8.1222,-80.7053,4,los-canelos
+PA,Panama,Panamá,06030,Guarare,Los Santos,07,Guarare,0701,,,7.8198,-80.2809,4,guarare
+PA,Panama,Panamá,06031,El Espinal,Los Santos,07,Guarare,0701,,,7.8667,-80.3219,4,el-espinal
+PA,Panama,Panamá,06032,El Macano,Los Santos,07,Guarare,0701,,,7.6878,-80.4053,4,el-macano
+PA,Panama,Panamá,06033,Guarare Arriba,Los Santos,07,Guarare,0701,,,7.808,-80.3592,4,guarare-arriba
+PA,Panama,Panamá,06034,El Enea,Los Santos,07,Guarare,0701,,,7.8388,-80.2723,4,el-enea
+PA,Panama,Panamá,06035,La Pasera,Los Santos,07,Guarare,0701,,,7.798,-80.3044,4,la-pasera
+PA,Panama,Panamá,06036,Las Trancas,Los Santos,07,Guarare,0701,,,7.7364,-80.3726,4,las-trancas
+PA,Panama,Panamá,06037,Llano Abajo,Los Santos,07,Guarare,0701,,,7.7939,-80.4076,4,llano-abajo
+PA,Panama,Panamá,06038,El Hato,Los Santos,07,Guarare,0701,,,7.7955,-80.3828,4,el-hato
+PA,Panama,Panamá,06039,Perales,Los Santos,07,Guarare,0701,,,7.7769,-80.3214,4,perales
+PA,Panama,Panamá,06001,Las Tablas (Cabec),Los Santos,07,Las Tablas,0702,,,7.7039,-80.2911,1,las-tablas-cabec
+PA,Panama,Panamá,06002,Bajo Corral,Los Santos,07,Las Tablas,0702,,,7.6064,-80.2586,4,bajo-corral
+PA,Panama,Panamá,06003,Bayano,Los Santos,07,Las Tablas,0702,,,7.6381,-80.3847,4,bayano
+PA,Panama,Panamá,06004,Carate,Los Santos,07,Las Tablas,0702,,,7.732,-80.2954,4,carate
+PA,Panama,Panamá,06005,El Cocal,Los Santos,07,Las Tablas,0702,,,7.7385,-80.2789,4,el-cocal
+PA,Panama,Panamá,06006,El Manantial,Los Santos,07,Las Tablas,0702,,,7.7839,-80.2425,4,el-manantial
+PA,Panama,Panamá,06007,El Muðoz,Los Santos,07,Las Tablas,0702,,,7.7039,-80.2911,1,el-mu-oz
+PA,Panama,Panamá,06008,El Pedregoso,Los Santos,07,Las Tablas,0702,,,7.6947,-80.3271,4,el-pedregoso
+PA,Panama,Panamá,06009,La Laja,Los Santos,07,Las Tablas,0702,,,7.7338,-80.2507,4,la-laja
+PA,Panama,Panamá,06010,La Miel,Los Santos,07,Las Tablas,0702,,,7.5602,-80.3274,4,la-miel
+PA,Panama,Panamá,06011,La Palma,Los Santos,07,Las Tablas,0702,,,7.6918,-80.192,4,la-palma
+PA,Panama,Panamá,06012,La Tiza,Los Santos,07,Las Tablas,0702,,,7.7528,-80.2884,4,la-tiza
+PA,Panama,Panamá,06013,Las Palmitas,Los Santos,07,Las Tablas,0702,,,7.767,-80.2903,4,las-palmitas
+PA,Panama,Panamá,06014,Las Tablas Abajo,Los Santos,07,Las Tablas,0702,,,7.7938,-80.2525,4,las-tablas-abajo
+PA,Panama,Panamá,06015,Nuario,Los Santos,07,Las Tablas,0702,,,7.5271,-80.32,4,nuario
+PA,Panama,Panamá,06016,Palmira,Los Santos,07,Las Tablas,0702,,,7.6635,-80.3573,4,palmira
+PA,Panama,Panamá,06017,Peða Blanca,Los Santos,07,Las Tablas,0702,,,7.6831,-80.2921,1,pe-a-blanca
+PA,Panama,Panamá,06018,Rio Hondo,Los Santos,07,Las Tablas,0702,,,7.7143,-80.3573,4,rio-hondo
+PA,Panama,Panamá,06019,San Jose,Los Santos,07,Las Tablas,0702,,,7.677,-80.2434,4,san-jose
+PA,Panama,Panamá,06020,San Miguel,Los Santos,07,Las Tablas,0702,,,7.6939,-80.2317,1,san-miguel
+PA,Panama,Panamá,06021,Santo Domingo,Los Santos,07,Las Tablas,0702,,,7.7486,-80.2414,4,santo-domingo
+PA,Panama,Panamá,06022,El Sesteadero,Los Santos,07,Las Tablas,0702,,,7.746,-80.2508,4,el-sesteadero
+PA,Panama,Panamá,06023,Valle Rico,Los Santos,07,Las Tablas,0702,,,7.73,-80.2483,4,valle-rico
+PA,Panama,Panamá,06024,Vallerriquito,Los Santos,07,Las Tablas,0702,,,7.6223,-80.3166,4,vallerriquito
+PA,Panama,Panamá,06040,La Villa De Los Santos,Los Santos,07,Los Santos,0703,,,7.936,-80.413,4,la-villa-de-los-santos
+PA,Panama,Panamá,06041,El Guasimo,Los Santos,07,Los Santos,0703,,,7.8094,-80.527,4,el-guasimo
+PA,Panama,Panamá,06042,La Colorada,Los Santos,07,Los Santos,0703,,,7.8275,-80.557,4,la-colorada
+PA,Panama,Panamá,06043,La Espigadilla,Los Santos,07,Los Santos,0703,,,7.8878,-80.3889,4,la-espigadilla
+PA,Panama,Panamá,06044,Las Cruces,Los Santos,07,Los Santos,0703,,,7.8272,-80.4297,4,las-cruces
+PA,Panama,Panamá,06045,Las Guabas,Los Santos,07,Los Santos,0703,,,7.8147,-80.5015,4,las-guabas
+PA,Panama,Panamá,06046,Los Angeles,Los Santos,07,Los Santos,0703,,,7.8846,-80.355,4,los-angeles
+PA,Panama,Panamá,06047,Los Olivos,Los Santos,07,Los Santos,0703,,,7.9185,-80.488,4,los-olivos
+PA,Panama,Panamá,06048,Llano Largo,Los Santos,07,Los Santos,0703,,,7.9086,-80.424,4,llano-largo
+PA,Panama,Panamá,06049,Sabanagrande,Los Santos,07,Los Santos,0703,,,7.8683,-80.4538,1,sabanagrande
+PA,Panama,Panamá,06050,Santa Ana,Los Santos,07,Los Santos,0703,,,7.7904,-80.4725,1,santa-ana
+PA,Panama,Panamá,06051,Tres Quebradas,Los Santos,07,Los Santos,0703,,,7.8402,-80.4074,4,tres-quebradas
+PA,Panama,Panamá,06052,Villa Lourdes,Los Santos,07,Los Santos,0703,,,7.8098,-80.4723,4,villa-lourdes
+PA,Panama,Panamá,06053,Agua Buena,Los Santos,07,Los Santos,0703,,,7.8368,-80.3996,4,agua-buena
+PA,Panama,Panamá,06054,Macaracas (Cabec),Los Santos,07,Macaracas,0704,,,7.7904,-80.4725,1,macaracas-cabec
+PA,Panama,Panamá,06055,Bahia Honda,Los Santos,07,Macaracas,0704,,,7.709,-80.4514,4,bahia-honda
+PA,Panama,Panamá,06056,Bajos De Guerra,Los Santos,07,Macaracas,0704,,,7.7904,-80.4725,1,bajos-de-guerra
+PA,Panama,Panamá,06057,Corozal,Los Santos,07,Macaracas,0704,,,7.7548,-80.4782,4,corozal
+PA,Panama,Panamá,06058,Chupa,Los Santos,07,Macaracas,0704,,,7.8022,-80.5728,4,chupa
+PA,Panama,Panamá,06059,El Cedro,Los Santos,07,Macaracas,0704,,,7.78,-80.5257,4,el-cedro
+PA,Panama,Panamá,06060,Espino Amarillo,Los Santos,07,Macaracas,0704,,,7.6085,-80.3279,1,espino-amarillo
+PA,Panama,Panamá,06061,La Mesa,Los Santos,07,Macaracas,0704,,,7.6616,-80.619,4,la-mesa
+PA,Panama,Panamá,06062,Las Palmas,Los Santos,07,Macaracas,0704,,,7.6831,-80.4973,4,las-palmas
+PA,Panama,Panamá,06063,Llano De Piedra,Los Santos,07,Macaracas,0704,,,7.6657,-80.5625,4,llano-de-piedra
+PA,Panama,Panamá,06064,Mogollon,Los Santos,07,Macaracas,0704,,,7.6492,-80.4572,4,mogollon
+PA,Panama,Panamá,06065,Pedasi (Cabec),Los Santos,07,Pedasi,0705,,,7.6085,-80.3279,1,pedasi-cabec
+PA,Panama,Panamá,06066,Los Asientos,Los Santos,07,Pedasi,0705,,,7.5185,-80.1329,4,los-asientos
+PA,Panama,Panamá,06067,Mariabe,Los Santos,07,Pedasi,0705,,,7.5834,-80.0642,4,mariabe
+PA,Panama,Panamá,06068,Purio,Los Santos,07,Pedasi,0705,,,7.5992,-80.084,4,purio
+PA,Panama,Panamá,06069,Oria Arriba,Los Santos,07,Pedasi,0705,,,7.5075,-80.206,4,oria-arriba
+PA,Panama,Panamá,06025,Pocri (Cabec),Los Santos,07,Pocri,0706,,,7.6939,-80.2317,1,pocri-cabec
+PA,Panama,Panamá,06026,El Caðafistulo,Los Santos,07,Pocri,0706,,,7.6939,-80.2317,1,el-ca-afistulo
+PA,Panama,Panamá,06027,Lajaminas,Los Santos,07,Pocri,0706,,,7.6939,-80.2317,1,lajaminas
+PA,Panama,Panamá,06028,Paraiso,Los Santos,07,Pocri,0706,,,7.6871,-80.159,4,paraiso
+PA,Panama,Panamá,06029,Paritilla,Los Santos,07,Pocri,0706,,,7.6293,-80.1742,4,paritilla
+PA,Panama,Panamá,06070,Tonosi (Cabec),Los Santos,07,Tonosi,0707,,,7.4177,-80.487,1,tonosi-cabec
+PA,Panama,Panamá,06071,Altos De Guerra,Los Santos,07,Tonosi,0707,,,7.4177,-80.487,1,altos-de-guerra
+PA,Panama,Panamá,06072,Caðas,Los Santos,07,Tonosi,0707,,,7.4177,-80.487,1,ca-as
+PA,Panama,Panamá,06073,El Bebedero,Los Santos,07,Tonosi,0707,,,7.4141,-80.4574,4,el-bebedero
+PA,Panama,Panamá,06074,El Cacao,Los Santos,07,Tonosi,0707,,,7.4493,-80.4035,4,el-cacao
+PA,Panama,Panamá,06075,El Cortezo,Los Santos,07,Tonosi,0707,,,7.4291,-80.6326,4,el-cortezo
+PA,Panama,Panamá,06076,Flores,Los Santos,07,Tonosi,0707,,,7.4866,-80.4059,4,flores
+PA,Panama,Panamá,06077,Guanico,Los Santos,07,Tonosi,0707,,,7.2909,-80.4328,4,guanico
+PA,Panama,Panamá,06078,La Tronosa,Los Santos,07,Tonosi,0707,,,7.4362,-80.5897,4,la-tronosa
+PA,Panama,Panamá,07042,San Miguel /Cabec),Panama,08,Balboa,0802,,,8.5374,-79.1045,1,san-miguel-cabec
+PA,Panama,Panamá,07043,La Ensenada,Panama,08,Balboa,0802,,,8.3662,-78.8461,4,la-ensenada
+PA,Panama,Panamá,07044,La Esmeralda,Panama,08,Balboa,0802,,,8.2682,-78.9246,4,la-esmeralda
+PA,Panama,Panamá,07045,La Guinea,Panama,08,Balboa,0802,,,8.3427,-78.93,4,la-guinea
+PA,Panama,Panamá,07046,Pedro Gonzalez,Panama,08,Balboa,0802,,,8.4143,-79.1047,4,pedro-gonzalez
+PA,Panama,Panamá,07047,Saboga,Panama,08,Balboa,0802,,,8.6269,-79.0612,4,saboga
+PA,Panama,Panamá,07048,Chepo (Cabec),Panama,08,Chepo,0805,,,8.5374,-79.1045,1,chepo-cabec
+PA,Panama,Panamá,07049,Carita,Panama,08,Chepo,0805,,,8.5374,-79.1045,1,carita
+PA,Panama,Panamá,07050,Chepillo,Panama,08,Chepo,0805,,,8.954,-79.1286,4,chepillo
+PA,Panama,Panamá,07051,El Llano,Panama,08,Chepo,0805,,,9.2171,-78.9769,4,el-llano
+PA,Panama,Panamá,07052,Las Margaritas,Panama,08,Chepo,0805,,,9.1918,-79.0867,4,las-margaritas
+PA,Panama,Panamá,07053,Sta. Cruz De Chinina,Panama,08,Chepo,0805,,,8.8901,-78.7833,1,sta-cruz-de-chinina
+PA,Panama,Panamá,07054,Torti,Panama,08,Chepo,0805,,,8.9215,-78.3985,4,torti
+PA,Panama,Panamá,07055,Chiman (Cabec),Panama,08,Chiman,0806,,,8.8901,-78.7833,1,chiman-cabec
+PA,Panama,Panamá,07056,Brujas,Panama,08,Chiman,0806,,,8.5861,-78.5314,4,brujas
+PA,Panama,Panamá,07057,Gonzalo Vasquez,Panama,08,Chiman,0806,,,8.4198,-78.4519,4,gonzalo-vasquez
+PA,Panama,Panamá,07058,Union Santeða,Panama,08,Chiman,0806,,,8.8901,-78.7833,1,union-sante-a
+PA,Panama,Panamá,07059,Pasiga,Panama,08,Chiman,0806,,,8.9408,-78.909,4,pasiga
+PA,Panama,Panamá,07063,Madungandi,Panama,08,Panama,0808,,,8.8279,-79.714,1,madungandi
+PA,Panama,Panamá,07090,San Felipe,Panama,08,Panama,0808,,,8.9512,-79.5373,4,san-felipe
+PA,Panama,Panamá,07091,El Chorrillo,Panama,08,Panama,0808,,,8.9496,-79.5472,4,el-chorrillo
+PA,Panama,Panamá,07092,Santa Ana,Panama,08,Panama,0808,,,9.2069,-79.4185,4,santa-ana
+PA,Panama,Panamá,07093,Calidonia,Panama,08,Panama,0808,,,8.9673,-79.5359,4,calidonia
+PA,Panama,Panamá,07094,Curundu,Panama,08,Panama,0808,,,8.9709,-79.5461,4,curundu
+PA,Panama,Panamá,07095,Betania,Panama,08,Panama,0808,,,9.0116,-79.5276,4,betania
+PA,Panama,Panamá,07096,Bella Vista,Panama,08,Panama,0808,,,8.9847,-79.5254,4,bella-vista
+PA,Panama,Panamá,07097,Pueblo Nuevo,Panama,08,Panama,0808,,,9.0118,-79.5133,4,pueblo-nuevo
+PA,Panama,Panamá,07098,Ancon,Panama,08,Panama,0808,,,8.9602,-79.5514,4,ancon
+PA,Panama,Panamá,07099,San Fransisco,Panama,08,Panama,0808,,,8.9809,-79.4673,1,san-fransisco
+PA,Panama,Panamá,07100,Rio Abajo,Panama,08,Panama,0808,,,9.024,-79.4936,4,rio-abajo
+PA,Panama,Panamá,07101,Juan Diaz,Panama,08,Panama,0808,,,9.0406,-79.4408,4,juan-diaz
+PA,Panama,Panamá,07102,Pedregal,Panama,08,Panama,0808,,,9.0661,-79.4258,4,pedregal
+PA,Panama,Panamá,07103,Chilibre,Panama,08,Panama,0808,,,9.154,-79.6202,4,chilibre
+PA,Panama,Panamá,07104,Las Cumbres,Panama,08,Panama,0808,,,9.0921,-79.5389,4,las-cumbres
+PA,Panama,Panamá,07105,Pacora,Panama,08,Panama,0808,,,9.0825,-79.2896,4,pacora
+PA,Panama,Panamá,07106,San Martin,Panama,08,Panama,0808,,,9.0897,-79.428,4,san-martin
+PA,Panama,Panamá,07107,Tocumen,Panama,08,Panama,0808,,,9.0894,-79.3831,4,tocumen
+PA,Panama,Panamá,07109,24 De Diciembre,Panama,08,Panama,0808,,,9.0798,-79.4525,1,24-de-diciembre
+PA,Panama,Panamá,07110,Parque Lefevre,Panama,08,Panama,0808,,,9.0227,-79.4786,4,parque-lefevre
+PA,Panama,Panamá,07113,24 Diciembre,Panama,08,Panama,0808,,,9.0002,-79.5244,1,24-diciembre
+PA,Panama,Panamá,07114,Aeropuerto De Tocumen,Panama,08,Panama,0808,,,9.0002,-79.5244,1,aeropuerto-de-tocumen
+PA,Panama,Panamá,07115,Alameda,Panama,08,Panama,0808,,,9.0001,-79.5358,4,alameda
+PA,Panama,Panamá,07116,Albrook,Panama,08,Panama,0808,,,8.9779,-79.5587,4,albrook
+PA,Panama,Panamá,07117,Alta Mira,Panama,08,Panama,0808,,,9.0002,-79.5244,1,alta-mira
+PA,Panama,Panamá,07118,Alto Del Chace,Panama,08,Panama,0808,,,9.0002,-79.5244,1,alto-del-chace
+PA,Panama,Panamá,07119,Altos De Curundu,Panama,08,Panama,0808,,,9.0002,-79.5244,1,altos-de-curundu
+PA,Panama,Panamá,07120,Altos De Tocumen,Panama,08,Panama,0808,,,9.055,-79.4106,1,altos-de-tocumen
+PA,Panama,Panamá,07121,Altos Del Crisol,Panama,08,Panama,0808,,,9.055,-79.4106,1,altos-del-crisol
+PA,Panama,Panamá,07122,Altos Del Hipodromo,Panama,08,Panama,0808,,,9.055,-79.4106,1,altos-del-hipodromo
+PA,Panama,Panamá,07124,Arcoiris,Panama,08,Panama,0808,,,9.055,-79.4106,1,arcoiris
+PA,Panama,Panamá,07125,Arraijan,Panama,08,Panama,0808,,,9.055,-79.4106,1,arraijan
+PA,Panama,Panamá,07126,Ato Pintado Urbanización,Panama,08,Panama,0808,,,9.055,-79.4106,1,ato-pintado-urbanizacion
+PA,Panama,Panamá,07127,Ave. Balboa,Panama,08,Panama,0808,,,9.055,-79.4106,1,ave-balboa
+PA,Panama,Panamá,07128,Belen,Panama,08,Panama,0808,,,9.055,-79.4106,1,belen
+PA,Panama,Panamá,07129,Bello Horizonte,Panama,08,Panama,0808,,,9.055,-79.4106,4,bello-horizonte
+PA,Panama,Panamá,07131,Boca La Caja,Panama,08,Panama,0808,,,8.9845,-79.5058,4,boca-la-caja
+PA,Panama,Panamá,07132,Cabulla,Panama,08,Panama,0808,,,9.015,-79.5112,1,cabulla
+PA,Panama,Panamá,07134,Campo Alegre,Panama,08,Panama,0808,,,8.982,-79.5243,4,campo-alegre
+PA,Panama,Panamá,07135,Cardenas,Panama,08,Panama,0808,,,8.9986,-79.5669,4,cardenas
+PA,Panama,Panamá,07136,Carrasquilla,Panama,08,Panama,0808,,,9.0023,-79.5135,4,carrasquilla
+PA,Panama,Panamá,07137,Catedral,Panama,08,Panama,0808,,,9.015,-79.5112,1,catedral
+PA,Panama,Panamá,07138,Cerro Batea,Panama,08,Panama,0808,,,9.2069,-79.4185,4,cerro-batea
+PA,Panama,Panamá,07139,Cerro Viento,Panama,08,Panama,0808,,,9.2069,-79.4185,4,cerro-viento
+PA,Panama,Panamá,07140,Chame,Panama,08,Panama,0808,,,9.2069,-79.4185,4,chame
+PA,Panama,Panamá,07141,Chilibre,Panama,08,Panama,0808,,,9.154,-79.6202,4,chilibre
+PA,Panama,Panamá,07142,Chorrillo,Panama,08,Panama,0808,,,8.9496,-79.5472,4,chorrillo
+PA,Panama,Panamá,07143,Ciudad Radial,Panama,08,Panama,0808,,,9.0426,-79.437,4,ciudad-radial
+PA,Panama,Panamá,07144,Clayton,Panama,08,Panama,0808,,,9.0042,-79.5786,4,clayton
+PA,Panama,Panamá,07145,Coco Solo,Panama,08,Panama,0808,,,8.9895,-79.5082,1,coco-solo
+PA,Panama,Panamá,07146,Cocoli,Panama,08,Panama,0808,,,9.2069,-79.4185,4,cocoli
+PA,Panama,Panamá,07147,Colinas Del Golf,Panama,08,Panama,0808,,,8.9895,-79.5082,1,colinas-del-golf
+PA,Panama,Panamá,07148,Concepcion,Panama,08,Panama,0808,,,8.9895,-79.5082,1,concepcion
+PA,Panama,Panamá,07149,Coquira,Panama,08,Panama,0808,,,9.2069,-79.4185,4,coquira
+PA,Panama,Panamá,07150,Coronado,Panama,08,Panama,0808,,,9.0192,-79.5486,1,coronado
+PA,Panama,Panamá,07151,Cuatro Altos,Panama,08,Panama,0808,,,9.0192,-79.5486,1,cuatro-altos
+PA,Panama,Panamá,07153,Diablo,Panama,08,Panama,0808,,,8.9678,-79.5587,4,diablo
+PA,Panama,Panamá,07154,Don Bosco,Panama,08,Panama,0808,,,9.1348,-79.6103,4,don-bosco
+PA,Panama,Panamá,07155,El Bosque,Panama,08,Panama,0808,,,9.0192,-79.5486,1,el-bosque
+PA,Panama,Panamá,07156,El Cangrejo,Panama,08,Panama,0808,,,8.988,-79.5288,4,el-cangrejo
+PA,Panama,Panamá,07157,El Carmen,Panama,08,Panama,0808,,,8.9919,-79.5256,4,el-carmen
+PA,Panama,Panamá,07158,El Ingenio,Panama,08,Panama,0808,,,9.0133,-79.5196,4,el-ingenio
+PA,Panama,Panamá,07159,El Milagro,Panama,08,Panama,0808,,,9.0192,-79.5486,1,el-milagro
+PA,Panama,Panamá,07160,El Pantanal,Panama,08,Panama,0808,,,9.0751,-79.3891,4,el-pantanal
+PA,Panama,Panamá,07162,Gatun,Panama,08,Panama,0808,,,9.0495,-79.4545,1,gatun
+PA,Panama,Panamá,07163,Gonzalillo,Panama,08,Panama,0808,,,9.0978,-79.5131,4,gonzalillo
+PA,Panama,Panamá,07164,Jardin Olimpico,Panama,08,Panama,0808,,,9.0306,-79.4702,4,jardin-olimpico
+PA,Panama,Panamá,07165,Jose De Espinar,Panama,08,Panama,0808,,,9.0495,-79.4545,1,jose-de-espinar
+PA,Panama,Panamá,07166,La Boca,Panama,08,Panama,0808,,,8.9485,-79.5613,4,la-boca
+PA,Panama,Panamá,07167,La Cresta,Panama,08,Panama,0808,,,8.9801,-79.5319,4,la-cresta
+PA,Panama,Panamá,07168,La Doña,Panama,08,Panama,0808,,,9.0495,-79.4545,1,la-dona
+PA,Panama,Panamá,07169,La Pradera,Panama,08,Panama,0808,,,9.1648,-79.2613,4,la-pradera
+PA,Panama,Panamá,07170,Las Acacias,Panama,08,Panama,0808,,,9.0504,-79.4205,4,las-acacias
+PA,Panama,Panamá,07172,Las Mercedes,Panama,08,Panama,0808,,,9.0559,-79.4551,1,las-mercedes
+PA,Panama,Panamá,07173,Llano Bonito,Panama,08,Panama,0808,,,9.0383,-79.4584,4,llano-bonito
+PA,Panama,Panamá,07174,Los Andes,Panama,08,Panama,0808,,,9.2069,-79.4185,4,los-andes
+PA,Panama,Panamá,07175,Los Caobos,Panama,08,Panama,0808,,,9.0867,-79.4364,4,los-caobos
+PA,Panama,Panamá,07176,Los Cerilla,Panama,08,Panama,0808,,,9.0559,-79.4551,1,los-cerilla
+PA,Panama,Panamá,07177,Los Robles,Panama,08,Panama,0808,,,9.0488,-79.4161,4,los-robles
+PA,Panama,Panamá,07178,Mano De Piedra,Panama,08,Panama,0808,,,9.2069,-79.4185,4,mano-de-piedra
+PA,Panama,Panamá,07179,Marbella,Panama,08,Panama,0808,,,9.0559,-79.4551,1,marbella
+PA,Panama,Panamá,07181,Miraflores,Panama,08,Panama,0808,,,9.0234,-79.5224,4,miraflores
+PA,Panama,Panamá,07182,Monte Oscuro,Panama,08,Panama,0808,,,9.0309,-79.5116,4,monte-oscuro
+PA,Panama,Panamá,07183,Monterrico,Panama,08,Panama,0808,,,9.0138,-79.5193,1,monterrico
+PA,Panama,Panamá,07184,Nuevo San Juan,Panama,08,Panama,0808,,,9.0138,-79.5193,1,nuevo-san-juan
+PA,Panama,Panamá,07185,Obarrio,Panama,08,Panama,0808,,,8.9896,-79.5179,4,obarrio
+PA,Panama,Panamá,07187,Pan De Azucar,Panama,08,Panama,0808,,,9.2069,-79.4185,4,pan-de-azucar
+PA,Panama,Panamá,07188,Panama Viejo,Panama,08,Panama,0808,,,8.9842,-79.537,4,panama-viejo
+PA,Panama,Panamá,07190,Perejil,Panama,08,Panama,0808,,,8.9757,-79.5364,4,perejil
+PA,Panama,Panamá,07192,Punta Paitilla,Panama,08,Panama,0808,,,9.0231,-79.5245,1,punta-paitilla
+PA,Panama,Panamá,07194,Rio Abajo Ato Pintado,Panama,08,Panama,0808,,,9.0231,-79.5245,1,rio-abajo-ato-pintado
+PA,Panama,Panamá,07195,Rodman,Panama,08,Panama,0808,,,9.0231,-79.5245,1,rodman
+PA,Panama,Panamá,07196,San Francisco,Panama,08,Panama,0808,,,8.9924,-79.5082,4,san-francisco
+PA,Panama,Panamá,07197,San Isidro,Panama,08,Panama,0808,,,9.2069,-79.4185,4,san-isidro
+PA,Panama,Panamá,07198,Santa Librada,Panama,08,Panama,0808,,,9.0636,-79.535,4,santa-librada
+PA,Panama,Panamá,07199,Santa Maria,Panama,08,Panama,0808,,,9.0159,-79.5326,4,santa-maria
+PA,Panama,Panamá,07200,Terminal,Panama,08,Panama,0808,,,9.0154,-79.5217,1,terminal
+PA,Panama,Panamá,07202,Torrijos-Carter,Panama,08,Panama,0808,,,9.2069,-79.4185,4,torrijos-carter
+PA,Panama,Panamá,07203,Urb. Dos Mares,Panama,08,Panama,0808,,,9.0154,-79.5217,1,urb-dos-mares
+PA,Panama,Panamá,07204,Urbanizacion Nuevoreparto Chanis,Panama,08,Panama,0808,,,9.0154,-79.5217,1,urbanizacion-nuevoreparto-chanis
+PA,Panama,Panamá,07205,Veranillo,Panama,08,Panama,0808,,,8.9842,-79.537,4,veranillo
+PA,Panama,Panamá,07206,Via España,Panama,08,Panama,0808,,,9.0154,-79.5217,1,via-espana
+PA,Panama,Panamá,07207,Viejo Veranillo,Panama,08,Panama,0808,,,8.9842,-79.537,4,viejo-veranillo
+PA,Panama,Panamá,07208,Villa Caceres,Panama,08,Panama,0808,,,9.0154,-79.5217,1,villa-caceres
+PA,Panama,Panamá,07209,Villa De La Fuente,Panama,08,Panama,0808,,,9.0154,-79.5217,1,villa-de-la-fuente
+PA,Panama,Panamá,07210,Villa Saita,Panama,08,Panama,0808,,,9.1145,-79.4723,1,villa-saita
+PA,Panama,Panamá,07211,Villa Unida,Panama,08,Panama,0808,,,9.1918,-79.6237,4,villa-unida
+PA,Panama,Panamá,07212,Vista Hermosa,Panama,08,Panama,0808,,,8.9998,-79.5193,4,vista-hermosa
+PA,Panama,Panamá,07081,Amelia D. De Icaza,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,amelia-d-de-icaza
+PA,Panama,Panamá,07082,Belisario Porras,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,belisario-porras
+PA,Panama,Panamá,07083,Jose D. Espinar,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,jose-d-espinar
+PA,Panama,Panamá,07084,Mateo Iturralde,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,mateo-iturralde
+PA,Panama,Panamá,07085,Victoriano Lorenzo,Panama,08,San Miguelito,0810,,,9.0593,-79.4898,4,victoriano-lorenzo
+PA,Panama,Panamá,07086,Arnulfo Arias,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,arnulfo-arias
+PA,Panama,Panamá,07087,Belisario Frias,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,belisario-frias
+PA,Panama,Panamá,07088,Omar Torrijos,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,omar-torrijos
+PA,Panama,Panamá,07089,Rufina Alfaro,Panama,08,San Miguelito,0810,,,9.1077,-79.3581,1,rufina-alfaro
+PA,Panama,Panamá,07213,El Bosque,Panama,08,San Miguelito,0810,,,9.1145,-79.4723,1,el-bosque
+PA,Panama,Panamá,07060,Taboga,Panama,08,Taboga,0811,,,8.8279,-79.714,1,taboga
+PA,Panama,Panamá,07061,Otoque Occidente,Panama,08,Taboga,0811,,,8.6063,-79.6059,4,otoque-occidente
+PA,Panama,Panamá,07062,Otoque Oriente,Panama,08,Taboga,0811,,,8.6038,-79.5955,4,otoque-oriente
+PA,Panama,Panamá,07001,Arraijan (Cabec),Panama,08,Arraijan,,,,8.9364,-79.5561,1,arraijan-cabec
+PA,Panama,Panamá,07002,Juan D. Arosemena,Panama,08,Arraijan,,,,8.9364,-79.5561,1,juan-d-arosemena
+PA,Panama,Panamá,07003,Nuevo Emperador,Panama,08,Arraijan,,,,9.0028,-79.7304,4,nuevo-emperador
+PA,Panama,Panamá,07004,Santa Clara,Panama,08,Arraijan,,,,9.0363,-79.4762,4,santa-clara
+PA,Panama,Panamá,07005,Veracruz,Panama,08,Arraijan,,,,8.8932,-79.6234,4,veracruz
+PA,Panama,Panamá,07006,Vista Alegre,Panama,08,Arraijan,,,,9.0264,-78.8418,4,vista-alegre
+PA,Panama,Panamá,07007,Burunga,Panama,08,Arraijan,,,,8.9619,-79.6723,4,burunga
+PA,Panama,Panamá,07008,Cerro Silvestre,Panama,08,Arraijan,,,,8.9402,-79.6799,4,cerro-silvestre
+PA,Panama,Panamá,07009,Capira,Panama,08,Capira,,,,8.6944,-79.8691,4,capira
+PA,Panama,Panamá,07010,Caimito,Panama,08,Capira,,,,8.6898,-80.1832,1,caimito
+PA,Panama,Panamá,07011,Campana,Panama,08,Capira,,,,8.7128,-79.9096,4,campana
+PA,Panama,Panamá,07012,Cermeðo,Panama,08,Capira,,,,8.6898,-80.1832,1,cerme-o
+PA,Panama,Panamá,07013,Ciri De Los Sotos,Panama,08,Capira,,,,8.9758,-80.0925,4,ciri-de-los-sotos
+PA,Panama,Panamá,07014,Ciri Grande,Panama,08,Capira,,,,8.7648,-80.0567,4,ciri-grande
+PA,Panama,Panamá,07015,El Cacao,Panama,08,Capira,,,,8.6898,-80.1832,1,el-cacao
+PA,Panama,Panamá,07016,La Trinidad,Panama,08,Capira,,,,8.1236,-81.2303,4,la-trinidad
+PA,Panama,Panamá,07017,Las Ollas Arriba,Panama,08,Capira,,,,8.8128,-79.9006,4,las-ollas-arriba
+PA,Panama,Panamá,07018,Lidice,Panama,08,Capira,,,,8.7487,-79.9097,4,lidice
+PA,Panama,Panamá,07019,Viila Carmen,Panama,08,Capira,,,,8.6898,-80.1832,1,viila-carmen
+PA,Panama,Panamá,07020,Villa Rosario,Panama,08,Capira,,,,8.7797,-79.8735,4,villa-rosario
+PA,Panama,Panamá,07021,Santa Rosa,Panama,08,Capira,,,,9.1849,-79.6544,4,santa-rosa
+PA,Panama,Panamá,07022,Chame (Cabec),Panama,08,Chame,,,,8.8562,-79.7256,1,chame-cabec
+PA,Panama,Panamá,07023,Bejuco,Panama,08,Chame,,,,8.8562,-79.7256,1,bejuco
+PA,Panama,Panamá,07024,Cbuenos Aires,Panama,08,Chame,,,,8.8562,-79.7256,1,cbuenos-aires
+PA,Panama,Panamá,07025,Cabuya,Panama,08,Chame,,,,9.1009,-79.373,4,cabuya
+PA,Panama,Panamá,07026,Chica,Panama,08,Chame,,,,8.6661,-79.9383,4,chica
+PA,Panama,Panamá,07027,El Libano,Panama,08,Chame,,,,8.6187,-79.8319,4,el-libano
+PA,Panama,Panamá,07028,Las Lajas,Panama,08,Chame,,,,9.0881,-79.5338,4,las-lajas
+PA,Panama,Panamá,07029,Nueva Gorgona,Panama,08,Chame,,,,8.5548,-79.8743,4,nueva-gorgona
+PA,Panama,Panamá,07030,Punta Chame,Panama,08,Chame,,,,8.6442,-79.707,4,punta-chame
+PA,Panama,Panamá,07031,Sajalices,Panama,08,Chame,,,,8.6819,-79.8676,4,sajalices
+PA,Panama,Panamá,07032,Sora,Panama,08,Chame,,,,8.6345,-80.0093,4,sora
+PA,Panama,Panamá,07033,San Carlos /Cabec),Panama,08,San Carlos,,,,8.624,-79.9402,1,san-carlos-cabec
+PA,Panama,Panamá,07034,El Espino,Panama,08,San Carlos,,,,8.0929,-80.8238,4,el-espino
+PA,Panama,Panamá,07035,El Higo,Panama,08,San Carlos,,,,8.4503,-80.0367,4,el-higo
+PA,Panama,Panamá,07036,Guayabito,Panama,08,San Carlos,,,,9.0523,-79.4357,4,guayabito
+PA,Panama,Panamá,07037,La Ermita,Panama,08,San Carlos,,,,8.4607,-80.0711,4,la-ermita
+PA,Panama,Panamá,07038,La Laguna,Panama,08,San Carlos,,,,9.1379,-79.5144,4,la-laguna
+PA,Panama,Panamá,07039,Las Uvas,Panama,08,San Carlos,,,,8.4613,-79.9961,4,las-uvas
+PA,Panama,Panamá,07040,Los Llanitos,Panama,08,San Carlos,,,,8.7178,-79.907,4,los-llanitos
+PA,Panama,Panamá,07041,San Jose,Panama,08,San Carlos,,,,9.0261,-78.9583,4,san-jose
+PA,Panama,Panamá,07064,Barrio Balboa,Panama,08,La Chorrera,,,,8.8279,-79.714,1,barrio-balboa
+PA,Panama,Panamá,07065,Barrio Colon,Panama,08,La Chorrera,,,,8.8279,-79.714,1,barrio-colon
+PA,Panama,Panamá,07066,Amador,Panama,08,La Chorrera,,,,8.9395,-79.5491,4,amador
+PA,Panama,Panamá,07067,Arosemena,Panama,08,La Chorrera,,,,8.9734,-79.9653,4,arosemena
+PA,Panama,Panamá,07068,El Arado,Panama,08,La Chorrera,,,,8.9673,-79.7602,4,el-arado
+PA,Panama,Panamá,07069,El Coco,Panama,08,La Chorrera,,,,8.8769,-79.8081,4,el-coco
+PA,Panama,Panamá,07070,Feuillet,Panama,08,La Chorrera,,,,9.1315,-79.7278,1,feuillet
+PA,Panama,Panamá,07071,Guadalupe,Panama,08,La Chorrera,,,,9.0418,-79.4941,4,guadalupe
+PA,Panama,Panamá,07072,Herrera,Panama,08,La Chorrera,,,,9.1315,-79.7278,1,herrera
+PA,Panama,Panamá,07073,Hurtado,Panama,08,La Chorrera,,,,9.1315,-79.7278,1,hurtado
+PA,Panama,Panamá,07074,Iturralde,Panama,08,La Chorrera,,,,9.1315,-79.7278,1,iturralde
+PA,Panama,Panamá,07075,La Represa,Panama,08,La Chorrera,,,,9.3367,-79.8407,4,la-represa
+PA,Panama,Panamá,07076,Los Diaz,Panama,08,La Chorrera,,,,9.1315,-79.7278,1,los-diaz
+PA,Panama,Panamá,07077,Mendoza,Panama,08,La Chorrera,,,,9.0159,-79.8486,4,mendoza
+PA,Panama,Panamá,07078,Obaldia,Panama,08,La Chorrera,,,,9.1315,-79.7278,1,obaldia
+PA,Panama,Panamá,07079,Playa Leonapuerto Caimito,Panama,08,La Chorrera,,,,9.1315,-79.7278,1,playa-leonapuerto-caimito
+PA,Panama,Panamá,07080,Santa Rita,Panama,08,La Chorrera,,,,9.1181,-79.3386,4,santa-rita
+PA,Panama,Panamá,07112,Vaca Monte,Panama,08,La Chorrera,,,,9.0002,-79.5244,1,vaca-monte
+PA,Panama,Panamá,07215,Mañanitas,Panama,08,Tocumen,,,,9.0847,-79.4023,4,mananitas
+PA,Panama,Panamá,07216,Nueva California,Panama,08,Tocumen,,,,9.1145,-79.4723,1,nueva-california
+PA,Panama,Panamá,07217,Rana De Oro,Panama,08,Tocumen,,,,9.0794,-79.428,4,rana-de-oro
+PA,Panama,Panamá,07218,Residencial La Castellana,Panama,08,Tocumen,,,,9.0574,-79.4759,4,residencial-la-castellana
+PA,Panama,Panamá,07219,San Cristobal,Panama,08,Tocumen,,,,9.2737,-79.3848,4,san-cristobal
+PA,Panama,Panamá,07220,San Joaquin,Panama,08,Tocumen,,,,9.0779,-79.4209,4,san-joaquin
+PA,Panama,Panamá,07221,San Pedro,Panama,08,Tocumen,,,,9.1576,-79.405,4,san-pedro
+PA,Panama,Panamá,07222,San Sebastian,Panama,08,Tocumen,,,,8.8758,-79.9714,4,san-sebastian
+PA,Panama,Panamá,07223,Santa Monica,Panama,08,Tocumen,,,,9.0724,-79.4117,4,santa-monica
+PA,Panama,Panamá,07224,Urb. Remon Cantera,Panama,08,Tocumen,,,,9.0479,-79.5212,1,urb-remon-cantera
+PA,Panama,Panamá,07225,Urbanizacion Balmoral,Panama,08,Tocumen,,,,9.0585,-79.434,4,urbanizacion-balmoral
+PA,Panama,Panamá,07226,Urbanizacion Tere Mar,Panama,08,Tocumen,,,,9.0479,-79.5212,1,urbanizacion-tere-mar
+PA,Panama,Panamá,07227,Villa Flor,Panama,08,Tocumen,,,,9.0479,-79.5212,1,villa-flor
+PA,Panama,Panamá,07228,Villa Lobos,Panama,08,Tocumen,,,,9.0479,-79.5212,1,villa-lobos
+PA,Panama,Panamá,07229,Villa Lucre,Panama,08,Tocumen,,,,9.0452,-79.484,4,villa-lucre
+PA,Panama,Panamá,09001,Aligandi,Comarca Kuna Yala,09,,,,,8.2043,-77.7775,4,aligandi
+PA,Panama,Panamá,09002,Nargana,Comarca Kuna Yala,09,,,,,9.4439,-78.5867,4,nargana
+PA,Panama,Panamá,09003,Puerto Obaldia,Comarca Kuna Yala,09,,,,,8.6663,-77.4192,4,puerto-obaldia
+PA,Panama,Panamá,09004,Tibuala,Comarca Kuna Yala,09,,,,,8.7715,-77.9278,1,tibuala
+PA,Panama,Panamá,08054,Atalaya (Cabec),Veraguas,10,Atalaya,0901,,,8.2911,-81.0009,1,atalaya-cabec
+PA,Panama,Panamá,08055,El Barrito,Veraguas,10,Atalaya,0901,,,7.959,-80.9482,4,el-barrito
+PA,Panama,Panamá,08056,La Montaðuela,Veraguas,10,Atalaya,0901,,,8.2911,-81.0009,1,la-monta-uela
+PA,Panama,Panamá,08057,San Antonio,Veraguas,10,Atalaya,0901,,,8.0722,-80.9297,4,san-antonio
+PA,Panama,Panamá,08058,La Carrillo,Veraguas,10,Atalaya,0901,,,7.9702,-80.8817,4,la-carrillo
+PA,Panama,Panamá,08029,Calobre (Cabec),Veraguas,10,Calobre,0902,,,7.8971,-81.3559,1,calobre-cabec
+PA,Panama,Panamá,08030,Barnizal,Veraguas,10,Calobre,0902,,,8.4046,-80.7777,4,barnizal
+PA,Panama,Panamá,08031,Chitra,Veraguas,10,Calobre,0902,,,8.3196,-80.8282,1,chitra
+PA,Panama,Panamá,08032,El Cocla,Veraguas,10,Calobre,0902,,,8.3218,-80.9181,4,el-cocla
+PA,Panama,Panamá,08033,El Potrero,Veraguas,10,Calobre,0902,,,8.385,-80.8007,4,el-potrero
+PA,Panama,Panamá,08034,La Laguna,Veraguas,10,Calobre,0902,,,8.3409,-80.7293,4,la-laguna
+PA,Panama,Panamá,08035,La Raya De Calobre,Veraguas,10,Calobre,0902,,,8.2206,-80.8256,4,la-raya-de-calobre
+PA,Panama,Panamá,08036,La Tetilla,Veraguas,10,Calobre,0902,,,8.2514,-80.8795,4,la-tetilla
+PA,Panama,Panamá,08037,La Yeguada,Veraguas,10,Calobre,0902,,,8.261,-80.8288,4,la-yeguada
+PA,Panama,Panamá,08038,Las Guias,Veraguas,10,Calobre,0902,,,8.3196,-80.8282,1,las-guias
+PA,Panama,Panamá,08039,Monjaras,Veraguas,10,Calobre,0902,,,8.3717,-80.8657,4,monjaras
+PA,Panama,Panamá,08040,San Jose,Veraguas,10,Calobre,0902,,,8.4658,-80.8037,4,san-jose
+PA,Panama,Panamá,08077,Caðazas (Cabec),Veraguas,10,Cañazas,0903,,,7.807,-81.1222,1,ca-azas-cabec
+PA,Panama,Panamá,08078,Cerro De Plata,Veraguas,10,Cañazas,0903,,,7.807,-81.1222,1,cerro-de-plata
+PA,Panama,Panamá,08079,Los Valles,Veraguas,10,Cañazas,0903,,,8.4461,-81.1966,4,los-valles
+PA,Panama,Panamá,08080,San Marcelo,Veraguas,10,Cañazas,0903,,,8.2723,-81.1465,4,san-marcelo
+PA,Panama,Panamá,08081,El Picador,Veraguas,10,Cañazas,0903,,,8.3795,-81.255,4,el-picador
+PA,Panama,Panamá,08082,San Jose,Veraguas,10,Cañazas,0903,,,8.3705,-81.4153,4,san-jose
+PA,Panama,Panamá,08083,El Aromillo,Veraguas,10,Cañazas,0903,,,8.2532,-81.3737,1,el-aromillo
+PA,Panama,Panamá,08013,La Mesa (Cabec),Veraguas,10,La Mesa,0904,,,8.1879,-81.2781,1,la-mesa-cabec
+PA,Panama,Panamá,08014,Bisvalles,Veraguas,10,La Mesa,0904,,,8.1847,-81.2211,4,bisvalles
+PA,Panama,Panamá,08015,Boro,Veraguas,10,La Mesa,0904,,,8.172,-81.3012,4,boro
+PA,Panama,Panamá,08016,Llano Grande,Veraguas,10,La Mesa,0904,,,8.1823,-81.3139,4,llano-grande
+PA,Panama,Panamá,08017,San Bartolo,Veraguas,10,La Mesa,0904,,,8.2127,-81.2763,4,san-bartolo
+PA,Panama,Panamá,08018,Los Milagros,Veraguas,10,La Mesa,0904,,,8.1879,-81.2781,1,los-milagros
+PA,Panama,Panamá,08084,Las Palmas (Cabec),Veraguas,10,Las Palmas,0905,,,8.2532,-81.3737,1,las-palmas-cabec
+PA,Panama,Panamá,08085,Cerro De Casa,Veraguas,10,Las Palmas,0905,,,8.2532,-81.3737,1,cerro-de-casa
+PA,Panama,Panamá,08086,Corozal,Veraguas,10,Las Palmas,0905,,,8.0809,-81.435,4,corozal
+PA,Panama,Panamá,08087,El Maria,Veraguas,10,Las Palmas,0905,,,8.248,-81.4317,4,el-maria
+PA,Panama,Panamá,08088,El Prado,Veraguas,10,Las Palmas,0905,,,8.2367,-81.501,4,el-prado
+PA,Panama,Panamá,08089,El Rincon,Veraguas,10,Las Palmas,0905,,,8.1844,-81.4316,4,el-rincon
+PA,Panama,Panamá,08090,Lola,Veraguas,10,Las Palmas,0905,,,8.0926,-81.4665,4,lola
+PA,Panama,Panamá,08091,Pixvae,Veraguas,10,Las Palmas,0905,,,8.1223,-81.5194,1,pixvae
+PA,Panama,Panamá,08092,Puerto Vidal,Veraguas,10,Las Palmas,0905,,,8.0493,-81.6045,4,puerto-vidal
+PA,Panama,Panamá,08093,Zapotillo,Veraguas,10,Las Palmas,0905,,,8.0072,-81.5092,4,zapotillo
+PA,Panama,Panamá,08094,San Martin De Porres,Veraguas,10,Las Palmas,0905,,,8.1223,-81.5194,1,san-martin-de-porres
+PA,Panama,Panamá,08095,Vigui,Veraguas,10,Las Palmas,0905,,,8.3399,-81.4975,4,vigui
+PA,Panama,Panamá,08059,Montijo (Cabec),Veraguas,10,Montijo,0906,,,8.2911,-81.0009,1,montijo-cabec
+PA,Panama,Panamá,08060,Gobernadora,Veraguas,10,Montijo,0906,,,7.5593,-81.1855,4,gobernadora
+PA,Panama,Panamá,08061,La Garcena,Veraguas,10,Montijo,0906,,,7.861,-81.1286,1,la-garcena
+PA,Panama,Panamá,08062,Leones,Veraguas,10,Montijo,0906,,,7.861,-81.1286,1,leones
+PA,Panama,Panamá,08063,Pilon,Veraguas,10,Montijo,0906,,,7.9568,-81.0723,4,pilon
+PA,Panama,Panamá,08064,Union Del Norte,Veraguas,10,Montijo,0906,,,7.861,-81.1286,1,union-del-norte
+PA,Panama,Panamá,08065,Costa Hermosa,Veraguas,10,Montijo,0906,,,7.861,-81.1286,1,costa-hermosa
+PA,Panama,Panamá,08066,Cebaco,Veraguas,10,Montijo,0906,,,7.861,-81.1286,1,cebaco
+PA,Panama,Panamá,08067,Rio De Jesus (Cabec),Veraguas,10,Rio De Jesus,0907,,,7.861,-81.1286,1,rio-de-jesus-cabec
+PA,Panama,Panamá,08068,Las Huacas,Veraguas,10,Rio De Jesus,0907,,,7.9033,-81.14,4,las-huacas
+PA,Panama,Panamá,08069,Los Castillos,Veraguas,10,Rio De Jesus,0907,,,8.0246,-81.1167,4,los-castillos
+PA,Panama,Panamá,08070,Utira,Veraguas,10,Rio De Jesus,0907,,,7.9749,-81.2173,4,utira
+PA,Panama,Panamá,08071,Catorce De Noviembre,Veraguas,10,Rio De Jesus,0907,,,7.807,-81.1222,1,catorce-de-noviembre
+PA,Panama,Panamá,08041,San Fransisco (Cabec),Veraguas,10,San Francisco,0908,,,8.4612,-80.9973,1,san-fransisco-cabec
+PA,Panama,Panamá,08042,Corra Falso,Veraguas,10,San Francisco,0908,,,8.4612,-80.9973,1,corra-falso
+PA,Panama,Panamá,08043,Los Hatillos,Veraguas,10,San Francisco,0908,,,8.314,-80.9851,4,los-hatillos
+PA,Panama,Panamá,08044,Remance,Veraguas,10,San Francisco,0908,,,8.3073,-81.0808,4,remance
+PA,Panama,Panamá,08045,San Juan,Veraguas,10,San Francisco,0908,,,8.2996,-81.0058,4,san-juan
+PA,Panama,Panamá,08046,San Jose,Veraguas,10,San Francisco,0908,,,8.3523,-81.0385,4,san-jose
+PA,Panama,Panamá,08047,Santa Fe (Cabec),Veraguas,10,Santa Fe,0909,,,8.4612,-80.9973,1,santa-fe-cabec
+PA,Panama,Panamá,08048,Calovebora,Veraguas,10,Santa Fe,0909,,,8.787,-81.2106,4,calovebora
+PA,Panama,Panamá,08049,El Alto,Veraguas,10,Santa Fe,0909,,,8.5118,-81.0364,4,el-alto
+PA,Panama,Panamá,08050,El Cuay,Veraguas,10,Santa Fe,0909,,,8.2911,-81.0009,1,el-cuay
+PA,Panama,Panamá,08051,El Pantano,Veraguas,10,Santa Fe,0909,,,8.5347,-81.0694,4,el-pantano
+PA,Panama,Panamá,08052,Gatuncito,Veraguas,10,Santa Fe,0909,,,8.5282,-80.9572,4,gatuncito
+PA,Panama,Panamá,08053,Rio Luis,Veraguas,10,Santa Fe,0909,,,8.6827,-81.2195,4,rio-luis
+PA,Panama,Panamá,08001,Santiago,Veraguas,10,Santiago,0910,,,8.1,-80.9833,4,santiago
+PA,Panama,Panamá,08002,La Colorada,Veraguas,10,Santiago,0910,,,8.0147,-80.9843,4,la-colorada
+PA,Panama,Panamá,08003,La Peða,Veraguas,10,Santiago,0910,,,8.062,-81.001,1,la-pe-a
+PA,Panama,Panamá,08004,La Raya Sta. Maria,Veraguas,10,Santiago,0910,,,8.062,-81.001,1,la-raya-sta-maria
+PA,Panama,Panamá,08005,Ponuga,Veraguas,10,Santiago,0910,,,7.8827,-80.9771,4,ponuga
+PA,Panama,Panamá,08006,San Pedro Del Espino,Veraguas,10,Santiago,0910,,,8.1387,-81.0821,4,san-pedro-del-espino
+PA,Panama,Panamá,08007,Canto Del Llano,Veraguas,10,Santiago,0910,,,8.1231,-80.9642,4,canto-del-llano
+PA,Panama,Panamá,08008,Los Algarrobos,Veraguas,10,Santiago,0910,,,8.1129,-81.0152,4,los-algarrobos
+PA,Panama,Panamá,08009,Carlos Santana,Veraguas,10,Santiago,0910,,,8.062,-81.001,1,carlos-santana
+PA,Panama,Panamá,08010,Edwin Fabrega,Veraguas,10,Santiago,0910,,,8.1879,-81.2781,1,edwin-fabrega
+PA,Panama,Panamá,08011,San Martin De Porres,Veraguas,10,Santiago,0910,,,8.1879,-81.2781,1,san-martin-de-porres
+PA,Panama,Panamá,08012,Urraca,Veraguas,10,Santiago,0910,,,8.1879,-81.2781,1,urraca
+PA,Panama,Panamá,08019,Sona (Cabec),Veraguas,10,Sona,0911,,,8.1879,-81.2781,1,sona-cabec
+PA,Panama,Panamá,08020,Bahia Honda,Veraguas,10,Sona,0911,,,7.7524,-81.517,4,bahia-honda
+PA,Panama,Panamá,08021,Calidonia,Veraguas,10,Sona,0911,,,7.9576,-81.3863,4,calidonia
+PA,Panama,Panamá,08022,Cative,Veraguas,10,Sona,0911,,,7.9191,-81.3801,4,cative
+PA,Panama,Panamá,08023,El Maraðon,Veraguas,10,Sona,0911,,,7.8971,-81.3559,1,el-mara-on
+PA,Panama,Panamá,08024,Guarumal,Veraguas,10,Sona,0911,,,7.7989,-81.2585,4,guarumal
+PA,Panama,Panamá,08025,La Soledad,Veraguas,10,Sona,0911,,,7.8789,-81.2679,4,la-soledad
+PA,Panama,Panamá,08026,Quebrada De Oro,Veraguas,10,Sona,0911,,,8.0355,-81.3869,4,quebrada-de-oro
+PA,Panama,Panamá,08027,Rio Grande,Veraguas,10,Sona,0911,,,7.7191,-81.3342,4,rio-grande
+PA,Panama,Panamá,08028,Rodeo Viejo,Veraguas,10,Sona,0911,,,8.1151,-81.3159,4,rodeo-viejo
+PA,Panama,Panamá,08072,Llano De Cativa,Veraguas,10,Mariato,12535894,,,7.807,-81.1222,1,llano-de-cativa
+PA,Panama,Panamá,08073,Arena,Veraguas,10,Mariato,12535894,,,7.9181,-81.5901,4,arena
+PA,Panama,Panamá,08074,Quebro,Veraguas,10,Mariato,12535894,,,7.4387,-80.8859,4,quebro
+PA,Panama,Panamá,08075,Tebario,Veraguas,10,Mariato,12535894,,,7.7192,-80.9746,4,tebario
+PA,Panama,Panamá,08076,El Cacao,Veraguas,10,Mariato,12535894,,,7.3448,-80.8686,4,el-cacao
+PA,Panama,Panamá,10017,Soloy,Comarca Ngobe Bugle,12,Besiko,1201,,,8.4969,-82.072,4,soloy
+PA,Panama,Panamá,10018,Boca De Balsa,Comarca Ngobe Bugle,12,Besiko,1201,,,8.53,-82.0313,4,boca-de-balsa
+PA,Panama,Panamá,10019,Cerro Banco,Comarca Ngobe Bugle,12,Besiko,1201,,,8.4639,-81.9407,4,cerro-banco
+PA,Panama,Panamá,10020,Cerro De Patena,Comarca Ngobe Bugle,12,Besiko,1201,,,8.4224,-81.9109,1,cerro-de-patena
+PA,Panama,Panamá,10021,Camaron Arriba,Comarca Ngobe Bugle,12,Besiko,1201,,,8.3877,-81.9965,4,camaron-arriba
+PA,Panama,Panamá,10022,Emplanada De Corcha,Comarca Ngobe Bugle,12,Besiko,1201,,,8.4224,-81.9109,1,emplanada-de-corcha
+PA,Panama,Panamá,10023,Namnoni,Comarca Ngobe Bugle,12,Besiko,1201,,,8.4224,-81.9109,1,namnoni
+PA,Panama,Panamá,10024,Niba,Comarca Ngobe Bugle,12,Besiko,1201,,,8.4224,-81.9109,1,niba
+PA,Panama,Panamá,10025,Hato Pilon,Comarca Ngobe Bugle,12,Mirono,1202,,,8.4017,-81.8681,4,hato-pilon
+PA,Panama,Panamá,10026,Cascabel,Comarca Ngobe Bugle,12,Mirono,1202,,,8.5272,-81.8759,4,cascabel
+PA,Panama,Panamá,10027,Hato Corotu,Comarca Ngobe Bugle,12,Mirono,1202,,,8.3352,-81.9703,4,hato-corotu
+PA,Panama,Panamá,10028,Hato Culantro,Comarca Ngobe Bugle,12,Mirono,1202,,,8.4721,-81.862,4,hato-culantro
+PA,Panama,Panamá,10029,Hato Jobo,Comarca Ngobe Bugle,12,Mirono,1202,,,8.4103,-81.8924,4,hato-jobo
+PA,Panama,Panamá,10030,Hato Juli,Comarca Ngobe Bugle,12,Mirono,1202,,,8.3676,-81.8192,4,hato-juli
+PA,Panama,Panamá,10031,Quebrada De Loro,Comarca Ngobe Bugle,12,Mirono,1202,,,8.3544,-81.918,4,quebrada-de-loro
+PA,Panama,Panamá,10032,Salto Dupi,Comarca Ngobe Bugle,12,Mirono,1202,,,8.3504,-81.8882,4,salto-dupi
+PA,Panama,Panamá,10038,Chichica,Comarca Ngobe Bugle,12,Muna,1203,,,8.415,-81.7736,4,chichica
+PA,Panama,Panamá,10039,Alto Caballero,Comarca Ngobe Bugle,12,Muna,1203,,,8.2932,-81.6751,4,alto-caballero
+PA,Panama,Panamá,10040,Bagama,Comarca Ngobe Bugle,12,Muna,1203,,,8.3665,-81.6649,1,bagama
+PA,Panama,Panamá,10041,Cerro Caða,Comarca Ngobe Bugle,12,Muna,1203,,,8.3665,-81.6649,1,cerro-ca-a
+PA,Panama,Panamá,10042,Cerro Puerco,Comarca Ngobe Bugle,12,Muna,1203,,,8.3505,-81.6815,4,cerro-puerco
+PA,Panama,Panamá,10043,Krua,Comarca Ngobe Bugle,12,Muna,1203,,,8.3665,-81.6649,1,krua
+PA,Panama,Panamá,10044,Maraca,Comarca Ngobe Bugle,12,Muna,1203,,,8.3761,-81.7333,4,maraca
+PA,Panama,Panamá,10045,Nibra,Comarca Ngobe Bugle,12,Muna,1203,,,8.3665,-81.6649,1,nibra
+PA,Panama,Panamá,10046,Peða Blanca,Comarca Ngobe Bugle,12,Muna,1203,,,8.3665,-81.6649,1,pe-a-blanca
+PA,Panama,Panamá,10047,Roka,Comarca Ngobe Bugle,12,Muna,1203,,,8.3665,-81.6649,1,roka
+PA,Panama,Panamá,10048,Sitio Prado,Comarca Ngobe Bugle,12,Muna,1203,,,8.3728,-81.58,4,sitio-prado
+PA,Panama,Panamá,10049,Umani,Comarca Ngobe Bugle,12,Muna,1203,,,8.3665,-81.6649,1,umani
+PA,Panama,Panamá,10033,Cerro Iglesias,Comarca Ngobe Bugle,12,Nole Duima,1204,,,8.3613,-81.8007,1,cerro-iglesias
+PA,Panama,Panamá,10034,Lajero,Comarca Ngobe Bugle,12,Nole Duima,1204,,,8.29,-81.7701,4,lajero
+PA,Panama,Panamá,10035,Hato Chami,Comarca Ngobe Bugle,12,Nole Duima,1204,,,8.4485,-81.7702,4,hato-chami
+PA,Panama,Panamá,10036,Susama,Comarca Ngobe Bugle,12,Nole Duima,1204,,,8.3613,-81.8007,1,susama
+PA,Panama,Panamá,10037,Jadeberi,Comarca Ngobe Bugle,12,Nole Duima,1204,,,8.371,-81.791,4,jadeberi
+PA,Panama,Panamá,10050,Buenos Aires,Comarca Ngobe Bugle,12,Nurun,1205,,,8.4145,-81.4799,4,buenos-aires
+PA,Panama,Panamá,10051,Agua De Salud,Comarca Ngobe Bugle,12,Nurun,1205,,,8.5105,-81.4742,4,agua-de-salud
+PA,Panama,Panamá,10052,Alto De Jesus,Comarca Ngobe Bugle,12,Nurun,1205,,,8.4136,-81.4613,1,alto-de-jesus
+PA,Panama,Panamá,10053,Cerro Pelado,Comarca Ngobe Bugle,12,Nurun,1205,,,8.1625,-81.5392,4,cerro-pelado
+PA,Panama,Panamá,10054,El Bale,Comarca Ngobe Bugle,12,Nurun,1205,,,8.346,-81.3716,4,el-bale
+PA,Panama,Panamá,10055,El Paredon,Comarca Ngobe Bugle,12,Nurun,1205,,,8.4136,-81.4613,1,el-paredon
+PA,Panama,Panamá,10056,El Piro,Comarca Ngobe Bugle,12,Nurun,1205,,,8.4083,-81.5224,4,el-piro
+PA,Panama,Panamá,10057,Guayabito,Comarca Ngobe Bugle,12,Nurun,1205,,,8.5396,-81.4821,4,guayabito
+PA,Panama,Panamá,10058,Guibale,Comarca Ngobe Bugle,12,Nurun,1205,,,8.514,-81.3595,4,guibale
+PA,Panama,Panamá,10001,Bisisra,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.6848,-81.7719,1,bisisra
+PA,Panama,Panamá,10002,Buri,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.6848,-81.7719,1,buri
+PA,Panama,Panamá,10003,Kankitu,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.6848,-81.7719,1,kankitu
+PA,Panama,Panamá,10004,Guariviara,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.6848,-81.7719,1,guariviara
+PA,Panama,Panamá,10005,Guaroni,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.6848,-81.7719,1,guaroni
+PA,Panama,Panamá,10006,Mununi,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.7994,-81.7972,4,mununi
+PA,Panama,Panamá,10007,Piedra Roja,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.5703,-81.7466,4,piedra-roja
+PA,Panama,Panamá,10008,Tuwai,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.6848,-81.7719,1,tuwai
+PA,Panama,Panamá,10009,Man Creek,Comarca Ngobe Bugle,12,Kankintu,1206,,,8.6848,-81.7719,1,man-creek
+PA,Panama,Panamá,10010,Kusapin,Comarca Ngobe Bugle,12,Kusapin,1207,,,9.1816,-81.8879,4,kusapin
+PA,Panama,Panamá,10011,Calovebora,Comarca Ngobe Bugle,12,Kusapin,1207,,,8.7939,-81.9088,1,calovebora
+PA,Panama,Panamá,10012,Bahia Azul,Comarca Ngobe Bugle,12,Kusapin,1207,,,9.1418,-81.8942,4,bahia-azul
+PA,Panama,Panamá,10013,Rio Chiriqui,Comarca Ngobe Bugle,12,Kusapin,1207,,,8.7939,-81.9088,1,rio-chiriqui
+PA,Panama,Panamá,10014,Loma Yuca,Comarca Ngobe Bugle,12,Kusapin,1207,,,8.7569,-81.5106,4,loma-yuca
+PA,Panama,Panamá,10015,Tobobe,Comarca Ngobe Bugle,12,Kusapin,1207,,,9.1208,-81.828,4,tobobe
+PA,Panama,Panamá,10016,Valle Bonito,Comarca Ngobe Bugle,12,Kusapin,1207,,,8.7939,-81.9088,1,valle-bonito
+PA,Panama,Panamá,11001,Wargandi,Comarca Wargandi,,,,,,8.857,-77.978,4,wargandi
+PA,Panama,Panamá,12001,La Palma (Cabec),Darien Y Comarca Embera,,Chepigana,,,,8.1052,-78.1493,1,la-palma-cabec
+PA,Panama,Panamá,12002,Camoganti,Darien Y Comarca Embera,,Chepigana,,,,8.0417,-77.8868,4,camoganti
+PA,Panama,Panamá,12003,Chepigana,Darien Y Comarca Embera,,Chepigana,,,,8.2845,-78.0419,4,chepigana
+PA,Panama,Panamá,12004,Garachine,Darien Y Comarca Embera,,Chepigana,,,,8.0668,-78.3644,4,garachine
+PA,Panama,Panamá,12005,Jaque,Darien Y Comarca Embera,,Chepigana,,,,7.5183,-78.1634,4,jaque
+PA,Panama,Panamá,12006,Puerto Piða,Darien Y Comarca Embera,,Chepigana,,,,8.1052,-78.1493,1,puerto-pi-a
+PA,Panama,Panamá,12007,Rio Congo,Darien Y Comarca Embera,,Chepigana,,,,8.4025,-78.3689,4,rio-congo
+PA,Panama,Panamá,12008,Rio Iglesias,Darien Y Comarca Embera,,Chepigana,,,,8.3971,-78.0104,4,rio-iglesias
+PA,Panama,Panamá,12009,Sambu,Darien Y Comarca Embera,,Chepigana,,,,8.0254,-78.2093,4,sambu
+PA,Panama,Panamá,12010,Seteganti,Darien Y Comarca Embera,,Chepigana,,,,8.294,-78.0892,4,seteganti
+PA,Panama,Panamá,12011,Taimati,Darien Y Comarca Embera,,Chepigana,,,,8.1536,-78.2444,4,taimati
+PA,Panama,Panamá,12012,Tucuti,Darien Y Comarca Embera,,Chepigana,,,,7.9601,-77.9322,4,tucuti
+PA,Panama,Panamá,12013,Agua Fria,Darien Y Comarca Embera,,Chepigana,,,,8.935,-78.494,4,agua-fria
+PA,Panama,Panamá,12014,Cucunati,Darien Y Comarca Embera,,Chepigana,,,,8.5791,-78.2558,4,cucunati
+PA,Panama,Panamá,12015,Rio Congo Arriba,Darien Y Comarca Embera,,Chepigana,,,,8.305,-78.1847,1,rio-congo-arriba
+PA,Panama,Panamá,12016,Santa Fe,Darien Y Comarca Embera,,Chepigana,,,,8.6584,-78.1589,4,santa-fe
+PA,Panama,Panamá,12017,Jingurudo,Darien Y Comarca Embera,,Sambu,,,,7.8775,-78.0839,4,jingurudo
+PA,Panama,Panamá,12018,Rio Sabalo,Darien Y Comarca Embera,,Sambu,,,,7.9821,-78.2194,4,rio-sabalo
+PA,Panama,Panamá,12019,El Real S. M. (Cabec),Darien Y Comarca Embera,,Pinogana,,,,8.305,-78.1847,1,el-real-s-m-cabec
+PA,Panama,Panamá,12020,Boca De Chupe,Darien Y Comarca Embera,,Pinogana,,,,8.1675,-77.6647,1,boca-de-chupe
+PA,Panama,Panamá,12021,Paya,Darien Y Comarca Embera,,Pinogana,,,,7.9058,-77.4037,4,paya
+PA,Panama,Panamá,12022,Pinogana,Darien Y Comarca Embera,,Pinogana,,,,8.1172,-77.6831,4,pinogana
+PA,Panama,Panamá,12023,Pucuro,Darien Y Comarca Embera,,Pinogana,,,,7.9788,-77.4876,4,pucuro
+PA,Panama,Panamá,12024,Yape,Darien Y Comarca Embera,,Pinogana,,,,8.0984,-77.5982,4,yape
+PA,Panama,Panamá,12025,Yaviza,Darien Y Comarca Embera,,Pinogana,,,,8.1583,-77.6928,4,yaviza
+PA,Panama,Panamá,12026,Meteti,Darien Y Comarca Embera,,Pinogana,,,,8.4991,-77.979,4,meteti
+PA,Panama,Panamá,12027,Cirilo Guaynora,Darien Y Comarca Embera,,Cemaco,,,,8.1675,-77.6647,1,cirilo-guaynora
+PA,Panama,Panamá,12028,Lajas Blancas,Darien Y Comarca Embera,,Cemaco,,,,8.415,-77.8087,4,lajas-blancas
+PA,Panama,Panamá,12029,Manuel Ortega,Darien Y Comarca Embera,,Cemaco,,,,8.1675,-77.6647,1,manuel-ortega

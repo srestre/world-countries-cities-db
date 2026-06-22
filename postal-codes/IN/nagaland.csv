@@ -1,0 +1,331 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+IN,India,India,798602,Yannu,Nagaland,20,Mon,261,Tizit,,26.7312,95.0217,3,yannu
+IN,India,India,798602,Namsa,Nagaland,20,Mon,261,Tizit,,26.7312,95.0217,3,namsa
+IN,India,India,798602,Zangkham,Nagaland,20,Mon,261,Tizit,,26.7312,95.0217,3,zangkham
+IN,India,India,798602,Zaboka,Nagaland,20,Mon,261,Tizit,,26.7312,95.0217,3,zaboka
+IN,India,India,798602,Tizit,Nagaland,20,Mon,261,Mon,,26.904,95.0798,4,tizit
+IN,India,India,798603,Tobu,Nagaland,20,Mon,261,Champang,,26.7312,95.0217,4,tobu
+IN,India,India,798603,Angphang,Nagaland,20,Mon,261,Champang,,26.5004,94.9793,4,angphang
+IN,India,India,798603,Chenloisho,Nagaland,20,Mon,261,Champang,,26.4886,94.9519,3,chenloisho
+IN,India,India,798603,Longching,Nagaland,20,Mon,261,Champang,,26.5178,94.935,4,longching
+IN,India,India,798603,Monyakshu,Nagaland,20,Mon,261,Champang,,26.7312,95.0217,4,monyakshu
+IN,India,India,798603,Chenwetnyu,Nagaland,20,Mon,261,Champang,,26.4886,94.9519,3,chenwetnyu
+IN,India,India,798603,Jakpang,Nagaland,20,Mon,261,Champang,,26.4886,94.9519,3,jakpang
+IN,India,India,798603,Ukha,Nagaland,20,Mon,261,Champang,,26.4886,94.9519,3,ukha
+IN,India,India,798603,Champang,Nagaland,20,Mon,261,Mon,,26.4886,94.9519,3,champang
+IN,India,India,798603,Pessao,Nagaland,20,Mon,261,Champang,,26.4886,94.9519,3,pessao
+IN,India,India,798603,Chingkao,Nagaland,20,Mon,261,Champang,,26.4886,94.9519,3,chingkao
+IN,India,India,798603,Chinglong,Nagaland,20,Mon,261,Champang,,26.624,94.919,4,chinglong
+IN,India,India,798621,Wakching,Nagaland,20,Mon,261,Naginimora,,26.6608,94.8432,4,wakching
+IN,India,India,798621,Pongkong,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,pongkong
+IN,India,India,798621,Totak,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,totak
+IN,India,India,798621,Chui,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,chui
+IN,India,India,798621,Longpong Senghe,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,longpong-senghe
+IN,India,India,798621,Longwa,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,longwa
+IN,India,India,798621,Waunching,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,waunching
+IN,India,India,798621,Singha Chingnyu,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,singha-chingnyu
+IN,India,India,798621,Tang,Nagaland,20,Mon,261,Mon,,26.6983,94.9508,3,tang
+IN,India,India,798621,Mon,Nagaland,20,Mon,261,Mon,,26.7358,95.0584,4,mon
+IN,India,India,798622,Kongon,Nagaland,20,Mon,261,Naginimora,,26.8149,94.8108,3,kongon
+IN,India,India,798622,Baranamsang,Nagaland,20,Mon,261,Naginimora,,26.8149,94.8108,3,baranamsang
+IN,India,India,798622,Naginimora,Nagaland,20,Mon,261,Mon,,26.8149,94.8108,4,naginimora
+IN,India,India,798601,Aolijen,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,aolijen
+IN,India,India,798601,Mangmentong,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,mangmentong
+IN,India,India,798601,Khensa,Nagaland,20,Mokokchung,262,Ongpang Kong,,26.3457,94.4892,4,khensa
+IN,India,India,798601,Arree Old,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,arree-old
+IN,India,India,798601,V. K. Town,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,v-k-town
+IN,India,India,798601,Tronger,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,tronger
+IN,India,India,798601,S. E. Colony,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,s-e-colony
+IN,India,India,798601,Nst Colony,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,nst-colony
+IN,India,India,798601,Ongpangkong,Nagaland,20,Mokokchung,262,Mokokchung,,26.3631,94.4771,4,ongpangkong
+IN,India,India,798601,Chare,Nagaland,20,Mokokchung,262,Mokokchung,,26.472,94.5318,4,chare
+IN,India,India,798601,Kubza,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,kubza
+IN,India,India,798601,Longmisa,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,longmisa
+IN,India,India,798601,Fazl Ali College,Nagaland,20,Mokokchung,262,Ongpangkong,,26.3171,94.5143,3,fazl-ali-college
+IN,India,India,798601,Changki,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,changki
+IN,India,India,798601,Longkhum,Nagaland,20,Mokokchung,262,Mokokchung,,26.3171,94.5143,3,longkhum
+IN,India,India,798601,Chungtia,Nagaland,20,Mokokchung,262,Mokokchung,,26.3836,94.442,4,chungtia
+IN,India,India,798601,Longsa,Nagaland,20,Mokokchung,262,Mokokchung,,26.2209,94.5499,4,longsa
+IN,India,India,798601,Ungma,Nagaland,20,Mokokchung,262,Mokokchung,,26.2963,94.5038,4,ungma
+IN,India,India,798601,Mokokchung,Nagaland,20,Mokokchung,262,Mokokchung,,26.3248,94.5183,4,mokokchung
+IN,India,India,798604,Alungkima,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,3,alungkima
+IN,India,India,798604,Longchem,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,4,longchem
+IN,India,India,798604,Alungtaki,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,3,alungtaki
+IN,India,India,798604,Mongchen,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,3,mongchen
+IN,India,India,798604,Waromung,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,3,waromung
+IN,India,India,798604,Longnak,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,3,longnak
+IN,India,India,798604,Khari,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,3,khari
+IN,India,India,798604,Mongkholemba,Nagaland,20,Mokokchung,262,Mokokchung,,26.6109,94.49,3,mongkholemba
+IN,India,India,798604,Chungtia Yimsen,Nagaland,20,Mokokchung,262,Mongkholemba,,26.6109,94.49,3,chungtia-yimsen
+IN,India,India,798607,Alichen,Nagaland,20,Mokokchung,262,Mokokchung,,26.4412,94.7093,1,alichen
+IN,India,India,798613,Yaongyimsen,Nagaland,20,Mokokchung,262,Changtogia,,26.5459,94.6856,3,yaongyimsen
+IN,India,India,798613,Chantongia,Nagaland,20,Mokokchung,262,Changtongya,,26.5459,94.6856,4,chantongia
+IN,India,India,798614,Yisemyong,Nagaland,20,Mokokchung,262,Chuchuyimlang,,26.4356,94.6281,3,yisemyong
+IN,India,India,798614,Phangsang,Nagaland,20,Mokokchung,262,Chuchuyimlang,,26.4356,94.6281,3,phangsang
+IN,India,India,798614,Ungar,Nagaland,20,Mokokchung,262,Chuchulang,,26.4356,94.6281,3,ungar
+IN,India,India,798614,Longkong,Nagaland,20,Mokokchung,262,Chuchuyimlang,,26.4356,94.6281,3,longkong
+IN,India,India,798614,Mongsenyimti,Nagaland,20,Mokokchung,262,Chuchuyimlang,,26.4291,94.6213,4,mongsenyimti
+IN,India,India,798614,Chuchuyimlang,Nagaland,20,Mokokchung,262,Mokokchung,,26.4422,94.6348,4,chuchuyimlang
+IN,India,India,798614,Salulamang,Nagaland,20,Mokokchung,262,Chuchuyimlang,,26.4356,94.6281,3,salulamang
+IN,India,India,798615,Sungratsu,Nagaland,20,Mokokchung,262,Impur,,26.472,94.5318,1,sungratsu
+IN,India,India,798615,Longchang,Nagaland,20,Mokokchung,262,Impur,,26.472,94.5318,1,longchang
+IN,India,India,798615,Impur,Nagaland,20,Mokokchung,262,Mokokchung,,26.472,94.5318,1,impur
+IN,India,India,798615,Kubulong,Nagaland,20,Mokokchung,262,Impur,,26.472,94.5318,1,kubulong
+IN,India,India,798618,Tamlu,Nagaland,20,Mokokchung,262,Tuli,,26.472,94.5318,4,tamlu
+IN,India,India,798618,Barakangtsung,Nagaland,20,Mokokchung,262,Tuli,,26.6543,94.6638,3,barakangtsung
+IN,India,India,798618,Merangkong,Nagaland,20,Mokokchung,262,Changtogia,,26.6144,94.6694,4,merangkong
+IN,India,India,798618,Tuli,Nagaland,20,Mokokchung,262,Mokokchung,,26.6643,94.6421,4,tuli
+IN,India,India,798618,Molungkhimong,Nagaland,20,Mokokchung,262,Tuli,,26.6543,94.6638,3,molungkhimong
+IN,India,India,798618,Wamaken,Nagaland,20,Mokokchung,262,Tuli,,26.6543,94.6638,3,wamaken
+IN,India,India,798618,Luyang Valley,Nagaland,20,Mokokchung,262,Tuli,,26.6543,94.6638,3,luyang-valley
+IN,India,India,798618,Asangma,Nagaland,20,Mokokchung,262,Changtongya,,26.6543,94.6638,3,asangma
+IN,India,India,798618,Molungyimsen,Nagaland,20,Mokokchung,262,Tuli,,26.6645,94.5994,4,molungyimsen
+IN,India,India,798623,Tzudikong,Nagaland,20,Mokokchung,262,Tuli,,26.472,94.5318,1,tzudikong
+IN,India,India,797109,Ghathashi,Nagaland,20,Zunhebotto,263,Ghathashi,,26.0316,94.5253,4,ghathashi
+IN,India,India,798611,Phisami,Nagaland,20,Zunhebotto,263,Zunheboto,,26.0316,94.5253,3,phisami
+IN,India,India,798620,Kichilimi,Nagaland,20,Zunhebotto,263,Ghathashi,,26.0261,94.5334,3,kichilimi
+IN,India,India,798620,Surumi,Nagaland,20,Zunhebotto,263,Zunheboto,,26.0261,94.5334,3,surumi
+IN,India,India,798620,Satami,Nagaland,20,Zunhebotto,263,Zunheboto,,26.0261,94.5334,3,satami
+IN,India,India,798620,Tokiye,Nagaland,20,Zunhebotto,263,Zunheboto,,26.0261,94.5334,3,tokiye
+IN,India,India,798620,Zunheboto,Nagaland,20,Zunhebotto,263,Zunheboto,,25.9667,94.5167,4,zunheboto
+IN,India,India,798620,Atoizu,Nagaland,20,Zunhebotto,263,Atoizu,,26.072,94.4845,4,atoizu
+IN,India,India,798620,Satoi,Nagaland,20,Zunhebotto,263,Zunheboto,,25.8294,94.5658,4,satoi
+IN,India,India,798620,Asukhomi,Nagaland,20,Zunhebotto,263,Zunheboto,,26.0759,94.5392,4,asukhomi
+IN,India,India,798620,Satakha,Nagaland,20,Zunhebotto,263,Zunheboto,,25.9248,94.4365,4,satakha
+IN,India,India,798620,Suruhuto,Nagaland,20,Zunhebotto,263,Zunheboto,,26.146,94.5885,4,suruhuto
+IN,India,India,798620,Asuto,Nagaland,20,Zunhebotto,263,Zunheboto,,26.1143,94.6345,4,asuto
+IN,India,India,798620,Aghunato,Nagaland,20,Zunhebotto,263,Aghunato,,26.0162,94.6273,4,aghunato
+IN,India,India,798620,Akuhaito,Nagaland,20,Zunhebotto,263,Atoizu,,26.0892,94.4071,4,akuhaito
+IN,India,India,798620,Hosephu,Nagaland,20,Zunhebotto,263,Zunheboto,,26.0261,94.5334,3,hosephu
+IN,India,India,798620,Saghemi,Nagaland,20,Zunhebotto,263,Zunheboto,,26.0261,94.5334,3,saghemi
+IN,India,India,798620,Asukuto,Nagaland,20,Zunhebotto,263,Akuluto,,26.0261,94.5334,3,asukuto
+IN,India,India,798627,Lumami,Nagaland,20,Zunhebotto,263,Akuluto,,26.1661,94.4871,3,lumami
+IN,India,India,798627,Aizito,Nagaland,20,Zunhebotto,263,Zunheboto,,26.1661,94.4871,3,aizito
+IN,India,India,798627,Akuluto,Nagaland,20,Zunhebotto,263,Akuluto,,26.1661,94.4871,4,akuluto
+IN,India,India,797099,Bhandari,Nagaland,20,Wokha,264,Bhandari,,26.1849,94.1926,1,bhandari
+IN,India,India,797111,Sungro,Nagaland,20,Wokha,264,Wokha,,26.2677,94.3324,4,sungro
+IN,India,India,797111,Baghty,Nagaland,20,Wokha,264,Doyang H Project,,26.2533,94.1976,4,baghty
+IN,India,India,797111,Chukitong,Nagaland,20,Wokha,264,Wokha,,26.1077,94.2971,4,chukitong
+IN,India,India,797111,Englan,Nagaland,20,Wokha,264,Doyang H Project,,26.1718,94.2511,4,englan
+IN,India,India,797111,Aitepyong,Nagaland,20,Wokha,264,Doyang H Project,,26.2997,94.2496,4,aitepyong
+IN,India,India,797111,Wokha,Nagaland,20,Wokha,264,Wokha,,26.0972,94.2582,4,wokha
+IN,India,India,797111,Pangti,Nagaland,20,Wokha,264,Wokha,,26.2617,94.3194,4,pangti
+IN,India,India,797111,Sanis,Nagaland,20,Wokha,264,Doyang H Project,,26.2193,94.2187,4,sanis
+IN,India,India,797111,Lotsu,Nagaland,20,Wokha,264,Doyang H Project,,26.0777,94.0841,4,lotsu
+IN,India,India,797111,Yamhon,Nagaland,20,Wokha,264,Doyang H Project,,26.1951,94.2453,3,yamhon
+IN,India,India,797111,Wozhru,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,wozhru
+IN,India,India,797111,Moilan,Nagaland,20,Wokha,264,Doyang H Project,,26.1951,94.2453,3,moilan
+IN,India,India,797111,Longtsung,Nagaland,20,Wokha,264,Doyang H Project,,26.1951,94.2453,3,longtsung
+IN,India,India,797111,Yikhum,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,yikhum
+IN,India,India,797111,Pongitong,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,pongitong
+IN,India,India,797111,Tsungtsutong,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,tsungtsutong
+IN,India,India,797111,Wokha Village,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,wokha-village
+IN,India,India,797111,Humtsu,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,humtsu
+IN,India,India,797111,Elumnyu,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,elumnyu
+IN,India,India,797111,Nyiro,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,nyiro
+IN,India,India,797111,N. Longidong,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,n-longidong
+IN,India,India,797111,Mekhukla,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,mekhukla
+IN,India,India,797111,Doyang,Nagaland,20,Wokha,264,Wokha,,26.1951,94.2453,3,doyang
+IN,India,India,797103,Chumukedima,Nagaland,20,Dimapur,265,Dimapur,,25.8248,93.7759,4,chumukedima
+IN,India,India,797103,Nihekhu,Nagaland,20,Dimapur,265,Chumukedima,,25.7785,93.7851,3,nihekhu
+IN,India,India,797103,Pimla,Nagaland,20,Dimapur,265,Chumukedima,,25.7785,93.7851,3,pimla
+IN,India,India,797103,Mhaikam,Nagaland,20,Dimapur,265,Dimapur,,25.7785,93.7851,3,mhaikam
+IN,India,India,797103,Khopoanaula,Nagaland,20,Dimapur,265,Chumukedima,,25.7785,93.7851,3,khopoanaula
+IN,India,India,797103,P C College,Nagaland,20,Dimapur,265,Chumukedima,,25.7785,93.7851,3,p-c-college
+IN,India,India,797103,Tenyiphe,Nagaland,20,Dimapur,265,Chumukedima,,25.7785,93.7851,3,tenyiphe
+IN,India,India,797106,Maova,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,maova
+IN,India,India,797106,Razaphema,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,razaphema
+IN,India,India,797106,Agri College,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,agri-college
+IN,India,India,797106,Piphima,Nagaland,20,Dimapur,265,Medziphema,,25.7446,93.9696,4,piphima
+IN,India,India,797106,Medziphema,Nagaland,20,Dimapur,265,Dimapur,,25.7576,93.8654,4,medziphema
+IN,India,India,797106,Molvom,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,molvom
+IN,India,India,797106,Jharnapani,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,jharnapani
+IN,India,India,797106,Pherima,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,pherima
+IN,India,India,797106,Khaibung,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,khaibung
+IN,India,India,797106,Sirhima,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,sirhima
+IN,India,India,797106,Punglwa,Nagaland,20,Dimapur,265,Medziphema,,25.7511,93.9175,3,punglwa
+IN,India,India,797112,Phaipijan,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,phaipijan
+IN,India,India,797112,Kuda,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,kuda
+IN,India,India,797112,Doyapur,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,doyapur
+IN,India,India,797112,Hening Kunglwa,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,hening-kunglwa
+IN,India,India,797112,Jalukiekam,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,jalukiekam
+IN,India,India,797112,Yampha,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,yampha
+IN,India,India,797112,Khermahal,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.9568,93.8499,3,khermahal
+IN,India,India,797112,Seluophe,Nagaland,20,Dimapur,265,Dimapur,,25.9568,93.8499,3,seluophe
+IN,India,India,797112,Nuiland,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,nuiland
+IN,India,India,797112,Singrijan,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.9568,93.8499,3,singrijan
+IN,India,India,797112,Dimapur,Nagaland,20,Dimapur,265,Dimapur,,25.9117,93.7217,4,dimapur
+IN,India,India,797112,Ralan,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.7785,93.7851,4,ralan
+IN,India,India,797113,D C Complex,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,d-c-complex
+IN,India,India,797113,Lengrijan,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,lengrijan
+IN,India,India,797113,Industrial Estate,Nagaland,20,Dimapur,265,New Nepaligaon,,25.7785,93.7851,1,industrial-estate
+IN,India,India,797113,New Nepaligaon,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,new-nepaligaon
+IN,India,India,797113,Duncan Basti,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,duncan-basti
+IN,India,India,797115,Diphupar,Nagaland,20,Dimapur,265,Artc,,25.7785,93.7851,1,diphupar
+IN,India,India,797115,Eralibill,Nagaland,20,Dimapur,265,Artc,,25.7785,93.7851,1,eralibill
+IN,India,India,797115,Artc,Nagaland,20,Dimapur,265,Dimapur,,25.7785,93.7851,1,artc
+IN,India,India,797115,Ikishe,Nagaland,20,Dimapur,265,Dimapur,,25.7785,93.7851,1,ikishe
+IN,India,India,797115,Sugar Mill Project,Nagaland,20,Dimapur,265,Dimapur,,25.7785,93.7851,1,sugar-mill-project
+IN,India,India,797115,Daroga Pathar,Nagaland,20,Dimapur,265,Artc,,25.7785,93.7851,1,daroga-pathar
+IN,India,India,797115,Showba Old,Nagaland,20,Dimapur,265,Artc,,25.7785,93.7851,1,showba-old
+IN,India,India,797115,Sukhovi,Nagaland,20,Dimapur,265,Artc,,25.7785,93.7851,1,sukhovi
+IN,India,India,797115,Aoyimti,Nagaland,20,Dimapur,265,Artc,,25.7785,93.7851,1,aoyimti
+IN,India,India,797116,Khehekhu,Nagaland,20,Dimapur,265,Dimapur Bazar,,25.7785,93.7851,3,khehekhu
+IN,India,India,797116,Kuhuboto,Nagaland,20,Dimapur,265,Dimapur Bazar,,25.7984,93.8519,4,kuhuboto
+IN,India,India,797116,Dimapur Bazar,Nagaland,20,Dimapur,265,Chumukedima,,25.7785,93.7851,3,dimapur-bazar
+IN,India,India,797116,Padampukhuri,Nagaland,20,Dimapur,265,Dimapur Bazar,,25.7785,93.7851,3,padampukhuri
+IN,India,India,797116,Kushiabill,Nagaland,20,Dimapur,265,Dimapur Bazar,,25.7785,93.7851,3,kushiabill
+IN,India,India,797116,Seluophe,Nagaland,20,Dimapur,265,Dimapur,,25.7785,93.7851,3,seluophe
+IN,India,India,797116,Vihokhu,Nagaland,20,Dimapur,265,Dimapur Bazar,,25.7785,93.7851,3,vihokhu
+IN,India,India,797117,Golaghat,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,golaghat
+IN,India,India,797117,Circular Road,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,circular-road
+IN,India,India,797117,Pwd Colony,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,pwd-colony
+IN,India,India,797117,Zeliangrong,Nagaland,20,Dimapur,265,Dimapur Sadar,,25.7785,93.7851,1,zeliangrong
+IN,India,India,797118,Thahekhu,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.7785,93.7851,1,thahekhu
+IN,India,India,797118,Rangapahar,Nagaland,20,Dimapur,265,Dimapur Mdg,,25.7785,93.7851,1,rangapahar
+IN,India,India,797118,Signal Village,Nagaland,20,Dimapur,265,Dimapur,,25.7785,93.7851,1,signal-village
+IN,India,India,797104,Chetheba,Nagaland,20,Phek,266,Chozuba,,25.6669,94.2563,4,chetheba
+IN,India,India,797104,Chozuba,Nagaland,20,Phek,266,Phek,,25.7182,94.3168,4,chozuba
+IN,India,India,797104,Thevopesumi,Nagaland,20,Phek,266,Chozuba,,25.6608,94.5255,3,thevopesumi
+IN,India,India,797104,Phugwu,Nagaland,20,Phek,266,Chozuba,,25.6608,94.5255,3,phugwu
+IN,India,India,797104,Dzulhami,Nagaland,20,Phek,266,Chozuba,,25.6608,94.5255,3,dzulhami
+IN,India,India,797104,Kilomi,Nagaland,20,Phek,266,Chozuba,,25.6608,94.5255,3,kilomi
+IN,India,India,797104,Yoribami,Nagaland,20,Phek,266,Chozuba,,25.6608,94.5255,3,yoribami
+IN,India,India,797104,Thenyizumi,Nagaland,20,Phek,266,Chozuba,,25.6608,94.5255,3,thenyizumi
+IN,India,India,797104,Runguzumi,Nagaland,20,Phek,266,Chozoba,,25.6608,94.5255,3,runguzumi
+IN,India,India,797107,Zhavame,Nagaland,20,Phek,266,Pfutsero,,25.6608,94.5255,3,zhavame
+IN,India,India,797107,Phesachuduma,Nagaland,20,Phek,266,Pfutsero,,25.6608,94.5255,3,phesachuduma
+IN,India,India,797107,Thipuzumi,Nagaland,20,Phek,266,Pfutsero,,25.6608,94.5255,3,thipuzumi
+IN,India,India,797107,Porba,Nagaland,20,Phek,266,Pfutsero,,25.6608,94.5255,3,porba
+IN,India,India,797107,Chizami Town,Nagaland,20,Phek,266,Phek,,25.6608,94.5255,3,chizami-town
+IN,India,India,797107,Thechulumi,Nagaland,20,Phek,266,Chizami,,25.6608,94.5255,3,thechulumi
+IN,India,India,797107,Kikruma,Nagaland,20,Phek,266,Pfutsero,,25.6608,94.5255,3,kikruma
+IN,India,India,797107,Tekhouba,Nagaland,20,Phek,266,Pfutsero,,25.6608,94.5255,3,tekhouba
+IN,India,India,797107,Mesolumi,Nagaland,20,Phek,266,Pfutsero,,25.6608,94.5255,3,mesolumi
+IN,India,India,797107,Chizami Village,Nagaland,20,Phek,266,Chizami,,25.6608,94.5255,3,chizami-village
+IN,India,India,797107,Sakraba,Nagaland,20,Phek,266,Pfutsero,,25.6184,94.3638,4,sakraba
+IN,India,India,797107,Pfutsero,Nagaland,20,Phek,266,Phek,,25.5704,94.2983,4,pfutsero
+IN,India,India,797107,Zuketsa,Nagaland,20,Phek,266,Pfutsero,,25.5352,94.2469,4,zuketsa
+IN,India,India,797107,Khezhakeno,Nagaland,20,Phek,266,Pfutsero,,25.5076,94.2149,4,khezhakeno
+IN,India,India,797108,Khuzami,Nagaland,20,Phek,266,Phek Sadar,,25.7675,94.4743,4,khuzami
+IN,India,India,797108,Lozaphema,Nagaland,20,Phek,266,Phek Sadar,,25.7675,94.4743,3,lozaphema
+IN,India,India,797108,Losami,Nagaland,20,Phek,266,Phek,,25.7675,94.4743,3,losami
+IN,India,India,797108,Ketsapo,Nagaland,20,Phek,266,Phek,,25.7675,94.4743,3,ketsapo
+IN,India,India,797108,Middle Khomi,Nagaland,20,Phek,266,Chizami,,25.7675,94.4743,3,middle-khomi
+IN,India,India,797108,Old Phek,Nagaland,20,Phek,266,Phek,,25.7675,94.4743,3,old-phek
+IN,India,India,797108,Phek,Nagaland,20,Phek,266,Phek,,25.7675,94.4743,3,phek
+IN,India,India,797114,Akhegwo,Nagaland,20,Phek,266,Meluri,,25.7219,94.6799,4,akhegwo
+IN,India,India,797114,Wazhiho,Nagaland,20,Phek,266,Meluri,,25.6705,94.6408,3,wazhiho
+IN,India,India,797114,Meluri,Nagaland,20,Phek,266,Phek,,25.6751,94.6195,4,meluri
+IN,India,India,797114,Lephori,Nagaland,20,Phek,266,Meluri,,25.6145,94.623,4,lephori
+IN,India,India,797114,Hutsu,Nagaland,20,Phek,266,Meluri,,25.6705,94.6408,3,hutsu
+IN,India,India,797114,Pungkhuri,Nagaland,20,Phek,266,Meluri,,25.6705,94.6408,3,pungkhuri
+IN,India,India,798612,Huker,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,huker
+IN,India,India,798612,Yangpi,Nagaland,20,Tuensang,267,Tuensang,,26.4017,94.7762,4,yangpi
+IN,India,India,798612,Shiponger,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,shiponger
+IN,India,India,798612,Choklangan,Nagaland,20,Tuensang,267,Noklak,,26.2217,94.8563,3,choklangan
+IN,India,India,798612,Saramati,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,saramati
+IN,India,India,798612,Kuthur,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,kuthur
+IN,India,India,798612,Shamator,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,shamator
+IN,India,India,798612,Shampur,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,shampur
+IN,India,India,798612,Sangsanyu,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,sangsanyu
+IN,India,India,798612,Thonokhunyu,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,thonokhunyu
+IN,India,India,798612,Tuensang Village,Nagaland,20,Tuensang,267,Tuensang,,26.2217,94.8563,3,tuensang-village
+IN,India,India,798612,Sanglao,Nagaland,20,Tuensang,267,Noklak,,26.2217,94.8563,3,sanglao
+IN,India,India,798612,Pessu,Nagaland,20,Tuensang,267,Noklak,,26.2217,94.8563,3,pessu
+IN,India,India,798612,Chingmei,Nagaland,20,Tuensang,267,Tuensang,,26.2421,94.9348,4,chingmei
+IN,India,India,798612,Sotokur,Nagaland,20,Tuensang,267,Tuensang,,26.1512,94.7507,4,sotokur
+IN,India,India,798612,Chessore,Nagaland,20,Tuensang,267,Tuensang,,26.0898,94.7461,4,chessore
+IN,India,India,798612,Noklak,Nagaland,20,Tuensang,267,Tuensang,,26.1985,95.0166,4,noklak
+IN,India,India,798612,Nokhu,Nagaland,20,Tuensang,267,Noklak,,26.1528,95.0188,4,nokhu
+IN,India,India,798612,Tuensang,Nagaland,20,Tuensang,267,Tuensang,,26.267,94.8242,4,tuensang
+IN,India,India,798612,Pangsha,Nagaland,20,Tuensang,267,Noklak,,26.2217,94.8563,3,pangsha
+IN,India,India,798612,Panso,Nagaland,20,Tuensang,267,Tuensang,,26.1173,94.9296,4,panso
+IN,India,India,798612,Noksen,Nagaland,20,Tuensang,267,Longkhim,,26.3753,94.7102,4,noksen
+IN,India,India,798616,Yangli,Nagaland,20,Tuensang,267,Longkhim,,26.2181,94.6713,3,yangli
+IN,India,India,798616,Angangba,Nagaland,20,Tuensang,267,Longkhim,,26.2181,94.6713,3,angangba
+IN,India,India,798616,Chungtore,Nagaland,20,Tuensang,267,Longkhim,,26.2181,94.6713,3,chungtore
+IN,India,India,798616,Chimonger,Nagaland,20,Tuensang,267,Lonkhim,,26.2181,94.6713,3,chimonger
+IN,India,India,798616,Longkhim,Nagaland,20,Tuensang,267,Tuensang,,26.2181,94.6713,4,longkhim
+IN,India,India,798625,Sakchi,Nagaland,20,Longleng,268,Longleng,,26.4039,94.8499,4,sakchi
+IN,India,India,798625,Longleng,Nagaland,20,Longleng,268,Longleng,,26.4899,94.8177,4,longleng
+IN,India,India,798625,Phomching,Nagaland,20,Longleng,268,Longleng,,26.5554,94.8003,4,phomching
+IN,India,India,798625,Hukpang,Nagaland,20,Longleng,268,Longleng,,26.4689,94.8037,4,hukpang
+IN,India,India,798625,Nian,Nagaland,20,Longleng,268,Longleng,,26.5121,94.9147,3,nian
+IN,India,India,798625,Yongyah,Nagaland,20,Longleng,268,Longleng,,26.5121,94.9147,3,yongyah
+IN,India,India,798625,Yachem,Nagaland,20,Longleng,268,Longleng,,26.5121,94.9147,3,yachem
+IN,India,India,798625,Bhumnyu,Nagaland,20,Longleng,268,Longleng,,26.5121,94.9147,3,bhumnyu
+IN,India,India,798611,Singrup,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,singrup
+IN,India,India,798611,Amahatore,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,amahatore
+IN,India,India,798611,Anatongere,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,anatongere
+IN,India,India,798611,Kisethong,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,kisethong
+IN,India,India,798611,Phalonger,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,phalonger
+IN,India,India,798611,Pokhpur,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,pokhpur
+IN,India,India,798611,Seyochang,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,seyochang
+IN,India,India,798611,Pungro,Nagaland,20,Kiphire,269,Kiphire,,25.8154,94.8407,4,pungro
+IN,India,India,798611,Sitimi,Nagaland,20,Kiphire,269,Kiphire,,25.8187,94.6463,4,sitimi
+IN,India,India,798611,Kiphire,Nagaland,20,Kiphire,269,Kiphire,,25.8679,94.7857,4,kiphire
+IN,India,India,798611,Longmatra,Nagaland,20,Kiphire,269,Kiphire,,25.792,94.7328,4,longmatra
+IN,India,India,798611,Sikur,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,sikur
+IN,India,India,798611,Moya,Nagaland,20,Kiphire,269,Kiphire,,25.8449,94.8251,3,moya
+IN,India,India,797001,Kohima H.O,Nagaland,20,Kohima,270,Kohima,,25.6333,94.1031,1,kohima-h-o
+IN,India,India,797002,Poilwa,Nagaland,20,Kohima,270,Kohima Science College,,25.6542,94.0218,3,poilwa
+IN,India,India,797002,Mezoma,Nagaland,20,Kohima,270,Kohima Science College,,25.6542,94.0218,3,mezoma
+IN,India,India,797002,Jotsoma,Nagaland,20,Kohima,270,Kohima Science College,,25.6542,94.0218,3,jotsoma
+IN,India,India,797002,Kohima Science College,Nagaland,20,Kohima,270,Kohima,,25.6542,94.0218,3,kohima-science-college
+IN,India,India,797002,Khonoma,Nagaland,20,Kohima,270,Kohima Science College,,25.6542,94.0218,4,khonoma
+IN,India,India,797003,Kohima Village,Nagaland,20,Kohima,270,Kohima,,25.6698,94.1951,3,kohima-village
+IN,India,India,797003,Ciesema,Nagaland,20,Kohima,270,Kohima Village,,25.6698,94.1951,3,ciesema
+IN,India,India,797003,Rusoma,Nagaland,20,Kohima,270,Kohima Village,,25.6698,94.1951,3,rusoma
+IN,India,India,797003,Dihoma,Nagaland,20,Kohima,270,Kohima Village,,25.6698,94.1951,3,dihoma
+IN,India,India,797003,Chedema,Nagaland,20,Kohima,270,Kohima Village,,25.6698,94.1951,3,chedema
+IN,India,India,797003,Kizocha,Nagaland,20,Kohima,270,Kohima Village,,25.6698,94.1951,3,kizocha
+IN,India,India,797003,Chakhabama,Nagaland,20,Kohima,270,Kohima Village,,25.6698,94.1951,4,chakhabama
+IN,India,India,797004,Meriema,Nagaland,20,Kohima,270,Kohima Sadar,,25.6333,94.1031,1,meriema
+IN,India,India,797004,New Sectt Complex,Nagaland,20,Kohima,270,Kohima Sadar,,25.6333,94.1031,1,new-sectt-complex
+IN,India,India,797004,Thizama,Nagaland,20,Kohima,270,New Sectt. Complex,,25.6333,94.1031,1,thizama
+IN,India,India,797006,Kidima,Nagaland,20,Kohima,270,Kohima,,25.5759,94.0925,3,kidima
+IN,India,India,797006,Khuzama,Nagaland,20,Kohima,270,Kohima,,25.5759,94.0925,3,khuzama
+IN,India,India,797006,Kigwema,Nagaland,20,Kohima,270,Kohima,,25.5759,94.0925,3,kigwema
+IN,India,India,797006,Mima,Nagaland,20,Kohima,270,Kohima,,25.5759,94.0925,3,mima
+IN,India,India,797006,Viswema,Nagaland,20,Kohima,270,Kohima,,25.5759,94.0925,3,viswema
+IN,India,India,797006,Jakhama,Nagaland,20,Kohima,270,Kohima,,25.5759,94.0925,4,jakhama
+IN,India,India,797101,Peren,Nagaland,20,Kohima,270,Peren,,25.3433,93.5867,3,peren
+IN,India,India,797105,Zhadima,Nagaland,20,Kohima,270,Chiechama,,25.834,94.16,3,zhadima
+IN,India,India,797105,Chiechama,Nagaland,20,Kohima,270,Kohima,,25.834,94.16,3,chiechama
+IN,India,India,797105,Tuophema,Nagaland,20,Kohima,270,Chiechama,,25.834,94.16,3,tuophema
+IN,India,India,797105,Botsa,Nagaland,20,Kohima,270,Chiechama,,25.8412,94.1314,4,botsa
+IN,India,India,797105,Mishilimi,Nagaland,20,Kohima,270,Chiechama,,25.8792,94.2515,4,mishilimi
+IN,India,India,797105,Chiephobozou,Nagaland,20,Kohima,270,Chiechama,,25.7816,94.0972,4,chiephobozou
+IN,India,India,797109,Ehunnu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,ehunnu
+IN,India,India,797109,Phenshunyu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,phenshunyu
+IN,India,India,797109,Tesophenyu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,tesophenyu
+IN,India,India,797109,Phenwhenyu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,phenwhenyu
+IN,India,India,797109,Kandinu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,kandinu
+IN,India,India,797109,Nisenyu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,nisenyu
+IN,India,India,797109,Pughoboto,Nagaland,20,Kohima,270,Kohima,,25.8807,94.2667,3,pughoboto
+IN,India,India,797109,Zephenyu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,zephenyu
+IN,India,India,797109,Tseminyu Old Town,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,tseminyu-old-town
+IN,India,India,797109,Sendenyu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,sendenyu
+IN,India,India,797109,Lazami,Nagaland,20,Kohima,270,Tseminyu,,25.8569,94.2493,4,lazami
+IN,India,India,797109,Tseminyu,Nagaland,20,Kohima,270,Kohima,,25.9247,94.2162,4,tseminyu
+IN,India,India,797109,Tsosesunyu,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,tsosesunyu
+IN,India,India,797109,Asukika,Nagaland,20,Kohima,270,Tseminyu,,25.8807,94.2667,3,asukika
+IN,India,India,797120,Phesama,Nagaland,20,Kohima,270,Kohima,,25.8435,94.1581,1,phesama
+IN,India,India,797120,Zubza,Nagaland,20,Kohima,270,Kohima,,25.8435,94.1581,1,zubza
+IN,India,India,797120,P.R Hill,Nagaland,20,Kohima,270,kohima,,25.8435,94.1581,1,p-r-hill
+IN,India,India,797120,Lalmati,Nagaland,20,Kohima,270,Kohima,,25.8435,94.1581,1,lalmati
+IN,India,India,797101,Tening,Nagaland,20,Peren,271,Peren,,25.3433,93.5867,4,tening
+IN,India,India,797101,Mbaulwa,Nagaland,20,Peren,271,Peren,,25.4996,93.6235,3,mbaulwa
+IN,India,India,797101,N.Song,Nagaland,20,Peren,271,Peren,,25.4996,93.6235,3,n-song
+IN,India,India,797101,Nchongram,Nagaland,20,Peren,271,Peren,,25.4996,93.6235,3,nchongram
+IN,India,India,797110,Lilen,Nagaland,20,Peren,271,Zalukie,,25.4996,93.6235,3,lilen
+IN,India,India,797110,New Jalukie,Nagaland,20,Peren,271,Zalukie,,25.4996,93.6235,3,new-jalukie
+IN,India,India,797110,Mhainamtsi,Nagaland,20,Peren,271,Zalukie,,25.4996,93.6235,3,mhainamtsi
+IN,India,India,797110,Zalukie,Nagaland,20,Peren,271,Peren,,25.4996,93.6235,3,zalukie
+IN,India,India,797110,Samjiuram,Nagaland,20,Peren,271,Zalukie,,25.4996,93.6235,3,samjiuram
+IN,India,India,797110,Jalukie 'B',Nagaland,20,Peren,271,Zalukie,,25.4996,93.6235,3,jalukie-b
+IN,India,India,797110,Gaili,Nagaland,20,Peren,271,Zalukie,,25.4996,93.6235,3,gaili
+IN,India,India,797110,Bongkholong,Nagaland,20,Peren,271,Zalukie,,25.4996,93.6235,3,bongkholong
+IN,India,India,797110,Athibung,Nagaland,20,Peren,271,Zalukie,,25.5444,93.6183,4,athibung
+IN,India,India,797110,Khelma,Nagaland,20,Peren,271,Zalukie,,25.4566,93.4255,4,khelma

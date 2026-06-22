@@ -1,0 +1,1446 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+PE,Peru,Perú,14000,El Combo,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7613,-79.7269,4,el-combo
+PE,Peru,Perú,14000,Collud,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7829,-79.7719,4,collud
+PE,Peru,Perú,14000,Ventarron,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.8013,-79.7569,4,ventarron
+PE,Peru,Perú,14000,San Antonio,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7739,-79.774,4,san-antonio
+PE,Peru,Perú,14000,San Ricardo,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7862,-79.9027,4,san-ricardo
+PE,Peru,Perú,14000,Colon,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.8058,-79.7348,3,colon
+PE,Peru,Perú,14000,San Simon,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7703,-79.8839,3,san-simon
+PE,Peru,Perú,14000,Rama Custodio (Desaguadero),Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.8192,-79.7822,3,rama-custodio-desaguadero
+PE,Peru,Perú,14000,Zorrocoto,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8476,-79.9024,3,zorrocoto
+PE,Peru,Perú,14000,San Agustin,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7993,-79.9034,4,san-agustin
+PE,Peru,Perú,14000,Chacupe Alto (Campamento),Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8166,-79.8542,3,chacupe-alto-campamento
+PE,Peru,Perú,14000,Rama de Alcuchique,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8446,-79.8753,3,rama-de-alcuchique
+PE,Peru,Perú,14000,Las Pampas,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8058,-79.5501,4,las-pampas
+PE,Peru,Perú,14000,Rama Jarrin,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8248,-79.8481,3,rama-jarrin
+PE,Peru,Perú,14000,Rama Gamarra,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8455,-79.8794,3,rama-gamarra
+PE,Peru,Perú,14000,El Carmen,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7892,-79.8988,4,el-carmen
+PE,Peru,Perú,14000,El Medano,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.831,-79.8962,4,el-medano
+PE,Peru,Perú,14000,Ureta,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7917,-79.8902,3,ureta
+PE,Peru,Perú,14000,Las Palmeras,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7819,-79.7744,4,las-palmeras
+PE,Peru,Perú,14000,La Ladrillera,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8127,-79.8627,3,la-ladrillera
+PE,Peru,Perú,14000,Las Palmeras de la Joyita,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8061,-79.8847,3,las-palmeras-de-la-joyita
+PE,Peru,Perú,14000,Hacienda Vieja,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7987,-79.8908,4,hacienda-vieja
+PE,Peru,Perú,14000,La Garita,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7918,-79.8822,4,la-garita
+PE,Peru,Perú,14000,Pampa de Aviacion,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7943,-79.77,4,pampa-de-aviacion
+PE,Peru,Perú,14000,La Joyita,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8,-79.8811,4,la-joyita
+PE,Peru,Perú,14000,San Pablo,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.8219,-79.7961,4,san-pablo
+PE,Peru,Perú,14000,Pimentel,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8367,-79.9342,4,pimentel
+PE,Peru,Perú,14000,Tutumo,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7423,-79.7374,4,tutumo
+PE,Peru,Perú,14000,El Higo,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7767,-79.903,3,el-higo
+PE,Peru,Perú,14000,Hacienda Nueva,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.798,-79.8881,4,hacienda-nueva
+PE,Peru,Perú,14000,La Hermita,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8064,-79.8915,3,la-hermita
+PE,Peru,Perú,14000,Boro,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.794,-79.7483,4,boro
+PE,Peru,Perú,14000,Casa de Madera,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7903,-79.7261,4,casa-de-madera
+PE,Peru,Perú,14000,El Palmo,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8017,-79.8992,4,el-palmo
+PE,Peru,Perú,14000,Caña Brava,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8431,-79.8614,3,cana-brava
+PE,Peru,Perú,14000,Cofradia,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.751,-79.7872,4,cofradia
+PE,Peru,Perú,14000,Chacupe Bajo,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8381,-79.8839,3,chacupe-bajo
+PE,Peru,Perú,14000,Las Mercedes,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7674,-79.7417,4,las-mercedes
+PE,Peru,Perú,14000,San Lorenzo,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8237,-79.9258,4,san-lorenzo
+PE,Peru,Perú,14000,Cuyate,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8399,-79.8693,4,cuyate
+PE,Peru,Perú,14000,Las Pampas Sur,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8165,-79.8965,3,las-pampas-sur
+PE,Peru,Perú,14000,Juan Velasco Alvarado,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7902,-79.882,3,juan-velasco-alvarado
+PE,Peru,Perú,14000,Huaca de la Cruz,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8413,-79.8523,4,huaca-de-la-cruz
+PE,Peru,Perú,14000,Cafetal,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.8148,-79.7587,4,cafetal
+PE,Peru,Perú,14000,El Medano (San Manuel),Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7741,-79.8938,3,el-medano-san-manuel
+PE,Peru,Perú,14000,Huaca los Gentiles (Huaca Gentil),Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8421,-79.8658,3,huaca-los-gentiles-huaca-gentil
+PE,Peru,Perú,14000,Huaca Segura,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8437,-79.8823,3,huaca-segura
+PE,Peru,Perú,14000,Huaca Valdivia,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.824,-79.8828,3,huaca-valdivia
+PE,Peru,Perú,14000,Las Pampas de Pimentel,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8335,-79.9171,3,las-pampas-de-pimentel
+PE,Peru,Perú,14000,Los Flores,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8195,-79.8907,3,los-flores
+PE,Peru,Perú,14000,Los Mangos,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.806,-79.8608,3,los-mangos
+PE,Peru,Perú,14000,Medianero,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8305,-79.8462,3,medianero
+PE,Peru,Perú,14000,Palo Rojo,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8151,-79.9046,3,palo-rojo
+PE,Peru,Perú,14000,Pampas Dallorso,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8,-79.909,3,pampas-dallorso
+PE,Peru,Perú,14000,Buenos Aires,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.8201,-79.7759,3,buenos-aires
+PE,Peru,Perú,14000,Puente Larios,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7979,-79.8891,3,puente-larios
+PE,Peru,Perú,14000,Rama Reluz,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8488,-79.8794,3,rama-reluz
+PE,Peru,Perú,14000,Sagrado Corazon de Jesus,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.805,-79.8548,3,sagrado-corazon-de-jesus
+PE,Peru,Perú,14000,Huaca Chacupe,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.834,-79.8964,3,huaca-chacupe
+PE,Peru,Perú,14000,Tocnope Alto,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.819,-79.873,3,tocnope-alto
+PE,Peru,Perú,14000,Tocnope Bajo,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8277,-79.8888,3,tocnope-bajo
+PE,Peru,Perú,14000,Torres Gemelas,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8324,-79.8398,3,torres-gemelas
+PE,Peru,Perú,14000,Yaculchique Alto,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8325,-79.8521,3,yaculchique-alto
+PE,Peru,Perú,14000,Yalcuchique,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8434,-79.8739,3,yalcuchique
+PE,Peru,Perú,14000,Cooperativa San Martin,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.8302,-79.8705,3,cooperativa-san-martin
+PE,Peru,Perú,14000,El Chorro,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7638,-79.7654,3,el-chorro
+PE,Peru,Perú,14000,Los Pinos,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8227,-79.9023,3,los-pinos
+PE,Peru,Perú,14000,El Parral,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8133,-79.8959,3,el-parral
+PE,Peru,Perú,14000,Dallorso Sur,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8124,-79.8873,3,dallorso-sur
+PE,Peru,Perú,14000,El Cerrio,Lambayeque,14,Chiclayo,1401,José Leonardo Ortíz,140105,-6.7283,-79.8522,3,el-cerrio
+PE,Peru,Perú,14000,El Cuartel,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8101,-79.9035,3,el-cuartel
+PE,Peru,Perú,14000,Pomalca,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7675,-79.7772,4,pomalca
+PE,Peru,Perú,14001,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14002,Jose Leonardo Ortiz,Lambayeque,14,Chiclayo,1401,José Leonardo Ortíz,140105,-6.7599,-79.8356,3,jose-leonardo-ortiz
+PE,Peru,Perú,14002,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14003,Jose Leonardo Ortiz,Lambayeque,14,Chiclayo,1401,José Leonardo Ortíz,140105,-6.7599,-79.8356,,jose-leonardo-ortiz
+PE,Peru,Perú,14004,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14004,Santo Tomas,Lambayeque,14,Chiclayo,1401,José Leonardo Ortíz,140105,-6.7332,-79.8385,4,santo-tomas
+PE,Peru,Perú,14004,Jose Leonardo Ortiz,Lambayeque,14,Chiclayo,1401,José Leonardo Ortíz,140105,-6.7599,-79.8356,3,jose-leonardo-ortiz
+PE,Peru,Perú,14004,Culpon,Lambayeque,14,Chiclayo,1401,José Leonardo Ortíz,140105,-6.7321,-79.8457,4,culpon
+PE,Peru,Perú,14006,Pomalca,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7675,-79.7772,4,pomalca
+PE,Peru,Perú,14006,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14006,Invernillo,Lambayeque,14,Chiclayo,1401,Pomalca,140118,-6.7598,-79.7803,3,invernillo
+PE,Peru,Perú,14007,La Victoria,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.7928,-79.8289,4,la-victoria
+PE,Peru,Perú,14008,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14008,La Victoria,Lambayeque,14,Chiclayo,1401,La Victoria,140106,-6.7928,-79.8289,4,la-victoria
+PE,Peru,Perú,14009,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14011,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14012,Palo Blanco,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7837,-79.8871,4,palo-blanco
+PE,Peru,Perú,14012,Chiclayo,Lambayeque,14,Chiclayo,1401,Chiclayo,140101,-6.7714,-79.8409,4,chiclayo
+PE,Peru,Perú,14012,Pimentel,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.8367,-79.9342,4,pimentel
+PE,Peru,Perú,14012,San Pedro,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7707,-79.8896,4,san-pedro
+PE,Peru,Perú,14012,La Plata,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7853,-79.8829,3,la-plata
+PE,Peru,Perú,14012,Avientel - Vista Hermosa (La Esperanza),Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.788,-79.877,3,avientel-vista-hermosa-la-esperanza
+PE,Peru,Perú,14012,El Triunfo (Rosario),Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7766,-79.8854,3,el-triunfo-rosario
+PE,Peru,Perú,14012,La Pradera,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.779,-79.886,3,la-pradera
+PE,Peru,Perú,14012,San Luis,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7729,-79.8844,4,san-luis
+PE,Peru,Perú,14012,Molino San Felix,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7775,-79.8816,3,molino-san-felix
+PE,Peru,Perú,14012,Santa Julia,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7847,-79.8867,3,santa-julia
+PE,Peru,Perú,14012,Puente Ascorbe,Lambayeque,14,Chiclayo,1401,Pimentel,140112,-6.7891,-79.8785,3,puente-ascorbe
+PE,Peru,Perú,14013,Jose Leonardo Ortiz,Lambayeque,14,Chiclayo,1401,José Leonardo Ortíz,140105,-6.7599,-79.8356,3,jose-leonardo-ortiz
+PE,Peru,Perú,14300,Rio II,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.728,-79.8237,3,rio-ii
+PE,Peru,Perú,14300,San Miguel,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.6984,-79.7596,4,san-miguel
+PE,Peru,Perú,14300,Los Platanos,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7326,-79.7905,3,los-platanos
+PE,Peru,Perú,14300,Pancal,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7211,-79.7914,3,pancal
+PE,Peru,Perú,14300,Morropillo,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7368,-79.723,3,morropillo
+PE,Peru,Perú,14300,El Medano,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.6851,-79.7542,4,el-medano
+PE,Peru,Perú,14300,San Jose,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.738,-79.7423,4,san-jose
+PE,Peru,Perú,14300,Horcon I,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7072,-79.8107,3,horcon-i
+PE,Peru,Perú,14300,Collosi,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7221,-79.827,3,collosi
+PE,Peru,Perú,14300,El Faicalito,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7056,-79.8134,3,el-faicalito
+PE,Peru,Perú,14300,Horcon Ii,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.6965,-79.805,3,horcon-ii
+PE,Peru,Perú,14300,La Pluma,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.6978,-79.7759,3,la-pluma
+PE,Peru,Perú,14300,El Mango,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7058,-79.7886,4,el-mango
+PE,Peru,Perú,14300,La Garita,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.736,-79.8006,4,la-garita
+PE,Peru,Perú,14300,Capote,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7097,-79.811,4,capote
+PE,Peru,Perú,14301,Picsi,Lambayeque,14,Chiclayo,1401,Picsi,140111,-6.7178,-79.7697,4,picsi
+PE,Peru,Perú,14600,La Punta,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.813,-79.6644,4,la-punta
+PE,Peru,Perú,14600,El Triunfo,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.773,-79.706,4,el-triunfo
+PE,Peru,Perú,14600,La Calerita,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.8038,-79.7111,4,la-calerita
+PE,Peru,Perú,14600,La Humedad,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7547,-79.6651,4,la-humedad
+PE,Peru,Perú,14600,El Carmen,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7908,-79.6887,4,el-carmen
+PE,Peru,Perú,14600,Santa Ines,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7866,-79.6667,3,santa-ines
+PE,Peru,Perú,14600,Los Cajusoles,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7026,-79.6831,3,los-cajusoles
+PE,Peru,Perú,14600,Combo Viejo,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7619,-79.7236,3,combo-viejo
+PE,Peru,Perú,14600,Huaca Alto Peru,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7852,-79.6669,4,huaca-alto-peru
+PE,Peru,Perú,14600,Rinconazo,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.8067,-79.6773,4,rinconazo
+PE,Peru,Perú,14600,La Granja,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7912,-79.6839,4,la-granja
+PE,Peru,Perú,14600,El Molino,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7667,-79.6833,4,el-molino
+PE,Peru,Perú,14600,Calupe,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7739,-79.6766,4,calupe
+PE,Peru,Perú,14600,Santeño,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7626,-79.684,4,santeno
+PE,Peru,Perú,14600,Luya,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.6869,-79.7019,4,luya
+PE,Peru,Perú,14600,El Milagro,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.787,-79.6984,4,el-milagro
+PE,Peru,Perú,14600,Vichayal,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7052,-79.6771,4,vichayal
+PE,Peru,Perú,14600,Los Cocos,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7801,-79.6633,4,los-cocos
+PE,Peru,Perú,14600,Baquijano,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7408,-79.6801,3,baquijano
+PE,Peru,Perú,14600,Potrero (El Naranjo),Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7454,-79.6768,3,potrero-el-naranjo
+PE,Peru,Perú,14600,Puente Hermosa (Campo Aliaga),Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7293,-79.7,3,puente-hermosa-campo-aliaga
+PE,Peru,Perú,14600,Planta Electrica,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7207,-79.698,3,planta-electrica
+PE,Peru,Perú,14601,Morropillo Nuevo,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7437,-79.7125,3,morropillo-nuevo
+PE,Peru,Perú,14601,Tuman,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.7465,-79.701,4,tuman
+PE,Peru,Perú,14601,Bola de Oro,Lambayeque,14,Chiclayo,1401,Tumán,140120,-6.768,-79.7017,4,bola-de-oro
+PE,Peru,Perú,14610,Progreso,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.727,-79.5758,4,progreso
+PE,Peru,Perú,14610,Pozo 14,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7398,-79.5857,4,pozo-14
+PE,Peru,Perú,14610,Conchucos,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7334,-79.6511,4,conchucos
+PE,Peru,Perú,14610,Pozo 04,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7529,-79.6062,3,pozo-04
+PE,Peru,Perú,14610,Pozo 05,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7374,-79.6053,3,pozo-05
+PE,Peru,Perú,14610,Puente Tulipe,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7314,-79.5619,3,puente-tulipe
+PE,Peru,Perú,14610,Puente Regalado,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7671,-79.6125,3,puente-regalado
+PE,Peru,Perú,14610,Puente Batangrande Antiguo,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7284,-79.6505,3,puente-batangrande-antiguo
+PE,Peru,Perú,14610,Tulipe,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7337,-79.5989,4,tulipe
+PE,Peru,Perú,14610,La Puntilla,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7416,-79.4983,4,la-puntilla
+PE,Peru,Perú,14610,Pozo B - San Alfonso,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7471,-79.6086,3,pozo-b-san-alfonso
+PE,Peru,Perú,14610,Pozo 10,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7414,-79.6119,3,pozo-10
+PE,Peru,Perú,14610,Las Canteras,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7206,-79.5972,4,las-canteras
+PE,Peru,Perú,14610,Vega Chavez,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7414,-79.5815,3,vega-chavez
+PE,Peru,Perú,14610,La Valle,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7379,-79.6764,4,la-valle
+PE,Peru,Perú,14610,Puente Once,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7388,-79.6363,3,puente-once
+PE,Peru,Perú,14610,La Concordia,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7343,-79.643,4,la-concordia
+PE,Peru,Perú,14610,La Planta,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7448,-79.567,4,la-planta
+PE,Peru,Perú,14610,Desaguadero,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7411,-79.5156,4,desaguadero
+PE,Peru,Perú,14610,Mirador Bajo,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7423,-79.6382,3,mirador-bajo
+PE,Peru,Perú,14610,La Bomba,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7404,-79.5322,3,la-bomba
+PE,Peru,Perú,14610,La Cria y Pampa la Victoria,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.741,-79.5416,3,la-cria-y-pampa-la-victoria
+PE,Peru,Perú,14610,Chascarrape,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7422,-79.6372,3,chascarrape
+PE,Peru,Perú,14610,Posope Bajo,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7215,-79.6549,3,posope-bajo
+PE,Peru,Perú,14610,Pozo 03,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7374,-79.6085,3,pozo-03
+PE,Peru,Perú,14610,Cruce Batangrande,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7317,-79.6519,3,cruce-batangrande
+PE,Peru,Perú,14610,La Rapida,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7232,-79.6442,3,la-rapida
+PE,Peru,Perú,14610,La Huaca Tulipe,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7429,-79.5943,3,la-huaca-tulipe
+PE,Peru,Perú,14611,Patapo,Lambayeque,14,Chiclayo,1401,Patapo,140117,-6.7331,-79.6359,4,patapo
+PE,Peru,Perú,14620,Tablazos,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6976,-79.4311,4,tablazos
+PE,Peru,Perú,14620,Palo Blanco,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.5772,-79.3789,4,palo-blanco
+PE,Peru,Perú,14620,Guayaquil,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6449,-79.3968,4,guayaquil
+PE,Peru,Perú,14620,Huaca Blanca,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6594,-79.3715,4,huaca-blanca
+PE,Peru,Perú,14620,Tabacal,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6708,-79.4265,4,tabacal
+PE,Peru,Perú,14620,Majin,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6007,-79.3548,3,majin
+PE,Peru,Perú,14620,Mojonazgo,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.5989,-79.38,4,mojonazgo
+PE,Peru,Perú,14620,Campo Nuevo,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6645,-79.3817,4,campo-nuevo
+PE,Peru,Perú,14620,Mal Paso,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6744,-79.4389,4,mal-paso
+PE,Peru,Perú,14620,La Puntilla,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7416,-79.4983,4,la-puntilla
+PE,Peru,Perú,14620,Zapotal,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6636,-79.3681,4,zapotal
+PE,Peru,Perú,14620,Pampa Grande,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7517,-79.481,4,pampa-grande
+PE,Peru,Perú,14620,Tinajones,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6492,-79.4208,4,tinajones
+PE,Peru,Perú,14620,Pampa de Tablazos,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6808,-79.4089,4,pampa-de-tablazos
+PE,Peru,Perú,14620,Juana Rios,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6278,-79.4086,4,juana-rios
+PE,Peru,Perú,14620,Yaipon,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.5333,-79.4333,4,yaipon
+PE,Peru,Perú,14620,Mirador,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.5858,-79.3881,4,mirador
+PE,Peru,Perú,14620,Boca de Tigre,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7314,-79.4617,4,boca-de-tigre
+PE,Peru,Perú,14620,Las Colmenas,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6088,-79.4103,3,las-colmenas
+PE,Peru,Perú,14620,Cuculi el Palmo San Juan,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6925,-79.4693,3,cuculi-el-palmo-san-juan
+PE,Peru,Perú,14620,El Algarrobal,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7011,-79.4468,3,el-algarrobal
+PE,Peru,Perú,14620,El Cuello,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6067,-79.3624,3,el-cuello
+PE,Peru,Perú,14620,Garraspiña,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7157,-79.4842,3,garraspina
+PE,Peru,Perú,14620,Jacobita,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7545,-79.4838,3,jacobita
+PE,Peru,Perú,14620,La Agonia,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6844,-79.4548,3,la-agonia
+PE,Peru,Perú,14620,La Caida,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6208,-79.413,3,la-caida
+PE,Peru,Perú,14620,Paredones,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6186,-79.3724,4,paredones
+PE,Peru,Perú,14620,La Monteria,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7043,-79.4047,3,la-monteria
+PE,Peru,Perú,14620,Piedra Parada,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6372,-79.4125,4,piedra-parada
+PE,Peru,Perú,14620,Cruce de Tablazos,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.687,-79.4543,3,cruce-de-tablazos
+PE,Peru,Perú,14620,Mulato,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6239,-79.3898,3,mulato
+PE,Peru,Perú,14620,Los Algarrobos,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.667,-79.4089,3,los-algarrobos
+PE,Peru,Perú,14620,Los Libertadores (La Libertad),Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6527,-79.3529,3,los-libertadores-la-libertad
+PE,Peru,Perú,14620,Los Paltos,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6959,-79.4396,3,los-paltos
+PE,Peru,Perú,14620,Cerro Canta Gallo,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6917,-79.4132,3,cerro-canta-gallo
+PE,Peru,Perú,14620,Corral de Oyos (Campo Nuevo),Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6697,-79.3847,3,corral-de-oyos-campo-nuevo
+PE,Peru,Perú,14620,Reserva Chaparri,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.5542,-79.5216,3,reserva-chaparri
+PE,Peru,Perú,14620,Cerrillos,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.59,-79.4061,3,cerrillos
+PE,Peru,Perú,14620,Potrerillo,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6377,-79.378,3,potrerillo
+PE,Peru,Perú,14620,Racarrumi,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6288,-79.3547,3,racarrumi
+PE,Peru,Perú,14620,Wadington Alto,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7102,-79.448,3,wadington-alto
+PE,Peru,Perú,14620,Tierras Blancas,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6164,-79.408,3,tierras-blancas
+PE,Peru,Perú,14620,San Martin,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6834,-79.466,4,san-martin
+PE,Peru,Perú,14620,Las Minas,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6702,-79.4068,4,las-minas
+PE,Peru,Perú,14620,Wadington Bajo,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.7183,-79.4477,3,wadington-bajo
+PE,Peru,Perú,14620,Overrazal,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6054,-79.3855,3,overrazal
+PE,Peru,Perú,14620,Pampa de Chaparri,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.5794,-79.5678,3,pampa-de-chaparri
+PE,Peru,Perú,14620,Santa Rosa,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6551,-79.3768,4,santa-rosa
+PE,Peru,Perú,14620,La Parra,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6624,-79.3871,4,la-parra
+PE,Peru,Perú,14620,Las Vegas,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6849,-79.4125,4,las-vegas
+PE,Peru,Perú,14621,Chongoyape,Lambayeque,14,Chiclayo,1401,Chongoyape,140102,-6.6406,-79.3892,4,chongoyape
+PE,Peru,Perú,14630,Tabernas,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7622,-79.5933,4,tabernas
+PE,Peru,Perú,14630,Collique Alto,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.8054,-79.5464,4,collique-alto
+PE,Peru,Perú,14630,Pacherrez,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7736,-79.5241,4,pacherrez
+PE,Peru,Perú,14630,San Antonio,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7946,-79.5137,4,san-antonio
+PE,Peru,Perú,14630,Santa Rosa,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7946,-79.5137,4,santa-rosa
+PE,Peru,Perú,14630,Caballo Blanco,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.779,-79.545,3,caballo-blanco
+PE,Peru,Perú,14630,San Roque,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.755,-79.5529,4,san-roque
+PE,Peru,Perú,14630,La Inmaculada,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7792,-79.5997,4,la-inmaculada
+PE,Peru,Perú,14630,Campo Nuevo,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.756,-79.6029,4,campo-nuevo
+PE,Peru,Perú,14630,Cerro la Abeja,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.8113,-79.541,3,cerro-la-abeja
+PE,Peru,Perú,14630,Nueva Inmaculada,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.784,-79.5994,3,nueva-inmaculada
+PE,Peru,Perú,14630,Carrizilla,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7572,-79.5706,3,carrizilla
+PE,Peru,Perú,14630,Campo Boris,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7715,-79.4986,3,campo-boris
+PE,Peru,Perú,14630,Camal,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7865,-79.6028,3,camal
+PE,Peru,Perú,14630,Caballo Blanco Alto,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7885,-79.5444,3,caballo-blanco-alto
+PE,Peru,Perú,14630,Toma Calupe,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7564,-79.5863,3,toma-calupe
+PE,Peru,Perú,14630,Puente Colgante,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7561,-79.5386,3,puente-colgante
+PE,Peru,Perú,14630,La Vega,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7652,-79.5274,4,la-vega
+PE,Peru,Perú,14630,Huaca China,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7782,-79.5976,3,huaca-china
+PE,Peru,Perú,14630,San Baltazar,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7889,-79.6125,4,san-baltazar
+PE,Peru,Perú,14630,Arbulu,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7692,-79.6361,4,arbulu
+PE,Peru,Perú,14631,Pucala,Lambayeque,14,Chiclayo,1401,Pucalá,140119,-6.7792,-79.6026,4,pucala
+PE,Peru,Perú,14700,Rafan,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0391,-79.6884,4,rafan
+PE,Peru,Perú,14700,Lindero de Chilcal,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9469,-79.6196,4,lindero-de-chilcal
+PE,Peru,Perú,14700,Buenos Aires,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.1077,-79.6498,3,buenos-aires
+PE,Peru,Perú,14700,Los Peroles (San Miguel),Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0383,-79.6614,3,los-peroles-san-miguel
+PE,Peru,Perú,14700,Santa Rosa,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9846,-79.6282,4,santa-rosa
+PE,Peru,Perú,14700,San Luis,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0604,-79.6991,4,san-luis
+PE,Peru,Perú,14700,La Libertad (Manco Capac I),Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9624,-79.6221,3,la-libertad-manco-capac-i
+PE,Peru,Perú,14700,La Manga,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0428,-79.6303,3,la-manga
+PE,Peru,Perú,14700,Las Vegas,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0575,-79.7004,4,las-vegas
+PE,Peru,Perú,14700,San Pedro,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0527,-79.7153,4,san-pedro
+PE,Peru,Perú,14700,Nuevo Mocupe,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9797,-79.6477,4,nuevo-mocupe
+PE,Peru,Perú,14700,Peroles I,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0383,-79.6523,3,peroles-i
+PE,Peru,Perú,14700,Manco Capac Ii,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9891,-79.6421,3,manco-capac-ii
+PE,Peru,Perú,14700,Pueblo Libre,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9941,-79.6633,4,pueblo-libre
+PE,Peru,Perú,14700,Manco Capac I,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9824,-79.6237,3,manco-capac-i
+PE,Peru,Perú,14700,Nueva Esperanza,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.04,-79.6064,3,nueva-esperanza
+PE,Peru,Perú,14700,Peroles III,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0486,-79.6769,3,peroles-iii
+PE,Peru,Perú,14700,Peroles II,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0425,-79.6628,3,peroles-ii
+PE,Peru,Perú,14700,Monte Cruz,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0435,-79.7051,4,monte-cruz
+PE,Peru,Perú,14700,Huaca la Teodora,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0497,-79.6313,3,huaca-la-teodora
+PE,Peru,Perú,14700,Tupac Amaru - Rafan,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0378,-79.6912,3,tupac-amaru-rafan
+PE,Peru,Perú,14700,Carrizal,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0804,-79.6844,4,carrizal
+PE,Peru,Perú,14700,El Agropecuario,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0199,-79.6012,3,el-agropecuario
+PE,Peru,Perú,14700,San Isidro,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.08,-79.6263,4,san-isidro
+PE,Peru,Perú,14700,El Huabo,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0027,-79.6357,3,el-huabo
+PE,Peru,Perú,14700,El Mamey,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9793,-79.6232,3,el-mamey
+PE,Peru,Perú,14700,Lagunas (Canasloche),Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.057,-79.7393,3,lagunas-canasloche
+PE,Peru,Perú,14700,Peroles IV,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-7.0341,-79.6618,3,peroles-iv
+PE,Peru,Perú,14701,Mocupe,Lambayeque,14,Chiclayo,1401,Lagunas,140107,-6.9894,-79.6192,4,mocupe
+PE,Peru,Perú,14710,La Punta,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.813,-79.6644,4,la-punta
+PE,Peru,Perú,14710,San Nicolas,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9283,-79.6135,4,san-nicolas
+PE,Peru,Perú,14710,La Otra Banda,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.94,-79.5784,4,la-otra-banda
+PE,Peru,Perú,14710,Popan Bajo,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8814,-79.5907,4,popan-bajo
+PE,Peru,Perú,14710,Las Animas,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9614,-79.5859,4,las-animas
+PE,Peru,Perú,14710,San Juan de la Punta,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8844,-79.6295,3,san-juan-de-la-punta
+PE,Peru,Perú,14710,La Mariposa,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8117,-79.6284,3,la-mariposa
+PE,Peru,Perú,14710,Leviche,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9617,-79.5574,3,leviche
+PE,Peru,Perú,14710,Medio Mundo,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9068,-79.592,3,medio-mundo
+PE,Peru,Perú,14710,Naylamp,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9275,-79.6154,3,naylamp
+PE,Peru,Perú,14710,Nuevo Collique,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8069,-79.5806,3,nuevo-collique
+PE,Peru,Perú,14710,Cholocal,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.7788,-79.5806,4,cholocal
+PE,Peru,Perú,14710,San Sebastian,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8201,-79.5795,4,san-sebastian
+PE,Peru,Perú,14710,Caminos del Inca,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9306,-79.6072,3,caminos-del-inca
+PE,Peru,Perú,14710,El Gavilan,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9782,-79.5601,3,el-gavilan
+PE,Peru,Perú,14710,Limon,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9577,-79.5775,4,limon
+PE,Peru,Perú,14710,El Porvenir Alto,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9725,-79.5717,3,el-porvenir-alto
+PE,Peru,Perú,14710,Flor de la Esperanza (Nuevo Mocupe),Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8837,-79.6184,3,flor-de-la-esperanza-nuevo-mocupe
+PE,Peru,Perú,14710,Sipan,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.807,-79.6012,4,sipan
+PE,Peru,Perú,14710,San Antonio,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9308,-79.5909,4,san-antonio
+PE,Peru,Perú,14710,La Parra,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9667,-79.5723,4,la-parra
+PE,Peru,Perú,14710,Huaca Rajada,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.7907,-79.6004,4,huaca-rajada
+PE,Peru,Perú,14710,Santa Maria,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9362,-79.577,4,santa-maria
+PE,Peru,Perú,14710,San Rafael,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9544,-79.6038,4,san-rafael
+PE,Peru,Perú,14710,Barrio Nuevo,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9424,-79.593,4,barrio-nuevo
+PE,Peru,Perú,14710,Salitral,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9282,-79.5705,4,salitral
+PE,Peru,Perú,14710,Palomino,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9401,-79.6086,4,palomino
+PE,Peru,Perú,14710,Corvacho,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9241,-79.5681,3,corvacho
+PE,Peru,Perú,14710,El Potrero,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9372,-79.5594,4,el-potrero
+PE,Peru,Perú,14710,Collique Bajo,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8293,-79.5613,4,collique-bajo
+PE,Peru,Perú,14710,La Paleria,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9781,-79.5856,4,la-paleria
+PE,Peru,Perú,14710,Saltrapon,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9517,-79.5742,4,saltrapon
+PE,Peru,Perú,14710,Las Tres Compuertas,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9372,-79.5513,4,las-tres-compuertas
+PE,Peru,Perú,14710,El Porvenir Bajo,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9696,-79.5705,3,el-porvenir-bajo
+PE,Peru,Perú,14710,Saltur,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.8117,-79.6365,4,saltur
+PE,Peru,Perú,14711,Saña,Lambayeque,14,Chiclayo,1401,Saña,140115,-6.9189,-79.582,4,sana
+PE,Peru,Perú,14720,Chacarilla,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.916,-79.5723,4,chacarilla
+PE,Peru,Perú,14720,La Aviacion,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.9022,-79.5324,4,la-aviacion
+PE,Peru,Perú,14720,Mata Indio,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.9333,-79.55,4,mata-indio
+PE,Peru,Perú,14720,Songoy,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8889,-79.4778,4,songoy
+PE,Peru,Perú,14720,Guayaquil,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.9085,-79.4883,4,guayaquil
+PE,Peru,Perú,14720,Corral de Palos,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8954,-79.5376,3,corral-de-palos
+PE,Peru,Perú,14720,Barrio Altos,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8838,-79.5695,3,barrio-altos
+PE,Peru,Perú,14720,Nueva Esperanza,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8833,-79.5153,3,nueva-esperanza
+PE,Peru,Perú,14720,Santa Rosa Alta,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8802,-79.5727,3,santa-rosa-alta
+PE,Peru,Perú,14720,Taime Alto,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8782,-79.5568,3,taime-alto
+PE,Peru,Perú,14720,Cojal,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8844,-79.4972,4,cojal
+PE,Peru,Perú,14720,La Curva,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.9063,-79.5131,4,la-curva
+PE,Peru,Perú,14720,San Ismael,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.9233,-79.5543,4,san-ismael
+PE,Peru,Perú,14720,El Cafetal,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8813,-79.5268,4,el-cafetal
+PE,Peru,Perú,14720,Popan Alto,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.87,-79.5776,4,popan-alto
+PE,Peru,Perú,14720,Santa Sofia,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.9021,-79.5564,4,santa-sofia
+PE,Peru,Perú,14721,Cayalti,Lambayeque,14,Chiclayo,1401,Cayalti,140116,-6.8877,-79.5593,4,cayalti
+PE,Peru,Perú,14730,El Palmo,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.8689,-79.3376,4,el-palmo
+PE,Peru,Perú,14730,Pampa San Pedro,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.9037,-79.466,3,pampa-san-pedro
+PE,Peru,Perú,14730,Pampa de Leque Leque,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.9007,-79.3624,3,pampa-de-leque-leque
+PE,Peru,Perú,14730,La Viña,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.8953,-79.4557,4,la-vina
+PE,Peru,Perú,14730,Saldaña Bajo,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.8972,-79.4454,3,saldana-bajo
+PE,Peru,Perú,14730,Nueva Arica,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.8728,-79.3428,4,nueva-arica
+PE,Peru,Perú,14730,Culpon,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.8815,-79.3953,4,culpon
+PE,Peru,Perú,14730,Dos Corrales,Lambayeque,14,Chiclayo,1401,Nueva Arica,140109,-6.8736,-79.3637,4,dos-corrales
+PE,Peru,Perú,14740,Zorronto,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.833,-79.3186,4,zorronto
+PE,Peru,Perú,14740,Frejolar,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8145,-79.2384,4,frejolar
+PE,Peru,Perú,14740,Santa Rita,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7914,-79.2856,4,santa-rita
+PE,Peru,Perú,14740,La Central,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7673,-79.1403,4,la-central
+PE,Peru,Perú,14740,Polvareda,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8137,-79.2465,4,polvareda
+PE,Peru,Perú,14740,Chilcal Alto,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.806,-79.2589,4,chilcal-alto
+PE,Peru,Perú,14740,La Compuerta,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8457,-79.3478,4,la-compuerta
+PE,Peru,Perú,14740,Conde,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8104,-79.1921,3,conde
+PE,Peru,Perú,14740,Bebederos,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8016,-79.2947,4,bebederos
+PE,Peru,Perú,14740,Viru,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8154,-79.2197,4,viru
+PE,Peru,Perú,14740,Alto Peru,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7968,-79.2399,4,alto-peru
+PE,Peru,Perú,14740,Chumbenique,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.862,-79.3995,4,chumbenique
+PE,Peru,Perú,14740,Campo Nuevo,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8349,-79.348,4,campo-nuevo
+PE,Peru,Perú,14740,Pan de Azucar,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7849,-79.2672,4,pan-de-azucar
+PE,Peru,Perú,14740,El Potrero,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8176,-79.297,4,el-potrero
+PE,Peru,Perú,14740,El Porvenir,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.812,-79.2005,4,el-porvenir
+PE,Peru,Perú,14740,Espinal Alto (Casa Quemada),Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8162,-79.2004,3,espinal-alto-casa-quemada
+PE,Peru,Perú,14740,Motete,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8779,-79.4301,3,motete
+PE,Peru,Perú,14740,Quernoche,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7871,-79.1548,3,quernoche
+PE,Peru,Perú,14740,Canta Gallo,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8538,-79.3666,3,canta-gallo
+PE,Peru,Perú,14740,Alumbral,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8374,-79.3386,3,alumbral
+PE,Peru,Perú,14740,Sorronto Viru,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8135,-79.2133,3,sorronto-viru
+PE,Peru,Perú,14740,El Seis,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8093,-79.2074,3,el-seis
+PE,Peru,Perú,14740,El Palomo Bajo,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7983,-79.2531,3,el-palomo-bajo
+PE,Peru,Perú,14740,El Collao,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7998,-79.2472,3,el-collao
+PE,Peru,Perú,14740,Gramal,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8085,-79.2149,3,gramal
+PE,Peru,Perú,14740,Telles,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.7373,-79.1686,4,telles
+PE,Peru,Perú,14740,Macuaco,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8051,-79.2268,4,macuaco
+PE,Peru,Perú,14740,San Luis,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8096,-79.3084,4,san-luis
+PE,Peru,Perú,14740,Las Delicias,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8086,-79.2879,4,las-delicias
+PE,Peru,Perú,14740,Espinal,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8196,-79.203,4,espinal
+PE,Peru,Perú,14740,El Algarrobal,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8107,-79.2113,3,el-algarrobal
+PE,Peru,Perú,14741,Oyotun,Lambayeque,14,Chiclayo,1401,Oyotun,140110,-6.8444,-79.3009,4,oyotun
+PE,Peru,Perú,14800,Miraflores,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8733,-79.8374,4,miraflores
+PE,Peru,Perú,14800,Puerto Arturo,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8544,-79.8135,4,puerto-arturo
+PE,Peru,Perú,14800,Guayaquiles,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8518,-79.8052,4,guayaquiles
+PE,Peru,Perú,14800,Custodio,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8492,-79.7752,3,custodio
+PE,Peru,Perú,14800,Nuevo Reque,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.878,-79.8141,4,nuevo-reque
+PE,Peru,Perú,14800,Rama Repeptor,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8757,-79.8288,3,rama-repeptor
+PE,Peru,Perú,14800,La Clake,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8692,-79.8126,3,la-clake
+PE,Peru,Perú,14800,La Calera Ii,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8243,-79.7511,3,la-calera-ii
+PE,Peru,Perú,14800,Siete Techos,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8226,-79.7532,3,siete-techos
+PE,Peru,Perú,14800,Montegrande,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8274,-79.7568,3,montegrande
+PE,Peru,Perú,14800,Potrero,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8527,-79.7863,4,potrero
+PE,Peru,Perú,14800,Las Delicias,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8841,-79.8217,4,las-delicias
+PE,Peru,Perú,14800,La Capilla,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8646,-79.8067,4,la-capilla
+PE,Peru,Perú,14800,Magnal,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8692,-79.8237,3,magnal
+PE,Peru,Perú,14800,Mamey,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8358,-79.7752,3,mamey
+PE,Peru,Perú,14800,Matallana,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8436,-79.7745,3,matallana
+PE,Peru,Perú,14800,Las Casuarinas,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8656,-79.8298,3,las-casuarinas
+PE,Peru,Perú,14801,Reque,Lambayeque,14,Chiclayo,1401,Reque,140113,-6.8656,-79.8178,4,reque
+PE,Peru,Perú,14810,Eten Puerto,Lambayeque,14,Chiclayo,1401,Etén Puerto,140104,-6.9235,-79.8645,4,eten-puerto
+PE,Peru,Perú,14820,Villa el Milagro,Lambayeque,14,Chiclayo,1401,Etén,140103,-6.8989,-79.8422,4,villa-el-milagro
+PE,Peru,Perú,14820,Chiclayo,Lambayeque,14,Chiclayo,1401,Etén,140103,-6.9078,-79.8546,4,chiclayo
+PE,Peru,Perú,14820,Cienego,Lambayeque,14,Chiclayo,1401,Etén,140103,-6.9184,-79.8419,4,cienego
+PE,Peru,Perú,14820,Cascajales,Lambayeque,14,Chiclayo,1401,Etén,140103,-6.8937,-79.8442,3,cascajales
+PE,Peru,Perú,14820,Matacaballo,Lambayeque,14,Chiclayo,1401,Etén,140103,-6.9044,-79.8516,3,matacaballo
+PE,Peru,Perú,14821,Eten,Lambayeque,14,Chiclayo,1401,Etén,140103,-6.9081,-79.8642,4,eten
+PE,Peru,Perú,14830,Valle Hermoso,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8529,-79.8875,4,valle-hermoso
+PE,Peru,Perú,14830,El Transito,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8487,-79.8279,4,el-transito
+PE,Peru,Perú,14830,Castilla,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8662,-79.8763,4,castilla
+PE,Peru,Perú,14830,El Palmo,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8326,-79.8281,4,el-palmo
+PE,Peru,Perú,14830,El Carrizo,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8633,-79.862,4,el-carrizo
+PE,Peru,Perú,14830,Laran,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8478,-79.824,4,laran
+PE,Peru,Perú,14830,Guzman,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.844,-79.8231,3,guzman
+PE,Peru,Perú,14830,La Reluz,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.872,-79.8925,3,la-reluz
+PE,Peru,Perú,14830,Los Ballenas,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8443,-79.8495,3,los-ballenas
+PE,Peru,Perú,14830,Puente Grande,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8496,-79.825,3,puente-grande
+PE,Peru,Perú,14830,Choloque,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8614,-79.8475,4,choloque
+PE,Peru,Perú,14830,Los Colchones,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8322,-79.8161,3,los-colchones
+PE,Peru,Perú,14830,Cusupe,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8558,-79.8419,4,cusupe
+PE,Peru,Perú,14830,San Pedro,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.85,-79.8333,4,san-pedro
+PE,Peru,Perú,14830,Pomape,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8508,-79.8545,4,pomape
+PE,Peru,Perú,14830,Monte Verde,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8729,-79.901,4,monte-verde
+PE,Peru,Perú,14830,Alican Bajo,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8258,-79.7877,3,alican-bajo
+PE,Peru,Perú,14830,Amor de Dios,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8695,-79.8563,3,amor-de-dios
+PE,Peru,Perú,14830,Calazan,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8589,-79.8369,3,calazan
+PE,Peru,Perú,14830,Cafena,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8738,-79.8524,3,cafena
+PE,Peru,Perú,14830,Custodio,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8351,-79.8248,3,custodio
+PE,Peru,Perú,14830,Ventarrones,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8656,-79.895,3,ventarrones
+PE,Peru,Perú,14830,Algarrobos,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8676,-79.8598,3,algarrobos
+PE,Peru,Perú,14830,Punta Poma Rosa,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8655,-79.8888,4,punta-poma-rosa
+PE,Peru,Perú,14830,Muysil,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8536,-79.8373,4,muysil
+PE,Peru,Perú,14830,San Isidro,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8532,-79.8317,4,san-isidro
+PE,Peru,Perú,14830,Valencia,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8479,-79.8207,4,valencia
+PE,Peru,Perú,14830,Huaca la Cruz,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.847,-79.8505,4,huaca-la-cruz
+PE,Peru,Perú,14830,Micarcape,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8491,-79.8388,3,micarcape
+PE,Peru,Perú,14830,Villa Saul,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8324,-79.81,3,villa-saul
+PE,Peru,Perú,14830,Tumpon,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8577,-79.8372,3,tumpon
+PE,Peru,Perú,14830,Paypay,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.847,-79.8259,3,paypay
+PE,Peru,Perú,14830,Punta Cusupe,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8766,-79.8486,3,punta-cusupe
+PE,Peru,Perú,14830,Rama Cusupe,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8675,-79.852,3,rama-cusupe
+PE,Peru,Perú,14830,Los Marinos,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8661,-79.8543,3,los-marinos
+PE,Peru,Perú,14830,Alican Grande (Alican Alto),Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8228,-79.7856,3,alican-grande-alican-alto
+PE,Peru,Perú,14830,San Rafael,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.857,-79.8382,4,san-rafael
+PE,Peru,Perú,14830,Santa Rita,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8629,-79.8505,4,santa-rita
+PE,Peru,Perú,14830,Callanca,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8315,-79.8104,4,callanca
+PE,Peru,Perú,14830,Desaguadero,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.854,-79.8333,4,desaguadero
+PE,Peru,Perú,14830,Santa Catalina,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8644,-79.8531,3,santa-catalina
+PE,Peru,Perú,14830,San Juan,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8698,-79.8887,3,san-juan
+PE,Peru,Perú,14831,Poncoy,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8608,-79.8818,4,poncoy
+PE,Peru,Perú,14831,Monsefu,Lambayeque,14,Chiclayo,1401,Monsefú,140108,-6.8743,-79.8687,4,monsefu
+PE,Peru,Perú,14840,Los Laureles,Lambayeque,14,Chiclayo,1401,Santa Rosa,140114,-6.8731,-79.9126,4,los-laureles
+PE,Peru,Perú,14840,Monte Seco,Lambayeque,14,Chiclayo,1401,Santa Rosa,140114,-6.8707,-79.9083,3,monte-seco
+PE,Peru,Perú,14840,Laguna Grande,Lambayeque,14,Chiclayo,1401,Santa Rosa,140114,-6.8691,-79.9151,3,laguna-grande
+PE,Peru,Perú,14841,Santa Rosa,Lambayeque,14,Chiclayo,1401,Santa Rosa,140114,-6.8797,-79.9224,4,santa-rosa
+PE,Peru,Perú,14310,San Isidro,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6698,-79.7804,4,san-isidro
+PE,Peru,Perú,14310,Chaname,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6228,-79.8447,4,chaname
+PE,Peru,Perú,14310,Linares,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5931,-79.7953,3,linares
+PE,Peru,Perú,14310,Santa Luisa,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6656,-79.7814,4,santa-luisa
+PE,Peru,Perú,14310,Carpintero,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6126,-79.8336,3,carpintero
+PE,Peru,Perú,14310,Huaca la Cruz,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5758,-79.8249,4,huaca-la-cruz
+PE,Peru,Perú,14310,Rama Soltin Derecho,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6426,-79.8108,3,rama-soltin-derecho
+PE,Peru,Perú,14310,Santa Victoria,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6615,-79.78,4,santa-victoria
+PE,Peru,Perú,14310,Fala Rondan,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6529,-79.8083,3,fala-rondan
+PE,Peru,Perú,14310,Checlefe,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6057,-79.8222,3,checlefe
+PE,Peru,Perú,14310,Casimiro Chuman,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5835,-79.7856,3,casimiro-chuman
+PE,Peru,Perú,14310,Macalopu- Las Lomas,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.5996,-79.8237,3,macalopu-las-lomas
+PE,Peru,Perú,14310,Manrique,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.603,-79.8443,3,manrique
+PE,Peru,Perú,14310,Rama Serquen,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5919,-79.7694,3,rama-serquen
+PE,Peru,Perú,14310,Sacalagua,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5941,-79.7657,3,sacalagua
+PE,Peru,Perú,14310,Santa Julia,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6065,-79.7908,3,santa-julia
+PE,Peru,Perú,14310,Totoral,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6298,-79.774,3,totoral
+PE,Peru,Perú,14310,La Yovera las Lomas,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.5982,-79.8409,3,la-yovera-las-lomas
+PE,Peru,Perú,14310,Huaca la Yovera,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5963,-79.8414,3,huaca-la-yovera
+PE,Peru,Perú,14310,Carpa Huamantanga,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6428,-79.8432,3,carpa-huamantanga
+PE,Peru,Perú,14310,Cruz de Bobadilla,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5962,-79.7856,4,cruz-de-bobadilla
+PE,Peru,Perú,14310,San Roque,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6012,-79.8238,4,san-roque
+PE,Peru,Perú,14310,Barranco,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.608,-79.8148,4,barranco
+PE,Peru,Perú,14310,Casa Blanca,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6398,-79.7782,4,casa-blanca
+PE,Peru,Perú,14310,Santisteban,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6275,-79.7968,4,santisteban
+PE,Peru,Perú,14310,Piedra Parada,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6064,-79.7729,4,piedra-parada
+PE,Peru,Perú,14310,Barba,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5901,-79.7627,4,barba
+PE,Peru,Perú,14310,San Ricardo,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.657,-79.7944,4,san-ricardo
+PE,Peru,Perú,14310,San Jacinto,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.5876,-79.8026,4,san-jacinto
+PE,Peru,Perú,14310,Fala,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6739,-79.7865,4,fala
+PE,Peru,Perú,14311,Pueblo Nuevo,Lambayeque,14,Ferreñafe,1402,Pueblo Nuevo,140206,-6.6357,-79.796,4,pueblo-nuevo
+PE,Peru,Perú,14311,Ferreñafe,Lambayeque,14,Ferreñafe,1402,Ferreñafe,140201,-6.6389,-79.7889,4,ferrenafe
+PE,Peru,Perú,14330,Limon Alto,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6238,-79.737,4,limon-alto
+PE,Peru,Perú,14330,Chuchicol,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6759,-79.7671,3,chuchicol
+PE,Peru,Perú,14330,La Primavera,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6545,-79.7321,3,la-primavera
+PE,Peru,Perú,14330,Huayaquil,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6295,-79.7408,3,huayaquil
+PE,Peru,Perú,14330,La Nieve (Nieves),Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6157,-79.7424,3,la-nieve-nieves
+PE,Peru,Perú,14330,La Esperanza,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6847,-79.6948,4,la-esperanza
+PE,Peru,Perú,14330,Keiko Sofia,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6885,-79.7038,3,keiko-sofia
+PE,Peru,Perú,14330,Armolin,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6203,-79.7564,3,armolin
+PE,Peru,Perú,14330,El Paltar,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6121,-79.7454,3,el-paltar
+PE,Peru,Perú,14330,Campo de Cria,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6349,-79.7255,3,campo-de-cria
+PE,Peru,Perú,14330,La Pared,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6548,-79.7236,4,la-pared
+PE,Peru,Perú,14330,La Chocola,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6309,-79.7432,3,la-chocola
+PE,Peru,Perú,14330,La Chavarria,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6186,-79.7417,3,la-chavarria
+PE,Peru,Perú,14330,Guanabal,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6367,-79.7407,3,guanabal
+PE,Peru,Perú,14330,Las Canteras Tres Tomas,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6436,-79.6981,3,las-canteras-tres-tomas
+PE,Peru,Perú,14330,Cuatro de Mayo,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6378,-79.7306,3,cuatro-de-mayo
+PE,Peru,Perú,14330,La Quezada,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6254,-79.7473,4,la-quezada
+PE,Peru,Perú,14330,Limon Bajo,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6383,-79.7369,3,limon-bajo
+PE,Peru,Perú,14330,Serquen,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.5966,-79.7489,3,serquen
+PE,Peru,Perú,14330,El Carrizo,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6642,-79.7218,4,el-carrizo
+PE,Peru,Perú,14330,El Guayabo,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6244,-79.7471,4,el-guayabo
+PE,Peru,Perú,14330,La Otra Banda,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6188,-79.7386,4,la-otra-banda
+PE,Peru,Perú,14330,Algodonal,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6173,-79.7576,4,algodonal
+PE,Peru,Perú,14330,Nerio,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6223,-79.7395,4,nerio
+PE,Peru,Perú,14330,Manuel Antonio Mesones Muro,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6436,-79.7381,4,manuel-antonio-mesones-muro
+PE,Peru,Perú,14330,Mamape,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6562,-79.7513,4,mamape
+PE,Peru,Perú,14330,El Milagro,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6463,-79.7549,4,el-milagro
+PE,Peru,Perú,14330,El Triunfo,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.698,-79.6685,4,el-triunfo
+PE,Peru,Perú,14330,Tutumo,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6311,-79.7596,4,tutumo
+PE,Peru,Perú,14330,La Juanita,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6816,-79.7575,4,la-juanita
+PE,Peru,Perú,14330,Luzfaque,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6016,-79.7554,4,luzfaque
+PE,Peru,Perú,14330,El Alto,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.5964,-79.7472,4,el-alto
+PE,Peru,Perú,14330,Fala Falita,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6794,-79.7119,4,fala-falita
+PE,Peru,Perú,14330,Lucumo,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6351,-79.736,3,lucumo
+PE,Peru,Perú,14330,La Primera Toma,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6406,-79.7363,3,la-primera-toma
+PE,Peru,Perú,14330,Choloque,Lambayeque,14,Ferreñafe,1402,Manuel Antonio Mesones Muro,140204,-6.6667,-79.7167,4,choloque
+PE,Peru,Perú,14340,Papayo Desaguadero,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4297,-79.5859,4,papayo-desaguadero
+PE,Peru,Perú,14340,La Traposa,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4232,-79.574,4,la-traposa
+PE,Peru,Perú,14340,La Calzada,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.3993,-79.5243,4,la-calzada
+PE,Peru,Perú,14340,Tres Puentes A,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.458,-79.6496,4,tres-puentes-a
+PE,Peru,Perú,14340,La Libertad,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.3934,-79.4917,3,la-libertad
+PE,Peru,Perú,14340,San Luis,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5029,-79.8262,4,san-luis
+PE,Peru,Perú,14340,Calicantro,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4149,-79.5914,4,calicantro
+PE,Peru,Perú,14340,Desaguadero,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4297,-79.5859,4,desaguadero
+PE,Peru,Perú,14340,Campana F,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4752,-79.6526,3,campana-f
+PE,Peru,Perú,14340,Patapon,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4825,-79.6133,4,patapon
+PE,Peru,Perú,14340,Tambo Real,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4807,-79.703,4,tambo-real
+PE,Peru,Perú,14340,Manchuria B,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4454,-79.6261,3,manchuria-b
+PE,Peru,Perú,14340,San Juan,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4254,-79.6082,4,san-juan
+PE,Peru,Perú,14340,La Manchuria,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4533,-79.6438,3,la-manchuria
+PE,Peru,Perú,14340,Mochumi Viejo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4045,-79.4974,4,mochumi-viejo
+PE,Peru,Perú,14340,La Pared,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5543,-79.8036,4,la-pared
+PE,Peru,Perú,14340,Jayanquillo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4525,-79.6153,4,jayanquillo
+PE,Peru,Perú,14340,Mayascon,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4133,-79.5472,4,mayascon
+PE,Peru,Perú,14340,Nuevo San Luis,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4708,-79.6465,4,nuevo-san-luis
+PE,Peru,Perú,14340,Motupillo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.442,-79.606,4,motupillo
+PE,Peru,Perú,14340,Cachinche,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5161,-79.8221,4,cachinche
+PE,Peru,Perú,14340,El Algarrobito,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.3804,-79.47,3,el-algarrobito
+PE,Peru,Perú,14340,Botija,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5691,-79.7657,4,botija
+PE,Peru,Perú,14340,Huacho San Isidro,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4666,-79.6352,3,huacho-san-isidro
+PE,Peru,Perú,14340,Tres Puentes B,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4624,-79.6574,3,tres-puentes-b
+PE,Peru,Perú,14340,Carrasco,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5802,-79.7568,3,carrasco
+PE,Peru,Perú,14340,Comegen,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4657,-79.6271,3,comegen
+PE,Peru,Perú,14340,La Calera,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4984,-79.6633,4,la-calera
+PE,Peru,Perú,14340,San Martin,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4736,-79.6357,4,san-martin
+PE,Peru,Perú,14340,Trapiche,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4387,-79.5998,4,trapiche
+PE,Peru,Perú,14340,Campana B,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4806,-79.6558,3,campana-b
+PE,Peru,Perú,14340,La Pangola,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4992,-79.6818,3,la-pangola
+PE,Peru,Perú,14340,Balazo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5584,-79.7718,3,balazo
+PE,Peru,Perú,14340,Huaca Partida,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4891,-79.7402,3,huaca-partida
+PE,Peru,Perú,14340,Calicantro Bajo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4229,-79.589,3,calicantro-bajo
+PE,Peru,Perú,14340,Alamo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5477,-79.7789,4,alamo
+PE,Peru,Perú,14340,La Campana D,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4785,-79.6851,3,la-campana-d
+PE,Peru,Perú,14340,La Zaranda,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4867,-79.7325,3,la-zaranda
+PE,Peru,Perú,14340,La Paz,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.468,-79.6302,3,la-paz
+PE,Peru,Perú,14340,La Piña,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5577,-79.7806,3,la-pina
+PE,Peru,Perú,14340,Cender,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5459,-79.7794,4,cender
+PE,Peru,Perú,14340,La U,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.3825,-79.4762,4,la-u
+PE,Peru,Perú,14340,Santa Clara,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4572,-79.7104,4,santa-clara
+PE,Peru,Perú,14340,Batan Grande,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.481,-79.6516,4,batan-grande
+PE,Peru,Perú,14340,Jabonero,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5711,-79.7808,3,jabonero
+PE,Peru,Perú,14340,Puente de Piedra,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4751,-79.6684,4,puente-de-piedra
+PE,Peru,Perú,14340,Manchuria A,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4385,-79.6268,3,manchuria-a
+PE,Peru,Perú,14340,Miguel Grau,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5635,-79.7788,3,miguel-grau
+PE,Peru,Perú,14340,Mochumano,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4671,-79.6839,3,mochumano
+PE,Peru,Perú,14340,Mochumi Bajo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4101,-79.5097,3,mochumi-bajo
+PE,Peru,Perú,14340,Lentejal,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4974,-79.6984,3,lentejal
+PE,Peru,Perú,14340,Nueva Zaranda,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5123,-79.7559,3,nueva-zaranda
+PE,Peru,Perú,14340,Nuevo Amanecer,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4981,-79.5815,3,nuevo-amanecer
+PE,Peru,Perú,14340,La Campana C,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4856,-79.6783,3,la-campana-c
+PE,Peru,Perú,14340,Poma III,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4541,-79.7987,3,poma-iii
+PE,Peru,Perú,14340,Juan Pablo II,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4931,-79.5643,3,juan-pablo-ii
+PE,Peru,Perú,14340,Reservorio Nueva Esperanza,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.444,-79.6122,3,reservorio-nueva-esperanza
+PE,Peru,Perú,14340,Sandial,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4728,-79.7176,3,sandial
+PE,Peru,Perú,14340,San Lucas,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4518,-79.6525,3,san-lucas
+PE,Peru,Perú,14340,Santa Clara Alta,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4555,-79.73,3,santa-clara-alta
+PE,Peru,Perú,14340,Santa Clara Baja,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.455,-79.7453,3,santa-clara-baja
+PE,Peru,Perú,14340,Santa Rosa de Chaparry,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4898,-79.5784,3,santa-rosa-de-chaparry
+PE,Peru,Perú,14340,Sime,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5373,-79.7983,3,sime
+PE,Peru,Perú,14340,Los Aguilares,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4878,-79.7257,3,los-aguilares
+PE,Peru,Perú,14340,La Curva,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4873,-79.7517,4,la-curva
+PE,Peru,Perú,14340,La Campana,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.472,-79.661,3,la-campana
+PE,Peru,Perú,14340,Calupe,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4728,-79.736,4,calupe
+PE,Peru,Perú,14340,La Paleria,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4664,-79.7978,4,la-paleria
+PE,Peru,Perú,14340,Pativilca,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4558,-79.6691,4,pativilca
+PE,Peru,Perú,14340,Mauro,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5576,-79.7754,4,mauro
+PE,Peru,Perú,14340,Sencie,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.583,-79.7509,4,sencie
+PE,Peru,Perú,14340,Magdalena,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.4325,-79.6186,4,magdalena
+PE,Peru,Perú,14340,El Espino,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5639,-79.7686,4,el-espino
+PE,Peru,Perú,14341,Pitipo,Lambayeque,14,Ferreñafe,1402,Pitipo,140205,-6.5637,-79.7774,4,pitipo
+PE,Peru,Perú,14400,Totoras,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.0917,-79.3943,4,totoras
+PE,Peru,Perú,14400,Lanchipampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2665,-79.3534,4,lanchipampa
+PE,Peru,Perú,14400,La Tranca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1885,-79.323,4,la-tranca
+PE,Peru,Perú,14400,Machaycaj,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2409,-79.2879,4,machaycaj
+PE,Peru,Perú,14400,Atumpampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2589,-79.3339,4,atumpampa
+PE,Peru,Perú,14400,Laquipampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.337,-79.4453,4,laquipampa
+PE,Peru,Perú,14400,La Calera,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3965,-79.5178,4,la-calera
+PE,Peru,Perú,14400,Huasicaj,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2238,-79.2997,4,huasicaj
+PE,Peru,Perú,14400,Canchachala,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2185,-79.4303,4,canchachala
+PE,Peru,Perú,14400,Incahuasi,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2356,-79.3169,4,incahuasi
+PE,Peru,Perú,14400,Mamajpampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2356,-79.3992,3,mamajpampa
+PE,Peru,Perú,14400,Totora,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2126,-79.311,4,totora
+PE,Peru,Perú,14400,Puycate Bajo,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2671,-79.4019,3,puycate-bajo
+PE,Peru,Perú,14400,Janque,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2795,-79.3732,4,janque
+PE,Peru,Perú,14400,Atuncerca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2331,-79.3788,3,atuncerca
+PE,Peru,Perú,14400,Tingoj,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.229,-79.3303,3,tingoj
+PE,Peru,Perú,14400,Alisopampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2646,-79.3592,3,alisopampa
+PE,Peru,Perú,14400,Tayapampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2408,-79.349,3,tayapampa
+PE,Peru,Perú,14400,San Nicolas,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2686,-79.3943,4,san-nicolas
+PE,Peru,Perú,14400,Agupampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2658,-79.3748,3,agupampa
+PE,Peru,Perú,14400,Mal Paso,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.278,-79.4136,4,mal-paso
+PE,Peru,Perú,14400,Rumichaca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.0855,-79.3742,4,rumichaca
+PE,Peru,Perú,14400,La Playa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2228,-79.3162,4,la-playa
+PE,Peru,Perú,14400,Chukllapampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2436,-79.326,3,chukllapampa
+PE,Peru,Perú,14400,Chillkayacu,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2553,-79.3263,3,chillkayacu
+PE,Peru,Perú,14400,Muye,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2939,-79.4252,3,muye
+PE,Peru,Perú,14400,Tambuñi,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2877,-79.4397,3,tambuni
+PE,Peru,Perú,14400,Mushkalin,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1928,-79.4161,3,mushkalin
+PE,Peru,Perú,14400,Llurjallacu,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2831,-79.4006,3,llurjallacu
+PE,Peru,Perú,14400,Luchajpampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2689,-79.3511,3,luchajpampa
+PE,Peru,Perú,14400,Shancayjo,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2627,-79.3456,3,shancayjo
+PE,Peru,Perú,14400,Sinchigual (Sinchihual),Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2142,-79.2927,3,sinchigual-sinchihual
+PE,Peru,Perú,14400,Tierra Colorada,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3375,-79.4451,3,tierra-colorada
+PE,Peru,Perú,14400,Susupampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.199,-79.3877,3,susupampa
+PE,Peru,Perú,14400,Uyurpampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3375,-79.4451,3,uyurpampa
+PE,Peru,Perú,14400,Romero,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2355,-79.3613,4,romero
+PE,Peru,Perú,14400,Puchaca Bajo,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3768,-79.4855,3,puchaca-bajo
+PE,Peru,Perú,14400,Piedra Parada,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1825,-79.3579,4,piedra-parada
+PE,Peru,Perú,14400,Coyuna (Coyuna Baja),Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2679,-79.3383,3,coyuna-coyuna-baja
+PE,Peru,Perú,14400,Huaca Rajada,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3994,-79.5252,4,huaca-rajada
+PE,Peru,Perú,14400,Los Cocos,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2307,-79.4291,4,los-cocos
+PE,Peru,Perú,14400,Riopampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2524,-79.3817,4,riopampa
+PE,Peru,Perú,14400,Marayhuaca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1777,-79.3354,4,marayhuaca
+PE,Peru,Perú,14400,Pampa Grande,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2995,-79.422,4,pampa-grande
+PE,Peru,Perú,14400,Lunkurrumi,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.256,-79.3812,3,lunkurrumi
+PE,Peru,Perú,14400,Chillvaca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.0933,-79.3536,3,chillvaca
+PE,Peru,Perú,14400,Molino,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.286,-79.4178,4,molino
+PE,Peru,Perú,14400,Kallima,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2632,-79.3368,3,kallima
+PE,Peru,Perú,14400,Uyshahuasi,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2225,-79.3891,4,uyshahuasi
+PE,Peru,Perú,14400,Llamica,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.0921,-79.369,3,llamica
+PE,Peru,Perú,14400,Sacca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2552,-79.4185,4,sacca
+PE,Peru,Perú,14400,Cueva Blanca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1453,-79.3964,4,cueva-blanca
+PE,Peru,Perú,14400,Moyan,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2759,-79.4111,4,moyan
+PE,Peru,Perú,14400,Tasajera,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2156,-79.3307,4,tasajera
+PE,Peru,Perú,14400,Ayamachay,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2179,-79.3764,4,ayamachay
+PE,Peru,Perú,14400,Shita,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2533,-79.3097,4,shita
+PE,Peru,Perú,14400,Amusuy,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2174,-79.4118,4,amusuy
+PE,Peru,Perú,14400,Pulka,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2147,-79.4083,3,pulka
+PE,Peru,Perú,14400,San Luis,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2904,-79.3616,4,san-luis
+PE,Peru,Perú,14400,Pagaypuente,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2408,-79.3598,3,pagaypuente
+PE,Peru,Perú,14400,Culluna,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2855,-79.392,3,culluna
+PE,Peru,Perú,14400,El Limon,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3534,-79.4485,3,el-limon
+PE,Peru,Perú,14400,Chumbe Aura,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2311,-79.3735,3,chumbe-aura
+PE,Peru,Perú,14400,Yerba Buena,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2495,-79.3955,3,yerba-buena
+PE,Peru,Perú,14400,Huar Huar (War War),Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2046,-79.3042,3,huar-huar-war-war
+PE,Peru,Perú,14400,Cruz Loma,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2588,-79.3757,3,cruz-loma
+PE,Peru,Perú,14400,Shancapampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2534,-79.2952,3,shancapampa
+PE,Peru,Perú,14400,Señor de la Humildad,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1301,-79.3647,3,senor-de-la-humildad
+PE,Peru,Perú,14400,Scchapites,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2322,-79.3948,3,scchapites
+PE,Peru,Perú,14400,Wachuma,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2326,-79.306,3,wachuma
+PE,Peru,Perú,14400,Sauce Tranca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2812,-79.3982,3,sauce-tranca
+PE,Peru,Perú,14400,Sapote,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.305,-79.4353,3,sapote
+PE,Peru,Perú,14400,Cruz Pampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2815,-79.381,3,cruz-pampa
+PE,Peru,Perú,14400,Uckuyaku,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.247,-79.2939,3,uckuyaku
+PE,Peru,Perú,14400,Quisera,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2399,-79.3193,3,quisera
+PE,Peru,Perú,14400,Palayon,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.291,-79.3808,3,palayon
+PE,Peru,Perú,14400,Paqcha,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2486,-79.2878,3,paqcha
+PE,Peru,Perú,14400,Paygacerca,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2506,-79.3611,3,paygacerca
+PE,Peru,Perú,14400,Puycate Alto (Pucayte),Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.254,-79.4014,3,puycate-alto-pucayte
+PE,Peru,Perú,14400,Peter,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.268,-79.4061,3,peter
+PE,Peru,Perú,14400,Piedra Colorada,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1944,-79.3396,3,piedra-colorada
+PE,Peru,Perú,14400,Naranjo Pampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2554,-79.3604,3,naranjo-pampa
+PE,Peru,Perú,14400,Piygunta,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2605,-79.3116,3,piygunta
+PE,Peru,Perú,14400,Oxapampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3072,-79.4483,3,oxapampa
+PE,Peru,Perú,14400,Puchaca Alto,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.368,-79.4636,3,puchaca-alto
+PE,Peru,Perú,14400,Yanayacu,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2837,-79.3706,3,yanayacu
+PE,Peru,Perú,14400,El Palto,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.3839,-79.4945,3,el-palto
+PE,Peru,Perú,14400,Vizcacha,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2697,-79.3586,3,vizcacha
+PE,Peru,Perú,14400,Tungula,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2063,-79.2931,3,tungula
+PE,Peru,Perú,14400,Huayrul,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2807,-79.4099,3,huayrul
+PE,Peru,Perú,14400,Lanchi,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2564,-79.3052,3,lanchi
+PE,Peru,Perú,14400,Linlipamapa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2648,-79.3484,3,linlipamapa
+PE,Peru,Perú,14400,Kochapampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2524,-79.3133,3,kochapampa
+PE,Peru,Perú,14400,Tumbe,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2913,-79.4006,3,tumbe
+PE,Peru,Perú,14400,Tolojpampa,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2231,-79.3376,3,tolojpampa
+PE,Peru,Perú,14400,Lirio,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2588,-79.3477,3,lirio
+PE,Peru,Perú,14400,Condorsamanan,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2615,-79.3754,3,condorsamanan
+PE,Peru,Perú,14400,Cotequero,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.1779,-79.3187,3,cotequero
+PE,Peru,Perú,14400,Cotorrume,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2725,-79.3916,3,cotorrume
+PE,Peru,Perú,14400,Coyuna Alta,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2636,-79.332,3,coyuna-alta
+PE,Peru,Perú,14401,Incahuasi,Lambayeque,14,Ferreñafe,1402,Incahuasi,140203,-6.2356,-79.3169,4,incahuasi
+PE,Peru,Perú,14500,E L Paraiso,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9965,-79.375,3,e-l-paraiso
+PE,Peru,Perú,14500,Joipa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0374,-79.2515,3,joipa
+PE,Peru,Perú,14500,Mamagpampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0785,-79.2895,4,mamagpampa
+PE,Peru,Perú,14500,Huamachuco,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0773,-79.1932,3,huamachuco
+PE,Peru,Perú,14500,Pishcolpampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0322,-79.1977,3,pishcolpampa
+PE,Peru,Perú,14500,Congacha,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.1108,-79.33,4,congacha
+PE,Peru,Perú,14500,Manantial,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0594,-79.3708,3,manantial
+PE,Peru,Perú,14500,Ladino,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.984,-79.38,3,ladino
+PE,Peru,Perú,14500,La Succha,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9952,-79.3814,3,la-succha
+PE,Peru,Perú,14500,Lutopampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0202,-79.3135,3,lutopampa
+PE,Peru,Perú,14500,Espinal Chico,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0017,-79.3773,3,espinal-chico
+PE,Peru,Perú,14500,Lañoloma,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.063,-79.2,3,lanoloma
+PE,Peru,Perú,14500,Mitobamba,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0555,-79.2898,3,mitobamba
+PE,Peru,Perú,14500,Chirimoyapampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0866,-79.1867,3,chirimoyapampa
+PE,Peru,Perú,14500,Huaraj,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0378,-79.2674,3,huaraj
+PE,Peru,Perú,14500,Miraflores,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0437,-79.3298,4,miraflores
+PE,Peru,Perú,14500,Quinua,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0434,-79.1927,4,quinua
+PE,Peru,Perú,14500,Lucma,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0916,-79.1899,3,lucma
+PE,Peru,Perú,14500,Hierba Buena,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0143,-79.3951,3,hierba-buena
+PE,Peru,Perú,14500,Dinsilde,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0214,-79.2692,3,dinsilde
+PE,Peru,Perú,14500,Huacapampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0876,-79.2007,3,huacapampa
+PE,Peru,Perú,14500,El Palacio,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0418,-79.3914,3,el-palacio
+PE,Peru,Perú,14500,Machucara,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0052,-79.3532,4,machucara
+PE,Peru,Perú,14500,Hualte,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0753,-79.2108,3,hualte
+PE,Peru,Perú,14500,Muyaca,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0265,-79.2718,3,muyaca
+PE,Peru,Perú,14500,Congona,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0568,-79.3305,4,congona
+PE,Peru,Perú,14500,Muñuño,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0646,-79.395,4,mununo
+PE,Peru,Perú,14500,La Hacienda,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0484,-79.2018,4,la-hacienda
+PE,Peru,Perú,14500,Moyan,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0233,-79.4023,4,moyan
+PE,Peru,Perú,14500,Atun Loma,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0727,-79.3112,3,atun-loma
+PE,Peru,Perú,14500,Nueva Esperanza,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.03,-79.3878,3,nueva-esperanza
+PE,Peru,Perú,14500,Tingo,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0467,-79.3809,4,tingo
+PE,Peru,Perú,14500,Atumpampa Loma,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0541,-79.2182,3,atumpampa-loma
+PE,Peru,Perú,14500,El Espinal,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0054,-79.3743,3,el-espinal
+PE,Peru,Perú,14500,Alisal,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9962,-79.2877,3,alisal
+PE,Peru,Perú,14500,Walcochala,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0632,-79.219,3,walcochala
+PE,Peru,Perú,14500,Atumpampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0598,-79.2192,4,atumpampa
+PE,Peru,Perú,14500,Gramalote,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0872,-79.2234,3,gramalote
+PE,Peru,Perú,14500,San Lorenzo de Alumbre,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0924,-79.1909,3,san-lorenzo-de-alumbre
+PE,Peru,Perú,14500,El Sauce,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.3654,-79.5219,4,el-sauce
+PE,Peru,Perú,14500,San Vicente,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.055,-79.3861,3,san-vicente
+PE,Peru,Perú,14500,Santa Rosa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9951,-79.3973,4,santa-rosa
+PE,Peru,Perú,14500,San Jose,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0379,-79.2588,4,san-jose
+PE,Peru,Perú,14500,Tierra Colorada,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0617,-79.3718,3,tierra-colorada
+PE,Peru,Perú,14500,La Palma,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.1867,-79.4766,3,la-palma
+PE,Peru,Perú,14500,Rodeopampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0677,-79.3856,3,rodeopampa
+PE,Peru,Perú,14500,Oxapampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0209,-79.2851,3,oxapampa
+PE,Peru,Perú,14500,Huayabamba,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.064,-79.3815,3,huayabamba
+PE,Peru,Perú,14500,Espino,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0139,-79.3676,4,espino
+PE,Peru,Perú,14500,Olos,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0117,-79.4102,4,olos
+PE,Peru,Perú,14500,Paja Blanca,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9995,-79.3818,4,paja-blanca
+PE,Peru,Perú,14500,Royo,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0096,-79.3603,3,royo
+PE,Peru,Perú,14500,Casa Quemada,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0233,-79.3652,3,casa-quemada
+PE,Peru,Perú,14500,Progreso,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0663,-79.3318,4,progreso
+PE,Peru,Perú,14500,San Juan de Liro Pampa o San Juan de Yoyoca,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0622,-79.2931,3,san-juan-de-liro-pampa-o-san-juan-de-yoyoca
+PE,Peru,Perú,14500,Cruz Loma,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0749,-79.392,3,cruz-loma
+PE,Peru,Perú,14500,Corralpampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0034,-79.3625,3,corralpampa
+PE,Peru,Perú,14500,Chorro,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9942,-79.2843,3,chorro
+PE,Peru,Perú,14500,Cedro,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.059,-79.3834,4,cedro
+PE,Peru,Perú,14500,Chirimoyal,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0481,-79.3729,3,chirimoyal
+PE,Peru,Perú,14500,Illambe,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0862,-79.1938,3,illambe
+PE,Peru,Perú,14500,Chiñama,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0711,-79.3984,3,chinama
+PE,Peru,Perú,14500,Totoras,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0077,-79.4114,4,totoras
+PE,Peru,Perú,14500,La Balsa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0531,-79.1936,3,la-balsa
+PE,Peru,Perú,14500,Zuzupampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0706,-79.356,3,zuzupampa
+PE,Peru,Perú,14500,San Cristobal,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0916,-79.1926,3,san-cristobal
+PE,Peru,Perú,14500,Totoras Pampa Verde,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0724,-79.384,3,totoras-pampa-verde
+PE,Peru,Perú,14500,La Tranca,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0462,-79.3999,4,la-tranca
+PE,Peru,Perú,14500,Lique,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0445,-79.1905,3,lique
+PE,Peru,Perú,14500,Matachanga,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9874,-79.3865,3,matachanga
+PE,Peru,Perú,14500,Mangaypa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0038,-79.3905,3,mangaypa
+PE,Peru,Perú,14500,Santa Lucia,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0269,-79.3819,4,santa-lucia
+PE,Peru,Perú,14500,Shin Shin,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0955,-79.2095,3,shin-shin
+PE,Peru,Perú,14500,Chamanal,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0157,-79.3598,3,chamanal
+PE,Peru,Perú,14500,Tokras,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0583,-79.3674,3,tokras
+PE,Peru,Perú,14500,Cerro Negro,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0384,-79.3769,3,cerro-negro
+PE,Peru,Perú,14500,Cangrejera,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0319,-79.4014,3,cangrejera
+PE,Peru,Perú,14500,Saucepampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0037,-79.3202,3,saucepampa
+PE,Peru,Perú,14500,Royopampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9908,-79.3814,3,royopampa
+PE,Peru,Perú,14500,Molino,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0166,-79.3831,4,molino
+PE,Peru,Perú,14500,Naranjo Alto,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0544,-79.4022,3,naranjo-alto
+PE,Peru,Perú,14500,Pajicha,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0263,-79.4026,3,pajicha
+PE,Peru,Perú,14500,La Divina,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0331,-79.3814,4,la-divina
+PE,Peru,Perú,14500,Seg Seg,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.017,-79.2869,3,seg-seg
+PE,Peru,Perú,14500,Alcanfor,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0825,-79.1965,3,alcanfor
+PE,Peru,Perú,14500,Sigues,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9994,-79.2842,3,sigues
+PE,Peru,Perú,14500,Wentun,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9985,-79.3719,3,wentun
+PE,Peru,Perú,14500,Pandachi,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.08,-79.1987,4,pandachi
+PE,Peru,Perú,14500,Pillona,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0049,-79.2734,3,pillona
+PE,Peru,Perú,14500,Sabila,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0507,-79.1895,3,sabila
+PE,Peru,Perú,14500,Santa Elena,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.066,-79.3941,4,santa-elena
+PE,Peru,Perú,14500,Villa Rumi,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0358,-79.3976,4,villa-rumi
+PE,Peru,Perú,14500,Pichanapampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0317,-79.2467,3,pichanapampa
+PE,Peru,Perú,14500,Pamaca,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0203,-79.3064,3,pamaca
+PE,Peru,Perú,14500,San Jose Obrero,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-5.9873,-79.297,3,san-jose-obrero
+PE,Peru,Perú,14500,Naranjo,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.008,-79.3928,4,naranjo
+PE,Peru,Perú,14500,Moñuño,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0651,-79.3743,3,monuno
+PE,Peru,Perú,14500,Taurimarca,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0414,-79.3747,3,taurimarca
+PE,Peru,Perú,14500,Rumipampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0019,-79.2715,3,rumipampa
+PE,Peru,Perú,14500,La Laguna,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0852,-79.1875,4,la-laguna
+PE,Peru,Perú,14500,Moyepampa,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0662,-79.2025,3,moyepampa
+PE,Peru,Perú,14500,Suychuco,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0306,-79.2702,3,suychuco
+PE,Peru,Perú,14500,Palo Blanco,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0503,-79.4028,4,palo-blanco
+PE,Peru,Perú,14500,El Naranjo,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0592,-79.3997,4,el-naranjo
+PE,Peru,Perú,14500,Pampagrande,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0735,-79.3826,3,pampagrande
+PE,Peru,Perú,14500,Huarhuarcucho,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0722,-79.3949,4,huarhuarcucho
+PE,Peru,Perú,14500,Pozuzo,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0766,-79.3552,3,pozuzo
+PE,Peru,Perú,14500,San Miguel,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0458,-79.1971,4,san-miguel
+PE,Peru,Perú,14500,Tute,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0664,-79.2281,4,tute
+PE,Peru,Perú,14500,Chilasque,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0253,-79.2039,4,chilasque
+PE,Peru,Perú,14500,Quirichima,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0327,-79.3338,4,quirichima
+PE,Peru,Perú,14501,Cañaris,Lambayeque,14,Ferreñafe,1402,Cañaris,140202,-6.0461,-79.2647,4,canaris
+PE,Peru,Perú,14000,Lambayeque Viejo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6956,-79.9381,4,lambayeque-viejo
+PE,Peru,Perú,14000,Cadape,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6785,-79.8734,4,cadape
+PE,Peru,Perú,14000,San Miguel,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.1878,-79.9715,4,san-miguel
+PE,Peru,Perú,14000,Sialupe Huamantanga Sector 1 (Huamantanga),Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6569,-79.8663,3,sialupe-huamantanga-sector-1-huamantanga
+PE,Peru,Perú,14000,Sialupe Huamantanga los Mestas,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6322,-79.8757,3,sialupe-huamantanga-los-mestas
+PE,Peru,Perú,14000,Sialupe Huamantanga los Llontop,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6146,-79.8748,3,sialupe-huamantanga-los-llontop
+PE,Peru,Perú,14000,Sialupe Huamantanga los Ancajimas,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6056,-79.8516,3,sialupe-huamantanga-los-ancajimas
+PE,Peru,Perú,14000,Sialupe Baca la Capilla Santa Rosa,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6168,-79.9067,3,sialupe-baca-la-capilla-santa-rosa
+PE,Peru,Perú,14000,Sialupe Baca el Gañan,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6235,-79.8956,3,sialupe-baca-el-ganan
+PE,Peru,Perú,14000,San Carlos,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7308,-79.9225,4,san-carlos
+PE,Peru,Perú,14000,San Pedro,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7322,-79.9389,3,san-pedro
+PE,Peru,Perú,14000,Sialupe Baca Aujereada,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6233,-79.9082,3,sialupe-baca-aujereada
+PE,Peru,Perú,14000,San Francisco de Paredones,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7484,-79.9349,3,san-francisco-de-paredones
+PE,Peru,Perú,14000,Capilla Santa Rosa,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.632,-79.9059,3,capilla-santa-rosa
+PE,Peru,Perú,14000,Chornanca,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7283,-79.9714,3,chornanca
+PE,Peru,Perú,14000,Colector,Lambayeque,14,Lambayeque,1403,San José,140311,-6.787,-79.9404,3,colector
+PE,Peru,Perú,14000,San Antonio de Padua,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6445,-79.8734,3,san-antonio-de-padua
+PE,Peru,Perú,14000,San Andres,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7636,-79.9264,3,san-andres
+PE,Peru,Perú,14000,Huaca Blanca,Lambayeque,14,Lambayeque,1403,San José,140311,-6.1878,-79.9715,4,huaca-blanca
+PE,Peru,Perú,14000,Trapiche,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7003,-79.9458,4,trapiche
+PE,Peru,Perú,14000,Sialupe Huamantanga Sector 7  (Borja Chi,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6031,-79.8785,3,sialupe-huamantanga-sector-7-borja-chi
+PE,Peru,Perú,14000,Punto Nueve,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6384,-79.8939,3,punto-nueve
+PE,Peru,Perú,14000,Baldera,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7971,-79.9369,3,baldera
+PE,Peru,Perú,14000,Sialupe Baca Punto Cuatro,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.5974,-79.89,3,sialupe-baca-punto-cuatro
+PE,Peru,Perú,14000,Naylamp,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7196,-79.982,3,naylamp
+PE,Peru,Perú,14000,Muy Finca Punto Nueve Rama Cabrera,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6502,-79.9118,3,muy-finca-punto-nueve-rama-cabrera
+PE,Peru,Perú,14000,Los Vilchez,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6486,-79.8616,3,los-vilchez
+PE,Peru,Perú,14000,Eureka,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6774,-79.8787,3,eureka
+PE,Peru,Perú,14000,Fundo Dallorso,Lambayeque,14,Lambayeque,1403,San José,140311,-6.8037,-79.9436,3,fundo-dallorso
+PE,Peru,Perú,14000,El Mirador,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7402,-79.9602,3,el-mirador
+PE,Peru,Perú,14000,Los Santisteban,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6342,-79.8659,3,los-santisteban
+PE,Peru,Perú,14000,Gallito,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7665,-79.9459,3,gallito
+PE,Peru,Perú,14000,Huaca Chotuna,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7246,-79.9487,3,huaca-chotuna
+PE,Peru,Perú,14000,Huayabo,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7441,-79.9501,3,huayabo
+PE,Peru,Perú,14000,"Sialupe Huamantanga, Sector Punto Nueve",Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6259,-79.8867,3,sialupe-huamantanga-sector-punto-nueve
+PE,Peru,Perú,14000,Sialupe Baca Rio Hondo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.63,-79.9137,3,sialupe-baca-rio-hondo
+PE,Peru,Perú,14000,Verrugas,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7272,-79.9641,3,verrugas
+PE,Peru,Perú,14000,Virgen Purisima Concepcion,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6269,-79.9341,3,virgen-purisima-concepcion
+PE,Peru,Perú,14000,Faicalito,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6859,-79.8744,3,faicalito
+PE,Peru,Perú,14000,Grauz,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7411,-79.9476,3,grauz
+PE,Peru,Perú,14000,Yencala Boggiano,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6902,-79.9288,3,yencala-boggiano
+PE,Peru,Perú,14000,Yencala Boggiano Garbanzal,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6888,-79.9577,3,yencala-boggiano-garbanzal
+PE,Peru,Perú,14000,Yencala Boggiano Guayabo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6939,-79.9395,3,yencala-boggiano-guayabo
+PE,Peru,Perú,14000,Yencala Leon el Huabo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6958,-79.963,3,yencala-leon-el-huabo
+PE,Peru,Perú,14000,Yencala Leon I,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6829,-79.9515,3,yencala-leon-i
+PE,Peru,Perú,14000,Yencala Leon II (Cascajo),Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6999,-79.9573,3,yencala-leon-ii-cascajo
+PE,Peru,Perú,14000,Rastrojo de las Vacas,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7311,-79.9517,3,rastrojo-de-las-vacas
+PE,Peru,Perú,14000,Laguna Verde,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7373,-79.9354,3,laguna-verde
+PE,Peru,Perú,14000,La Tiza,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7419,-79.9414,4,la-tiza
+PE,Peru,Perú,14000,San Nicolas,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7324,-79.8954,4,san-nicolas
+PE,Peru,Perú,14000,Punto Nueve el Arbusto,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6631,-79.9094,3,punto-nueve-el-arbusto
+PE,Peru,Perú,14000,Casa Blanca,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7298,-79.9546,4,casa-blanca
+PE,Peru,Perú,14000,Muyfinca Punto Nueve Rama (El Adobe),Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6387,-79.9142,3,muyfinca-punto-nueve-rama-el-adobe
+PE,Peru,Perú,14000,Paredones,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6311,-79.9504,4,paredones
+PE,Peru,Perú,14000,La Pradera,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7712,-79.9436,3,la-pradera
+PE,Peru,Perú,14000,Bodegones,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7094,-79.9466,4,bodegones
+PE,Peru,Perú,14000,Lambayeque,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7011,-79.9061,4,lambayeque
+PE,Peru,Perú,14000,El Papayo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6076,-79.8804,4,el-papayo
+PE,Peru,Perú,14000,Caldereta,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7168,-79.9898,4,caldereta
+PE,Peru,Perú,14000,Ciudad de Dios,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7696,-79.9188,4,ciudad-de-dios
+PE,Peru,Perú,14000,Mariategui,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7102,-79.8606,4,mariategui
+PE,Peru,Perú,14000,Carrizo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7404,-79.9715,4,carrizo
+PE,Peru,Perú,14013,Mocce Antiguo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6845,-79.9054,3,mocce-antiguo
+PE,Peru,Perú,14013,Sausal Rural,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6931,-79.9153,3,sausal-rural
+PE,Peru,Perú,14013,San Romualdo,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.6978,-79.922,3,san-romualdo
+PE,Peru,Perú,14013,Lambayeque,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7011,-79.9061,4,lambayeque
+PE,Peru,Perú,14013,Fundo la Virgen,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7115,-79.9061,3,fundo-la-virgen
+PE,Peru,Perú,14013,Santo Tomas,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7228,-79.8989,4,santo-tomas
+PE,Peru,Perú,14013,Maria Cruz,Lambayeque,14,Lambayeque,1403,Lambayeque,140301,-6.7153,-79.92,4,maria-cruz
+PE,Peru,Perú,14051,San Jose,Lambayeque,14,Lambayeque,1403,San José,140311,-6.7703,-79.9689,4,san-jose
+PE,Peru,Perú,14110,Tepo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5318,-79.8725,3,tepo
+PE,Peru,Perú,14110,Huaca Quemada,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5362,-79.8813,4,huaca-quemada
+PE,Peru,Perú,14110,San Carlos,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5333,-79.9173,4,san-carlos
+PE,Peru,Perú,14110,San Sebastian,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5416,-79.8559,4,san-sebastian
+PE,Peru,Perú,14110,Paredones,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5711,-79.9427,4,paredones
+PE,Peru,Perú,14110,Pueblo Nuevo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5602,-79.8916,4,pueblo-nuevo
+PE,Peru,Perú,14110,Salitral,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5636,-79.8356,4,salitral
+PE,Peru,Perú,14110,Maravillas,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5278,-79.8874,4,maravillas
+PE,Peru,Perú,14110,La Capilla,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5789,-79.8628,4,la-capilla
+PE,Peru,Perú,14110,San Antonio,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5283,-79.8267,4,san-antonio
+PE,Peru,Perú,14110,Sialupe Baca,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5803,-79.8869,3,sialupe-baca
+PE,Peru,Perú,14110,Muy Finca Sector Casinelli,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5658,-79.9211,3,muy-finca-sector-casinelli
+PE,Peru,Perú,14110,Muy Finca Rama Carrizo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5566,-79.9116,3,muy-finca-rama-carrizo
+PE,Peru,Perú,14110,Muy Finca Rama Diaz,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5789,-79.8975,3,muy-finca-rama-diaz
+PE,Peru,Perú,14110,Nuevo San Isidro,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5392,-79.9245,3,nuevo-san-isidro
+PE,Peru,Perú,14110,Los Peches,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5499,-79.8984,3,los-peches
+PE,Peru,Perú,14110,Huaca Baldera,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5616,-79.8759,3,huaca-baldera
+PE,Peru,Perú,14110,Collique,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5512,-79.8606,3,collique
+PE,Peru,Perú,14110,El Palmo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5415,-79.8808,4,el-palmo
+PE,Peru,Perú,14110,Huaca de Toro,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5799,-79.9288,4,huaca-de-toro
+PE,Peru,Perú,14110,Huaca de Toro Mariposo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5694,-79.9096,3,huaca-de-toro-mariposo
+PE,Peru,Perú,14110,Choloque,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5431,-79.8546,4,choloque
+PE,Peru,Perú,14110,Fundo Burga,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5273,-79.8298,3,fundo-burga
+PE,Peru,Perú,14110,San Roque,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5547,-79.8481,4,san-roque
+PE,Peru,Perú,14110,Cruce Sandoval,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5388,-79.8675,3,cruce-sandoval
+PE,Peru,Perú,14110,Punto Uno,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5667,-79.8693,4,punto-uno
+PE,Peru,Perú,14110,La Calzada,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5756,-79.8734,4,la-calzada
+PE,Peru,Perú,14110,Muy Finca Rama Diaz Brazo A,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5768,-79.8855,3,muy-finca-rama-diaz-brazo-a
+PE,Peru,Perú,14110,Muy Finca Rama Limon,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5603,-79.9052,3,muy-finca-rama-limon
+PE,Peru,Perú,14110,Los Coronados,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5821,-79.8641,4,los-coronados
+PE,Peru,Perú,14110,Solecape,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.6026,-79.9372,4,solecape
+PE,Peru,Perú,14110,Valle Nuevo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5827,-79.9241,4,valle-nuevo
+PE,Peru,Perú,14110,El Carrizo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5508,-79.9157,4,el-carrizo
+PE,Peru,Perú,14110,El Cerezo,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5537,-79.8339,4,el-cerezo
+PE,Peru,Perú,14110,La Piedra,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5667,-79.8833,4,la-piedra
+PE,Peru,Perú,14110,Palo Parado,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5973,-79.8545,4,palo-parado
+PE,Peru,Perú,14110,Punto Cuatro,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.592,-79.8736,4,punto-cuatro
+PE,Peru,Perú,14111,Mochumi,Lambayeque,14,Lambayeque,1403,Mochumi,140305,-6.5436,-79.8622,4,mochumi
+PE,Peru,Perú,14120,Tabacal,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4902,-79.8828,4,tabacal
+PE,Peru,Perú,14120,Cruz Blanca,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4917,-79.8597,4,cruz-blanca
+PE,Peru,Perú,14120,Puente Tabla,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4983,-79.8748,4,puente-tabla
+PE,Peru,Perú,14120,La Pintada,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4988,-79.8521,4,la-pintada
+PE,Peru,Perú,14120,Trapiche,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4735,-79.8947,4,trapiche
+PE,Peru,Perú,14120,San Antonio,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5119,-79.8506,4,san-antonio
+PE,Peru,Perú,14120,La Raya,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5143,-79.8331,4,la-raya
+PE,Peru,Perú,14120,Los Mimbela,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4872,-79.9154,3,los-mimbela
+PE,Peru,Perú,14120,La Arena,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.484,-79.9052,4,la-arena
+PE,Peru,Perú,14120,Zapotal,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4927,-79.871,4,zapotal
+PE,Peru,Perú,14120,Fundo Aguinaga,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4898,-79.9027,3,fundo-aguinaga
+PE,Peru,Perú,14120,Compuerta Marcelo,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4757,-79.8808,4,compuerta-marcelo
+PE,Peru,Perú,14120,Los Bances,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4802,-79.8981,3,los-bances
+PE,Peru,Perú,14120,Tucume Viejo,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5044,-79.8316,4,tucume-viejo
+PE,Peru,Perú,14120,La Payesa,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4996,-79.8315,3,la-payesa
+PE,Peru,Perú,14120,El Carmen,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4863,-79.8359,4,el-carmen
+PE,Peru,Perú,14120,Puplan,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4766,-79.9033,4,puplan
+PE,Peru,Perú,14120,El Arenal,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4982,-79.8359,3,el-arenal
+PE,Peru,Perú,14120,El Pavo,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4986,-79.8589,4,el-pavo
+PE,Peru,Perú,14120,Sapame,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4886,-79.8272,4,sapame
+PE,Peru,Perú,14120,Sasape Viejo (Hacienda Vieja),Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5096,-79.9048,3,sasape-viejo-hacienda-vieja
+PE,Peru,Perú,14120,Fundo Lopez,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5134,-79.8288,3,fundo-lopez
+PE,Peru,Perú,14120,Fundo Vera (Santos Vera),Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5038,-79.8354,3,fundo-vera-santos-vera
+PE,Peru,Perú,14120,El Sifon,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5195,-79.8293,3,el-sifon
+PE,Peru,Perú,14120,Taymi,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.486,-79.8818,3,taymi
+PE,Peru,Perú,14120,El Horcon,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4983,-79.8747,3,el-horcon
+PE,Peru,Perú,14120,Damianes,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4756,-79.8997,3,damianes
+PE,Peru,Perú,14120,Bella Lidia,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4898,-79.9092,3,bella-lidia
+PE,Peru,Perú,14120,Baca,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4776,-79.8976,3,baca
+PE,Peru,Perú,14120,San Bernardino,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4876,-79.8627,3,san-bernardino
+PE,Peru,Perú,14120,Alto Peru,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4778,-79.8933,3,alto-peru
+PE,Peru,Perú,14120,Los Sanchez,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4967,-79.8305,4,los-sanchez
+PE,Peru,Perú,14120,El Milagro,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4791,-79.8996,4,el-milagro
+PE,Peru,Perú,14120,Salinas Norte,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4947,-79.8232,3,salinas-norte
+PE,Peru,Perú,14120,Fundo San Luis,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5076,-79.8328,3,fundo-san-luis
+PE,Peru,Perú,14120,Granja Sasape,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4859,-79.903,3,granja-sasape
+PE,Peru,Perú,14120,Los Reynozas,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4841,-79.9134,3,los-reynozas
+PE,Peru,Perú,14120,Sequiones,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4742,-79.8952,4,sequiones
+PE,Peru,Perú,14120,Moyocupe,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4817,-79.8154,3,moyocupe
+PE,Peru,Perú,14120,Nancolam,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5227,-79.8522,3,nancolam
+PE,Peru,Perú,14120,Salinas Chancay (Salinas Sur),Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5073,-79.8253,3,salinas-chancay-salinas-sur
+PE,Peru,Perú,14120,Los Riojas,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.4768,-79.8943,3,los-riojas
+PE,Peru,Perú,14120,Mendoza Campodonico,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5159,-79.9116,3,mendoza-campodonico
+PE,Peru,Perú,14121,Tucume,Lambayeque,14,Lambayeque,1403,Tucumé,140312,-6.5064,-79.8573,4,tucume
+PE,Peru,Perú,14130,Sapame,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4736,-79.8239,4,sapame
+PE,Peru,Perú,14130,Sequion Alto,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4592,-79.8857,3,sequion-alto
+PE,Peru,Perú,14130,Torromotal,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4758,-79.835,3,torromotal
+PE,Peru,Perú,14130,San Pedro de Sasape,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4597,-79.8815,3,san-pedro-de-sasape
+PE,Peru,Perú,14130,La Iglesia,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4818,-79.8477,3,la-iglesia
+PE,Peru,Perú,14130,Culpon Bajo,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4664,-79.8498,4,culpon-bajo
+PE,Peru,Perú,14130,Chirimoyo Alto,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4673,-79.8713,3,chirimoyo-alto
+PE,Peru,Perú,14130,Huaca el Muerto,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4551,-79.871,3,huaca-el-muerto
+PE,Peru,Perú,14130,Chirimoyo Bajo,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4684,-79.8712,3,chirimoyo-bajo
+PE,Peru,Perú,14130,Coloche,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4518,-79.8627,4,coloche
+PE,Peru,Perú,14130,Las Juntas,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4504,-79.8684,4,las-juntas
+PE,Peru,Perú,14130,Cruz Verde,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4737,-79.8441,4,cruz-verde
+PE,Peru,Perú,14130,San Isidro,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4537,-79.8782,4,san-isidro
+PE,Peru,Perú,14130,Culpon Alto,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4659,-79.8358,4,culpon-alto
+PE,Peru,Perú,14130,San Juan,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4617,-79.8676,4,san-juan
+PE,Peru,Perú,14130,San Jorge,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4694,-79.8428,4,san-jorge
+PE,Peru,Perú,14130,Latina,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4808,-79.8551,3,latina
+PE,Peru,Perú,14130,Huaca de Piedra,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4634,-79.8459,3,huaca-de-piedra
+PE,Peru,Perú,14130,Sajinero,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4715,-79.859,3,sajinero
+PE,Peru,Perú,14130,Huaca de Rico,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.469,-79.8603,3,huaca-de-rico
+PE,Peru,Perú,14131,Illimo,Lambayeque,14,Lambayeque,1403,Illimo,140303,-6.4748,-79.8551,4,illimo
+PE,Peru,Perú,14140,Las Juntas Baja,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4492,-79.8735,3,las-juntas-baja
+PE,Peru,Perú,14140,Casa Embarrada,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4086,-79.8685,4,casa-embarrada
+PE,Peru,Perú,14140,Cerro Escute (Escute),Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4469,-79.8419,3,cerro-escute-escute
+PE,Peru,Perú,14140,Huaca Rivera,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.45,-79.8333,4,huaca-rivera
+PE,Peru,Perú,14140,San Luis,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4213,-79.8702,4,san-luis
+PE,Peru,Perú,14140,Santa Isabel,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4386,-79.8852,4,santa-isabel
+PE,Peru,Perú,14140,San Pablo,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4054,-79.8808,4,san-pablo
+PE,Peru,Perú,14140,La Victoria,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4083,-79.8489,4,la-victoria
+PE,Peru,Perú,14140,Los Bances,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4382,-79.8623,3,los-bances
+PE,Peru,Perú,14140,Huaca Bandera,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4289,-79.8836,3,huaca-bandera
+PE,Peru,Perú,14140,San Isidro (Huaca Trapiche),Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4591,-79.9062,3,san-isidro-huaca-trapiche
+PE,Peru,Perú,14140,La Cirila,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4564,-79.837,3,la-cirila
+PE,Peru,Perú,14140,Puente Machuca,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4432,-79.8499,3,puente-machuca
+PE,Peru,Perú,14140,Pueblo Viejo,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4239,-79.8508,3,pueblo-viejo
+PE,Peru,Perú,14140,Matriz Comunidad Norte,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4307,-79.8128,3,matriz-comunidad-norte
+PE,Peru,Perú,14140,Matriz Comunidad,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4331,-79.8153,3,matriz-comunidad
+PE,Peru,Perú,14140,Las Juntas Alta,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.449,-79.8596,3,las-juntas-alta
+PE,Peru,Perú,14140,Señor de Luren,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4505,-79.8816,3,senor-de-luren
+PE,Peru,Perú,14141,Pacora,Lambayeque,14,Lambayeque,1403,Pacora,140309,-6.4289,-79.8389,4,pacora
+PE,Peru,Perú,14150,El Verde,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.438,-79.7349,4,el-verde
+PE,Peru,Perú,14150,El Marco,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4032,-79.7479,4,el-marco
+PE,Peru,Perú,14150,Los Naranjos,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.44,-79.702,3,los-naranjos
+PE,Peru,Perú,14150,Villa San Juan,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3753,-79.8,4,villa-san-juan
+PE,Peru,Perú,14150,La Tranca,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4275,-79.7271,4,la-tranca
+PE,Peru,Perú,14150,Santa Matilde,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4147,-79.8025,4,santa-matilde
+PE,Peru,Perú,14150,Cahuide,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3718,-79.7982,4,cahuide
+PE,Peru,Perú,14150,Cautivo,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4069,-79.8287,4,cautivo
+PE,Peru,Perú,14150,Ladrillera el Mango,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3419,-79.7728,3,ladrillera-el-mango
+PE,Peru,Perú,14150,Pampa de Lino,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3708,-79.8309,4,pampa-de-lino
+PE,Peru,Perú,14150,El Progreso (Ojo de Toro),Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4253,-79.7868,3,el-progreso-ojo-de-toro
+PE,Peru,Perú,14150,Yurimaguas,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.2148,-79.92,3,yurimaguas
+PE,Peru,Perú,14150,Virgen de los Dolores,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.249,-79.8822,3,virgen-de-los-dolores
+PE,Peru,Perú,14150,Veloz,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4014,-79.809,3,veloz
+PE,Peru,Perú,14150,El Limonar,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.2437,-79.8971,3,el-limonar
+PE,Peru,Perú,14150,El Guanabano,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4172,-79.8104,3,el-guanabano
+PE,Peru,Perú,14150,Soledad la Victoria,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.403,-79.8477,3,soledad-la-victoria
+PE,Peru,Perú,14150,San Carranco II,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.2937,-79.8097,3,san-carranco-ii
+PE,Peru,Perú,14150,Punto Diamante,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3759,-79.8512,3,punto-diamante
+PE,Peru,Perú,14150,Primavera,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4146,-79.8029,4,primavera
+PE,Peru,Perú,14150,La Represa - Laurel,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3875,-79.7486,3,la-represa-laurel
+PE,Peru,Perú,14150,La Coraliza,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3846,-79.8403,3,la-coraliza
+PE,Peru,Perú,14150,El Pintor,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3809,-79.8286,3,el-pintor
+PE,Peru,Perú,14150,El Mirador,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3648,-79.7913,3,el-mirador
+PE,Peru,Perú,14150,San Carranco,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.329,-79.7649,3,san-carranco
+PE,Peru,Perú,14150,Purisima Concepcion Sector C,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3282,-79.7584,3,purisima-concepcion-sector-c
+PE,Peru,Perú,14150,Fundo las Mercedes,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3932,-79.8224,3,fundo-las-mercedes
+PE,Peru,Perú,14150,La Canela,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4095,-79.8082,3,la-canela
+PE,Peru,Perú,14150,Purisima Concepcion Sector A,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.2552,-79.897,3,purisima-concepcion-sector-a
+PE,Peru,Perú,14150,El Marquez,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3532,-79.7568,3,el-marquez
+PE,Peru,Perú,14150,La Tomasita,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3875,-79.8509,3,la-tomasita
+PE,Peru,Perú,14150,Los Huertos,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3904,-79.7983,3,los-huertos
+PE,Peru,Perú,14150,Achotal,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3914,-79.7988,4,achotal
+PE,Peru,Perú,14150,Los Angeles,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3337,-79.8008,4,los-angeles
+PE,Peru,Perú,14150,Pan de Azucar,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4275,-79.7272,4,pan-de-azucar
+PE,Peru,Perú,14150,Noria Nueva,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3125,-79.7189,4,noria-nueva
+PE,Peru,Perú,14150,Ojo de Toro Parte Alta,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4152,-79.7603,3,ojo-de-toro-parte-alta
+PE,Peru,Perú,14150,El Arenal,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3896,-79.8317,3,el-arenal
+PE,Peru,Perú,14150,Puerto Rico,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.316,-79.8029,3,puerto-rico
+PE,Peru,Perú,14150,Purisima Concepcion Sector B,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.2336,-79.899,3,purisima-concepcion-sector-b
+PE,Peru,Perú,14150,San Luis,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.2485,-79.9279,4,san-luis
+PE,Peru,Perú,14150,San Pablo,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3961,-79.8358,4,san-pablo
+PE,Peru,Perú,14150,Manchuria (Magdalena Paypallal),Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4368,-79.6286,3,manchuria-magdalena-paypallal
+PE,Peru,Perú,14150,La Viña,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3734,-79.7673,4,la-vina
+PE,Peru,Perú,14150,Ojo de Toro Parte Baja,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.4249,-79.8114,3,ojo-de-toro-parte-baja
+PE,Peru,Perú,14151,Jayanca,Lambayeque,14,Lambayeque,1403,Jayanca,140304,-6.3908,-79.8219,4,jayanca
+PE,Peru,Perú,14160,Morales,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4774,-79.9351,4,morales
+PE,Peru,Perú,14160,Cruce Morales,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4774,-79.9351,4,cruce-morales
+PE,Peru,Perú,14160,Olleria,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4981,-79.9967,4,olleria
+PE,Peru,Perú,14160,Carrizal,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4976,-79.9856,4,carrizal
+PE,Peru,Perú,14160,Dos Palos,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5749,-80.0281,4,dos-palos
+PE,Peru,Perú,14160,Cruz de Mediania,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.6143,-79.9653,4,cruz-de-mediania
+PE,Peru,Perú,14160,Chapoñan,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.504,-79.927,3,chaponan
+PE,Peru,Perú,14160,Pañala,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4676,-80.006,4,panala
+PE,Peru,Perú,14160,El Hornito,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4969,-79.9871,3,el-hornito
+PE,Peru,Perú,14160,El Laurel,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4964,-79.942,3,el-laurel
+PE,Peru,Perú,14160,Fanupe Barrio Nuevo,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4972,-79.9706,3,fanupe-barrio-nuevo
+PE,Peru,Perú,14160,Fanupe (Casa Blanca),Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4976,-79.9538,3,fanupe-casa-blanca
+PE,Peru,Perú,14160,Huayaquil,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5016,-79.9506,3,huayaquil
+PE,Peru,Perú,14160,Paredones Alto,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5916,-79.9779,3,paredones-alto
+PE,Peru,Perú,14160,Mediania 25 de Febrero,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5767,-79.9869,3,mediania-25-de-febrero
+PE,Peru,Perú,14160,Los Reyes,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5017,-79.9576,3,los-reyes
+PE,Peru,Perú,14160,La Zorra,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.56,-79.9857,3,la-zorra
+PE,Peru,Perú,14160,Las Pampas 2,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5217,-79.9901,3,las-pampas-2
+PE,Peru,Perú,14160,Kilometro 848,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5253,-80.0679,3,kilometro-848
+PE,Peru,Perú,14160,Inoñan,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5023,-79.9263,3,inonan
+PE,Peru,Perú,14160,Inneche,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5184,-80.028,3,inneche
+PE,Peru,Perú,14160,Chochor,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5348,-80.0457,3,chochor
+PE,Peru,Perú,14160,Chepito Alto,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.516,-79.9391,3,chepito-alto
+PE,Peru,Perú,14160,Casa Grande,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5414,-80.0479,3,casa-grande
+PE,Peru,Perú,14160,Barrio San Antonio,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5278,-80.0141,3,barrio-san-antonio
+PE,Peru,Perú,14160,Barrio Muro,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4956,-79.9327,3,barrio-muro
+PE,Peru,Perú,14160,Angolo 2,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5332,-80.0343,3,angolo-2
+PE,Peru,Perú,14160,Angolo 1,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.529,-80.0322,3,angolo-1
+PE,Peru,Perú,14160,Anexo Santa Rosa,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5212,-79.946,3,anexo-santa-rosa
+PE,Peru,Perú,14160,Los Pinos,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5016,-79.9647,3,los-pinos
+PE,Peru,Perú,14160,Los Sanchez,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5062,-80.179,4,los-sanchez
+PE,Peru,Perú,14160,Monte Hermoso,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4679,-79.9458,4,monte-hermoso
+PE,Peru,Perú,14160,Chepito Bajo,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5197,-79.9411,3,chepito-bajo
+PE,Peru,Perú,14160,Chepito Olivos,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.511,-79.9356,3,chepito-olivos
+PE,Peru,Perú,14160,Las Mercedes,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.1878,-79.9715,4,las-mercedes
+PE,Peru,Perú,14160,Tranca Sasape,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4935,-79.9304,4,tranca-sasape
+PE,Peru,Perú,14160,Monte Grande,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5392,-80.0338,4,monte-grande
+PE,Peru,Perú,14160,Cochineros,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5255,-79.9896,4,cochineros
+PE,Peru,Perú,14160,Las Pampas,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5273,-79.992,4,las-pampas
+PE,Peru,Perú,14160,Puplan,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4752,-79.929,4,puplan
+PE,Peru,Perú,14160,La Colorada,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4917,-79.997,4,la-colorada
+PE,Peru,Perú,14160,Tinajones,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.565,-79.9419,4,tinajones
+PE,Peru,Perú,14160,Huaca de Barro,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5303,-79.9425,4,huaca-de-barro
+PE,Peru,Perú,14160,Caracucho,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4803,-79.9517,4,caracucho
+PE,Peru,Perú,14160,Cartagena,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5932,-80.0249,4,cartagena
+PE,Peru,Perú,14160,Trapiche,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.495,-79.9298,4,trapiche
+PE,Peru,Perú,14160,San Antonio,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5541,-79.9851,4,san-antonio
+PE,Peru,Perú,14160,Las Delicias,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5394,-79.9656,4,las-delicias
+PE,Peru,Perú,14160,Lagunas,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.523,-79.9458,4,lagunas
+PE,Peru,Perú,14160,San Miguel,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5115,-79.9521,4,san-miguel
+PE,Peru,Perú,14160,Trapiche de Bronce,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4636,-79.9405,4,trapiche-de-bronce
+PE,Peru,Perú,14160,San Manuel Peaje,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5357,-80.022,3,san-manuel-peaje
+PE,Peru,Perú,14160,San Carlos,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5266,-79.96,4,san-carlos
+PE,Peru,Perú,14160,Cruz de Paredones (Paredones Bajo),Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5885,-79.9832,3,cruz-de-paredones-paredones-bajo
+PE,Peru,Perú,14160,Cucufana,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5074,-80.0301,3,cucufana
+PE,Peru,Perú,14160,Sagrado Corazon de Jesus,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5067,-79.9272,3,sagrado-corazon-de-jesus
+PE,Peru,Perú,14160,Cruz del Medano,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5133,-79.9596,3,cruz-del-medano
+PE,Peru,Perú,14160,Santa Elena,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5232,-79.9546,4,santa-elena
+PE,Peru,Perú,14160,Lagartera,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4955,-79.9835,4,lagartera
+PE,Peru,Perú,14160,San Isidro,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5029,-79.9295,4,san-isidro
+PE,Peru,Perú,14160,San Jose,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4971,-79.9939,4,san-jose
+PE,Peru,Perú,14160,Santa Rosa,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5062,-80.179,4,santa-rosa
+PE,Peru,Perú,14160,La Florida,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4922,-79.9487,3,la-florida
+PE,Peru,Perú,14160,Cruce Caracucho,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4804,-79.9532,3,cruce-caracucho
+PE,Peru,Perú,14160,Portada de Belen,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5651,-79.9981,3,portada-de-belen
+PE,Peru,Perú,14160,San Pedro,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5026,-79.9669,3,san-pedro
+PE,Peru,Perú,14160,Las Palmeras,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5224,-79.9727,4,las-palmeras
+PE,Peru,Perú,14160,Yencala Leon 1,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.6217,-79.9982,3,yencala-leon-1
+PE,Peru,Perú,14160,El Romero,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5017,-80.0094,3,el-romero
+PE,Peru,Perú,14160,Monte Verde,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4771,-79.9676,4,monte-verde
+PE,Peru,Perú,14160,San Cristobal,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4977,-79.9243,4,san-cristobal
+PE,Peru,Perú,14160,Pedregal,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5428,-79.9898,4,pedregal
+PE,Peru,Perú,14160,Los Positos,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4988,-79.9264,4,los-positos
+PE,Peru,Perú,14160,Santa Isabel,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4828,-79.964,4,santa-isabel
+PE,Peru,Perú,14160,San Francisco,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5062,-80.179,4,san-francisco
+PE,Peru,Perú,14160,El Porvenir,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5062,-80.179,4,el-porvenir
+PE,Peru,Perú,14160,Quemazon,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.52,-79.9748,4,quemazon
+PE,Peru,Perú,14160,Arbolsol,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.541,-79.9606,4,arbolsol
+PE,Peru,Perú,14160,Annape,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5167,-80.004,4,annape
+PE,Peru,Perú,14160,San Sebastian,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5194,-80.0151,4,san-sebastian
+PE,Peru,Perú,14160,Sequiones,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4635,-79.9341,4,sequiones
+PE,Peru,Perú,14160,Tranca Fanupe,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.4971,-79.9526,4,tranca-fanupe
+PE,Peru,Perú,14161,Morrope,Lambayeque,14,Lambayeque,1403,Morrope,140306,-6.5354,-80.011,4,morrope
+PE,Peru,Perú,14200,Marripon,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0842,-79.6343,4,marripon
+PE,Peru,Perú,14200,Chanduvi,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0896,-79.6993,3,chanduvi
+PE,Peru,Perú,14200,San Jose,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1985,-79.7444,4,san-jose
+PE,Peru,Perú,14200,Cerco Quemado,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1989,-79.7159,3,cerco-quemado
+PE,Peru,Perú,14200,Cuadrado,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1809,-79.7129,4,cuadrado
+PE,Peru,Perú,14200,La Arena,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1059,-79.6519,4,la-arena
+PE,Peru,Perú,14200,Santa Rosa,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1003,-79.6865,4,santa-rosa
+PE,Peru,Perú,14200,Prada,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2021,-79.7218,4,prada
+PE,Peru,Perú,14200,Cerro la Vieja,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2081,-79.6957,4,cerro-la-vieja
+PE,Peru,Perú,14200,San Isidro,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2299,-79.7098,4,san-isidro
+PE,Peru,Perú,14200,Yocape,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0691,-79.6462,4,yocape
+PE,Peru,Perú,14200,Sonolipe,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1551,-79.6886,4,sonolipe
+PE,Peru,Perú,14200,Las Pampas,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0939,-79.6861,4,las-pampas
+PE,Peru,Perú,14200,Molino del Carmen,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1246,-79.677,4,molino-del-carmen
+PE,Peru,Perú,14200,Palacios,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1734,-79.7158,4,palacios
+PE,Peru,Perú,14200,Cholocal,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2231,-79.7246,4,cholocal
+PE,Peru,Perú,14200,Leticia,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1261,-79.7139,4,leticia
+PE,Peru,Perú,14200,El Papayo,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.18,-79.6923,4,el-papayo
+PE,Peru,Perú,14200,Apurlec,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2611,-79.7311,4,apurlec
+PE,Peru,Perú,14200,Anchovira,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2756,-79.7422,4,anchovira
+PE,Peru,Perú,14200,Chitarra,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1218,-79.6875,4,chitarra
+PE,Peru,Perú,14200,El Cardo,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0676,-79.6667,4,el-cardo
+PE,Peru,Perú,14200,El Arrozal,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1076,-79.6633,4,el-arrozal
+PE,Peru,Perú,14200,Quina Quina,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2075,-79.6684,3,quina-quina
+PE,Peru,Perú,14200,Escuza Baraja,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2215,-79.7499,3,escuza-baraja
+PE,Peru,Perú,14200,Cerro Reque Quina Quina,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2444,-79.7062,3,cerro-reque-quina-quina
+PE,Peru,Perú,14200,El Zarco,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1689,-79.7386,3,el-zarco
+PE,Peru,Perú,14200,Los Paredones,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0694,-79.6809,3,los-paredones
+PE,Peru,Perú,14200,Higueron,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1001,-79.6421,3,higueron
+PE,Peru,Perú,14200,Pueblo Nuevo Salitral,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1433,-79.7417,3,pueblo-nuevo-salitral
+PE,Peru,Perú,14200,Briceño,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.255,-79.7628,4,briceno
+PE,Peru,Perú,14200,Cruz de Valdera,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2064,-79.7389,3,cruz-de-valdera
+PE,Peru,Perú,14200,Alto Peru,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1041,-79.6594,3,alto-peru
+PE,Peru,Perú,14200,Salitral,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.133,-79.7226,4,salitral
+PE,Peru,Perú,14200,Cruce Salas,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.315,-79.7607,3,cruce-salas
+PE,Peru,Perú,14200,Desmotadora,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1619,-79.6974,3,desmotadora
+PE,Peru,Perú,14200,Pueblo Nuevo,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2836,-79.7035,4,pueblo-nuevo
+PE,Peru,Perú,14200,Palo Blanco,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1448,-79.6962,4,palo-blanco
+PE,Peru,Perú,14200,El Pato,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0728,-79.6532,3,el-pato
+PE,Peru,Perú,14200,El Zapote,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0934,-79.731,3,el-zapote
+PE,Peru,Perú,14200,El Aeropuerto,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0896,-79.7021,3,el-aeropuerto
+PE,Peru,Perú,14200,Tongorrape (La Capilla),Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0541,-79.6755,3,tongorrape-la-capilla
+PE,Peru,Perú,14200,Cruz Verde,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1152,-79.7122,4,cruz-verde
+PE,Peru,Perú,14200,Huamantanga,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1895,-79.731,4,huamantanga
+PE,Peru,Perú,14200,Choloque,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0725,-79.6441,4,choloque
+PE,Peru,Perú,14200,Sandoval,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0714,-79.6984,3,sandoval
+PE,Peru,Perú,14200,Santa Elvira,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.0835,-79.6988,3,santa-elvira
+PE,Peru,Perú,14200,Humedades,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.2103,-79.7716,4,humedades
+PE,Peru,Perú,14200,Santa Julia,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1389,-79.7241,3,santa-julia
+PE,Peru,Perú,14201,Motupe,Lambayeque,14,Lambayeque,1403,Motupe,140307,-6.1519,-79.7142,4,motupe
+PE,Peru,Perú,14210,Pasabar Oleoducto,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8536,-79.8062,3,pasabar-oleoducto
+PE,Peru,Perú,14210,Garbanzal,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.925,-79.7434,4,garbanzal
+PE,Peru,Perú,14210,Filoque Grande,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9398,-79.7588,4,filoque-grande
+PE,Peru,Perú,14210,Las Animas,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.5827,-79.9685,4,las-animas
+PE,Peru,Perú,14210,Ficuar,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9216,-80.0962,4,ficuar
+PE,Peru,Perú,14210,Mano de Leon,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8668,-79.7168,4,mano-de-leon
+PE,Peru,Perú,14210,Cruz Blanca,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9195,-79.8007,4,cruz-blanca
+PE,Peru,Perú,14210,Corral de Piedra,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.871,-80.0314,4,corral-de-piedra
+PE,Peru,Perú,14210,El Puente,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.886,-79.8846,4,el-puente
+PE,Peru,Perú,14210,Cholope,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.942,-79.9601,3,cholope
+PE,Peru,Perú,14210,Cutirrape,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.1226,-79.871,4,cutirrape
+PE,Peru,Perú,14210,Nitape,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.0143,-79.781,4,nitape
+PE,Peru,Perú,14210,Oberasal,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8767,-79.9172,4,oberasal
+PE,Peru,Perú,14210,Querpon,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6974,-79.8804,4,querpon
+PE,Peru,Perú,14210,Hualtacal Corazon de Jesus,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8212,-79.8797,3,hualtacal-corazon-de-jesus
+PE,Peru,Perú,14210,Mocape,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8005,-79.836,4,mocape
+PE,Peru,Perú,14210,Cerro de Cascajal,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9326,-79.7802,3,cerro-de-cascajal
+PE,Peru,Perú,14210,Ancol Chico,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9296,-80.0108,4,ancol-chico
+PE,Peru,Perú,14210,Pasabar la Granja,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.831,-79.8177,3,pasabar-la-granja
+PE,Peru,Perú,14210,Pasabar los Mayangas,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8449,-79.8276,3,pasabar-los-mayangas
+PE,Peru,Perú,14210,Pasaje Sur,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9173,-79.9649,3,pasaje-sur
+PE,Peru,Perú,14210,Chuncar,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9247,-80.138,4,chuncar
+PE,Peru,Perú,14210,Cerro de Falla,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7468,-79.8713,3,cerro-de-falla
+PE,Peru,Perú,14210,El Cardo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8568,-79.8838,4,el-cardo
+PE,Peru,Perú,14210,La Pilca,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9486,-79.6636,4,la-pilca
+PE,Peru,Perú,14210,Boca Chica,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7327,-79.845,4,boca-chica
+PE,Peru,Perú,14210,Mi Salvador,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9352,-80.1794,3,mi-salvador
+PE,Peru,Perú,14210,Senquelo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7528,-79.814,4,senquelo
+PE,Peru,Perú,14210,El Milagro,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9338,-80.1097,4,el-milagro
+PE,Peru,Perú,14210,Escurre (San Pablo Escurre),Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8467,-79.7818,3,escurre-san-pablo-escurre
+PE,Peru,Perú,14210,Las Pampas,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8864,-79.7841,4,las-pampas
+PE,Peru,Perú,14210,Pampa la Rosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6482,-79.8539,3,pampa-la-rosa
+PE,Peru,Perú,14210,Porvenir,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.731,-79.8858,4,porvenir
+PE,Peru,Perú,14210,Cerro Teodoro el Milagro,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7847,-79.7926,3,cerro-teodoro-el-milagro
+PE,Peru,Perú,14210,Pan de Azucar,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.0667,-79.95,4,pan-de-azucar
+PE,Peru,Perú,14210,Cerro Teodoro,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7838,-79.8179,3,cerro-teodoro
+PE,Peru,Perú,14210,Cerro Santa Rosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9242,-79.8203,3,cerro-santa-rosa
+PE,Peru,Perú,14210,Filoque Chico,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9439,-79.7597,4,filoque-chico
+PE,Peru,Perú,14210,Tierra Rajada Huacrupe,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7836,-79.9231,3,tierra-rajada-huacrupe
+PE,Peru,Perú,14210,Tierra Rajada 2,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.755,-79.9185,3,tierra-rajada-2
+PE,Peru,Perú,14210,Sincape,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8865,-79.7403,3,sincape
+PE,Peru,Perú,14210,Sequion,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8451,-79.8264,3,sequion
+PE,Peru,Perú,14210,Senquelo Cautivo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7695,-79.7862,3,senquelo-cautivo
+PE,Peru,Perú,14210,El Muerto,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.037,-79.8459,4,el-muerto
+PE,Peru,Perú,14210,La Estancia,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8904,-79.8057,4,la-estancia
+PE,Peru,Perú,14210,Nichipo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9311,-79.809,4,nichipo
+PE,Peru,Perú,14210,Cerro de Arena,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9262,-80.2054,4,cerro-de-arena
+PE,Peru,Perú,14210,El Pueblito,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8912,-79.7295,3,el-pueblito
+PE,Peru,Perú,14210,Ñaupe San Lorenzo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.593,-79.9105,3,naupe-san-lorenzo
+PE,Peru,Perú,14210,La Victoria,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7374,-79.91,4,la-victoria
+PE,Peru,Perú,14210,Valle Hermoso,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7779,-80.0085,4,valle-hermoso
+PE,Peru,Perú,14210,La Loma,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.951,-80.2383,4,la-loma
+PE,Peru,Perú,14210,San Isidro,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7735,-80.0059,4,san-isidro
+PE,Peru,Perú,14210,Tupac Amaru,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9383,-79.6082,4,tupac-amaru
+PE,Peru,Perú,14210,Las Mercedes,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7664,-79.8529,4,las-mercedes
+PE,Peru,Perú,14210,Pañala,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.1422,-79.9146,4,panala
+PE,Peru,Perú,14210,Guayaquil,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6159,-79.9363,4,guayaquil
+PE,Peru,Perú,14210,Cruz del Puente,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9039,-79.8939,4,cruz-del-puente
+PE,Peru,Perú,14210,Ñaupe,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6,-79.9,4,naupe
+PE,Peru,Perú,14210,Tunape,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.0167,-79.8,4,tunape
+PE,Peru,Perú,14210,Racali,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8585,-79.687,4,racali
+PE,Peru,Perú,14210,Escute,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7829,-79.8946,4,escute
+PE,Peru,Perú,14210,Vinguar Chico,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.932,-79.9603,4,vinguar-chico
+PE,Peru,Perú,14210,Agua Santa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9387,-79.7987,4,agua-santa
+PE,Peru,Perú,14210,Capilla Central,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.63,-79.8821,4,capilla-central
+PE,Peru,Perú,14210,Piñabar,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.1374,-79.8826,4,pinabar
+PE,Peru,Perú,14210,Trapiche,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.911,-79.7344,4,trapiche
+PE,Peru,Perú,14210,Laguna Larga,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.86,-79.86,4,laguna-larga
+PE,Peru,Perú,14210,La Juliana,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9751,-79.7058,4,la-juliana
+PE,Peru,Perú,14210,La Misteriosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6,-80.0667,4,la-misteriosa
+PE,Peru,Perú,14210,Ancol Grande,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9066,-80.0657,4,ancol-grande
+PE,Peru,Perú,14210,Senquelito,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7593,-79.7828,4,senquelito
+PE,Peru,Perú,14210,Vega del Padre,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8149,-80.0586,4,vega-del-padre
+PE,Peru,Perú,14210,El Medano,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.0386,-79.792,4,el-medano
+PE,Peru,Perú,14210,Tierra Rajada,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7746,-79.9457,4,tierra-rajada
+PE,Peru,Perú,14210,San Cristobal,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8939,-79.9273,4,san-cristobal
+PE,Peru,Perú,14210,Insculas,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7565,-79.8582,4,insculas
+PE,Peru,Perú,14210,La Virgen,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7193,-79.8125,4,la-virgen
+PE,Peru,Perú,14210,Las Pozas,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9516,-80.2985,4,las-pozas
+PE,Peru,Perú,14210,Grama Dulce,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6451,-79.952,3,grama-dulce
+PE,Peru,Perú,14210,Chapala,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8468,-79.7143,3,chapala
+PE,Peru,Perú,14210,El Paraiso,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6571,-79.8667,4,el-paraiso
+PE,Peru,Perú,14210,Rinconada,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9652,-79.731,4,rinconada
+PE,Peru,Perú,14210,El Colorado,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9439,-80.2272,3,el-colorado
+PE,Peru,Perú,14210,Corazon de Jesus,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9297,-80.2049,3,corazon-de-jesus
+PE,Peru,Perú,14210,Calera Señor de los Milagros,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8492,-79.9135,3,calera-senor-de-los-milagros
+PE,Peru,Perú,14210,El Mango,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7306,-79.9199,4,el-mango
+PE,Peru,Perú,14210,Cooperativa San Francisco de Asis,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.763,-79.8336,3,cooperativa-san-francisco-de-asis
+PE,Peru,Perú,14210,Estancia Chica,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8877,-79.8101,3,estancia-chica
+PE,Peru,Perú,14210,Alto de Roque,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9471,-80.2319,4,alto-de-roque
+PE,Peru,Perú,14210,Gigante,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6082,-79.9374,3,gigante
+PE,Peru,Perú,14210,La Colorada,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9037,-80.1981,4,la-colorada
+PE,Peru,Perú,14210,La Maravilla,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.1523,-79.8963,4,la-maravilla
+PE,Peru,Perú,14210,Miraflores,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9894,-79.7349,4,miraflores
+PE,Peru,Perú,14210,Tres Batanes,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8779,-79.713,3,tres-batanes
+PE,Peru,Perú,14210,Nueva Esperanza,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.0632,-79.8496,3,nueva-esperanza
+PE,Peru,Perú,14210,Nuevo San Jose,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7672,-79.9715,3,nuevo-san-jose
+PE,Peru,Perú,14210,Ñaupe San Francisco,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.5903,-79.9196,3,naupe-san-francisco
+PE,Peru,Perú,14210,Vega del Padre los Odar,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7986,-79.9619,3,vega-del-padre-los-odar
+PE,Peru,Perú,14210,Abra Huacrupe,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8104,-79.9488,3,abra-huacrupe
+PE,Peru,Perú,14210,La Esperanza,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8053,-80.002,4,la-esperanza
+PE,Peru,Perú,14210,Señor de los Milagros,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7554,-79.8394,3,senor-de-los-milagros
+PE,Peru,Perú,14210,Señor Cautivo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.5987,-79.9112,3,senor-cautivo
+PE,Peru,Perú,14210,San Juan de Mocape,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7832,-79.8178,3,san-juan-de-mocape
+PE,Peru,Perú,14210,Ancol Cautivo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9331,-79.9945,3,ancol-cautivo
+PE,Peru,Perú,14210,San Pablo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.0642,-80.0734,4,san-pablo
+PE,Peru,Perú,14210,Santa Rosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.908,-79.8289,4,santa-rosa
+PE,Peru,Perú,14210,San Jose,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7734,-79.9738,4,san-jose
+PE,Peru,Perú,14210,Redondo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7645,-80.0001,3,redondo
+PE,Peru,Perú,14210,Querpon la Raza,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7035,-79.8792,3,querpon-la-raza
+PE,Peru,Perú,14210,San Martin,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7405,-79.8984,4,san-martin
+PE,Peru,Perú,14210,El Retiro,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8945,-79.8638,4,el-retiro
+PE,Peru,Perú,14210,El Progreso,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.762,-79.9151,4,el-progreso
+PE,Peru,Perú,14210,Corral de Arena la Espera,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.908,-79.8159,3,corral-de-arena-la-espera
+PE,Peru,Perú,14210,Vega de Monteverde,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7535,-79.9923,3,vega-de-monteverde
+PE,Peru,Perú,14210,Viluña,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8796,-79.8323,3,viluna
+PE,Peru,Perú,14210,Vinguar Grande,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9832,-79.9662,3,vinguar-grande
+PE,Peru,Perú,14210,Virgen del Carmen,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7765,-79.8558,3,virgen-del-carmen
+PE,Peru,Perú,14210,Virgen de Paita,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8284,-79.9158,3,virgen-de-paita
+PE,Peru,Perú,14210,Yausaque,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9146,-79.8213,3,yausaque
+PE,Peru,Perú,14210,Imperial,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9689,-79.7424,3,imperial
+PE,Peru,Perú,14210,Cruz del Perdon,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8914,-79.9595,3,cruz-del-perdon
+PE,Peru,Perú,14210,La Florida,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7544,-79.9601,3,la-florida
+PE,Peru,Perú,14210,Piedras Negras,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8684,-79.6841,3,piedras-negras
+PE,Peru,Perú,14210,Rinconada San Isidro,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.632,-79.8552,3,rinconada-san-isidro
+PE,Peru,Perú,14210,Playa de Cascajal,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9298,-79.7812,3,playa-de-cascajal
+PE,Peru,Perú,14210,Capilla de Ñaupe,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6254,-79.8861,3,capilla-de-naupe
+PE,Peru,Perú,14210,Callejon de Cascajal,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9215,-79.7867,3,callejon-de-cascajal
+PE,Peru,Perú,14210,Querpon el Carmen,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6893,-79.8996,3,querpon-el-carmen
+PE,Peru,Perú,14210,Calera Santa Rosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8342,-79.8925,3,calera-santa-rosa
+PE,Peru,Perú,14210,Calera Santa Isabel,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8259,-79.9009,3,calera-santa-isabel
+PE,Peru,Perú,14210,Pupurre Sagrado Corazon,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9642,-79.8401,3,pupurre-sagrado-corazon
+PE,Peru,Perú,14210,San Cristobal Chico,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8735,-79.9292,3,san-cristobal-chico
+PE,Peru,Perú,14210,Calabazo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6985,-79.9775,3,calabazo
+PE,Peru,Perú,14210,Barrio Nuevo las Mercedes,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7941,-79.9811,3,barrio-nuevo-las-mercedes
+PE,Peru,Perú,14210,Angurucal,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.858,-79.72,3,angurucal
+PE,Peru,Perú,14210,Ancol Buenos Aires,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9337,-80.0248,3,ancol-buenos-aires
+PE,Peru,Perú,14210,Alicla,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8133,-79.8005,3,alicla
+PE,Peru,Perú,14210,Puente Amarillo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9237,-79.764,3,puente-amarillo
+PE,Peru,Perú,14210,Alan Garcia,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9918,-79.7293,3,alan-garcia
+PE,Peru,Perú,14210,Punta del Cerro,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9623,-79.7452,3,punta-del-cerro
+PE,Peru,Perú,14210,Pasabar Aserradero,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8381,-79.8125,3,pasabar-aserradero
+PE,Peru,Perú,14210,Maria de la Esperanza,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8123,-79.9961,3,maria-de-la-esperanza
+PE,Peru,Perú,14210,Los Panales,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9546,-79.7616,3,los-panales
+PE,Peru,Perú,14210,Los Laureles de Esperanza,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.819,-79.9931,3,los-laureles-de-esperanza
+PE,Peru,Perú,14210,Los Claveles,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7645,-79.9559,3,los-claveles
+PE,Peru,Perú,14210,Lincurnique,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9701,-79.9259,3,lincurnique
+PE,Peru,Perú,14210,Laucha Grande,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9529,-79.9373,3,laucha-grande
+PE,Peru,Perú,14210,Laucha Chica,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9181,-79.9214,3,laucha-chica
+PE,Peru,Perú,14210,La Toma del Rio,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9786,-79.706,3,la-toma-del-rio
+PE,Peru,Perú,14210,Las Pampas de Chicomas,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9109,-79.7731,3,las-pampas-de-chicomas
+PE,Peru,Perú,14210,La Ponderosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7561,-79.8471,3,la-ponderosa
+PE,Peru,Perú,14210,La Orchilla,Lambayeque,14,Lambayeque,1403,Olmos,140308,-6.0866,-79.8364,3,la-orchilla
+PE,Peru,Perú,14210,Laguna del Carmen,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.986,-79.7385,3,laguna-del-carmen
+PE,Peru,Perú,14210,Laguna Chica,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8665,-79.8605,3,laguna-chica
+PE,Peru,Perú,14210,Hualtacal Santa Rosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7871,-79.8673,3,hualtacal-santa-rosa
+PE,Peru,Perú,14210,Hualtacal Grande,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7973,-79.8619,3,hualtacal-grande
+PE,Peru,Perú,14210,Hualtacal Chico,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7972,-79.8699,3,hualtacal-chico
+PE,Peru,Perú,14210,Huacrupe,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7914,-79.9308,3,huacrupe
+PE,Peru,Perú,14210,El Virrey,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.5813,-79.9655,3,el-virrey
+PE,Peru,Perú,14210,El Tambor,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9654,-79.9563,3,el-tambor
+PE,Peru,Perú,14210,Cenizo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7336,-79.9903,3,cenizo
+PE,Peru,Perú,14210,Piedra Mora,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.889,-79.9751,3,piedra-mora
+PE,Peru,Perú,14210,Cruce Jaen Nuevo,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9907,-79.7018,3,cruce-jaen-nuevo
+PE,Peru,Perú,14210,Cruce Jaen Antiguo (El Desvio),Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.988,-79.7114,3,cruce-jaen-antiguo-el-desvio
+PE,Peru,Perú,14210,San Francisco de Escute,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.7712,-79.9025,3,san-francisco-de-escute
+PE,Peru,Perú,14210,Pasaje Norte,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.8972,-79.9611,3,pasaje-norte
+PE,Peru,Perú,14210,Vega del Padre Santa Rosa,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.778,-79.9862,3,vega-del-padre-santa-rosa
+PE,Peru,Perú,14210,El Progreso Baden,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6768,-79.8802,3,el-progreso-baden
+PE,Peru,Perú,14210,El Palmo los Boliches,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9707,-79.688,3,el-palmo-los-boliches
+PE,Peru,Perú,14210,El Morante,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.5838,-79.9662,3,el-morante
+PE,Peru,Perú,14210,El Kaite,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9439,-80.0068,3,el-kaite
+PE,Peru,Perú,14210,El Faique,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.683,-79.7705,3,el-faique
+PE,Peru,Perú,14210,Pumpurre Valle Hermoso,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9556,-79.844,3,pumpurre-valle-hermoso
+PE,Peru,Perú,14210,Puerta Querpon,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.6375,-79.8444,3,puerta-querpon
+PE,Peru,Perú,14211,Olmos,Lambayeque,14,Lambayeque,1403,Olmos,140308,-5.9847,-79.7453,4,olmos
+PE,Peru,Perú,14220,Chochope,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1579,-79.6482,4,chochope
+PE,Peru,Perú,14220,Parranal,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1507,-79.67,4,parranal
+PE,Peru,Perú,14220,Huaca Colorada,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1554,-79.6678,4,huaca-colorada
+PE,Peru,Perú,14220,Pampa de la Aviacion,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1388,-79.6562,3,pampa-de-la-aviacion
+PE,Peru,Perú,14220,Palala,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1555,-79.583,3,palala
+PE,Peru,Perú,14220,La 's' (Ciruelo),Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1552,-79.6183,3,la-s-ciruelo
+PE,Peru,Perú,14220,Chochope Viejo,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1513,-79.6458,3,chochope-viejo
+PE,Peru,Perú,14220,Huabal,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1473,-79.5754,4,huabal
+PE,Peru,Perú,14220,Botijia,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1604,-79.5943,3,botijia
+PE,Peru,Perú,14220,Caihua,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1443,-79.6705,3,caihua
+PE,Peru,Perú,14220,Chaupiaco,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1571,-79.5678,3,chaupiaco
+PE,Peru,Perú,14220,Chiclayito (Pumacirca),Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1519,-79.6431,3,chiclayito-pumacirca
+PE,Peru,Perú,14220,Espinal (Piedra de Campana),Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1619,-79.601,3,espinal-piedra-de-campana
+PE,Peru,Perú,14220,Fundo Gonzales,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.14,-79.6564,3,fundo-gonzales
+PE,Peru,Perú,14220,Laja Blanca,Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1423,-79.6388,3,laja-blanca
+PE,Peru,Perú,14220,La Rinconada (Lindero),Lambayeque,14,Lambayeque,1403,Chochope,140302,-6.1528,-79.6793,3,la-rinconada-lindero
+PE,Peru,Perú,14230,Murojaga,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1485,-79.5194,3,murojaga
+PE,Peru,Perú,14230,Yuntumpampa,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1951,-79.4636,3,yuntumpampa
+PE,Peru,Perú,14230,Lanchaco Alto,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2117,-79.4424,3,lanchaco-alto
+PE,Peru,Perú,14230,Suruchima,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1924,-79.5096,3,suruchima
+PE,Peru,Perú,14230,Succha Alta,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2281,-79.5066,3,succha-alta
+PE,Peru,Perú,14230,La Muchal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1808,-79.5256,3,la-muchal
+PE,Peru,Perú,14230,Suropampa,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9548,-79.4769,3,suropampa
+PE,Peru,Perú,14230,Laguna Huanama,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9853,-79.4679,3,laguna-huanama
+PE,Peru,Perú,14230,Yaque,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1751,-79.4885,3,yaque
+PE,Peru,Perú,14230,Yerba Santa,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.25,-79.4839,3,yerba-santa
+PE,Peru,Perú,14230,Marko,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2253,-79.4442,3,marko
+PE,Peru,Perú,14230,Los Sanchez,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0843,-79.5231,4,los-sanchez
+PE,Peru,Perú,14230,Succhapampa,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1927,-79.48,3,succhapampa
+PE,Peru,Perú,14230,Tempon Alto,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2731,-79.627,3,tempon-alto
+PE,Peru,Perú,14230,Tayal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0895,-79.4972,3,tayal
+PE,Peru,Perú,14230,Araumajada,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1303,-79.5375,4,araumajada
+PE,Peru,Perú,14230,La Ramada,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1689,-79.5375,4,la-ramada
+PE,Peru,Perú,14230,Barranco,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0977,-79.5042,4,barranco
+PE,Peru,Perú,14230,Shonto,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.3028,-79.6136,4,shonto
+PE,Peru,Perú,14230,Cruz de Mayo,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.099,-79.4455,4,cruz-de-mayo
+PE,Peru,Perú,14230,Faicalito,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1638,-79.5234,3,faicalito
+PE,Peru,Perú,14230,Papairca,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.087,-79.5169,4,papairca
+PE,Peru,Perú,14230,Polvadera,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2926,-79.6097,3,polvadera
+PE,Peru,Perú,14230,Colaya,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0846,-79.5075,4,colaya
+PE,Peru,Perú,14230,Algarrobo Grande,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2555,-79.5762,4,algarrobo-grande
+PE,Peru,Perú,14230,Jarchipe,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2718,-79.6463,4,jarchipe
+PE,Peru,Perú,14230,Piedra Loza,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2926,-79.5223,4,piedra-loza
+PE,Peru,Perú,14230,Shita Baja,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.225,-79.5131,4,shita-baja
+PE,Peru,Perú,14230,Pampa Rume,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2111,-79.5065,3,pampa-rume
+PE,Peru,Perú,14230,Nueva Jerusalen,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1543,-79.5415,3,nueva-jerusalen
+PE,Peru,Perú,14230,Caracha,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1275,-79.5193,4,caracha
+PE,Peru,Perú,14230,Humedades Bajo,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2984,-79.696,4,humedades-bajo
+PE,Peru,Perú,14230,Lanchaco Bajo,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2195,-79.447,3,lanchaco-bajo
+PE,Peru,Perú,14230,Pilasca,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2262,-79.5857,4,pilasca
+PE,Peru,Perú,14230,Cashirca,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0824,-79.5349,4,cashirca
+PE,Peru,Perú,14230,El Naranjo,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2524,-79.5008,4,el-naranjo
+PE,Peru,Perú,14230,Guabal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.134,-79.5432,3,guabal
+PE,Peru,Perú,14230,Limon,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0938,-79.5417,4,limon
+PE,Peru,Perú,14230,Andamarca,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2313,-79.4484,4,andamarca
+PE,Peru,Perú,14230,Naranjitos,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9818,-79.4592,3,naranjitos
+PE,Peru,Perú,14230,Santa Rosa,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9919,-79.4726,4,santa-rosa
+PE,Peru,Perú,14230,Huamachuco,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1723,-79.5356,3,huamachuco
+PE,Peru,Perú,14230,Huayros,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1032,-79.5476,4,huayros
+PE,Peru,Perú,14230,Corral de Piedra,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1044,-79.4725,4,corral-de-piedra
+PE,Peru,Perú,14230,Tallapampa,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1468,-79.5126,4,tallapampa
+PE,Peru,Perú,14230,Tempon Bajo,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.279,-79.6643,4,tempon-bajo
+PE,Peru,Perú,14230,Hualanga,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.18,-79.4906,4,hualanga
+PE,Peru,Perú,14230,Pedregal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1585,-79.5506,4,pedregal
+PE,Peru,Perú,14230,Piedra Blanca,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0754,-79.505,4,piedra-blanca
+PE,Peru,Perú,14230,Penachi,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.169,-79.4737,4,penachi
+PE,Peru,Perú,14230,Pampa Verde,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1338,-79.4883,4,pampa-verde
+PE,Peru,Perú,14230,Kerguer,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1845,-79.5103,4,kerguer
+PE,Peru,Perú,14230,Cruz Verde,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0833,-79.5333,4,cruz-verde
+PE,Peru,Perú,14230,Potrero Pampa,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1976,-79.4392,4,potrero-pampa
+PE,Peru,Perú,14230,Botijilla,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.161,-79.5638,4,botijilla
+PE,Peru,Perú,14230,Huaratara,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1234,-79.4943,4,huaratara
+PE,Peru,Perú,14230,La Tranca,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0281,-79.6363,4,la-tranca
+PE,Peru,Perú,14230,La Alita,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2953,-79.6372,4,la-alita
+PE,Peru,Perú,14230,El Sauce,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2488,-79.5375,4,el-sauce
+PE,Peru,Perú,14230,Pescadera,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.3016,-79.5368,4,pescadera
+PE,Peru,Perú,14230,Borras,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.066,-79.5102,3,borras
+PE,Peru,Perú,14230,Cardal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0848,-79.5867,4,cardal
+PE,Peru,Perú,14230,Coypa,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1577,-79.4819,3,coypa
+PE,Peru,Perú,14230,San Jose de Huanama,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9885,-79.5041,3,san-jose-de-huanama
+PE,Peru,Perú,14230,La Peña,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.31,-79.6276,4,la-pena
+PE,Peru,Perú,14230,Shita Alta,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2211,-79.4957,3,shita-alta
+PE,Peru,Perú,14230,Carrozal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0969,-79.5106,3,carrozal
+PE,Peru,Perú,14230,Nueva Esperanza,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1093,-79.476,3,nueva-esperanza
+PE,Peru,Perú,14230,Zapotal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1486,-79.5418,4,zapotal
+PE,Peru,Perú,14230,Centro Huanama la Cria,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9586,-79.4847,3,centro-huanama-la-cria
+PE,Peru,Perú,14230,El Higueron,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0881,-79.575,4,el-higueron
+PE,Peru,Perú,14230,Miraflores,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1739,-79.5128,4,miraflores
+PE,Peru,Perú,14230,Shita Loma,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2263,-79.5142,3,shita-loma
+PE,Peru,Perú,14230,Succha Baja,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2327,-79.4999,3,succha-baja
+PE,Peru,Perú,14230,La Escalera,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1965,-79.5305,3,la-escalera
+PE,Peru,Perú,14230,Banco,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2367,-79.5337,4,banco
+PE,Peru,Perú,14230,Amangay,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2324,-79.5298,3,amangay
+PE,Peru,Perú,14230,Pampa Bernilla,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0779,-79.6263,3,pampa-bernilla
+PE,Peru,Perú,14230,Huayacan,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9543,-79.4996,3,huayacan
+PE,Peru,Perú,14230,La Calle,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1775,-79.4619,3,la-calle
+PE,Peru,Perú,14230,Chirimoyal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0676,-79.4975,3,chirimoyal
+PE,Peru,Perú,14230,Chillaca,Lambayeque,14,Lambayeque,1403,Salas,140310,-5.9722,-79.4577,3,chillaca
+PE,Peru,Perú,14230,Pueblo Nuevo,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2987,-79.698,4,pueblo-nuevo
+PE,Peru,Perú,14230,Ayahuil,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.1438,-79.4637,3,ayahuil
+PE,Peru,Perú,14230,Nuevo Tayal,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.0778,-79.5039,3,nuevo-tayal
+PE,Peru,Perú,14230,Humedades Alto,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2943,-79.6795,4,humedades-alto
+PE,Peru,Perú,14231,Salas,Lambayeque,14,Lambayeque,1403,Salas,140310,-6.2747,-79.6042,4,salas

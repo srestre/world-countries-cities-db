@@ -1,0 +1,563 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+IN,India,India,110009,Nirankari Colony,Delhi,07,North West Delhi,090,Delhi,,28.7121,77.206,4,nirankari-colony
+IN,India,India,110009,Model Town III,Delhi,07,North West Delhi,090,Delhi,,28.7121,77.206,3,model-town-iii
+IN,India,India,110009,Dr.Mukerjee Nagar,Delhi,07,North West Delhi,090,NA,,28.7121,77.206,3,dr-mukerjee-nagar
+IN,India,India,110009,G.T.B.Nagar,Delhi,07,North West Delhi,090,Delhi,,28.7121,77.206,3,g-t-b-nagar
+IN,India,India,110009,Gujranwala Colony,Delhi,07,North West Delhi,090,Delhi,,28.7121,77.206,3,gujranwala-colony
+IN,India,India,110009,Model Town II,Delhi,07,North West Delhi,090,Delhi,,28.7121,77.206,3,model-town-ii
+IN,India,India,110009,H.S.Sangh,Delhi,07,North West Delhi,090,Delhi,,28.7121,77.206,3,h-s-sangh
+IN,India,India,110033,N.S.Mandi,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,n-s-mandi
+IN,India,India,110033,Jahangir Puri A Block,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,jahangir-puri-a-block
+IN,India,India,110033,Bhalaswa,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,bhalaswa
+IN,India,India,110033,Jahangir Puri D Block,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,jahangir-puri-d-block
+IN,India,India,110033,Jahangir Puri H Block,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,jahangir-puri-h-block
+IN,India,India,110033,Adrash Nagar,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,adrash-nagar
+IN,India,India,110034,Shakur Pur I  Block,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,shakur-pur-i-block
+IN,India,India,110034,Anandvas Shakurpur,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,anandvas-shakurpur
+IN,India,India,110034,Saraswati Vihar,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,saraswati-vihar
+IN,India,India,110034,Shakurbasti Rs,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,shakurbasti-rs
+IN,India,India,110034,Rani Bagh,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,rani-bagh
+IN,India,India,110034,Maurya Enclave,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,maurya-enclave
+IN,India,India,110034,Sri Nagar Colony,Delhi,07,North West Delhi,090,Delhi,,28.716,77.1429,1,sri-nagar-colony
+IN,India,India,110035,Rampura,Delhi,07,North West Delhi,090,Delhi,,28.6772,77.1573,4,rampura
+IN,India,India,110035,Onkar Nagar,Delhi,07,North West Delhi,090,Delhi,,28.6772,77.1573,3,onkar-nagar
+IN,India,India,110035,INDERLOK,Delhi,07,North West Delhi,090,NA,,28.6772,77.1573,3,inderlok
+IN,India,India,110035,Ganeshpura,Delhi,07,North West Delhi,090,Delhi,,28.6772,77.1573,3,ganeshpura
+IN,India,India,110035,Keshav Puram (North West Delhi),Delhi,07,North West Delhi,090,Delhi,,28.6772,77.1573,3,keshav-puram-north-west-delhi
+IN,India,India,110035,Power House,Delhi,07,North West Delhi,090,Delhi,,28.6772,77.1573,3,power-house
+IN,India,India,110035,Sarai Rohilla,Delhi,07,North West Delhi,090,Delhi,,28.6772,77.1573,3,sarai-rohilla
+IN,India,India,110036,Nangal Poona,Delhi,07,North West Delhi,090,Delhi,,28.8127,77.1616,3,nangal-poona
+IN,India,India,110036,Bakoli,Delhi,07,North West Delhi,090,Delhi,,28.8127,77.1616,3,bakoli
+IN,India,India,110036,Bakhtawar Pur,Delhi,07,North West Delhi,090,Delhi,,28.8127,77.1616,3,bakhtawar-pur
+IN,India,India,110036,Mukhmelpur,Delhi,07,North West Delhi,090,NA,,28.8127,77.1616,3,mukhmelpur
+IN,India,India,110036,Alipur,Delhi,07,North West Delhi,090,Delhi,,28.7986,77.1331,4,alipur
+IN,India,India,110036,Tajpur Kalan,Delhi,07,North West Delhi,090,Delhi,,28.8381,77.17,4,tajpur-kalan
+IN,India,India,110036,Palla,Delhi,07,North West Delhi,090,Delhi,,28.842,77.187,4,palla
+IN,India,India,110036,Khampur,Delhi,07,North West Delhi,090,Delhi,,28.8243,77.1342,4,khampur
+IN,India,India,110036,Hiranki,Delhi,07,North West Delhi,090,Delhi,,28.7991,77.182,4,hiranki
+IN,India,India,110036,Kadipur,Delhi,07,North West Delhi,090,Delhi,,28.774,77.1631,4,kadipur
+IN,India,India,110039,Ghoga,Delhi,07,North West Delhi,090,Delhi,,28.8311,77.05,4,ghoga
+IN,India,India,110039,Auchandi,Delhi,07,North West Delhi,090,Delhi,,28.8203,76.9962,4,auchandi
+IN,India,India,110039,Mungeshpur,Delhi,07,North West Delhi,090,Delhi,,28.805,77.0309,3,mungeshpur
+IN,India,India,110039,Qutabagarh,Delhi,07,North West Delhi,090,Delhi,,28.805,77.0309,3,qutabagarh
+IN,India,India,110039,Pooth Khurd,Delhi,07,North West Delhi,090,Delhi,,28.805,77.0309,3,pooth-khurd
+IN,India,India,110039,Nangal Thakran,Delhi,07,North West Delhi,090,Delhi,,28.805,77.0309,3,nangal-thakran
+IN,India,India,110039,Katewara,Delhi,07,North West Delhi,090,Delhi,,28.805,77.0309,3,katewara
+IN,India,India,110039,Jat Khore,Delhi,07,North West Delhi,090,Delhi,,28.805,77.0309,3,jat-khore
+IN,India,India,110039,Hareveli,Delhi,07,North West Delhi,090,Delhi,,28.805,77.0309,3,hareveli
+IN,India,India,110039,Bawana,Delhi,07,North West Delhi,090,Delhi,,28.7982,77.0343,4,bawana
+IN,India,India,110039,Barwala,Delhi,07,North West Delhi,090,Delhi,,28.7613,77.0628,4,barwala
+IN,India,India,110039,Daryapur Kalan,Delhi,07,North West Delhi,090,Delhi,,28.814,77.0111,4,daryapur-kalan
+IN,India,India,110040,Narela,Delhi,07,North West Delhi,090,Delhi,,28.8527,77.0929,4,narela
+IN,India,India,110040,Bhorgarh,Delhi,07,North West Delhi,090,Delhi,,28.8293,77.0952,4,bhorgarh
+IN,India,India,110040,Kanya Gurukul,Delhi,07,North West Delhi,090,Delhi,,28.8408,77.0939,3,kanya-gurukul
+IN,India,India,110040,Lampur,Delhi,07,North West Delhi,090,Delhi,,28.8509,77.0659,4,lampur
+IN,India,India,110040,Tikri Khurd,Delhi,07,North West Delhi,090,Delhi,,28.8354,77.1195,4,tikri-khurd
+IN,India,India,110040,Sanoth,Delhi,07,North West Delhi,090,Delhi,,28.8138,77.0739,4,sanoth
+IN,India,India,110040,Singhu,Delhi,07,North West Delhi,090,Delhi,,28.8512,77.1311,4,singhu
+IN,India,India,110040,Bankner,Delhi,07,North West Delhi,090,Delhi,,28.8525,77.0787,4,bankner
+IN,India,India,110042,Shahbad Daulatpur,Delhi,07,North West Delhi,090,Delhi,,28.7581,77.1309,3,shahbad-daulatpur
+IN,India,India,110042,Samai Pur,Delhi,07,North West Delhi,090,Delhi,,28.7581,77.1309,3,samai-pur
+IN,India,India,110042,Pehlad Pur,Delhi,07,North West Delhi,090,Delhi,,28.7581,77.1309,3,pehlad-pur
+IN,India,India,110042,Delhi Engg. College,Delhi,07,North West Delhi,090,Delhi,,28.7581,77.1309,3,delhi-engg-college
+IN,India,India,110042,Siraspur,Delhi,07,North West Delhi,090,Delhi,,28.7581,77.1309,4,siraspur
+IN,India,India,110042,Badli (North West Delhi),Delhi,07,North West Delhi,090,Delhi,,28.7581,77.1309,3,badli-north-west-delhi
+IN,India,India,110052,Satyawati Nagar,Delhi,07,North West Delhi,090,Delhi,,28.7688,77.0869,1,satyawati-nagar
+IN,India,India,110052,Nimri,Delhi,07,North West Delhi,090,Delhi,,28.7688,77.0869,1,nimri
+IN,India,India,110052,Shastri Nagar (North West Delhi),Delhi,07,North West Delhi,090,Delhi,,28.7688,77.0869,1,shastri-nagar-north-west-delhi
+IN,India,India,110052,Ashok Vihar H.O,Delhi,07,North West Delhi,090,Delhi,,28.7688,77.0869,1,ashok-vihar-h-o
+IN,India,India,110052,Wazir Pur III,Delhi,07,North West Delhi,090,Delhi,,28.7688,77.0869,1,wazir-pur-iii
+IN,India,India,110056,Shakur Basti Depot,Delhi,07,North West Delhi,090,Delhi,,28.7688,77.0869,1,shakur-basti-depot
+IN,India,India,110056,New Multan Nagar,Delhi,07,North West Delhi,090,Delhi,,28.7688,77.0869,1,new-multan-nagar
+IN,India,India,110081,Karala,Delhi,07,North West Delhi,090,Delhi,,28.7355,77.0352,4,karala
+IN,India,India,110081,Nizampur,Delhi,07,North West Delhi,090,Delhi,,28.7178,76.9597,4,nizampur
+IN,India,India,110081,Punjab Khor,Delhi,07,North West Delhi,090,Delhi,,28.7759,76.9649,4,punjab-khor
+IN,India,India,110081,Rani Khera,Delhi,07,North West Delhi,090,Delhi,,28.706,77.0258,4,rani-khera
+IN,India,India,110081,Gheora,Delhi,07,North West Delhi,090,Delhi,,28.6941,77.0016,4,gheora
+IN,India,India,110081,Jaunti,Delhi,07,North West Delhi,090,Delhi,,28.7502,76.9699,4,jaunti
+IN,India,India,110081,Majra Dabas,Delhi,07,North West Delhi,090,Delhi,,28.7299,76.9929,3,majra-dabas
+IN,India,India,110081,Lad Pur,Delhi,07,North West Delhi,090,Delhi,,28.7299,76.9929,3,lad-pur
+IN,India,India,110081,Kanjhawla,Delhi,07,North West Delhi,090,Delhi,,28.7299,76.9929,3,kanjhawla
+IN,India,India,110081,Mubarak Pur Dabas,Delhi,07,North West Delhi,090,Delhi,,28.7299,76.9929,3,mubarak-pur-dabas
+IN,India,India,110081,Chand Pur,Delhi,07,North West Delhi,090,Delhi,,28.7299,76.9929,3,chand-pur
+IN,India,India,110082,Naya Bans,Delhi,07,North West Delhi,090,Delhi,,28.7848,77.1046,3,naya-bans
+IN,India,India,110082,Khera Khurd,Delhi,07,North West Delhi,090,Delhi,,28.7755,77.0997,4,khera-khurd
+IN,India,India,110082,Holambi Kalan,Delhi,07,North West Delhi,090,Delhi,,28.8044,77.0969,4,holambi-kalan
+IN,India,India,110082,Khera Kalan,Delhi,07,North West Delhi,090,Delhi,,28.7745,77.1172,4,khera-kalan
+IN,India,India,110083,Mangolpuri N Block,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,mangolpuri-n-block
+IN,India,India,110083,Mangolpuri S Block,Delhi,07,North West Delhi,090,NA,,28.7441,77.0732,1,mangolpuri-s-block
+IN,India,India,110083,Mangolpuri I  Block,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,mangolpuri-i-block
+IN,India,India,110083,Mangolpuri A Block,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,mangolpuri-a-block
+IN,India,India,110085,Naharpur,Delhi,07,North West Delhi,090,North West Delhi,,28.7201,77.1027,3,naharpur
+IN,India,India,110085,Rohini Courts,Delhi,07,North West Delhi,090,NA,,28.7201,77.1027,3,rohini-courts
+IN,India,India,110085,Prashant Vihar,Delhi,07,North West Delhi,090,Delhi,,28.7201,77.1027,3,prashant-vihar
+IN,India,India,110085,Rithala,Delhi,07,North West Delhi,090,Delhi,,28.7201,77.1027,4,rithala
+IN,India,India,110085,Rohini sec-11,Delhi,07,North West Delhi,090,Delhi,,28.7201,77.1027,3,rohini-sec-11
+IN,India,India,110085,Rohini Sector-7,Delhi,07,North West Delhi,090,NA,,28.7201,77.1027,3,rohini-sector-7
+IN,India,India,110085,Rohini Sector 5,Delhi,07,North West Delhi,090,Delhi,,28.7201,77.1027,3,rohini-sector-5
+IN,India,India,110086,Pooth Kalan Resettlement,Delhi,07,North West Delhi,090,NA,,28.7441,77.0732,1,pooth-kalan-resettlement
+IN,India,India,110086,Pooth Kalan,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,pooth-kalan
+IN,India,India,110086,Sultanpuri C Block,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,sultanpuri-c-block
+IN,India,India,110086,Sultanpuri B Block,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,sultanpuri-b-block
+IN,India,India,110086,Sultanpuri F Block,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,sultanpuri-f-block
+IN,India,India,110086,Budh Vihar,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,budh-vihar
+IN,India,India,110086,Begumpur,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,begumpur
+IN,India,India,110086,Prem Nagar,Delhi,07,North West Delhi,090,Delhi,,28.7441,77.0732,1,prem-nagar
+IN,India,India,110088,Shalimar Bagh (North West Delhi),Delhi,07,North West Delhi,090,Delhi,,28.7219,77.159,3,shalimar-bagh-north-west-delhi
+IN,India,India,110088,Haiderpur,Delhi,07,North West Delhi,090,Delhi,,28.7219,77.159,3,haiderpur
+IN,India,India,110088,Shalamar,Delhi,07,North West Delhi,090,Delhi,,28.7219,77.159,4,shalamar
+IN,India,India,110089,Rohini Sector 15,Delhi,07,North West Delhi,090,NA,,28.7441,77.0732,1,rohini-sector-15
+IN,India,India,110094,Sabhapur,Delhi,07,North West Delhi,090,Delhi North East,,28.7688,77.0869,1,sabhapur
+IN,India,India,110006,Chawri Bazar,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,1,chawri-bazar
+IN,India,India,110006,Dareeba,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,1,dareeba
+IN,India,India,110006,Delhi G.P.O.,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,1,delhi-g-p-o
+IN,India,India,110006,S.T. Road,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,1,s-t-road
+IN,India,India,110006,Chandni Chowk,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,1,chandni-chowk
+IN,India,India,110006,Delhi Sadar Bazar,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,1,delhi-sadar-bazar
+IN,India,India,110006,Baratooti,Delhi,07,North Delhi,091,NA,,28.7106,77.2115,1,baratooti
+IN,India,India,110007,Jawahar Nagar (North Delhi),Delhi,07,North Delhi,091,NA,,28.6764,77.2074,3,jawahar-nagar-north-delhi
+IN,India,India,110007,C.C.I.,Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,c-c-i
+IN,India,India,110007,Rana Pratap Bagh,Delhi,07,North Delhi,091,NA,,28.6764,77.2074,3,rana-pratap-bagh
+IN,India,India,110007,Kamla Nagar (North Delhi),Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,kamla-nagar-north-delhi
+IN,India,India,110007,R.C.A.O.,Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,r-c-a-o
+IN,India,India,110007,Roop Nagar,Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,roop-nagar
+IN,India,India,110007,Padam Nagar (North Delhi),Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,padam-nagar-north-delhi
+IN,India,India,110007,Roshan Ara Road,Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,roshan-ara-road
+IN,India,India,110007,Shakti Nagar (North Delhi),Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,shakti-nagar-north-delhi
+IN,India,India,110007,Gulabi Bagh,Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,gulabi-bagh
+IN,India,India,110007,Malka Ganj,Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,4,malka-ganj
+IN,India,India,110007,Delhi University,Delhi,07,North Delhi,091,Delhi,,28.6764,77.2074,3,delhi-university
+IN,India,India,110054,Aruna Nagar,Delhi,07,North Delhi,091,North,,28.6921,77.2245,3,aruna-nagar
+IN,India,India,110054,District Courts (North Delhi),Delhi,07,North Delhi,091,Delhi,,28.6921,77.2245,3,district-courts-north-delhi
+IN,India,India,110054,Majnu ka Tila,Delhi,07,North Delhi,091,Delhi,,28.6921,77.2245,3,majnu-ka-tila
+IN,India,India,110054,Patrachar Vidyalay,Delhi,07,North Delhi,091,Delhi,,28.6921,77.2245,3,patrachar-vidyalay
+IN,India,India,110054,Timarpur,Delhi,07,North Delhi,091,Delhi,,28.7038,77.2227,4,timarpur
+IN,India,India,110054,Civil Lines (North Delhi),Delhi,07,North Delhi,091,Delhi,,28.6804,77.2263,4,civil-lines-north-delhi
+IN,India,India,110084,Jharoda Majraa,Delhi,07,North Delhi,091,Delhi,,28.7486,77.2096,3,jharoda-majraa
+IN,India,India,110084,Wazirabad Village,Delhi,07,North Delhi,091,North,,28.7486,77.2096,3,wazirabad-village
+IN,India,India,110084,Burari,Delhi,07,North Delhi,091,Delhi,,28.7557,77.1994,4,burari
+IN,India,India,110084,Jagatpur,Delhi,07,North Delhi,091,Delhi,,28.7414,77.2199,4,jagatpur
+IN,India,India,110085,Avantika,Delhi,07,North Delhi,091,NA,,28.7106,77.2115,3,avantika
+IN,India,India,110085,Rohini Sector-16,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,3,rohini-sector-16
+IN,India,India,110086,Kirari Suleman Nagar,Delhi,07,North Delhi,091,Delhi,,28.7106,77.2115,1,kirari-suleman-nagar
+IN,India,India,110032,Babarpur (North East Delhi),Delhi,07,North East Delhi,092,NA,,28.6875,77.2856,4,babarpur-north-east-delhi
+IN,India,India,110053,Bhajan Pura,Delhi,07,North East Delhi,092,NA,,28.6866,77.2732,3,bhajan-pura
+IN,India,India,110090,Shaheed Bhagat Singh Colony,Delhi,07,North East Delhi,092,NA,,28.7077,77.274,1,shaheed-bhagat-singh-colony
+IN,India,India,110090,Dayalpur,Delhi,07,North East Delhi,092,Delhi,,28.7077,77.274,1,dayalpur
+IN,India,India,110090,Shriram Colony Rajeev Nagar,Delhi,07,North East Delhi,092,NA,,28.7077,77.274,1,shriram-colony-rajeev-nagar
+IN,India,India,110093,Sunder Nagari,Delhi,07,North East Delhi,092,NA,,28.7077,77.274,1,sunder-nagari
+IN,India,India,110093,Mandoli Saboli,Delhi,07,North East Delhi,092,NA,,28.7077,77.274,1,mandoli-saboli
+IN,India,India,110031,Gandhi Nagar (East Delhi),Delhi,07,East Delhi,093,NA,,28.6548,77.2752,3,gandhi-nagar-east-delhi
+IN,India,India,110031,Rajgarh Colony,Delhi,07,East Delhi,093,NA,,28.659,77.2739,4,rajgarh-colony
+IN,India,India,110031,Geeta Colony,Delhi,07,East Delhi,093,NA,,28.6507,77.2764,4,geeta-colony
+IN,India,India,110031,Shastri Nagar (East Delhi),Delhi,07,East Delhi,093,NA,,28.6548,77.2752,3,shastri-nagar-east-delhi
+IN,India,India,110031,Gandhi Nagar Bazar,Delhi,07,East Delhi,093,NA,,28.6548,77.2752,3,gandhi-nagar-bazar
+IN,India,India,110031,Raghubar Pura,Delhi,07,East Delhi,093,NA,,28.6548,77.2752,3,raghubar-pura
+IN,India,India,110031,Kailash Nagar,Delhi,07,East Delhi,093,NA,,28.6548,77.2752,3,kailash-nagar
+IN,India,India,110032,Shahdara,Delhi,07,East Delhi,093,NA,,28.6292,77.298,4,shahdara
+IN,India,India,110032,Shivaji Park (East Delhi),Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,shivaji-park-east-delhi
+IN,India,India,110032,Vishwas Nagar,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,vishwas-nagar
+IN,India,India,110032,Distt. Court (KKD),Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,distt-court-kkd
+IN,India,India,110032,Rohtash Nagar,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,rohtash-nagar
+IN,India,India,110032,Bhola Nath Nagar,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,bhola-nath-nagar
+IN,India,India,110032,Telewara,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,telewara
+IN,India,India,110032,Man Sarovar Park,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,man-sarovar-park
+IN,India,India,110032,Balbir Nagar,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,balbir-nagar
+IN,India,India,110032,Shahdara Mandi,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,shahdara-mandi
+IN,India,India,110032,Goverdhan Bihari Colony,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,goverdhan-bihari-colony
+IN,India,India,110032,Loni Road,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,loni-road
+IN,India,India,110051,Krishna Nagar H.O,Delhi,07,East Delhi,093,NA,,28.6292,77.298,1,krishna-nagar-h-o
+IN,India,India,110051,Govind Pura,Delhi,07,East Delhi,093,NA,,28.6292,77.298,1,govind-pura
+IN,India,India,110051,Ram Nagar (East Delhi),Delhi,07,East Delhi,093,NA,,28.6292,77.298,1,ram-nagar-east-delhi
+IN,India,India,110051,Azad Nagar (East Delhi),Delhi,07,East Delhi,093,NA,,28.6292,77.298,1,azad-nagar-east-delhi
+IN,India,India,110053,Yamuna Vihar,Delhi,07,East Delhi,093,NA,,28.6292,77.298,4,yamuna-vihar
+IN,India,India,110053,Brahampuri,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,brahampuri
+IN,India,India,110053,Maujpur,Delhi,07,East Delhi,093,NA,,28.6292,77.298,4,maujpur
+IN,India,India,110053,Jafrabad (East Delhi),Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,jafrabad-east-delhi
+IN,India,India,110053,Garhi Mandu,Delhi,07,East Delhi,093,East Delhi,,28.6292,77.298,3,garhi-mandu
+IN,India,India,110053,New Usmanpur,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,new-usmanpur
+IN,India,India,110053,Jagjit Nagar,Delhi,07,East Delhi,093,NA,,28.6292,77.298,3,jagjit-nagar
+IN,India,India,110053,Seelampur,Delhi,07,East Delhi,093,NA,,28.6708,77.2721,4,seelampur
+IN,India,India,110090,Sonia Vihar,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,sonia-vihar
+IN,India,India,110090,Badarpur Khadar,Delhi,07,East Delhi,093,East Delhi,,28.6114,77.2982,1,badarpur-khadar
+IN,India,India,110090,Khajuri Khas,Delhi,07,East Delhi,093,Delhi,,28.6114,77.2982,1,khajuri-khas
+IN,India,India,110090,Karawal Nagar,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,karawal-nagar
+IN,India,India,110091,Chilla,Delhi,07,East Delhi,093,NA,,28.5957,77.3019,4,chilla
+IN,India,India,110091,Patparganj,Delhi,07,East Delhi,093,NA,,28.609,77.2953,4,patparganj
+IN,India,India,110091,Trilok Puri,Delhi,07,East Delhi,093,NA,,28.6063,77.3045,3,trilok-puri
+IN,India,India,110091,Kalyanvas,Delhi,07,East Delhi,093,NA,,28.6063,77.3045,3,kalyanvas
+IN,India,India,110091,Himmatpuri,Delhi,07,East Delhi,093,NA,,28.6063,77.3045,3,himmatpuri
+IN,India,India,110091,Mayur Vihar Ph-I,Delhi,07,East Delhi,093,NA,,28.6063,77.3045,3,mayur-vihar-ph-i
+IN,India,India,110091,Kalyanpuri,Delhi,07,East Delhi,093,NA,,28.6142,77.3162,4,kalyanpuri
+IN,India,India,110092,Nirman Vihar,Delhi,07,East Delhi,093,NA,,28.6266,77.2794,3,nirman-vihar
+IN,India,India,110092,Surajmal Vihar,Delhi,07,East Delhi,093,NA,,28.6266,77.2794,3,surajmal-vihar
+IN,India,India,110092,Mandawali Fazalpur,Delhi,07,East Delhi,093,NA,,28.6266,77.2794,3,mandawali-fazalpur
+IN,India,India,110092,IP Extension,Delhi,07,East Delhi,093,NA,,28.6266,77.2794,3,ip-extension
+IN,India,India,110092,Yozna Vihar,Delhi,07,East Delhi,093,NA,,28.6266,77.2794,3,yozna-vihar
+IN,India,India,110092,Laxmi Nagar (East Delhi),Delhi,07,East Delhi,093,NA,,28.6266,77.2794,3,laxmi-nagar-east-delhi
+IN,India,India,110092,Shakarpur,Delhi,07,East Delhi,093,NA,,28.6266,77.2794,4,shakarpur
+IN,India,India,110092,Anand Vihar,Delhi,07,East Delhi,093,NA,,28.6266,77.2794,3,anand-vihar
+IN,India,India,110093,Nand Nagri  C,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,nand-nagri-c
+IN,India,India,110093,Harsh Vihar,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,harsh-vihar
+IN,India,India,110093,Nand Nagri  A,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,nand-nagri-a
+IN,India,India,110093,Loni Road Housing Complex,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,loni-road-housing-complex
+IN,India,India,110094,Gokal Puri,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,gokal-puri
+IN,India,India,110094,Johripur,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,johripur
+IN,India,India,110095,Jhilmil Tahirpur,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,jhilmil-tahirpur
+IN,India,India,110095,Old Seemapuri,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,old-seemapuri
+IN,India,India,110095,New Seemapuri,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,new-seemapuri
+IN,India,India,110095,Vivek Vihar,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,vivek-vihar
+IN,India,India,110095,V.K. Nagar,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,v-k-nagar
+IN,India,India,110095,G.T.B. Hospital,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,g-t-b-hospital
+IN,India,India,110095,Dilshad Garden,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,dilshad-garden
+IN,India,India,110095,Jhilmil H.O,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,jhilmil-h-o
+IN,India,India,110096,Mayur Vihar Ph-III,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,mayur-vihar-ph-iii
+IN,India,India,110096,Vasundhra Enclave,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,vasundhra-enclave
+IN,India,India,110096,Ghazipur,Delhi,07,East Delhi,093,NA,,28.6114,77.2982,1,ghazipur
+IN,India,India,110001,New Delhi G.P.O.,Delhi,07,New Delhi,094,New Delhi,,28.6369,77.2183,3,new-delhi-g-p-o
+IN,India,India,110002,Civic Centre,Delhi,07,New Delhi,094,New Delhi Central,,28.6109,77.214,3,civic-centre
+IN,India,India,110020,F F C Okhla,Delhi,07,New Delhi,094,New Delhi,,28.6109,77.214,3,f-f-c-okhla
+IN,India,India,110029,Nauroji Nagar,Delhi,07,New Delhi,094,New Delhi,,28.6109,77.214,3,nauroji-nagar
+IN,India,India,110043,Gopal Nagar,Delhi,07,New Delhi,094,Delhi,,28.6109,77.214,4,gopal-nagar
+IN,India,India,110084,Nathupura Village,Delhi,07,New Delhi,094,New Delhi,,28.6109,77.214,3,nathupura-village
+IN,India,India,110098,AMPC Delivery,Delhi,07,New Delhi,094,New Delhi,,28.6109,77.214,1,ampc-delivery
+IN,India,India,110001,Pragati Maidan Camp,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,pragati-maidan-camp
+IN,India,India,110001,Election Commission,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,election-commission
+IN,India,India,110001,Parliament House,Delhi,07,Central Delhi,095,New Delhi,,28.6407,77.2154,4,parliament-house
+IN,India,India,110001,Connaught Place,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,4,connaught-place
+IN,India,India,110001,Sansadiya Soudh,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,sansadiya-soudh
+IN,India,India,110001,Secretariat North,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,secretariat-north
+IN,India,India,110001,Shastri Bhawan,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,shastri-bhawan
+IN,India,India,110001,North Avenue,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,north-avenue
+IN,India,India,110001,Rail Bhawan,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,rail-bhawan
+IN,India,India,110001,Krishi Bhawan,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,krishi-bhawan
+IN,India,India,110001,Lady Harding Medical College,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,lady-harding-medical-college
+IN,India,India,110001,Sansad Marg H.O,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,sansad-marg-h-o
+IN,India,India,110001,Pragati Maidan,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,pragati-maidan
+IN,India,India,110001,Constitution House,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,constitution-house
+IN,India,India,110001,Baroda House,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,baroda-house
+IN,India,India,110001,Bhagat Singh Market,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,bhagat-singh-market
+IN,India,India,110001,Supreme Court,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,supreme-court
+IN,India,India,110001,Bengali Market,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,bengali-market
+IN,India,India,110001,Janpath,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,janpath
+IN,India,India,110001,Patiala House,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,patiala-house
+IN,India,India,110002,I.P.Estate,Delhi,07,Central Delhi,095,New Delhi,,28.6453,77.2456,3,i-p-estate
+IN,India,India,110002,Minto Road,Delhi,07,Central Delhi,095,New Delhi,,28.6453,77.2456,3,minto-road
+IN,India,India,110002,Gandhi Smarak Nidhi,Delhi,07,Central Delhi,095,New Delhi,,28.6453,77.2456,3,gandhi-smarak-nidhi
+IN,India,India,110002,Indraprastha H.O,Delhi,07,Central Delhi,095,New Delhi,,28.6453,77.2456,3,indraprastha-h-o
+IN,India,India,110002,Ajmeri Gate Extn.,Delhi,07,Central Delhi,095,New Delhi,,28.6453,77.2456,3,ajmeri-gate-extn
+IN,India,India,110002,Darya Ganj,Delhi,07,Central Delhi,095,New Delhi,,28.6453,77.2456,4,darya-ganj
+IN,India,India,110002,A.G.C.R.,Delhi,07,Central Delhi,095,New Delhi,,28.6453,77.2456,3,a-g-c-r
+IN,India,India,110003,Delhi High Court,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,3,delhi-high-court
+IN,India,India,110003,Pandara Road,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,4,pandara-road
+IN,India,India,110003,Delhi High Court Extension Counter,Delhi,07,Central Delhi,095,Delhi,,28.6431,77.2197,3,delhi-high-court-extension-counter
+IN,India,India,110004,Rashtrapati Bhawan,Delhi,07,Central Delhi,095,New Delhi,,28.6455,77.205,1,rashtrapati-bhawan
+IN,India,India,110005,Master Prithvi Nath Marg,Delhi,07,Central Delhi,095,New Delhi,,28.6551,77.1833,3,master-prithvi-nath-marg
+IN,India,India,110005,Anand Parbat Indl. Area,Delhi,07,Central Delhi,095,New Delhi,,28.6551,77.1833,3,anand-parbat-indl-area
+IN,India,India,110005,Desh Bandhu Gupta Road,Delhi,07,Central Delhi,095,New Delhi,,28.6551,77.1833,3,desh-bandhu-gupta-road
+IN,India,India,110005,Bank Street (Central Delhi),Delhi,07,Central Delhi,095,New Delhi,,28.6551,77.1833,3,bank-street-central-delhi
+IN,India,India,110005,Guru Gobind Singh Marg,Delhi,07,Central Delhi,095,New Delhi,,28.6551,77.1833,3,guru-gobind-singh-marg
+IN,India,India,110005,Sat Nagar,Delhi,07,Central Delhi,095,New Delhi,,28.6551,77.1833,3,sat-nagar
+IN,India,India,110005,Anand Parbat,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,4,anand-parbat
+IN,India,India,110005,Karol Bagh,Delhi,07,Central Delhi,095,New Delhi,,28.6514,77.1907,4,karol-bagh
+IN,India,India,110006,Jama Masjid,Delhi,07,Central Delhi,095,Delhi,,28.6455,77.205,1,jama-masjid
+IN,India,India,110006,Hauz Qazi,Delhi,07,Central Delhi,095,Delhi,,28.6455,77.205,1,hauz-qazi
+IN,India,India,110008,Patel Nagar (Central Delhi),Delhi,07,Central Delhi,095,New Delhi,,28.6466,77.1701,3,patel-nagar-central-delhi
+IN,India,India,110008,Patel Nagar West,Delhi,07,Central Delhi,095,New Delhi,,28.6466,77.1701,3,patel-nagar-west
+IN,India,India,110008,Dada Ghosh Bhawan,Delhi,07,Central Delhi,095,New Delhi,,28.6466,77.1701,3,dada-ghosh-bhawan
+IN,India,India,110008,Patel Nagar East,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,4,patel-nagar-east
+IN,India,India,110008,Patel Nagar South,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,4,patel-nagar-south
+IN,India,India,110011,Udyog Bhawan,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,udyog-bhawan
+IN,India,India,110011,Nirman Bhawan,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,nirman-bhawan
+IN,India,India,110011,South Avenue,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,south-avenue
+IN,India,India,110012,National Physical Laboratory,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,national-physical-laboratory
+IN,India,India,110012,Inderpuri,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,inderpuri
+IN,India,India,110012,I.A.R.I.,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,i-a-r-i
+IN,India,India,110055,Multani Dhanda,Delhi,07,Central Delhi,095,New Delhi,,28.6417,77.2132,3,multani-dhanda
+IN,India,India,110055,Swami Ram Tirth Nagar,Delhi,07,Central Delhi,095,New Delhi,,28.6417,77.2132,3,swami-ram-tirth-nagar
+IN,India,India,110055,Pahar Ganj,Delhi,07,Central Delhi,095,New Delhi,,28.6417,77.2132,4,pahar-ganj
+IN,India,India,110055,A.K.Market,Delhi,07,Central Delhi,095,New Delhi,,28.6417,77.2132,3,a-k-market
+IN,India,India,110060,Rajender Nagar,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,rajender-nagar
+IN,India,India,110069,Union Public Service Commission,Delhi,07,Central Delhi,095,New Delhi,,28.6431,77.2197,1,union-public-service-commission
+IN,India,India,110100,Foreign Post Delhi IBC,Delhi,07,Central Delhi,095,Delhi,,28.6431,77.2197,1,foreign-post-delhi-ibc
+IN,India,India,110015,Zakhira,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,zakhira
+IN,India,India,110015,Ramesh Nagar H.O,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,ramesh-nagar-h-o
+IN,India,India,110015,L. M. Nagar Indl. Area,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,l-m-nagar-indl-area
+IN,India,India,110015,Karam Pura,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,karam-pura
+IN,India,India,110015,Mansarover Garden,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,mansarover-garden
+IN,India,India,110015,Moti Nagar,Delhi,07,West Delhi,096,Delhi,,28.6553,77.0657,1,moti-nagar
+IN,India,India,110015,ESI,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,esi
+IN,India,India,110018,Mahabir Nagar,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,mahabir-nagar
+IN,India,India,110018,Chand Nagar,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,chand-nagar
+IN,India,India,110018,Chaukhandi,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,chaukhandi
+IN,India,India,110018,Fateh Nagar,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,fateh-nagar
+IN,India,India,110018,Khyala Phase -  I,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,khyala-phase-i
+IN,India,India,110018,Khyala Phase - II,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,khyala-phase-ii
+IN,India,India,110018,M.B.S. Nagar,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,m-b-s-nagar
+IN,India,India,110018,Vikas Puri,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,vikas-puri
+IN,India,India,110018,Tilak Nagar East,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,tilak-nagar-east
+IN,India,India,110018,Ashok Nagar (West Delhi),Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,ashok-nagar-west-delhi
+IN,India,India,110018,Tilak Nagar (West Delhi),Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,4,tilak-nagar-west-delhi
+IN,India,India,110018,Vishnu Garden,Delhi,07,West Delhi,096,New Delhi,,28.6396,77.0884,3,vishnu-garden
+IN,India,India,110026,Ashoka Park Extn.,Delhi,07,West Delhi,096,New Delhi,,28.6709,77.141,3,ashoka-park-extn
+IN,India,India,110026,Punjabi Bagh,Delhi,07,West Delhi,096,NA,,28.6709,77.141,4,punjabi-bagh
+IN,India,India,110026,Shivaji Park (West Delhi),Delhi,07,West Delhi,096,New Delhi,,28.6709,77.141,3,shivaji-park-west-delhi
+IN,India,India,110026,Punjabi Bagh Sec - III,Delhi,07,West Delhi,096,New Delhi,,28.6709,77.141,3,punjabi-bagh-sec-iii
+IN,India,India,110027,Subhash Nagar West,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,subhash-nagar-west
+IN,India,India,110027,Janta Market,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,janta-market
+IN,India,India,110027,Rajouri Market,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,rajouri-market
+IN,India,India,110027,Subhash Nagar (West Delhi),Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,subhash-nagar-west-delhi
+IN,India,India,110027,Rajouri Garden J-6,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,rajouri-garden-j-6
+IN,India,India,110027,Tagore Garden,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,tagore-garden
+IN,India,India,110041,Nangloi - II,Delhi,07,West Delhi,096,New Delhi,,28.6735,77.014,3,nangloi-ii
+IN,India,India,110041,Kunwar Singh Nagar,Delhi,07,West Delhi,096,New Delhi,,28.6735,77.014,3,kunwar-singh-nagar
+IN,India,India,110041,Nilothi,Delhi,07,West Delhi,096,New Delhi,,28.6735,77.014,3,nilothi
+IN,India,India,110041,Bakkarwala,Delhi,07,West Delhi,096,New Delhi,,28.6735,77.014,3,bakkarwala
+IN,India,India,110041,Nangloi - III,Delhi,07,West Delhi,096,New Delhi,,28.6735,77.014,3,nangloi-iii
+IN,India,India,110041,Hirankudna,Delhi,07,West Delhi,096,New Delhi,,28.6715,76.9984,4,hirankudna
+IN,India,India,110041,Ranhola,Delhi,07,West Delhi,096,New Delhi,,28.6592,77.0382,4,ranhola
+IN,India,India,110041,Nangloi,Delhi,07,West Delhi,096,New Delhi,,28.6796,77.068,4,nangloi
+IN,India,India,110041,Nilwal,Delhi,07,West Delhi,096,New Delhi,,28.6673,76.9793,4,nilwal
+IN,India,India,110041,Tikri Kalan,Delhi,07,West Delhi,096,New Delhi,,28.6836,76.9701,4,tikri-kalan
+IN,India,India,110041,Mundka,Delhi,07,West Delhi,096,New Delhi,,28.6801,77.0298,4,mundka
+IN,India,India,110043,Arjun Park,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,3,arjun-park
+IN,India,India,110043,Shyam Vihar,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,3,shyam-vihar
+IN,India,India,110045,Mahavir Enclave,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,3,mahavir-enclave
+IN,India,India,110045,Durga Park,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,3,durga-park
+IN,India,India,110058,Janakpuri C-4,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,janakpuri-c-4
+IN,India,India,110058,Jail Road (West Delhi),Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,jail-road-west-delhi
+IN,India,India,110058,D.E.S.U. Colony,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,d-e-s-u-colony
+IN,India,India,110058,Janakpuri A-3,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,janakpuri-a-3
+IN,India,India,110058,Janakpuri B-1,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,janakpuri-b-1
+IN,India,India,110059,Jeevan Park,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,jeevan-park
+IN,India,India,110059,Matiala,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,matiala
+IN,India,India,110059,Uttam Nagar,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,uttam-nagar
+IN,India,India,110059,Sanjay Enclave,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,sanjay-enclave
+IN,India,India,110059,K-5 Extension Mohan  Garden,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,k-5-extension-mohan-garden
+IN,India,India,110059,Hastal Village,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,hastal-village
+IN,India,India,110059,D. K. Mohan Garden,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,d-k-mohan-garden
+IN,India,India,110063,Paschim Vihar B Block,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,paschim-vihar-b-block
+IN,India,India,110063,Madipur Slum Quarter,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,madipur-slum-quarter
+IN,India,India,110063,Paschim Vihar,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,paschim-vihar
+IN,India,India,110063,Madipur Village,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,madipur-village
+IN,India,India,110063,Jawala Heri,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,jawala-heri
+IN,India,India,110064,Hari Nagar BE Block,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,hari-nagar-be-block
+IN,India,India,110064,Hari Nagar Dadb Block,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,hari-nagar-dadb-block
+IN,India,India,110064,Hari Nagar (West Delhi),Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,hari-nagar-west-delhi
+IN,India,India,110071,Qutub Vihar,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,qutub-vihar
+IN,India,India,110073,Dhansa,Delhi,07,West Delhi,096,Delhi,,28.6553,77.0657,4,dhansa
+IN,India,India,110077,Palam Extn (Harijan Basti),Delhi,07,West Delhi,096,NA,,28.6553,77.0657,1,palam-extn-harijan-basti
+IN,India,India,110078,GGSIP University,Delhi,07,West Delhi,096,NA,,28.6553,77.0657,3,ggsip-university
+IN,India,India,110078,"Distt. Court Complex,Dwarka",Delhi,07,West Delhi,096,NA,,28.6553,77.0657,3,distt-court-complex-dwarka
+IN,India,India,110087,Sunder Vihar,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,sunder-vihar
+IN,India,India,110087,Peeragarhi,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,peeragarhi
+IN,India,India,110087,Jwala Puri,Delhi,07,West Delhi,096,New Delhi,,28.6553,77.0657,1,jwala-puri
+IN,India,India,110010,Kirby Place,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,kirby-place
+IN,India,India,110010,505 A B Workshop,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,505-a-b-workshop
+IN,India,India,110010,Aps Colony,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,aps-colony
+IN,India,India,110010,Subroto Park,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,subroto-park
+IN,India,India,110010,Station Road (South West Delhi),Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,station-road-south-west-delhi
+IN,India,India,110010,R R Hospital,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,r-r-hospital
+IN,India,India,110010,Dhaula Kuan,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,4,dhaula-kuan
+IN,India,India,110010,Pinto Park,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,pinto-park
+IN,India,India,110010,Delhi Cantt,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,delhi-cantt
+IN,India,India,110010,C.V.D.,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,c-v-d
+IN,India,India,110010,COD (South West Delhi),Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,cod-south-west-delhi
+IN,India,India,110010,Bazar Road,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,bazar-road
+IN,India,India,110010,A F Palam,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,a-f-palam
+IN,India,India,110010,Signal Enclave,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,signal-enclave
+IN,India,India,110016,Hauz Khas,Delhi,07,South West Delhi,097,NA,,28.5531,77.1916,4,hauz-khas
+IN,India,India,110016,Hauz Khas Market,Delhi,07,South West Delhi,097,NA,,28.5531,77.1916,3,hauz-khas-market
+IN,India,India,110016,NIE Campus,Delhi,07,South West Delhi,097,NA,,28.5531,77.1916,3,nie-campus
+IN,India,India,110016,Green Park Market,Delhi,07,South West Delhi,097,NA,,28.5531,77.1916,3,green-park-market
+IN,India,India,110016,Technology Bhawan,Delhi,07,South West Delhi,097,NA,,28.5531,77.1916,3,technology-bhawan
+IN,India,India,110016,IT Hauz Khas,Delhi,07,South West Delhi,097,NA,,28.5531,77.1916,3,it-hauz-khas
+IN,India,India,110021,Moti Bagh,Delhi,07,South West Delhi,097,NA,,28.5818,77.1793,4,moti-bagh
+IN,India,India,110021,Malcha Marg,Delhi,07,South West Delhi,097,NA,,28.5818,77.1793,3,malcha-marg
+IN,India,India,110021,Anand Niketan,Delhi,07,South West Delhi,097,NA,,28.5818,77.1793,3,anand-niketan
+IN,India,India,110021,Chanakya Puri,Delhi,07,South West Delhi,097,NA,,28.5818,77.1793,3,chanakya-puri
+IN,India,India,110021,Nanak Pura,Delhi,07,South West Delhi,097,NA,,28.5818,77.1793,3,nanak-pura
+IN,India,India,110021,South Delhi Campus,Delhi,07,South West Delhi,097,NA,,28.5818,77.1793,3,south-delhi-campus
+IN,India,India,110022,R K Puram Sector - 6 Postal SB,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sector-6-postal-sb
+IN,India,India,110022,R K Puram Sect-5,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sect-5
+IN,India,India,110022,R K Puram Sect-1,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sect-1
+IN,India,India,110022,R K Puram Sect-4,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sect-4
+IN,India,India,110022,R K Puram Sect-3,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sect-3
+IN,India,India,110022,R K Puram Sect7,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sect7
+IN,India,India,110022,R K Puram Sect-8,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sect-8
+IN,India,India,110022,R K Puram Sect-12,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-sect-12
+IN,India,India,110023,Kidwai Nagar West,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,kidwai-nagar-west
+IN,India,India,110023,Sarojini Nagar H.O,Delhi,07,South West Delhi,097,Delhi,,28.5724,77.0274,1,sarojini-nagar-h-o
+IN,India,India,110023,Kidwai Nagar East,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,kidwai-nagar-east
+IN,India,India,110023,Netaji Nagar (South West Delhi),Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,netaji-nagar-south-west-delhi
+IN,India,India,110023,Laxmi Bai Nagar,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,laxmi-bai-nagar
+IN,India,India,110028,Naraina Village,Delhi,07,South West Delhi,097,New Delhi,,28.5724,77.0274,1,naraina-village
+IN,India,India,110028,Naraina Industrial Estate H.O,Delhi,07,South West Delhi,097,New Delhi,,28.5724,77.0274,1,naraina-industrial-estate-h-o
+IN,India,India,110029,Safdarjung Enclave,Delhi,07,South West Delhi,097,NA,,28.565,77.1972,4,safdarjung-enclave
+IN,India,India,110029,Ansari Nagar,Delhi,07,South West Delhi,097,NA,,28.565,77.1972,3,ansari-nagar
+IN,India,India,110030,Mehrauli,Delhi,07,South West Delhi,097,NA,,28.52,77.1803,4,mehrauli
+IN,India,India,110030,Gadaipur,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,gadaipur
+IN,India,India,110030,T B Hospital,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,t-b-hospital
+IN,India,India,110030,Sultanpur,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,sultanpur
+IN,India,India,110030,Lado Sarai,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,4,lado-sarai
+IN,India,India,110030,Ghitorni,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,ghitorni
+IN,India,India,110030,Paryavaran Complex,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,paryavaran-complex
+IN,India,India,110037,Nangal Dewat,Delhi,07,South West Delhi,097,NA,,28.5522,77.0984,4,nangal-dewat
+IN,India,India,110037,Gurgaon Road,Delhi,07,South West Delhi,097,NA,,28.548,77.1133,3,gurgaon-road
+IN,India,India,110037,Palam Airport,Delhi,07,South West Delhi,097,NA,,28.548,77.1133,3,palam-airport
+IN,India,India,110037,IGI Airport,Delhi,07,South West Delhi,097,NA,,28.548,77.1133,3,igi-airport
+IN,India,India,110037,Mahipalpur,Delhi,07,South West Delhi,097,NA,,28.5437,77.1282,4,mahipalpur
+IN,India,India,110038,Rajokari,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,rajokari
+IN,India,India,110038,A F Rajokari,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,a-f-rajokari
+IN,India,India,110043,Baprola,Delhi,07,South West Delhi,097,New Delhi,,28.5724,77.0274,4,baprola
+IN,India,India,110043,Najafgarh,Delhi,07,South West Delhi,097,New Delhi,,28.6092,76.9798,4,najafgarh
+IN,India,India,110043,Mitraon,Delhi,07,South West Delhi,097,New Delhi,,28.6062,76.946,4,mitraon
+IN,India,India,110043,Dichaun Kalan,Delhi,07,South West Delhi,097,New Delhi,,28.6032,76.9672,3,dichaun-kalan
+IN,India,India,110043,Pandwala Kalan,Delhi,07,South West Delhi,097,New Delhi,,28.6032,76.9672,3,pandwala-kalan
+IN,India,India,110043,Papravat,Delhi,07,South West Delhi,097,New Delhi,,28.6032,76.9672,3,papravat
+IN,India,India,110043,Rewla Khanpur,Delhi,07,South West Delhi,097,New Delhi,,28.6032,76.9672,3,rewla-khanpur
+IN,India,India,110043,Surehra,Delhi,07,South West Delhi,097,New Delhi,,28.6032,76.9672,3,surehra
+IN,India,India,110043,Tilangpur Kotla,Delhi,07,South West Delhi,097,New Delhi,,28.6032,76.9672,3,tilangpur-kotla
+IN,India,India,110043,Jhatikara,Delhi,07,South West Delhi,097,New Delhi,,28.6032,76.9672,3,jhatikara
+IN,India,India,110043,Kair,Delhi,07,South West Delhi,097,New Delhi,,28.6244,76.9176,4,kair
+IN,India,India,110043,Khaira,Delhi,07,South West Delhi,097,New Delhi,,28.5942,76.9701,4,khaira
+IN,India,India,110043,Daulatpur,Delhi,07,South West Delhi,097,New Delhi,,28.5466,76.9593,4,daulatpur
+IN,India,India,110043,Dindarpur,Delhi,07,South West Delhi,097,New Delhi,,28.5981,76.9916,4,dindarpur
+IN,India,India,110045,Nasirpur,Delhi,07,South West Delhi,097,New Delhi,,28.5971,77.0923,4,nasirpur
+IN,India,India,110045,Dabri,Delhi,07,South West Delhi,097,New Delhi,,28.6099,77.0865,4,dabri
+IN,India,India,110045,Palam Village,Delhi,07,South West Delhi,097,New Delhi,,28.6035,77.0894,3,palam-village
+IN,India,India,110045,Indira Park,Delhi,07,South West Delhi,097,New Delhi,,28.6035,77.0894,3,indira-park
+IN,India,India,110046,Sagarpur,Delhi,07,South West Delhi,097,New Delhi,,28.5921,77.1056,4,sagarpur
+IN,India,India,110046,Nangal Raya,Delhi,07,South West Delhi,097,New Delhi,,28.6093,77.1118,4,nangal-raya
+IN,India,India,110047,Aya Nagar,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,aya-nagar
+IN,India,India,110047,Mandi,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,mandi
+IN,India,India,110047,Jaunapur,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,jaunapur
+IN,India,India,110047,Arjungarh,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,arjungarh
+IN,India,India,110057,Vasant Vihar-1,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,vasant-vihar-1
+IN,India,India,110057,Vasant Vihar-2,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,vasant-vihar-2
+IN,India,India,110061,Bijwasan,Delhi,07,South West Delhi,097,NA,,28.5346,77.0536,4,bijwasan
+IN,India,India,110061,Shahbad Mohammadpur,Delhi,07,South West Delhi,097,NA,,28.5346,77.0536,3,shahbad-mohammadpur
+IN,India,India,110064,Mayapuri Shopping Centre,Delhi,07,South West Delhi,097,New Delhi,,28.5724,77.0274,1,mayapuri-shopping-centre
+IN,India,India,110064,Maya Puri,Delhi,07,South West Delhi,097,New Delhi,,28.5724,77.0274,1,maya-puri
+IN,India,India,110066,R K Puram (Main),Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-main
+IN,India,India,110066,R K Puram West,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,r-k-puram-west
+IN,India,India,110067,JNU New Campus,Delhi,07,South West Delhi,097,NA,,28.5553,77.1743,3,jnu-new-campus
+IN,India,India,110067,J.N.U.,Delhi,07,South West Delhi,097,NA,,28.5553,77.1743,3,j-n-u
+IN,India,India,110067,Munirka,Delhi,07,South West Delhi,097,NA,,28.5553,77.1743,4,munirka
+IN,India,India,110068,Maidan Garhi,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,4,maidan-garhi
+IN,India,India,110068,Ignou,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,ignou
+IN,India,India,110070,Masood Pur,Delhi,07,South West Delhi,097,NA,,28.5439,77.1523,3,masood-pur
+IN,India,India,110070,Vasant Kunj Pkt-A,Delhi,07,South West Delhi,097,NA,,28.5439,77.1523,3,vasant-kunj-pkt-a
+IN,India,India,110070,Vasant Kunj,Delhi,07,South West Delhi,097,NA,,28.5439,77.1523,4,vasant-kunj
+IN,India,India,110071,Kangan Heri,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,kangan-heri
+IN,India,India,110071,Badusarai,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,badusarai
+IN,India,India,110071,Chhawla,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,chhawla
+IN,India,India,110071,DC Goyla,Delhi,07,South West Delhi,097,South West Delhi,,28.5458,77.0784,1,dc-goyla
+IN,India,India,110072,CRPF Jharoda Kalan,Delhi,07,South West Delhi,097,NA,,28.6526,76.9521,3,crpf-jharoda-kalan
+IN,India,India,110072,Jharoda Kalan,Delhi,07,South West Delhi,097,NA,,28.6526,76.9521,4,jharoda-kalan
+IN,India,India,110073,Jafarpur,Delhi,07,South West Delhi,097,New Delhi,,28.59,76.9205,4,jafarpur
+IN,India,India,110073,Ghuman Hera,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,ghuman-hera
+IN,India,India,110073,Quazipur,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,quazipur
+IN,India,India,110073,Issapur,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,issapur
+IN,India,India,110073,Ujwa,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,ujwa
+IN,India,India,110073,Khera Dabur,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,khera-dabur
+IN,India,India,110073,Galib Pur,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,galib-pur
+IN,India,India,110073,Mundela Kalan,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,mundela-kalan
+IN,India,India,110073,Malik Pur,Delhi,07,South West Delhi,097,New Delhi,,28.5563,76.8963,3,malik-pur
+IN,India,India,110073,Raota,Delhi,07,South West Delhi,097,New Delhi,,28.5232,76.9019,4,raota
+IN,India,India,110074,Chattarpur,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,4,chattarpur
+IN,India,India,110074,Satbari,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,satbari
+IN,India,India,110074,Fatehpur Beri,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,fatehpur-beri
+IN,India,India,110074,Sanjay Colony Bhati Mines,Delhi,07,South West Delhi,097,South West Delhi,,28.5724,77.0274,3,sanjay-colony-bhati-mines
+IN,India,India,110074,Dera,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,4,dera
+IN,India,India,110074,C.S.K.M. School,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,c-s-k-m-school
+IN,India,India,110074,Chandanhoola,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,3,chandanhoola
+IN,India,India,110074,Sawan Public School,Delhi,07,South West Delhi,097,South West Delhi,,28.5724,77.0274,3,sawan-public-school
+IN,India,India,110075,Dwarka Sec-6,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,dwarka-sec-6
+IN,India,India,110075,District Court Complex Dwarka,Delhi,07,South West Delhi,097,Delhi,,28.5458,77.0784,1,district-court-complex-dwarka
+IN,India,India,110075,Amberhai,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,amberhai
+IN,India,India,110077,Bagdola,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,bagdola
+IN,India,India,110077,Barthal,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,barthal
+IN,India,India,110077,Dhulsiras,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,dhulsiras
+IN,India,India,110077,Raj Nagar - II,Delhi,07,South West Delhi,097,New Delhi,,28.5458,77.0784,1,raj-nagar-ii
+IN,India,India,110078,Kakrola,Delhi,07,South West Delhi,097,New Delhi,,28.6081,77.0193,4,kakrola
+IN,India,India,110078,N.S.I.T. Dwarka,Delhi,07,South West Delhi,097,New Delhi,,28.6081,77.0193,3,n-s-i-t-dwarka
+IN,India,India,110097,Kapashera.,Delhi,07,South West Delhi,097,NA,,28.5724,77.0274,1,kapashera
+IN,India,India,110003,Kasturba Nagar (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5947,77.2264,3,kasturba-nagar-south-delhi
+IN,India,India,110003,C G O Complex,Delhi,07,South Delhi,098,New Delhi,,28.5947,77.2264,3,c-g-o-complex
+IN,India,India,110003,Golf Links,Delhi,07,South Delhi,098,New Delhi,,28.5947,77.2264,3,golf-links
+IN,India,India,110003,Pragati Vihar,Delhi,07,South Delhi,098,New Delhi,,28.5947,77.2264,3,pragati-vihar
+IN,India,India,110003,Safdarjung Air Port,Delhi,07,South Delhi,098,New Delhi,,28.5947,77.2264,3,safdarjung-air-port
+IN,India,India,110003,Lodi Road H.O,Delhi,07,South Delhi,098,New Delhi,,28.5947,77.2264,3,lodi-road-h-o
+IN,India,India,110003,Aliganj (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5838,77.2218,4,aliganj-south-delhi
+IN,India,India,110013,Hazrat Nizamuddin,Delhi,07,South Delhi,098,New Delhi,,28.5878,77.2541,4,hazrat-nizamuddin
+IN,India,India,110013,Dargah Sharif,Delhi,07,South Delhi,098,New Delhi,,28.5878,77.2541,3,dargah-sharif
+IN,India,India,110014,Jeevan Nagar,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,jeevan-nagar
+IN,India,India,110014,Pratap Market,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,pratap-market
+IN,India,India,110014,Jungpura,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,jungpura
+IN,India,India,110014,Hari Nagar Ashram,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,hari-nagar-ashram
+IN,India,India,110017,Saket (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5189,77.2131,4,saket-south-delhi
+IN,India,India,110017,Sarvodya Enclave,Delhi,07,South Delhi,098,New Delhi,,28.5189,77.2131,3,sarvodya-enclave
+IN,India,India,110017,Pushp Vihar,Delhi,07,South Delhi,098,New Delhi,,28.5189,77.2131,3,pushp-vihar
+IN,India,India,110017,South Malviya Nagar,Delhi,07,South Delhi,098,New Delhi,,28.5189,77.2131,3,south-malviya-nagar
+IN,India,India,110017,"Distt. Court Complex,Saket",Delhi,07,South Delhi,098,NA,,28.5189,77.2131,3,distt-court-complex-saket
+IN,India,India,110017,MMTC/STC Colony,Delhi,07,South Delhi,098,New Delhi,,28.5189,77.2131,3,mmtc-stc-colony
+IN,India,India,110017,Malviya Nagar (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5189,77.2131,3,malviya-nagar-south-delhi
+IN,India,India,110017,Panchsheel Enclave,Delhi,07,South Delhi,098,New Delhi,,28.5189,77.2131,3,panchsheel-enclave
+IN,India,India,110019,Nehru Place,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,nehru-place
+IN,India,India,110019,Chittranjan Park,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,chittranjan-park
+IN,India,India,110019,Kalkaji H.O,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,kalkaji-h-o
+IN,India,India,110019,Alaknanda,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,alaknanda
+IN,India,India,110020,Okhla Industrial Estate,Delhi,07,South Delhi,098,New Delhi,,28.5345,77.2779,4,okhla-industrial-estate
+IN,India,India,110020,Tehkhand,Delhi,07,South Delhi,098,New Delhi,,28.5345,77.2779,3,tehkhand
+IN,India,India,110020,C R R I (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5345,77.2779,3,c-r-r-i-south-delhi
+IN,India,India,110020,Okhla Industrial Area Phase-i,Delhi,07,South Delhi,098,New Delhi,,28.5345,77.2779,3,okhla-industrial-area-phase-i
+IN,India,India,110024,Krishna Market,Delhi,07,South Delhi,098,New Delhi,,28.5724,77.2365,3,krishna-market
+IN,India,India,110024,Amar Colony,Delhi,07,South Delhi,098,New Delhi,,28.5724,77.2365,3,amar-colony
+IN,India,India,110024,Lajpat Nagar (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5733,77.2402,4,lajpat-nagar-south-delhi
+IN,India,India,110024,Defence Colony (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5714,77.2327,4,defence-colony-south-delhi
+IN,India,India,110025,Jamia Nagar,Delhi,07,South Delhi,098,New Delhi,,28.5672,77.2725,3,jamia-nagar
+IN,India,India,110025,Sukhdev Vihar,Delhi,07,South Delhi,098,New Delhi,,28.5672,77.2725,3,sukhdev-vihar
+IN,India,India,110025,Zakir Nagar,Delhi,07,South Delhi,098,New Delhi,,28.5672,77.2725,3,zakir-nagar
+IN,India,India,110025,Abul Fazal Enclave-I,Delhi,07,South Delhi,098,NA,,28.5672,77.2725,3,abul-fazal-enclave-i
+IN,India,India,110025,New Friends Colony,Delhi,07,South Delhi,098,New Delhi,,28.5672,77.2725,4,new-friends-colony
+IN,India,India,110044,Molarband,Delhi,07,South Delhi,098,New Delhi,,28.5029,77.3144,4,molarband
+IN,India,India,110044,Lal Kuan,Delhi,07,South Delhi,098,New Delhi,,28.5027,77.3084,3,lal-kuan
+IN,India,India,110044,Jaitpur (South Delhi),Delhi,07,South Delhi,098,NA,,28.5027,77.3084,3,jaitpur-south-delhi
+IN,India,India,110044,Meethapur,Delhi,07,South Delhi,098,New Delhi,,28.5027,77.3084,3,meethapur
+IN,India,India,110044,Tugalkabad Railway Colony,Delhi,07,South Delhi,098,New Delhi,,28.5027,77.3084,3,tugalkabad-railway-colony
+IN,India,India,110044,Jaitpur,Delhi,07,South Delhi,098,New Delhi,,28.5027,77.3084,3,jaitpur
+IN,India,India,110044,Pul Pahladpur,Delhi,07,South Delhi,098,New Delhi,,28.5027,77.3084,3,pul-pahladpur
+IN,India,India,110044,Tugalkabad,Delhi,07,South Delhi,098,New Delhi,,28.5027,77.3084,3,tugalkabad
+IN,India,India,110044,Badarpur (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5025,77.3024,4,badarpur-south-delhi
+IN,India,India,110044,BTPS (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5027,77.3084,3,btps-south-delhi
+IN,India,India,110048,Kailash Colony,Delhi,07,South Delhi,098,New Delhi,,28.5589,77.2531,4,kailash-colony
+IN,India,India,110048,Greater Kailash,Delhi,07,South Delhi,098,New Delhi,,28.5614,77.2384,3,greater-kailash
+IN,India,India,110048,Masjid Moth,Delhi,07,South Delhi,098,New Delhi,,28.5638,77.2236,4,masjid-moth
+IN,India,India,110049,Sahpurjat,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,sahpurjat
+IN,India,India,110049,Gautam Nagar,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,gautam-nagar
+IN,India,India,110049,Sadiq Nagar,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,sadiq-nagar
+IN,India,India,110049,New Delhi South Ext-II,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,new-delhi-south-ext-ii
+IN,India,India,110049,Gulmohar Park,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,gulmohar-park
+IN,India,India,110049,Andrewsganj,Delhi,07,South Delhi,098,New Delhi,,28.5014,77.2274,1,andrewsganj
+IN,India,India,110050,Safdarjung Sorting Delivery Office,Delhi,07,South Delhi,098,South Delhi,,28.5014,77.2274,1,safdarjung-sorting-delivery-office
+IN,India,India,110062,Deoli,Delhi,07,South Delhi,098,New Delhi,,28.5025,77.2312,4,deoli
+IN,India,India,110062,Air Force Station Tugalkabad,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,air-force-station-tugalkabad
+IN,India,India,110062,Khanpur (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5136,77.2275,4,khanpur-south-delhi
+IN,India,India,110062,Dakshinpuri Phase-III,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,dakshinpuri-phase-iii
+IN,India,India,110062,Pushpa Bhawan,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,pushpa-bhawan
+IN,India,India,110062,Dr. Ambedkar Nagar (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,dr-ambedkar-nagar-south-delhi
+IN,India,India,110062,Talimabad,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,talimabad
+IN,India,India,110062,Hamdard Nagar,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,hamdard-nagar
+IN,India,India,110062,BSF Camp Tigri,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,bsf-camp-tigri
+IN,India,India,110062,Dakshinpuri Phase-I,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,dakshinpuri-phase-i
+IN,India,India,110062,Dakshinpuri Phase-II,Delhi,07,South Delhi,098,New Delhi,,28.508,77.2294,3,dakshinpuri-phase-ii
+IN,India,India,110065,Sant Nagar (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5619,77.2553,3,sant-nagar-south-delhi
+IN,India,India,110065,Sriniwaspuri,Delhi,07,South Delhi,098,New Delhi,,28.565,77.2574,4,sriniwaspuri
+IN,India,India,110065,East Of Kailash,Delhi,07,South Delhi,098,New Delhi,,28.5589,77.2531,4,east-of-kailash
+IN,India,India,110065,East Of Kailash Phase-I,Delhi,07,South Delhi,098,New Delhi,,28.5619,77.2553,3,east-of-kailash-phase-i
+IN,India,India,110065,Nehru Nagar (South Delhi),Delhi,07,South Delhi,098,New Delhi,,28.5619,77.2553,3,nehru-nagar-south-delhi
+IN,India,India,110076,Sarita Vihar,Delhi,07,South Delhi,098,New Delhi,,28.525,77.3062,3,sarita-vihar
+IN,India,India,110076,Madanpur Khadar,Delhi,07,South Delhi,098,New Delhi,,28.5339,77.3025,4,madanpur-khadar
+IN,India,India,110076,Ali,Delhi,07,South Delhi,098,New Delhi,,28.5161,77.3099,4,ali
+IN,India,India,110080,Sangam Vihar,Delhi,07,South Delhi,098,South Delhi,,28.5014,77.2274,1,sangam-vihar

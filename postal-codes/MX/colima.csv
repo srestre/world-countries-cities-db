@@ -1,0 +1,817 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+MX,Mexico,México,28300,Armería Centro,Colima,06,Armería,001,Ciudad de Armería,05,18.965,-103.9099,1,armeria-centro
+MX,Mexico,México,28304,Cristo Rey,Colima,06,Armería,001,Ciudad de Armería,05,18.965,-103.9099,1,cristo-rey
+MX,Mexico,México,28304,Lindavista,Colima,06,Armería,001,Ciudad de Armería,05,19.0092,-103.9984,1,lindavista
+MX,Mexico,México,28304,Lázaro Cárdenas,Colima,06,Armería,001,Ciudad de Armería,05,19.0092,-103.9984,1,lazaro-cardenas
+MX,Mexico,México,28305,Ejido,Colima,06,Armería,001,Ciudad de Armería,05,19.0092,-103.9984,4,ejido
+MX,Mexico,México,28306,Emiliano Zapata,Colima,06,Armería,001,Ciudad de Armería,05,19.0092,-103.9984,1,emiliano-zapata
+MX,Mexico,México,28306,Independencia,Colima,06,Armería,001,Ciudad de Armería,05,18.965,-103.9099,1,independencia
+MX,Mexico,México,28307,Sagrado Corazón,Colima,06,Armería,001,Ciudad de Armería,05,18.9306,-103.9864,4,sagrado-corazon
+MX,Mexico,México,28307,El Arenal,Colima,06,Armería,001,Ciudad de Armería,05,18.9656,-103.9496,3,el-arenal
+MX,Mexico,México,28307,Gregorio Torres Quintero,Colima,06,Armería,001,Ciudad de Armería,05,18.9656,-103.9496,3,gregorio-torres-quintero
+MX,Mexico,México,28307,Valle del Sol,Colima,06,Armería,001,Ciudad de Armería,05,18.9656,-103.9496,3,valle-del-sol
+MX,Mexico,México,28307,Hacienda las Primaveras,Colima,06,Armería,001,Ciudad de Armería,05,18.9656,-103.9496,3,hacienda-las-primaveras
+MX,Mexico,México,28307,El Campanario,Colima,06,Armería,001,Ciudad de Armería,05,18.9656,-103.9496,3,el-campanario
+MX,Mexico,México,28307,El Pelillo,Colima,06,Armería,001,Ciudad de Armería,05,19.0006,-103.9128,4,el-pelillo
+MX,Mexico,México,28310,Rincón de Lopez,Colima,06,Armería,001,,,19.0531,-103.9324,4,rincon-de-lopez
+MX,Mexico,México,28315,El Puertecito,Colima,06,Armería,001,,,19.0409,-103.9223,4,el-puertecito
+MX,Mexico,México,28317,Augusto Gómez Villanueva (Coalatilla),Colima,06,Armería,001,,,19.0215,-104.0016,4,augusto-gomez-villanueva-coalatilla
+MX,Mexico,México,28317,Coalatillo,Colima,06,Armería,001,,,19.0215,-104.0016,3,coalatillo
+MX,Mexico,México,28320,Cofradía de Juárez,Colima,06,Armería,001,,,18.9626,-103.9555,4,cofradia-de-juarez
+MX,Mexico,México,28330,Sagrado Corazón,Colima,06,Armería,001,,,18.9306,-103.9864,4,sagrado-corazon
+MX,Mexico,México,28330,Periquillo,Colima,06,Armería,001,,,18.9553,-103.9442,4,periquillo
+MX,Mexico,México,28330,Flor de Coco,Colima,06,Armería,001,,,18.9465,-103.9471,4,flor-de-coco
+MX,Mexico,México,28335,Paseo del Río,Colima,06,Armería,001,,,18.9441,-103.9592,1,paseo-del-rio
+MX,Mexico,México,28340,Los Reyes (Zorrillos),Colima,06,Armería,001,,,18.9819,-104.0631,4,los-reyes-zorrillos
+MX,Mexico,México,28340,Zorrillos,Colima,06,Armería,001,,,18.9819,-104.0631,4,zorrillos
+MX,Mexico,México,28348,El Ciruelo,Colima,06,Armería,001,,,19.0092,-103.9984,4,el-ciruelo
+MX,Mexico,México,28349,Canoa Verde,Colima,06,Armería,001,,,18.9406,-104.1033,4,canoa-verde
+MX,Mexico,México,28350,Cuyutlán,Colima,06,Armería,001,,,18.9194,-104.0687,4,cuyutlan
+MX,Mexico,México,28350,El Paraíso [Balneario],Colima,06,Armería,001,,,18.9194,-104.0687,3,el-paraiso-balneario
+MX,Mexico,México,28362,El Banco de Jicotán,Colima,06,Armería,001,,,18.9724,-103.9905,1,el-banco-de-jicotan
+MX,Mexico,México,28000,Colima Centro,Colima,06,Colima,002,Colima,01,19.2417,-103.719,1,colima-centro
+MX,Mexico,México,28010,Lomas de Circunvalación,Colima,06,Colima,002,Colima,01,19.2506,-103.7138,4,lomas-de-circunvalacion
+MX,Mexico,México,28010,El Diezmo,Colima,06,Colima,002,Colima,01,19.2548,-103.6982,4,el-diezmo
+MX,Mexico,México,28012,ISSSTE Lomas,Colima,06,Colima,002,Colima,01,19.2629,-103.7077,1,issste-lomas
+MX,Mexico,México,28014,Jardines de las Lomas,Colima,06,Colima,002,Colima,01,19.2629,-103.7077,1,jardines-de-las-lomas
+MX,Mexico,México,28016,Lomas Vistahermosa,Colima,06,Colima,002,Colima,01,19.2629,-103.7077,1,lomas-vistahermosa
+MX,Mexico,México,28017,Lomas del Valle,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,lomas-del-valle
+MX,Mexico,México,28017,Paseo de la Cantera,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,paseo-de-la-cantera
+MX,Mexico,México,28017,Villanova,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,villanova
+MX,Mexico,México,28017,Residencial Puerta del Sol,Colima,06,Colima,002,Colima,01,19.2675,-103.7085,4,residencial-puerta-del-sol
+MX,Mexico,México,28017,Las Palmas,Colima,06,Colima,002,Colima,01,19.2612,-103.7176,4,las-palmas
+MX,Mexico,México,28017,Colinas de Santa Fe,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,colinas-de-santa-fe
+MX,Mexico,México,28017,Jardines de La Hacienda,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,jardines-de-la-hacienda
+MX,Mexico,México,28017,Bugambilias,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,bugambilias
+MX,Mexico,México,28017,Santa Gertrudis,Colima,06,Colima,002,Colima,01,19.116,-103.6327,3,santa-gertrudis
+MX,Mexico,México,28017,Residencial Victoria,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,residencial-victoria
+MX,Mexico,México,28017,Villas Colinas,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,villas-colinas
+MX,Mexico,México,28017,Residencial Santa Bárbara,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,residencial-santa-barbara
+MX,Mexico,México,28017,Residencial Real Santa Bárbara,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,residencial-real-santa-barbara
+MX,Mexico,México,28017,Privada San Rafael,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,privada-san-rafael
+MX,Mexico,México,28017,Parque Royal,Colima,06,Colima,002,Colima,01,19.2642,-103.709,4,parque-royal
+MX,Mexico,México,28017,Paseo de la Hacienda,Colima,06,Colima,002,Colima,01,19.2676,-103.7132,3,paseo-de-la-hacienda
+MX,Mexico,México,28017,Jardines Vista Hermosa,Colima,06,Colima,002,Colima,01,19.2546,-103.7095,4,jardines-vista-hermosa
+MX,Mexico,México,28017,Residencial Esmeralda Norte,Colima,06,Colima,002,Colima,01,19.2734,-103.712,4,residencial-esmeralda-norte
+MX,Mexico,México,28017,Colinas de Santa Bárbara,Colima,06,Colima,002,Colima,01,19.2641,-103.7166,4,colinas-de-santa-barbara
+MX,Mexico,México,28017,Lomas Verdes,Colima,06,Colima,002,Colima,01,19.2606,-103.7113,4,lomas-verdes
+MX,Mexico,México,28017,Residencial Los Olivos,Colima,06,Colima,002,Colima,01,19.2693,-103.7078,4,residencial-los-olivos
+MX,Mexico,México,28017,Residencial Esmeralda,Colima,06,Colima,002,Colima,01,19.2734,-103.712,4,residencial-esmeralda
+MX,Mexico,México,28018,Real Vista Hermosa,Colima,06,Colima,002,Colima,01,19.2569,-103.7036,4,real-vista-hermosa
+MX,Mexico,México,28018,Valle Dorado,Colima,06,Colima,002,Colima,01,19.2612,-103.6906,4,valle-dorado
+MX,Mexico,México,28018,Real Vista Hermosa III,Colima,06,Colima,002,Colima,01,19.2596,-103.6998,3,real-vista-hermosa-iii
+MX,Mexico,México,28018,Residencial Santa María,Colima,06,Colima,002,Colima,01,19.2596,-103.6998,3,residencial-santa-maria
+MX,Mexico,México,28018,La Cantera,Colima,06,Colima,002,Colima,01,19.2596,-103.6998,3,la-cantera
+MX,Mexico,México,28018,Hacienda Real,Colima,06,Colima,002,Colima,01,19.2596,-103.6998,3,hacienda-real
+MX,Mexico,México,28018,Puerta Paraíso,Colima,06,Colima,002,Colima,01,19.2585,-103.6918,4,puerta-paraiso
+MX,Mexico,México,28018,Las Pérgolas,Colima,06,Colima,002,Colima,01,19.2607,-103.7048,4,las-pergolas
+MX,Mexico,México,28018,Girasoles,Colima,06,Colima,002,Colima,01,19.2607,-103.7084,4,girasoles
+MX,Mexico,México,28019,El Porvenir,Colima,06,Colima,002,Colima,01,19.2523,-103.6956,4,el-porvenir
+MX,Mexico,México,28020,La Armonía,Colima,06,Colima,002,Colima,01,19.25,-103.7333,4,la-armonia
+MX,Mexico,México,28023,Jardines de Guadalupe,Colima,06,Colima,002,Colima,01,19.2541,-103.7306,1,jardines-de-guadalupe
+MX,Mexico,México,28025,Villa los Prados,Colima,06,Colima,002,Colima,01,19.2583,-103.7278,3,villa-los-prados
+MX,Mexico,México,28025,Niños Héroes,Colima,06,Colima,002,Colima,01,19.2583,-103.7278,4,ninos-heroes
+MX,Mexico,México,28030,Jardines de La Corregidora,Colima,06,Colima,002,Colima,01,19.2505,-103.7255,4,jardines-de-la-corregidora
+MX,Mexico,México,28030,Magisterial,Colima,06,Colima,002,Colima,01,19.2533,-103.7279,4,magisterial
+MX,Mexico,México,28030,Jardines Residenciales,Colima,06,Colima,002,Colima,01,19.2555,-103.7242,4,jardines-residenciales
+MX,Mexico,México,28030,Guadalajarita,Colima,06,Colima,002,Colima,01,19.2523,-103.7193,4,guadalajarita
+MX,Mexico,México,28030,Militar Lomas,Colima,06,Colima,002,Colima,01,19.2523,-103.7202,3,militar-lomas
+MX,Mexico,México,28030,Morelos,Colima,06,Colima,002,Colima,01,19.2502,-103.7041,4,morelos
+MX,Mexico,México,28035,Huertas del Sol,Colima,06,Colima,002,Colima,01,19.2542,-103.7311,4,huertas-del-sol
+MX,Mexico,México,28037,Hidalgo,Colima,06,Colima,002,Colima,01,19.2554,-103.721,4,hidalgo
+MX,Mexico,México,28040,Camino Real,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,camino-real
+MX,Mexico,México,28040,Las Víboras,Colima,06,Colima,002,Colima,01,19.275,-103.6692,3,las-viboras
+MX,Mexico,México,28040,Burócratas Municipales,Colima,06,Colima,002,Colima,01,19.275,-103.6692,3,burocratas-municipales
+MX,Mexico,México,28040,INFONAVIT La Estancia,Colima,06,Colima,002,Colima,01,19.275,-103.6692,3,infonavit-la-estancia
+MX,Mexico,México,28043,INFONAVIT Camino Real,Colima,06,Colima,002,Colima,01,19.2074,-103.7098,1,infonavit-camino-real
+MX,Mexico,México,28044,FOVISSSTE,Colima,06,Colima,002,Colima,01,19.2074,-103.7098,1,fovissste
+MX,Mexico,México,28045,Villa San Sebastián,Colima,06,Colima,002,Colima,01,19.2074,-103.7098,1,villa-san-sebastian
+MX,Mexico,México,28046,Oriental,Colima,06,Colima,002,Colima,01,19.2074,-103.7098,1,oriental
+MX,Mexico,México,28047,Las Américas,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,las-americas
+MX,Mexico,México,28047,Unidad Antorchista,Colima,06,Colima,002,Colima,01,19.2492,-103.6883,4,unidad-antorchista
+MX,Mexico,México,28047,Jardines de La Estancia,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,jardines-de-la-estancia
+MX,Mexico,México,28047,Andares del Jazmín,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,andares-del-jazmin
+MX,Mexico,México,28047,Camino Real,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,camino-real
+MX,Mexico,México,28047,Santa Elena,Colima,06,Colima,002,Colima,01,19.116,-103.6327,3,santa-elena
+MX,Mexico,México,28047,Margaritas,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,margaritas
+MX,Mexico,México,28047,Lomas de Santa Elena,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,lomas-de-santa-elena
+MX,Mexico,México,28047,Lázaro Cárdenas,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,lazaro-cardenas
+MX,Mexico,México,28047,Josefa Ortiz de Domínguez,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,josefa-ortiz-de-dominguez
+MX,Mexico,México,28047,IKAL,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,ikal
+MX,Mexico,México,28047,El Mirador de Colima,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,el-mirador-de-colima
+MX,Mexico,México,28047,Diamantes,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,diamantes
+MX,Mexico,México,28047,San José Norte,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,san-jose-norte
+MX,Mexico,México,28047,Villa de los Pinos,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,villa-de-los-pinos
+MX,Mexico,México,28047,Rivera del Jazmín,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,rivera-del-jazmin
+MX,Mexico,México,28047,Revolución,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,revolucion
+MX,Mexico,México,28047,Real la Floresta,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,real-la-floresta
+MX,Mexico,México,28047,Luis Donaldo Colosio,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,luis-donaldo-colosio
+MX,Mexico,México,28047,La Virgencita,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,la-virgencita
+MX,Mexico,México,28047,Francisco I Madero,Colima,06,Colima,002,Colima,01,19.2823,-103.7028,3,francisco-i-madero
+MX,Mexico,México,28048,La Estancia,Colima,06,Colima,002,Colima,01,19.2376,-103.6814,4,la-estancia
+MX,Mexico,México,28048,Jardines del Sol,Colima,06,Colima,002,Colima,01,19.2581,-103.7373,4,jardines-del-sol
+MX,Mexico,México,28048,Vicente Guerrero,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,vicente-guerrero
+MX,Mexico,México,28048,Moctezuma,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,moctezuma
+MX,Mexico,México,28048,El Pedregal,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,el-pedregal
+MX,Mexico,México,28048,Mirador de La Cumbre II,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,mirador-de-la-cumbre-ii
+MX,Mexico,México,28048,Cuauhtémoc,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,cuauhtemoc
+MX,Mexico,México,28048,Mirador de La Cumbre,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,mirador-de-la-cumbre
+MX,Mexico,México,28048,Gustavo Vázquez Montes,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,gustavo-vazquez-montes
+MX,Mexico,México,28048,Ignacio Zaragoza,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,ignacio-zaragoza
+MX,Mexico,México,28048,Mirador de La Cumbre III,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,mirador-de-la-cumbre-iii
+MX,Mexico,México,28048,Los Jazmines,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,los-jazmines
+MX,Mexico,México,28048,Nuevo Paraíso,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,nuevo-paraiso
+MX,Mexico,México,28048,Nuevo Milenio,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,nuevo-milenio
+MX,Mexico,México,28048,Insurgentes,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,insurgentes
+MX,Mexico,México,28048,Paraíso,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,paraiso
+MX,Mexico,México,28048,San José Sur,Colima,06,Colima,002,Colima,01,19.1708,-103.7174,3,san-jose-sur
+MX,Mexico,México,28048,La Guadalupe,Colima,06,Colima,002,Colima,01,19.1167,-103.5667,4,la-guadalupe
+MX,Mexico,México,28048,San Rafael,Colima,06,Colima,002,Colima,01,19.2615,-103.7199,4,san-rafael
+MX,Mexico,México,28048,Los Ángeles,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,los-angeles
+MX,Mexico,México,28048,Santa Amalia,Colima,06,Colima,002,Colima,01,19.116,-103.6327,3,santa-amalia
+MX,Mexico,México,28050,Privada San Francisco,Colima,06,Colima,002,Colima,01,19.2538,-103.7358,3,privada-san-francisco
+MX,Mexico,México,28050,Rincón del Bosque,Colima,06,Colima,002,Colima,01,19.2558,-103.7365,4,rincon-del-bosque
+MX,Mexico,México,28050,Villas Primaveras,Colima,06,Colima,002,Colima,01,19.2538,-103.7358,3,villas-primaveras
+MX,Mexico,México,28050,Villas del Bosque,Colima,06,Colima,002,Colima,01,19.2538,-103.7358,3,villas-del-bosque
+MX,Mexico,México,28050,Fátima,Colima,06,Colima,002,Colima,01,19.2518,-103.7351,4,fatima
+MX,Mexico,México,28050,Placetas Estadio,Colima,06,Colima,002,Colima,01,19.2538,-103.7358,3,placetas-estadio
+MX,Mexico,México,28060,Residencial San Pablo,Colima,06,Colima,002,Colima,01,19.2046,-103.7171,1,residencial-san-pablo
+MX,Mexico,México,28060,El Moralete,Colima,06,Colima,002,Colima,01,19.2046,-103.7171,1,el-moralete
+MX,Mexico,México,28063,Santa Gertrudis,Colima,06,Colima,002,Colima,01,19.116,-103.6327,3,santa-gertrudis
+MX,Mexico,México,28063,San Carlos,Colima,06,Colima,002,Colima,01,19.116,-103.6327,3,san-carlos
+MX,Mexico,México,28063,Las Haciendas,Colima,06,Colima,002,Colima,01,19.2046,-103.7171,3,las-haciendas
+MX,Mexico,México,28063,Francisco Villa,Colima,06,Colima,002,Colima,01,19.116,-103.6327,3,francisco-villa
+MX,Mexico,México,28063,Rinconada San Pablo,Colima,06,Colima,002,Colima,01,19.2046,-103.7171,3,rinconada-san-pablo
+MX,Mexico,México,28063,Los Volcanes,Colima,06,Colima,002,Colima,01,19.2046,-103.7171,4,los-volcanes
+MX,Mexico,México,28067,De los Trabajadores,Colima,06,Colima,002,Colima,01,19.2046,-103.7171,1,de-los-trabajadores
+MX,Mexico,México,28068,Villa Verde,Colima,06,Colima,002,Colima,01,19.2046,-103.7171,1,villa-verde
+MX,Mexico,México,28070,Los Viveros,Colima,06,Colima,002,Colima,01,19.2554,-103.7221,1,los-viveros
+MX,Mexico,México,28070,Del Periodista,Colima,06,Colima,002,Colima,01,19.2554,-103.7221,1,del-periodista
+MX,Mexico,México,28070,Benito Juárez,Colima,06,Colima,002,Colima,01,19.116,-103.6327,1,benito-juarez
+MX,Mexico,México,28070,Popular,Colima,06,Colima,002,Colima,01,19.2554,-103.7221,1,popular
+MX,Mexico,México,28075,Parque Industrial,Colima,06,Colima,002,Colima,01,19.2554,-103.7221,1,parque-industrial
+MX,Mexico,México,28077,Arboledas,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,arboledas
+MX,Mexico,México,28077,José Pimentel Llerenas,Colima,06,Colima,002,Colima,01,19.2774,-103.7275,3,jose-pimentel-llerenas
+MX,Mexico,México,28077,Rinconada del Pereyra,Colima,06,Colima,002,Colima,01,19.2774,-103.7275,3,rinconada-del-pereyra
+MX,Mexico,México,28078,El Prado,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,el-prado
+MX,Mexico,México,28078,Las Fuentes,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,las-fuentes
+MX,Mexico,México,28078,Arboledas de La Hacienda,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,arboledas-de-la-hacienda
+MX,Mexico,México,28078,INDECO Albarrada,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,indeco-albarrada
+MX,Mexico,México,28078,El Yaqui,Colima,06,Colima,002,Colima,01,19.116,-103.6327,3,el-yaqui
+MX,Mexico,México,28078,Residencial Prados del Sur,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,residencial-prados-del-sur
+MX,Mexico,México,28078,Valle Real,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,valle-real
+MX,Mexico,México,28078,Real de Don Juan,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,real-de-don-juan
+MX,Mexico,México,28078,La Rivera,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,3,la-rivera
+MX,Mexico,México,28078,La Albarrada,Colima,06,Colima,002,Colima,01,19.2333,-103.7167,4,la-albarrada
+MX,Mexico,México,28079,Parajes del Sur,Colima,06,Colima,002,Colima,01,19.2554,-103.7221,1,parajes-del-sur
+MX,Mexico,México,28079,Gregorio Torres Quintero,Colima,06,Colima,002,Colima,01,19.2554,-103.7221,1,gregorio-torres-quintero
+MX,Mexico,México,28079,Villas del Sur,Colima,06,Colima,002,Colima,01,19.2554,-103.7221,1,villas-del-sur
+MX,Mexico,México,28080,El Tivoli,Colima,06,Colima,002,Colima,01,19.1931,-103.8022,1,el-tivoli
+MX,Mexico,México,28085,Juana de Asbaje,Colima,06,Colima,002,Colima,01,19.1931,-103.8022,3,juana-de-asbaje
+MX,Mexico,México,28085,La Esperanza,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,la-esperanza
+MX,Mexico,México,28085,Los Sauces,Colima,06,Colima,002,Colima,01,19.2139,-103.7408,4,los-sauces
+MX,Mexico,México,28089,Quinta El Tívoli,Colima,06,Colima,002,Colima,01,19.1931,-103.8022,1,quinta-el-tivoli
+MX,Mexico,México,28089,Bosques del Sur,Colima,06,Colima,002,Colima,01,19.1931,-103.8022,1,bosques-del-sur
+MX,Mexico,México,28089,Leonardo B Gutiérrez,Colima,06,Colima,002,Colima,01,19.1931,-103.8022,1,leonardo-b-gutierrez
+MX,Mexico,México,28090,El Tecolote,Colima,06,Colima,002,Colima,01,19.2494,-103.7858,3,el-tecolote
+MX,Mexico,México,28090,Las Bugambilias,Colima,06,Colima,002,Colima,01,19.116,-103.6327,4,las-bugambilias
+MX,Mexico,México,28600,Ticuizitán,Colima,06,Colima,002,,,19.0753,-103.5971,3,ticuizitan
+MX,Mexico,México,28600,Piscila,Colima,06,Colima,002,,,19.1589,-103.701,4,piscila
+MX,Mexico,México,28600,Los Tepames,Colima,06,Colima,002,,,19.0939,-103.6225,4,los-tepames
+MX,Mexico,México,28600,El Amarradero,Colima,06,Colima,002,,,19.061,-103.5935,4,el-amarradero
+MX,Mexico,México,28600,Estapilla,Colima,06,Colima,002,,,18.9766,-103.5324,4,estapilla
+MX,Mexico,México,28600,Tinajas,Colima,06,Colima,002,,,19.0427,-103.5837,4,tinajas
+MX,Mexico,México,28600,Puerta de Ánzar,Colima,06,Colima,002,,,19.1187,-103.5492,4,puerta-de-anzar
+MX,Mexico,México,28602,Las Anonas,Colima,06,Colima,002,,,19.116,-103.6327,4,las-anonas
+MX,Mexico,México,28602,La Tabaquera,Colima,06,Colima,002,,,19.116,-103.6327,4,la-tabaquera
+MX,Mexico,México,28610,Francisco I Madero,Colima,06,Colima,002,,,19.2947,-103.7058,3,francisco-i-madero
+MX,Mexico,México,28610,El Chanal,Colima,06,Colima,002,,,19.2947,-103.7058,4,el-chanal
+MX,Mexico,México,28613,La Capacha,Colima,06,Colima,002,,,19.2825,-103.6905,4,la-capacha
+MX,Mexico,México,28615,La Puerta Pesada,Colima,06,Colima,002,,,19.2674,-103.6848,1,la-puerta-pesada
+MX,Mexico,México,28619,Cardona,Colima,06,Colima,002,,,19.2249,-103.658,4,cardona
+MX,Mexico,México,28620,J. Jesús Ríos,Colima,06,Colima,002,,,19.2305,-103.7679,3,j-jesus-rios
+MX,Mexico,México,28620,Ejidal,Colima,06,Colima,002,,,19.2305,-103.7679,3,ejidal
+MX,Mexico,México,28620,Lo de Villa,Colima,06,Colima,002,,,19.2305,-103.7679,4,lo-de-villa
+MX,Mexico,México,28626,El Alpuyequito,Colima,06,Colima,002,,,19.1816,-103.7216,4,el-alpuyequito
+MX,Mexico,México,28627,Loma de Juárez (El Mezquite),Colima,06,Colima,002,,,19.1944,-103.7489,4,loma-de-juarez-el-mezquite
+MX,Mexico,México,28628,Los Mezcales,Colima,06,Colima,002,,,19.1593,-103.7701,4,los-mezcales
+MX,Mexico,México,28629,Loma de Juárez,Colima,06,Colima,002,,,19.1943,-103.7478,4,loma-de-juarez
+MX,Mexico,México,28629,Las Golondrinas,Colima,06,Colima,002,,,19.1374,-103.7653,4,las-golondrinas
+MX,Mexico,México,28630,El Bordo,Colima,06,Colima,002,,,19.2077,-103.5317,4,el-bordo
+MX,Mexico,México,28633,La Media Luna,Colima,06,Colima,002,,,19.2104,-103.5612,4,la-media-luna
+MX,Mexico,México,28634,El Astillero de Arriba,Colima,06,Colima,002,,,19.1883,-103.5564,4,el-astillero-de-arriba
+MX,Mexico,México,28634,El Astillero de Abajo,Colima,06,Colima,002,,,19.1821,-103.5798,4,el-astillero-de-abajo
+MX,Mexico,México,28634,Trapichillos,Colima,06,Colima,002,,,19.1611,-103.5266,4,trapichillos
+MX,Mexico,México,28635,Ignacio Allende,Colima,06,Colima,002,,,19.2051,-103.5866,4,ignacio-allende
+MX,Mexico,México,28638,Corralitos,Colima,06,Colima,002,,,19.1886,-103.5528,4,corralitos
+MX,Mexico,México,28640,Los Asmoles,Colima,06,Colima,002,,,19.1207,-103.7727,4,los-asmoles
+MX,Mexico,México,28640,La Salada,Colima,06,Colima,002,,,19.116,-103.6327,4,la-salada
+MX,Mexico,México,28641,El Alpuyeque,Colima,06,Colima,002,,,19.2021,-103.7154,4,el-alpuyeque
+MX,Mexico,México,28645,Acatitán,Colima,06,Colima,002,,,19.1458,-103.7234,4,acatitan
+MX,Mexico,México,28646,Las Guásimas (Las Borregas),Colima,06,Colima,002,,,19.1164,-103.725,4,las-guasimas-las-borregas
+MX,Mexico,México,28647,Los Ortices,Colima,06,Colima,002,,,19.113,-103.7334,4,los-ortices
+MX,Mexico,México,28650,Paso del Zarco,Colima,06,Colima,002,,,19.173,-103.5963,4,paso-del-zarco
+MX,Mexico,México,28655,La Higuerita,Colima,06,Colima,002,,,19.0493,-103.6297,4,la-higuerita
+MX,Mexico,México,28668,Las Tunas,Colima,06,Colima,002,,,18.9093,-103.5527,4,las-tunas
+MX,Mexico,México,28450,La Trinidad,Colima,06,Comala,003,,,19.3249,-103.7632,4,la-trinidad
+MX,Mexico,México,28450,Zacualpan,Colima,06,Comala,003,,,19.3632,-103.8243,4,zacualpan
+MX,Mexico,México,28450,Cuauhtémoc,Colima,06,Comala,003,,,19.3934,-103.7699,4,cuauhtemoc
+MX,Mexico,México,28450,Lomas de Comala,Colima,06,Comala,003,,,19.319,-103.7678,4,lomas-de-comala
+MX,Mexico,México,28450,Real Nogueras,Colima,06,Comala,003,,,19.3254,-103.7554,3,real-nogueras
+MX,Mexico,México,28450,Lomas Altas,Colima,06,Comala,003,,,19.3934,-103.7699,4,lomas-altas
+MX,Mexico,México,28450,Celsa Virgen,Colima,06,Comala,003,,,19.3254,-103.7554,3,celsa-virgen
+MX,Mexico,México,28450,Solidaridad Aguajitos,Colima,06,Comala,003,,,19.3295,-103.7656,4,solidaridad-aguajitos
+MX,Mexico,México,28450,Aguajitos,Colima,06,Comala,003,,,19.3295,-103.7656,4,aguajitos
+MX,Mexico,México,28450,Lomas del Pedregal,Colima,06,Comala,003,,,19.319,-103.7678,4,lomas-del-pedregal
+MX,Mexico,México,28450,Campo Verde,Colima,06,Comala,003,,,19.334,-103.7617,4,campo-verde
+MX,Mexico,México,28450,Comala,Colima,06,Comala,003,,,19.3272,-103.7593,4,comala
+MX,Mexico,México,28450,Campestre Comala,Colima,06,Comala,003,,,19.3127,-103.7647,4,campestre-comala
+MX,Mexico,México,28450,Lázaro Cárdenas,Colima,06,Comala,003,,,19.3228,-103.7511,4,lazaro-cardenas
+MX,Mexico,México,28450,Campestre San Juan,Colima,06,Comala,003,,,19.3254,-103.7554,3,campestre-san-juan
+MX,Mexico,México,28450,Miguel de La Madrid Hurtado,Colima,06,Comala,003,,,19.33,-103.7497,4,miguel-de-la-madrid-hurtado
+MX,Mexico,México,28450,Francisco Ramírez Villarreal,Colima,06,Comala,003,,,19.3254,-103.7554,3,francisco-ramirez-villarreal
+MX,Mexico,México,28450,Barrio Alto,Colima,06,Comala,003,,,19.3254,-103.7554,3,barrio-alto
+MX,Mexico,México,28450,Real de Mendoza,Colima,06,Comala,003,,,19.3254,-103.7554,3,real-de-mendoza
+MX,Mexico,México,28450,La Cañada,Colima,06,Comala,003,,,19.3041,-103.7796,4,la-canada
+MX,Mexico,México,28450,Los Aguajes,Colima,06,Comala,003,,,19.3283,-103.7612,4,los-aguajes
+MX,Mexico,México,28450,Santa Cecilia,Colima,06,Comala,003,,,19.3325,-103.7632,4,santa-cecilia
+MX,Mexico,México,28452,La Caja,Colima,06,Comala,003,,,19.3707,-103.7991,4,la-caja
+MX,Mexico,México,28454,La Yerbabuena,Colima,06,Comala,003,,,19.4758,-103.685,4,la-yerbabuena
+MX,Mexico,México,28454,Nogueras,Colima,06,Comala,003,,,19.3236,-103.74,4,nogueras
+MX,Mexico,México,28455,Los Llanitos,Colima,06,Comala,003,,,19.3241,-103.7495,4,los-llanitos
+MX,Mexico,México,28457,Los Corrales,Colima,06,Comala,003,,,19.337,-103.751,1,los-corrales
+MX,Mexico,México,28459,Suchitlán,Colima,06,Comala,003,,,19.3754,-103.7114,4,suchitlan
+MX,Mexico,México,28460,La Nogalera,Colima,06,Comala,003,,,19.3947,-103.705,4,la-nogalera
+MX,Mexico,México,28460,Cofradía de Suchitlán,Colima,06,Comala,003,,,19.4095,-103.7004,4,cofradia-de-suchitlan
+MX,Mexico,México,28461,El Remate,Colima,06,Comala,003,,,19.4194,-103.796,4,el-remate
+MX,Mexico,México,28462,Lagunitas,Colima,06,Comala,003,,,19.4176,-103.7459,1,lagunitas
+MX,Mexico,México,28463,Barranca del Agua,Colima,06,Comala,003,,,19.4423,-103.714,4,barranca-del-agua
+MX,Mexico,México,28463,San Antonio,Colima,06,Comala,003,,,19.4333,-103.75,4,san-antonio
+MX,Mexico,México,28464,La Becerrera,Colima,06,Comala,003,,,19.4535,-103.7159,4,la-becerrera
+MX,Mexico,México,28464,La María,Colima,06,Comala,003,,,19.4578,-103.7061,4,la-maria
+MX,Mexico,México,28465,Los Colomos,Colima,06,Comala,003,,,19.4039,-103.7519,4,los-colomos
+MX,Mexico,México,28466,El Remudadero,Colima,06,Comala,003,,,19.4172,-103.7515,4,el-remudadero
+MX,Mexico,México,28466,Colomitos,Colima,06,Comala,003,,,19.4264,-103.7782,4,colomitos
+MX,Mexico,México,28466,Agosto,Colima,06,Comala,003,,,19.3994,-103.7292,4,agosto
+MX,Mexico,México,28469,Campo Cuatro,Colima,06,Comala,003,,,19.3542,-103.8525,4,campo-cuatro
+MX,Mexico,México,28400,Elías Zamora Verduzco,Colima,06,Coquimatlán,004,,,19.2078,-103.8378,3,elias-zamora-verduzco
+MX,Mexico,México,28400,El Chical,Colima,06,Coquimatlán,004,,,19.2369,-103.8475,4,el-chical
+MX,Mexico,México,28400,San Miguel,Colima,06,Coquimatlán,004,,,19.1881,-103.9208,3,san-miguel
+MX,Mexico,México,28400,Las Higueras,Colima,06,Coquimatlán,004,,,19.1881,-103.9208,4,las-higueras
+MX,Mexico,México,28400,Emiliano Zapata,Colima,06,Coquimatlán,004,,,19.1881,-103.9208,3,emiliano-zapata
+MX,Mexico,México,28400,Camichines,Colima,06,Coquimatlán,004,,,19.2067,-103.8178,4,camichines
+MX,Mexico,México,28400,Valle de las Huertas,Colima,06,Coquimatlán,004,,,19.2078,-103.8378,3,valle-de-las-huertas
+MX,Mexico,México,28400,Cazumba,Colima,06,Coquimatlán,004,,,19.2078,-103.8378,3,cazumba
+MX,Mexico,México,28400,Jardines del Llano,Colima,06,Coquimatlán,004,,,19.1881,-103.9208,4,jardines-del-llano
+MX,Mexico,México,28400,Coquimatlán,Colima,06,Coquimatlán,004,,,19.2062,-103.8095,4,coquimatlan
+MX,Mexico,México,28400,Agua Zarca,Colima,06,Coquimatlán,004,,,19.2156,-103.9349,4,agua-zarca
+MX,Mexico,México,28400,Jala,Colima,06,Coquimatlán,004,,,19.1276,-103.8543,4,jala
+MX,Mexico,México,28400,La Sidra,Colima,06,Coquimatlán,004,,,19.2499,-103.985,4,la-sidra
+MX,Mexico,México,28400,La Esperanza,Colima,06,Coquimatlán,004,,,19.1723,-103.8635,4,la-esperanza
+MX,Mexico,México,28400,Las Moras,Colima,06,Coquimatlán,004,,,19.1881,-103.9208,3,las-moras
+MX,Mexico,México,28402,El Poblado,Colima,06,Coquimatlán,004,,,19.2408,-103.8308,4,el-poblado
+MX,Mexico,México,28403,Los Limones,Colima,06,Coquimatlán,004,,,19.2368,-103.781,4,los-limones
+MX,Mexico,México,28405,El Algodonal,Colima,06,Coquimatlán,004,,,19.1333,-103.8875,4,el-algodonal
+MX,Mexico,México,28410,Juárez,Colima,06,Coquimatlán,004,,,19.3238,-103.7725,1,juarez
+MX,Mexico,México,28500,El Rastro,Colima,06,Cuauhtémoc,005,,,19.3286,-103.6028,3,el-rastro
+MX,Mexico,México,28500,El Toreo,Colima,06,Cuauhtémoc,005,,,19.3286,-103.6028,3,el-toreo
+MX,Mexico,México,28500,Cuauhtémoc,Colima,06,Cuauhtémoc,005,,,19.3286,-103.6028,4,cuauhtemoc
+MX,Mexico,México,28504,San Rafael,Colima,06,Cuauhtémoc,005,,,19.3268,-103.5954,3,san-rafael
+MX,Mexico,México,28504,La Escondida,Colima,06,Cuauhtémoc,005,,,19.3268,-103.5954,3,la-escondida
+MX,Mexico,México,28504,Los Monos,Colima,06,Cuauhtémoc,005,,,19.1294,-103.7676,3,los-monos
+MX,Mexico,México,28504,Lomas Santa Cruz,Colima,06,Cuauhtémoc,005,,,19.1294,-103.7676,3,lomas-santa-cruz
+MX,Mexico,México,28504,Griselda Alvarez Ponce de León,Colima,06,Cuauhtémoc,005,,,19.1294,-103.7676,3,griselda-alvarez-ponce-de-leon
+MX,Mexico,México,28504,Campestre San Fermín,Colima,06,Cuauhtémoc,005,,,19.1294,-103.7676,3,campestre-san-fermin
+MX,Mexico,México,28504,La Cayetana,Colima,06,Cuauhtémoc,005,,,19.1294,-103.7676,3,la-cayetana
+MX,Mexico,México,28504,La Presa,Colima,06,Cuauhtémoc,005,,,19.3268,-103.5954,4,la-presa
+MX,Mexico,México,28506,Emiliano Zapata,Colima,06,Cuauhtémoc,005,,,19.3268,-103.5954,1,emiliano-zapata
+MX,Mexico,México,28506,San Jerónimo,Colima,06,Cuauhtémoc,005,,,19.26,-103.6632,1,san-jeronimo
+MX,Mexico,México,28507,Las Higueras,Colima,06,Cuauhtémoc,005,,,19.3221,-103.6192,4,las-higueras
+MX,Mexico,México,28507,Valle Real,Colima,06,Cuauhtémoc,005,,,19.3221,-103.6192,3,valle-real
+MX,Mexico,México,28509,Estación Alzada,Colima,06,Cuauhtémoc,005,,,19.26,-103.6632,1,estacion-alzada
+MX,Mexico,México,28510,Quesería,Colima,06,Cuauhtémoc,005,,,19.3871,-103.5724,4,queseria
+MX,Mexico,México,28513,Ermita,Colima,06,Cuauhtémoc,005,,,19.3268,-103.5954,4,ermita
+MX,Mexico,México,28514,La Cruz,Colima,06,Cuauhtémoc,005,,,19.3268,-103.5954,1,la-cruz
+MX,Mexico,México,28515,Concepción Barbosa,Colima,06,Cuauhtémoc,005,,,19.3192,-103.6675,1,concepcion-barbosa
+MX,Mexico,México,28516,Arsenio Farell Cubillas,Colima,06,Cuauhtémoc,005,,,19.3192,-103.6675,1,arsenio-farell-cubillas
+MX,Mexico,México,28517,Solidaridad,Colima,06,Cuauhtémoc,005,,,19.3268,-103.5954,4,solidaridad
+MX,Mexico,México,28520,Alcaraces,Colima,06,Cuauhtémoc,005,,,19.3643,-103.5768,4,alcaraces
+MX,Mexico,México,28521,Palmillas,Colima,06,Cuauhtémoc,005,,,19.3519,-103.5515,4,palmillas
+MX,Mexico,México,28522,El Barro,Colima,06,Cuauhtémoc,005,,,19.3507,-103.5613,1,el-barro
+MX,Mexico,México,28523,Cerro Colorado,Colima,06,Cuauhtémoc,005,,,19.3359,-103.5558,4,cerro-colorado
+MX,Mexico,México,28530,Chiapa,Colima,06,Cuauhtémoc,005,,,19.3371,-103.6539,4,chiapa
+MX,Mexico,México,28530,Ocotillo,Colima,06,Cuauhtémoc,005,,,19.3334,-103.6501,4,ocotillo
+MX,Mexico,México,28531,Montitlán,Colima,06,Cuauhtémoc,005,,,19.4009,-103.6198,4,montitlan
+MX,Mexico,México,28532,Naranjal,Colima,06,Cuauhtémoc,005,,,19.3571,-103.6413,1,naranjal
+MX,Mexico,México,28550,San Joaquín,Colima,06,Cuauhtémoc,005,,,19.2767,-103.6472,4,san-joaquin
+MX,Mexico,México,28550,El Trapiche,Colima,06,Cuauhtémoc,005,,,19.2779,-103.6609,4,el-trapiche
+MX,Mexico,México,28550,El Campanario,Colima,06,Cuauhtémoc,005,,,19.2773,-103.6541,3,el-campanario
+MX,Mexico,México,28553,El Cóbano,Colima,06,Cuauhtémoc,005,,,19.3061,-103.6412,4,el-cobano
+MX,Mexico,México,28554,El Parián,Colima,06,Cuauhtémoc,005,,,19.3027,-103.6418,4,el-parian
+MX,Mexico,México,28555,La Palma,Colima,06,Cuauhtémoc,005,,,19.2897,-103.6316,4,la-palma
+MX,Mexico,México,28557,ISENCO,Colima,06,Cuauhtémoc,005,,,19.2906,-103.6446,1,isenco
+MX,Mexico,México,28590,Buenavista,Colima,06,Cuauhtémoc,005,,,19.2504,-103.6111,4,buenavista
+MX,Mexico,México,28597,Bajío de la Leona,Colima,06,Cuauhtémoc,005,,,19.215,-103.5679,4,bajio-de-la-leona
+MX,Mexico,México,28599,Colima (Lic. Miguel de la Madrid Hurtado),Colima,06,Cuauhtémoc,005,,,19.2327,-103.5895,1,colima-lic-miguel-de-la-madrid-hurtado
+MX,Mexico,México,28700,Mojotal,Colima,06,Ixtlahuacán,006,,,18.9887,-103.6632,3,mojotal
+MX,Mexico,México,28700,Ojo de Agua,Colima,06,Ixtlahuacán,006,,,18.9762,-103.5901,4,ojo-de-agua
+MX,Mexico,México,28700,6 de Enero,Colima,06,Ixtlahuacán,006,,,18.9887,-103.6632,3,6-de-enero
+MX,Mexico,México,28700,Ixtlahuácan,Colima,06,Ixtlahuacán,006,,,19.0012,-103.7364,4,ixtlahuacan
+MX,Mexico,México,28700,11 Pueblos,Colima,06,Ixtlahuacán,006,,,18.9887,-103.6632,3,11-pueblos
+MX,Mexico,México,28700,Los Gobernadores,Colima,06,Ixtlahuacán,006,,,18.9887,-103.6632,3,los-gobernadores
+MX,Mexico,México,28703,Jiliotupa,Colima,06,Ixtlahuacán,006,,,19.0556,-103.7553,4,jiliotupa
+MX,Mexico,México,28704,Las Trancas,Colima,06,Ixtlahuacán,006,,,19.05,-103.7129,4,las-trancas
+MX,Mexico,México,28705,Lázaro Cárdenas,Colima,06,Ixtlahuacán,006,,,19.0069,-103.7131,4,lazaro-cardenas
+MX,Mexico,México,28705,La Presa (Barranca del Rebozo),Colima,06,Ixtlahuacán,006,,,19.0069,-103.7131,3,la-presa-barranca-del-rebozo
+MX,Mexico,México,28720,Aquiles Serdán (Tamala),Colima,06,Ixtlahuacán,006,,,19.0049,-103.7571,4,aquiles-serdan-tamala
+MX,Mexico,México,28724,San Gabriel,Colima,06,Ixtlahuacán,006,,,18.915,-103.7317,4,san-gabriel
+MX,Mexico,México,28730,La Tunita,Colima,06,Ixtlahuacán,006,,,18.9288,-103.6489,4,la-tunita
+MX,Mexico,México,28730,Chamila,Colima,06,Ixtlahuacán,006,,,18.9495,-103.6854,4,chamila
+MX,Mexico,México,28730,Zinacamitlán (Los Chicos),Colima,06,Ixtlahuacán,006,,,18.9794,-103.696,4,zinacamitlan-los-chicos
+MX,Mexico,México,28730,Santa Inés,Colima,06,Ixtlahuacán,006,,,18.9196,-103.6727,4,santa-ines
+MX,Mexico,México,28733,Las Anonas,Colima,06,Ixtlahuacán,006,,,19.0127,-103.631,4,las-anonas
+MX,Mexico,México,28733,La Tepamera,Colima,06,Ixtlahuacán,006,,,18.9913,-103.6424,4,la-tepamera
+MX,Mexico,México,28734,Agua de la Virgen,Colima,06,Ixtlahuacán,006,,,18.9382,-103.6272,4,agua-de-la-virgen
+MX,Mexico,México,28734,El Aserradero,Colima,06,Ixtlahuacán,006,,,18.9283,-103.6082,4,el-aserradero
+MX,Mexico,México,28734,El Camichín (Veintiséis de Julio),Colima,06,Ixtlahuacán,006,,,18.9333,-103.6177,3,el-camichin-veintiseis-de-julio
+MX,Mexico,México,28735,Las Conchas,Colima,06,Ixtlahuacán,006,,,18.8853,-103.6329,4,las-conchas
+MX,Mexico,México,28735,El Capire,Colima,06,Ixtlahuacán,006,,,18.9076,-103.6611,4,el-capire
+MX,Mexico,México,28735,Higueras de Santa Rosa,Colima,06,Ixtlahuacán,006,,,18.9111,-103.6628,4,higueras-de-santa-rosa
+MX,Mexico,México,28736,El Galaje,Colima,06,Ixtlahuacán,006,,,18.9411,-103.6517,1,el-galaje
+MX,Mexico,México,28200,Manzanillo Centro,Colima,06,Manzanillo,007,Manzanillo,02,19.1339,-104.5153,1,manzanillo-centro
+MX,Mexico,México,28209,Manzanillo (Playa de Oro),Colima,06,Manzanillo,007,Manzanillo,02,19.1339,-104.5153,4,manzanillo-playa-de-oro
+MX,Mexico,México,28210,Las Brisas,Colima,06,Manzanillo,007,Manzanillo,02,19.1172,-104.2654,1,las-brisas
+MX,Mexico,México,28217,Morelos,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,1,morelos
+MX,Mexico,México,28218,Playa Azul,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,playa-azul
+MX,Mexico,México,28218,Del Mar,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,4,del-mar
+MX,Mexico,México,28218,Aeroméxico,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,aeromexico
+MX,Mexico,México,28219,Las Garzas,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,las-garzas
+MX,Mexico,México,28219,Lomas del Valle,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,lomas-del-valle
+MX,Mexico,México,28219,La Esperanza,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,4,la-esperanza
+MX,Mexico,México,28219,Villa Mar,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,villa-mar
+MX,Mexico,México,28219,Los Corales,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,los-corales
+MX,Mexico,México,28219,Valle de las Garzas,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,valle-de-las-garzas
+MX,Mexico,México,28219,Armada de México,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,armada-de-mexico
+MX,Mexico,México,28219,Soleares,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,soleares
+MX,Mexico,México,28219,Los Ciruelos,Colima,06,Manzanillo,007,Manzanillo,02,19.0494,-104.2725,4,los-ciruelos
+MX,Mexico,México,28219,Playa Blanca,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,playa-blanca
+MX,Mexico,México,28219,Barrio 5,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,barrio-5
+MX,Mexico,México,28219,El Pacifico,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,el-pacifico
+MX,Mexico,México,28219,Playa Esmeralda,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,playa-esmeralda
+MX,Mexico,México,28219,Playa Real,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,playa-real
+MX,Mexico,México,28219,Plainco,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,plainco
+MX,Mexico,México,28219,Villa Océano,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,villa-oceano
+MX,Mexico,México,28219,Del Sol,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,del-sol
+MX,Mexico,México,28219,Villa Coral,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,villa-coral
+MX,Mexico,México,28219,Residencial las Gaviotas,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,residencial-las-gaviotas
+MX,Mexico,México,28219,Residencial Villa del Mar,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,residencial-villa-del-mar
+MX,Mexico,México,28219,Conjunto Primaveras,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,conjunto-primaveras
+MX,Mexico,México,28219,Rinconada del Valle,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,rinconada-del-valle
+MX,Mexico,México,28219,FETSE,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,fetse
+MX,Mexico,México,28219,Parque industrial FONDEPORT,Colima,06,Manzanillo,007,Manzanillo,02,19.1185,-104.2171,3,parque-industrial-fondeport
+MX,Mexico,México,28219,Playa de Oro,Colima,06,Manzanillo,007,Manzanillo,02,19.1339,-104.5153,4,playa-de-oro
+MX,Mexico,México,28230,Ignacio Zaragoza,Colima,06,Manzanillo,007,Manzanillo,02,19.194,-104.2468,1,ignacio-zaragoza
+MX,Mexico,México,28230,Las Joyas,Colima,06,Manzanillo,007,Manzanillo,02,19.194,-104.2468,1,las-joyas
+MX,Mexico,México,28230,El Rocío,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,1,el-rocio
+MX,Mexico,México,28236,Manzanillo,Colima,06,Manzanillo,007,Manzanillo,02,19.1169,-104.3421,4,manzanillo
+MX,Mexico,México,28237,Punta Grande,Colima,06,Manzanillo,007,Manzanillo,02,19.3087,-104.1339,3,punta-grande
+MX,Mexico,México,28237,Las Torres,Colima,06,Manzanillo,007,Manzanillo,02,19.2553,-104.1761,4,las-torres
+MX,Mexico,México,28237,La Gasera,Colima,06,Manzanillo,007,Manzanillo,02,19.3087,-104.1339,3,la-gasera
+MX,Mexico,México,28237,Leandro Valle,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,leandro-valle
+MX,Mexico,México,28237,Benito Juárez,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,4,benito-juarez
+MX,Mexico,México,28238,Bellavista,Colima,06,Manzanillo,007,Manzanillo,02,19.194,-104.2468,1,bellavista
+MX,Mexico,México,28239,San Carlos,Colima,06,Manzanillo,007,Manzanillo,02,19.1664,-104.3406,4,san-carlos
+MX,Mexico,México,28239,Primavera,Colima,06,Manzanillo,007,Manzanillo,02,19.1178,-104.312,3,primavera
+MX,Mexico,México,28239,Loma Alta,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,loma-alta
+MX,Mexico,México,28239,16 de Septiembre,Colima,06,Manzanillo,007,Manzanillo,02,19.1178,-104.312,3,16-de-septiembre
+MX,Mexico,México,28239,Isla Real,Colima,06,Manzanillo,007,Manzanillo,02,19.1178,-104.312,3,isla-real
+MX,Mexico,México,28239,La Negrita,Colima,06,Manzanillo,007,Manzanillo,02,19.1178,-104.312,3,la-negrita
+MX,Mexico,México,28239,Lomas de Gregorio Figueroa,Colima,06,Manzanillo,007,Manzanillo,02,19.1178,-104.312,3,lomas-de-gregorio-figueroa
+MX,Mexico,México,28239,Tapeixtles,Colima,06,Manzanillo,007,Manzanillo,02,19.0691,-104.2834,4,tapeixtles
+MX,Mexico,México,28239,INDECO,Colima,06,Manzanillo,007,Manzanillo,02,19.1178,-104.312,3,indeco
+MX,Mexico,México,28240,Punta Chica,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,punta-chica
+MX,Mexico,México,28250,Burócrata,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,burocrata
+MX,Mexico,México,28259,San Pedrito,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,san-pedrito
+MX,Mexico,México,28260,Libertad,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,1,libertad
+MX,Mexico,México,28269,Cuauhtémoc,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,1,cuauhtemoc
+MX,Mexico,México,28269,Alameda,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,alameda
+MX,Mexico,México,28270,Padre Hidalgo,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,padre-hidalgo
+MX,Mexico,México,28277,IMSS,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,imss
+MX,Mexico,México,28278,Pedregoza,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,pedregoza
+MX,Mexico,México,28279,Bonanza,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,bonanza
+MX,Mexico,México,28280,Costa Azul,Colima,06,Manzanillo,007,Manzanillo,02,19.1573,-104.2811,1,costa-azul
+MX,Mexico,México,28800,20 de Noviembre,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,20-de-noviembre
+MX,Mexico,México,28800,La Lupita,Colima,06,Manzanillo,007,,,19.0586,-104.2403,4,la-lupita
+MX,Mexico,México,28800,San Francisco,Colima,06,Manzanillo,007,,,19.1494,-104.3028,4,san-francisco
+MX,Mexico,México,28800,Marina Nacional,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,marina-nacional
+MX,Mexico,México,28800,Lázaro Cárdenas,Colima,06,Manzanillo,007,,,19.1494,-104.3028,3,lazaro-cardenas
+MX,Mexico,México,28800,Miguel de La Madrid,Colima,06,Manzanillo,007,,,19.1494,-104.3028,3,miguel-de-la-madrid
+MX,Mexico,México,28800,Arturo Noriega Pizano,Colima,06,Manzanillo,007,,,19.1494,-104.3028,3,arturo-noriega-pizano
+MX,Mexico,México,28800,Las Juntas,Colima,06,Manzanillo,007,,,19.0809,-104.1439,4,las-juntas
+MX,Mexico,México,28800,El Paraíso,Colima,06,Manzanillo,007,,,19.1494,-104.3028,4,el-paraiso
+MX,Mexico,México,28800,La Calma,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,la-calma
+MX,Mexico,México,28800,La Playita,Colima,06,Manzanillo,007,,,19.1494,-104.3028,4,la-playita
+MX,Mexico,México,28800,López Mateos,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,lopez-mateos
+MX,Mexico,México,28800,La Cima,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,la-cima
+MX,Mexico,México,28800,5 de Mayo,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,5-de-mayo
+MX,Mexico,México,28800,Residencial el Colomo,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,residencial-el-colomo
+MX,Mexico,México,28800,María Luisa Campero,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,maria-luisa-campero
+MX,Mexico,México,28800,El Libramiento,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,el-libramiento
+MX,Mexico,México,28800,Zona Centro El Colomo,Colima,06,Manzanillo,007,,,19.041,-104.1094,3,zona-centro-el-colomo
+MX,Mexico,México,28800,El Garcero,Colima,06,Manzanillo,007,,,19.0558,-104.2306,4,el-garcero
+MX,Mexico,México,28807,Lic. Luis Echeverría Álvarez,Colima,06,Manzanillo,007,,,19.0387,-104.1382,1,lic-luis-echeverria-alvarez
+MX,Mexico,México,28808,Aquarium,Colima,06,Manzanillo,007,,,19.0387,-104.1382,1,aquarium
+MX,Mexico,México,28808,Villa Florida,Colima,06,Manzanillo,007,,,19.0387,-104.1382,1,villa-florida
+MX,Mexico,México,28809,Campos,Colima,06,Manzanillo,007,,,19.0246,-104.3111,4,campos
+MX,Mexico,México,28810,Los Cedros,Colima,06,Manzanillo,007,,,19.2503,-104.1906,1,los-cedros
+MX,Mexico,México,28811,Lomas de Avila Camacho,Colima,06,Manzanillo,007,,,19.2503,-104.1906,1,lomas-de-avila-camacho
+MX,Mexico,México,28812,El Huizcolote,Colima,06,Manzanillo,007,,,19.2725,-104.2899,4,el-huizcolote
+MX,Mexico,México,28813,Ciruelito de la Marina,Colima,06,Manzanillo,007,,,19.256,-104.2243,4,ciruelito-de-la-marina
+MX,Mexico,México,28814,Camichín,Colima,06,Manzanillo,007,,,19.2789,-104.1786,4,camichin
+MX,Mexico,México,28815,Canoas,Colima,06,Manzanillo,007,,,19.2572,-104.1494,4,canoas
+MX,Mexico,México,28815,El Puertecillo O Tepeguajes,Colima,06,Manzanillo,007,,,19.2572,-104.1494,3,el-puertecillo-o-tepeguajes
+MX,Mexico,México,28817,La Rosa,Colima,06,Manzanillo,007,,,19.187,-104.111,4,la-rosa
+MX,Mexico,México,28819,San José de Lúmber (Piedra Redonda),Colima,06,Manzanillo,007,,,19.2503,-104.1906,1,san-jose-de-lumber-piedra-redonda
+MX,Mexico,México,28820,Veladero de los Otates,Colima,06,Manzanillo,007,,,19.2052,-104.3442,1,veladero-de-los-otates
+MX,Mexico,México,28820,El Chico,Colima,06,Manzanillo,007,,,19.2052,-104.3442,1,el-chico
+MX,Mexico,México,28825,La Lima,Colima,06,Manzanillo,007,,,19.2271,-104.3384,4,la-lima
+MX,Mexico,México,28826,Don Tomás,Colima,06,Manzanillo,007,,,19.1833,-104.35,4,don-tomas
+MX,Mexico,México,28830,El Chavarín,Colima,06,Manzanillo,007,,,19.1987,-104.5546,1,el-chavarin
+MX,Mexico,México,28833,El Charco,Colima,06,Manzanillo,007,,,19.2394,-104.4978,4,el-charco
+MX,Mexico,México,28834,Río Marabasco,Colima,06,Manzanillo,007,,,19.2301,-104.5289,4,rio-marabasco
+MX,Mexico,México,28836,Emiliano Zapata,Colima,06,Manzanillo,007,,,19.1801,-104.5181,4,emiliano-zapata
+MX,Mexico,México,28837,La Ciénega,Colima,06,Manzanillo,007,,,19.1792,-104.5182,4,la-cienega
+MX,Mexico,México,28838,El Centinela de Arriba,Colima,06,Manzanillo,007,,,19.1733,-104.5844,4,el-centinela-de-arriba
+MX,Mexico,México,28838,La Culebra (Colimilla),Colima,06,Manzanillo,007,,,19.19,-104.6806,4,la-culebra-colimilla
+MX,Mexico,México,28838,Isla Navidad,Colima,06,Manzanillo,007,,,19.1817,-104.6325,3,isla-navidad
+MX,Mexico,México,28840,Chandiablo,Colima,06,Manzanillo,007,,,19.1988,-104.3393,4,chandiablo
+MX,Mexico,México,28844,Valle Paraíso,Colima,06,Manzanillo,007,,,19.1781,-104.3513,1,valle-paraiso
+MX,Mexico,México,28849,El Petatero,Colima,06,Manzanillo,007,,,19.1574,-104.3632,4,el-petatero
+MX,Mexico,México,28850,Camotlán de Miraflores,Colima,06,Manzanillo,007,,,19.2203,-104.2349,4,camotlan-de-miraflores
+MX,Mexico,México,28855,Veladero de Camotlán,Colima,06,Manzanillo,007,,,19.1792,-104.1744,4,veladero-de-camotlan
+MX,Mexico,México,28858,El Bosque,Colima,06,Manzanillo,007,,,19.12,-104.1972,4,el-bosque
+MX,Mexico,México,28860,Olas Altas,Colima,06,Manzanillo,007,Manzanillo,02,19.1182,-104.3588,4,olas-altas
+MX,Mexico,México,28860,Santiago,Colima,06,Manzanillo,007,Manzanillo,02,19.1251,-104.3558,4,santiago
+MX,Mexico,México,28860,La Querencia,Colima,06,Manzanillo,007,Manzanillo,02,19.1216,-104.3573,3,la-querencia
+MX,Mexico,México,28863,El Jabalí,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,el-jabali
+MX,Mexico,México,28863,Perla de Occidente,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,perla-de-occidente
+MX,Mexico,México,28863,La Cruz,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,la-cruz
+MX,Mexico,México,28863,Barrio Nuevo,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,barrio-nuevo
+MX,Mexico,México,28863,Vista del Mar,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,vista-del-mar
+MX,Mexico,México,28863,Abelardo L. Rodríguez,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,abelardo-l-rodriguez
+MX,Mexico,México,28863,San Isidro Labrador,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,san-isidro-labrador
+MX,Mexico,México,28863,Porfirio Gaytán,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,porfirio-gaytan
+MX,Mexico,México,28863,Colinas de Santiago,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,colinas-de-santiago
+MX,Mexico,México,28863,Jabalinera,Colima,06,Manzanillo,007,Manzanillo,02,19.1743,-104.3785,3,jabalinera
+MX,Mexico,México,28863,El Cerrito,Colima,06,Manzanillo,007,Manzanillo,02,19.25,-104.45,4,el-cerrito
+MX,Mexico,México,28863,Obradores,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,obradores
+MX,Mexico,México,28863,Loma Bonita,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,loma-bonita
+MX,Mexico,México,28863,San Martín,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,san-martin
+MX,Mexico,México,28863,Las Flores,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,las-flores
+MX,Mexico,México,28863,Pedro Núñez,Colima,06,Manzanillo,007,Manzanillo,02,19.1637,-104.4249,4,pedro-nunez
+MX,Mexico,México,28863,Francisco Villa,Colima,06,Manzanillo,007,Manzanillo,02,19.1091,-104.2606,4,francisco-villa
+MX,Mexico,México,28864,Del Mar,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,4,del-mar
+MX,Mexico,México,28864,Almendros Residencial II,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,almendros-residencial-ii
+MX,Mexico,México,28864,Villas del Pacífico,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,villas-del-pacifico
+MX,Mexico,México,28864,Hermosa Provincia,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,hermosa-provincia
+MX,Mexico,México,28864,Azul Marino,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,azul-marino
+MX,Mexico,México,28864,Lomas de Santiago,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,lomas-de-santiago
+MX,Mexico,México,28864,Paseo del Mar,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,paseo-del-mar
+MX,Mexico,México,28864,Santa Carolina,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,santa-carolina
+MX,Mexico,México,28864,Valle del Coral,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,valle-del-coral
+MX,Mexico,México,28864,Loma del Mar,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,loma-del-mar
+MX,Mexico,México,28864,Country Club,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,country-club
+MX,Mexico,México,28864,Viveros Pelayo,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,viveros-pelayo
+MX,Mexico,México,28864,Cantamar,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,cantamar
+MX,Mexico,México,28864,INFONAVIT,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,infonavit
+MX,Mexico,México,28864,Las Huertas,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,las-huertas
+MX,Mexico,México,28864,Valle Dorado,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,valle-dorado
+MX,Mexico,México,28864,Lomas Verdes,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,lomas-verdes
+MX,Mexico,México,28864,Las Camelinas,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,las-camelinas
+MX,Mexico,México,28864,Montebello,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,montebello
+MX,Mexico,México,28864,La Joya I,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,la-joya-i
+MX,Mexico,México,28864,Obrera,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,obrera
+MX,Mexico,México,28864,Deportiva,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,deportiva
+MX,Mexico,México,28864,Jardines de Santiago,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,jardines-de-santiago
+MX,Mexico,México,28864,Valle Alto,Colima,06,Manzanillo,007,Manzanillo,02,19.1133,-104.4103,3,valle-alto
+MX,Mexico,México,28865,Terraplena,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,terraplena
+MX,Mexico,México,28865,Orquídeas Residencial,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,orquideas-residencial
+MX,Mexico,México,28865,Los Altos,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,los-altos
+MX,Mexico,México,28867,Villas del Palmar,Colima,06,Manzanillo,007,Manzanillo,02,19.1061,-104.3413,3,villas-del-palmar
+MX,Mexico,México,28867,La Audiencia,Colima,06,Manzanillo,007,Manzanillo,02,19.1042,-104.3464,4,la-audiencia
+MX,Mexico,México,28867,Salagua,Colima,06,Manzanillo,007,Manzanillo,02,19.1114,-104.3289,4,salagua
+MX,Mexico,México,28867,Las Hadas,Colima,06,Manzanillo,007,Manzanillo,02,19.1028,-104.3486,4,las-hadas
+MX,Mexico,México,28867,La Punta,Colima,06,Manzanillo,007,Manzanillo,02,19.1061,-104.3413,3,la-punta
+MX,Mexico,México,28867,Villas del Faro,Colima,06,Manzanillo,007,Manzanillo,02,19.1061,-104.3413,3,villas-del-faro
+MX,Mexico,México,28867,Península de Santiago,Colima,06,Manzanillo,007,Manzanillo,02,19.1061,-104.3413,3,peninsula-de-santiago
+MX,Mexico,México,28867,Bugambilias,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,bugambilias
+MX,Mexico,México,28868,La Joya,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,3,la-joya
+MX,Mexico,México,28868,Club Santiago,Colima,06,Manzanillo,007,Manzanillo,02,19.1776,-104.3233,3,club-santiago
+MX,Mexico,México,28868,La Martinique,Colima,06,Manzanillo,007,Manzanillo,02,19.1776,-104.3233,3,la-martinique
+MX,Mexico,México,28868,Puesta del Sol,Colima,06,Manzanillo,007,Manzanillo,02,19.1776,-104.3233,3,puesta-del-sol
+MX,Mexico,México,28868,Ejidal Miramar,Colima,06,Manzanillo,007,Manzanillo,02,19.1776,-104.3233,3,ejidal-miramar
+MX,Mexico,México,28868,Club Maeva,Colima,06,Manzanillo,007,Manzanillo,02,19.1776,-104.3233,3,club-maeva
+MX,Mexico,México,28868,Nuevo Miramar,Colima,06,Manzanillo,007,Manzanillo,02,19.1776,-104.3233,3,nuevo-miramar
+MX,Mexico,México,28868,El Naranjo,Colima,06,Manzanillo,007,Manzanillo,02,19.2125,-104.2083,4,el-naranjo
+MX,Mexico,México,28868,La Central,Colima,06,Manzanillo,007,Manzanillo,02,19.1428,-104.4382,4,la-central
+MX,Mexico,México,28869,Los Mangos,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,los-mangos
+MX,Mexico,México,28869,Arboledas,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,1,arboledas
+MX,Mexico,México,28869,Guadalupe Victoria,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,guadalupe-victoria
+MX,Mexico,México,28869,Cantalegre,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,cantalegre
+MX,Mexico,México,28869,Las Palmas,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,1,las-palmas
+MX,Mexico,México,28869,Puerta del Sol,Colima,06,Manzanillo,007,Manzanillo,02,19.1494,-104.3028,1,puerta-del-sol
+MX,Mexico,México,28869,López de Legaspi,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,lopez-de-legaspi
+MX,Mexico,México,28869,La Joya II,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,la-joya-ii
+MX,Mexico,México,28869,Elías Zamora Verduzco,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,elias-zamora-verduzco
+MX,Mexico,México,28869,El Campanario,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,el-campanario
+MX,Mexico,México,28869,Villa Flamingos,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,villa-flamingos
+MX,Mexico,México,28869,Barrio Nuevo Salagua,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,barrio-nuevo-salagua
+MX,Mexico,México,28869,Paraiso Salagua,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,paraiso-salagua
+MX,Mexico,México,28869,Nuevo Salagua,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,nuevo-salagua
+MX,Mexico,México,28869,Rosa Morada,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,rosa-morada
+MX,Mexico,México,28869,Obispo Sergio Méndez Arceo,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,obispo-sergio-mendez-arceo
+MX,Mexico,México,28869,Santa Sofía,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,santa-sofia
+MX,Mexico,México,28869,Valle Salagua,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,valle-salagua
+MX,Mexico,México,28869,Marimar,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,marimar
+MX,Mexico,México,28869,Aguazul,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,aguazul
+MX,Mexico,México,28869,Almendros Residencial,Colima,06,Manzanillo,007,Manzanillo,02,19.1412,-104.3574,1,almendros-residencial
+MX,Mexico,México,28870,Jalipa,Colima,06,Manzanillo,007,,,19.1228,-104.2674,4,jalipa
+MX,Mexico,México,28872,Punta de Agua de Camotlán,Colima,06,Manzanillo,007,,,19.1613,-104.2665,4,punta-de-agua-de-camotlan
+MX,Mexico,México,28875,Peña Colorada,Colima,06,Manzanillo,007,,,19.1494,-104.3028,4,pena-colorada
+MX,Mexico,México,28876,Francisco Villa,Colima,06,Manzanillo,007,,,19.1091,-104.2606,4,francisco-villa
+MX,Mexico,México,28877,IMSS Norte,Colima,06,Manzanillo,007,,,19.1672,-104.2383,1,imss-norte
+MX,Mexico,México,28878,Fovissste,Colima,06,Manzanillo,007,,,19.1672,-104.2383,1,fovissste
+MX,Mexico,México,28879,Vista Roca,Colima,06,Manzanillo,007,,,19.0808,-104.3056,3,vista-roca
+MX,Mexico,México,28879,Del Pacifico,Colima,06,Manzanillo,007,,,19.0808,-104.3056,4,del-pacifico
+MX,Mexico,México,28880,Coalata,Colima,06,Manzanillo,007,,,19.0143,-104.1204,3,coalata
+MX,Mexico,México,28880,Nuevo Cuyutlán,Colima,06,Manzanillo,007,,,19.0197,-104.1178,4,nuevo-cuyutlan
+MX,Mexico,México,28880,San Buenaventura,Colima,06,Manzanillo,007,,,19.0145,-104.1602,4,san-buenaventura
+MX,Mexico,México,28880,Venustiano Carranza (Cualata),Colima,06,Manzanillo,007,,,19.0111,-104.1103,4,venustiano-carranza-cualata
+MX,Mexico,México,28880,Santa Rita,Colima,06,Manzanillo,007,,,19.012,-104.0934,4,santa-rita
+MX,Mexico,México,28884,Las Lajas,Colima,06,Manzanillo,007,,,19.069,-104.0849,4,las-lajas
+MX,Mexico,México,28885,El Salto,Colima,06,Manzanillo,007,,,19.0674,-104.1168,4,el-salto
+MX,Mexico,México,28886,Agua Blanca y Cerro del Zacate,Colima,06,Manzanillo,007,,,19.0641,-104.0563,3,agua-blanca-y-cerro-del-zacate
+MX,Mexico,México,28886,Agua Blanca,Colima,06,Manzanillo,007,,,19.0641,-104.0563,4,agua-blanca
+MX,Mexico,México,28887,Las Juntas Nuevas,Colima,06,Manzanillo,007,,,19.0566,-104.2221,4,las-juntas-nuevas
+MX,Mexico,México,28750,Minatitlán,Colima,06,Minatitlán,008,,,19.3667,-104.0667,4,minatitlan
+MX,Mexico,México,28750,Infonavit,Colima,06,Minatitlán,008,,,19.3667,-104.0667,3,infonavit
+MX,Mexico,México,28750,Progreso,Colima,06,Minatitlán,008,,,19.3667,-104.0667,3,progreso
+MX,Mexico,México,28750,27 de Octubre,Colima,06,Minatitlán,008,,,19.3667,-104.0667,3,27-de-octubre
+MX,Mexico,México,28750,Carlos de La Madrid Vejar,Colima,06,Minatitlán,008,,,19.3667,-104.0667,3,carlos-de-la-madrid-vejar
+MX,Mexico,México,28750,Los Mangos,Colima,06,Minatitlán,008,,,19.3667,-104.0667,3,los-mangos
+MX,Mexico,México,28760,Agua Salada,Colima,06,Minatitlán,008,,,19.4424,-104.0423,4,agua-salada
+MX,Mexico,México,28761,La Loma,Colima,06,Minatitlán,008,,,19.4039,-104.0518,1,la-loma
+MX,Mexico,México,28765,El Sauz,Colima,06,Minatitlán,008,,,19.4453,-103.9892,4,el-sauz
+MX,Mexico,México,28767,San Antonio,Colima,06,Minatitlán,008,,,19.426,-104.0225,4,san-antonio
+MX,Mexico,México,28767,Paticajo,Colima,06,Minatitlán,008,,,19.3019,-104.1533,4,paticajo
+MX,Mexico,México,28772,El Terrero,Colima,06,Minatitlán,008,,,19.4058,-103.9667,1,el-terrero
+MX,Mexico,México,28774,Ranchitos,Colima,06,Minatitlán,008,,,19.4058,-103.9667,4,ranchitos
+MX,Mexico,México,28780,El Arrayanal,Colima,06,Minatitlán,008,,,19.2773,-104.1092,4,el-arrayanal
+MX,Mexico,México,28783,La Playa (La Playita),Colima,06,Minatitlán,008,,,19.3261,-104.1186,4,la-playa-la-playita
+MX,Mexico,México,28784,Potrero Grande,Colima,06,Minatitlán,008,,,19.3148,-104.0872,4,potrero-grande
+MX,Mexico,México,28785,Plan de Méndez,Colima,06,Minatitlán,008,,,19.2986,-104.1151,1,plan-de-mendez
+MX,Mexico,México,28788,Palo Verde,Colima,06,Minatitlán,008,,,19.2764,-104.1452,4,palo-verde
+MX,Mexico,México,28792,Peña Colorada (Fierro),Colima,06,Minatitlán,008,,,19.3536,-104.0668,3,pena-colorada-fierro
+MX,Mexico,México,28792,Las Guásimas,Colima,06,Minatitlán,008,,,19.3536,-104.0668,4,las-guasimas
+MX,Mexico,México,28795,El Nogal,Colima,06,Minatitlán,008,,,19.3161,-104.0689,4,el-nogal
+MX,Mexico,México,28796,Agua Fría,Colima,06,Minatitlán,008,,,19.3032,-104.0638,4,agua-fria
+MX,Mexico,México,28100,Tecomán Centro,Colima,06,Tecomán,009,Tecoman,03,18.9983,-103.8165,1,tecoman-centro
+MX,Mexico,México,28110,Josefa Ortiz de Domínguez,Colima,06,Tecomán,009,Tecoman,03,19.253,-103.7312,3,josefa-ortiz-de-dominguez
+MX,Mexico,México,28110,Reyes Heroles,Colima,06,Tecomán,009,Tecoman,03,19.253,-103.7312,3,reyes-heroles
+MX,Mexico,México,28110,Tepeyac,Colima,06,Tecomán,009,Tecoman,03,19.253,-103.7312,3,tepeyac
+MX,Mexico,México,28110,Manuel Alvarez,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,4,manuel-alvarez
+MX,Mexico,México,28110,Miguel Hidalgo,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,4,miguel-hidalgo
+MX,Mexico,México,28113,Elba Cecilia Vega,Colima,06,Tecomán,009,Tecoman,03,19.253,-103.7312,1,elba-cecilia-vega
+MX,Mexico,México,28114,Amalia Solórzano,Colima,06,Tecomán,009,Tecoman,03,19.253,-103.7312,1,amalia-solorzano
+MX,Mexico,México,28120,Noriega Pizano,Colima,06,Tecomán,009,Tecoman,03,18.7289,-103.7308,4,noriega-pizano
+MX,Mexico,México,28120,Campo Aéreo,Colima,06,Tecomán,009,Tecoman,03,18.8295,-103.8154,3,campo-aereo
+MX,Mexico,México,28120,Cofradía de Juárez,Colima,06,Tecomán,009,Tecoman,03,18.9301,-103.8999,4,cofradia-de-juarez
+MX,Mexico,México,28120,Valle Querido,Colima,06,Tecomán,009,Tecoman,03,18.8295,-103.8154,3,valle-querido
+MX,Mexico,México,28123,Real del Valle,Colima,06,Tecomán,009,Tecoman,03,18.8295,-103.8154,1,real-del-valle
+MX,Mexico,México,28123,Real del Bosque,Colima,06,Tecomán,009,Tecoman,03,18.8295,-103.8154,1,real-del-bosque
+MX,Mexico,México,28130,Francisco Villa,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,3,francisco-villa
+MX,Mexico,México,28130,Villas del Sol,Colima,06,Tecomán,009,Tecoman,03,19.1078,-103.7828,3,villas-del-sol
+MX,Mexico,México,28130,La Unión,Colima,06,Tecomán,009,Tecoman,03,19.1078,-103.7828,3,la-union
+MX,Mexico,México,28130,Vicente Guerrero,Colima,06,Tecomán,009,Tecoman,03,18.9639,-103.8306,4,vicente-guerrero
+MX,Mexico,México,28130,Fátima,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,4,fatima
+MX,Mexico,México,28133,Loma Bonita,Colima,06,Tecomán,009,Tecoman,03,18.9119,-103.8908,4,loma-bonita
+MX,Mexico,México,28133,Hacienda la Loma,Colima,06,Tecomán,009,Tecoman,03,18.9119,-103.8908,3,hacienda-la-loma
+MX,Mexico,México,28134,Sor Juana Inés de La Cruz,Colima,06,Tecomán,009,Tecoman,03,19.0728,-103.7926,3,sor-juana-ines-de-la-cruz
+MX,Mexico,México,28134,Ampliación Las Flores,Colima,06,Tecomán,009,Tecoman,03,19.0728,-103.7926,3,ampliacion-las-flores
+MX,Mexico,México,28134,Luis Donaldo Colosio,Colima,06,Tecomán,009,Tecoman,03,19.0728,-103.7926,3,luis-donaldo-colosio
+MX,Mexico,México,28134,Las Flores,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,3,las-flores
+MX,Mexico,México,28134,Palma Real,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,3,palma-real
+MX,Mexico,México,28134,Lázaro Cárdenas II,Colima,06,Tecomán,009,Tecoman,03,19.0728,-103.7926,3,lazaro-cardenas-ii
+MX,Mexico,México,28134,Niños Héroes,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,4,ninos-heroes
+MX,Mexico,México,28134,Lázaro Cárdenas,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,3,lazaro-cardenas
+MX,Mexico,México,28134,San Ignacio,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,3,san-ignacio
+MX,Mexico,México,28134,Álvaro Obregón,Colima,06,Tecomán,009,Tecoman,03,19.0728,-103.7926,3,alvaro-obregon
+MX,Mexico,México,28134,Santa Elena,Colima,06,Tecomán,009,Tecoman,03,18.8872,-103.8575,4,santa-elena
+MX,Mexico,México,28134,Griselda Álvarez,Colima,06,Tecomán,009,Tecoman,03,19.0728,-103.7926,3,griselda-alvarez
+MX,Mexico,México,28140,Villa Florida,Colima,06,Tecomán,009,Tecoman,03,18.869,-103.8484,3,villa-florida
+MX,Mexico,México,28140,La Floresta,Colima,06,Tecomán,009,Tecoman,03,18.869,-103.8484,3,la-floresta
+MX,Mexico,México,28140,Jardines del Chamizal,Colima,06,Tecomán,009,Tecoman,03,18.869,-103.8484,3,jardines-del-chamizal
+MX,Mexico,México,28140,INFONAVIT Las Huertas,Colima,06,Tecomán,009,Tecoman,03,18.869,-103.8484,3,infonavit-las-huertas
+MX,Mexico,México,28140,Jardines de Tecomán,Colima,06,Tecomán,009,Tecoman,03,18.869,-103.8484,3,jardines-de-tecoman
+MX,Mexico,México,28140,San Isidro,Colima,06,Tecomán,009,Tecoman,03,18.8206,-103.8358,4,san-isidro
+MX,Mexico,México,28140,El Chamizal,Colima,06,Tecomán,009,Tecoman,03,18.9173,-103.861,4,el-chamizal
+MX,Mexico,México,28143,La Cuarta,Colima,06,Tecomán,009,Tecoman,03,18.9156,-103.849,4,la-cuarta
+MX,Mexico,México,28150,Benito Juárez,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,3,benito-juarez
+MX,Mexico,México,28150,La Palmita,Colima,06,Tecomán,009,Tecoman,03,18.8431,-103.825,4,la-palmita
+MX,Mexico,México,28150,San Francisco Javier,Colima,06,Tecomán,009,Tecoman,03,18.8673,-103.8918,4,san-francisco-javier
+MX,Mexico,México,28159,INFONAVIT Las Palmas,Colima,06,Tecomán,009,Tecoman,03,18.8552,-103.8584,1,infonavit-las-palmas
+MX,Mexico,México,28160,Ponciano Arriaga,Colima,06,Tecomán,009,Tecoman,03,19.2748,-103.7452,3,ponciano-arriaga
+MX,Mexico,México,28160,Estatuto Jurídico,Colima,06,Tecomán,009,Tecoman,03,19.2748,-103.7452,3,estatuto-juridico
+MX,Mexico,México,28160,Pablo Silva García,Colima,06,Tecomán,009,Tecoman,03,19.2748,-103.7452,3,pablo-silva-garcia
+MX,Mexico,México,28160,Burócratas,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,4,burocratas
+MX,Mexico,México,28160,Sedena Militar,Colima,06,Tecomán,009,Tecoman,03,19.2748,-103.7452,3,sedena-militar
+MX,Mexico,México,28170,Libertad,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,4,libertad
+MX,Mexico,México,28170,Parque Las Flores (Elias Zamora Verduzco),Colima,06,Tecomán,009,Tecoman,03,19.2269,-103.6864,3,parque-las-flores-elias-zamora-verduzco
+MX,Mexico,México,28170,Indeco,Colima,06,Tecomán,009,Tecoman,03,19.2269,-103.6864,3,indeco
+MX,Mexico,México,28180,Villa del Centenario,Colima,06,Tecomán,009,Tecoman,03,18.9379,-103.8566,3,villa-del-centenario
+MX,Mexico,México,28180,Primaveras del Real,Colima,06,Tecomán,009,Tecoman,03,18.9379,-103.8566,3,primaveras-del-real
+MX,Mexico,México,28180,Villas del Rey,Colima,06,Tecomán,009,Tecoman,03,18.9379,-103.8566,3,villas-del-rey
+MX,Mexico,México,28180,San Miguel,Colima,06,Tecomán,009,Tecoman,03,18.9268,-103.8317,4,san-miguel
+MX,Mexico,México,28180,La Floresta II,Colima,06,Tecomán,009,Tecoman,03,18.9379,-103.8566,3,la-floresta-ii
+MX,Mexico,México,28180,Bugambilias,Colima,06,Tecomán,009,Tecoman,03,18.8628,-105.0399,3,bugambilias
+MX,Mexico,México,28180,Las Palmas,Colima,06,Tecomán,009,Tecoman,03,18.9384,-103.8522,4,las-palmas
+MX,Mexico,México,28180,San Antonio,Colima,06,Tecomán,009,Tecoman,03,18.9483,-103.8858,4,san-antonio
+MX,Mexico,México,28184,San Carlos,Colima,06,Tecomán,009,Tecoman,03,18.9617,-103.8608,4,san-carlos
+MX,Mexico,México,28189,88 Batallón de Infantería,Colima,06,Tecomán,009,Tecoman,03,18.9438,-103.8576,1,88-batallon-de-infanteria
+MX,Mexico,México,28190,Llanos de San José,Colima,06,Tecomán,009,Tecoman,03,18.8853,-103.8862,3,llanos-de-san-jose
+MX,Mexico,México,28190,Tuxpan,Colima,06,Tecomán,009,Tecoman,03,18.8853,-103.8862,3,tuxpan
+MX,Mexico,México,28190,Gustavo Díaz Ordaz,Colima,06,Tecomán,009,Tecoman,03,18.8853,-103.8862,3,gustavo-diaz-ordaz
+MX,Mexico,México,28190,San José,Colima,06,Tecomán,009,Tecoman,03,18.8853,-103.8862,4,san-jose
+MX,Mexico,México,28900,Cerro de Ortega,Colima,06,Tecomán,009,,,18.7508,-103.7215,4,cerro-de-ortega
+MX,Mexico,México,28900,Hermanos Leaños,Colima,06,Tecomán,009,,,18.7508,-103.7215,3,hermanos-leanos
+MX,Mexico,México,28906,Cerro de Aguilar,Colima,06,Tecomán,009,,,18.8243,-103.8447,4,cerro-de-aguilar
+MX,Mexico,México,28910,Conacar PRI,Colima,06,Tecomán,009,,,19.058,-103.8712,1,conacar-pri
+MX,Mexico,México,28910,Articulo 27 Constitucional,Colima,06,Tecomán,009,,,19.058,-103.8712,1,articulo-27-constitucional
+MX,Mexico,México,28910,La Pedregoza,Colima,06,Tecomán,009,,,19.058,-103.8712,1,la-pedregoza
+MX,Mexico,México,28910,Estación Madrid,Colima,06,Tecomán,009,,,19.058,-103.8712,1,estacion-madrid
+MX,Mexico,México,28915,El Rosario,Colima,06,Tecomán,009,,,19.058,-103.8712,4,el-rosario
+MX,Mexico,México,28920,Tecolapa,Colima,06,Tecomán,009,,,19.0192,-103.8311,4,tecolapa
+MX,Mexico,México,28929,Cofradía de Hidalgo (Laguna de Alcuzahue),Colima,06,Tecomán,009,,,19.0192,-103.8311,1,cofradia-de-hidalgo-laguna-de-alcuzahue
+MX,Mexico,México,28930,Caleras,Colima,06,Tecomán,009,,,18.9969,-103.879,4,caleras
+MX,Mexico,México,28930,Tecomán Estación,Colima,06,Tecomán,009,,,18.9879,-103.8682,3,tecoman-estacion
+MX,Mexico,México,28930,Puerta de Caleras,Colima,06,Tecomán,009,,,18.9789,-103.8574,4,puerta-de-caleras
+MX,Mexico,México,28934,Antonio Salazar Salazar,Colima,06,Tecomán,009,,,18.9439,-103.9311,4,antonio-salazar-salazar
+MX,Mexico,México,28934,Luis Rodríguez Alcalá [La Báscula],Colima,06,Tecomán,009,,,18.9439,-103.9311,3,luis-rodriguez-alcala-la-bascula
+MX,Mexico,México,28934,Ballardo,Colima,06,Tecomán,009,,,18.9439,-103.9311,3,ballardo
+MX,Mexico,México,28934,María Esther Zuno de Echeverría,Colima,06,Tecomán,009,,,18.9439,-103.9311,3,maria-esther-zuno-de-echeverria
+MX,Mexico,México,28935,Cofradía de Morelos,Colima,06,Tecomán,009,,,18.8679,-103.8367,4,cofradia-de-morelos
+MX,Mexico,México,28936,Ladislao Moreno,Colima,06,Tecomán,009,,,18.9,-103.9134,4,ladislao-moreno
+MX,Mexico,México,28937,El Real,Colima,06,Tecomán,009,,,18.9052,-103.899,4,el-real
+MX,Mexico,México,28938,Tecuanillo,Colima,06,Tecomán,009,,,18.9321,-103.8861,1,tecuanillo
+MX,Mexico,México,28940,Callejones,Colima,06,Tecomán,009,,,18.8141,-103.6335,4,callejones
+MX,Mexico,México,28944,El Saucito,Colima,06,Tecomán,009,,,18.866,-103.8008,4,el-saucito
+MX,Mexico,México,28944,La Primavera,Colima,06,Tecomán,009,,,18.8501,-103.8277,4,la-primavera
+MX,Mexico,México,28945,Chanchopa,Colima,06,Tecomán,009,,,18.8659,-103.7377,4,chanchopa
+MX,Mexico,México,28947,San Miguel del Ojo de Agua,Colima,06,Tecomán,009,,,18.8237,-103.7017,4,san-miguel-del-ojo-de-agua
+MX,Mexico,México,28950,Juluapan,Colima,06,Villa de Álvarez,010,,,19.3092,-103.8303,4,juluapan
+MX,Mexico,México,28952,Los Picachos,Colima,06,Villa de Álvarez,010,,,19.3086,-103.8394,4,los-picachos
+MX,Mexico,México,28955,Agua Dulce,Colima,06,Villa de Álvarez,010,,,19.289,-103.8893,4,agua-dulce
+MX,Mexico,México,28955,El Carmen,Colima,06,Villa de Álvarez,010,,,19.3097,-103.8444,3,el-carmen
+MX,Mexico,México,28958,El Mixcuate,Colima,06,Villa de Álvarez,010,,,19.3162,-103.9345,4,el-mixcuate
+MX,Mexico,México,28959,Pueblo Nuevo,Colima,06,Villa de Álvarez,010,,,19.3187,-103.9214,4,pueblo-nuevo
+MX,Mexico,México,28960,El Carrizal,Colima,06,Villa de Álvarez,010,,,19.37,-103.6825,4,el-carrizal
+MX,Mexico,México,28963,Pastores,Colima,06,Villa de Álvarez,010,,,19.3139,-103.7047,4,pastores
+MX,Mexico,México,28964,Las Joyitas,Colima,06,Villa de Álvarez,010,,,19.3319,-103.6803,4,las-joyitas
+MX,Mexico,México,28965,El Chivato (Providencia),Colima,06,Villa de Álvarez,010,,,19.3258,-103.6956,4,el-chivato-providencia
+MX,Mexico,México,28966,La Montrica,Colima,06,Villa de Álvarez,010,,,19.3364,-103.6989,4,la-montrica
+MX,Mexico,México,28968,El Naranjal,Colima,06,Villa de Álvarez,010,,,19.4093,-103.6552,4,el-naranjal
+MX,Mexico,México,28970,Villas del Sol,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2628,-103.7313,3,villas-del-sol
+MX,Mexico,México,28970,Villa de Alvarez Centro,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2628,-103.7313,4,villa-de-alvarez-centro
+MX,Mexico,México,28973,Floresta,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,floresta
+MX,Mexico,México,28973,Santa Cristina,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,santa-cristina
+MX,Mexico,México,28973,Manuel M Diéguez,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2506,-103.7415,4,manuel-m-dieguez
+MX,Mexico,México,28973,Villas del Río,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2522,-103.7438,4,villas-del-rio
+MX,Mexico,México,28973,Santa Teresa,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,santa-teresa
+MX,Mexico,México,28973,Rancho Santo,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,rancho-santo
+MX,Mexico,México,28973,Privada Villa San Agustín,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,privada-villa-san-agustin
+MX,Mexico,México,28973,Real los Arcos,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,real-los-arcos
+MX,Mexico,México,28973,Villas Adriana,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,villas-adriana
+MX,Mexico,México,28973,Villas de Mayo,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2514,-103.7426,3,villas-de-mayo
+MX,Mexico,México,28974,San Isidro,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,3,san-isidro
+MX,Mexico,México,28974,Las Palomas Residencial,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2544,-103.7399,3,las-palomas-residencial
+MX,Mexico,México,28974,Villas Coliman,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2544,-103.7399,4,villas-coliman
+MX,Mexico,México,28975,La Frontera,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,4,la-frontera
+MX,Mexico,México,28975,Morelos,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2678,-103.7309,4,morelos
+MX,Mexico,México,28975,Villa Carlo,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2666,-103.7314,4,villa-carlo
+MX,Mexico,México,28975,Privada Villas del Palmar,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2359,-103.7296,3,privada-villas-del-palmar
+MX,Mexico,México,28975,López Mateos,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2359,-103.7296,3,lopez-mateos
+MX,Mexico,México,28975,La Cajita del Agua,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2359,-103.7296,3,la-cajita-del-agua
+MX,Mexico,México,28975,Santa Martha,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2657,-103.7328,4,santa-martha
+MX,Mexico,México,28976,Villas del Centro,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2609,-103.7258,3,villas-del-centro
+MX,Mexico,México,28976,Rosario Ibarra de Piedra,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2599,-103.7263,4,rosario-ibarra-de-piedra
+MX,Mexico,México,28976,Francisco Hernández,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2606,-103.7241,4,francisco-hernandez
+MX,Mexico,México,28976,Liberación,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2622,-103.727,4,liberacion
+MX,Mexico,México,28977,Las Parotas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,1,las-parotas
+MX,Mexico,México,28978,Real Hacienda,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2751,-103.7321,3,real-hacienda
+MX,Mexico,México,28978,Residencial Bosque Real,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2751,-103.7321,3,residencial-bosque-real
+MX,Mexico,México,28978,Senderos del Carmen,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2729,-103.7332,4,senderos-del-carmen
+MX,Mexico,México,28978,Jardines de Bugambilias,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2783,-103.7312,4,jardines-de-bugambilias
+MX,Mexico,México,28978,Colinas del Carmen,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2735,-103.7313,4,colinas-del-carmen
+MX,Mexico,México,28978,Hacienda del Carmen,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2751,-103.7321,3,hacienda-del-carmen
+MX,Mexico,México,28978,Azaleas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2759,-103.7341,4,azaleas
+MX,Mexico,México,28978,Rinconada de La Hacienda,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2725,-103.7316,4,rinconada-de-la-hacienda
+MX,Mexico,México,28978,Arboledas del Carmen,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2774,-103.7275,4,arboledas-del-carmen
+MX,Mexico,México,28978,Golondrinas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2766,-103.7332,4,golondrinas
+MX,Mexico,México,28978,Privada Nicasio Carvajal Flores,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2751,-103.7321,3,privada-nicasio-carvajal-flores
+MX,Mexico,México,28978,Real Santa Fe,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2751,-103.7321,3,real-santa-fe
+MX,Mexico,México,28978,FOVISSSTE,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2751,-103.7321,3,fovissste
+MX,Mexico,México,28978,Primaveras,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2741,-103.7344,4,primaveras
+MX,Mexico,México,28979,Las Lagunas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2978,-103.7352,4,las-lagunas
+MX,Mexico,México,28979,Vista Bugambilias,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.287,-103.7359,3,vista-bugambilias
+MX,Mexico,México,28979,Carlos de La Madrid,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.287,-103.7359,3,carlos-de-la-madrid
+MX,Mexico,México,28979,Residencial Colinas del Rey,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.287,-103.7359,3,residencial-colinas-del-rey
+MX,Mexico,México,28979,Salomón Preciado,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.287,-103.7359,3,salomon-preciado
+MX,Mexico,México,28979,Las Águilas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.28,-103.7414,4,las-aguilas
+MX,Mexico,México,28979,Real Bugambilias,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2796,-103.7358,4,real-bugambilias
+MX,Mexico,México,28979,Loma Hermosa,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2889,-103.7356,4,loma-hermosa
+MX,Mexico,México,28979,Cruz de Comala,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2834,-103.739,4,cruz-de-comala
+MX,Mexico,México,28979,Los Almendros,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2899,-103.7344,4,los-almendros
+MX,Mexico,México,28979,Lomas Altas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3012,-103.7393,4,lomas-altas
+MX,Mexico,México,28979,Solidaridad,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2934,-103.7343,4,solidaridad
+MX,Mexico,México,28979,Lomas de La Herradura,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2842,-103.7405,4,lomas-de-la-herradura
+MX,Mexico,México,28979,Lomas de La Higuera,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2815,-103.7352,4,lomas-de-la-higuera
+MX,Mexico,México,28979,Alfredo V Bonfil,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2752,-103.7311,4,alfredo-v-bonfil
+MX,Mexico,México,28979,Bugambilias,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2877,-103.7281,4,bugambilias
+MX,Mexico,México,28979,Lomas de las Flores,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2798,-103.7401,4,lomas-de-las-flores
+MX,Mexico,México,28979,Lindavista,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.289,-103.7424,4,lindavista
+MX,Mexico,México,28979,Colinas del Sol,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3009,-103.7415,4,colinas-del-sol
+MX,Mexico,México,28979,Villas de Bugambilias,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2845,-103.7294,4,villas-de-bugambilias
+MX,Mexico,México,28979,Villa Izcalli Caxitlán,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2864,-103.7349,4,villa-izcalli-caxitlan
+MX,Mexico,México,28979,Lomas de La Villa,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2828,-103.7378,4,lomas-de-la-villa
+MX,Mexico,México,28979,Las Colinas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2904,-103.7268,4,las-colinas
+MX,Mexico,México,28979,Villas del Cañaveral,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.287,-103.7359,3,villas-del-canaveral
+MX,Mexico,México,28979,El Angel,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2834,-103.7345,4,el-angel
+MX,Mexico,México,28980,La Gloria,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.26,-103.742,4,la-gloria
+MX,Mexico,México,28982,Las Rosas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3182,-103.6353,3,las-rosas
+MX,Mexico,México,28982,Los Olivos,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,3,los-olivos
+MX,Mexico,México,28982,La Joya,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,4,la-joya
+MX,Mexico,México,28982,Santa Fe,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,4,santa-fe
+MX,Mexico,México,28982,El Cortijo,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,4,el-cortijo
+MX,Mexico,México,28982,Hacienda del Cortijo,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3182,-103.6353,3,hacienda-del-cortijo
+MX,Mexico,México,28982,Hacienda El Nogal,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3182,-103.6353,3,hacienda-el-nogal
+MX,Mexico,México,28982,Villas de Alameda,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3182,-103.6353,3,villas-de-alameda
+MX,Mexico,México,28982,Villas San José Segunda Sección,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3182,-103.6353,3,villas-san-jose-segunda-seccion
+MX,Mexico,México,28982,Jacarandas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3182,-103.6353,3,jacarandas
+MX,Mexico,México,28983,Villa Flores,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,villa-flores
+MX,Mexico,México,28983,El Haya,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,el-haya
+MX,Mexico,México,28983,Senderos de Rancho Blanco,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,senderos-de-rancho-blanco
+MX,Mexico,México,28983,Alfonso Rolón Michel,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2663,-103.7585,4,alfonso-rolon-michel
+MX,Mexico,México,28983,Jardines del Centenario,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2613,-103.7597,4,jardines-del-centenario
+MX,Mexico,México,28983,Jardines del Llano,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2756,-103.7481,4,jardines-del-llano
+MX,Mexico,México,28983,Puerta de Rolón,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,puerta-de-rolon
+MX,Mexico,México,28983,Tabachines,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,tabachines
+MX,Mexico,México,28983,Residencial Tulipanes,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,residencial-tulipanes
+MX,Mexico,México,28983,Villas Rancho Blanco,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,villas-rancho-blanco
+MX,Mexico,México,28983,Valle del Sol,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,valle-del-sol
+MX,Mexico,México,28983,Villa Flores II,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2667,-103.756,3,villa-flores-ii
+MX,Mexico,México,28983,Rinconada del Centenario,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2637,-103.7579,4,rinconada-del-centenario
+MX,Mexico,México,28984,Azteca,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2536,-103.7459,4,azteca
+MX,Mexico,México,28984,Loma Bonita,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2527,-103.7536,4,loma-bonita
+MX,Mexico,México,28984,Punta Diamante Residencial,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,punta-diamante-residencial
+MX,Mexico,México,28984,Higueras del Espinal,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,higueras-del-espinal
+MX,Mexico,México,28984,Juan José Ríos III,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,juan-jose-rios-iii
+MX,Mexico,México,28984,El Centenario,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2602,-103.7551,4,el-centenario
+MX,Mexico,México,28984,La Reserva,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2596,-103.7732,4,la-reserva
+MX,Mexico,México,28984,Juan José Ríos,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2572,-103.7474,4,juan-jose-rios
+MX,Mexico,México,28984,Ramón Serrano,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2529,-103.7492,4,ramon-serrano
+MX,Mexico,México,28984,Buenavista,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,4,buenavista
+MX,Mexico,México,28984,Los Triángulos,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,los-triangulos
+MX,Mexico,México,28984,Juan José Ríos II,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,juan-jose-rios-ii
+MX,Mexico,México,28984,Residencial Los Robles,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,residencial-los-robles
+MX,Mexico,México,28984,Patria Residencial,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,patria-residencial
+MX,Mexico,México,28984,Villafuentes,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,villafuentes
+MX,Mexico,México,28984,Verde Valle,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,verde-valle
+MX,Mexico,México,28984,Centenario II,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7438,3,centenario-ii
+MX,Mexico,México,28984,Jardines de La Villa,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2519,-103.7466,4,jardines-de-la-villa
+MX,Mexico,México,28984,Puerta del Centenario,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2567,-103.7594,4,puerta-del-centenario
+MX,Mexico,México,28984,Villas de San José,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2496,-103.7507,4,villas-de-san-jose
+MX,Mexico,México,28984,Palo Alto,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2861,-103.7709,4,palo-alto
+MX,Mexico,México,28984,Real Centenario,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2538,-103.7575,4,real-centenario
+MX,Mexico,México,28984,Lomas del Centenario,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2582,-103.7519,4,lomas-del-centenario
+MX,Mexico,México,28984,Manuel Alvarez,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2506,-103.7415,4,manuel-alvarez
+MX,Mexico,México,28985,Del Valle,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2621,-103.747,4,del-valle
+MX,Mexico,México,28985,San Miguel,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2646,-103.7484,4,san-miguel
+MX,Mexico,México,28985,Villa de Oro,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2633,-103.751,4,villa-de-oro
+MX,Mexico,México,28986,Emiliano Zapata,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2675,-103.7457,4,emiliano-zapata
+MX,Mexico,México,28986,Villas Diamante,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2675,-103.7457,3,villas-diamante
+MX,Mexico,México,28987,Alta Villa,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2645,-103.7414,4,alta-villa
+MX,Mexico,México,28987,Villas Providencia,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2657,-103.7525,4,villas-providencia
+MX,Mexico,México,28987,San Carlos,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2673,-103.7427,4,san-carlos
+MX,Mexico,México,28987,La Haciendita,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2656,-103.7442,4,la-haciendita
+MX,Mexico,México,28988,Campestre,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2725,-103.741,4,campestre
+MX,Mexico,México,28988,El Llano,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2699,-103.7399,4,el-llano
+MX,Mexico,México,28989,Puerta de Hierro,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2577,-103.7624,4,puerta-de-hierro
+MX,Mexico,México,28989,Leandro Valle,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2771,-103.7457,4,leandro-valle
+MX,Mexico,México,28989,Villa de Alba,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2773,-103.7419,4,villa-de-alba
+MX,Mexico,México,28989,Prados de La Villa,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2717,-103.7488,3,prados-de-la-villa
+MX,Mexico,México,28989,Montellano,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2717,-103.7488,3,montellano
+MX,Mexico,México,28989,Real de Minas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2717,-103.7488,3,real-de-minas
+MX,Mexico,México,28989,Campestre Bugambilias,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2717,-103.7488,3,campestre-bugambilias
+MX,Mexico,México,28989,Las Tunas,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.3097,-103.8444,3,las-tunas
+MX,Mexico,México,28989,Burócratas del Estado,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2748,-103.7452,4,burocratas-del-estado
+MX,Mexico,México,28989,La Comarca,Colima,06,Villa de Álvarez,010,Ciudad de Villa de Álvarez,04,19.2717,-103.7488,3,la-comarca

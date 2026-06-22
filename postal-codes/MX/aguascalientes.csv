@@ -1,0 +1,1345 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+MX,Mexico,México,20000,Zona Centro,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,zona-centro
+MX,Mexico,México,20010,Ramon Romo Franco,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,1,ramon-romo-franco
+MX,Mexico,México,20010,Colinas del Rio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,1,colinas-del-rio
+MX,Mexico,México,20010,San Cayetano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,1,san-cayetano
+MX,Mexico,México,20010,Las Brisas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,1,las-brisas
+MX,Mexico,México,20010,Olivares Santana,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,1,olivares-santana
+MX,Mexico,México,20016,Colinas de San Ignacio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,3,colinas-de-san-ignacio
+MX,Mexico,México,20016,La Fundición,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,3,la-fundicion
+MX,Mexico,México,20016,Fundición II,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,3,fundicion-ii
+MX,Mexico,México,20016,Los Sauces,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,los-sauces
+MX,Mexico,México,20018,Línea de Fuego,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9644,-102.3192,1,linea-de-fuego
+MX,Mexico,México,20020,Las Arboledas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8376,-102.321,3,las-arboledas
+MX,Mexico,México,20020,Villas de San Francisco,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,villas-de-san-francisco
+MX,Mexico,México,20020,Circunvalación Norte,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8376,-102.321,3,circunvalacion-norte
+MX,Mexico,México,20020,Buenos Aires,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7,-102.3833,4,buenos-aires
+MX,Mexico,México,20029,Villas de La Universidad,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8376,-102.321,1,villas-de-la-universidad
+MX,Mexico,México,20030,El Sol,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,el-sol
+MX,Mexico,México,20030,Gremial,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.97,-102.3069,3,gremial
+MX,Mexico,México,20030,Industrial,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.97,-102.3069,3,industrial
+MX,Mexico,México,20040,Curtidores,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9725,-102.3114,3,curtidores
+MX,Mexico,México,20040,La Concordia,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9725,-102.3114,3,la-concordia
+MX,Mexico,México,20040,Panorama,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9725,-102.3114,3,panorama
+MX,Mexico,México,20040,Altavista,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9725,-102.3114,3,altavista
+MX,Mexico,México,20040,Miravalle,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,miravalle
+MX,Mexico,México,20049,Colinas del Poniente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9725,-102.3114,1,colinas-del-poniente
+MX,Mexico,México,20050,Bugambilias,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7897,-102.3508,4,bugambilias
+MX,Mexico,México,20050,Primavera,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.6806,-102.3567,4,primavera
+MX,Mexico,México,20050,Del Carmen,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9289,-102.1625,4,del-carmen
+MX,Mexico,México,20050,San Pablo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,san-pablo
+MX,Mexico,México,20050,México,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8197,-102.2364,3,mexico
+MX,Mexico,México,20050,La Fe,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8197,-102.2364,3,la-fe
+MX,Mexico,México,20059,Guadalupe,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8197,-102.2364,1,guadalupe
+MX,Mexico,México,20059,Heliodoro Garcia,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8197,-102.2364,1,heliodoro-garcia
+MX,Mexico,México,20060,Moderno,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,moderno
+MX,Mexico,México,20060,Gómez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,gomez
+MX,Mexico,México,20064,Valle del Rio San Pedro,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,valle-del-rio-san-pedro
+MX,Mexico,México,20070,San Marcos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,san-marcos
+MX,Mexico,México,20070,Guadalupe Posada,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,guadalupe-posada
+MX,Mexico,México,20078,San Marcos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,san-marcos
+MX,Mexico,México,20080,Modelo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,modelo
+MX,Mexico,México,20080,Residencial del Valle I,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,residencial-del-valle-i
+MX,Mexico,México,20089,Residencial del Valle II,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8734,-102.2806,1,residencial-del-valle-ii
+MX,Mexico,México,20100,Rancho San Antonio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,rancho-san-antonio
+MX,Mexico,México,20100,Jardines del Campestre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9922,-102.2014,3,jardines-del-campestre
+MX,Mexico,México,20100,Campestre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9922,-102.2014,3,campestre
+MX,Mexico,México,20100,La Herradura,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.87,-102.3767,4,la-herradura
+MX,Mexico,México,20100,Club Campestre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9922,-102.2014,3,club-campestre
+MX,Mexico,México,20100,Los Vergeles,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9922,-102.2014,3,los-vergeles
+MX,Mexico,México,20110,La Enramada,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,la-enramada
+MX,Mexico,México,20110,Las Cavas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,las-cavas
+MX,Mexico,México,20110,Talamantes Ponce,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,talamantes-ponce
+MX,Mexico,México,20110,Valle del Campestre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,valle-del-campestre
+MX,Mexico,México,20110,Granjas del Campestre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,granjas-del-campestre
+MX,Mexico,México,20110,Puerto las Hadas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,puerto-las-hadas
+MX,Mexico,México,20110,Villas de Montenegro,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,villas-de-montenegro
+MX,Mexico,México,20115,Valle de las Trojes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,3,valle-de-las-trojes
+MX,Mexico,México,20115,Villas de San Nicolás,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,3,villas-de-san-nicolas
+MX,Mexico,México,20115,Trojes de Oriente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,3,trojes-de-oriente
+MX,Mexico,México,20115,San Telmo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,3,san-telmo
+MX,Mexico,México,20115,Valle de Santa Teresa,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,3,valle-de-santa-teresa
+MX,Mexico,México,20115,Villa de las Trojes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,3,villa-de-las-trojes
+MX,Mexico,México,20115,Barrio de Santiago,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,3,barrio-de-santiago
+MX,Mexico,México,20115,La Paloma,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8542,-102.2175,4,la-paloma
+MX,Mexico,México,20116,Santa Fe,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9261,-102.2406,4,santa-fe
+MX,Mexico,México,20116,La Troje,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7795,-102.5374,4,la-troje
+MX,Mexico,México,20116,Trojes de Alonso,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9364,-102.2976,4,trojes-de-alonso
+MX,Mexico,México,20116,San Telmo Residencial,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8807,-102.3585,3,san-telmo-residencial
+MX,Mexico,México,20117,Aguascalientes 2000,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,aguascalientes-2000
+MX,Mexico,México,20118,Las Misiones,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,las-misiones
+MX,Mexico,México,20118,Cerrada de la Mezquitera,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,cerrada-de-la-mezquitera
+MX,Mexico,México,20118,Los Jarales,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,los-jarales
+MX,Mexico,México,20118,Misión del Campanario,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,mision-del-campanario
+MX,Mexico,México,20118,Misión de Santiago,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,mision-de-santiago
+MX,Mexico,México,20118,Residencial Santa Clara,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,residencial-santa-clara
+MX,Mexico,México,20118,Cerrada El Molino,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,cerrada-el-molino
+MX,Mexico,México,20118,Cerrada del Valle,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,cerrada-del-valle
+MX,Mexico,México,20118,Cerrada de La Misión,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,cerrada-de-la-mision
+MX,Mexico,México,20118,Terzetto,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,terzetto
+MX,Mexico,México,20118,Trojes de Cristal,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,trojes-de-cristal
+MX,Mexico,México,20118,Trojes del Sol,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,trojes-del-sol
+MX,Mexico,México,20118,Valle del Campanario,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,valle-del-campanario
+MX,Mexico,México,20118,Valle Real,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,3,valle-real
+MX,Mexico,México,20118,Las Trojes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7458,-102.3303,4,las-trojes
+MX,Mexico,México,20119,Villas del Campestre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,villas-del-campestre
+MX,Mexico,México,20119,Los Calicantos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,los-calicantos
+MX,Mexico,México,20119,Lomas del Campestre 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8484,-102.3247,1,lomas-del-campestre-2a-seccion
+MX,Mexico,México,20120,Jardines de la Concepción,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,jardines-de-la-concepcion
+MX,Mexico,México,20120,Los Bosques,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,los-bosques
+MX,Mexico,México,20120,Rinconada los Bosques,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,rinconada-los-bosques
+MX,Mexico,México,20123,Arroyo El Molino,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,arroyo-el-molino
+MX,Mexico,México,20124,Residencial Altaria,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,residencial-altaria
+MX,Mexico,México,20124,Galerías,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,galerias
+MX,Mexico,México,20126,La Soledad,Aguascalientes,01,Aguascalientes,001,,,21.9426,-102.2796,4,la-soledad
+MX,Mexico,México,20126,Villa de Nuestra Señora de La Asunción Sector Estación,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-de-nuestra-senora-de-la-asuncion-sector-estacion
+MX,Mexico,México,20126,Los Naranjos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,los-naranjos
+MX,Mexico,México,20126,Montebello Della Stanza,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9364,-102.2725,4,montebello-della-stanza
+MX,Mexico,México,20126,Pozo Bravo Norte,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,pozo-bravo-norte
+MX,Mexico,México,20126,Jardines de Montebello,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,jardines-de-montebello
+MX,Mexico,México,20126,Libertad,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,libertad
+MX,Mexico,México,20126,Natura,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,3,natura
+MX,Mexico,México,20126,El Puertecito,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,el-puertecito
+MX,Mexico,México,20126,Los Ángeles,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,los-angeles
+MX,Mexico,México,20126,Villa de Nuestra Señora de La Asunción Sector San Marcos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-de-nuestra-senora-de-la-asuncion-sector-san-marcos
+MX,Mexico,México,20126,Villas de Don Antonio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villas-de-don-antonio
+MX,Mexico,México,20126,Villas de La Convención,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villas-de-la-convencion
+MX,Mexico,México,20126,Villas del Río,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villas-del-rio
+MX,Mexico,México,20126,Villa Teresa,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-teresa
+MX,Mexico,México,20126,Villa Loma Dorada,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-loma-dorada
+MX,Mexico,México,20126,Villa Montaña,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-montana
+MX,Mexico,México,20126,Villa Notre Dame,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-notre-dame
+MX,Mexico,México,20126,El Rosedal,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,el-rosedal
+MX,Mexico,México,20126,Pozo Bravo Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,pozo-bravo-sur
+MX,Mexico,México,20126,Privada Guadalupe,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,privada-guadalupe
+MX,Mexico,México,20126,Residencial las Plazas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,residencial-las-plazas
+MX,Mexico,México,20126,Rinconada del Puertecito,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,rinconada-del-puertecito
+MX,Mexico,México,20126,Rinconada Pozo Bravo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,rinconada-pozo-bravo
+MX,Mexico,México,20126,San José de Pozo Bravo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,san-jose-de-pozo-bravo
+MX,Mexico,México,20126,Soberana Convención Revolucionaria,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,soberana-convencion-revolucionaria
+MX,Mexico,México,20126,Villa de Nuestra Señora de La Asunción Sector Alameda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-de-nuestra-senora-de-la-asuncion-sector-alameda
+MX,Mexico,México,20126,Cartagena 1947,Aguascalientes,01,Aguascalientes,001,,,22.0161,-102.1909,3,cartagena-1947
+MX,Mexico,México,20126,Constitución,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,constitucion
+MX,Mexico,México,20126,Lomas de La Asunción,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,lomas-de-la-asuncion
+MX,Mexico,México,20126,Villa de Nuestra Señora de La Asunción Sector Encino,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-de-nuestra-senora-de-la-asuncion-sector-encino
+MX,Mexico,México,20126,Villa de Nuestra Señora de La Asunción Sector Guadalupe,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,3,villa-de-nuestra-senora-de-la-asuncion-sector-guadalupe
+MX,Mexico,México,20127,Bosques del Prado Norte,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,bosques-del-prado-norte
+MX,Mexico,México,20129,Lomas del Campestre 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0161,-102.1909,1,lomas-del-campestre-1a-seccion
+MX,Mexico,México,20130,Palma Real,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,palma-real
+MX,Mexico,México,20130,El Roble,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,el-roble
+MX,Mexico,México,20130,San José del Arenal,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,san-jose-del-arenal
+MX,Mexico,México,20130,Residencial Campestre Club de Golf Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,residencial-campestre-club-de-golf-sur
+MX,Mexico,México,20130,Independencia de México,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,independencia-de-mexico
+MX,Mexico,México,20130,Bosques del Prado Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,bosques-del-prado-sur
+MX,Mexico,México,20130,Residencial Campestre Club de Golf Norte,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,residencial-campestre-club-de-golf-norte
+MX,Mexico,México,20130,Palmas del Pedregal,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,palmas-del-pedregal
+MX,Mexico,México,20130,Fátima,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,4,fatima
+MX,Mexico,México,20130,Primo Verdad,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,primo-verdad
+MX,Mexico,México,20130,Puerta Navarra,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,puerta-navarra
+MX,Mexico,México,20130,Nueva Rinconada,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,nueva-rinconada
+MX,Mexico,México,20130,Unidad Ganadera,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7806,-102.3478,3,unidad-ganadera
+MX,Mexico,México,20135,Centro Distribuidor de Básicos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.1014,-102.2728,3,centro-distribuidor-de-basicos
+MX,Mexico,México,20135,Agropecuario,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,agropecuario
+MX,Mexico,México,20136,La Rinconada,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7089,-102.3528,4,la-rinconada
+MX,Mexico,México,20137,El Plateado,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8636,-102.3244,1,el-plateado
+MX,Mexico,México,20138,Residencial Pulgas Pandas Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8636,-102.3244,1,residencial-pulgas-pandas-sur
+MX,Mexico,México,20138,Residencial Pulgas Pandas Norte,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8636,-102.3244,1,residencial-pulgas-pandas-norte
+MX,Mexico,México,20138,Villas del Vergel,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8636,-102.3244,1,villas-del-vergel
+MX,Mexico,México,20138,Cerrada San Miguel,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8636,-102.3244,1,cerrada-san-miguel
+MX,Mexico,México,20140,Andrea,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.6892,-102.3337,4,andrea
+MX,Mexico,México,20140,Morelos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9994,-102.2027,4,morelos
+MX,Mexico,México,20140,Las Hadas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8443,-102.2682,3,las-hadas
+MX,Mexico,México,20146,Los Arcos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,los-arcos
+MX,Mexico,México,20149,Industrial,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.918,-102.2603,1,industrial
+MX,Mexico,México,20150,C.T.M.,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8125,-102.3203,3,c-t-m
+MX,Mexico,México,20150,Lomas del Cobano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8125,-102.3203,3,lomas-del-cobano
+MX,Mexico,México,20150,Macias Arellano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8125,-102.3203,3,macias-arellano
+MX,Mexico,México,20150,La Estrella,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9075,-102.345,4,la-estrella
+MX,Mexico,México,20150,Buenavista,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7175,-102.2956,4,buenavista
+MX,Mexico,México,20157,La Higuerilla,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9235,-102.2752,4,la-higuerilla
+MX,Mexico,México,20157,Parras,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9235,-102.2752,3,parras
+MX,Mexico,México,20158,El Cobano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8495,-102.3052,1,el-cobano
+MX,Mexico,México,20158,Hacienda el Cobano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8495,-102.3052,1,hacienda-el-cobano
+MX,Mexico,México,20158,Trojes del Cobano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8495,-102.3052,1,trojes-del-cobano
+MX,Mexico,México,20158,Villas del Cobano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8495,-102.3052,1,villas-del-cobano
+MX,Mexico,México,20159,Alianza Ferrocarrilera,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8495,-102.3052,1,alianza-ferrocarrilera
+MX,Mexico,México,20159,Bosques del Prado Oriente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8495,-102.3052,1,bosques-del-prado-oriente
+MX,Mexico,México,20160,Las Viñas INFONAVIT,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7561,-102.305,1,las-vinas-infonavit
+MX,Mexico,México,20160,Francisco Guel Jimenez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7561,-102.305,1,francisco-guel-jimenez
+MX,Mexico,México,20164,Santa Anita 4a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7561,-102.305,1,santa-anita-4a-seccion
+MX,Mexico,México,20169,Santa Anita 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7561,-102.305,3,santa-anita-2a-seccion
+MX,Mexico,México,20169,Santa Anita,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7561,-102.305,4,santa-anita
+MX,Mexico,México,20170,Villa Bonita,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8066,-102.2016,3,villa-bonita
+MX,Mexico,México,20170,S.T.E.M.A.,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8066,-102.2016,3,s-t-e-m-a
+MX,Mexico,México,20170,Zona Militar,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8066,-102.2016,3,zona-militar
+MX,Mexico,México,20170,Rodolfo Landeros Gallegos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8066,-102.2016,3,rodolfo-landeros-gallegos
+MX,Mexico,México,20170,El Maguey,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7058,-102.1497,4,el-maguey
+MX,Mexico,México,20170,Las Cumbres,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9073,-102.2535,4,las-cumbres
+MX,Mexico,México,20170,Nazario Ortiz Garza,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8066,-102.2016,3,nazario-ortiz-garza
+MX,Mexico,México,20170,Lic Benito Juárez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8066,-102.2016,3,lic-benito-juarez
+MX,Mexico,México,20172,Claustros Loma Dorada,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9222,-102.2375,3,claustros-loma-dorada
+MX,Mexico,México,20172,Lic Benito Palomino Dena,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9222,-102.2375,3,lic-benito-palomino-dena
+MX,Mexico,México,20172,Cumbres III,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9222,-102.2375,4,cumbres-iii
+MX,Mexico,México,20174,Los Pericos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,los-pericos
+MX,Mexico,México,20174,Paseos del Sol,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,paseos-del-sol
+MX,Mexico,México,20174,Miradores de Santa Elena,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,miradores-de-santa-elena
+MX,Mexico,México,20174,Villas de la Loma,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,villas-de-la-loma
+MX,Mexico,México,20174,Villas de las Fuentes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,villas-de-las-fuentes
+MX,Mexico,México,20174,Vista de las Cumbres,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,vista-de-las-cumbres
+MX,Mexico,México,20174,Mirador de las Culturas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,mirador-de-las-culturas
+MX,Mexico,México,20174,Lomas de Bellavista,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,lomas-de-bellavista
+MX,Mexico,México,20174,Los Laureles,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,4,los-laureles
+MX,Mexico,México,20174,Colinas de Oriente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7883,-102.1242,3,colinas-de-oriente
+MX,Mexico,México,20175,Ejido las Cumbres,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8996,-102.2112,1,ejido-las-cumbres
+MX,Mexico,México,20175,J Refugio Esparza Reyes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8996,-102.2112,1,j-refugio-esparza-reyes
+MX,Mexico,México,20175,La Hojarasca,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8996,-102.2112,1,la-hojarasca
+MX,Mexico,México,20175,Lomas de Oriente 3ra. Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8996,-102.2112,1,lomas-de-oriente-3ra-seccion
+MX,Mexico,México,20175,Lomas de Oriente 2da. Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8996,-102.2112,1,lomas-de-oriente-2da-seccion
+MX,Mexico,México,20175,Lomas de Oriente 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8996,-102.2112,1,lomas-de-oriente-1a-seccion
+MX,Mexico,México,20177,C.N.O.P. Oriente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8996,-102.2112,1,c-n-o-p-oriente
+MX,Mexico,México,20179,Pensadores Mexicanos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0371,-102.2511,3,pensadores-mexicanos
+MX,Mexico,México,20179,Cerro Alto,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0371,-102.2511,3,cerro-alto
+MX,Mexico,México,20179,Progreso,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,progreso
+MX,Mexico,México,20179,Las Cumbres II,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0371,-102.2511,3,las-cumbres-ii
+MX,Mexico,México,20179,Luis Ortega Douglas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0371,-102.2511,3,luis-ortega-douglas
+MX,Mexico,México,20179,Santa Margarita,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0371,-102.2511,3,santa-margarita
+MX,Mexico,México,20179,Pintores Mexicanos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0371,-102.2511,3,pintores-mexicanos
+MX,Mexico,México,20179,Las Cumbres,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9073,-102.2535,4,las-cumbres
+MX,Mexico,México,20180,Del Trabajo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8963,-102.2672,1,del-trabajo
+MX,Mexico,México,20180,Bosques de La Alameda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8963,-102.2672,1,bosques-de-la-alameda
+MX,Mexico,México,20180,Rinconada de La Alameda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8963,-102.2672,1,rinconada-de-la-alameda
+MX,Mexico,México,20180,Luis Gómez Zepeda (ferronales),Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8963,-102.2672,1,luis-gomez-zepeda-ferronales
+MX,Mexico,México,20180,Lomas de Santa Anita,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8963,-102.2672,1,lomas-de-santa-anita
+MX,Mexico,México,20180,Ferronales,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8963,-102.2672,1,ferronales
+MX,Mexico,México,20180,Nueva Alameda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8963,-102.2672,1,nueva-alameda
+MX,Mexico,México,20190,La Mancha,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.6858,-102.4515,3,la-mancha
+MX,Mexico,México,20190,Héroes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.6858,-102.4515,3,heroes
+MX,Mexico,México,20190,La Hacienda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.6858,-102.4515,4,la-hacienda
+MX,Mexico,México,20196,Ojocaliente INEGI,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,ojocaliente-inegi
+MX,Mexico,México,20196,Villa de las Norias,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,villa-de-las-norias
+MX,Mexico,México,20196,Balcones de Oriente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,balcones-de-oriente
+MX,Mexico,México,20196,Balcones del Valle,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,balcones-del-valle
+MX,Mexico,México,20196,Paseo de los Cactus,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,paseo-de-los-cactus
+MX,Mexico,México,20196,José Guadalupe Posada,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,jose-guadalupe-posada
+MX,Mexico,México,20196,José Guadalupe Peralta Gámez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,jose-guadalupe-peralta-gamez
+MX,Mexico,México,20196,Real de Haciendas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,real-de-haciendas
+MX,Mexico,México,20196,Vistas de Oriente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,vistas-de-oriente
+MX,Mexico,México,20196,Sol Naciente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,sol-naciente
+MX,Mexico,México,20196,Real del Sol,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,real-del-sol
+MX,Mexico,México,20196,Solidaridad 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,solidaridad-1a-seccion
+MX,Mexico,México,20196,Colinas de San Patricio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,colinas-de-san-patricio
+MX,Mexico,México,20196,Terra Nova,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,terra-nova
+MX,Mexico,México,20196,Villerías,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,villerias
+MX,Mexico,México,20196,Valle del Bicentenario,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,valle-del-bicentenario
+MX,Mexico,México,20196,Ojocaliente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8894,-102.2174,4,ojocaliente
+MX,Mexico,México,20196,El Rocio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8781,-102.2383,4,el-rocio
+MX,Mexico,México,20196,Haciendas de Aguascalientes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,haciendas-de-aguascalientes
+MX,Mexico,México,20196,Valle de los Cactus,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9199,-102.2664,3,valle-de-los-cactus
+MX,Mexico,México,20198,Ejido Ojocaliente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8614,-102.3127,1,ejido-ojocaliente
+MX,Mexico,México,20198,Misión Alameda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8614,-102.3127,1,mision-alameda
+MX,Mexico,México,20198,Ex Hacienda Ojocaliente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8614,-102.3127,1,ex-hacienda-ojocaliente
+MX,Mexico,México,20199,El Riego,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8614,-102.3127,1,el-riego
+MX,Mexico,México,20199,Municipio Libre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8614,-102.3127,1,municipio-libre
+MX,Mexico,México,20199,Fidel Velázquez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8614,-102.3127,1,fidel-velazquez
+MX,Mexico,México,20200,Loma Bonita,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,loma-bonita
+MX,Mexico,México,20200,José Vasconcelos Calderón,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,jose-vasconcelos-calderon
+MX,Mexico,México,20200,Villas de La Cantera,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,villas-de-la-cantera
+MX,Mexico,México,20200,Villas del Mediterráneo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8431,-102.3294,4,villas-del-mediterraneo
+MX,Mexico,México,20200,Porta Canteras,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,porta-canteras
+MX,Mexico,México,20200,El Quelite,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,el-quelite
+MX,Mexico,México,20200,Lic Manuel Gómez Morin,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,lic-manuel-gomez-morin
+MX,Mexico,México,20200,Fuentes del Lago,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,fuentes-del-lago
+MX,Mexico,México,20200,Olinda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,olinda
+MX,Mexico,México,20200,Ex Hacienda La Cantera,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8249,-102.3275,3,ex-hacienda-la-cantera
+MX,Mexico,México,20200,Veteranos de La Revolución,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8444,-102.355,4,veteranos-de-la-revolucion
+MX,Mexico,México,20200,Bellavista,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7608,-102.2692,4,bellavista
+MX,Mexico,México,20200,Residencial San Nicolás,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8511,-102.3564,4,residencial-san-nicolas
+MX,Mexico,México,20205,Educación Álamos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8287,-102.3265,1,educacion-alamos
+MX,Mexico,México,20205,Nueva España,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8287,-102.3265,1,nueva-espana
+MX,Mexico,México,20206,La Barranquilla,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8442,-102.3225,3,la-barranquilla
+MX,Mexico,México,20206,Lic. José López Portillo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8442,-102.3225,3,lic-jose-lopez-portillo
+MX,Mexico,México,20206,Barandales de San José,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8442,-102.3225,4,barandales-de-san-jose
+MX,Mexico,México,20207,Capital City,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8287,-102.3265,1,capital-city
+MX,Mexico,México,20207,Canteras de San Javier,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8287,-102.3265,1,canteras-de-san-javier
+MX,Mexico,México,20207,Rinconada San José,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8287,-102.3265,1,rinconada-san-jose
+MX,Mexico,México,20208,Canteras de San José,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8287,-102.3265,1,canteras-de-san-jose
+MX,Mexico,México,20210,Pirules INFONAVIT,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,pirules-infonavit
+MX,Mexico,México,20210,Circunvalación Poniente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,circunvalacion-poniente
+MX,Mexico,México,20210,España,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,espana
+MX,Mexico,México,20210,La Barranca de Guadalupe,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,la-barranca-de-guadalupe
+MX,Mexico,México,20216,Jardines de los Pirules,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,jardines-de-los-pirules
+MX,Mexico,México,20217,Residencial los Pirules,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,residencial-los-pirules
+MX,Mexico,México,20218,Los Eucaliptos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,3,los-eucaliptos
+MX,Mexico,México,20218,Canteras de San Agustin,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,3,canteras-de-san-agustin
+MX,Mexico,México,20218,San Agustín,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,san-agustin
+MX,Mexico,México,20218,San Martin de La Cantera,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8539,-102.3556,4,san-martin-de-la-cantera
+MX,Mexico,México,20218,Jardines del Lago,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,3,jardines-del-lago
+MX,Mexico,México,20218,Santa Imelda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,3,santa-imelda
+MX,Mexico,México,20218,Los Eucaliptos 2a. Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,3,los-eucaliptos-2a-seccion
+MX,Mexico,México,20218,Canteras de Santa Imelda,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,3,canteras-de-santa-imelda
+MX,Mexico,México,20218,Francisco Villa,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,francisco-villa
+MX,Mexico,México,20219,Misión Juan Pablo II,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,mision-juan-pablo-ii
+MX,Mexico,México,20219,Parque Industrial el Vergel,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.003,-102.1098,1,parque-industrial-el-vergel
+MX,Mexico,México,20219,El Edén,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,1,el-eden
+MX,Mexico,México,20220,Vivienda Popular,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9483,-102.1202,3,vivienda-popular
+MX,Mexico,México,20220,Las Flores,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,las-flores
+MX,Mexico,México,20229,Las Torres,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9483,-102.1202,1,las-torres
+MX,Mexico,México,20230,Obraje,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8169,-102.1044,3,obraje
+MX,Mexico,México,20230,Las Américas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,las-americas
+MX,Mexico,México,20230,Santa Elena,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8169,-102.1044,3,santa-elena
+MX,Mexico,México,20234,Agricultura,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,agricultura
+MX,Mexico,México,20234,Mesonero,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,mesonero
+MX,Mexico,México,20235,Villa Jardín,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,villa-jardin
+MX,Mexico,México,20235,El Dorado 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,el-dorado-1a-seccion
+MX,Mexico,México,20235,Valle Dorado,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,valle-dorado
+MX,Mexico,México,20235,El Dorado 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,el-dorado-2a-seccion
+MX,Mexico,México,20236,Jardines de Santa Elena,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,jardines-de-santa-elena
+MX,Mexico,México,20237,Hermanos Carreón,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9364,-102.2725,3,hermanos-carreon
+MX,Mexico,México,20237,Montebello,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9364,-102.2725,4,montebello
+MX,Mexico,México,20238,Santa Elena 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8767,-102.1885,1,santa-elena-2a-seccion
+MX,Mexico,México,20239,La Fuente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,1,la-fuente
+MX,Mexico,México,20240,El Encino,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,el-encino
+MX,Mexico,México,20240,El Llanito,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,el-llanito
+MX,Mexico,México,20240,El Laurel,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9557,-102.559,3,el-laurel
+MX,Mexico,México,20240,Residencial el Encino,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9557,-102.559,3,residencial-el-encino
+MX,Mexico,México,20240,Residencial Cosío,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9557,-102.559,3,residencial-cosio
+MX,Mexico,México,20240,Los Virreyes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9557,-102.559,3,los-virreyes
+MX,Mexico,México,20240,La Luna,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,3,la-luna
+MX,Mexico,México,20240,Triana,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,triana
+MX,Mexico,México,20240,La Salud,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9557,-102.559,3,la-salud
+MX,Mexico,México,20247,San Fernando INFONAVIT,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0085,-102.4813,1,san-fernando-infonavit
+MX,Mexico,México,20248,Jardines de Triana,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0085,-102.4813,1,jardines-de-triana
+MX,Mexico,México,20249,Gámez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,gamez
+MX,Mexico,México,20250,Jesús Gómez Portugal,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,jesus-gomez-portugal
+MX,Mexico,México,20250,Villas de Kristal,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9314,-102.3038,3,villas-de-kristal
+MX,Mexico,México,20250,Héroes de Aguascalientes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9314,-102.3038,3,heroes-de-aguascalientes
+MX,Mexico,México,20250,La Huerta,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8667,-102.3167,4,la-huerta
+MX,Mexico,México,20250,San Luis,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9314,-102.3038,3,san-luis
+MX,Mexico,México,20250,Jardines de La Cruz,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.9314,-102.3038,3,jardines-de-la-cruz
+MX,Mexico,México,20255,INFONAVIT Los Volcanes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,infonavit-los-volcanes
+MX,Mexico,México,20255,Bona Gens,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,bona-gens
+MX,Mexico,México,20256,Ojocaliente FOVISSSTE II,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,ojocaliente-fovissste-ii
+MX,Mexico,México,20256,FOVISSSTE Ojocaliente I,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,fovissste-ojocaliente-i
+MX,Mexico,México,20256,Rinconada de La Cruz,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,rinconada-de-la-cruz
+MX,Mexico,México,20256,Villas de Ojocaliente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,villas-de-ojocaliente
+MX,Mexico,México,20256,Parque y Presa del Cedazo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,parque-y-presa-del-cedazo
+MX,Mexico,México,20256,Ojocaliente las Torres,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,ojocaliente-las-torres
+MX,Mexico,México,20257,Lázaro Cárdenas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,lazaro-cardenas
+MX,Mexico,México,20259,La Purísima,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,22.0114,-102.2116,1,la-purisima
+MX,Mexico,México,20259,La Estación,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,1,la-estacion
+MX,Mexico,México,20260,Vivienda Militar,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,vivienda-militar
+MX,Mexico,México,20260,Rinconada El Cedazo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,rinconada-el-cedazo
+MX,Mexico,México,20260,Ojo de Agua,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,ojo-de-agua
+MX,Mexico,México,20260,Sidusa,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,sidusa
+MX,Mexico,México,20260,Jesús Terán Peredo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,jesus-teran-peredo
+MX,Mexico,México,20260,IV Centenario,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,iv-centenario
+MX,Mexico,México,20263,Cielo Claro,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,cielo-claro
+MX,Mexico,México,20263,Salto de Ojocaliente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,salto-de-ojocaliente
+MX,Mexico,México,20263,Villa Taurina,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,villa-taurina
+MX,Mexico,México,20263,La Lomita,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,la-lomita
+MX,Mexico,México,20263,Cobano de Palmitas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,cobano-de-palmitas
+MX,Mexico,México,20263,Tierra Buena,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,tierra-buena
+MX,Mexico,México,20263,Cima del Chapulín,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,cima-del-chapulin
+MX,Mexico,México,20263,Bajío de las Palmas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,bajio-de-las-palmas
+MX,Mexico,México,20263,Solidaridad 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,solidaridad-2a-seccion
+MX,Mexico,México,20263,Ojo de Agua de Palmitas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,ojo-de-agua-de-palmitas
+MX,Mexico,México,20263,Solidaridad 3a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,solidaridad-3a-seccion
+MX,Mexico,México,20263,El Cedazo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.6994,-102.3108,4,el-cedazo
+MX,Mexico,México,20263,Agua Clara,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,agua-clara
+MX,Mexico,México,20263,Balcones de Ojocaliente,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,balcones-de-ojocaliente
+MX,Mexico,México,20263,Villa las Palmas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,villa-las-palmas
+MX,Mexico,México,20263,Lomas del Chapulín,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,lomas-del-chapulin
+MX,Mexico,México,20263,San Jorge,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8669,-102.2848,3,san-jorge
+MX,Mexico,México,20263,San Ángel,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,san-angel
+MX,Mexico,México,20263,Lomas del Gachupín,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8567,-102.2425,4,lomas-del-gachupin
+MX,Mexico,México,20264,Vista del Sol 3a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,vista-del-sol-3a-seccion
+MX,Mexico,México,20264,Vista del Sol 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,vista-del-sol-2a-seccion
+MX,Mexico,México,20264,Morelos INFONAVIT,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,morelos-infonavit
+MX,Mexico,México,20265,Ojo de Agua INFONAVIT,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,ojo-de-agua-infonavit
+MX,Mexico,México,20266,Misión de Santa Fe,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.784,-102.2268,3,mision-de-santa-fe
+MX,Mexico,México,20266,Jardines del Sol,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.784,-102.2268,3,jardines-del-sol
+MX,Mexico,México,20266,Vista del Sol 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.784,-102.2268,3,vista-del-sol-1a-seccion
+MX,Mexico,México,20266,La Cruz,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.784,-102.2268,4,la-cruz
+MX,Mexico,México,20267,Ojo de Agua FOVISSSTE 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,ojo-de-agua-fovissste-1a-seccion
+MX,Mexico,México,20267,Jardines de La Convención,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,jardines-de-la-convencion
+MX,Mexico,México,20267,S.T.E.M.A.,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,s-t-e-m-a
+MX,Mexico,México,20267,Lic Primo Verdad INEGI,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,lic-primo-verdad-inegi
+MX,Mexico,México,20268,Fuentes de La Asunción,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,fuentes-de-la-asuncion
+MX,Mexico,México,20269,Jardines de La Luz,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8461,-102.2703,1,jardines-de-la-luz
+MX,Mexico,México,20270,Los Cedros,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,los-cedros
+MX,Mexico,México,20270,El Caminero,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,el-caminero
+MX,Mexico,México,20270,Bulevar,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,bulevar
+MX,Mexico,México,20270,Las Canoas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,las-canoas
+MX,Mexico,México,20270,Lindavista,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,lindavista
+MX,Mexico,México,20270,México,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,mexico
+MX,Mexico,México,20270,Jardines de La Asunción,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,jardines-de-la-asuncion
+MX,Mexico,México,20270,Jardines de Aguascalientes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,jardines-de-aguascalientes
+MX,Mexico,México,20276,Jardines de las Bugambilias,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,jardines-de-las-bugambilias
+MX,Mexico,México,20276,Jardines del Parque,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,jardines-del-parque
+MX,Mexico,México,20277,Rinconada del Parque,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,rinconada-del-parque
+MX,Mexico,México,20277,Residencial del Parque,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,residencial-del-parque
+MX,Mexico,México,20277,Pirámides,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,piramides
+MX,Mexico,México,20278,Diana,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,diana
+MX,Mexico,México,20278,Jardines de las Fuentes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8956,-102.2705,1,jardines-de-las-fuentes
+MX,Mexico,México,20280,Trojes del Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,trojes-del-sur
+MX,Mexico,México,20280,San Pedro,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,san-pedro
+MX,Mexico,México,20280,Martinez Dominguez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,martinez-dominguez
+MX,Mexico,México,20280,Central de Abastos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,central-de-abastos
+MX,Mexico,México,20280,Australis,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,australis
+MX,Mexico,México,20280,Prados de Villasunción,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,prados-de-villasuncion
+MX,Mexico,México,20280,Jardines del Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,jardines-del-sur
+MX,Mexico,México,20280,Prados del Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,prados-del-sur
+MX,Mexico,México,20280,Casasolida,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,casasolida
+MX,Mexico,México,20280,Torres de San Francisco,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,torres-de-san-francisco
+MX,Mexico,México,20280,San Francisco del Arenal,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,san-francisco-del-arenal
+MX,Mexico,México,20283,Parque Industrial Siglo XXI,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,parque-industrial-siglo-xxi
+MX,Mexico,México,20283,Parque Industrial Siglo XXI (Ampliación),Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,parque-industrial-siglo-xxi-ampliacion
+MX,Mexico,México,20284,La Casita,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8115,-102.2957,4,la-casita
+MX,Mexico,México,20284,Villas de Santa Rosa,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,3,villas-de-santa-rosa
+MX,Mexico,México,20284,La Estancia,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7339,-102.1572,4,la-estancia
+MX,Mexico,México,20284,Vistas del Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,3,vistas-del-sur
+MX,Mexico,México,20284,INFONAVIT Potreros del Oeste,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,3,infonavit-potreros-del-oeste
+MX,Mexico,México,20284,Villas del Oeste,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,3,villas-del-oeste
+MX,Mexico,México,20285,Versalles 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,versalles-2a-seccion
+MX,Mexico,México,20285,Versalles 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,versalles-1a-seccion
+MX,Mexico,México,20286,Rinconada Santa Mónica,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,rinconada-santa-monica
+MX,Mexico,México,20286,Rancho Santa Mónica,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,rancho-santa-monica
+MX,Mexico,México,20286,Paseos de Santa Mónica,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,paseos-de-santa-monica
+MX,Mexico,México,20286,Barlovento,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,barlovento
+MX,Mexico,México,20286,Providencia,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,providencia
+MX,Mexico,México,20286,Villa Capri,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,villa-capri
+MX,Mexico,México,20286,Villas San Antonio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,villas-san-antonio
+MX,Mexico,México,20286,Bosque Real,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,bosque-real
+MX,Mexico,México,20286,Villas del Pilar 1a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,villas-del-pilar-1a-seccion
+MX,Mexico,México,20286,Vicente Guerrero,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,vicente-guerrero
+MX,Mexico,México,20287,Insurgentes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,insurgentes
+MX,Mexico,México,20288,Bulevares 1a. Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,bulevares-1a-seccion
+MX,Mexico,México,20288,Bulevares 2a. Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,bulevares-2a-seccion
+MX,Mexico,México,20289,Pilar Blanco INFONAVIT,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8518,-102.2122,1,pilar-blanco-infonavit
+MX,Mexico,México,20290,Ciudad Industrial,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7897,-102.2797,3,ciudad-industrial
+MX,Mexico,México,20290,Vista Alegre,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7897,-102.2797,4,vista-alegre
+MX,Mexico,México,20290,Plaza Vestir,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7897,-102.2797,3,plaza-vestir
+MX,Mexico,México,20290,Parque Industrial ALTEC,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7897,-102.2797,3,parque-industrial-altec
+MX,Mexico,México,20291,Centro SCT Aguascalientes,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,centro-sct-aguascalientes
+MX,Mexico,México,20296,Villas de Bonaterra,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,villas-de-bonaterra
+MX,Mexico,México,20296,Rústicos Calpulli,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,rusticos-calpulli
+MX,Mexico,México,20296,San Francisco de los Arteaga,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,san-francisco-de-los-arteaga
+MX,Mexico,México,20296,Residencial San Javier,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,residencial-san-javier
+MX,Mexico,México,20296,Villa Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,villa-sur
+MX,Mexico,México,20297,Jardines de Casablanca,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8558,-102.2732,3,jardines-de-casablanca
+MX,Mexico,México,20297,Casa Blanca,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8558,-102.2732,4,casa-blanca
+MX,Mexico,México,20297,Jardines de Casanueva,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8558,-102.2732,3,jardines-de-casanueva
+MX,Mexico,México,20298,Misión de Santa Lucía,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,mision-de-santa-lucia
+MX,Mexico,México,20298,Morelos 2a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,morelos-2a-seccion
+MX,Mexico,México,20298,Villas de Ajedrez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,villas-de-ajedrez
+MX,Mexico,México,20298,Lomas del Mirador,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,lomas-del-mirador
+MX,Mexico,México,20298,Condominio La terraza,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,condominio-la-terraza
+MX,Mexico,México,20298,Lomas de Vistabella,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,lomas-de-vistabella
+MX,Mexico,México,20298,Lomas de Vistabella 2a. Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,lomas-de-vistabella-2a-seccion
+MX,Mexico,México,20298,Lomas del Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,lomas-del-sur
+MX,Mexico,México,20298,Morelos I,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,morelos-i
+MX,Mexico,México,20298,Solidaridad 4a Sección,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,solidaridad-4a-seccion
+MX,Mexico,México,20298,Valle del Cedazo,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,valle-del-cedazo
+MX,Mexico,México,20298,Lotes de Arellano,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,lotes-de-arellano
+MX,Mexico,México,20298,Laureles del Sur,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,laureles-del-sur
+MX,Mexico,México,20298,Paseos de San Antonio,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8033,-102.2592,3,paseos-de-san-antonio
+MX,Mexico,México,20298,Emiliano Zapata,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7947,-102.2394,4,emiliano-zapata
+MX,Mexico,México,20298,Hacienda San Marcos,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8061,-102.2656,4,hacienda-san-marcos
+MX,Mexico,México,20298,Lomas de Nueva York,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.7908,-102.2608,4,lomas-de-nueva-york
+MX,Mexico,México,20298,San Sebastián,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8214,-102.2711,4,san-sebastian
+MX,Mexico,México,20299,Reencuentro,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,reencuentro
+MX,Mexico,México,20299,Mujeres Ilustres,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,mujeres-ilustres
+MX,Mexico,México,20299,Fundadores,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,fundadores
+MX,Mexico,México,20299,Periodistas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,periodistas
+MX,Mexico,México,20299,Lomas de San Jorge,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,lomas-de-san-jorge
+MX,Mexico,México,20299,Lomas Altas,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,lomas-altas
+MX,Mexico,México,20299,Villalta,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,villalta
+MX,Mexico,México,20299,Lomas del Ajedrez,Aguascalientes,01,Aguascalientes,001,Aguascalientes,01,21.8098,-102.265,1,lomas-del-ajedrez
+MX,Mexico,México,20310,San Felipe [Viñedos],Aguascalientes,01,Aguascalientes,001,,,21.8839,-102.3658,4,san-felipe-vinedos
+MX,Mexico,México,20310,La Loma de los Negritos,Aguascalientes,01,Aguascalientes,001,,,21.8706,-102.35,4,la-loma-de-los-negritos
+MX,Mexico,México,20310,Los Negritos,Aguascalientes,01,Aguascalientes,001,,,21.8706,-102.35,4,los-negritos
+MX,Mexico,México,20311,Coyotes Norte,Aguascalientes,01,Aguascalientes,001,,,21.9274,-102.3193,3,coyotes-norte
+MX,Mexico,México,20311,Trojes de Alonso,Aguascalientes,01,Aguascalientes,001,,,21.9364,-102.2976,4,trojes-de-alonso
+MX,Mexico,México,20311,Sandovales,Aguascalientes,01,Aguascalientes,001,,,21.9183,-102.3411,4,sandovales
+MX,Mexico,México,20313,Cuauhtémoc (Las Palomas),Aguascalientes,01,Aguascalientes,001,,,21.7556,-102.3503,4,cuauhtemoc-las-palomas
+MX,Mexico,México,20313,Hacienda Nueva,Aguascalientes,01,Aguascalientes,001,,,21.9054,-102.3574,4,hacienda-nueva
+MX,Mexico,México,20314,El Cariñán,Aguascalientes,01,Aguascalientes,001,,,21.8942,-102.3708,4,el-carinan
+MX,Mexico,México,20315,Viñedos Valle Redondo,Aguascalientes,01,Aguascalientes,001,,,21.8644,-102.3536,4,vinedos-valle-redondo
+MX,Mexico,México,20316,Lomas del Picacho,Aguascalientes,01,Aguascalientes,001,,,21.876,-102.3529,1,lomas-del-picacho
+MX,Mexico,México,20317,Santa Cruz de la Presa,Aguascalientes,01,Aguascalientes,001,,,21.855,-102.3787,4,santa-cruz-de-la-presa
+MX,Mexico,México,20319,CERESO (Para Varones y Mujeres),Aguascalientes,01,Aguascalientes,001,,,21.8814,-102.3669,4,cereso-para-varones-y-mujeres
+MX,Mexico,México,20320,Gral. José María Morelos y Pavón,Aguascalientes,01,Aguascalientes,001,,,21.9578,-102.2473,1,gral-jose-maria-morelos-y-pavon
+MX,Mexico,México,20320,Las Cañadas,Aguascalientes,01,Aguascalientes,001,,,21.9578,-102.2473,1,las-canadas
+MX,Mexico,México,20320,Estación Cañada Honda,Aguascalientes,01,Aguascalientes,001,,,21.9578,-102.2473,1,estacion-canada-honda
+MX,Mexico,México,20321,El Cortijo,Aguascalientes,01,Aguascalientes,001,,,21.8115,-102.2957,4,el-cortijo
+MX,Mexico,México,20321,La Rinconada (La Escondida),Aguascalientes,01,Aguascalientes,001,,,22.0167,-102.2933,3,la-rinconada-la-escondida
+MX,Mexico,México,20322,La Presa,Aguascalientes,01,Aguascalientes,001,,,21.9578,-102.2473,1,la-presa
+MX,Mexico,México,20323,Santa María de Gallardo,Aguascalientes,01,Aguascalientes,001,,,22.0486,-102.1154,4,santa-maria-de-gallardo
+MX,Mexico,México,20324,Jaltomate,Aguascalientes,01,Aguascalientes,001,,,22.0153,-102.1458,4,jaltomate
+MX,Mexico,México,20326,Loretta,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,loretta
+MX,Mexico,México,20326,Parque Industrial Tecnopolo Pocitos ll,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,parque-industrial-tecnopolo-pocitos-ll
+MX,Mexico,México,20326,Puesta del Sol,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,puesta-del-sol
+MX,Mexico,México,20326,Rinconada San Ignacio,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,rinconada-san-ignacio
+MX,Mexico,México,20326,San Ignacio III,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,san-ignacio-iii
+MX,Mexico,México,20326,San Ignacio 3,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,san-ignacio-3
+MX,Mexico,México,20326,San Ignacio II,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,san-ignacio-ii
+MX,Mexico,México,20326,La Soledad,Aguascalientes,01,Aguascalientes,001,,,21.9426,-102.2796,4,la-soledad
+MX,Mexico,México,20326,La Rioja,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,la-rioja
+MX,Mexico,México,20326,Ex-Hacienda de San Ignacio,Aguascalientes,01,Aguascalientes,001,,,21.8878,-102.2621,3,ex-hacienda-de-san-ignacio
+MX,Mexico,México,20326,La Aurora,Aguascalientes,01,Aguascalientes,001,,,21.8115,-102.2957,4,la-aurora
+MX,Mexico,México,20326,La Perla,Aguascalientes,01,Aguascalientes,001,,,21.8981,-102.3369,4,la-perla
+MX,Mexico,México,20326,San Ignacio,Aguascalientes,01,Aguascalientes,001,,,21.8927,-102.3397,4,san-ignacio
+MX,Mexico,México,20328,Los Pocitos,Aguascalientes,01,Aguascalientes,001,,,21.9578,-102.2473,1,los-pocitos
+MX,Mexico,México,20328,Sandovales de Arriba,Aguascalientes,01,Aguascalientes,001,,,21.9578,-102.2473,1,sandovales-de-arriba
+MX,Mexico,México,20328,Parque Industrial Tecnopolo Pocitos,Aguascalientes,01,Aguascalientes,001,,,21.9578,-102.2473,1,parque-industrial-tecnopolo-pocitos
+MX,Mexico,México,20329,Puerta del Sol,Aguascalientes,01,Aguascalientes,001,,,21.8115,-102.2957,4,puerta-del-sol
+MX,Mexico,México,20329,La Joya,Aguascalientes,01,Aguascalientes,001,,,21.8115,-102.2957,4,la-joya
+MX,Mexico,México,20329,Rincón Andaluz,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,rincon-andaluz
+MX,Mexico,México,20329,Río Viejo,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,rio-viejo
+MX,Mexico,México,20329,Torres Residencial Campestre Santamaría,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,torres-residencial-campestre-santamaria
+MX,Mexico,México,20329,La Querencia,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,la-querencia
+MX,Mexico,México,20329,La Punta Campestre,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,la-punta-campestre
+MX,Mexico,México,20329,Privanza Andaluz,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,privanza-andaluz
+MX,Mexico,México,20329,Residencial Las Quintas,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,residencial-las-quintas
+MX,Mexico,México,20329,La Plazuela,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,la-plazuela
+MX,Mexico,México,20329,Contadero,Aguascalientes,01,Aguascalientes,001,,,21.994,-102.3113,3,contadero
+MX,Mexico,México,20340,Buenavista de Peñuelas,Aguascalientes,01,Aguascalientes,001,,,21.7175,-102.2956,4,buenavista-de-penuelas
+MX,Mexico,México,20340,Arellano,Aguascalientes,01,Aguascalientes,001,,,21.8011,-102.2738,4,arellano
+MX,Mexico,México,20340,Peñuelas (El Cienegal),Aguascalientes,01,Aguascalientes,001,,,21.7225,-102.2758,4,penuelas-el-cienegal
+MX,Mexico,México,20340,Cieneguilla (La Lumbrera),Aguascalientes,01,Aguascalientes,001,,,21.7335,-102.454,4,cieneguilla-la-lumbrera
+MX,Mexico,México,20340,Parque Industrial Logística Automotriz,Aguascalientes,01,Aguascalientes,001,,,21.7436,-102.3248,3,parque-industrial-logistica-automotriz
+MX,Mexico,México,20341,El Salto de los Salado,Aguascalientes,01,Aguascalientes,001,,,21.6875,-102.4481,3,el-salto-de-los-salado
+MX,Mexico,México,20341,El Salto de Ojocaliente,Aguascalientes,01,Aguascalientes,001,,,21.6875,-102.4481,3,el-salto-de-ojocaliente
+MX,Mexico,México,20341,La Huerta (La Cruz),Aguascalientes,01,Aguascalientes,001,,,21.6875,-102.4481,4,la-huerta-la-cruz
+MX,Mexico,México,20342,San Francisco,Aguascalientes,01,Aguascalientes,001,,,21.8297,-102.2934,4,san-francisco
+MX,Mexico,México,20342,San Gerardo,Aguascalientes,01,Aguascalientes,001,,,21.8049,-102.2921,4,san-gerardo
+MX,Mexico,México,20344,Villa Licenciado Jesús Terán (Calvillito),Aguascalientes,01,Aguascalientes,001,,,21.8253,-102.1878,4,villa-licenciado-jesus-teran-calvillito
+MX,Mexico,México,20345,Montoro (Mesa del Salto),Aguascalientes,01,Aguascalientes,001,,,21.7578,-102.3288,1,montoro-mesa-del-salto
+MX,Mexico,México,20346,Los Caños,Aguascalientes,01,Aguascalientes,001,,,21.7817,-102.4675,4,los-canos
+MX,Mexico,México,20348,San Antonio de Peñuelas,Aguascalientes,01,Aguascalientes,001,,,21.6747,-102.3001,4,san-antonio-de-penuelas
+MX,Mexico,México,20349,Aguascalientes (Lic. Jesús Terán Peredo),Aguascalientes,01,Aguascalientes,001,,,21.7578,-102.3288,1,aguascalientes-lic-jesus-teran-peredo
+MX,Mexico,México,20363,San Antonio de los Pedroza,Aguascalientes,01,Aguascalientes,001,,,21.9516,-102.1532,3,san-antonio-de-los-pedroza
+MX,Mexico,México,20363,San José de la Ordeña,Aguascalientes,01,Aguascalientes,001,,,21.9516,-102.1532,4,san-jose-de-la-ordena
+MX,Mexico,México,20364,San Nicolás de en Medio,Aguascalientes,01,Aguascalientes,001,,,21.9461,-102.2328,4,san-nicolas-de-en-medio
+MX,Mexico,México,20364,San Nicolás de Arriba,Aguascalientes,01,Aguascalientes,001,,,21.9581,-102.2153,4,san-nicolas-de-arriba
+MX,Mexico,México,20366,El Colorado (El Soyatal),Aguascalientes,01,Aguascalientes,001,,,21.9044,-102.1683,4,el-colorado-el-soyatal
+MX,Mexico,México,20366,El Conejal,Aguascalientes,01,Aguascalientes,001,,,21.8115,-102.2957,4,el-conejal
+MX,Mexico,México,20366,La Herrada,Aguascalientes,01,Aguascalientes,001,,,21.9073,-102.2128,4,la-herrada
+MX,Mexico,México,20367,Tanque el Trigo,Aguascalientes,01,Aguascalientes,001,,,21.8781,-102.2383,3,tanque-el-trigo
+MX,Mexico,México,20367,Norias del Ojocaliente,Aguascalientes,01,Aguascalientes,001,,,21.8781,-102.2383,3,norias-del-ojocaliente
+MX,Mexico,México,20367,El Rocío,Aguascalientes,01,Aguascalientes,001,,,21.8781,-102.2383,4,el-rocio
+MX,Mexico,México,20369,Dolores,Aguascalientes,01,Aguascalientes,001,,,21.8451,-102.2442,4,dolores
+MX,Mexico,México,20369,El Malacate,Aguascalientes,01,Aguascalientes,001,,,21.8451,-102.2442,3,el-malacate
+MX,Mexico,México,20370,Puerto de Nieto,Aguascalientes,01,Aguascalientes,001,,,21.8625,-102.4,4,puerto-de-nieto
+MX,Mexico,México,20370,El Puerto,Aguascalientes,01,Aguascalientes,001,,,21.8625,-102.4,4,el-puerto
+MX,Mexico,México,20371,La Cotorra,Aguascalientes,01,Aguascalientes,001,,,21.8337,-102.3759,4,la-cotorra
+MX,Mexico,México,20371,Ciudad de los Niños,Aguascalientes,01,Aguascalientes,001,,,21.835,-102.3697,4,ciudad-de-los-ninos
+MX,Mexico,México,20372,Granjas Fátima,Aguascalientes,01,Aguascalientes,001,,,21.7806,-102.3478,4,granjas-fatima
+MX,Mexico,México,20372,Cabecita 3 Marías,Aguascalientes,01,Aguascalientes,001,,,21.7747,-102.4131,4,cabecita-3-marias
+MX,Mexico,México,20372,El Niágara,Aguascalientes,01,Aguascalientes,001,,,21.7801,-102.3749,4,el-niagara
+MX,Mexico,México,20373,El Ocote,Aguascalientes,01,Aguascalientes,001,,,21.7819,-102.5176,4,el-ocote
+MX,Mexico,México,20373,El Salitre,Aguascalientes,01,Aguascalientes,001,,,21.7593,-102.494,4,el-salitre
+MX,Mexico,México,20375,Campestre Bosques de Las Lomas,Aguascalientes,01,Aguascalientes,001,,,21.704,-102.3421,3,campestre-bosques-de-las-lomas
+MX,Mexico,México,20375,El Tanque de los Jiménez,Aguascalientes,01,Aguascalientes,001,,,21.7085,-102.3734,4,el-tanque-de-los-jimenez
+MX,Mexico,México,20375,El Cedazo (Cedazo de San Antonio),Aguascalientes,01,Aguascalientes,001,,,21.6994,-102.3108,4,el-cedazo-cedazo-de-san-antonio
+MX,Mexico,México,20376,Centro de Arriba (El Taray),Aguascalientes,01,Aguascalientes,001,,,21.7312,-102.4989,4,centro-de-arriba-el-taray
+MX,Mexico,México,20377,San Pedro Cieneguilla,Aguascalientes,01,Aguascalientes,001,,,21.7176,-102.4128,4,san-pedro-cieneguilla
+MX,Mexico,México,20377,Cieneguilla,Aguascalientes,01,Aguascalientes,001,,,21.7335,-102.454,4,cieneguilla
+MX,Mexico,México,20379,Los Dolores,Aguascalientes,01,Aguascalientes,001,,,21.6639,-102.372,4,los-dolores
+MX,Mexico,México,20384,Paso Hondo,Aguascalientes,01,Aguascalientes,001,,,21.8339,-102.2186,4,paso-hondo
+MX,Mexico,México,20384,Norias del Paso Hondo,Aguascalientes,01,Aguascalientes,001,,,21.8618,-102.2068,4,norias-del-paso-hondo
+MX,Mexico,México,20384,El Hotelito,Aguascalientes,01,Aguascalientes,001,,,21.8678,-102.1858,4,el-hotelito
+MX,Mexico,México,20385,Santa Gertrudis,Aguascalientes,01,Aguascalientes,001,,,21.8117,-102.2928,4,santa-gertrudis
+MX,Mexico,México,20386,Tanque de Guadalupe,Aguascalientes,01,Aguascalientes,001,,,21.7911,-102.2373,4,tanque-de-guadalupe
+MX,Mexico,México,20386,El Duraznillo,Aguascalientes,01,Aguascalientes,001,,,21.7808,-102.1656,4,el-duraznillo
+MX,Mexico,México,20389,Soledad de Abajo,Aguascalientes,01,Aguascalientes,001,,,21.7794,-102.104,4,soledad-de-abajo
+MX,Mexico,México,20389,Matamoros,Aguascalientes,01,Aguascalientes,001,,,21.7833,-102.075,4,matamoros
+MX,Mexico,México,20389,Los Durón,Aguascalientes,01,Aguascalientes,001,,,21.7813,-102.0895,3,los-duron
+MX,Mexico,México,20390,Villa Campestre San José del Monte,Aguascalientes,01,Aguascalientes,001,,,21.7268,-102.2687,1,villa-campestre-san-jose-del-monte
+MX,Mexico,México,20390,San José,Aguascalientes,01,Aguascalientes,001,,,21.7268,-102.2687,1,san-jose
+MX,Mexico,México,20391,Ex-Hacienda de Agostaderito,Aguascalientes,01,Aguascalientes,001,,,21.7676,-102.3617,4,ex-hacienda-de-agostaderito
+MX,Mexico,México,20392,Montoro,Aguascalientes,01,Aguascalientes,001,,,21.756,-102.3022,4,montoro
+MX,Mexico,México,20392,Universidad Autónoma de Aguascalientes  Campus Sur,Aguascalientes,01,Aguascalientes,001,,,21.756,-102.3022,3,universidad-autonoma-de-aguascalientes-campus-sur
+MX,Mexico,México,20392,Parque Industrial Gigante de los Arellano,Aguascalientes,01,Aguascalientes,001,,,21.756,-102.3022,3,parque-industrial-gigante-de-los-arellano
+MX,Mexico,México,20392,Campestre el Potrerillo,Aguascalientes,01,Aguascalientes,001,,,21.756,-102.3022,3,campestre-el-potrerillo
+MX,Mexico,México,20393,Parque Industrial FINSA Aguascalientes,Aguascalientes,01,Aguascalientes,001,,,21.7268,-102.2687,1,parque-industrial-finsa-aguascalientes
+MX,Mexico,México,20394,Coyotes Sur,Aguascalientes,01,Aguascalientes,001,,,21.7268,-102.2687,1,coyotes-sur
+MX,Mexico,México,20394,Cañada Grande de Cotorina,Aguascalientes,01,Aguascalientes,001,,,21.7268,-102.2687,1,canada-grande-de-cotorina
+MX,Mexico,México,20395,San Bartolo,Aguascalientes,01,Aguascalientes,001,,,21.7392,-102.185,4,san-bartolo
+MX,Mexico,México,20395,Los Cuervos (Los Ojos de Agua),Aguascalientes,01,Aguascalientes,001,,,21.7307,-102.1613,4,los-cuervos-los-ojos-de-agua
+MX,Mexico,México,20396,El Refugio de Peñuelas,Aguascalientes,01,Aguascalientes,001,,,21.7164,-102.2894,4,el-refugio-de-penuelas
+MX,Mexico,México,20396,Ex-Hacienda de Peñuelas,Aguascalientes,01,Aguascalientes,001,,,21.7114,-102.2817,4,ex-hacienda-de-penuelas
+MX,Mexico,México,20399,El Turicate,Aguascalientes,01,Aguascalientes,001,,,21.6667,-102.3,4,el-turicate
+MX,Mexico,México,20700,Aguanueva,Aguascalientes,01,Asientos,002,,,22.077,-102.0555,3,aguanueva
+MX,Mexico,México,20700,Loma Bonita,Aguascalientes,01,Asientos,002,,,22.077,-102.0555,3,loma-bonita
+MX,Mexico,México,20700,Guadalupe,Aguascalientes,01,Asientos,002,,,22.077,-102.0555,3,guadalupe
+MX,Mexico,México,20700,Villa Juárez,Aguascalientes,01,Asientos,002,,,22.0945,-102.0693,4,villa-juarez
+MX,Mexico,México,20700,El Tule,Aguascalientes,01,Asientos,002,,,22.0844,-102.091,4,el-tule
+MX,Mexico,México,20700,El Rascón (La Loma),Aguascalientes,01,Asientos,002,,,22.085,-102.0756,4,el-rascon-la-loma
+MX,Mexico,México,20700,La Loma (Tanque de Las Palmitas),Aguascalientes,01,Asientos,002,,,22.0936,-102.0608,4,la-loma-tanque-de-las-palmitas
+MX,Mexico,México,20700,La Esperanza,Aguascalientes,01,Asientos,002,,,22.0278,-101.9808,4,la-esperanza
+MX,Mexico,México,20700,La Sierra,Aguascalientes,01,Asientos,002,,,22.077,-102.0555,3,la-sierra
+MX,Mexico,México,20700,Álamos,Aguascalientes,01,Asientos,002,,,22.077,-102.0555,3,alamos
+MX,Mexico,México,20704,Viudas de Poniente,Aguascalientes,01,Asientos,002,,,22.1036,-102.0851,4,viudas-de-poniente
+MX,Mexico,México,20705,Charco Azul,Aguascalientes,01,Asientos,002,,,22.0517,-102.0189,4,charco-azul
+MX,Mexico,México,20708,Amarillas de Esparza,Aguascalientes,01,Asientos,002,,,22.0688,-102.0634,1,amarillas-de-esparza
+MX,Mexico,México,20709,Jilotepec,Aguascalientes,01,Asientos,002,,,22.0371,-102.0782,4,jilotepec
+MX,Mexico,México,20709,La Dichosa,Aguascalientes,01,Asientos,002,,,22.0413,-102.1111,4,la-dichosa
+MX,Mexico,México,20710,Asientos Centro,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,asientos-centro
+MX,Mexico,México,20710,Santa Cruz,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,santa-cruz
+MX,Mexico,México,20712,De Peñitas 1a Sección,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,de-penitas-1a-seccion
+MX,Mexico,México,20713,Del CECYTE,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,del-cecyte
+MX,Mexico,México,20713,Los Tepetates,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,los-tepetates
+MX,Mexico,México,20714,De Guadalupe,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,de-guadalupe
+MX,Mexico,México,20715,INFONAVIT,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,3,infonavit
+MX,Mexico,México,20715,Juventud,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,3,juventud
+MX,Mexico,México,20715,Del Tepozán,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,4,del-tepozan
+MX,Mexico,México,20716,De Peñitas 2a Sección,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,de-penitas-2a-seccion
+MX,Mexico,México,20717,Real Minero,Aguascalientes,01,Asientos,002,Asientos,07,22.2297,-102.105,1,real-minero
+MX,Mexico,México,20720,Guadalupe de Atlas,Aguascalientes,01,Asientos,002,,,22.2665,-102.0312,4,guadalupe-de-atlas
+MX,Mexico,México,20720,San Gil,Aguascalientes,01,Asientos,002,,,22.2078,-102.0219,4,san-gil
+MX,Mexico,México,20720,Bimbaletes Atlas (Tanque de la Vieja),Aguascalientes,01,Asientos,002,,,22.2458,-102.035,4,bimbaletes-atlas-tanque-de-la-vieja
+MX,Mexico,México,20720,La Divina Providencia,Aguascalientes,01,Asientos,002,,,22.2769,-102.0356,4,la-divina-providencia
+MX,Mexico,México,20720,Sector de Producción Número 3,Aguascalientes,01,Asientos,002,,,22.1264,-102.0455,4,sector-de-produccion-numero-3
+MX,Mexico,México,20720,Sector de Producción Número 2,Aguascalientes,01,Asientos,002,,,22.2314,-102.0153,4,sector-de-produccion-numero-2
+MX,Mexico,México,20720,Bimbaletes Aguascalientes (El Álamo),Aguascalientes,01,Asientos,002,,,22.2344,-102.0192,4,bimbaletes-aguascalientes-el-alamo
+MX,Mexico,México,20720,Crisóstomos,Aguascalientes,01,Asientos,002,,,22.2222,-102.0075,4,crisostomos
+MX,Mexico,México,20720,Sociedad los Posada,Aguascalientes,01,Asientos,002,,,22.2536,-102.0383,4,sociedad-los-posada
+MX,Mexico,México,20720,Licenciado Adolfo López Mateos,Aguascalientes,01,Asientos,002,,,22.2578,-102.0308,4,licenciado-adolfo-lopez-mateos
+MX,Mexico,México,20720,Alvarado,Aguascalientes,01,Asientos,002,,,22.2589,-102.0333,4,alvarado
+MX,Mexico,México,20721,Plutarco Elías Calles,Aguascalientes,01,Asientos,002,,,22.2167,-102.05,4,plutarco-elias-calles
+MX,Mexico,México,20722,Ciénega Grande,Aguascalientes,01,Asientos,002,,,22.1943,-102.0194,4,cienega-grande
+MX,Mexico,México,20723,Noria del Borrego (Norias),Aguascalientes,01,Asientos,002,,,22.2872,-102.0419,4,noria-del-borrego-norias
+MX,Mexico,México,20723,Jarillas,Aguascalientes,01,Asientos,002,,,22.2961,-102.0633,4,jarillas
+MX,Mexico,México,20724,Gómez Portugal,Aguascalientes,01,Asientos,002,,,22.2299,-102.0578,1,gomez-portugal
+MX,Mexico,México,20727,Pino Suárez (Rancho Viejo),Aguascalientes,01,Asientos,002,,,22.2299,-102.0578,1,pino-suarez-rancho-viejo
+MX,Mexico,México,20728,Berrendos,Aguascalientes,01,Asientos,002,,,22.1264,-102.0455,4,berrendos
+MX,Mexico,México,20729,Clavellinas,Aguascalientes,01,Asientos,002,,,22.1403,-102.1375,4,clavellinas
+MX,Mexico,México,20730,Molinos,Aguascalientes,01,Asientos,002,,,22.1628,-102.0947,4,molinos
+MX,Mexico,México,20732,Los Encinos,Aguascalientes,01,Asientos,002,,,22.177,-102.0118,4,los-encinos
+MX,Mexico,México,20734,Lázaro Cárdenas,Aguascalientes,01,Asientos,002,,,22.1714,-102.027,4,lazaro-cardenas
+MX,Mexico,México,20736,La Gloria,Aguascalientes,01,Asientos,002,,,22.1456,-102.0258,4,la-gloria
+MX,Mexico,México,20738,La Soledad,Aguascalientes,01,Asientos,002,,,22.1348,-102.0331,4,la-soledad
+MX,Mexico,México,20739,San Pedro,Aguascalientes,01,Asientos,002,,,22.1281,-102.0497,4,san-pedro
+MX,Mexico,México,20740,El Polvo,Aguascalientes,01,Asientos,002,,,22.1339,-102.1083,4,el-polvo
+MX,Mexico,México,20741,Caldera,Aguascalientes,01,Asientos,002,,,22.1619,-102.1915,4,caldera
+MX,Mexico,México,20741,Santuario del Tepozán,Aguascalientes,01,Asientos,002,,,22.2297,-102.105,4,santuario-del-tepozan
+MX,Mexico,México,20742,Licenciado Adolfo López Mateos,Aguascalientes,01,Asientos,002,,,22.2578,-102.0308,4,licenciado-adolfo-lopez-mateos
+MX,Mexico,México,20742,El Fénix,Aguascalientes,01,Asientos,002,,,22.1264,-102.0455,4,el-fenix
+MX,Mexico,México,20742,Charco Prieto (El Palomar),Aguascalientes,01,Asientos,002,,,22.1344,-102.1953,4,charco-prieto-el-palomar
+MX,Mexico,México,20744,San Antonio de los Martínez,Aguascalientes,01,Asientos,002,,,22.1029,-102.1449,4,san-antonio-de-los-martinez
+MX,Mexico,México,20746,Gorriones,Aguascalientes,01,Asientos,002,,,22.1033,-102.1828,4,gorriones
+MX,Mexico,México,20748,Ojo de Agua de Rosales,Aguascalientes,01,Asientos,002,,,22.1021,-102.1739,4,ojo-de-agua-de-rosales
+MX,Mexico,México,20749,Tepetatillo,Aguascalientes,01,Asientos,002,,,22.0906,-102.1819,4,tepetatillo
+MX,Mexico,México,20750,San José del Río,Aguascalientes,01,Asientos,002,,,22.1239,-102.0615,4,san-jose-del-rio
+MX,Mexico,México,20760,El Llavero,Aguascalientes,01,Asientos,002,,,22.0624,-102.0945,4,el-llavero
+MX,Mexico,México,20765,San Vicente,Aguascalientes,01,Asientos,002,,,22.0501,-102.0493,4,san-vicente
+MX,Mexico,México,20768,El Águila [Rancho],Aguascalientes,01,Asientos,002,,,22.0563,-102.0719,1,el-aguila-rancho
+MX,Mexico,México,20770,Emancipación (Borunda),Aguascalientes,01,Asientos,002,,,22.0894,-101.9421,4,emancipacion-borunda
+MX,Mexico,México,20771,Tanque Viejo,Aguascalientes,01,Asientos,002,,,22.0572,-101.9289,4,tanque-viejo
+MX,Mexico,México,20773,Las Adjuntas,Aguascalientes,01,Asientos,002,,,22.0451,-101.9218,4,las-adjuntas
+MX,Mexico,México,20773,La Tinajuela,Aguascalientes,01,Asientos,002,,,22.0594,-101.9114,4,la-tinajuela
+MX,Mexico,México,20775,Tanque de Guadalupe,Aguascalientes,01,Asientos,002,,,22.0391,-101.9061,4,tanque-de-guadalupe
+MX,Mexico,México,20777,Las Joyas,Aguascalientes,01,Asientos,002,,,22.0283,-101.9,4,las-joyas
+MX,Mexico,México,20779,Ojo de Agua de los Sauces,Aguascalientes,01,Asientos,002,,,22.0313,-101.9329,4,ojo-de-agua-de-los-sauces
+MX,Mexico,México,20780,San José del Tulillo,Aguascalientes,01,Asientos,002,,,22.1164,-101.9789,4,san-jose-del-tulillo
+MX,Mexico,México,20780,San Rafael de Ocampo,Aguascalientes,01,Asientos,002,,,22.1164,-101.9789,3,san-rafael-de-ocampo
+MX,Mexico,México,20782,San Isidro,Aguascalientes,01,Asientos,002,,,22.1199,-102.0052,4,san-isidro
+MX,Mexico,México,20785,El Chonguillo,Aguascalientes,01,Asientos,002,,,22.0881,-101.9817,4,el-chonguillo
+MX,Mexico,México,20790,Francisco Villa,Aguascalientes,01,Asientos,002,,,22.0879,-101.969,4,francisco-villa
+MX,Mexico,México,20792,El Epazote,Aguascalientes,01,Asientos,002,,,22.045,-101.8692,4,el-epazote
+MX,Mexico,México,20794,Las Fraguas,Aguascalientes,01,Asientos,002,,,22.039,-101.8922,4,las-fraguas
+MX,Mexico,México,20795,Pilotos,Aguascalientes,01,Asientos,002,,,22.0372,-101.9592,4,pilotos
+MX,Mexico,México,20796,El Salitre,Aguascalientes,01,Asientos,002,,,22.0305,-101.867,4,el-salitre
+MX,Mexico,México,20796,El Bajío de los Campos,Aguascalientes,01,Asientos,002,,,22.0233,-101.8739,4,el-bajio-de-los-campos
+MX,Mexico,México,20797,Bajío del Salitre,Aguascalientes,01,Asientos,002,,,22.036,-101.9013,1,bajio-del-salitre
+MX,Mexico,México,20799,Las Negritas,Aguascalientes,01,Asientos,002,,,21.9891,-101.8786,4,las-negritas
+MX,Mexico,México,20800,Calvillo Centro,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8614,-102.7027,1,calvillo-centro
+MX,Mexico,México,20802,Independencia,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8797,-102.7142,3,independencia
+MX,Mexico,México,20802,Vista Hermosa,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9007,-102.7049,3,vista-hermosa
+MX,Mexico,México,20802,Zona Militar XIV,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8797,-102.7142,3,zona-militar-xiv
+MX,Mexico,México,20802,Vista Hermosa 2a. Sección,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8797,-102.7142,3,vista-hermosa-2a-seccion
+MX,Mexico,México,20802,Sección Benito Juárez,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8797,-102.7142,3,seccion-benito-juarez
+MX,Mexico,México,20802,Sección Loma de Fundadores,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8797,-102.7142,3,seccion-loma-de-fundadores
+MX,Mexico,México,20802,Las Paseras,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8447,-102.7456,4,las-paseras
+MX,Mexico,México,20802,El Mirador,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9378,-102.6771,4,el-mirador
+MX,Mexico,México,20802,Lopez Mateos,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8567,-102.72,4,lopez-mateos
+MX,Mexico,México,20802,Sección Cerritos,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8797,-102.7142,3,seccion-cerritos
+MX,Mexico,México,20803,San Rafael,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8514,-102.7069,4,san-rafael
+MX,Mexico,México,20803,San Nicolás,Aguascalientes,01,Calvillo,003,Calvillo,02,21.854,-102.6999,4,san-nicolas
+MX,Mexico,México,20803,Rincón de Baltazares,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8542,-102.6914,4,rincon-de-baltazares
+MX,Mexico,México,20803,Lomas de Huejúcar,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8532,-102.6994,3,lomas-de-huejucar
+MX,Mexico,México,20803,José Landeros,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8532,-102.6994,3,jose-landeros
+MX,Mexico,México,20804,Rincón de Baltazares,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8542,-102.6914,4,rincon-de-baltazares
+MX,Mexico,México,20804,Valle de Santiago,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8615,-102.6847,3,valle-de-santiago
+MX,Mexico,México,20804,Magisterial,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8615,-102.6847,3,magisterial
+MX,Mexico,México,20804,Liberal,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8615,-102.6847,3,liberal
+MX,Mexico,México,20804,Morelos,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9007,-102.7049,3,morelos
+MX,Mexico,México,20804,Ejidal,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8615,-102.6847,3,ejidal
+MX,Mexico,México,20804,Arroyo de Los Caballos,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8394,-102.6925,4,arroyo-de-los-caballos
+MX,Mexico,México,20804,Azteca,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9007,-102.7049,3,azteca
+MX,Mexico,México,20804,Los Arcos,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8733,-102.6867,4,los-arcos
+MX,Mexico,México,20804,La Fortuna,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8789,-102.6681,4,la-fortuna
+MX,Mexico,México,20804,Del Carmen,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9007,-102.7049,3,del-carmen
+MX,Mexico,México,20805,Valle de Huejúcar,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8311,-102.7503,4,valle-de-huejucar
+MX,Mexico,México,20805,Cerrito Alto,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8311,-102.7503,3,cerrito-alto
+MX,Mexico,México,20805,Los Angeles,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9007,-102.7049,3,los-angeles
+MX,Mexico,México,20805,Martinez,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8311,-102.7503,3,martinez
+MX,Mexico,México,20805,Chicago,Aguascalientes,01,Calvillo,003,Calvillo,02,21.8311,-102.7503,3,chicago
+MX,Mexico,México,20805,Emiliano Zapata,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9007,-102.7049,3,emiliano-zapata
+MX,Mexico,México,20805,Las Flores,Aguascalientes,01,Calvillo,003,Calvillo,02,21.9007,-102.7049,3,las-flores
+MX,Mexico,México,20810,Palo Alto,Aguascalientes,01,Calvillo,003,,,22.0425,-102.682,4,palo-alto
+MX,Mexico,México,20810,El Terrero de la Labor,Aguascalientes,01,Calvillo,003,,,22.0425,-102.682,3,el-terrero-de-la-labor
+MX,Mexico,México,20814,Terrero de Sáuz,Aguascalientes,01,Calvillo,003,,,21.9721,-102.6129,1,terrero-de-sauz
+MX,Mexico,México,20816,El Molino,Aguascalientes,01,Calvillo,003,,,21.9007,-102.7049,4,el-molino
+MX,Mexico,México,20816,El Sauz de la Labor,Aguascalientes,01,Calvillo,003,,,21.9986,-102.6457,4,el-sauz-de-la-labor
+MX,Mexico,México,20816,Las Cuevas de la Labor,Aguascalientes,01,Calvillo,003,,,21.958,-102.5991,3,las-cuevas-de-la-labor
+MX,Mexico,México,20816,El Zapote de la Labor,Aguascalientes,01,Calvillo,003,,,21.9733,-102.6602,4,el-zapote-de-la-labor
+MX,Mexico,México,20816,Las Rubias,Aguascalientes,01,Calvillo,003,,,21.9994,-102.6633,4,las-rubias
+MX,Mexico,México,20816,Piedras Chinas,Aguascalientes,01,Calvillo,003,,,21.9789,-102.6761,4,piedras-chinas
+MX,Mexico,México,20820,Jardines de San Isidro (Colonia Limón),Aguascalientes,01,Calvillo,003,,,21.9148,-102.6946,3,jardines-de-san-isidro-colonia-limon
+MX,Mexico,México,20820,Las Duraznillas,Aguascalientes,01,Calvillo,003,,,21.9148,-102.6946,3,las-duraznillas
+MX,Mexico,México,20820,El Jagüey,Aguascalientes,01,Calvillo,003,,,21.9007,-102.7049,3,el-jaguey
+MX,Mexico,México,20820,El Mirador,Aguascalientes,01,Calvillo,003,,,21.9378,-102.6771,4,el-mirador
+MX,Mexico,México,20820,San Tadeo,Aguascalientes,01,Calvillo,003,,,21.9195,-102.7004,4,san-tadeo
+MX,Mexico,México,20820,Solidaridad,Aguascalientes,01,Calvillo,003,,,21.8872,-102.7061,4,solidaridad
+MX,Mexico,México,20824,El Capulín,Aguascalientes,01,Calvillo,003,,,21.9602,-102.6046,4,el-capulin
+MX,Mexico,México,20824,Los Muñoz,Aguascalientes,01,Calvillo,003,,,21.9447,-102.5814,4,los-munoz
+MX,Mexico,México,20824,Los Lazos,Aguascalientes,01,Calvillo,003,,,21.9661,-102.5921,3,los-lazos
+MX,Mexico,México,20824,Montoro,Aguascalientes,01,Calvillo,003,,,21.9935,-102.5903,4,montoro
+MX,Mexico,México,20830,La Panadera,Aguascalientes,01,Calvillo,003,,,21.864,-102.6983,4,la-panadera
+MX,Mexico,México,20830,El Llano (El Llano de San Rafael),Aguascalientes,01,Calvillo,003,,,21.8514,-102.7069,4,el-llano-el-llano-de-san-rafael
+MX,Mexico,México,20830,Las Víboras (Viborillas),Aguascalientes,01,Calvillo,003,,,21.8686,-102.6878,4,las-viboras-viborillas
+MX,Mexico,México,20830,Villas del Laurel,Aguascalientes,01,Calvillo,003,,,21.8669,-102.6882,3,villas-del-laurel
+MX,Mexico,México,20830,Chiquihuitero (San Isidro),Aguascalientes,01,Calvillo,003,,,21.8669,-102.6882,3,chiquihuitero-san-isidro
+MX,Mexico,México,20830,Colomos,Aguascalientes,01,Calvillo,003,,,21.8836,-102.6598,4,colomos
+MX,Mexico,México,20832,Río de Gil de Arriba,Aguascalientes,01,Calvillo,003,,,21.8623,-102.6173,4,rio-de-gil-de-arriba
+MX,Mexico,México,20832,El Sauz,Aguascalientes,01,Calvillo,003,,,21.8813,-102.6166,4,el-sauz
+MX,Mexico,México,20832,El Maguey,Aguascalientes,01,Calvillo,003,,,21.9031,-102.6372,4,el-maguey
+MX,Mexico,México,20834,El Cuervero,Aguascalientes,01,Calvillo,003,,,21.8606,-102.6839,4,el-cuervero
+MX,Mexico,México,20834,Catana,Aguascalientes,01,Calvillo,003,,,21.8794,-102.6606,4,catana
+MX,Mexico,México,20834,Río de Gil de Abajo,Aguascalientes,01,Calvillo,003,,,21.8593,-102.6271,4,rio-de-gil-de-abajo
+MX,Mexico,México,20834,Ojocaliente,Aguascalientes,01,Calvillo,003,,,21.8739,-102.6768,4,ojocaliente
+MX,Mexico,México,20834,Junta de los Ríos,Aguascalientes,01,Calvillo,003,,,22.0144,-102.6761,4,junta-de-los-rios
+MX,Mexico,México,20834,San José del Río,Aguascalientes,01,Calvillo,003,,,21.8543,-102.6384,4,san-jose-del-rio
+MX,Mexico,México,20834,Malpaso,Aguascalientes,01,Calvillo,003,,,21.859,-102.6644,4,malpaso
+MX,Mexico,México,20834,Potrero de los Lopez,Aguascalientes,01,Calvillo,003,,,21.9007,-102.7049,4,potrero-de-los-lopez
+MX,Mexico,México,20840,Los Mirasoles,Aguascalientes,01,Calvillo,003,,,21.8396,-102.6111,4,los-mirasoles
+MX,Mexico,México,20840,El Potrerito,Aguascalientes,01,Calvillo,003,,,21.9189,-102.6925,4,el-potrerito
+MX,Mexico,México,20842,Los Lobos,Aguascalientes,01,Calvillo,003,,,21.8002,-102.6517,4,los-lobos
+MX,Mexico,México,20842,Las Joyas,Aguascalientes,01,Calvillo,003,,,21.794,-102.6565,4,las-joyas
+MX,Mexico,México,20842,El Mirasol,Aguascalientes,01,Calvillo,003,,,21.8092,-102.5548,4,el-mirasol
+MX,Mexico,México,20844,Mesa de los Pozos (La Laguna),Aguascalientes,01,Calvillo,003,,,21.8324,-102.6333,1,mesa-de-los-pozos-la-laguna
+MX,Mexico,México,20844,El Laurel,Aguascalientes,01,Calvillo,003,,,21.8324,-102.6333,1,el-laurel
+MX,Mexico,México,20844,Chinantitlán,Aguascalientes,01,Calvillo,003,,,21.8324,-102.6333,1,chinantitlan
+MX,Mexico,México,20850,El Refugio (Las Praderas),Aguascalientes,01,Calvillo,003,,,21.8179,-102.7305,3,el-refugio-las-praderas
+MX,Mexico,México,20850,Las Moras,Aguascalientes,01,Calvillo,003,,,21.7834,-102.7217,4,las-moras
+MX,Mexico,México,20850,Pozo de los Artistas,Aguascalientes,01,Calvillo,003,,,21.8179,-102.7305,3,pozo-de-los-artistas
+MX,Mexico,México,20850,Mesa Grande,Aguascalientes,01,Calvillo,003,,,21.8053,-102.7218,4,mesa-grande
+MX,Mexico,México,20850,Tepezalilla de Abajo,Aguascalientes,01,Calvillo,003,,,21.8669,-102.6714,4,tepezalilla-de-abajo
+MX,Mexico,México,20850,Crucero las Pilas,Aguascalientes,01,Calvillo,003,,,21.8272,-102.7603,4,crucero-las-pilas
+MX,Mexico,México,20850,La Calixtina,Aguascalientes,01,Calvillo,003,,,21.8067,-102.7775,4,la-calixtina
+MX,Mexico,México,20852,Arroyo Ojocalientillo,Aguascalientes,01,Calvillo,003,,,21.8075,-102.7028,3,arroyo-ojocalientillo
+MX,Mexico,México,20852,Los Adobes,Aguascalientes,01,Calvillo,003,,,21.8075,-102.7028,4,los-adobes
+MX,Mexico,México,20854,Los Alisos,Aguascalientes,01,Calvillo,003,,,21.7421,-102.7244,4,los-alisos
+MX,Mexico,México,20854,Parque Industrial Calvillo,Aguascalientes,01,Calvillo,003,,,21.7698,-102.7438,3,parque-industrial-calvillo
+MX,Mexico,México,20854,El Taray,Aguascalientes,01,Calvillo,003,,,21.8,-102.7508,4,el-taray
+MX,Mexico,México,20854,El Garruño,Aguascalientes,01,Calvillo,003,,,21.7431,-102.7169,4,el-garruno
+MX,Mexico,México,20854,El Tepetate de Abajo,Aguascalientes,01,Calvillo,003,,,21.7698,-102.7438,3,el-tepetate-de-abajo
+MX,Mexico,México,20854,Ojo de Agua,Aguascalientes,01,Calvillo,003,,,21.7941,-102.7832,4,ojo-de-agua
+MX,Mexico,México,20856,El Güencho,Aguascalientes,01,Calvillo,003,,,21.7403,-102.7739,4,el-guencho
+MX,Mexico,México,20856,Mesa del Roble,Aguascalientes,01,Calvillo,003,,,21.7633,-102.7491,4,mesa-del-roble
+MX,Mexico,México,20856,Barranca del Roble,Aguascalientes,01,Calvillo,003,,,21.7682,-102.7483,4,barranca-del-roble
+MX,Mexico,México,20856,Jaltiche de Arriba,Aguascalientes,01,Calvillo,003,,,21.7753,-102.7885,4,jaltiche-de-arriba
+MX,Mexico,México,20860,Las Pilas,Aguascalientes,01,Calvillo,003,,,21.8272,-102.7603,4,las-pilas
+MX,Mexico,México,20860,Las Ánimas,Aguascalientes,01,Calvillo,003,,,21.843,-102.7589,4,las-animas
+MX,Mexico,México,20860,El Salitre,Aguascalientes,01,Calvillo,003,,,21.8206,-102.7712,4,el-salitre
+MX,Mexico,México,20860,Michoacanejo,Aguascalientes,01,Calvillo,003,,,21.833,-102.7804,4,michoacanejo
+MX,Mexico,México,20860,Cerro Blanco,Aguascalientes,01,Calvillo,003,,,21.8373,-102.8009,4,cerro-blanco
+MX,Mexico,México,20862,La Media Luna,Aguascalientes,01,Calvillo,003,,,21.7992,-102.8003,4,la-media-luna
+MX,Mexico,México,20862,La Fragua,Aguascalientes,01,Calvillo,003,,,21.7897,-102.8072,4,la-fragua
+MX,Mexico,México,20862,Las Tinajas,Aguascalientes,01,Calvillo,003,,,21.8128,-102.776,4,las-tinajas
+MX,Mexico,México,20862,Jaltiche de Abajo,Aguascalientes,01,Calvillo,003,,,21.7984,-102.7935,3,jaltiche-de-abajo
+MX,Mexico,México,20862,La Rinconada,Aguascalientes,01,Calvillo,003,,,21.7893,-102.798,4,la-rinconada
+MX,Mexico,México,20862,Salitrillo,Aguascalientes,01,Calvillo,003,,,21.8011,-102.7859,4,salitrillo
+MX,Mexico,México,20864,Presa de los Serna,Aguascalientes,01,Calvillo,003,,,21.8069,-102.8396,4,presa-de-los-serna
+MX,Mexico,México,20864,El Caracol,Aguascalientes,01,Calvillo,003,,,21.8427,-102.8575,4,el-caracol
+MX,Mexico,México,20864,El Terrero del Refugio,Aguascalientes,01,Calvillo,003,,,21.8248,-102.8486,3,el-terrero-del-refugio
+MX,Mexico,México,20870,Vaquerías,Aguascalientes,01,Calvillo,003,,,21.8888,-102.7358,3,vaquerias
+MX,Mexico,México,20870,Santos,Aguascalientes,01,Calvillo,003,,,21.8848,-102.7389,4,santos
+MX,Mexico,México,20870,Los Patos,Aguascalientes,01,Calvillo,003,,,21.8532,-102.7487,4,los-patos
+MX,Mexico,México,20870,El Papantón,Aguascalientes,01,Calvillo,003,,,21.9077,-102.7427,4,el-papanton
+MX,Mexico,México,20870,Peña Blanca,Aguascalientes,01,Calvillo,003,,,21.8925,-102.7505,4,pena-blanca
+MX,Mexico,México,20870,Mezquitillos,Aguascalientes,01,Calvillo,003,,,21.9357,-102.7231,4,mezquitillos
+MX,Mexico,México,20870,El Rodeo,Aguascalientes,01,Calvillo,003,,,21.869,-102.7469,4,el-rodeo
+MX,Mexico,México,20870,La Teresa,Aguascalientes,01,Calvillo,003,,,21.9181,-102.7056,4,la-teresa
+MX,Mexico,México,20870,El Guayabo,Aguascalientes,01,Calvillo,003,,,21.8494,-102.7297,4,el-guayabo
+MX,Mexico,México,20870,San José,Aguascalientes,01,Calvillo,003,,,21.8888,-102.7358,3,san-jose
+MX,Mexico,México,20872,El Tigre,Aguascalientes,01,Calvillo,003,,,21.8994,-102.768,4,el-tigre
+MX,Mexico,México,20872,Barranca de Portales,Aguascalientes,01,Calvillo,003,,,21.848,-102.764,4,barranca-de-portales
+MX,Mexico,México,20872,Miguel Hidalgo (El Huarache),Aguascalientes,01,Calvillo,003,,,21.9025,-102.7944,4,miguel-hidalgo-el-huarache
+MX,Mexico,México,20874,Tanque de los Serna,Aguascalientes,01,Calvillo,003,,,21.8972,-102.8196,4,tanque-de-los-serna
+MX,Mexico,México,20874,El Ocote [Banco de Tierra],Aguascalientes,01,Calvillo,003,,,21.8844,-102.8204,3,el-ocote-banco-de-tierra
+MX,Mexico,México,20874,El Tepalcate,Aguascalientes,01,Calvillo,003,,,21.8844,-102.8204,3,el-tepalcate
+MX,Mexico,México,20874,Las Trojes,Aguascalientes,01,Calvillo,003,,,21.8716,-102.8213,4,las-trojes
+MX,Mexico,México,20874,La Joya,Aguascalientes,01,Calvillo,003,,,21.9007,-102.7049,3,la-joya
+MX,Mexico,México,20880,Temazcal,Aguascalientes,01,Calvillo,003,,,22.0043,-102.7175,4,temazcal
+MX,Mexico,México,20880,La Hiedra,Aguascalientes,01,Calvillo,003,,,22.0172,-102.7175,4,la-hiedra
+MX,Mexico,México,20880,Ventanillas,Aguascalientes,01,Calvillo,003,,,21.9653,-102.6828,4,ventanillas
+MX,Mexico,México,20880,La Primavera,Aguascalientes,01,Calvillo,003,,,21.9339,-102.6986,4,la-primavera
+MX,Mexico,México,20880,Paredes,Aguascalientes,01,Calvillo,003,,,22.01,-102.7153,4,paredes
+MX,Mexico,México,20880,La Labor,Aguascalientes,01,Calvillo,003,,,21.9621,-102.6963,4,la-labor
+MX,Mexico,México,20880,Presa Ordeña Vieja,Aguascalientes,01,Calvillo,003,,,21.981,-102.7022,3,presa-ordena-vieja
+MX,Mexico,México,20880,El Salitrillo,Aguascalientes,01,Calvillo,003,,,21.9742,-102.6872,4,el-salitrillo
+MX,Mexico,México,20882,El Jaralito,Aguascalientes,01,Calvillo,003,,,21.941,-102.7723,4,el-jaralito
+MX,Mexico,México,20882,Manguillas,Aguascalientes,01,Calvillo,003,,,21.9637,-102.7206,4,manguillas
+MX,Mexico,México,20882,El Tepozán,Aguascalientes,01,Calvillo,003,,,21.9404,-102.7501,4,el-tepozan
+MX,Mexico,México,20882,La Pedrera,Aguascalientes,01,Calvillo,003,,,21.9674,-102.7393,4,la-pedrera
+MX,Mexico,México,20884,Presa de los Bajíos,Aguascalientes,01,Calvillo,003,,,21.9667,-102.8167,4,presa-de-los-bajios
+MX,Mexico,México,20884,La Ciénega,Aguascalientes,01,Calvillo,003,,,21.9007,-102.7049,3,la-cienega
+MX,Mexico,México,20890,Puerta de Fragua (Presa la Codorniz),Aguascalientes,01,Calvillo,003,,,21.9991,-102.6721,4,puerta-de-fragua-presa-la-codorniz
+MX,Mexico,México,20892,La Boquilla,Aguascalientes,01,Calvillo,003,,,22.0314,-102.7189,4,la-boquilla
+MX,Mexico,México,20460,Cosío Centro,Aguascalientes,01,Cosío,004,Cosío,09,22.3653,-102.3058,1,cosio-centro
+MX,Mexico,México,20462,Luis Donaldo Colosio,Aguascalientes,01,Cosío,004,Cosío,09,22.3653,-102.3058,1,luis-donaldo-colosio
+MX,Mexico,México,20466,Villas del Potrerito,Aguascalientes,01,Cosío,004,Cosío,09,22.3653,-102.3058,1,villas-del-potrerito
+MX,Mexico,México,20466,Rancho El Potrerito,Aguascalientes,01,Cosío,004,Cosío,09,22.3653,-102.3058,1,rancho-el-potrerito
+MX,Mexico,México,20467,Popular,Aguascalientes,01,Cosío,004,Cosío,09,22.3606,-102.297,1,popular
+MX,Mexico,México,20468,Santa Cruz,Aguascalientes,01,Cosío,004,Cosío,09,22.3653,-102.3058,1,santa-cruz
+MX,Mexico,México,20469,Vista Hermosa,Aguascalientes,01,Cosío,004,Cosío,09,22.3606,-102.297,3,vista-hermosa
+MX,Mexico,México,20469,Coplamar,Aguascalientes,01,Cosío,004,Cosío,09,22.3606,-102.297,3,coplamar
+MX,Mexico,México,20469,Mexiquito,Aguascalientes,01,Cosío,004,Cosío,09,22.3653,-102.3058,4,mexiquito
+MX,Mexico,México,20470,Soledad de Abajo [Estación de Adames],Aguascalientes,01,Cosío,004,,,22.4083,-102.2861,4,soledad-de-abajo-estacion-de-adames
+MX,Mexico,México,20470,Zacatequillas,Aguascalientes,01,Cosío,004,,,22.4431,-102.3106,4,zacatequillas
+MX,Mexico,México,20470,Soledad de Arriba,Aguascalientes,01,Cosío,004,,,22.4327,-102.3074,4,soledad-de-arriba
+MX,Mexico,México,20472,Los Nava,Aguascalientes,01,Cosío,004,,,22.3089,-102.2603,4,los-nava
+MX,Mexico,México,20472,La Punta,Aguascalientes,01,Cosío,004,,,22.3241,-102.2921,4,la-punta
+MX,Mexico,México,20472,El Durazno,Aguascalientes,01,Cosío,004,,,22.3147,-102.26,4,el-durazno
+MX,Mexico,México,20472,La Esperanza (El Salerito),Aguascalientes,01,Cosío,004,,,22.3328,-102.2911,4,la-esperanza-el-salerito
+MX,Mexico,México,20476,El Salero,Aguascalientes,01,Cosío,004,,,22.3871,-102.3232,4,el-salero
+MX,Mexico,México,20476,Guadalupito,Aguascalientes,01,Cosío,004,,,22.4042,-102.2678,4,guadalupito
+MX,Mexico,México,20478,Santa María de la Paz,Aguascalientes,01,Cosío,004,,,22.3879,-102.257,4,santa-maria-de-la-paz
+MX,Mexico,México,20478,El Refugio de Agua Zarca,Aguascalientes,01,Cosío,004,,,22.3611,-102.2761,4,el-refugio-de-agua-zarca
+MX,Mexico,México,20478,El Refugio de Providencia (Providencia),Aguascalientes,01,Cosío,004,,,22.3467,-102.2578,4,el-refugio-de-providencia-providencia
+MX,Mexico,México,20900,Rinconada Maravillas,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,rinconada-maravillas
+MX,Mexico,México,20900,Valle Escondido,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,valle-escondido
+MX,Mexico,México,20900,Maravillas,Aguascalientes,01,Jesús María,005,,,21.9541,-102.3298,4,maravillas
+MX,Mexico,México,20900,Corral de Barrancos,Aguascalientes,01,Jesús María,005,,,21.9503,-102.3322,4,corral-de-barrancos
+MX,Mexico,México,20900,Residencial Campestre Ingles,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,residencial-campestre-ingles
+MX,Mexico,México,20900,Santo Domingo,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,santo-domingo
+MX,Mexico,México,20900,Residencial Villa Campestre,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,residencial-villa-campestre
+MX,Mexico,México,20900,Puerta Norte,Aguascalientes,01,Jesús María,005,,,21.9321,-102.4455,4,puerta-norte
+MX,Mexico,México,20900,Residencial Misión de San José,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,residencial-mision-de-san-jose
+MX,Mexico,México,20900,Trojes del Norte II,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,trojes-del-norte-ii
+MX,Mexico,México,20900,Trojes del Norte,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,trojes-del-norte
+MX,Mexico,México,20900,La Nogalera,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,la-nogalera
+MX,Mexico,México,20900,Las Pérgolas,Aguascalientes,01,Jesús María,005,,,21.8919,-102.3659,3,las-pergolas
+MX,Mexico,México,20900,Los Olivos,Aguascalientes,01,Jesús María,005,,,21.9321,-102.4455,4,los-olivos
+MX,Mexico,México,20901,La Loma de Valladolid,Aguascalientes,01,Jesús María,005,,,22.0151,-102.3098,3,la-loma-de-valladolid
+MX,Mexico,México,20901,El Maguey,Aguascalientes,01,Jesús María,005,,,22.024,-102.3076,4,el-maguey
+MX,Mexico,México,20901,La Chaveña,Aguascalientes,01,Jesús María,005,,,22.0044,-102.315,4,la-chavena
+MX,Mexico,México,20901,Las Jaulas,Aguascalientes,01,Jesús María,005,,,22.0169,-102.3067,4,las-jaulas
+MX,Mexico,México,20902,La Loma,Aguascalientes,01,Jesús María,005,,,21.8939,-102.4915,4,la-loma
+MX,Mexico,México,20903,Margaritas,Aguascalientes,01,Jesús María,005,,,21.9893,-102.306,3,margaritas
+MX,Mexico,México,20903,La Florida,Aguascalientes,01,Jesús María,005,,,21.9831,-102.3044,4,la-florida
+MX,Mexico,México,20903,Villas de Montecassino,Aguascalientes,01,Jesús María,005,,,21.9956,-102.3076,4,villas-de-montecassino
+MX,Mexico,México,20904,Los Vázquez,Aguascalientes,01,Jesús María,005,,,21.9747,-102.3297,4,los-vazquez
+MX,Mexico,México,20904,Los Ramírez,Aguascalientes,01,Jesús María,005,,,21.9708,-102.3247,4,los-ramirez
+MX,Mexico,México,20905,Miravalle,Aguascalientes,01,Jesús María,005,,,21.9725,-102.3114,4,miravalle
+MX,Mexico,México,20905,Los Sauces,Aguascalientes,01,Jesús María,005,,,21.9644,-102.3192,4,los-sauces
+MX,Mexico,México,20905,Paso Blanco,Aguascalientes,01,Jesús María,005,,,21.9736,-102.3169,4,paso-blanco
+MX,Mexico,México,20905,La Lomita de Paso Blanco (Las Canoas),Aguascalientes,01,Jesús María,005,,,21.9685,-102.3174,3,la-lomita-de-paso-blanco-las-canoas
+MX,Mexico,México,20905,Los Arenales,Aguascalientes,01,Jesús María,005,,,21.9633,-102.3219,4,los-arenales
+MX,Mexico,México,20907,Paseos de Aguascalientes,Aguascalientes,01,Jesús María,005,,,21.9922,-102.3436,4,paseos-de-aguascalientes
+MX,Mexico,México,20907,Jardines de Campo Real,Aguascalientes,01,Jesús María,005,,,21.9627,-102.3213,3,jardines-de-campo-real
+MX,Mexico,México,20907,Paseos del Country,Aguascalientes,01,Jesús María,005,,,21.9627,-102.3213,3,paseos-del-country
+MX,Mexico,México,20907,Arboledas de Paso Blanco,Aguascalientes,01,Jesús María,005,,,21.9636,-102.3019,4,arboledas-de-paso-blanco
+MX,Mexico,México,20907,San Miguelito,Aguascalientes,01,Jesús María,005,,,21.9573,-102.3386,4,san-miguelito
+MX,Mexico,México,20907,Viñedos Ríos (Granja Chispiritos),Aguascalientes,01,Jesús María,005,,,21.9767,-102.2925,4,vinedos-rios-granja-chispiritos
+MX,Mexico,México,20907,Santa Elena,Aguascalientes,01,Jesús María,005,,,21.915,-102.3578,4,santa-elena
+MX,Mexico,México,20907,Viñedos Frutilandia,Aguascalientes,01,Jesús María,005,,,21.9714,-102.2933,4,vinedos-frutilandia
+MX,Mexico,México,20907,Residencial Campo Real,Aguascalientes,01,Jesús María,005,,,21.9627,-102.3213,3,residencial-campo-real
+MX,Mexico,México,20907,Centro Distribuidor de Básicos Viñedos San Marcos,Aguascalientes,01,Jesús María,005,,,21.9627,-102.3213,3,centro-distribuidor-de-basicos-vinedos-san-marcos
+MX,Mexico,México,20908,Alcázar Residencial,Aguascalientes,01,Jesús María,005,,,21.9553,-102.3164,4,alcazar-residencial
+MX,Mexico,México,20908,Rancho San Miguel,Aguascalientes,01,Jesús María,005,,,21.9594,-102.3075,4,rancho-san-miguel
+MX,Mexico,México,20908,Los Gavilanes,Aguascalientes,01,Jesús María,005,,,21.9494,-102.3147,4,los-gavilanes
+MX,Mexico,México,20908,Nura,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,nura
+MX,Mexico,México,20908,Quintas de Monticello,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,quintas-de-monticello
+MX,Mexico,México,20908,La Arborada,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,la-arborada
+MX,Mexico,México,20908,Andares,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,andares
+MX,Mexico,México,20908,Porta Real,Aguascalientes,01,Jesús María,005,,,21.9533,-102.3067,4,porta-real
+MX,Mexico,México,20908,Tepetates,Aguascalientes,01,Jesús María,005,,,21.9567,-102.3217,4,tepetates
+MX,Mexico,México,20908,Granja Lizzy,Aguascalientes,01,Jesús María,005,,,21.9519,-102.3158,4,granja-lizzy
+MX,Mexico,México,20908,Reserva San Cristóbal,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,reserva-san-cristobal
+MX,Mexico,México,20908,Catania Spazio,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,catania-spazio
+MX,Mexico,México,20908,Belmondo,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,belmondo
+MX,Mexico,México,20908,Residencial Cedros,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,residencial-cedros
+MX,Mexico,México,20908,Residencial Marcellana,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,residencial-marcellana
+MX,Mexico,México,20908,Rinconada Cuauhtémoc,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,rinconada-cuauhtemoc
+MX,Mexico,México,20908,Trojes de San Cristóbal,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,trojes-de-san-cristobal
+MX,Mexico,México,20908,Villas del Molino,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,villas-del-molino
+MX,Mexico,México,20908,Viña Antigua,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,vina-antigua
+MX,Mexico,México,20908,Mayorazgo San Cristóbal,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,mayorazgo-san-cristobal
+MX,Mexico,México,20908,Privanza de Gratamira,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,privanza-de-gratamira
+MX,Mexico,México,20908,Punta Norte,Aguascalientes,01,Jesús María,005,,,21.9544,-102.3138,3,punta-norte
+MX,Mexico,México,20909,Valle de Margaritas,Aguascalientes,01,Jesús María,005,,,21.9859,-102.3046,3,valle-de-margaritas
+MX,Mexico,México,20909,INFONAVIT Margaritas,Aguascalientes,01,Jesús María,005,,,21.9859,-102.3046,3,infonavit-margaritas
+MX,Mexico,México,20909,Villas del Sol,Aguascalientes,01,Jesús María,005,,,21.9859,-102.3046,3,villas-del-sol
+MX,Mexico,México,20909,La Guayana (Rancho Seco),Aguascalientes,01,Jesús María,005,,,21.9859,-102.3046,3,la-guayana-rancho-seco
+MX,Mexico,México,20909,Los Vázquez,Aguascalientes,01,Jesús María,005,,,21.9747,-102.3297,4,los-vazquez
+MX,Mexico,México,20909,El Zapato,Aguascalientes,01,Jesús María,005,,,21.9839,-102.2928,4,el-zapato
+MX,Mexico,México,20909,Jesús Gómez Portugal (Margaritas),Aguascalientes,01,Jesús María,005,,,21.9992,-102.2914,4,jesus-gomez-portugal-margaritas
+MX,Mexico,México,20909,Paseos Gómez Portugal,Aguascalientes,01,Jesús María,005,,,21.9859,-102.3046,3,paseos-gomez-portugal
+MX,Mexico,México,20909,Paso de Argenta,Aguascalientes,01,Jesús María,005,,,21.9859,-102.3046,3,paso-de-argenta
+MX,Mexico,México,20909,Saturnino Herran,Aguascalientes,01,Jesús María,005,,,21.9859,-102.3046,3,saturnino-herran
+MX,Mexico,México,20910,San Antonio de los Horcones,Aguascalientes,01,Jesús María,005,,,21.9983,-102.3266,4,san-antonio-de-los-horcones
+MX,Mexico,México,20910,Brownsville,Aguascalientes,01,Jesús María,005,,,21.9885,-102.3317,4,brownsville
+MX,Mexico,México,20913,Valladolid,Aguascalientes,01,Jesús María,005,,,22.0195,-102.3154,4,valladolid
+MX,Mexico,México,20913,El Aurero,Aguascalientes,01,Jesús María,005,,,22.0133,-102.3206,4,el-aurero
+MX,Mexico,México,20913,Villas de Guadalupe (La Malobra),Aguascalientes,01,Jesús María,005,,,22.0167,-102.3219,4,villas-de-guadalupe-la-malobra
+MX,Mexico,México,20913,El Refugio,Aguascalientes,01,Jesús María,005,,,22.0086,-102.3211,4,el-refugio
+MX,Mexico,México,20913,El Cenizo,Aguascalientes,01,Jesús María,005,,,22.005,-102.3272,4,el-cenizo
+MX,Mexico,México,20914,La Granjita (Los Palillos),Aguascalientes,01,Jesús María,005,,,22.0156,-102.3288,1,la-granjita-los-palillos
+MX,Mexico,México,20916,Cartuja,Aguascalientes,01,Jesús María,005,,,21.996,-102.3498,3,cartuja
+MX,Mexico,México,20916,Parque Industrial Chichimeco,Aguascalientes,01,Jesús María,005,,,21.996,-102.3498,3,parque-industrial-chichimeco
+MX,Mexico,México,20916,El Chichimeco,Aguascalientes,01,Jesús María,005,,,21.9999,-102.356,4,el-chichimeco
+MX,Mexico,México,20916,Paseos de las Haciendas,Aguascalientes,01,Jesús María,005,,,21.9922,-102.3436,4,paseos-de-las-haciendas
+MX,Mexico,México,20917,Pedernal Segundo,Aguascalientes,01,Jesús María,005,,,21.9321,-102.4455,4,pedernal-segundo
+MX,Mexico,México,20920,Jesús María Centro,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9567,-102.4729,4,jesus-maria-centro
+MX,Mexico,México,20922,El Calvario,Aguascalientes,01,Jesús María,005,Jesús María,04,21.8376,-102.3853,3,el-calvario
+MX,Mexico,México,20922,La Troje,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9321,-102.4455,4,la-troje
+MX,Mexico,México,20922,La Escalera,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9725,-102.3494,4,la-escalera
+MX,Mexico,México,20922,Bellavista,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9321,-102.4455,4,bellavista
+MX,Mexico,México,20923,Los Arroyitos,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,los-arroyitos
+MX,Mexico,México,20923,La Cuesta,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,la-cuesta
+MX,Mexico,México,20923,Flores Magón,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,flores-magon
+MX,Mexico,México,20923,Rinconada Jesús María,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,rinconada-jesus-maria
+MX,Mexico,México,20923,Residencial Jesús María,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,residencial-jesus-maria
+MX,Mexico,México,20923,Real Campestre,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,real-campestre
+MX,Mexico,México,20923,Los Álamos,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,los-alamos
+MX,Mexico,México,20923,La Villa Residencial,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,la-villa-residencial
+MX,Mexico,México,20923,San Miguelito,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9573,-102.3386,4,san-miguelito
+MX,Mexico,México,20923,Ruiseñores,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9669,-102.3303,4,ruisenores
+MX,Mexico,México,20923,Las Culebras,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,las-culebras
+MX,Mexico,México,20923,La Cardona,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9621,-102.3344,3,la-cardona
+MX,Mexico,México,20924,San Miguelito,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9573,-102.3386,4,san-miguelito
+MX,Mexico,México,20924,Los Manantiales,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9584,-102.323,3,los-manantiales
+MX,Mexico,México,20924,Agua Clara,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9584,-102.323,3,agua-clara
+MX,Mexico,México,20924,Jacarandas,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9584,-102.323,3,jacarandas
+MX,Mexico,México,20924,Palma Dorada,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9584,-102.323,3,palma-dorada
+MX,Mexico,México,20924,Cielo Claro,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9584,-102.323,3,cielo-claro
+MX,Mexico,México,20924,Deportiva,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9584,-102.323,3,deportiva
+MX,Mexico,México,20924,Rancho San Pedro,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9594,-102.3075,4,rancho-san-pedro
+MX,Mexico,México,20925,Agua Zarca,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9344,-102.4273,4,agua-zarca
+MX,Mexico,México,20925,Lomas de Jesús María,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9301,-102.3406,4,lomas-de-jesus-maria
+MX,Mexico,México,20925,Vistas del Sáuz,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9322,-102.3839,3,vistas-del-sauz
+MX,Mexico,México,20925,Puerta Grande,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9322,-102.3839,3,puerta-grande
+MX,Mexico,México,20925,Benigno Chávez,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9322,-102.3839,3,benigno-chavez
+MX,Mexico,México,20926,La Piedra,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9366,-102.5843,4,la-piedra
+MX,Mexico,México,20926,Arboledas,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9636,-102.3019,4,arboledas
+MX,Mexico,México,20926,La Loma,Aguascalientes,01,Jesús María,005,Jesús María,04,21.8939,-102.4915,4,la-loma
+MX,Mexico,México,20926,Mirabrujas,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,mirabrujas
+MX,Mexico,México,20926,Solidaridad,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,solidaridad
+MX,Mexico,México,20926,Loma de La Cañada,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,loma-de-la-canada
+MX,Mexico,México,20926,Residencial Tres Arroyos,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,residencial-tres-arroyos
+MX,Mexico,México,20926,Manantiales del Pinar,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,manantiales-del-pinar
+MX,Mexico,México,20926,Martínez Andrade,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,martinez-andrade
+MX,Mexico,México,20926,Misión de Santa María,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,mision-de-santa-maria
+MX,Mexico,México,20926,Chicahuales,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,chicahuales
+MX,Mexico,México,20926,Lomas del Valle,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,lomas-del-valle
+MX,Mexico,México,20926,Tulipanes Residencial,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,tulipanes-residencial
+MX,Mexico,México,20926,Yalta Campestre,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,yalta-campestre
+MX,Mexico,México,20926,Residencial Lomas de Vergeles,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9397,-102.3981,3,residencial-lomas-de-vergeles
+MX,Mexico,México,20926,Rincón del Pilar,Aguascalientes,01,Jesús María,005,,,21.9397,-102.3981,3,rincon-del-pilar
+MX,Mexico,México,20926,Rinconada Bugambilias,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9319,-102.3414,4,rinconada-bugambilias
+MX,Mexico,México,20926,Vista Hermosa,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9675,-102.3158,4,vista-hermosa
+MX,Mexico,México,20926,La Palma,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9444,-102.3533,4,la-palma
+MX,Mexico,México,20927,Ojos de Agua,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9503,-102.3578,3,ojos-de-agua
+MX,Mexico,México,20927,Ampliación La Cañada,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9503,-102.3578,3,ampliacion-la-canada
+MX,Mexico,México,20927,La Cañada,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9503,-102.3578,4,la-canada
+MX,Mexico,México,20927,Ayuntamiento,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9503,-102.3578,3,ayuntamiento
+MX,Mexico,México,20928,Luis Donaldo Colosio,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9378,-102.392,3,luis-donaldo-colosio
+MX,Mexico,México,20928,Solar de Jonacatique,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9378,-102.392,3,solar-de-jonacatique
+MX,Mexico,México,20928,Las Palmas,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9378,-102.392,3,las-palmas
+MX,Mexico,México,20928,El Chaveño,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9658,-102.3625,4,el-chaveno
+MX,Mexico,México,20928,El Mezquital,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9321,-102.4455,3,el-mezquital
+MX,Mexico,México,20928,Plan Benito Juárez,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9636,-102.3514,4,plan-benito-juarez
+MX,Mexico,México,20928,El Torito,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9378,-102.392,3,el-torito
+MX,Mexico,México,20928,Ejidal,Aguascalientes,01,Jesús María,005,Jesús María,04,21.9378,-102.392,3,ejidal
+MX,Mexico,México,20928,Buenavista,Aguascalientes,01,Jesús María,005,Jesús María,04,21.8841,-102.4622,4,buenavista
+MX,Mexico,México,20933,Unión de Ladrilleros,Aguascalientes,01,Jesús María,005,,,21.9486,-102.3622,4,union-de-ladrilleros
+MX,Mexico,México,20934,San Lorenzo,Aguascalientes,01,Jesús María,005,,,21.957,-102.3689,4,san-lorenzo
+MX,Mexico,México,20943,Los Muñoz,Aguascalientes,01,Jesús María,005,,,21.9447,-102.5814,4,los-munoz
+MX,Mexico,México,20943,Milpillas de Abajo,Aguascalientes,01,Jesús María,005,,,21.9439,-102.5387,4,milpillas-de-abajo
+MX,Mexico,México,20945,Milpilla de Arriba,Aguascalientes,01,Jesús María,005,,,21.9364,-102.5219,1,milpilla-de-arriba
+MX,Mexico,México,20947,El Zapote,Aguascalientes,01,Jesús María,005,,,21.9279,-102.4733,4,el-zapote
+MX,Mexico,México,20947,Gracias a Dios,Aguascalientes,01,Jesús María,005,,,21.9291,-102.4941,4,gracias-a-dios
+MX,Mexico,México,20953,Cañada de Rodeo,Aguascalientes,01,Jesús María,005,,,21.9056,-102.4605,4,canada-de-rodeo
+MX,Mexico,México,20955,La Mesa del Contadero (El Contadero),Aguascalientes,01,Jesús María,005,,,21.9133,-102.5356,4,la-mesa-del-contadero-el-contadero
+MX,Mexico,México,20955,San Rafael,Aguascalientes,01,Jesús María,005,,,21.9113,-102.5564,4,san-rafael
+MX,Mexico,México,20956,Piedras Negras,Aguascalientes,01,Jesús María,005,,,21.8664,-102.5173,4,piedras-negras
+MX,Mexico,México,20957,Pedernal Primero,Aguascalientes,01,Jesús María,005,,,21.8824,-102.4894,3,pedernal-primero
+MX,Mexico,México,20957,El Rincón de la Virgen (El Rincón),Aguascalientes,01,Jesús María,005,,,21.8824,-102.4894,3,el-rincon-de-la-virgen-el-rincon
+MX,Mexico,México,20957,San Isidro,Aguascalientes,01,Jesús María,005,,,21.8824,-102.4894,4,san-isidro
+MX,Mexico,México,20964,El Pensamiento,Aguascalientes,01,Jesús María,005,,,21.9444,-102.3778,1,el-pensamiento
+MX,Mexico,México,20970,Puente de Villalpando (El Puente),Aguascalientes,01,Jesús María,005,,,21.8559,-102.5278,4,puente-de-villalpando-el-puente
+MX,Mexico,México,20970,Tapias Viejas,Aguascalientes,01,Jesús María,005,,,21.8485,-102.5368,4,tapias-viejas
+MX,Mexico,México,20974,Puentes Cuates,Aguascalientes,01,Jesús María,005,,,21.8585,-102.5725,4,puentes-cuates
+MX,Mexico,México,20983,El Llano,Aguascalientes,01,Jesús María,005,,,21.9439,-102.3228,4,el-llano
+MX,Mexico,México,20983,La Troje II,Aguascalientes,01,Jesús María,005,,,21.9439,-102.3228,3,la-troje-ii
+MX,Mexico,México,20983,Trojes del Pedregal,Aguascalientes,01,Jesús María,005,,,21.9439,-102.3228,3,trojes-del-pedregal
+MX,Mexico,México,20983,Real del Molino,Aguascalientes,01,Jesús María,005,,,21.9439,-102.3228,3,real-del-molino
+MX,Mexico,México,20983,Residencial Antiguo Country,Aguascalientes,01,Jesús María,005,,,21.9439,-102.3228,3,residencial-antiguo-country
+MX,Mexico,México,20984,Providencia,Aguascalientes,01,Jesús María,005,,,21.9439,-102.3228,1,providencia
+MX,Mexico,México,20986,El Conejo (Puerta del Llano),Aguascalientes,01,Jesús María,005,,,21.9439,-102.3228,1,el-conejo-puerta-del-llano
+MX,Mexico,México,20990,Buenavista,Aguascalientes,01,Jesús María,005,,,21.8841,-102.4622,4,buenavista
+MX,Mexico,México,20990,General Ignacio Zaragoza (Venadero),Aguascalientes,01,Jesús María,005,,,21.8814,-102.4645,4,general-ignacio-zaragoza-venadero
+MX,Mexico,México,20994,Cieneguitas,Aguascalientes,01,Jesús María,005,,,21.8955,-102.4208,4,cieneguitas
+MX,Mexico,México,20994,La Tomatina,Aguascalientes,01,Jesús María,005,,,21.9023,-102.4158,4,la-tomatina
+MX,Mexico,México,20994,La Estancia,Aguascalientes,01,Jesús María,005,,,21.9177,-102.4267,4,la-estancia
+MX,Mexico,México,20995,Agua Zarca,Aguascalientes,01,Jesús María,005,,,21.9344,-102.4273,4,agua-zarca
+MX,Mexico,México,20996,La Primavera,Aguascalientes,01,Jesús María,005,,,21.9092,-102.3811,4,la-primavera
+MX,Mexico,México,20996,Los Arquitos,Aguascalientes,01,Jesús María,005,,,21.923,-102.3855,4,los-arquitos
+MX,Mexico,México,20997,Ruscello,Aguascalientes,01,Jesús María,005,,,21.9244,-102.3394,4,ruscello
+MX,Mexico,México,20997,El Chacho,Aguascalientes,01,Jesús María,005,,,21.9104,-102.3675,4,el-chacho
+MX,Mexico,México,20997,Q Campestre Residencial,Aguascalientes,01,Jesús María,005,,,21.9174,-102.3535,3,q-campestre-residencial
+MX,Mexico,México,20663,El Gigante,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0678,-102.2914,4,el-gigante
+MX,Mexico,México,20663,El Refugio,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1045,-102.3017,4,el-refugio
+MX,Mexico,México,20664,Los Corrales (Los Corrales Blancos),Aguascalientes,01,Pabellón de Arteaga,006,,,22.1045,-102.3017,4,los-corrales-los-corrales-blancos
+MX,Mexico,México,20664,Nueva,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0581,-102.3261,4,nueva
+MX,Mexico,México,20665,El Pedernal Segundo,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1139,-102.3239,4,el-pedernal-segundo
+MX,Mexico,México,20665,Los Contreras,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1072,-102.2939,4,los-contreras
+MX,Mexico,México,20665,El Pilar,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1094,-102.3081,3,el-pilar
+MX,Mexico,México,20665,San Agustín de los Puentes,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1103,-102.3139,4,san-agustin-de-los-puentes
+MX,Mexico,México,20665,Emiliano Zapata,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1064,-102.3006,4,emiliano-zapata
+MX,Mexico,México,20666,Campestre San Carlos,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0533,-102.3097,4,campestre-san-carlos
+MX,Mexico,México,20666,El Garabato,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0864,-102.3408,4,el-garabato
+MX,Mexico,México,20667,El Canal,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1421,-102.3423,4,el-canal
+MX,Mexico,México,20667,Canal Grande,Aguascalientes,01,Pabellón de Arteaga,006,,,22.145,-102.345,4,canal-grande
+MX,Mexico,México,20667,Estancia de Mosqueira,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1421,-102.3522,4,estancia-de-mosqueira
+MX,Mexico,México,20667,Santiago,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1195,-102.3377,4,santiago
+MX,Mexico,México,20668,Miguel Alemán [Secadora],Aguascalientes,01,Pabellón de Arteaga,006,,,22.1272,-102.2856,4,miguel-aleman-secadora
+MX,Mexico,México,20668,San Luis de Letras,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1355,-102.2973,4,san-luis-de-letras
+MX,Mexico,México,20668,El Pedregal,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1281,-102.3128,4,el-pedregal
+MX,Mexico,México,20668,Ampliación Ejido Garabato,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1314,-102.3051,3,ampliacion-ejido-garabato
+MX,Mexico,México,20668,Puerta del Milagro,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1314,-102.3051,3,puerta-del-milagro
+MX,Mexico,México,20668,El Milagro,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1349,-102.3249,4,el-milagro
+MX,Mexico,México,20670,Zona Centro,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,zona-centro
+MX,Mexico,México,20673,FOVISSSTE,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,fovissste
+MX,Mexico,México,20673,Jardines de Pabellón,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,jardines-de-pabellon
+MX,Mexico,México,20673,Barrio Industrial,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,barrio-industrial
+MX,Mexico,México,20673,Subdivisión Haciendas de Pabellón,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,subdivision-haciendas-de-pabellon
+MX,Mexico,México,20674,Trojes de San Pedro,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,trojes-de-san-pedro
+MX,Mexico,México,20674,Villas de Pabellón,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,villas-de-pabellon
+MX,Mexico,México,20674,Francisco Villa,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1045,-102.3017,1,francisco-villa
+MX,Mexico,México,20675,Carboneras,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1669,-102.2483,4,carboneras
+MX,Mexico,México,20675,Palo Alto,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1045,-102.3017,3,palo-alto
+MX,Mexico,México,20676,Cosmos,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,cosmos
+MX,Mexico,México,20676,5 de Mayo,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,5-de-mayo
+MX,Mexico,México,20676,Popular,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1045,-102.3017,1,popular
+MX,Mexico,México,20677,Plutarco Elías Calles,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1045,-102.3017,4,plutarco-elias-calles
+MX,Mexico,México,20677,Progreso Sur,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.2167,-102.05,3,progreso-sur
+MX,Mexico,México,20678,Valle del Vivero II,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,valle-del-vivero-ii
+MX,Mexico,México,20678,Valle del Vivero,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,valle-del-vivero
+MX,Mexico,México,20678,Vergel del Valle,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,vergel-del-valle
+MX,Mexico,México,20678,Subdivisión Villa de Guadalupe,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,subdivision-villa-de-guadalupe
+MX,Mexico,México,20678,La Quesería de Los Serna,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,la-queseria-de-los-serna
+MX,Mexico,México,20678,Progreso Norte,Aguascalientes,01,Pabellón de Arteaga,006,Pabellón de Arteaga,05,22.1918,-102.1492,1,progreso-norte
+MX,Mexico,México,20680,Las Ánimas,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0906,-102.2668,4,las-animas
+MX,Mexico,México,20680,Estación Garabato,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0856,-102.2706,4,estacion-garabato
+MX,Mexico,México,20680,Santa Isabel,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0811,-102.2678,4,santa-isabel
+MX,Mexico,México,20683,El Mezquite (Ojo de Agua del Mezquite),Aguascalientes,01,Pabellón de Arteaga,006,,,22.0897,-102.2201,3,el-mezquite-ojo-de-agua-del-mezquite
+MX,Mexico,México,20683,Los Lira,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1006,-102.225,4,los-lira
+MX,Mexico,México,20683,El Mezquite,Aguascalientes,01,Pabellón de Arteaga,006,,,22.0789,-102.2151,4,el-mezquite
+MX,Mexico,México,20684,El Rayo,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1111,-102.2628,4,el-rayo
+MX,Mexico,México,20684,Ojo Zarco,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1086,-102.2417,4,ojo-zarco
+MX,Mexico,México,20684,Ojo Zarco (La Loma),Aguascalientes,01,Pabellón de Arteaga,006,,,22.1099,-102.2522,3,ojo-zarco-la-loma
+MX,Mexico,México,20686,San Pedro,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1669,-102.2483,3,san-pedro
+MX,Mexico,México,20686,Gámez Orozco (Puerta de Carboneras),Aguascalientes,01,Pabellón de Arteaga,006,,,22.1669,-102.2483,4,gamez-orozco-puerta-de-carboneras
+MX,Mexico,México,20687,El Cerrito,Aguascalientes,01,Pabellón de Arteaga,006,,,22.1328,-102.2725,4,el-cerrito
+MX,Mexico,México,20400,Rincón de Romos Centro,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,rincon-de-romos-centro
+MX,Mexico,México,20403,Desarrollo Especial La Pedrera,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,desarrollo-especial-la-pedrera
+MX,Mexico,México,20403,Subdivisión La Piedrera,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,subdivision-la-piedrera
+MX,Mexico,México,20403,Villa Seguridad,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,villa-seguridad
+MX,Mexico,México,20403,Norte,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2674,-102.3407,1,norte
+MX,Mexico,México,20403,Santa Elena,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2674,-102.3407,1,santa-elena
+MX,Mexico,México,20404,Emperadores,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,emperadores
+MX,Mexico,México,20404,José Luis Macias,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,jose-luis-macias
+MX,Mexico,México,20404,Estancia de Chora,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,estancia-de-chora
+MX,Mexico,México,20404,Embajadores,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.1856,-102.3151,1,embajadores
+MX,Mexico,México,20405,El Chaveño,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2674,-102.3407,4,el-chaveno
+MX,Mexico,México,20405,La Paz,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2674,-102.3407,3,la-paz
+MX,Mexico,México,20405,De Guadalupe,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2992,-102.2378,4,de-guadalupe
+MX,Mexico,México,20406,Cerro del Gato,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2378,-102.3325,4,cerro-del-gato
+MX,Mexico,México,20406,De Chora,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2388,-102.3301,3,de-chora
+MX,Mexico,México,20406,Rinconada de las Piedras,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2388,-102.3301,3,rinconada-de-las-piedras
+MX,Mexico,México,20406,Rinconada Alameda,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2388,-102.3301,3,rinconada-alameda
+MX,Mexico,México,20406,Lázaro Cárdenas,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2397,-102.3278,4,lazaro-cardenas
+MX,Mexico,México,20406,Santa Cruz,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2388,-102.3301,3,santa-cruz
+MX,Mexico,México,20406,Fraternidad,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2388,-102.3301,3,fraternidad
+MX,Mexico,México,20410,La Mezquitera,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2233,-102.3136,4,la-mezquitera
+MX,Mexico,México,20410,Magisterial II,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2233,-102.3136,3,magisterial-ii
+MX,Mexico,México,20410,El Potrero,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2233,-102.3136,3,el-potrero
+MX,Mexico,México,20410,Santa Anita,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2233,-102.3136,3,santa-anita
+MX,Mexico,México,20410,Independencia,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2233,-102.3136,3,independencia
+MX,Mexico,México,20410,Magisterial,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2233,-102.3136,3,magisterial
+MX,Mexico,México,20414,Desarrollo Especial,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2745,-102.274,1,desarrollo-especial
+MX,Mexico,México,20414,Villas de Jesús,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2745,-102.274,1,villas-de-jesus
+MX,Mexico,México,20415,San José,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.3256,-102.2344,4,san-jose
+MX,Mexico,México,20416,Solidaridad,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2745,-102.274,1,solidaridad
+MX,Mexico,México,20416,Presidentes de México,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2745,-102.274,1,presidentes-de-mexico
+MX,Mexico,México,20417,Popular,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2674,-102.3407,1,popular
+MX,Mexico,México,20417,Miguel Hidalgo,Aguascalientes,01,Rincón de Romos,007,Rincón de Romos,06,22.2674,-102.3407,1,miguel-hidalgo
+MX,Mexico,México,20420,El Saucillo,Aguascalientes,01,Rincón de Romos,007,,,22.2592,-102.2986,4,el-saucillo
+MX,Mexico,México,20420,El Bajío,Aguascalientes,01,Rincón de Romos,007,,,22.2456,-102.3082,4,el-bajio
+MX,Mexico,México,20420,Escaleras,Aguascalientes,01,Rincón de Romos,007,,,22.2505,-102.3338,4,escaleras
+MX,Mexico,México,20420,La Presa,Aguascalientes,01,Rincón de Romos,007,,,22.251,-102.3011,3,la-presa
+MX,Mexico,México,20420,Mar Negro,Aguascalientes,01,Rincón de Romos,007,,,22.2403,-102.263,4,mar-negro
+MX,Mexico,México,20420,Potrero El Tarasco,Aguascalientes,01,Rincón de Romos,007,,,22.2572,-102.2658,4,potrero-el-tarasco
+MX,Mexico,México,20420,El Panal,Aguascalientes,01,Rincón de Romos,007,,,22.2533,-102.3372,4,el-panal
+MX,Mexico,México,20423,Santa Fe,Aguascalientes,01,Rincón de Romos,007,,,22.2828,-102.3036,4,santa-fe
+MX,Mexico,México,20423,Candelaria,Aguascalientes,01,Rincón de Romos,007,,,22.2097,-102.3114,4,candelaria
+MX,Mexico,México,20424,Puerta del Muerto (El 15),Aguascalientes,01,Rincón de Romos,007,,,22.2784,-102.2602,3,puerta-del-muerto-el-15
+MX,Mexico,México,20424,Yerbanis,Aguascalientes,01,Rincón de Romos,007,,,22.2784,-102.2602,3,yerbanis
+MX,Mexico,México,20424,Tanque Blanco,Aguascalientes,01,Rincón de Romos,007,,,22.2714,-102.2692,4,tanque-blanco
+MX,Mexico,México,20424,California,Aguascalientes,01,Rincón de Romos,007,,,22.2853,-102.2513,4,california
+MX,Mexico,México,20425,San Jacinto,Aguascalientes,01,Rincón de Romos,007,,,22.3486,-102.2336,4,san-jacinto
+MX,Mexico,México,20426,San Juan de la Natura,Aguascalientes,01,Rincón de Romos,007,,,22.3628,-102.2211,4,san-juan-de-la-natura
+MX,Mexico,México,20427,16 de Septiembre,Aguascalientes,01,Rincón de Romos,007,,,22.3103,-102.2304,3,16-de-septiembre
+MX,Mexico,México,20427,El Valle de las Delicias,Aguascalientes,01,Rincón de Romos,007,,,22.317,-102.2184,4,el-valle-de-las-delicias
+MX,Mexico,México,20427,Los Morales,Aguascalientes,01,Rincón de Romos,007,,,22.3081,-102.2386,4,los-morales
+MX,Mexico,México,20427,San Isidro el Labrador,Aguascalientes,01,Rincón de Romos,007,,,22.3058,-102.2342,4,san-isidro-el-labrador
+MX,Mexico,México,20430,La Misión,Aguascalientes,01,Rincón de Romos,007,,,22.2093,-102.3105,4,la-mision
+MX,Mexico,México,20434,18 de Marzo,Aguascalientes,01,Rincón de Romos,007,,,22.1814,-102.2658,4,18-de-marzo
+MX,Mexico,México,20434,Lupita,Aguascalientes,01,Rincón de Romos,007,,,22.1706,-102.2847,4,lupita
+MX,Mexico,México,20435,El Barzón,Aguascalientes,01,Rincón de Romos,007,,,22.1933,-102.2997,4,el-barzon
+MX,Mexico,México,20435,Las Norias,Aguascalientes,01,Rincón de Romos,007,,,22.1956,-102.2996,3,las-norias
+MX,Mexico,México,20435,El Salitrillo,Aguascalientes,01,Rincón de Romos,007,,,22.1979,-102.2994,4,el-salitrillo
+MX,Mexico,México,20436,El Milagro,Aguascalientes,01,Rincón de Romos,007,,,22.2674,-102.3407,4,el-milagro
+MX,Mexico,México,20437,Estancia de Mosqueira,Aguascalientes,01,Rincón de Romos,007,,,22.1421,-102.3522,4,estancia-de-mosqueira
+MX,Mexico,México,20437,Pabellón de Hidalgo,Aguascalientes,01,Rincón de Romos,007,,,22.1787,-102.3401,4,pabellon-de-hidalgo
+MX,Mexico,México,20437,El Canal,Aguascalientes,01,Rincón de Romos,007,,,22.1421,-102.3423,4,el-canal
+MX,Mexico,México,20437,Héctor Hugo Olivares,Aguascalientes,01,Rincón de Romos,007,,,22.1543,-102.3449,3,hector-hugo-olivares
+MX,Mexico,México,20437,Lindavista,Aguascalientes,01,Rincón de Romos,007,,,22.1543,-102.3449,3,lindavista
+MX,Mexico,México,20437,Constitución,Aguascalientes,01,Rincón de Romos,007,,,22.1543,-102.3449,3,constitucion
+MX,Mexico,México,20440,Morelos,Aguascalientes,01,Rincón de Romos,007,,,22.2357,-102.3566,4,morelos
+MX,Mexico,México,20444,El Potrerillo,Aguascalientes,01,Rincón de Romos,007,,,22.2344,-102.418,3,el-potrerillo
+MX,Mexico,México,20444,Túnel de Potrerillo,Aguascalientes,01,Rincón de Romos,007,,,22.2344,-102.418,4,tunel-de-potrerillo
+MX,Mexico,México,20445,Las Camas,Aguascalientes,01,Rincón de Romos,007,,,22.2508,-102.4072,4,las-camas
+MX,Mexico,México,20445,Peña Blanca,Aguascalientes,01,Rincón de Romos,007,,,22.2539,-102.3597,4,pena-blanca
+MX,Mexico,México,20446,La Boquilla Grande,Aguascalientes,01,Rincón de Romos,007,,,22.2674,-102.3407,4,la-boquilla-grande
+MX,Mexico,México,20446,Los Negritos,Aguascalientes,01,Rincón de Romos,007,,,22.2674,-102.3407,3,los-negritos
+MX,Mexico,México,20447,Rancho La Laguna de Piedra,Aguascalientes,01,Rincón de Romos,007,,,22.3074,-102.4319,3,rancho-la-laguna-de-piedra
+MX,Mexico,México,20447,Mirasoles,Aguascalientes,01,Rincón de Romos,007,,,22.3074,-102.4319,4,mirasoles
+MX,Mexico,México,20450,Fresnillo,Aguascalientes,01,Rincón de Romos,007,,,22.2456,-102.3387,4,fresnillo
+MX,Mexico,México,20450,La Boquilla,Aguascalientes,01,Rincón de Romos,007,,,22.2589,-102.3689,4,la-boquilla
+MX,Mexico,México,20454,El Ajiladero,Aguascalientes,01,Rincón de Romos,007,,,22.2906,-102.3614,4,el-ajiladero
+MX,Mexico,México,20456,Las Rosas,Aguascalientes,01,Rincón de Romos,007,,,22.265,-102.3563,1,las-rosas
+MX,Mexico,México,20457,Mesa el Conejo,Aguascalientes,01,Rincón de Romos,007,,,22.265,-102.3563,1,mesa-el-conejo
+MX,Mexico,México,20500,San José de Gracia,Aguascalientes,01,San José de Gracia,008,,,22.1484,-102.4147,4,san-jose-de-gracia
+MX,Mexico,México,20501,El Jocoqui,Aguascalientes,01,San José de Gracia,008,,,22.1308,-102.3717,4,el-jocoqui
+MX,Mexico,México,20502,Cieneguita,Aguascalientes,01,San José de Gracia,008,,,22.1567,-102.4358,1,cieneguita
+MX,Mexico,México,20503,El Toril,Aguascalientes,01,San José de Gracia,008,,,22.06,-102.5186,4,el-toril
+MX,Mexico,México,20504,Santa Elena de la Cruz (Capadero),Aguascalientes,01,San José de Gracia,008,,,22.1567,-102.4358,1,santa-elena-de-la-cruz-capadero
+MX,Mexico,México,20506,Las Amarillas,Aguascalientes,01,San José de Gracia,008,,,22.1466,-102.5258,1,las-amarillas
+MX,Mexico,México,20508,Tortugas,Aguascalientes,01,San José de Gracia,008,,,22.2111,-102.4297,4,tortugas
+MX,Mexico,México,20508,Potrerillo,Aguascalientes,01,San José de Gracia,008,,,22.2331,-102.4442,4,potrerillo
+MX,Mexico,México,20510,Ciénega de Alcorcha,Aguascalientes,01,San José de Gracia,008,,,22.2627,-102.5279,4,cienega-de-alcorcha
+MX,Mexico,México,20516,Boca del Túnel de Potrerillo,Aguascalientes,01,San José de Gracia,008,,,22.2627,-102.5279,1,boca-del-tunel-de-potrerillo
+MX,Mexico,México,20520,La Congoja,Aguascalientes,01,San José de Gracia,008,,,22.1662,-102.557,4,la-congoja
+MX,Mexico,México,20525,La Campana,Aguascalientes,01,San José de Gracia,008,,,22.1317,-102.5411,4,la-campana
+MX,Mexico,México,20530,Bajío de La Tienda,Aguascalientes,01,San José de Gracia,008,,,22.1897,-102.5994,1,bajio-de-la-tienda
+MX,Mexico,México,20534,El Cepo,Aguascalientes,01,San José de Gracia,008,,,22.1897,-102.5994,1,el-cepo
+MX,Mexico,México,20538,Sierra Hermosa (Los Alamitos),Aguascalientes,01,San José de Gracia,008,,,22.1897,-102.5994,3,sierra-hermosa-los-alamitos
+MX,Mexico,México,20538,Antrialgo,Aguascalientes,01,San José de Gracia,008,,,22.1897,-102.5994,4,antrialgo
+MX,Mexico,México,20540,Paredes,Aguascalientes,01,San José de Gracia,008,,,22.1496,-102.4823,4,paredes
+MX,Mexico,México,20545,San Antonio de los Ríos,Aguascalientes,01,San José de Gracia,008,,,22.161,-102.4712,4,san-antonio-de-los-rios
+MX,Mexico,México,20550,Santa Rosa de Lima,Aguascalientes,01,San José de Gracia,008,,,22.0278,-102.5718,4,santa-rosa-de-lima
+MX,Mexico,México,20560,Presa del Sáuz,Aguascalientes,01,San José de Gracia,008,,,22.1092,-102.5178,1,presa-del-sauz
+MX,Mexico,México,20564,Rancho Viejo,Aguascalientes,01,San José de Gracia,008,,,22.1251,-102.5133,4,rancho-viejo
+MX,Mexico,México,20567,Potrero de los López,Aguascalientes,01,San José de Gracia,008,,,22.0933,-102.5223,4,potrero-de-los-lopez
+MX,Mexico,México,20570,El Tecongo,Aguascalientes,01,San José de Gracia,008,,,22.1333,-102.5013,1,el-tecongo
+MX,Mexico,México,20574,Estancia de San Marcos,Aguascalientes,01,San José de Gracia,008,,,22.1333,-102.5013,1,estancia-de-san-marcos
+MX,Mexico,México,20576,San José [Club Náutico],Aguascalientes,01,San José de Gracia,008,,,22.1333,-102.5013,1,san-jose-club-nautico
+MX,Mexico,México,20578,Paso del Sauz,Aguascalientes,01,San José de Gracia,008,,,22.1333,-102.5013,1,paso-del-sauz
+MX,Mexico,México,20580,Guajolotes (Huijolotes),Aguascalientes,01,San José de Gracia,008,,,22.0278,-102.5718,1,guajolotes-huijolotes
+MX,Mexico,México,20584,Santa Rosa,Aguascalientes,01,San José de Gracia,008,,,22.0278,-102.5718,4,santa-rosa
+MX,Mexico,México,20590,El Taray,Aguascalientes,01,San José de Gracia,008,,,22.0143,-102.484,4,el-taray
+MX,Mexico,México,20600,Tepezala Centro,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,1,tepezala-centro
+MX,Mexico,México,20602,Cholula 2a Sección,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,1,cholula-2a-seccion
+MX,Mexico,México,20603,Los Arcos,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.237,-102.1921,4,los-arcos
+MX,Mexico,México,20603,Del Socorro,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,3,del-socorro
+MX,Mexico,México,20603,Comunidad San Rafael,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,3,comunidad-san-rafael
+MX,Mexico,México,20604,Felipe Gonzalez González 1a Sección,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,1,felipe-gonzalez-gonzalez-1a-seccion
+MX,Mexico,México,20604,Felipe Gonzalez González 2a Sección,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,1,felipe-gonzalez-gonzalez-2a-seccion
+MX,Mexico,México,20605,La Cañada,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.237,-102.1921,1,la-canada
+MX,Mexico,México,20607,Luis Ortega Douglas,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,1,luis-ortega-douglas
+MX,Mexico,México,20608,Cholula 1a Sección,Aguascalientes,01,Tepezalá,009,Tepezalá,08,22.0656,-102.2444,1,cholula-1a-seccion
+MX,Mexico,México,20610,El Barranco,Aguascalientes,01,Tepezalá,009,,,22.278,-102.2471,4,el-barranco
+MX,Mexico,México,20610,El Chayote,Aguascalientes,01,Tepezalá,009,,,22.2867,-102.239,4,el-chayote
+MX,Mexico,México,20612,Las Pilas,Aguascalientes,01,Tepezalá,009,,,22.2535,-102.1681,4,las-pilas
+MX,Mexico,México,20613,San Rafael,Aguascalientes,01,Tepezalá,009,,,22.237,-102.1921,4,san-rafael
+MX,Mexico,México,20614,Luz de San Antonio (La Luz),Aguascalientes,01,Tepezalá,009,,,22.2628,-102.2508,3,luz-de-san-antonio-la-luz
+MX,Mexico,México,20614,Ampliación los Hornos (el Lagunazo),Aguascalientes,01,Tepezalá,009,,,22.265,-102.2531,4,ampliacion-los-hornos-el-lagunazo
+MX,Mexico,México,20614,Los Alamitos,Aguascalientes,01,Tepezalá,009,,,22.2606,-102.2484,4,los-alamitos
+MX,Mexico,México,20615,El Porvenir,Aguascalientes,01,Tepezalá,009,,,22.2414,-102.2348,4,el-porvenir
+MX,Mexico,México,20615,El Progreso (La Tira),Aguascalientes,01,Tepezalá,009,,,22.2569,-102.2319,4,el-progreso-la-tira
+MX,Mexico,México,20615,El Carmen,Aguascalientes,01,Tepezalá,009,,,22.2444,-102.2206,4,el-carmen
+MX,Mexico,México,20616,San Antonio,Aguascalientes,01,Tepezalá,009,,,22.2282,-102.2503,4,san-antonio
+MX,Mexico,México,20620,Mesillas,Aguascalientes,01,Tepezalá,009,,,22.315,-102.1687,4,mesillas
+MX,Mexico,México,20622,Ojo de Agua de los Montes,Aguascalientes,01,Tepezalá,009,,,22.2984,-102.1916,4,ojo-de-agua-de-los-montes
+MX,Mexico,México,20634,La Victoria,Aguascalientes,01,Tepezalá,009,,,22.2164,-102.2368,4,la-victoria
+MX,Mexico,México,20637,El Águila,Aguascalientes,01,Tepezalá,009,,,22.1961,-102.2569,4,el-aguila
+MX,Mexico,México,20637,El Gigante,Aguascalientes,01,Tepezalá,009,,,22.209,-102.2499,4,el-gigante
+MX,Mexico,México,20645,El Zorrillo,Aguascalientes,01,Tepezalá,009,,,22.1914,-102.2666,4,el-zorrillo
+MX,Mexico,México,20645,Reyes,Aguascalientes,01,Tepezalá,009,,,22.2156,-102.2431,4,reyes
+MX,Mexico,México,20650,Puerto de la Concepción,Aguascalientes,01,Tepezalá,009,,,22.2019,-102.1356,4,puerto-de-la-concepcion
+MX,Mexico,México,20654,Los Hornos,Aguascalientes,01,Tepezalá,009,,,22.265,-102.2531,4,los-hornos
+MX,Mexico,México,20656,Carboneras,Aguascalientes,01,Tepezalá,009,,,22.1831,-102.246,4,carboneras
+MX,Mexico,México,20656,El Refugio,Aguascalientes,01,Tepezalá,009,,,22.1713,-102.2276,4,el-refugio
+MX,Mexico,México,20657,Arroyo Hondo,Aguascalientes,01,Tepezalá,009,,,22.1875,-102.1907,4,arroyo-hondo
+MX,Mexico,México,20658,El Tepozán,Aguascalientes,01,Tepezalá,009,,,22.1702,-102.1426,4,el-tepozan
+MX,Mexico,México,20659,Caldera,Aguascalientes,01,Tepezalá,009,,,22.1619,-102.1915,4,caldera
+MX,Mexico,México,20330,Palo Alto,Aguascalientes,01,El Llano,010,,,21.918,-101.9645,4,palo-alto
+MX,Mexico,México,20330,El Progreso,Aguascalientes,01,El Llano,010,,,21.9215,-102.0354,3,el-progreso
+MX,Mexico,México,20330,Pobre,Aguascalientes,01,El Llano,010,,,21.918,-101.9645,3,pobre
+MX,Mexico,México,20330,El Saucito,Aguascalientes,01,El Llano,010,,,21.918,-101.9645,3,el-saucito
+MX,Mexico,México,20330,Palo Alto Centro,Aguascalientes,01,El Llano,010,,,21.918,-101.9645,3,palo-alto-centro
+MX,Mexico,México,20330,De Afuera,Aguascalientes,01,El Llano,010,,,21.918,-101.9645,3,de-afuera
+MX,Mexico,México,20330,De Abajo,Aguascalientes,01,El Llano,010,,,21.918,-101.9645,3,de-abajo
+MX,Mexico,México,20330,De Triana,Aguascalientes,01,El Llano,010,,,21.9215,-102.0354,3,de-triana
+MX,Mexico,México,20330,El Salto,Aguascalientes,01,El Llano,010,,,21.9215,-102.0354,3,el-salto
+MX,Mexico,México,20333,San Francisco de los Pedroza,Aguascalientes,01,El Llano,010,,,21.9253,-102.1284,4,san-francisco-de-los-pedroza
+MX,Mexico,México,20333,Las Flores (El Cotón),Aguascalientes,01,El Llano,010,,,21.9307,-102.1101,3,las-flores-el-coton
+MX,Mexico,México,20333,San Gerónimo,Aguascalientes,01,El Llano,010,,,21.8717,-102.1358,4,san-geronimo
+MX,Mexico,México,20333,El Mocho,Aguascalientes,01,El Llano,010,,,21.9094,-102.1444,4,el-mocho
+MX,Mexico,México,20333,San Francisco de los Viveros,Aguascalientes,01,El Llano,010,,,21.9115,-102.1285,4,san-francisco-de-los-viveros
+MX,Mexico,México,20333,El Milagro,Aguascalientes,01,El Llano,010,,,21.936,-102.0856,4,el-milagro
+MX,Mexico,México,20333,El Barreno (Ampliación San Francisco),Aguascalientes,01,El Llano,010,,,21.92,-102.1572,4,el-barreno-ampliacion-san-francisco
+MX,Mexico,México,20333,El Vaciero,Aguascalientes,01,El Llano,010,,,21.9307,-102.1101,3,el-vaciero
+MX,Mexico,México,20333,El Cotón,Aguascalientes,01,El Llano,010,,,21.9307,-102.1101,3,el-coton
+MX,Mexico,México,20333,Sandovales (San Miguel de los Sandovales),Aguascalientes,01,El Llano,010,,,21.9307,-102.1101,3,sandovales-san-miguel-de-los-sandovales
+MX,Mexico,México,20333,San José (San Antonio de Montoya),Aguascalientes,01,El Llano,010,,,21.9458,-102.0631,4,san-jose-san-antonio-de-montoya
+MX,Mexico,México,20333,Licenciado Jesús Terán (El Muerto),Aguascalientes,01,El Llano,010,,,21.9783,-102.0636,4,licenciado-jesus-teran-el-muerto
+MX,Mexico,México,20333,Las Laminas,Aguascalientes,01,El Llano,010,,,21.9215,-102.0354,4,las-laminas
+MX,Mexico,México,20334,El Novillo,Aguascalientes,01,El Llano,010,,,22.02,-102.0013,4,el-novillo
+MX,Mexico,México,20334,El Colorin,Aguascalientes,01,El Llano,010,,,21.9215,-102.0354,3,el-colorin
+MX,Mexico,México,20334,La Luz,Aguascalientes,01,El Llano,010,,,22.0003,-101.996,4,la-luz
+MX,Mexico,México,20335,El Puertecito,Aguascalientes,01,El Llano,010,,,21.9853,-101.9447,4,el-puertecito
+MX,Mexico,México,20335,Ojo de Agua de Crucitas,Aguascalientes,01,El Llano,010,,,21.9643,-101.952,4,ojo-de-agua-de-crucitas
+MX,Mexico,México,20335,Ojo de Agua de Placitas,Aguascalientes,01,El Llano,010,,,21.9853,-101.9447,4,ojo-de-agua-de-placitas
+MX,Mexico,México,20336,Los Conos,Aguascalientes,01,El Llano,010,,,21.8974,-101.9949,4,los-conos
+MX,Mexico,México,20336,Santa Rosa (El Huizache),Aguascalientes,01,El Llano,010,,,21.935,-102.0219,4,santa-rosa-el-huizache
+MX,Mexico,México,20336,Francisco Sarabia (La Reforma),Aguascalientes,01,El Llano,010,,,21.9689,-102.0192,4,francisco-sarabia-la-reforma
+MX,Mexico,México,20336,El Terremoto,Aguascalientes,01,El Llano,010,,,21.9698,-101.9843,4,el-terremoto
+MX,Mexico,México,20336,Montoya,Aguascalientes,01,El Llano,010,,,21.9469,-102.0623,4,montoya
+MX,Mexico,México,20337,La Tinaja,Aguascalientes,01,El Llano,010,,,21.81,-102.1281,4,la-tinaja
+MX,Mexico,México,20337,El Rosario,Aguascalientes,01,El Llano,010,,,21.8447,-102.1514,4,el-rosario
+MX,Mexico,México,20337,San Jerónimo,Aguascalientes,01,El Llano,010,,,21.9215,-102.0354,4,san-jeronimo
+MX,Mexico,México,20337,El Retoño,Aguascalientes,01,El Llano,010,,,21.8395,-102.1664,4,el-retono
+MX,Mexico,México,20338,Tanque el Coyote (El Coyote),Aguascalientes,01,El Llano,010,,,21.8972,-102.0539,4,tanque-el-coyote-el-coyote
+MX,Mexico,México,20338,El Copetillo (El Moquete),Aguascalientes,01,El Llano,010,,,21.907,-102.0399,4,el-copetillo-el-moquete
+MX,Mexico,México,20338,La Unión (La Paz),Aguascalientes,01,El Llano,010,,,21.8695,-102.0381,4,la-union-la-paz
+MX,Mexico,México,20338,El Chonguillo (El Chonguito),Aguascalientes,01,El Llano,010,,,21.9192,-102.0419,4,el-chonguillo-el-chonguito
+MX,Mexico,México,20338,Mirasoles,Aguascalientes,01,El Llano,010,,,21.8619,-102.0592,4,mirasoles
+MX,Mexico,México,20338,El Copetillo,Aguascalientes,01,El Llano,010,,,21.907,-102.0399,4,el-copetillo
+MX,Mexico,México,20338,Rancho Nuevo,Aguascalientes,01,El Llano,010,,,21.8975,-102.0594,4,rancho-nuevo
+MX,Mexico,México,20338,El Tildío,Aguascalientes,01,El Llano,010,,,21.8865,-102.0391,4,el-tildio
+MX,Mexico,México,20339,Santa Elena,Aguascalientes,01,El Llano,010,,,21.8417,-102.0686,4,santa-elena
+MX,Mexico,México,20339,El Paraíso (Santa Rita),Aguascalientes,01,El Llano,010,,,21.8453,-102.0658,4,el-paraiso-santa-rita
+MX,Mexico,México,20339,La Calavera (Quinta de Alonso),Aguascalientes,01,El Llano,010,,,21.8283,-102.0747,3,la-calavera-quinta-de-alonso
+MX,Mexico,México,20339,Santa Rita Uno (Santa Rita),Aguascalientes,01,El Llano,010,,,21.8411,-102.0586,4,santa-rita-uno-santa-rita
+MX,Mexico,México,20339,La Primavera,Aguascalientes,01,El Llano,010,,,21.8065,-102.0612,4,la-primavera
+MX,Mexico,México,20339,Granja Temixco,Aguascalientes,01,El Llano,010,,,21.8283,-102.0747,3,granja-temixco
+MX,Mexico,México,20339,San Antonio de la Rosa,Aguascalientes,01,El Llano,010,,,21.8169,-102.0686,4,san-antonio-de-la-rosa
+MX,Mexico,México,20339,Lomas del Refugio (La Loma),Aguascalientes,01,El Llano,010,,,21.8106,-102.0789,4,lomas-del-refugio-la-loma
+MX,Mexico,México,20339,Santa Clara (Las Mieleras),Aguascalientes,01,El Llano,010,,,21.8328,-102.08,4,santa-clara-las-mieleras
+MX,Mexico,México,20339,La Lucita,Aguascalientes,01,El Llano,010,,,21.8261,-102.08,4,la-lucita
+MX,Mexico,México,20339,San José (San José de los Rodríguez),Aguascalientes,01,El Llano,010,,,21.8551,-102.0804,4,san-jose-san-jose-de-los-rodriguez
+MX,Mexico,México,20339,San Lorenzo,Aguascalientes,01,El Llano,010,,,21.8422,-102.0808,4,san-lorenzo
+MX,Mexico,México,20339,San Ramón,Aguascalientes,01,El Llano,010,,,21.8106,-102.0648,4,san-ramon
+MX,Mexico,México,20339,El Llano [CERESO],Aguascalientes,01,El Llano,010,,,21.8103,-102.1086,4,el-llano-cereso
+MX,Mexico,México,20339,San Agustín de los Díaz,Aguascalientes,01,El Llano,010,,,21.8283,-102.0747,3,san-agustin-de-los-diaz
+MX,Mexico,México,20300,Campestre San Carlos,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,campestre-san-carlos
+MX,Mexico,México,20300,Panamericano,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0533,-102.3097,3,panamericano
+MX,Mexico,México,20300,San Francisco de los Romos Centro,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0533,-102.3097,3,san-francisco-de-los-romos-centro
+MX,Mexico,México,20303,La Margarita,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,la-margarita
+MX,Mexico,México,20303,La Sociedad San Juan,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,la-sociedad-san-juan
+MX,Mexico,México,20303,Santa Isabel,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,santa-isabel
+MX,Mexico,México,20303,San Juan Bautista,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,san-juan-bautista
+MX,Mexico,México,20303,Revolución,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,revolucion
+MX,Mexico,México,20303,La Guadalupana,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0506,-102.2789,4,la-guadalupana
+MX,Mexico,México,20303,María,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0381,-102.2519,4,maria
+MX,Mexico,México,20303,Cerrada San Francisco,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,cerrada-san-francisco
+MX,Mexico,México,20303,La Perla,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,la-perla
+MX,Mexico,México,20303,San Francisco,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,san-francisco
+MX,Mexico,México,20303,Hidalgo,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,hidalgo
+MX,Mexico,México,20303,San Pablo,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0856,-102.2558,4,san-pablo
+MX,Mexico,México,20303,Los Cedros,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0105,-102.2846,3,los-cedros
+MX,Mexico,México,20303,San José Buenavista,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0706,-102.2519,4,san-jose-buenavista
+MX,Mexico,México,20303,El Tirón (El Progreso),Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0442,-102.2725,4,el-tiron-el-progreso
+MX,Mexico,México,20303,La Aurora,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0528,-102.2736,4,la-aurora
+MX,Mexico,México,20304,El Chamizal,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0719,-102.2461,4,el-chamizal
+MX,Mexico,México,20304,El Cardonal,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0369,-102.2628,4,el-cardonal
+MX,Mexico,México,20304,San José del Barranco,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0238,-102.2194,3,san-jose-del-barranco
+MX,Mexico,México,20304,Santa Bárbara,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0238,-102.2194,3,santa-barbara
+MX,Mexico,México,20304,La Escondida (El Salero),Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0238,-102.2194,3,la-escondida-el-salero
+MX,Mexico,México,20304,28 de Abril,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0238,-102.2194,3,28-de-abril
+MX,Mexico,México,20304,Monserrat,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0497,-102.2542,4,monserrat
+MX,Mexico,México,20304,Fracción de la Trinidad II,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0556,-102.2533,4,fraccion-de-la-trinidad-ii
+MX,Mexico,México,20304,Mary,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0783,-102.2517,4,mary
+MX,Mexico,México,20304,Villa de Guadalupe,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0238,-102.2194,3,villa-de-guadalupe
+MX,Mexico,México,20304,San Juan,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0238,-102.2194,3,san-juan
+MX,Mexico,México,20304,Santa Fe,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,santa-fe
+MX,Mexico,México,20305,La Gloria,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,la-gloria
+MX,Mexico,México,20305,Los Gonzalez,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,los-gonzalez
+MX,Mexico,México,20305,Santa Elena,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,santa-elena
+MX,Mexico,México,20305,El Gigante,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,el-gigante
+MX,Mexico,México,20305,Las Carmelitas,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0642,-102.2803,4,las-carmelitas
+MX,Mexico,México,20305,El Cortijo,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,el-cortijo
+MX,Mexico,México,20305,Santa Anita,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,santa-anita
+MX,Mexico,México,20305,La Unión,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0547,-102.2861,4,la-union
+MX,Mexico,México,20305,El Espíritu,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,el-espiritu
+MX,Mexico,México,20305,Viñedos los Zapata,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,vinedos-los-zapata
+MX,Mexico,México,20305,Viñedos Xoconoxtle,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,vinedos-xoconoxtle
+MX,Mexico,México,20305,Alfredo Soriano López,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,alfredo-soriano-lopez
+MX,Mexico,México,20305,San Pedro Victoria de Arriba,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,san-pedro-victoria-de-arriba
+MX,Mexico,México,20305,San Cristóbal,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,san-cristobal
+MX,Mexico,México,20305,Los Sabinos,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,los-sabinos
+MX,Mexico,México,20305,Santa Elena (Elena),Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,santa-elena-elena
+MX,Mexico,México,20305,Los Lirios,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0331,-102.229,4,los-lirios
+MX,Mexico,México,20305,El Refugio,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0152,-102.2556,3,el-refugio
+MX,Mexico,México,20305,La Providencia,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.06,-102.2769,4,la-providencia
+MX,Mexico,México,20305,La Paz,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0742,-102.2833,4,la-paz
+MX,Mexico,México,20305,La Trinidad,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0556,-102.2533,4,la-trinidad
+MX,Mexico,México,20305,San Pedro Victoria (San Pedro Victoria de Abajo),Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0828,-102.2847,4,san-pedro-victoria-san-pedro-victoria-de-abajo
+MX,Mexico,México,20305,San Ángel,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0444,-102.3011,4,san-angel
+MX,Mexico,México,20305,El Barranco,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0729,-102.2754,4,el-barranco
+MX,Mexico,México,20305,Zacatenco,Aguascalientes,01,San Francisco de los Romo,011,San Francisco de los Romo,03,22.0375,-102.3039,4,zacatenco
+MX,Mexico,México,20350,Medio Kilo,Aguascalientes,01,San Francisco de los Romo,011,,,21.9856,-102.2803,4,medio-kilo
+MX,Mexico,México,20350,Macario J Gómez,Aguascalientes,01,San Francisco de los Romo,011,,,21.9806,-102.2514,4,macario-j-gomez
+MX,Mexico,México,20350,Rancho Seco,Aguascalientes,01,San Francisco de los Romo,011,,,21.9819,-102.2725,4,rancho-seco
+MX,Mexico,México,20350,Los Capricornios (La Biznaga),Aguascalientes,01,San Francisco de los Romo,011,,,21.9876,-102.2619,3,los-capricornios-la-biznaga
+MX,Mexico,México,20350,Loretito (Charco del Toro),Aguascalientes,01,San Francisco de los Romo,011,,,22.0022,-102.2433,4,loretito-charco-del-toro
+MX,Mexico,México,20353,La Providencia 1,Aguascalientes,01,San Francisco de los Romo,011,,,22.0204,-102.2429,1,la-providencia-1
+MX,Mexico,México,20355,San Ramón,Aguascalientes,01,San Francisco de los Romo,011,,,22.0331,-102.229,3,san-ramon
+MX,Mexico,México,20355,La Guayana,Aguascalientes,01,San Francisco de los Romo,011,,,21.9819,-102.2725,4,la-guayana
+MX,Mexico,México,20355,Viñedos River,Aguascalientes,01,San Francisco de los Romo,011,,,22.0138,-102.2832,3,vinedos-river
+MX,Mexico,México,20355,Urbi Villa del Vergel,Aguascalientes,01,San Francisco de los Romo,011,,,22.0138,-102.2832,3,urbi-villa-del-vergel
+MX,Mexico,México,20355,Parque Industrial San Francisco de los Romo,Aguascalientes,01,San Francisco de los Romo,011,,,22.0138,-102.2832,3,parque-industrial-san-francisco-de-los-romo
+MX,Mexico,México,20355,La Concepción,Aguascalientes,01,San Francisco de los Romo,011,,,22.0354,-102.2999,4,la-concepcion
+MX,Mexico,México,20355,Paseos de la Providencia,Aguascalientes,01,San Francisco de los Romo,011,,,22.0242,-102.2771,4,paseos-de-la-providencia
+MX,Mexico,México,20356,Borrotes,Aguascalientes,01,San Francisco de los Romo,011,,,22.0409,-102.2067,4,borrotes
+MX,Mexico,México,20356,Ramón Romo,Aguascalientes,01,San Francisco de los Romo,011,,,22.0331,-102.229,4,ramon-romo
+MX,Mexico,México,20356,Estación Chicalote,Aguascalientes,01,San Francisco de los Romo,011,,,22.1225,-102.2417,3,estacion-chicalote
+MX,Mexico,México,20357,Rancho Nuevo 2,Aguascalientes,01,San Francisco de los Romo,011,,,22.0613,-102.17,3,rancho-nuevo-2
+MX,Mexico,México,20357,Ojo de Agua del Mezquite,Aguascalientes,01,San Francisco de los Romo,011,,,22.061,-102.1981,4,ojo-de-agua-del-mezquite
+MX,Mexico,México,20357,Amapolas del Río,Aguascalientes,01,San Francisco de los Romo,011,,,22.0377,-102.1463,4,amapolas-del-rio
+MX,Mexico,México,20357,Rancho Nuevo,Aguascalientes,01,San Francisco de los Romo,011,,,22.0804,-102.1579,4,rancho-nuevo
+MX,Mexico,México,20357,El Tepetate,Aguascalientes,01,San Francisco de los Romo,011,,,22.0661,-102.1775,4,el-tepetate
+MX,Mexico,México,20358,Villas de San Felipe,Aguascalientes,01,San Francisco de los Romo,011,,,21.9753,-102.2586,4,villas-de-san-felipe
+MX,Mexico,México,20358,La Ribera,Aguascalientes,01,San Francisco de los Romo,011,,,21.9662,-102.2672,3,la-ribera
+MX,Mexico,México,20358,Sendero de los Quetzales,Aguascalientes,01,San Francisco de los Romo,011,,,21.9662,-102.2672,3,sendero-de-los-quetzales
+MX,Mexico,México,20358,Parque Industrial Valle de Aguascalientes,Aguascalientes,01,San Francisco de los Romo,011,,,21.9662,-102.2672,3,parque-industrial-valle-de-aguascalientes
+MX,Mexico,México,20358,Puertecito de la Virgen,Aguascalientes,01,San Francisco de los Romo,011,,,21.9603,-102.2689,4,puertecito-de-la-virgen
+MX,Mexico,México,20358,La Casita,Aguascalientes,01,San Francisco de los Romo,011,,,21.9697,-102.2672,4,la-casita
+MX,Mexico,México,20358,Ex Viñedos de Guadalupe,Aguascalientes,01,San Francisco de los Romo,011,,,21.9594,-102.2742,4,ex-vinedos-de-guadalupe

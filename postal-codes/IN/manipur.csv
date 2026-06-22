@@ -1,0 +1,713 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+IN,India,India,795007,Oinam Hills,Manipur,17,Senapati,272,Karong,,25.3034,94.044,3,oinam-hills
+IN,India,India,795007,Rajamei,Manipur,17,Senapati,272,Nil,,25.3034,94.044,3,rajamei
+IN,India,India,795007,Willong,Manipur,17,Senapati,272,Karong,,25.3034,94.044,3,willong
+IN,India,India,795007,Yangkhullen,Manipur,17,Senapati,272,Nil,,25.3034,94.044,3,yangkhullen
+IN,India,India,795007,Thingba Khullen,Manipur,17,Senapati,272,Nil,,25.3034,94.044,3,thingba-khullen
+IN,India,India,795007,Lairouching,Manipur,17,Senapati,272,Nil,,25.3034,94.044,3,lairouching
+IN,India,India,795007,Thingba Khunou,Manipur,17,Senapati,272,Nil,,25.3034,94.044,3,thingba-khunou
+IN,India,India,795007,Karong,Manipur,17,Senapati,272,Nil,,25.3034,94.044,4,karong
+IN,India,India,795104,Paomata Centre,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,paomata-centre
+IN,India,India,795104,Tungjoy,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,tungjoy
+IN,India,India,795104,Chingai Khullen,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,chingai-khullen
+IN,India,India,795104,Phaibung Khullen,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,phaibung-khullen
+IN,India,India,795104,Laii,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,laii
+IN,India,India,795104,Siraffi,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,siraffi
+IN,India,India,795104,Liyai Khunou,Manipur,17,Senapati,272,Tadubi,,25.4788,94.135,3,liyai-khunou
+IN,India,India,795104,Liyai,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,liyai
+IN,India,India,795104,Kaibi,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,kaibi
+IN,India,India,795104,Tadubi,Manipur,17,Senapati,272,Nil,,25.4788,94.135,4,tadubi
+IN,India,India,795104,Chawanamei,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,chawanamei
+IN,India,India,795104,Saranamei,Manipur,17,Senapati,272,Nil,,25.4788,94.135,3,saranamei
+IN,India,India,795105,Makhan Bazar,Manipur,17,Senapati,272,Nil,,25.397,94.1643,3,makhan-bazar
+IN,India,India,795105,Koide,Manipur,17,Senapati,272,Nil,,25.397,94.1643,3,koide
+IN,India,India,795105,Khongdei Simphung,Manipur,17,Senapati,272,Maram,,25.397,94.1643,3,khongdei-simphung
+IN,India,India,795105,Lakhamei,Manipur,17,Senapati,272,Nil,,25.397,94.1643,3,lakhamei
+IN,India,India,795105,Phuba,Manipur,17,Senapati,272,Nil,,25.397,94.1643,3,phuba
+IN,India,India,795105,Ngari Khullen,Manipur,17,Senapati,272,Maram,,25.397,94.1643,3,ngari-khullen
+IN,India,India,795105,Maiba,Manipur,17,Senapati,272,Nil,,25.397,94.1643,3,maiba
+IN,India,India,795105,Purul,Manipur,17,Senapati,272,Nil,,25.3778,94.2167,4,purul
+IN,India,India,795105,Maram,Manipur,17,Senapati,272,Maram,,25.4161,94.112,4,maram
+IN,India,India,795106,Senapati,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,1,senapati
+IN,India,India,795106,Tumuyen Khullen,Manipur,17,Senapati,272,Senapati,,25.1965,94.0402,1,tumuyen-khullen
+IN,India,India,795106,Oklong,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,1,oklong
+IN,India,India,795107,Sapermeina,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,3,sapermeina
+IN,India,India,795107,N. Khenjang,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,3,n-khenjang
+IN,India,India,795107,Motbung,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,3,motbung
+IN,India,India,795107,Nurathel,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,3,nurathel
+IN,India,India,795107,Thingsat,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,3,thingsat
+IN,India,India,795107,S.Bolkot,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,3,s-bolkot
+IN,India,India,795107,J Phaijang,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,3,j-phaijang
+IN,India,India,795107,Saitu,Manipur,17,Senapati,272,Nil,,25.0338,93.8933,4,saitu
+IN,India,India,795112,Thengjang,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,3,thengjang
+IN,India,India,795112,T Waichong,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,3,t-waichong
+IN,India,India,795112,Ganel,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,3,ganel
+IN,India,India,795112,Irang,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,3,irang
+IN,India,India,795112,Cheljang,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,3,cheljang
+IN,India,India,795112,Chalwa (P),Manipur,17,Senapati,272,Nil,,25.1965,94.0402,3,chalwa-p
+IN,India,India,795112,Kolhen,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,4,kolhen
+IN,India,India,795118,Gangpijang,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,gangpijang
+IN,India,India,795118,Mutukhong,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,mutukhong
+IN,India,India,795118,Pangjang,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,pangjang
+IN,India,India,795118,Songphel Khullen,Manipur,17,Senapati,272,Saikul,,25.043,94.0667,3,songphel-khullen
+IN,India,India,795118,Jangnoi,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,jangnoi
+IN,India,India,795118,Phaikon,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,phaikon
+IN,India,India,795118,Zelengphai,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,zelengphai
+IN,India,India,795118,Galam,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,galam
+IN,India,India,795118,T. Awkhumbung,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,t-awkhumbung
+IN,India,India,795118,Molkon,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,molkon
+IN,India,India,795118,Makeng Ngarolu,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,makeng-ngarolu
+IN,India,India,795118,Makokchung,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,makokchung
+IN,India,India,795118,Tingpibung,Manipur,17,Senapati,272,Nil,,25.0285,94.1033,4,tingpibung
+IN,India,India,795118,Bunglong,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,bunglong
+IN,India,India,795118,Ichaigojang,Manipur,17,Senapati,272,Nil,,25.043,94.0667,3,ichaigojang
+IN,India,India,795122,Keithelmanbi,Manipur,17,Senapati,272,Nil,,25.13,93.9562,3,keithelmanbi
+IN,India,India,795122,Thanamba,Manipur,17,Senapati,272,Nil,,25.13,93.9562,3,thanamba
+IN,India,India,795122,Chandraman,Manipur,17,Senapati,272,Nil,,25.13,93.9562,3,chandraman
+IN,India,India,795122,Persian,Manipur,17,Senapati,272,Nil,,25.13,93.9562,3,persian
+IN,India,India,795122,Haipi,Manipur,17,Senapati,272,Nil,,25.13,93.9562,3,haipi
+IN,India,India,795122,Tokpa,Manipur,17,Senapati,272,Nil,,25.13,93.9562,3,tokpa
+IN,India,India,795122,Kalapahar,Manipur,17,Senapati,272,Nil,,25.13,93.9562,4,kalapahar
+IN,India,India,795125,Tamei,Manipur,17,Senapati,272,Nil,,25.1965,94.0402,4,tamei
+IN,India,India,795129,Kangpokpi,Manipur,17,Senapati,272,Nil,,25.1527,93.9717,4,kangpokpi
+IN,India,India,795129,Thonglang,Manipur,17,Senapati,272,Nil,,25.2398,93.9242,4,thonglang
+IN,India,India,795129,Maohing,Manipur,17,Senapati,272,Nil,,25.1967,93.9042,4,maohing
+IN,India,India,795129,Maohiing,Manipur,17,Senapati,272,Nil,,25.1964,93.9334,3,maohiing
+IN,India,India,795129,Kangpokpi Mission,Manipur,17,Senapati,272,Nil,,25.1964,93.9334,3,kangpokpi-mission
+IN,India,India,795129,Toribari,Manipur,17,Senapati,272,Nil,,25.1964,93.9334,3,toribari
+IN,India,India,795129,Taphou,Manipur,17,Senapati,272,Nil,,25.1964,93.9334,3,taphou
+IN,India,India,795150,Pfukhro,Manipur,17,Senapati,272,Nil,,25.5134,94.1413,3,pfukhro
+IN,India,India,795150,Pudunamei,Manipur,17,Senapati,272,Nil,,25.5134,94.1413,3,pudunamei
+IN,India,India,795150,Phunanamei,Manipur,17,Senapati,272,Nil,,25.5134,94.1413,3,phunanamei
+IN,India,India,795150,Mao,Manipur,17,Senapati,272,Nil,,25.5134,94.1413,4,mao
+IN,India,India,795125,Kadi,Manipur,17,Tamenglong,273,Nil,,25.3027,93.7734,4,kadi
+IN,India,India,795125,Jampii (T/C/D),Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,jampii-t-c-d
+IN,India,India,795125,Lenglong,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,lenglong
+IN,India,India,795125,Kuilong,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,kuilong
+IN,India,India,795125,Kasanlong,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,kasanlong
+IN,India,India,795125,Atang Khunou,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,atang-khunou
+IN,India,India,795125,Dullen (T/C/D),Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,dullen-t-c-d
+IN,India,India,795125,Illong,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,illong
+IN,India,India,795125,Chaiton,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,chaiton
+IN,India,India,795125,Upper Selsi (T/c/d),Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,upper-selsi-t-c-d
+IN,India,India,795125,Takou,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,takou
+IN,India,India,795125,New Lamlaba,Manipur,17,Tamenglong,273,Tamei,,25.2296,93.7267,3,new-lamlaba
+IN,India,India,795125,Magulong,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,magulong
+IN,India,India,795125,Lemta,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,lemta
+IN,India,India,795125,Khumphung,Manipur,17,Tamenglong,273,Nil,,25.2296,93.7267,3,khumphung
+IN,India,India,795141,Khongjaron,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,khongjaron
+IN,India,India,795141,Bongoijang,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,bongoijang
+IN,India,India,795141,Dailong,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,dailong
+IN,India,India,795141,Farmland,Manipur,17,Tamenglong,273,Tamenglong,,25.0044,93.4314,3,farmland
+IN,India,India,795141,Keikao,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,keikao
+IN,India,India,795141,Longpram,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,longpram
+IN,India,India,795141,Namtiram,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,namtiram
+IN,India,India,795141,New Pallong,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,new-pallong
+IN,India,India,795141,Songpram,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,songpram
+IN,India,India,795141,Tamenglong Khunjao,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,tamenglong-khunjao
+IN,India,India,795141,Tharon,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,tharon
+IN,India,India,795141,Thuilon,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,thuilon
+IN,India,India,795141,Wairengba,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,wairengba
+IN,India,India,795141,Kahulong,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,kahulong
+IN,India,India,795141,Bhalok,Manipur,17,Tamenglong,273,Nil,,24.9927,93.5238,4,bhalok
+IN,India,India,795141,Tousem,Manipur,17,Tamenglong,273,Nil,,25.0855,93.3659,4,tousem
+IN,India,India,795141,Khongjaron Khunthak,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,khongjaron-khunthak
+IN,India,India,795141,Akhui,Manipur,17,Tamenglong,273,Nil,,25.0044,93.4314,3,akhui
+IN,India,India,795141,Atengba,Manipur,17,Tamenglong,273,Nil,,24.9232,93.3505,4,atengba
+IN,India,India,795141,Tamenglong,Manipur,17,Tamenglong,273,Nil,,25.0164,93.4854,4,tamenglong
+IN,India,India,795146,Christian Centre Haochong,Manipur,17,Tamenglong,273,Lamsang,,24.9473,93.5273,3,christian-centre-haochong
+IN,India,India,795146,Khungdong Khungkhaiba,Manipur,17,Tamenglong,273,Lamsang,,24.9473,93.5273,3,khungdong-khungkhaiba
+IN,India,India,795147,Khongsang,Manipur,17,Tamenglong,273,Nil,,24.7435,93.4175,3,khongsang
+IN,India,India,795147,Nungba,Manipur,17,Tamenglong,273,Nil,,24.7435,93.4175,4,nungba
+IN,India,India,795147,Rengpang,Manipur,17,Tamenglong,273,Nil,,24.7435,93.4175,3,rengpang
+IN,India,India,795147,Kambiron,Manipur,17,Tamenglong,273,Nil,,24.7435,93.4175,3,kambiron
+IN,India,India,795147,Sibilong,Manipur,17,Tamenglong,273,Nil,,24.7435,93.4175,3,sibilong
+IN,India,India,795147,Mukti Khullen,Manipur,17,Tamenglong,273,Nil,,24.7435,93.4175,3,mukti-khullen
+IN,India,India,795159,Nungnang,Manipur,17,Tamenglong,273,None S.O,,24.8873,93.6521,3,nungnang
+IN,India,India,795159,Nagaching,Manipur,17,Tamenglong,273,Nil,,24.8873,93.6521,3,nagaching
+IN,India,India,795159,Karuangmuan (Nungtek),Manipur,17,Tamenglong,273,Noney,,24.8873,93.6521,3,karuangmuan-nungtek
+IN,India,India,795159,New Kabui Khullen,Manipur,17,Tamenglong,273,Nil,,24.8873,93.6521,3,new-kabui-khullen
+IN,India,India,795159,Charoi Tupul,Manipur,17,Tamenglong,273,Nil,,24.8873,93.6521,3,charoi-tupul
+IN,India,India,795159,Haochong,Manipur,17,Tamenglong,273,Nil,,24.8817,93.6927,4,haochong
+IN,India,India,795159,Lukhambi,Manipur,17,Tamenglong,273,Nil,,24.8929,93.6115,4,lukhambi
+IN,India,India,795159,Thingra,Manipur,17,Tamenglong,273,Nil,,24.8873,93.6521,3,thingra
+IN,India,India,795159,None,Manipur,17,Tamenglong,273,Nil,,24.8873,93.6521,3,none
+IN,India,India,795006,Aibulon,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,aibulon
+IN,India,India,795006,Leijangphai,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,leijangphai
+IN,India,India,795006,Tualbung,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,tualbung
+IN,India,India,795006,Tipaimukh (P),Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,tipaimukh-p
+IN,India,India,795006,Bungpilon,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,bungpilon
+IN,India,India,795006,Geljang,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,geljang
+IN,India,India,795006,Bungmual,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,bungmual
+IN,India,India,795006,Tingsong,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,tingsong
+IN,India,India,795006,Taithu,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,taithu
+IN,India,India,795006,Singzawl,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,singzawl
+IN,India,India,795006,Senvon,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,senvon
+IN,India,India,795006,Sawaiphaih (T/C/D),Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,sawaiphaih-t-c-d
+IN,India,India,795006,Lingshiphai,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,lingshiphai
+IN,India,India,795006,Phaijang,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,phaijang
+IN,India,India,795006,Pamjal BO,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,pamjal-bo
+IN,India,India,795006,Milongmun,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,milongmun
+IN,India,India,795006,Mission Compound,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,mission-compound
+IN,India,India,795006,Leisan,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,leisan
+IN,India,India,795006,Mualkoi,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,mualkoi
+IN,India,India,795006,New Lamka,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,new-lamka
+IN,India,India,795006,Takvom,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,takvom
+IN,India,India,795006,Pearsonmun,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,pearsonmun
+IN,India,India,795006,Khajang,Manipur,17,Churachandpur,274,New Lamka,,24.2271,93.2055,3,khajang
+IN,India,India,795006,Panglian,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,panglian
+IN,India,India,795006,Kwanpui,Manipur,17,Churachandpur,274,Churachandpur,,24.2271,93.2055,3,kwanpui
+IN,India,India,795006,Hanship,Manipur,17,Churachandpur,274,New Lamka,,24.144,93.2084,4,hanship
+IN,India,India,795006,Pherzawl,Manipur,17,Churachandpur,274,New Lamka,,24.2623,93.1887,4,pherzawl
+IN,India,India,795006,Parbung,Manipur,17,Churachandpur,274,New Lamka,,24.2496,93.1066,4,parbung
+IN,India,India,795006,Thanlon,Manipur,17,Churachandpur,274,New Lamka,,24.2669,93.2817,4,thanlon
+IN,India,India,795006,Bukpi,Manipur,17,Churachandpur,274,New Lamka,,24.2128,93.242,4,bukpi
+IN,India,India,795117,Tuikham,Manipur,17,Churachandpur,274,Nil,,24.2898,93.4269,1,tuikham
+IN,India,India,795117,Tuitengphai,Manipur,17,Churachandpur,274,Nil,,24.2898,93.4269,1,tuitengphai
+IN,India,India,795117,Saikot,Manipur,17,Churachandpur,274,Nil,,24.2898,93.4269,1,saikot
+IN,India,India,795117,Khouwpuibung,Manipur,17,Churachandpur,274,Nil,,24.2898,93.4269,1,khouwpuibung
+IN,India,India,795117,Mual Vaiphei,Manipur,17,Churachandpur,274,Nil,,24.2898,93.4269,1,mual-vaiphei
+IN,India,India,795117,Tuining,Manipur,17,Churachandpur,274,Nil,,24.2898,93.4269,1,tuining
+IN,India,India,795118,Saikul,Manipur,17,Churachandpur,274,Nil,,24.2898,93.4269,4,saikul
+IN,India,India,795128,Sangphou,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,sangphou
+IN,India,India,795128,Phaipheng,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,phaipheng
+IN,India,India,795128,Kamkeilon,Manipur,17,Churachandpur,274,Kamkeilon,,24.4117,93.5664,3,kamkeilon
+IN,India,India,795128,Hamkeilon,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,hamkeilon
+IN,India,India,795128,Geljang,Manipur,17,Churachandpur,274,Churachandpur,,24.4117,93.5664,3,geljang
+IN,India,India,795128,Tollen,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,tollen
+IN,India,India,795128,Mission Compound,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,mission-compound
+IN,India,India,795128,Saiden,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,saiden
+IN,India,India,795128,Saikhul Village,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,saikhul-village
+IN,India,India,795128,Lungshung,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,lungshung
+IN,India,India,795128,Chothemunpi,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,chothemunpi
+IN,India,India,795128,Chehjang,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,chehjang
+IN,India,India,795128,Lailong,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,lailong
+IN,India,India,795128,Zenhang Lamka,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,zenhang-lamka
+IN,India,India,795128,M Songel,Manipur,17,Churachandpur,274,M Songel,,24.4117,93.5664,3,m-songel
+IN,India,India,795128,Tolphei,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,tolphei
+IN,India,India,795128,Thinkew,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,thinkew
+IN,India,India,795128,Lungsai,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,lungsai
+IN,India,India,795128,Teiyong,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,teiyong
+IN,India,India,795128,Takvom,Manipur,17,Churachandpur,274,Churachandpur,,24.4117,93.5664,3,takvom
+IN,India,India,795128,Kwanpui,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,kwanpui
+IN,India,India,795128,Kangvai Bazar,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,kangvai-bazar
+IN,India,India,795128,Tuinom,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,tuinom
+IN,India,India,795128,M.Songel,Manipur,17,Churachandpur,274,M Songel,,24.4117,93.5664,3,m-songel
+IN,India,India,795128,Chingkonpang,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,chingkonpang
+IN,India,India,795128,Kolhen,Manipur,17,Churachandpur,274,Nil,,24.4427,93.5044,4,kolhen
+IN,India,India,795128,Tulaphei,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,tulaphei
+IN,India,India,795128,Kamkeilon,Manipur,17,Churachandpur,274,M Songel,,24.4117,93.5664,3,kamkeilon
+IN,India,India,795128,Thangshi,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,thangshi
+IN,India,India,795128,Aina,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,aina
+IN,India,India,795128,Sielmet,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,sielmet
+IN,India,India,795128,Churachandpur,Manipur,17,Churachandpur,274,Nil,,24.3335,93.67,4,churachandpur
+IN,India,India,795128,Munpi,Manipur,17,Churachandpur,274,Nil,,24.3203,93.5083,4,munpi
+IN,India,India,795128,Henglep,Manipur,17,Churachandpur,274,Nil,,24.5047,93.5041,4,henglep
+IN,India,India,795128,Ukha,Manipur,17,Churachandpur,274,Nil,,24.4571,93.645,4,ukha
+IN,India,India,795128,Kumbipukhri,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,kumbipukhri
+IN,India,India,795128,Santing,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,santing
+IN,India,India,795128,South Kotlein,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,south-kotlein
+IN,India,India,795128,Khanpi,Manipur,17,Churachandpur,274,Nil,,24.4117,93.5664,3,khanpi
+IN,India,India,795133,Kangathel,Manipur,17,Churachandpur,274,Churachandpur,,24.2898,93.4269,3,kangathel
+IN,India,India,795133,Khathinungei,Manipur,17,Churachandpur,274,Churachandpur,,24.2898,93.4269,3,khathinungei
+IN,India,India,795133,Tuisang Gothal,Manipur,17,Churachandpur,274,Churachandpur,,24.2898,93.4269,3,tuisang-gothal
+IN,India,India,795133,Gelman (G.Gothal),Manipur,17,Churachandpur,274,Churachandpur,,24.2898,93.4269,3,gelman-g-gothal
+IN,India,India,795134,Thingkai Khullen,Manipur,17,Churachandpur,274,Churachandpur,,24.2898,93.4269,3,thingkai-khullen
+IN,India,India,795139,Lungthul(L.Daijang),Manipur,17,Churachandpur,274,Singhat,,24.1564,93.5763,3,lungthul-l-daijang
+IN,India,India,795139,Lama Camp,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,lama-camp
+IN,India,India,795139,Vokbual,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,vokbual
+IN,India,India,795139,Songtal,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,songtal
+IN,India,India,795139,Siabu,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,siabu
+IN,India,India,795139,Mualmun,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,mualmun
+IN,India,India,795139,Kangkap,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,kangkap
+IN,India,India,795139,Behiang,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,behiang
+IN,India,India,795139,Hengtam,Manipur,17,Churachandpur,274,Nil,,24.0849,93.6045,4,hengtam
+IN,India,India,795139,Suangdoh,Manipur,17,Churachandpur,274,Singhat,,24.2418,93.5377,4,suangdoh
+IN,India,India,795139,Singhat,Manipur,17,Churachandpur,274,Nil,,24.1425,93.5867,4,singhat
+IN,India,India,795139,Lungchin,Manipur,17,Churachandpur,274,Nil,,24.1564,93.5763,3,lungchin
+IN,India,India,795011,Phubala,Manipur,17,Bishnupur,275,Ningthoukhong,,24.5352,93.8011,1,phubala
+IN,India,India,795011,Potsangbam,Manipur,17,Bishnupur,275,Ningthoukhong,,24.5352,93.8011,1,potsangbam
+IN,India,India,795011,Thinungei,Manipur,17,Bishnupur,275,Ningthoukhong,,24.5352,93.8011,1,thinungei
+IN,India,India,795011,Naransena,Manipur,17,Bishnupur,275,Ningthoukhong,,24.5352,93.8011,1,naransena
+IN,India,India,795011,Ningthoukhong,Manipur,17,Bishnupur,275,Ningthoukhong,,24.5352,93.8011,1,ningthoukhong
+IN,India,India,795011,Haotak Khullen,Manipur,17,Bishnupur,275,Ningthoukhong,,24.5352,93.8011,1,haotak-khullen
+IN,India,India,795118,Dolang,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,3,dolang
+IN,India,India,795124,Jiban Nager,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,jiban-nager
+IN,India,India,795124,Charoi Khullel,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,charoi-khullel
+IN,India,India,795124,Loktak Project,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,loktak-project
+IN,India,India,795124,Leimatak,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,leimatak
+IN,India,India,795124,Tokpalamdan,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,tokpalamdan
+IN,India,India,795124,Sadukhoiroi,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,sadukhoiroi
+IN,India,India,795124,Mayuran,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,mayuran
+IN,India,India,795126,Thangal,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,thangal
+IN,India,India,795126,Zouzangtek,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,zouzangtek
+IN,India,India,795126,Khunpi Naosem,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,khunpi-naosem
+IN,India,India,795126,Toubul,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,toubul
+IN,India,India,795126,Nungsai Chiru,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,nungsai-chiru
+IN,India,India,795126,Ngaikhong Khullen,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,ngaikhong-khullen
+IN,India,India,795126,Khoupum,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,khoupum
+IN,India,India,795126,Khongbung,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,khongbung
+IN,India,India,795126,Khoijuman,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,khoijuman
+IN,India,India,795126,Dolang Khunou,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,dolang-khunou
+IN,India,India,795126,Bishnupur (Bishnupur),Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,bishnupur-bishnupur
+IN,India,India,795126,Lamdangmei,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,lamdangmei
+IN,India,India,795126,Dolang,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,dolang
+IN,India,India,795126,Ningthoukhong,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,ningthoukhong
+IN,India,India,795126,Ngarian,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,1,ngarian
+IN,India,India,795133,Moirang,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,4,moirang
+IN,India,India,795133,Dopkon,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,dopkon
+IN,India,India,795133,Ethai Bazar,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,ethai-bazar
+IN,India,India,795133,Wangoo Tera,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,wangoo-tera
+IN,India,India,795133,Wangoo,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,wangoo
+IN,India,India,795133,Tronglaobi,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,tronglaobi
+IN,India,India,795133,Torbung,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,torbung
+IN,India,India,795133,Thanga Karang,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,thanga-karang
+IN,India,India,795133,Phousabung,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,phousabung
+IN,India,India,795133,Nabil (P),Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,nabil-p
+IN,India,India,795133,Molphei Tampak,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,molphei-tampak
+IN,India,India,795133,Khousabung,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,khousabung
+IN,India,India,795133,Khordak Ichin,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,khordak-ichin
+IN,India,India,795133,Khoirentak,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,khoirentak
+IN,India,India,795133,Haotakphailen,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,haotakphailen
+IN,India,India,795133,Kwakta,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,kwakta
+IN,India,India,795133,Kumbi (P),Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,kumbi-p
+IN,India,India,795133,Thumkhonglok,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,thumkhonglok
+IN,India,India,795133,Thanga(P),Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,thanga-p
+IN,India,India,795133,Terakhongshangbi,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,terakhongshangbi
+IN,India,India,795133,Saiton,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,saiton
+IN,India,India,795133,Sagang,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,sagang
+IN,India,India,795133,Nungthangtampak,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,nungthangtampak
+IN,India,India,795133,Ngangkha Louwai,Manipur,17,Bishnupur,275,Moirang,,24.4975,93.7779,3,ngangkha-louwai
+IN,India,India,795133,Boroyangbi,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,boroyangbi
+IN,India,India,795133,Bunglon,Manipur,17,Bishnupur,275,Nil,,24.4975,93.7779,3,bunglon
+IN,India,India,795134,Kangmong,Manipur,17,Bishnupur,275,Nambol,,24.6883,93.834,3,kangmong
+IN,India,India,795134,Keinou,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,keinou
+IN,India,India,795134,Khabi,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,khabi
+IN,India,India,795134,Langpok,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,langpok
+IN,India,India,795134,Leimapokpam,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,leimapokpam
+IN,India,India,795134,Awangjiri,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,awangjiri
+IN,India,India,795134,Yarou Bomdiar,Manipur,17,Bishnupur,275,Nambol,,24.6883,93.834,3,yarou-bomdiar
+IN,India,India,795134,Heikrujam,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,heikrujam
+IN,India,India,795134,Utlou,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,utlou
+IN,India,India,795134,Manamayang,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,manamayang
+IN,India,India,795134,Kabowakching,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,kabowakching
+IN,India,India,795134,Maibam,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,maibam
+IN,India,India,795134,Oinam,Manipur,17,Bishnupur,275,Nil,,24.689,93.8129,4,oinam
+IN,India,India,795134,Leimaram,Manipur,17,Bishnupur,275,Nambol,,24.6883,93.834,3,leimaram
+IN,India,India,795134,Irengbam,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,irengbam
+IN,India,India,795134,Isok,Manipur,17,Bishnupur,275,Nil,,24.6883,93.834,3,isok
+IN,India,India,795134,Bungte Chiru,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,4,bungte-chiru
+IN,India,India,795134,Pukhrambam,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,4,pukhrambam
+IN,India,India,795134,Naorem,Manipur,17,Bishnupur,275,Nil,,24.5352,93.8011,4,naorem
+IN,India,India,795134,Nambol,Manipur,17,Bishnupur,275,Nil,,24.6956,93.8197,4,nambol
+IN,India,India,795101,Khambathel,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,khambathel
+IN,India,India,795101,Longja,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,longja
+IN,India,India,795101,Mahou Tera,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,mahou-tera
+IN,India,India,795101,Serou,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,serou
+IN,India,India,795101,Chairen,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,chairen
+IN,India,India,795101,K. Molnam,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,k-molnam
+IN,India,India,795101,M Bongmol,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,m-bongmol
+IN,India,India,795101,Sangaikot,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,sangaikot
+IN,India,India,795101,Shahumphai,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,1,shahumphai
+IN,India,India,795103,Mairembam,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,mairembam
+IN,India,India,795103,Wangoo Laipham,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,wangoo-laipham
+IN,India,India,795103,Mantak,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,mantak
+IN,India,India,795103,Waikhong,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,waikhong
+IN,India,India,795103,Elangkhangpokpi,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,elangkhangpokpi
+IN,India,India,795103,Pangaltabi,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,pangaltabi
+IN,India,India,795103,Tokpaching,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,tokpaching
+IN,India,India,795103,Leingangching,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,leingangching
+IN,India,India,795103,Khudei Khunou,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,khudei-khunou
+IN,India,India,795103,Kakching,Manipur,17,Thoubal,276,Nil,,24.4982,93.9813,4,kakching
+IN,India,India,795103,Arong Nongmaikhong,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,arong-nongmaikhong
+IN,India,India,795103,Sora,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,sora
+IN,India,India,795103,Purum Pantha,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,purum-pantha
+IN,India,India,795103,Kalikalok,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,kalikalok
+IN,India,India,795103,Keirak,Manipur,17,Thoubal,276,Nil,,24.4779,93.9396,3,keirak
+IN,India,India,795103,Wabagai,Manipur,17,Thoubal,276,Nil,,24.5309,93.9376,4,wabagai
+IN,India,India,795130,Heinoumakhong,Manipur,17,Thoubal,276,Nil,,24.7111,93.9746,3,heinoumakhong
+IN,India,India,795130,Turelahnabi,Manipur,17,Thoubal,276,Nil,,24.7111,93.9746,3,turelahnabi
+IN,India,India,795130,Phunalmaring,Manipur,17,Thoubal,276,Nil,,24.7111,93.9746,3,phunalmaring
+IN,India,India,795130,Nungei,Manipur,17,Thoubal,276,Nil,,24.7111,93.9746,3,nungei
+IN,India,India,795130,Lairabokhong,Manipur,17,Thoubal,276,Nil,,24.7111,93.9746,3,lairabokhong
+IN,India,India,795130,Arapti,Manipur,17,Thoubal,276,Lilong,,24.7111,93.9746,3,arapti
+IN,India,India,795130,Chajing pt.-1,Manipur,17,Thoubal,276,Lilong,,24.7111,93.9746,3,chajing-pt-1
+IN,India,India,795130,Haoreibi Mayai Leikai,Manipur,17,Thoubal,276,Nil,,24.7111,93.9746,3,haoreibi-mayai-leikai
+IN,India,India,795130,Lilong,Manipur,17,Thoubal,276,Nil,,24.7111,93.9746,4,lilong
+IN,India,India,795132,Mayang Imphal,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,4,mayang-imphal
+IN,India,India,795132,Hayel Hangoon,Manipur,17,Thoubal,276,Mayang Imphal,,24.5308,93.9716,3,hayel-hangoon
+IN,India,India,795135,Chelhep,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,chelhep
+IN,India,India,795135,Leibi,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,leibi
+IN,India,India,795135,Liwachangning,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,liwachangning
+IN,India,India,795135,Minou Khunjao,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,minou-khunjao
+IN,India,India,795135,Lamkang Khunou,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,lamkang-khunou
+IN,India,India,795135,Khunbi,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,khunbi
+IN,India,India,795135,Khousat (T/C/D),Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,khousat-t-c-d
+IN,India,India,795135,Khoibu,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,khoibu
+IN,India,India,795135,Lamlong Khullen,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,lamlong-khullen
+IN,India,India,795135,Kambang Khunou,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,kambang-khunou
+IN,India,India,795135,Thamnapokpi,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,thamnapokpi
+IN,India,India,795135,Songjang,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,songjang
+IN,India,India,795135,Saibhom,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,saibhom
+IN,India,India,795135,Narum,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,narum
+IN,India,India,795135,Bongli,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,bongli
+IN,India,India,795135,Molhang,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,molhang
+IN,India,India,795135,Machi,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,4,machi
+IN,India,India,795135,Kharou Khullen,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,kharou-khullen
+IN,India,India,795135,Aimol Kodamphai,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,aimol-kodamphai
+IN,India,India,795135,Angbrashu,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,4,angbrashu
+IN,India,India,795135,Moltek,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,moltek
+IN,India,India,795135,Lamlong Khunou,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,lamlong-khunou
+IN,India,India,795135,Sita,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,3,sita
+IN,India,India,795138,Thoubal,Manipur,17,Thoubal,276,Nil,,24.6388,93.9964,4,thoubal
+IN,India,India,795138,Kiyam Siphai,Manipur,17,Thoubal,276,Thoubal,,24.5532,93.968,3,kiyam-siphai
+IN,India,India,795138,Phoudel,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,phoudel
+IN,India,India,795138,Charangpat,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,charangpat
+IN,India,India,795138,Haokha,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,haokha
+IN,India,India,795138,Irong Thokchom (T/C/D),Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,irong-thokchom-t-c-d
+IN,India,India,795138,Poirou Kongjil,Manipur,17,Thoubal,276,Thoubal,,24.5532,93.968,3,poirou-kongjil
+IN,India,India,795138,Sabaltongba,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,sabaltongba
+IN,India,India,795138,Thoubal Block (T/C/D),Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,thoubal-block-t-c-d
+IN,India,India,795138,Thoubal Leisangthem,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,thoubal-leisangthem
+IN,India,India,795138,Thoubal Ningombam,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,thoubal-ningombam
+IN,India,India,795138,Wangbal,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,wangbal
+IN,India,India,795138,Keibung Mamang,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,keibung-mamang
+IN,India,India,795138,Khekman,Manipur,17,Thoubal,276,Thoubal,,24.5532,93.968,3,khekman
+IN,India,India,795138,Kshetri Leikai,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,kshetri-leikai
+IN,India,India,795138,Moijing,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,moijing
+IN,India,India,795138,Okram Wangmataba,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,okram-wangmataba
+IN,India,India,795138,Thoubal Khunou,Manipur,17,Thoubal,276,Nil,,24.4047,93.8998,4,thoubal-khunou
+IN,India,India,795138,Khangabok,Manipur,17,Thoubal,276,Nil,,24.6162,94.0077,4,khangabok
+IN,India,India,795138,Athokpam,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,athokpam
+IN,India,India,795138,Athokpam Khunou,Manipur,17,Thoubal,276,Nil,,24.5532,93.968,3,athokpam-khunou
+IN,India,India,795148,Tekcham,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,tekcham
+IN,India,India,795148,Salungpham,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,salungpham
+IN,India,India,795148,Tentha,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,tentha
+IN,India,India,795148,Tollen,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,tollen
+IN,India,India,795148,Cherapur,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,cherapur
+IN,India,India,795148,Samaram,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,samaram
+IN,India,India,795148,Herok Part 1,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,herok-part-1
+IN,India,India,795148,Sapam Salai,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,sapam-salai
+IN,India,India,795148,Karongthel,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,karongthel
+IN,India,India,795148,Khongjom,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,khongjom
+IN,India,India,795148,Sangaiyumpham,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,sangaiyumpham
+IN,India,India,795148,Heirok Part 2,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,heirok-part-2
+IN,India,India,795148,Puleipokpi,Manipur,17,Thoubal,276,Wangjing,,24.5892,94.0639,3,puleipokpi
+IN,India,India,795148,Langathel,Manipur,17,Thoubal,276,Wangjing S.O,,24.5892,94.0639,3,langathel
+IN,India,India,795148,Phundrei,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,3,phundrei
+IN,India,India,795148,Wangjing,Manipur,17,Thoubal,276,Nil,,24.5892,94.0639,4,wangjing
+IN,India,India,795149,Heinganglok,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,heinganglok
+IN,India,India,795149,Andro,Manipur,17,Thoubal,276,Nil;,,24.6813,94.063,3,andro
+IN,India,India,795149,Kamu Tongnom,Manipur,17,Thoubal,276,Yairipok,,24.6813,94.063,3,kamu-tongnom
+IN,India,India,795149,Lourembam,Manipur,17,Thoubal,276,Yairipok,,24.5308,93.9716,4,lourembam
+IN,India,India,795149,Kasom Khullen,Manipur,17,Thoubal,276,Nil,,24.5308,93.9716,4,kasom-khullen
+IN,India,India,795149,Theiyong,Manipur,17,Thoubal,276,Yairipok,,24.6813,94.063,3,theiyong
+IN,India,India,795149,Yairipok,Manipur,17,Thoubal,276,Nil,,24.6779,94.0477,4,yairipok
+IN,India,India,795149,Phouoibi,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,phouoibi
+IN,India,India,795149,Changamdabi,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,changamdabi
+IN,India,India,795149,Haokhongching,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,haokhongching
+IN,India,India,795149,Bongbal Khullen,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,bongbal-khullen
+IN,India,India,795149,Angtha,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,angtha
+IN,India,India,795149,Irong Tangkhul,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,irong-tangkhul
+IN,India,India,795149,Kamuching,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,kamuching
+IN,India,India,795149,Saram Patong,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,saram-patong
+IN,India,India,795149,Kamu Tampak,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,kamu-tampak
+IN,India,India,795149,Khoirom,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,khoirom
+IN,India,India,795149,Ningthounai,Manipur,17,Thoubal,276,Yairipok,,24.6813,94.063,3,ningthounai
+IN,India,India,795149,LembaKhul,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,lembakhul
+IN,India,India,795149,Yairipok Tulihal,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,yairipok-tulihal
+IN,India,India,795149,Khonglou Vaiphei (T/C/D),Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,khonglou-vaiphei-t-c-d
+IN,India,India,795149,Lungthar,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,lungthar
+IN,India,India,795149,Mollen (T/C/D),Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,mollen-t-c-d
+IN,India,India,795149,Soichang,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,soichang
+IN,India,India,795149,Nambasi,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,nambasi
+IN,India,India,795149,Nongpok Sekmai,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,nongpok-sekmai
+IN,India,India,795149,Top Chingtha,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,top-chingtha
+IN,India,India,795149,Yambem Laxmi Bazar,Manipur,17,Thoubal,276,Nil,,24.6813,94.063,3,yambem-laxmi-bazar
+IN,India,India,795001,Imphal Bazar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,imphal-bazar
+IN,India,India,795001,Khoyathong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,khoyathong
+IN,India,India,795001,Manipur High Court,Manipur,17,Imphal West,277,Imphal West,,24.6816,93.1544,1,manipur-high-court
+IN,India,India,795001,Soibam Leikai,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,soibam-leikai
+IN,India,India,795001,D.M College,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,d-m-college
+IN,India,India,795001,Imphal H.O,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,imphal-h-o
+IN,India,India,795002,Heingang,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,heingang
+IN,India,India,795002,Mantripukhri,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,mantripukhri
+IN,India,India,795002,Khurukhul,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,khurukhul
+IN,India,India,795002,Karakhul,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,karakhul
+IN,India,India,795002,Luwangsangbam,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,luwangsangbam
+IN,India,India,795002,Konthakhabam,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,konthakhabam
+IN,India,India,795002,Ahallup,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,ahallup
+IN,India,India,795003,Canchipur,Manipur,17,Imphal West,277,Langthabal,,24.6816,93.1544,1,canchipur
+IN,India,India,795003,Mongsangei,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,mongsangei
+IN,India,India,795003,Ningombam,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,ningombam
+IN,India,India,795003,Kunja (P),Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,kunja-p
+IN,India,India,795003,Kyamgei,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,kyamgei
+IN,India,India,795003,Langthabal,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,langthabal
+IN,India,India,795004,Sagolband Thingom Leikai,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sagolband-thingom-leikai
+IN,India,India,795004,Central Agriculture University,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,central-agriculture-university
+IN,India,India,795004,Sayang Kuraomakhong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sayang-kuraomakhong
+IN,India,India,795004,Naoremthong Bazar,Manipur,17,Imphal West,277,Lamkhelpat,,24.6816,93.1544,3,naoremthong-bazar
+IN,India,India,795004,Iroisemba,Manipur,17,Imphal West,277,Lamkhelpat,,24.6816,93.1544,3,iroisemba
+IN,India,India,795004,Langol Housing Complex,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,langol-housing-complex
+IN,India,India,795004,Lamphelpat,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,4,lamphelpat
+IN,India,India,795004,Lamboi Khongngangkhong,Manipur,17,Imphal West,277,Lamkhelpat,,24.6816,93.1544,3,lamboi-khongngangkhong
+IN,India,India,795004,Tera Bazar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,tera-bazar
+IN,India,India,795009,Irom Meijrao,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,irom-meijrao
+IN,India,India,795009,Samurou,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,samurou
+IN,India,India,795009,Bitrarakhong,Manipur,17,Imphal West,277,Nil;,,24.6816,93.1544,1,bitrarakhong
+IN,India,India,795009,Paobitek,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,paobitek
+IN,India,India,795009,Wangoi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,wangoi
+IN,India,India,795009,Kodompokpi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,kodompokpi
+IN,India,India,795009,Hiyangthang,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,hiyangthang
+IN,India,India,795009,Haoreibi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,haoreibi
+IN,India,India,795103,K M College,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,k-m-college
+IN,India,India,795113,Khamnam Bazar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,khamnam-bazar
+IN,India,India,795113,Longa Koireng,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,longa-koireng
+IN,India,India,795113,CRPF Camp Langjing,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,crpf-camp-langjing
+IN,India,India,795113,Natok Kabui,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,natok-kabui
+IN,India,India,795113,New Keithelmanbi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,new-keithelmanbi
+IN,India,India,795113,Ngairangbam,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,ngairangbam
+IN,India,India,795113,Tairenpokpi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,4,tairenpokpi
+IN,India,India,795113,Patsoi Part II,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,patsoi-part-ii
+IN,India,India,795113,Sagoltongba Bazar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sagoltongba-bazar
+IN,India,India,795113,Langjing Achouba,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,langjing-achouba
+IN,India,India,795113,Takyel Khongbal,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,takyel-khongbal
+IN,India,India,795113,Tharoijam,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,tharoijam
+IN,India,India,795113,Yurembam,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,yurembam
+IN,India,India,795113,Khumbong Bazar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,khumbong-bazar
+IN,India,India,795113,Haorang Kairel,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,haorang-kairel
+IN,India,India,795113,kongakhul BO,Manipur,17,Imphal West,277,Langjing,,24.6816,93.1544,3,kongakhul-bo
+IN,India,India,795113,Konthoujam,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,konthoujam
+IN,India,India,795113,Maklang Bazar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,maklang-bazar
+IN,India,India,795115,New Keiphundai,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,new-keiphundai
+IN,India,India,795115,Gularthol,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,gularthol
+IN,India,India,795115,Nungkao,Manipur,17,Imphal West,277,Gulathol,,24.6816,93.1544,1,nungkao
+IN,India,India,795115,Bidyanagar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,bidyanagar
+IN,India,India,795115,Keimai,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,keimai
+IN,India,India,795115,BR Colony,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,br-colony
+IN,India,India,795115,Kashimpur,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,1,kashimpur
+IN,India,India,795116,Bongmun,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,bongmun
+IN,India,India,795116,Longpi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,4,longpi
+IN,India,India,795116,Kh Jaikhan,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,kh-jaikhan
+IN,India,India,795116,Suangpuimun,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,suangpuimun
+IN,India,India,795116,Sonapur,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sonapur
+IN,India,India,795116,Chongmun,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,chongmun
+IN,India,India,795116,Borobekra,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,borobekra
+IN,India,India,795116,Patpuimun,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,patpuimun
+IN,India,India,795116,Phaibok Mullen,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,phaibok-mullen
+IN,India,India,795116,Tuitengmun,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,tuitengmun
+IN,India,India,795116,Jakurdhar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,jakurdhar
+IN,India,India,795116,Jiribam Bazar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,jiribam-bazar
+IN,India,India,795116,Champanagar,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,champanagar
+IN,India,India,795132,Komlakhong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,komlakhong
+IN,India,India,795132,Bengoon Maning Leikai,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,bengoon-maning-leikai
+IN,India,India,795132,Chabung Company,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,chabung-company
+IN,India,India,795132,Chirai Muslim,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,chirai-muslim
+IN,India,India,795132,Heibong Makhong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,heibong-makhong
+IN,India,India,795132,Irong Chessaba,Manipur,17,Imphal West,277,Mayang Imphal,,24.6816,93.1544,3,irong-chessaba
+IN,India,India,795132,Khelakhong Khongjil,Manipur,17,Imphal West,277,Mayang Imphal,,24.6816,93.1544,3,khelakhong-khongjil
+IN,India,India,795132,Laphupat,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,laphupat
+IN,India,India,795132,Loukok Mayai Leikai,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,loukok-mayai-leikai
+IN,India,India,795132,Maibam Konjil,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,maibam-konjil
+IN,India,India,795132,Mayang Impahl Bengoon,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,mayang-impahl-bengoon
+IN,India,India,795132,Mutum Phibou,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,mutum-phibou
+IN,India,India,795132,Phoubakchao,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,phoubakchao
+IN,India,India,795132,Santhel,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,santhel
+IN,India,India,795132,Sekmaijin,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sekmaijin
+IN,India,India,795132,Sekmaijin  Khunou Konuma,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sekmaijin-khunou-konuma
+IN,India,India,795132,Tera Khoidum Mayai Leikai,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,tera-khoidum-mayai-leikai
+IN,India,India,795132,Uchiwa,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,uchiwa
+IN,India,India,795132,Uchiwa Wangban,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,uchiwa-wangban
+IN,India,India,795132,Irong Umang Khunou,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,irong-umang-khunou
+IN,India,India,795132,Arong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,arong
+IN,India,India,795132,Sekmaijin Khunou Litan Makhong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sekmaijin-khunou-litan-makhong
+IN,India,India,795136,Ch. Khongnangpokpi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,ch-khongnangpokpi
+IN,India,India,795136,Potsangbam Khoiru,Manipur,17,Imphal West,277,Sekmai,,24.6816,93.1544,3,potsangbam-khoiru
+IN,India,India,795136,Kanglatombi,Manipur,17,Imphal West,277,Sekmai,,24.6816,93.1544,4,kanglatombi
+IN,India,India,795136,Makhan,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,makhan
+IN,India,India,795136,Luwangsangol,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,luwangsangol
+IN,India,India,795136,Awang Leikinthabi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,awang-leikinthabi
+IN,India,India,795140,Laiphrakom,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,laiphrakom
+IN,India,India,795140,Sangaiprou,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,sangaiprou
+IN,India,India,795140,Yarou Mitram,Manipur,17,Imphal West,277,Tulihal,,24.6816,93.1544,3,yarou-mitram
+IN,India,India,795146,Phayeng,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,4,phayeng
+IN,India,India,795146,Oktan,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,oktan
+IN,India,India,795146,Lairen Sajik,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,lairen-sajik
+IN,India,India,795146,Lamsang,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,lamsang
+IN,India,India,795146,Lamdeng,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,lamdeng
+IN,India,India,795146,Kangchup Hill (P),Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,kangchup-hill-p
+IN,India,India,795146,Karam Vaiphei,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,karam-vaiphei
+IN,India,India,795146,Mayang Langjing,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,mayang-langjing
+IN,India,India,795146,Ponlian,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,ponlian
+IN,India,India,795146,Heibongpokpi,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,heibongpokpi
+IN,India,India,795146,Ijairong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,ijairong
+IN,India,India,795146,Irengnaga,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,irengnaga
+IN,India,India,795146,Kangchup Chiru,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,kangchup-chiru
+IN,India,India,795146,Kangchup Makhong,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,kangchup-makhong
+IN,India,India,795159,Awangkhul,Manipur,17,Imphal West,277,Nil,,24.6816,93.1544,3,awangkhul
+IN,India,India,795002,Awangpotsangbam,Manipur,17,Imphal East,278,Mantripukhri,,24.8166,93.9421,1,awangpotsangbam
+IN,India,India,795002,Loitang Leikinthabi,Manipur,17,Imphal East,278,Mantripukhri,,24.8166,93.9421,1,loitang-leikinthabi
+IN,India,India,795002,Tendongyang,Manipur,17,Imphal East,278,Mantripukhri,,24.8166,93.9421,1,tendongyang
+IN,India,India,795002,Khongampat,Manipur,17,Imphal East,278,Mantripukhri,,24.8166,93.9421,1,khongampat
+IN,India,India,795003,Manipur University,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,manipur-university
+IN,India,India,795005,Takhel,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,takhel
+IN,India,India,795005,Kshetri Bengoon,Manipur,17,Imphal East,278,Porompat,,24.8166,93.9421,3,kshetri-bengoon
+IN,India,India,795005,Moirang Kampu,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,moirang-kampu
+IN,India,India,795005,Porompat,Manipur,17,Imphal East,278,Nil,,24.8081,93.9442,4,porompat
+IN,India,India,795005,Khurai Khongnang Makhong,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,khurai-khongnang-makhong
+IN,India,India,795005,Awang Kongpal,Manipur,17,Imphal East,278,Porompat,,24.8166,93.9421,3,awang-kongpal
+IN,India,India,795005,Kshetrigao,Manipur,17,Imphal East,278,Porompat,,24.8166,93.9421,3,kshetrigao
+IN,India,India,795008,Keirao Wangkhem,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,keirao-wangkhem
+IN,India,India,795008,Singjamei,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,singjamei
+IN,India,India,795008,Laiphrak Maring,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,laiphrak-maring
+IN,India,India,795008,Irilbung,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,irilbung
+IN,India,India,795008,Mongkhang Lambi,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,mongkhang-lambi
+IN,India,India,795008,Kongba Bazar,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,kongba-bazar
+IN,India,India,795008,Kitnapanung,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,kitnapanung
+IN,India,India,795008,Khongangpheidekpi,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,khongangpheidekpi
+IN,India,India,795008,Keirao Makting,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,keirao-makting
+IN,India,India,795008,Keirao Bitra Salam,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,keirao-bitra-salam
+IN,India,India,795008,Oinam Thingel,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,oinam-thingel
+IN,India,India,795008,Uchekon,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,1,uchekon
+IN,India,India,795010,Ningthemchakhul,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,ningthemchakhul
+IN,India,India,795010,Nongada,Manipur,17,Imphal East,278,Lamlong,,24.8166,93.9421,3,nongada
+IN,India,India,795010,Huidrom,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,huidrom
+IN,India,India,795010,Heinoumakhong,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,heinoumakhong
+IN,India,India,795010,Chingmang,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,chingmang
+IN,India,India,795010,Nongdam Tangkhul,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,nongdam-tangkhul
+IN,India,India,795010,Laikoiching,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,laikoiching
+IN,India,India,795010,Phaknung,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,phaknung
+IN,India,India,795010,Sawombung,Manipur,17,Imphal East,278,Nil,,24.8736,94.0136,4,sawombung
+IN,India,India,795010,Tangkhul Hungdung,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,tangkhul-hungdung
+IN,India,India,795010,Lamlai,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,lamlai
+IN,India,India,795010,Lamlong,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,lamlong
+IN,India,India,795010,Moirang Purel,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,moirang-purel
+IN,India,India,795010,Kameng Kakching,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,kameng-kakching
+IN,India,India,795010,Taretkhul,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,taretkhul
+IN,India,India,795010,Yourbung,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,yourbung
+IN,India,India,795114,Kairang Litan Makhong,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,kairang-litan-makhong
+IN,India,India,795114,Khongbal Tangkhul,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,khongbal-tangkhul
+IN,India,India,795114,Liklikhong Bazar,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,liklikhong-bazar
+IN,India,India,795114,Wakhen Phai,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,wakhen-phai
+IN,India,India,795114,Waiton,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,waiton
+IN,India,India,795114,Thangal Surung,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,thangal-surung
+IN,India,India,795114,Dolaithabi,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,dolaithabi
+IN,India,India,795114,Haraorou,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,haraorou
+IN,India,India,795114,Satang,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,satang
+IN,India,India,795114,Pangei Yangdong,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,pangei-yangdong
+IN,India,India,795114,Yumnam Khunou,Manipur,17,Imphal East,278,Pangei Yangdong S.O,,24.9574,94.0242,3,yumnam-khunou
+IN,India,India,795114,Khumidok (P),Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,khumidok-p
+IN,India,India,795114,Pukhao Ahallup,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,pukhao-ahallup
+IN,India,India,795114,Uyumpok,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,uyumpok
+IN,India,India,795114,Mapao Keithelmanbi,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,3,mapao-keithelmanbi
+IN,India,India,795114,Sagolmang,Manipur,17,Imphal East,278,Nil,,24.9574,94.0242,4,sagolmang
+IN,India,India,795116,Latingkhal,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,latingkhal
+IN,India,India,795130,Urup,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,urup
+IN,India,India,795130,Thiyamkonjil,Manipur,17,Imphal East,278,Nil,,24.8166,93.9421,3,thiyamkonjil
+IN,India,India,795136,Sekmai,Manipur,17,Imphal East,278,Nil,,24.9769,93.8879,3,sekmai
+IN,India,India,795140,Tulihal,Manipur,17,Imphal East,278,Nil,,24.7538,93.8855,4,tulihal
+IN,India,India,795149,Huikap,Manipur,17,Imphal East,278,Yairipok,,24.6813,94.063,3,huikap
+IN,India,India,795142,Phungcham,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,phungcham
+IN,India,India,795142,Hundung,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,hundung
+IN,India,India,795142,Pushing,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,pushing
+IN,India,India,795142,Chither (P),Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,chither-p
+IN,India,India,795142,Chingjaroi (p),Manipur,17,Ukhrul,279,Ukhrul,,25.3148,94.4139,3,chingjaroi-p
+IN,India,India,795142,Nungbi Khunou,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,nungbi-khunou
+IN,India,India,795142,Tushem,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,tushem
+IN,India,India,795142,Siroi,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,siroi
+IN,India,India,795142,Tungou,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,tungou
+IN,India,India,795142,Khamasom,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,khamasom
+IN,India,India,795142,Kagai,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,kagai
+IN,India,India,795142,Nungshang,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,nungshang
+IN,India,India,795142,Ngaimu,Manipur,17,Ukhrul,279,Ukhrul,,25.3148,94.4139,3,ngaimu
+IN,India,India,795142,Poii,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,poii
+IN,India,India,795142,Tuinem,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,tuinem
+IN,India,India,795142,Soraphung,Manipur,17,Ukhrul,279,Ukhrul,,25.3148,94.4139,3,soraphung
+IN,India,India,795142,T.C.Compound,Manipur,17,Ukhrul,279,Ukhrul,,25.3148,94.4139,3,t-c-compound
+IN,India,India,795142,Mapum,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,mapum
+IN,India,India,795142,Sirarakhong,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,sirarakhong
+IN,India,India,795142,Rajai Khunou,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,rajai-khunou
+IN,India,India,795142,Paorei,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,paorei
+IN,India,India,795142,Lamlang Gate,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,lamlang-gate
+IN,India,India,795142,Khayang,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,khayang
+IN,India,India,795142,Chamu,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,chamu
+IN,India,India,795142,Kharasom,Manipur,17,Ukhrul,279,Nil,,25.4666,94.4701,4,kharasom
+IN,India,India,795142,Tolloi,Manipur,17,Ukhrul,279,Nil,,25.1904,94.3246,4,tolloi
+IN,India,India,795142,Huining,Manipur,17,Ukhrul,279,Nil,,25.1753,94.3698,4,huining
+IN,India,India,795142,Chingai (P),Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,chingai-p
+IN,India,India,795142,Paoyii,Manipur,17,Ukhrul,279,Nil,,25.3148,94.4139,3,paoyii
+IN,India,India,795142,Jessami,Manipur,17,Ukhrul,279,Ukhrul,,25.6223,94.541,4,jessami
+IN,India,India,795142,Ukhrul,Manipur,17,Ukhrul,279,Nil,,25.1196,94.3642,4,ukhrul
+IN,India,India,795144,Phadang,Manipur,17,Ukhrul,279,Nil,,25.1679,94.2891,3,phadang
+IN,India,India,795144,Thiwa,Manipur,17,Ukhrul,279,Nil,,25.1679,94.2891,3,thiwa
+IN,India,India,795144,Kachai,Manipur,17,Ukhrul,279,Somdal,,25.1679,94.2891,3,kachai
+IN,India,India,795144,Huime,Manipur,17,Ukhrul,279,Nil,,25.1679,94.2891,3,huime
+IN,India,India,795144,Somdal,Manipur,17,Ukhrul,279,Nil,,25.1679,94.2891,4,somdal
+IN,India,India,795145,Litan,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,litan
+IN,India,India,795145,Maku,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,maku
+IN,India,India,795145,Chadong,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,chadong
+IN,India,India,795145,Grihang,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,grihang
+IN,India,India,795145,Aishi,Manipur,17,Ukhrul,279,Litan,,24.8379,94.3266,3,aishi
+IN,India,India,795145,Leiting,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,leiting
+IN,India,India,795145,Chassad,Manipur,17,Ukhrul,279,Nil,,24.7978,94.5099,4,chassad
+IN,India,India,795145,Yaingangpokpi,Manipur,17,Ukhrul,279,Litan,,25.0203,94.434,4,yaingangpokpi
+IN,India,India,795145,Phungyar,Manipur,17,Ukhrul,279,Nil,,24.8076,94.3508,4,phungyar
+IN,India,India,795145,Semol,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,semol
+IN,India,India,795145,Maokot,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,maokot
+IN,India,India,795145,Sanakeithel,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,sanakeithel
+IN,India,India,795145,Sorde,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,sorde
+IN,India,India,795145,Shangsak,Manipur,17,Ukhrul,279,Litan,,24.8379,94.3266,3,shangsak
+IN,India,India,795145,Thawai,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,thawai
+IN,India,India,795145,Lungphu,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,lungphu
+IN,India,India,795145,Siyamongjang,Manipur,17,Ukhrul,279,Litan,,24.8379,94.3266,3,siyamongjang
+IN,India,India,795145,L Tangkhul,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,l-tangkhul
+IN,India,India,795145,Lambui,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,lambui
+IN,India,India,795145,Kongpat Khunou,Manipur,17,Ukhrul,279,Nil,,24.8379,94.3266,3,kongpat-khunou
+IN,India,India,795101,Semol,Manipur,17,Chandel,280,Thoubal,,24.2355,94.0932,1,semol
+IN,India,India,795101,Sugnu,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,sugnu
+IN,India,India,795101,Sehao,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,sehao
+IN,India,India,795101,Aigejang,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,aigejang
+IN,India,India,795101,Zoupi,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,zoupi
+IN,India,India,795102,Phiran Machet,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,phiran-machet
+IN,India,India,795102,Monbi,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,monbi
+IN,India,India,795102,Khubung Khullen,Manipur,17,Chandel,280,Chakpikarong,,24.2355,94.0932,1,khubung-khullen
+IN,India,India,795102,Khengjoi,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,khengjoi
+IN,India,India,795102,Gobok,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,gobok
+IN,India,India,795102,Anal Khullen,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,anal-khullen
+IN,India,India,795102,Toupokpi,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,toupokpi
+IN,India,India,795102,Thorchom,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,thorchom
+IN,India,India,795102,Sajik Tampak,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,sajik-tampak
+IN,India,India,795102,Chakpikarong,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,1,chakpikarong
+IN,India,India,795127,Mittong,Manipur,17,Chandel,280,Nil,,24.3299,94.0038,3,mittong
+IN,India,India,795127,Chandel,Manipur,17,Chandel,280,Nil,,24.3299,94.0038,4,chandel
+IN,India,India,795127,Larong,Manipur,17,Chandel,280,Nil,,24.3299,94.0038,3,larong
+IN,India,India,795127,Liwasarai,Manipur,17,Chandel,280,Chandel,,24.3299,94.0038,3,liwasarai
+IN,India,India,795127,Duthang,Manipur,17,Chandel,280,Nil,,24.3299,94.0038,3,duthang
+IN,India,India,795131,T-minou,Manipur,17,Chandel,280,Nil,,24.3182,94.224,3,t-minou
+IN,India,India,795131,Gamphajal,Manipur,17,Chandel,280,Nil,,24.3182,94.224,3,gamphajal
+IN,India,India,795131,Yangoulen,Manipur,17,Chandel,280,Nil,,24.3182,94.224,3,yangoulen
+IN,India,India,795131,T- Bongmun,Manipur,17,Chandel,280,Nil,,24.3182,94.224,3,t-bongmun
+IN,India,India,795131,Khudengthabi,Manipur,17,Chandel,280,Nil,,24.3182,94.224,3,khudengthabi
+IN,India,India,795131,New Somtal,Manipur,17,Chandel,280,Nil,,24.3182,94.224,3,new-somtal
+IN,India,India,795131,Maojam,Manipur,17,Chandel,280,Nil,,24.3182,94.224,3,maojam
+IN,India,India,795131,Tengnoupal,Manipur,17,Chandel,280,Nil,,24.3855,94.1472,4,tengnoupal
+IN,India,India,795131,Moreh,Manipur,17,Chandel,280,Nil,,24.2508,94.3007,4,moreh
+IN,India,India,795135,Khudei Khullen,Manipur,17,Chandel,280,Pallel,,24.398,94.0603,3,khudei-khullen
+IN,India,India,795135,Khangbarol,Manipur,17,Chandel,280,Pallel,,24.398,94.0603,3,khangbarol
+IN,India,India,795135,Pallel,Manipur,17,Chandel,280,Nil,,24.2355,94.0932,4,pallel
+IN,India,India,795135,Laiching Tangsang,Manipur,17,Chandel,280,Pallel,,24.398,94.0603,3,laiching-tangsang
+IN,India,India,795135,Chatong,Manipur,17,Chandel,280,Pallel,,24.2416,94.0672,4,chatong
+IN,India,India,795101,Julbalching,Manipur,17,Kakching,711,Sugnu,,24.9629,94.0251,1,julbalching
+IN,India,India,795101,Khongnangpheisabi,Manipur,17,Kakching,711,Sugnu,,24.9629,94.0251,1,khongnangpheisabi
+IN,India,India,795103,Kakching Khunou,Manipur,17,Kakching,711,Kakching,,24.4047,93.8998,4,kakching-khunou
+IN,India,India,795103,Kakching Lamkhai,Manipur,17,Kakching,711,Kakching,,24.4779,93.9396,3,kakching-lamkhai
+IN,India,India,795103,Hiyanglam,Manipur,17,Kakching,711,Kakching,,24.4779,93.9396,3,hiyanglam
+IN,India,India,795103,Langmeidong,Manipur,17,Kakching,711,Kakching,,24.4779,93.9396,3,langmeidong
+IN,India,India,795122,Kheljang,Manipur,17,Kangpokpi,712,Kalapahar,,25.13,93.9562,3,kheljang
+IN,India,India,795129,Henbung,Manipur,17,Kangpokpi,712,Kangpokpi,,25.1964,93.9334,3,henbung
+IN,India,India,795131,Khenjoi,Manipur,17,Tengnoupal,716,Moreh,,24.3182,94.224,3,khenjoi
+IN,India,India,795131,Molcham,Manipur,17,Tengnoupal,716,Moreh,,24.3182,94.224,3,molcham
+IN,India,India,795131,Bongjang,Manipur,17,Tengnoupal,716,Tengnoupal,,24.3182,94.224,3,bongjang
+IN,India,India,795131,Changpol,Manipur,17,Tengnoupal,716,Moreh,,24.3182,94.224,3,changpol
+IN,India,India,795116,Ngamphabung,Manipur,17,Jaribam,,Jiribam,,24.6188,93.3374,3,ngamphabung
+IN,India,India,795116,Lalkhan,Manipur,17,Jaribam,,Jiribam,,24.6188,93.3374,3,lalkhan

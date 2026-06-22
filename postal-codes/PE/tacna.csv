@@ -1,0 +1,803 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+PE,Peru,Perú,23000,Asociacion Valle 2000,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.1162,-70.2609,3,asociacion-valle-2000
+PE,Peru,Perú,23000,Calana Cercado,Tacna,23,Tacna,2301,Calana,230103,-17.9316,-70.1816,3,calana-cercado
+PE,Peru,Perú,23000,Cercado,Tacna,23,Tacna,2301,Calana,230103,-17.9228,-70.1847,3,cercado
+PE,Peru,Perú,23000,Concordia (Ni),Tacna,23,Tacna,2301,Tacna,230101,-18.2979,-70.3568,3,concordia-ni
+PE,Peru,Perú,23000,Copare Ii (Nuevo Copare),Tacna,23,Tacna,2301,Tacna,230101,-18.1347,-70.3785,3,copare-ii-nuevo-copare
+PE,Peru,Perú,23000,Cruz Divina,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9879,-70.2597,3,cruz-divina
+PE,Peru,Perú,23000,Defensa Patria,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.1465,-70.2639,3,defensa-patria
+PE,Peru,Perú,23000,El Triunfo,Tacna,23,Tacna,2301,Calana,230103,-17.9689,-70.186,3,el-triunfo
+PE,Peru,Perú,23000,Flor de Primavera,Tacna,23,Tacna,2301,Tacna,230101,-18.2699,-70.3491,3,flor-de-primavera
+PE,Peru,Perú,23000,Frontera del Sur,Tacna,23,Tacna,2301,Tacna,230101,-18.265,-70.3838,3,frontera-del-sur
+PE,Peru,Perú,23000,San Valentin,Tacna,23,Tacna,2301,Tacna,230101,-18.2891,-70.3538,3,san-valentin
+PE,Peru,Perú,23000,Frontera los Palos,Tacna,23,Tacna,2301,Tacna,230101,-18.2871,-70.4403,3,frontera-los-palos
+PE,Peru,Perú,23000,Granjeros Santa Rosa,Tacna,23,Tacna,2301,Tacna,230101,-18.3201,-70.3769,3,granjeros-santa-rosa
+PE,Peru,Perú,23000,La Concordia,Tacna,23,Tacna,2301,Tacna,230101,-18.301,-70.3828,3,la-concordia
+PE,Peru,Perú,23000,Los Milagros,Tacna,23,Tacna,2301,Calana,230103,-17.9501,-70.2157,3,los-milagros
+PE,Peru,Perú,23000,Los Milagros II,Tacna,23,Tacna,2301,Calana,230103,-17.9339,-70.1962,3,los-milagros-ii
+PE,Peru,Perú,23000,Nueva Santa Rita,Tacna,23,Tacna,2301,Pocollay,230108,-17.9912,-70.2016,3,nueva-santa-rita
+PE,Peru,Perú,23000,Nueva Tarata,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9648,-70.2664,3,nueva-tarata
+PE,Peru,Perú,23000,Residentes de Ilave,Tacna,23,Tacna,2301,Tacna,230101,-18.2804,-70.4267,3,residentes-de-ilave
+PE,Peru,Perú,23000,San Juan Bosco,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9818,-70.2503,3,san-juan-bosco
+PE,Peru,Perú,23000,San Pedro y San Pablo,Tacna,23,Tacna,2301,Tacna,230101,-18.2354,-70.5269,3,san-pedro-y-san-pablo
+PE,Peru,Perú,23000,San Pedro,Tacna,23,Tacna,2301,Tacna,230101,-18.2732,-70.471,3,san-pedro
+PE,Peru,Perú,23000,San Cristobal,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9785,-70.2489,3,san-cristobal
+PE,Peru,Perú,23000,Delta,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.1494,-70.2903,3,delta
+PE,Peru,Perú,23000,Alto Pata,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9729,-70.2571,3,alto-pata
+PE,Peru,Perú,23000,Alto California,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.983,-70.2594,3,alto-california
+PE,Peru,Perú,23000,Zona 2,Tacna,23,Tacna,2301,Tacna,230101,-18.2369,-70.3552,3,zona-2
+PE,Peru,Perú,23000,Virgen de Copacabana II,Tacna,23,Tacna,2301,Calana,230103,-17.9572,-70.2094,3,virgen-de-copacabana-ii
+PE,Peru,Perú,23000,Villa Pacifico,Tacna,23,Tacna,2301,Calana,230103,-17.9834,-70.1951,3,villa-pacifico
+PE,Peru,Perú,23000,Villa los Palos,Tacna,23,Tacna,2301,Tacna,230101,-18.29,-70.4554,3,villa-los-palos
+PE,Peru,Perú,23000,Vilauta,Tacna,23,Tacna,2301,Calana,230103,-17.9475,-70.2032,3,vilauta
+PE,Peru,Perú,23000,Sol Andino,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9676,-70.2472,3,sol-andino
+PE,Peru,Perú,23000,San Antonio de Hospicio,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.1709,-70.3244,3,san-antonio-de-hospicio
+PE,Peru,Perú,23000,Halcon,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0802,-70.2333,3,halcon
+PE,Peru,Perú,23000,El Trebol,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9657,-70.254,3,el-trebol
+PE,Peru,Perú,23000,Discapacitados de las Fuerzas Armadas,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.1185,-70.2784,3,discapacitados-de-las-fuerzas-armadas
+PE,Peru,Perú,23000,Pedregal,Tacna,23,Tacna,2301,Tacna,230101,-18.2753,-70.3348,3,pedregal
+PE,Peru,Perú,23000,El Molino,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9629,-70.2539,3,el-molino
+PE,Peru,Perú,23000,10 de Mayo,Tacna,23,Tacna,2301,Tacna,230101,-18.2275,-70.5131,3,10-de-mayo
+PE,Peru,Perú,23000,Alto Santa Cruz,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9898,-70.2595,3,alto-santa-cruz
+PE,Peru,Perú,23000,Alto Tacna,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9687,-70.2556,3,alto-tacna
+PE,Peru,Perú,23000,Arunta,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0472,-70.2257,3,arunta
+PE,Peru,Perú,23000,Asape,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0797,-70.2037,3,asape
+PE,Peru,Perú,23000,Asentamiento 3 (28 de Agosto),Tacna,23,Tacna,2301,Tacna,230101,-18.1828,-70.4282,3,asentamiento-3-28-de-agosto
+PE,Peru,Perú,23000,Los Olivos,Tacna,23,Tacna,2301,Tacna,230101,-18.2067,-70.5139,4,los-olivos
+PE,Peru,Perú,23000,Hospicio,Tacna,23,Tacna,2301,Tacna,230101,-18.2,-70.35,4,hospicio
+PE,Peru,Perú,23000,Las Lagunas,Tacna,23,Tacna,2301,Tacna,230101,-18.2754,-70.4046,4,las-lagunas
+PE,Peru,Perú,23000,Los Palos,Tacna,23,Tacna,2301,Tacna,230101,-18.29,-70.4339,4,los-palos
+PE,Peru,Perú,23000,Santa Rosa,Tacna,23,Tacna,2301,Tacna,230101,-18.3325,-70.3939,4,santa-rosa
+PE,Peru,Perú,23000,Heroes del Alto de la Alianza,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9848,-70.255,3,heroes-del-alto-de-la-alianza
+PE,Peru,Perú,23000,Cerro Blanco,Tacna,23,Tacna,2301,Calana,230103,-17.9837,-70.1916,4,cerro-blanco
+PE,Peru,Perú,23000,La Esperanza 2,Tacna,23,Tacna,2301,Tacna,230101,-18.1995,-70.5014,3,la-esperanza-2
+PE,Peru,Perú,23000,La Esperanza 1,Tacna,23,Tacna,2301,Tacna,230101,-18.2069,-70.4951,3,la-esperanza-1
+PE,Peru,Perú,23000,Rancho Grande,Tacna,23,Tacna,2301,Tacna,230101,-18.2589,-70.4934,4,rancho-grande
+PE,Peru,Perú,23000,Pueblo Libre,Tacna,23,Tacna,2301,Tacna,230101,-18.3025,-70.4344,4,pueblo-libre
+PE,Peru,Perú,23000,Santa Rita,Tacna,23,Tacna,2301,Calana,230103,-17.9833,-70.2,4,santa-rita
+PE,Peru,Perú,23000,Calana,Tacna,23,Tacna,2301,Calana,230103,-17.9417,-70.1869,4,calana
+PE,Peru,Perú,23000,Piedra Blanca,Tacna,23,Tacna,2301,Calana,230103,-17.9722,-70.1892,4,piedra-blanca
+PE,Peru,Perú,23000,Los Frutales de Viñani,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0763,-70.2154,3,los-frutales-de-vinani
+PE,Peru,Perú,23000,Caplina,Tacna,23,Tacna,2301,Calana,230103,-17.9583,-70.2209,4,caplina
+PE,Peru,Perú,23000,Pescadores Santa Rosa,Tacna,23,Tacna,2301,Tacna,230101,-18.3321,-70.3975,3,pescadores-santa-rosa
+PE,Peru,Perú,23000,Pecuaria Calana,Tacna,23,Tacna,2301,Calana,230103,-17.9483,-70.2101,3,pecuaria-calana
+PE,Peru,Perú,23000,Pampas de San Francisco,Tacna,23,Tacna,2301,Calana,230103,-17.9508,-70.1711,3,pampas-de-san-francisco
+PE,Peru,Perú,23000,Pachacutec,Tacna,23,Tacna,2301,Tacna,230101,-18.2606,-70.3861,3,pachacutec
+PE,Peru,Perú,23000,Nuevo Amanecer,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9641,-70.2523,3,nuevo-amanecer
+PE,Peru,Perú,23000,Cani Cani,Tacna,23,Tacna,2301,Calana,230103,-17.9493,-70.19,3,cani-cani
+PE,Peru,Perú,23000,Cenizales,Tacna,23,Tacna,2301,Tacna,230101,-18.3254,-70.3927,3,cenizales
+PE,Peru,Perú,23000,Casa Huerta Santa Rita,Tacna,23,Tacna,2301,Calana,230103,-17.9801,-70.1978,3,casa-huerta-santa-rita
+PE,Peru,Perú,23000,Virgen de Copacabana,Tacna,23,Tacna,2301,Calana,230103,-18.1197,-70.3106,3,virgen-de-copacabana
+PE,Peru,Perú,23000,Collasuyo,Tacna,23,Tacna,2301,Tacna,230101,-18.2248,-70.5345,3,collasuyo
+PE,Peru,Perú,23000,Promuge Agro,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.948,-70.2577,3,promuge-agro
+PE,Peru,Perú,23000,Peru Posible,Tacna,23,Tacna,2301,Tacna,230101,-18.2669,-70.4064,3,peru-posible
+PE,Peru,Perú,23000,La Curva,Tacna,23,Tacna,2301,Tacna,230101,-18.2242,-70.5369,3,la-curva
+PE,Peru,Perú,23000,Las Palmeras,Tacna,23,Tacna,2301,Tacna,230101,-18.2229,-70.5315,3,las-palmeras
+PE,Peru,Perú,23000,Asentamiento 4,Tacna,23,Tacna,2301,Tacna,230101,-18.1664,-70.4579,3,asentamiento-4
+PE,Peru,Perú,23000,Asentamiento 5 y 6,Tacna,23,Tacna,2301,Tacna,230101,-18.1704,-70.3964,3,asentamiento-5-y-6
+PE,Peru,Perú,23000,4 de Setiembre,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0672,-70.1877,3,4-de-setiembre
+PE,Peru,Perú,23000,San Jose,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.1197,-70.3106,3,san-jose
+PE,Peru,Perú,23000,Jorge Basadre,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9933,-70.2642,3,jorge-basadre
+PE,Peru,Perú,23000,Residentes de Quenuaru En Tacna,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9595,-70.2492,3,residentes-de-quenuaru-en-tacna
+PE,Peru,Perú,23000,Valle Viñani,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0938,-70.2786,3,valle-vinani
+PE,Peru,Perú,23000,Agromar Cerro Moreno,Tacna,23,Tacna,2301,Tacna,230101,-18.22,-70.5544,3,agromar-cerro-moreno
+PE,Peru,Perú,23000,Calana Izquierda,Tacna,23,Tacna,2301,Calana,230103,-17.9287,-70.1892,3,calana-izquierda
+PE,Peru,Perú,23000,Las Vegas,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.981,-70.2546,3,las-vegas
+PE,Peru,Perú,23000,Agro Curva del Pacifico,Tacna,23,Tacna,2301,Tacna,230101,-18.226,-70.5404,3,agro-curva-del-pacifico
+PE,Peru,Perú,23000,San Fernando,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9786,-70.2575,3,san-fernando
+PE,Peru,Perú,23000,Las Atenas,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9922,-70.2599,3,las-atenas
+PE,Peru,Perú,23000,Kulauta,Tacna,23,Tacna,2301,Tacna,230101,-18.2959,-70.4476,3,kulauta
+PE,Peru,Perú,23000,Agro Sol del Inca,Tacna,23,Tacna,2301,Tacna,230101,-18.2877,-70.3409,3,agro-sol-del-inca
+PE,Peru,Perú,23000,El Paraiso,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.959,-70.2563,3,el-paraiso
+PE,Peru,Perú,23000,18 de Mayo,Tacna,23,Tacna,2301,Tacna,230101,-18.2723,-70.4056,3,18-de-mayo
+PE,Peru,Perú,23000,Agroforinca,Tacna,23,Tacna,2301,Tacna,230101,-18.3041,-70.3481,3,agroforinca
+PE,Peru,Perú,23000,Almirante Miguel Grau,Tacna,23,Tacna,2301,Tacna,230101,-18.2147,-70.5625,3,almirante-miguel-grau
+PE,Peru,Perú,23000,Alto Calana,Tacna,23,Tacna,2301,Calana,230103,-17.9331,-70.1733,3,alto-calana
+PE,Peru,Perú,23000,Agro Bolognesi,Tacna,23,Tacna,2301,Tacna,230101,-18.3283,-70.3888,3,agro-bolognesi
+PE,Peru,Perú,23000,Huayna Roque,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9767,-70.2527,3,huayna-roque
+PE,Peru,Perú,23000,Asentamiento 60 (Hospicio),Tacna,23,Tacna,2301,Tacna,230101,-18.1994,-70.4199,3,asentamiento-60-hospicio
+PE,Peru,Perú,23000,Los Granados,Tacna,23,Tacna,2301,Tacna,230101,-18.2734,-70.3721,3,los-granados
+PE,Peru,Perú,23000,Jose Olaya,Tacna,23,Tacna,2301,Tacna,230101,-18.2829,-70.3421,3,jose-olaya
+PE,Peru,Perú,23000,Agricultores Arunta,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.1303,-70.2974,3,agricultores-arunta
+PE,Peru,Perú,23000,Virgen de Chapi,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-18.1197,-70.3106,3,virgen-de-chapi
+PE,Peru,Perú,23000,8 de Octubre,Tacna,23,Tacna,2301,Calana,230103,-17.9402,-70.2013,3,8-de-octubre
+PE,Peru,Perú,23000,Los Algarrobos,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0912,-70.234,3,los-algarrobos
+PE,Peru,Perú,23000,La Rinconada,Tacna,23,Tacna,2301,Calana,230103,-17.9315,-70.1846,3,la-rinconada
+PE,Peru,Perú,23000,La Trinchera,Tacna,23,Tacna,2301,Tacna,230101,-18.3037,-70.3923,3,la-trinchera
+PE,Peru,Perú,23001,Tacna,Tacna,23,Tacna,2301,Tacna,230101,-18.0146,-70.2536,4,tacna
+PE,Peru,Perú,23001,La Esperanza,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9964,-70.2531,4,la-esperanza
+PE,Peru,Perú,23001,Pocollay,Tacna,23,Tacna,2301,Pocollay,230108,-17.9917,-70.2133,4,pocollay
+PE,Peru,Perú,23002,La Esperanza,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9964,-70.2531,4,la-esperanza
+PE,Peru,Perú,23002,Pocollay,Tacna,23,Tacna,2301,Pocollay,230108,-17.9917,-70.2133,4,pocollay
+PE,Peru,Perú,23002,Ciudad Nueva,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9908,-70.2386,4,ciudad-nueva
+PE,Peru,Perú,23002,Vilauta,Tacna,23,Tacna,2301,Pocollay,230108,-17.9859,-70.2189,3,vilauta
+PE,Peru,Perú,23002,Heroes Alto Ciudad Nueva,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9727,-70.2463,3,heroes-alto-ciudad-nueva
+PE,Peru,Perú,23002,Señor Huanta,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9697,-70.2327,3,senor-huanta
+PE,Peru,Perú,23002,Las Colinas,Tacna,23,Tacna,2301,Pocollay,230108,-17.9775,-70.2142,3,las-colinas
+PE,Peru,Perú,23002,Santa Cruz de Choquechaca,Tacna,23,Tacna,2301,Ciudad Nueva,230104,-17.9744,-70.2396,3,santa-cruz-de-choquechaca
+PE,Peru,Perú,23002,Manco Capac,Tacna,23,Tacna,2301,Pocollay,230108,-17.9836,-70.2103,3,manco-capac
+PE,Peru,Perú,23003,Alto Pocollay,Tacna,23,Tacna,2301,Pocollay,230108,-17.991,-70.2161,3,alto-pocollay
+PE,Peru,Perú,23003,El Chastudal,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0606,-70.232,3,el-chastudal
+PE,Peru,Perú,23003,Tacna,Tacna,23,Tacna,2301,Tacna,230101,-18.0146,-70.2536,4,tacna
+PE,Peru,Perú,23003,Pocollay,Tacna,23,Tacna,2301,Pocollay,230108,-17.9917,-70.2133,4,pocollay
+PE,Peru,Perú,23003,Alfonso Ugarte,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0425,-70.245,4,alfonso-ugarte
+PE,Peru,Perú,23004,San Antonio,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0818,-70.2673,4,san-antonio
+PE,Peru,Perú,23004,Ciudad de Dios,Tacna,23,Tacna,2301,Tacna,230101,-18.0689,-70.2792,4,ciudad-de-dios
+PE,Peru,Perú,23004,Tacna,Tacna,23,Tacna,2301,Tacna,230101,-18.0146,-70.2536,4,tacna
+PE,Peru,Perú,23004,Pampa Colorada,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0773,-70.2439,3,pampa-colorada
+PE,Peru,Perú,23004,Alfonso Ugarte,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0425,-70.245,4,alfonso-ugarte
+PE,Peru,Perú,23006,Para Grande,Tacna,23,Tacna,2301,Tacna,230101,-18.0306,-70.2744,4,para-grande
+PE,Peru,Perú,23006,Alfonso Ugarte,Tacna,23,Tacna,2301,Coronel Gregorio Albarracin Lanchipa,230110,-18.0425,-70.245,4,alfonso-ugarte
+PE,Peru,Perú,23006,La Esperanza,Tacna,23,Tacna,2301,Alto De La Alianza,230102,-17.9964,-70.2531,4,la-esperanza
+PE,Peru,Perú,23006,Copare 1,Tacna,23,Tacna,2301,Tacna,230101,-18.0452,-70.2789,3,copare-1
+PE,Peru,Perú,23006,Magollo (Irrigacion Magollo),Tacna,23,Tacna,2301,Tacna,230101,-18.0769,-70.3135,3,magollo-irrigacion-magollo
+PE,Peru,Perú,23006,Tacna,Tacna,23,Tacna,2301,Tacna,230101,-18.0146,-70.2536,4,tacna
+PE,Peru,Perú,23041,Calana,Tacna,23,Tacna,2301,Calana,230103,-17.9417,-70.1869,4,calana
+PE,Peru,Perú,23500,Toquela,Tacna,23,Tacna,2301,Pachia,230106,-17.6447,-69.9386,4,toquela
+PE,Peru,Perú,23500,San Jose,Tacna,23,Tacna,2301,Pachia,230106,-17.906,-70.1612,3,san-jose
+PE,Peru,Perú,23500,Tocuco,Tacna,23,Tacna,2301,Pachia,230106,-17.8397,-70.1135,4,tocuco
+PE,Peru,Perú,23500,Bocatoma,Tacna,23,Tacna,2301,Pachia,230106,-17.9156,-70.0501,4,bocatoma
+PE,Peru,Perú,23500,Challata,Tacna,23,Tacna,2301,Pachia,230106,-17.8359,-70.1108,4,challata
+PE,Peru,Perú,23500,Caplina,Tacna,23,Tacna,2301,Pachia,230106,-17.6894,-69.9356,4,caplina
+PE,Peru,Perú,23500,Chachacomani,Tacna,23,Tacna,2301,Pachia,230106,-17.6831,-69.9119,4,chachacomani
+PE,Peru,Perú,23500,Challaviento,Tacna,23,Tacna,2301,Pachia,230106,-17.6472,-69.9461,4,challaviento
+PE,Peru,Perú,23500,Miculla,Tacna,23,Tacna,2301,Pachia,230106,-17.8836,-70.1376,4,miculla
+PE,Peru,Perú,23500,Pachia,Tacna,23,Tacna,2301,Pachia,230106,-17.8979,-70.155,4,pachia
+PE,Peru,Perú,23500,Saucini Sijipampa,Tacna,23,Tacna,2301,Pachia,230106,-17.9379,-70.078,3,saucini-sijipampa
+PE,Peru,Perú,23500,Chuguañani,Tacna,23,Tacna,2301,Pachia,230106,-17.639,-69.9264,3,chuguanani
+PE,Peru,Perú,23500,Anquipiña,Tacna,23,Tacna,2301,Pachia,230106,-17.6169,-69.8753,3,anquipina
+PE,Peru,Perú,23500,Higuerani,Tacna,23,Tacna,2301,Pachia,230106,-17.9418,-70.0705,3,higuerani
+PE,Peru,Perú,23500,Jose Huaycuyo,Tacna,23,Tacna,2301,Pachia,230106,-17.9077,-70.1583,3,jose-huaycuyo
+PE,Peru,Perú,23500,Liquiñani,Tacna,23,Tacna,2301,Pachia,230106,-17.6336,-69.9165,3,liquinani
+PE,Peru,Perú,23500,Hacienda,Tacna,23,Tacna,2301,Pachia,230106,-17.9506,-70.0754,3,hacienda
+PE,Peru,Perú,23500,Agua Milagros,Tacna,23,Tacna,2301,Pachia,230106,-17.9351,-70.0697,3,agua-milagros
+PE,Peru,Perú,23500,Calientes,Tacna,23,Tacna,2301,Pachia,230106,-17.8619,-70.1225,4,calientes
+PE,Peru,Perú,23500,Ancoma,Tacna,23,Tacna,2301,Pachia,230106,-17.6206,-69.9589,4,ancoma
+PE,Peru,Perú,23500,El Peligro,Tacna,23,Tacna,2301,Pachia,230106,-17.9174,-70.1673,4,el-peligro
+PE,Peru,Perú,23550,Causuri,Tacna,23,Tacna,2301,Palca,230107,-17.7661,-69.9425,4,causuri
+PE,Peru,Perú,23550,Hospicio,Tacna,23,Tacna,2301,Palca,230107,-17.5461,-69.6086,4,hospicio
+PE,Peru,Perú,23550,Humapalca,Tacna,23,Tacna,2301,Palca,230107,-17.4757,-69.536,4,humapalca
+PE,Peru,Perú,23550,Churuyo,Tacna,23,Tacna,2301,Palca,230107,-17.5972,-69.6289,4,churuyo
+PE,Peru,Perú,23550,Chontacollo,Tacna,23,Tacna,2301,Palca,230107,-17.5247,-69.6122,4,chontacollo
+PE,Peru,Perú,23550,Siquine,Tacna,23,Tacna,2301,Palca,230107,-17.4381,-69.55,4,siquine
+PE,Peru,Perú,23550,Rosaspata,Tacna,23,Tacna,2301,Palca,230107,-17.5475,-69.5867,4,rosaspata
+PE,Peru,Perú,23550,Tulapiña,Tacna,23,Tacna,2301,Palca,230107,-17.5831,-69.7169,4,tulapina
+PE,Peru,Perú,23550,Ancomarca,Tacna,23,Tacna,2301,Palca,230107,-17.5289,-69.5811,4,ancomarca
+PE,Peru,Perú,23550,Añapaca,Tacna,23,Tacna,2301,Palca,230107,-17.4432,-69.566,4,anapaca
+PE,Peru,Perú,23550,Sencca,Tacna,23,Tacna,2301,Palca,230107,-17.4871,-69.5723,4,sencca
+PE,Peru,Perú,23550,Ataspaca,Tacna,23,Tacna,2301,Palca,230107,-17.7258,-69.9208,4,ataspaca
+PE,Peru,Perú,23550,El Ingenio,Tacna,23,Tacna,2301,Palca,230107,-17.7686,-69.9378,4,el-ingenio
+PE,Peru,Perú,23550,Charipujo,Tacna,23,Tacna,2301,Palca,230107,-17.9239,-69.8853,4,charipujo
+PE,Peru,Perú,23550,Huanune Chico,Tacna,23,Tacna,2301,Palca,230107,-17.7997,-69.9897,4,huanune-chico
+PE,Peru,Perú,23550,Calaparque,Tacna,23,Tacna,2301,Palca,230107,-17.5672,-69.7086,4,calaparque
+PE,Peru,Perú,23550,Tolapata,Tacna,23,Tacna,2301,Palca,230107,-17.4549,-69.5641,4,tolapata
+PE,Peru,Perú,23550,Cuanavira,Tacna,23,Tacna,2301,Palca,230107,-17.873,-69.8895,3,cuanavira
+PE,Peru,Perú,23550,Vico Grande,Tacna,23,Tacna,2301,Palca,230107,-17.5632,-69.5986,3,vico-grande
+PE,Peru,Perú,23550,Coripiña,Tacna,23,Tacna,2301,Palca,230107,-17.4082,-69.5622,3,coripina
+PE,Peru,Perú,23550,Huayllani,Tacna,23,Tacna,2301,Palca,230107,-17.4984,-69.62,4,huayllani
+PE,Peru,Perú,23550,Condor Pico,Tacna,23,Tacna,2301,Palca,230107,-17.4811,-69.7149,3,condor-pico
+PE,Peru,Perú,23550,Puluni,Tacna,23,Tacna,2301,Palca,230107,-17.8199,-69.9788,3,puluni
+PE,Peru,Perú,23550,Lipichkaka,Tacna,23,Tacna,2301,Palca,230107,-17.4701,-69.4769,3,lipichkaka
+PE,Peru,Perú,23550,Laitani,Tacna,23,Tacna,2301,Palca,230107,-17.4279,-69.5781,3,laitani
+PE,Peru,Perú,23550,Jurimani,Tacna,23,Tacna,2301,Palca,230107,-17.5236,-69.8267,3,jurimani
+PE,Peru,Perú,23550,Jamache,Tacna,23,Tacna,2301,Palca,230107,-17.4673,-69.5018,3,jamache
+PE,Peru,Perú,23550,Jajnuni,Tacna,23,Tacna,2301,Palca,230107,-17.4265,-69.5511,3,jajnuni
+PE,Peru,Perú,23550,Iscamuco,Tacna,23,Tacna,2301,Palca,230107,-17.5861,-69.6802,3,iscamuco
+PE,Peru,Perú,23550,Pokata,Tacna,23,Tacna,2301,Palca,230107,-17.528,-69.7489,3,pokata
+PE,Peru,Perú,23550,Parco Viluyo,Tacna,23,Tacna,2301,Palca,230107,-17.5358,-69.5491,3,parco-viluyo
+PE,Peru,Perú,23550,Hunalso,Tacna,23,Tacna,2301,Palca,230107,-17.5865,-69.6545,3,hunalso
+PE,Peru,Perú,23550,Pacopacune,Tacna,23,Tacna,2301,Palca,230107,-17.491,-69.7033,3,pacopacune
+PE,Peru,Perú,23550,Huaylluta,Tacna,23,Tacna,2301,Palca,230107,-17.5785,-69.7093,3,huaylluta
+PE,Peru,Perú,23550,Moruyo,Tacna,23,Tacna,2301,Palca,230107,-17.8363,-69.9483,3,moruyo
+PE,Peru,Perú,23550,Mocomucone,Tacna,23,Tacna,2301,Palca,230107,-17.551,-69.6302,3,mocomucone
+PE,Peru,Perú,23550,Huaripujo,Tacna,23,Tacna,2301,Palca,230107,-17.5568,-69.6176,3,huaripujo
+PE,Peru,Perú,23550,Labacollo,Tacna,23,Tacna,2301,Palca,230107,-17.4469,-69.5464,3,labacollo
+PE,Peru,Perú,23550,Keywire,Tacna,23,Tacna,2301,Palca,230107,-17.4321,-69.5245,3,keywire
+PE,Peru,Perú,23550,Huanune Grande,Tacna,23,Tacna,2301,Palca,230107,-17.7957,-69.9788,3,huanune-grande
+PE,Peru,Perú,23550,Guañacahua,Tacna,23,Tacna,2301,Palca,230107,-17.8308,-69.914,3,guanacahua
+PE,Peru,Perú,23550,El Ayro Viejo,Tacna,23,Tacna,2301,Palca,230107,-17.6527,-69.6755,3,el-ayro-viejo
+PE,Peru,Perú,23550,Cullco,Tacna,23,Tacna,2301,Palca,230107,-17.5539,-69.7298,3,cullco
+PE,Peru,Perú,23550,Incane,Tacna,23,Tacna,2301,Palca,230107,-17.5261,-69.7754,3,incane
+PE,Peru,Perú,23550,Queuñuta,Tacna,23,Tacna,2301,Palca,230107,-17.6042,-69.7338,3,queunuta
+PE,Peru,Perú,23550,Quiuñaputo,Tacna,23,Tacna,2301,Palca,230107,-17.4362,-69.5802,3,quiunaputo
+PE,Peru,Perú,23550,Quiuñavichinka,Tacna,23,Tacna,2301,Palca,230107,-17.5683,-69.6691,3,quiunavichinka
+PE,Peru,Perú,23550,Rio Kaño,Tacna,23,Tacna,2301,Palca,230107,-17.415,-69.5306,3,rio-kano
+PE,Peru,Perú,23550,Sirinani,Tacna,23,Tacna,2301,Palca,230107,-17.5186,-69.7999,3,sirinani
+PE,Peru,Perú,23550,Challavilque,Tacna,23,Tacna,2301,Palca,230107,-17.4404,-69.5098,3,challavilque
+PE,Peru,Perú,23550,Sorecollo,Tacna,23,Tacna,2301,Palca,230107,-17.4673,-69.5565,3,sorecollo
+PE,Peru,Perú,23550,Calacalani,Tacna,23,Tacna,2301,Palca,230107,-17.5969,-69.7117,3,calacalani
+PE,Peru,Perú,23550,Campamento Azufrera,Tacna,23,Tacna,2301,Palca,230107,-17.4993,-69.733,3,campamento-azufrera
+PE,Peru,Perú,23550,Challahuata,Tacna,23,Tacna,2301,Palca,230107,-17.461,-69.4761,3,challahuata
+PE,Peru,Perú,23550,Cayllapampa,Tacna,23,Tacna,2301,Palca,230107,-17.4613,-69.4949,3,cayllapampa
+PE,Peru,Perú,23550,Caranaza,Tacna,23,Tacna,2301,Palca,230107,-17.4471,-69.4928,3,caranaza
+PE,Peru,Perú,23550,Campamento el Agro (Bocatoma),Tacna,23,Tacna,2301,Palca,230107,-17.5882,-69.6281,3,campamento-el-agro-bocatoma
+PE,Peru,Perú,23550,Taluta,Tacna,23,Tacna,2301,Palca,230107,-17.5168,-69.7667,3,taluta
+PE,Peru,Perú,23550,Chapoco,Tacna,23,Tacna,2301,Palca,230107,-17.544,-69.7343,3,chapoco
+PE,Peru,Perú,23550,Chapi Ii,Tacna,23,Tacna,2301,Palca,230107,-17.5795,-69.6154,3,chapi-ii
+PE,Peru,Perú,23550,Chapi 1,Tacna,23,Tacna,2301,Palca,230107,-17.5701,-69.6056,3,chapi-1
+PE,Peru,Perú,23550,Canteria,Tacna,23,Tacna,2301,Palca,230107,-17.5794,-69.7013,3,canteria
+PE,Peru,Perú,23550,Charaqui 2,Tacna,23,Tacna,2301,Palca,230107,-17.5681,-69.692,3,charaqui-2
+PE,Peru,Perú,23550,Achuyo (Jachahuyo),Tacna,23,Tacna,2301,Palca,230107,-17.4385,-69.5625,3,achuyo-jachahuyo
+PE,Peru,Perú,23550,Uncalluta,Tacna,23,Tacna,2301,Palca,230107,-17.5364,-69.7392,4,uncalluta
+PE,Peru,Perú,23550,Taruja,Tacna,23,Tacna,2301,Palca,230107,-17.4521,-69.4923,4,taruja
+PE,Peru,Perú,23550,Vilavilani,Tacna,23,Tacna,2301,Palca,230107,-17.8497,-69.9042,4,vilavilani
+PE,Peru,Perú,23550,Trampani,Tacna,23,Tacna,2301,Palca,230107,-17.4183,-69.5508,3,trampani
+PE,Peru,Perú,23550,Cruz Pujo,Tacna,23,Tacna,2301,Palca,230107,-17.5786,-69.6956,4,cruz-pujo
+PE,Peru,Perú,23550,Chillihuani,Tacna,23,Tacna,2301,Palca,230107,-17.4953,-69.5805,4,chillihuani
+PE,Peru,Perú,23550,Cairire,Tacna,23,Tacna,2301,Palca,230107,-17.4917,-69.6134,4,cairire
+PE,Peru,Perú,23550,Peña Colorada,Tacna,23,Tacna,2301,Palca,230107,-17.8478,-69.9111,4,pena-colorada
+PE,Peru,Perú,23550,Alto Peru,Tacna,23,Tacna,2301,Palca,230107,-17.5744,-69.6789,4,alto-peru
+PE,Peru,Perú,23550,Umalania,Tacna,23,Tacna,2301,Palca,230107,-17.5739,-69.6604,3,umalania
+PE,Peru,Perú,23550,Copaujio 2,Tacna,23,Tacna,2301,Palca,230107,-17.5713,-69.7245,3,copaujio-2
+PE,Peru,Perú,23550,Charaqui,Tacna,23,Tacna,2301,Palca,230107,-17.5712,-69.6989,3,charaqui
+PE,Peru,Perú,23550,Chinchillani,Tacna,23,Tacna,2301,Palca,230107,-17.5863,-69.7343,3,chinchillani
+PE,Peru,Perú,23550,Chullpapalca,Tacna,23,Tacna,2301,Palca,230107,-17.7588,-69.9162,3,chullpapalca
+PE,Peru,Perú,23550,Yungane,Tacna,23,Tacna,2301,Palca,230107,-17.8102,-69.9316,3,yungane
+PE,Peru,Perú,23550,Vilacollo,Tacna,23,Tacna,2301,Palca,230107,-17.4276,-69.5258,3,vilacollo
+PE,Peru,Perú,23550,Churaqui,Tacna,23,Tacna,2301,Palca,230107,-17.5648,-69.6192,3,churaqui
+PE,Peru,Perú,23550,Uncalluta 2,Tacna,23,Tacna,2301,Palca,230107,-17.498,-69.7722,3,uncalluta-2
+PE,Peru,Perú,23550,Colpita,Tacna,23,Tacna,2301,Palca,230107,-17.4216,-69.5379,3,colpita
+PE,Peru,Perú,23550,Copapujio 1,Tacna,23,Tacna,2301,Palca,230107,-17.5597,-69.7246,3,copapujio-1
+PE,Peru,Perú,23550,Copapuquio,Tacna,23,Tacna,2301,Palca,230107,-17.7857,-69.8776,3,copapuquio
+PE,Peru,Perú,23550,Tripartito,Tacna,23,Tacna,2301,Palca,230107,-17.5073,-69.4753,3,tripartito
+PE,Peru,Perú,23550,Ticuta,Tacna,23,Tacna,2301,Palca,230107,-17.5528,-69.5306,4,ticuta
+PE,Peru,Perú,23550,Palca,Tacna,23,Tacna,2301,Palca,230107,-17.7753,-69.9603,4,palca
+PE,Peru,Perú,23550,Ancochaullane,Tacna,23,Tacna,2301,Palca,230107,-17.5681,-69.7514,4,ancochaullane
+PE,Peru,Perú,23600,Poquera la Banda,Tacna,23,Tacna,2301,Inclan,230105,-17.8067,-70.4934,3,poquera-la-banda
+PE,Peru,Perú,23600,Tomasiri,Tacna,23,Tacna,2301,Inclan,230105,-17.842,-70.5162,4,tomasiri
+PE,Peru,Perú,23600,Poquera,Tacna,23,Tacna,2301,Inclan,230105,-17.8184,-70.5133,4,poquera
+PE,Peru,Perú,23600,Coruca,Tacna,23,Tacna,2301,Inclan,230105,-17.6377,-70.4596,4,coruca
+PE,Peru,Perú,23600,Sambalay Grande,Tacna,23,Tacna,2301,Inclan,230105,-17.6004,-70.4406,4,sambalay-grande
+PE,Peru,Perú,23600,Yarascay,Tacna,23,Tacna,2301,Inclan,230105,-17.6631,-70.4769,4,yarascay
+PE,Peru,Perú,23600,Palanca,Tacna,23,Tacna,2301,Inclan,230105,-17.5881,-70.4393,3,palanca
+PE,Peru,Perú,23600,Villa Esperanza,Tacna,23,Tacna,2301,Inclan,230105,-17.8651,-70.4554,3,villa-esperanza
+PE,Peru,Perú,23600,Quebrada Seca,Tacna,23,Tacna,2301,Inclan,230105,-17.7463,-70.4014,3,quebrada-seca
+PE,Peru,Perú,23600,Proter Sama,Tacna,23,Tacna,2301,Inclan,230105,-17.7755,-70.4989,3,proter-sama
+PE,Peru,Perú,23600,Nuevo Tomasiri,Tacna,23,Tacna,2301,Inclan,230105,-17.8454,-70.5142,3,nuevo-tomasiri
+PE,Peru,Perú,23600,Nueva Esperanza,Tacna,23,Tacna,2301,Inclan,230105,-17.8564,-70.4683,3,nueva-esperanza
+PE,Peru,Perú,23600,Puquio,Tacna,23,Tacna,2301,Inclan,230105,-17.778,-70.3904,4,puquio
+PE,Peru,Perú,23600,Villa Agraria,Tacna,23,Tacna,2301,Inclan,230105,-17.738,-70.4685,3,villa-agraria
+PE,Peru,Perú,23600,Lluco,Tacna,23,Tacna,2301,Inclan,230105,-17.7076,-70.4723,3,lluco
+PE,Peru,Perú,23600,Agua de Milagro,Tacna,23,Tacna,2301,Inclan,230105,-17.6282,-70.4506,3,agua-de-milagro
+PE,Peru,Perú,23600,Fundo Canaan,Tacna,23,Tacna,2301,Inclan,230105,-17.8213,-70.3824,3,fundo-canaan
+PE,Peru,Perú,23600,Fundo Belen,Tacna,23,Tacna,2301,Inclan,230105,-17.6843,-70.4717,3,fundo-belen
+PE,Peru,Perú,23600,Brisas del Titicaca,Tacna,23,Tacna,2301,Inclan,230105,-17.7671,-70.5055,3,brisas-del-titicaca
+PE,Peru,Perú,23600,Argandoñas,Tacna,23,Tacna,2301,Inclan,230105,-17.6779,-70.4761,3,argandonas
+PE,Peru,Perú,23600,La Banda de Chile,Tacna,23,Tacna,2301,Inclan,230105,-17.7909,-70.4922,3,la-banda-de-chile
+PE,Peru,Perú,23600,El Pedregal,Tacna,23,Tacna,2301,Inclan,230105,-17.6577,-70.4649,3,el-pedregal
+PE,Peru,Perú,23600,Yarahuay,Tacna,23,Tacna,2301,Inclan,230105,-17.758,-70.4762,4,yarahuay
+PE,Peru,Perú,23600,Sama Grande,Tacna,23,Tacna,2301,Inclan,230105,-17.7925,-70.4947,4,sama-grande
+PE,Peru,Perú,23650,La Siquina,Tacna,23,Tacna,2301,Sama,230109,-18.1481,-70.6678,4,la-siquina
+PE,Peru,Perú,23650,Cuilona,Tacna,23,Tacna,2301,Sama,230109,-17.9104,-70.586,4,cuilona
+PE,Peru,Perú,23650,Matamula,Tacna,23,Tacna,2301,Sama,230109,-17.8654,-70.5477,4,matamula
+PE,Peru,Perú,23650,Yalata,Tacna,23,Tacna,2301,Sama,230109,-17.9567,-70.6186,4,yalata
+PE,Peru,Perú,23650,Buena Vista,Tacna,23,Tacna,2301,Sama,230109,-17.8461,-70.5457,4,buena-vista
+PE,Peru,Perú,23650,Boca del Rio,Tacna,23,Tacna,2301,Sama,230109,-18.155,-70.6827,4,boca-del-rio
+PE,Peru,Perú,23650,Las Yaras,Tacna,23,Tacna,2301,Sama,230109,-17.8642,-70.5628,4,las-yaras
+PE,Peru,Perú,23650,La Morena,Tacna,23,Tacna,2301,Sama,230109,-17.9862,-70.6425,3,la-morena
+PE,Peru,Perú,23650,Vila Vila,Tacna,23,Tacna,2301,Sama,230109,-18.1153,-70.7269,4,vila-vila
+PE,Peru,Perú,23650,La Vituña,Tacna,23,Tacna,2301,Sama,230109,-18.0758,-70.6703,4,la-vituna
+PE,Peru,Perú,23650,Llostay,Tacna,23,Tacna,2301,Sama,230109,-18.1791,-70.6449,4,llostay
+PE,Peru,Perú,23650,La Banda,Tacna,23,Tacna,2301,Sama,230109,-17.8764,-70.5486,4,la-banda
+PE,Peru,Perú,23650,El Golpe,Tacna,23,Tacna,2301,Sama,230109,-17.9457,-70.6127,4,el-golpe
+PE,Peru,Perú,23650,El Huayco,Tacna,23,Tacna,2301,Sama,230109,-17.9742,-70.6356,4,el-huayco
+PE,Peru,Perú,23650,Angola,Tacna,23,Tacna,2301,Sama,230109,-18.1067,-70.6675,4,angola
+PE,Peru,Perú,23650,Baños,Tacna,23,Tacna,2301,Sama,230109,-18.1619,-70.6756,4,banos
+PE,Peru,Perú,23650,Los Pinos,Tacna,23,Tacna,2301,Sama,230109,-17.8428,-70.5158,4,los-pinos
+PE,Peru,Perú,23650,Tomoyo Beach,Tacna,23,Tacna,2301,Sama,230109,-18.1349,-70.7064,3,tomoyo-beach
+PE,Peru,Perú,23650,Pampa Molino,Tacna,23,Tacna,2301,Sama,230109,-18.1198,-70.6588,3,pampa-molino
+PE,Peru,Perú,23650,Pozo Redondo,Tacna,23,Tacna,2301,Sama,230109,-18.0798,-70.7571,3,pozo-redondo
+PE,Peru,Perú,23650,Pampa la Julia,Tacna,23,Tacna,2301,Sama,230109,-17.8452,-70.5506,3,pampa-la-julia
+PE,Peru,Perú,23650,Canepa,Tacna,23,Tacna,2301,Sama,230109,-18.1002,-70.7349,3,canepa
+PE,Peru,Perú,23650,Alto Tomasiri,Tacna,23,Tacna,2301,Sama,230109,-17.8353,-70.5332,3,alto-tomasiri
+PE,Peru,Perú,23650,Amopaya,Tacna,23,Tacna,2301,Sama,230109,-18.0063,-70.6471,3,amopaya
+PE,Peru,Perú,23650,El Cocal,Tacna,23,Tacna,2301,Sama,230109,-18.1472,-70.6686,3,el-cocal
+PE,Peru,Perú,23650,Vila Luz,Tacna,23,Tacna,2301,Sama,230109,-18.1156,-70.712,3,vila-luz
+PE,Peru,Perú,23650,Morro Sama (Puerto Grau),Tacna,23,Tacna,2301,Sama,230109,-17.994,-70.882,3,morro-sama-puerto-grau
+PE,Peru,Perú,23650,Agua Dulce,Tacna,23,Tacna,2301,Sama,230109,-18.0535,-70.6442,3,agua-dulce
+PE,Peru,Perú,23400,Quilahuani,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3178,-70.2581,4,quilahuani
+PE,Peru,Perú,23400,Pallata,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3047,-70.242,4,pallata
+PE,Peru,Perú,23400,Aricota,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3292,-70.2418,4,aricota
+PE,Peru,Perú,23400,Cotalaca,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3413,-70.2356,3,cotalaca
+PE,Peru,Perú,23400,Morani,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3454,-70.2449,3,morani
+PE,Peru,Perú,23400,Inchupaya,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3216,-70.2296,3,inchupaya
+PE,Peru,Perú,23400,Buenavista,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3309,-70.2215,3,buenavista
+PE,Peru,Perú,23400,Chimapujo,Tacna,23,Candarave,2302,Quilahuani,230206,-17.303,-70.2388,3,chimapujo
+PE,Peru,Perú,23400,Quitarine,Tacna,23,Candarave,2302,Quilahuani,230206,-17.307,-70.2368,3,quitarine
+PE,Peru,Perú,23400,Orcomaña,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3239,-70.2544,3,orcomana
+PE,Peru,Perú,23400,Marjani,Tacna,23,Candarave,2302,Quilahuani,230206,-17.3018,-70.2228,3,marjani
+PE,Peru,Perú,23420,Waskis,Tacna,23,Candarave,2302,Candarave,230201,-17.279,-70.2181,3,waskis
+PE,Peru,Perú,23420,Confital,Tacna,23,Candarave,2302,Candarave,230201,-16.882,-70.2533,3,confital
+PE,Peru,Perú,23420,Pavillune,Tacna,23,Candarave,2302,Candarave,230201,-16.9076,-70.2615,3,pavillune
+PE,Peru,Perú,23420,Paycoya,Tacna,23,Candarave,2302,Candarave,230201,-17.1116,-70.1346,3,paycoya
+PE,Peru,Perú,23420,Pichacani,Tacna,23,Candarave,2302,Candarave,230201,-17.2059,-70.1635,3,pichacani
+PE,Peru,Perú,23420,Yucamani,Tacna,23,Candarave,2302,Candarave,230201,-17.2594,-70.2338,3,yucamani
+PE,Peru,Perú,23420,Japocamaña,Tacna,23,Candarave,2302,Candarave,230201,-16.8721,-70.3025,3,japocamana
+PE,Peru,Perú,23420,Orquire,Tacna,23,Candarave,2302,Candarave,230201,-17.1164,-70.2386,3,orquire
+PE,Peru,Perú,23420,Pampa Mazocruz,Tacna,23,Candarave,2302,Candarave,230201,-16.889,-70.3352,3,pampa-mazocruz
+PE,Peru,Perú,23420,Pampa Mirador,Tacna,23,Candarave,2302,Candarave,230201,-17.2468,-70.1781,3,pampa-mirador
+PE,Peru,Perú,23420,Pantara,Tacna,23,Candarave,2302,Candarave,230201,-17.0814,-70.128,3,pantara
+PE,Peru,Perú,23420,San Malicani,Tacna,23,Candarave,2302,Candarave,230201,-17.1999,-70.1595,3,san-malicani
+PE,Peru,Perú,23420,Surajincho,Tacna,23,Candarave,2302,Candarave,230201,-16.9069,-70.3366,3,surajincho
+PE,Peru,Perú,23420,Ancocache,Tacna,23,Candarave,2302,Candarave,230201,-16.8082,-70.2658,3,ancocache
+PE,Peru,Perú,23420,Chaullapalca,Tacna,23,Candarave,2302,Candarave,230201,-16.8567,-70.3349,3,chaullapalca
+PE,Peru,Perú,23420,Wilancara,Tacna,23,Candarave,2302,Candarave,230201,-16.9076,-70.2845,3,wilancara
+PE,Peru,Perú,23420,Pioco,Tacna,23,Candarave,2302,Candarave,230201,-17.0757,-70.1033,3,pioco
+PE,Peru,Perú,23420,Pujojalzo,Tacna,23,Candarave,2302,Candarave,230201,-16.8529,-70.2276,3,pujojalzo
+PE,Peru,Perú,23420,Quebrada Grande,Tacna,23,Candarave,2302,Candarave,230201,-17.1556,-70.1677,3,quebrada-grande
+PE,Peru,Perú,23420,Yungayungani,Tacna,23,Candarave,2302,Candarave,230201,-17.2791,-70.2328,3,yungayungani
+PE,Peru,Perú,23420,Wiscalljuro,Tacna,23,Candarave,2302,Candarave,230201,-16.8335,-70.2468,3,wiscalljuro
+PE,Peru,Perú,23420,Quisquire,Tacna,23,Candarave,2302,Candarave,230201,-17.1283,-70.1518,3,quisquire
+PE,Peru,Perú,23420,Acallpune,Tacna,23,Candarave,2302,Candarave,230201,-16.8487,-70.4055,3,acallpune
+PE,Peru,Perú,23420,Patani,Tacna,23,Candarave,2302,Candarave,230201,-16.863,-70.33,3,patani
+PE,Peru,Perú,23420,Achacahua,Tacna,23,Candarave,2302,Candarave,230201,-16.8809,-70.3668,3,achacahua
+PE,Peru,Perú,23420,Aricirca,Tacna,23,Candarave,2302,Candarave,230201,-16.8373,-70.2322,3,aricirca
+PE,Peru,Perú,23420,Cacahuarani,Tacna,23,Candarave,2302,Candarave,230201,-17.2723,-70.2008,3,cacahuarani
+PE,Peru,Perú,23420,Chiuchine,Tacna,23,Candarave,2302,Candarave,230201,-16.7944,-70.2961,3,chiuchine
+PE,Peru,Perú,23420,Collapuma,Tacna,23,Candarave,2302,Candarave,230201,-16.8695,-70.4277,3,collapuma
+PE,Peru,Perú,23420,Copaoojo,Tacna,23,Candarave,2302,Candarave,230201,-16.8666,-70.2756,3,copaoojo
+PE,Peru,Perú,23420,Cotapatja,Tacna,23,Candarave,2302,Candarave,230201,-16.8838,-70.4295,3,cotapatja
+PE,Peru,Perú,23420,Livicalani,Tacna,23,Candarave,2302,Candarave,230201,-16.8384,-70.3201,3,livicalani
+PE,Peru,Perú,23420,Llapap`ujru,Tacna,23,Candarave,2302,Candarave,230201,-16.8182,-70.2763,3,llapap-ujru
+PE,Peru,Perú,23420,Pampahuta,Tacna,23,Candarave,2302,Candarave,230201,-17.208,-70.2475,3,pampahuta
+PE,Peru,Perú,23420,Rio Mazocruz,Tacna,23,Candarave,2302,Candarave,230201,-16.8937,-70.3209,3,rio-mazocruz
+PE,Peru,Perú,23420,Sorapatja,Tacna,23,Candarave,2302,Candarave,230201,-16.8797,-70.3133,3,sorapatja
+PE,Peru,Perú,23420,Suches II,Tacna,23,Candarave,2302,Candarave,230201,-16.9489,-70.397,3,suches-ii
+PE,Peru,Perú,23420,Tatamaya,Tacna,23,Candarave,2302,Candarave,230201,-16.9313,-70.3499,3,tatamaya
+PE,Peru,Perú,23420,Totorami,Tacna,23,Candarave,2302,Candarave,230201,-17.0978,-70.2476,3,totorami
+PE,Peru,Perú,23420,Viluta,Tacna,23,Candarave,2302,Candarave,230201,-17.0552,-70.098,3,viluta
+PE,Peru,Perú,23420,Chinchillani,Tacna,23,Candarave,2302,Candarave,230201,-17.2193,-70.1307,3,chinchillani
+PE,Peru,Perú,23420,Virincalani,Tacna,23,Candarave,2302,Candarave,230201,-16.8465,-70.3365,3,virincalani
+PE,Peru,Perú,23420,Cocachi,Tacna,23,Candarave,2302,Candarave,230201,-17.2828,-70.1743,3,cocachi
+PE,Peru,Perú,23420,Vizcachas,Tacna,23,Candarave,2302,Candarave,230201,-16.8652,-70.2502,3,vizcachas
+PE,Peru,Perú,23420,Wajañani,Tacna,23,Candarave,2302,Candarave,230201,-16.9318,-70.3242,3,wajanani
+PE,Peru,Perú,23420,Cotapampa,Tacna,23,Candarave,2302,Candarave,230201,-17.2459,-70.1597,3,cotapampa
+PE,Peru,Perú,23420,Cuito Circa,Tacna,23,Candarave,2302,Candarave,230201,-16.8548,-70.2326,3,cuito-circa
+PE,Peru,Perú,23420,Estronepampa,Tacna,23,Candarave,2302,Candarave,230201,-17.2315,-70.2784,3,estronepampa
+PE,Peru,Perú,23420,Gentilar,Tacna,23,Candarave,2302,Candarave,230201,-16.8479,-70.2651,3,gentilar
+PE,Peru,Perú,23420,Hiro Huichinca,Tacna,23,Candarave,2302,Candarave,230201,-16.8419,-70.2669,3,hiro-huichinca
+PE,Peru,Perú,23420,Huaytire,Tacna,23,Candarave,2302,Candarave,230201,-16.8851,-70.3762,3,huaytire
+PE,Peru,Perú,23420,Humiraya,Tacna,23,Candarave,2302,Candarave,230201,-17.1922,-70.2395,3,humiraya
+PE,Peru,Perú,23420,Iropucro,Tacna,23,Candarave,2302,Candarave,230201,-16.8498,-70.2565,3,iropucro
+PE,Peru,Perú,23420,Jachahoco,Tacna,23,Candarave,2302,Candarave,230201,-17.1756,-70.2659,3,jachahoco
+PE,Peru,Perú,23420,Japopunco (Bellavista),Tacna,23,Candarave,2302,Candarave,230201,-16.8415,-70.2416,3,japopunco-bellavista
+PE,Peru,Perú,23420,Jirata,Tacna,23,Candarave,2302,Candarave,230201,-17.3237,-70.2196,3,jirata
+PE,Peru,Perú,23420,Kalachullpane,Tacna,23,Candarave,2302,Candarave,230201,-17.2528,-70.1618,3,kalachullpane
+PE,Peru,Perú,23420,Kota,Tacna,23,Candarave,2302,Candarave,230201,-17.2017,-70.1303,3,kota
+PE,Peru,Perú,23420,Lichini,Tacna,23,Candarave,2302,Candarave,230201,-17.274,-70.1599,3,lichini
+PE,Peru,Perú,23420,Lipechaque,Tacna,23,Candarave,2302,Candarave,230201,-16.8311,-70.2573,3,lipechaque
+PE,Peru,Perú,23420,Montine,Tacna,23,Candarave,2302,Candarave,230201,-17.1996,-70.2632,3,montine
+PE,Peru,Perú,23420,Ninanacata,Tacna,23,Candarave,2302,Candarave,230201,-16.8924,-70.3735,3,ninanacata
+PE,Peru,Perú,23420,Yungani,Tacna,23,Candarave,2302,Candarave,230201,-16.8469,-70.231,3,yungani
+PE,Peru,Perú,23420,Anco Huichincha,Tacna,23,Candarave,2302,Candarave,230201,-16.8826,-70.3559,3,anco-huichincha
+PE,Peru,Perú,23420,San Luis,Tacna,23,Candarave,2302,Candarave,230201,-17.2258,-70.2517,3,san-luis
+PE,Peru,Perú,23420,Bajabini,Tacna,23,Candarave,2302,Candarave,230201,-16.8049,-70.2929,3,bajabini
+PE,Peru,Perú,23420,Cala Procesion,Tacna,23,Candarave,2302,Candarave,230201,-16.8922,-70.2554,3,cala-procesion
+PE,Peru,Perú,23420,Chilcane,Tacna,23,Candarave,2302,Candarave,230201,-17.2355,-70.2583,3,chilcane
+PE,Peru,Perú,23420,Cancave,Tacna,23,Candarave,2302,Candarave,230201,-17.0193,-70.1596,3,cancave
+PE,Peru,Perú,23420,Centro Vallecito,Tacna,23,Candarave,2302,Candarave,230201,-17.2172,-70.1677,3,centro-vallecito
+PE,Peru,Perú,23420,Challagipiña,Tacna,23,Candarave,2302,Candarave,230201,-17.1832,-70.2655,3,challagipina
+PE,Peru,Perú,23420,Contorcirca,Tacna,23,Candarave,2302,Candarave,230201,-16.8977,-70.3489,3,contorcirca
+PE,Peru,Perú,23420,Patapatani,Tacna,23,Candarave,2302,Candarave,230201,-17.2355,-70.2589,4,patapatani
+PE,Peru,Perú,23420,Totora,Tacna,23,Candarave,2302,Candarave,230201,-17.2803,-70.194,4,totora
+PE,Peru,Perú,23420,Patjata,Tacna,23,Candarave,2302,Candarave,230201,-16.8676,-70.303,4,patjata
+PE,Peru,Perú,23420,Vallecito,Tacna,23,Candarave,2302,Candarave,230201,-17.0406,-70.2683,4,vallecito
+PE,Peru,Perú,23420,Chaullapujo,Tacna,23,Candarave,2302,Candarave,230201,-16.8697,-70.3895,4,chaullapujo
+PE,Peru,Perú,23420,Suches,Tacna,23,Candarave,2302,Candarave,230201,-16.9403,-70.3888,4,suches
+PE,Peru,Perú,23420,Laurahuani,Tacna,23,Candarave,2302,Candarave,230201,-17.2964,-70.2332,4,laurahuani
+PE,Peru,Perú,23420,San Pedro,Tacna,23,Candarave,2302,Candarave,230201,-17.2525,-70.2466,4,san-pedro
+PE,Peru,Perú,23420,Challepiña,Tacna,23,Candarave,2302,Candarave,230201,-17.1317,-70.1667,4,challepina
+PE,Peru,Perú,23420,Ancoma,Tacna,23,Candarave,2302,Candarave,230201,-17.1954,-70.2663,4,ancoma
+PE,Peru,Perú,23420,Chillihuani,Tacna,23,Candarave,2302,Candarave,230201,-17.1992,-70.2305,4,chillihuani
+PE,Peru,Perú,23420,Esperanza,Tacna,23,Candarave,2302,Candarave,230201,-17.2774,-70.2135,4,esperanza
+PE,Peru,Perú,23420,Humapalca,Tacna,23,Candarave,2302,Candarave,230201,-16.9365,-70.3001,4,humapalca
+PE,Peru,Perú,23420,San Roque,Tacna,23,Candarave,2302,Candarave,230201,-17.2295,-70.1673,3,san-roque
+PE,Peru,Perú,23420,San Lorenzo,Tacna,23,Candarave,2302,Candarave,230201,-17.15,-70.2633,3,san-lorenzo
+PE,Peru,Perú,23420,Talaca,Tacna,23,Candarave,2302,Candarave,230201,-17.2879,-70.2436,4,talaca
+PE,Peru,Perú,23420,Santa Cruz,Tacna,23,Candarave,2302,Candarave,230201,-17.215,-70.1961,3,santa-cruz
+PE,Peru,Perú,23420,Huayllani,Tacna,23,Candarave,2302,Candarave,230201,-16.8245,-70.2273,4,huayllani
+PE,Peru,Perú,23420,Ancoaque,Tacna,23,Candarave,2302,Candarave,230201,-17.098,-70.1463,3,ancoaque
+PE,Peru,Perú,23420,Chancacollo,Tacna,23,Candarave,2302,Candarave,230201,-16.7995,-70.2729,3,chancacollo
+PE,Peru,Perú,23420,Japopunco II,Tacna,23,Candarave,2302,Candarave,230201,-16.8297,-70.2365,3,japopunco-ii
+PE,Peru,Perú,23420,Pallata,Tacna,23,Candarave,2302,Candarave,230201,-17.2687,-70.2088,4,pallata
+PE,Peru,Perú,23420,Coline,Tacna,23,Candarave,2302,Candarave,230201,-17.1677,-70.1585,4,coline
+PE,Peru,Perú,23420,Candarave,Tacna,23,Candarave,2302,Candarave,230201,-17.2678,-70.2494,4,candarave
+PE,Peru,Perú,23420,La Victoria,Tacna,23,Candarave,2302,Candarave,230201,-17.2612,-70.1867,4,la-victoria
+PE,Peru,Perú,23420,Mucinmoco,Tacna,23,Candarave,2302,Candarave,230201,-16.8307,-70.2529,3,mucinmoco
+PE,Peru,Perú,23420,Mullini,Tacna,23,Candarave,2302,Candarave,230201,-17.2995,-70.1892,4,mullini
+PE,Peru,Perú,23420,Cuñchani,Tacna,23,Candarave,2302,Candarave,230201,-17.0679,-70.1128,3,cunchani
+PE,Peru,Perú,23420,Calleraco,Tacna,23,Candarave,2302,Candarave,230201,-17.2662,-70.179,4,calleraco
+PE,Peru,Perú,23420,Caracara,Tacna,23,Candarave,2302,Candarave,230201,-17.03,-70.1843,4,caracara
+PE,Peru,Perú,23420,Callapa,Tacna,23,Candarave,2302,Candarave,230201,-16.8329,-70.3162,4,callapa
+PE,Peru,Perú,23440,Capilluni,Tacna,23,Candarave,2302,Cairani,230202,-17.1115,-70.3383,3,capilluni
+PE,Peru,Perú,23440,Ancocala,Tacna,23,Candarave,2302,Cairani,230202,-17.3109,-70.3864,4,ancocala
+PE,Peru,Perú,23440,Copapujo,Tacna,23,Candarave,2302,Cairani,230202,-17.0985,-70.3492,4,copapujo
+PE,Peru,Perú,23440,Calacala,Tacna,23,Candarave,2302,Cairani,230202,-17.2601,-70.3446,4,calacala
+PE,Peru,Perú,23440,Cayco,Tacna,23,Candarave,2302,Cairani,230202,-17.1274,-70.3083,3,cayco
+PE,Peru,Perú,23440,Circa,Tacna,23,Candarave,2302,Cairani,230202,-17.1485,-70.34,3,circa
+PE,Peru,Perú,23440,Conchayo,Tacna,23,Candarave,2302,Cairani,230202,-17.1054,-70.3561,3,conchayo
+PE,Peru,Perú,23440,Pocucho,Tacna,23,Candarave,2302,Cairani,230202,-17.1582,-70.3512,3,pocucho
+PE,Peru,Perú,23440,Taucani,Tacna,23,Candarave,2302,Cairani,230202,-17.2658,-70.3592,3,taucani
+PE,Peru,Perú,23440,Coranchaya,Tacna,23,Candarave,2302,Cairani,230202,-17.1431,-70.3594,3,coranchaya
+PE,Peru,Perú,23440,Corosoco,Tacna,23,Candarave,2302,Cairani,230202,-17.1578,-70.3299,3,corosoco
+PE,Peru,Perú,23440,Huayllani (Turunturo),Tacna,23,Candarave,2302,Cairani,230202,-17.1588,-70.342,3,huayllani-turunturo
+PE,Peru,Perú,23440,Lucachi,Tacna,23,Candarave,2302,Cairani,230202,-17.1404,-70.3298,3,lucachi
+PE,Peru,Perú,23440,Cupine,Tacna,23,Candarave,2302,Cairani,230202,-17.2763,-70.3636,4,cupine
+PE,Peru,Perú,23440,Cairani,Tacna,23,Candarave,2302,Cairani,230202,-17.2858,-70.3636,4,cairani
+PE,Peru,Perú,23440,Yarabamba,Tacna,23,Candarave,2302,Cairani,230202,-17.2553,-70.3438,4,yarabamba
+PE,Peru,Perú,23440,Chuluncayani,Tacna,23,Candarave,2302,Cairani,230202,-17.0797,-70.3432,3,chuluncayani
+PE,Peru,Perú,23440,Azufre,Tacna,23,Candarave,2302,Cairani,230202,-17.1004,-70.3023,3,azufre
+PE,Peru,Perú,23460,Huaycara,Tacna,23,Candarave,2302,Huanaura,230205,-17.2963,-70.3029,3,huaycara
+PE,Peru,Perú,23460,Pacollo,Tacna,23,Candarave,2302,Huanaura,230205,-17.249,-70.2916,3,pacollo
+PE,Peru,Perú,23460,Mollevaya,Tacna,23,Candarave,2302,Huanaura,230205,-17.2803,-70.2936,3,mollevaya
+PE,Peru,Perú,23460,Tres Cruces,Tacna,23,Candarave,2302,Huanaura,230205,-17.3625,-70.3832,3,tres-cruces
+PE,Peru,Perú,23460,Kivicancave,Tacna,23,Candarave,2302,Huanaura,230205,-17.3344,-70.3536,3,kivicancave
+PE,Peru,Perú,23460,Tambillo,Tacna,23,Candarave,2302,Huanaura,230205,-17.3583,-70.3813,3,tambillo
+PE,Peru,Perú,23460,Machac Marca,Tacna,23,Candarave,2302,Huanaura,230205,-17.3515,-70.3657,3,machac-marca
+PE,Peru,Perú,23460,Huanuara,Tacna,23,Candarave,2302,Huanaura,230205,-17.3139,-70.3219,4,huanuara
+PE,Peru,Perú,23460,Pavimoco,Tacna,23,Candarave,2302,Huanaura,230205,-17.3083,-70.3122,3,pavimoco
+PE,Peru,Perú,23460,Vallecito,Tacna,23,Candarave,2302,Huanaura,230205,-17.2365,-70.2974,4,vallecito
+PE,Peru,Perú,23480,Totorales,Tacna,23,Candarave,2302,Curibaya,230204,-17.406,-70.3665,3,totorales
+PE,Peru,Perú,23480,Laguna Aricota,Tacna,23,Candarave,2302,Curibaya,230204,-17.3501,-70.3156,3,laguna-aricota
+PE,Peru,Perú,23480,Padre Cucho,Tacna,23,Candarave,2302,Curibaya,230204,-17.3978,-70.356,3,padre-cucho
+PE,Peru,Perú,23480,Anexo Paquiña,Tacna,23,Candarave,2302,Curibaya,230204,-17.4105,-70.39,3,anexo-paquina
+PE,Peru,Perú,23480,Curibaya,Tacna,23,Candarave,2302,Curibaya,230204,-17.3825,-70.3347,4,curibaya
+PE,Peru,Perú,23480,Curibaya Pampa,Tacna,23,Candarave,2302,Curibaya,230204,-17.3917,-70.3511,4,curibaya-pampa
+PE,Peru,Perú,23850,Cotapampa,Tacna,23,Candarave,2302,Camilaca,230203,-17.2723,-70.3758,3,cotapampa
+PE,Peru,Perú,23850,Huatamolle,Tacna,23,Candarave,2302,Camilaca,230203,-17.2884,-70.4129,3,huatamolle
+PE,Peru,Perú,23850,Murapujo,Tacna,23,Candarave,2302,Camilaca,230203,-17.3037,-70.415,3,murapujo
+PE,Peru,Perú,23850,Ñecapujo,Tacna,23,Candarave,2302,Camilaca,230203,-17.2898,-70.4001,3,necapujo
+PE,Peru,Perú,23850,Chiutani,Tacna,23,Candarave,2302,Camilaca,230203,-17.2263,-70.3652,3,chiutani
+PE,Peru,Perú,23850,Colpoco,Tacna,23,Candarave,2302,Camilaca,230203,-17.0429,-70.4113,3,colpoco
+PE,Peru,Perú,23850,Canllasirca,Tacna,23,Candarave,2302,Camilaca,230203,-17.2396,-70.3813,3,canllasirca
+PE,Peru,Perú,23850,Coraguaya,Tacna,23,Candarave,2302,Camilaca,230203,-17.2759,-70.4258,3,coraguaya
+PE,Peru,Perú,23850,Cevecane,Tacna,23,Candarave,2302,Camilaca,230203,-17.2398,-70.4367,3,cevecane
+PE,Peru,Perú,23850,Azangallane,Tacna,23,Candarave,2302,Camilaca,230203,-17.0845,-70.4031,4,azangallane
+PE,Peru,Perú,23850,Chaullani,Tacna,23,Candarave,2302,Camilaca,230203,-17.1325,-70.391,3,chaullani
+PE,Peru,Perú,23850,Cotaña,Tacna,23,Candarave,2302,Camilaca,230203,-17.222,-70.359,3,cotana
+PE,Peru,Perú,23850,Alto Camilaca,Tacna,23,Candarave,2302,Camilaca,230203,-17.2569,-70.3966,3,alto-camilaca
+PE,Peru,Perú,23850,Chillani,Tacna,23,Candarave,2302,Camilaca,230203,-17.2629,-70.3644,3,chillani
+PE,Peru,Perú,23850,Quilasina,Tacna,23,Candarave,2302,Camilaca,230203,-17.2592,-70.3827,3,quilasina
+PE,Peru,Perú,23850,Pacajone,Tacna,23,Candarave,2302,Camilaca,230203,-17.2794,-70.3873,3,pacajone
+PE,Peru,Perú,23850,Varaca,Tacna,23,Candarave,2302,Camilaca,230203,-17.0761,-70.4113,3,varaca
+PE,Peru,Perú,23850,Pampoco,Tacna,23,Candarave,2302,Camilaca,230203,-17.259,-70.3744,3,pampoco
+PE,Peru,Perú,23850,Tacalaya,Tacna,23,Candarave,2302,Camilaca,230203,-17.1174,-70.3894,4,tacalaya
+PE,Peru,Perú,23850,Tasamuco,Tacna,23,Candarave,2302,Camilaca,230203,-17.2611,-70.3722,3,tasamuco
+PE,Peru,Perú,23850,Japu,Tacna,23,Candarave,2302,Camilaca,230203,-17.1753,-70.4264,4,japu
+PE,Peru,Perú,23850,Cambaya,Tacna,23,Candarave,2302,Camilaca,230203,-17.3239,-70.4333,4,cambaya
+PE,Peru,Perú,23850,Lacuyo,Tacna,23,Candarave,2302,Camilaca,230203,-17.1411,-70.383,4,lacuyo
+PE,Peru,Perú,23850,Camilaca,Tacna,23,Candarave,2302,Camilaca,230203,-17.2681,-70.3781,4,camilaca
+PE,Peru,Perú,23850,Charaque,Tacna,23,Candarave,2302,Camilaca,230203,-17.1667,-70.4667,4,charaque
+PE,Peru,Perú,23850,Cularjahuira,Tacna,23,Candarave,2302,Camilaca,230203,-17.1398,-70.4025,3,cularjahuira
+PE,Peru,Perú,23850,Toma Patja,Tacna,23,Candarave,2302,Camilaca,230203,-17.2163,-70.3843,3,toma-patja
+PE,Peru,Perú,23850,Quilcata,Tacna,23,Candarave,2302,Camilaca,230203,-17.1246,-70.3777,4,quilcata
+PE,Peru,Perú,23850,Tasacagua,Tacna,23,Candarave,2302,Camilaca,230203,-17.2046,-70.382,3,tasacagua
+PE,Peru,Perú,23850,Vilavila,Tacna,23,Candarave,2302,Camilaca,230203,-17.2351,-70.3665,3,vilavila
+PE,Peru,Perú,23850,Yaitipiñe,Tacna,23,Candarave,2302,Camilaca,230203,-17.0559,-70.4168,3,yaitipine
+PE,Peru,Perú,23850,Vilalaca,Tacna,23,Candarave,2302,Camilaca,230203,-17.2916,-70.4206,3,vilalaca
+PE,Peru,Perú,23850,Tomacucho,Tacna,23,Candarave,2302,Camilaca,230203,-17.2464,-70.3819,3,tomacucho
+PE,Peru,Perú,23850,Toma,Tacna,23,Candarave,2302,Camilaca,230203,-17.0424,-70.4149,3,toma
+PE,Peru,Perú,23850,Talajahuira,Tacna,23,Candarave,2302,Camilaca,230203,-17.2489,-70.3597,3,talajahuira
+PE,Peru,Perú,23850,Pantara,Tacna,23,Candarave,2302,Camilaca,230203,-17.1587,-70.4499,3,pantara
+PE,Peru,Perú,23850,Pampuyo,Tacna,23,Candarave,2302,Camilaca,230203,-17.1181,-70.3895,3,pampuyo
+PE,Peru,Perú,23850,Nueva Camilaca,Tacna,23,Candarave,2302,Camilaca,230203,-17.2728,-70.3899,3,nueva-camilaca
+PE,Peru,Perú,23850,Mirabaya,Tacna,23,Candarave,2302,Camilaca,230203,-17.3063,-70.4153,3,mirabaya
+PE,Peru,Perú,23850,Iñucaya,Tacna,23,Candarave,2302,Camilaca,230203,-17.0102,-70.396,3,inucaya
+PE,Peru,Perú,23850,Rio Grande,Tacna,23,Candarave,2302,Camilaca,230203,-17.2592,-70.4335,3,rio-grande
+PE,Peru,Perú,23850,Yarama,Tacna,23,Candarave,2302,Camilaca,230203,-17.2574,-70.3868,3,yarama
+PE,Peru,Perú,23700,Punta Picata,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8587,-71.0746,3,punta-picata
+PE,Peru,Perú,23700,Pampa Ite Sur,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.914,-70.9389,3,pampa-ite-sur
+PE,Peru,Perú,23700,Pampa Baja,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8856,-70.9773,3,pampa-baja
+PE,Peru,Perú,23700,Pampa Alta,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8596,-70.9773,3,pampa-alta
+PE,Peru,Perú,23700,Villa Militar el Eden,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.7101,-70.8438,3,villa-militar-el-eden
+PE,Peru,Perú,23700,Tanapache,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8233,-71.066,3,tanapache
+PE,Peru,Perú,23700,Sombrerito,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8509,-71.0277,3,sombrerito
+PE,Peru,Perú,23700,Alto Camiara,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.6536,-70.8999,3,alto-camiara
+PE,Peru,Perú,23700,Minas de Puite,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.6945,-70.9179,3,minas-de-puite
+PE,Peru,Perú,23700,Cuy,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8159,-71.1318,3,cuy
+PE,Peru,Perú,23700,Talamolle,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.85,-71.0167,4,talamolle
+PE,Peru,Perú,23700,San Isidro,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8768,-70.9903,4,san-isidro
+PE,Peru,Perú,23700,Quebrada Honda,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.7457,-70.8884,4,quebrada-honda
+PE,Peru,Perú,23700,Las Vilcas,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8581,-70.9693,4,las-vilcas
+PE,Peru,Perú,23700,Ite,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.8619,-70.9647,4,ite
+PE,Peru,Perú,23700,Alfarillo,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.85,-71.0333,4,alfarillo
+PE,Peru,Perú,23700,Puente Camiara,Tacna,23,Jorge Basadre,2303,Ite,230303,-17.6846,-70.8426,3,puente-camiara
+PE,Peru,Perú,23750,Leche Gloria,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6878,-70.8412,4,leche-gloria
+PE,Peru,Perú,23750,La Aurora,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6757,-70.8273,4,la-aurora
+PE,Peru,Perú,23750,Grande,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6163,-70.7725,4,grande
+PE,Peru,Perú,23750,Piñapa,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6344,-70.7964,4,pinapa
+PE,Peru,Perú,23750,Cocotea,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6411,-70.7978,4,cocotea
+PE,Peru,Perú,23750,Barrial,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5482,-70.7278,4,barrial
+PE,Peru,Perú,23750,Conostoco,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6076,-70.7515,4,conostoco
+PE,Peru,Perú,23750,Chipe,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5622,-70.6647,4,chipe
+PE,Peru,Perú,23750,Sagollo,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5677,-70.6989,4,sagollo
+PE,Peru,Perú,23750,Alto Camiara,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6478,-70.9004,3,alto-camiara
+PE,Peru,Perú,23750,Trapiche,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5501,-70.6663,3,trapiche
+PE,Peru,Perú,23750,Santallana,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6566,-70.8189,3,santallana
+PE,Peru,Perú,23750,Sitana,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6614,-70.8261,4,sitana
+PE,Peru,Perú,23750,Matagroso,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.4804,-70.7104,3,matagroso
+PE,Peru,Perú,23750,Las Americas,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6505,-70.8822,3,las-americas
+PE,Peru,Perú,23750,Gentilar,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.4685,-70.7054,3,gentilar
+PE,Peru,Perú,23750,Cinto Central,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5019,-70.7127,3,cinto-central
+PE,Peru,Perú,23750,Pedregal,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5662,-70.6752,3,pedregal
+PE,Peru,Perú,23750,La Banda,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5734,-70.6862,4,la-banda
+PE,Peru,Perú,23750,Puente Camiara,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6822,-70.8414,3,puente-camiara
+PE,Peru,Perú,23750,Pampa Sitana,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5913,-70.8827,3,pampa-sitana
+PE,Peru,Perú,23750,Machorrita,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5929,-70.7409,3,machorrita
+PE,Peru,Perú,23750,Chironta,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5191,-70.7264,4,chironta
+PE,Peru,Perú,23750,Chaucalana,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6126,-70.7361,4,chaucalana
+PE,Peru,Perú,23750,Cuaylata,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.595,-70.7196,4,cuaylata
+PE,Peru,Perú,23750,Mal Paso,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.5844,-70.716,4,mal-paso
+PE,Peru,Perú,23750,Locumba,Tacna,23,Jorge Basadre,2303,Locumba,230301,-17.6133,-70.7628,4,locumba
+PE,Peru,Perú,23800,Ticapampa,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4769,-70.5387,4,ticapampa
+PE,Peru,Perú,23800,Chejaya,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3905,-70.4927,4,chejaya
+PE,Peru,Perú,23800,Haciendita,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4624,-70.5425,4,haciendita
+PE,Peru,Perú,23800,Pachana,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4449,-70.5263,4,pachana
+PE,Peru,Perú,23800,Margarata,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.5444,-70.634,4,margarata
+PE,Peru,Perú,23800,Cacapunco,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4574,-70.5384,4,cacapunco
+PE,Peru,Perú,23800,Chulibaya,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4467,-70.4759,4,chulibaya
+PE,Peru,Perú,23800,Poquera,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4375,-70.4264,4,poquera
+PE,Peru,Perú,23800,Chintari,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4246,-70.4014,4,chintari
+PE,Peru,Perú,23800,Ilabaya,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4208,-70.5133,4,ilabaya
+PE,Peru,Perú,23800,Toco Grande,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.342,-70.45,4,toco-grande
+PE,Peru,Perú,23800,El Cayro,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4689,-70.5426,3,el-cayro
+PE,Peru,Perú,23800,El Vergel,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4174,-70.5049,3,el-vergel
+PE,Peru,Perú,23800,Ahorcado,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.5222,-70.5887,3,ahorcado
+PE,Peru,Perú,23800,Arco,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.5305,-70.609,3,arco
+PE,Peru,Perú,23800,Higuerani,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.402,-70.6247,3,higuerani
+PE,Peru,Perú,23800,Huncarane,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.5414,-70.6224,3,huncarane
+PE,Peru,Perú,23800,El Colpar,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4023,-70.504,3,el-colpar
+PE,Peru,Perú,23800,Cayancachi,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3059,-70.5092,3,cayancachi
+PE,Peru,Perú,23800,Caoña,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4306,-70.6578,4,caona
+PE,Peru,Perú,23800,Toquepala,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3005,-70.6437,4,toquepala
+PE,Peru,Perú,23800,Solabaya,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4158,-70.5113,4,solabaya
+PE,Peru,Perú,23800,Carumbraya,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.379,-70.5231,3,carumbraya
+PE,Peru,Perú,23800,Coari,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.5,-70.5667,4,coari
+PE,Peru,Perú,23800,Chululuni,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3617,-70.4678,4,chululuni
+PE,Peru,Perú,23800,Cocal,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.435,-70.5122,4,cocal
+PE,Peru,Perú,23800,Toco Chico,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3449,-70.4569,4,toco-chico
+PE,Peru,Perú,23800,Oconchay,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.5317,-70.611,4,oconchay
+PE,Peru,Perú,23800,Machagmarca,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3763,-70.4837,4,machagmarca
+PE,Peru,Perú,23800,Minaitita,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3895,-70.4855,3,minaitita
+PE,Peru,Perú,23800,Ilabaya Alta,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4254,-70.5126,3,ilabaya-alta
+PE,Peru,Perú,23800,Lucumani,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3491,-70.5136,3,lucumani
+PE,Peru,Perú,23800,Ancocollo,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.5295,-70.6005,4,ancocollo
+PE,Peru,Perú,23800,Borogueña,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.3162,-70.4427,4,boroguena
+PE,Peru,Perú,23800,Cuniña,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.288,-70.504,3,cunina
+PE,Peru,Perú,23800,Santa Cruz,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.2132,-70.6017,3,santa-cruz
+PE,Peru,Perú,23800,Mirave,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4797,-70.5497,4,mirave
+PE,Peru,Perú,23800,La Florida,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4216,-70.5057,3,la-florida
+PE,Peru,Perú,23800,Chapicuca,Tacna,23,Jorge Basadre,2303,Ilabaya,230302,-17.4371,-70.5209,4,chapicuca
+PE,Peru,Perú,23100,Huacano,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.6654,-70.1109,3,huacano
+PE,Peru,Perú,23100,Chucane,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.549,-70.06,3,chucane
+PE,Peru,Perú,23100,Oquipa,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5413,-70.0287,3,oquipa
+PE,Peru,Perú,23100,Challavira,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5436,-70.0571,3,challavira
+PE,Peru,Perú,23100,Caquilluco,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5858,-70.1514,3,caquilluco
+PE,Peru,Perú,23100,Isañane,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.6118,-70.1441,3,isanane
+PE,Peru,Perú,23100,Espingune,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5609,-70.0595,3,espingune
+PE,Peru,Perú,23100,Barranca,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5787,-70.0807,3,barranca
+PE,Peru,Perú,23100,Chaslani,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5678,-70.0633,3,chaslani
+PE,Peru,Perú,23100,Estique Pampa,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5385,-70.0329,4,estique-pampa
+PE,Peru,Perú,23100,Carane - Cerro Colorado,Tacna,23,Tarata,2304,Estique Pampa,230404,-17.5723,-70.1328,3,carane-cerro-colorado
+PE,Peru,Perú,23120,Palquilla,Tacna,23,Tarata,2304,Estique,230403,-17.5897,-70.0121,4,palquilla
+PE,Peru,Perú,23120,Estique,Tacna,23,Tarata,2304,Estique,230403,-17.5417,-70.0186,4,estique
+PE,Peru,Perú,23120,Huacano Grande,Tacna,23,Tarata,2304,Estique,230403,-17.6558,-70.081,3,huacano-grande
+PE,Peru,Perú,23120,Tijerane,Tacna,23,Tarata,2304,Estique,230403,-17.5631,-69.9006,3,tijerane
+PE,Peru,Perú,23120,Talabaya,Tacna,23,Tarata,2304,Estique,230403,-17.5522,-69.9867,4,talabaya
+PE,Peru,Perú,23120,Saillane,Tacna,23,Tarata,2304,Estique,230403,-17.5268,-69.8902,3,saillane
+PE,Peru,Perú,23120,Barroso,Tacna,23,Tarata,2304,Estique,230403,-17.5515,-69.8965,3,barroso
+PE,Peru,Perú,23140,Tarucachi,Tacna,23,Tarata,2304,Tarucachi,230407,-17.5247,-70.0283,4,tarucachi
+PE,Peru,Perú,23140,Pasampa,Tacna,23,Tarata,2304,Tarucachi,230407,-17.512,-70.0499,3,pasampa
+PE,Peru,Perú,23140,Curuña,Tacna,23,Tarata,2304,Tarucachi,230407,-17.4847,-69.9424,3,curuna
+PE,Peru,Perú,23140,Irabaya,Tacna,23,Tarata,2304,Tarucachi,230407,-17.5001,-69.9646,3,irabaya
+PE,Peru,Perú,23140,Quequesane,Tacna,23,Tarata,2304,Tarucachi,230407,-17.5308,-69.9923,3,quequesane
+PE,Peru,Perú,23140,Chaisani,Tacna,23,Tarata,2304,Tarucachi,230407,-17.4971,-69.9899,3,chaisani
+PE,Peru,Perú,23140,Chilihuani,Tacna,23,Tarata,2304,Tarucachi,230407,-17.4976,-69.9395,3,chilihuani
+PE,Peru,Perú,23140,Chuñave,Tacna,23,Tarata,2304,Tarucachi,230407,-17.5188,-69.9679,4,chunave
+PE,Peru,Perú,23140,Viacha,Tacna,23,Tarata,2304,Tarucachi,230407,-17.4788,-69.9079,3,viacha
+PE,Peru,Perú,23140,Para,Tacna,23,Tarata,2304,Tarucachi,230407,-17.4967,-70.0068,4,para
+PE,Peru,Perú,23140,Tucsapujo,Tacna,23,Tarata,2304,Tarucachi,230407,-17.5086,-70.0414,4,tucsapujo
+PE,Peru,Perú,23140,Huayllani,Tacna,23,Tarata,2304,Tarucachi,230407,-17.493,-69.9393,4,huayllani
+PE,Peru,Perú,23140,Anajire,Tacna,23,Tarata,2304,Tarucachi,230407,-17.5013,-70.0213,3,anajire
+PE,Peru,Perú,23200,Laguna Vichurave,Tacna,23,Tarata,2304,Tarata,230401,-17.3847,-69.6633,3,laguna-vichurave
+PE,Peru,Perú,23200,Lipichaqui,Tacna,23,Tarata,2304,Tarata,230401,-17.4145,-69.7676,3,lipichaqui
+PE,Peru,Perú,23200,Machacoyo,Tacna,23,Tarata,2304,Tarata,230401,-17.3115,-69.6116,3,machacoyo
+PE,Peru,Perú,23200,Mamuta Jara,Tacna,23,Tarata,2304,Tarata,230401,-17.297,-69.8089,3,mamuta-jara
+PE,Peru,Perú,23200,Maure Pucuyo,Tacna,23,Tarata,2304,Tarata,230401,-17.3908,-69.5345,3,maure-pucuyo
+PE,Peru,Perú,23200,Mojoncahua,Tacna,23,Tarata,2304,Tarata,230401,-17.4075,-69.7316,3,mojoncahua
+PE,Peru,Perú,23200,Murmuntani,Tacna,23,Tarata,2304,Tarata,230401,-17.3824,-69.6331,3,murmuntani
+PE,Peru,Perú,23200,Ove Juyo,Tacna,23,Tarata,2304,Tarata,230401,-17.3427,-69.53,3,ove-juyo
+PE,Peru,Perú,23200,Pampahuyune,Tacna,23,Tarata,2304,Tarata,230401,-17.3299,-69.5679,3,pampahuyune
+PE,Peru,Perú,23200,Payuta,Tacna,23,Tarata,2304,Tarata,230401,-17.3665,-69.6998,3,payuta
+PE,Peru,Perú,23200,Piunutapa,Tacna,23,Tarata,2304,Tarata,230401,-17.316,-69.7131,3,piunutapa
+PE,Peru,Perú,23200,Pucuyo,Tacna,23,Tarata,2304,Tarata,230401,-17.282,-69.6515,3,pucuyo
+PE,Peru,Perú,23200,Ancuyo,Tacna,23,Tarata,2304,Tarata,230401,-17.2422,-69.7891,4,ancuyo
+PE,Peru,Perú,23200,Puralla Chico,Tacna,23,Tarata,2304,Tarata,230401,-17.3467,-69.6614,3,puralla-chico
+PE,Peru,Perú,23200,Purochaullani,Tacna,23,Tarata,2304,Tarata,230401,-17.2493,-69.7943,3,purochaullani
+PE,Peru,Perú,23200,Purulla,Tacna,23,Tarata,2304,Tarata,230401,-17.3412,-69.6503,3,purulla
+PE,Peru,Perú,23200,Queani,Tacna,23,Tarata,2304,Tarata,230401,-17.3636,-69.7406,3,queani
+PE,Peru,Perú,23200,Solavaya Pampa,Tacna,23,Tarata,2304,Tarata,230401,-17.4345,-69.9738,3,solavaya-pampa
+PE,Peru,Perú,23200,Umute,Tacna,23,Tarata,2304,Tarata,230401,-17.4908,-70.0357,3,umute
+PE,Peru,Perú,23200,Vichurave,Tacna,23,Tarata,2304,Tarata,230401,-17.3609,-69.6251,3,vichurave
+PE,Peru,Perú,23200,Viscachuni,Tacna,23,Tarata,2304,Tarata,230401,-17.3737,-69.6391,3,viscachuni
+PE,Peru,Perú,23200,Chachacomani,Tacna,23,Tarata,2304,Tarata,230401,-17.4127,-69.629,4,chachacomani
+PE,Peru,Perú,23200,Concomani,Tacna,23,Tarata,2304,Tarata,230401,-17.3786,-69.6355,4,concomani
+PE,Peru,Perú,23200,Yanuyo,Tacna,23,Tarata,2304,Tarata,230401,-17.3005,-69.6929,3,yanuyo
+PE,Peru,Perú,23200,Ticapampa,Tacna,23,Tarata,2304,Tarata,230401,-17.2978,-69.7742,4,ticapampa
+PE,Peru,Perú,23200,Jarkahuyo,Tacna,23,Tarata,2304,Tarata,230401,-17.3481,-69.5393,3,jarkahuyo
+PE,Peru,Perú,23200,Pamputa,Tacna,23,Tarata,2304,Tarata,230401,-17.407,-69.6235,4,pamputa
+PE,Peru,Perú,23200,Alpaquiri,Tacna,23,Tarata,2304,Tarata,230401,-17.3943,-69.8972,3,alpaquiri
+PE,Peru,Perú,23200,Ancoama,Tacna,23,Tarata,2304,Tarata,230401,-17.2545,-69.7749,3,ancoama
+PE,Peru,Perú,23200,Ancosaraya,Tacna,23,Tarata,2304,Tarata,230401,-17.4003,-69.5555,3,ancosaraya
+PE,Peru,Perú,23200,Aychuta Grande,Tacna,23,Tarata,2304,Tarata,230401,-17.3437,-69.725,3,aychuta-grande
+PE,Peru,Perú,23200,Camarote,Tacna,23,Tarata,2304,Tarata,230401,-17.4695,-70.0415,3,camarote
+PE,Peru,Perú,23200,Cruzhuyo,Tacna,23,Tarata,2304,Tarata,230401,-17.243,-69.7979,3,cruzhuyo
+PE,Peru,Perú,23200,Huallapujo,Tacna,23,Tarata,2304,Tarata,230401,-17.3874,-69.7416,3,huallapujo
+PE,Peru,Perú,23200,Challa,Tacna,23,Tarata,2304,Tarata,230401,-17.4998,-70.0518,3,challa
+PE,Peru,Perú,23200,Casire,Tacna,23,Tarata,2304,Tarata,230401,-17.3732,-69.7032,3,casire
+PE,Peru,Perú,23200,Canteria,Tacna,23,Tarata,2304,Tarata,230401,-17.3214,-69.6525,3,canteria
+PE,Peru,Perú,23200,Camauta,Tacna,23,Tarata,2304,Tarata,230401,-17.3928,-69.7442,3,camauta
+PE,Peru,Perú,23200,Aychuta,Tacna,23,Tarata,2304,Tarata,230401,-17.3499,-69.7326,3,aychuta
+PE,Peru,Perú,23200,Vilacanchani,Tacna,23,Tarata,2304,Tarata,230401,-17.2622,-69.7798,3,vilacanchani
+PE,Peru,Perú,23200,Iñuma,Tacna,23,Tarata,2304,Tarata,230401,-17.3875,-69.7927,3,inuma
+PE,Peru,Perú,23200,Iscacahua,Tacna,23,Tarata,2304,Tarata,230401,-17.4444,-70,3,iscacahua
+PE,Peru,Perú,23200,Isquilive,Tacna,23,Tarata,2304,Tarata,230401,-17.4443,-69.9774,3,isquilive
+PE,Peru,Perú,23200,Iscasurani,Tacna,23,Tarata,2304,Tarata,230401,-17.2805,-69.7025,3,iscasurani
+PE,Peru,Perú,23200,Jucuni,Tacna,23,Tarata,2304,Tarata,230401,-17.3682,-69.5115,3,jucuni
+PE,Peru,Perú,23200,Karipiña,Tacna,23,Tarata,2304,Tarata,230401,-17.3416,-69.5473,3,karipina
+PE,Peru,Perú,23200,Irocollo,Tacna,23,Tarata,2304,Tarata,230401,-17.2491,-69.7781,3,irocollo
+PE,Peru,Perú,23200,Hito Uno,Tacna,23,Tarata,2304,Tarata,230401,-17.2925,-69.6395,3,hito-uno
+PE,Peru,Perú,23200,Chucñuma,Tacna,23,Tarata,2304,Tarata,230401,-17.3697,-69.8279,3,chucnuma
+PE,Peru,Perú,23200,Chacavira,Tacna,23,Tarata,2304,Tarata,230401,-17.4677,-69.9935,3,chacavira
+PE,Peru,Perú,23200,Huaña Maure,Tacna,23,Tarata,2304,Tarata,230401,-17.3287,-69.5818,3,huana-maure
+PE,Peru,Perú,23200,Huatasire,Tacna,23,Tarata,2304,Tarata,230401,-17.2916,-69.6838,3,huatasire
+PE,Peru,Perú,23200,Vilangora,Tacna,23,Tarata,2304,Tarata,230401,-17.373,-69.7277,4,vilangora
+PE,Peru,Perú,23200,Collpa,Tacna,23,Tarata,2304,Tarata,230401,-17.3055,-69.5957,4,collpa
+PE,Peru,Perú,23200,Taruco,Tacna,23,Tarata,2304,Tarata,230401,-17.2958,-69.6764,4,taruco
+PE,Peru,Perú,23200,Cueva,Tacna,23,Tarata,2304,Tarata,230401,-17.3831,-69.4856,4,cueva
+PE,Peru,Perú,23200,Challapalca,Tacna,23,Tarata,2304,Tarata,230401,-17.2371,-69.7983,4,challapalca
+PE,Peru,Perú,23200,Azangallane,Tacna,23,Tarata,2304,Tarata,230401,-17.4278,-69.4747,4,azangallane
+PE,Peru,Perú,23200,Chiluyo Grande,Tacna,23,Tarata,2304,Tarata,230401,-17.3541,-69.6531,4,chiluyo-grande
+PE,Peru,Perú,23200,Calanaza,Tacna,23,Tarata,2304,Tarata,230401,-17.4464,-69.479,4,calanaza
+PE,Peru,Perú,23200,Caparaja,Tacna,23,Tarata,2304,Tarata,230401,-17.4587,-69.8905,4,caparaja
+PE,Peru,Perú,23200,Cuchuta,Tacna,23,Tarata,2304,Tarata,230401,-17.3098,-69.5763,4,cuchuta
+PE,Peru,Perú,23200,Mamuta,Tacna,23,Tarata,2304,Tarata,230401,-17.3049,-69.7921,4,mamuta
+PE,Peru,Perú,23200,Allita,Tacna,23,Tarata,2304,Tarata,230401,-17.4086,-69.5072,4,allita
+PE,Peru,Perú,23200,Sura,Tacna,23,Tarata,2304,Tarata,230401,-17.3281,-69.6545,4,sura
+PE,Peru,Perú,23200,Cabracollo,Tacna,23,Tarata,2304,Tarata,230401,-17.3936,-69.7402,4,cabracollo
+PE,Peru,Perú,23200,Tarata,Tacna,23,Tarata,2304,Tarata,230401,-17.4744,-70.0328,4,tarata
+PE,Peru,Perú,23200,Anaque Putina,Tacna,23,Tarata,2304,Tarata,230401,-17.4097,-69.9269,4,anaque-putina
+PE,Peru,Perú,23200,Chiluyo Chico,Tacna,23,Tarata,2304,Tarata,230401,-17.3822,-69.6175,4,chiluyo-chico
+PE,Peru,Perú,23200,Quilcata,Tacna,23,Tarata,2304,Tarata,230401,-17.3362,-69.6486,4,quilcata
+PE,Peru,Perú,23200,Achacollo,Tacna,23,Tarata,2304,Tarata,230401,-17.4517,-70.0154,3,achacollo
+PE,Peru,Perú,23200,Tolani Huyo,Tacna,23,Tarata,2304,Tarata,230401,-17.2935,-69.6327,3,tolani-huyo
+PE,Peru,Perú,23200,Aychuta Chico,Tacna,23,Tarata,2304,Tarata,230401,-17.3594,-69.7256,3,aychuta-chico
+PE,Peru,Perú,23200,Ancoaque,Tacna,23,Tarata,2304,Tarata,230401,-17.3758,-69.7825,3,ancoaque
+PE,Peru,Perú,23200,Quelluyo,Tacna,23,Tarata,2304,Tarata,230401,-17.3399,-69.56,3,quelluyo
+PE,Peru,Perú,23200,Titijahuani,Tacna,23,Tarata,2304,Tarata,230401,-17.3069,-69.6624,3,titijahuani
+PE,Peru,Perú,23200,Chilicullco,Tacna,23,Tarata,2304,Tarata,230401,-17.2349,-69.796,3,chilicullco
+PE,Peru,Perú,23200,Chiluyo Norte,Tacna,23,Tarata,2304,Tarata,230401,-17.3528,-69.6548,3,chiluyo-norte
+PE,Peru,Perú,23200,Churaque,Tacna,23,Tarata,2304,Tarata,230401,-17.403,-69.5339,3,churaque
+PE,Peru,Perú,23200,Chuvara,Tacna,23,Tarata,2304,Tarata,230401,-17.3494,-69.7052,3,chuvara
+PE,Peru,Perú,23200,Colluta,Tacna,23,Tarata,2304,Tarata,230401,-17.2993,-69.7184,3,colluta
+PE,Peru,Perú,23200,Conchachiri,Tacna,23,Tarata,2304,Tarata,230401,-17.2805,-69.6859,3,conchachiri
+PE,Peru,Perú,23200,Coracorani,Tacna,23,Tarata,2304,Tarata,230401,-17.3787,-69.7411,3,coracorani
+PE,Peru,Perú,23200,Casilloco,Tacna,23,Tarata,2304,Tarata,230401,-17.3669,-69.7626,3,casilloco
+PE,Peru,Perú,23200,Umalso,Tacna,23,Tarata,2304,Tarata,230401,-17.3553,-69.6519,3,umalso
+PE,Peru,Perú,23200,Tolamoco,Tacna,23,Tarata,2304,Tarata,230401,-17.3503,-69.7004,3,tolamoco
+PE,Peru,Perú,23200,Tocllanasa (Tocollanasa),Tacna,23,Tarata,2304,Tarata,230401,-17.3439,-69.7116,3,tocllanasa-tocollanasa
+PE,Peru,Perú,23200,Tarujavi,Tacna,23,Tarata,2304,Tarata,230401,-17.3576,-69.624,3,tarujavi
+PE,Peru,Perú,23200,Taratapampa,Tacna,23,Tarata,2304,Tarata,230401,-17.4672,-70.0186,3,taratapampa
+PE,Peru,Perú,23200,Carpachuyani,Tacna,23,Tarata,2304,Tarata,230401,-17.3588,-69.5498,3,carpachuyani
+PE,Peru,Perú,23200,Queullire,Tacna,23,Tarata,2304,Tarata,230401,-17.3758,-69.7825,3,queullire
+PE,Peru,Perú,23200,Tiapujo,Tacna,23,Tarata,2304,Tarata,230401,-17.4033,-69.6103,3,tiapujo
+PE,Peru,Perú,23200,Tasabaya,Tacna,23,Tarata,2304,Tarata,230401,-17.4875,-70.0503,3,tasabaya
+PE,Peru,Perú,23200,Aricollo,Tacna,23,Tarata,2304,Tarata,230401,-17.3705,-69.7352,4,aricollo
+PE,Peru,Perú,23200,Challacucho,Tacna,23,Tarata,2304,Tarata,230401,-17.3948,-69.7474,4,challacucho
+PE,Peru,Perú,23200,Murmuntane,Tacna,23,Tarata,2304,Tarata,230401,-17.3803,-69.6336,4,murmuntane
+PE,Peru,Perú,23200,Tarujave,Tacna,23,Tarata,2304,Tarata,230401,-17.3595,-69.6615,4,tarujave
+PE,Peru,Perú,23200,Chillipiña,Tacna,23,Tarata,2304,Tarata,230401,-17.4047,-69.7824,4,chillipina
+PE,Peru,Perú,23200,Kallapuma,Tacna,23,Tarata,2304,Tarata,230401,-17.3157,-69.7294,4,kallapuma
+PE,Peru,Perú,23220,Sapiutapa,Tacna,23,Tarata,2304,Ticaco,230408,-17.2197,-69.9163,4,sapiutapa
+PE,Peru,Perú,23220,Pallcoco,Tacna,23,Tarata,2304,Ticaco,230408,-17.416,-70.0651,4,pallcoco
+PE,Peru,Perú,23220,Ancoyuni,Tacna,23,Tarata,2304,Ticaco,230408,-17.3425,-69.9839,3,ancoyuni
+PE,Peru,Perú,23220,Chuñave (Sallacucho),Tacna,23,Tarata,2304,Ticaco,230408,-17.3608,-70.0416,3,chunave-sallacucho
+PE,Peru,Perú,23220,Cullco,Tacna,23,Tarata,2304,Ticaco,230408,-17.3592,-69.9469,3,cullco
+PE,Peru,Perú,23220,Ticaco,Tacna,23,Tarata,2304,Ticaco,230408,-17.4464,-70.0469,4,ticaco
+PE,Peru,Perú,23220,Charini,Tacna,23,Tarata,2304,Ticaco,230408,-17.4512,-70.0869,3,charini
+PE,Peru,Perú,23220,Llocolloconi Mamaraya,Tacna,23,Tarata,2304,Ticaco,230408,-17.3482,-69.9548,3,llocolloconi-mamaraya
+PE,Peru,Perú,23220,Cachitala,Tacna,23,Tarata,2304,Ticaco,230408,-17.4006,-70.0218,3,cachitala
+PE,Peru,Perú,23220,Chajracapi,Tacna,23,Tarata,2304,Ticaco,230408,-17.4256,-70.0247,3,chajracapi
+PE,Peru,Perú,23220,Santa Lucia,Tacna,23,Tarata,2304,Ticaco,230408,-17.3586,-69.9268,3,santa-lucia
+PE,Peru,Perú,23220,Corsica,Tacna,23,Tarata,2304,Ticaco,230408,-17.2075,-69.9212,3,corsica
+PE,Peru,Perú,23220,Iscauta,Tacna,23,Tarata,2304,Ticaco,230408,-17.2101,-69.9326,3,iscauta
+PE,Peru,Perú,23220,Jarumas,Tacna,23,Tarata,2304,Ticaco,230408,-17.3654,-69.938,3,jarumas
+PE,Peru,Perú,23220,Javiruta,Tacna,23,Tarata,2304,Ticaco,230408,-17.3333,-69.963,3,javiruta
+PE,Peru,Perú,23220,Calacollo Mamaraya,Tacna,23,Tarata,2304,Ticaco,230408,-17.338,-69.9392,3,calacollo-mamaraya
+PE,Peru,Perú,23220,Mamaraya Rincon,Tacna,23,Tarata,2304,Ticaco,230408,-17.3075,-69.9655,3,mamaraya-rincon
+PE,Peru,Perú,23220,Manjuta,Tacna,23,Tarata,2304,Ticaco,230408,-17.2145,-69.9109,3,manjuta
+PE,Peru,Perú,23220,Nacatuta,Tacna,23,Tarata,2304,Ticaco,230408,-17.3095,-69.95,3,nacatuta
+PE,Peru,Perú,23220,Pisacani,Tacna,23,Tarata,2304,Ticaco,230408,-17.2452,-69.9232,3,pisacani
+PE,Peru,Perú,23220,Queullacota,Tacna,23,Tarata,2304,Ticaco,230408,-17.3383,-69.954,3,queullacota
+PE,Peru,Perú,23220,Reirumaña,Tacna,23,Tarata,2304,Ticaco,230408,-17.3197,-69.9456,3,reirumana
+PE,Peru,Perú,23220,Sijisijine,Tacna,23,Tarata,2304,Ticaco,230408,-17.2243,-69.8805,3,sijisijine
+PE,Peru,Perú,23220,Vilaque Mamaraya,Tacna,23,Tarata,2304,Ticaco,230408,-17.3155,-69.974,3,vilaque-mamaraya
+PE,Peru,Perú,23220,Irabalaco,Tacna,23,Tarata,2304,Ticaco,230408,-17.4297,-69.992,3,irabalaco
+PE,Peru,Perú,23220,Ocopatja,Tacna,23,Tarata,2304,Ticaco,230408,-17.4346,-70.0226,3,ocopatja
+PE,Peru,Perú,23220,Quitara,Tacna,23,Tarata,2304,Ticaco,230408,-17.4467,-70.0387,3,quitara
+PE,Peru,Perú,23240,Chicavira,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4708,-70.1487,3,chicavira
+PE,Peru,Perú,23240,Membrilluni,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4737,-70.1413,3,membrilluni
+PE,Peru,Perú,23240,Putina,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.495,-70.2276,4,putina
+PE,Peru,Perú,23240,Alto Peru,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4696,-70.1547,4,alto-peru
+PE,Peru,Perú,23240,Chapini,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4864,-70.113,3,chapini
+PE,Peru,Perú,23240,Cotani,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.483,-70.2429,3,cotani
+PE,Peru,Perú,23240,Mullincagua,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.487,-70.0823,3,mullincagua
+PE,Peru,Perú,23240,Sambalaya,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4904,-70.2876,3,sambalaya
+PE,Peru,Perú,23240,Coropuro,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4789,-70.2652,4,coropuro
+PE,Peru,Perú,23240,Londaniza,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4987,-70.1948,4,londaniza
+PE,Peru,Perú,23240,Tala,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4723,-70.1592,4,tala
+PE,Peru,Perú,23240,Chucatamani,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4806,-70.1225,4,chucatamani
+PE,Peru,Perú,23240,Pistala,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4913,-70.0886,4,pistala
+PE,Peru,Perú,23240,Chipispaya,Tacna,23,Tarata,2304,Heroes Albarracín,230402,-17.4979,-70.2171,4,chipispaya
+PE,Peru,Perú,23300,Sitajara,Tacna,23,Tarata,2304,Sitajara,230405,-17.3756,-70.1322,4,sitajara
+PE,Peru,Perú,23300,Challaguaya,Tacna,23,Tarata,2304,Sitajara,230405,-17.4011,-70.1101,4,challaguaya
+PE,Peru,Perú,23300,Chaspaya,Tacna,23,Tarata,2304,Sitajara,230405,-17.4225,-70.1537,4,chaspaya
+PE,Peru,Perú,23350,Huaytuta,Tacna,23,Tarata,2304,Susapaya,230406,-17.1281,-70.0562,4,huaytuta
+PE,Peru,Perú,23350,Incuyo,Tacna,23,Tarata,2304,Susapaya,230406,-17.0583,-70.0497,4,incuyo
+PE,Peru,Perú,23350,Yabroco,Tacna,23,Tarata,2304,Susapaya,230406,-17.3414,-70.1185,4,yabroco
+PE,Peru,Perú,23350,Iruvichinca,Tacna,23,Tarata,2304,Susapaya,230406,-17.1243,-70.043,3,iruvichinca
+PE,Peru,Perú,23350,Cano,Tacna,23,Tarata,2304,Susapaya,230406,-17.2426,-70.0258,4,cano
+PE,Peru,Perú,23350,Huaillavira,Tacna,23,Tarata,2304,Susapaya,230406,-17.2792,-70.0736,4,huaillavira
+PE,Peru,Perú,23350,Susapaya,Tacna,23,Tarata,2304,Susapaya,230406,-17.3531,-70.1319,4,susapaya
+PE,Peru,Perú,23350,Colpapampa,Tacna,23,Tarata,2304,Susapaya,230406,-17.275,-70.0794,4,colpapampa
+PE,Peru,Perú,23350,Pamputa,Tacna,23,Tarata,2304,Susapaya,230406,-17.1623,-69.9901,4,pamputa
+PE,Peru,Perú,23350,Señoraca,Tacna,23,Tarata,2304,Susapaya,230406,-17.1874,-70.073,4,senoraca
+PE,Peru,Perú,23350,Ñeque,Tacna,23,Tarata,2304,Susapaya,230406,-17.1762,-69.9803,4,neque
+PE,Peru,Perú,23350,Chalchaque,Tacna,23,Tarata,2304,Susapaya,230406,-17.1184,-70.0582,4,chalchaque
+PE,Peru,Perú,23350,Jaruma,Tacna,23,Tarata,2304,Susapaya,230406,-17.2403,-70.1063,4,jaruma
+PE,Peru,Perú,23350,Chillihuane,Tacna,23,Tarata,2304,Susapaya,230406,-17.1232,-70.089,4,chillihuane
+PE,Peru,Perú,23350,Chapicucho,Tacna,23,Tarata,2304,Susapaya,230406,-17.1052,-70.0859,3,chapicucho
+PE,Peru,Perú,23350,Coraza,Tacna,23,Tarata,2304,Susapaya,230406,-17.2379,-70.0292,3,coraza
+PE,Peru,Perú,23350,Cruzvinto,Tacna,23,Tarata,2304,Susapaya,230406,-17.0521,-70.0738,3,cruzvinto
+PE,Peru,Perú,23350,Cupune,Tacna,23,Tarata,2304,Susapaya,230406,-17.2514,-70.1038,3,cupune
+PE,Peru,Perú,23350,Huaquehuiña,Tacna,23,Tarata,2304,Susapaya,230406,-17.1205,-70.0647,3,huaquehuina
+PE,Peru,Perú,23350,Huarire,Tacna,23,Tarata,2304,Susapaya,230406,-17.1623,-70.0282,3,huarire
+PE,Peru,Perú,23350,Huyo Laca,Tacna,23,Tarata,2304,Susapaya,230406,-17.2425,-70.0303,3,huyo-laca
+PE,Peru,Perú,23350,Irovento,Tacna,23,Tarata,2304,Susapaya,230406,-17.1079,-70.0478,3,irovento
+PE,Peru,Perú,23350,Jancoaque,Tacna,23,Tarata,2304,Susapaya,230406,-17.1464,-70.0709,3,jancoaque
+PE,Peru,Perú,23350,Japuna,Tacna,23,Tarata,2304,Susapaya,230406,-17.1723,-70.0615,3,japuna
+PE,Peru,Perú,23350,Jaroco,Tacna,23,Tarata,2304,Susapaya,230406,-17.0567,-70.0516,3,jaroco
+PE,Peru,Perú,23350,Karine,Tacna,23,Tarata,2304,Susapaya,230406,-17.0649,-70.0719,3,karine
+PE,Peru,Perú,23350,Layune,Tacna,23,Tarata,2304,Susapaya,230406,-17.1819,-69.9961,3,layune
+PE,Peru,Perú,23350,Molleraco,Tacna,23,Tarata,2304,Susapaya,230406,-17.3633,-70.1282,3,molleraco
+PE,Peru,Perú,23350,Musiña,Tacna,23,Tarata,2304,Susapaya,230406,-17.0601,-70.0731,3,musina
+PE,Peru,Perú,23350,Ocororoni,Tacna,23,Tarata,2304,Susapaya,230406,-17.1541,-70.0712,3,ocororoni
+PE,Peru,Perú,23350,Quiñaguata,Tacna,23,Tarata,2304,Susapaya,230406,-17.1545,-70.0022,3,quinaguata
+PE,Peru,Perú,23350,Tacjata,Tacna,23,Tarata,2304,Susapaya,230406,-17.2318,-70.0263,3,tacjata
+PE,Peru,Perú,23350,Tiajavira,Tacna,23,Tarata,2304,Susapaya,230406,-17.1872,-69.9647,3,tiajavira
+PE,Peru,Perú,23350,Tie,Tacna,23,Tarata,2304,Susapaya,230406,-17.0694,-70.0446,3,tie
+PE,Peru,Perú,23350,Tojlloma,Tacna,23,Tarata,2304,Susapaya,230406,-17.1122,-70.0472,3,tojlloma
+PE,Peru,Perú,23350,Vilacota,Tacna,23,Tarata,2304,Susapaya,230406,-17.1204,-70.0516,3,vilacota
+PE,Peru,Perú,23350,Vila Putina,Tacna,23,Tarata,2304,Susapaya,230406,-17.1362,-70.0549,3,vila-putina
+PE,Peru,Perú,23350,Ancoarmani,Tacna,23,Tarata,2304,Susapaya,230406,-17.0537,-70.0556,3,ancoarmani
+PE,Peru,Perú,23350,Azufrine,Tacna,23,Tarata,2304,Susapaya,230406,-17.2449,-70.0382,3,azufrine
+PE,Peru,Perú,23350,Canocucho,Tacna,23,Tarata,2304,Susapaya,230406,-17.2351,-70.0348,3,canocucho
+PE,Peru,Perú,23350,Cartusvinto,Tacna,23,Tarata,2304,Susapaya,230406,-17.0678,-70.0644,3,cartusvinto
+PE,Peru,Perú,23350,Challajipiña,Tacna,23,Tarata,2304,Susapaya,230406,-17.12,-70.0436,3,challajipina
+PE,Peru,Perú,23350,Chincanane,Tacna,23,Tarata,2304,Susapaya,230406,-17.0998,-70.06,3,chincanane
+PE,Peru,Perú,23350,Chuquitire,Tacna,23,Tarata,2304,Susapaya,230406,-17.2892,-70.0311,3,chuquitire
+PE,Peru,Perú,23350,Circa,Tacna,23,Tarata,2304,Susapaya,230406,-17.0759,-70.0579,3,circa
+PE,Peru,Perú,23350,Collocucho,Tacna,23,Tarata,2304,Susapaya,230406,-17.0411,-70.0723,3,collocucho
+PE,Peru,Perú,23350,Condoriquiña,Tacna,23,Tarata,2304,Susapaya,230406,-17.0616,-70.0462,3,condoriquina
+PE,Peru,Perú,23350,Copullo,Tacna,23,Tarata,2304,Susapaya,230406,-17.1413,-70.0709,3,copullo
+PE,Peru,Perú,23350,Queulliri (Queullire),Tacna,23,Tarata,2304,Susapaya,230406,-17.0934,-70.068,3,queulliri-queullire
+PE,Peru,Perú,23350,Cajitahuyo,Tacna,23,Tarata,2304,Susapaya,230406,-17.129,-70.0905,3,cajitahuyo
+PE,Peru,Perú,23350,Chuñave,Tacna,23,Tarata,2304,Susapaya,230406,-17.2964,-70.0839,4,chunave
+PE,Peru,Perú,23350,Ancocollo,Tacna,23,Tarata,2304,Susapaya,230406,-17.2547,-70.0981,4,ancocollo
+PE,Peru,Perú,23350,Huanune,Tacna,23,Tarata,2304,Susapaya,230406,-17.3021,-70.0679,4,huanune
+PE,Peru,Perú,23350,Pecañani,Tacna,23,Tarata,2304,Susapaya,230406,-17.1165,-70.045,3,pecanani
+PE,Peru,Perú,23350,Tacjata Callunuyo,Tacna,23,Tarata,2304,Susapaya,230406,-17.1758,-69.9714,3,tacjata-callunuyo
+PE,Peru,Perú,23350,Santa Maria Gentilar,Tacna,23,Tarata,2304,Susapaya,230406,-17.1264,-70.0693,3,santa-maria-gentilar
+PE,Peru,Perú,23350,Palcoco,Tacna,23,Tarata,2304,Susapaya,230406,-17.248,-70.0266,3,palcoco
+PE,Peru,Perú,23350,Pajjcha,Tacna,23,Tarata,2304,Susapaya,230406,-17.1267,-70.0654,3,pajjcha
+PE,Peru,Perú,23350,Pajchara,Tacna,23,Tarata,2304,Susapaya,230406,-17.1041,-70.0474,3,pajchara

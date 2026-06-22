@@ -1,0 +1,1752 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+MX,Mexico,México,99940,De Abajo,Zacatecas,32,Apozol,001,,,21.4695,-103.0908,3,de-abajo
+MX,Mexico,México,99940,Apozol,Zacatecas,32,Apozol,001,,,21.4695,-103.0908,4,apozol
+MX,Mexico,México,99949,Los Llamas,Zacatecas,32,Apozol,001,,,21.5031,-103.0902,4,los-llamas
+MX,Mexico,México,99950,El Rescoldo,Zacatecas,32,Apozol,001,,,21.4691,-103.1043,4,el-rescoldo
+MX,Mexico,México,99920,San Pedro Apulco,Zacatecas,32,Apulco,002,,,21.3882,-102.6822,4,san-pedro-apulco
+MX,Mexico,México,99921,Agua Blanca,Zacatecas,32,Apulco,002,,,21.4603,-102.6892,4,agua-blanca
+MX,Mexico,México,99925,La Pitaya,Zacatecas,32,Apulco,002,,,21.4669,-102.6918,1,la-pitaya
+MX,Mexico,México,99930,Tenayuca,Zacatecas,32,Apulco,002,,,21.4669,-102.6918,1,tenayuca
+MX,Mexico,México,99730,Los Pinos,Zacatecas,32,Atolinga,003,,,21.7866,-103.4466,3,los-pinos
+MX,Mexico,México,99730,Atolinga,Zacatecas,32,Atolinga,003,,,21.8066,-103.465,4,atolinga
+MX,Mexico,México,99733,Juantón,Zacatecas,32,Atolinga,003,,,21.8358,-103.3983,3,juanton
+MX,Mexico,México,99733,Covarrubias,Zacatecas,32,Atolinga,003,,,21.8633,-103.3814,4,covarrubias
+MX,Mexico,México,99733,Salisflor,Zacatecas,32,Atolinga,003,,,21.8147,-103.4408,4,salisflor
+MX,Mexico,México,99733,Cerrito Pelón,Zacatecas,32,Atolinga,003,,,21.817,-103.425,4,cerrito-pelon
+MX,Mexico,México,99733,Talpa,Zacatecas,32,Atolinga,003,,,21.8347,-103.3782,4,talpa
+MX,Mexico,México,99733,Terreros,Zacatecas,32,Atolinga,003,,,21.8492,-103.3664,4,terreros
+MX,Mexico,México,99734,Charcuelos,Zacatecas,32,Atolinga,003,,,21.8058,-103.4036,4,charcuelos
+MX,Mexico,México,99734,Laguna Grande,Zacatecas,32,Atolinga,003,,,21.7707,-103.4485,4,laguna-grande
+MX,Mexico,México,99734,El Durazno,Zacatecas,32,Atolinga,003,,,21.7923,-103.4213,4,el-durazno
+MX,Mexico,México,99734,Acatepulco,Zacatecas,32,Atolinga,003,,,21.7715,-103.4245,3,acatepulco
+MX,Mexico,México,99734,Tapias Grandes,Zacatecas,32,Atolinga,003,,,21.7347,-103.4297,4,tapias-grandes
+MX,Mexico,México,99734,Los Velas,Zacatecas,32,Atolinga,003,,,21.7538,-103.4196,4,los-velas
+MX,Mexico,México,99735,La Ciénega,Zacatecas,32,Atolinga,003,,,21.6694,-103.5339,4,la-cienega
+MX,Mexico,México,99735,Villa Hidalgo,Zacatecas,32,Atolinga,003,,,21.7296,-103.4529,4,villa-hidalgo
+MX,Mexico,México,99735,La Estancia,Zacatecas,32,Atolinga,003,,,21.7278,-103.4825,4,la-estancia
+MX,Mexico,México,99736,Los Cerritos,Zacatecas,32,Atolinga,003,,,21.7869,-103.5031,4,los-cerritos
+MX,Mexico,México,99736,Los Adobes,Zacatecas,32,Atolinga,003,,,21.7511,-103.473,4,los-adobes
+MX,Mexico,México,99780,El Durazno,Zacatecas,32,Benito Juárez,004,,,21.4956,-103.5818,3,el-durazno
+MX,Mexico,México,99780,Los Mirasoles,Zacatecas,32,Benito Juárez,004,,,21.4956,-103.5818,3,los-mirasoles
+MX,Mexico,México,99780,Florencia de Benito Juárez,Zacatecas,32,Benito Juárez,004,,,21.5039,-103.5535,4,florencia-de-benito-juarez
+MX,Mexico,México,99783,Llano Grande,Zacatecas,32,Benito Juárez,004,,,21.4933,-103.5822,4,llano-grande
+MX,Mexico,México,99784,Los Campos,Zacatecas,32,Benito Juárez,004,,,21.4917,-103.6397,4,los-campos
+MX,Mexico,México,99784,Las Tablas,Zacatecas,32,Benito Juárez,004,,,21.5133,-103.6564,4,las-tablas
+MX,Mexico,México,99785,Potrerillos,Zacatecas,32,Benito Juárez,004,,,21.5405,-103.6448,4,potrerillos
+MX,Mexico,México,99786,La Laguna,Zacatecas,32,Benito Juárez,004,,,21.5072,-103.6164,4,la-laguna
+MX,Mexico,México,99786,Cuevas Chicas (Las Cuevas Chicas),Zacatecas,32,Benito Juárez,004,,,21.5211,-103.5858,4,cuevas-chicas-las-cuevas-chicas
+MX,Mexico,México,99786,San Lucas Tepetitlán,Zacatecas,32,Benito Juárez,004,,,21.5135,-103.5988,3,san-lucas-tepetitlan
+MX,Mexico,México,99786,Tecolotes,Zacatecas,32,Benito Juárez,004,,,21.5122,-103.5942,4,tecolotes
+MX,Mexico,México,99790,Mesa de Arellanos,Zacatecas,32,Benito Juárez,004,,,21.5497,-103.5908,4,mesa-de-arellanos
+MX,Mexico,México,99790,Los Charcos,Zacatecas,32,Benito Juárez,004,,,21.5086,-103.5614,4,los-charcos
+MX,Mexico,México,99790,Los Sauces,Zacatecas,32,Benito Juárez,004,,,21.5508,-103.5733,4,los-sauces
+MX,Mexico,México,99790,Mesa de Rayos,Zacatecas,32,Benito Juárez,004,,,21.5384,-103.5841,4,mesa-de-rayos
+MX,Mexico,México,99794,Mesa de Núñez,Zacatecas,32,Benito Juárez,004,,,21.5122,-103.5169,4,mesa-de-nunez
+MX,Mexico,México,99794,Los Cedros,Zacatecas,32,Benito Juárez,004,,,21.5006,-103.5469,4,los-cedros
+MX,Mexico,México,99794,Tonilco,Zacatecas,32,Benito Juárez,004,,,21.4922,-103.5499,4,tonilco
+MX,Mexico,México,99794,Las Cruces,Zacatecas,32,Benito Juárez,004,,,21.4839,-103.5231,4,las-cruces
+MX,Mexico,México,98500,Calera de Víctor Rosales Centro,Zacatecas,32,Calera,005,Víctor Rosales,12,22.995,-102.6651,1,calera-de-victor-rosales-centro
+MX,Mexico,México,98502,La Noria,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,la-noria
+MX,Mexico,México,98502,Lomas de Calera,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9564,-102.7256,4,lomas-de-calera
+MX,Mexico,México,98502,Santa Lucía,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,santa-lucia
+MX,Mexico,México,98502,Magisterio,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9604,-102.7106,3,magisterio
+MX,Mexico,México,98502,El Bosque,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9604,-102.7106,3,el-bosque
+MX,Mexico,México,98502,Año de Juárez,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9604,-102.7106,3,ano-de-juarez
+MX,Mexico,México,98502,Profesionistas,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9604,-102.7106,3,profesionistas
+MX,Mexico,México,98502,Ricardo Monreal Ávila,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9604,-102.7106,3,ricardo-monreal-avila
+MX,Mexico,México,98502,Lauro G. Caloca,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9604,-102.7106,3,lauro-g-caloca
+MX,Mexico,México,98502,Satélite,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,satelite
+MX,Mexico,México,98502,Solidaridad,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,solidaridad
+MX,Mexico,México,98502,Florencia,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,florencia
+MX,Mexico,México,98502,El Huizache,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9564,-102.7353,4,el-huizache
+MX,Mexico,México,98502,San Francisco,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9683,-102.6708,4,san-francisco
+MX,Mexico,México,98503,Cruz Azul,Zacatecas,32,Calera,005,Víctor Rosales,12,23.0833,-102.525,3,cruz-azul
+MX,Mexico,México,98503,Villa Calera,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,4,villa-calera
+MX,Mexico,México,98503,Villareal,Zacatecas,32,Calera,005,Víctor Rosales,12,23.0833,-102.525,3,villareal
+MX,Mexico,México,98503,La Soledad,Zacatecas,32,Calera,005,Víctor Rosales,12,23.0833,-102.525,3,la-soledad
+MX,Mexico,México,98503,América,Zacatecas,32,Calera,005,Víctor Rosales,12,23.0833,-102.525,3,america
+MX,Mexico,México,98503,Cipreses,Zacatecas,32,Calera,005,Víctor Rosales,12,23.0833,-102.525,3,cipreses
+MX,Mexico,México,98503,El Edén,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,el-eden
+MX,Mexico,México,98504,Cortez,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,cortez
+MX,Mexico,México,98504,Nuevo Calera,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9489,-102.7022,3,nuevo-calera
+MX,Mexico,México,98504,La Ladrillera,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9489,-102.7022,3,la-ladrillera
+MX,Mexico,México,98504,La Moderna,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9489,-102.7022,3,la-moderna
+MX,Mexico,México,98504,Víctor Rosales,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9489,-102.7022,4,victor-rosales
+MX,Mexico,México,98505,Elías García,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9683,-102.6322,4,elias-garcia
+MX,Mexico,México,98505,2 Matías,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9683,-102.6322,3,2-matias
+MX,Mexico,México,98505,La Cantera Rosa,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9683,-102.6322,3,la-cantera-rosa
+MX,Mexico,México,98505,El Sol,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9683,-102.6322,3,el-sol
+MX,Mexico,México,98505,Estación Víctor Rosales,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9683,-102.6322,3,estacion-victor-rosales
+MX,Mexico,México,98506,Riafa Caranza,Zacatecas,32,Calera,005,Víctor Rosales,12,22.995,-102.6651,1,riafa-caranza
+MX,Mexico,México,98506,Alborada,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,1,alborada
+MX,Mexico,México,98507,El Pedregal,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,el-pedregal
+MX,Mexico,México,98507,José María Morelos,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,jose-maria-morelos
+MX,Mexico,México,98507,La Loma,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,la-loma
+MX,Mexico,México,98507,Santa María,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,santa-maria
+MX,Mexico,México,98507,Lindavista,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,lindavista
+MX,Mexico,México,98507,Lomas de La Unidad,Zacatecas,32,Calera,005,Víctor Rosales,12,23.1091,-102.6536,3,lomas-de-la-unidad
+MX,Mexico,México,98507,La Escuelita,Zacatecas,32,Calera,005,Víctor Rosales,12,23.1091,-102.6536,3,la-escuelita
+MX,Mexico,México,98507,Francisco I. Madero,Zacatecas,32,Calera,005,Víctor Rosales,12,23.1091,-102.6536,4,francisco-i-madero
+MX,Mexico,México,98507,El Maguey,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,el-maguey
+MX,Mexico,México,98507,Popular las Fuentes,Zacatecas,32,Calera,005,Víctor Rosales,12,23.1091,-102.6536,3,popular-las-fuentes
+MX,Mexico,México,98507,Hermanas Hernández,Zacatecas,32,Calera,005,Víctor Rosales,12,23.1091,-102.6536,3,hermanas-hernandez
+MX,Mexico,México,98507,SUTSEMOP,Zacatecas,32,Calera,005,Víctor Rosales,12,23.1091,-102.6536,3,sutsemop
+MX,Mexico,México,98507,Real de Calera,Zacatecas,32,Calera,005,Víctor Rosales,12,23.1091,-102.6536,3,real-de-calera
+MX,Mexico,México,98508,Las Kilihuas,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9694,-102.6764,3,las-kilihuas
+MX,Mexico,México,98508,Florencio Quezada,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9694,-102.6764,3,florencio-quezada
+MX,Mexico,México,98508,Ma. Teresa de Jesús,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9694,-102.6764,3,ma-teresa-de-jesus
+MX,Mexico,México,98508,Las Flores,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,las-flores
+MX,Mexico,México,98508,La Huerta,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9569,-102.7468,3,la-huerta
+MX,Mexico,México,98508,La Granja,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9694,-102.6764,4,la-granja
+MX,Mexico,México,98508,El Tambo,Zacatecas,32,Calera,005,Víctor Rosales,12,22.9694,-102.6764,3,el-tambo
+MX,Mexico,México,98510,Ramón López Velarde,Zacatecas,32,Calera,005,,,23.056,-102.6868,4,ramon-lopez-velarde
+MX,Mexico,México,98513,Francisco I. Madero (Coyotes),Zacatecas,32,Calera,005,,,23.0706,-102.6336,3,francisco-i-madero-coyotes
+MX,Mexico,México,98513,Nueva Colonia Francisco I. Madero,Zacatecas,32,Calera,005,,,23.0706,-102.6336,3,nueva-colonia-francisco-i-madero
+MX,Mexico,México,98513,Las Amarradas (Hilario Alvarado Medina),Zacatecas,32,Calera,005,,,23.0878,-102.6347,4,las-amarradas-hilario-alvarado-medina
+MX,Mexico,México,98513,La Sauceda,Zacatecas,32,Calera,005,,,23.0794,-102.6258,4,la-sauceda
+MX,Mexico,México,98513,Las Auras,Zacatecas,32,Calera,005,,,23.0392,-102.6436,4,las-auras
+MX,Mexico,México,98513,San Benito (Sector Felipe Ángeles),Zacatecas,32,Calera,005,,,23.0758,-102.6303,4,san-benito-sector-felipe-angeles
+MX,Mexico,México,98514,Laguna de las Jarillas,Zacatecas,32,Calera,005,,,23.0021,-102.6365,3,laguna-de-las-jarillas
+MX,Mexico,México,98514,Los Cuates,Zacatecas,32,Calera,005,,,22.9964,-102.6378,4,los-cuates
+MX,Mexico,México,98514,San Isidro,Zacatecas,32,Calera,005,,,23.0183,-102.6286,4,san-isidro
+MX,Mexico,México,98514,Los Gutiérrez,Zacatecas,32,Calera,005,,,23.0206,-102.6411,4,los-gutierrez
+MX,Mexico,México,98514,La Dientona (Los Cuates),Zacatecas,32,Calera,005,,,23.0021,-102.6365,3,la-dientona-los-cuates
+MX,Mexico,México,98514,Monte de Abajo,Zacatecas,32,Calera,005,,,22.9736,-102.6508,4,monte-de-abajo
+MX,Mexico,México,98514,San Antonio (Alfonso Mejía),Zacatecas,32,Calera,005,,,22.9833,-102.6264,4,san-antonio-alfonso-mejia
+MX,Mexico,México,98514,Rancho de Jarillas,Zacatecas,32,Calera,005,,,23.0206,-102.6344,4,rancho-de-jarillas
+MX,Mexico,México,98515,Palma Delgadita (San José de la Palma),Zacatecas,32,Calera,005,,,23.0225,-102.6508,4,palma-delgadita-san-jose-de-la-palma
+MX,Mexico,México,98516,El Vergel,Zacatecas,32,Calera,005,,,22.9994,-102.6836,4,el-vergel
+MX,Mexico,México,98516,El Tanque,Zacatecas,32,Calera,005,,,22.9661,-102.7083,4,el-tanque
+MX,Mexico,México,98517,Los Nogales,Zacatecas,32,Calera,005,,,22.9336,-102.6725,4,los-nogales
+MX,Mexico,México,98517,El Refugio,Zacatecas,32,Calera,005,,,22.9497,-102.6458,4,el-refugio
+MX,Mexico,México,98517,El Porvenir,Zacatecas,32,Calera,005,,,22.945,-102.6667,4,el-porvenir
+MX,Mexico,México,98519,Mega Parque Industrial Aeropuerto de Calera,Zacatecas,32,Calera,005,,,23.0098,-102.6511,1,mega-parque-industrial-aeropuerto-de-calera
+MX,Mexico,México,98519,Zacatecas (Gral. Leobardo C. Ruiz),Zacatecas,32,Calera,005,,,23.0098,-102.6511,1,zacatecas-gral-leobardo-c-ruiz
+MX,Mexico,México,98520,Río Frío,Zacatecas,32,Calera,005,,,22.9243,-102.804,4,rio-frio
+MX,Mexico,México,98523,La Laborcilla,Zacatecas,32,Calera,005,,,22.9394,-102.7367,4,la-laborcilla
+MX,Mexico,México,98523,San Francisco,Zacatecas,32,Calera,005,,,22.9683,-102.6708,4,san-francisco
+MX,Mexico,México,98526,Nueva Alianza (Ñates),Zacatecas,32,Calera,005,,,22.8975,-102.8583,4,nueva-alianza-nates
+MX,Mexico,México,98480,Cañitas de Felipe Pescador,Zacatecas,32,Cañitas de Felipe Pescador,006,,,23.6037,-102.727,4,canitas-de-felipe-pescador
+MX,Mexico,México,98480,Cañitas,Zacatecas,32,Cañitas de Felipe Pescador,006,,,23.6037,-102.727,4,canitas
+MX,Mexico,México,98490,Boquilla de Abajo,Zacatecas,32,Cañitas de Felipe Pescador,006,,,23.5549,-102.864,4,boquilla-de-abajo
+MX,Mexico,México,98200,El Cruce,Zacatecas,32,Concepción del Oro,007,,,24.6084,-101.3526,3,el-cruce
+MX,Mexico,México,98200,Cabrestante,Zacatecas,32,Concepción del Oro,007,,,24.6084,-101.3526,3,cabrestante
+MX,Mexico,México,98200,Concepción Del Oro,Zacatecas,32,Concepción del Oro,007,,,24.6133,-101.4184,4,concepcion-del-oro
+MX,Mexico,México,98200,Obrera,Zacatecas,32,Concepción del Oro,007,,,24.4532,-101.2412,3,obrera
+MX,Mexico,México,98200,Las Lajas,Zacatecas,32,Concepción del Oro,007,,,24.4532,-101.2412,3,las-lajas
+MX,Mexico,México,98200,Estrella,Zacatecas,32,Concepción del Oro,007,,,24.4532,-101.2412,3,estrella
+MX,Mexico,México,98200,Chihuahua,Zacatecas,32,Concepción del Oro,007,,,24.4532,-101.2412,3,chihuahua
+MX,Mexico,México,98200,Bella Vista,Zacatecas,32,Concepción del Oro,007,,,24.4532,-101.2412,3,bella-vista
+MX,Mexico,México,98200,El Gracero,Zacatecas,32,Concepción del Oro,007,,,24.6084,-101.3526,3,el-gracero
+MX,Mexico,México,98200,Guadalupe Garzaron,Zacatecas,32,Concepción del Oro,007,,,24.5944,-101.1846,4,guadalupe-garzaron
+MX,Mexico,México,98200,Aranzazu,Zacatecas,32,Concepción del Oro,007,,,24.6175,-101.4548,4,aranzazu
+MX,Mexico,México,98204,El Cobre,Zacatecas,32,Concepción del Oro,007,,,24.6175,-101.4548,4,el-cobre
+MX,Mexico,México,98205,Mesillas,Zacatecas,32,Concepción del Oro,007,,,24.3773,-101.268,4,mesillas
+MX,Mexico,México,98205,Anáhuac,Zacatecas,32,Concepción del Oro,007,,,24.5289,-101.3364,4,anahuac
+MX,Mexico,México,98209,Avalos,Zacatecas,32,Concepción del Oro,007,,,24.74,-101.3996,4,avalos
+MX,Mexico,México,98210,El Durazno,Zacatecas,32,Concepción del Oro,007,,,24.2584,-101.189,4,el-durazno
+MX,Mexico,México,98210,Morelos,Zacatecas,32,Concepción del Oro,007,,,24.435,-101.2014,4,morelos
+MX,Mexico,México,98211,Progreso de Agua Dulce,Zacatecas,32,Concepción del Oro,007,,,24.4586,-101.0553,4,progreso-de-agua-dulce
+MX,Mexico,México,98211,Coyotillos,Zacatecas,32,Concepción del Oro,007,,,24.4532,-101.2412,3,coyotillos
+MX,Mexico,México,98212,Los Encinos,Zacatecas,32,Concepción del Oro,007,,,24.195,-101.0986,4,los-encinos
+MX,Mexico,México,98212,Tanque Del Alto,Zacatecas,32,Concepción del Oro,007,,,24.4833,-101.0833,4,tanque-del-alto
+MX,Mexico,México,98680,Piedra Gorda,Zacatecas,32,Cuauhtémoc,008,,,22.5076,-102.3319,4,piedra-gorda
+MX,Mexico,México,98680,San Pedro Piedra Gorda,Zacatecas,32,Cuauhtémoc,008,,,22.4475,-102.3488,4,san-pedro-piedra-gorda
+MX,Mexico,México,98680,Rancho Nuevo,Zacatecas,32,Cuauhtémoc,008,,,22.4078,-102.3486,4,rancho-nuevo
+MX,Mexico,México,98689,Berriozabal,Zacatecas,32,Cuauhtémoc,008,,,22.4543,-102.3431,1,berriozabal
+MX,Mexico,México,98690,Ciudad Cuauhtémoc Centro,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4449,-102.3532,1,ciudad-cuauhtemoc-centro
+MX,Mexico,México,98692,Lázaro Cárdenas 2a Sección,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4449,-102.3532,1,lazaro-cardenas-2a-seccion
+MX,Mexico,México,98692,Lázaro Cárdenas,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4449,-102.3532,1,lazaro-cardenas
+MX,Mexico,México,98693,Potrerillos,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4449,-102.3532,1,potrerillos
+MX,Mexico,México,98693,Asencion Torres,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4449,-102.3532,1,asencion-torres
+MX,Mexico,México,98694,Castorena,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4472,-102.344,4,castorena
+MX,Mexico,México,98694,La Rinconada,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4472,-102.344,3,la-rinconada
+MX,Mexico,México,98695,Morelos,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4416,-102.3534,4,morelos
+MX,Mexico,México,98696,Las Torres,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4415,-102.3597,4,las-torres
+MX,Mexico,México,98696,La Piedad,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4411,-102.3571,4,la-piedad
+MX,Mexico,México,98696,Independiente,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.444,-102.356,4,independiente
+MX,Mexico,México,98697,Independencia,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4488,-102.3902,1,independencia
+MX,Mexico,México,98698,La Gavia,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4539,-102.3491,4,la-gavia
+MX,Mexico,México,98698,Las Gallinas,Zacatecas,32,Cuauhtémoc,008,Ciudad Cuauhtémoc,06,22.4488,-102.3902,3,las-gallinas
+MX,Mexico,México,99260,Jose Maria Morelos,Zacatecas,32,Chalchihuites,009,,,23.3937,-103.8989,4,jose-maria-morelos
+MX,Mexico,México,99260,Chalchihuites,Zacatecas,32,Chalchihuites,009,,,23.475,-103.8829,4,chalchihuites
+MX,Mexico,México,99260,Colorada,Zacatecas,32,Chalchihuites,009,,,23.3828,-103.7584,4,colorada
+MX,Mexico,México,99270,Canutillo,Zacatecas,32,Chalchihuites,009,,,23.5444,-103.7867,4,canutillo
+MX,Mexico,México,99270,San Jose de Buenavista,Zacatecas,32,Chalchihuites,009,,,23.5173,-103.9286,4,san-jose-de-buenavista
+MX,Mexico,México,99279,Gualterio,Zacatecas,32,Chalchihuites,009,,,23.5836,-103.859,4,gualterio
+MX,Mexico,México,99000,Fresnillo Centro,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,fresnillo-centro
+MX,Mexico,México,99010,Emiliano Zapata,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,1,emiliano-zapata
+MX,Mexico,México,99010,Napoleón Gómez Sada,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,1,napoleon-gomez-sada
+MX,Mexico,México,99010,Lomas del Mineral,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,1,lomas-del-mineral
+MX,Mexico,México,99010,Solidaridad,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,1,solidaridad
+MX,Mexico,México,99011,Lomas de Plateros,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,1,lomas-de-plateros
+MX,Mexico,México,99013,Sector Popular,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,1,sector-popular
+MX,Mexico,México,99013,Plutarco Elias Calles,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,1,plutarco-elias-calles
+MX,Mexico,México,99014,Azteca,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,azteca
+MX,Mexico,México,99014,Nueva Esperanza,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,3,nueva-esperanza
+MX,Mexico,México,99014,Ampliación Azteca,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,3,ampliacion-azteca
+MX,Mexico,México,99014,Patria y Libertad,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,3,patria-y-libertad
+MX,Mexico,México,99014,Petroleos Mexicanos,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,3,petroleos-mexicanos
+MX,Mexico,México,99014,Plan de Ayala,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.389,-103.1415,3,plan-de-ayala
+MX,Mexico,México,99014,Lázaro Cárdenas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.4506,-102.9625,4,lazaro-cardenas
+MX,Mexico,México,99014,Francisco I Madero,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.3274,-103.3205,4,francisco-i-madero
+MX,Mexico,México,99020,Magisterial,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,magisterial
+MX,Mexico,México,99020,El Fresno,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1611,-102.8288,4,el-fresno
+MX,Mexico,México,99020,Benito Juárez,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1611,-102.8288,3,benito-juarez
+MX,Mexico,México,99020,Francisco Goytia INFONAVIT,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1611,-102.8288,3,francisco-goytia-infonavit
+MX,Mexico,México,99020,Tecnológica,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1611,-102.8288,3,tecnologica
+MX,Mexico,México,99030,El Parque,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2341,-102.9419,3,el-parque
+MX,Mexico,México,99030,Buenos Aires,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.115,-103.1645,4,buenos-aires
+MX,Mexico,México,99030,San Miguel,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.3533,-102.7193,4,san-miguel
+MX,Mexico,México,99030,Las Américas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,las-americas
+MX,Mexico,México,99030,Industrial,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,industrial
+MX,Mexico,México,99033,Ejidal 3,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.3136,-102.9693,1,ejidal-3
+MX,Mexico,México,99034,La Joya,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,1,la-joya
+MX,Mexico,México,99034,Miguel Hidalgo,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,1,miguel-hidalgo
+MX,Mexico,México,99034,Lienzo Charro,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.3136,-102.9693,1,lienzo-charro
+MX,Mexico,México,99036,Luis Donaldo Colosio,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.5589,-102.8884,4,luis-donaldo-colosio
+MX,Mexico,México,99039,Universidad,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2271,-103.1048,3,universidad
+MX,Mexico,México,99039,Lindavista,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2271,-103.1048,4,lindavista
+MX,Mexico,México,99040,Del Policía,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,del-policia
+MX,Mexico,México,99040,Lasalle,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,lasalle
+MX,Mexico,México,99040,Jose Maria Vázquez,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,jose-maria-vazquez
+MX,Mexico,México,99040,Periodistas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,periodistas
+MX,Mexico,México,99049,18 de Julio Indeco,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,18-de-julio-indeco
+MX,Mexico,México,99050,Obrera Norte,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1402,-103.2588,3,obrera-norte
+MX,Mexico,México,99050,Jesús Gonzalez Ortega,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,4,jesus-gonzalez-ortega
+MX,Mexico,México,99050,Del Fresno,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,del-fresno
+MX,Mexico,México,99050,Las Flores,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.3922,-103.0339,4,las-flores
+MX,Mexico,México,99054,Francisco Villa,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,1,francisco-villa
+MX,Mexico,México,99054,Las Haciendas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1911,-103.2079,1,las-haciendas
+MX,Mexico,México,99054,Ecología,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1911,-103.2079,1,ecologia
+MX,Mexico,México,99054,Huertas de Abajo,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1911,-103.2079,1,huertas-de-abajo
+MX,Mexico,México,99055,Del Sol,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.1911,-103.2079,1,del-sol
+MX,Mexico,México,99056,Villas de Plateros,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2419,-103.157,3,villas-de-plateros
+MX,Mexico,México,99056,Parque Industrial Fresnillo,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2419,-103.157,3,parque-industrial-fresnillo
+MX,Mexico,México,99056,Real de Fresnillo,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.222,-103.0374,4,real-de-fresnillo
+MX,Mexico,México,99056,Felipe Angeles,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2618,-103.2765,4,felipe-angeles
+MX,Mexico,México,99056,Arboledas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,arboledas
+MX,Mexico,México,99056,Los Balcones,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2419,-103.157,3,los-balcones
+MX,Mexico,México,99060,Lagunilla,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.0719,-102.7722,4,lagunilla
+MX,Mexico,México,99070,El Olivar Manuel M. Ponce,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,el-olivar-manuel-m-ponce
+MX,Mexico,México,99070,Barrio Alto,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.208,-103.0723,1,barrio-alto
+MX,Mexico,México,99080,Lomas de La Fortuna,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,3,lomas-de-la-fortuna
+MX,Mexico,México,99080,Real de Minas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,real-de-minas
+MX,Mexico,México,99080,La Paz,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,3,la-paz
+MX,Mexico,México,99080,Esparza,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,3,esparza
+MX,Mexico,México,99080,FOVISSSTE Lic. Roque Estrada,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,3,fovissste-lic-roque-estrada
+MX,Mexico,México,99080,Fortuna,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,3,fortuna
+MX,Mexico,México,99080,El Vergel,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,4,el-vergel
+MX,Mexico,México,99084,Del Valle,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,1,del-valle
+MX,Mexico,México,99084,Los Sotoles,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,1,los-sotoles
+MX,Mexico,México,99084,Ejidal 4,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2262,-103.0462,1,ejidal-4
+MX,Mexico,México,99089,Minera,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,1,minera
+MX,Mexico,México,99090,Maravillas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.0241,-103.1724,1,maravillas
+MX,Mexico,México,99090,Electricistas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.0241,-103.1724,1,electricistas
+MX,Mexico,México,99094,Polvaderas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,polvaderas
+MX,Mexico,México,99094,Muralista,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,muralista
+MX,Mexico,México,99094,Los Olivos,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,los-olivos
+MX,Mexico,México,99094,Mesoamerica,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,mesoamerica
+MX,Mexico,México,99094,Impresionistas,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,impresionistas
+MX,Mexico,México,99094,Magisterio Unido,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,magisterio-unido
+MX,Mexico,México,99094,San Felipe,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,san-felipe
+MX,Mexico,México,99094,Del Bosque,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,del-bosque
+MX,Mexico,México,99094,Victoria,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,3,victoria
+MX,Mexico,México,99094,Providencia,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.034,-103.1879,4,providencia
+MX,Mexico,México,99094,Magisterial,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,3,magisterial
+MX,Mexico,México,99095,Villas del Campestre,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.15,-102.8456,4,villas-del-campestre
+MX,Mexico,México,99099,Jesús Gonzalez Ortega,Zacatecas,32,Fresnillo,010,Fresnillo,01,23.2368,-102.996,4,jesus-gonzalez-ortega
+MX,Mexico,México,99099,Venustiano Carranza,Zacatecas,32,Fresnillo,010,Fresnillo,01,22.8882,-103.4837,3,venustiano-carranza
+MX,Mexico,México,99099,Villas Jardín,Zacatecas,32,Fresnillo,010,Fresnillo,01,22.8882,-103.4837,3,villas-jardin
+MX,Mexico,México,99150,El Pardillo Tercero,Zacatecas,32,Fresnillo,010,,,23.1389,-102.7952,3,el-pardillo-tercero
+MX,Mexico,México,99150,Fresnillo,Zacatecas,32,Fresnillo,010,,,23.1813,-102.8714,4,fresnillo
+MX,Mexico,México,99150,Las Catarinas,Zacatecas,32,Fresnillo,010,,,23.0912,-102.616,4,las-catarinas
+MX,Mexico,México,99150,El Modelo,Zacatecas,32,Fresnillo,010,,,23.1389,-102.7952,3,el-modelo
+MX,Mexico,México,99150,Los Chilitos,Zacatecas,32,Fresnillo,010,,,23.1389,-102.7952,3,los-chilitos
+MX,Mexico,México,99150,El Pardillo Segundo,Zacatecas,32,Fresnillo,010,,,23.1389,-102.7952,3,el-pardillo-segundo
+MX,Mexico,México,99150,El Pardillo Primero,Zacatecas,32,Fresnillo,010,,,23.1778,-102.7503,4,el-pardillo-primero
+MX,Mexico,México,99150,Miguel Hidalgo,Zacatecas,32,Fresnillo,010,,,23.2368,-102.996,3,miguel-hidalgo
+MX,Mexico,México,99150,Santiaguillo,Zacatecas,32,Fresnillo,010,,,23.1472,-102.6524,4,santiaguillo
+MX,Mexico,México,99150,Purísima del Maguey,Zacatecas,32,Fresnillo,010,,,23.0322,-102.8942,4,purisima-del-maguey
+MX,Mexico,México,99150,Carrillo,Zacatecas,32,Fresnillo,010,,,23.204,-102.9868,4,carrillo
+MX,Mexico,México,99154,Santa Ana,Zacatecas,32,Fresnillo,010,,,23.2137,-102.7389,4,santa-ana
+MX,Mexico,México,99158,Plateros,Zacatecas,32,Fresnillo,010,,,23.2292,-102.8429,4,plateros
+MX,Mexico,México,99159,Chichimequillas,Zacatecas,32,Fresnillo,010,,,23.2389,-102.5785,4,chichimequillas
+MX,Mexico,México,99160,El Centro,Zacatecas,32,Fresnillo,010,,,23.3892,-103.3048,4,el-centro
+MX,Mexico,México,99160,Francisco I Madero,Zacatecas,32,Fresnillo,010,,,23.3274,-103.3205,4,francisco-i-madero
+MX,Mexico,México,99160,La Casita,Zacatecas,32,Fresnillo,010,,,23.3956,-103.2561,4,la-casita
+MX,Mexico,México,99160,Vicente Guerrero,Zacatecas,32,Fresnillo,010,,,23.25,-103.0667,4,vicente-guerrero
+MX,Mexico,México,99160,Vasco de Quiroga,Zacatecas,32,Fresnillo,010,,,23.3536,-103.4737,4,vasco-de-quiroga
+MX,Mexico,México,99170,Baluarte,Zacatecas,32,Fresnillo,010,,,23.4035,-103.0356,4,baluarte
+MX,Mexico,México,99170,San Ignacio,Zacatecas,32,Fresnillo,010,,,23.327,-102.9953,4,san-ignacio
+MX,Mexico,México,99170,Jose Maria Morelos,Zacatecas,32,Fresnillo,010,,,23.3228,-103.0144,4,jose-maria-morelos
+MX,Mexico,México,99170,Montemariana (Colonia Mariana),Zacatecas,32,Fresnillo,010,,,23.3264,-103.1122,4,montemariana-colonia-mariana
+MX,Mexico,México,99170,6 de Enero,Zacatecas,32,Fresnillo,010,,,23.3449,-103.0296,3,6-de-enero
+MX,Mexico,México,99170,Rio Florido,Zacatecas,32,Fresnillo,010,,,23.3446,-102.9904,4,rio-florido
+MX,Mexico,México,99178,Plenitud,Zacatecas,32,Fresnillo,010,,,23.2325,-103.0754,4,plenitud
+MX,Mexico,México,99178,Los Álamos,Zacatecas,32,Fresnillo,010,,,23.2368,-102.996,3,los-alamos
+MX,Mexico,México,99178,San Vicente de Plenitud (San Vicente),Zacatecas,32,Fresnillo,010,,,23.2325,-103.0754,3,san-vicente-de-plenitud-san-vicente
+MX,Mexico,México,99179,El Salto,Zacatecas,32,Fresnillo,010,,,23.1956,-103.0675,4,el-salto
+MX,Mexico,México,99179,Tapias de Santa Cruz,Zacatecas,32,Fresnillo,010,,,23.1889,-103.1311,4,tapias-de-santa-cruz
+MX,Mexico,México,99179,El Epazote,Zacatecas,32,Fresnillo,010,,,23.1772,-103.1477,4,el-epazote
+MX,Mexico,México,99180,Gutiérrez,Zacatecas,32,Fresnillo,010,,,23.4032,-102.97,1,gutierrez
+MX,Mexico,México,99182,El Mezquite (Gumercindo Martínez Rodríguez),Zacatecas,32,Fresnillo,010,,,23.4032,-102.97,1,el-mezquite-gumercindo-martinez-rodriguez
+MX,Mexico,México,99188,San Pablo de Rancho Grande,Zacatecas,32,Fresnillo,010,,,23.5516,-102.9137,4,san-pablo-de-rancho-grande
+MX,Mexico,México,99188,Rancho Grande,Zacatecas,32,Fresnillo,010,,,23.4666,-102.9502,3,rancho-grande
+MX,Mexico,México,99188,Altamira,Zacatecas,32,Fresnillo,010,,,23.3817,-102.9867,4,altamira
+MX,Mexico,México,99189,San Jose de Lourdes,Zacatecas,32,Fresnillo,010,,,23.2765,-103.0097,4,san-jose-de-lourdes
+MX,Mexico,México,99190,Matías Ramos,Zacatecas,32,Fresnillo,010,,,23.0907,-103.1837,4,matias-ramos
+MX,Mexico,México,99190,Agrícola Guanajuato,Zacatecas,32,Fresnillo,010,,,23.0386,-103.165,3,agricola-guanajuato
+MX,Mexico,México,99190,San Isidro de Cabrales,Zacatecas,32,Fresnillo,010,,,23.0659,-103.1652,4,san-isidro-de-cabrales
+MX,Mexico,México,99190,Santa Rosa,Zacatecas,32,Fresnillo,010,,,22.9279,-103.1123,4,santa-rosa
+MX,Mexico,México,99190,Guadalupe de Trujillo,Zacatecas,32,Fresnillo,010,,,23.07,-103.1989,4,guadalupe-de-trujillo
+MX,Mexico,México,99198,Labor de Santa Bárbara,Zacatecas,32,Fresnillo,010,,,23.0148,-103.2043,4,labor-de-santa-barbara
+MX,Mexico,México,99199,Trujillo,Zacatecas,32,Fresnillo,010,,,23.1597,-103.1792,4,trujillo
+MX,Mexico,México,99199,San Jose Del Rio,Zacatecas,32,Fresnillo,010,,,23.2023,-103.2711,4,san-jose-del-rio
+MX,Mexico,México,99830,Garcia de La Cadena,Zacatecas,32,Trinidad García de la Cadena,011,,,21.2103,-103.4653,4,garcia-de-la-cadena
+MX,Mexico,México,99830,La Ceja,Zacatecas,32,Trinidad García de la Cadena,011,,,21.2456,-103.4656,4,la-ceja
+MX,Mexico,México,99830,Los Horconcillos,Zacatecas,32,Trinidad García de la Cadena,011,,,21.228,-103.4655,3,los-horconcillos
+MX,Mexico,México,98660,Santa Inés,Zacatecas,32,Genaro Codina,012,,,22.541,-102.4879,4,santa-ines
+MX,Mexico,México,98660,Genaro Codina,Zacatecas,32,Genaro Codina,012,,,22.4876,-102.4575,4,genaro-codina
+MX,Mexico,México,98667,La Toma,Zacatecas,32,Genaro Codina,012,,,22.5336,-102.5628,4,la-toma
+MX,Mexico,México,98667,Santa Gertrudis,Zacatecas,32,Genaro Codina,012,,,22.5219,-102.5142,4,santa-gertrudis
+MX,Mexico,México,98670,Santa Cruz de Piedras Cargadas,Zacatecas,32,Genaro Codina,012,,,22.4951,-102.601,4,santa-cruz-de-piedras-cargadas
+MX,Mexico,México,98670,Macarenos,Zacatecas,32,Genaro Codina,012,,,22.4692,-102.6461,4,macarenos
+MX,Mexico,México,98677,Lechuguilla,Zacatecas,32,Genaro Codina,012,,,22.5411,-102.6758,4,lechuguilla
+MX,Mexico,México,98560,Agua Azul,Zacatecas,32,General Enrique Estrada,013,,,22.9881,-102.653,1,agua-azul
+MX,Mexico,México,98560,Gral. Enrique Estrada,Zacatecas,32,General Enrique Estrada,013,,,22.9881,-102.653,1,gral-enrique-estrada
+MX,Mexico,México,98561,Adjuntas Del Peñasco,Zacatecas,32,General Enrique Estrada,013,,,22.9881,-102.653,1,adjuntas-del-penasco
+MX,Mexico,México,98350,Luis Moya I,Zacatecas,32,General Francisco R. Murguía,014,,,23.9702,-102.9682,3,luis-moya-i
+MX,Mexico,México,98350,Tazajillo,Zacatecas,32,General Francisco R. Murguía,014,,,23.9702,-102.9682,3,tazajillo
+MX,Mexico,México,98350,Santa Rita,Zacatecas,32,General Francisco R. Murguía,014,,,23.9442,-102.9163,4,santa-rita
+MX,Mexico,México,98350,Panteón Viejo,Zacatecas,32,General Francisco R. Murguía,014,,,23.9702,-102.9682,3,panteon-viejo
+MX,Mexico,México,98350,La Cuesta,Zacatecas,32,General Francisco R. Murguía,014,,,23.9702,-102.9682,3,la-cuesta
+MX,Mexico,México,98350,Magisterial,Zacatecas,32,General Francisco R. Murguía,014,,,24.1374,-102.8115,3,magisterial
+MX,Mexico,México,98350,Torrecilla,Zacatecas,32,General Francisco R. Murguía,014,,,24.1374,-102.8115,3,torrecilla
+MX,Mexico,México,98350,Nieves,Zacatecas,32,General Francisco R. Murguía,014,,,23.9961,-103.0201,4,nieves
+MX,Mexico,México,98351,Francisco I Madero,Zacatecas,32,General Francisco R. Murguía,014,,,23.9311,-102.954,4,francisco-i-madero
+MX,Mexico,México,98360,Valenciana,Zacatecas,32,General Francisco R. Murguía,014,,,24.1667,-103.1833,4,valenciana
+MX,Mexico,México,98367,Villa Lázaro Cárdenas,Zacatecas,32,General Francisco R. Murguía,014,,,24.1907,-103.1557,1,villa-lazaro-cardenas
+MX,Mexico,México,98368,San Lucas,Zacatecas,32,General Francisco R. Murguía,014,,,24.192,-103.1011,4,san-lucas
+MX,Mexico,México,98369,La Laguna,Zacatecas,32,General Francisco R. Murguía,014,,,24.2135,-103.1828,4,la-laguna
+MX,Mexico,México,98370,San Gil,Zacatecas,32,General Francisco R. Murguía,014,,,24.1948,-102.981,4,san-gil
+MX,Mexico,México,98370,El Potrero,Zacatecas,32,General Francisco R. Murguía,014,,,24.1374,-102.8115,4,el-potrero
+MX,Mexico,México,98370,San Jose de los Morteros,Zacatecas,32,General Francisco R. Murguía,014,,,24.0939,-103.0119,3,san-jose-de-los-morteros
+MX,Mexico,México,98370,Apaseo,Zacatecas,32,General Francisco R. Murguía,014,,,24.2644,-103.0389,4,apaseo
+MX,Mexico,México,98380,Las Norias,Zacatecas,32,General Francisco R. Murguía,014,,,24.2967,-102.6986,4,las-norias
+MX,Mexico,México,98380,Atotonilco,Zacatecas,32,General Francisco R. Murguía,014,,,24.2328,-102.8232,4,atotonilco
+MX,Mexico,México,98387,Matías Ramos (El Tánger),Zacatecas,32,General Francisco R. Murguía,014,,,24.192,-102.7308,4,matias-ramos-el-tanger
+MX,Mexico,México,98390,Pacheco,Zacatecas,32,General Francisco R. Murguía,014,,,24.0114,-102.4322,4,pacheco
+MX,Mexico,México,99590,Gral. Joaquín Amaro,Zacatecas,32,El Plateado de Joaquín Amaro,015,,,22.069,-103.0385,1,gral-joaquin-amaro
+MX,Mexico,México,99592,Antonio R Vela,Zacatecas,32,El Plateado de Joaquín Amaro,015,,,22.0936,-103.0337,4,antonio-r-vela
+MX,Mexico,México,99593,San Antonio de La Calera,Zacatecas,32,El Plateado de Joaquín Amaro,015,,,22.0443,-103.0432,4,san-antonio-de-la-calera
+MX,Mexico,México,98730,Las Animas,Zacatecas,32,General Pánfilo Natera,016,,,22.6411,-102.1071,4,las-animas
+MX,Mexico,México,98730,San Rafael,Zacatecas,32,General Pánfilo Natera,016,,,22.6284,-102.0511,4,san-rafael
+MX,Mexico,México,98730,Santa Cruz,Zacatecas,32,General Pánfilo Natera,016,,,22.5289,-102.0947,4,santa-cruz
+MX,Mexico,México,98730,Santa Fe,Zacatecas,32,General Pánfilo Natera,016,,,22.6519,-102.1942,4,santa-fe
+MX,Mexico,México,98730,El Tule,Zacatecas,32,General Pánfilo Natera,016,,,22.6413,-102.0383,4,el-tule
+MX,Mexico,México,98730,Piedra Azul,Zacatecas,32,General Pánfilo Natera,016,,,22.6183,-102.0971,3,piedra-azul
+MX,Mexico,México,98730,Presidentes,Zacatecas,32,General Pánfilo Natera,016,,,22.6183,-102.0971,3,presidentes
+MX,Mexico,México,98730,Barrio Alto,Zacatecas,32,General Pánfilo Natera,016,,,22.6183,-102.0971,3,barrio-alto
+MX,Mexico,México,98730,Buenavista,Zacatecas,32,General Pánfilo Natera,016,,,22.6902,-102.12,3,buenavista
+MX,Mexico,México,98730,San Juan Bautista,Zacatecas,32,General Pánfilo Natera,016,,,22.6902,-102.12,3,san-juan-bautista
+MX,Mexico,México,98730,Magisterial,Zacatecas,32,General Pánfilo Natera,016,,,22.6902,-102.12,3,magisterial
+MX,Mexico,México,98730,Gral. Pánfilo Natera Centro,Zacatecas,32,General Pánfilo Natera,016,,,22.6183,-102.0971,3,gral-panfilo-natera-centro
+MX,Mexico,México,98740,Unión de San Antonio,Zacatecas,32,General Pánfilo Natera,016,,,22.6618,-102.1672,4,union-de-san-antonio
+MX,Mexico,México,98740,La Tesorera,Zacatecas,32,General Pánfilo Natera,016,,,22.6971,-102.1167,4,la-tesorera
+MX,Mexico,México,98740,Las Amapolas,Zacatecas,32,General Pánfilo Natera,016,,,22.699,-102.0893,4,las-amapolas
+MX,Mexico,México,98740,Marin,Zacatecas,32,General Pánfilo Natera,016,,,22.765,-102.18,4,marin
+MX,Mexico,México,98740,El Saucito,Zacatecas,32,General Pánfilo Natera,016,,,22.7311,-102.0953,4,el-saucito
+MX,Mexico,México,98740,Guanajuatillo,Zacatecas,32,General Pánfilo Natera,016,,,22.7165,-102.1433,4,guanajuatillo
+MX,Mexico,México,98740,Noria Del Cerro,Zacatecas,32,General Pánfilo Natera,016,,,22.7622,-102.1122,4,noria-del-cerro
+MX,Mexico,México,98740,Santa Maria,Zacatecas,32,General Pánfilo Natera,016,,,22.6519,-102.1942,4,santa-maria
+MX,Mexico,México,98740,Presa Del Coloradito,Zacatecas,32,General Pánfilo Natera,016,,,22.7106,-102.1373,3,presa-del-coloradito
+MX,Mexico,México,98750,El Saladillo,Zacatecas,32,General Pánfilo Natera,016,,,22.6514,-101.9544,3,el-saladillo
+MX,Mexico,México,98750,Valle Del San Juan,Zacatecas,32,General Pánfilo Natera,016,,,22.6514,-101.9544,3,valle-del-san-juan
+MX,Mexico,México,98750,Pamanes,Zacatecas,32,General Pánfilo Natera,016,,,22.6514,-101.9544,4,pamanes
+MX,Mexico,México,98750,Las Escobas,Zacatecas,32,General Pánfilo Natera,016,,,22.6902,-102.12,3,las-escobas
+MX,Mexico,México,98760,La Haciendita,Zacatecas,32,General Pánfilo Natera,016,,,22.5803,-102.1333,4,la-haciendita
+MX,Mexico,México,98760,Santa Elena,Zacatecas,32,General Pánfilo Natera,016,,,22.5924,-102.0714,4,santa-elena
+MX,Mexico,México,98760,San Ramon,Zacatecas,32,General Pánfilo Natera,016,,,22.6397,-102.135,4,san-ramon
+MX,Mexico,México,98760,Rancho Nuevo,Zacatecas,32,General Pánfilo Natera,016,,,22.6094,-102.1172,4,rancho-nuevo
+MX,Mexico,México,98760,San Pablo,Zacatecas,32,General Pánfilo Natera,016,,,22.5594,-102.0999,4,san-pablo
+MX,Mexico,México,98760,Providencia,Zacatecas,32,General Pánfilo Natera,016,,,22.6339,-102.1747,4,providencia
+MX,Mexico,México,98760,Las Animas,Zacatecas,32,General Pánfilo Natera,016,,,22.6411,-102.1071,4,las-animas
+MX,Mexico,México,98760,Tahonas,Zacatecas,32,General Pánfilo Natera,016,,,22.6103,-102.1366,4,tahonas
+MX,Mexico,México,98600,Guadalupe Centro,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7475,-102.517,4,guadalupe-centro
+MX,Mexico,México,98600,La Purísima,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9174,-102.3373,4,la-purisima
+MX,Mexico,México,98600,1910,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8026,-102.4565,3,1910
+MX,Mexico,México,98600,Privada del Santuario,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8026,-102.4565,3,privada-del-santuario
+MX,Mexico,México,98600,Santa Rita,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,4,santa-rita
+MX,Mexico,México,98600,Lindavista,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,lindavista
+MX,Mexico,México,98600,Ramon Lopez Velarde,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,ramon-lopez-velarde
+MX,Mexico,México,98600,La Industrial,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8026,-102.4565,3,la-industrial
+MX,Mexico,México,98604,Valle de los Encinos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7475,-102.5187,3,valle-de-los-encinos
+MX,Mexico,México,98604,Paseo Real,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7475,-102.5187,3,paseo-real
+MX,Mexico,México,98604,La Ladrillera,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7475,-102.5187,3,la-ladrillera
+MX,Mexico,México,98604,Nuevo Mercurio,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,nuevo-mercurio
+MX,Mexico,México,98604,Guadalupe,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7475,-102.5187,4,guadalupe
+MX,Mexico,México,98605,Mezquitillos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7317,-102.5096,4,mezquitillos
+MX,Mexico,México,98605,Solidaridad (José Ives Limantour),Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,solidaridad-jose-ives-limantour
+MX,Mexico,México,98605,Real de San Ramón,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,real-de-san-ramon
+MX,Mexico,México,98605,El Manantial,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,el-manantial
+MX,Mexico,México,98605,El Hípico,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,el-hipico
+MX,Mexico,México,98605,El Montecito,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,el-montecito
+MX,Mexico,México,98605,El Rosal,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,el-rosal
+MX,Mexico,México,98605,Ampliación Limantour,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,ampliacion-limantour
+MX,Mexico,México,98605,Conquistadores,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,conquistadores
+MX,Mexico,México,98605,Doroteo Arango,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,doroteo-arango
+MX,Mexico,México,98605,Real de San Gabriel,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,real-de-san-gabriel
+MX,Mexico,México,98605,La Esperanza,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6026,-102.4881,4,la-esperanza
+MX,Mexico,México,98605,Las Flores,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.729,-102.5078,4,las-flores
+MX,Mexico,México,98605,Arcoiris,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,arcoiris
+MX,Mexico,México,98605,San José (Ampliación Lo de Vega),Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7272,-102.5142,4,san-jose-ampliacion-lo-de-vega
+MX,Mexico,México,98605,División del Norte,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7308,-102.5146,4,division-del-norte
+MX,Mexico,México,98605,Guadalupe Industrial,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7428,-102.5018,4,guadalupe-industrial
+MX,Mexico,México,98605,Nueva Generación,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7339,-102.5107,4,nueva-generacion
+MX,Mexico,México,98605,Mina Azul,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,mina-azul
+MX,Mexico,México,98605,La Campesina,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,la-campesina
+MX,Mexico,México,98605,Los Frailes,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,los-frailes
+MX,Mexico,México,98605,Ampliación Campesina,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.714,-102.5067,3,ampliacion-campesina
+MX,Mexico,México,98606,Privada los Manantiales,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.73,-102.5229,3,privada-los-manantiales
+MX,Mexico,México,98606,Campestre San José,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.73,-102.5229,3,campestre-san-jose
+MX,Mexico,México,98606,Escritores,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7337,-102.5192,4,escritores
+MX,Mexico,México,98606,Jardines Del Sol II,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.73,-102.5229,3,jardines-del-sol-ii
+MX,Mexico,México,98606,Jardines del Sol,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7319,-102.5173,4,jardines-del-sol
+MX,Mexico,México,98606,Ojo de Agua de La Palma,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7315,-102.5236,4,ojo-de-agua-de-la-palma
+MX,Mexico,México,98606,Tonatiuh Magisterial,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7342,-102.5174,4,tonatiuh-magisterial
+MX,Mexico,México,98606,La Palma,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7315,-102.5236,4,la-palma
+MX,Mexico,México,98606,La Cantera,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7353,-102.5291,4,la-cantera
+MX,Mexico,México,98606,Santa Fe,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.735,-102.5218,4,santa-fe
+MX,Mexico,México,98606,Villas de Nápoles,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7341,-102.5275,4,villas-de-napoles
+MX,Mexico,México,98606,La Martinica,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7381,-102.5273,4,la-martinica
+MX,Mexico,México,98606,San Ramón,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6983,-102.525,4,san-ramon
+MX,Mexico,México,98606,El Mezquital,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7266,-102.5208,4,el-mezquital
+MX,Mexico,México,98606,Las Palmas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,las-palmas
+MX,Mexico,México,98607,Justo Sierra,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,justo-sierra
+MX,Mexico,México,98607,Lomas de Guadalupe,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8844,-102.2961,4,lomas-de-guadalupe
+MX,Mexico,México,98607,Los Angeles,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.75,-102.5257,4,los-angeles
+MX,Mexico,México,98607,Bellavista,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7428,-102.5225,4,bellavista
+MX,Mexico,México,98607,Barrio de Los Moros,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7577,-102.5011,3,barrio-de-los-moros
+MX,Mexico,México,98607,Margaritas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7381,-102.519,4,margaritas
+MX,Mexico,México,98607,La Providencia,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,la-providencia
+MX,Mexico,México,98607,San Jose de la Piedrera,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7577,-102.5011,3,san-jose-de-la-piedrera
+MX,Mexico,México,98607,Privada El Salero,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7577,-102.5011,3,privada-el-salero
+MX,Mexico,México,98607,De Loreto,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7577,-102.5011,3,de-loreto
+MX,Mexico,México,98607,Minas del Real,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7577,-102.5011,3,minas-del-real
+MX,Mexico,México,98607,Privada las Misiones,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7577,-102.5011,3,privada-las-misiones
+MX,Mexico,México,98607,Condominios del Sol,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7577,-102.5011,3,condominios-del-sol
+MX,Mexico,México,98607,El Salero,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.5291,4,el-salero
+MX,Mexico,México,98607,Las Quintas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7483,-102.5245,4,las-quintas
+MX,Mexico,México,98607,Ferrocarrileros,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7375,-102.524,4,ferrocarrileros
+MX,Mexico,México,98607,De la Estación,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7382,-102.5215,4,de-la-estacion
+MX,Mexico,México,98607,La Estación,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7382,-102.5215,4,la-estacion
+MX,Mexico,México,98607,Rincón Guadalupano,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7487,-102.527,4,rincon-guadalupano
+MX,Mexico,México,98608,Ampliación Arboledas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.751,-102.5382,4,ampliacion-arboledas
+MX,Mexico,México,98608,Del Carmen,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7502,-102.5364,3,del-carmen
+MX,Mexico,México,98608,Las Arboledas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7502,-102.5364,3,las-arboledas
+MX,Mexico,México,98608,Hidráulica 13 de Septiembre,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7502,-102.5364,3,hidraulica-13-de-septiembre
+MX,Mexico,México,98608,Del Parque,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7502,-102.5364,3,del-parque
+MX,Mexico,México,98608,Campo Bravo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7509,-102.5404,4,campo-bravo
+MX,Mexico,México,98608,SNTAS,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7502,-102.5364,3,sntas
+MX,Mexico,México,98608,Villas Del Carmen,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7503,-102.5325,4,villas-del-carmen
+MX,Mexico,México,98608,Jardines Del Carmen,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7488,-102.5345,4,jardines-del-carmen
+MX,Mexico,México,98608,Francisco García Salinas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,francisco-garcia-salinas
+MX,Mexico,México,98609,Bonaterra,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,bonaterra
+MX,Mexico,México,98609,Puerta Dorada,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,1,puerta-dorada
+MX,Mexico,México,98609,La Bufa I,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,la-bufa-i
+MX,Mexico,México,98609,Magisterio,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,magisterio
+MX,Mexico,México,98609,La Bufa II,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,la-bufa-ii
+MX,Mexico,México,98609,Mexicana de Aviación,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,mexicana-de-aviacion
+MX,Mexico,México,98609,Privada Trueno,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,privada-trueno
+MX,Mexico,México,98609,Lomas Del Convento,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,lomas-del-convento
+MX,Mexico,México,98609,S.T.U.A.Z.,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,s-t-u-a-z
+MX,Mexico,México,98609,Sector Santa Engracia,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,sector-santa-engracia
+MX,Mexico,México,98609,Privada Santa Rosa,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7434,-102.5096,1,privada-santa-rosa
+MX,Mexico,México,98610,La Toscana,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,la-toscana
+MX,Mexico,México,98610,Privada del Bosque,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,privada-del-bosque
+MX,Mexico,México,98610,Privada Conde Santiago de la Laguna,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,privada-conde-santiago-de-la-laguna
+MX,Mexico,México,98610,Privada Portanova,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,privada-portanova
+MX,Mexico,México,98610,Privada San Antonio,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,privada-san-antonio
+MX,Mexico,México,98610,Puerta de Plata,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,puerta-de-plata
+MX,Mexico,México,98610,INDECO Arroyo de la Plata,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,indeco-arroyo-de-la-plata
+MX,Mexico,México,98610,Lomas de Bernárdez Sección Plata,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,lomas-de-bernardez-seccion-plata
+MX,Mexico,México,98610,Lomas de Britania,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,lomas-de-britania
+MX,Mexico,México,98610,Lomas de Galicia,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,lomas-de-galicia
+MX,Mexico,México,98610,Los Prados,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,los-prados
+MX,Mexico,México,98610,Jardines de Bernardez,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,jardines-de-bernardez
+MX,Mexico,México,98610,Lomas de Bernardez,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,lomas-de-bernardez
+MX,Mexico,México,98610,Nuevo Bernardez,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,nuevo-bernardez
+MX,Mexico,México,98610,Santa Rita,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,4,santa-rita
+MX,Mexico,México,98610,La Cima,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,la-cima
+MX,Mexico,México,98610,Lomas del Pedregal,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,lomas-del-pedregal
+MX,Mexico,México,98610,Privada Santa María I y II,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7429,-102.5151,3,privada-santa-maria-i-y-ii
+MX,Mexico,México,98612,Quinta San Jerónimo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-san-jeronimo
+MX,Mexico,México,98612,Quinta San Gabriel,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-san-gabriel
+MX,Mexico,México,98612,Culturas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,culturas
+MX,Mexico,México,98612,Privada Santa Lucía,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,privada-santa-lucia
+MX,Mexico,México,98612,Montes Azules,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,montes-azules
+MX,Mexico,México,98612,Rinconada del Edén,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,rinconada-del-eden
+MX,Mexico,México,98612,Quinta Santa Teresita,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-santa-teresita
+MX,Mexico,México,98612,Quinta Santa Bárbara,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-santa-barbara
+MX,Mexico,México,98612,Quinta Santa María,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-santa-maria
+MX,Mexico,México,98612,Quinta Santa Ana,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-santa-ana
+MX,Mexico,México,98612,FOVISSSTE,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,fovissste
+MX,Mexico,México,98612,San Cosme,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,san-cosme
+MX,Mexico,México,98612,Las Américas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,las-americas
+MX,Mexico,México,98612,Unidad Deportiva,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,unidad-deportiva
+MX,Mexico,México,98612,Lomas de San Cristóbal,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,lomas-de-san-cristobal
+MX,Mexico,México,98612,Loma Bonita,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,loma-bonita
+MX,Mexico,México,98612,Los Conventos II,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,los-conventos-ii
+MX,Mexico,México,98612,Privada Real del Sol,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,privada-real-del-sol
+MX,Mexico,México,98612,Del Bosque,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,del-bosque
+MX,Mexico,México,98612,Jardines de Sauceda,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,jardines-de-sauceda
+MX,Mexico,México,98612,Los Conventos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,los-conventos
+MX,Mexico,México,98612,Issstezac,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,issstezac
+MX,Mexico,México,98612,Valles II,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,valles-ii
+MX,Mexico,México,98612,El Triángulo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,el-triangulo
+MX,Mexico,México,98612,Brisas del Campo,Zacatecas,32,Guadalupe,017,,,22.8513,-102.3656,3,brisas-del-campo
+MX,Mexico,México,98612,Villas Mariana,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,villas-mariana
+MX,Mexico,México,98612,Ampliación Américas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,ampliacion-americas
+MX,Mexico,México,98612,El Universo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,el-universo
+MX,Mexico,México,98612,Villa Real,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,4,villa-real
+MX,Mexico,México,98612,Quinta San Nicolás,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-san-nicolas
+MX,Mexico,México,98612,Campo Real,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,4,campo-real
+MX,Mexico,México,98612,Américas 3,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,americas-3
+MX,Mexico,México,98612,"La Antorcha de Zacatecas, A. C.",Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,la-antorcha-de-zacatecas-a-c
+MX,Mexico,México,98612,Magisterial Pedro Ruiz González,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,magisterial-pedro-ruiz-gonzalez
+MX,Mexico,México,98612,Quinta San Rafael,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-san-rafael
+MX,Mexico,México,98612,Quinta Santa Martha,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-santa-martha
+MX,Mexico,México,98612,Privada La Condesa,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,privada-la-condesa
+MX,Mexico,México,98612,Quinta San Fernando,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,quinta-san-fernando
+MX,Mexico,México,98612,Privada Sauceda,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,privada-sauceda
+MX,Mexico,México,98612,Del Agua,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,del-agua
+MX,Mexico,México,98612,Manuel M Ponce,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,manuel-m-ponce
+MX,Mexico,México,98612,Privada San Andrés,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,privada-san-andres
+MX,Mexico,México,98612,Valle Del Conde,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,valle-del-conde
+MX,Mexico,México,98612,Villas del Rey,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,villas-del-rey
+MX,Mexico,México,98612,Villas Bugambilias,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,villas-bugambilias
+MX,Mexico,México,98612,Magistrados,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,magistrados
+MX,Mexico,México,98612,Galerías,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,galerias
+MX,Mexico,México,98612,Villas de Guadalupe,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,villas-de-guadalupe
+MX,Mexico,México,98612,Américas 4,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,americas-4
+MX,Mexico,México,98612,Villas de San Fermín,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,villas-de-san-fermin
+MX,Mexico,México,98612,Montebello,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,montebello
+MX,Mexico,México,98612,Las Villas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,las-villas
+MX,Mexico,México,98612,Villafontana,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,villafontana
+MX,Mexico,México,98612,La Condesa,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,la-condesa
+MX,Mexico,México,98612,Las Torres,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,4,las-torres
+MX,Mexico,México,98612,Las Orquídeas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,las-orquideas
+MX,Mexico,México,98612,Privada de Los Olivos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,privada-de-los-olivos
+MX,Mexico,México,98612,Real Del Conde,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.8513,-102.3656,3,real-del-conde
+MX,Mexico,México,98612,Las Flores,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.729,-102.5078,4,las-flores
+MX,Mexico,México,98613,Olimpia,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7536,-102.4861,4,olimpia
+MX,Mexico,México,98613,Guadalupe Moderno,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7493,-102.5122,4,guadalupe-moderno
+MX,Mexico,México,98613,Privada La Esmeralda,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,privada-la-esmeralda
+MX,Mexico,México,98613,Olimpia 4,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,olimpia-4
+MX,Mexico,México,98613,El Pirular,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7495,-102.4958,4,el-pirular
+MX,Mexico,México,98613,S.T.U.A.Z.,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,s-t-u-a-z
+MX,Mexico,México,98613,Ejidal,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,ejidal
+MX,Mexico,México,98613,Virreyes,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,virreyes
+MX,Mexico,México,98613,Las Fuentes,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,las-fuentes
+MX,Mexico,México,98613,Popular San Francisco,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,popular-san-francisco
+MX,Mexico,México,98613,Valles I,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,valles-i
+MX,Mexico,México,98613,Villas de Don Fernando,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,villas-de-don-fernando
+MX,Mexico,México,98613,Villas Del Monasterio,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,villas-del-monasterio
+MX,Mexico,México,98613,Bonito Pueblo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,bonito-pueblo
+MX,Mexico,México,98613,S.P.A.U.A.Z.,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,s-p-a-u-a-z
+MX,Mexico,México,98613,Progreso Nacional,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,progreso-nacional
+MX,Mexico,México,98613,San Isidro,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7502,-102.4893,4,san-isidro
+MX,Mexico,México,98613,El Paraíso,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,el-paraiso
+MX,Mexico,México,98613,Las Joyas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,las-joyas
+MX,Mexico,México,98613,Camino Real,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,camino-real
+MX,Mexico,México,98613,Olimpia 2,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,olimpia-2
+MX,Mexico,México,98613,Olimpia 3,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,olimpia-3
+MX,Mexico,México,98613,Revolución Mexicana,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7506,-102.4959,3,revolucion-mexicana
+MX,Mexico,México,98614,La Victoria II,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.5553,-102.5303,3,la-victoria-ii
+MX,Mexico,México,98614,Privada de las Begonias,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.5553,-102.5303,3,privada-de-las-begonias
+MX,Mexico,México,98614,Lomas Del Consuelo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.5553,-102.5303,3,lomas-del-consuelo
+MX,Mexico,México,98614,5 de Mayo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.5553,-102.5303,3,5-de-mayo
+MX,Mexico,México,98614,La Victoria,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.5553,-102.5303,4,la-victoria
+MX,Mexico,México,98614,Primero de Mayo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,primero-de-mayo
+MX,Mexico,México,98615,Francisco Villa,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,francisco-villa
+MX,Mexico,México,98615,Lomas Del Valle,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,lomas-del-valle
+MX,Mexico,México,98615,Ignacio Allende,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,ignacio-allende
+MX,Mexico,México,98615,Luis Donaldo Colosio,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,luis-donaldo-colosio
+MX,Mexico,México,98615,Tierra y Libertad 2,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,tierra-y-libertad-2
+MX,Mexico,México,98615,San Miguel del Cortijo,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,san-miguel-del-cortijo
+MX,Mexico,México,98615,Sutsemop,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,sutsemop
+MX,Mexico,México,98615,Guadalupe Colonial,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,guadalupe-colonial
+MX,Mexico,México,98615,Tierra y Libertad 1,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,tierra-y-libertad-1
+MX,Mexico,México,98615,Toma de Zacatecas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,toma-de-zacatecas
+MX,Mexico,México,98615,Privada las Águilas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,privada-las-aguilas
+MX,Mexico,México,98615,África,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,africa
+MX,Mexico,México,98615,Progresista,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,progresista
+MX,Mexico,México,98615,Emiliano Zapata,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,4,emiliano-zapata
+MX,Mexico,México,98615,Ampliación Minas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,ampliacion-minas
+MX,Mexico,México,98615,Sección P.P.S. (Polígono la Fé),Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,seccion-p-p-s-poligono-la-fe
+MX,Mexico,México,98615,Tierra y Libertad 3ra. Sección,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,tierra-y-libertad-3ra-seccion
+MX,Mexico,México,98615,FIRCO,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,firco
+MX,Mexico,México,98615,Grupo Tendencia Sindical,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,grupo-tendencia-sindical
+MX,Mexico,México,98615,Jesús Pérez Cuevas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,jesus-perez-cuevas
+MX,Mexico,México,98615,Ampliación 2da Sección Tierra y Libertad,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,ampliacion-2da-seccion-tierra-y-libertad
+MX,Mexico,México,98615,Ampliación La fe,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,ampliacion-la-fe
+MX,Mexico,México,98615,Popular del Bosque,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.9108,-102.3742,3,popular-del-bosque
+MX,Mexico,México,98616,Rincón Colonial,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7353,-102.5291,3,rincon-colonial
+MX,Mexico,México,98616,U.A.Z.,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7353,-102.5291,3,u-a-z
+MX,Mexico,México,98616,California II,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7353,-102.5291,3,california-ii
+MX,Mexico,México,98616,California,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,3,california
+MX,Mexico,México,98616,Ganaderos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7353,-102.5291,3,ganaderos
+MX,Mexico,México,98616,La Cantera,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7353,-102.5291,4,la-cantera
+MX,Mexico,México,98617,La Cañada,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6167,-102.5667,4,la-canada
+MX,Mexico,México,98617,Villa Colonial,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6385,-102.5232,3,villa-colonial
+MX,Mexico,México,98617,Conde de Bernardez,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6385,-102.5232,3,conde-de-bernardez
+MX,Mexico,México,98617,Militar,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6385,-102.5232,3,militar
+MX,Mexico,México,98617,El Dorado,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6603,-102.4797,4,el-dorado
+MX,Mexico,México,98617,Minas,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.6385,-102.5232,3,minas
+MX,Mexico,México,98618,La Florida,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,1,la-florida
+MX,Mexico,México,98618,Dependencias Federales,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,dependencias-federales
+MX,Mexico,México,98618,Privada Eucaliptos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,privada-eucaliptos
+MX,Mexico,México,98618,Privada los Olivares,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,privada-los-olivares
+MX,Mexico,México,98618,Privada Geraneos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,privada-geraneos
+MX,Mexico,México,98619,Cañada Del Sol,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,canada-del-sol
+MX,Mexico,México,98619,Geranios 2da. Sección,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,geranios-2da-seccion
+MX,Mexico,México,98619,Los Geranios,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,los-geranios
+MX,Mexico,México,98619,Ex Hacienda de Bernardez,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,ex-hacienda-de-bernardez
+MX,Mexico,México,98619,Camilo Torres,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,camilo-torres
+MX,Mexico,México,98619,Cañada de La Bufa,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,canada-de-la-bufa
+MX,Mexico,México,98619,Gavilanes,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,gavilanes
+MX,Mexico,México,98619,Rinconada de Pirules,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,rinconada-de-pirules
+MX,Mexico,México,98619,Rinconada de los Pinos,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,rinconada-de-los-pinos
+MX,Mexico,México,98619,Cañada de Bernardez,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,canada-de-bernardez
+MX,Mexico,México,98619,Issste Zac 3,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,issste-zac-3
+MX,Mexico,México,98619,Los Pirules,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7592,-102.46,1,los-pirules
+MX,Mexico,México,98619,Villa de las Flores,Zacatecas,32,Guadalupe,017,Guadalupe,04,22.7804,-102.4075,1,villa-de-las-flores
+MX,Mexico,México,98620,Francisco E. García,Zacatecas,32,Guadalupe,017,,,22.99,-102.2906,4,francisco-e-garcia
+MX,Mexico,México,98620,Casa Blanca,Zacatecas,32,Guadalupe,017,,,22.8848,-102.3073,4,casa-blanca
+MX,Mexico,México,98621,El Bordo,Zacatecas,32,Guadalupe,017,,,22.9097,-102.4139,4,el-bordo
+MX,Mexico,México,98630,Tacoaleche,Zacatecas,32,Guadalupe,017,,,22.8201,-102.4048,4,tacoaleche
+MX,Mexico,México,98630,El Maguey,Zacatecas,32,Guadalupe,017,,,22.7804,-102.4075,4,el-maguey
+MX,Mexico,México,98631,La Luz,Zacatecas,32,Guadalupe,017,,,22.9083,-102.3333,4,la-luz
+MX,Mexico,México,98631,Zoquite,Zacatecas,32,Guadalupe,017,,,22.7853,-102.4225,4,zoquite
+MX,Mexico,México,98636,Santa Mónica,Zacatecas,32,Guadalupe,017,,,22.7548,-102.4222,4,santa-monica
+MX,Mexico,México,98650,San Jerónimo,Zacatecas,32,Guadalupe,017,,,22.654,-102.4918,4,san-jeronimo
+MX,Mexico,México,98652,Villas de la Coruña,Zacatecas,32,Guadalupe,017,,,22.6921,-102.5184,1,villas-de-la-coruna
+MX,Mexico,México,98655,El Pescado,Zacatecas,32,Guadalupe,017,,,22.6144,-102.6514,4,el-pescado
+MX,Mexico,México,98658,Cieneguitas,Zacatecas,32,Guadalupe,017,,,22.7136,-102.4932,4,cieneguitas
+MX,Mexico,México,98658,Hacienda Valle Dorado,Zacatecas,32,Guadalupe,017,,,22.7136,-102.4932,3,hacienda-valle-dorado
+MX,Mexico,México,98658,La Comarca,Zacatecas,32,Guadalupe,017,,,22.7136,-102.4932,3,la-comarca
+MX,Mexico,México,98659,Gardenias,Zacatecas,32,Guadalupe,017,,,22.7393,-102.4779,3,gardenias
+MX,Mexico,México,98659,Zacatecana,Zacatecas,32,Guadalupe,017,,,22.7305,-102.4746,4,zacatecana
+MX,Mexico,México,98659,Martínez Domínguez,Zacatecas,32,Guadalupe,017,,,22.7481,-102.4811,4,martinez-dominguez
+MX,Mexico,México,99670,Lindavista,Zacatecas,32,Huanusco,018,,,21.7721,-102.9279,4,lindavista
+MX,Mexico,México,99670,Huanusco,Zacatecas,32,Huanusco,018,,,21.7738,-102.9732,4,huanusco
+MX,Mexico,México,99670,La Luz,Zacatecas,32,Huanusco,018,,,21.8003,-102.8769,4,la-luz
+MX,Mexico,México,99600,Sagrado Corazón,Zacatecas,32,Jalpa,019,Jalpa,17,21.6361,-102.9787,4,sagrado-corazon
+MX,Mexico,México,99600,Jalpa Centro,Zacatecas,32,Jalpa,019,Jalpa,17,21.6321,-102.9764,4,jalpa-centro
+MX,Mexico,México,99600,El Rosario,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,el-rosario
+MX,Mexico,México,99602,Lindavista,Zacatecas,32,Jalpa,019,Jalpa,17,21.6557,-102.9728,4,lindavista
+MX,Mexico,México,99602,Mesa del Santo,Zacatecas,32,Jalpa,019,Jalpa,17,21.6557,-102.9728,3,mesa-del-santo
+MX,Mexico,México,99603,Parque La Mezquitera,Zacatecas,32,Jalpa,019,Jalpa,17,21.6326,-102.9486,3,parque-la-mezquitera
+MX,Mexico,México,99603,Juárez,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,juarez
+MX,Mexico,México,99603,San Antonio,Zacatecas,32,Jalpa,019,Jalpa,17,21.6102,-102.9275,4,san-antonio
+MX,Mexico,México,99603,De La Cruz,Zacatecas,32,Jalpa,019,Jalpa,17,21.655,-102.9697,4,de-la-cruz
+MX,Mexico,México,99605,Del Sol,Zacatecas,32,Jalpa,019,Jalpa,17,21.6389,-103.0011,4,del-sol
+MX,Mexico,México,99606,Jacarandas,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,jacarandas
+MX,Mexico,México,99606,Quinta Chilla,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,quinta-chilla
+MX,Mexico,México,99606,Hidalgo,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,hidalgo
+MX,Mexico,México,99606,Tia Rita,Zacatecas,32,Jalpa,019,Jalpa,17,21.623,-102.9864,4,tia-rita
+MX,Mexico,México,99606,Del Carmen,Zacatecas,32,Jalpa,019,Jalpa,17,21.623,-102.9864,3,del-carmen
+MX,Mexico,México,99607,Caxcán,Zacatecas,32,Jalpa,019,Jalpa,17,21.6386,-102.9934,3,caxcan
+MX,Mexico,México,99607,Reforma,Zacatecas,32,Jalpa,019,Jalpa,17,21.626,-102.9922,4,reforma
+MX,Mexico,México,99607,Arroyo Blanco,Zacatecas,32,Jalpa,019,Jalpa,17,21.6512,-102.9947,4,arroyo-blanco
+MX,Mexico,México,99608,Revolución,Zacatecas,32,Jalpa,019,Jalpa,17,21.6369,-102.9867,4,revolucion
+MX,Mexico,México,99608,Fovissste,Zacatecas,32,Jalpa,019,Jalpa,17,21.6365,-102.986,4,fovissste
+MX,Mexico,México,99608,Lomas Del Valle,Zacatecas,32,Jalpa,019,Jalpa,17,21.6433,-102.9847,4,lomas-del-valle
+MX,Mexico,México,99608,Morelos,Zacatecas,32,Jalpa,019,Jalpa,17,21.6206,-102.9883,4,morelos
+MX,Mexico,México,99608,Loma Arroyo Blanco,Zacatecas,32,Jalpa,019,Jalpa,17,21.6335,-102.9897,4,loma-arroyo-blanco
+MX,Mexico,México,99609,Guerrero,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,guerrero
+MX,Mexico,México,99609,Santa Cecilia,Zacatecas,32,Jalpa,019,Jalpa,17,21.6594,-102.9858,4,santa-cecilia
+MX,Mexico,México,99609,Loma de San Antonio,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,loma-de-san-antonio
+MX,Mexico,México,99609,Magisterial,Zacatecas,32,Jalpa,019,Jalpa,17,21.6237,-102.9983,3,magisterial
+MX,Mexico,México,99609,SARH,Zacatecas,32,Jalpa,019,Jalpa,17,21.6378,-102.9956,4,sarh
+MX,Mexico,México,99609,Lomas de Chapultepec,Zacatecas,32,Jalpa,019,Jalpa,17,21.6507,-102.9911,3,lomas-de-chapultepec
+MX,Mexico,México,99609,Jardines de San José,Zacatecas,32,Jalpa,019,Jalpa,17,21.6507,-102.9911,3,jardines-de-san-jose
+MX,Mexico,México,99609,Obrera,Zacatecas,32,Jalpa,019,Jalpa,17,21.655,-102.9919,4,obrera
+MX,Mexico,México,99609,Toma de Zacatecas,Zacatecas,32,Jalpa,019,Jalpa,17,21.6507,-102.9911,3,toma-de-zacatecas
+MX,Mexico,México,99620,Guadalupe Victoria,Zacatecas,32,Jalpa,019,,,21.7137,-103.0118,4,guadalupe-victoria
+MX,Mexico,México,99624,El Rodeo,Zacatecas,32,Jalpa,019,,,21.7064,-102.8697,4,el-rodeo
+MX,Mexico,México,99300,Barrio Nuevo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6943,-103.0354,3,barrio-nuevo
+MX,Mexico,México,99300,Jerez Centro,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6943,-103.0354,4,jerez-centro
+MX,Mexico,México,99310,Guadalupe,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6739,-102.9803,1,guadalupe
+MX,Mexico,México,99311,Magisterial,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,1,magisterial
+MX,Mexico,México,99312,CTM,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7275,-102.9778,3,ctm
+MX,Mexico,México,99312,El Durazno,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7275,-102.9778,4,el-durazno
+MX,Mexico,México,99312,El Vergel,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,el-vergel
+MX,Mexico,México,99312,Magisterial III,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7275,-102.9778,3,magisterial-iii
+MX,Mexico,México,99313,Organización Campesina,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.662,-102.9864,3,organizacion-campesina
+MX,Mexico,México,99313,Olimpia,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6582,-102.9869,4,olimpia
+MX,Mexico,México,99313,El Duraznillo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,el-duraznillo
+MX,Mexico,México,99313,Jardines de La Victoria,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6659,-102.9859,4,jardines-de-la-victoria
+MX,Mexico,México,99314,Cervantes Corona,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6739,-102.9803,1,cervantes-corona
+MX,Mexico,México,99315,Las Palmas,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,1,las-palmas
+MX,Mexico,México,99316,Frente Popular Norte,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6589,-102.9756,3,frente-popular-norte
+MX,Mexico,México,99316,Frente Popular Sur,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6589,-102.9756,3,frente-popular-sur
+MX,Mexico,México,99316,Infonavit El Molino Plan Maestro,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6589,-102.9756,3,infonavit-el-molino-plan-maestro
+MX,Mexico,México,99316,Patria Nueva,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6526,-102.9716,4,patria-nueva
+MX,Mexico,México,99316,Ciénega,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6652,-102.9795,4,cienega
+MX,Mexico,México,99316,Matías Ramos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,matias-ramos
+MX,Mexico,México,99320,Guadalupe,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7025,-103.0361,3,guadalupe
+MX,Mexico,México,99320,Zaragoza,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6839,-102.9806,4,zaragoza
+MX,Mexico,México,99320,Las Huertas,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7211,-103.0917,4,las-huertas
+MX,Mexico,México,99322,Jerez,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6497,-102.9903,4,jerez
+MX,Mexico,México,99322,Magisterial II,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6543,-102.9926,3,magisterial-ii
+MX,Mexico,México,99322,Candelario Huizar,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.659,-102.995,4,candelario-huizar
+MX,Mexico,México,99323,Candelario Huizar,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.659,-102.995,4,candelario-huizar
+MX,Mexico,México,99323,Azteca,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.668,-102.9973,4,azteca
+MX,Mexico,México,99323,Popular Del Sol,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6583,-102.9939,4,popular-del-sol
+MX,Mexico,México,99323,Camino Real,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,camino-real
+MX,Mexico,México,99323,Las Américas,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,4,las-americas
+MX,Mexico,México,99323,San Isidro,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6741,-103.003,4,san-isidro
+MX,Mexico,México,99323,Don Durito,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6751,-102.9287,3,don-durito
+MX,Mexico,México,99323,P.R.D.,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6751,-102.9287,3,p-r-d
+MX,Mexico,México,99323,Villas de San Isidro,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6751,-102.9287,3,villas-de-san-isidro
+MX,Mexico,México,99323,Deportivo II,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6751,-102.9287,3,deportivo-ii
+MX,Mexico,México,99323,Valle Real,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6461,-102.9999,4,valle-real
+MX,Mexico,México,99324,El Valle,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,1,el-valle
+MX,Mexico,México,99330,San Pedro,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.8833,-102.95,3,san-pedro
+MX,Mexico,México,99330,Nuevo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.8833,-102.95,4,nuevo
+MX,Mexico,México,99340,Nueva Reforma,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6487,-102.9715,4,nueva-reforma
+MX,Mexico,México,99340,Banrural,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6462,-102.9767,4,banrural
+MX,Mexico,México,99340,Los Sauces,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,los-sauces
+MX,Mexico,México,99340,Constituyentes,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6338,-102.9804,4,constituyentes
+MX,Mexico,México,99340,Lagunita,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6491,-102.9784,4,lagunita
+MX,Mexico,México,99340,San Francisco,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,san-francisco
+MX,Mexico,México,99342,Villa Flabia,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.66,-102.9249,1,villa-flabia
+MX,Mexico,México,99343,Artesanos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6427,-102.9728,4,artesanos
+MX,Mexico,México,99344,Bosques,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,4,bosques
+MX,Mexico,México,99344,La Cruz,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,la-cruz
+MX,Mexico,México,99344,Infonavit El Cortijo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6484,-102.9812,4,infonavit-el-cortijo
+MX,Mexico,México,99350,Chulavista,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.644,-102.9644,4,chulavista
+MX,Mexico,México,99350,Unión Santa Cruz,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6521,-102.965,4,union-santa-cruz
+MX,Mexico,México,99350,Lo de Taura,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.549,-102.9399,3,lo-de-taura
+MX,Mexico,México,99350,Ejido de Ciénega,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.549,-102.9399,3,ejido-de-cienega
+MX,Mexico,México,99350,Carlos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.549,-102.9399,3,carlos
+MX,Mexico,México,99350,Loma Dorada,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,4,loma-dorada
+MX,Mexico,México,99352,Montecillo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6413,-102.9695,4,montecillo
+MX,Mexico,México,99352,Concepción,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,concepcion
+MX,Mexico,México,99353,El Molino,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,el-molino
+MX,Mexico,México,99353,Granjas El Molino,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6315,-102.9713,4,granjas-el-molino
+MX,Mexico,México,99360,Justo Sierra,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6504,-103.0002,4,justo-sierra
+MX,Mexico,México,99360,Las Quintas,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,las-quintas
+MX,Mexico,México,99360,INFONAVIT II,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6467,-103.0005,3,infonavit-ii
+MX,Mexico,México,99360,Alamedas,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6467,-103.0005,3,alamedas
+MX,Mexico,México,99360,Niños Héroes,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6437,-103.0013,4,ninos-heroes
+MX,Mexico,México,99360,Real Del Valle,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6461,-102.9999,4,real-del-valle
+MX,Mexico,México,99361,Alameda Parque,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6445,-103.0158,1,alameda-parque
+MX,Mexico,México,99362,La Noria,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6375,-103.0108,4,la-noria
+MX,Mexico,México,99362,Pedregal,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.645,-103.067,4,pedregal
+MX,Mexico,México,99362,Deportivo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6413,-103.0389,3,deportivo
+MX,Mexico,México,99363,Guadalajara,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6445,-103.0158,1,guadalajara
+MX,Mexico,México,99363,Caxcán,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6445,-103.0158,1,caxcan
+MX,Mexico,México,99363,Hidráulica,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6445,-103.0158,1,hidraulica
+MX,Mexico,México,99363,Los Cardos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,1,los-cardos
+MX,Mexico,México,99370,Villa Fontana,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6436,-102.9974,1,villa-fontana
+MX,Mexico,México,99370,20 de Noviembre,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6436,-102.9974,1,20-de-noviembre
+MX,Mexico,México,99379,Huertas San Jose,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6436,-102.9974,4,huertas-san-jose
+MX,Mexico,México,99380,Lopez Mateos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6363,-102.9893,4,lopez-mateos
+MX,Mexico,México,99380,Obrera,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6396,-102.9915,4,obrera
+MX,Mexico,México,99380,Modelo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6383,-102.9861,4,modelo
+MX,Mexico,México,99380,Fuenzanto,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6373,-102.9881,3,fuenzanto
+MX,Mexico,México,99380,Las Artes,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6351,-102.9855,4,las-artes
+MX,Mexico,México,99382,Las Brisas,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6322,-102.9897,4,las-brisas
+MX,Mexico,México,99382,Los Pinos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,los-pinos
+MX,Mexico,México,99382,Delicias,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,delicias
+MX,Mexico,México,99382,Jardín del Álamo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6322,-102.9897,3,jardin-del-alamo
+MX,Mexico,México,99389,Baño Nuevo,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6363,-102.9884,1,bano-nuevo
+MX,Mexico,México,99389,Ladrillera,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6363,-102.9884,1,ladrillera
+MX,Mexico,México,99389,Mercaderes,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6363,-102.9884,1,mercaderes
+MX,Mexico,México,99390,Rancho Los Arquitos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6358,-102.9963,3,rancho-los-arquitos
+MX,Mexico,México,99390,Jardines de Ramon Lopez Velarde,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6382,-102.9998,4,jardines-de-ramon-lopez-velarde
+MX,Mexico,México,99390,Jardines de Jerez,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.635,-102.9963,4,jardines-de-jerez
+MX,Mexico,México,99390,Fovissste,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,3,fovissste
+MX,Mexico,México,99390,Álamos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6342,-102.993,4,alamos
+MX,Mexico,México,99392,Cnop,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6358,-102.9963,1,cnop
+MX,Mexico,México,99392,Granjas,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.6358,-102.9963,1,granjas
+MX,Mexico,México,99393,Alamitos,Zacatecas,32,Jerez,020,Jerez de García Salinas,02,22.7256,-102.9919,1,alamitos
+MX,Mexico,México,99440,Vicente Guerrero,Zacatecas,32,Jerez,020,,,22.7256,-102.9919,3,vicente-guerrero
+MX,Mexico,México,99440,Miguel Hidalgo,Zacatecas,32,Jerez,020,,,22.8515,-103.0205,4,miguel-hidalgo
+MX,Mexico,México,99440,Los Félix,Zacatecas,32,Jerez,020,,,22.8029,-102.9637,4,los-felix
+MX,Mexico,México,99442,Sáuz de los Garcia de Abajo,Zacatecas,32,Jerez,020,,,22.8503,-103.0594,4,sauz-de-los-garcia-de-abajo
+MX,Mexico,México,99443,Ermita de los Correa,Zacatecas,32,Jerez,020,,,22.8081,-103.0054,1,ermita-de-los-correa
+MX,Mexico,México,99447,Los Haro,Zacatecas,32,Jerez,020,,,22.7256,-102.9919,3,los-haro
+MX,Mexico,México,99447,El Durazno,Zacatecas,32,Jerez,020,,,22.7275,-102.9778,4,el-durazno
+MX,Mexico,México,99454,San Isidro Del Salto,Zacatecas,32,Jerez,020,,,22.6703,-102.8203,4,san-isidro-del-salto
+MX,Mexico,México,99456,Los Garcia,Zacatecas,32,Jerez,020,,,22.7317,-102.9655,1,los-garcia
+MX,Mexico,México,99457,La Ciénega,Zacatecas,32,Jerez,020,,,22.7936,-103.1731,4,la-cienega
+MX,Mexico,México,99458,Santa Rita (Luis Moya),Zacatecas,32,Jerez,020,,,22.73,-102.9422,4,santa-rita-luis-moya
+MX,Mexico,México,99458,Lo de Nava,Zacatecas,32,Jerez,020,,,22.733,-102.9265,4,lo-de-nava
+MX,Mexico,México,99460,Tetillas,Zacatecas,32,Jerez,020,,,22.6233,-102.9402,4,tetillas
+MX,Mexico,México,99467,Ermita de Guadalupe,Zacatecas,32,Jerez,020,,,22.5858,-103.0313,4,ermita-de-guadalupe
+MX,Mexico,México,99467,Nuevo,Zacatecas,32,Jerez,020,,,22.8833,-102.95,4,nuevo
+MX,Mexico,México,99468,El Huejote,Zacatecas,32,Jerez,020,,,22.6255,-103.0363,4,el-huejote
+MX,Mexico,México,99469,Los Ríos,Zacatecas,32,Jerez,020,,,22.5781,-102.9731,4,los-rios
+MX,Mexico,México,99471,Cieneguitas de Fernandez,Zacatecas,32,Jerez,020,,,22.7907,-103.1693,4,cieneguitas-de-fernandez
+MX,Mexico,México,99473,Palmas Altas,Zacatecas,32,Jerez,020,,,22.8486,-103.1497,4,palmas-altas
+MX,Mexico,México,99473,Sarabia,Zacatecas,32,Jerez,020,,,22.8695,-103.1841,4,sarabia
+MX,Mexico,México,99473,Guadalupe Victoria (El Yegue),Zacatecas,32,Jerez,020,,,22.859,-103.1669,3,guadalupe-victoria-el-yegue
+MX,Mexico,México,99474,Monte de los García,Zacatecas,32,Jerez,020,,,22.732,-103.2133,4,monte-de-los-garcia
+MX,Mexico,México,99474,Villa Hermosa,Zacatecas,32,Jerez,020,,,22.7883,-103.2266,4,villa-hermosa
+MX,Mexico,México,99476,Rio Florido,Zacatecas,32,Jerez,020,,,22.7422,-103.0431,4,rio-florido
+MX,Mexico,México,99476,El Cargadero,Zacatecas,32,Jerez,020,,,22.7112,-103.0634,4,el-cargadero
+MX,Mexico,México,99478,El Centro,Zacatecas,32,Jerez,020,,,22.6943,-103.0354,4,el-centro
+MX,Mexico,México,99479,Jomulquillo,Zacatecas,32,Jerez,020,,,22.6842,-103.0573,4,jomulquillo
+MX,Mexico,México,99280,Jimenez Del Teul,Zacatecas,32,Jiménez del Teul,021,,,23.2538,-103.7986,4,jimenez-del-teul
+MX,Mexico,México,98300,Almoloya,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2943,-103.3032,1,almoloya
+MX,Mexico,México,98300,La Pila,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2943,-103.3032,1,la-pila
+MX,Mexico,México,98300,Juan Aldama Centro,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.285,-103.3769,1,juan-aldama-centro
+MX,Mexico,México,98303,Bosques Del Pedregal,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2914,-103.3801,3,bosques-del-pedregal
+MX,Mexico,México,98303,Oriente,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2914,-103.3801,3,oriente
+MX,Mexico,México,98303,Nuevo Amanecer,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2914,-103.3801,4,nuevo-amanecer
+MX,Mexico,México,98303,Las Auroras,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2914,-103.3801,3,las-auroras
+MX,Mexico,México,98304,7 de Marzo,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2785,-103.3736,3,7-de-marzo
+MX,Mexico,México,98304,Las Jarillas,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2785,-103.3736,4,las-jarillas
+MX,Mexico,México,98307,CONASUPO,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.285,-103.3769,1,conasupo
+MX,Mexico,México,98307,Valle Verde,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2943,-103.3032,1,valle-verde
+MX,Mexico,México,98307,Magisterial,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2943,-103.3032,1,magisterial
+MX,Mexico,México,98307,El Mezquite,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.2943,-103.3032,1,el-mezquite
+MX,Mexico,México,98307,Villa Arechiga,Zacatecas,32,Juan Aldama,022,Juan Aldama,19,24.285,-103.3769,1,villa-arechiga
+MX,Mexico,México,98310,Gral. Juan Jose Ríos,Zacatecas,32,Juan Aldama,022,,,24.3097,-103.3461,3,gral-juan-jose-rios
+MX,Mexico,México,98310,Ojitos,Zacatecas,32,Juan Aldama,022,,,24.3097,-103.3461,4,ojitos
+MX,Mexico,México,98311,Jalpa,Zacatecas,32,Juan Aldama,022,,,24.321,-103.3517,4,jalpa
+MX,Mexico,México,98320,Espiritu Santo,Zacatecas,32,Juan Aldama,022,,,24.1829,-103.2513,4,espiritu-santo
+MX,Mexico,México,99960,Juchipila,Zacatecas,32,Juchipila,023,,,21.4086,-103.1166,4,juchipila
+MX,Mexico,México,99960,Pueblo Viejo,Zacatecas,32,Juchipila,023,,,21.3406,-103.2003,4,pueblo-viejo
+MX,Mexico,México,99960,Guadalupe Victoria,Zacatecas,32,Juchipila,023,,,21.3966,-103.1308,4,guadalupe-victoria
+MX,Mexico,México,99960,Contitlan,Zacatecas,32,Juchipila,023,,,21.3481,-103.1342,4,contitlan
+MX,Mexico,México,99960,La Quinta,Zacatecas,32,Juchipila,023,,,21.3766,-103.124,4,la-quinta
+MX,Mexico,México,99960,Cerro La Arena,Zacatecas,32,Juchipila,023,,,21.3716,-103.0869,3,cerro-la-arena
+MX,Mexico,México,99960,San Sebastián,Zacatecas,32,Juchipila,023,,,21.3766,-103.124,3,san-sebastian
+MX,Mexico,México,99969,Mezquitera,Zacatecas,32,Juchipila,023,,,21.4251,-103.1082,4,mezquitera
+MX,Mexico,México,99970,Remolino,Zacatecas,32,Juchipila,023,,,21.3644,-103.1252,4,remolino
+MX,Mexico,México,99974,El Ranchito,Zacatecas,32,Juchipila,023,,,21.4,-103.0833,4,el-ranchito
+MX,Mexico,México,99979,Amazochitl,Zacatecas,32,Juchipila,023,,,21.3822,-103.1043,1,amazochitl
+MX,Mexico,México,98800,San Blas,Zacatecas,32,Loreto,024,,,22.299,-101.955,4,san-blas
+MX,Mexico,México,98804,Santa Maria de los Angeles,Zacatecas,32,Loreto,024,,,22.2838,-101.8651,4,santa-maria-de-los-angeles
+MX,Mexico,México,98805,Jesús María,Zacatecas,32,Loreto,024,,,22.2558,-101.799,4,jesus-maria
+MX,Mexico,México,98807,Crisóstomos,Zacatecas,32,Loreto,024,,,22.2296,-101.9961,4,crisostomos
+MX,Mexico,México,98810,Felipe Carrillo Puerto,Zacatecas,32,Loreto,024,,,22.3029,-102.1035,4,felipe-carrillo-puerto
+MX,Mexico,México,98810,El Tepetate,Zacatecas,32,Loreto,024,,,22.3208,-102.1349,4,el-tepetate
+MX,Mexico,México,98815,Tierra Blanca,Zacatecas,32,Loreto,024,,,22.348,-102.0654,4,tierra-blanca
+MX,Mexico,México,98817,Bimbaletes,Zacatecas,32,Loreto,024,,,22.2483,-102.0031,4,bimbaletes
+MX,Mexico,México,98820,San Marcos,Zacatecas,32,Loreto,024,,,22.2774,-101.952,4,san-marcos
+MX,Mexico,México,98820,La Loma,Zacatecas,32,Loreto,024,,,22.2511,-101.9858,4,la-loma
+MX,Mexico,México,98824,La Concepción,Zacatecas,32,Loreto,024,,,22.2362,-101.854,4,la-concepcion
+MX,Mexico,México,98825,El Hinojo,Zacatecas,32,Loreto,024,,,22.1736,-101.8122,4,el-hinojo
+MX,Mexico,México,98827,El Lobo,Zacatecas,32,Loreto,024,,,22.3,-101.85,4,el-lobo
+MX,Mexico,México,98830,Loreto Centro,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,loreto-centro
+MX,Mexico,México,98832,Los Viñedos,Zacatecas,32,Loreto,024,Loreto,18,22.2637,-101.8388,3,los-vinedos
+MX,Mexico,México,98832,La Esperanza II,Zacatecas,32,Loreto,024,Loreto,18,22.2637,-101.8388,3,la-esperanza-ii
+MX,Mexico,México,98832,La Huerta,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,3,la-huerta
+MX,Mexico,México,98832,Acevedo,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,3,acevedo
+MX,Mexico,México,98832,El Mezquite,Zacatecas,32,Loreto,024,Loreto,18,22.2436,-101.8125,4,el-mezquite
+MX,Mexico,México,98832,La Esperanza I,Zacatecas,32,Loreto,024,Loreto,18,22.2637,-101.8388,3,la-esperanza-i
+MX,Mexico,México,98832,Los Ángeles,Zacatecas,32,Loreto,024,Loreto,18,22.2838,-101.8651,4,los-angeles
+MX,Mexico,México,98833,San Marcos II,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,san-marcos-ii
+MX,Mexico,México,98833,San Marcos I,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,san-marcos-i
+MX,Mexico,México,98833,El Edén,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,1,el-eden
+MX,Mexico,México,98833,Valle Real,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,1,valle-real
+MX,Mexico,México,98833,Revolución,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,1,revolucion
+MX,Mexico,México,98833,Santa Cruz,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,1,santa-cruz
+MX,Mexico,México,98834,La Martinica II,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,la-martinica-ii
+MX,Mexico,México,98834,Minera,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,1,minera
+MX,Mexico,México,98834,La Martinica I,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,la-martinica-i
+MX,Mexico,México,98834,Torres,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,torres
+MX,Mexico,México,98835,Vega,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,vega
+MX,Mexico,México,98835,Reforma,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,1,reforma
+MX,Mexico,México,98836,Llanos de San Miguel,Zacatecas,32,Loreto,024,Loreto,18,22.2656,-101.8893,1,llanos-de-san-miguel
+MX,Mexico,México,98837,Esmeralda,Zacatecas,32,Loreto,024,Loreto,18,22.2179,-101.7525,3,esmeralda
+MX,Mexico,México,98837,San Francisco,Zacatecas,32,Loreto,024,Loreto,18,22.1736,-101.7875,4,san-francisco
+MX,Mexico,México,98837,San Manuel,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,4,san-manuel
+MX,Mexico,México,98838,Lázaro Cárdenas,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,3,lazaro-cardenas
+MX,Mexico,México,98838,Valle de Loreto,Zacatecas,32,Loreto,024,Loreto,18,22.3328,-102.0249,4,valle-de-loreto
+MX,Mexico,México,98838,El Socorro,Zacatecas,32,Loreto,024,Loreto,18,22.2453,-101.9986,4,el-socorro
+MX,Mexico,México,98838,Los Pirules,Zacatecas,32,Loreto,024,Loreto,18,22.2891,-102.0118,3,los-pirules
+MX,Mexico,México,98838,Herrada,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,3,herrada
+MX,Mexico,México,98839,Arboledas,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,3,arboledas
+MX,Mexico,México,98839,Arenas,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,3,arenas
+MX,Mexico,México,98839,Escobedo,Zacatecas,32,Loreto,024,Loreto,18,22.2846,-101.9588,3,escobedo
+MX,Mexico,México,98839,San Agusín,Zacatecas,32,Loreto,024,Loreto,18,22.3175,-102.0189,3,san-agusin
+MX,Mexico,México,98839,Los Puentes,Zacatecas,32,Loreto,024,Loreto,18,22.3175,-102.0189,3,los-puentes
+MX,Mexico,México,98839,La Victoria,Zacatecas,32,Loreto,024,Loreto,18,22.3175,-102.0189,4,la-victoria
+MX,Mexico,México,98770,Luis Moya Centro,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4325,-102.2492,4,luis-moya-centro
+MX,Mexico,México,98772,Independencia,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4343,-102.2256,3,independencia
+MX,Mexico,México,98772,San Antonio,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4383,-102.2448,4,san-antonio
+MX,Mexico,México,98772,De las Flores,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4356,-102.2437,4,de-las-flores
+MX,Mexico,México,98773,Campestre,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4307,-102.2434,4,campestre
+MX,Mexico,México,98775,Magisterial,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4283,-102.2487,4,magisterial
+MX,Mexico,México,98775,Praderas Del Sol,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4283,-102.2487,3,praderas-del-sol
+MX,Mexico,México,98776,San Francisco II,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4305,-102.2508,3,san-francisco-ii
+MX,Mexico,México,98776,San Francisco,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4324,-102.2486,4,san-francisco
+MX,Mexico,México,98776,San Miguel,Zacatecas,32,Luis Moya,025,Luis Moya,14,22.4286,-102.253,4,san-miguel
+MX,Mexico,México,98780,Hidalgo,Zacatecas,32,Luis Moya,025,,,22.507,-102.2386,4,hidalgo
+MX,Mexico,México,98780,Leyva,Zacatecas,32,Luis Moya,025,,,22.4914,-102.2564,4,leyva
+MX,Mexico,México,98780,20 de Noviembre,Zacatecas,32,Luis Moya,025,,,22.4992,-102.2475,3,20-de-noviembre
+MX,Mexico,México,98785,Los Pocitos,Zacatecas,32,Luis Moya,025,,,22.4747,-102.2558,4,los-pocitos
+MX,Mexico,México,98785,Esteban Castorena,Zacatecas,32,Luis Moya,025,,,22.4623,-102.2605,4,esteban-castorena
+MX,Mexico,México,98785,Los Griegos,Zacatecas,32,Luis Moya,025,,,22.4488,-102.2192,4,los-griegos
+MX,Mexico,México,98790,Noria de Molinos,Zacatecas,32,Luis Moya,025,,,22.3798,-102.1448,4,noria-de-molinos
+MX,Mexico,México,98794,La Manga,Zacatecas,32,Luis Moya,025,,,22.3697,-102.2083,4,la-manga
+MX,Mexico,México,98794,El Coecillo,Zacatecas,32,Luis Moya,025,,,22.3872,-102.2406,4,el-coecillo
+MX,Mexico,México,98795,Barranquillas,Zacatecas,32,Luis Moya,025,,,22.4174,-102.2652,4,barranquillas
+MX,Mexico,México,98795,ing. Julián Adame,Zacatecas,32,Luis Moya,025,,,22.4174,-102.2652,3,ing-julian-adame
+MX,Mexico,México,98230,Mazapil,Zacatecas,32,Mazapil,026,,,24.6387,-101.5545,4,mazapil
+MX,Mexico,México,98235,La Mejorada,Zacatecas,32,Mazapil,026,,,24.5456,-101.6282,4,la-mejorada
+MX,Mexico,México,98235,Cuitláhuac (Santa Gertrudis),Zacatecas,32,Mazapil,026,,,24.5546,-101.5884,4,cuitlahuac-santa-gertrudis
+MX,Mexico,México,98236,Novillos,Zacatecas,32,Mazapil,026,,,24.7126,-101.5583,4,novillos
+MX,Mexico,México,98237,San Jose de Carbonerillas,Zacatecas,32,Mazapil,026,,,24.4778,-101.4394,4,san-jose-de-carbonerillas
+MX,Mexico,México,98237,Salaverna,Zacatecas,32,Mazapil,026,,,24.6316,-101.4876,4,salaverna
+MX,Mexico,México,98238,Terminal de Providencia,Zacatecas,32,Mazapil,026,,,24.6925,-101.4657,4,terminal-de-providencia
+MX,Mexico,México,98239,Bonanza,Zacatecas,32,Mazapil,026,,,24.7002,-101.4868,4,bonanza
+MX,Mexico,México,98240,Coapas,Zacatecas,32,Mazapil,026,,,24.699,-102.3168,3,coapas
+MX,Mexico,México,98240,Hidalgo,Zacatecas,32,Mazapil,026,,,24.641,-102.3373,4,hidalgo
+MX,Mexico,México,98240,Pozo Hidalgo,Zacatecas,32,Mazapil,026,,,24.6417,-102.3361,4,pozo-hidalgo
+MX,Mexico,México,98240,Apizolaya,Zacatecas,32,Mazapil,026,,,24.8144,-102.2769,4,apizolaya
+MX,Mexico,México,98241,Los Indios,Zacatecas,32,Mazapil,026,,,24.699,-102.3168,1,los-indios
+MX,Mexico,México,98245,Infonavit,Zacatecas,32,Mazapil,026,,,24.3519,-101.9228,1,infonavit
+MX,Mexico,México,98245,Del Norte,Zacatecas,32,Mazapil,026,,,24.699,-102.3168,1,del-norte
+MX,Mexico,México,98250,Camacho,Zacatecas,32,Mazapil,026,,,24.4404,-102.3728,4,camacho
+MX,Mexico,México,98250,El Jazmín,Zacatecas,32,Mazapil,026,,,24.6713,-102.1392,4,el-jazmin
+MX,Mexico,México,98253,La Palmilla,Zacatecas,32,Mazapil,026,,,24.5156,-102.3,4,la-palmilla
+MX,Mexico,México,98254,La Tasajera,Zacatecas,32,Mazapil,026,,,24.4959,-102.198,4,la-tasajera
+MX,Mexico,México,98256,San Rafael,Zacatecas,32,Mazapil,026,,,24.5913,-102.1103,4,san-rafael
+MX,Mexico,México,98260,Opal,Zacatecas,32,Mazapil,026,,,24.2738,-102.3642,4,opal
+MX,Mexico,México,98261,Cedros,Zacatecas,32,Mazapil,026,,,24.6792,-101.7739,4,cedros
+MX,Mexico,México,98262,El Vergel,Zacatecas,32,Mazapil,026,,,24.6625,-101.945,4,el-vergel
+MX,Mexico,México,98263,San Felipe de Teyra,Zacatecas,32,Mazapil,026,,,24.4502,-102.0948,4,san-felipe-de-teyra
+MX,Mexico,México,98264,Candelaria,Zacatecas,32,Mazapil,026,,,24.4768,-101.8607,4,candelaria
+MX,Mexico,México,98264,San Antonio del Portezuelo,Zacatecas,32,Mazapil,026,,,24.5595,-101.6999,4,san-antonio-del-portezuelo
+MX,Mexico,México,98264,Sabana Grande,Zacatecas,32,Mazapil,026,,,24.4922,-101.7127,4,sabana-grande
+MX,Mexico,México,98265,El Cardito,Zacatecas,32,Mazapil,026,,,24.36,-101.8341,4,el-cardito
+MX,Mexico,México,98267,Gallegos,Zacatecas,32,Mazapil,026,,,24.5683,-102.0622,4,gallegos
+MX,Mexico,México,98270,Nuevo Mercurio,Zacatecas,32,Mazapil,026,,,24.2287,-102.1533,4,nuevo-mercurio
+MX,Mexico,México,98270,San Felipe Nuevo Mercurio,Zacatecas,32,Mazapil,026,,,24.2287,-102.1533,4,san-felipe-nuevo-mercurio
+MX,Mexico,México,98275,Tanque de Hacheros,Zacatecas,32,Mazapil,026,,,24.1383,-101.7133,4,tanque-de-hacheros
+MX,Mexico,México,98277,Rancho Nuevo,Zacatecas,32,Mazapil,026,,,24.0073,-101.623,4,rancho-nuevo
+MX,Mexico,México,98278,Concepción de La Norma,Zacatecas,32,Mazapil,026,,,23.845,-101.9608,4,concepcion-de-la-norma
+MX,Mexico,México,98279,Majoma,Zacatecas,32,Mazapil,026,,,23.8585,-101.715,4,majoma
+MX,Mexico,México,98280,San Tiburcio,Zacatecas,32,Mazapil,026,,,24.1458,-101.4851,4,san-tiburcio
+MX,Mexico,México,98281,Pozo de San Juan,Zacatecas,32,Mazapil,026,,,23.9914,-101.4566,4,pozo-de-san-juan
+MX,Mexico,México,98285,Presa Del Junco,Zacatecas,32,Mazapil,026,,,24.2974,-101.6452,4,presa-del-junco
+MX,Mexico,México,98286,Tanquecillo,Zacatecas,32,Mazapil,026,,,24.1726,-101.5007,1,tanquecillo
+MX,Mexico,México,98287,El Rosario,Zacatecas,32,Mazapil,026,,,24.3833,-101.6667,4,el-rosario
+MX,Mexico,México,98287,Tanque de Guadalupe,Zacatecas,32,Mazapil,026,,,24.0449,-101.2497,4,tanque-de-guadalupe
+MX,Mexico,México,98220,San Jerónimo,Zacatecas,32,Melchor Ocampo,027,,,24.9862,-102.2154,4,san-jeronimo
+MX,Mexico,México,98220,Melchor Ocampo,Zacatecas,32,Melchor Ocampo,027,,,24.8311,-101.6425,4,melchor-ocampo
+MX,Mexico,México,98222,San Miguel,Zacatecas,32,Melchor Ocampo,027,,,24.9154,-101.9999,1,san-miguel
+MX,Mexico,México,98223,Matamoros,Zacatecas,32,Melchor Ocampo,027,,,24.8641,-101.9941,4,matamoros
+MX,Mexico,México,98229,Noche Buena,Zacatecas,32,Melchor Ocampo,027,,,24.7084,-101.6439,4,noche-buena
+MX,Mexico,México,98229,Mineral de Noche Buena,Zacatecas,32,Melchor Ocampo,027,,,24.7084,-101.6439,4,mineral-de-noche-buena
+MX,Mexico,México,98229,El Jagüey,Zacatecas,32,Melchor Ocampo,027,,,24.7345,-101.671,4,el-jaguey
+MX,Mexico,México,99860,Mezquital Del Oro,Zacatecas,32,Mezquital del Oro,028,,,21.2167,-103.3628,4,mezquital-del-oro
+MX,Mexico,México,99864,La Coronilla,Zacatecas,32,Mezquital del Oro,028,,,21.1492,-103.3503,4,la-coronilla
+MX,Mexico,México,99865,El Malacate,Zacatecas,32,Mezquital del Oro,028,,,21.1946,-103.3338,1,el-malacate
+MX,Mexico,México,99867,Los Gallos,Zacatecas,32,Mezquital del Oro,028,,,21.1829,-103.3565,1,los-gallos
+MX,Mexico,México,98330,Estrella,Zacatecas,32,Miguel Auza,029,,,24.1173,-103.4884,1,estrella
+MX,Mexico,México,98330,Miguel Auza Centro,Zacatecas,32,Miguel Auza,029,,,24.0239,-103.4549,1,miguel-auza-centro
+MX,Mexico,México,98330,Betania,Zacatecas,32,Miguel Auza,029,,,24.0239,-103.4549,1,betania
+MX,Mexico,México,98330,Los Conos,Zacatecas,32,Miguel Auza,029,,,24.1173,-103.4884,1,los-conos
+MX,Mexico,México,98330,San Gabriel,Zacatecas,32,Miguel Auza,029,,,24.1173,-103.4884,1,san-gabriel
+MX,Mexico,México,98330,Las Minas,Zacatecas,32,Miguel Auza,029,,,24.1173,-103.4884,1,las-minas
+MX,Mexico,México,98330,Mina,Zacatecas,32,Miguel Auza,029,,,24.0239,-103.4549,1,mina
+MX,Mexico,México,98336,La Honda,Zacatecas,32,Miguel Auza,029,,,24.0496,-103.4338,4,la-honda
+MX,Mexico,México,98336,Miguel Alemán,Zacatecas,32,Miguel Auza,029,,,23.9983,-103.4761,4,miguel-aleman
+MX,Mexico,México,98340,20 de Noviembre,Zacatecas,32,Miguel Auza,029,,,24.1278,-103.6113,3,20-de-noviembre
+MX,Mexico,México,98340,Emilio Carranza,Zacatecas,32,Miguel Auza,029,,,24.1039,-103.6675,4,emilio-carranza
+MX,Mexico,México,98340,Tierra Generosa,Zacatecas,32,Miguel Auza,029,,,24.1516,-103.5552,4,tierra-generosa
+MX,Mexico,México,99720,La Esperanza,Zacatecas,32,Momax,030,,,21.9391,-103.2479,3,la-esperanza
+MX,Mexico,México,99720,Nueva,Zacatecas,32,Momax,030,,,21.9391,-103.2479,3,nueva
+MX,Mexico,México,99720,Momax,Zacatecas,32,Momax,030,,,21.9226,-103.3131,4,momax
+MX,Mexico,México,99400,Monte Escobedo Centro,Zacatecas,32,Monte Escobedo,031,,,22.2962,-103.5605,3,monte-escobedo-centro
+MX,Mexico,México,99400,La Loma (Manuel M. Ponce),Zacatecas,32,Monte Escobedo,031,,,22.2962,-103.5605,3,la-loma-manuel-m-ponce
+MX,Mexico,México,99400,Las Mesitas,Zacatecas,32,Monte Escobedo,031,,,22.375,-103.4619,3,las-mesitas
+MX,Mexico,México,99400,La Palma,Zacatecas,32,Monte Escobedo,031,,,22.2962,-103.5605,4,la-palma
+MX,Mexico,México,99403,San Antonio de Abajo,Zacatecas,32,Monte Escobedo,031,,,22.3733,-103.5397,4,san-antonio-de-abajo
+MX,Mexico,México,99410,Adjuntas Del Refugio,Zacatecas,32,Monte Escobedo,031,,,22.6239,-103.4136,4,adjuntas-del-refugio
+MX,Mexico,México,99420,Laguna Grande,Zacatecas,32,Monte Escobedo,031,,,22.4418,-103.5027,4,laguna-grande
+MX,Mexico,México,99430,Maria de La Torre,Zacatecas,32,Monte Escobedo,031,,,22.2575,-103.3534,4,maria-de-la-torre
+MX,Mexico,México,99436,Berrendos,Zacatecas,32,Monte Escobedo,031,,,22.2642,-103.4378,4,berrendos
+MX,Mexico,México,98100,Morelos,Zacatecas,32,Morelos,032,,,22.8621,-102.6106,4,morelos
+MX,Mexico,México,98100,Las Pilas Morelos,Zacatecas,32,Morelos,032,,,22.84,-102.6128,4,las-pilas-morelos
+MX,Mexico,México,98100,Hacienda Nueva,Zacatecas,32,Morelos,032,,,22.8246,-102.6084,4,hacienda-nueva
+MX,Mexico,México,98100,Noria de Gringo,Zacatecas,32,Morelos,032,,,22.8423,-102.6106,3,noria-de-gringo
+MX,Mexico,México,98100,California,Zacatecas,32,Morelos,032,,,22.8525,-102.6729,3,california
+MX,Mexico,México,99980,Moyahua Centro,Zacatecas,32,Moyahua de Estrada,033,Moyahua de Estrada,15,21.234,-103.107,1,moyahua-centro
+MX,Mexico,México,99984,Santa Cruz,Zacatecas,32,Moyahua de Estrada,033,Moyahua de Estrada,15,21.234,-103.107,4,santa-cruz
+MX,Mexico,México,99984,Santa Maria,Zacatecas,32,Moyahua de Estrada,033,Moyahua de Estrada,15,21.1987,-103.1643,3,santa-maria
+MX,Mexico,México,99987,Bajío Blanco,Zacatecas,32,Moyahua de Estrada,033,Moyahua de Estrada,15,21.234,-103.107,1,bajio-blanco
+MX,Mexico,México,99990,Alameda Juárez,Zacatecas,32,Moyahua de Estrada,033,,,21.1915,-103.1746,4,alameda-juarez
+MX,Mexico,México,99993,Cuxpala,Zacatecas,32,Moyahua de Estrada,033,,,21.2895,-103.2271,4,cuxpala
+MX,Mexico,México,99994,Vicente Guerrero,Zacatecas,32,Moyahua de Estrada,033,,,21.2876,-103.1104,4,vicente-guerrero
+MX,Mexico,México,99998,Palmarejo,Zacatecas,32,Moyahua de Estrada,033,,,21.1046,-103.1271,4,palmarejo
+MX,Mexico,México,99998,San Jose de Palmarejo,Zacatecas,32,Moyahua de Estrada,033,,,21.1015,-103.1421,3,san-jose-de-palmarejo
+MX,Mexico,México,99998,Jesús Maria,Zacatecas,32,Moyahua de Estrada,033,,,21.0985,-103.1572,4,jesus-maria
+MX,Mexico,México,99900,Nochistlan Centro,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3657,-102.8436,1,nochistlan-centro
+MX,Mexico,México,99902,Santo Santiago,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3726,-102.8421,4,santo-santiago
+MX,Mexico,México,99902,La Gloria,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3724,-102.8453,4,la-gloria
+MX,Mexico,México,99904,Arboledas,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3636,-102.8361,4,arboledas
+MX,Mexico,México,99904,Loma Bonita,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3657,-102.841,4,loma-bonita
+MX,Mexico,México,99905,Lomas del Refugio,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3625,-102.8267,4,lomas-del-refugio
+MX,Mexico,México,99905,Gonzalez Sanchez,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3625,-102.8267,3,gonzalez-sanchez
+MX,Mexico,México,99905,San Miguel Oriente,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3625,-102.8267,3,san-miguel-oriente
+MX,Mexico,México,99906,Santa Cecilia,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3547,-102.8453,4,santa-cecilia
+MX,Mexico,México,99907,Bugambilias,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.3589,-102.8501,4,bugambilias
+MX,Mexico,México,99908,La Presa,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.4173,-102.8595,3,la-presa
+MX,Mexico,México,99908,La Quinta,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.364,-102.8525,4,la-quinta
+MX,Mexico,México,99909,Los Arcos,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.377,-102.8536,4,los-arcos
+MX,Mexico,México,99909,Sutsemop,Zacatecas,32,Nochistlán de Mejía,034,Nochistlán de Mejía,11,21.377,-102.8536,3,sutsemop
+MX,Mexico,México,99910,Monte de Yánez,Zacatecas,32,Nochistlán de Mejía,034,,,21.448,-102.7876,4,monte-de-yanez
+MX,Mexico,México,99913,Las Delicias,Zacatecas,32,Nochistlán de Mejía,034,,,21.3439,-102.8506,4,las-delicias
+MX,Mexico,México,99913,Toyahua de Abajo,Zacatecas,32,Nochistlán de Mejía,034,,,21.3374,-102.7632,4,toyahua-de-abajo
+MX,Mexico,México,99913,Toyahua de Arriba,Zacatecas,32,Nochistlán de Mejía,034,,,21.3532,-102.7708,4,toyahua-de-arriba
+MX,Mexico,México,99913,Las Huertas,Zacatecas,32,Nochistlán de Mejía,034,,,21.274,-102.8898,4,las-huertas
+MX,Mexico,México,99914,Daniel Camarena,Zacatecas,32,Nochistlán de Mejía,034,,,21.3462,-102.8935,4,daniel-camarena
+MX,Mexico,México,99915,La Villita,Zacatecas,32,Nochistlán de Mejía,034,,,21.3922,-102.8394,4,la-villita
+MX,Mexico,México,99915,Las Pilas,Zacatecas,32,Nochistlán de Mejía,034,,,21.5226,-102.8396,4,las-pilas
+MX,Mexico,México,99917,El Molino,Zacatecas,32,Nochistlán de Mejía,034,,,21.2639,-102.8738,4,el-molino
+MX,Mexico,México,99917,Gabriel Lopez,Zacatecas,32,Nochistlán de Mejía,034,,,21.256,-102.9547,4,gabriel-lopez
+MX,Mexico,México,99917,Capellania,Zacatecas,32,Nochistlán de Mejía,034,,,21.2972,-102.9131,4,capellania
+MX,Mexico,México,99918,Casas Grandes,Zacatecas,32,Nochistlán de Mejía,034,,,21.5198,-102.7681,4,casas-grandes
+MX,Mexico,México,99918,Tlachichila,Zacatecas,32,Nochistlán de Mejía,034,,,21.5575,-102.7861,4,tlachichila
+MX,Mexico,México,99918,Fátima,Zacatecas,32,Nochistlán de Mejía,034,,,21.4173,-102.8595,3,fatima
+MX,Mexico,México,99919,La Estancia,Zacatecas,32,Nochistlán de Mejía,034,,,21.4294,-102.7397,4,la-estancia
+MX,Mexico,México,98880,Noria de Angeles,Zacatecas,32,Noria de Ángeles,035,,,22.4432,-101.9085,4,noria-de-angeles
+MX,Mexico,México,98880,Maravillas,Zacatecas,32,Noria de Ángeles,035,,,22.3999,-102.0168,4,maravillas
+MX,Mexico,México,98880,Playas Del Refugio,Zacatecas,32,Noria de Ángeles,035,,,22.3656,-102.032,4,playas-del-refugio
+MX,Mexico,México,98880,El Rascon,Zacatecas,32,Noria de Ángeles,035,,,22.3805,-102.0574,4,el-rascon
+MX,Mexico,México,98890,Granjas de Guadalupe,Zacatecas,32,Noria de Ángeles,035,,,22.3042,-101.7939,4,granjas-de-guadalupe
+MX,Mexico,México,98890,Ignacio Zaragoza,Zacatecas,32,Noria de Ángeles,035,,,22.338,-101.825,4,ignacio-zaragoza
+MX,Mexico,México,98890,Gral. Guadalupe Victoria O La Honda,Zacatecas,32,Noria de Ángeles,035,,,22.3152,-101.8132,3,gral-guadalupe-victoria-o-la-honda
+MX,Mexico,México,98890,San Francisco,Zacatecas,32,Noria de Ángeles,035,,,22.3036,-101.8206,4,san-francisco
+MX,Mexico,México,98700,Concepción,Zacatecas,32,Ojocaliente,036,,,22.5157,-102.266,4,concepcion
+MX,Mexico,México,98700,Palmillas,Zacatecas,32,Ojocaliente,036,,,22.65,-102.3518,4,palmillas
+MX,Mexico,México,98700,Sauceda de Mulatos,Zacatecas,32,Ojocaliente,036,,,22.4565,-102.0803,4,sauceda-de-mulatos
+MX,Mexico,México,98700,Milagros,Zacatecas,32,Ojocaliente,036,,,22.4999,-102.1837,4,milagros
+MX,Mexico,México,98700,Pastoría,Zacatecas,32,Ojocaliente,036,,,22.4861,-102.0818,4,pastoria
+MX,Mexico,México,98700,Tlacotes,Zacatecas,32,Ojocaliente,036,,,22.5739,-102.3339,4,tlacotes
+MX,Mexico,México,98700,El Refugio,Zacatecas,32,Ojocaliente,036,,,22.6151,-102.3264,4,el-refugio
+MX,Mexico,México,98700,San Pablo,Zacatecas,32,Ojocaliente,036,,,22.5685,-102.2164,3,san-pablo
+MX,Mexico,México,98700,Jarillas,Zacatecas,32,Ojocaliente,036,,,22.5492,-102.1997,4,jarillas
+MX,Mexico,México,98700,Palmira,Zacatecas,32,Ojocaliente,036,,,22.5433,-102.228,3,palmira
+MX,Mexico,México,98704,Dolores,Zacatecas,32,Ojocaliente,036,,,22.6,-102.3197,4,dolores
+MX,Mexico,México,98705,La Puerta de Fierro,Zacatecas,32,Ojocaliente,036,,,22.6933,-102.3086,4,la-puerta-de-fierro
+MX,Mexico,México,98705,Nuevo Mundo,Zacatecas,32,Ojocaliente,036,,,22.7345,-102.2047,4,nuevo-mundo
+MX,Mexico,México,98705,La Capilla,Zacatecas,32,Ojocaliente,036,,,22.6864,-102.2375,4,la-capilla
+MX,Mexico,México,98706,Cerrito de La Cruz,Zacatecas,32,Ojocaliente,036,,,22.6578,-102.2726,4,cerrito-de-la-cruz
+MX,Mexico,México,98706,La Verde,Zacatecas,32,Ojocaliente,036,,,22.6663,-102.2748,4,la-verde
+MX,Mexico,México,98706,Las Coloradas,Zacatecas,32,Ojocaliente,036,,,22.6516,-102.2299,4,las-coloradas
+MX,Mexico,México,98707,Perales,Zacatecas,32,Ojocaliente,036,,,22.6256,-102.1953,4,perales
+MX,Mexico,México,98707,Pozo de Jarillas,Zacatecas,32,Ojocaliente,036,,,22.6528,-102.1978,4,pozo-de-jarillas
+MX,Mexico,México,98707,Las Lajas,Zacatecas,32,Ojocaliente,036,,,22.6743,-102.2167,4,las-lajas
+MX,Mexico,México,98710,Ojocaliente Centro,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.6322,-102.302,4,ojocaliente-centro
+MX,Mexico,México,98712,El Papanton,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5742,-102.2039,4,el-papanton
+MX,Mexico,México,98712,San Miguel,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5951,-102.2477,4,san-miguel
+MX,Mexico,México,98712,Nombre de Dios,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5846,-102.2258,3,nombre-de-dios
+MX,Mexico,México,98712,Real de Sacramento,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5846,-102.2258,3,real-de-sacramento
+MX,Mexico,México,98712,Las Lomas,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5685,-102.2164,3,las-lomas
+MX,Mexico,México,98712,Las Cumbres,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5685,-102.2164,3,las-cumbres
+MX,Mexico,México,98712,Reginaldo Sandoval,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5846,-102.2258,3,reginaldo-sandoval
+MX,Mexico,México,98712,Nuevo Ojocaliente,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5846,-102.2258,3,nuevo-ojocaliente
+MX,Mexico,México,98712,Indeco,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5846,-102.2258,3,indeco
+MX,Mexico,México,98713,Las Villitas,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,las-villitas
+MX,Mexico,México,98713,Veteranos de La Revolución,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,veteranos-de-la-revolucion
+MX,Mexico,México,98713,Renacimiento,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,renacimiento
+MX,Mexico,México,98713,Huerta Santa Teresa,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,huerta-santa-teresa
+MX,Mexico,México,98714,Parga,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5617,-102.2431,4,parga
+MX,Mexico,México,98714,El Trébol,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.57,-102.2453,4,el-trebol
+MX,Mexico,México,98715,Jerusalem,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.6242,-102.3141,3,jerusalem
+MX,Mexico,México,98715,Martel,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.6242,-102.3141,3,martel
+MX,Mexico,México,98715,Real Bastidas,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.6242,-102.3141,3,real-bastidas
+MX,Mexico,México,98715,San Jorge,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5685,-102.2164,4,san-jorge
+MX,Mexico,México,98715,Luis Reyes,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5685,-102.2164,4,luis-reyes
+MX,Mexico,México,98716,Lázaro Cárdenas,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5685,-102.2164,1,lazaro-cardenas
+MX,Mexico,México,98717,Magisterial,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5685,-102.2164,1,magisterial
+MX,Mexico,México,98717,El Fresno,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5685,-102.2164,1,el-fresno
+MX,Mexico,México,98717,El Húmedo,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,el-humedo
+MX,Mexico,México,98717,Chinanpas,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,chinanpas
+MX,Mexico,México,98717,San Pedro,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,san-pedro
+MX,Mexico,México,98718,El Portalillo,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,el-portalillo
+MX,Mexico,México,98718,Elias Valadez,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,elias-valadez
+MX,Mexico,México,98718,Industrial Ladrillero,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,industrial-ladrillero
+MX,Mexico,México,98718,Fernando Pamanes Escobedo,Zacatecas,32,Ojocaliente,036,Ojocaliente,07,22.5974,-102.2672,1,fernando-pamanes-escobedo
+MX,Mexico,México,98720,San Cristóbal,Zacatecas,32,Ojocaliente,036,,,22.5908,-102.2339,4,san-cristobal
+MX,Mexico,México,98723,San Jose de los Llanos,Zacatecas,32,Ojocaliente,036,,,22.5101,-102.1585,4,san-jose-de-los-llanos
+MX,Mexico,México,98723,Santa Maria de La Paz,Zacatecas,32,Ojocaliente,036,,,22.5409,-102.1558,4,santa-maria-de-la-paz
+MX,Mexico,México,98723,San Blas de Copudas,Zacatecas,32,Ojocaliente,036,,,22.5547,-102.1475,4,san-blas-de-copudas
+MX,Mexico,México,98723,San Jose Del Vaquero,Zacatecas,32,Ojocaliente,036,,,22.5589,-102.1964,4,san-jose-del-vaquero
+MX,Mexico,México,98723,El Tildío,Zacatecas,32,Ojocaliente,036,,,22.5546,-102.1372,4,el-tildio
+MX,Mexico,México,98724,Buenavista,Zacatecas,32,Ojocaliente,036,,,22.4321,-102.1914,4,buenavista
+MX,Mexico,México,98725,San Juan de Carboneras,Zacatecas,32,Ojocaliente,036,,,22.4587,-102.143,4,san-juan-de-carboneras
+MX,Mexico,México,98725,Boquillas,Zacatecas,32,Ojocaliente,036,,,22.4324,-102.1546,4,boquillas
+MX,Mexico,México,98725,Santo Tomas,Zacatecas,32,Ojocaliente,036,,,22.4566,-102.1163,4,santo-tomas
+MX,Mexico,México,98726,Cerrito Del Agua,Zacatecas,32,Ojocaliente,036,,,22.5211,-102.1055,3,cerrito-del-agua
+MX,Mexico,México,98726,Venaditos,Zacatecas,32,Ojocaliente,036,,,22.5211,-102.1055,4,venaditos
+MX,Mexico,México,98727,San Antonio Del Volcán,Zacatecas,32,Ojocaliente,036,,,22.4258,-102.0792,4,san-antonio-del-volcan
+MX,Mexico,México,98727,El Chepinque,Zacatecas,32,Ojocaliente,036,,,22.4436,-102.0783,4,el-chepinque
+MX,Mexico,México,98540,Pánuco Centro,Zacatecas,32,Pánuco,037,,,22.9165,-102.5403,1,panuco-centro
+MX,Mexico,México,98541,San Antonio Del Ciprés,Zacatecas,32,Pánuco,037,,,22.9386,-102.4871,4,san-antonio-del-cipres
+MX,Mexico,México,98545,Casa de Cerros,Zacatecas,32,Pánuco,037,,,22.885,-102.5212,4,casa-de-cerros
+MX,Mexico,México,98546,Muleros,Zacatecas,32,Pánuco,037,,,22.894,-102.5829,4,muleros
+MX,Mexico,México,98548,Pozo de Gamboa,Zacatecas,32,Pánuco,037,,,22.9486,-102.5701,4,pozo-de-gamboa
+MX,Mexico,México,98550,El Espejo,Zacatecas,32,Pánuco,037,,,23.0732,-102.5827,4,el-espejo
+MX,Mexico,México,98920,La Plazuela,Zacatecas,32,Pinos,038,,,22.5324,-101.4898,3,la-plazuela
+MX,Mexico,México,98920,Tlaxcala,Zacatecas,32,Pinos,038,,,22.5324,-101.4898,3,tlaxcala
+MX,Mexico,México,98920,Centro,Zacatecas,32,Pinos,038,,,22.269,-101.5288,3,centro
+MX,Mexico,México,98920,H. Ayuntamiento,Zacatecas,32,Pinos,038,,,22.5324,-101.4898,3,h-ayuntamiento
+MX,Mexico,México,98920,Bachilleres,Zacatecas,32,Pinos,038,,,22.5324,-101.4898,3,bachilleres
+MX,Mexico,México,98920,Magisterial,Zacatecas,32,Pinos,038,,,22.269,-101.5288,3,magisterial
+MX,Mexico,México,98920,Santa Cecilia,Zacatecas,32,Pinos,038,,,22.269,-101.5288,3,santa-cecilia
+MX,Mexico,México,98920,Sierra de Pinos,Zacatecas,32,Pinos,038,,,22.5324,-101.4898,3,sierra-de-pinos
+MX,Mexico,México,98920,Los Arquitos,Zacatecas,32,Pinos,038,,,22.5324,-101.4898,4,los-arquitos
+MX,Mexico,México,98921,La Victoria,Zacatecas,32,Pinos,038,,,22.257,-101.6296,4,la-victoria
+MX,Mexico,México,98925,Las Mezclitas (La Mezclita),Zacatecas,32,Pinos,038,,,22.3886,-101.5778,4,las-mezclitas-la-mezclita
+MX,Mexico,México,98930,Espiritu Santo,Zacatecas,32,Pinos,038,,,22.6036,-101.4383,4,espiritu-santo
+MX,Mexico,México,98931,Santa Gertrudis,Zacatecas,32,Pinos,038,,,22.5999,-101.316,4,santa-gertrudis
+MX,Mexico,México,98933,Las Cabras,Zacatecas,32,Pinos,038,,,22.694,-101.4534,4,las-cabras
+MX,Mexico,México,98933,La Encarnación,Zacatecas,32,Pinos,038,,,22.6839,-101.3909,4,la-encarnacion
+MX,Mexico,México,98936,Guadalupe Victoria (Tierra Bofa),Zacatecas,32,Pinos,038,,,22.5011,-101.6208,4,guadalupe-victoria-tierra-bofa
+MX,Mexico,México,98940,Santiago,Zacatecas,32,Pinos,038,,,22.4548,-101.459,4,santiago
+MX,Mexico,México,98940,Santa Ana,Zacatecas,32,Pinos,038,,,22.3919,-101.474,4,santa-ana
+MX,Mexico,México,98940,Saldaña,Zacatecas,32,Pinos,038,,,22.3983,-101.4009,4,saldana
+MX,Mexico,México,98941,Trinidad Norte,Zacatecas,32,Pinos,038,,,22.4573,-101.5169,4,trinidad-norte
+MX,Mexico,México,98942,La Pendencia,Zacatecas,32,Pinos,038,,,22.4378,-101.5761,4,la-pendencia
+MX,Mexico,México,98942,Tolosa,Zacatecas,32,Pinos,038,,,22.5217,-101.3555,4,tolosa
+MX,Mexico,México,98950,El Nigromante,Zacatecas,32,Pinos,038,,,22.1537,-101.7106,4,el-nigromante
+MX,Mexico,México,98951,Laborcilla,Zacatecas,32,Pinos,038,,,22.1075,-101.7254,4,laborcilla
+MX,Mexico,México,98951,El Obraje,Zacatecas,32,Pinos,038,,,22.1806,-101.5906,4,el-obraje
+MX,Mexico,México,98955,Jaltomate,Zacatecas,32,Pinos,038,,,22.1647,-101.7775,4,jaltomate
+MX,Mexico,México,98959,San Manuel,Zacatecas,32,Pinos,038,,,22.2622,-101.7175,4,san-manuel
+MX,Mexico,México,98959,La Lobena,Zacatecas,32,Pinos,038,,,22.292,-101.701,4,la-lobena
+MX,Mexico,México,98959,Estancia de Guadalupe,Zacatecas,32,Pinos,038,,,22.2806,-101.6575,4,estancia-de-guadalupe
+MX,Mexico,México,98959,El Pedregoso,Zacatecas,32,Pinos,038,,,22.269,-101.5288,3,el-pedregoso
+MX,Mexico,México,98960,La Estrella,Zacatecas,32,Pinos,038,,,22.0869,-101.4821,4,la-estrella
+MX,Mexico,México,98960,Jose Maria Pino Suárez,Zacatecas,32,Pinos,038,,,22.129,-101.4694,3,jose-maria-pino-suarez
+MX,Mexico,México,98960,El Mezquite,Zacatecas,32,Pinos,038,,,22.1711,-101.4568,4,el-mezquite
+MX,Mexico,México,98961,Santa Elena,Zacatecas,32,Pinos,038,,,21.9766,-101.5084,4,santa-elena
+MX,Mexico,México,98965,La Cruz,Zacatecas,32,Pinos,038,,,22.0811,-101.4161,4,la-cruz
+MX,Mexico,México,98969,Cieneguilla,Zacatecas,32,Pinos,038,,,22.2021,-101.43,4,cieneguilla
+MX,Mexico,México,98969,San Martin,Zacatecas,32,Pinos,038,,,22.2233,-101.3761,4,san-martin
+MX,Mexico,México,98970,El Sitio,Zacatecas,32,Pinos,038,,,21.9642,-101.5883,4,el-sitio
+MX,Mexico,México,98971,Jaula de Abajo,Zacatecas,32,Pinos,038,,,22.0282,-101.5919,4,jaula-de-abajo
+MX,Mexico,México,98971,Jaula de Arriba,Zacatecas,32,Pinos,038,,,22.0367,-101.5584,4,jaula-de-arriba
+MX,Mexico,México,98971,Agua Grande de los Patos,Zacatecas,32,Pinos,038,,,22.0325,-101.5752,3,agua-grande-de-los-patos
+MX,Mexico,México,98971,Jaulillas,Zacatecas,32,Pinos,038,,,22.0325,-101.5752,3,jaulillas
+MX,Mexico,México,98974,Los Encinitos,Zacatecas,32,Pinos,038,,,21.995,-101.4069,4,los-encinitos
+MX,Mexico,México,98979,Ojo de Agua de La Palma,Zacatecas,32,Pinos,038,,,22.0037,-101.7275,4,ojo-de-agua-de-la-palma
+MX,Mexico,México,98400,Los Ramirez,Zacatecas,32,Río Grande,039,,,23.845,-103.0345,4,los-ramirez
+MX,Mexico,México,98400,La Florida,Zacatecas,32,Río Grande,039,,,23.8047,-103.0765,4,la-florida
+MX,Mexico,México,98400,Tierra Blanca,Zacatecas,32,Río Grande,039,,,23.8272,-103.0767,4,tierra-blanca
+MX,Mexico,México,98400,Las Piedras,Zacatecas,32,Río Grande,039,,,23.802,-103.0633,4,las-piedras
+MX,Mexico,México,98400,Las Palomas,Zacatecas,32,Río Grande,039,,,23.783,-103.0319,3,las-palomas
+MX,Mexico,México,98400,Ignacio Allende,Zacatecas,32,Río Grande,039,,,23.783,-103.0319,3,ignacio-allende
+MX,Mexico,México,98400,Bajo de Moya,Zacatecas,32,Río Grande,039,,,23.8436,-103.0539,4,bajo-de-moya
+MX,Mexico,México,98400,Las Esperanzas,Zacatecas,32,Río Grande,039,,,23.8476,-103.1315,4,las-esperanzas
+MX,Mexico,México,98401,El Fuerte,Zacatecas,32,Río Grande,039,,,23.8541,-103.1221,4,el-fuerte
+MX,Mexico,México,98403,La Luz,Zacatecas,32,Río Grande,039,,,23.783,-103.0319,1,la-luz
+MX,Mexico,México,98404,San Felipe,Zacatecas,32,Río Grande,039,,,23.7886,-103.1077,4,san-felipe
+MX,Mexico,México,98405,Jose Maria Morelos y Pavón,Zacatecas,32,Río Grande,039,,,23.8629,-103.1419,4,jose-maria-morelos-y-pavon
+MX,Mexico,México,98406,Loreto,Zacatecas,32,Río Grande,039,,,23.8503,-103.011,4,loreto
+MX,Mexico,México,98409,Ignacio Zaragoza,Zacatecas,32,Río Grande,039,,,23.7069,-103.0993,4,ignacio-zaragoza
+MX,Mexico,México,98410,Progreso de Alfonso Medina,Zacatecas,32,Río Grande,039,,,23.8169,-103.3391,4,progreso-de-alfonso-medina
+MX,Mexico,México,98413,Francisco Garcia Salinas,Zacatecas,32,Río Grande,039,,,23.8108,-103.1818,4,francisco-garcia-salinas
+MX,Mexico,México,98416,Tetillas,Zacatecas,32,Río Grande,039,,,23.7146,-102.9084,4,tetillas
+MX,Mexico,México,98419,Emiliano Zapata,Zacatecas,32,Río Grande,039,,,23.7187,-103.1922,4,emiliano-zapata
+MX,Mexico,México,98419,Pastelera,Zacatecas,32,Río Grande,039,,,23.7442,-103.097,4,pastelera
+MX,Mexico,México,98420,Rio Grande Centro,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,rio-grande-centro
+MX,Mexico,México,98422,Ricardo Flores Magón,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,4,ricardo-flores-magon
+MX,Mexico,México,98422,Los Duraznos,Zacatecas,32,Río Grande,039,Río Grande,05,23.7341,-103.4423,3,los-duraznos
+MX,Mexico,México,98422,Azteca,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,azteca
+MX,Mexico,México,98422,Buenos Aires,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,buenos-aires
+MX,Mexico,México,98422,La Estrella,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,la-estrella
+MX,Mexico,México,98422,Tepeyac,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,tepeyac
+MX,Mexico,México,98423,SUTSEMOP,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,sutsemop
+MX,Mexico,México,98423,Halcones,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,1,halcones
+MX,Mexico,México,98423,SNTE D-II-12,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,snte-d-ii-12
+MX,Mexico,México,98423,Lic Luis Donaldo Colosio,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,lic-luis-donaldo-colosio
+MX,Mexico,México,98423,La Loma,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,la-loma
+MX,Mexico,México,98424,CTM,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,ctm
+MX,Mexico,México,98424,Vista Hermosa,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,1,vista-hermosa
+MX,Mexico,México,98424,Lomas del Río,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,lomas-del-rio
+MX,Mexico,México,98424,El Mezquital,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,1,el-mezquital
+MX,Mexico,México,98424,Jardines Del Rio,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,jardines-del-rio
+MX,Mexico,México,98424,Potrero Loma Prieta,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,potrero-loma-prieta
+MX,Mexico,México,98424,C. C. I.,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,c-c-i
+MX,Mexico,México,98425,Del Rosario,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,del-rosario
+MX,Mexico,México,98425,Del Norte,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,del-norte
+MX,Mexico,México,98425,Rio Agua Naval,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,rio-agua-naval
+MX,Mexico,México,98425,La Cuesta,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,la-cuesta
+MX,Mexico,México,98425,INFONAVIT,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,1,infonavit
+MX,Mexico,México,98425,Adolfo López Mateos,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,1,adolfo-lopez-mateos
+MX,Mexico,México,98426,Ruiz Cortines,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,ruiz-cortines
+MX,Mexico,México,98426,El Cuero,Zacatecas,32,Río Grande,039,Río Grande,05,23.7803,-103.2363,1,el-cuero
+MX,Mexico,México,98426,El Llano,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,1,el-llano
+MX,Mexico,México,98429,Cantarranas,Zacatecas,32,Río Grande,039,Río Grande,05,23.8265,-103.0303,3,cantarranas
+MX,Mexico,México,98429,La Hacienda,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,la-hacienda
+MX,Mexico,México,98429,La Trinidad,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,la-trinidad
+MX,Mexico,México,98429,Álamos,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,alamos
+MX,Mexico,México,98429,Libertad,Zacatecas,32,Río Grande,039,Río Grande,05,23.783,-103.0319,3,libertad
+MX,Mexico,México,98429,El Ruiseñor,Zacatecas,32,Río Grande,039,Río Grande,05,23.8265,-103.0303,3,el-ruisenor
+MX,Mexico,México,98429,Rio Grande,Zacatecas,32,Río Grande,039,Río Grande,05,23.8265,-103.0303,4,rio-grande
+MX,Mexico,México,99130,Jose Maria Morelos,Zacatecas,32,Sain Alto,040,,,23.6079,-103.1117,4,jose-maria-morelos
+MX,Mexico,México,99130,Rio de Medina,Zacatecas,32,Sain Alto,040,,,23.5026,-103.0179,4,rio-de-medina
+MX,Mexico,México,99130,Sain Bajo,Zacatecas,32,Sain Alto,040,,,23.6163,-103.1745,4,sain-bajo
+MX,Mexico,México,99130,Sain Alto,Zacatecas,32,Sain Alto,040,,,23.5809,-103.2481,4,sain-alto
+MX,Mexico,México,99130,San Antonio,Zacatecas,32,Sain Alto,040,,,23.5372,-103.3062,4,san-antonio
+MX,Mexico,México,99130,Barrancas,Zacatecas,32,Sain Alto,040,,,23.6311,-103.204,4,barrancas
+MX,Mexico,México,99132,El Cazadero,Zacatecas,32,Sain Alto,040,,,23.6725,-103.1222,4,el-cazadero
+MX,Mexico,México,99138,Laguna Blanca,Zacatecas,32,Sain Alto,040,,,23.4917,-103.2086,4,laguna-blanca
+MX,Mexico,México,99138,Santa Eduviges,Zacatecas,32,Sain Alto,040,,,23.4681,-103.2081,4,santa-eduviges
+MX,Mexico,México,99140,Cantuna,Zacatecas,32,Sain Alto,040,,,23.6246,-103.3463,4,cantuna
+MX,Mexico,México,99140,Cantuna Sur,Zacatecas,32,Sain Alto,040,,,23.6246,-103.3463,4,cantuna-sur
+MX,Mexico,México,99140,Cantuna Norte,Zacatecas,32,Sain Alto,040,,,23.6246,-103.3463,3,cantuna-norte
+MX,Mexico,México,99141,Luis Moya,Zacatecas,32,Sain Alto,040,,,23.5823,-103.4413,4,luis-moya
+MX,Mexico,México,99141,Cañas,Zacatecas,32,Sain Alto,040,,,23.7437,-103.244,4,canas
+MX,Mexico,México,99141,Emiliano Zapata,Zacatecas,32,Sain Alto,040,,,23.5721,-103.3021,4,emiliano-zapata
+MX,Mexico,México,98290,El Salvador,Zacatecas,32,El Salvador,041,,,24.5209,-100.8663,4,el-salvador
+MX,Mexico,México,98290,Tanque Nuevo,Zacatecas,32,El Salvador,041,,,24.4497,-100.9047,3,tanque-nuevo
+MX,Mexico,México,99100,Sombrerete Centro,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6498,-103.6934,1,sombrerete-centro
+MX,Mexico,México,99102,Loma La Colorada,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.4262,-103.6776,3,loma-la-colorada
+MX,Mexico,México,99102,La Purísima,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.5052,-103.7382,4,la-purisima
+MX,Mexico,México,99102,La Urbaleja y los Músicos,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.4262,-103.6776,3,la-urbaleja-y-los-musicos
+MX,Mexico,México,99102,Sombreretillo,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6433,-103.6249,4,sombreretillo
+MX,Mexico,México,99102,El Coronel,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,el-coronel
+MX,Mexico,México,99102,La Perla,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,la-perla
+MX,Mexico,México,99102,El Sombreretillo,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,el-sombreretillo
+MX,Mexico,México,99102,Lopez Mateos,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,lopez-mateos
+MX,Mexico,México,99102,La Soledad,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.13,-103.6696,4,la-soledad
+MX,Mexico,México,99103,Santo Domingo,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,santo-domingo
+MX,Mexico,México,99103,San Pedro,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.7147,-103.6436,3,san-pedro
+MX,Mexico,México,99103,Huerta de los Santos Niños,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6183,-103.6419,4,huerta-de-los-santos-ninos
+MX,Mexico,México,99103,El Cerrito de Guadalupe,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.7147,-103.6436,3,el-cerrito-de-guadalupe
+MX,Mexico,México,99103,La Caridad y La Huerta,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.7147,-103.6436,3,la-caridad-y-la-huerta
+MX,Mexico,México,99103,La Cueva,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,4,la-cueva
+MX,Mexico,México,99103,Las Escobillas,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,las-escobillas
+MX,Mexico,México,99103,El Chepinque,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,el-chepinque
+MX,Mexico,México,99103,División del Norte,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,division-del-norte
+MX,Mexico,México,99103,Santa Rosa,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.5025,-103.7322,4,santa-rosa
+MX,Mexico,México,99103,Del Oro,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.7147,-103.6436,3,del-oro
+MX,Mexico,México,99103,Industrial,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,industrial
+MX,Mexico,México,99104,Infonavit I,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6953,-103.7444,3,infonavit-i
+MX,Mexico,México,99104,El Consuelo,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6953,-103.7444,3,el-consuelo
+MX,Mexico,México,99104,La Santiaga,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6953,-103.7444,3,la-santiaga
+MX,Mexico,México,99104,Huertas Grandes,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6953,-103.7444,3,huertas-grandes
+MX,Mexico,México,99104,Lomas Del Consuelo,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6953,-103.7444,3,lomas-del-consuelo
+MX,Mexico,México,99104,Infonavit II,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6953,-103.7444,3,infonavit-ii
+MX,Mexico,México,99104,Fovissste,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,fovissste
+MX,Mexico,México,99104,El Ranchito,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6953,-103.7444,4,el-ranchito
+MX,Mexico,México,99104,El Peñasco,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,el-penasco
+MX,Mexico,México,99104,La Blanca,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,la-blanca
+MX,Mexico,México,99104,La Pila,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,la-pila
+MX,Mexico,México,99104,La Palmilla,Zacatecas,32,Sombrerete,042,Sombrerete,16,23.6402,-103.6149,3,la-palmilla
+MX,Mexico,México,99106,Álvaro Obregón,Zacatecas,32,Sombrerete,042,,,23.6329,-103.581,4,alvaro-obregon
+MX,Mexico,México,99106,Frió,Zacatecas,32,Sombrerete,042,,,23.6231,-103.5338,4,frio
+MX,Mexico,México,99109,San Jose de Félix,Zacatecas,32,Sombrerete,042,,,23.7222,-103.7458,4,san-jose-de-felix
+MX,Mexico,México,99109,Jose Maria Morelos,Zacatecas,32,Sombrerete,042,,,23.7724,-103.5923,4,jose-maria-morelos
+MX,Mexico,México,99109,San Martin,Zacatecas,32,Sombrerete,042,,,23.6712,-103.7501,4,san-martin
+MX,Mexico,México,99109,Ojo de Agua Calabazal,Zacatecas,32,Sombrerete,042,,,23.729,-103.8207,4,ojo-de-agua-calabazal
+MX,Mexico,México,99109,Villa Insurgentes,Zacatecas,32,Sombrerete,042,,,23.744,-103.8398,4,villa-insurgentes
+MX,Mexico,México,99109,Santa Rita,Zacatecas,32,Sombrerete,042,,,23.7347,-103.8298,4,santa-rita
+MX,Mexico,México,99110,Ignacio Zaragoza,Zacatecas,32,Sombrerete,042,,,23.9434,-103.4169,4,ignacio-zaragoza
+MX,Mexico,México,99110,Felipe Ángeles,Zacatecas,32,Sombrerete,042,,,23.9321,-103.3544,4,felipe-angeles
+MX,Mexico,México,99110,Hidalgo,Zacatecas,32,Sombrerete,042,,,23.9783,-103.6603,4,hidalgo
+MX,Mexico,México,99110,Gonzalez Ortega,Zacatecas,32,Sombrerete,042,,,23.9598,-103.4558,4,gonzalez-ortega
+MX,Mexico,México,99110,Francisco Murguía,Zacatecas,32,Sombrerete,042,,,23.9481,-103.664,4,francisco-murguia
+MX,Mexico,México,99113,Charco Blanco,Zacatecas,32,Sombrerete,042,,,23.8631,-103.6575,4,charco-blanco
+MX,Mexico,México,99119,Ignacio Allende,Zacatecas,32,Sombrerete,042,,,23.8108,-103.4881,4,ignacio-allende
+MX,Mexico,México,99119,Flores Garcia,Zacatecas,32,Sombrerete,042,,,23.8841,-103.4555,4,flores-garcia
+MX,Mexico,México,99119,Benito Juárez,Zacatecas,32,Sombrerete,042,,,23.8645,-103.3892,4,benito-juarez
+MX,Mexico,México,99119,Cuauhtémoc,Zacatecas,32,Sombrerete,042,,,23.8086,-103.4032,4,cuauhtemoc
+MX,Mexico,México,99120,Los Corrales,Zacatecas,32,Sombrerete,042,,,23.5471,-103.6621,3,los-corrales
+MX,Mexico,México,99120,Lo de Mena,Zacatecas,32,Sombrerete,042,,,23.5471,-103.6621,4,lo-de-mena
+MX,Mexico,México,99121,Refugio de los Pozos,Zacatecas,32,Sombrerete,042,,,23.148,-103.7257,4,refugio-de-los-pozos
+MX,Mexico,México,99121,Estancia de Guadalupe,Zacatecas,32,Sombrerete,042,,,23.2656,-103.6945,4,estancia-de-guadalupe
+MX,Mexico,México,99121,Menonita,Zacatecas,32,Sombrerete,042,,,23.2586,-103.5169,4,menonita
+MX,Mexico,México,99121,Mesillas,Zacatecas,32,Sombrerete,042,,,23.4721,-103.5802,4,mesillas
+MX,Mexico,México,99121,Felipe Ángeles (La Estancia),Zacatecas,32,Sombrerete,042,,,23.2861,-103.6293,3,felipe-angeles-la-estancia
+MX,Mexico,México,99128,San Jose de Ranchos,Zacatecas,32,Sombrerete,042,,,23.476,-103.7799,4,san-jose-de-ranchos
+MX,Mexico,México,99128,San Juan de La Tapia,Zacatecas,32,Sombrerete,042,,,23.4987,-103.6923,4,san-juan-de-la-tapia
+MX,Mexico,México,99129,Vergelitos,Zacatecas,32,Sombrerete,042,,,23.5325,-103.7394,4,vergelitos
+MX,Mexico,México,99480,Susticacán,Zacatecas,32,Susticacán,043,,,22.6094,-103.0967,4,susticacan
+MX,Mexico,México,99630,Huiscolco,Zacatecas,32,Tabasco,044,,,21.894,-102.9452,4,huiscolco
+MX,Mexico,México,99630,Linda Vista,Zacatecas,32,Tabasco,044,,,21.9343,-102.9331,4,linda-vista
+MX,Mexico,México,99630,Tenanguillo,Zacatecas,32,Tabasco,044,,,21.9177,-102.9059,4,tenanguillo
+MX,Mexico,México,99630,Tabasco,Zacatecas,32,Tabasco,044,,,21.8629,-102.911,4,tabasco
+MX,Mexico,México,99630,El Refugio,Zacatecas,32,Tabasco,044,,,21.9343,-102.9331,3,el-refugio
+MX,Mexico,México,99630,Benito Juárez,Zacatecas,32,Tabasco,044,,,21.9343,-102.9331,3,benito-juarez
+MX,Mexico,México,99630,Arboledas,Zacatecas,32,Tabasco,044,,,21.9343,-102.9331,3,arboledas
+MX,Mexico,México,99630,La Capilla,Zacatecas,32,Tabasco,044,,,21.9343,-102.9331,3,la-capilla
+MX,Mexico,México,99630,Monasterios,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,monasterios
+MX,Mexico,México,99630,Secundaria,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,secundaria
+MX,Mexico,México,99630,Cosalimita,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,cosalimita
+MX,Mexico,México,99630,Barrio San Jose,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,barrio-san-jose
+MX,Mexico,México,99630,Barrio San Nicolás,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,barrio-san-nicolas
+MX,Mexico,México,99630,Balconcitos,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,balconcitos
+MX,Mexico,México,99630,Lomas de Solidaridad,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,lomas-de-solidaridad
+MX,Mexico,México,99630,Del Parque,Zacatecas,32,Tabasco,044,,,21.9592,-102.8924,3,del-parque
+MX,Mexico,México,99630,Magisterial,Zacatecas,32,Tabasco,044,,,21.9343,-102.9331,3,magisterial
+MX,Mexico,México,99630,El Jaralillo,Zacatecas,32,Tabasco,044,,,21.9343,-102.9331,3,el-jaralillo
+MX,Mexico,México,99630,San Luis de Custique,Zacatecas,32,Tabasco,044,,,21.9778,-102.8696,4,san-luis-de-custique
+MX,Mexico,México,99644,San Francisco,Zacatecas,32,Tabasco,044,,,21.9374,-102.8932,4,san-francisco
+MX,Mexico,México,99650,Santiago,Zacatecas,32,Tabasco,044,,,22.0059,-102.886,4,santiago
+MX,Mexico,México,99750,Tepechitlan,Zacatecas,32,Tepechitlán,045,,,21.6706,-103.3264,4,tepechitlan
+MX,Mexico,México,99750,El Terrero,Zacatecas,32,Tepechitlán,045,,,21.6567,-103.3311,4,el-terrero
+MX,Mexico,México,99750,Magisterial,Zacatecas,32,Tepechitlán,045,,,21.6245,-103.3568,3,magisterial
+MX,Mexico,México,99750,La Cumbrita,Zacatecas,32,Tepechitlán,045,,,21.6636,-103.3288,3,la-cumbrita
+MX,Mexico,México,99750,Ocotlan Cerro Chino,Zacatecas,32,Tepechitlán,045,,,21.6636,-103.3288,3,ocotlan-cerro-chino
+MX,Mexico,México,99753,Las Pilas,Zacatecas,32,Tepechitlán,045,,,21.6731,-103.3367,4,las-pilas
+MX,Mexico,México,99755,Ojuelos,Zacatecas,32,Tepechitlán,045,,,21.6459,-103.2519,4,ojuelos
+MX,Mexico,México,99760,Santiago Nexcaltitán,Zacatecas,32,Tepechitlán,045,,,21.6844,-103.434,1,santiago-nexcaltitan
+MX,Mexico,México,99770,San Pedro Ocotlan,Zacatecas,32,Tepechitlán,045,,,21.5381,-103.3072,4,san-pedro-ocotlan
+MX,Mexico,México,99570,El Cuidado,Zacatecas,32,Tepetongo,046,,,22.4024,-103.0974,4,el-cuidado
+MX,Mexico,México,99570,Chihuahua,Zacatecas,32,Tepetongo,046,,,22.4441,-103.1368,3,chihuahua
+MX,Mexico,México,99570,América,Zacatecas,32,Tepetongo,046,,,22.4402,-103.1488,3,america
+MX,Mexico,México,99570,Víboras,Zacatecas,32,Tepetongo,046,,,22.4153,-103.1711,4,viboras
+MX,Mexico,México,99570,El Salitre,Zacatecas,32,Tepetongo,046,,,22.4847,-103.1756,4,el-salitre
+MX,Mexico,México,99570,Tepetongo,Zacatecas,32,Tepetongo,046,,,22.4585,-103.1512,4,tepetongo
+MX,Mexico,México,99580,Juanchorrey,Zacatecas,32,Tepetongo,046,,,22.3622,-102.9236,1,juanchorrey
+MX,Mexico,México,99581,Buenavista,Zacatecas,32,Tepetongo,046,,,22.3622,-102.9236,1,buenavista
+MX,Mexico,México,99581,Aparicios,Zacatecas,32,Tepetongo,046,,,22.4441,-103.1368,1,aparicios
+MX,Mexico,México,99800,Los Maestros,Zacatecas,32,Teúl de González Ortega,047,,,21.4634,-103.4613,3,los-maestros
+MX,Mexico,México,99800,Vallarta,Zacatecas,32,Teúl de González Ortega,047,,,21.4634,-103.4613,3,vallarta
+MX,Mexico,México,99800,Genaro Borrego,Zacatecas,32,Teúl de González Ortega,047,,,21.4634,-103.4613,3,genaro-borrego
+MX,Mexico,México,99800,El Agave,Zacatecas,32,Teúl de González Ortega,047,,,21.4634,-103.4613,3,el-agave
+MX,Mexico,México,99800,La Esperanza,Zacatecas,32,Teúl de González Ortega,047,,,21.3638,-103.4531,3,la-esperanza
+MX,Mexico,México,99800,Teul de Gonzalez Ortega,Zacatecas,32,Teúl de González Ortega,047,,,21.4634,-103.4613,4,teul-de-gonzalez-ortega
+MX,Mexico,México,99806,Alamitos,Zacatecas,32,Teúl de González Ortega,047,,,21.4107,-103.288,4,alamitos
+MX,Mexico,México,99810,Milpillas de Allende,Zacatecas,32,Teúl de González Ortega,047,,,21.3272,-103.615,4,milpillas-de-allende
+MX,Mexico,México,99814,Huitzila,Zacatecas,32,Teúl de González Ortega,047,,,21.223,-103.6069,4,huitzila
+MX,Mexico,México,99700,Morones,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7769,-103.1589,4,morones
+MX,Mexico,México,99700,Tabachines,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,tabachines
+MX,Mexico,México,99700,Santo Santiago,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7822,-103.2706,4,santo-santiago
+MX,Mexico,México,99700,Buena Vista,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7848,-103.2271,3,buena-vista
+MX,Mexico,México,99700,Las Lomitas,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7848,-103.2271,3,las-lomitas
+MX,Mexico,México,99700,Las Conchas,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,las-conchas
+MX,Mexico,México,99700,Las Moritas,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,las-moritas
+MX,Mexico,México,99700,Hacienda Real,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,hacienda-real
+MX,Mexico,México,99700,Militar,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,militar
+MX,Mexico,México,99700,Brisas Del Rio,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,brisas-del-rio
+MX,Mexico,México,99700,Arboledas,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7848,-103.2271,3,arboledas
+MX,Mexico,México,99700,Lomas Del Country,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,lomas-del-country
+MX,Mexico,México,99700,Hidráulica,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,hidraulica
+MX,Mexico,México,99700,Lomas Del Calvario,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.788,-103.2669,3,lomas-del-calvario
+MX,Mexico,México,99700,Tlaltenango de Sanchez Román,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7822,-103.303,4,tlaltenango-de-sanchez-roman
+MX,Mexico,México,99700,San Antonio,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7332,-103.274,4,san-antonio
+MX,Mexico,México,99700,Los Guapos,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.8727,-103.2551,4,los-guapos
+MX,Mexico,México,99700,Los Ramos,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.816,-103.2607,4,los-ramos
+MX,Mexico,México,99700,Las Goteras,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7842,-103.2864,4,las-goteras
+MX,Mexico,México,99700,Independencia,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7848,-103.2271,3,independencia
+MX,Mexico,México,99700,Valle Verde,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7848,-103.2271,3,valle-verde
+MX,Mexico,México,99700,La Haciendita,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7848,-103.2271,3,la-haciendita
+MX,Mexico,México,99700,San Pascual,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7569,-103.3264,4,san-pascual
+MX,Mexico,México,99702,Lomas de Caxcanes,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7909,-103.2776,1,lomas-de-caxcanes
+MX,Mexico,México,99704,La Palma,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.8161,-103.2994,4,la-palma
+MX,Mexico,México,99705,Salazares,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.864,-103.3058,4,salazares
+MX,Mexico,México,99707,Cicacalco,Zacatecas,32,Tlaltenango de Sánchez Román,048,,,21.7157,-103.3129,4,cicacalco
+MX,Mexico,México,99200,Capulín de la Sierra,Zacatecas,32,Valparaíso,049,,,22.8319,-103.5913,4,capulin-de-la-sierra
+MX,Mexico,México,99200,Mimbres,Zacatecas,32,Valparaíso,049,,,22.8601,-103.552,4,mimbres
+MX,Mexico,México,99200,El Tejujan,Zacatecas,32,Valparaíso,049,,,22.7556,-103.6297,4,el-tejujan
+MX,Mexico,México,99200,El Resbalón,Zacatecas,32,Valparaíso,049,,,22.7452,-103.5783,4,el-resbalon
+MX,Mexico,México,99200,Tejones,Zacatecas,32,Valparaíso,049,,,22.7114,-103.5825,4,tejones
+MX,Mexico,México,99200,El Astillero,Zacatecas,32,Valparaíso,049,,,22.7239,-103.6327,4,el-astillero
+MX,Mexico,México,99200,Trojes,Zacatecas,32,Valparaíso,049,,,22.8167,-103.5333,4,trojes
+MX,Mexico,México,99200,Cruces,Zacatecas,32,Valparaíso,049,,,22.692,-103.665,4,cruces
+MX,Mexico,México,99200,San Miguel,Zacatecas,32,Valparaíso,049,,,22.8291,-103.5155,4,san-miguel
+MX,Mexico,México,99201,San Jose Del Vergel,Zacatecas,32,Valparaíso,049,,,22.779,-103.5044,4,san-jose-del-vergel
+MX,Mexico,México,99202,Vicente Escudero,Zacatecas,32,Valparaíso,049,,,22.7285,-103.4356,4,vicente-escudero
+MX,Mexico,México,99203,Felipe Angeles,Zacatecas,32,Valparaíso,049,,,22.7851,-103.5563,4,felipe-angeles
+MX,Mexico,México,99206,La Pila de Las Oscuras (La Pila),Zacatecas,32,Valparaíso,049,,,22.6753,-103.5822,4,la-pila-de-las-oscuras-la-pila
+MX,Mexico,México,99208,San Antonio de Padua,Zacatecas,32,Valparaíso,049,,,22.5736,-103.85,4,san-antonio-de-padua
+MX,Mexico,México,99209,Potrero de Gallego,Zacatecas,32,Valparaíso,049,,,22.7505,-103.5864,1,potrero-de-gallego
+MX,Mexico,México,99210,Milpillas de La Sierra,Zacatecas,32,Valparaíso,049,,,23.0869,-103.6777,4,milpillas-de-la-sierra
+MX,Mexico,México,99220,Caracoles y Anexas,Zacatecas,32,Valparaíso,049,,,22.9778,-103.4597,1,caracoles-y-anexas
+MX,Mexico,México,99220,San Mateo,Zacatecas,32,Valparaíso,049,,,22.9778,-103.4597,1,san-mateo
+MX,Mexico,México,99225,Peñitas de San Mateo,Zacatecas,32,Valparaíso,049,,,22.9778,-103.4597,4,penitas-de-san-mateo
+MX,Mexico,México,99230,Mala Noche,Zacatecas,32,Valparaíso,049,,,22.7906,-103.4257,4,mala-noche
+MX,Mexico,México,99230,Lobatos,Zacatecas,32,Valparaíso,049,,,22.8228,-103.4058,4,lobatos
+MX,Mexico,México,99231,Xoconoxtle,Zacatecas,32,Valparaíso,049,,,22.779,-103.7528,1,xoconoxtle
+MX,Mexico,México,99237,Cueva Grande,Zacatecas,32,Valparaíso,049,,,22.7,-103.2833,4,cueva-grande
+MX,Mexico,México,99238,Boquilla del Refugio,Zacatecas,32,Valparaíso,049,,,22.8178,-103.3607,4,boquilla-del-refugio
+MX,Mexico,México,99239,San Jose de Llanetes,Zacatecas,32,Valparaíso,049,,,22.9145,-103.2791,4,san-jose-de-llanetes
+MX,Mexico,México,99240,San Juan Capistrano,Zacatecas,32,Valparaíso,049,,,22.6436,-104.1009,4,san-juan-capistrano
+MX,Mexico,México,99250,Valparaíso Centro,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.776,-103.556,1,valparaiso-centro
+MX,Mexico,México,99252,Las Rosas,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7735,-103.5752,4,las-rosas
+MX,Mexico,México,99252,La Lagunilla,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.726,-103.4659,4,la-lagunilla
+MX,Mexico,México,99252,Santo Domingo,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7497,-103.5206,3,santo-domingo
+MX,Mexico,México,99252,La Viña,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.779,-103.7528,3,la-vina
+MX,Mexico,México,99253,Ameca,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.9511,-104.0011,4,ameca
+MX,Mexico,México,99253,Agua Fría,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7803,-103.5664,4,agua-fria
+MX,Mexico,México,99253,La Joyita,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7783,-103.5706,4,la-joyita
+MX,Mexico,México,99253,El Panalito,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7732,-103.5674,4,el-panalito
+MX,Mexico,México,99253,Simon Bolívar,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.8207,-103.6764,3,simon-bolivar
+MX,Mexico,México,99254,El Lago,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7816,-103.5602,3,el-lago
+MX,Mexico,México,99254,Magisterial,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.787,-103.5551,4,magisterial
+MX,Mexico,México,99254,Los Guerreros,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.779,-103.7528,3,los-guerreros
+MX,Mexico,México,99254,Alameda,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7761,-103.5645,4,alameda
+MX,Mexico,México,99254,Ranchito de La Cruz,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7807,-103.5604,4,ranchito-de-la-cruz
+MX,Mexico,México,99254,Francisco I Madero,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7816,-103.5602,3,francisco-i-madero
+MX,Mexico,México,99254,Mesita Del Valle,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7816,-103.5602,3,mesita-del-valle
+MX,Mexico,México,99254,Lomas Del Valle,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7823,-103.561,4,lomas-del-valle
+MX,Mexico,México,99255,Los Nogales,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7695,-103.5632,4,los-nogales
+MX,Mexico,México,99255,Ranchito Del Tanque,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7608,-103.565,4,ranchito-del-tanque
+MX,Mexico,México,99256,La Lentejita,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7586,-103.5728,4,la-lentejita
+MX,Mexico,México,99256,Puerta de Cadena Del Sur,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7586,-103.5728,3,puerta-de-cadena-del-sur
+MX,Mexico,México,99256,Del Refugio,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7586,-103.5728,3,del-refugio
+MX,Mexico,México,99257,Mauro Talamantes,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7544,-103.5761,4,mauro-talamantes
+MX,Mexico,México,99257,Bellavista,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7642,-103.5807,4,bellavista
+MX,Mexico,México,99257,Enrique Estrada,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7644,-103.5725,4,enrique-estrada
+MX,Mexico,México,99257,Santa Rita,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.9188,-103.3632,4,santa-rita
+MX,Mexico,México,99257,México,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7818,-103.5454,3,mexico
+MX,Mexico,México,99257,Emiliano Zapata,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7674,-103.5714,4,emiliano-zapata
+MX,Mexico,México,99257,Sierra Dorada,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7506,-103.5771,4,sierra-dorada
+MX,Mexico,México,99257,Buenavista,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7525,-103.5766,4,buenavista
+MX,Mexico,México,99258,Las Américas,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7708,-103.5788,4,las-americas
+MX,Mexico,México,99258,El Pedregal,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.779,-103.7528,4,el-pedregal
+MX,Mexico,México,99258,Deportiva,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7699,-103.5724,4,deportiva
+MX,Mexico,México,99258,Cumbres Del Valle,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.7713,-103.5848,4,cumbres-del-valle
+MX,Mexico,México,99259,El Vallecito,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.779,-103.7528,3,el-vallecito
+MX,Mexico,México,99259,Atotonilco,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.776,-103.5686,4,atotonilco
+MX,Mexico,México,99259,Lomas Del Paraíso,Zacatecas,32,Valparaíso,049,Valparaíso,13,22.773,-103.5784,4,lomas-del-paraiso
+MX,Mexico,México,98140,Del Puerto,Zacatecas,32,Vetagrande,050,,,22.8322,-102.5294,3,del-puerto
+MX,Mexico,México,98140,Vetagrande,Zacatecas,32,Vetagrande,050,,,22.834,-102.5561,4,vetagrande
+MX,Mexico,México,98140,Sauceda de la Borda,Zacatecas,32,Vetagrande,050,,,22.8304,-102.5026,4,sauceda-de-la-borda
+MX,Mexico,México,98150,El Lampotal,Zacatecas,32,Vetagrande,050,,,22.8958,-102.4194,4,el-lampotal
+MX,Mexico,México,98150,La Era,Zacatecas,32,Vetagrande,050,,,22.8507,-102.4224,4,la-era
+MX,Mexico,México,98430,Villa de Cos Centro,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,villa-de-cos-centro
+MX,Mexico,México,98430,Bañoncito,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,banoncito
+MX,Mexico,México,98432,Fresnillito,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,fresnillito
+MX,Mexico,México,98435,Las Haciendas,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,las-haciendas
+MX,Mexico,México,98435,COPROVI,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,coprovi
+MX,Mexico,México,98435,Villa Jardín,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,villa-jardin
+MX,Mexico,México,98436,Del PRI,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,del-pri
+MX,Mexico,México,98436,Elias Mirador,Zacatecas,32,Villa de Cos,051,Villa de Cos,10,23.6401,-102.586,1,elias-mirador
+MX,Mexico,México,98440,La Colorada,Zacatecas,32,Villa de Cos,051,,,23.6974,-102.5046,3,la-colorada
+MX,Mexico,México,98440,Guadalupe de las Corrientes,Zacatecas,32,Villa de Cos,051,,,23.6974,-102.5046,4,guadalupe-de-las-corrientes
+MX,Mexico,México,98445,Agua Nueva,Zacatecas,32,Villa de Cos,051,,,23.7856,-102.1615,4,agua-nueva
+MX,Mexico,México,98450,Benito Juárez,Zacatecas,32,Villa de Cos,051,,,23.6179,-101.7229,4,benito-juarez
+MX,Mexico,México,98450,San Andres Puerto Madero,Zacatecas,32,Villa de Cos,051,,,23.701,-101.9296,4,san-andres-puerto-madero
+MX,Mexico,México,98450,Puerto Madero,Zacatecas,32,Villa de Cos,051,,,23.701,-101.9296,4,puerto-madero
+MX,Mexico,México,98451,Efigenia,Zacatecas,32,Villa de Cos,051,,,23.7433,-101.8758,4,efigenia
+MX,Mexico,México,98451,San José,Zacatecas,32,Villa de Cos,051,,,23.5667,-101.8667,4,san-jose
+MX,Mexico,México,98451,Nueva Pastoría,Zacatecas,32,Villa de Cos,051,,,23.5867,-101.9116,4,nueva-pastoria
+MX,Mexico,México,98452,Pabellón,Zacatecas,32,Villa de Cos,051,,,23.6287,-101.8132,4,pabellon
+MX,Mexico,México,98453,Felipe Carrillo Puerto,Zacatecas,32,Villa de Cos,051,,,23.838,-102.1022,4,felipe-carrillo-puerto
+MX,Mexico,México,98453,Emiliano Zapata,Zacatecas,32,Villa de Cos,051,,,23.5789,-102.1613,4,emiliano-zapata
+MX,Mexico,México,98453,Campechana,Zacatecas,32,Villa de Cos,051,,,23.6509,-102.0991,4,campechana
+MX,Mexico,México,98460,Cervantes,Zacatecas,32,Villa de Cos,051,,,23.3918,-102.0134,4,cervantes
+MX,Mexico,México,98460,El Rucio,Zacatecas,32,Villa de Cos,051,,,23.4074,-102.0819,4,el-rucio
+MX,Mexico,México,98461,La Prieta,Zacatecas,32,Villa de Cos,051,,,23.3678,-102.1399,4,la-prieta
+MX,Mexico,México,98464,Tierra y Libertad (San Blas),Zacatecas,32,Villa de Cos,051,,,23.4536,-102.3889,4,tierra-y-libertad-san-blas
+MX,Mexico,México,98471,Tenango,Zacatecas,32,Villa de Cos,051,,,23.4872,-102.2528,4,tenango
+MX,Mexico,México,98471,Cañas,Zacatecas,32,Villa de Cos,051,,,23.4359,-102.2662,4,canas
+MX,Mexico,México,98471,Chuparrosa,Zacatecas,32,Villa de Cos,051,,,23.0834,-102.2773,4,chuparrosa
+MX,Mexico,México,98471,Chupaderos,Zacatecas,32,Villa de Cos,051,,,23.1588,-102.3253,4,chupaderos
+MX,Mexico,México,98471,El Celo,Zacatecas,32,Villa de Cos,051,,,23.2692,-102.3195,3,el-celo
+MX,Mexico,México,98471,Bañon,Zacatecas,32,Villa de Cos,051,,,23.1806,-102.4759,4,banon
+MX,Mexico,México,98473,Charco Blanco,Zacatecas,32,Villa de Cos,051,,,23.2984,-102.4721,4,charco-blanco
+MX,Mexico,México,98900,El Arenal,Zacatecas,32,Villa García,052,,,22.1297,-101.8924,3,el-arenal
+MX,Mexico,México,98900,Villa Garcia Centro,Zacatecas,32,Villa García,052,,,22.1609,-101.9549,4,villa-garcia-centro
+MX,Mexico,México,98900,Villa Flores,Zacatecas,32,Villa García,052,,,22.1586,-101.9456,4,villa-flores
+MX,Mexico,México,98910,Agua Gorda,Zacatecas,32,Villa García,052,,,22.1067,-101.9218,4,agua-gorda
+MX,Mexico,México,98918,Montesa,Zacatecas,32,Villa García,052,,,22.0643,-101.8314,4,montesa
+MX,Mexico,México,98919,Los Campos,Zacatecas,32,Villa García,052,,,22.0333,-101.8333,4,los-campos
+MX,Mexico,México,98840,Villa Gonzalez Ortega,Zacatecas,32,Villa González Ortega,053,,,22.5122,-101.9162,4,villa-gonzalez-ortega
+MX,Mexico,México,98850,Bajío de San Nicolás,Zacatecas,32,Villa González Ortega,053,,,22.565,-102.0078,4,bajio-de-san-nicolas
+MX,Mexico,México,98870,Estancia de Animas,Zacatecas,32,Villa González Ortega,053,,,22.4879,-101.9953,4,estancia-de-animas
+MX,Mexico,México,98980,San Agustin,Zacatecas,32,Villa Hidalgo,054,,,22.4432,-101.7864,4,san-agustin
+MX,Mexico,México,98980,La Ballena,Zacatecas,32,Villa Hidalgo,054,,,22.4557,-101.7081,4,la-ballena
+MX,Mexico,México,98986,Refugio,Zacatecas,32,Villa Hidalgo,054,,,22.3703,-101.7608,4,refugio
+MX,Mexico,México,98988,Purísima Del Rocio O El Rocio,Zacatecas,32,Villa Hidalgo,054,,,22.4231,-101.7518,1,purisima-del-rocio-o-el-rocio
+MX,Mexico,México,98990,Villa Hidalgo Centro,Zacatecas,32,Villa Hidalgo,054,Villa Hidalgo,08,22.2731,-101.5966,1,villa-hidalgo-centro
+MX,Mexico,México,98994,Francisco E. García,Zacatecas,32,Villa Hidalgo,054,Villa Hidalgo,08,22.4074,-101.7143,1,francisco-e-garcia
+MX,Mexico,México,98995,Nueva,Zacatecas,32,Villa Hidalgo,054,Villa Hidalgo,08,22.4074,-101.7143,1,nueva
+MX,Mexico,México,99500,Tarasco,Zacatecas,32,Villanueva,055,,,22.3418,-103.0455,4,tarasco
+MX,Mexico,México,99500,El Salto,Zacatecas,32,Villanueva,055,,,22.3372,-102.9497,4,el-salto
+MX,Mexico,México,99500,Laguna Del Carretero,Zacatecas,32,Villanueva,055,,,22.2805,-102.8035,4,laguna-del-carretero
+MX,Mexico,México,99500,El Tigre,Zacatecas,32,Villanueva,055,,,22.4411,-102.9178,4,el-tigre
+MX,Mexico,México,99506,El Jagüey,Zacatecas,32,Villanueva,055,,,22.2596,-103.0005,4,el-jaguey
+MX,Mexico,México,99510,Malpaso,Zacatecas,32,Villanueva,055,,,22.6263,-102.7619,4,malpaso
+MX,Mexico,México,99510,El Fuerte,Zacatecas,32,Villanueva,055,,,22.6513,-102.7415,4,el-fuerte
+MX,Mexico,México,99520,Gral. Francisco Murguía,Zacatecas,32,Villanueva,055,,,22.5487,-102.7924,3,gral-francisco-murguia
+MX,Mexico,México,99520,Felipe Angeles,Zacatecas,32,Villanueva,055,,,22.5487,-102.7924,4,felipe-angeles
+MX,Mexico,México,99523,El Saucito,Zacatecas,32,Villanueva,055,,,22.4806,-102.7973,4,el-saucito
+MX,Mexico,México,99530,El Vergel,Zacatecas,32,Villanueva,055,,,22.5384,-102.8137,4,el-vergel
+MX,Mexico,México,99530,Atitanac,Zacatecas,32,Villanueva,055,,,22.5163,-102.8757,4,atitanac
+MX,Mexico,México,99530,La Quemada,Zacatecas,32,Villanueva,055,,,22.4233,-102.8435,4,la-quemada
+MX,Mexico,México,99540,Villanueva Centro,Zacatecas,32,Villanueva,055,Villanueva,09,22.358,-102.8841,4,villanueva-centro
+MX,Mexico,México,99542,Panames Escobedo,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,panames-escobedo
+MX,Mexico,México,99542,De los Varela,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,de-los-varela
+MX,Mexico,México,99542,Magisterial I,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,magisterial-i
+MX,Mexico,México,99542,Beisbolera,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,beisbolera
+MX,Mexico,México,99542,Gutiérrez Del Águila,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,gutierrez-del-aguila
+MX,Mexico,México,99543,De Santa Gertrudis,Zacatecas,32,Villanueva,055,Villanueva,09,22.3662,-102.8784,4,de-santa-gertrudis
+MX,Mexico,México,99544,De Guadalupe,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,de-guadalupe
+MX,Mexico,México,99544,Tadeo,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,tadeo
+MX,Mexico,México,99544,De los Ramirez,Zacatecas,32,Villanueva,055,Villanueva,09,22.3801,-102.8709,1,de-los-ramirez
+MX,Mexico,México,99545,Flores Del Pedregal,Zacatecas,32,Villanueva,055,Villanueva,09,22.3445,-102.8768,4,flores-del-pedregal
+MX,Mexico,México,99545,Del Panteón,Zacatecas,32,Villanueva,055,Villanueva,09,22.4161,-102.8502,3,del-panteon
+MX,Mexico,México,99545,Los Geranios,Zacatecas,32,Villanueva,055,Villanueva,09,22.4161,-102.8502,3,los-geranios
+MX,Mexico,México,99545,Sierra Nevada,Zacatecas,32,Villanueva,055,Villanueva,09,22.3528,-102.8737,4,sierra-nevada
+MX,Mexico,México,99545,Arboledas,Zacatecas,32,Villanueva,055,Villanueva,09,22.2983,-102.8515,3,arboledas
+MX,Mexico,México,99545,Santa Anita,Zacatecas,32,Villanueva,055,Villanueva,09,22.6189,-102.7744,4,santa-anita
+MX,Mexico,México,99545,Lindavista,Zacatecas,32,Villanueva,055,Villanueva,09,22.3482,-102.876,4,lindavista
+MX,Mexico,México,99546,Lomas Doradas,Zacatecas,32,Villanueva,055,Villanueva,09,22.3479,-102.8918,3,lomas-doradas
+MX,Mexico,México,99546,Arroyo Del Tigre,Zacatecas,32,Villanueva,055,Villanueva,09,22.3479,-102.8918,3,arroyo-del-tigre
+MX,Mexico,México,99546,Magisterial III,Zacatecas,32,Villanueva,055,Villanueva,09,22.3479,-102.8918,3,magisterial-iii
+MX,Mexico,México,99546,Rescodillo,Zacatecas,32,Villanueva,055,Villanueva,09,22.3479,-102.8918,3,rescodillo
+MX,Mexico,México,99546,Magisterial II (centenario),Zacatecas,32,Villanueva,055,Villanueva,09,22.3479,-102.8918,3,magisterial-ii-centenario
+MX,Mexico,México,99546,Lomas Verdes,Zacatecas,32,Villanueva,055,Villanueva,09,22.3477,-102.8945,4,lomas-verdes
+MX,Mexico,México,99546,Loma de Tlalpan,Zacatecas,32,Villanueva,055,Villanueva,09,22.3481,-102.889,4,loma-de-tlalpan
+MX,Mexico,México,99547,Lomas Del Diezmo,Zacatecas,32,Villanueva,055,Villanueva,09,22.3582,-102.8809,3,lomas-del-diezmo
+MX,Mexico,México,99547,Nueva,Zacatecas,32,Villanueva,055,Villanueva,09,22.3605,-102.8881,4,nueva
+MX,Mexico,México,99547,Colosio,Zacatecas,32,Villanueva,055,Villanueva,09,22.356,-102.8738,4,colosio
+MX,Mexico,México,99550,La Encarnación,Zacatecas,32,Villanueva,055,,,22.2458,-102.925,4,la-encarnacion
+MX,Mexico,México,99552,Tuxtuac,Zacatecas,32,Villanueva,055,,,22.1953,-102.9701,4,tuxtuac
+MX,Mexico,México,99559,Adolfo Lopez Mateos,Zacatecas,32,Villanueva,055,,,22.1328,-103.0205,4,adolfo-lopez-mateos
+MX,Mexico,México,99559,Gustavo Díaz Ordaz,Zacatecas,32,Villanueva,055,,,22.1544,-103.015,4,gustavo-diaz-ordaz
+MX,Mexico,México,99560,Lindavista,Zacatecas,32,Villanueva,055,,,22.3482,-102.876,4,lindavista
+MX,Mexico,México,99560,Tayahua,Zacatecas,32,Villanueva,055,,,22.0936,-102.8719,4,tayahua
+MX,Mexico,México,98000,Zacatecas Centro,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,zacatecas-centro
+MX,Mexico,México,98007,Secretaria de Agricultura Ganaderia y Desarrollo Rural,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,secretaria-de-agricultura-ganaderia-y-desarrollo-rural
+MX,Mexico,México,98008,Secretaria de Hacienda y Crédito Publico,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,secretaria-de-hacienda-y-credito-publico
+MX,Mexico,México,98009,Palacio de Gobierno Del Estado de Zacatecas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,palacio-de-gobierno-del-estado-de-zacatecas
+MX,Mexico,México,98010,Ramón López Velarde,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,ramon-lopez-velarde
+MX,Mexico,México,98015,Mexicapan,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,mexicapan
+MX,Mexico,México,98016,El Reventón,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,el-reventon
+MX,Mexico,México,98017,Privada Residencial San Pedro,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,privada-residencial-san-pedro
+MX,Mexico,México,98017,Los Filarmónicos,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,los-filarmonicos
+MX,Mexico,México,98017,Privada Aziz,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,privada-aziz
+MX,Mexico,México,98017,Margaritas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,margaritas
+MX,Mexico,México,98018,Garcia Salinas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,garcia-salinas
+MX,Mexico,México,98019,Pedro Ruiz González INFONAVIT,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,pedro-ruiz-gonzalez-infonavit
+MX,Mexico,México,98020,Gustavo Diaz Ordaz 2a Secc,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7914,-102.5624,1,gustavo-diaz-ordaz-2a-secc
+MX,Mexico,México,98020,Gustavo Diaz Ordaz 1a Secc,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7914,-102.5624,1,gustavo-diaz-ordaz-1a-secc
+MX,Mexico,México,98020,Gustavo Diaz Ordaz 3a Secc,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7914,-102.5624,1,gustavo-diaz-ordaz-3a-secc
+MX,Mexico,México,98023,Lomas de Bracho,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7919,-102.5597,4,lomas-de-bracho
+MX,Mexico,México,98024,De Olivos,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7908,-102.565,3,de-olivos
+MX,Mexico,México,98024,Las Mercedes,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7908,-102.565,4,las-mercedes
+MX,Mexico,México,98024,La Pinta,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7908,-102.565,3,la-pinta
+MX,Mexico,México,98039,Mercedes,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7908,-102.565,4,mercedes
+MX,Mexico,México,98040,Loma Barroca,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7197,-102.5042,1,loma-barroca
+MX,Mexico,México,98040,Lomas de La Soledad,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7197,-102.5042,1,lomas-de-la-soledad
+MX,Mexico,México,98040,Bancomer,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7197,-102.5042,1,bancomer
+MX,Mexico,México,98040,Lázaro Cárdenas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,lazaro-cardenas
+MX,Mexico,México,98045,Caminera,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7197,-102.5042,1,caminera
+MX,Mexico,México,98046,Luis Donaldo Colosio,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,3,luis-donaldo-colosio
+MX,Mexico,México,98046,Frente Popular,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,4,frente-popular
+MX,Mexico,México,98047,Ciudad Argentum,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7197,-102.5042,1,ciudad-argentum
+MX,Mexico,México,98049,La Palma,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,la-palma
+MX,Mexico,México,98050,Sierra de Alica,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,sierra-de-alica
+MX,Mexico,México,98050,Lomas Del Capulín,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,lomas-del-capulin
+MX,Mexico,México,98050,Los Obradores,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,los-obradores
+MX,Mexico,México,98050,Minera,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,minera
+MX,Mexico,México,98050,Úrsulo A. García,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,ursulo-a-garcia
+MX,Mexico,México,98053,Fernando Pamanes Escobedo,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,fernando-pamanes-escobedo
+MX,Mexico,México,98053,Cnop,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,cnop
+MX,Mexico,México,98053,Lomas de La Pimienta,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,lomas-de-la-pimienta
+MX,Mexico,México,98054,Ampliación Gral. Felipe Ángeles,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7639,-102.6064,3,ampliacion-gral-felipe-angeles
+MX,Mexico,México,98054,Gral. Felipe Angeles,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7639,-102.6064,3,gral-felipe-angeles
+MX,Mexico,México,98054,Miguel Hidalgo 3ra. Sección,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7639,-102.6064,3,miguel-hidalgo-3ra-seccion
+MX,Mexico,México,98054,Miguel Hidalgo 1ra. Sección,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7639,-102.6064,3,miguel-hidalgo-1ra-seccion
+MX,Mexico,México,98054,España,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7639,-102.6064,4,espana
+MX,Mexico,México,98054,Miguel Hidalgo 2da. Sección,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7639,-102.6064,3,miguel-hidalgo-2da-seccion
+MX,Mexico,México,98054,Emiliano Zapata,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,3,emiliano-zapata
+MX,Mexico,México,98054,Ladrilleras,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7639,-102.6064,3,ladrilleras
+MX,Mexico,México,98056,Buenos Aires,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,buenos-aires
+MX,Mexico,México,98056,Las Palmas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,las-palmas
+MX,Mexico,México,98057,América,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,america
+MX,Mexico,México,98057,San Fernando,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,4,san-fernando
+MX,Mexico,México,98057,San Gabriel,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,3,san-gabriel
+MX,Mexico,México,98057,Zacatlán,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7726,-102.6091,4,zacatlan
+MX,Mexico,México,98057,Mecánicos 2a Secc,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,mecanicos-2a-secc
+MX,Mexico,México,98057,La Toma de Zacatecas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,la-toma-de-zacatecas
+MX,Mexico,México,98057,Mecánicos,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,mecanicos
+MX,Mexico,México,98057,Héroes de Chapultepec,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,heroes-de-chapultepec
+MX,Mexico,México,98057,Toma de Zacatecas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,toma-de-zacatecas
+MX,Mexico,México,98057,Juana Gallo,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,juana-gallo
+MX,Mexico,México,98057,Mercado de Abastos,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,mercado-de-abastos
+MX,Mexico,México,98057,Privada La Cantera,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6435,-102.5718,3,privada-la-cantera
+MX,Mexico,México,98058,Lomas de San Fernando,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,lomas-de-san-fernando
+MX,Mexico,México,98059,Apartamentos Sierra de Alica,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6836,-102.5834,1,apartamentos-sierra-de-alica
+MX,Mexico,México,98060,Marianita Elias de Rodriguez,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,marianita-elias-de-rodriguez
+MX,Mexico,México,98060,Primavera,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,primavera
+MX,Mexico,México,98060,Lomas Del Patrocinio,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,lomas-del-patrocinio
+MX,Mexico,México,98060,Villas Del Tepozan,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,villas-del-tepozan
+MX,Mexico,México,98060,La Peñuela,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,la-penuela
+MX,Mexico,México,98060,Siglo XXI,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,siglo-xxi
+MX,Mexico,México,98060,Rinconada Marianita,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,rinconada-marianita
+MX,Mexico,México,98060,Agrónomo,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,agronomo
+MX,Mexico,México,98060,El Patrocinio,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,el-patrocinio
+MX,Mexico,México,98064,Fovissste,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,fovissste
+MX,Mexico,México,98064,Ex Hacienda Bernardez,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,ex-hacienda-bernardez
+MX,Mexico,México,98064,El Cerrillo,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,el-cerrillo
+MX,Mexico,México,98064,3 Cruces Infonavit,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,3-cruces-infonavit
+MX,Mexico,México,98065,Boulevares,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,boulevares
+MX,Mexico,México,98065,Militar,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,militar
+MX,Mexico,México,98066,Agronómica,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,agronomica
+MX,Mexico,México,98066,El Spauaz,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,el-spauaz
+MX,Mexico,México,98066,Agronómica II,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,agronomica-ii
+MX,Mexico,México,98066,Progreso,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,progreso
+MX,Mexico,México,98066,Ciudad Universitaria,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,ciudad-universitaria
+MX,Mexico,México,98066,Loma Dorada,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,loma-dorada
+MX,Mexico,México,98066,Lomas del Bosque,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,lomas-del-bosque
+MX,Mexico,México,98067,Lomas de San Francisco,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,lomas-de-san-francisco
+MX,Mexico,México,98067,Villas Del Sol,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,villas-del-sol
+MX,Mexico,México,98067,Moradores,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,moradores
+MX,Mexico,México,98067,Issste Zac 2,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,issste-zac-2
+MX,Mexico,México,98067,San Francisco de Herrera,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,san-francisco-de-herrera
+MX,Mexico,México,98067,Privada del Bosque,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,privada-del-bosque
+MX,Mexico,México,98067,Fuente Del Bosque,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,fuente-del-bosque
+MX,Mexico,México,98067,San Francisco de la Montaña,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,san-francisco-de-la-montana
+MX,Mexico,México,98068,Universitaria,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,universitaria
+MX,Mexico,México,98068,La Loma,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,la-loma
+MX,Mexico,México,98068,Hidráulica,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,hidraulica
+MX,Mexico,México,98068,Colonial Zacatecas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,colonial-zacatecas
+MX,Mexico,México,98068,Villa Antigua,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,villa-antigua
+MX,Mexico,México,98068,Residencial Del Valle,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7385,-102.5982,1,residencial-del-valle
+MX,Mexico,México,98069,La Bufa,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,la-bufa
+MX,Mexico,México,98070,La Plata,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,3,la-plata
+MX,Mexico,México,98070,Ricardo Flores Magón,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,3,ricardo-flores-magon
+MX,Mexico,México,98070,Buenavista,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6993,-102.6666,4,buenavista
+MX,Mexico,México,98070,Francisco E Garcia,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,3,francisco-e-garcia
+MX,Mexico,México,98070,Pánfilo Natera,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,4,panfilo-natera
+MX,Mexico,México,98070,Los Caleros,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,3,los-caleros
+MX,Mexico,México,98077,21 de Julio,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,1,21-de-julio
+MX,Mexico,México,98077,Las Cumbres,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,las-cumbres
+MX,Mexico,México,98077,Pedregal,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,1,pedregal
+MX,Mexico,México,98078,Ayuntamiento,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,1,ayuntamiento
+MX,Mexico,México,98078,De Los Taxista 2da. Sección,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,1,de-los-taxista-2da-seccion
+MX,Mexico,México,98078,De Los Taxista,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,1,de-los-taxista
+MX,Mexico,México,98079,El Mirador,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,el-mirador
+MX,Mexico,México,98079,Privada de Caleros,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7329,-102.5992,1,privada-de-caleros
+MX,Mexico,México,98080,Bellavista,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,3,bellavista
+MX,Mexico,México,98080,Benito Juárez,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6975,-102.7412,4,benito-juarez
+MX,Mexico,México,98083,DIF,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7417,-102.5993,1,dif
+MX,Mexico,México,98084,Santos Bañuelos,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7417,-102.5993,1,santos-banuelos
+MX,Mexico,México,98085,Lomas del Lago,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,lomas-del-lago
+MX,Mexico,México,98085,Libertadores,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,libertadores
+MX,Mexico,México,98085,Colinas del Vergel,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,colinas-del-vergel
+MX,Mexico,México,98085,Cerro de la Virgen,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,cerro-de-la-virgen
+MX,Mexico,México,98085,Lomas de Cristo,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,lomas-de-cristo
+MX,Mexico,México,98085,Cerrada del Ángel,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,cerrada-del-angel
+MX,Mexico,México,98085,Ojo de Agua de Meléndrez,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,ojo-de-agua-de-melendrez
+MX,Mexico,México,98085,Terrazas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,terrazas
+MX,Mexico,México,98085,Villas del Padre,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,villas-del-padre
+MX,Mexico,México,98085,Constelaciones,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7474,-102.6049,4,constelaciones
+MX,Mexico,México,98085,Suave Patria,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5862,4,suave-patria
+MX,Mexico,México,98085,Colinas del Padre,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7489,-102.5834,4,colinas-del-padre
+MX,Mexico,México,98085,Peñas de la Virgen,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7457,-102.5824,4,penas-de-la-virgen
+MX,Mexico,México,98085,Santa Bárbara,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,3,santa-barbara
+MX,Mexico,México,98085,Camino Real,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7499,-102.6068,4,camino-real
+MX,Mexico,México,98085,El Chabeño,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7464,-102.5905,3,el-chabeno
+MX,Mexico,México,98085,El Jaralillo,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7423,-102.5849,4,el-jaralillo
+MX,Mexico,México,98085,El Diamante,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7463,-102.5852,4,el-diamante
+MX,Mexico,México,98086,Cerro Del Padre,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7417,-102.5993,1,cerro-del-padre
+MX,Mexico,México,98086,Privada de La Encantada,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7417,-102.5993,1,privada-de-la-encantada
+MX,Mexico,México,98086,La Herradura,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,la-herradura
+MX,Mexico,México,98086,Lomas de La Encantada,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7417,-102.5993,1,lomas-de-la-encantada
+MX,Mexico,México,98087,Huerta Vieja,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,huerta-vieja
+MX,Mexico,México,98087,Estrella de Oro,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,estrella-de-oro
+MX,Mexico,México,98087,Jardines Del Bosque,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,jardines-del-bosque
+MX,Mexico,México,98087,El Orito 1a Sección,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,el-orito-1a-seccion
+MX,Mexico,México,98087,"J. Jesús González Ortega 1,2,3,4 y 5ta. Sección",Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,j-jesus-gonzalez-ortega-1-2-3-4-y-5ta-seccion
+MX,Mexico,México,98087,Korea I,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,korea-i
+MX,Mexico,México,98087,Europa,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7475,-102.6159,4,europa
+MX,Mexico,México,98087,Issste Zac 1,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,issste-zac-1
+MX,Mexico,México,98087,Las Huertas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7484,-102.613,4,las-huertas
+MX,Mexico,México,98087,Korea II,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7444,-102.5791,3,korea-ii
+MX,Mexico,México,98087,Las Flores,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7499,-102.5702,4,las-flores
+MX,Mexico,México,98087,Jardines Del Sol,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,4,jardines-del-sol
+MX,Mexico,México,98088,La Encantada,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7358,-102.678,1,la-encantada
+MX,Mexico,México,98089,5 Señores,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7417,-102.5993,1,5-senores
+MX,Mexico,México,98089,Las Haciendas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7417,-102.5993,1,las-haciendas
+MX,Mexico,México,98090,Sahop,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,sahop
+MX,Mexico,México,98090,Barros Sierra,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,barros-sierra
+MX,Mexico,México,98090,Arturo Romo Macias,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,arturo-romo-macias
+MX,Mexico,México,98090,Alma Obrera 2a Secc,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,alma-obrera-2a-secc
+MX,Mexico,México,98090,Alma Obrera,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,alma-obrera
+MX,Mexico,México,98090,Alma Obrera 4a Secc,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,alma-obrera-4a-secc
+MX,Mexico,México,98090,Alma Obrera 3a Secc,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,alma-obrera-3a-secc
+MX,Mexico,México,98090,Casa Blanca,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,4,casa-blanca
+MX,Mexico,México,98090,Los Periodistas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,los-periodistas
+MX,Mexico,México,98090,Conquistadores,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.6833,-102.7833,3,conquistadores
+MX,Mexico,México,98097,La Estancia (las Colinas II),Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7656,-102.6983,3,la-estancia-las-colinas-ii
+MX,Mexico,México,98097,La Joya,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7656,-102.6983,4,la-joya
+MX,Mexico,México,98097,Tahona,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7656,-102.6983,3,tahona
+MX,Mexico,México,98097,Médicos Veterinarios,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7656,-102.6983,3,medicos-veterinarios
+MX,Mexico,México,98098,Las Colinas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7381,-102.6553,1,las-colinas
+MX,Mexico,México,98098,Villa Verde,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7381,-102.6553,1,villa-verde
+MX,Mexico,México,98098,Lomas Del Campestre,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7381,-102.6553,1,lomas-del-campestre
+MX,Mexico,México,98099,Popular CTM,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7518,-102.5698,3,popular-ctm
+MX,Mexico,México,98099,Lomas de la Isabelica,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7518,-102.5698,3,lomas-de-la-isabelica
+MX,Mexico,México,98099,Tecnológica,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7518,-102.5698,3,tecnologica
+MX,Mexico,México,98099,Privada de La Fuente,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7518,-102.5698,3,privada-de-la-fuente
+MX,Mexico,México,98099,Rinconada de La Isabelica,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7518,-102.5698,3,rinconada-de-la-isabelica
+MX,Mexico,México,98099,Carlos Hinojosa Petit,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7518,-102.5698,3,carlos-hinojosa-petit
+MX,Mexico,México,98099,Gonzalo García García,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7536,-102.5694,4,gonzalo-garcia-garcia
+MX,Mexico,México,98099,Lomas Bizantinas,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7518,-102.5698,3,lomas-bizantinas
+MX,Mexico,México,98099,Las Flores,Zacatecas,32,Zacatecas,056,Zacatecas,03,22.7499,-102.5702,4,las-flores
+MX,Mexico,México,98160,Ciudad Gobierno,Zacatecas,32,Zacatecas,056,,,22.752,-102.6217,3,ciudad-gobierno
+MX,Mexico,México,98160,Villas Universidad,Zacatecas,32,Zacatecas,056,,,22.752,-102.6217,3,villas-universidad
+MX,Mexico,México,98160,El Orito,Zacatecas,32,Zacatecas,056,,,22.751,-102.6064,4,el-orito
+MX,Mexico,México,98160,La Escondida,Zacatecas,32,Zacatecas,056,,,22.7711,-102.6243,4,la-escondida
+MX,Mexico,México,98160,Las Boquillas,Zacatecas,32,Zacatecas,056,,,22.7339,-102.6344,4,las-boquillas
+MX,Mexico,México,98170,Cieneguilla,Zacatecas,32,Zacatecas,056,,,22.757,-102.6627,4,cieneguilla
+MX,Mexico,México,98174,San Antonio de los Negros (los Negros),Zacatecas,32,Zacatecas,056,,,22.7375,-102.7667,4,san-antonio-de-los-negros-los-negros
+MX,Mexico,México,98175,El Maguey,Zacatecas,32,Zacatecas,056,,,22.7805,-102.7502,4,el-maguey
+MX,Mexico,México,98176,Francisco I Madero,Zacatecas,32,Zacatecas,056,,,22.7966,-102.7173,4,francisco-i-madero
+MX,Mexico,México,98177,La Pimienta,Zacatecas,32,Zacatecas,056,,,22.7912,-102.632,4,la-pimienta
+MX,Mexico,México,98180,Gonzalez Ortega (Machines),Zacatecas,32,Zacatecas,056,,,22.6683,-102.7189,4,gonzalez-ortega-machines
+MX,Mexico,México,98183,El Molino,Zacatecas,32,Zacatecas,056,,,22.6817,-102.6897,4,el-molino
+MX,Mexico,México,98183,Garcia de La Cadena (el Visitador),Zacatecas,32,Zacatecas,056,,,22.7067,-102.664,4,garcia-de-la-cadena-el-visitador
+MX,Mexico,México,98184,Las Chilitas,Zacatecas,32,Zacatecas,056,,,22.6703,-102.675,4,las-chilitas
+MX,Mexico,México,98185,La Soledad (la Chole),Zacatecas,32,Zacatecas,056,,,22.6744,-102.7408,4,la-soledad-la-chole
+MX,Mexico,México,98186,Benito Juárez (san Cayetano),Zacatecas,32,Zacatecas,056,,,22.6975,-102.7412,4,benito-juarez-san-cayetano
+MX,Mexico,México,98186,Miguel Hidalgo (san Miguel),Zacatecas,32,Zacatecas,056,,,22.725,-102.7601,4,miguel-hidalgo-san-miguel
+MX,Mexico,México,98640,Trancoso,Zacatecas,32,Trancoso,057,,,22.7354,-102.367,4,trancoso
+MX,Mexico,México,98640,El Refugio,Zacatecas,32,Trancoso,057,,,22.7413,-102.3628,4,el-refugio
+MX,Mexico,México,98644,La Blanquita,Zacatecas,32,Trancoso,057,,,22.7888,-102.3776,4,la-blanquita
+MX,Mexico,México,98645,San Salvador Del Bajío,Zacatecas,32,Trancoso,057,,,22.7989,-102.2836,4,san-salvador-del-bajio
+MX,Mexico,México,98646,El Porvenir,Zacatecas,32,Trancoso,057,,,22.8189,-102.2256,4,el-porvenir
+MX,Mexico,México,98647,San Jose Del Carmen,Zacatecas,32,Trancoso,057,,,22.7664,-102.2747,4,san-jose-del-carmen
+MX,Mexico,México,98648,Ruben Jaramillo (la Chiripa),Zacatecas,32,Trancoso,057,,,22.6997,-102.3156,4,ruben-jaramillo-la-chiripa
+MX,Mexico,México,98648,Los Insurgentes,Zacatecas,32,Trancoso,057,,,22.6933,-102.3086,4,los-insurgentes
+MX,Mexico,México,99820,Santa Maria de la Paz,Zacatecas,32,Santa María de la Paz,058,,,21.5121,-103.408,4,santa-maria-de-la-paz
+MX,Mexico,México,99820,El Santuario,Zacatecas,32,Santa María de la Paz,058,,,21.5121,-103.408,3,el-santuario
+MX,Mexico,México,99823,Los Rodriguez,Zacatecas,32,Santa María de la Paz,058,,,21.4908,-103.4071,4,los-rodriguez
+MX,Mexico,México,99823,La Haciendita,Zacatecas,32,Santa María de la Paz,058,,,21.5225,-103.3439,3,la-haciendita
+MX,Mexico,México,99823,El Laurel,Zacatecas,32,Santa María de la Paz,058,,,21.5347,-103.4583,4,el-laurel
+MX,Mexico,México,99824,El Zapotito,Zacatecas,32,Santa María de la Paz,058,,,21.5656,-103.4325,4,el-zapotito
+MX,Mexico,México,99824,La Mesa Grande,Zacatecas,32,Santa María de la Paz,058,,,21.5546,-103.4158,4,la-mesa-grande
+MX,Mexico,México,99824,Hidalgo (el Picacho),Zacatecas,32,Santa María de la Paz,058,,,21.5481,-103.4492,4,hidalgo-el-picacho
+MX,Mexico,México,99824,El Pantano,Zacatecas,32,Santa María de la Paz,058,,,21.5483,-103.4955,4,el-pantano
+MX,Mexico,México,99825,La Laguna,Zacatecas,32,Santa María de la Paz,058,,,21.5415,-103.3839,4,la-laguna
+MX,Mexico,México,99825,San Vicente,Zacatecas,32,Santa María de la Paz,058,,,21.535,-103.3717,4,san-vicente
+MX,Mexico,México,99825,El Soto,Zacatecas,32,Santa María de la Paz,058,,,21.5633,-103.3696,4,el-soto
+MX,Mexico,México,99825,Marines,Zacatecas,32,Santa María de la Paz,058,,,21.5466,-103.3751,3,marines
+MX,Mexico,México,99825,San Rafael,Zacatecas,32,Santa María de la Paz,058,,,21.5225,-103.3439,3,san-rafael
+MX,Mexico,México,99825,Santa Fe,Zacatecas,32,Santa María de la Paz,058,,,21.5225,-103.3439,3,santa-fe
+MX,Mexico,México,99826,El Saucito,Zacatecas,32,Santa María de la Paz,058,,,21.5225,-103.3439,3,el-saucito
+MX,Mexico,México,99826,El Gato,Zacatecas,32,Santa María de la Paz,058,,,21.5225,-103.3439,3,el-gato
+MX,Mexico,México,99826,Mesa El Pueblo,Zacatecas,32,Santa María de la Paz,058,,,21.4967,-103.3525,3,mesa-el-pueblo
+MX,Mexico,México,99826,San Isidro,Zacatecas,32,Santa María de la Paz,058,,,21.4878,-103.3372,4,san-isidro
+MX,Mexico,México,99826,San Miguel Tepetitlan,Zacatecas,32,Santa María de la Paz,058,,,21.4967,-103.3525,3,san-miguel-tepetitlan
+MX,Mexico,México,99826,El Arenal,Zacatecas,32,Santa María de la Paz,058,,,21.5057,-103.3678,4,el-arenal
+MX,Mexico,México,99827,El Capulín,Zacatecas,32,Santa María de la Paz,058,,,21.5106,-103.2881,4,el-capulin
+MX,Mexico,México,99827,Las Tablas,Zacatecas,32,Santa María de la Paz,058,,,21.4622,-103.2611,4,las-tablas
+MX,Mexico,México,99827,Hacienda Vieja,Zacatecas,32,Santa María de la Paz,058,,,21.4775,-103.3036,4,hacienda-vieja
+MX,Mexico,México,99827,Los Cedros,Zacatecas,32,Santa María de la Paz,058,,,21.5095,-103.2629,4,los-cedros
+MX,Mexico,México,99827,Los Horcones,Zacatecas,32,Santa María de la Paz,058,,,21.4994,-103.2684,4,los-horcones
+MX,Mexico,México,99828,Pajaritos,Zacatecas,32,Santa María de la Paz,058,,,21.5373,-103.2057,4,pajaritos
+MX,Mexico,México,99828,El Guitarrero,Zacatecas,32,Santa María de la Paz,058,,,21.5413,-103.2263,4,el-guitarrero
+MX,Mexico,México,99828,Los Polvos,Zacatecas,32,Santa María de la Paz,058,,,21.5217,-103.2324,4,los-polvos
+MX,Mexico,México,99828,Mesa de Trigos,Zacatecas,32,Santa María de la Paz,058,,,21.4961,-103.2319,4,mesa-de-trigos

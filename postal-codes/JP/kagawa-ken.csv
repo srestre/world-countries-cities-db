@@ -1,0 +1,969 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+JP,Japan,Japón,765-0000,Zentsuji Shi,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2263,133.7743,,zentsuji-shi
+JP,Japan,Japón,765-0001,Senyucho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2297,133.7717,,senyucho
+JP,Japan,Japón,765-0002,Minamimachi,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.223,133.777,,minamimachi
+JP,Japan,Japón,765-0003,Zentsujicho(Chome),Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2263,133.7743,,zentsujicho-chome
+JP,Japan,Japón,765-0004,Zentsujicho(Sonota),Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2263,133.7743,,zentsujicho-sonota
+JP,Japan,Japón,765-0011,Kamiyoshidacho(Chome),Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2257,133.7858,,kamiyoshidacho-chome
+JP,Japan,Japón,765-0012,Kamiyoshidacho(Sonota),Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2257,133.7858,,kamiyoshidacho-sonota
+JP,Japan,Japón,765-0013,Bunkyocho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2266,133.7845,,bunkyocho
+JP,Japan,Japón,765-0014,Ikanohommachi,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2249,133.7871,,ikanohommachi
+JP,Japan,Japón,765-0021,Shimoyoshidacho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.24,133.7753,,shimoyoshidacho
+JP,Japan,Japón,765-0022,Inagicho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2427,133.7803,,inagicho
+JP,Japan,Japón,765-0031,Konzojicho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2484,133.7814,,konzojicho
+JP,Japan,Japón,765-0032,Haradacho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2493,133.792,,haradacho
+JP,Japan,Japón,765-0033,Kitokucho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.242,133.8025,,kitokucho
+JP,Japan,Japón,765-0040,Yogitacho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.234,133.8098,,yogitacho
+JP,Japan,Japón,765-0051,Kushinashicho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2185,133.8034,,kushinashicho
+JP,Japan,Japón,765-0052,Osacho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2021,133.7994,,osacho
+JP,Japan,Japón,765-0053,Ikanocho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2199,133.7905,,ikanocho
+JP,Japan,Japón,765-0061,Yoshiwaracho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2248,133.7484,,yoshiwaracho
+JP,Japan,Japón,765-0062,Hidonocho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2243,133.7339,,hidonocho
+JP,Japan,Japón,765-0071,Hirotacho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2324,133.7616,,hirotacho
+JP,Japan,Japón,765-0072,Nakamuracho(Chome),Kagawa Ken,17,Zentsuji Shi,1847982,,,34.226,133.7801,,nakamuracho-chome
+JP,Japan,Japón,765-0073,Nakamuracho(Sonota),Kagawa Ken,17,Zentsuji Shi,1847982,,,34.226,133.7801,,nakamuracho-sonota
+JP,Japan,Japón,765-8502,Minamimachi,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2258,133.7769,,minamimachi
+JP,Japan,Japón,765-8503,Bunkyocho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2258,133.7769,,bunkyocho
+JP,Japan,Japón,765-8505,Bunkyocho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2258,133.7769,,bunkyocho
+JP,Japan,Japón,765-8506,総本山善通寺,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2258,133.7769,,
+JP,Japan,Japón,765-8507,Senyucho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2258,133.7769,,senyucho
+JP,Japan,Japón,765-8508,Senyucho,Kagawa Ken,17,Zentsuji Shi,1847982,,,34.2258,133.7769,,senyucho
+JP,Japan,Japón,760-0000,Takamatsu Shi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3419,134.0336,,takamatsu-shi
+JP,Japan,Japón,760-0001,Shinkitamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3529,134.0255,,shinkitamachi
+JP,Japan,Japón,760-0002,Akanecho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3494,134.025,,akanecho
+JP,Japan,Japón,760-0003,Nishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3464,134.0242,,nishimachi
+JP,Japan,Japón,760-0004,Saihocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3428,134.0276,,saihocho
+JP,Japan,Japón,760-0005,Miyawakicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3364,134.0357,,miyawakicho
+JP,Japan,Japón,760-0006,Kameokacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.337,134.0412,,kameokacho
+JP,Japan,Japón,760-0007,Chuocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3365,134.0451,,chuocho
+JP,Japan,Japón,760-0008,Nakanocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.334,134.0441,,nakanocho
+JP,Japan,Japón,760-0009,Mineyamacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3305,134.0266,,mineyamacho
+JP,Japan,Japón,760-0011,Hamanocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3512,134.0412,,hamanocho
+JP,Japan,Japón,760-0012,Setochicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3498,134.0319,,setochicho
+JP,Japan,Japón,760-0013,Ogimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3459,134.0351,,ogimachi
+JP,Japan,Japón,760-0014,Showacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3432,134.0326,,showacho
+JP,Japan,Japón,760-0015,Shiuncho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3411,134.0337,,shiuncho
+JP,Japan,Japón,760-0016,Saiwaicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3417,134.0368,,saiwaicho
+JP,Japan,Japón,760-0017,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3422,134.0422,,bancho
+JP,Japan,Japón,760-0018,Tenjimmae,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.339,134.0458,,tenjimmae
+JP,Japan,Japón,760-0019,Sampoto,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3544,134.0464,,sampoto
+JP,Japan,Japón,760-0020,Nishikimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3472,134.0431,,nishikimachi
+JP,Japan,Japón,760-0021,Nishinomarucho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3499,134.048,,nishinomarucho
+JP,Japan,Japón,760-0022,Nishiuchimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3477,134.047,,nishiuchimachi
+JP,Japan,Japón,760-0023,Kotobukicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3488,134.0487,,kotobukicho
+JP,Japan,Japón,760-0024,Hyogomachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3464,134.0478,,hyogomachi
+JP,Japan,Japón,760-0025,Furujimmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3457,134.0482,,furujimmachi
+JP,Japan,Japón,760-0026,Togiyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3453,134.0475,,togiyamachi
+JP,Japan,Japón,760-0027,Konyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3445,134.049,,konyamachi
+JP,Japan,Japón,760-0028,Kajiyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3429,134.0487,,kajiyamachi
+JP,Japan,Japón,760-0029,Marugamemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3439,134.0501,,marugamemachi
+JP,Japan,Japón,760-0030,Tamamocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3506,134.0516,,tamamocho
+JP,Japan,Japón,760-0031,Kitahamacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3505,134.0555,,kitahamacho
+JP,Japan,Japón,760-0032,Hommachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3484,134.0549,,hommachi
+JP,Japan,Japón,760-0033,Marunochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3475,134.0515,,marunochi
+JP,Japan,Japón,760-0034,Uchimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3465,134.0518,,uchimachi
+JP,Japan,Japón,760-0035,Tsuruyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3469,134.0551,,tsuruyamachi
+JP,Japan,Japón,760-0036,Jotocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3486,134.058,,jotocho
+JP,Japan,Japón,760-0037,Higashihamacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3485,134.0542,,higashihamacho
+JP,Japan,Japón,760-0038,Iguchimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3452,134.0572,,iguchimachi
+JP,Japan,Japón,760-0040,Kataharamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3457,134.0527,,kataharamachi
+JP,Japan,Japón,760-0041,Hyakkemmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3451,134.0528,,hyakkemmachi
+JP,Japan,Japón,760-0042,Daikumachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3445,134.0528,,daikumachi
+JP,Japan,Japón,760-0043,Imajimmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.344,134.0528,,imajimmachi
+JP,Japan,Japón,760-0044,Gobomachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3433,134.0529,,gobomachi
+JP,Japan,Japón,760-0045,Furubabacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3425,134.0519,,furubabacho
+JP,Japan,Japón,760-0046,Torimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3452,134.0555,,torimachi
+JP,Japan,Japón,760-0047,Shioyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3421,134.0551,,shioyamachi
+JP,Japan,Japón,760-0048,Fukudamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3416,134.0539,,fukudamachi
+JP,Japan,Japón,760-0049,Yasakamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3398,134.0537,,yasakamachi
+JP,Japan,Japón,760-0050,Kameicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3401,134.0482,,kameicho
+JP,Japan,Japón,760-0051,Minamishimmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3403,134.0493,,minamishimmachi
+JP,Japan,Japón,760-0052,Kawaramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3363,134.0557,,kawaramachi
+JP,Japan,Japón,760-0053,Tamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.337,134.0488,,tamachi
+JP,Japan,Japón,760-0054,Tokiwacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3363,134.0557,,tokiwacho
+JP,Japan,Japón,760-0055,Kankodori,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3363,134.0557,,kankodori
+JP,Japan,Japón,760-0056,Nakajincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3371,134.0477,,nakajincho
+JP,Japan,Japón,760-0057,Hatagomachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3363,134.0557,,hatagomachi
+JP,Japan,Japón,760-0058,Higashitamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3359,134.0497,,higashitamachi
+JP,Japan,Japón,760-0060,Suehirocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3441,134.0571,,suehirocho
+JP,Japan,Japón,760-0061,Tsukijicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.342,134.057,,tsukijicho
+JP,Japan,Japón,760-0062,Shiogamicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3358,134.0508,,shiogamicho
+JP,Japan,Japón,760-0063,Tagacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3366,134.0609,,tagacho
+JP,Japan,Japón,760-0064,Asahishimmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3604,134.0666,,asahishimmachi
+JP,Japan,Japón,760-0065,Asahimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3528,134.0697,,asahimachi
+JP,Japan,Japón,760-0066,Fukuokacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.344,134.0685,,fukuokacho
+JP,Japan,Japón,760-0067,Matsufukucho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3425,134.063,,matsufukucho
+JP,Japan,Japón,760-0068,Matsushimacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3334,134.0685,,matsushimacho
+JP,Japan,Japón,760-0071,Fujizukacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3351,134.0502,,fujizukacho
+JP,Japan,Japón,760-0072,Hanazonocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3339,134.0572,,hanazonocho
+JP,Japan,Japón,760-0073,Ritsurincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3296,134.0483,,ritsurincho
+JP,Japan,Japón,760-0074,Sakuramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3285,134.053,,sakuramachi
+JP,Japan,Japón,760-0075,Kusugamicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3304,134.0565,,kusugamicho
+JP,Japan,Japón,760-0076,Kankocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3346,134.0628,,kankocho
+JP,Japan,Japón,760-0077,Kamifukuokacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3304,134.0641,,kamifukuokacho
+JP,Japan,Japón,760-0078,Imazatocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3223,134.0573,,imazatocho
+JP,Japan,Japón,760-0079,Matsunawacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3179,134.0613,,matsunawacho
+JP,Japan,Japón,760-0080,Kitacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3281,134.0772,,kitacho
+JP,Japan,Japón,760-0091,Ogicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.4251,134.06,,ogicho
+JP,Japan,Japón,760-0092,Megicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3944,134.0495,,megicho
+JP,Japan,Japón,760-0093,Tsuruichicho(Daiyama),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3434,134.0476,,tsuruichicho-daiyama
+JP,Japan,Japón,760-8502,Ogimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,ogimachi
+JP,Japan,Japón,760-8503,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8504,Shinkitamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,shinkitamachi
+JP,Japan,Japón,760-8505,Shioyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,shioyamachi
+JP,Japan,Japón,760-8507,Koshincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koshincho
+JP,Japan,Japón,760-8508,Marunochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marunochi
+JP,Japan,Japón,760-8510,Fujitsukacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,fujitsukacho
+JP,Japan,Japón,760-8511,Nishiuchimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,nishiuchimachi
+JP,Japan,Japón,760-8512,Sampoto,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,sampoto
+JP,Japan,Japón,760-8513,Ritsurincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,ritsurincho
+JP,Japan,Japón,760-8514,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8515,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8516,Tokiwacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,tokiwacho
+JP,Japan,Japón,760-8517,Kameimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kameimachi
+JP,Japan,Japón,760-8518,Kankodori,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kankodori
+JP,Japan,Japón,760-8520,Fujitsukacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,fujitsukacho
+JP,Japan,Japón,760-8521,Saiwaimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,saiwaimachi
+JP,Japan,Japón,760-8522,Saiwaimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,saiwaimachi
+JP,Japan,Japón,760-8523,Saiwaimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,saiwaimachi
+JP,Japan,Japón,760-8524,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8525,Saiwaimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,saiwaimachi
+JP,Japan,Japón,760-8527,Koshincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koshincho
+JP,Japan,Japón,760-8530,Ritsurincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,ritsurincho
+JP,Japan,Japón,760-8533,Kotobukicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kotobukicho
+JP,Japan,Japón,760-8534,Hamanomachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,hamanomachi
+JP,Japan,Japón,760-8536,Ogimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,ogimachi
+JP,Japan,Japón,760-8537,Asahicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,asahicho
+JP,Japan,Japón,760-8538,Kameimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kameimachi
+JP,Japan,Japón,760-8539,Togiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,togiyacho
+JP,Japan,Japón,760-8545,Marugamemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marugamemachi
+JP,Japan,Japón,760-8546,Fukuokacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,fukuokacho
+JP,Japan,Japón,760-8547,Sampoto,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,sampoto
+JP,Japan,Japón,760-8550,Sampoto,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,sampoto
+JP,Japan,Japón,760-8551,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8552,Marugamemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marugamemachi
+JP,Japan,Japón,760-8554,Sampoto,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,sampoto
+JP,Japan,Japón,760-8555,Nishikimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,nishikimachi
+JP,Japan,Japón,760-8557,Asahicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,asahicho
+JP,Japan,Japón,760-8558,Fukuokacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,fukuokacho
+JP,Japan,Japón,760-8559,Marunochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marunochi
+JP,Japan,Japón,760-8560,Koshincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koshincho
+JP,Japan,Japón,760-8561,Kameimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kameimachi
+JP,Japan,Japón,760-8562,Fukuokacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,fukuokacho
+JP,Japan,Japón,760-8564,Kajiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kajiyacho
+JP,Japan,Japón,760-8566,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8567,Nishikimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,nishikimachi
+JP,Japan,Japón,760-8568,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8569,Tenjimmae,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,tenjimmae
+JP,Japan,Japón,760-8570,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8571,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8572,Nakanocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,nakanocho
+JP,Japan,Japón,760-8573,Marunochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marunochi
+JP,Japan,Japón,760-8574,Kameimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kameimachi
+JP,Japan,Japón,760-8575,Marunochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marunochi
+JP,Japan,Japón,760-8576,Kameimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kameimachi
+JP,Japan,Japón,760-8579,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8580,Hamanomachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,hamanomachi
+JP,Japan,Japón,760-8582,Tenjimmae,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,tenjimmae
+JP,Japan,Japón,760-8583,Shioyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,shioyamachi
+JP,Japan,Japón,760-8585,Marunochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marunochi
+JP,Japan,Japón,760-8586,Marunochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marunochi
+JP,Japan,Japón,760-8588,Saihocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,saihocho
+JP,Japan,Japón,760-8589,Uchimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,uchimachi
+JP,Japan,Japón,760-8590,Kotobukicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kotobukicho
+JP,Japan,Japón,760-8601,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8603,Marugamemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marugamemachi
+JP,Japan,Japón,760-8604,Koshincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koshincho
+JP,Japan,Japón,760-8607,Togiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,togiyacho
+JP,Japan,Japón,760-8608,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8614,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8615,Tenjimmae,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,tenjimmae
+JP,Japan,Japón,760-8618,Koyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koyamachi
+JP,Japan,Japón,760-8620,Kotobukicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kotobukicho
+JP,Japan,Japón,760-8621,Kawaramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kawaramachi
+JP,Japan,Japón,760-8623,Kawaramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kawaramachi
+JP,Japan,Japón,760-8624,Koshincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koshincho
+JP,Japan,Japón,760-8625,Koyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koyamachi
+JP,Japan,Japón,760-8626,Kankodori,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kankodori
+JP,Japan,Japón,760-8630,Kajiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kajiyacho
+JP,Japan,Japón,760-8634,Kotobukicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kotobukicho
+JP,Japan,Japón,760-8636,Daikumachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,daikumachi
+JP,Japan,Japón,760-8638,Marugamemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marugamemachi
+JP,Japan,Japón,760-8639,Uchimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,uchimachi
+JP,Japan,Japón,760-8644,Kotobukicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kotobukicho
+JP,Japan,Japón,760-8648,Shioyamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,shioyamachi
+JP,Japan,Japón,760-8650,Kameimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kameimachi
+JP,Japan,Japón,760-8655,Kotobukicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kotobukicho
+JP,Japan,Japón,760-8660,Koshincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,koshincho
+JP,Japan,Japón,760-8661,Fukuokacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,fukuokacho
+JP,Japan,Japón,760-8667,Marugamemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,marugamemachi
+JP,Japan,Japón,760-8668,Kawaramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,kawaramachi
+JP,Japan,Japón,760-8671,Bancho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,bancho
+JP,Japan,Japón,760-8686,Nishikimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,nishikimachi
+JP,Japan,Japón,760-8687,Nishikimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,nishikimachi
+JP,Japan,Japón,760-8688,Nishikimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2685,134.0545,,nishikimachi
+JP,Japan,Japón,761-0101,Kasugacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3286,134.0917,,kasugacho
+JP,Japan,Japón,761-0102,Shindenchoko,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3293,134.1045,,shindenchoko
+JP,Japan,Japón,761-0103,Shindenchootsu,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3293,134.1045,,shindenchootsu
+JP,Japan,Japón,761-0104,Takamatsucho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3301,134.1173,,takamatsucho
+JP,Japan,Japón,761-0111,Yashimahigashimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3612,134.1091,,yashimahigashimachi
+JP,Japan,Japón,761-0112,Yashimanakamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3467,134.1054,,yashimanakamachi
+JP,Japan,Japón,761-0113,Yashimanishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3612,134.0971,,yashimanishimachi
+JP,Japan,Japón,761-0121,Murecho Mure,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,murecho-mure
+JP,Japan,Japón,761-0122,Murecho Omachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,murecho-omachi
+JP,Japan,Japón,761-0123,Murecho Hara,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,murecho-hara
+JP,Japan,Japón,761-0130,Ajicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3774,134.1426,,ajicho
+JP,Japan,Japón,761-0185,Shindencho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,shindencho
+JP,Japan,Japón,761-0186,Yashimanishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,yashimanishimachi
+JP,Japan,Japón,761-0186,Yashimanishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,yashimanishimachi
+JP,Japan,Japón,761-0187,Ajicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,ajicho
+JP,Japan,Japón,761-0188,高松市役所　牟礼支所,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,
+JP,Japan,Japón,761-0189,Yashimanishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,yashimanishimachi
+JP,Japan,Japón,761-0192,Yashimanishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,yashimanishimachi
+JP,Japan,Japón,761-0193,Shindencho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,shindencho
+JP,Japan,Japón,761-0194,Kasugacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,kasugacho
+JP,Japan,Japón,761-0195,Kasugacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,kasugacho
+JP,Japan,Japón,761-0196,鎌長製衡　（株）,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,
+JP,Japan,Japón,761-0197,Kasugacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,kasugacho
+JP,Japan,Japón,761-0198,Ajicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3455,134.109,,ajicho
+JP,Japan,Japón,761-0301,Hayashicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3008,134.0701,,hayashicho
+JP,Japan,Japón,761-0302,Kamihayashicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2883,134.0693,,kamihayashicho
+JP,Japan,Japón,761-0303,Rokujocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2988,134.0855,,rokujocho
+JP,Japan,Japón,761-0311,Motoyamacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3128,134.0867,,motoyamacho
+JP,Japan,Japón,761-0312,Higashiyamasakicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3084,134.0971,,higashiyamasakicho
+JP,Japan,Japón,761-0313,Shimotaicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2938,134.0934,,shimotaicho
+JP,Japan,Japón,761-0321,Maeda Nishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3051,134.1136,,maeda-nishimachi
+JP,Japan,Japón,761-0322,Maeda Higashimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2972,134.1169,,maeda-higashimachi
+JP,Japan,Japón,761-0323,Kamedacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2852,134.1142,,kamedacho
+JP,Japan,Japón,761-0393,Hayashicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2989,134.0941,,hayashicho
+JP,Japan,Japón,761-0394,Kamibayashimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2989,134.0941,,kamibayashimachi
+JP,Japan,Japón,761-0395,Hayashicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2989,134.0941,,hayashicho
+JP,Japan,Japón,761-0396,Hayashicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2989,134.0941,,hayashicho
+JP,Japan,Japón,761-0397,Hayashicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2989,134.0941,,hayashicho
+JP,Japan,Japón,761-0431,Omorecho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2877,134.1002,,omorecho
+JP,Japan,Japón,761-0432,Kamedaminamimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2792,134.1122,,kamedaminamimachi
+JP,Japan,Japón,761-0433,Sogawanishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2692,134.1043,,sogawanishimachi
+JP,Japan,Japón,761-0434,Sogawahigashimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2597,134.1074,,sogawahigashimachi
+JP,Japan,Japón,761-0441,Yuracho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2851,134.085,,yuracho
+JP,Japan,Japón,761-0442,Kawashima Hommachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2758,134.0824,,kawashima-hommachi
+JP,Japan,Japón,761-0443,Kawashima Higashimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2667,134.0921,,kawashima-higashimachi
+JP,Japan,Japón,761-0444,Ikedacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2597,134.0844,,ikedacho
+JP,Japan,Japón,761-0445,Nishiuetacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.227,134.0737,,nishiuetacho
+JP,Japan,Japón,761-0446,Higashiuetacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2292,134.1018,,higashiuetacho
+JP,Japan,Japón,761-0450,Mitanicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2656,134.0651,,mitanicho
+JP,Japan,Japón,761-0492,Mitanicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2641,134.0917,,mitanicho
+JP,Japan,Japón,761-1401,Konancho Oka,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,konancho-oka
+JP,Japan,Japón,761-1402,Konancho Yusa,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,konancho-yusa
+JP,Japan,Japón,761-1403,Konancho Yoshimitsu,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,konancho-yoshimitsu
+JP,Japan,Japón,761-1404,Konancho Yokoi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,konancho-yokoi
+JP,Japan,Japón,761-1405,Konancho Ikenochi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,konancho-ikenochi
+JP,Japan,Japón,761-1406,Konancho Nishinosho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,konancho-nishinosho
+JP,Japan,Japón,761-1492,高松空港事務所,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-1493,高松市役所　香南支所,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-1494,株式会社　レクザム　香川工場,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-1501,Shionoecho Yasuharashimo (Dai1-Go),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharashimo-dai1-go
+JP,Japan,Japón,761-1502,Shionoecho Yasuharashimo (Dai2-Go),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharashimo-dai2-go
+JP,Japan,Japón,761-1503,Shionoecho Yasuharashimo (Dai3-Go),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharashimo-dai3-go
+JP,Japan,Japón,761-1504,Shionoecho Yasuharashimo(Sonota),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharashimo-sonota
+JP,Japan,Japón,761-1592,高松市　塩江支所,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-1611,Shionoecho Yasuharakami,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharakami
+JP,Japan,Japón,761-1612,Shionoecho Yasuharakamihigashi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharakamihigashi
+JP,Japan,Japón,761-1613,Shionoecho Kaminishiko,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-kaminishiko
+JP,Japan,Japón,761-1614,Shionoecho Kaminishiotsu,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-kaminishiotsu
+JP,Japan,Japón,761-1615,Shionoecho Yasuharashimo (Kamikota),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharashimo-kamikota
+JP,Japan,Japón,761-1615,Shionoecho Yasuharashimo (Sumiya),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,shionoecho-yasuharashimo-sumiya
+JP,Japan,Japón,761-1616,Sugezawacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,sugezawacho
+JP,Japan,Japón,761-1701,Kagawacho Ono,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-ono
+JP,Japan,Japón,761-1702,Kagawacho Terai,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-terai
+JP,Japan,Japón,761-1703,Kagawacho Asano,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-asano
+JP,Japan,Japón,761-1704,Kagawacho Kawanaihara,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-kawanaihara
+JP,Japan,Japón,761-1705,Kagawacho Kawahigashishimo,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-kawahigashishimo
+JP,Japan,Japón,761-1706,Kagawacho Kawahigashikami,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-kawahigashikami
+JP,Japan,Japón,761-1707,Kagawacho Higashitani,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-higashitani
+JP,Japan,Japón,761-1708,Kagawacho Yasuharashimo,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,kagawacho-yasuharashimo
+JP,Japan,Japón,761-1792,四国松下設備機器　株式会社,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-1793,四国繊維販売　（株）,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-1794,香川県立　香川中央高等学校,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-1795,高松市役所　香川支所,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.1943,134.1004,,
+JP,Japan,Japón,761-8001,Tarumicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3648,133.9465,,tarumicho
+JP,Japan,Japón,761-8002,Ikushimacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.356,133.9603,,ikushimacho
+JP,Japan,Japón,761-8003,Shinzaikawakubocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3639,133.9768,,shinzaikawakubocho
+JP,Japan,Japón,761-8004,Nakayamacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3452,133.9663,,nakayamacho
+JP,Japan,Japón,761-8005,Uematsucho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3483,133.9824,,uematsucho
+JP,Japan,Japón,761-8011,Kozai Kitamachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3532,133.9935,,kozai-kitamachi
+JP,Japan,Japón,761-8012,Kozai Hommachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3512,134.0043,,kozai-hommachi
+JP,Japan,Japón,761-8013,Kozai Higashimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3409,134.0066,,kozai-higashimachi
+JP,Japan,Japón,761-8014,Kozai Minamimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3396,134.0008,,kozai-minamimachi
+JP,Japan,Japón,761-8015,Kozai Nishimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3472,133.9903,,kozai-nishimachi
+JP,Japan,Japón,761-8021,Kinashicho Koretake,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3393,133.9887,,kinashicho-koretake
+JP,Japan,Japón,761-8022,Kinashicho Saryo,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3349,133.9888,,kinashicho-saryo
+JP,Japan,Japón,761-8023,Kinashicho Sato,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.331,133.9774,,kinashicho-sato
+JP,Japan,Japón,761-8024,Kinashicho Fujii,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3289,133.9982,,kinashicho-fujii
+JP,Japan,Japón,761-8025,Kinashicho Yamaguchi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3235,133.983,,kinashicho-yamaguchi
+JP,Japan,Japón,761-8026,Kinashicho Kinashi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3176,133.9864,,kinashicho-kinashi
+JP,Japan,Japón,761-8031,Gotocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3473,134.015,,gotocho
+JP,Japan,Japón,761-8032,Tsuruichicho(Sonota),Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3231,134.048,,tsuruichicho-sonota
+JP,Japan,Japón,761-8033,Iidacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3204,134.0059,,iidacho
+JP,Japan,Japón,761-8041,Danshicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3038,134.0003,,danshicho
+JP,Japan,Japón,761-8042,Mimayacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.305,133.987,,mimayacho
+JP,Japan,Japón,761-8043,Nakatsumacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2902,133.9884,,nakatsumacho
+JP,Japan,Japón,761-8044,Enzacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2865,134.0106,,enzacho
+JP,Japan,Japón,761-8045,Nishiyamasakicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2803,133.9931,,nishiyamasakicho
+JP,Japan,Japón,761-8046,Kawanabecho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2647,134.0097,,kawanabecho
+JP,Japan,Japón,761-8047,Okamotocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2681,133.9962,,okamotocho
+JP,Japan,Japón,761-8051,Nishikasugacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3188,134.0215,,nishikasugacho
+JP,Japan,Japón,761-8052,Matsunamicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3172,134.0268,,matsunamicho
+JP,Japan,Japón,761-8053,Nishihazemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3198,134.0346,,nishihazemachi
+JP,Japan,Japón,761-8054,Higashihazemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3204,134.041,,higashihazemachi
+JP,Japan,Japón,761-8055,Kamimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0354,,kamimachi
+JP,Japan,Japón,761-8056,Kamitenjincho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3114,134.0388,,kamitenjincho
+JP,Japan,Japón,761-8057,Tamuracho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3093,134.0301,,tamuracho
+JP,Japan,Japón,761-8058,Chokushicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3087,134.0168,,chokushicho
+JP,Japan,Japón,761-8061,Muromachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3255,134.0423,,muromachi
+JP,Japan,Japón,761-8062,Muroshimmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3266,134.037,,muroshimmachi
+JP,Japan,Japón,761-8063,Hananomiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.325,134.048,,hananomiyacho
+JP,Japan,Japón,761-8064,Kaminocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3213,134.0479,,kaminocho
+JP,Japan,Japón,761-8071,Fuseishicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3143,134.0531,,fuseishicho
+JP,Japan,Japón,761-8072,Sanjocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3144,134.0468,,sanjocho
+JP,Japan,Japón,761-8073,Ota Shimomachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3058,134.0464,,ota-shimomachi
+JP,Japan,Japón,761-8074,Ota Kamimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2969,134.0427,,ota-kamimachi
+JP,Japan,Japón,761-8075,Tahi Shimomachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3015,134.0577,,tahi-shimomachi
+JP,Japan,Japón,761-8076,Tahi Kamimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2829,134.0557,,tahi-kamimachi
+JP,Japan,Japón,761-8077,Shutsusakucho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2867,134.0479,,shutsusakucho
+JP,Japan,Japón,761-8078,Busshozanchoko,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3231,134.048,,busshozanchoko
+JP,Japan,Japón,761-8079,Busshozanchootsu,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3231,134.048,,busshozanchootsu
+JP,Japan,Japón,761-8081,Nariaicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2976,134.0166,,nariaicho
+JP,Japan,Japón,761-8082,Kanotsunocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3001,134.0321,,kanotsunocho
+JP,Japan,Japón,761-8083,Sammyocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2909,134.0358,,sammyocho
+JP,Japan,Japón,761-8084,Ichinomiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2872,134.025,,ichinomiyacho
+JP,Japan,Japón,761-8085,Teraicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2778,134.026,,teraicho
+JP,Japan,Japón,761-8501,Chokushicho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,chokushicho
+JP,Japan,Japón,761-8511,Tahi Kamimachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,tahi-kamimachi
+JP,Japan,Japón,761-8520,Asahishimmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,asahishimmachi
+JP,Japan,Japón,761-8533,Higashihazemachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,higashihazemachi
+JP,Japan,Japón,761-8538,高松市立みんなの病院,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,
+JP,Japan,Japón,761-8541,Uenocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,uenocho
+JP,Japan,Japón,761-8550,Muroshimmachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,muroshimmachi
+JP,Japan,Japón,761-8551,Gotocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,gotocho
+JP,Japan,Japón,761-8555,株式会社　トーカイ,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,
+JP,Japan,Japón,761-8558,Tamuramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,tamuramachi
+JP,Japan,Japón,761-8565,Hananomiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,hananomiyacho
+JP,Japan,Japón,761-8566,Hananomiyacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,hananomiyacho
+JP,Japan,Japón,761-8567,Shutsusakucho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,shutsusakucho
+JP,Japan,Japón,761-8578,Kankocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,kankocho
+JP,Japan,Japón,761-8581,Uenocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,uenocho
+JP,Japan,Japón,761-8582,Gotocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,gotocho
+JP,Japan,Japón,761-8584,Uenocho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,uenocho
+JP,Japan,Japón,761-8585,Enzacho,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,enzacho
+JP,Japan,Japón,761-8586,Tamuramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,tamuramachi
+JP,Japan,Japón,761-8588,株式会社　Ｊコンテンツ,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,
+JP,Japan,Japón,761-8589,株式会社　アイム,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,
+JP,Japan,Japón,761-8601,Tamuramachi,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.3173,134.0155,,tamuramachi
+JP,Japan,Japón,769-0101,Kokubunjicho Nii,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,kokubunjicho-nii
+JP,Japan,Japón,769-0102,Kokubunjicho Kokubu,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,kokubunjicho-kokubu
+JP,Japan,Japón,769-0103,Kokubunjicho Fuke,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,kokubunjicho-fuke
+JP,Japan,Japón,769-0104,Kokubunjicho Shimmyo,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,kokubunjicho-shimmyo
+JP,Japan,Japón,769-0105,Kokubunjicho Kashihara,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,kokubunjicho-kashihara
+JP,Japan,Japón,769-0192,高松市役所　国分寺支所,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,
+JP,Japan,Japón,769-0193,四国アルフレッサ　株式会社,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,
+JP,Japan,Japón,769-0194,四国松下ライフエレクトロニクス　株式会社,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,
+JP,Japan,Japón,769-0195,加藤産業　株式会社　高松支店,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,
+JP,Japan,Japón,769-0197,（株）　カワイ,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,
+JP,Japan,Japón,769-0198,株式会社　マルヨシセンター,Kagawa Ken,17,Takamatsu Shi,1851095,,,34.2584,133.8221,,
+JP,Japan,Japón,761-4100,Tonosho Cho,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,tonosho-cho
+JP,Japan,Japón,761-4101,Ko.Otsu(Sonota),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-sonota
+JP,Japan,Japón,761-4102,Ko.Otsu(Minatoshimmachi),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-minatoshimmachi
+JP,Japan,Japón,761-4103,Ko.Otsu(Okido),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-okido
+JP,Japan,Japón,761-4104,Ko.Otsu(Yoshigaura),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-yoshigaura
+JP,Japan,Japón,761-4105,Ko.Otsu(Nishihoncho),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-nishihoncho
+JP,Japan,Japón,761-4106,Ko.Otsu(Honcho),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-honcho
+JP,Japan,Japón,761-4111,Ko.Otsu(Higashiminato),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-higashiminato
+JP,Japan,Japón,761-4112,Ko.Otsu(Kashima),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-kashima
+JP,Japan,Japón,761-4113,Ko.Otsu(Yanagi),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-yanagi
+JP,Japan,Japón,761-4114,Ko.Otsu(Senken),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-senken
+JP,Japan,Japón,761-4115,Ko.Otsu(Kose),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5134,134.2189,,ko-otsu-kose
+JP,Japan,Japón,761-4121,Fuchizaki,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.4938,134.2024,,fuchizaki
+JP,Japan,Japón,761-4122,Kamisho,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.4938,134.2024,,kamisho
+JP,Japan,Japón,761-4131,Igisue(Sonota),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.514,134.1852,,igisue-sonota
+JP,Japan,Japón,761-4132,Oe,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5219,134.1709,,oe
+JP,Japan,Japón,761-4133,Nagahama,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5095,134.1851,4,nagahama
+JP,Japan,Japón,761-4134,Takinomiya,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5105,134.1996,4,takinomiya
+JP,Japan,Japón,761-4141,Umagoe,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5153,134.21,,umagoe
+JP,Japan,Japón,761-4142,Yakatazaki,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5218,134.2175,,yakatazaki
+JP,Japan,Japón,761-4143,Mime,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5221,134.2338,4,mime
+JP,Japan,Japón,761-4144,Omi,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5255,134.2552,4,omi
+JP,Japan,Japón,761-4145,Obe,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5359,134.2777,4,obe
+JP,Japan,Japón,761-4146,Kobe,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5438,134.3066,,kobe
+JP,Japan,Japón,761-4151,Hitoyama,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5075,134.2262,,hitoyama
+JP,Japan,Japón,761-4152,Kuroiwa,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5022,134.2141,,kuroiwa
+JP,Japan,Japón,761-4153,Komagoe,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5079,134.2138,,komagoe
+JP,Japan,Japón,761-4154,Kasagadaki,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.5045,134.208,,kasagadaki
+JP,Japan,Japón,761-4155,Nakayama(Kaerugonarutaki),Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.5055,134.2155,,nakayama-kaerugonarutaki
+JP,Japan,Japón,761-4155,Nakayama(Utsukushinoharakogen),Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.5055,134.2155,,nakayama-utsukushinoharakogen
+JP,Japan,Japón,761-4192,Kabuto,Kagawa Ken,17,"Shozu Gun ",1851654,Tonoshō Chō,37322,34.5134,134.2189,,kabuto
+JP,Japan,Japón,761-4193,Kabuto,Kagawa Ken,17,"Shozu Gun ",1851654,Tonoshō Chō,37322,34.5134,134.2189,,kabuto
+JP,Japan,Japón,761-4194,タカラ繊維　（株）,Kagawa Ken,17,"Shozu Gun ",1851654,Tonoshō Chō,37322,34.5134,134.2189,,
+JP,Japan,Japón,761-4300,Shodoshima Cho,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4595,134.2408,,shodoshima-cho
+JP,Japan,Japón,761-4301,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4864,134.2454,4,ikeda
+JP,Japan,Japón,761-4302,Kamo,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.486,134.2118,4,kamo
+JP,Japan,Japón,761-4303,Nakayama(Sonota),Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4595,134.2408,,nakayama-sonota
+JP,Japan,Japón,761-4304,Muro,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4748,134.2506,,muro
+JP,Japan,Japón,761-4305,Futaomote,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4604,134.2534,4,futaomote
+JP,Japan,Japón,761-4306,Yoshino,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4473,134.2418,4,yoshino
+JP,Japan,Japón,761-4307,Kamano,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4333,134.2454,4,kamano
+JP,Japan,Japón,761-4308,Konora,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4282,134.2374,4,konora
+JP,Japan,Japón,761-4388,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4595,134.2408,,ikeda
+JP,Japan,Japón,761-4392,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4595,134.2408,,ikeda
+JP,Japan,Japón,761-4393,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4595,134.2408,,ikeda
+JP,Japan,Japón,761-4395,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4595,134.2408,,ikeda
+JP,Japan,Japón,761-4396,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4595,134.2408,,ikeda
+JP,Japan,Japón,761-4397,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4595,134.2408,,ikeda
+JP,Japan,Japón,761-4398,Ikeda,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4595,134.2408,,ikeda
+JP,Japan,Japón,761-4401,Yoshida,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.5552,134.3388,,yoshida
+JP,Japan,Japón,761-4402,Fukuda,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.5372,134.3364,4,fukuda
+JP,Japan,Japón,761-4403,Atehama,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.5224,134.3456,4,atehama
+JP,Japan,Japón,761-4404,Iwagatani,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.5056,134.3406,4,iwagatani
+JP,Japan,Japón,761-4405,Tachibana,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4861,134.339,4,tachibana
+JP,Japan,Japón,761-4411,Yasuda,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4957,134.3256,4,yasuda
+JP,Japan,Japón,761-4412,Kinosho,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.495,134.316,,kinosho
+JP,Japan,Japón,761-4421,Noma,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4655,134.328,4,noma
+JP,Japan,Japón,761-4422,Furue,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4601,134.31,4,furue
+JP,Japan,Japón,761-4423,Horikoshi,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4568,134.2975,4,horikoshi
+JP,Japan,Japón,761-4424,Tanora,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4522,134.2915,4,tanora
+JP,Japan,Japón,761-4425,Sakate,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4554,134.3331,4,sakate
+JP,Japan,Japón,761-4426,Umaki,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4747,134.3293,,umaki
+JP,Japan,Japón,761-4431,Katajo,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4978,134.3109,,katajo
+JP,Japan,Japón,761-4432,Kusakabehommachi,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4803,134.3015,4,kusakabehommachi
+JP,Japan,Japón,761-4433,Kankakedori,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.5032,134.2957,,kankakedori
+JP,Japan,Japón,761-4434,Nishimura,Kagawa Ken,17,"Shozu Gun ",1851654," Shodoshima Cho",37324,34.4796,134.2807,,nishimura
+JP,Japan,Japón,761-4489,Katajo,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,katajo
+JP,Japan,Japón,761-4492,Yasuta,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,yasuta
+JP,Japan,Japón,761-4493,Noma,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,noma
+JP,Japan,Japón,761-4494,Umaki,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,umaki
+JP,Japan,Japón,761-4495,Kankakedori,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,kankakedori
+JP,Japan,Japón,761-4496,Kusakabehommachi,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,kusakabehommachi
+JP,Japan,Japón,761-4497,Noma,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,noma
+JP,Japan,Japón,761-4498,Noma,Kagawa Ken,17,"Shozu Gun ",1851654,Shōdoshima Chō,37324,34.4896,134.3188,,noma
+JP,Japan,Japón,761-4661,Teshimaieura,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.4852,134.0595,4,teshimaieura
+JP,Japan,Japón,761-4662,Teshimakarato,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.4798,134.0923,4,teshimakarato
+JP,Japan,Japón,761-4663,Teshimako,Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.4688,134.0743,,teshimako
+JP,Japan,Japón,761-4664,Igisue(Odeshima),Kagawa Ken,17,"Shozu Gun ",1851654," Tonosho Cho",37322,34.4779,134.0754,,igisue-odeshima
+JP,Japan,Japón,762-0000,Sakaide Shi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3191,133.8618,,sakaide-shi
+JP,Japan,Japón,762-0001,Kyomachi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3162,133.8578,,kyomachi
+JP,Japan,Japón,762-0002,Irifunecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3229,133.8556,,irifunecho
+JP,Japan,Japón,762-0003,Kumecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3204,133.8609,,kumecho
+JP,Japan,Japón,762-0004,Showacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3244,133.8643,,showacho
+JP,Japan,Japón,762-0005,Yokozucho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3167,133.8682,,yokozucho
+JP,Japan,Japón,762-0006,Asahicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3166,133.8644,,asahicho
+JP,Japan,Japón,762-0007,Muromachi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3164,133.8615,,muromachi
+JP,Japan,Japón,762-0011,Ejiricho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3203,133.8755,,ejiricho
+JP,Japan,Japón,762-0012,Hayashidacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3342,133.8844,,hayashidacho
+JP,Japan,Japón,762-0013,Ogoshicho No,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3143,133.8524,,ogoshicho-no
+JP,Japan,Japón,762-0014,Ogoshicho Kisawa,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3143,133.8524,,ogoshicho-kisawa
+JP,Japan,Japón,762-0015,Oyabucho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.359,133.8994,,oyabucho
+JP,Japan,Japón,762-0016,Omicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3386,133.9316,,omicho
+JP,Japan,Japón,762-0017,Takayacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3366,133.9084,,takayacho
+JP,Japan,Japón,762-0018,Kandanicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3238,133.914,,kandanicho
+JP,Japan,Japón,762-0021,Nishinoshocho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.308,133.8891,,nishinoshocho
+JP,Japan,Japón,762-0022,Kamocho Ko(Ujibe),Kagawa Ken,17,Sakaide Shi,1853186,,,34.2993,133.8535,,kamocho-ko-ujibe
+JP,Japan,Japón,762-0023,Kamocho(Sonota),Kagawa Ken,17,Sakaide Shi,1853186,,,34.2993,133.8535,,kamocho-sonota
+JP,Japan,Japón,762-0024,Fuchucho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.2863,133.9166,,fuchucho
+JP,Japan,Japón,762-0025,Kawatsucho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.2906,133.8629,,kawatsucho
+JP,Japan,Japón,762-0026,Koyamacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.2991,133.8523,,koyamacho
+JP,Japan,Japón,762-0027,Oikecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.299,133.8564,,oikecho
+JP,Japan,Japón,762-0031,Bunkyocho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3112,133.8526,,bunkyocho
+JP,Japan,Japón,762-0032,Komadomecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.311,133.8569,,komadomecho
+JP,Japan,Japón,762-0033,Tanimachi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3117,133.864,,tanimachi
+JP,Japan,Japón,762-0034,Fukuecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.304,133.8672,,fukuecho
+JP,Japan,Japón,762-0035,Ikezonocho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3037,133.8535,,ikezonocho
+JP,Japan,Japón,762-0036,Hanamachi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3035,133.8504,,hanamachi
+JP,Japan,Japón,762-0037,Aobacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3076,133.8525,,aobacho
+JP,Japan,Japón,762-0038,Kazashicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3076,133.857,,kazashicho
+JP,Japan,Japón,762-0041,Hachimancho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3138,133.842,,hachimancho
+JP,Japan,Japón,762-0042,Shiroganecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3156,133.8462,,shiroganecho
+JP,Japan,Japón,762-0043,Kotobukicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3154,133.8495,,kotobukicho
+JP,Japan,Japón,762-0044,Hommachi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3159,133.8519,,hommachi
+JP,Japan,Japón,762-0045,Motomachi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.316,133.8546,,motomachi
+JP,Japan,Japón,762-0046,Fujimicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3091,133.8492,,fujimicho
+JP,Japan,Japón,762-0047,Shinhamacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3096,133.844,,shinhamacho
+JP,Japan,Japón,762-0051,Gobushocho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3204,133.8382,,gobushocho
+JP,Japan,Japón,762-0052,Okinohama,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3253,133.8405,,okinohama
+JP,Japan,Japón,762-0053,Nishiohamakita,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3228,133.8429,,nishiohamakita
+JP,Japan,Japón,762-0054,Nishiohamaminami,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3198,133.8441,,nishiohamaminami
+JP,Japan,Japón,762-0055,Chikkocho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.325,133.849,,chikkocho
+JP,Japan,Japón,762-0056,Chuocho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3199,133.8502,,chuocho
+JP,Japan,Japón,762-0057,Miyashitacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3181,133.8456,,miyashitacho
+JP,Japan,Japón,762-0058,Tokiwacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3171,133.8393,,tokiwacho
+JP,Japan,Japón,762-0061,Sakaidecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3192,133.8332,,sakaidecho
+JP,Japan,Japón,762-0062,Kawasakicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3342,133.8316,,kawasakicho
+JP,Japan,Japón,762-0063,Bannosukoen,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3245,133.8319,,bannosukoen
+JP,Japan,Japón,762-0064,Bannosucho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3458,133.8466,,bannosucho
+JP,Japan,Japón,762-0065,Bannosumidoricho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.354,133.8328,,bannosumidoricho
+JP,Japan,Japón,762-0066,Shamijima,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3477,133.824,,shamijima
+JP,Japan,Japón,762-0067,Seicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.355,133.8527,,seicho
+JP,Japan,Japón,762-0071,Yoshimacho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.3891,133.8189,,yoshimacho
+JP,Japan,Japón,762-0072,Iwakuro,Kagawa Ken,17,Sakaide Shi,1853186,,,34.4065,133.8097,,iwakuro
+JP,Japan,Japón,762-0073,Hitsuishi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.4201,133.8044,,hitsuishi
+JP,Japan,Japón,762-8503,Bannosumidoricho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,bannosumidoricho
+JP,Japan,Japón,762-8505,Kyomachi,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,kyomachi
+JP,Japan,Japón,762-8507,Kawasakicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,kawasakicho
+JP,Japan,Japón,762-8508,Kumecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,kumecho
+JP,Japan,Japón,762-8510,Bannosucho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,bannosucho
+JP,Japan,Japón,762-8511,Ejiricho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,ejiricho
+JP,Japan,Japón,762-8550,Kotobukicho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,kotobukicho
+JP,Japan,Japón,762-8601,Murocho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,murocho
+JP,Japan,Japón,762-8602,Irifunecho,Kagawa Ken,17,Sakaide Shi,1853186,,,34.324,133.8922,,irifunecho
+JP,Japan,Japón,764-0000,Tadotsu Cho,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2742,133.7519,,tadotsu-cho
+JP,Japan,Japón,764-0001,Higashishimmachi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2782,133.7531,,higashishimmachi
+JP,Japan,Japón,764-0002,Kachu,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2753,133.7538,,kachu
+JP,Japan,Japón,764-0003,Motomachi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2701,133.7518,,motomachi
+JP,Japan,Japón,764-0004,Nakanocho,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.272,133.7514,,nakanocho
+JP,Japan,Japón,764-0005,Odori,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2737,133.7495,,odori
+JP,Japan,Japón,764-0006,Hinodecho,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2766,133.7513,,hinodecho
+JP,Japan,Japón,764-0011,Sakaemachi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2724,133.7558,,sakaemachi
+JP,Japan,Japón,764-0012,Sakuragawa,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2657,133.7577,,sakuragawa
+JP,Japan,Japón,764-0013,Kyomachi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2673,133.7531,,kyomachi
+JP,Japan,Japón,764-0014,Hondori,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2669,133.7499,,hondori
+JP,Japan,Japón,764-0015,Nishihama,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2713,133.7449,,nishihama
+JP,Japan,Japón,764-0016,Higashihama,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2733,133.746,,higashihama
+JP,Japan,Japón,764-0017,Nishiminatomachi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2724,133.7362,,nishiminatomachi
+JP,Japan,Japón,764-0018,Higashiminatomachi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2796,133.7466,,higashiminatomachi
+JP,Japan,Japón,764-0021,Horie,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.279,133.7589,,horie
+JP,Japan,Japón,764-0022,Kitagamo,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2766,133.7638,,kitagamo
+JP,Japan,Japón,764-0023,Wakabacho,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2725,133.7648,,wakabacho
+JP,Japan,Japón,764-0024,Saiwaicho,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2735,133.7602,,saiwaicho
+JP,Japan,Japón,764-0025,Kotobukicho,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2694,133.7585,,kotobukicho
+JP,Japan,Japón,764-0026,Minamigamo,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2742,133.7612,,minamigamo
+JP,Japan,Japón,764-0027,Dofukuji,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2742,133.7612,,dofukuji
+JP,Japan,Japón,764-0028,Kazuhara,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2742,133.7612,,kazuhara
+JP,Japan,Japón,764-0031,Sho,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,sho
+JP,Japan,Japón,764-0032,Mii,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,mii
+JP,Japan,Japón,764-0033,Ogi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,ogi
+JP,Japan,Japón,764-0034,Yamashina,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,yamashina
+JP,Japan,Japón,764-0035,Okushirakata,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,okushirakata
+JP,Japan,Japón,764-0036,Mitachi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,mitachi
+JP,Japan,Japón,764-0037,Nishishirakata,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,nishishirakata
+JP,Japan,Japón,764-0038,Higashishirakata,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.2726,133.7544,,higashishirakata
+JP,Japan,Japón,764-0040,Sanagi,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.343,133.6248,,sanagi
+JP,Japan,Japón,764-0050,Takami,Kagawa Ken,17,"Nakatado Gun ",1855768," Tadotsu Cho",37404,34.3156,133.6732,4,takami
+JP,Japan,Japón,764-8501,Sakaemachi,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,sakaemachi
+JP,Japan,Japón,764-8502,四国計測工業　株式会社,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,
+JP,Japan,Japón,764-8503,Higashiminatomachi,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,higashiminatomachi
+JP,Japan,Japón,764-8505,（株）　英弘チエン,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,
+JP,Japan,Japón,764-8507,Sakuragawa,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,sakuragawa
+JP,Japan,Japón,764-8508,Higashihama,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,higashihama
+JP,Japan,Japón,764-8510,Higashiminatomachi,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,higashiminatomachi
+JP,Japan,Japón,764-8511,Hontori,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,hontori
+JP,Japan,Japón,764-8520,Nishiminatocho,Kagawa Ken,17,"Nakatado Gun ",1855768,Tadotsu-chō,37404,34.2708,133.7455,,nishiminatocho
+JP,Japan,Japón,766-0000,Manno Cho,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.2013,133.8199,,manno-cho
+JP,Japan,Japón,766-0000,Kotohira Cho,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.2013,133.8199,,kotohira-cho
+JP,Japan,Japón,766-0001,Kotohiracho(427-Banchiijo.Kawanishi,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.2013,133.8199,,kotohiracho-427-banchiijo-kawanishi
+JP,Japan,Japón,766-0002,Kotohiracho(1-426-Banchi.Kawahigash,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.2013,133.8199,,kotohiracho-1-426-banchi-kawahigash
+JP,Japan,Japón,766-0003,Gojo,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.1827,133.8283,,gojo
+JP,Japan,Japón,766-0004,Enai,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.1946,133.8249,4,enai
+JP,Japan,Japón,766-0005,Noda,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.2016,133.8212,,noda
+JP,Japan,Japón,766-0006,Kamikushinashi,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.2105,133.814,,kamikushinashi
+JP,Japan,Japón,766-0007,Shimokushinashi,Kagawa Ken,17,"Nakatado Gun ",1855768," Kotohira Cho",37403,34.2171,133.811,,shimokushinashi
+JP,Japan,Japón,766-0011,Kumon,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.2166,133.8214,,kumon
+JP,Japan,Japón,766-0012,Nishitakashino,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.209,133.8243,,nishitakashino
+JP,Japan,Japón,766-0013,Higashitakashino,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.2117,133.8327,,higashitakashino
+JP,Japan,Japón,766-0014,Hazama,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.208,133.8442,4,hazama
+JP,Japan,Japón,766-0015,Nagao,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1944,133.8686,,nagao
+JP,Japan,Japón,766-0016,Sumishohigashi,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1887,133.913,,sumishohigashi
+JP,Japan,Japón,766-0017,Sumishonishi,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.161,133.901,,sumishonishi
+JP,Japan,Japón,766-0021,Shijo,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1937,133.8355,,shijo
+JP,Japan,Japón,766-0022,Yoshinoshimo,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1923,133.8454,,yoshinoshimo
+JP,Japan,Japón,766-0023,Yoshino,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1648,133.8823,,yoshino
+JP,Japan,Japón,766-0024,Kanno,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1613,133.8742,,kanno
+JP,Japan,Japón,766-0025,Mano,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1736,133.857,,mano
+JP,Japan,Japón,766-0026,Kishinoe,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1717,133.8426,,kishinoe
+JP,Japan,Japón,766-0027,Gojo,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.184,133.8352,,gojo
+JP,Japan,Japón,766-0201,Soda,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1473,133.9287,,soda
+JP,Japan,Japón,766-0202,Nakato,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.136,133.9481,,nakato
+JP,Japan,Japón,766-0203,Kawahigashi,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1266,134.0039,,kawahigashi
+JP,Japan,Japón,766-0204,Katsura,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.0975,133.9732,,katsura
+JP,Japan,Japón,766-8501,金刀比羅宮,Kagawa Ken,17,"Nakatado Gun ",1855768,Kotohira Chō,37403,34.1959,133.8182,,
+JP,Japan,Japón,766-8502,Enai,Kagawa Ken,17,"Nakatado Gun ",1855768,Kotohira Chō,37403,34.1959,133.8182,,enai
+JP,Japan,Japón,769-0301,Sabumi,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1674,133.808,,sabumi
+JP,Japan,Japón,769-0302,Shioiri,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.12,133.8935,4,shioiri
+JP,Japan,Japón,769-0303,Shichika,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1375,133.8547,4,shichika
+JP,Japan,Japón,769-0311,Kaita,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1742,133.827,,kaita
+JP,Japan,Japón,769-0312,Miyada,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1654,133.8213,,miyada
+JP,Japan,Japón,769-0313,Ikama,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.162,133.8352,,ikama
+JP,Japan,Japón,769-0314,Honoyama,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1547,133.8457,,honoyama
+JP,Japan,Japón,769-0315,Ushiroyama,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1479,133.8393,,ushiroyama
+JP,Japan,Japón,769-0316,Okuchi,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1435,133.8302,,okuchi
+JP,Japan,Japón,769-0317,Shimme,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1286,133.8328,,shimme
+JP,Japan,Japón,769-0318,Yamawaki,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1071,133.8328,4,yamawaki
+JP,Japan,Japón,769-0319,Oiage,Kagawa Ken,17,"Nakatado Gun ",1855768," Manno Cho",37406,34.1467,133.8192,4,oiage
+JP,Japan,Japón,767-0000,Mitoyo Shi,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,mitoyo-shi
+JP,Japan,Japón,767-0001,Takasecho Kamitakase,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-kamitakase
+JP,Japan,Japón,767-0002,Takasecho Shimmyo,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-shimmyo
+JP,Japan,Japón,767-0003,Takasecho Hijinaka,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-hijinaka
+JP,Japan,Japón,767-0004,Takasecho Hiji,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-hiji
+JP,Japan,Japón,767-0011,Takasecho Shimokatsuma,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-shimokatsuma
+JP,Japan,Japón,767-0012,Takasecho Kamikatsuma,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-kamikatsuma
+JP,Japan,Japón,767-0013,Takasecho Shimoasa,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-shimoasa
+JP,Japan,Japón,767-0014,Takasecho Kamiasa,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-kamiasa
+JP,Japan,Japón,767-0021,Takasecho Samata,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-samata
+JP,Japan,Japón,767-0022,Takasecho Hagata,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takasecho-hagata
+JP,Japan,Japón,767-0031,Minocho Omi,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,minocho-omi
+JP,Japan,Japón,767-0032,Minocho Shimotakase,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,minocho-shimotakase
+JP,Japan,Japón,767-0033,Minocho Yoshizu,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,minocho-yoshizu
+JP,Japan,Japón,767-8507,丸善,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,
+JP,Japan,Japón,767-8510,三豊市立　西香川病院,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,
+JP,Japan,Japón,767-8513,四国学院大学　香川西高等学校,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,
+JP,Japan,Japón,767-8585,三豊市役所,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,
+JP,Japan,Japón,768-0101,Yamamotocho Tsuji,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1238,133.663,,yamamotocho-tsuji
+JP,Japan,Japón,768-0102,Yamamotocho Ono,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1238,133.663,,yamamotocho-ono
+JP,Japan,Japón,768-0103,Yamamotocho Saitanishi,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1238,133.663,,yamamotocho-saitanishi
+JP,Japan,Japón,768-0104,Yamamotocho Koda,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1238,133.663,,yamamotocho-koda
+JP,Japan,Japón,768-0105,Yamamotocho Kochi,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1238,133.663,,yamamotocho-kochi
+JP,Japan,Japón,768-0192,（株）　志満秀,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1238,133.663,,
+JP,Japan,Japón,768-0195,三豊市　山本支所,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1238,133.663,,
+JP,Japan,Japón,769-0401,Saitacho Saitakami,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.2584,133.8221,,saitacho-saitakami
+JP,Japan,Japón,769-0402,Saitacho Saitanaka,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.2584,133.8221,,saitacho-saitanaka
+JP,Japan,Japón,769-1101,Takumacho Takuma,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-takuma
+JP,Japan,Japón,769-1102,Takumacho Matsusaki,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-matsusaki
+JP,Japan,Japón,769-1103,Takumacho Koda,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-koda
+JP,Japan,Japón,769-1104,Takumacho Ohama,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-ohama
+JP,Japan,Japón,769-1105,Takumacho Tsumu,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-tsumu
+JP,Japan,Japón,769-1106,Takumacho Hako,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-hako
+JP,Japan,Japón,769-1107,Takumacho Namari,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-namari
+JP,Japan,Japón,769-1108,Takumacho Awashima,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-awashima
+JP,Japan,Japón,769-1109,Takumacho Shishijima,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,takumacho-shishijima
+JP,Japan,Japón,769-1192,香川高等専門学校　詫間キャンパス,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,
+JP,Japan,Japón,769-1401,Niocho Nio Ki,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-ki
+JP,Japan,Japón,769-1402,Niocho Nio Bo,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-bo
+JP,Japan,Japón,769-1403,Niocho Nio Hei,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-hei
+JP,Japan,Japón,769-1404,Niocho Nio Otsu,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-otsu
+JP,Japan,Japón,769-1405,Niocho Nio Ko,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-ko
+JP,Japan,Japón,769-1406,Niocho Nio Shin,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-shin
+JP,Japan,Japón,769-1407,Niocho Nio Tei,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-tei
+JP,Japan,Japón,769-1408,Niocho Nio Ko,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-nio-ko
+JP,Japan,Japón,769-1410,Niocho Ienora,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,niocho-ienora
+JP,Japan,Japón,769-1501,Toyonakacho Hijidai,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-hijidai
+JP,Japan,Japón,769-1502,Toyonakacho Kasadakasaoka,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-kasadakasaoka
+JP,Japan,Japón,769-1503,Toyonakacho Kasadatakeda,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-kasadatakeda
+JP,Japan,Japón,769-1504,Toyonakacho Kamidakano,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-kamidakano
+JP,Japan,Japón,769-1505,Toyonakacho Motoyama Otsu,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-motoyama-otsu
+JP,Japan,Japón,769-1506,Toyonakacho Motoyama Ko,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-motoyama-ko
+JP,Japan,Japón,769-1507,Toyonakacho Okamoto,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-okamoto
+JP,Japan,Japón,769-1508,Toyonakacho Shimodakano,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,toyonakacho-shimodakano
+JP,Japan,Japón,769-1593,三豊市役所　豊中庁舎,Kagawa Ken,17,Mitoyo Shi,1856906,,,34.1618,133.7228,,
+JP,Japan,Japón,761-2401,Ayautacho Okadakami,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-okadakami
+JP,Japan,Japón,761-2402,Ayautacho Okadashimo,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-okadashimo
+JP,Japan,Japón,761-2403,Ayautacho Okadanishi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-okadanishi
+JP,Japan,Japón,761-2404,Ayautacho Okadahigashi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-okadahigashi
+JP,Japan,Japón,761-2405,Ayautacho Kurikumanishi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-kurikumanishi
+JP,Japan,Japón,761-2406,Ayautacho Kurikumahigashi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-kurikumahigashi
+JP,Japan,Japón,761-2407,Ayautacho Tomikuma(Sonota),Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-tomikuma-sonota
+JP,Japan,Japón,761-2408,Ayautacho Tomikuma(Fujimisaka),Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,ayautacho-tomikuma-fujimisaka
+JP,Japan,Japón,761-2492,丸亀市　綾歌市民総合センター,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,
+JP,Japan,Japón,761-2493,ニューレオマワールド,Kagawa Ken,17,Marugame Shi,1857664,,,34.2282,133.9419,,
+JP,Japan,Japón,762-0081,Hanzancho Higashisakamoto,Kagawa Ken,17,Marugame Shi,1857664,,,34.3143,133.8524,,hanzancho-higashisakamoto
+JP,Japan,Japón,762-0082,Hanzancho Kawahara,Kagawa Ken,17,Marugame Shi,1857664,,,34.3143,133.8524,,hanzancho-kawahara
+JP,Japan,Japón,762-0083,Hanzancho Shimohogunji,Kagawa Ken,17,Marugame Shi,1857664,,,34.3143,133.8524,,hanzancho-shimohogunji
+JP,Japan,Japón,762-0084,Hanzancho Kamihogunji,Kagawa Ken,17,Marugame Shi,1857664,,,34.3143,133.8524,,hanzancho-kamihogunji
+JP,Japan,Japón,762-0085,Hanzancho Higashiogawa,Kagawa Ken,17,Marugame Shi,1857664,,,34.3143,133.8524,,hanzancho-higashiogawa
+JP,Japan,Japón,762-0086,Hanzancho Santoki,Kagawa Ken,17,Marugame Shi,1857664,,,34.3143,133.8524,,hanzancho-santoki
+JP,Japan,Japón,762-0087,Hanzancho Nishisakamoto,Kagawa Ken,17,Marugame Shi,1857664,,,34.3143,133.8524,,hanzancho-nishisakamoto
+JP,Japan,Japón,762-8502,香川シームレス　（株）,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,
+JP,Japan,Japón,762-8515,飯山市民総合センター,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,
+JP,Japan,Japón,763-0000,Marugame Shi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2897,133.7931,,marugame-shi
+JP,Japan,Japón,763-0001,Furutaimachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2926,133.7999,,furutaimachi
+JP,Japan,Japón,763-0002,Kawaramachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2943,133.7999,,kawaramachi
+JP,Japan,Japón,763-0003,Kayamachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2926,133.798,,kayamachi
+JP,Japan,Japón,763-0004,Komeyacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2916,133.7976,,komeyacho
+JP,Japan,Japón,763-0005,Matsuyacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.292,133.7963,,matsuyacho
+JP,Japan,Japón,763-0006,Uoyamachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.293,133.797,,uoyamachi
+JP,Japan,Japón,763-0007,Sokomachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2928,133.7963,,sokomachi
+JP,Japan,Japón,763-0011,Fujimicho,Kagawa Ken,17,Marugame Shi,1857664,,,34.3033,133.7972,,fujimicho
+JP,Japan,Japón,763-0012,Doicho,Kagawa Ken,17,Marugame Shi,1857664,,,34.291,133.8057,,doicho
+JP,Japan,Japón,763-0013,Jotocho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2872,133.8054,,jotocho
+JP,Japan,Japón,763-0014,Gobushocho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2965,133.8011,,gobushocho
+JP,Japan,Japón,763-0015,Kitahirayamacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2962,133.7979,,kitahirayamacho
+JP,Japan,Japón,763-0021,Tomiyamachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2903,133.7951,,tomiyamachi
+JP,Japan,Japón,763-0022,Hamamachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2914,133.7922,,hamamachi
+JP,Japan,Japón,763-0023,Hommachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2908,133.7927,,hommachi
+JP,Japan,Japón,763-0024,Shiwakumachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.29,133.7942,,shiwakumachi
+JP,Japan,Japón,763-0025,Ichibancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2863,133.8002,,ichibancho
+JP,Japan,Japón,763-0026,Rokubancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.285,133.7968,,rokubancho
+JP,Japan,Japón,763-0027,Shichibancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2839,133.801,,shichibancho
+JP,Japan,Japón,763-0028,Hachibancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2831,133.8005,,hachibancho
+JP,Japan,Japón,763-0029,Kubancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2833,133.8028,,kubancho
+JP,Japan,Japón,763-0030,Jubancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.282,133.8002,,jubancho
+JP,Japan,Japón,763-0031,Jonancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2814,133.8026,,jonancho
+JP,Japan,Japón,763-0032,Joseicho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2838,133.7962,,joseicho
+JP,Japan,Japón,763-0033,Nakabucho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2828,133.794,,nakabucho
+JP,Japan,Japón,763-0034,Otecho,Kagawa Ken,17,Marugame Shi,1857664,,,34.289,133.7978,,otecho
+JP,Japan,Japón,763-0041,Nishihirayamacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2949,133.7954,,nishihirayamacho
+JP,Japan,Japón,763-0042,Minatomachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2983,133.7951,,minatomachi
+JP,Japan,Japón,763-0043,Toricho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2916,133.7958,,toricho
+JP,Japan,Japón,763-0044,Fukushimacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2939,133.7918,,fukushimacho
+JP,Japan,Japón,763-0045,Shimmachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2919,133.7914,,shimmachi
+JP,Japan,Japón,763-0046,Nanjomachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2888,133.7932,,nanjomachi
+JP,Japan,Japón,763-0047,Nishihommachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2889,133.7894,,nishihommachi
+JP,Japan,Japón,763-0048,Saiwaicho,Kagawa Ken,17,Marugame Shi,1857664,,,34.287,133.7892,,saiwaicho
+JP,Japan,Japón,763-0051,Imazucho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2793,133.783,,imazucho
+JP,Japan,Japón,763-0052,Tsunomoricho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2799,133.7906,,tsunomoricho
+JP,Japan,Japón,763-0053,Kanakuracho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2661,133.7811,,kanakuracho
+JP,Japan,Japón,763-0054,Nakazucho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2806,133.7724,,nakazucho
+JP,Japan,Japón,763-0055,Shindencho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2693,133.7881,,shindencho
+JP,Japan,Japón,763-0061,Showacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2943,133.7699,,showacho
+JP,Japan,Japón,763-0062,Horaicho,Kagawa Ken,17,Marugame Shi,1857664,,,34.3027,133.7827,,horaicho
+JP,Japan,Japón,763-0063,Shinhamacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.292,133.7856,,shinhamacho
+JP,Japan,Japón,763-0064,Maejioyacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2864,133.7837,,maejioyacho
+JP,Japan,Japón,763-0065,Shioyacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2883,133.7816,,shioyacho
+JP,Japan,Japón,763-0066,Temmacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2838,133.779,,temmacho
+JP,Japan,Japón,763-0071,Tamuracho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2673,133.7955,,tamuracho
+JP,Japan,Japón,763-0072,Yamanokitacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2736,133.7998,,yamanokitacho
+JP,Japan,Japón,763-0073,Kubaracho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2698,133.807,,kubaracho
+JP,Japan,Japón,763-0074,Haradacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.259,133.7878,,haradacho
+JP,Japan,Japón,763-0075,Haradadanchi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2612,133.7929,,haradadanchi
+JP,Japan,Japón,763-0081,Dokichonishi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2897,133.7931,,dokichonishi
+JP,Japan,Japón,763-0082,Dokichohigashi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2897,133.7931,,dokichohigashi
+JP,Japan,Japón,763-0083,Dokichokita,Kagawa Ken,17,Marugame Shi,1857664,,,34.2897,133.7931,,dokichokita
+JP,Japan,Japón,763-0084,Iinochohigashifuta,Kagawa Ken,17,Marugame Shi,1857664,,,34.2727,133.8313,,iinochohigashifuta
+JP,Japan,Japón,763-0085,Iinochohigashibun,Kagawa Ken,17,Marugame Shi,1857664,,,34.2844,133.8354,,iinochohigashibun
+JP,Japan,Japón,763-0086,Iinochonishibun,Kagawa Ken,17,Marugame Shi,1857664,,,34.2821,133.8295,,iinochonishibun
+JP,Japan,Japón,763-0091,Kawanishichokita,Kagawa Ken,17,Marugame Shi,1857664,,,34.263,133.8245,,kawanishichokita
+JP,Japan,Japón,763-0092,Kawanishichominami,Kagawa Ken,17,Marugame Shi,1857664,,,34.249,133.832,,kawanishichominami
+JP,Japan,Japón,763-0093,Gungecho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2545,133.8146,,gungecho
+JP,Japan,Japón,763-0094,Sanjocho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2494,133.806,,sanjocho
+JP,Japan,Japón,763-0095,Tarumicho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2325,133.8277,,tarumicho
+JP,Japan,Japón,763-0101,Hiroshimachotateishi,Kagawa Ken,17,Marugame Shi,1857664,,,34.3758,133.7228,,hiroshimachotateishi
+JP,Japan,Japón,763-0102,Hiroshimachoenora,Kagawa Ken,17,Marugame Shi,1857664,,,34.37,133.7083,,hiroshimachoenora
+JP,Japan,Japón,763-0103,Hiroshimachokamanokoshi,Kagawa Ken,17,Marugame Shi,1857664,,,34.3577,133.7042,,hiroshimachokamanokoshi
+JP,Japan,Japón,763-0104,Hiroshimachokoro,Kagawa Ken,17,Marugame Shi,1857664,,,34.3584,133.6941,,hiroshimachokoro
+JP,Japan,Japón,763-0105,Hiroshimachoaoki,Kagawa Ken,17,Marugame Shi,1857664,,,34.3664,133.6933,,hiroshimachoaoki
+JP,Japan,Japón,763-0106,Hiroshimachoichii,Kagawa Ken,17,Marugame Shi,1857664,,,34.377,133.6967,,hiroshimachoichii
+JP,Japan,Japón,763-0107,Hiroshimachomora,Kagawa Ken,17,Marugame Shi,1857664,,,34.3869,133.7152,,hiroshimachomora
+JP,Japan,Japón,763-0108,Hiroshimachooteshima,Kagawa Ken,17,Marugame Shi,1857664,,,34.3782,133.6469,,hiroshimachooteshima
+JP,Japan,Japón,763-0111,Teshimacho,Kagawa Ken,17,Marugame Shi,1857664,,,34.397,133.6696,,teshimacho
+JP,Japan,Japón,763-0221,Honjimachokasashima,Kagawa Ken,17,Marugame Shi,1857664,,,34.3959,133.7792,,honjimachokasashima
+JP,Japan,Japón,763-0222,Honjimachokosho,Kagawa Ken,17,Marugame Shi,1857664,,,34.3884,133.7902,,honjimachokosho
+JP,Japan,Japón,763-0223,Honjimachotomari,Kagawa Ken,17,Marugame Shi,1857664,,,34.3853,133.7792,,honjimachotomari
+JP,Japan,Japón,763-0224,Honjimachokosaka,Kagawa Ken,17,Marugame Shi,1857664,,,34.3775,133.7689,,honjimachokosaka
+JP,Japan,Japón,763-0225,Honjimachoikunohama,Kagawa Ken,17,Marugame Shi,1857664,,,34.3775,133.7627,,honjimachoikunohama
+JP,Japan,Japón,763-0226,Honjimachoshirihama,Kagawa Ken,17,Marugame Shi,1857664,,,34.3861,133.7585,,honjimachoshirihama
+JP,Japan,Japón,763-0227,Honjimachofukuda,Kagawa Ken,17,Marugame Shi,1857664,,,34.3935,133.7562,,honjimachofukuda
+JP,Japan,Japón,763-0228,Honjimachooura,Kagawa Ken,17,Marugame Shi,1857664,,,34.3869,133.7671,,honjimachooura
+JP,Japan,Japón,763-0231,Ushijima,Kagawa Ken,17,Marugame Shi,1857664,,,34.3612,133.7808,,ushijima
+JP,Japan,Japón,763-8501,Odecho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,odecho
+JP,Japan,Japón,763-8502,Jotomachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,jotomachi
+JP,Japan,Japón,763-8503,Kubaracho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,kubaracho
+JP,Japan,Japón,763-8504,Dokichohigashi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,dokichohigashi
+JP,Japan,Japón,763-8507,Tsunomoricho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,tsunomoricho
+JP,Japan,Japón,763-8508,Nakazucho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,nakazucho
+JP,Japan,Japón,763-8510,株式会社　カンペ共販四国,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,
+JP,Japan,Japón,763-8511,Showamachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,showamachi
+JP,Japan,Japón,763-8512,Rokubancho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,rokubancho
+JP,Japan,Japón,763-8516,Horaicho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,horaicho
+JP,Japan,Japón,763-8518,Dokichohigashi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,dokichohigashi
+JP,Japan,Japón,763-8603,Tamuramachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,tamuramachi
+JP,Japan,Japón,763-8605,Nakazucho,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,nakazucho
+JP,Japan,Japón,763-8608,Furutaimachi,Kagawa Ken,17,Marugame Shi,1857664,,,34.2856,133.8154,,furutaimachi
+JP,Japan,Japón,761-0611,Tanaka,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,tanaka
+JP,Japan,Japón,761-0612,Hikami,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,hikami
+JP,Japan,Japón,761-0613,Kamitakaoka,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,kamitakaoka
+JP,Japan,Japón,761-0614,Asakura,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,asakura
+JP,Japan,Japón,761-0615,Komino,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,komino
+JP,Japan,Japón,761-0692,三木町役場,Kagawa Ken,17,"Kita Gun ",1859337,Miki Chō,37341,34.3129,134.1007,,
+JP,Japan,Japón,761-0700,Miki Cho,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,miki-cho
+JP,Japan,Japón,761-0701,Ikenobe,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,4,ikenobe
+JP,Japan,Japón,761-0702,Hiragi,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,4,hiragi
+JP,Japan,Japón,761-0703,Shishibuse,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,shishibuse
+JP,Japan,Japón,761-0704,Shimotakaoka,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,shimotakaoka
+JP,Japan,Japón,761-0705,Inoe,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,inoe
+JP,Japan,Japón,761-0793,香川大学　医学部,Kagawa Ken,17,"Kita Gun ",1859337,Miki Chō,37341,34.3129,134.1007,,
+JP,Japan,Japón,761-0795,香川大学　農学部,Kagawa Ken,17,"Kita Gun ",1859337,Miki Chō,37341,34.3129,134.1007,,
+JP,Japan,Japón,761-0821,Kaniwa,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,kaniwa
+JP,Japan,Japón,761-0822,Okuyama,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,,okuyama
+JP,Japan,Japón,761-0823,Ido,Kagawa Ken,17,"Kita Gun ",1859337," Miki Cho",37341,34.3129,134.1007,4,ido
+JP,Japan,Japón,768-0000,Kanonji Shi,Kagawa Ken,17,Kanonji Shi,1860119,,,34.126,133.6502,,kanonji-shi
+JP,Japan,Japón,768-0001,Muromotocho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1504,133.6471,,muromotocho
+JP,Japan,Japón,768-0002,Takayacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1501,133.6606,,takayacho
+JP,Japan,Japón,768-0011,Shutsusakucho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1174,133.676,,shutsusakucho
+JP,Japan,Japón,768-0012,Uedacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1242,133.6767,,uedacho
+JP,Japan,Japón,768-0013,Muragurocho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1316,133.6715,,muragurocho
+JP,Japan,Japón,768-0014,Nagareokacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1351,133.6768,,nagareokacho
+JP,Japan,Japón,768-0021,Yoshiokacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1307,133.6889,,yoshiokacho
+JP,Japan,Japón,768-0022,Motodaicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1315,133.7013,,motodaicho
+JP,Japan,Japón,768-0023,Furukawacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1268,133.6953,,furukawacho
+JP,Japan,Japón,768-0024,Nakadaicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1235,133.7074,,nakadaicho
+JP,Japan,Japón,768-0031,Ikenoshiricho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1139,133.6897,,ikenoshiricho
+JP,Japan,Japón,768-0032,Haracho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1111,133.7071,,haracho
+JP,Japan,Japón,768-0033,Shindencho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1092,133.6999,,shindencho
+JP,Japan,Japón,768-0040,Kunitacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1049,133.6548,,kunitacho
+JP,Japan,Japón,768-0051,Kinogocho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1037,133.6814,,kinogocho
+JP,Japan,Japón,768-0052,Awaicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0755,133.7228,,awaicho
+JP,Japan,Japón,768-0060,Kanonjicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1284,133.6499,,kanonjicho
+JP,Japan,Japón,768-0061,Yahatacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1356,133.6503,,yahatacho
+JP,Japan,Japón,768-0062,Ariakecho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1319,133.643,,ariakecho
+JP,Japan,Japón,768-0063,Sambommatsucho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1205,133.6433,,sambommatsucho
+JP,Japan,Japón,768-0064,Kotonamicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1239,133.6401,,kotonamicho
+JP,Japan,Japón,768-0065,Setocho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1198,133.6369,,setocho
+JP,Japan,Japón,768-0066,Showacho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1215,133.6544,,showacho
+JP,Japan,Japón,768-0067,Sakamotocho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1255,133.6622,,sakamotocho
+JP,Japan,Japón,768-0068,Tenjincho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1299,133.6582,,tenjincho
+JP,Japan,Japón,768-0069,Shigekicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1322,133.6624,,shigekicho
+JP,Japan,Japón,768-0070,Minamimachi,Kagawa Ken,17,Kanonji Shi,1860119,,,34.121,133.6476,,minamimachi
+JP,Japan,Japón,768-0071,Ibukicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1305,133.5354,,ibukicho
+JP,Japan,Japón,768-0072,Sakaemachi,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1243,133.654,,sakaemachi
+JP,Japan,Japón,768-0073,Shigenishicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1227,133.6508,,shigenishicho
+JP,Japan,Japón,768-0074,Saiwaicho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1314,133.655,,saiwaicho
+JP,Japan,Japón,768-0075,Nishihommachi,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1227,133.6508,,nishihommachi
+JP,Japan,Japón,768-0076,Minatomachi,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1227,133.6508,,minatomachi
+JP,Japan,Japón,768-0077,Nagisecho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.1227,133.6508,,nagisecho
+JP,Japan,Japón,768-8601,Sakamotocho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,sakamotocho
+JP,Japan,Japón,768-8602,Hachimancho,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,hachimancho
+JP,Japan,Japón,769-1601,Toyohamacho Himehama,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,toyohamacho-himehama
+JP,Japan,Japón,769-1602,Toyohamacho Wadahama,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,toyohamacho-wadahama
+JP,Japan,Japón,769-1603,Toyohamacho Wada,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,toyohamacho-wada
+JP,Japan,Japón,769-1604,Toyohamacho Minora,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,toyohamacho-minora
+JP,Japan,Japón,769-1611,Onoharacho Onohara,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-onohara
+JP,Japan,Japón,769-1612,Onoharacho Nakahime,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-nakahime
+JP,Japan,Japón,769-1613,Onoharacho Hanaina,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-hanaina
+JP,Japan,Japón,769-1614,Onoharacho Hagiwara,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-hagiwara
+JP,Japan,Japón,769-1615,Onoharacho Marui,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-marui
+JP,Japan,Japón,769-1616,Onoharacho Fukudahara,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-fukudahara
+JP,Japan,Japón,769-1617,Onoharacho Aoka,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-aoka
+JP,Japan,Japón,769-1621,Onoharacho Iseki,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-iseki
+JP,Japan,Japón,769-1622,Onoharacho Uchinono,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-uchinono
+JP,Japan,Japón,769-1623,Onoharacho Tanono,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-tanono
+JP,Japan,Japón,769-1624,Onoharacho Ariki,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-ariki
+JP,Japan,Japón,769-1625,Onoharacho Ebisukui,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,onoharacho-ebisukui
+JP,Japan,Japón,769-1695,三豊総合病院,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,
+JP,Japan,Japón,769-1696,第一衛材　株式会社,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,
+JP,Japan,Japón,769-1698,森孵卵場　株式会社,Kagawa Ken,17,Kanonji Shi,1860119,,,34.0846,133.6745,,
+JP,Japan,Japón,761-3110,Naoshimachoichien,Kagawa Ken,17,"Kagawa Gun ",1860835," Naoshima Cho",37364,34.468,133.9868,,naoshimachoichien
+JP,Japan,Japón,769-2511,Koiso,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2668,134.3152,,koiso
+JP,Japan,Japón,769-2512,Ochiai,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2504,134.315,,ochiai
+JP,Japan,Japón,769-2513,Otani,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2603,134.31,,otani
+JP,Japan,Japón,769-2514,Matsusaki,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2457,134.3068,,matsusaki
+JP,Japan,Japón,769-2515,Machida,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2519,134.3011,,machida
+JP,Japan,Japón,769-2516,Doi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2583,134.2986,,doi
+JP,Japan,Japón,769-2517,Midono,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2449,134.2905,,midono
+JP,Japan,Japón,769-2518,Nakayama,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2541,134.2845,,nakayama
+JP,Japan,Japón,769-2519,Kozare,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2607,134.2881,,kozare
+JP,Japan,Japón,769-2520,Umashino,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.271,134.2968,,umashino
+JP,Japan,Japón,769-2521,Ochi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2456,134.3113,,ochi
+JP,Japan,Japón,769-2601,Sambommatsu,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2504,134.3381,,sambommatsu
+JP,Japan,Japón,769-2602,Kawahigashi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.236,134.3292,,kawahigashi
+JP,Japan,Japón,769-2603,Yokochi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2564,134.3283,,yokochi
+JP,Japan,Japón,769-2604,Nishimura,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2518,134.3199,,nishimura
+JP,Japan,Japón,769-2605,Nakasuji,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2449,134.3253,,nakasuji
+JP,Japan,Japón,769-2606,Mizushi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.227,134.2993,,mizushi
+JP,Japan,Japón,769-2692,Sambommatsu,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2444,134.3234,,sambommatsu
+JP,Japan,Japón,769-2693,Yokochi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2444,134.3234,,yokochi
+JP,Japan,Japón,769-2695,Sambommatsu,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2444,134.3234,,sambommatsu
+JP,Japan,Japón,769-2696,Sambommatsu,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2444,134.3234,,sambommatsu
+JP,Japan,Japón,769-2700,Higashikagawa Shi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2394,134.3644,,higashikagawa-shi
+JP,Japan,Japón,769-2701,Minato,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2467,134.3509,,minato
+JP,Japan,Japón,769-2702,Matsubara,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.25,134.3805,,matsubara
+JP,Japan,Japón,769-2703,Iza,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2366,134.3795,,iza
+JP,Japan,Japón,769-2704,Kirai,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2346,134.365,,kirai
+JP,Japan,Japón,769-2705,Shirotori,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2293,134.3463,,shirotori
+JP,Japan,Japón,769-2711,Higashiyama,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2023,134.35,,higashiyama
+JP,Japan,Japón,769-2712,Nishiyama,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.1985,134.3366,,nishiyama
+JP,Japan,Japón,769-2713,Yodayama,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2001,134.3214,,yodayama
+JP,Japan,Japón,769-2714,Nyunoyama,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.1922,134.2845,,nyunoyama
+JP,Japan,Japón,769-2715,Gomyo,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.1982,134.2388,,gomyo
+JP,Japan,Japón,769-2788,Matsubara,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2207,134.338,,matsubara
+JP,Japan,Japón,769-2792,Minato,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2207,134.338,,minato
+JP,Japan,Japón,769-2793,Nishiyama,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2207,134.338,,nishiyama
+JP,Japan,Japón,769-2794,Minato,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2207,134.338,,minato
+JP,Japan,Japón,769-2795,Matsubara,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2207,134.338,,matsubara
+JP,Japan,Japón,769-2796,Matsubara,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2207,134.338,,matsubara
+JP,Japan,Japón,769-2797,Nishiyama,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2207,134.338,,nishiyama
+JP,Japan,Japón,769-2901,Hiketa,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2256,134.3952,,hiketa
+JP,Japan,Japón,769-2902,Umayado,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.217,134.4135,,umayado
+JP,Japan,Japón,769-2903,Minamino,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2039,134.4197,,minamino
+JP,Japan,Japón,769-2904,Sakamoto,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.1992,134.4319,,sakamoto
+JP,Japan,Japón,769-2905,Kureha,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2027,134.4091,,kureha
+JP,Japan,Japón,769-2906,Kawamata,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.1789,134.3998,,kawamata
+JP,Japan,Japón,769-2907,Yoshida,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2092,134.3995,,yoshida
+JP,Japan,Japón,769-2908,Omi,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2095,134.3713,,omi
+JP,Japan,Japón,769-2992,Hikida,Kagawa Ken,17,Higashikagawa Shi,7391347,,,34.2057,134.405,,hikida
+JP,Japan,Japón,761-2101,Hatada,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2553,133.979,4,hatada
+JP,Japan,Japón,761-2102,Sembiki,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2275,133.9885,,sembiki
+JP,Japan,Japón,761-2103,Sue,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2572,133.9495,4,sue
+JP,Japan,Japón,761-2201,Sogishohigashi,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.1746,134.0054,,sogishohigashi
+JP,Japan,Japón,761-2202,Sogishonishi,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.1878,133.9854,4,sogishonishi
+JP,Japan,Japón,761-2203,Yamadakami,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2187,133.9723,,yamadakami
+JP,Japan,Japón,761-2204,Yamadashimo,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2285,133.9504,,yamadashimo
+JP,Japan,Japón,761-2205,Higashibun,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2029,133.9668,,higashibun
+JP,Japan,Japón,761-2206,Nishibun,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.1876,133.9471,,nishibun
+JP,Japan,Japón,761-2207,Hayukakami,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2151,133.9206,,hayukakami
+JP,Japan,Japón,761-2208,Ushikawa,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2187,133.9376,,ushikawa
+JP,Japan,Japón,761-2300,Ayagawa Cho,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2419,133.9178,,ayagawa-cho
+JP,Japan,Japón,761-2304,Kayahara,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2485,133.9341,,kayahara
+JP,Japan,Japón,761-2305,Takinomiya,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2523,133.9179,4,takinomiya
+JP,Japan,Japón,761-2306,Kita,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2357,133.9275,,kita
+JP,Japan,Japón,761-2307,Ono,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2475,133.9033,,ono
+JP,Japan,Japón,761-2308,Hayukashimo,Kagawa Ken,17,"Ayauta Gun ",7391348," Ayagawa Cho",37387,34.2252,133.9062,,hayukashimo
+JP,Japan,Japón,761-2392,Takimiya,Kagawa Ken,17,"Ayauta Gun ",7391348,Ayagawa Chō,37387,34.2419,133.9178,,takimiya
+JP,Japan,Japón,761-2393,Takimiya,Kagawa Ken,17,"Ayauta Gun ",7391348,Ayagawa Chō,37387,34.2419,133.9178,,takimiya
+JP,Japan,Japón,761-2395,Kita,Kagawa Ken,17,"Ayauta Gun ",7391348,Ayagawa Chō,37387,34.2419,133.9178,,kita
+JP,Japan,Japón,761-2396,Takimiya,Kagawa Ken,17,"Ayauta Gun ",7391348,Ayagawa Chō,37387,34.2419,133.9178,,takimiya
+JP,Japan,Japón,769-0200,Utazu Cho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,utazu-cho
+JP,Japan,Japón,769-0201,Hama1-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3125,133.8093,,hama1-bancho
+JP,Japan,Japón,769-0202,Hama2-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3075,133.809,,hama2-bancho
+JP,Japan,Japón,769-0203,Hama3-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3145,133.8157,,hama3-bancho
+JP,Japan,Japón,769-0204,Hama4-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3119,133.816,,hama4-bancho
+JP,Japan,Japón,769-0205,Hama5-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3056,133.8117,,hama5-bancho
+JP,Japan,Japón,769-0206,Hama6-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3048,133.8151,,hama6-bancho
+JP,Japan,Japón,769-0207,Hama7-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3112,133.8185,,hama7-bancho
+JP,Japan,Japón,769-0208,Hama8-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3098,133.8205,,hama8-bancho
+JP,Japan,Japón,769-0209,Hama9-Bancho,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3129,133.8229,,hama9-bancho
+JP,Japan,Japón,769-0210,Utazuchonotsuginibanchigakurubaai,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,utazuchonotsuginibanchigakurubaai
+JP,Japan,Japón,769-0211,Jurakuji,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,jurakuji
+JP,Japan,Japón,769-0212,Numanoike,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,numanoike
+JP,Japan,Japón,769-0213,Higashibun,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,higashibun
+JP,Japan,Japón,769-0221,Yoshida,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,yoshida
+JP,Japan,Japón,769-0222,Ohashi,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,ohashi
+JP,Japan,Japón,769-0223,Shingai,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,shingai
+JP,Japan,Japón,769-0224,Hirayama,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,hirayama
+JP,Japan,Japón,769-0225,Shimmachi,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,shimmachi
+JP,Japan,Japón,769-0226,Sakashita,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,sakashita
+JP,Japan,Japón,769-0227,Iwaya,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,iwaya
+JP,Japan,Japón,769-0228,Mukauyama,Kagawa Ken,17,"Ayauta Gun ",7391348," Utazu Cho",37386,34.3101,133.8154,,mukauyama
+JP,Japan,Japón,769-0292,宇多津町役場,Kagawa Ken,17,"Ayauta Gun ",7391348,Utazu Chō,37386,34.3101,133.8154,,
+JP,Japan,Japón,769-0293,Yoshida,Kagawa Ken,17,"Ayauta Gun ",7391348,Utazu Chō,37386,34.3101,133.8154,,yoshida
+JP,Japan,Japón,769-0295,トラスコ中山　（株）　高松営業所,Kagawa Ken,17,"Ayauta Gun ",7391348,Utazu Chō,37386,34.3101,133.8154,,
+JP,Japan,Japón,769-0296,郷照寺,Kagawa Ken,17,"Ayauta Gun ",7391348,Utazu Chō,37386,34.3101,133.8154,,
+JP,Japan,Japón,761-0901,Okawamachi Tomidanishi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3129,134.1007,,okawamachi-tomidanishi
+JP,Japan,Japón,761-0902,Okawamachi Tomidanaka,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3129,134.1007,,okawamachi-tomidanaka
+JP,Japan,Japón,761-0903,Okawamachi Tomidahigashi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3129,134.1007,,okawamachi-tomidahigashi
+JP,Japan,Japón,761-0904,Okawamachi Tazura,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3129,134.1007,,okawamachi-tazura
+JP,Japan,Japón,761-0905,Okawamachi Minamigawa,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3129,134.1007,,okawamachi-minamigawa
+JP,Japan,Japón,761-8577,Kamonosho,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3173,134.0155,,kamonosho
+JP,Japan,Japón,769-2101,Shido,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3158,134.1786,,shido
+JP,Japan,Japón,769-2102,Kamosho,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3434,134.21,,kamosho
+JP,Japan,Japón,769-2103,Oda,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3464,134.2508,,oda
+JP,Japan,Japón,769-2104,Kabe,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3113,134.2219,,kabe
+JP,Japan,Japón,769-2105,Sue,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3052,134.1947,,sue
+JP,Japan,Japón,769-2192,Shido,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3244,134.2112,,shido
+JP,Japan,Japón,769-2193,Shido,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3244,134.2112,,shido
+JP,Japan,Japón,769-2195,Shido,Kagawa Ken,17,Sanuki Shi,9036694,,,34.3244,134.2112,,shido
+JP,Japan,Japón,769-2300,Sanuki Shi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2419,134.1802,,sanuki-shi
+JP,Japan,Japón,769-2301,Nagaohigashi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2526,134.1884,,nagaohigashi
+JP,Japan,Japón,769-2302,Nagaonishi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2592,134.1723,,nagaonishi
+JP,Japan,Japón,769-2303,Nagaomyo,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2451,134.1822,,nagaomyo
+JP,Japan,Japón,769-2304,Showa,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2911,134.1626,,showa
+JP,Japan,Japón,769-2305,Maeyama,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2179,134.1872,,maeyama
+JP,Japan,Japón,769-2306,Tawa,Kagawa Ken,17,Sanuki Shi,9036694,,,34.1855,134.1887,,tawa
+JP,Japan,Japón,769-2311,Zotamiyanishi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2917,134.1752,,zotamiyanishi
+JP,Japan,Japón,769-2312,Zotakorehiro,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2868,134.1849,,zotakorehiro
+JP,Japan,Japón,769-2313,Zotanomada,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2776,134.1906,,zotanomada
+JP,Japan,Japón,769-2314,Zotaotoi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2884,134.1969,,zotaotoi
+JP,Japan,Japón,769-2315,Zota(Orenjitaun),Kagawa Ken,17,Sanuki Shi,9036694,,,34.2861,134.1869,,zota-orenjitaun
+JP,Japan,Japón,769-2321,Sangawamachi Ishidahigashi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2603,134.183,,sangawamachi-ishidahigashi
+JP,Japan,Japón,769-2322,Sangawamachi Ishidanishi,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2603,134.183,,sangawamachi-ishidanishi
+JP,Japan,Japón,769-2323,Sangawamachi Kanzaki,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2603,134.183,,sangawamachi-kanzaki
+JP,Japan,Japón,769-2395,さぬき市役所　（寒川庁舎）,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2603,134.183,,
+JP,Japan,Japón,769-2396,さぬき市教育委員会,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2603,134.183,,
+JP,Japan,Japón,769-2401,Tsudamachi Tsuda,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2479,134.2888,,tsudamachi-tsuda
+JP,Japan,Japón,769-2402,Tsudamachi Tsuruwa,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2479,134.2888,,tsudamachi-tsuruwa
+JP,Japan,Japón,769-2492,さぬき市　（津田出張所）,Kagawa Ken,17,Sanuki Shi,9036694,,,34.2479,134.2888,,

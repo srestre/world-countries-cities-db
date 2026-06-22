@@ -1,0 +1,910 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+PE,Peru,Perú,25000,Chancay,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.2917,-74.4832,4,chancay
+PE,Peru,Perú,25000,San Marcos,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.0907,-74.6274,4,san-marcos
+PE,Peru,Perú,25000,Alva Castro,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4019,-74.412,3,alva-castro
+PE,Peru,Perú,25000,Palestina,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2647,-74.5672,3,palestina
+PE,Peru,Perú,25000,Bellavista,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2913,-74.5483,3,bellavista
+PE,Peru,Perú,25000,Milagros,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.6932,-74.4069,4,milagros
+PE,Peru,Perú,25000,Los Angeles,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.7004,-74.3313,3,los-angeles
+PE,Peru,Perú,25000,Amaquella,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.308,-74.686,3,amaquella
+PE,Peru,Perú,25000,Antiguo San Antonio,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1714,-74.6225,3,antiguo-san-antonio
+PE,Peru,Perú,25000,Dos de Mayo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.6726,-74.0575,3,dos-de-mayo
+PE,Peru,Perú,25000,Limongena,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.5156,-74.4039,3,limongena
+PE,Peru,Perú,25000,Luz Linda,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4805,-74.4265,3,luz-linda
+PE,Peru,Perú,25000,Nuevo Ucayali,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3807,-74.5003,3,nuevo-ucayali
+PE,Peru,Perú,25000,Nuevo Utuquinia,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.222,-74.3344,3,nuevo-utuquinia
+PE,Peru,Perú,25000,Padre Bernardo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2818,-74.6275,3,padre-bernardo
+PE,Peru,Perú,25000,Palma Real,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.283,-74.4664,3,palma-real
+PE,Peru,Perú,25000,Pijuayal,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1809,-74.3765,3,pijuayal
+PE,Peru,Perú,25000,Santa Clotilde,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.277,-74.5152,3,santa-clotilde
+PE,Peru,Perú,25000,Santa Isabel de Bahuanisho,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.5072,-74.3588,3,santa-isabel-de-bahuanisho
+PE,Peru,Perú,25000,Santa Isabel de Cashibo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3739,-74.6463,3,santa-isabel-de-cashibo
+PE,Peru,Perú,25000,Santa Luz Rio Abujao,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4187,-74.0328,3,santa-luz-rio-abujao
+PE,Peru,Perú,25000,Santa Martha,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3573,-74.5006,3,santa-martha
+PE,Peru,Perú,25000,Santa Rosa de Abujao,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4068,-73.9555,3,santa-rosa-de-abujao
+PE,Peru,Perú,25000,Santa Rosa de Capsinay,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3862,-74.3192,3,santa-rosa-de-capsinay
+PE,Peru,Perú,25000,Santa Rosa de Pucaya,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.8728,-74.307,3,santa-rosa-de-pucaya
+PE,Peru,Perú,25000,Santa Rosita,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4513,-74.1201,3,santa-rosita
+PE,Peru,Perú,25000,Libertad,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4056,-74.3418,4,libertad
+PE,Peru,Perú,25000,Panaillo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.0589,-74.6403,4,panaillo
+PE,Peru,Perú,25000,Abujao,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1833,-73.7667,4,abujao
+PE,Peru,Perú,25000,Sargento Lores,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.425,-73.97,4,sargento-lores
+PE,Peru,Perú,25000,Huacamayo,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.7777,-74.363,4,huacamayo
+PE,Peru,Perú,25000,Pueblo Nuevo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3056,-74.5488,3,pueblo-nuevo
+PE,Peru,Perú,25000,Ega,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4428,-74.4822,3,ega
+PE,Peru,Perú,25000,Chachibai,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.9895,-74.3611,3,chachibai
+PE,Peru,Perú,25000,Jordan,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.9532,-74.1997,3,jordan
+PE,Peru,Perú,25000,Nuevo Saposoa,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.0011,-74.6333,4,nuevo-saposoa
+PE,Peru,Perú,25000,Esperanza,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.8061,-74.328,3,esperanza
+PE,Peru,Perú,25000,Alfonso Ugarte,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.7004,-74.3313,3,alfonso-ugarte
+PE,Peru,Perú,25000,Santa Clara,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.6726,-74.0575,3,santa-clara
+PE,Peru,Perú,25000,Nueva Union,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.6726,-74.0575,4,nueva-union
+PE,Peru,Perú,25000,Jorge Basadre,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4566,-74.5109,3,jorge-basadre
+PE,Peru,Perú,25000,Jose Olaya,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.7004,-74.3313,3,jose-olaya
+PE,Peru,Perú,25000,Juan Luis Echegaray,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.1858,-74.7009,3,juan-luis-echegaray
+PE,Peru,Perú,25000,Tiwinza,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.287,-74.7127,3,tiwinza
+PE,Peru,Perú,25000,Nueva Juventud,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.7004,-74.3313,3,nueva-juventud
+PE,Peru,Perú,25000,Primavera,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.7004,-74.3313,3,primavera
+PE,Peru,Perú,25000,Ricardo Palma,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.7004,-74.3313,3,ricardo-palma
+PE,Peru,Perú,25000,Santa Elena,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.7004,-74.3313,3,santa-elena
+PE,Peru,Perú,25000,Nuevo San Antonio,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1629,-74.6052,4,nuevo-san-antonio
+PE,Peru,Perú,25000,7 de Junio,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.7004,-74.3313,3,7-de-junio
+PE,Peru,Perú,25000,Santa Lucia,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1847,-74.5448,3,santa-lucia
+PE,Peru,Perú,25000,24 de Setiembre,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4226,-73.9324,3,24-de-setiembre
+PE,Peru,Perú,25000,Veintiocho,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4084,-73.8622,4,veintiocho
+PE,Peru,Perú,25000,Nuevo San Juan,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.7004,-74.3313,3,nuevo-san-juan
+PE,Peru,Perú,25000,Nuevo Oriente de Chamajao,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.5152,-74.4393,3,nuevo-oriente-de-chamajao
+PE,Peru,Perú,25000,Nuevo Bagazan,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.5314,-74.3824,4,nuevo-bagazan
+PE,Peru,Perú,25000,Pucallpillo,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4449,-74.5015,4,pucallpillo
+PE,Peru,Perú,25000,Flor de Ucayali,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.2438,-74.315,3,flor-de-ucayali
+PE,Peru,Perú,25000,San Martin,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.3994,-74.569,4,san-martin
+PE,Peru,Perú,25000,Nueva Magdalena,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.7616,-74.3934,3,nueva-magdalena
+PE,Peru,Perú,25000,Mision Suiza,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.39,-74.6686,3,mision-suiza
+PE,Peru,Perú,25000,Padre Bernardo Mercier,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2521,-74.6506,3,padre-bernardo-mercier
+PE,Peru,Perú,25000,Juan Velasco,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4686,-74.4303,3,juan-velasco
+PE,Peru,Perú,25000,Exito,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4154,-74.4218,4,exito
+PE,Peru,Perú,25000,Nuevo Santa Rosa de Capsinay,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4248,-74.369,3,nuevo-santa-rosa-de-capsinay
+PE,Peru,Perú,25000,Tercera Union,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.5104,-74.398,4,tercera-union
+PE,Peru,Perú,25000,Flor Naciente,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.0772,-74.5945,4,flor-naciente
+PE,Peru,Perú,25000,Cashibo Cocha,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.335,-74.6363,3,cashibo-cocha
+PE,Peru,Perú,25000,Sargento Lores Rio Abujao,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3429,-73.7821,3,sargento-lores-rio-abujao
+PE,Peru,Perú,25000,Shanabaquia,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.2468,-74.3971,3,shanabaquia
+PE,Peru,Perú,25000,Independencia,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4627,-74.432,3,independencia
+PE,Peru,Perú,25000,Miraflores,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4467,-74.3871,3,miraflores
+PE,Peru,Perú,25000,La Restinga,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3288,-74.5611,3,la-restinga
+PE,Peru,Perú,25000,Las Brisas,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4445,-74.5574,3,las-brisas
+PE,Peru,Perú,25000,Isla Progreso,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3276,-74.4975,3,isla-progreso
+PE,Peru,Perú,25000,Jose Carlos Mariategui,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4541,-74.1058,3,jose-carlos-mariategui
+PE,Peru,Perú,25000,Juan Valer,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.2495,-74.3589,3,juan-valer
+PE,Peru,Perú,25000,Lacre,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3273,-74.6451,3,lacre
+PE,Peru,Perú,25000,Las Americas,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3244,-74.6914,3,las-americas
+PE,Peru,Perú,25000,Las Mercedes,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4259,-74.1318,3,las-mercedes
+PE,Peru,Perú,25000,Leoncio Prado,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3072,-74.5963,3,leoncio-prado
+PE,Peru,Perú,25000,Luz y Paz,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4508,-74.5127,3,luz-y-paz
+PE,Peru,Perú,25000,Mariscal Sucre,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3174,-74.5722,3,mariscal-sucre
+PE,Peru,Perú,25000,Mazaray,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4256,-74.2368,3,mazaray
+PE,Peru,Perú,25000,Miguel Grau,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4414,-74.4656,3,miguel-grau
+PE,Peru,Perú,25000,Mi Peru,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3642,-74.5124,3,mi-peru
+PE,Peru,Perú,25000,Mision Sam,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3566,-74.66,3,mision-sam
+PE,Peru,Perú,25000,Nueva Alejandria,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2105,-74.6155,3,nueva-alejandria
+PE,Peru,Perú,25000,Nueva Alianza,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4447,-74.3608,3,nueva-alianza
+PE,Peru,Perú,25000,Nueva Barranca,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.5236,-74.3918,3,nueva-barranca
+PE,Peru,Perú,25000,Nueva Belgica,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2608,-74.5366,3,nueva-belgica
+PE,Peru,Perú,25000,Nueva Betania,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4056,-74.2625,3,nueva-betania
+PE,Peru,Perú,25000,Nueva Esperanza de Panaillo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2365,-74.6892,3,nueva-esperanza-de-panaillo
+PE,Peru,Perú,25000,Nueva Luz de Fatima,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3246,-74.5718,3,nueva-luz-de-fatima
+PE,Peru,Perú,25000,Nueva Palestina,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4175,-74.2522,3,nueva-palestina
+PE,Peru,Perú,25000,Nuevo Destino,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2493,-74.6434,3,nuevo-destino
+PE,Peru,Perú,25000,Nuevo Horizonte de Mohena,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4658,-74.3103,3,nuevo-horizonte-de-mohena
+PE,Peru,Perú,25000,Nuevo Jerusalen,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.205,-74.5194,3,nuevo-jerusalen
+PE,Peru,Perú,25000,Nuevo Liberal,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1273,-74.5929,3,nuevo-liberal
+PE,Peru,Perú,25000,3 de Diciembre,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3675,-74.6342,3,3-de-diciembre
+PE,Peru,Perú,25000,4 de Julio,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3882,-74.4096,3,4-de-julio
+PE,Peru,Perú,25000,Abancay,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4098,-74.4299,3,abancay
+PE,Peru,Perú,25000,Accion Popular,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4259,-74.3475,3,accion-popular
+PE,Peru,Perú,25000,Agricola el Sol,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2085,-74.7108,3,agricola-el-sol
+PE,Peru,Perú,25000,Agua Negra,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4133,-74.0426,3,agua-negra
+PE,Peru,Perú,25000,Bello Horizonte Rio Abujao,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3645,-73.8047,3,bello-horizonte-rio-abujao
+PE,Peru,Perú,25000,Betel,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.443,-74.2615,3,betel
+PE,Peru,Perú,25000,Cabo Pantoja,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1261,-74.5148,3,cabo-pantoja
+PE,Peru,Perú,25000,Calleria,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.0724,-74.5577,3,calleria
+PE,Peru,Perú,25000,Carmencita,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4852,-74.3617,3,carmencita
+PE,Peru,Perú,25000,El Mangual,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3276,-74.5338,3,el-mangual
+PE,Peru,Perú,25000,Faienap,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.4015,-74.6664,3,faienap
+PE,Peru,Perú,25000,Gilgal,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.0739,-74.2143,3,gilgal
+PE,Peru,Perú,25000,Hipolito Unanue,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.4111,-74.6613,3,hipolito-unanue
+PE,Peru,Perú,25000,Nueva Vida,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4365,-74.1357,4,nueva-vida
+PE,Peru,Perú,25000,Tahuantinsuyo,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3912,-74.4843,3,tahuantinsuyo
+PE,Peru,Perú,25000,San Juan,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2485,-74.6567,4,san-juan
+PE,Peru,Perú,25000,San Lorenzo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2485,-74.6567,4,san-lorenzo
+PE,Peru,Perú,25000,Yanamayo,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3455,-74.5294,3,yanamayo
+PE,Peru,Perú,25000,Zona Agricola,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4486,-74.5544,3,zona-agricola
+PE,Peru,Perú,25000,Nuevo Mexico,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4455,-74.1315,3,nuevo-mexico
+PE,Peru,Perú,25000,Santa Sofia,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.1661,-74.2637,3,santa-sofia
+PE,Peru,Perú,25000,Puerto Rico,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.1882,-74.6713,3,puerto-rico
+PE,Peru,Perú,25000,San Salvador,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3234,-74.6249,3,san-salvador
+PE,Peru,Perú,25000,Nuevo Paraiso de Mashangay,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3758,-74.3928,3,nuevo-paraiso-de-mashangay
+PE,Peru,Perú,25000,Nuevo San Martin,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.2157,-74.5475,3,nuevo-san-martin
+PE,Peru,Perú,25000,Nuevo Santa Isabel,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3281,-74.4749,3,nuevo-santa-isabel
+PE,Peru,Perú,25000,Patria Nueva de Calleria,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.0883,-74.5366,3,patria-nueva-de-calleria
+PE,Peru,Perú,25000,Perlas del Manantay,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4735,-74.4414,3,perlas-del-manantay
+PE,Peru,Perú,25000,Pilar Nores,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3702,-74.4579,3,pilar-nores
+PE,Peru,Perú,25000,Pomayo,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.8802,-74.3435,3,pomayo
+PE,Peru,Perú,25000,Porvenir de Yarinacocha,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2883,-74.5592,3,porvenir-de-yarinacocha
+PE,Peru,Perú,25000,Puerto Aguila,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2054,-74.6101,3,puerto-aguila
+PE,Peru,Perú,25000,Puerto Caridad,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.0057,-74.6828,3,puerto-caridad
+PE,Peru,Perú,25000,Puerto Firmeza,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2551,-74.6594,3,puerto-firmeza
+PE,Peru,Perú,25000,Tres Unidos,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3027,-74.4961,4,tres-unidos
+PE,Peru,Perú,25000,Señor de los Milagros,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2008,-74.6624,4,senor-de-los-milagros
+PE,Peru,Perú,25000,Pueblo Libre,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.2803,-74.6131,4,pueblo-libre
+PE,Peru,Perú,25000,Villa Esther,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4198,-74.2646,3,villa-esther
+PE,Peru,Perú,25000,Saasa,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.8119,-74.074,3,saasa
+PE,Peru,Perú,25000,Sagrado Corazon de Jesus,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4538,-74.4999,3,sagrado-corazon-de-jesus
+PE,Peru,Perú,25000,San Francisco de Asis,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.2995,-74.4728,3,san-francisco-de-asis
+PE,Peru,Perú,25000,Villa Primavera,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3764,-74.6414,3,villa-primavera
+PE,Peru,Perú,25000,San Martin Rio Abujao,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4349,-74.0563,3,san-martin-rio-abujao
+PE,Peru,Perú,25000,San Miguel de Calleria,Ucayali,25,Coronel Portillo,2501,Callería,250101,-7.9284,-74.3295,3,san-miguel-de-calleria
+PE,Peru,Perú,25000,Nueva Fortuna,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.4947,-74.4092,3,nueva-fortuna
+PE,Peru,Perú,25000,San Miguel de Huitococha,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.1526,-74.7152,3,san-miguel-de-huitococha
+PE,Peru,Perú,25000,San Pedro de Bello Horizonte,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.116,-74.6343,3,san-pedro-de-bello-horizonte
+PE,Peru,Perú,25000,Santa Carmela de Mashangay,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3636,-74.3779,3,santa-carmela-de-mashangay
+PE,Peru,Perú,25000,Santa Teresa de Shinuya,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3788,-74.3832,3,santa-teresa-de-shinuya
+PE,Peru,Perú,25000,Santa Teresita de Cashibo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3555,-74.67,3,santa-teresita-de-cashibo
+PE,Peru,Perú,25000,Santo Domingo de Mashangay,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3844,-74.4115,3,santo-domingo-de-mashangay
+PE,Peru,Perú,25000,Vista Alegre,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3386,-74.4841,4,vista-alegre
+PE,Peru,Perú,25000,Santa Rosa,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3063,-74.6193,4,santa-rosa
+PE,Peru,Perú,25000,Tacshitea,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.0379,-74.649,3,tacshitea
+PE,Peru,Perú,25000,Soledad,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4754,-74.6118,3,soledad
+PE,Peru,Perú,25000,Tupac Amaru,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.5428,-74.6523,3,tupac-amaru
+PE,Peru,Perú,25000,Union Zapotillo,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.1995,-74.7394,3,union-zapotillo
+PE,Peru,Perú,25000,Ramal,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.2392,-74.3588,3,ramal
+PE,Peru,Perú,25001,Pucallpa,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3791,-74.5539,4,pucallpa
+PE,Peru,Perú,25001,San Fernando,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4028,-74.5612,3,san-fernando
+PE,Peru,Perú,25002,San Fernando,Ucayali,25,Coronel Portillo,2501,Manantay,250107,-8.4028,-74.5612,3,san-fernando
+PE,Peru,Perú,25002,Pucallpa,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3791,-74.5539,4,pucallpa
+PE,Peru,Perú,25003,Pucallpa,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3791,-74.5539,4,pucallpa
+PE,Peru,Perú,25003,Puerto Callao,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3581,-74.5736,4,puerto-callao
+PE,Peru,Perú,25004,Pucallpa,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3791,-74.5539,4,pucallpa
+PE,Peru,Perú,25004,Puerto Callao,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3581,-74.5736,4,puerto-callao
+PE,Peru,Perú,25004,Once de Agosto,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3391,-74.5881,3,once-de-agosto
+PE,Peru,Perú,25004,San Jose,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3372,-74.5996,3,san-jose
+PE,Peru,Perú,25006,Pucallpa,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3791,-74.5539,4,pucallpa
+PE,Peru,Perú,25006,Puerto Callao,Ucayali,25,Coronel Portillo,2501,Yarinacocha,250105,-8.3581,-74.5736,4,puerto-callao
+PE,Peru,Perú,25006,Saracocha,Ucayali,25,Coronel Portillo,2501,Callería,250101,-8.3617,-74.5434,3,saracocha
+PE,Peru,Perú,25100,Nueva Luz (Providencia),Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.647,-74.3795,3,nueva-luz-providencia
+PE,Peru,Perú,25100,San Jorge de Inumapuya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.3707,-73.6041,3,san-jorge-de-inumapuya
+PE,Peru,Perú,25100,San Miguel de Chambira,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.9203,-73.7196,3,san-miguel-de-chambira
+PE,Peru,Perú,25100,San Pedro de Inumapuya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4529,-73.6359,3,san-pedro-de-inumapuya
+PE,Peru,Perú,25100,Santa Fe de Inumapuya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5473,-73.9342,3,santa-fe-de-inumapuya
+PE,Peru,Perú,25100,Santa Rosa de Chauya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8892,-73.8127,3,santa-rosa-de-chauya
+PE,Peru,Perú,25100,Santa Rosa de Masisea,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5695,-74.3758,3,santa-rosa-de-masisea
+PE,Peru,Perú,25100,Santa Rosita del Abujao,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5227,-74.2023,3,santa-rosita-del-abujao
+PE,Peru,Perú,25100,Sol Naciente,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6316,-74.3139,3,sol-naciente
+PE,Peru,Perú,25100,Tipishca (Aguas Negras),Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4777,-74.2253,3,tipishca-aguas-negras
+PE,Peru,Perú,25100,Tushmo,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6394,-74.3818,3,tushmo
+PE,Peru,Perú,25100,Vargas Guerra,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4947,-74.2795,3,vargas-guerra
+PE,Peru,Perú,25100,Ysuria,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.0803,-73.639,3,ysuria
+PE,Peru,Perú,25100,Yucanillo,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.0712,-73.3477,3,yucanillo
+PE,Peru,Perú,25100,Cayanya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.0916,-73.0259,3,cayanya
+PE,Peru,Perú,25100,La Union,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4799,-73.6066,3,la-union
+PE,Peru,Perú,25100,Las Brisas,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6078,-74.2126,3,las-brisas
+PE,Peru,Perú,25100,Doce de Mayo,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.833,-74.1768,3,doce-de-mayo
+PE,Peru,Perú,25100,El Pacifico,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8362,-74.2469,3,el-pacifico
+PE,Peru,Perú,25100,Flor de Ucayali,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7954,-74.4978,3,flor-de-ucayali
+PE,Peru,Perú,25100,Isla Libertad,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5324,-74.2731,3,isla-libertad
+PE,Peru,Perú,25100,Isla Primavera,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4757,-74.2712,3,isla-primavera
+PE,Peru,Perú,25100,Jacaya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.0609,-73.412,3,jacaya
+PE,Peru,Perú,25100,Juventud,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6311,-74.4087,3,juventud
+PE,Peru,Perú,25100,Libertad de Ubuya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4914,-73.561,3,libertad-de-ubuya
+PE,Peru,Perú,25100,Monte Calvario,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5619,-74.3726,3,monte-calvario
+PE,Peru,Perú,25100,Monte de los Olivos,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5517,-74.3461,3,monte-de-los-olivos
+PE,Peru,Perú,25100,Nohaya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.0479,-73.6083,3,nohaya
+PE,Peru,Perú,25100,Nueva Amazonia de Tomajao,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.9162,-73.778,3,nueva-amazonia-de-tomajao
+PE,Peru,Perú,25100,Nueva California,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.1401,-73.5077,3,nueva-california
+PE,Peru,Perú,25100,Nueva Esperanza,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.899,-73.8981,3,nueva-esperanza
+PE,Peru,Perú,25100,Nueva Generacion,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8283,-74.3432,3,nueva-generacion
+PE,Peru,Perú,25100,Nuevo Jerusalen,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4956,-74.2923,3,nuevo-jerusalen
+PE,Peru,Perú,25100,Nuevo Paraiso,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6265,-74.4075,3,nuevo-paraiso
+PE,Peru,Perú,25100,Nuevo Porvenir,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.888,-74.0075,3,nuevo-porvenir
+PE,Peru,Perú,25100,Nuevo Progreso,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7561,-74.4658,3,nuevo-progreso
+PE,Peru,Perú,25100,Nuevo San Rafael,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6145,-74.2494,3,nuevo-san-rafael
+PE,Peru,Perú,25100,23 de Diciembre,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8429,-74.3171,3,23-de-diciembre
+PE,Peru,Perú,25100,Alto Putaya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.0335,-73.124,3,alto-putaya
+PE,Peru,Perú,25100,Belen de Juda,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5119,-74.2128,3,belen-de-juda
+PE,Peru,Perú,25100,Cametsari Quipatsi,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8953,-73.9637,3,cametsari-quipatsi
+PE,Peru,Perú,25100,Nueva Providencia,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.475,-74.237,3,nueva-providencia
+PE,Peru,Perú,25100,Nueva Yarina,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8726,-74.1423,3,nueva-yarina
+PE,Peru,Perú,25100,Nuevo Angamos,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5727,-74.311,3,nuevo-angamos
+PE,Peru,Perú,25100,Nuevo Ceylan,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.627,-74.2765,3,nuevo-ceylan
+PE,Peru,Perú,25100,Nuevo Egipto,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8319,-74.1886,3,nuevo-egipto
+PE,Peru,Perú,25100,Nuevo Horizonte,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-9.1331,-73.6506,3,nuevo-horizonte
+PE,Peru,Perú,25100,Villa el Pescador,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5867,-74.3058,3,villa-el-pescador
+PE,Peru,Perú,25100,Santa Marta,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7871,-74.478,3,santa-marta
+PE,Peru,Perú,25100,Palmeras,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6419,-74.415,3,palmeras
+PE,Peru,Perú,25100,Puerto Purin,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7687,-74.1937,3,puerto-purin
+PE,Peru,Perú,25100,Nueva Union,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6281,-74.3653,3,nueva-union
+PE,Peru,Perú,25100,Flor Naciente,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6995,-74.2205,4,flor-naciente
+PE,Peru,Perú,25100,Naranjal,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7541,-74.1569,4,naranjal
+PE,Peru,Perú,25100,Bella Flor,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8514,-74.2669,4,bella-flor
+PE,Peru,Perú,25100,Puerto Putaya,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.9785,-73.1829,4,puerto-putaya
+PE,Peru,Perú,25100,Charasmana,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6764,-74.2225,4,charasmana
+PE,Peru,Perú,25100,Vinoncuro,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8571,-74.0263,4,vinoncuro
+PE,Peru,Perú,25100,Buenos Aires,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8414,-74.3961,4,buenos-aires
+PE,Peru,Perú,25100,Union Vecinal,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8509,-74.213,4,union-vecinal
+PE,Peru,Perú,25100,Santa Rosa de Dinamarca,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.693,-74.414,4,santa-rosa-de-dinamarca
+PE,Peru,Perú,25100,Nuevo Loreto,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8762,-74.3534,4,nuevo-loreto
+PE,Peru,Perú,25100,Señor de los Milagros,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7903,-74.2094,4,senor-de-los-milagros
+PE,Peru,Perú,25100,Mario Vargas Llosa,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.546,-74.2741,3,mario-vargas-llosa
+PE,Peru,Perú,25100,Puerto Consuelo,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5062,-74.2736,4,puerto-consuelo
+PE,Peru,Perú,25100,Santa Maria,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5813,-74.3792,4,santa-maria
+PE,Peru,Perú,25100,Junin Pablo,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8512,-74.1996,4,junin-pablo
+PE,Peru,Perú,25100,Puerto Alegre,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7196,-74.1797,4,puerto-alegre
+PE,Peru,Perú,25100,Nuevo Ancash,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5704,-74.2487,4,nuevo-ancash
+PE,Peru,Perú,25100,Nuevo Paraiso (Mahia),Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8838,-73.831,3,nuevo-paraiso-mahia
+PE,Peru,Perú,25100,Pueblo Libre,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7144,-74.2522,4,pueblo-libre
+PE,Peru,Perú,25100,El Tambo,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.86,-74.1435,4,el-tambo
+PE,Peru,Perú,25100,Preferida,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6669,-74.2421,4,preferida
+PE,Peru,Perú,25100,San Miguel de Aguas Blancas,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.4858,-73.4767,3,san-miguel-de-aguas-blancas
+PE,Peru,Perú,25100,Caimito,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8581,-74.3139,4,caimito
+PE,Peru,Perú,25100,La Perla,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.8727,-74.3067,3,la-perla
+PE,Peru,Perú,25100,Santa Elena,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7083,-74.4337,4,santa-elena
+PE,Peru,Perú,25100,Vista Alegre del Pachitea,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.7679,-74.5189,3,vista-alegre-del-pachitea
+PE,Peru,Perú,25100,San Rafael,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6367,-74.2965,3,san-rafael
+PE,Peru,Perú,25100,Santa Clara,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.828,-74.292,3,santa-clara
+PE,Peru,Perú,25100,Santa Elisa,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.5738,-74.2385,3,santa-elisa
+PE,Peru,Perú,25101,Masisea,Ucayali,25,Coronel Portillo,2501,Masisea,250104,-8.6053,-74.3047,4,masisea
+PE,Peru,Perú,25230,26 de Noviembre,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3135,-74.4332,3,26-de-noviembre
+PE,Peru,Perú,25230,Santa Velita de Tabacoa,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2265,-74.4559,3,santa-velita-de-tabacoa
+PE,Peru,Perú,25230,Santa Cecilia,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.106,-74.6044,3,santa-cecilia
+PE,Peru,Perú,25230,Fatima,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.6808,-74.1528,3,fatima
+PE,Peru,Perú,25230,Vista Alegre,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2771,-74.4362,4,vista-alegre
+PE,Peru,Perú,25230,Galilea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.1368,-74.4555,3,galilea
+PE,Peru,Perú,25230,Valladolid,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.0417,-74.4957,3,valladolid
+PE,Peru,Perú,25230,Puerto Libre,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.1385,-74.4652,3,puerto-libre
+PE,Peru,Perú,25230,Puerto Nuevo,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3657,-74.4254,3,puerto-nuevo
+PE,Peru,Perú,25230,Roya,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2174,-74.4076,3,roya
+PE,Peru,Perú,25230,Nueva Vida,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.5952,-73.9276,4,nueva-vida
+PE,Peru,Perú,25230,Runuya,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.5644,-74.2009,3,runuya
+PE,Peru,Perú,25230,Señor de los Milagros,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-8.9054,-74.4881,4,senor-de-los-milagros
+PE,Peru,Perú,25230,Antiguo Ahuaypa,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.0458,-74.443,3,antiguo-ahuaypa
+PE,Peru,Perú,25230,Atahualpa de Tabacoa,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2454,-74.4541,3,atahualpa-de-tabacoa
+PE,Peru,Perú,25230,Puerto Margarita,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4345,-74.3744,3,puerto-margarita
+PE,Peru,Perú,25230,Ramon Castilla,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4246,-74.2177,4,ramon-castilla
+PE,Peru,Perú,25230,Dos de Mayo,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3863,-74.425,4,dos-de-mayo
+PE,Peru,Perú,25230,Nueva Union,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4233,-74.2546,4,nueva-union
+PE,Peru,Perú,25230,Curiaca de Caco,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3806,-74.2138,3,curiaca-de-caco
+PE,Peru,Perú,25230,Nuevo Ahuaypa,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.0754,-74.4671,3,nuevo-ahuaypa
+PE,Peru,Perú,25230,Utucuro,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2526,-74.3585,3,utucuro
+PE,Peru,Perú,25230,Sharara,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3546,-74.4262,3,sharara
+PE,Peru,Perú,25230,Santa Rosa de Sheshea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.5318,-73.8355,3,santa-rosa-de-sheshea
+PE,Peru,Perú,25230,Santa Rosa de Runuya,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.684,-74.2687,3,santa-rosa-de-runuya
+PE,Peru,Perú,25230,Santa Belita de Sheshea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.6383,-74.028,3,santa-belita-de-sheshea
+PE,Peru,Perú,25230,Nueva Esmeralda de los Andes,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3601,-74.386,3,nueva-esmeralda-de-los-andes
+PE,Peru,Perú,25230,San Luis de Tabacoa,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.1798,-74.4147,3,san-luis-de-tabacoa
+PE,Peru,Perú,25230,San Luis de Contamanillo,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4789,-74.1799,3,san-luis-de-contamanillo
+PE,Peru,Perú,25230,San Jose de Pacache,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.0142,-74.4736,3,san-jose-de-pacache
+PE,Peru,Perú,25230,Puerto Liberal,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-8.8393,-74.5356,3,puerto-liberal
+PE,Peru,Perú,25230,Puerto Esperanza de Sheshea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.5024,-73.782,3,puerto-esperanza-de-sheshea
+PE,Peru,Perú,25230,Nuevo Nazareth,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4077,-74.3519,3,nuevo-nazareth
+PE,Peru,Perú,25230,Nueva Alianza de Sheshea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.5744,-73.9177,3,nueva-alianza-de-sheshea
+PE,Peru,Perú,25230,Parantari Rio Sheshea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.699,-73.4585,3,parantari-rio-sheshea
+PE,Peru,Perú,25230,Nuevo Villasol,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2729,-74.3732,3,nuevo-villasol
+PE,Peru,Perú,25230,Nuevo Peru,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2888,-74.4351,3,nuevo-peru
+PE,Peru,Perú,25230,Colonia del Caco,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3498,-74.3063,3,colonia-del-caco
+PE,Peru,Perú,25230,Nuevo San Juan,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.5033,-74.2,3,nuevo-san-juan
+PE,Peru,Perú,25230,Puerto Belen,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2309,-74.3422,3,puerto-belen
+PE,Peru,Perú,25230,Nuevo Samaria,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.1508,-74.4524,3,nuevo-samaria
+PE,Peru,Perú,25230,Jerusalen,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2445,-74.5225,3,jerusalen
+PE,Peru,Perú,25230,Pueblo Nuevo de Caco,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4006,-74.1816,3,pueblo-nuevo-de-caco
+PE,Peru,Perú,25230,Cambio 90,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.7036,-74.2939,3,cambio-90
+PE,Peru,Perú,25230,Claridad de Bambu,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.7132,-74.18,3,claridad-de-bambu
+PE,Peru,Perú,25230,Juancito de Sipiria,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4168,-74.4021,3,juancito-de-sipiria
+PE,Peru,Perú,25230,Curiaca,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3658,-74.2272,3,curiaca
+PE,Peru,Perú,25230,Cunchuri,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-8.8627,-74.5135,3,cunchuri
+PE,Peru,Perú,25230,Pijuayal,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.6209,-74.3505,3,pijuayal
+PE,Peru,Perú,25230,23 de Setiembre,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3963,-74.5049,3,23-de-setiembre
+PE,Peru,Perú,25230,Nueva Jerusalen de Sheshea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.5472,-74.1357,3,nueva-jerusalen-de-sheshea
+PE,Peru,Perú,25230,Caco Macaya,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3564,-74.2211,3,caco-macaya
+PE,Peru,Perú,25230,Nueva Islandia,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4753,-74.5605,3,nueva-islandia
+PE,Peru,Perú,25230,Puerto Grau,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.1293,-74.4537,3,puerto-grau
+PE,Peru,Perú,25230,Nueva Esperanza de Tabacoa,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.2548,-74.4684,3,nueva-esperanza-de-tabacoa
+PE,Peru,Perú,25230,La Selva,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4677,-74.4089,3,la-selva
+PE,Peru,Perú,25230,Amaquiria,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4633,-74.3808,3,amaquiria
+PE,Peru,Perú,25230,Nueva Union Pierola Sheshea,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4788,-73.7442,3,nueva-union-pierola-sheshea
+PE,Peru,Perú,25230,Nueva Bellavista de Tabacoa,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.4244,-74.6094,3,nueva-bellavista-de-tabacoa
+PE,Peru,Perú,25231,Iparia,Ucayali,25,Coronel Portillo,2501,Iparía,250103,-9.3,-74.5333,4,iparia
+PE,Peru,Perú,25500,Miguel Grau,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3392,-74.7346,3,miguel-grau
+PE,Peru,Perú,25500,Nueve de Febrero,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6843,-74.8585,3,nueve-de-febrero
+PE,Peru,Perú,25500,Nuevo Belen,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4477,-74.6865,3,nuevo-belen
+PE,Peru,Perú,25500,Manco Capac,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5835,-74.7856,3,manco-capac
+PE,Peru,Perú,25500,Nuevo San Jorge,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6421,-74.9511,3,nuevo-san-jorge
+PE,Peru,Perú,25500,Sais Tupac Amaru,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5296,-74.8681,3,sais-tupac-amaru
+PE,Peru,Perú,25500,San Andres de Neshuya,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5261,-74.9766,3,san-andres-de-neshuya
+PE,Peru,Perú,25500,San Cristobal de Agua Blanca,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5253,-74.7319,3,san-cristobal-de-agua-blanca
+PE,Peru,Perú,25500,San Jose de Tunuya,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3659,-74.948,3,san-jose-de-tunuya
+PE,Peru,Perú,25500,Sais Pachacutec,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6548,-74.9439,3,sais-pachacutec
+PE,Peru,Perú,25500,Ramal 24 de Diciembre,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3492,-74.7589,3,ramal-24-de-diciembre
+PE,Peru,Perú,25500,Porvenir,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4085,-74.7729,3,porvenir
+PE,Peru,Perú,25500,Pimientacocha,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4728,-74.7931,3,pimientacocha
+PE,Peru,Perú,25500,Pimental,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5217,-74.8054,3,pimental
+PE,Peru,Perú,25500,Antonio Raimondi,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4014,-74.7042,3,antonio-raimondi
+PE,Peru,Perú,25500,Pampas Verdes,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4125,-74.7471,3,pampas-verdes
+PE,Peru,Perú,25500,Nuevo Tunuya,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5154,-74.9613,3,nuevo-tunuya
+PE,Peru,Perú,25500,Ciudad de los Incas,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6611,-74.9069,3,ciudad-de-los-incas
+PE,Peru,Perú,25500,Nuevo Primavera,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3487,-74.7409,3,nuevo-primavera
+PE,Peru,Perú,25500,Nuevo Jerusalen,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6543,-74.9168,3,nuevo-jerusalen
+PE,Peru,Perú,25500,La Union,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3759,-74.7297,3,la-union
+PE,Peru,Perú,25500,La Victoria,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4472,-74.712,3,la-victoria
+PE,Peru,Perú,25500,La Frontera,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6456,-74.9597,3,la-frontera
+PE,Peru,Perú,25500,Las Palmeras del Sur,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3682,-74.9359,3,las-palmeras-del-sur
+PE,Peru,Perú,25500,Las Mercedes,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5677,-74.9027,3,las-mercedes
+PE,Peru,Perú,25500,Hierbas Buenas,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5153,-74.8567,3,hierbas-buenas
+PE,Peru,Perú,25500,Juventud,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3317,-74.9578,3,juventud
+PE,Peru,Perú,25500,Santa Catalina,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.569,-74.9226,3,santa-catalina
+PE,Peru,Perú,25500,Nuevo Piura,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3546,-74.982,3,nuevo-piura
+PE,Peru,Perú,25500,Vista Alegre,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4268,-74.8213,4,vista-alegre
+PE,Peru,Perú,25500,Santa Teresita de Agua Blanca,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5866,-74.7406,3,santa-teresita-de-agua-blanca
+PE,Peru,Perú,25500,San Miguel de Ucayali,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5419,-74.9517,4,san-miguel-de-ucayali
+PE,Peru,Perú,25500,Nuevo San Pedro,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5631,-74.8951,4,nuevo-san-pedro
+PE,Peru,Perú,25500,Señor de los Milagros,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3684,-74.7451,4,senor-de-los-milagros
+PE,Peru,Perú,25500,El Condor,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6981,-74.9505,3,el-condor
+PE,Peru,Perú,25500,Dos de Diciembre,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6241,-74.8767,3,dos-de-diciembre
+PE,Peru,Perú,25500,Pueblo Libre,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.387,-74.8362,4,pueblo-libre
+PE,Peru,Perú,25500,Tupac Amaru Limon,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5144,-74.7581,3,tupac-amaru-limon
+PE,Peru,Perú,25500,San Martin Mojaral,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4892,-74.773,3,san-martin-mojaral
+PE,Peru,Perú,25500,Santa Elvita,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5463,-74.895,3,santa-elvita
+PE,Peru,Perú,25500,Santa Rosa de Lima,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5782,-74.9088,3,santa-rosa-de-lima
+PE,Peru,Perú,25500,Santa Teresita,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.462,-74.7934,3,santa-teresita
+PE,Peru,Perú,25500,Simon Bolivar,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5087,-74.8952,3,simon-bolivar
+PE,Peru,Perú,25500,Tierra Buena,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3768,-74.7141,3,tierra-buena
+PE,Peru,Perú,25500,Buenos Aires,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4815,-74.938,4,buenos-aires
+PE,Peru,Perú,25500,Los Milagros,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4294,-74.6958,4,los-milagros
+PE,Peru,Perú,25500,Las Palmeras del Ucayali,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6015,-74.9349,3,las-palmeras-del-ucayali
+PE,Peru,Perú,25500,La Merced de Neshuya,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5367,-74.9655,3,la-merced-de-neshuya
+PE,Peru,Perú,25500,Nuevo Dinamarca,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5305,-74.9711,3,nuevo-dinamarca
+PE,Peru,Perú,25500,El Piñal,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5236,-74.92,3,el-pinal
+PE,Peru,Perú,25500,Nuevo Jordan,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3524,-74.9607,3,nuevo-jordan
+PE,Peru,Perú,25500,23 de Octubre,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5032,-74.9059,3,23-de-octubre
+PE,Peru,Perú,25500,Los Angeles,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4912,-74.9308,3,los-angeles
+PE,Peru,Perú,25500,Los Pinos,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5025,-74.8425,3,los-pinos
+PE,Peru,Perú,25500,10 de Julio,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4425,-74.856,3,10-de-julio
+PE,Peru,Perú,25500,San Jose,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4348,-74.7554,3,san-jose
+PE,Peru,Perú,25500,Alto Manantay,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.4702,-74.7862,3,alto-manantay
+PE,Peru,Perú,25500,Agua Dulce,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.5358,-74.7721,3,agua-dulce
+PE,Peru,Perú,25500,8 de Mayo,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.3863,-74.7894,3,8-de-mayo
+PE,Peru,Perú,25500,Abejaico,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.6678,-74.9442,3,abejaico
+PE,Peru,Perú,25501,Campo Verde,Ucayali,25,Coronel Portillo,2501,Campoverde,250102,-8.475,-74.8057,,campo-verde
+PE,Peru,Perú,25700,Nuevo Union de Progreso,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.121,-74.7922,3,nuevo-union-de-progreso
+PE,Peru,Perú,25700,Naranjal,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.1,-74.75,4,naranjal
+PE,Peru,Perú,25700,Los Angeles,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.314,-74.9412,3,los-angeles
+PE,Peru,Perú,25700,Santa Clara de Uchunyia,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.2053,-74.8658,3,santa-clara-de-uchunyia
+PE,Peru,Perú,25700,Espinar,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-7.9996,-74.7158,3,espinar
+PE,Peru,Perú,25700,Libertad,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3099,-74.9433,4,libertad
+PE,Peru,Perú,25700,Sarita Colonia,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3469,-74.8513,3,sarita-colonia
+PE,Peru,Perú,25700,Shambo Porvenir,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.1037,-74.7328,3,shambo-porvenir
+PE,Peru,Perú,25700,20 de Mayo,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3366,-74.8553,3,20-de-mayo
+PE,Peru,Perú,25700,Bajo Rayal,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3223,-74.9529,3,bajo-rayal
+PE,Peru,Perú,25700,Cedro Isla,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3007,-74.909,3,cedro-isla
+PE,Peru,Perú,25700,San Pablo de Juantia,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.2417,-74.8781,3,san-pablo-de-juantia
+PE,Peru,Perú,25700,El Caribe,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.127,-74.7959,3,el-caribe
+PE,Peru,Perú,25700,San Jose  (Trapiche),Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.1126,-74.7812,3,san-jose-trapiche
+PE,Peru,Perú,25700,San Francisco de Neshuya,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3632,-75.0197,3,san-francisco-de-neshuya
+PE,Peru,Perú,25700,Palmeras de Zapotillo,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.2714,-74.8015,3,palmeras-de-zapotillo
+PE,Peru,Perú,25700,Nuevo Union de Juantia Tipishca,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.2186,-74.8465,3,nuevo-union-de-juantia-tipishca
+PE,Peru,Perú,25700,Nuevo San Juan de Sheshea,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.2954,-74.9213,3,nuevo-san-juan-de-sheshea
+PE,Peru,Perú,25700,Nuevo Paraiso,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.364,-74.8458,3,nuevo-paraiso
+PE,Peru,Perú,25700,Nuevo Israel,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.071,-74.71,3,nuevo-israel
+PE,Peru,Perú,25700,Nuevo Eden,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.2338,-74.9067,3,nuevo-eden
+PE,Peru,Perú,25700,Nueve de Febrero,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3071,-74.8196,3,nueve-de-febrero
+PE,Peru,Perú,25700,Nueva Barranca,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.2603,-74.8356,3,nueva-barranca
+PE,Peru,Perú,25700,Naranjillo,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3425,-75.0153,3,naranjillo
+PE,Peru,Perú,25700,La Perla de Saja Seca,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3536,-74.994,3,la-perla-de-saja-seca
+PE,Peru,Perú,25700,Miraflores,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.1712,-74.822,3,miraflores
+PE,Peru,Perú,25700,Palestina,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.0971,-74.7843,3,palestina
+PE,Peru,Perú,25700,Tres Islas,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3061,-74.8926,4,tres-islas
+PE,Peru,Perú,25700,Puerto Alegre,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.0792,-74.6713,4,puerto-alegre
+PE,Peru,Perú,25700,Esperanza,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.1354,-74.8195,3,esperanza
+PE,Peru,Perú,25701,Nueva Requena,Ucayali,25,Coronel Portillo,2501,Nueva Requena,250106,-8.3062,-74.8654,4,nueva-requena
+PE,Peru,Perú,25200,Lagarto Millar,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6232,-73.8125,3,lagarto-millar
+PE,Peru,Perú,25200,La Huayra,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7075,-73.7308,3,la-huayra
+PE,Peru,Perú,25200,Chicosa,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4662,-74.0512,4,chicosa
+PE,Peru,Perú,25200,Pitza,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8307,-73.8529,4,pitza
+PE,Peru,Perú,25200,Centro Shinipo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5116,-74.0845,3,centro-shinipo
+PE,Peru,Perú,25200,Bello Horizonte,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6514,-73.8495,4,bello-horizonte
+PE,Peru,Perú,25200,Libertad de Pucani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6966,-73.5564,3,libertad-de-pucani
+PE,Peru,Perú,25200,Pauti,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.9217,-74.2081,4,pauti
+PE,Peru,Perú,25200,Puntijao,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.3226,-73.981,4,puntijao
+PE,Peru,Perú,25200,Divina Montaña,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6483,-74.0361,3,divina-montana
+PE,Peru,Perú,25200,Janteni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7911,-74.2031,4,janteni
+PE,Peru,Perú,25200,Libertad de Chicosillo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6757,-73.7575,4,libertad-de-chicosillo
+PE,Peru,Perú,25200,Inmaculada,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5731,-73.0987,3,inmaculada
+PE,Peru,Perú,25200,Centro Lagarto Nuevo Juvenil,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5943,-73.7713,3,centro-lagarto-nuevo-juvenil
+PE,Peru,Perú,25200,Centro Selva Anari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6534,-73.9167,3,centro-selva-anari
+PE,Peru,Perú,25200,Pueblo Libre de Marankiari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7453,-73.7212,3,pueblo-libre-de-marankiari
+PE,Peru,Perú,25200,Centro Selva Chipani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7606,-74.1182,3,centro-selva-chipani
+PE,Peru,Perú,25200,Mision Unine,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6373,-73.9718,4,mision-unine
+PE,Peru,Perú,25200,Montevideo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6499,-73.8786,3,montevideo
+PE,Peru,Perú,25200,Centro Selva Quirishari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.9746,-74.2659,3,centro-selva-quirishari
+PE,Peru,Perú,25200,Santa Elena,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.733,-73.6372,3,santa-elena
+PE,Peru,Perú,25200,Alto Cohengua,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.3027,-73.5625,3,alto-cohengua
+PE,Peru,Perú,25200,Centro Javiroshi,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.9549,-74.304,3,centro-javiroshi
+PE,Peru,Perú,25200,Santa Clara,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.726,-73.6078,4,santa-clara
+PE,Peru,Perú,25200,Aerija,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.711,-73.7941,3,aerija
+PE,Peru,Perú,25200,San Pablo de Pitza,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8503,-73.8536,3,san-pablo-de-pitza
+PE,Peru,Perú,25200,San Jorge,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5049,-73.9986,3,san-jorge
+PE,Peru,Perú,25200,Floresta,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.66,-73.4608,4,floresta
+PE,Peru,Perú,25200,Vista Alegre,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5107,-74.0146,4,vista-alegre
+PE,Peru,Perú,25200,Puerto Esperanza,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4758,-73.9716,3,puerto-esperanza
+PE,Peru,Perú,25200,El Paraiso,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6548,-73.8552,3,el-paraiso
+PE,Peru,Perú,25200,Pampa Hermosa,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7602,-73.6192,3,pampa-hermosa
+PE,Peru,Perú,25200,Villa Maria de Cumarillo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7744,-73.3322,3,villa-maria-de-cumarillo
+PE,Peru,Perú,25200,Santa Rosa,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6956,-73.7945,3,santa-rosa
+PE,Peru,Perú,25200,Oventeni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7489,-74.2292,4,oventeni
+PE,Peru,Perú,25200,Diamante Azul,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6216,-73.9626,4,diamante-azul
+PE,Peru,Perú,25200,Puerto Inca,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7276,-73.3998,4,puerto-inca
+PE,Peru,Perú,25200,Ramon Castilla,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6083,-73.9216,4,ramon-castilla
+PE,Peru,Perú,25200,Huao,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7297,-73.6274,4,huao
+PE,Peru,Perú,25200,Maldonadillo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7378,-73.7218,4,maldonadillo
+PE,Peru,Perú,25200,San Jose,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7366,-73.6459,4,san-jose
+PE,Peru,Perú,25200,Chengari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6594,-73.8518,3,chengari
+PE,Peru,Perú,25200,Tariza,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7798,-74.2604,3,tariza
+PE,Peru,Perú,25200,Taquila,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6786,-73.4885,3,taquila
+PE,Peru,Perú,25200,Tahuarapa,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.317,-74.0204,3,tahuarapa
+PE,Peru,Perú,25200,Tahuanti,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6634,-73.7811,3,tahuanti
+PE,Peru,Perú,25200,Shumahuani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7609,-74.2948,3,shumahuani
+PE,Peru,Perú,25200,Tziaventeni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6594,-73.8518,3,tziaventeni
+PE,Peru,Perú,25200,Majontoni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6594,-73.8518,3,majontoni
+PE,Peru,Perú,25200,Portugal,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6581,-73.8536,3,portugal
+PE,Peru,Perú,25200,Ponte Vedra,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.3977,-74.0522,3,ponte-vedra
+PE,Peru,Perú,25200,Ponchoni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7682,-74.2211,3,ponchoni
+PE,Peru,Perú,25200,Pandishari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.362,-74.0978,3,pandishari
+PE,Peru,Perú,25200,Inkare,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7347,-73.4077,3,inkare
+PE,Peru,Perú,25200,Hungarito de Sabaluyo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6964,-73.6975,3,hungarito-de-sabaluyo
+PE,Peru,Perú,25200,Fundo Villa Real,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5853,-73.9304,3,fundo-villa-real
+PE,Peru,Perú,25200,Fundo el Encuentro,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7214,-73.7642,3,fundo-el-encuentro
+PE,Peru,Perú,25200,Pensilvania,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4236,-74.0358,3,pensilvania
+PE,Peru,Perú,25200,El Pozo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4649,-74.0184,3,el-pozo
+PE,Peru,Perú,25200,Chochoquiari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8483,-74.2433,3,chochoquiari
+PE,Peru,Perú,25200,Centro Sabaluyo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.633,-73.5632,3,centro-sabaluyo
+PE,Peru,Perú,25200,Centro Pucani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6771,-73.5459,3,centro-pucani
+PE,Peru,Perú,25200,Centro Apinihua,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5918,-73.9111,3,centro-apinihua
+PE,Peru,Perú,25200,Catoteni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6865,-74.1093,3,catoteni
+PE,Peru,Perú,25200,Capajereato,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7524,-73.3224,3,capajereato
+PE,Peru,Perú,25200,Boca Contanihua Anexo Tahuanti,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6579,-73.7346,3,boca-contanihua-anexo-tahuanti
+PE,Peru,Perú,25200,Boca Cocani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5305,-73.9962,3,boca-cocani
+PE,Peru,Perú,25200,Bobinzana,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6239,-73.41,3,bobinzana
+PE,Peru,Perú,25200,Bajo Shimpi,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.884,-73.949,3,bajo-shimpi
+PE,Peru,Perú,25200,Bajo Chencoreni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7167,-74.2521,3,bajo-chencoreni
+PE,Peru,Perú,25200,Apinihua,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5743,-73.9288,3,apinihua
+PE,Peru,Perú,25200,Anexo de Quirahuanero,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7152,-74.1241,3,anexo-de-quirahuanero
+PE,Peru,Perú,25200,Anacayali,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6632,-73.9884,3,anacayali
+PE,Peru,Perú,25200,Alto Shimpi,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.9491,-73.9011,3,alto-shimpi
+PE,Peru,Perú,25200,Alto Cocani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.534,-74.0751,3,alto-cocani
+PE,Peru,Perú,25200,Alto Chencoreni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6902,-74.2894,3,alto-chencoreni
+PE,Peru,Perú,25200,Quiteriavo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7154,-74.1628,3,quiteriavo
+PE,Peru,Perú,25200,Quemporequeshi,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7101,-74.211,3,quemporequeshi
+PE,Peru,Perú,25200,Pueblo Libre de Chicosillo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6971,-73.7607,3,pueblo-libre-de-chicosillo
+PE,Peru,Perú,25200,Oway,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6573,-74.2412,3,oway
+PE,Peru,Perú,25200,Ojeayo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.63,-73.4575,3,ojeayo
+PE,Peru,Perú,25200,Nuevo Yauyos,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7645,-73.7869,3,nuevo-yauyos
+PE,Peru,Perú,25200,Nuevo San Carlos,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7697,-73.6736,3,nuevo-san-carlos
+PE,Peru,Perú,25200,Nuevo Progreso,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5139,-73.9629,3,nuevo-progreso
+PE,Peru,Perú,25200,Nuevo Pozo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4398,-74.0273,3,nuevo-pozo
+PE,Peru,Perú,25200,Nuevo Jose Olaya,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6177,-73.9125,3,nuevo-jose-olaya
+PE,Peru,Perú,25200,Nueva Union de Chicosillo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5898,-73.7874,3,nueva-union-de-chicosillo
+PE,Peru,Perú,25200,Nueva San Martin,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.589,-73.1734,3,nueva-san-martin
+PE,Peru,Perú,25200,Nueva Italia Rimac,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7268,-73.592,3,nueva-italia-rimac
+PE,Peru,Perú,25200,Nueva Galilea I,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4538,-73.9852,3,nueva-galilea-i
+PE,Peru,Perú,25200,Nueva Esperanza,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7471,-73.718,3,nueva-esperanza
+PE,Peru,Perú,25200,Monte Verde de Tzivetari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6911,-73.9675,3,monte-verde-de-tzivetari
+PE,Peru,Perú,25200,Mencoriari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.3215,-73.7642,3,mencoriari
+PE,Peru,Perú,25200,Matzontzoreni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8366,-74.3358,3,matzontzoreni
+PE,Peru,Perú,25200,Materiato,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8191,-74.1986,3,materiato
+PE,Peru,Perú,25200,Mapitziviari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8193,-74.3784,3,mapitziviari
+PE,Peru,Perú,25200,Mapiato,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5893,-73.5837,3,mapiato
+PE,Peru,Perú,25200,Mapalca,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7414,-73.3912,3,mapalca
+PE,Peru,Perú,25200,Mancoete,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.9364,-74.1074,3,mancoete
+PE,Peru,Perú,25200,Mañarini,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7785,-74.1947,3,manarini
+PE,Peru,Perú,25200,Los Chancas,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6154,-73.4453,3,los-chancas
+PE,Peru,Perú,25200,Corintoni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6299,-74.0493,3,corintoni
+PE,Peru,Perú,25200,Chorinashi,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.3421,-73.7908,3,chorinashi
+PE,Peru,Perú,25200,Chinchini,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.9097,-74.0587,3,chinchini
+PE,Peru,Perú,25200,Chequitavo,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7688,-74.3673,3,chequitavo
+PE,Peru,Perú,25200,Vista Alegre ( Rosario),Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6377,-73.4198,3,vista-alegre-rosario
+PE,Peru,Perú,25200,Villa Mercedes,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6025,-73.3701,3,villa-mercedes
+PE,Peru,Perú,25200,Unini Cascada,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6258,-73.9678,3,unini-cascada
+PE,Peru,Perú,25200,Tyouni,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8207,-74.2901,3,tyouni
+PE,Peru,Perú,25200,Tupac Amaru,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7067,-73.7784,3,tupac-amaru
+PE,Peru,Perú,25200,Tres Colinas,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7665,-73.6854,3,tres-colinas
+PE,Peru,Perú,25200,Tiahuanasqui,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7871,-74.3147,3,tiahuanasqui
+PE,Peru,Perú,25200,Shirimashi,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5035,-74.012,3,shirimashi
+PE,Peru,Perú,25200,Shiranta,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7404,-73.3447,3,shiranta
+PE,Peru,Perú,25200,Shinipo ( Bellavista),Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4958,-74.0138,3,shinipo-bellavista
+PE,Peru,Perú,25200,Sheyamashya,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.3697,-73.9557,3,sheyamashya
+PE,Peru,Perú,25200,Shenontiari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6213,-74.0553,3,shenontiari
+PE,Peru,Perú,25200,Shaani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.8571,-74.1096,3,shaani
+PE,Peru,Perú,25200,Serjali,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7215,-73.6247,3,serjali
+PE,Peru,Perú,25200,Sapani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.673,-73.8517,3,sapani
+PE,Peru,Perú,25200,Santa Rosa de Laulate,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6816,-73.8242,3,santa-rosa-de-laulate
+PE,Peru,Perú,25200,Santaniari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6765,-73.97,3,santaniari
+PE,Peru,Perú,25200,Santa Luz de Maranquiari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.4693,-74.0747,3,santa-luz-de-maranquiari
+PE,Peru,Perú,25200,San Pedro de Lagarto,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.65,-73.8162,3,san-pedro-de-lagarto
+PE,Peru,Perú,25200,San Miguel de Maranquiari,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.713,-73.8209,3,san-miguel-de-maranquiari
+PE,Peru,Perú,25200,San Miguel de Boca Sapani,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6742,-73.8344,3,san-miguel-de-boca-sapani
+PE,Peru,Perú,25200,San Luis de Inuya,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5871,-73.2626,3,san-luis-de-inuya
+PE,Peru,Perú,25200,San Juan de Inuya,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5682,-73.0674,3,san-juan-de-inuya
+PE,Peru,Perú,25200,San Francisco Tzinquiato,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6843,-73.4532,3,san-francisco-tzinquiato
+PE,Peru,Perú,25200,San Francisco de Lagarto,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.629,-73.7643,3,san-francisco-de-lagarto
+PE,Peru,Perú,25200,San Esteban,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7297,-73.7219,3,san-esteban
+PE,Peru,Perú,25200,Raya,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.3303,-72.9416,3,raya
+PE,Peru,Perú,25200,Venecia,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.6621,-73.8526,4,venecia
+PE,Peru,Perú,25200,San Luis,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.5786,-73.9771,4,san-luis
+PE,Peru,Perú,25201,Atalaya,Ucayali,25,Atalaya,2502,Raymondi,250201,-10.7307,-73.7587,4,atalaya
+PE,Peru,Perú,25210,Nuevo Horizonte,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.8786,-73.211,3,nuevo-horizonte
+PE,Peru,Perú,25210,Nueva Orellana,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1247,-73.071,3,nueva-orellana
+PE,Peru,Perú,25210,Santa Rosa de Serjali,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.2962,-72.3028,3,santa-rosa-de-serjali
+PE,Peru,Perú,25210,La Florida,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.8696,-73.2339,3,la-florida
+PE,Peru,Perú,25210,Sheboja,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.014,-73.1174,3,sheboja
+PE,Peru,Perú,25210,Barrio Nuevo Rosario,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1188,-72.9583,3,barrio-nuevo-rosario
+PE,Peru,Perú,25210,Fundo Texas,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1889,-72.977,3,fundo-texas
+PE,Peru,Perú,25210,Fundo Santa Rosa,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.0841,-73.0688,3,fundo-santa-rosa
+PE,Peru,Perú,25210,Santa Rosa,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1709,-73.0403,4,santa-rosa
+PE,Peru,Perú,25210,Fundo Llanero,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.0917,-73.0681,3,fundo-llanero
+PE,Peru,Perú,25210,Ceylan,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.8496,-73.2217,3,ceylan
+PE,Peru,Perú,25210,Bufeo Pozo,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.9743,-73.1071,3,bufeo-pozo
+PE,Peru,Perú,25210,Los Angeles,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.3823,-72.6903,3,los-angeles
+PE,Peru,Perú,25210,Bellavista,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.3679,-72.7833,3,bellavista
+PE,Peru,Perú,25210,Polerja,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.0824,-73.0851,3,polerja
+PE,Peru,Perú,25210,Puija,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.0689,-73.1078,3,puija
+PE,Peru,Perú,25210,Quebrada Chaquira,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1176,-73.1029,3,quebrada-chaquira
+PE,Peru,Perú,25210,Quebrada Pulerja,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1278,-73.1092,3,quebrada-pulerja
+PE,Peru,Perú,25210,Barrio Palmeras,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1517,-73.0454,3,barrio-palmeras
+PE,Peru,Perú,25210,Sol Naciente,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1733,-72.9887,3,sol-naciente
+PE,Peru,Perú,25210,Triunfo,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.051,-73.1077,3,triunfo
+PE,Peru,Perú,25210,Union Miraflores Capirona,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.8959,-73.2802,3,union-miraflores-capirona
+PE,Peru,Perú,25210,Otorongo,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.9439,-73.2518,3,otorongo
+PE,Peru,Perú,25210,Nuevo Progreso,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.2831,-72.9366,3,nuevo-progreso
+PE,Peru,Perú,25210,Santa Elena,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1447,-73.0986,3,santa-elena
+PE,Peru,Perú,25210,Pajuya,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1151,-73.1109,3,pajuya
+PE,Peru,Perú,25210,Nueva Union,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.034,-73.0785,4,nueva-union
+PE,Peru,Perú,25210,San Pedro,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1714,-73.0293,4,san-pedro
+PE,Peru,Perú,25210,Paraiso,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.934,-73.1465,4,paraiso
+PE,Peru,Perú,25210,Colonia Penal del Sepa,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.8118,-73.2927,3,colonia-penal-del-sepa
+PE,Peru,Perú,25210,Nueva Jerusalen,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.9054,-73.2582,3,nueva-jerusalen
+PE,Peru,Perú,25210,Dos de Mayo,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.138,-73.0471,4,dos-de-mayo
+PE,Peru,Perú,25210,San Fernando,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1343,-73.0691,3,san-fernando
+PE,Peru,Perú,25210,San Felipe,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1515,-73.0541,3,san-felipe
+PE,Peru,Perú,25210,Remoque,Ucayali,25,Atalaya,2502,Sepahua,250202,-10.9644,-73.2164,3,remoque
+PE,Peru,Perú,25210,Onconashari,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1125,-73.4125,4,onconashari
+PE,Peru,Perú,25211,Sepahua,Ucayali,25,Atalaya,2502,Sepahua,250202,-11.1458,-73.0428,4,sepahua
+PE,Peru,Perú,25220,Chanchamayo,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2358,-74.0716,3,chanchamayo
+PE,Peru,Perú,25220,Cumaria,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8761,-73.9454,4,cumaria
+PE,Peru,Perú,25220,Flor de Chengari,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.7569,-73.7387,3,flor-de-chengari
+PE,Peru,Perú,25220,Puntijao,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.3094,-74.0444,4,puntijao
+PE,Peru,Perú,25220,Magnolia,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2167,-74,4,magnolia
+PE,Peru,Perú,25220,Santa Rosa,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0768,-73.563,4,santa-rosa
+PE,Peru,Perú,25220,Nueva Jerusalen,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.9213,-74.2243,3,nueva-jerusalen
+PE,Peru,Perú,25220,San Jose,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8762,-73.9407,4,san-jose
+PE,Peru,Perú,25220,San Fernando de Vainilla,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8159,-73.9584,3,san-fernando-de-vainilla
+PE,Peru,Perú,25220,Puerto Alegre,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1413,-73.7405,4,puerto-alegre
+PE,Peru,Perú,25220,Santa Clara,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.959,-74.0041,4,santa-clara
+PE,Peru,Perú,25220,Nuevo Peru,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0049,-73.9069,4,nuevo-peru
+PE,Peru,Perú,25220,Santa Isabel,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1126,-73.6649,3,santa-isabel
+PE,Peru,Perú,25220,Toniro Mashi,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2531,-74.0133,3,toniro-mashi
+PE,Peru,Perú,25220,Señor de los Milagros,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1388,-74.1034,4,senor-de-los-milagros
+PE,Peru,Perú,25220,Vista Alegre,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1453,-74.0609,4,vista-alegre
+PE,Peru,Perú,25220,Santa Ana,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8224,-73.9748,3,santa-ana
+PE,Peru,Perú,25220,Cumbi Rushari,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0587,-74.2291,3,cumbi-rushari
+PE,Peru,Perú,25220,Nuevo Progreso,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.9434,-73.8395,3,nuevo-progreso
+PE,Peru,Perú,25220,Nuevo Paraiso,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8961,-74.1892,3,nuevo-paraiso
+PE,Peru,Perú,25220,Nuevo Celendin,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0161,-73.9429,3,nuevo-celendin
+PE,Peru,Perú,25220,Nuevo Auquia,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.954,-74.0462,3,nuevo-auquia
+PE,Peru,Perú,25220,Nueva Italia,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8613,-73.9376,4,nueva-italia
+PE,Peru,Perú,25220,San Fernando,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2109,-74.0693,3,san-fernando
+PE,Peru,Perú,25220,Constancia,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1541,-74.0128,3,constancia
+PE,Peru,Perú,25220,Diobamba,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2417,-74.2092,3,diobamba
+PE,Peru,Perú,25220,Fernando Stall,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.887,-74.1909,3,fernando-stall
+PE,Peru,Perú,25220,Florcita,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2306,-74.0125,3,florcita
+PE,Peru,Perú,25220,Flor de Jenepanshea,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.7152,-74.0913,3,flor-de-jenepanshea
+PE,Peru,Perú,25220,Flor de Mayo,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1211,-73.8913,3,flor-de-mayo
+PE,Peru,Perú,25220,Genepanshea,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.7783,-74.0742,3,genepanshea
+PE,Peru,Perú,25220,Isla Cuegua Muerto,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2649,-74.0202,3,isla-cuegua-muerto
+PE,Peru,Perú,25220,Isla del Gallo,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.107,-74.0413,3,isla-del-gallo
+PE,Peru,Perú,25220,Jatitza,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2012,-73.9872,3,jatitza
+PE,Peru,Perú,25220,Mapalja,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.7,-73.8999,3,mapalja
+PE,Peru,Perú,25220,Nairobi,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2012,-73.9476,3,nairobi
+PE,Peru,Perú,25220,Nazareth de Shahuaya,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8386,-74.1387,3,nazareth-de-shahuaya
+PE,Peru,Perú,25220,Nueva Esperanza,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.9649,-73.7916,3,nueva-esperanza
+PE,Peru,Perú,25220,Nueva Fenicia,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.85,-74.0918,3,nueva-fenicia
+PE,Peru,Perú,25220,Quempitiari,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1495,-74.1024,3,quempitiari
+PE,Peru,Perú,25220,Quipachari,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0984,-74.0749,3,quipachari
+PE,Peru,Perú,25220,Roca Fuerte,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.9375,-73.9216,3,roca-fuerte
+PE,Peru,Perú,25220,Rosita,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.2316,-74.0339,3,rosita
+PE,Peru,Perú,25220,San Antonio de Vinuya,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.9059,-73.9464,3,san-antonio-de-vinuya
+PE,Peru,Perú,25220,Sempaya,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.7448,-74.1642,3,sempaya
+PE,Peru,Perú,25220,Tahuatinga,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0384,-73.4829,3,tahuatinga
+PE,Peru,Perú,25220,Tsimepanko,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.7958,-74.0458,3,tsimepanko
+PE,Peru,Perú,25220,Tumbuya,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8219,-74.0295,3,tumbuya
+PE,Peru,Perú,25220,Tupac Amaru,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.885,-73.948,3,tupac-amaru
+PE,Peru,Perú,25220,Villa Aurora,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1474,-74.0857,3,villa-aurora
+PE,Peru,Perú,25220,Yanayacu,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1391,-73.6636,3,yanayacu
+PE,Peru,Perú,25220,9 de Octubre,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.7946,-74.1592,3,9-de-octubre
+PE,Peru,Perú,25220,Alto Aruya,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8242,-74.213,3,alto-aruya
+PE,Peru,Perú,25220,Aypena,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1345,-74.0403,3,aypena
+PE,Peru,Perú,25220,Bajo Aruya,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.8481,-74.1943,3,bajo-aruya
+PE,Peru,Perú,25220,Betijay,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0628,-73.9587,3,betijay
+PE,Peru,Perú,25220,Bolognesi Bajo,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0843,-73.9737,3,bolognesi-bajo
+PE,Peru,Perú,25220,Canapishtea,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0848,-73.5527,3,canapishtea
+PE,Peru,Perú,25220,Chumichinia,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0786,-74.0275,3,chumichinia
+PE,Peru,Perú,25220,Colonia Aurora Huaca,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1785,-74.0053,3,colonia-aurora-huaca
+PE,Peru,Perú,25220,Nuevo Rondeo,Ucayali,25,Atalaya,2502,Tahuania,250203,-9.9628,-73.9057,3,nuevo-rondeo
+PE,Peru,Perú,25220,Tranquilidad,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.1919,-74.0277,4,tranquilidad
+PE,Peru,Perú,25220,Tahuania,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0881,-73.9881,4,tahuania
+PE,Peru,Perú,25221,Bolognesi,Ucayali,25,Atalaya,2502,Tahuania,250203,-10.0644,-74.005,4,bolognesi
+PE,Peru,Perú,25300,Dulce Gloria,Ucayali,25,Atalaya,2502,Yurua,250204,-9.7658,-72.6626,3,dulce-gloria
+PE,Peru,Perú,25300,Breu,Ucayali,25,Atalaya,2502,Yurua,250204,-9.4833,-72.7167,4,breu
+PE,Peru,Perú,25300,San Pablo,Ucayali,25,Atalaya,2502,Yurua,250204,-9.7003,-72.7168,3,san-pablo
+PE,Peru,Perú,25300,Beo,Ucayali,25,Atalaya,2502,Yurua,250204,-9.5577,-72.6694,3,beo
+PE,Peru,Perú,25300,Santana,Ucayali,25,Atalaya,2502,Yurua,250204,-9.5195,-72.7439,3,santana
+PE,Peru,Perú,25300,Sawawo Hito 40,Ucayali,25,Atalaya,2502,Yurua,250204,-9.4176,-72.9881,3,sawawo-hito-40
+PE,Peru,Perú,25300,Shoniro,Ucayali,25,Atalaya,2502,Yurua,250204,-9.504,-72.7691,3,shoniro
+PE,Peru,Perú,25300,Paititi,Ucayali,25,Atalaya,2502,Yurua,250204,-9.8578,-72.7314,3,paititi
+PE,Peru,Perú,25300,Nuevo Eden,Ucayali,25,Atalaya,2502,Yurua,250204,-9.8149,-72.6001,3,nuevo-eden
+PE,Peru,Perú,25300,Nueva Victoria,Ucayali,25,Atalaya,2502,Yurua,250204,-9.617,-72.7779,3,nueva-victoria
+PE,Peru,Perú,25300,El Dorado,Ucayali,25,Atalaya,2502,Yurua,250204,-9.6526,-72.7896,3,el-dorado
+PE,Peru,Perú,25300,Nueva Luz de Arara,Ucayali,25,Atalaya,2502,Yurua,250204,-9.85,-72.7899,3,nueva-luz-de-arara
+PE,Peru,Perú,25300,Nueva Bella,Ucayali,25,Atalaya,2502,Yurua,250204,-9.8348,-72.6926,3,nueva-bella
+PE,Peru,Perú,25300,Koshireni,Ucayali,25,Atalaya,2502,Yurua,250204,-9.4942,-72.5013,3,koshireni
+PE,Peru,Perú,25300,Doradillo,Ucayali,25,Atalaya,2502,Yurua,250204,-9.6657,-72.7632,3,doradillo
+PE,Peru,Perú,25300,Coronel Portillo,Ucayali,25,Atalaya,2502,Yurua,250204,-9.6732,-72.7513,3,coronel-portillo
+PE,Peru,Perú,25300,Boca Dorada,Ucayali,25,Atalaya,2502,Yurua,250204,-9.6764,-72.7423,3,boca-dorada
+PE,Peru,Perú,25300,Onconashari,Ucayali,25,Atalaya,2502,Yurua,250204,-9.871,-72.8986,4,onconashari
+PE,Peru,Perú,25300,Oore,Ucayali,25,Atalaya,2502,Yurua,250204,-9.4612,-72.6155,3,oore
+PE,Peru,Perú,25300,Nueva Shawaya,Ucayali,25,Atalaya,2502,Yurua,250204,-9.4623,-72.9657,3,nueva-shawaya
+PE,Peru,Perú,25300,Santa Rosa,Ucayali,25,Atalaya,2502,Yurua,250204,-9.4963,-72.7524,4,santa-rosa
+PE,Peru,Perú,25300,San Pablillo,Ucayali,25,Atalaya,2502,Yurua,250204,-9.7185,-72.7266,3,san-pablillo
+PE,Peru,Perú,25300,Puesto Breu,Ucayali,25,Atalaya,2502,Yurua,250204,-9.4191,-72.7228,3,puesto-breu
+PE,Peru,Perú,25530,Jose de San Martin,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8864,-75.3568,3,jose-de-san-martin
+PE,Peru,Perú,25530,El Milagro,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.823,-75.0493,3,el-milagro
+PE,Peru,Perú,25530,Corazon Jesus,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.859,-75.1033,3,corazon-jesus
+PE,Peru,Perú,25530,Bajo Shiringal,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8422,-75.2492,3,bajo-shiringal
+PE,Peru,Perú,25530,Ascencion del Aguaytillo,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8463,-75.0927,3,ascencion-del-aguaytillo
+PE,Peru,Perú,25530,Alto Yanayacu,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8275,-75.0358,3,alto-yanayacu
+PE,Peru,Perú,25530,Los Angeles,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8066,-75.0123,3,los-angeles
+PE,Peru,Perú,25530,Jerusalen,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6054,-74.9957,3,jerusalen
+PE,Peru,Perú,25530,Nueva Tiwinza,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8019,-75.0338,3,nueva-tiwinza
+PE,Peru,Perú,25530,Buenos Aires,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.9667,-75.2264,4,buenos-aires
+PE,Peru,Perú,25530,El Porvenir,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8247,-75.2266,3,el-porvenir
+PE,Peru,Perú,25530,Las Palmeras,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8711,-75.3376,3,las-palmeras
+PE,Peru,Perú,25530,El Arenal,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7025,-75.2097,3,el-arenal
+PE,Peru,Perú,25530,Alto Shiringal,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8513,-75.2819,3,alto-shiringal
+PE,Peru,Perú,25530,Vista Alegre de Chia,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6894,-75.2591,3,vista-alegre-de-chia
+PE,Peru,Perú,25530,San Pedro de Guinea,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6048,-75.011,3,san-pedro-de-guinea
+PE,Peru,Perú,25530,Santa Rosa de Guinea,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6107,-75.0134,3,santa-rosa-de-guinea
+PE,Peru,Perú,25530,Sauce,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.623,-74.9988,3,sauce
+PE,Peru,Perú,25530,Sinchi Roca,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.9591,-75.2289,3,sinchi-roca
+PE,Peru,Perú,25530,Union Centro Raya,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5153,-75.0132,3,union-centro-raya
+PE,Peru,Perú,25530,Valle Sagrado,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8282,-75.1809,3,valle-sagrado
+PE,Peru,Perú,25530,Victor Raul,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7145,-75.0339,3,victor-raul
+PE,Peru,Perú,25530,Villa el Salvador,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8491,-75.181,3,villa-el-salvador
+PE,Peru,Perú,25530,Villa Mercedes,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5494,-75.0392,3,villa-mercedes
+PE,Peru,Perú,25530,Virgen de Fatima,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5873,-74.9871,3,virgen-de-fatima
+PE,Peru,Perú,25530,Virgen del Carmen,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6129,-75.0263,3,virgen-del-carmen
+PE,Peru,Perú,25530,San Pedro de Chio,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.935,-75.3891,3,san-pedro-de-chio
+PE,Peru,Perú,25530,Nuevo San Alejandro,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5982,-75.0011,3,nuevo-san-alejandro
+PE,Peru,Perú,25530,Nueva Union (Palometa),Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6439,-75.2067,3,nueva-union-palometa
+PE,Peru,Perú,25530,Nuevo Horizonte,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8514,-75.1503,3,nuevo-horizonte
+PE,Peru,Perú,25530,Nuevo Huanuco,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8831,-75.2,3,nuevo-huanuco
+PE,Peru,Perú,25530,Nuevo Juanjui,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5754,-75.0959,3,nuevo-juanjui
+PE,Peru,Perú,25530,Nuevo Ucayali,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8476,-75.1139,3,nuevo-ucayali
+PE,Peru,Perú,25530,Primavera,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.876,-75.0477,3,primavera
+PE,Peru,Perú,25530,Nueva Bellavista,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8759,-75.1615,3,nueva-bellavista
+PE,Peru,Perú,25530,Nueva Florida,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.61,-75.1988,3,nueva-florida
+PE,Peru,Perú,25530,Nueva Esperanza,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8241,-75.0801,3,nueva-esperanza
+PE,Peru,Perú,25530,Pueblo Nuevo,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.9014,-75.3328,3,pueblo-nuevo
+PE,Peru,Perú,25530,Puerto Nuevo I,Ucayali,25,Padre Abad,2503,Irazola,250302,-9.1182,-75.2512,3,puerto-nuevo-i
+PE,Peru,Perú,25530,Nueva Irazola,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8063,-75.1093,3,nueva-irazola
+PE,Peru,Perú,25530,Puerto Nuevo II,Ucayali,25,Padre Abad,2503,Irazola,250302,-9.1767,-75.2638,3,puerto-nuevo-ii
+PE,Peru,Perú,25530,San Juan Km. 71,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7505,-75.0156,3,san-juan-km-71
+PE,Peru,Perú,25530,Nolvert del Alto Uruya,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6246,-75.0598,3,nolvert-del-alto-uruya
+PE,Peru,Perú,25530,Monte de los Olivos,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6185,-74.9848,3,monte-de-los-olivos
+PE,Peru,Perú,25530,Monte Alegre de Neshuya,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6428,-74.9635,3,monte-alegre-de-neshuya
+PE,Peru,Perú,25530,Nuevo Progreso,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7944,-75.0141,3,nuevo-progreso
+PE,Peru,Perú,25530,Miguel Grau,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7413,-75.0337,3,miguel-grau
+PE,Peru,Perú,25530,Mar de Plata,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7603,-75.0313,3,mar-de-plata
+PE,Peru,Perú,25530,Manco Capac,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8618,-75.1993,3,manco-capac
+PE,Peru,Perú,25530,Santa Cruz,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8252,-75.2379,3,santa-cruz
+PE,Peru,Perú,25530,San Martin,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6253,-74.9717,4,san-martin
+PE,Peru,Perú,25530,Los Vencedores,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.9721,-75.2227,3,los-vencedores
+PE,Peru,Perú,25530,Libertad de Pasarraya,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5983,-75.0416,3,libertad-de-pasarraya
+PE,Peru,Perú,25530,Nuevo Oriente,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8539,-75.1686,3,nuevo-oriente
+PE,Peru,Perú,25530,El Triunfo,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6838,-74.9851,3,el-triunfo
+PE,Peru,Perú,25530,Los Olivos,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7647,-74.7032,3,los-olivos
+PE,Peru,Perú,25530,Alexander Von Humboldt,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8288,-75.051,3,alexander-von-humboldt
+PE,Peru,Perú,25530,Pueblo Libre,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.934,-75.2939,4,pueblo-libre
+PE,Peru,Perú,25530,Nuevo Tahuantinsuyo,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7618,-75.2325,3,nuevo-tahuantinsuyo
+PE,Peru,Perú,25530,Bandeja Poza,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8118,-75.2488,3,bandeja-poza
+PE,Peru,Perú,25530,Nuevo Satipo,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5493,-75.0904,3,nuevo-satipo
+PE,Peru,Perú,25530,Nuevo San Juan Km 69,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7236,-75.0096,3,nuevo-san-juan-km-69
+PE,Peru,Perú,25530,Palestina,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.6852,-75.0675,3,palestina
+PE,Peru,Perú,25530,Miraflores,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8599,-75.3244,3,miraflores
+PE,Peru,Perú,25530,La Union,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.7881,-75.027,3,la-union
+PE,Peru,Perú,25530,Villa del Campo,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.5261,-75.0574,3,villa-del-campo
+PE,Peru,Perú,25530,Pampa Hermosa,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.9111,-75.3689,4,pampa-hermosa
+PE,Peru,Perú,25531,San Alejandro,Ucayali,25,Padre Abad,2503,Irazola,250302,-8.8294,-75.2133,,san-alejandro
+PE,Peru,Perú,25550,Miraflores,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0555,-75.6653,3,miraflores
+PE,Peru,Perú,25550,Santa Rosa,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.7398,-75.4777,4,santa-rosa
+PE,Peru,Perú,25550,Diana,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9782,-75.4344,3,diana
+PE,Peru,Perú,25550,Mediacion,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.974,-75.6569,3,mediacion
+PE,Peru,Perú,25550,Alto Previsto,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9202,-75.6933,3,alto-previsto
+PE,Peru,Perú,25550,Alto Oriental,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0855,-75.7312,3,alto-oriental
+PE,Peru,Perú,25550,Rio Blanco,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.967,-75.6195,3,rio-blanco
+PE,Peru,Perú,25550,Erika,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.071,-75.6944,3,erika
+PE,Peru,Perú,25550,Pindayo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.2454,-75.4864,3,pindayo
+PE,Peru,Perú,25550,Paujil,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9304,-75.675,3,paujil
+PE,Peru,Perú,25550,Pandishal,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9776,-75.4297,3,pandishal
+PE,Peru,Perú,25550,Nuevo San Martin,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.6773,-75.4547,3,nuevo-san-martin
+PE,Peru,Perú,25550,Nuevo Progreso,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.7705,-75.4792,3,nuevo-progreso
+PE,Peru,Perú,25550,Nuevo Porvenir Santa Anita,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9577,-75.5004,3,nuevo-porvenir-santa-anita
+PE,Peru,Perú,25550,Nuevo Porvenir,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1331,-75.4935,3,nuevo-porvenir
+PE,Peru,Perú,25550,Nuevo Paraiso,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.7125,-75.4831,3,nuevo-paraiso
+PE,Peru,Perú,25550,Nuevo Mundo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1097,-75.7096,3,nuevo-mundo
+PE,Peru,Perú,25550,Nuevo Jordan,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9652,-75.4308,3,nuevo-jordan
+PE,Peru,Perú,25550,Nuevo Bellavista,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.7523,-75.4824,3,nuevo-bellavista
+PE,Peru,Perú,25550,Aguas Verdes,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9789,-75.4468,3,aguas-verdes
+PE,Peru,Perú,25550,3 de Octubre,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1003,-75.7941,3,3-de-octubre
+PE,Peru,Perú,25550,Mariscal Caceres,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8085,-75.5396,3,mariscal-caceres
+PE,Peru,Perú,25550,Mariela,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0589,-75.6378,3,mariela
+PE,Peru,Perú,25550,Mapuya,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1101,-75.4782,3,mapuya
+PE,Peru,Perú,25550,Llanta Blanca,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9815,-75.4352,3,llanta-blanca
+PE,Peru,Perú,25550,La Punta,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9966,-75.4537,3,la-punta
+PE,Peru,Perú,25550,La Libertad,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0677,-75.6823,3,la-libertad
+PE,Peru,Perú,25550,La Divisoria,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1019,-75.8029,3,la-divisoria
+PE,Peru,Perú,25550,Inca Garcilazo de la Vega,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0174,-75.7941,3,inca-garcilazo-de-la-vega
+PE,Peru,Perú,25550,Huipoca,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.978,-75.4456,3,huipoca
+PE,Peru,Perú,25550,Huacamaillo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.838,-75.4194,3,huacamaillo
+PE,Peru,Perú,25550,Hormiga,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8753,-75.7167,3,hormiga
+PE,Peru,Perú,25550,Hidayacu,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0811,-75.7172,3,hidayacu
+PE,Peru,Perú,25550,Primero de Mayo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9662,-75.5048,3,primero-de-mayo
+PE,Peru,Perú,25550,Chancadora,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0949,-75.7685,3,chancadora
+PE,Peru,Perú,25550,Centro Yurac,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0648,-75.5673,3,centro-yurac
+PE,Peru,Perú,25550,Cedruyo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0697,-75.4767,3,cedruyo
+PE,Peru,Perú,25550,Carachupa,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.2333,-75.4965,3,carachupa
+PE,Peru,Perú,25550,Brisas de Shanantia,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.877,-75.3987,3,brisas-de-shanantia
+PE,Peru,Perú,25550,Boqueron,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0769,-75.6926,3,boqueron
+PE,Peru,Perú,25550,Barrio Unido,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0375,-75.4901,3,barrio-unido
+PE,Peru,Perú,25550,Bajo Shambillo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9729,-75.6413,3,bajo-shambillo
+PE,Peru,Perú,25550,Bajo San Pedro,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9211,-75.4952,3,bajo-san-pedro
+PE,Peru,Perú,25550,Bajo Guayabal,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.2867,-75.4715,3,bajo-guayabal
+PE,Peru,Perú,25550,Alto Shambillo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.001,-75.6827,3,alto-shambillo
+PE,Peru,Perú,25550,Alto Miraflores,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0436,-75.7029,3,alto-miraflores
+PE,Peru,Perú,25550,Alto Huipoca,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9938,-75.4322,3,alto-huipoca
+PE,Peru,Perú,25550,Alto Huacamayo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1544,-75.5483,3,alto-huacamayo
+PE,Peru,Perú,25550,Los Olivos,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.6336,-75.4347,3,los-olivos
+PE,Peru,Perú,25550,El Porvenir,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9856,-75.4524,3,el-porvenir
+PE,Peru,Perú,25550,Margarita,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0552,-75.8354,3,margarita
+PE,Peru,Perú,25550,Alto Guayabal,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.3058,-75.4813,3,alto-guayabal
+PE,Peru,Perú,25550,Minas de Sal,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1376,-75.7931,3,minas-de-sal
+PE,Peru,Perú,25550,Miguel Grau,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0042,-75.4834,3,miguel-grau
+PE,Peru,Perú,25550,Micaela Bastidas,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.938,-75.6253,3,micaela-bastidas
+PE,Peru,Perú,25550,Monterrey,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9521,-75.4438,3,monterrey
+PE,Peru,Perú,25550,Mebananu,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8644,-75.525,3,mebananu
+PE,Peru,Perú,25550,Progreso de Santa Ana,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9951,-75.7398,3,progreso-de-santa-ana
+PE,Peru,Perú,25550,Puerto Azul,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1949,-75.5192,3,puerto-azul
+PE,Peru,Perú,25550,Rio Negro,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.9233,-75.5788,3,rio-negro
+PE,Peru,Perú,25550,San Antonio Alto,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.81,-75.4574,3,san-antonio-alto
+PE,Peru,Perú,25550,San Antonio Bajo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8655,-75.4967,3,san-antonio-bajo
+PE,Peru,Perú,25550,San Pedro Vista Alegre,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1642,-75.5121,3,san-pedro-vista-alegre
+PE,Peru,Perú,25550,Sapoyacu,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1779,-75.5109,3,sapoyacu
+PE,Peru,Perú,25550,Selva Turistica,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8628,-75.5914,3,selva-turistica
+PE,Peru,Perú,25550,Shambo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8904,-75.6866,3,shambo
+PE,Peru,Perú,25550,Shanantia,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8977,-75.4155,3,shanantia
+PE,Peru,Perú,25550,Tara Huaca,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8028,-75.3772,3,tara-huaca
+PE,Peru,Perú,25550,Tarhuaquillo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.7855,-75.3834,3,tarhuaquillo
+PE,Peru,Perú,25550,San Miguel,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0808,-75.45,4,san-miguel
+PE,Peru,Perú,25550,Buenos Aires,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8371,-75.3562,4,buenos-aires
+PE,Peru,Perú,25550,Previsto,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0906,-75.7369,4,previsto
+PE,Peru,Perú,25550,Santa Ana,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.5864,-75.398,4,santa-ana
+PE,Peru,Perú,25550,Huacamayo,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0019,-75.4808,4,huacamayo
+PE,Peru,Perú,25550,Tangarana,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1152,-75.5657,4,tangarana
+PE,Peru,Perú,25550,Nueva Chonta,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1307,-75.5193,3,nueva-chonta
+PE,Peru,Perú,25550,Nueva Amanecer,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8886,-75.584,3,nueva-amanecer
+PE,Peru,Perú,25550,Nueva Palestina,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0048,-75.7476,3,nueva-palestina
+PE,Peru,Perú,25550,Nueva Primavera,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.099,-75.5097,3,nueva-primavera
+PE,Peru,Perú,25550,Andres Avelino Caceres,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8645,-75.6357,3,andres-avelino-caceres
+PE,Peru,Perú,25550,Valle Pampa Hermosa,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0972,-75.4467,3,valle-pampa-hermosa
+PE,Peru,Perú,25550,Valle de Sion,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.6321,-75.3688,3,valle-de-sion
+PE,Peru,Perú,25550,Nueva Esperanza (Yamino),Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.8165,-75.5652,3,nueva-esperanza-yamino
+PE,Peru,Perú,25550,Pampa Hermosa,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1037,-75.5955,4,pampa-hermosa
+PE,Peru,Perú,25550,Miguel Grau Seminario,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1035,-75.8134,3,miguel-grau-seminario
+PE,Peru,Perú,25550,Nueva Union,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-8.7968,-75.4285,3,nueva-union
+PE,Peru,Perú,25550,Puerto Burro,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.1192,-75.506,3,puerto-burro
+PE,Peru,Perú,25551,Aguaytia,Ucayali,25,Padre Abad,2503,Padre Abad,250301,-9.0378,-75.5091,4,aguaytia
+PE,Peru,Perú,25600,Pueblo Libre,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4994,-75.0595,4,pueblo-libre
+PE,Peru,Perú,25600,Canaan de Piedra,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.5109,-75.1043,3,canaan-de-piedra
+PE,Peru,Perú,25600,Nuevo San Juan,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.418,-75.2122,3,nuevo-san-juan
+PE,Peru,Perú,25600,Vista Alegre,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3918,-75.092,4,vista-alegre
+PE,Peru,Perú,25600,Bello Horizonte,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.446,-75.2576,4,bello-horizonte
+PE,Peru,Perú,25600,Dos de Mayo,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4591,-75.1496,4,dos-de-mayo
+PE,Peru,Perú,25600,San Juan,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4089,-75.2099,4,san-juan
+PE,Peru,Perú,25600,Las Mercedes,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4262,-75.2405,3,las-mercedes
+PE,Peru,Perú,25600,Nuevo San Jose,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4275,-75.2293,3,nuevo-san-jose
+PE,Peru,Perú,25600,Pindayo (Anexo de Bello Horizonte),Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4408,-75.2945,3,pindayo-anexo-de-bello-horizonte
+PE,Peru,Perú,25600,Roca Fuerte,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3665,-75.0886,3,roca-fuerte
+PE,Peru,Perú,25600,Zorrillos,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4335,-75.2118,3,zorrillos
+PE,Peru,Perú,25600,Flor del Valle,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.5067,-75.1151,3,flor-del-valle
+PE,Peru,Perú,25600,Nueva Libertad Rio Neshu,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4338,-75.0289,3,nueva-libertad-rio-neshu
+PE,Peru,Perú,25600,Andres Avelino Caceres,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3736,-75.0383,3,andres-avelino-caceres
+PE,Peru,Perú,25600,San Juan de Tahuapoa,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3642,-75.0653,3,san-juan-de-tahuapoa
+PE,Peru,Perú,25600,Sol Naciente,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3905,-75.043,3,sol-naciente
+PE,Peru,Perú,25600,Zona Patria,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4706,-75.0751,3,zona-patria
+PE,Peru,Perú,25600,Nueva Meriba,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.5043,-75.1016,3,nueva-meriba
+PE,Peru,Perú,25600,Las Malvinas,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4067,-75.087,3,las-malvinas
+PE,Peru,Perú,25600,Maronal,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4923,-75.0703,3,maronal
+PE,Peru,Perú,25600,Monte Sinai,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4992,-75.0471,3,monte-sinai
+PE,Peru,Perú,25600,Nueva Alianza,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3848,-75.1241,3,nueva-alianza
+PE,Peru,Perú,25600,Nuevo Jerusalen,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4851,-75.211,3,nuevo-jerusalen
+PE,Peru,Perú,25600,16 de Noviembre,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4123,-75.0721,3,16-de-noviembre
+PE,Peru,Perú,25600,10 de Marzo,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.436,-75.0915,3,10-de-marzo
+PE,Peru,Perú,25600,Contayo,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.5138,-75.3413,3,contayo
+PE,Peru,Perú,25600,Agua Dulce,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4748,-75.3318,3,agua-dulce
+PE,Peru,Perú,25600,Arenal Grande,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3756,-75.1387,3,arenal-grande
+PE,Peru,Perú,25600,Cambio Noventa,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4149,-75.1271,3,cambio-noventa
+PE,Peru,Perú,25600,Nuevo Paraiso,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.5261,-75.1203,3,nuevo-paraiso
+PE,Peru,Perú,25600,Arenalillo,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4411,-75.1881,3,arenalillo
+PE,Peru,Perú,25600,Nueva Bellavista,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.5069,-75.0726,3,nueva-bellavista
+PE,Peru,Perú,25600,Nuevo Porvenir,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.3733,-75.0823,3,nuevo-porvenir
+PE,Peru,Perú,25601,Curimana,Ucayali,25,Padre Abad,2503,Curimana,250303,-8.4371,-75.1594,,curimana
+PE,Peru,Perú,25400,El Triunfo,Ucayali,25,Purus,2504,Purús,250401,-10.0533,-71.1408,3,el-triunfo
+PE,Peru,Perú,25400,Alberto Delgado,Ucayali,25,Purus,2504,Purús,250401,-9.6247,-70.6348,3,alberto-delgado
+PE,Peru,Perú,25400,Monterrey,Ucayali,25,Purus,2504,Purús,250401,-10.4145,-71.1521,3,monterrey
+PE,Peru,Perú,25400,Piquiniki,Ucayali,25,Purus,2504,Purús,250401,-9.7934,-70.7832,3,piquiniki
+PE,Peru,Perú,25400,Nueva Vida,Ucayali,25,Purus,2504,Purús,250401,-10.0082,-71.078,4,nueva-vida
+PE,Peru,Perú,25400,Jose Pardo,Ucayali,25,Purus,2504,Purús,250401,-9.4833,-70.6333,4,jose-pardo
+PE,Peru,Perú,25400,Balta,Ucayali,25,Purus,2504,Purús,250401,-10.0936,-71.1846,4,balta
+PE,Peru,Perú,25400,Santa Clara,Ucayali,25,Purus,2504,Purús,250401,-10.0687,-71.1381,3,santa-clara
+PE,Peru,Perú,25400,Esperanza,Ucayali,25,Purus,2504,Purús,250401,-9.7967,-70.7435,4,esperanza
+PE,Peru,Perú,25400,Catay,Ucayali,25,Purus,2504,Purús,250401,-9.6765,-70.6428,4,catay
+PE,Peru,Perú,25400,Curanjillo,Ucayali,25,Purus,2504,Purús,250401,-9.9859,-71.0611,3,curanjillo
+PE,Peru,Perú,25400,Canta Gallo,Ucayali,25,Purus,2504,Purús,250401,-9.8059,-70.7897,4,canta-gallo
+PE,Peru,Perú,25400,San Francisco,Ucayali,25,Purus,2504,Purús,250401,-9.7759,-70.727,4,san-francisco
+PE,Peru,Perú,25400,Cashuera,Ucayali,25,Purus,2504,Purús,250401,-9.8035,-70.8173,3,cashuera
+PE,Peru,Perú,25400,Colombiana,Ucayali,25,Purus,2504,Purús,250401,-10.0581,-71.0917,3,colombiana
+PE,Peru,Perú,25400,Conta,Ucayali,25,Purus,2504,Purús,250401,-9.8,-70.7445,3,conta
+PE,Peru,Perú,25400,Mafalda,Ucayali,25,Purus,2504,Purús,250401,-10.1118,-71.0101,3,mafalda
+PE,Peru,Perú,25400,Puerto Paz,Ucayali,25,Purus,2504,Purús,250401,-10.1473,-71.2543,3,puerto-paz
+PE,Peru,Perú,25400,Puerto Betel,Ucayali,25,Purus,2504,Purús,250401,-9.8978,-70.9451,3,puerto-betel
+PE,Peru,Perú,25400,Pozo San Martin,Ucayali,25,Purus,2504,Purús,250401,-9.5315,-70.5564,3,pozo-san-martin
+PE,Peru,Perú,25400,Eber,Ucayali,25,Purus,2504,Purús,250401,-9.8652,-70.856,3,eber
+PE,Peru,Perú,25400,Fundo Dina,Ucayali,25,Purus,2504,Purús,250401,-10.1668,-71.0118,3,fundo-dina
+PE,Peru,Perú,25400,Fundo San Juan,Ucayali,25,Purus,2504,Purús,250401,-9.9162,-70.8683,3,fundo-san-juan
+PE,Peru,Perú,25400,Gasta Bala,Ucayali,25,Purus,2504,Purús,250401,-10.1567,-70.9935,3,gasta-bala
+PE,Peru,Perú,25400,Gran Viña,Ucayali,25,Purus,2504,Purús,250401,-9.7766,-70.6722,3,gran-vina
+PE,Peru,Perú,25400,Laureano,Ucayali,25,Purus,2504,Purús,250401,-10.3823,-71.127,3,laureano
+PE,Peru,Perú,25400,Miguel Grau,Ucayali,25,Purus,2504,Purús,250401,-9.947,-70.9243,3,miguel-grau
+PE,Peru,Perú,25400,Mi Peru,Ucayali,25,Purus,2504,Purús,250401,-9.7528,-70.7335,3,mi-peru
+PE,Peru,Perú,25400,Nueva Alianza,Ucayali,25,Purus,2504,Purús,250401,-9.552,-70.579,3,nueva-alianza
+PE,Peru,Perú,25400,Nueva Esperanza,Ucayali,25,Purus,2504,Purús,250401,-9.9261,-70.8874,3,nueva-esperanza
+PE,Peru,Perú,25400,San Miguel,Ucayali,25,Purus,2504,Purús,250401,-10.0363,-70.9813,4,san-miguel
+PE,Peru,Perú,25400,San Marcos,Ucayali,25,Purus,2504,Purús,250401,-9.884,-70.8743,4,san-marcos
+PE,Peru,Perú,25400,Nueva Luz,Ucayali,25,Purus,2504,Purús,250401,-9.9536,-71.019,3,nueva-luz
+PE,Peru,Perú,25400,Peruanita,Ucayali,25,Purus,2504,Purús,250401,-9.8623,-70.9033,3,peruanita
+PE,Peru,Perú,25400,Pankirensi,Ucayali,25,Purus,2504,Purús,250401,-9.7214,-70.6799,3,pankirensi
+PE,Peru,Perú,25400,Nuevo Belen,Ucayali,25,Purus,2504,Purús,250401,-9.7905,-70.735,3,nuevo-belen
+PE,Peru,Perú,25400,Nuevo Progreso,Ucayali,25,Purus,2504,Purús,250401,-9.7056,-70.6522,3,nuevo-progreso
+PE,Peru,Perú,25400,San Martin de Porres,Ucayali,25,Purus,2504,Purús,250401,-9.8141,-70.8557,4,san-martin-de-porres
+PE,Peru,Perú,25400,Nuevo Jordan,Ucayali,25,Purus,2504,Purús,250401,-9.8489,-70.8768,3,nuevo-jordan
+PE,Peru,Perú,25400,Naranjal,Ucayali,25,Purus,2504,Purús,250401,-9.5182,-70.5525,3,naranjal
+PE,Peru,Perú,25400,Nuevo Paraiso,Ucayali,25,Purus,2504,Purús,250401,-10.094,-71.0008,3,nuevo-paraiso
+PE,Peru,Perú,25400,Renacimiento Ashaninka,Ucayali,25,Purus,2504,Purús,250401,-9.7034,-70.7087,3,renacimiento-ashaninka
+PE,Peru,Perú,25400,Javier,Ucayali,25,Purus,2504,Purús,250401,-9.8117,-70.7116,3,javier
+PE,Peru,Perú,25400,Salon de Shambuyacu,Ucayali,25,Purus,2504,Purús,250401,-9.581,-70.5998,3,salon-de-shambuyacu
+PE,Peru,Perú,25400,Bufeo,Ucayali,25,Purus,2504,Purús,250401,-9.7912,-70.8009,3,bufeo
+PE,Peru,Perú,25400,San Bernardo,Ucayali,25,Purus,2504,Purús,250401,-9.586,-70.6149,3,san-bernardo
+PE,Peru,Perú,25400,Santa Rey,Ucayali,25,Purus,2504,Purús,250401,-10.096,-71.1981,3,santa-rey
+PE,Peru,Perú,25400,Tres Bolas,Ucayali,25,Purus,2504,Purús,250401,-9.6863,-70.6559,3,tres-bolas
+PE,Peru,Perú,25400,San Jose,Ucayali,25,Purus,2504,Purús,250401,-9.7953,-70.7242,4,san-jose
+PE,Peru,Perú,25400,Santa Margarita,Ucayali,25,Purus,2504,Purús,250401,-10.0116,-70.9613,3,santa-margarita
+PE,Peru,Perú,25400,Sinai,Ucayali,25,Purus,2504,Purús,250401,-9.6508,-70.6036,3,sinai
+PE,Peru,Perú,25400,Zapote,Ucayali,25,Purus,2504,Purús,250401,-9.8514,-70.8568,3,zapote
+PE,Peru,Perú,25400,Bola de Oro,Ucayali,25,Purus,2504,Purús,250401,-9.7275,-70.6856,3,bola-de-oro

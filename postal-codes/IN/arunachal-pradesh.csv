@@ -1,0 +1,303 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+IN,India,India,790104,B.Supply,Arunachal Pradesh,30,Tawang,245,Tawang,,27.5811,91.8694,3,b-supply
+IN,India,India,790104,Temple Gompa,Arunachal Pradesh,30,Tawang,245,Tawang,,27.5811,91.8694,3,temple-gompa
+IN,India,India,790104,Tawang,Arunachal Pradesh,30,Tawang,245,Tawang,,27.5742,91.795,4,tawang
+IN,India,India,790104,Sakpret,Arunachal Pradesh,30,Tawang,245,Tawang,,27.5811,91.8694,3,sakpret
+IN,India,India,790104,Lumberdung,Arunachal Pradesh,30,Tawang,245,Tawang,,27.5811,91.8694,3,lumberdung
+IN,India,India,790104,Lhou,Arunachal Pradesh,30,Tawang,245,Tawang,,27.5799,91.9403,4,lhou
+IN,India,India,790104,Kitpi,Arunachal Pradesh,30,Tawang,245,Tawang,,27.5891,91.8728,4,kitpi
+IN,India,India,790105,Thingbu,Arunachal Pradesh,30,Tawang,245,Jang,,27.6598,92.1014,4,thingbu
+IN,India,India,790105,Mukto,Arunachal Pradesh,30,Tawang,245,Jang,,27.5242,91.9125,4,mukto
+IN,India,India,790105,Jang,Arunachal Pradesh,30,Tawang,245,Tang,,27.5667,91.9833,4,jang
+IN,India,India,790106,Lumla,Arunachal Pradesh,30,Tawang,245,Lumla,,27.5308,91.7237,4,lumla
+IN,India,India,790106,Gispu,Arunachal Pradesh,30,Tawang,245,Lumla,,27.6619,91.9536,3,gispu
+IN,India,India,790106,Zemithang,Arunachal Pradesh,30,Tawang,245,Zemithang,,27.7094,91.7275,4,zemithang
+IN,India,India,790001,Nafra,Arunachal Pradesh,30,West Kameng,246,Nafra,,27.3711,92.5441,4,nafra
+IN,India,India,790001,Bomdila,Arunachal Pradesh,30,West Kameng,246,Bomdila,,27.2647,92.4247,4,bomdila
+IN,India,India,790001,Thrizino,Arunachal Pradesh,30,West Kameng,246,Bomdila,,27.3167,92.4468,3,thrizino
+IN,India,India,790001,Palizi,Arunachal Pradesh,30,West Kameng,246,Bomdila,,27.3167,92.4468,3,palizi
+IN,India,India,790001,Salari,Arunachal Pradesh,30,West Kameng,246,Salari,,27.3167,92.4468,3,salari
+IN,India,India,790002,Tenzingaon,Arunachal Pradesh,30,West Kameng,246,Kalaktang,,27.03,92.125,3,tenzingaon
+IN,India,India,790002,Kalaktang,Arunachal Pradesh,30,West Kameng,246,Kalaktang,,27.1006,92.1039,4,kalaktang
+IN,India,India,790002,Balemu,Arunachal Pradesh,30,West Kameng,246,Kalaktang,,26.9594,92.1461,4,balemu
+IN,India,India,790003,Rupa,Arunachal Pradesh,30,West Kameng,246,Rupa,,27.2048,92.4008,4,rupa
+IN,India,India,790003,Shergaon,Arunachal Pradesh,30,West Kameng,246,Rupa,,27.1257,92.2589,4,shergaon
+IN,India,India,790101,Sangti,Arunachal Pradesh,30,West Kameng,246,Sangti,,27.4,92.1833,3,sangti
+IN,India,India,790101,Senge,Arunachal Pradesh,30,West Kameng,246,Senge,,27.4667,92.1,4,senge
+IN,India,India,790101,Dirang Basti,Arunachal Pradesh,30,West Kameng,246,Dirang Basti,,27.4,92.1833,3,dirang-basti
+IN,India,India,790101,Lish,Arunachal Pradesh,30,West Kameng,246,Lish,,27.4,92.1833,3,lish
+IN,India,India,790101,Munna Camp,Arunachal Pradesh,30,West Kameng,246,Munna Camp,,27.4,92.1833,3,munna-camp
+IN,India,India,790101,Dirang,Arunachal Pradesh,30,West Kameng,246,Dirang,,27.3333,92.2667,4,dirang
+IN,India,India,790114,Khellong,Arunachal Pradesh,30,West Kameng,246,Khellong,,27.2625,92.439,1,khellong
+IN,India,India,790114,Tippi,Arunachal Pradesh,30,West Kameng,246,Tippi,,27.2625,92.439,1,tippi
+IN,India,India,790114,Bhalukpong,Arunachal Pradesh,30,West Kameng,246,Bhalukpong,,27.2625,92.439,1,bhalukpong
+IN,India,India,790116,Singchung,Arunachal Pradesh,30,West Kameng,246,Tenga Market,,27.2107,92.5065,4,singchung
+IN,India,India,790116,Dedza,Arunachal Pradesh,30,West Kameng,246,Tenga Market,,27.2625,92.439,3,dedza
+IN,India,India,790116,Dahung,Arunachal Pradesh,30,West Kameng,246,Tenga Market,,27.3143,92.3716,4,dahung
+IN,India,India,790116,Tenga Market,Arunachal Pradesh,30,West Kameng,246,Tengaf Market,,27.2625,92.439,3,tenga-market
+IN,India,India,790102,Khenewa,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.4411,92.968,3,khenewa
+IN,India,India,790102,Chyangtajo,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.4411,92.968,3,chyangtajo
+IN,India,India,790102,P.Kessang,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.4411,92.968,3,p-kessang
+IN,India,India,790102,Veo,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.4411,92.968,3,veo
+IN,India,India,790102,Bameng,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.5466,92.9477,4,bameng
+IN,India,India,790102,Bana,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.4411,92.968,4,bana
+IN,India,India,790102,Seppa,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.3617,93.0399,4,seppa
+IN,India,India,790102,Lada,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.5723,92.7748,4,lada
+IN,India,India,790102,Pipu-dipu,Arunachal Pradesh,30,East Kameng,247,Seppa,,27.5169,93.0534,4,pipu-dipu
+IN,India,India,790103,Seijosa,Arunachal Pradesh,30,East Kameng,247,Seijosa,,27.4411,92.968,1,seijosa
+IN,India,India,790001,Rahung,Arunachal Pradesh,30,Papum Pare,248,NA,,27.2888,93.5969,4,rahung
+IN,India,India,791001,Pessing,Arunachal Pradesh,30,Papum Pare,248,NA,,27.2888,93.5969,3,pessing
+IN,India,India,791109,Nirjuli,Arunachal Pradesh,30,Papum Pare,248,Nirjuli,,27.1329,93.7465,4,nirjuli
+IN,India,India,791110,Model Village,Arunachal Pradesh,30,Papum Pare,248,Naharlagun,,27.1257,93.7072,3,model-village
+IN,India,India,791110,Naharlagun,Arunachal Pradesh,30,Papum Pare,248,Naharlagun,,27.1047,93.6952,4,naharlagun
+IN,India,India,791110,Yupia,Arunachal Pradesh,30,Papum Pare,248,Yupia,,27.1467,93.7192,4,yupia
+IN,India,India,791111,Arunachal Pradesh Secretariat,Arunachal Pradesh,30,Papum Pare,248,Itanagar,,27.2888,93.5969,1,arunachal-pradesh-secretariat
+IN,India,India,791111,Itanagar H.O,Arunachal Pradesh,30,Papum Pare,248,Itanagar,,27.2888,93.5969,1,itanagar-h-o
+IN,India,India,791112,Arunachal University,Arunachal Pradesh,30,Papum Pare,248,Yupia,,27.1763,93.7551,3,arunachal-university
+IN,India,India,791112,Doimukh,Arunachal Pradesh,30,Papum Pare,248,Diomukh,,27.1454,93.7532,4,doimukh
+IN,India,India,791112,Midpu,Arunachal Pradesh,30,Papum Pare,248,Doimukh,,27.2072,93.757,4,midpu
+IN,India,India,791112,Kheel,Arunachal Pradesh,30,Papum Pare,248,Doimukh,,27.1763,93.7551,3,kheel
+IN,India,India,791113,Jully,Arunachal Pradesh,30,Papum Pare,248,Itanagar,,27.2888,93.5969,1,jully
+IN,India,India,791113,Suchana Nagar,Arunachal Pradesh,30,Papum Pare,248,NA,,27.2888,93.5969,1,suchana-nagar
+IN,India,India,791113,Ram Krishna Mission,Arunachal Pradesh,30,Papum Pare,248,Itanagar,,27.2888,93.5969,1,ram-krishna-mission
+IN,India,India,791113,Donyi Polo,Arunachal Pradesh,30,Papum Pare,248,Itanagar,,27.2888,93.5969,1,donyi-polo
+IN,India,India,791113,Vidya Vihar,Arunachal Pradesh,30,Papum Pare,248,Itanagar,,27.2888,93.5969,1,vidya-vihar
+IN,India,India,791114,Sagalee,Arunachal Pradesh,30,Papum Pare,248,Sagalee,,27.2338,93.4965,4,sagalee
+IN,India,India,791119,Mengio,Arunachal Pradesh,30,Papum Pare,248,Ziro,,27.5178,93.4971,4,mengio
+IN,India,India,791121,Kimin,Arunachal Pradesh,30,Papum Pare,248,Kimin,,27.2888,93.5969,1,kimin
+IN,India,India,791121,Hawa Camp,Arunachal Pradesh,30,Papum Pare,248,Kimin,,27.2888,93.5969,1,hawa-camp
+IN,India,India,791123,Balijan,Arunachal Pradesh,30,Papum Pare,248,Balijan,,26.9494,93.5018,4,balijan
+IN,India,India,791123,Banderdewa,Arunachal Pradesh,30,Papum Pare,248,Banderdewa,,27.0956,93.827,4,banderdewa
+IN,India,India,791123,Sonajuli,Arunachal Pradesh,30,Papum Pare,248,Sonajuli,,27.2888,93.5969,3,sonajuli
+IN,India,India,791123,Kokila,Arunachal Pradesh,30,Papum Pare,248,Kokila,,27.2888,93.5969,3,kokila
+IN,India,India,791123,Kolaptukar,Arunachal Pradesh,30,Papum Pare,248,Raga,,27.2888,93.5969,3,kolaptukar
+IN,India,India,792104,Meteliang,Arunachal Pradesh,30,Papum Pare,248,Hayuliang,,27.2888,93.5969,3,meteliang
+IN,India,India,792104,Chaglagam,Arunachal Pradesh,30,Papum Pare,248,Hayuliang,,27.2888,93.5969,4,chaglagam
+IN,India,India,792104,Yatong,Arunachal Pradesh,30,Papum Pare,248,Hayuliang,,27.2888,93.5969,3,yatong
+IN,India,India,792104,Khopa,Arunachal Pradesh,30,Papum Pare,248,Hayulinag,,27.2888,93.5969,3,khopa
+IN,India,India,792104,Kibitho,Arunachal Pradesh,30,Papum Pare,248,Hayuliang,,27.2888,93.5969,3,kibitho
+IN,India,India,792104,Goiliang,Arunachal Pradesh,30,Papum Pare,248,Hayuliang,,27.2888,93.5969,4,goiliang
+IN,India,India,792104,Hawai,Arunachal Pradesh,30,Papum Pare,248,Hayuliang,,27.2888,93.5969,4,hawai
+IN,India,India,792104,Wallong,Arunachal Pradesh,30,Papum Pare,248,Hayuliang,,27.2888,93.5969,3,wallong
+IN,India,India,791122,Muri,Arunachal Pradesh,30,Upper Subansiri,249,Muri,,28.1677,94.031,3,muri
+IN,India,India,791122,Sippi,Arunachal Pradesh,30,Upper Subansiri,249,Sippi,,28.1677,94.031,3,sippi
+IN,India,India,791122,Maro,Arunachal Pradesh,30,Upper Subansiri,249,Maro,,27.9758,94.4214,4,maro
+IN,India,India,791122,Tabarijo,Arunachal Pradesh,30,Upper Subansiri,249,Tabarijo,,28.1677,94.031,3,tabarijo
+IN,India,India,791122,Daporijo,Arunachal Pradesh,30,Upper Subansiri,249,Daporijo,,27.9911,94.2295,4,daporijo
+IN,India,India,791122,Taliha,Arunachal Pradesh,30,Upper Subansiri,249,Taliha,,28.2322,94.1442,4,taliha
+IN,India,India,791122,Nacho,Arunachal Pradesh,30,Upper Subansiri,249,Nacho,,28.3769,93.8423,4,nacho
+IN,India,India,791122,Taksing,Arunachal Pradesh,30,Upper Subansiri,249,Taksing,,28.3748,93.2437,4,taksing
+IN,India,India,791122,Siyum,Arunachal Pradesh,30,Upper Subansiri,249,Siyum,,28.3426,94.0346,4,siyum
+IN,India,India,791122,Lemiking,Arunachal Pradesh,30,Upper Subansiri,249,Lemiking,,28.1677,94.031,3,lemiking
+IN,India,India,791122,Lepajaring,Arunachal Pradesh,30,Upper Subansiri,249,Lepajaring,,28.1677,94.031,3,lepajaring
+IN,India,India,791122,Dumporijo,Arunachal Pradesh,30,Upper Subansiri,249,Dumporijo,,27.9568,94.2891,4,dumporijo
+IN,India,India,791122,Giba,Arunachal Pradesh,30,Upper Subansiri,249,Giba,,28.0914,94.0431,4,giba
+IN,India,India,791001,Along,Arunachal Pradesh,30,West Siang,250,Bordumsa Circle,,28.1695,94.8006,4,along
+IN,India,India,791001,Rumgong,Arunachal Pradesh,30,West Siang,250,Gumgong,,28.3099,94.8852,4,rumgong
+IN,India,India,791001,Nikte,Arunachal Pradesh,30,West Siang,250,Nikte,,28.111,94.6902,4,nikte
+IN,India,India,791001,Bagra,Arunachal Pradesh,30,West Siang,250,Bagra,,28.0817,94.7531,4,bagra
+IN,India,India,791001,Tato,Arunachal Pradesh,30,West Siang,250,Tato,,28.5275,94.3725,4,tato
+IN,India,India,791001,Darak,Arunachal Pradesh,30,West Siang,250,Darak,,28.1924,94.6015,4,darak
+IN,India,India,791001,Monigong,Arunachal Pradesh,30,West Siang,250,Monigong,,28.6136,94.0682,4,monigong
+IN,India,India,791001,Yomcha,Arunachal Pradesh,30,West Siang,250,Yomcha,,28.1264,94.5522,4,yomcha
+IN,India,India,791001,Kaying,Arunachal Pradesh,30,West Siang,250,Kaying,,28.4116,94.6805,4,kaying
+IN,India,India,791001,Kambang,Arunachal Pradesh,30,West Siang,250,Kambang,,28.2358,94.6634,4,kambang
+IN,India,India,791001,Yoji Yora,Arunachal Pradesh,30,West Siang,250,Yoji Yora,,28.2779,94.6067,3,yoji-yora
+IN,India,India,791001,Vivek Nagar,Arunachal Pradesh,30,West Siang,250,Vivek Nagar,,28.2779,94.6067,3,vivek-nagar
+IN,India,India,791001,Kombo,Arunachal Pradesh,30,West Siang,250,Kombo,,28.2779,94.6067,3,kombo
+IN,India,India,791001,Bene,Arunachal Pradesh,30,West Siang,250,Bene,,28.2779,94.6067,3,bene
+IN,India,India,791001,Payum,Arunachal Pradesh,30,West Siang,250,Payum,,28.2779,94.6067,3,payum
+IN,India,India,791001,Logum Jining,Arunachal Pradesh,30,West Siang,250,Logum Jining,,28.2779,94.6067,3,logum-jining
+IN,India,India,791001,Darka,Arunachal Pradesh,30,West Siang,250,Darka,,28.2779,94.6067,3,darka
+IN,India,India,791003,Mechuka,Arunachal Pradesh,30,West Siang,250,Mechuka,,28.5975,94.1318,4,mechuka
+IN,India,India,791101,Liromoba,Arunachal Pradesh,30,West Siang,250,Liromoba,,28.0722,94.4956,4,liromoba
+IN,India,India,791101,Tirbin,Arunachal Pradesh,30,West Siang,250,Tirbin,,28.0217,94.5734,4,tirbin
+IN,India,India,791101,Dali,Arunachal Pradesh,30,West Siang,250,Dali,,27.9892,94.6457,3,dali
+IN,India,India,791101,Basar (West Siang),Arunachal Pradesh,30,West Siang,250,Basar,,27.9901,94.6945,4,basar-west-siang
+IN,India,India,791101,Bame,Arunachal Pradesh,30,West Siang,250,Bame,,27.9892,94.6457,3,bame
+IN,India,India,791101,Daring,Arunachal Pradesh,30,West Siang,250,Daring,,27.8727,94.8192,4,daring
+IN,India,India,791125,Gensi,Arunachal Pradesh,30,West Siang,250,Likabali,,27.8201,94.6186,4,gensi
+IN,India,India,791125,Garu,Arunachal Pradesh,30,West Siang,250,Likabali,,28.3209,94.5116,3,garu
+IN,India,India,791125,Likabali,Arunachal Pradesh,30,West Siang,250,Likabali,,28.3209,94.5116,3,likabali
+IN,India,India,791102,Yagrung,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.0118,95.23,4,yagrung
+IN,India,India,791102,Sille,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.9463,95.1843,3,sille
+IN,India,India,791102,Ledum,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.9463,95.1843,3,ledum
+IN,India,India,791102,Balek,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.0643,95.2918,4,balek
+IN,India,India,791102,Pasighat,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.0663,95.3268,4,pasighat
+IN,India,India,791102,Rani,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.9463,95.1843,3,rani
+IN,India,India,791102,Debing,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.9463,95.1843,3,debing
+IN,India,India,791102,Nari,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.7945,95.0456,4,nari
+IN,India,India,791102,Korang,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.9321,95.0552,4,korang
+IN,India,India,791102,Koyu,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.98,94.974,4,koyu
+IN,India,India,791102,Bilat,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.9395,95.1943,4,bilat
+IN,India,India,791102,Oyan,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.8824,95.3176,4,oyan
+IN,India,India,791102,Ruksin,Arunachal Pradesh,30,East Siang,251,Pasighat,,27.8454,95.223,4,ruksin
+IN,India,India,791103,GTC,Arunachal Pradesh,30,East Siang,251,Pasight,,28.3216,95.0541,3,gtc
+IN,India,India,791103,Hill Top,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.3216,95.0541,3,hill-top
+IN,India,India,791103,Boleng,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.3341,94.9623,4,boleng
+IN,India,India,791103,Renging,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.3216,95.0541,3,renging
+IN,India,India,791103,Dalbing,Arunachal Pradesh,30,East Siang,251,Mariyang,,28.3216,95.0541,3,dalbing
+IN,India,India,791103,Kebang,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.1598,95.0373,4,kebang
+IN,India,India,791103,Riga,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.4345,95.0389,4,riga
+IN,India,India,791103,Pangin,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.2102,94.9887,4,pangin
+IN,India,India,791103,Damro,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.1238,95.1634,4,damro
+IN,India,India,791103,Adipassi,Arunachal Pradesh,30,East Siang,251,Pasighat,,28.3216,95.0541,3,adipassi
+IN,India,India,791104,Namsing,Arunachal Pradesh,30,East Siang,251,Mebo,,27.9269,95.4874,4,namsing
+IN,India,India,791104,Ngopok,Arunachal Pradesh,30,East Siang,251,Mebo,,28.1238,95.1634,3,ngopok
+IN,India,India,791104,Silluk,Arunachal Pradesh,30,East Siang,251,Mebo,,28.1238,95.1634,3,silluk
+IN,India,India,791104,Sirem,Arunachal Pradesh,30,East Siang,251,Mebo,,28.1238,95.1634,3,sirem
+IN,India,India,791104,Mebo,Arunachal Pradesh,30,East Siang,251,Mebo,,28.1238,95.1634,3,mebo
+IN,India,India,791104,Borguli,Arunachal Pradesh,30,East Siang,251,Mebo,,28.1238,95.1634,3,borguli
+IN,India,India,791104,Ayeng,Arunachal Pradesh,30,East Siang,251,Mebo,,28.1238,95.1634,3,ayeng
+IN,India,India,791002,Geku,Arunachal Pradesh,30,Upper Siang,252,Yingkiong,,28.419,95.0893,4,geku
+IN,India,India,791002,Mariyang,Arunachal Pradesh,30,Upper Siang,252,Yingkiong,,28.4864,95.2236,4,mariyang
+IN,India,India,791002,Yingkiong,Arunachal Pradesh,30,Upper Siang,252,Yingkiong,,28.6104,95.0475,4,yingkiong
+IN,India,India,791002,Shimong,Arunachal Pradesh,30,Upper Siang,252,Yingkiong,,28.6029,95.0687,4,shimong
+IN,India,India,791002,Karko,Arunachal Pradesh,30,Upper Siang,252,Yingkiong,,28.5681,95.0548,4,karko
+IN,India,India,791105,Singa,Arunachal Pradesh,30,Upper Siang,252,Tuting,,28.9184,94.8139,3,singa
+IN,India,India,791105,Gelling,Arunachal Pradesh,30,Upper Siang,252,Tuting,,28.9184,94.8139,3,gelling
+IN,India,India,791105,Migging,Arunachal Pradesh,30,Upper Siang,252,Tuting,,28.8533,94.7711,4,migging
+IN,India,India,791105,Tuting,Arunachal Pradesh,30,Upper Siang,252,Tuting,,28.9834,94.8568,4,tuting
+IN,India,India,792055,Two Hut,Arunachal Pradesh,30,Changlang,253,Vijoynagar,,27.3626,96.3452,1,two-hut
+IN,India,India,792055,Vijoynagar,Arunachal Pradesh,30,Changlang,253,Vijoynagar,,27.3626,96.3452,1,vijoynagar
+IN,India,India,792055,Gandhigram,Arunachal Pradesh,30,Changlang,253,Vijoynagar,,27.3626,96.3452,1,gandhigram
+IN,India,India,792056,Bordumsa,Arunachal Pradesh,30,Changlang,253,Bordumsa,,27.5132,95.8826,4,bordumsa
+IN,India,India,792056,Lallung,Arunachal Pradesh,30,Changlang,253,Lallung,,27.3626,96.3452,3,lallung
+IN,India,India,792056,Rajanagar,Arunachal Pradesh,30,Changlang,253,Rajanagar,,27.3626,96.3452,3,rajanagar
+IN,India,India,792056,Kherem Bisa,Arunachal Pradesh,30,Changlang,253,Kherem Bisa,,27.3626,96.3452,3,kherem-bisa
+IN,India,India,792056,Vijoypur,Arunachal Pradesh,30,Changlang,253,Vijoypur,,27.3626,96.3452,3,vijoypur
+IN,India,India,792056,New Mohong,Arunachal Pradesh,30,Changlang,253,Lekang,,27.3626,96.3452,3,new-mohong
+IN,India,India,792103,Udaipur,Arunachal Pradesh,30,Changlang,253,Namsai,,27.3626,96.3452,3,udaipur
+IN,India,India,792103,Innao,Arunachal Pradesh,30,Changlang,253,Namsai,,27.3626,96.3452,3,innao
+IN,India,India,792120,Ranglum,Arunachal Pradesh,30,Changlang,253,Ranglum,,27.1887,95.7253,3,ranglum
+IN,India,India,792120,Rangfra Govt.College,Arunachal Pradesh,30,Changlang,253,Changlang,,27.1887,95.7253,3,rangfra-govt-college
+IN,India,India,792120,Namdang,Arunachal Pradesh,30,Changlang,253,Namdang,,27.1887,95.7253,3,namdang
+IN,India,India,792120,Khemiyong,Arunachal Pradesh,30,Changlang,253,Khemiyong,,27.1887,95.7253,3,khemiyong
+IN,India,India,792120,Changlang,Arunachal Pradesh,30,Changlang,253,Changlang,,27.1318,95.7349,4,changlang
+IN,India,India,792120,Yangkang,Arunachal Pradesh,30,Changlang,253,Yangkang,,27.1887,95.7253,3,yangkang
+IN,India,India,792120,Bubang,Arunachal Pradesh,30,Changlang,253,Bubang,,27.1887,95.7253,3,bubang
+IN,India,India,792120,Namtok,Arunachal Pradesh,30,Changlang,253,Namtok,,27.2457,95.7157,4,namtok
+IN,India,India,792121,Jairampur (Changlang),Arunachal Pradesh,30,Changlang,253,Jairampur,,27.2912,96.0437,4,jairampur-changlang
+IN,India,India,792121,Manmao,Arunachal Pradesh,30,Changlang,253,Jairampur,,27.2343,95.9139,4,manmao
+IN,India,India,792122,Namphai,Arunachal Pradesh,30,Changlang,253,Miao,,27.4545,96.09,3,namphai
+IN,India,India,792122,Kharsang,Arunachal Pradesh,30,Changlang,253,Miao,,27.4156,95.9989,4,kharsang
+IN,India,India,792122,Miao,Arunachal Pradesh,30,Changlang,253,Miao,,27.4934,96.1812,4,miao
+IN,India,India,792122,Kutum Basti,Arunachal Pradesh,30,Changlang,253,Miao,,27.4545,96.09,3,kutum-basti
+IN,India,India,792122,Milonpur,Arunachal Pradesh,30,Changlang,253,Kharsang,,27.4545,96.09,3,milonpur
+IN,India,India,792122,Dharampur,Arunachal Pradesh,30,Changlang,253,Miao,,27.4545,96.09,3,dharampur
+IN,India,India,792122,Deban,Arunachal Pradesh,30,Changlang,253,Miao,,27.4545,96.09,3,deban
+IN,India,India,792122,Chopelling,Arunachal Pradesh,30,Changlang,253,Miao,,27.4545,96.09,3,chopelling
+IN,India,India,792122,Manabhum,Arunachal Pradesh,30,Changlang,253,Miao,,27.4545,96.09,3,manabhum
+IN,India,India,792122,Namchik,Arunachal Pradesh,30,Changlang,253,Miao,,27.4545,96.09,3,namchik
+IN,India,India,792123,Nampong,Arunachal Pradesh,30,Changlang,253,Nampong,,27.3061,96.106,4,nampong
+IN,India,India,792129,Narottam Nagar,Arunachal Pradesh,30,Tirap,254,Deomali,,26.9471,95.4409,3,narottam-nagar
+IN,India,India,792129,Namsang Mukh,Arunachal Pradesh,30,Tirap,254,Deomali,,26.9471,95.4409,3,namsang-mukh
+IN,India,India,792129,Hukanjuri,Arunachal Pradesh,30,Tirap,254,Deomali,,26.9471,95.4409,3,hukanjuri
+IN,India,India,792129,Namsang,Arunachal Pradesh,30,Tirap,254,Deomali,,27.1066,95.5076,4,namsang
+IN,India,India,792129,Deomali,Arunachal Pradesh,30,Tirap,254,Deomali,,27.1931,95.4672,4,deomali
+IN,India,India,792129,Soha,Arunachal Pradesh,30,Tirap,254,Deomali,,27.1454,95.5895,4,soha
+IN,India,India,792130,Dadam,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.923,95.4565,4,dadam
+IN,India,India,792130,Khela,Arunachal Pradesh,30,Tirap,254,Khonsa,,27.0167,95.5667,4,khela
+IN,India,India,792130,Valley view,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,valley-view
+IN,India,India,792130,Khonsa,Arunachal Pradesh,30,Tirap,254,Khonsa,,27.0167,95.5667,4,khonsa
+IN,India,India,792130,Kapu,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,kapu
+IN,India,India,792130,Kheti,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,kheti
+IN,India,India,792130,Tupi,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,tupi
+IN,India,India,792130,Kaimai,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,kaimai
+IN,India,India,792130,Khonsa Basti,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,khonsa-basti
+IN,India,India,792130,Lazu,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,lazu
+IN,India,India,792130,Thinsa,Arunachal Pradesh,30,Tirap,254,Khonsa,,26.997,95.5167,3,thinsa
+IN,India,India,792130,Kanubari,Arunachal Pradesh,30,Tirap,254,Kanubari,,26.997,95.5167,3,kanubari
+IN,India,India,792130,Borduria,Arunachal Pradesh,30,Tirap,254,Khonsa,,27.0317,95.4771,4,borduria
+IN,India,India,792131,Longding,Arunachal Pradesh,30,Tirap,254,Longding,,26.8841,95.3195,4,longding
+IN,India,India,792131,Kanubari,Arunachal Pradesh,30,Tirap,254,Longding,,26.8356,95.3769,3,kanubari
+IN,India,India,791113,Chimpu,Arunachal Pradesh,30,Lower Subansiri,255,Itanagar,,27.5812,93.5722,1,chimpu
+IN,India,India,791119,Ranga Nadi Project,Arunachal Pradesh,30,Lower Subansiri,255,R N Project,,27.4625,93.6216,3,ranga-nadi-project
+IN,India,India,791119,Yazali,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.4072,93.746,4,yazali
+IN,India,India,791120,Old Ziro,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5934,93.828,4,old-ziro
+IN,India,India,791120,Yachuli,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.509,93.781,4,yachuli
+IN,India,India,791120,Boasimla,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5999,93.8555,3,boasimla
+IN,India,India,791120,Ziro,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.595,93.8385,4,ziro
+IN,India,India,791120,Hija,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5999,93.8555,3,hija
+IN,India,India,791120,Talo,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5434,93.7618,4,talo
+IN,India,India,791120,Godak,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5999,93.8555,3,godak
+IN,India,India,791120,Raga,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.7993,94.0743,4,raga
+IN,India,India,791120,Deed,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5999,93.8555,3,deed
+IN,India,India,791120,Joram,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5999,93.8555,3,joram
+IN,India,India,791120,Hari,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5999,93.8555,3,hari
+IN,India,India,791120,Siiro,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5999,93.8555,3,siiro
+IN,India,India,791120,Hong,Arunachal Pradesh,30,Lower Subansiri,255,Ziro,,27.5592,93.8495,4,hong
+IN,India,India,791118,Koloriang,Arunachal Pradesh,30,Kurung Kumey,256,Koloriang,,27.91,93.355,4,koloriang
+IN,India,India,791118,Damin,Arunachal Pradesh,30,Kurung Kumey,256,Damin,,28.102,93.3363,4,damin
+IN,India,India,791118,Chambang,Arunachal Pradesh,30,Kurung Kumey,256,Chambang,,27.7765,93.7789,4,chambang
+IN,India,India,791118,Sangram,Arunachal Pradesh,30,Kurung Kumey,256,Koloriang,,27.807,93.5348,4,sangram
+IN,India,India,791118,Nyapin,Arunachal Pradesh,30,Kurung Kumey,256,Nyapin,,27.7192,93.3753,4,nyapin
+IN,India,India,791118,Sarli,Arunachal Pradesh,30,Kurung Kumey,256,Koloriang,,27.9263,93.1629,4,sarli
+IN,India,India,791118,Palin,Arunachal Pradesh,30,Kurung Kumey,256,Palin,,27.6963,93.6247,4,palin
+IN,India,India,791118,Tali,Arunachal Pradesh,30,Kurung Kumey,256,Tali,,28.0181,93.7515,4,tali
+IN,India,India,791118,Hiya,Arunachal Pradesh,30,Kurung Kumey,256,Nyapin,,27.8694,93.4899,3,hiya
+IN,India,India,792101,Anini,Arunachal Pradesh,30,Dibang Valley,257,NA,,28.7979,95.9023,4,anini
+IN,India,India,792101,Etalin,Arunachal Pradesh,30,Dibang Valley,257,Anini,,28.9513,95.9028,4,etalin
+IN,India,India,792101,Alinye,Arunachal Pradesh,30,Dibang Valley,257,Alinye,,28.9513,95.9028,3,alinye
+IN,India,India,792110,Roing,Arunachal Pradesh,30,Dibang Valley,257,Roing,,28.9513,95.9028,4,roing
+IN,India,India,792110,Paglam,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,27.9406,95.572,4,paglam
+IN,India,India,792110,Koronu,Arunachal Pradesh,30,Lower Dibang Valley,258,Koronu,,28.0585,95.9279,4,koronu
+IN,India,India,792110,Hunli,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.3224,95.9636,4,hunli
+IN,India,India,792110,Dambuk,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2679,95.6164,4,dambuk
+IN,India,India,792110,Anelih,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.3726,95.8804,4,anelih
+IN,India,India,792110,Kronli,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,kronli
+IN,India,India,792110,Jia,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,jia
+IN,India,India,792110,Bijari,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,bijari
+IN,India,India,792110,Bomjir,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,bomjir
+IN,India,India,792110,Desali,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,desali
+IN,India,India,792110,Elopa,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,elopa
+IN,India,India,792110,Iduli,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,iduli
+IN,India,India,792110,Abango,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,abango
+IN,India,India,792110,Bolung,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,bolung
+IN,India,India,792110,Meka,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,meka
+IN,India,India,792110,Santipur,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,santipur
+IN,India,India,792110,Parbuk,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,parbuk
+IN,India,India,792110,Anupam,Arunachal Pradesh,30,Lower Dibang Valley,258,Roing,,28.2086,95.7843,3,anupam
+IN,India,India,792001,Tindolong,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,tindolong
+IN,India,India,792001,Gohaingaon,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,gohaingaon
+IN,India,India,792001,Loiliang,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,loiliang
+IN,India,India,792001,Tafragam,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,tafragam
+IN,India,India,792001,Danglat,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,danglat
+IN,India,India,792001,Lohitpur,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,lohitpur
+IN,India,India,792001,Tezu Govt. College,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,tezu-govt-college
+IN,India,India,792001,Changliang,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,3,changliang
+IN,India,India,792001,Tezu,Arunachal Pradesh,30,Lohit,259,Tezu,,27.9126,96.1288,4,tezu
+IN,India,India,792102,Alubari,Arunachal Pradesh,30,Lohit,259,Chowkham,,27.7821,96.3474,3,alubari
+IN,India,India,792102,Wakro,Arunachal Pradesh,30,Lohit,259,Wakro,,27.7821,96.3474,4,wakro
+IN,India,India,792102,Medo,Arunachal Pradesh,30,Lohit,259,Medo,,27.7821,96.3474,3,medo
+IN,India,India,792102,Chowkham,Arunachal Pradesh,30,Lohit,259,Chowkham,,27.7821,96.3474,3,chowkham
+IN,India,India,792102,Kamlang Nagar,Arunachal Pradesh,30,Lohit,259,Kamlang Nagar,,27.7821,96.3474,3,kamlang-nagar
+IN,India,India,792102,Kherem,Arunachal Pradesh,30,Lohit,259,Chowkham,,27.7821,96.3474,3,kherem
+IN,India,India,792102,Chakma,Arunachal Pradesh,30,Lohit,259,Chowkham,,27.7821,96.3474,3,chakma
+IN,India,India,792102,Momong,Arunachal Pradesh,30,Lohit,259,Momong,,27.7821,96.3474,3,momong
+IN,India,India,792103,Lathao,Arunachal Pradesh,30,Lohit,259,Namsai,,27.7445,95.9098,4,lathao
+IN,India,India,792103,Namsai,Arunachal Pradesh,30,Lohit,259,Namsai,,27.669,95.864,4,namsai
+IN,India,India,792103,Wingko,Arunachal Pradesh,30,Lohit,259,Namsai,,27.8401,96.1952,3,wingko
+IN,India,India,792103,Manmao,Arunachal Pradesh,30,Lohit,259,Namsai,,27.8401,96.1952,4,manmao
+IN,India,India,792103,Nampong,Arunachal Pradesh,30,Lohit,259,Namsai,,27.8401,96.1952,4,nampong
+IN,India,India,792103,Diyun,Arunachal Pradesh,30,Lohit,259,Namsai,,27.8401,96.1952,4,diyun
+IN,India,India,792103,Nanam,Arunachal Pradesh,30,Lohit,259,Namsai,,27.8401,96.1952,3,nanam
+IN,India,India,792103,Jaipur,Arunachal Pradesh,30,Lohit,259,Namsai,,27.8401,96.1952,3,jaipur
+IN,India,India,792103,Kumsai,Arunachal Pradesh,30,Lohit,259,Namsai,,27.8401,96.1952,3,kumsai
+IN,India,India,792104,Hayuliang,Arunachal Pradesh,30,Lohit,259,Hayuliang,,27.8401,96.1952,4,hayuliang
+IN,India,India,792105,Kumari Kachari,Arunachal Pradesh,30,Lohit,259,Mahadevpur,,27.9025,96.1904,1,kumari-kachari
+IN,India,India,792105,Mahadevpur (Lohit),Arunachal Pradesh,30,Lohit,259,Mahadevpur,,27.9025,96.1904,1,mahadevpur-lohit
+IN,India,India,792111,Yealing,Arunachal Pradesh,30,Lohit,259,Sunpura,,27.8341,95.8779,3,yealing
+IN,India,India,792111,Sunpura,Arunachal Pradesh,30,Lohit,259,Sunpura,,27.8341,95.8779,4,sunpura
+IN,India,India,792131,Wakka,Arunachal Pradesh,30,Longding,666,Longding,,26.787,95.4344,4,wakka
+IN,India,India,792131,Niausa,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,niausa
+IN,India,India,792131,Pangchou,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,pangchou
+IN,India,India,792131,Senewa,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,senewa
+IN,India,India,792131,Tissa,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,tissa
+IN,India,India,792131,Khotnu,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,khotnu
+IN,India,India,792131,K/nokno,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,k-nokno
+IN,India,India,792131,Longfong,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,longfong
+IN,India,India,792131,Nginu,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,nginu
+IN,India,India,792131,Minthong,Arunachal Pradesh,30,Longding,666,Longding,,26.8356,95.3769,3,minthong
+IN,India,India,792103,Piyong,Arunachal Pradesh,30,Namsai,678,Piyong,,27.6429,95.8991,4,piyong
+IN,India,India,792105,Padumani,Arunachal Pradesh,30,Namsai,678,Lekang,,27.9025,96.1904,1,padumani

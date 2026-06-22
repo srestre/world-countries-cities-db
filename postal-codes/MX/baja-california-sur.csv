@@ -1,0 +1,969 @@
+country_code,country_name,country_name_es,postal_code,place,admin1,admin1_code,admin2,admin2_code,admin3,admin3_code,latitude,longitude,accuracy,slug
+MX,Mexico,México,23600,Batequitos,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.1413,-111.3569,4,batequitos
+MX,Mexico,México,23600,Cerro Catedral,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0429,-111.6676,4,cerro-catedral
+MX,Mexico,México,23600,INVI Olivos Juan Domínguez Cota,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0314,-111.683,4,invi-olivos-juan-dominguez-cota
+MX,Mexico,México,23600,Zona Centro,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0719,-111.5692,3,zona-centro
+MX,Mexico,México,23610,Las Palmas,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.3127,-111.6826,4,las-palmas
+MX,Mexico,México,23620,Renero,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0436,-111.6765,4,renero
+MX,Mexico,México,23620,Vargas,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0606,-111.6534,4,vargas
+MX,Mexico,México,23630,Los Olivos,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.4914,-111.8201,1,los-olivos
+MX,Mexico,México,23631,INFONAVIT San Martín,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.1033,-111.6064,1,infonavit-san-martin
+MX,Mexico,México,23640,El Paraíso,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0784,-111.2174,4,el-paraiso
+MX,Mexico,México,23640,Olímpico,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0402,-111.6668,4,olimpico
+MX,Mexico,México,23641,4 de Marzo,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0593,-111.4421,1,4-de-marzo
+MX,Mexico,México,23650,Lienzo Charro,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.4914,-111.8201,1,lienzo-charro
+MX,Mexico,México,23658,Residencial La Hacienda,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.1033,-111.6064,1,residencial-la-hacienda
+MX,Mexico,México,23658,Conjunto Urbano del Sur,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.1033,-111.6064,1,conjunto-urbano-del-sur
+MX,Mexico,México,23660,INFONAVIT Guaycura,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.1033,-111.6064,1,infonavit-guaycura
+MX,Mexico,México,23670,Los Pinos,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.4568,-111.881,4,los-pinos
+MX,Mexico,México,23670,Pueblo Nuevo,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.4914,-111.8201,3,pueblo-nuevo
+MX,Mexico,México,23670,El Crucero,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.4914,-111.8201,3,el-crucero
+MX,Mexico,México,23676,Pioneros II,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.2103,-111.6278,1,pioneros-ii
+MX,Mexico,México,23676,Pioneros,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.2103,-111.6278,1,pioneros
+MX,Mexico,México,23677,Constitución,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0321,-111.6626,4,constitucion
+MX,Mexico,México,23677,La Esperanza,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.1421,-111.3399,4,la-esperanza
+MX,Mexico,México,23678,Plano Oriente,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.2103,-111.6278,1,plano-oriente
+MX,Mexico,México,23680,Real,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0264,-111.673,4,real
+MX,Mexico,México,23683,Paseos de Don Pelayo,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,25.0264,-111.673,1,paseos-de-don-pelayo
+MX,Mexico,México,23690,San Martín,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,24.9348,-111.7229,1,san-martin
+MX,Mexico,México,23695,Roberto Esperon,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,24.9348,-111.7229,1,roberto-esperon
+MX,Mexico,México,23696,Cecilia Madrid,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,24.9348,-111.7229,1,cecilia-madrid
+MX,Mexico,México,23696,El Agricultor INDECO,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,24.9348,-111.7229,1,el-agricultor-indeco
+MX,Mexico,México,23697,Magisterial,Baja California Sur,03,Comondú,001,Ciudad Constitución,01,24.9348,-111.7229,4,magisterial
+MX,Mexico,México,23700,Fernando de La Toba,Baja California Sur,03,Comondú,001,,,25.2337,-111.7072,4,fernando-de-la-toba
+MX,Mexico,México,23700,Ciudad Insurgentes,Baja California Sur,03,Comondú,001,,,25.2634,-111.7744,4,ciudad-insurgentes
+MX,Mexico,México,23701,Las Flores,Baja California Sur,03,Comondú,001,,,25.4068,-111.7932,4,las-flores
+MX,Mexico,México,23701,Buenos Aires,Baja California Sur,03,Comondú,001,,,24.9423,-111.1746,4,buenos-aires
+MX,Mexico,México,23708,Rio Mayo,Baja California Sur,03,Comondú,001,,,25.2022,-111.8264,4,rio-mayo
+MX,Mexico,México,23710,Matancitas I,Baja California Sur,03,Comondú,001,Puerto Adolfo López Mateos,06,25.2632,-111.8872,1,matancitas-i
+MX,Mexico,México,23710,Matancitas II,Baja California Sur,03,Comondú,001,Puerto Adolfo López Mateos,06,25.2632,-111.8872,1,matancitas-ii
+MX,Mexico,México,23710,Ingeniero Luis de La Peña,Baja California Sur,03,Comondú,001,Puerto Adolfo López Mateos,06,25.2632,-111.8872,1,ingeniero-luis-de-la-pena
+MX,Mexico,México,23710,Puerto Pdte. Adolfo Lopez Mateos Centro,Baja California Sur,03,Comondú,001,Puerto Adolfo López Mateos,06,25.2632,-111.8872,1,puerto-pdte-adolfo-lopez-mateos-centro
+MX,Mexico,México,23712,La Poza de Palo,Baja California Sur,03,Comondú,001,,,25.2632,-111.8872,1,la-poza-de-palo
+MX,Mexico,México,23713,San Juan de Matancitas,Baja California Sur,03,Comondú,001,,,25.1284,-111.9313,4,san-juan-de-matancitas
+MX,Mexico,México,23715,Ignacio Zaragoza,Baja California Sur,03,Comondú,001,,,25.398,-111.8431,4,ignacio-zaragoza
+MX,Mexico,México,23720,Villa Hidalgo,Baja California Sur,03,Comondú,001,,,25.1461,-111.9322,4,villa-hidalgo
+MX,Mexico,México,23721,Ramaditas,Baja California Sur,03,Comondú,001,,,25.1214,-111.9556,4,ramaditas
+MX,Mexico,México,23722,Matancitas,Baja California Sur,03,Comondú,001,,,25.1401,-112.0018,4,matancitas
+MX,Mexico,México,23730,Benito Juárez,Baja California Sur,03,Comondú,001,,,25.1158,-111.8272,4,benito-juarez
+MX,Mexico,México,23731,Providencia,Baja California Sur,03,Comondú,001,,,25.3153,-111.9061,4,providencia
+MX,Mexico,México,23733,Torres,Baja California Sur,03,Comondú,001,,,25.1367,-111.875,4,torres
+MX,Mexico,México,23734,Teotlan,Baja California Sur,03,Comondú,001,,,25.1577,-111.9143,4,teotlan
+MX,Mexico,México,23736,Palo Bola,Baja California Sur,03,Comondú,001,,,25.0684,-111.6422,4,palo-bola
+MX,Mexico,México,23737,El Vallecito,Baja California Sur,03,Comondú,001,,,25.1588,-111.833,1,el-vallecito
+MX,Mexico,México,23739,Navojoa 1,Baja California Sur,03,Comondú,001,,,25.1588,-111.833,1,navojoa-1
+MX,Mexico,México,23740,Puerto San Carlos,Baja California Sur,03,Comondú,001,,,24.7887,-112.105,4,puerto-san-carlos
+MX,Mexico,México,23743,El Ranchito,Baja California Sur,03,Comondú,001,,,24.8295,-112.0912,4,el-ranchito
+MX,Mexico,México,23748,Puerto Magdalena,Baja California Sur,03,Comondú,001,,,24.6336,-112.1394,4,puerto-magdalena
+MX,Mexico,México,23749,Puerto Alcatraz,Baja California Sur,03,Comondú,001,,,24.5049,-111.8461,4,puerto-alcatraz
+MX,Mexico,México,23750,Puerto Cortes,Baja California Sur,03,Comondú,001,,,24.4777,-111.8218,4,puerto-cortes
+MX,Mexico,México,23760,Ley Federal de Aguas No 5,Baja California Sur,03,Comondú,001,,,25.0759,-111.444,1,ley-federal-de-aguas-no-5
+MX,Mexico,México,23766,Tepentu,Baja California Sur,03,Comondú,001,,,25.0917,-111.3228,4,tepentu
+MX,Mexico,México,23767,Lagunita,Baja California Sur,03,Comondú,001,,,25.0601,-111.5652,4,lagunita
+MX,Mexico,México,23770,Villa Morelos,Baja California Sur,03,Comondú,001,,,24.93,-111.6281,4,villa-morelos
+MX,Mexico,México,23771,Yaqui,Baja California Sur,03,Comondú,001,,,24.9829,-111.5845,4,yaqui
+MX,Mexico,México,23771,El Vergel,Baja California Sur,03,Comondú,001,,,24.939,-111.6091,4,el-vergel
+MX,Mexico,México,23773,La Arpillera,Baja California Sur,03,Comondú,001,,,24.8336,-111.6976,4,la-arpillera
+MX,Mexico,México,23774,Las Delicias,Baja California Sur,03,Comondú,001,,,24.9527,-111.6407,4,las-delicias
+MX,Mexico,México,23775,"Yaquis, Lote 13",Baja California Sur,03,Comondú,001,,,24.9832,-111.5853,4,yaquis-lote-13
+MX,Mexico,México,23780,Ley Federal de Aguas No 4,Baja California Sur,03,Comondú,001,,,25.1398,-111.5661,1,ley-federal-de-aguas-no-4
+MX,Mexico,México,23789,Santa Teresa,Baja California Sur,03,Comondú,001,,,25.1398,-111.5661,4,santa-teresa
+MX,Mexico,México,23790,Ley Federal de Aguas No 3,Baja California Sur,03,Comondú,001,,,25.0319,-111.7692,1,ley-federal-de-aguas-no-3
+MX,Mexico,México,23800,San Miguel de Comondú,Baja California Sur,03,Comondú,001,,,26.1278,-111.9399,1,san-miguel-de-comondu
+MX,Mexico,México,23801,Llano Redondo,Baja California Sur,03,Comondú,001,,,26.1278,-111.9399,1,llano-redondo
+MX,Mexico,México,23802,San Hilario,Baja California Sur,03,Comondú,001,,,26.1939,-111.8004,4,san-hilario
+MX,Mexico,México,23803,San Julio,Baja California Sur,03,Comondú,001,,,25.4914,-111.8201,1,san-julio
+MX,Mexico,México,23805,San Pedro,Baja California Sur,03,Comondú,001,,,26.0617,-112.0794,4,san-pedro
+MX,Mexico,México,23808,San Luis Gonzaga,Baja California Sur,03,Comondú,001,,,26.1278,-111.9399,1,san-luis-gonzaga
+MX,Mexico,México,23810,San Isidro,Baja California Sur,03,Comondú,001,,,26.2029,-112.0469,4,san-isidro
+MX,Mexico,México,23811,El Quiñi,Baja California Sur,03,Comondú,001,,,26.3176,-112.2624,4,el-quini
+MX,Mexico,México,23811,Cadeje,Baja California Sur,03,Comondú,001,,,26.3779,-112.5118,4,cadeje
+MX,Mexico,México,23812,San Juanico,Baja California Sur,03,Comondú,001,,,26.2561,-112.4802,4,san-juanico
+MX,Mexico,México,23813,Paso Hondo,Baja California Sur,03,Comondú,001,,,26.3489,-112.1706,4,paso-hondo
+MX,Mexico,México,23816,Los Burros,Baja California Sur,03,Comondú,001,,,26.1664,-112.2457,4,los-burros
+MX,Mexico,México,23818,San Gregorio,Baja California Sur,03,Comondú,001,,,26.1168,-112.2629,4,san-gregorio
+MX,Mexico,México,23820,El Mezquital,Baja California Sur,03,Comondú,001,,,26.1774,-112.0905,4,el-mezquital
+MX,Mexico,México,23820,San José de Comondú,Baja California Sur,03,Comondú,001,,,26.0588,-111.8242,4,san-jose-de-comondu
+MX,Mexico,México,23820,La Purísima,Baja California Sur,03,Comondú,001,,,26.1865,-112.0747,4,la-purisima
+MX,Mexico,México,23823,La Laguna,Baja California Sur,03,Comondú,001,,,26.3055,-111.891,4,la-laguna
+MX,Mexico,México,23824,Ojo de Agua,Baja California Sur,03,Comondú,001,,,26.2516,-111.9343,1,ojo-de-agua
+MX,Mexico,México,23828,Comondú Viejo,Baja California Sur,03,Comondú,001,,,26.25,-111.75,4,comondu-viejo
+MX,Mexico,México,23829,Cerro Colorado,Baja California Sur,03,Comondú,001,,,25.4914,-111.8201,4,cerro-colorado
+MX,Mexico,México,23830,La Poza Grande,Baja California Sur,03,Comondú,001,,,25.8333,-112.0833,4,la-poza-grande
+MX,Mexico,México,23832,El Pabellón,Baja California Sur,03,Comondú,001,,,25.9597,-112.0827,4,el-pabellon
+MX,Mexico,México,23834,Campo Pesquero las Barrancas,Baja California Sur,03,Comondú,001,,,26.0015,-112.1981,3,campo-pesquero-las-barrancas
+MX,Mexico,México,23834,Las Barrancas,Baja California Sur,03,Comondú,001,,,26.0015,-112.1981,4,las-barrancas
+MX,Mexico,México,23837,San Venancio,Baja California Sur,03,Comondú,001,,,25.8527,-111.8877,4,san-venancio
+MX,Mexico,México,23838,Francisco Villa,Baja California Sur,03,Comondú,001,,,25.8031,-112.0283,4,francisco-villa
+MX,Mexico,México,23840,María Auxiliadora,Baja California Sur,03,Comondú,001,,,25.4283,-111.9006,4,maria-auxiliadora
+MX,Mexico,México,23844,Jalisco,Baja California Sur,03,Comondú,001,,,25.4442,-111.8739,4,jalisco
+MX,Mexico,México,23845,El Palo Alto,Baja California Sur,03,Comondú,001,,,25.4363,-111.8873,1,el-palo-alto
+MX,Mexico,México,23847,Purísima,Baja California Sur,03,Comondú,001,,,25.4363,-111.8873,1,purisima
+MX,Mexico,México,23851,Los Angeles,Baja California Sur,03,Comondú,001,,,25.6798,-112.0061,4,los-angeles
+MX,Mexico,México,23853,El Medano Blanco,Baja California Sur,03,Comondú,001,,,25.6584,-111.9094,1,el-medano-blanco
+MX,Mexico,México,23854,Canelo,Baja California Sur,03,Comondú,001,,,25.6371,-111.8127,4,canelo
+MX,Mexico,México,23860,Ley Federal de Aguas No 2,Baja California Sur,03,Comondú,001,,,25.872,-111.5602,1,ley-federal-de-aguas-no-2
+MX,Mexico,México,23870,Ley Federal de Aguas No 1,Baja California Sur,03,Comondú,001,,,25.5878,-111.6284,1,ley-federal-de-aguas-no-1
+MX,Mexico,México,23873,San Ignacio,Baja California Sur,03,Comondú,001,,,25.5878,-111.6284,4,san-ignacio
+MX,Mexico,México,23900,Buenos Aires,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8872,-111.9909,3,buenos-aires
+MX,Mexico,México,23900,Cananea,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,27.2861,-113.2311,3,cananea
+MX,Mexico,México,23900,El Rebaje,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.878,-111.9907,4,el-rebaje
+MX,Mexico,México,23900,El Cacheno,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8936,-111.9588,4,el-cacheno
+MX,Mexico,México,23900,Ranchería,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8872,-111.9909,3,rancheria
+MX,Mexico,México,23900,Heroica Mulegé Centro,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8872,-111.9909,3,heroica-mulege-centro
+MX,Mexico,México,23900,Benavides,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8872,-111.9909,3,benavides
+MX,Mexico,México,23900,Tinajitas,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8872,-111.9909,3,tinajitas
+MX,Mexico,México,23900,La Calera,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8888,-112.0025,4,la-calera
+MX,Mexico,México,23900,Punta de Agua,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8872,-111.9909,3,punta-de-agua
+MX,Mexico,México,23900,Loma Azul,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8872,-111.9909,3,loma-azul
+MX,Mexico,México,23900,El Ranchito,Baja California Sur,03,Mulegé,002,Heroica Mulegé,08,26.8886,-112.0117,4,el-ranchito
+MX,Mexico,México,23902,El Potrero,Baja California Sur,03,Mulegé,002,,,26.6721,-112.0613,4,el-potrero
+MX,Mexico,México,23903,El Coyote,Baja California Sur,03,Mulegé,002,,,26.7232,-111.9108,4,el-coyote
+MX,Mexico,México,23904,San Ignacio 2,Baja California Sur,03,Mulegé,002,,,26.8335,-112.1388,3,san-ignacio-2
+MX,Mexico,México,23904,San Nicolás,Baja California Sur,03,Mulegé,002,,,26.8335,-112.1388,4,san-nicolas
+MX,Mexico,México,23910,Isla San Marcos,Baja California Sur,03,Mulegé,002,,,27.1878,-112.0808,4,isla-san-marcos
+MX,Mexico,México,23910,San Bruno,Baja California Sur,03,Mulegé,002,,,27.1608,-112.159,4,san-bruno
+MX,Mexico,México,23911,San Lucas,Baja California Sur,03,Mulegé,002,,,27.2264,-112.2192,4,san-lucas
+MX,Mexico,México,23911,San José de Magdalena,Baja California Sur,03,Mulegé,002,,,27.0621,-112.2385,4,san-jose-de-magdalena
+MX,Mexico,México,23911,Santa Águeda,Baja California Sur,03,Mulegé,002,,,27.2597,-112.3508,4,santa-agueda
+MX,Mexico,México,23912,San Isidro,Baja California Sur,03,Mulegé,002,,,27.0167,-112.4,4,san-isidro
+MX,Mexico,México,23912,El Perdido,Baja California Sur,03,Mulegé,002,,,27.0314,-112.1553,4,el-perdido
+MX,Mexico,México,23912,Las Cuevitas,Baja California Sur,03,Mulegé,002,,,27.2313,-112.7122,4,las-cuevitas
+MX,Mexico,México,23913,Santa Isabel del Boleo,Baja California Sur,03,Mulegé,002,,,27.0253,-112.4033,1,santa-isabel-del-boleo
+MX,Mexico,México,23914,Las Tunas,Baja California Sur,03,Mulegé,002,,,26.9055,-112.473,4,las-tunas
+MX,Mexico,México,23914,San Juan,Baja California Sur,03,Mulegé,002,,,26.8423,-112.3629,4,san-juan
+MX,Mexico,México,23915,La Angostura,Baja California Sur,03,Mulegé,002,,,26.821,-112.325,4,la-angostura
+MX,Mexico,México,23916,San Bartolo,Baja California Sur,03,Mulegé,002,,,26.7507,-112.7716,4,san-bartolo
+MX,Mexico,México,23916,El Dátil,Baja California Sur,03,Mulegé,002,,,26.8838,-112.6158,4,el-datil
+MX,Mexico,México,23917,Jesús María,Baja California Sur,03,Mulegé,002,,,26.9745,-112.7827,4,jesus-maria
+MX,Mexico,México,23920,Centro,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,4,centro
+MX,Mexico,México,23920,Canastilla,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,canastilla
+MX,Mexico,México,23920,SARH,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,sarh
+MX,Mexico,México,23920,Canadá,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,canada
+MX,Mexico,México,23920,El Retiro,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,el-retiro
+MX,Mexico,México,23920,Ranchería,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,rancheria
+MX,Mexico,México,23920,Nueva Santa Rosalía,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,nueva-santa-rosalia
+MX,Mexico,México,23920,Nivel 50,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,nivel-50
+MX,Mexico,México,23920,Mesa México,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,mesa-mexico
+MX,Mexico,México,23920,Bellavista,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,27.2861,-113.2311,3,bellavista
+MX,Mexico,México,23920,Magisterial,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,27.2861,-113.2311,3,magisterial
+MX,Mexico,México,23920,Hidalgo,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,27.2861,-113.2311,3,hidalgo
+MX,Mexico,México,23920,Costa Azul,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,27.2861,-113.2311,3,costa-azul
+MX,Mexico,México,23920,Mesa Francia,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,mesa-francia
+MX,Mexico,México,23920,La Villita,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,la-villita
+MX,Mexico,México,23920,Cuauhtémoc,Baja California Sur,03,Mulegé,002,Santa Rosalía,12,26.8945,-112.0447,3,cuauhtemoc
+MX,Mexico,México,23921,Santa María,Baja California Sur,03,Mulegé,002,,,27.0387,-112.4872,4,santa-maria
+MX,Mexico,México,23922,El Ranchito,Baja California Sur,03,Mulegé,002,,,26.8886,-112.0117,4,el-ranchito
+MX,Mexico,México,23923,Lic Alfredo V Bonfil,Baja California Sur,03,Mulegé,002,,,26.959,-112.2398,1,lic-alfredo-v-bonfil
+MX,Mexico,México,23924,San Lino (paredones),Baja California Sur,03,Mulegé,002,,,26.959,-112.2398,1,san-lino-paredones
+MX,Mexico,México,23926,San Sebastián,Baja California Sur,03,Mulegé,002,,,27.0141,-112.4157,4,san-sebastian
+MX,Mexico,México,23929,Laguna de San Ignacio,Baja California Sur,03,Mulegé,002,,,26.959,-112.2398,1,laguna-de-san-ignacio
+MX,Mexico,México,23930,Pueblo Nuevo,Baja California Sur,03,Mulegé,002,San Ignacio,10,27.2861,-113.2311,3,pueblo-nuevo
+MX,Mexico,México,23930,Guamúchil,Baja California Sur,03,Mulegé,002,San Ignacio,10,27.3012,-112.8845,4,guamuchil
+MX,Mexico,México,23930,San Ignacio Centro,Baja California Sur,03,Mulegé,002,San Ignacio,10,27.3012,-112.8845,3,san-ignacio-centro
+MX,Mexico,México,23930,Chula Vista,Baja California Sur,03,Mulegé,002,San Ignacio,10,27.2861,-113.2311,3,chula-vista
+MX,Mexico,México,23934,San Benito,Baja California Sur,03,Mulegé,002,,,27.5063,-113.2995,1,san-benito
+MX,Mexico,México,23935,Gustavo Diaz Ordaz (Vizcaíno),Baja California Sur,03,Mulegé,002,,,27.5786,-113.5319,3,gustavo-diaz-ordaz-vizcaino
+MX,Mexico,México,23935,Vizcaíno,Baja California Sur,03,Mulegé,002,,,27.5786,-113.5319,4,vizcaino
+MX,Mexico,México,23936,El Silencio,Baja California Sur,03,Mulegé,002,,,27.468,-113.2999,4,el-silencio
+MX,Mexico,México,23936,Emiliano Zapata,Baja California Sur,03,Mulegé,002,,,27.5392,-113.3964,4,emiliano-zapata
+MX,Mexico,México,23938,Magisterial,Baja California Sur,03,Mulegé,002,Villa Alberto Andrés Alvarado Arámburo,09,27.2861,-113.2311,3,magisterial
+MX,Mexico,México,23938,Villa Alberto Alvarado Aramburo,Baja California Sur,03,Mulegé,002,Villa Alberto Andrés Alvarado Arámburo,09,27.6444,-113.3847,4,villa-alberto-alvarado-aramburo
+MX,Mexico,México,23938,Benito Juárez,Baja California Sur,03,Mulegé,002,Villa Alberto Andrés Alvarado Arámburo,09,27.6444,-113.3847,3,benito-juarez
+MX,Mexico,México,23938,Leonel Cota Montaño,Baja California Sur,03,Mulegé,002,Villa Alberto Andrés Alvarado Arámburo,09,27.6444,-113.3847,3,leonel-cota-montano
+MX,Mexico,México,23938,Nueva Oaxaca,Baja California Sur,03,Mulegé,002,Villa Alberto Andrés Alvarado Arámburo,09,27.6444,-113.3847,3,nueva-oaxaca
+MX,Mexico,México,23938,Elizabeth,Baja California Sur,03,Mulegé,002,Villa Alberto Andrés Alvarado Arámburo,09,27.2861,-113.2311,3,elizabeth
+MX,Mexico,México,23938,Triky,Baja California Sur,03,Mulegé,002,Villa Alberto Andrés Alvarado Arámburo,09,27.6444,-113.3847,3,triky
+MX,Mexico,México,23940,Nuevo INFONAVIT,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,nuevo-infonavit
+MX,Mexico,México,23940,Guerrero Negro Centro,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,guerrero-negro-centro
+MX,Mexico,México,23940,FOVISSSTE,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,fovissste
+MX,Mexico,México,23940,Estado 30,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,estado-30
+MX,Mexico,México,23940,El Dominó,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,el-domino
+MX,Mexico,México,23940,Sector Caligas,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,sector-caligas
+MX,Mexico,México,23940,Profesor Marcelo Rubio,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,profesor-marcelo-rubio
+MX,Mexico,México,23940,Laguneros,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,4,laguneros
+MX,Mexico,México,23940,Libertad,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.2861,-113.2311,3,libertad
+MX,Mexico,México,23940,INFONAVIT,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.2861,-113.2311,3,infonavit
+MX,Mexico,México,23940,Solidaridad,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.2861,-113.2311,3,solidaridad
+MX,Mexico,México,23940,Loma Bonita,Baja California Sur,03,Mulegé,002,Guerrero Negro,11,27.8233,-113.6952,3,loma-bonita
+MX,Mexico,México,23944,Benito Juárez,Baja California Sur,03,Mulegé,002,,,27.7714,-113.573,1,benito-juarez
+MX,Mexico,México,23945,El Arco,Baja California Sur,03,Mulegé,002,,,27.7714,-113.573,1,el-arco
+MX,Mexico,México,23948,Gustavo Diaz Ordaz II Etapa (rancho La Joya),Baja California Sur,03,Mulegé,002,,,27.7714,-113.573,1,gustavo-diaz-ordaz-ii-etapa-rancho-la-joya
+MX,Mexico,México,23949,Francisco J Mújica,Baja California Sur,03,Mulegé,002,,,27.7194,-113.4508,4,francisco-j-mujica
+MX,Mexico,México,23950,Bahía Tortugas Sur,Baja California Sur,03,Mulegé,002,,,27.1386,-112.6766,1,bahia-tortugas-sur
+MX,Mexico,México,23951,Isla Natividad,Baja California Sur,03,Mulegé,002,,,27.1386,-112.6766,1,isla-natividad
+MX,Mexico,México,23952,Punta Eugenia,Baja California Sur,03,Mulegé,002,,,27.1386,-112.6766,1,punta-eugenia
+MX,Mexico,México,23959,San José de Castro,Baja California Sur,03,Mulegé,002,,,27.1386,-112.6766,1,san-jose-de-castro
+MX,Mexico,México,23960,Bahía Asunción,Baja California Sur,03,Mulegé,002,,,27.1386,-112.6766,1,bahia-asuncion
+MX,Mexico,México,23969,San Roque,Baja California Sur,03,Mulegé,002,,,27.1386,-112.6766,1,san-roque
+MX,Mexico,México,23970,Punta Abreojos,Baja California Sur,03,Mulegé,002,,,26.7154,-113.5745,4,punta-abreojos
+MX,Mexico,México,23971,Punta Prieta,Baja California Sur,03,Mulegé,002,,,26.8341,-113.7554,1,punta-prieta
+MX,Mexico,México,23972,San Hipólito Bahía,Baja California Sur,03,Mulegé,002,,,26.9889,-113.9798,4,san-hipolito-bahia
+MX,Mexico,México,23973,La Bocana,Baja California Sur,03,Mulegé,002,,,26.798,-113.7119,4,la-bocana
+MX,Mexico,México,23975,Las Margaritas (el Piloto),Baja California Sur,03,Mulegé,002,,,26.8341,-113.7554,1,las-margaritas-el-piloto
+MX,Mexico,México,23980,Guadalupe,Baja California Sur,03,Mulegé,002,,,27.6151,-113.0312,4,guadalupe
+MX,Mexico,México,23983,Guillermo Prieto,Baja California Sur,03,Mulegé,002,,,27.8422,-113.2986,4,guillermo-prieto
+MX,Mexico,México,23988,San Francisco de la Sierra,Baja California Sur,03,Mulegé,002,,,27.5974,-113.0159,4,san-francisco-de-la-sierra
+MX,Mexico,México,23990,El Carricito,Baja California Sur,03,Mulegé,002,,,27.4643,-112.8433,4,el-carricito
+MX,Mexico,México,23995,Los Angeles,Baja California Sur,03,Mulegé,002,,,27.4819,-113.2839,4,los-angeles
+MX,Mexico,México,23997,El Mezquital 1,Baja California Sur,03,Mulegé,002,,,27.4731,-113.0636,1,el-mezquital-1
+MX,Mexico,México,23000,Zona Central,Baja California Sur,03,La Paz,003,La Paz,02,24.1244,-110.2964,4,zona-central
+MX,Mexico,México,23006,Zona Comercial,Baja California Sur,03,La Paz,003,La Paz,02,24.1244,-110.2964,1,zona-comercial
+MX,Mexico,México,23007,Palacio de Gobierno del Estado de Baja California Sur,Baja California Sur,03,La Paz,003,La Paz,02,24.1244,-110.2964,1,palacio-de-gobierno-del-estado-de-baja-california-sur
+MX,Mexico,México,23008,Delegación de La Secretaria de Educación Publica,Baja California Sur,03,La Paz,003,La Paz,02,24.1244,-110.2964,1,delegacion-de-la-secretaria-de-educacion-publica
+MX,Mexico,México,23009,Oficina Federal de Hacienda,Baja California Sur,03,La Paz,003,La Paz,02,24.1244,-110.2964,1,oficina-federal-de-hacienda
+MX,Mexico,México,23010,Lomas de Palmira,Baja California Sur,03,La Paz,003,La Paz,02,24.179,-110.2986,4,lomas-de-palmira
+MX,Mexico,México,23010,Agustín Olachea,Baja California Sur,03,La Paz,003,La Paz,02,24.1633,-110.2905,4,agustin-olachea
+MX,Mexico,México,23010,Colina del Sol,Baja California Sur,03,La Paz,003,La Paz,02,24.1724,-110.3006,4,colina-del-sol
+MX,Mexico,México,23010,Ciudad del Cielo,Baja California Sur,03,La Paz,003,La Paz,02,24.1685,-110.2958,4,ciudad-del-cielo
+MX,Mexico,México,23017,Paseos del Cortes,Baja California Sur,03,La Paz,003,La Paz,02,24.1709,-110.2951,1,paseos-del-cortes
+MX,Mexico,México,23018,Reforma II,Baja California Sur,03,La Paz,003,La Paz,02,24.1709,-110.2951,1,reforma-ii
+MX,Mexico,México,23018,Alfonso Sanchez Madariaga INFONAVIT,Baja California Sur,03,La Paz,003,La Paz,02,24.1709,-110.2951,1,alfonso-sanchez-madariaga-infonavit
+MX,Mexico,México,23018,Pedregal del Cortes,Baja California Sur,03,La Paz,003,La Paz,02,24.1709,-110.2951,1,pedregal-del-cortes
+MX,Mexico,México,23018,Reforma I,Baja California Sur,03,La Paz,003,La Paz,02,24.1709,-110.2951,1,reforma-i
+MX,Mexico,México,23019,Pedregal de la Paz,Baja California Sur,03,La Paz,003,La Paz,02,24.1714,-110.2902,4,pedregal-de-la-paz
+MX,Mexico,México,23019,Policentro Palmira,Baja California Sur,03,La Paz,003,La Paz,02,24.1714,-110.2902,3,policentro-palmira
+MX,Mexico,México,23020,Manuel Rivera Anaya,Baja California Sur,03,La Paz,003,La Paz,02,24.164,-110.3034,3,manuel-rivera-anaya
+MX,Mexico,México,23020,Colina de La Cruz,Baja California Sur,03,La Paz,003,La Paz,02,24.1613,-110.3013,4,colina-de-la-cruz
+MX,Mexico,México,23020,Guerrero,Baja California Sur,03,La Paz,003,La Paz,02,24.164,-110.3034,3,guerrero
+MX,Mexico,México,23020,Ladrillera,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,ladrillera
+MX,Mexico,México,23020,Esterito,Baja California Sur,03,La Paz,003,La Paz,02,24.1668,-110.3055,4,esterito
+MX,Mexico,México,23026,Olachea,Baja California Sur,03,La Paz,003,La Paz,02,24.1633,-110.2905,4,olachea
+MX,Mexico,México,23026,Antonio Navarro Rubio,Baja California Sur,03,La Paz,003,La Paz,02,24.1603,-110.2949,4,antonio-navarro-rubio
+MX,Mexico,México,23026,Ampliación Antonio Navarro Rubio,Baja California Sur,03,La Paz,003,La Paz,02,24.1618,-110.2927,3,ampliacion-antonio-navarro-rubio
+MX,Mexico,México,23029,Zona Militar,Baja California Sur,03,La Paz,003,La Paz,02,24.1629,-110.2981,1,zona-militar
+MX,Mexico,México,23030,Loma Linda,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,loma-linda
+MX,Mexico,México,23030,Guadalupe Victoria,Baja California Sur,03,La Paz,003,La Paz,02,24.1519,-110.2868,4,guadalupe-victoria
+MX,Mexico,México,23030,Independencia,Baja California Sur,03,La Paz,003,La Paz,02,24.1485,-110.2822,4,independencia
+MX,Mexico,México,23030,Francisco Villa,Baja California Sur,03,La Paz,003,La Paz,02,24.1412,-110.2853,4,francisco-villa
+MX,Mexico,México,23030,San Pablo Guelatao,Baja California Sur,03,La Paz,003,La Paz,02,24.1424,-110.2777,4,san-pablo-guelatao
+MX,Mexico,México,23030,Magisterial,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,magisterial
+MX,Mexico,México,23030,Lienzo Charro,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,lienzo-charro
+MX,Mexico,México,23034,Lázaro Cárdenas,Baja California Sur,03,La Paz,003,La Paz,02,24.1448,-110.2803,4,lazaro-cardenas
+MX,Mexico,México,23037,Jacinto Lopez,Baja California Sur,03,La Paz,003,La Paz,02,24.1458,-110.2844,4,jacinto-lopez
+MX,Mexico,México,23038,Marquez de Leon,Baja California Sur,03,La Paz,003,La Paz,02,24.0539,-110.1972,3,marquez-de-leon
+MX,Mexico,México,23038,Valle de las Vinoramas,Baja California Sur,03,La Paz,003,La Paz,02,24.0539,-110.1972,3,valle-de-las-vinoramas
+MX,Mexico,México,23038,Vista Hermosa,Baja California Sur,03,La Paz,003,La Paz,02,23.7462,-109.9784,4,vista-hermosa
+MX,Mexico,México,23038,Lázaro Cárdenas,Baja California Sur,03,La Paz,003,La Paz,02,24.1448,-110.2803,4,lazaro-cardenas
+MX,Mexico,México,23038,Ampliación Marquez de Leon,Baja California Sur,03,La Paz,003,La Paz,02,24.0539,-110.1972,3,ampliacion-marquez-de-leon
+MX,Mexico,México,23038,Laguna Azul,Baja California Sur,03,La Paz,003,La Paz,02,24.0539,-110.1972,3,laguna-azul
+MX,Mexico,México,23038,Loma Obrera,Baja California Sur,03,La Paz,003,La Paz,02,24.153,-110.2786,4,loma-obrera
+MX,Mexico,México,23038,Villas de Guadalupe,Baja California Sur,03,La Paz,003,La Paz,02,24.1716,-110.2516,4,villas-de-guadalupe
+MX,Mexico,México,23039,La Escondida,Baja California Sur,03,La Paz,003,La Paz,02,23.3652,-110.1913,4,la-escondida
+MX,Mexico,México,23040,Los Olivos,Baja California Sur,03,La Paz,003,La Paz,02,24.142,-110.3071,4,los-olivos
+MX,Mexico,México,23040,ISSSTE,Baja California Sur,03,La Paz,003,La Paz,02,24.1417,-110.3062,3,issste
+MX,Mexico,México,23040,Perla,Baja California Sur,03,La Paz,003,La Paz,02,24.147,-110.307,4,perla
+MX,Mexico,México,23040,Adolfo Ruiz Cortines,Baja California Sur,03,La Paz,003,La Paz,02,24.1417,-110.3062,3,adolfo-ruiz-cortines
+MX,Mexico,México,23040,Petrolera,Baja California Sur,03,La Paz,003,La Paz,02,24.1369,-110.3078,4,petrolera
+MX,Mexico,México,23040,La Rinconada,Baja California Sur,03,La Paz,003,La Paz,02,24.141,-110.3028,4,la-rinconada
+MX,Mexico,México,23050,Bella Vista Plus,Baja California Sur,03,La Paz,003,La Paz,02,24.08,-110.3008,3,bella-vista-plus
+MX,Mexico,México,23050,Benito Juárez Oriente,Baja California Sur,03,La Paz,003,La Paz,02,24.08,-110.3008,3,benito-juarez-oriente
+MX,Mexico,México,23050,Rosaura Zapata,Baja California Sur,03,La Paz,003,La Paz,02,24.08,-110.3008,3,rosaura-zapata
+MX,Mexico,México,23050,Zona Industrial,Baja California Sur,03,La Paz,003,La Paz,02,24.1244,-110.2964,4,zona-industrial
+MX,Mexico,México,23050,El Carrizal,Baja California Sur,03,La Paz,003,La Paz,02,23.7843,-110.3117,4,el-carrizal
+MX,Mexico,México,23050,Tecnológico,Baja California Sur,03,La Paz,003,La Paz,02,24.1198,-110.3086,4,tecnologico
+MX,Mexico,México,23050,30 de Septiembre,Baja California Sur,03,La Paz,003,La Paz,02,24.08,-110.3008,3,30-de-septiembre
+MX,Mexico,México,23050,Cruz de Piedra,Baja California Sur,03,La Paz,003,La Paz,02,24.08,-110.3008,3,cruz-de-piedra
+MX,Mexico,México,23050,Roma,Baja California Sur,03,La Paz,003,La Paz,02,24.1362,-110.2815,4,roma
+MX,Mexico,México,23050,El Campanario,Baja California Sur,03,La Paz,003,La Paz,02,24.1312,-110.3073,4,el-campanario
+MX,Mexico,México,23050,Misiones de Loreto,Baja California Sur,03,La Paz,003,La Paz,02,24.1385,-110.2906,4,misiones-de-loreto
+MX,Mexico,México,23050,Bella Vista,Baja California Sur,03,La Paz,003,La Paz,02,24.1256,-110.3095,4,bella-vista
+MX,Mexico,México,23052,20 de Noviembre,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,1,20-de-noviembre
+MX,Mexico,México,23054,Cihuatán (Costa Azul),Baja California Sur,03,La Paz,003,La Paz,02,24.1238,-110.3027,3,cihuatan-costa-azul
+MX,Mexico,México,23054,José María Morelos,Baja California Sur,03,La Paz,003,La Paz,02,24.1238,-110.3027,3,jose-maria-morelos
+MX,Mexico,México,23054,Calafia,Baja California Sur,03,La Paz,003,La Paz,02,24.1238,-110.3027,4,calafia
+MX,Mexico,México,23055,Jardines del Sur,Baja California Sur,03,La Paz,003,La Paz,02,24.1214,-110.3015,4,jardines-del-sur
+MX,Mexico,México,23056,Flores Magón,Baja California Sur,03,La Paz,003,La Paz,02,24.1293,-110.3005,4,flores-magon
+MX,Mexico,México,23056,Popular Indeco,Baja California Sur,03,La Paz,003,La Paz,02,24.1293,-110.3005,3,popular-indeco
+MX,Mexico,México,23057,Albergue Deportivo Indeco,Baja California Sur,03,La Paz,003,La Paz,02,24.0935,-110.301,1,albergue-deportivo-indeco
+MX,Mexico,México,23060,Inalámbrica,Baja California Sur,03,La Paz,003,La Paz,02,24.1494,-110.333,4,inalambrica
+MX,Mexico,México,23060,San Pablo,Baja California Sur,03,La Paz,003,La Paz,02,24.0283,-110.1371,4,san-pablo
+MX,Mexico,México,23060,Su Casa,Baja California Sur,03,La Paz,003,La Paz,02,24.0141,-110.2653,3,su-casa
+MX,Mexico,México,23060,Pueblo Nuevo,Baja California Sur,03,La Paz,003,La Paz,02,23.7347,-110.2728,4,pueblo-nuevo
+MX,Mexico,México,23060,Primero de Mayo,Baja California Sur,03,La Paz,003,La Paz,02,24.1439,-110.3184,4,primero-de-mayo
+MX,Mexico,México,23060,Quinta Esmeralda,Baja California Sur,03,La Paz,003,La Paz,02,24.0141,-110.2653,3,quinta-esmeralda
+MX,Mexico,México,23060,Lomas de Cataviña,Baja California Sur,03,La Paz,003,La Paz,02,24.0141,-110.2653,3,lomas-de-catavina
+MX,Mexico,México,23060,California,Baja California Sur,03,La Paz,003,La Paz,02,24.0141,-110.2653,3,california
+MX,Mexico,México,23060,Barrio El Manglito,Baja California Sur,03,La Paz,003,La Paz,02,24.0141,-110.2653,3,barrio-el-manglito
+MX,Mexico,México,23068,Electricista,Baja California Sur,03,La Paz,003,La Paz,02,24.0141,-110.2653,1,electricista
+MX,Mexico,México,23069,Unidad Alta,Baja California Sur,03,La Paz,003,La Paz,02,24.0141,-110.2653,1,unidad-alta
+MX,Mexico,México,23070,Indeco,Baja California Sur,03,La Paz,003,La Paz,02,24.0523,-110.2578,3,indeco
+MX,Mexico,México,23070,Unidad Indeco,Baja California Sur,03,La Paz,003,La Paz,02,24.0523,-110.2578,3,unidad-indeco
+MX,Mexico,México,23070,Oro Blanco,Baja California Sur,03,La Paz,003,La Paz,02,24.0523,-110.2578,3,oro-blanco
+MX,Mexico,México,23070,INFONAVIT,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,infonavit
+MX,Mexico,México,23070,Pescadores,Baja California Sur,03,La Paz,003,La Paz,02,24.1311,-110.32,4,pescadores
+MX,Mexico,México,23070,Jardines de la Paz,Baja California Sur,03,La Paz,003,La Paz,02,24.1405,-110.3307,4,jardines-de-la-paz
+MX,Mexico,México,23070,Residencial las Garzas,Baja California Sur,03,La Paz,003,La Paz,02,24.1302,-110.3236,4,residencial-las-garzas
+MX,Mexico,México,23070,Emiliano Zapata,Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3172,4,emiliano-zapata
+MX,Mexico,México,23070,Las Grullas,Baja California Sur,03,La Paz,003,La Paz,02,24.1282,-110.3215,4,las-grullas
+MX,Mexico,México,23070,Las Palmas,Baja California Sur,03,La Paz,003,La Paz,02,23.6513,-109.9337,4,las-palmas
+MX,Mexico,México,23075,Revolución,Baja California Sur,03,La Paz,003,La Paz,02,24.1142,-110.3227,4,revolucion
+MX,Mexico,México,23075,Molino Harinero,Baja California Sur,03,La Paz,003,La Paz,02,24.1177,-110.3209,4,molino-harinero
+MX,Mexico,México,23075,Molino Harinero II,Baja California Sur,03,La Paz,003,La Paz,02,24.0967,-110.3931,3,molino-harinero-ii
+MX,Mexico,México,23075,3 de Mayo,Baja California Sur,03,La Paz,003,La Paz,02,24.0967,-110.3931,3,3-de-mayo
+MX,Mexico,México,23075,3 de Mayo II,Baja California Sur,03,La Paz,003,La Paz,02,24.0967,-110.3931,3,3-de-mayo-ii
+MX,Mexico,México,23075,Revolución II,Baja California Sur,03,La Paz,003,La Paz,02,24.0967,-110.3931,3,revolucion-ii
+MX,Mexico,México,23075,Agustín Arriola,Baja California Sur,03,La Paz,003,La Paz,02,24.0967,-110.3931,3,agustin-arriola
+MX,Mexico,México,23075,Borrego Cimarrón,Baja California Sur,03,La Paz,003,La Paz,02,24.1162,-110.3219,4,borrego-cimarron
+MX,Mexico,México,23075,Miguel Canseco,Baja California Sur,03,La Paz,003,La Paz,02,24.1168,-110.3234,4,miguel-canseco
+MX,Mexico,México,23075,Balandra,Baja California Sur,03,La Paz,003,La Paz,02,24.1194,-110.3193,4,balandra
+MX,Mexico,México,23075,Santa Mónica,Baja California Sur,03,La Paz,003,La Paz,02,23.9604,-110.8207,4,santa-monica
+MX,Mexico,México,23075,Privada Las Garzas,Baja California Sur,03,La Paz,003,La Paz,02,24.1322,-110.3228,4,privada-las-garzas
+MX,Mexico,México,23076,San Agustín,Baja California Sur,03,La Paz,003,La Paz,02,24.1248,-110.329,4,san-agustin
+MX,Mexico,México,23076,Los Cactus,Baja California Sur,03,La Paz,003,La Paz,02,24.1258,-110.3229,4,los-cactus
+MX,Mexico,México,23076,Civilizadores II,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,civilizadores-ii
+MX,Mexico,México,23076,Las Águilas,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,las-aguilas
+MX,Mexico,México,23076,Residencial Santa Rita,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,residencial-santa-rita
+MX,Mexico,México,23076,Popular Garza V,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,popular-garza-v
+MX,Mexico,México,23076,Las Islas,Baja California Sur,03,La Paz,003,La Paz,02,24.1226,-110.3296,4,las-islas
+MX,Mexico,México,23076,Las Tunas,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,las-tunas
+MX,Mexico,México,23076,Villa Santa María,Baja California Sur,03,La Paz,003,La Paz,02,24.1156,-110.3315,4,villa-santa-maria
+MX,Mexico,México,23076,Reforma,Baja California Sur,03,La Paz,003,La Paz,02,24.1201,-110.3279,4,reforma
+MX,Mexico,México,23076,Del Sol,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,del-sol
+MX,Mexico,México,23076,Burocrática las Garzas,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,burocratica-las-garzas
+MX,Mexico,México,23076,Civilizadores I,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,civilizadores-i
+MX,Mexico,México,23076,Cactus Harinera,Baja California Sur,03,La Paz,003,La Paz,02,24.1218,-110.3282,3,cactus-harinera
+MX,Mexico,México,23077,17 de Octubre,Baja California Sur,03,La Paz,003,La Paz,02,24.0953,-110.3283,1,17-de-octubre
+MX,Mexico,México,23078,Unidad Donceles 28,Baja California Sur,03,La Paz,003,La Paz,02,24.1232,-110.3179,3,unidad-donceles-28
+MX,Mexico,México,23078,Embotelladores 83,Baja California Sur,03,La Paz,003,La Paz,02,24.1232,-110.3179,3,embotelladores-83
+MX,Mexico,México,23078,Libertad,Baja California Sur,03,La Paz,003,La Paz,02,24.1241,-110.3185,4,libertad
+MX,Mexico,México,23078,Clemente Guillen,Baja California Sur,03,La Paz,003,La Paz,02,24.1222,-110.3172,4,clemente-guillen
+MX,Mexico,México,23079,Rio Blanco,Baja California Sur,03,La Paz,003,La Paz,02,24.1227,-110.3198,4,rio-blanco
+MX,Mexico,México,23079,Las Garzas,Baja California Sur,03,La Paz,003,La Paz,02,24.128,-110.3269,4,las-garzas
+MX,Mexico,México,23079,Unidad Domingo Carballo Félix,Baja California Sur,03,La Paz,003,La Paz,02,24.1254,-110.3233,3,unidad-domingo-carballo-felix
+MX,Mexico,México,23079,Prensa Radio y TV,Baja California Sur,03,La Paz,003,La Paz,02,24.1254,-110.3233,3,prensa-radio-y-tv
+MX,Mexico,México,23080,Rinconada el Cardonal,Baja California Sur,03,La Paz,003,La Paz,02,24.1371,-110.2841,3,rinconada-el-cardonal
+MX,Mexico,México,23080,Santa María,Baja California Sur,03,La Paz,003,La Paz,02,24.2338,-110.22,4,santa-maria
+MX,Mexico,México,23080,Agua Escondida,Baja California Sur,03,La Paz,003,La Paz,02,24.1128,-110.3007,4,agua-escondida
+MX,Mexico,México,23080,Agropecuaria,Baja California Sur,03,La Paz,003,La Paz,02,24.1371,-110.2841,3,agropecuaria
+MX,Mexico,México,23080,Sudcalifornia,Baja California Sur,03,La Paz,003,La Paz,02,24.1371,-110.2841,3,sudcalifornia
+MX,Mexico,México,23080,Fuerza Aérea,Baja California Sur,03,La Paz,003,La Paz,02,24.1371,-110.2841,3,fuerza-aerea
+MX,Mexico,México,23080,BANOBRAS,Baja California Sur,03,La Paz,003,La Paz,02,24.1371,-110.2841,3,banobras
+MX,Mexico,México,23080,"El Calandrio I, II, III",Baja California Sur,03,La Paz,003,La Paz,02,24.1371,-110.2841,3,el-calandrio-i-ii-iii
+MX,Mexico,México,23080,Universitario,Baja California Sur,03,La Paz,003,La Paz,02,24.1061,-110.3089,4,universitario
+MX,Mexico,México,23080,Mezquitito,Baja California Sur,03,La Paz,003,La Paz,02,24.0957,-110.3068,4,mezquitito
+MX,Mexico,México,23080,8 de Octubre 1a Sección,Baja California Sur,03,La Paz,003,La Paz,02,24.1371,-110.2841,3,8-de-octubre-1a-seccion
+MX,Mexico,México,23083,Misiones,Baja California Sur,03,La Paz,003,La Paz,02,24.0899,-110.3187,4,misiones
+MX,Mexico,México,23083,El Mezquitito INVI,Baja California Sur,03,La Paz,003,La Paz,02,24.0101,-110.1066,3,el-mezquitito-invi
+MX,Mexico,México,23083,"Solidaridad Mezquitito I, II",Baja California Sur,03,La Paz,003,La Paz,02,24.0101,-110.1066,3,solidaridad-mezquitito-i-ii
+MX,Mexico,México,23083,San Fernando,Baja California Sur,03,La Paz,003,La Paz,02,23.9303,-109.8946,4,san-fernando
+MX,Mexico,México,23083,Misiones II,Baja California Sur,03,La Paz,003,La Paz,02,24.0101,-110.1066,3,misiones-ii
+MX,Mexico,México,23084,La Estancia,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,la-estancia
+MX,Mexico,México,23084,Las Californias,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,las-californias
+MX,Mexico,México,23084,Península Sur,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,peninsula-sur
+MX,Mexico,México,23084,Vista Dorada,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,vista-dorada
+MX,Mexico,México,23084,Valle del Mezquite,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,valle-del-mezquite
+MX,Mexico,México,23084,Terranova,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,terranova
+MX,Mexico,México,23084,El Palmar II,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,el-palmar-ii
+MX,Mexico,México,23084,Diana Laura,Baja California Sur,03,La Paz,003,La Paz,02,24.0843,-110.3151,4,diana-laura
+MX,Mexico,México,23084,La Cañada,Baja California Sur,03,La Paz,003,La Paz,02,24.0803,-110.3005,4,la-canada
+MX,Mexico,México,23084,Los Tabachines,Baja California Sur,03,La Paz,003,La Paz,02,23.9221,-110.3023,3,los-tabachines
+MX,Mexico,México,23084,El Progreso,Baja California Sur,03,La Paz,003,La Paz,02,24.0849,-110.3045,4,el-progreso
+MX,Mexico,México,23084,VIVAH El Progreso,Baja California Sur,03,La Paz,003,La Paz,02,24.0811,-110.2982,4,vivah-el-progreso
+MX,Mexico,México,23084,El Dorado,Baja California Sur,03,La Paz,003,La Paz,02,23.6402,-110.2639,4,el-dorado
+MX,Mexico,México,23084,Las Palmas,Baja California Sur,03,La Paz,003,La Paz,02,23.6513,-109.9337,4,las-palmas
+MX,Mexico,México,23084,Progreso,Baja California Sur,03,La Paz,003,La Paz,02,23.8326,-110.7002,4,progreso
+MX,Mexico,México,23085,San Rafael,Baja California Sur,03,La Paz,003,La Paz,02,23.2943,-110.0792,4,san-rafael
+MX,Mexico,México,23085,Calandrio,Baja California Sur,03,La Paz,003,La Paz,02,24.0988,-110.3219,4,calandrio
+MX,Mexico,México,23085,Los Bledales,Baja California Sur,03,La Paz,003,La Paz,02,24.1005,-110.2504,4,los-bledales
+MX,Mexico,México,23085,Villas de San Lorenzo,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,villas-de-san-lorenzo
+MX,Mexico,México,23085,Paraíso del Sol,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,paraiso-del-sol
+MX,Mexico,México,23085,Arbolares,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,arbolares
+MX,Mexico,México,23085,Las Américas,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,las-americas
+MX,Mexico,México,23085,El Pescador,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,el-pescador
+MX,Mexico,México,23085,Brisas de las Olas,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,brisas-de-las-olas
+MX,Mexico,México,23085,Azul Marino,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,azul-marino
+MX,Mexico,México,23085,Altezza Residencial,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,altezza-residencial
+MX,Mexico,México,23085,Villas del Encanto,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,villas-del-encanto
+MX,Mexico,México,23085,Sector U.A.B.C.S.,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,sector-u-a-b-c-s
+MX,Mexico,México,23085,San Miguel II,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,san-miguel-ii
+MX,Mexico,México,23085,San Carlos III,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,san-carlos-iii
+MX,Mexico,México,23085,Miramar,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,miramar
+MX,Mexico,México,23085,Rinconada las Californias,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,rinconada-las-californias
+MX,Mexico,México,23085,Quintas San Patricio,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,quintas-san-patricio
+MX,Mexico,México,23085,Los Álamos,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,los-alamos
+MX,Mexico,México,23085,Virreyes,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,virreyes
+MX,Mexico,México,23085,La Cima Residencial,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,la-cima-residencial
+MX,Mexico,México,23085,Paseos del Sol,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,paseos-del-sol
+MX,Mexico,México,23085,8 de Octubre 2a Sección,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,8-de-octubre-2a-seccion
+MX,Mexico,México,23085,Santa Fe,Baja California Sur,03,La Paz,003,La Paz,02,24.0946,-110.3248,4,santa-fe
+MX,Mexico,México,23085,San Miguel,Baja California Sur,03,La Paz,003,La Paz,02,23.3515,-110.078,4,san-miguel
+MX,Mexico,México,23085,Coromuel,Baja California Sur,03,La Paz,003,La Paz,02,24.1066,-110.3183,4,coromuel
+MX,Mexico,México,23085,Altamira Residencial,Baja California Sur,03,La Paz,003,La Paz,02,23.9072,-110.2497,3,altamira-residencial
+MX,Mexico,México,23085,Correcaminos,Baja California Sur,03,La Paz,003,La Paz,02,24.1049,-110.3103,4,correcaminos
+MX,Mexico,México,23085,Leonardo Rodriguez,Baja California Sur,03,La Paz,003,La Paz,02,24.1067,-110.3146,4,leonardo-rodriguez
+MX,Mexico,México,23086,Ángel Cesar Mendoza Aramburo,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,1,angel-cesar-mendoza-aramburo
+MX,Mexico,México,23088,Ayuntamiento,Baja California Sur,03,La Paz,003,La Paz,02,24.0489,-110.2977,4,ayuntamiento
+MX,Mexico,México,23088,Arcoiris,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,arcoiris
+MX,Mexico,México,23088,Perla del Golfo,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,perla-del-golfo
+MX,Mexico,México,23088,El Zacatal,Baja California Sur,03,La Paz,003,La Paz,02,24.1136,-110.3417,4,el-zacatal
+MX,Mexico,México,23088,Agua Clara,Baja California Sur,03,La Paz,003,La Paz,02,24.0592,-110.3024,4,agua-clara
+MX,Mexico,México,23088,Calafia,Baja California Sur,03,La Paz,003,La Paz,02,24.1238,-110.3027,4,calafia
+MX,Mexico,México,23088,Arcoiris III,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,arcoiris-iii
+MX,Mexico,México,23088,Cola de la Ballena,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,cola-de-la-ballena
+MX,Mexico,México,23088,Del Mar Residencial,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,del-mar-residencial
+MX,Mexico,México,23088,I.T.R.,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,i-t-r
+MX,Mexico,México,23088,El Camino Real,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,el-camino-real
+MX,Mexico,México,23088,La Fuente,Baja California Sur,03,La Paz,003,La Paz,02,24.0659,-110.2984,4,la-fuente
+MX,Mexico,México,23088,Arcoiris II,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,arcoiris-ii
+MX,Mexico,México,23088,Ampliación Ayuntamiento,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,ampliacion-ayuntamiento
+MX,Mexico,México,23088,Real del Sol,Baja California Sur,03,La Paz,003,La Paz,02,24.0823,-110.3086,3,real-del-sol
+MX,Mexico,México,23089,La Pasión C,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,la-pasion-c
+MX,Mexico,México,23089,Los Cardones,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,los-cardones
+MX,Mexico,México,23089,Olas Altas,Baja California Sur,03,La Paz,003,La Paz,02,24.0836,-110.3319,4,olas-altas
+MX,Mexico,México,23089,Zona Antiguo Aeropuerto,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,zona-antiguo-aeropuerto
+MX,Mexico,México,23089,El Palmar IV,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,el-palmar-iv
+MX,Mexico,México,23089,Villas del Cortes,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,villas-del-cortes
+MX,Mexico,México,23089,El Cardoncito,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,el-cardoncito
+MX,Mexico,México,23089,Parque Industrial,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,parque-industrial
+MX,Mexico,México,23089,Villas de La Paz,Baja California Sur,03,La Paz,003,La Paz,02,24.0633,-110.3372,4,villas-de-la-paz
+MX,Mexico,México,23089,Paseos del Sol,Baja California Sur,03,La Paz,003,La Paz,02,24.1061,-110.3129,4,paseos-del-sol
+MX,Mexico,México,23089,La Pitahaya,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,la-pitahaya
+MX,Mexico,México,23089,El Palmar I,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,el-palmar-i
+MX,Mexico,México,23089,Fuerza Aérea,Baja California Sur,03,La Paz,003,La Paz,02,24.0844,-110.3274,3,fuerza-aerea
+MX,Mexico,México,23090,La Esperanza 2,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,la-esperanza-2
+MX,Mexico,México,23090,Los Girasoles,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,los-girasoles
+MX,Mexico,México,23090,Arcos del Sol I,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,arcos-del-sol-i
+MX,Mexico,México,23090,Arcos del Sol,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,arcos-del-sol
+MX,Mexico,México,23090,Atardeceres,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,atardeceres
+MX,Mexico,México,23090,Tulipanes,Baja California Sur,03,La Paz,003,La Paz,02,24.1396,-110.3293,4,tulipanes
+MX,Mexico,México,23090,Casa Blanca,Baja California Sur,03,La Paz,003,La Paz,02,23.8646,-110.1804,4,casa-blanca
+MX,Mexico,México,23090,El Conchalito,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,el-conchalito
+MX,Mexico,México,23090,Jardines de La Paz,Baja California Sur,03,La Paz,003,La Paz,02,24.1405,-110.3307,4,jardines-de-la-paz
+MX,Mexico,México,23090,Privadas del Sol,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,privadas-del-sol
+MX,Mexico,México,23090,Marina Sol,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,marina-sol
+MX,Mexico,México,23090,La Esperanza 3,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,la-esperanza-3
+MX,Mexico,México,23090,Misión las Palmas,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,mision-las-palmas
+MX,Mexico,México,23090,San José,Baja California Sur,03,La Paz,003,La Paz,02,23.773,-110.3053,4,san-jose
+MX,Mexico,México,23090,Campestre,Baja California Sur,03,La Paz,003,La Paz,02,24.0984,-110.3862,4,campestre
+MX,Mexico,México,23090,Capullo,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,capullo
+MX,Mexico,México,23090,Solidaridad INFONAVIT,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,solidaridad-infonavit
+MX,Mexico,México,23090,San Antonio El Zacatal,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,san-antonio-el-zacatal
+MX,Mexico,México,23090,Puesta del Sol,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,puesta-del-sol
+MX,Mexico,México,23090,Solidaridad,Baja California Sur,03,La Paz,003,La Paz,02,24.1384,-110.3327,4,solidaridad
+MX,Mexico,México,23090,La Esperanza,Baja California Sur,03,La Paz,003,La Paz,02,23.6236,-109.8318,4,la-esperanza
+MX,Mexico,México,23090,San Marino,Baja California Sur,03,La Paz,003,La Paz,02,23.9709,-110.2544,3,san-marino
+MX,Mexico,México,23090,Benito Juárez,Baja California Sur,03,La Paz,003,La Paz,02,24.1355,-110.2927,4,benito-juarez
+MX,Mexico,México,23090,Inalapa,Baja California Sur,03,La Paz,003,La Paz,02,24.1363,-110.3311,4,inalapa
+MX,Mexico,México,23090,Bugambilias,Baja California Sur,03,La Paz,003,La Paz,02,23.6594,-110.2236,4,bugambilias
+MX,Mexico,México,23091,Centro SCT Baja California Sur,Baja California Sur,03,La Paz,003,La Paz,02,24.0391,-110.2702,1,centro-sct-baja-california-sur
+MX,Mexico,México,23094,Sector La Selva Fidepaz,Baja California Sur,03,La Paz,003,La Paz,02,23.7546,-110.051,3,sector-la-selva-fidepaz
+MX,Mexico,México,23094,Ballenas,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,ballenas
+MX,Mexico,México,23094,Los Cántaros,Baja California Sur,03,La Paz,003,La Paz,02,23.7546,-110.051,3,los-cantaros
+MX,Mexico,México,23094,Las Quintas,Baja California Sur,03,La Paz,003,La Paz,02,23.7546,-110.051,3,las-quintas
+MX,Mexico,México,23094,Los Peces,Baja California Sur,03,La Paz,003,La Paz,02,23.7546,-110.051,3,los-peces
+MX,Mexico,México,23094,Las Flores,Baja California Sur,03,La Paz,003,La Paz,02,23.7546,-110.051,4,las-flores
+MX,Mexico,México,23095,La Sirena,Baja California Sur,03,La Paz,003,La Paz,02,24.1322,-110.333,4,la-sirena
+MX,Mexico,México,23095,Nueva Puesta del Sol,Baja California Sur,03,La Paz,003,La Paz,02,24.1322,-110.333,3,nueva-puesta-del-sol
+MX,Mexico,México,23095,Sector Santa Rita,Baja California Sur,03,La Paz,003,La Paz,02,24.1322,-110.333,3,sector-santa-rita
+MX,Mexico,México,23095,Balandra Puesta del Sol,Baja California Sur,03,La Paz,003,La Paz,02,24.1322,-110.333,3,balandra-puesta-del-sol
+MX,Mexico,México,23096,Guaycura,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,1,guaycura
+MX,Mexico,México,23096,Playa de Santa Rita,Baja California Sur,03,La Paz,003,La Paz,02,24.0391,-110.2702,1,playa-de-santa-rita
+MX,Mexico,México,23097,Ciudad del Recreo,Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,3,ciudad-del-recreo
+MX,Mexico,México,23097,Los Pericues,Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,3,los-pericues
+MX,Mexico,México,23097,Plan Hidráulico,Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,3,plan-hidraulico
+MX,Mexico,México,23097,Mineros (Perla ROFOMEX),Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,3,mineros-perla-rofomex
+MX,Mexico,México,23097,Misioneros,Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,4,misioneros
+MX,Mexico,México,23097,"Pueblo Nuevo 1, 2",Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,3,pueblo-nuevo-1-2
+MX,Mexico,México,23097,Villas del Mar,Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,3,villas-del-mar
+MX,Mexico,México,23097,Residencial Marina Sur,Baja California Sur,03,La Paz,003,La Paz,02,24.1324,-110.3311,3,residencial-marina-sur
+MX,Mexico,México,23098,Sector Inalapa,Baja California Sur,03,La Paz,003,La Paz,02,24.1337,-110.3296,3,sector-inalapa
+MX,Mexico,México,23098,Garzas Agrícolas,Baja California Sur,03,La Paz,003,La Paz,02,24.1337,-110.3296,3,garzas-agricolas
+MX,Mexico,México,23098,Las Garzas INFONAVIT,Baja California Sur,03,La Paz,003,La Paz,02,24.1337,-110.3296,3,las-garzas-infonavit
+MX,Mexico,México,23098,Azaleas,Baja California Sur,03,La Paz,003,La Paz,02,24.1393,-110.3311,4,azaleas
+MX,Mexico,México,23098,María Conchita,Baja California Sur,03,La Paz,003,La Paz,02,24.1311,-110.3271,4,maria-conchita
+MX,Mexico,México,23098,CCC y Perla de La Paz,Baja California Sur,03,La Paz,003,La Paz,02,24.1337,-110.3296,3,ccc-y-perla-de-la-paz
+MX,Mexico,México,23098,Cácaros,Baja California Sur,03,La Paz,003,La Paz,02,24.1305,-110.3305,4,cacaros
+MX,Mexico,México,23098,Las Margaritas,Baja California Sur,03,La Paz,003,La Paz,02,24.1903,-110.6631,3,las-margaritas
+MX,Mexico,México,23099,Residencial Loreto,Baja California Sur,03,La Paz,003,La Paz,02,24.1631,-110.2893,3,residencial-loreto
+MX,Mexico,México,23099,Santa María,Baja California Sur,03,La Paz,003,La Paz,02,24.2338,-110.22,4,santa-maria
+MX,Mexico,México,23099,Independencia,Baja California Sur,03,La Paz,003,La Paz,02,24.1485,-110.2822,4,independencia
+MX,Mexico,México,23099,Las Arboledas,Baja California Sur,03,La Paz,003,La Paz,02,24.1351,-110.3253,4,las-arboledas
+MX,Mexico,México,23099,Estrella,Baja California Sur,03,La Paz,003,La Paz,02,24.1352,-110.3297,4,estrella
+MX,Mexico,México,23100,San Bartolo,Baja California Sur,03,La Paz,003,,,24.1947,-110.2626,3,san-bartolo
+MX,Mexico,México,23100,Las Golondrinas,Baja California Sur,03,La Paz,003,,,24.1947,-110.2626,4,las-golondrinas
+MX,Mexico,México,23106,El Palo Verde,Baja California Sur,03,La Paz,003,,,24.1947,-110.2626,1,el-palo-verde
+MX,Mexico,México,23130,Santa Rita,Baja California Sur,03,La Paz,003,,,24.9642,-110.9647,4,santa-rita
+MX,Mexico,México,23133,Agua de los Coyotes,Baja California Sur,03,La Paz,003,,,24.9642,-110.9647,1,agua-de-los-coyotes
+MX,Mexico,México,23140,Las Ánimas,Baja California Sur,03,La Paz,003,,,24.8393,-110.9548,4,las-animas
+MX,Mexico,México,23143,San Evaristo,Baja California Sur,03,La Paz,003,,,24.9165,-110.713,4,san-evaristo
+MX,Mexico,México,23150,Las Pocitas,Baja California Sur,03,La Paz,003,,,24.3947,-111.1033,4,las-pocitas
+MX,Mexico,México,23154,La Cieneguita,Baja California Sur,03,La Paz,003,,,24.499,-110.9563,4,la-cieneguita
+MX,Mexico,México,23170,San Hilario,Baja California Sur,03,La Paz,003,,,24.3468,-111.0022,4,san-hilario
+MX,Mexico,México,23200,San Antonio,Baja California Sur,03,La Paz,003,,,24.2394,-110.2431,4,san-antonio
+MX,Mexico,México,23203,Alfredo V Bonfil,Baja California Sur,03,La Paz,003,,,24.1488,-110.5668,4,alfredo-v-bonfil
+MX,Mexico,México,23205,Chametla,Baja California Sur,03,La Paz,003,,,24.0993,-110.374,4,chametla
+MX,Mexico,México,23205,Paraíso del Mar,Baja California Sur,03,La Paz,003,,,24.1045,-110.3314,3,paraiso-del-mar
+MX,Mexico,México,23205,Centenario,Baja California Sur,03,La Paz,003,,,24.1045,-110.3314,3,centenario
+MX,Mexico,México,23205,Comitán,Baja California Sur,03,La Paz,003,,,24.1045,-110.3314,3,comitan
+MX,Mexico,México,23205,El Centenario,Baja California Sur,03,La Paz,003,,,24.1097,-110.2889,4,el-centenario
+MX,Mexico,México,23206,La Paz (Gral. Manuel Márquez de León),Baja California Sur,03,La Paz,003,,,24.0339,-110.3578,3,la-paz-gral-manuel-marquez-de-leon
+MX,Mexico,México,23206,Agroexportadora del Noroeste,Baja California Sur,03,La Paz,003,,,24.0339,-110.3578,4,agroexportadora-del-noroeste
+MX,Mexico,México,23207,El Mezquitito,Baja California Sur,03,La Paz,003,,,24.0627,-110.29,3,el-mezquitito
+MX,Mexico,México,23207,San Ramon,Baja California Sur,03,La Paz,003,,,24.0627,-110.29,4,san-ramon
+MX,Mexico,México,23208,Puerto de Pichilingue,Baja California Sur,03,La Paz,003,,,24.2764,-110.3281,4,puerto-de-pichilingue
+MX,Mexico,México,23208,Rosarito,Baja California Sur,03,La Paz,003,,,24.2472,-110.2875,3,rosarito
+MX,Mexico,México,23208,La Fortuna,Baja California Sur,03,La Paz,003,,,24.218,-110.2469,4,la-fortuna
+MX,Mexico,México,23208,La Lagunita,Baja California Sur,03,La Paz,003,,,24.1903,-110.6631,3,la-lagunita
+MX,Mexico,México,23209,Las Vinoramas,Baja California Sur,03,La Paz,003,,,24.1932,-110.2063,4,las-vinoramas
+MX,Mexico,México,23210,El Triunfo,Baja California Sur,03,La Paz,003,,,23.8032,-110.1079,4,el-triunfo
+MX,Mexico,México,23211,San Blas,Baja California Sur,03,La Paz,003,,,23.8851,-110.153,4,san-blas
+MX,Mexico,México,23213,El Encino,Baja California Sur,03,La Paz,003,,,24.1903,-110.6631,1,el-encino
+MX,Mexico,México,23215,Agua Blanca,Baja California Sur,03,La Paz,003,,,23.7628,-110.0199,4,agua-blanca
+MX,Mexico,México,23216,Las 3 Pachitas,Baja California Sur,03,La Paz,003,,,23.817,-110.0936,1,las-3-pachitas
+MX,Mexico,México,23217,El Rosario 1,Baja California Sur,03,La Paz,003,,,23.817,-110.0936,1,el-rosario-1
+MX,Mexico,México,23230,Los Planes,Baja California Sur,03,La Paz,003,,,23.9668,-109.9374,4,los-planes
+MX,Mexico,México,23230,Gral. Juan Dominguez Cota,Baja California Sur,03,La Paz,003,,,23.9668,-109.9374,3,gral-juan-dominguez-cota
+MX,Mexico,México,23232,El Sargento,Baja California Sur,03,La Paz,003,,,24.0835,-109.994,4,el-sargento
+MX,Mexico,México,23232,La Ventana,Baja California Sur,03,La Paz,003,,,24.0333,-109.9667,4,la-ventana
+MX,Mexico,México,23232,La Cuesta,Baja California Sur,03,La Paz,003,,,24.0115,-110.0625,4,la-cuesta
+MX,Mexico,México,23233,Los Divisaderos,Baja California Sur,03,La Paz,003,,,23.8925,-110.1423,4,los-divisaderos
+MX,Mexico,México,23234,Agua Amarga,Baja California Sur,03,La Paz,003,,,23.98,-109.9024,4,agua-amarga
+MX,Mexico,México,23234,San Pedro México,Baja California Sur,03,La Paz,003,,,23.9707,-109.8967,4,san-pedro-mexico
+MX,Mexico,México,23236,Ensenada de Muertos,Baja California Sur,03,La Paz,003,,,23.9938,-109.8264,4,ensenada-de-muertos
+MX,Mexico,México,23240,San Pedro,Baja California Sur,03,La Paz,003,,,23.9258,-110.2634,4,san-pedro
+MX,Mexico,México,23241,Álvaro Obregón,Baja California Sur,03,La Paz,003,,,23.8777,-110.1965,4,alvaro-obregon
+MX,Mexico,México,23243,El Ancón,Baja California Sur,03,La Paz,003,,,24.0116,-110.1011,4,el-ancon
+MX,Mexico,México,23244,Los Tamales,Baja California Sur,03,La Paz,003,,,24.0342,-110.1373,4,los-tamales
+MX,Mexico,México,23248,La Trinchera,Baja California Sur,03,La Paz,003,,,23.9063,-110.1529,4,la-trinchera
+MX,Mexico,México,23249,Los Algodones,Baja California Sur,03,La Paz,003,,,23.8443,-110.2168,4,los-algodones
+MX,Mexico,México,23250,Agrícola Santa Lidia,Baja California Sur,03,La Paz,003,,,23.7817,-110.2969,4,agricola-santa-lidia
+MX,Mexico,México,23250,El Carrizal,Baja California Sur,03,La Paz,003,,,23.7843,-110.3117,4,el-carrizal
+MX,Mexico,México,23250,La Trinidad,Baja California Sur,03,La Paz,003,,,23.8086,-110.3175,4,la-trinidad
+MX,Mexico,México,23251,Santa Rita,Baja California Sur,03,La Paz,003,,,23.7333,-110.2333,4,santa-rita
+MX,Mexico,México,23252,San Martin,Baja California Sur,03,La Paz,003,,,23.7062,-110.2626,4,san-martin
+MX,Mexico,México,23253,El Palmarito 2,Baja California Sur,03,La Paz,003,,,23.7346,-110.3349,1,el-palmarito-2
+MX,Mexico,México,23254,Cardonal,Baja California Sur,03,La Paz,003,,,23.7194,-110.3767,3,cardonal
+MX,Mexico,México,23254,San Quintín,Baja California Sur,03,La Paz,003,,,23.7194,-110.3767,4,san-quintin
+MX,Mexico,México,23257,Santa Martha,Baja California Sur,03,La Paz,003,,,23.6812,-110.4597,4,santa-martha
+MX,Mexico,México,23258,Melitón Albañez,Baja California Sur,03,La Paz,003,,,23.6618,-110.4211,4,meliton-albanez
+MX,Mexico,México,23280,Santa Rosa,Baja California Sur,03,La Paz,003,,,23.976,-110.0041,4,santa-rosa
+MX,Mexico,México,23284,El Pozo,Baja California Sur,03,La Paz,003,,,23.8559,-110.0993,4,el-pozo
+MX,Mexico,México,23285,El Refugio,Baja California Sur,03,La Paz,003,,,23.9213,-110.1237,4,el-refugio
+MX,Mexico,México,23289,Buenavista,Baja California Sur,03,La Paz,003,,,23.9789,-110.1513,4,buenavista
+MX,Mexico,México,23300,San Juan,Baja California Sur,03,La Paz,003,Todos Santos,07,23.3728,-110.1737,4,san-juan
+MX,Mexico,México,23300,La Esperanza,Baja California Sur,03,La Paz,003,Todos Santos,07,23.6236,-109.8318,4,la-esperanza
+MX,Mexico,México,23300,Las Flores,Baja California Sur,03,La Paz,003,Todos Santos,07,23.7546,-110.051,4,las-flores
+MX,Mexico,México,23300,El Rio,Baja California Sur,03,La Paz,003,Todos Santos,07,23.8071,-110.1275,3,el-rio
+MX,Mexico,México,23300,Las Quintas,Baja California Sur,03,La Paz,003,Todos Santos,07,23.8071,-110.1275,3,las-quintas
+MX,Mexico,México,23300,San Vicente,Baja California Sur,03,La Paz,003,Todos Santos,07,23.8071,-110.1275,3,san-vicente
+MX,Mexico,México,23300,El Pescadero,Baja California Sur,03,La Paz,003,Todos Santos,07,23.7635,-109.7121,4,el-pescadero
+MX,Mexico,México,23300,San Ignacio,Baja California Sur,03,La Paz,003,Todos Santos,07,23.9978,-110.0043,4,san-ignacio
+MX,Mexico,México,23300,Brisas del Pacifico,Baja California Sur,03,La Paz,003,Todos Santos,07,23.9816,-110.8027,4,brisas-del-pacifico
+MX,Mexico,México,23300,Centro,Baja California Sur,03,La Paz,003,Todos Santos,07,24.1562,-110.3169,4,centro
+MX,Mexico,México,23302,La Matanza,Baja California Sur,03,La Paz,003,,,23.6354,-110.2797,4,la-matanza
+MX,Mexico,México,23303,El Cañón,Baja California Sur,03,La Paz,003,,,24.0939,-110.29,4,el-canon
+MX,Mexico,México,23303,La Vinatería,Baja California Sur,03,La Paz,003,,,23.6757,-110.2635,4,la-vinateria
+MX,Mexico,México,23304,El Salto,Baja California Sur,03,La Paz,003,,,23.8333,-110.1833,4,el-salto
+MX,Mexico,México,23306,Boca del Palmarito,Baja California Sur,03,La Paz,003,,,23.7681,-110.1937,1,boca-del-palmarito
+MX,Mexico,México,23307,Baturi,Baja California Sur,03,La Paz,003,,,23.6092,-110.3425,4,baturi
+MX,Mexico,México,23308,El Batequito,Baja California Sur,03,La Paz,003,,,23.4877,-110.2667,4,el-batequito
+MX,Mexico,México,23310,Pescadero,Baja California Sur,03,La Paz,003,,,23.4726,-110.1673,1,pescadero
+MX,Mexico,México,23311,El Valle Perdido,Baja California Sur,03,La Paz,003,,,23.4726,-110.1673,1,el-valle-perdido
+MX,Mexico,México,23312,El Pintado,Baja California Sur,03,La Paz,003,,,23.6186,-110.1148,4,el-pintado
+MX,Mexico,México,23317,San Simón,Baja California Sur,03,La Paz,003,,,23.3794,-110.1568,4,san-simon
+MX,Mexico,México,23318,Punta Lobos,Baja California Sur,03,La Paz,003,,,23.4199,-110.2302,4,punta-lobos
+MX,Mexico,México,23320,Boca del Álamo,Baja California Sur,03,La Paz,003,,,23.8942,-109.8039,4,boca-del-alamo
+MX,Mexico,México,23321,San Angel,Baja California Sur,03,La Paz,003,,,23.953,-109.8824,4,san-angel
+MX,Mexico,México,23322,Santa Martha,Baja California Sur,03,La Paz,003,,,23.8808,-109.8949,4,santa-martha
+MX,Mexico,México,23328,San Bartolo Sur,Baja California Sur,03,La Paz,003,,,23.9093,-109.8604,1,san-bartolo-sur
+MX,Mexico,México,23329,Rincón de Leon,Baja California Sur,03,La Paz,003,,,23.9093,-109.8604,1,rincon-de-leon
+MX,Mexico,México,23330,Los Barriles,Baja California Sur,03,La Paz,003,,,23.6827,-109.6995,4,los-barriles
+MX,Mexico,México,23330,Buenos Aires,Baja California Sur,03,La Paz,003,,,23.6964,-109.7034,4,buenos-aires
+MX,Mexico,México,23333,El Corral Falso,Baja California Sur,03,La Paz,003,,,23.6479,-109.7588,4,el-corral-falso
+MX,Mexico,México,23333,El Coro,Baja California Sur,03,La Paz,003,,,23.6381,-109.7704,4,el-coro
+MX,Mexico,México,23334,Fraccionamiento Residencial Agua de la Costa,Baja California Sur,03,La Paz,003,,,23.7205,-109.7079,3,fraccionamiento-residencial-agua-de-la-costa
+MX,Mexico,México,23334,Agua de La Costa,Baja California Sur,03,La Paz,003,,,23.7205,-109.7079,4,agua-de-la-costa
+MX,Mexico,México,23350,El Sacrificio,Baja California Sur,03,La Paz,003,,,23.7236,-109.8131,4,el-sacrificio
+MX,Mexico,México,23351,El Barranco,Baja California Sur,03,La Paz,003,,,23.3496,-110.0039,4,el-barranco
+MX,Mexico,México,23354,Las Tinas,Baja California Sur,03,La Paz,003,,,23.8169,-109.7251,4,las-tinas
+MX,Mexico,México,23354,La Línea,Baja California Sur,03,La Paz,003,,,23.8607,-109.7602,4,la-linea
+MX,Mexico,México,23354,Punta Pescadero,Baja California Sur,03,La Paz,003,,,23.8388,-109.7427,3,punta-pescadero
+MX,Mexico,México,23360,El Refugio Sur,Baja California Sur,03,La Paz,003,,,23.3266,-110.1322,1,el-refugio-sur
+MX,Mexico,México,23361,San Carlos,Baja California Sur,03,La Paz,003,,,23.3574,-110.1533,4,san-carlos
+MX,Mexico,México,23362,El Salado,Baja California Sur,03,La Paz,003,,,23.4346,-110.1703,4,el-salado
+MX,Mexico,México,23363,El Palmar,Baja California Sur,03,La Paz,003,,,23.2706,-110.1361,4,el-palmar
+MX,Mexico,México,23364,San Jacinto,Baja California Sur,03,La Paz,003,,,23.2438,-110.069,4,san-jacinto
+MX,Mexico,México,23365,San Pedro de La Soledad,Baja California Sur,03,La Paz,003,,,23.3266,-110.1322,1,san-pedro-de-la-soledad
+MX,Mexico,México,23390,Plutarco Elias Calles,Baja California Sur,03,La Paz,003,,,23.221,-110.1426,4,plutarco-elias-calles
+MX,Mexico,México,23395,El Palmarito,Baja California Sur,03,La Paz,003,,,23.1725,-110.0623,4,el-palmarito
+MX,Mexico,México,23400,San José del Cabo Centro,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0713,-109.7324,1,san-jose-del-cabo-centro
+MX,Mexico,México,23403,La Playita,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0661,-109.6757,3,la-playita
+MX,Mexico,México,23403,La Playa,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0642,-109.6683,4,la-playa
+MX,Mexico,México,23403,San Vicente,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0681,-109.6831,4,san-vicente
+MX,Mexico,México,23403,La Choya INFONAVIT,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0661,-109.6757,3,la-choya-infonavit
+MX,Mexico,México,23405,Trailers Park,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0437,-109.7423,3,trailers-park
+MX,Mexico,México,23405,Lomas del Tule,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,22.9711,-109.7919,4,lomas-del-tule
+MX,Mexico,México,23405,Coral Baja,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.4036,-109.4282,4,coral-baja
+MX,Mexico,México,23405,La Joya de los Cabos,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,22.9024,-109.9223,4,la-joya-de-los-cabos
+MX,Mexico,México,23405,Costa Brava,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0437,-109.7423,3,costa-brava
+MX,Mexico,México,23405,Miconos,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0437,-109.7423,3,miconos
+MX,Mexico,México,23405,Zona Hotelera San José del Cabo,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0437,-109.7423,3,zona-hotelera-san-jose-del-cabo
+MX,Mexico,México,23405,El Tule,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,22.9568,-109.8017,4,el-tule
+MX,Mexico,México,23405,Mañanitas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0437,-109.7423,3,mananitas
+MX,Mexico,México,23405,Cabo Real,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,22.9844,-109.7675,4,cabo-real
+MX,Mexico,México,23405,Magisterial,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,3,magisterial
+MX,Mexico,México,23405,El Chamizal,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,3,el-chamizal
+MX,Mexico,México,23406,Gringos Hill,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0115,-109.8245,3,gringos-hill
+MX,Mexico,México,23406,Lomas de La Joya,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0115,-109.8245,3,lomas-de-la-joya
+MX,Mexico,México,23406,Villas de La Joya,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,22.9024,-109.9223,4,villas-de-la-joya
+MX,Mexico,México,23406,Terrazas Costa Azul,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0115,-109.8245,3,terrazas-costa-azul
+MX,Mexico,México,23406,8 de Octubre,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0115,-109.8245,3,8-de-octubre
+MX,Mexico,México,23406,Club de Golf Residencial,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0115,-109.8245,3,club-de-golf-residencial
+MX,Mexico,México,23406,5 de Febrero,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0115,-109.8245,3,5-de-febrero
+MX,Mexico,México,23406,Cerro del Vigía,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0115,-109.8245,3,cerro-del-vigia
+MX,Mexico,México,23406,Costa Azul,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0267,-109.7175,4,costa-azul
+MX,Mexico,México,23406,Palmillas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1055,-109.8338,4,palmillas
+MX,Mexico,México,23406,Primero de Mayo,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,3,primero-de-mayo
+MX,Mexico,México,23407,El Rosarito,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.3753,-109.6356,4,el-rosarito
+MX,Mexico,México,23407,Animas Bajas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0758,-109.6839,4,animas-bajas
+MX,Mexico,México,23407,Rosarito,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1531,-109.6792,3,rosarito
+MX,Mexico,México,23407,Animas Altas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.084,-109.6872,4,animas-altas
+MX,Mexico,México,23407,INFONAVIT Colosio,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1531,-109.6792,3,infonavit-colosio
+MX,Mexico,México,23407,Guaymitas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0775,-109.71,4,guaymitas
+MX,Mexico,México,23407,Rinconada La Huerta,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1531,-109.6792,3,rinconada-la-huerta
+MX,Mexico,México,23420,Aeropuerto,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,4,aeropuerto
+MX,Mexico,México,23420,Santa Anita,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1798,-109.7016,4,santa-anita
+MX,Mexico,México,23425,Santa Catarina,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1351,-109.6896,4,santa-catarina
+MX,Mexico,México,23426,Invi San José Viejo,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2102,-109.7546,1,invi-san-jose-viejo
+MX,Mexico,México,23426,Loma Cruz,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2102,-109.7546,1,loma-cruz
+MX,Mexico,México,23427,Zacatal Zona Norte,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0993,-109.7173,3,zacatal-zona-norte
+MX,Mexico,México,23427,Villas de Cortez,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0993,-109.7173,3,villas-de-cortez
+MX,Mexico,México,23427,Vista Hermosa,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,3,vista-hermosa
+MX,Mexico,México,23427,El Zacatal,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0993,-109.7173,4,el-zacatal
+MX,Mexico,México,23427,Monte Bello Condominio Plus,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0993,-109.7173,3,monte-bello-condominio-plus
+MX,Mexico,México,23427,Colinas San José,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0993,-109.7173,3,colinas-san-jose
+MX,Mexico,México,23428,Invi Santa Rosa,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0902,-109.7055,3,invi-santa-rosa
+MX,Mexico,México,23428,Santa Rosa,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0902,-109.7055,4,santa-rosa
+MX,Mexico,México,23429,San José del Cabo (Los Cabos),Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.0589,-109.6977,4,san-jose-del-cabo-los-cabos
+MX,Mexico,México,23430,Zacatal,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1422,-109.6714,1,zacatal
+MX,Mexico,México,23434,Costa Dorada,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1692,-109.7062,3,costa-dorada
+MX,Mexico,México,23434,Pénjamo,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1692,-109.7062,4,penjamo
+MX,Mexico,México,23434,Oasis,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1692,-109.7062,3,oasis
+MX,Mexico,México,23434,Loma Bonita,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1692,-109.7062,3,loma-bonita
+MX,Mexico,México,23434,Veredas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1692,-109.7062,3,veredas
+MX,Mexico,México,23434,Villa Bonita,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1692,-109.7062,3,villa-bonita
+MX,Mexico,México,23435,INFONAVIT,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,3,infonavit
+MX,Mexico,México,23435,Las Veredas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1503,-109.7061,4,las-veredas
+MX,Mexico,México,23435,FOVISSSTE las Veredas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1503,-109.7061,3,fovissste-las-veredas
+MX,Mexico,México,23436,San Bernabe,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1308,-109.7083,4,san-bernabe
+MX,Mexico,México,23436,Catarina,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1351,-109.6896,4,catarina
+MX,Mexico,México,23436,Buenos Aires,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,22.9935,-109.746,4,buenos-aires
+MX,Mexico,México,23437,Las Dunas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.298,-109.429,4,las-dunas
+MX,Mexico,México,23437,El Limón,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,3,el-limon
+MX,Mexico,México,23437,San José Viejo,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.1183,-109.7148,4,san-jose-viejo
+MX,Mexico,México,23440,Jesús Castro Agundes,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,jesus-castro-agundes
+MX,Mexico,México,23443,Mauricio Castro,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,3,mauricio-castro
+MX,Mexico,México,23443,Chula Vista,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2766,-109.7532,3,chula-vista
+MX,Mexico,México,23443,El Aguajito,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,4,el-aguajito
+MX,Mexico,México,23444,Monte Real Residencial,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,monte-real-residencial
+MX,Mexico,México,23444,Lomas Residencial 2a Etapa,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,lomas-residencial-2a-etapa
+MX,Mexico,México,23444,Country del Mar,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,country-del-mar
+MX,Mexico,México,23444,Colinas Plus,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,colinas-plus
+MX,Mexico,México,23444,Luis Donaldo Colosio,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,luis-donaldo-colosio
+MX,Mexico,México,23444,Lomas Residencial 1a  Etapa,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,lomas-residencial-1a-etapa
+MX,Mexico,México,23444,Lomas de Rosarito,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,lomas-de-rosarito
+MX,Mexico,México,23444,Pablo L Martinez,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,pablo-l-martinez
+MX,Mexico,México,23445,Lomas de Guaymitas,Baja California Sur,03,Los Cabos,008,San José del Cabo,04,23.2737,-109.6007,1,lomas-de-guaymitas
+MX,Mexico,México,23450,Modulo Turístico,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,modulo-turistico
+MX,Mexico,México,23450,Plaza Real,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,plaza-real
+MX,Mexico,México,23450,Plaza las Glorias,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,plaza-las-glorias
+MX,Mexico,México,23450,La Dársena,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,la-darsena
+MX,Mexico,México,23450,Cabo San Lucas Centro,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,4,cabo-san-lucas-centro
+MX,Mexico,México,23450,Plaza Bonita,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,plaza-bonita
+MX,Mexico,México,23450,Plaza Náutica,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,plaza-nautica
+MX,Mexico,México,23450,Plaza del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,plaza-del-sol
+MX,Mexico,México,23450,Plaza del Marlin,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8826,-109.9126,3,plaza-del-marlin
+MX,Mexico,México,23453,Terrasol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8907,-109.906,3,terrasol
+MX,Mexico,México,23453,El Medano,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8907,-109.906,4,el-medano
+MX,Mexico,México,23453,La Marina,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8907,-109.906,3,la-marina
+MX,Mexico,México,23453,El Pedregal,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,el-pedregal
+MX,Mexico,México,23454,San Luciano,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,san-luciano
+MX,Mexico,México,23454,Maranatha,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,maranatha
+MX,Mexico,México,23454,Vista Bahía,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.91,-109.8775,4,vista-bahia
+MX,Mexico,México,23454,Peña de  Horeb,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,pena-de-horeb
+MX,Mexico,México,23454,Privanzas,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,privanzas
+MX,Mexico,México,23454,Zona Hotelera,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,zona-hotelera
+MX,Mexico,México,23454,Mediterránea,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9072,-109.8794,4,mediterranea
+MX,Mexico,México,23454,Vistana,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9106,-109.8783,4,vistana
+MX,Mexico,México,23454,Punta Arena,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9083,-109.8722,4,punta-arena
+MX,Mexico,México,23454,Residencial La Cima,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,residencial-la-cima
+MX,Mexico,México,23454,La Vista,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,la-vista
+MX,Mexico,México,23454,El Tezal,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,el-tezal
+MX,Mexico,México,23454,Puerta del Mar,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,puerta-del-mar
+MX,Mexico,México,23454,Cumbres del Tezal,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.909,-109.8769,3,cumbres-del-tezal
+MX,Mexico,México,23455,Cabo Bello,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9058,-109.8653,4,cabo-bello
+MX,Mexico,México,23455,Puesta del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9038,-109.8629,3,puesta-del-sol
+MX,Mexico,México,23455,Residencial Cabo del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9038,-109.8629,3,residencial-cabo-del-sol
+MX,Mexico,México,23455,Santa Carmela,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9061,-109.8589,4,santa-carmela
+MX,Mexico,México,23455,Misiones del Cabo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.898,-109.866,4,misiones-del-cabo
+MX,Mexico,México,23455,Villa Serena,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9053,-109.8614,4,villa-serena
+MX,Mexico,México,23456,Acuario,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8892,-109.9361,4,acuario
+MX,Mexico,México,23456,Bella Vista,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,bella-vista
+MX,Mexico,México,23456,Miramar,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,miramar
+MX,Mexico,México,23456,Auroras,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.893,-109.9371,4,auroras
+MX,Mexico,México,23456,Bugambilias,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9844,-109.7675,4,bugambilias
+MX,Mexico,México,23456,Real de Miramar,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,real-de-miramar
+MX,Mexico,México,23456,Quintas California,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,quintas-california
+MX,Mexico,México,23456,Rincón de Miramar,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,rincon-de-miramar
+MX,Mexico,México,23456,Colinas de Cabo Baja,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8819,-109.938,4,colinas-de-cabo-baja
+MX,Mexico,México,23456,Privada Perla,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,privada-perla
+MX,Mexico,México,23456,Buenos Aires,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9935,-109.746,4,buenos-aires
+MX,Mexico,México,23456,Arco Iris,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.886,-109.9383,4,arco-iris
+MX,Mexico,México,23456,Jazmines,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,jazmines
+MX,Mexico,México,23456,Lomas del Cabo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,lomas-del-cabo
+MX,Mexico,México,23456,Altos de Miramar,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,altos-de-miramar
+MX,Mexico,México,23456,Paraíso,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9139,-109.8756,4,paraiso
+MX,Mexico,México,23456,Balcones,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9641,-109.9093,3,balcones
+MX,Mexico,México,23456,El Palmar,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,4,el-palmar
+MX,Mexico,México,23460,Mariano Matamoros,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.897,-109.9207,4,mariano-matamoros
+MX,Mexico,México,23460,La Joya,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9024,-109.9223,4,la-joya
+MX,Mexico,México,23460,Arenal,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8991,-109.9146,4,arenal
+MX,Mexico,México,23460,Tabachines,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8995,-109.9192,3,tabachines
+MX,Mexico,México,23462,Paraíso del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9331,-109.9273,3,paraiso-del-sol
+MX,Mexico,México,23462,Mesa Colorada I,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9331,-109.9273,3,mesa-colorada-i
+MX,Mexico,México,23462,Leonardo Rodríguez Gastélum,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9331,-109.9273,3,leonardo-rodriguez-gastelum
+MX,Mexico,México,23462,Leonardo Gastélum Quinta Etapa,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.951,-109.9295,4,leonardo-gastelum-quinta-etapa
+MX,Mexico,México,23462,Mesa Colorada II,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9331,-109.9273,3,mesa-colorada-ii
+MX,Mexico,México,23462,Mesa Colorada III,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9342,-109.925,4,mesa-colorada-iii
+MX,Mexico,México,23462,Lagunitas,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9141,-109.9274,4,lagunitas
+MX,Mexico,México,23463,Cabo San Lucas Country Club,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9113,-109.9099,1,cabo-san-lucas-country-club
+MX,Mexico,México,23467,Ventanas del Cortés,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,ventanas-del-cortes
+MX,Mexico,México,23467,Casa Mexicana,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9142,-109.8639,4,casa-mexicana
+MX,Mexico,México,23467,Vista Real,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,vista-real
+MX,Mexico,México,23467,Artesanos,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,artesanos
+MX,Mexico,México,23467,Amalfi,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9111,-109.8619,4,amalfi
+MX,Mexico,México,23467,Coto San Diego,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,coto-san-diego
+MX,Mexico,México,23467,Residencial San Jerónimo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,residencial-san-jeronimo
+MX,Mexico,México,23467,Reyna Avalos,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,reyna-avalos
+MX,Mexico,México,23467,Desarrollo Turístico Cabo Vista,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,desarrollo-turistico-cabo-vista
+MX,Mexico,México,23467,Residencial Puerta del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9126,-109.8629,3,residencial-puerta-del-sol
+MX,Mexico,México,23468,INFONAVIT Viejo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.897,-109.9207,3,infonavit-viejo
+MX,Mexico,México,23468,Mariano Matamoros,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.897,-109.9207,4,mariano-matamoros
+MX,Mexico,México,23469,Juárez,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8929,-109.9131,4,juarez
+MX,Mexico,México,23469,Benito Juárez,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,benito-juarez
+MX,Mexico,México,23469,Coromuel,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,coromuel
+MX,Mexico,México,23470,Libertad,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8884,-109.9289,4,libertad
+MX,Mexico,México,23470,Ejidal,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8898,-109.9233,3,ejidal
+MX,Mexico,México,23470,Lienzo Charro Centro,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8898,-109.9233,3,lienzo-charro-centro
+MX,Mexico,México,23470,4 de Marzo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8898,-109.9233,3,4-de-marzo
+MX,Mexico,México,23470,La Cruz,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8919,-109.9254,4,la-cruz
+MX,Mexico,México,23470,Vía de Lerry,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8898,-109.9233,3,via-de-lerry
+MX,Mexico,México,23470,Nueva Ejidal,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8898,-109.9233,3,nueva-ejidal
+MX,Mexico,México,23470,Ildefonso Green,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.8891,-109.9157,4,ildefonso-green
+MX,Mexico,México,23472,4 de Marzo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9001,-109.9293,3,4-de-marzo
+MX,Mexico,México,23472,Obrera,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,obrera
+MX,Mexico,México,23472,Lomas Altas,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9001,-109.9293,4,lomas-altas
+MX,Mexico,México,23472,Magisterial,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,magisterial
+MX,Mexico,México,23472,Núcleo Agrario,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9001,-109.9293,3,nucleo-agrario
+MX,Mexico,México,23472,Lomas del Faro Viejo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9001,-109.9293,3,lomas-del-faro-viejo
+MX,Mexico,México,23473,INFONAVIT Nuevo,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,infonavit-nuevo
+MX,Mexico,México,23473,Portales,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,portales
+MX,Mexico,México,23473,Gardenias,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,gardenias
+MX,Mexico,México,23473,Lomas del Pacifico,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,lomas-del-pacifico
+MX,Mexico,México,23473,Altamira,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2441,-109.6877,4,altamira
+MX,Mexico,México,23473,Buena Vista,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9176,-109.8345,4,buena-vista
+MX,Mexico,México,23473,Terranova,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,terranova
+MX,Mexico,México,23473,Altamira Condominios Plus,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,altamira-condominios-plus
+MX,Mexico,México,23473,Reforma,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,reforma
+MX,Mexico,México,23473,Cerro de los Venados,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9018,-109.9363,4,cerro-de-los-venados
+MX,Mexico,México,23473,Casa Blanca,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,casa-blanca
+MX,Mexico,México,23473,Los Cangrejos,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9049,-109.9592,4,los-cangrejos
+MX,Mexico,México,23473,Hojazen,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,hojazen
+MX,Mexico,México,23473,Vista Hermosa,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,vista-hermosa
+MX,Mexico,México,23473,Jacarandas,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,jacarandas
+MX,Mexico,México,23473,Brisas del Pacifico Codepa,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,brisas-del-pacifico-codepa
+MX,Mexico,México,23473,Brisas del Pacifico,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,brisas-del-pacifico
+MX,Mexico,México,23473,Aurora,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9921,-109.8544,3,aurora
+MX,Mexico,México,23474,La Esperanza,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.96,-109.8807,4,la-esperanza
+MX,Mexico,México,23474,Jardines del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9101,-109.9279,4,jardines-del-sol
+MX,Mexico,México,23474,Inova,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9242,-109.9103,3,inova
+MX,Mexico,México,23474,Arcos del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9242,-109.9103,3,arcos-del-sol
+MX,Mexico,México,23474,Villas de La Joya,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9024,-109.9223,4,villas-de-la-joya
+MX,Mexico,México,23475,Hemisferia,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9495,-109.9215,1,hemisferia
+MX,Mexico,México,23477,Progreso,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,3,progreso
+MX,Mexico,México,23477,Las Palmas,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9367,-109.9424,4,las-palmas
+MX,Mexico,México,23477,Misiones de Santa Fe,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9077,-109.9288,4,misiones-de-santa-fe
+MX,Mexico,México,23477,Lomas del Sol,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9196,-109.9291,4,lomas-del-sol
+MX,Mexico,México,23477,Caribe,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9369,-109.9307,4,caribe
+MX,Mexico,México,23477,Santa Fe Oro,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,santa-fe-oro
+MX,Mexico,México,23477,Rosa Delia,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,rosa-delia
+MX,Mexico,México,23477,Residencial La Peña,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,residencial-la-pena
+MX,Mexico,México,23477,Lomas del Valle,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,lomas-del-valle
+MX,Mexico,México,23477,Cabo Fierro,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,cabo-fierro
+MX,Mexico,México,23477,Tierra y Libertad,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,tierra-y-libertad
+MX,Mexico,México,23477,Celeste,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,celeste
+MX,Mexico,México,23477,Chulavista,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,23.2766,-109.7532,4,chulavista
+MX,Mexico,México,23477,Magisterial Viva,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9933,-109.9764,3,magisterial-viva
+MX,Mexico,México,23478,Jardines del Sur,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.9101,-109.9279,4,jardines-del-sur
+MX,Mexico,México,23478,Arcos del Sol II,Baja California Sur,03,Los Cabos,008,Cabo San Lucas,03,22.904,-109.9296,4,arcos-del-sol-ii
+MX,Mexico,México,23500,Matancitas,Baja California Sur,03,Los Cabos,008,,,23.4628,-109.7308,4,matancitas
+MX,Mexico,México,23500,Santiago,Baja California Sur,03,Los Cabos,008,,,23.4785,-109.7152,4,santiago
+MX,Mexico,México,23500,Milpillas,Baja California Sur,03,Los Cabos,008,,,23.4443,-109.7618,4,milpillas
+MX,Mexico,México,23501,El Epazote,Baja California Sur,03,Los Cabos,008,,,23.5933,-109.7589,4,el-epazote
+MX,Mexico,México,23510,Agua Caliente,Baja California Sur,03,Los Cabos,008,,,23.443,-109.7755,4,agua-caliente
+MX,Mexico,México,23520,Miraflores,Baja California Sur,03,Los Cabos,008,,,23.3697,-109.7744,4,miraflores
+MX,Mexico,México,23522,La Palmilla,Baja California Sur,03,Los Cabos,008,,,23.3114,-109.7029,4,la-palmilla
+MX,Mexico,México,23530,Caduaño,Baja California Sur,03,Los Cabos,008,,,23.332,-109.7804,4,caduano
+MX,Mexico,México,23531,Boca de La Trinidad,Baja California Sur,03,Los Cabos,008,,,23.5809,-109.5693,4,boca-de-la-trinidad
+MX,Mexico,México,23532,El Bosque,Baja California Sur,03,Los Cabos,008,,,23.3418,-109.6059,4,el-bosque
+MX,Mexico,México,23537,Vista Colorada,Baja California Sur,03,Los Cabos,008,,,23.001,-109.7361,4,vista-colorada
+MX,Mexico,México,23537,Palmilla,Baja California Sur,03,Los Cabos,008,,,23.2191,-109.8172,4,palmilla
+MX,Mexico,México,23537,Loma Encantada,Baja California Sur,03,Los Cabos,008,,,23.0742,-109.7643,3,loma-encantada
+MX,Mexico,México,23537,La Antigua,Baja California Sur,03,Los Cabos,008,,,23.0025,-109.7397,4,la-antigua
+MX,Mexico,México,23540,San Bernabe,Baja California Sur,03,Los Cabos,008,,,23.1308,-109.7083,4,san-bernabe
+MX,Mexico,México,23541,El Refugio,Baja California Sur,03,Los Cabos,008,,,23.4125,-109.6405,4,el-refugio
+MX,Mexico,México,23542,Palo Escopeta,Baja California Sur,03,Los Cabos,008,,,23.2207,-109.5823,4,palo-escopeta
+MX,Mexico,México,23550,Santa Catarina,Baja California Sur,03,Los Cabos,008,,,23.1351,-109.6896,4,santa-catarina
+MX,Mexico,México,23550,San José Viejo,Baja California Sur,03,Los Cabos,008,,,23.1183,-109.7148,4,san-jose-viejo
+MX,Mexico,México,23551,Los Frailes,Baja California Sur,03,Los Cabos,008,,,23.3748,-109.4349,4,los-frailes
+MX,Mexico,México,23552,Santa Rosa,Baja California Sur,03,Los Cabos,008,,,23.0902,-109.7055,4,santa-rosa
+MX,Mexico,México,23560,El Campamento,Baja California Sur,03,Los Cabos,008,,,23.5431,-109.6778,4,el-campamento
+MX,Mexico,México,23560,Las Cuevas,Baja California Sur,03,Los Cabos,008,,,23.5342,-109.6744,4,las-cuevas
+MX,Mexico,México,23567,Santa Cruz,Baja California Sur,03,Los Cabos,008,,,23.5577,-109.6499,4,santa-cruz
+MX,Mexico,México,23570,La Rivera,Baja California Sur,03,Los Cabos,008,,,23.5946,-109.5852,4,la-rivera
+MX,Mexico,México,23572,Las Lagunas,Baja California Sur,03,Los Cabos,008,,,23.5377,-109.4922,4,las-lagunas
+MX,Mexico,México,23573,Miramar,Baja California Sur,03,Los Cabos,008,,,23.496,-109.4672,4,miramar
+MX,Mexico,México,23574,Cabo Pulmo,Baja California Sur,03,Los Cabos,008,,,23.4372,-109.4292,4,cabo-pulmo
+MX,Mexico,México,23575,Las Barrancas,Baja California Sur,03,Los Cabos,008,,,23.2766,-109.7532,1,las-barrancas
+MX,Mexico,México,23580,Buenavista,Baja California Sur,03,Los Cabos,008,,,23.0239,-110.0203,4,buenavista
+MX,Mexico,México,23581,La Ballena,Baja California Sur,03,Los Cabos,008,,,23.1344,-109.7283,4,la-ballena
+MX,Mexico,México,23581,San Felipe,Baja California Sur,03,Los Cabos,008,,,23.1058,-109.834,4,san-felipe
+MX,Mexico,México,23582,Las Casitas,Baja California Sur,03,Los Cabos,008,,,23.121,-109.8819,4,las-casitas
+MX,Mexico,México,23585,Punta Chileno,Baja California Sur,03,Los Cabos,008,,,23.0952,-109.8568,1,punta-chileno
+MX,Mexico,México,23586,El Ranchito,Baja California Sur,03,Los Cabos,008,,,23.0867,-109.959,4,el-ranchito
+MX,Mexico,México,23587,Rosarito,Baja California Sur,03,Los Cabos,008,,,23.0952,-109.8568,1,rosarito
+MX,Mexico,México,23588,El Zacatal,Baja California Sur,03,Los Cabos,008,,,23.0993,-109.7173,4,el-zacatal
+MX,Mexico,México,23590,La Candelaria,Baja California Sur,03,Los Cabos,008,,,23.0749,-110.0243,4,la-candelaria
+MX,Mexico,México,23593,El Sauzal,Baja California Sur,03,Los Cabos,008,,,23.0533,-109.9159,4,el-sauzal
+MX,Mexico,México,23593,Boca del Saucito,Baja California Sur,03,Los Cabos,008,,,23.2766,-109.7532,4,boca-del-saucito
+MX,Mexico,México,23595,Buena Vista,Baja California Sur,03,Los Cabos,008,,,22.9176,-109.8345,4,buena-vista
+MX,Mexico,México,23595,Agua Escondida,Baja California Sur,03,Los Cabos,008,,,22.975,-110.0176,4,agua-escondida
+MX,Mexico,México,23597,Buenavista,Baja California Sur,03,Los Cabos,008,,,23.0239,-110.0203,4,buenavista
+MX,Mexico,México,23880,Nuevo Loreto,Baja California Sur,03,Loreto,009,Loreto,05,25.793,-111.5507,4,nuevo-loreto
+MX,Mexico,México,23880,Miramar,Baja California Sur,03,Loreto,009,Loreto,05,25.9535,-111.4484,3,miramar
+MX,Mexico,México,23880,Obrera,Baja California Sur,03,Loreto,009,Loreto,05,25.9535,-111.4484,3,obrera
+MX,Mexico,México,23880,Misioneros,Baja California Sur,03,Loreto,009,Loreto,05,25.9535,-111.4484,3,misioneros
+MX,Mexico,México,23880,Centro,Baja California Sur,03,Loreto,009,Loreto,05,25.9535,-111.4484,3,centro
+MX,Mexico,México,23880,INFONAVIT,Baja California Sur,03,Loreto,009,Loreto,05,25.9535,-111.4484,3,infonavit
+MX,Mexico,México,23880,Zaragoza,Baja California Sur,03,Loreto,009,Loreto,05,25.793,-111.5507,3,zaragoza
+MX,Mexico,México,23880,El Jaral,Baja California Sur,03,Loreto,009,Loreto,05,25.793,-111.5507,3,el-jaral
+MX,Mexico,México,23880,Exploradores,Baja California Sur,03,Loreto,009,Loreto,05,25.793,-111.5507,3,exploradores
+MX,Mexico,México,23883,Pent House,Baja California Sur,03,Loreto,009,,,26.0006,-111.4478,3,pent-house
+MX,Mexico,México,23883,Kilómetro 4,Baja California Sur,03,Loreto,009,,,26.0006,-111.4478,3,kilometro-4
+MX,Mexico,México,23883,Vista del Carmen,Baja California Sur,03,Loreto,009,,,26.0006,-111.4478,3,vista-del-carmen
+MX,Mexico,México,23883,El Pozo de los Murillo,Baja California Sur,03,Loreto,009,,,26.0006,-111.4478,3,el-pozo-de-los-murillo
+MX,Mexico,México,23883,Lomas Altas,Baja California Sur,03,Loreto,009,,,26.0606,-111.3716,4,lomas-altas
+MX,Mexico,México,23883,Las Parras,Baja California Sur,03,Loreto,009,,,25.9669,-111.4912,4,las-parras
+MX,Mexico,México,23883,Chula Vista,Baja California Sur,03,Loreto,009,,,25.9035,-111.5518,4,chula-vista
+MX,Mexico,México,23883,Lomas Lindas,Baja California Sur,03,Loreto,009,,,26.0712,-111.3764,4,lomas-lindas
+MX,Mexico,México,23883,El Bebelamar,Baja California Sur,03,Loreto,009,,,26.0006,-111.4478,3,el-bebelamar
+MX,Mexico,México,23884,Hacienda Guadalupe,Baja California Sur,03,Loreto,009,,,26.1777,-111.4498,3,hacienda-guadalupe
+MX,Mexico,México,23884,Buenavista,Baja California Sur,03,Loreto,009,,,26.2014,-111.4008,4,buenavista
+MX,Mexico,México,23884,Monte Cabello,Baja California Sur,03,Loreto,009,,,26.1855,-111.5062,4,monte-cabello
+MX,Mexico,México,23884,San Bruno,Baja California Sur,03,Loreto,009,,,26.2213,-111.4133,4,san-bruno
+MX,Mexico,México,23884,La Morena,Baja California Sur,03,Loreto,009,,,26.1629,-111.4392,4,la-morena
+MX,Mexico,México,23884,El Cardonal,Baja California Sur,03,Loreto,009,,,26.1773,-111.4661,4,el-cardonal
+MX,Mexico,México,23884,Pozo Redondo,Baja California Sur,03,Loreto,009,,,26.1552,-111.4924,4,pozo-redondo
+MX,Mexico,México,23884,Kilómetro 21,Baja California Sur,03,Loreto,009,,,26.1777,-111.4498,3,kilometro-21
+MX,Mexico,México,23884,El Troquero,Baja California Sur,03,Loreto,009,,,26.1731,-111.4393,4,el-troquero
+MX,Mexico,México,23884,Los Bebelamas,Baja California Sur,03,Loreto,009,,,26.1777,-111.4498,3,los-bebelamas
+MX,Mexico,México,23884,Arroyo de Leon,Baja California Sur,03,Loreto,009,,,26.1453,-111.441,4,arroyo-de-leon
+MX,Mexico,México,23885,San Vicente,Baja California Sur,03,Loreto,009,,,26.162,-111.5606,4,san-vicente
+MX,Mexico,México,23886,Naocojoa,Baja California Sur,03,Loreto,009,,,26.2628,-111.5988,4,naocojoa
+MX,Mexico,México,23887,Canipole,Baja California Sur,03,Loreto,009,,,26.4121,-111.6695,4,canipole
+MX,Mexico,México,23887,El Manglito,Baja California Sur,03,Loreto,009,,,25.8662,-111.4896,4,el-manglito
+MX,Mexico,México,23887,Los Chamacos,Baja California Sur,03,Loreto,009,,,26.3847,-111.5421,4,los-chamacos
+MX,Mexico,México,23887,San Nicolás,Baja California Sur,03,Loreto,009,,,26.5445,-111.5512,4,san-nicolas
+MX,Mexico,México,23887,Nopolo,Baja California Sur,03,Loreto,009,,,25.9358,-111.3608,4,nopolo
+MX,Mexico,México,23887,El Rosarito,Baja California Sur,03,Loreto,009,,,25.9535,-111.4484,3,el-rosarito
+MX,Mexico,México,23888,Los Búfalos,Baja California Sur,03,Loreto,009,,,26.2941,-111.5269,4,los-bufalos
+MX,Mexico,México,23888,La Giganta,Baja California Sur,03,Loreto,009,,,26.2979,-111.5378,4,la-giganta
+MX,Mexico,México,23888,Lote 11,Baja California Sur,03,Loreto,009,,,26.2602,-111.5591,4,lote-11
+MX,Mexico,México,23888,El Descanso,Baja California Sur,03,Loreto,009,,,26.2106,-111.4678,4,el-descanso
+MX,Mexico,México,23888,Lote 67,Baja California Sur,03,Loreto,009,,,26.2523,-111.5317,3,lote-67
+MX,Mexico,México,23888,Pénjamo,Baja California Sur,03,Loreto,009,,,26.228,-111.4697,4,penjamo
+MX,Mexico,México,23888,San Pedro,Baja California Sur,03,Loreto,009,,,26.1984,-111.5753,4,san-pedro
+MX,Mexico,México,23888,Lote 3a,Baja California Sur,03,Loreto,009,,,26.2523,-111.5317,3,lote-3a
+MX,Mexico,México,23888,Rancho el 47,Baja California Sur,03,Loreto,009,,,26.2523,-111.5317,3,rancho-el-47
+MX,Mexico,México,23888,El Cimarrón,Baja California Sur,03,Loreto,009,,,26.2523,-111.5317,3,el-cimarron
+MX,Mexico,México,23888,San Juan Bautista Londo,Baja California Sur,03,Loreto,009,,,26.2523,-111.5317,3,san-juan-bautista-londo
+MX,Mexico,México,23888,Santa Rosa,Baja California Sur,03,Loreto,009,,,26.2997,-111.5577,4,santa-rosa
+MX,Mexico,México,23888,El Imposible,Baja California Sur,03,Loreto,009,,,26.2299,-111.5591,4,el-imposible
+MX,Mexico,México,23888,Lote 10,Baja California Sur,03,Loreto,009,,,25.9535,-111.4484,3,lote-10
+MX,Mexico,México,23888,Lote 2a,Baja California Sur,03,Loreto,009,,,26.2523,-111.5317,3,lote-2a
+MX,Mexico,México,23889,Loreto (Loreto),Baja California Sur,03,Loreto,009,,,26.1716,-111.4988,1,loreto-loreto
+MX,Mexico,México,23890,El Picacho,Baja California Sur,03,Loreto,009,,,25.9994,-111.5854,4,el-picacho
+MX,Mexico,México,23890,San Guillermo,Baja California Sur,03,Loreto,009,,,25.9373,-111.5962,4,san-guillermo
+MX,Mexico,México,23890,Rancho Viejo,Baja California Sur,03,Loreto,009,,,25.5595,-111.2707,4,rancho-viejo
+MX,Mexico,México,23890,El Palo Chino,Baja California Sur,03,Loreto,009,,,25.952,-111.6585,4,el-palo-chino
+MX,Mexico,México,23890,Chula Vista,Baja California Sur,03,Loreto,009,,,25.9035,-111.5518,4,chula-vista
+MX,Mexico,México,23890,El Horno,Baja California Sur,03,Loreto,009,,,25.8995,-111.5544,4,el-horno
+MX,Mexico,México,23890,La Calera,Baja California Sur,03,Loreto,009,,,25.903,-111.5435,4,la-calera
+MX,Mexico,México,23890,Santa Isabel,Baja California Sur,03,Loreto,009,,,25.9314,-111.6126,4,santa-isabel
+MX,Mexico,México,23890,El Sauzalito,Baja California Sur,03,Loreto,009,,,25.9414,-111.5344,4,el-sauzalito
+MX,Mexico,México,23893,El Púa,Baja California Sur,03,Loreto,009,,,25.8372,-111.4972,4,el-pua
+MX,Mexico,México,23893,El Belén,Baja California Sur,03,Loreto,009,,,25.8383,-111.4636,4,el-belen
+MX,Mexico,México,23893,Santa Rosa,Baja California Sur,03,Loreto,009,,,25.838,-111.4768,4,santa-rosa
+MX,Mexico,México,23893,Agua Bonita,Baja California Sur,03,Loreto,009,,,25.8476,-111.4605,4,agua-bonita
+MX,Mexico,México,23893,Los Dolores,Baja California Sur,03,Loreto,009,,,25.8339,-111.5256,4,los-dolores
+MX,Mexico,México,23893,El Segundo Paso,Baja California Sur,03,Loreto,009,,,25.8449,-111.5538,4,el-segundo-paso
+MX,Mexico,México,23893,El Aguaje,Baja California Sur,03,Loreto,009,,,25.7922,-111.4623,4,el-aguaje
+MX,Mexico,México,23893,San Angel,Baja California Sur,03,Loreto,009,,,25.7702,-111.4309,4,san-angel
+MX,Mexico,México,23893,Rancho Nuevo,Baja California Sur,03,Loreto,009,,,25.793,-111.5507,4,rancho-nuevo
+MX,Mexico,México,23893,Los Corrales,Baja California Sur,03,Loreto,009,,,25.5803,-111.4601,4,los-corrales
+MX,Mexico,México,23893,San Javier,Baja California Sur,03,Loreto,009,,,25.8615,-111.5437,4,san-javier
+MX,Mexico,México,23893,Agua Escondida,Baja California Sur,03,Loreto,009,,,25.7786,-111.5479,4,agua-escondida
+MX,Mexico,México,23893,El Peloteado,Baja California Sur,03,Loreto,009,,,25.7579,-111.4848,4,el-peloteado
+MX,Mexico,México,23893,La Higuera,Baja California Sur,03,Loreto,009,,,25.7585,-111.4391,4,la-higuera
+MX,Mexico,México,23893,La Fortuna,Baja California Sur,03,Loreto,009,,,25.8249,-111.5425,4,la-fortuna
+MX,Mexico,México,23893,Poza Gonzalez,Baja California Sur,03,Loreto,009,,,25.7544,-111.5439,4,poza-gonzalez
+MX,Mexico,México,23893,La Presa,Baja California Sur,03,Loreto,009,,,25.8012,-111.5505,4,la-presa
+MX,Mexico,México,23893,El Pasito,Baja California Sur,03,Loreto,009,,,25.8307,-111.5191,4,el-pasito
+MX,Mexico,México,23894,Juncalito,Baja California Sur,03,Loreto,009,,,25.8348,-111.3352,4,juncalito
+MX,Mexico,México,23894,Incha,Baja California Sur,03,Loreto,009,,,25.9054,-111.4603,4,incha
+MX,Mexico,México,23894,Restaurant Vista Al Mar,Baja California Sur,03,Loreto,009,,,25.8681,-111.3838,3,restaurant-vista-al-mar
+MX,Mexico,México,23894,El Saucito,Baja California Sur,03,Loreto,009,,,25.9194,-111.4273,4,el-saucito
+MX,Mexico,México,23894,Puerto Escondido,Baja California Sur,03,Loreto,009,,,25.813,-111.3125,4,puerto-escondido
+MX,Mexico,México,23895,El Palmarcito,Baja California Sur,03,Loreto,009,,,25.7287,-111.418,4,el-palmarcito
+MX,Mexico,México,23895,Ensenada Blanca,Baja California Sur,03,Loreto,009,,,25.727,-111.2498,4,ensenada-blanca
+MX,Mexico,México,23895,El Edén,Baja California Sur,03,Loreto,009,,,25.9535,-111.4484,3,el-eden
+MX,Mexico,México,23895,Vuelta del Cerro,Baja California Sur,03,Loreto,009,,,25.6894,-111.4937,4,vuelta-del-cerro
+MX,Mexico,México,23895,Santa Inés,Baja California Sur,03,Loreto,009,,,25.7339,-111.4118,4,santa-ines
+MX,Mexico,México,23895,Poza Teresa,Baja California Sur,03,Loreto,009,,,25.7025,-111.5334,4,poza-teresa
+MX,Mexico,México,23895,La Angostura,Baja California Sur,03,Loreto,009,,,25.6966,-111.4646,4,la-angostura
+MX,Mexico,México,23895,San Lucas,Baja California Sur,03,Loreto,009,,,25.6141,-111.5455,4,san-lucas
+MX,Mexico,México,23895,El Palo Blanco,Baja California Sur,03,Loreto,009,,,25.6542,-111.6036,4,el-palo-blanco
+MX,Mexico,México,23895,La Altagracia,Baja California Sur,03,Loreto,009,,,25.6749,-111.3969,4,la-altagracia
+MX,Mexico,México,23895,Los Algodones,Baja California Sur,03,Loreto,009,,,25.6833,-111.5167,4,los-algodones
+MX,Mexico,México,23895,El Mezquite,Baja California Sur,03,Loreto,009,,,25.6413,-111.5132,4,el-mezquite
+MX,Mexico,México,23895,Ligui,Baja California Sur,03,Loreto,009,,,25.7347,-111.2702,4,ligui
+MX,Mexico,México,23896,Santa Cruz,Baja California Sur,03,Loreto,009,,,25.5806,-111.3667,3,santa-cruz
+MX,Mexico,México,23896,La Puerta,Baja California Sur,03,Loreto,009,,,25.5364,-111.3218,4,la-puerta
+MX,Mexico,México,23896,Ultima Agua,Baja California Sur,03,Loreto,009,,,25.5629,-111.2535,4,ultima-agua
+MX,Mexico,México,23896,Agua Amarga,Baja California Sur,03,Loreto,009,,,25.5782,-111.37,4,agua-amarga
+MX,Mexico,México,23896,El Gacho,Baja California Sur,03,Loreto,009,,,25.6522,-111.4029,4,el-gacho
+MX,Mexico,México,23896,Puerta de La Engañosa,Baja California Sur,03,Loreto,009,,,25.5808,-111.5119,4,puerta-de-la-enganosa
+MX,Mexico,México,23896,San Cosme,Baja California Sur,03,Loreto,009,,,25.5775,-111.169,4,san-cosme
+MX,Mexico,México,23896,El Huatamote,Baja California Sur,03,Loreto,009,,,25.5972,-111.3392,4,el-huatamote
+MX,Mexico,México,23896,El Carrizalito,Baja California Sur,03,Loreto,009,,,25.6095,-111.3881,4,el-carrizalito
+MX,Mexico,México,23896,Poza Seca,Baja California Sur,03,Loreto,009,,,25.5641,-111.3994,4,poza-seca
+MX,Mexico,México,23896,El Divisadero,Baja California Sur,03,Loreto,009,,,25.6036,-111.4204,4,el-divisadero
+MX,Mexico,México,23896,Paso de Santa Cruz,Baja California Sur,03,Loreto,009,,,25.5364,-111.3218,4,paso-de-santa-cruz
+MX,Mexico,México,23896,Poza Verde,Baja California Sur,03,Loreto,009,,,25.6263,-111.3556,4,poza-verde
+MX,Mexico,México,23896,La Engañosa,Baja California Sur,03,Loreto,009,,,25.5778,-111.4781,4,la-enganosa
+MX,Mexico,México,23896,Los Corrales,Baja California Sur,03,Loreto,009,,,25.5803,-111.4601,4,los-corrales
+MX,Mexico,México,23896,Rancho Viejo,Baja California Sur,03,Loreto,009,,,25.5595,-111.2707,4,rancho-viejo
+MX,Mexico,México,23896,Los Sestiaderos,Baja California Sur,03,Loreto,009,,,25.5386,-111.3545,4,los-sestiaderos
+MX,Mexico,México,23896,El Caracol,Baja California Sur,03,Loreto,009,,,25.6175,-111.3441,4,el-caracol
+MX,Mexico,México,23896,San Enrique,Baja California Sur,03,Loreto,009,,,25.5562,-111.4126,4,san-enrique
+MX,Mexico,México,23896,La Cruz,Baja California Sur,03,Loreto,009,,,25.5757,-111.3939,4,la-cruz
+MX,Mexico,México,23897,Puerto Agua Verde,Baja California Sur,03,Loreto,009,,,25.512,-111.071,4,puerto-agua-verde
+MX,Mexico,México,23897,El Tulillo,Baja California Sur,03,Loreto,009,,,25.5057,-111.3451,4,el-tulillo
+MX,Mexico,México,23897,Agua Verde,Baja California Sur,03,Loreto,009,,,25.5188,-111.0814,4,agua-verde
+MX,Mexico,México,23897,San Antonio de La Higuera,Baja California Sur,03,Loreto,009,,,25.4689,-111.2842,4,san-antonio-de-la-higuera
+MX,Mexico,México,23898,Santa Martha,Baja California Sur,03,Loreto,009,,,25.4514,-111.0294,4,santa-martha
+MX,Mexico,México,23898,Timbabichi,Baja California Sur,03,Loreto,009,,,25.258,-110.9559,4,timbabichi
+MX,Mexico,México,23898,El Carrizalito,Baja California Sur,03,Loreto,009,,,25.6095,-111.3881,4,el-carrizalito
+MX,Mexico,México,23898,San Carlos,Baja California Sur,03,Loreto,009,,,25.3307,-110.9681,4,san-carlos
+MX,Mexico,México,23899,Santo Domingo,Baja California Sur,03,Loreto,009,,,25.7411,-111.5329,4,santo-domingo
