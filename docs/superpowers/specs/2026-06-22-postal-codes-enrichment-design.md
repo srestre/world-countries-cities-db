@@ -14,7 +14,13 @@ códigos postales para ofrecer búsqueda indexable de "código postal de X".
 
 Objetivo de este diseño (Parte A): añadir una **capa nueva de códigos postales
 mundiales** al repo, como contribución pública abierta, sin tocar los datos
-existentes. La construcción del sitio (Parte B) es un spec separado posterior.
+existentes.
+
+Roadmap acordado (todo de una vez, en fases secuenciales, cada una con su spec):
+- Fase 1 (este spec): capa de datos `/postal-codes` + CA_full/NL_full.
+- Fase 2: el sitio `codigospostales.co` (repo hermano, consume los datos ya
+  publicados en jsDelivr). Spec separado.
+- Diferido (no descartado): espejo regions/subregions y cruce con ciudades.
 
 Fuente: **GeoNames postal codes** (https://download.geonames.org/export/zip/),
 licencia Creative Commons Attribution 4.0 (CC BY 4.0). Cobertura verificada:
@@ -23,7 +29,9 @@ registros con departamento + municipio + código DANE + coordenadas.
 
 ## 2. Decisiones tomadas (cerradas)
 
-1. **Alcance**: mundial, los 121 países con datos en GeoNames.
+1. **Alcance**: mundial, los 121 países con datos en GeoNames. Canadá y Países
+   Bajos usan los archivos *_full (códigos completos); GB queda con primera
+   parte (GB_full excluido por copyright de Royal Mail).
 2. **Formatos**: por país JSON + CSV (ambos, sin recortes). Los 5 bundles
    regionales en los 4 formatos (JSON/CSV/SQL/YAML).
 3. **Esquema**: fiel a GeoNames + contexto (country_code, country_name,
@@ -31,7 +39,8 @@ registros con departamento + municipio + código DANE + coordenadas.
    nombres oficiales).
 4. **Bundles**: los 5 regionales ya definidos en build.js (latam,
    north-america, central-america, south-america, caribbean).
-5. **Tamaño aceptado**: el repo crecerá de ~173 MB a ~0.7 GB. Aceptado.
+5. **Tamaño aceptado**: el repo crecerá de ~173 MB a ~1.0-1.2 GB (incluye
+   CA_full/NL_full). Aceptado.
 6. **Sin Git LFS** (jsDelivr no sirve archivos LFS).
 7. **Sin dependencias npm nuevas** (se mantiene la política de cero deps).
 
@@ -77,7 +86,8 @@ No se modifica `/countries`, `/regions`, `/subregions`, `/bundles`,
 
 ### 3.3. Pipeline `scripts/build-postal.js` (cero deps)
 
-1. Descargar `allCountries.zip` de GeoNames (HTTPS hardcoded, ~18.7 MB).
+1. Descargar `allCountries.zip` de GeoNames (HTTPS hardcoded, ~18.7 MB) y,
+   además, `CA_full.csv.zip` y `NL_full.csv.zip` (ver 3.5 para el merge).
 2. Descomprimir en memoria con `scripts/lib/unzip.js`: lector ZIP propio basado
    en el End Of Central Directory + central directory + `zlib.inflateRaw`,
    soporta métodos 0 (stored) y 8 (deflate). Mantiene cero deps npm.
@@ -112,13 +122,18 @@ build.js produce salida idéntica antes/después (diff de un país de muestra).
 
 ### 3.5. Manejo de la fuente y caveats de cobertura
 
-- Se usa `allCountries.zip` (un solo request). Implica que CA, NL y GB quedan
-  con solo la primera parte del código (lo dice el readme oficial). Los
-  archivos *_full (CA_full, NL_full) quedan FUERA de v1. GB_full se excluye a
-  propósito (contiene datos de Royal Mail con copyright).
+- Base: `allCountries.zip` (un solo request) para los 121 países.
+- Canadá y Países Bajos: además se descargan `CA_full.csv.zip` (~6.1 MB zip,
+  ~850k registros) y `NL_full.csv.zip` (~3.4 MB zip, ~450k registros). Mismo
+  formato tab de 12 columnas pese a la extensión .csv. Para CA y NL los
+  registros *_full SUPERSEDEN a los básicos de allCountries (se descartan las
+  filas básicas de CA/NL). Por su tamaño, CA y NL se generan SIEMPRE con split
+  por admin1 (provincia) para mantener archivos < 15 MB.
+- GB_full se excluye a propósito (datos de Royal Mail con copyright); GB queda
+  solo con la primera parte de allCountries.
 - Caveats documentados en README: AR solo 5 primeras posiciones, BR solo
   códigos mayores (terminados en -000 y el código mayor por municipio),
-  CL/CN/IE/MT parciales por copyright.
+  CL/CN/IE/MT parciales por copyright, GB solo primera parte.
 - Cobertura ~121 países; el resto no tiene sistema postal o no lo publica con
   licencia compatible. Eso es esperado, no un error.
 
@@ -145,10 +160,12 @@ Sin frameworks (convención del repo). Comprueba:
 
 ## 4. Implicaciones de tamaño
 
-- Estimación: ~1.5M registros mundiales. JSON por país ~375 MB + CSV ~130 MB +
-  bundles. Repo total estimado ~0.7 GB (desde 173 MB).
+- Estimación: ~2.8M registros (allCountries ~1.5M + CA_full ~850k + NL_full
+  ~450k). JSON + CSV por país + bundles. Repo total estimado ~1.0-1.2 GB (desde
+  173 MB). Cruza la recomendación de GitHub de <1 GB pero queda muy por debajo
+  del umbral de 5 GB.
 - Límites respetados: archivos <15 MB (GitHub bloquea >100 MB; jsDelivr ~20 MB).
-  Repo ~0.7 GB (GitHub recomienda <1 GB, email amistoso >5 GB).
+  Repo ~1.0-1.2 GB (GitHub recomienda <1 GB, email amistoso >5 GB).
 - Riesgo principal: crecimiento del historial `.git` por regeneraciones
   sucesivas. Mitigación: regenerar solo ante updates reales de GeoNames; si
   hiciera falta, aplanar historial más adelante (filter-repo / squash).
@@ -156,11 +173,12 @@ Sin frameworks (convención del repo). Comprueba:
 
 ## 5. Fuera de alcance (v1)
 
-- Parte B: el sitio `codigospostales.co` (spec separado).
-- Espejo de `/regions` y `/subregions` para códigos postales (solo bundles v1).
-- Archivos *_full de CA/NL; GB_full (Royal Mail, excluido).
-- Cruce/mapeo de cada código postal con la ciudad dr5hn existente (el usuario
-  eligió esquema fiel, no cruzado).
+- Parte B: el sitio `codigospostales.co` (spec separado, Fase 2).
+- Espejo de `/regions` y `/subregions` para códigos postales (diferido: las
+  agregaciones por región/subregión rompen el límite de archivo de jsDelivr).
+- Cruce/mapeo de cada código postal con la ciudad dr5hn existente (diferido: sin
+  llave fiable; requeriría un índice aparte con score de confianza).
+- GB_full (datos de Royal Mail con copyright).
 - Traducción de nombres de lugar/departamento.
 
 ## 6. Plan de verificación
@@ -179,7 +197,8 @@ Sin frameworks (convención del repo). Comprueba:
 1. Refactor: extraer `scripts/lib/format.js`; adaptar build.js; verificar salida
    idéntica.
 2. `scripts/lib/unzip.js` (lector ZIP cero-deps) + test mínimo con CO.zip.
-3. `scripts/build-postal.js` (descarga, parse, por país, split, bundles, index).
+3. `scripts/build-postal.js` (descarga allCountries + CA_full/NL_full, merge
+   donde el *_full supersede al básico, parse, por país, split, bundles, index).
 4. `scripts/validate-postal.js`.
 5. `LICENSE-DATA-POSTAL` + sección de README + package.json scripts
    (build:postal, validate:postal).
