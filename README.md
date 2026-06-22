@@ -220,7 +220,8 @@ Edit the `BUNDLES` object in `scripts/build.js` to add or change groups.
 
 ## Postal codes (GeoNames, CC BY 4.0)
 
-Worldwide postal codes live under `/postal-codes`, one file per country:
+Worldwide postal codes live under `/postal-codes`, one file per country. **121 countries,
+3,190,093 postal codes** (~1.3 GB across ~708 files; every file stays under 15 MB).
 
 - `postal-codes/<ISO2>.json` and `postal-codes/<ISO2>.csv` - all postal codes for one country.
 - `postal-codes/<ISO2>/<admin1-slug>.{json,csv}` - for large countries (over 15MB, and always CA / NL) the data is split by first-level admin region.
@@ -231,7 +232,10 @@ Each record: `country_code`, `country_name`, `country_name_es`, `postal_code`, `
 
 Example (jsDelivr): `https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/postal-codes/CO.json`
 
-Source: GeoNames (https://www.geonames.org/), CC BY 4.0. Coverage is about 121 countries; some are partial (AR, BR, CL, CN, IE, MT, GB). See [`LICENSE-DATA-POSTAL`](LICENSE-DATA-POSTAL) for attribution and the full coverage notes.
+Source: GeoNames (https://www.geonames.org/), CC BY 4.0. Coverage is limited to the countries
+GeoNames publishes; some are partial (AR, BR, CL, CN, IE, MT, GB) and CA / NL use the fuller
+`*_full` dumps. The data is served as-is. See [`LICENSE-DATA-POSTAL`](LICENSE-DATA-POSTAL) for
+attribution and the full coverage notes.
 
 ## Note on source noise
 
