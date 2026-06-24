@@ -82,6 +82,13 @@ async function main() {
     ingest(firstTxt(unzip(await download(FULL[iso2]))).toString('utf8'), new Set([iso2]), add);
   }
 
+  // Override CO coordinates with real 4-72 zone centroids (CC BY-SA 4.0).
+  if (byCountry.has('CO')) {
+    const { applyCO } = require('./lib/postal-overrides.js');
+    const { applied } = applyCO(byCountry.get('CO'), ROOT);
+    console.log('Applied 4-72 zone centroids to CO:', applied);
+  }
+
   const entries = new Map();
   for (const [iso2, records] of byCountry) {
     const nm = names[iso2] || {};

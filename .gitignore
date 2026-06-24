@@ -5,3 +5,10 @@ node_modules/
 .env
 .env.*
 !.env.example
+
+# Playwright MCP review snapshots (scratch)
+.playwright-mcp/
+
+# Fuente cruda 4-72 (68MB): se procesa, no se commitea
+Shapefile_Codigo_Postal.zip
+Codigo_Postal/

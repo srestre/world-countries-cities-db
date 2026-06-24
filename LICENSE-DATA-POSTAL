@@ -6,6 +6,21 @@ https://creativecommons.org/licenses/by/4.0/
 Attribution: "Postal code data (c) GeoNames, CC BY 4.0,
 https://www.geonames.org/".
 
+Colombia (CO) - coordinates:
+The latitude/longitude of every Colombian postal code is overridden with the
+real per-zone centroid derived from the official postal shapefile of Servicios
+Postales Nacionales 4-72 ("Codigos Postales Nacionales"), published on Colombia's
+open data portal:
+https://www.datos.gov.co/Ordenamiento-Territorial/C-digos-Postales-Nacionales/ixig-z8b5
+That source is licensed CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/). Because of ShareAlike, the
+Colombian postal coordinates in this repository (postal-codes/CO.* and
+data/co-postal-zones-4-72.json) are likewise distributed under CC BY-SA 4.0.
+
+Attribution: "Codigos postales de Colombia (c) Servicios Postales Nacionales
+4-72, CC BY-SA 4.0, https://www.datos.gov.co/". Centroids derived with
+scripts/derive-postal-zones-4-72.py (shapely representative_point).
+
 Coverage notes (from the GeoNames readme):
 - Roughly 121 countries are covered; countries without a postal system or
   without compatibly licensed data are absent.
