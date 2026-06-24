@@ -237,6 +237,25 @@ GeoNames publishes; some are partial (AR, BR, CL, CN, IE, MT, GB) and CA / NL us
 `*_full` dumps. The data is served as-is. See [`LICENSE-DATA-POSTAL`](LICENSE-DATA-POSTAL) for
 attribution and the full coverage notes.
 
+**Colombia coordinates:** every Colombian postal code's `latitude`/`longitude` is the real
+per-zone centroid from the official 4-72 postal shapefile (not the GeoNames municipality
+centroid), so the codes of a city no longer share one point. This adds a CC BY-SA 4.0
+obligation - see the license section and [`LICENSE-DATA-POSTAL`](LICENSE-DATA-POSTAL).
+
+## Postal zones (Colombia, 4-72, CC BY-SA 4.0)
+
+The boundary polygon of each Colombian postal code lives under `/postal-zones/co`, one
+simplified GeoJSON per code, nested by department:
+
+- `postal-zones/co/<DD>/<code>.geojson` - a `FeatureCollection` with the single zone polygon
+  (`properties.code`), simplified for the web (most urban zones are a few KB).
+
+Example (jsDelivr): `https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/postal-zones/co/05/050022.geojson`
+
+Source: Servicios Postales Nacionales 4-72, CC BY-SA 4.0. Regenerate with
+`scripts/build-postal-zones-co.py`; the per-zone centroids in `/postal-codes/CO.*` come from
+`scripts/derive-postal-zones-4-72.py`.
+
 ## Note on source noise
 
 The data can carry some noise (misclassified names, entries that are neighborhoods, or
@@ -358,6 +377,7 @@ from two sources under the **Open Database License (ODbL) v1.0**; the postal cod
 - **[Yerikmiller/Countries-States-Cities-JSON](https://github.com/Yerikmiller/Countries-States-Cities-JSON)**
   (a dr5hn derivative): the richer LATAM city lists under `/latam`. ODbL.
 - **[GeoNames](https://www.geonames.org/)**: the worldwide postal codes under `/postal-codes`. CC BY 4.0.
+- **[Servicios Postales Nacionales 4-72](https://www.datos.gov.co/Ordenamiento-Territorial/C-digos-Postales-Nacionales/ixig-z8b5)**: the official Colombian postal-zone polygons (`/postal-zones/co`) and the per-zone centroids used for Colombian coordinates in `/postal-codes`. CC BY-SA 4.0.
 
 For the 20 LATAM countries you therefore have two interchangeable options in this same repo:
 
@@ -382,6 +402,10 @@ This project is **triple-licensed** by area:
 - **Postal data** (`/postal-codes`): **Creative Commons Attribution 4.0 (CC BY 4.0)**, see
   [`LICENSE-DATA-POSTAL`](LICENSE-DATA-POSTAL); attribution to GeoNames (link to
   www.geonames.org) is required.
+- **Colombian postal coordinates and zones** (`/postal-zones/co`, and the `latitude`/
+  `longitude` in `/postal-codes/CO.*`): **CC BY-SA 4.0**, derived from the 4-72 shapefile.
+  Attribution to Servicios Postales Nacionales 4-72 is required and any adapted data must
+  stay under CC BY-SA 4.0.
 - **Code** (`/scripts`): **MIT License**, Copyright (c) 2026 srestre, see
   [`LICENSE-CODE`](LICENSE-CODE).
 

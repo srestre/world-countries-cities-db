@@ -14,8 +14,9 @@ open data portal:
 https://www.datos.gov.co/Ordenamiento-Territorial/C-digos-Postales-Nacionales/ixig-z8b5
 That source is licensed CC BY-SA 4.0
 (https://creativecommons.org/licenses/by-sa/4.0/). Because of ShareAlike, the
-Colombian postal coordinates in this repository (postal-codes/CO.* and
-data/co-postal-zones-4-72.json) are likewise distributed under CC BY-SA 4.0.
+Colombian postal coordinates and zone polygons in this repository
+(postal-codes/CO.*, data/co-postal-zones-4-72.json, and postal-zones/co/) are
+likewise distributed under CC BY-SA 4.0.
 
 Attribution: "Codigos postales de Colombia (c) Servicios Postales Nacionales
 4-72, CC BY-SA 4.0, https://www.datos.gov.co/". Centroids derived with
