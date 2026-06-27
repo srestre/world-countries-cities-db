@@ -22,6 +22,15 @@ Attribution: "Codigos postales de Colombia (c) Servicios Postales Nacionales
 4-72, CC BY-SA 4.0, https://www.datos.gov.co/". Centroids derived with
 scripts/derive-postal-zones-4-72.py (shapely representative_point).
 
+Airports (/airports):
+Airport data in /airports is sourced from OurAirports
+(https://ourairports.com/) and is in the PUBLIC DOMAIN. No attribution is
+legally required, but we credit the source as a courtesy.
+
+Attribution: "Airport data: OurAirports (https://ourairports.com/), public
+domain.". Derived with scripts/derive-airports.py (filters the OurAirports
+airports.csv to large/medium airports and any airport with an IATA code).
+
 Coverage notes (from the GeoNames readme):
 - Roughly 121 countries are covered; countries without a postal system or
   without compatibly licensed data are absent.

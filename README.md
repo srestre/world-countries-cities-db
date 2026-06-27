@@ -256,6 +256,21 @@ Source: Servicios Postales Nacionales 4-72, CC BY-SA 4.0. Regenerate with
 `scripts/build-postal-zones-co.py`; the per-zone centroids in `/postal-codes/CO.*` come from
 `scripts/derive-postal-zones-4-72.py`.
 
+## Airports (OurAirports, public domain)
+
+Worldwide airports live under `/airports`, filtered from the OurAirports public
+dataset to large and medium airports plus any airport with an IATA code.
+
+- `airports/airports.json` and `airports/airports.csv` - one record per airport:
+  `ident`, `type`, `name`, `iata`, `icao`, `iso_country` (ISO2), `municipality`,
+  `lat`, `lng` (coordinates rounded to 5 decimals).
+
+Example (jsDelivr): `https://cdn.jsdelivr.net/gh/srestre/world-countries-cities-db@main/airports/airports.json`
+
+Source: OurAirports (https://ourairports.com/), public domain. Regenerate with
+`scripts/derive-airports.py` (downloads the OurAirports `airports.csv` and filters
+it). No attribution is legally required; we credit OurAirports as a courtesy.
+
 ## Note on source noise
 
 The data can carry some noise (misclassified names, entries that are neighborhoods, or
@@ -418,6 +433,7 @@ Huge thanks to the authors whose open data makes this project possible:
 - **Yerikmiller** for [Countries-States-Cities-JSON](https://github.com/Yerikmiller/Countries-States-Cities-JSON),
   the richer LATAM city lists used in `/latam`.
 - **GeoNames** for the worldwide [postal code data](https://www.geonames.org/) under `/postal-codes`.
+- **OurAirports** for the worldwide [airport data](https://ourairports.com/) under `/airports` (public domain).
 
 The dr5hn and Yerikmiller datasets are released under the Open Database License (ODbL) v1.0;
 the GeoNames postal data under CC BY 4.0. Thank you for keeping this data open and well
